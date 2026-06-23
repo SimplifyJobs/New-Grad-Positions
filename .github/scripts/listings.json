@@ -29548,42 +29548,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Owens & Minor",
-        "id": "5b97e6e6-4cc6-4648-af4b-140aa3bd8c2c",
-        "title": "Material Handler I",
-        "active": true,
-        "date_updated": 1761516852,
-        "date_posted": 1761516852,
-        "url": "https://owensminor.wd1.myworkdayjobs.com/OMCareers/job/93-Warrendale/Material-Handler-I_REQ_24_19332",
-        "locations": [
-            "Cranberry Twp, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Owens-Minor",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rocket Lab USA",
-        "id": "c5a48306-5e85-4b09-897e-422f4e17c110",
-        "title": "Systems Engineer 1/2 - Secret Clearance",
-        "active": false,
-        "date_updated": 1762821073,
-        "date_posted": 1761516377,
-        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7504748003",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Peraton",
         "id": "bf2e86be-e15e-49fa-a938-3d7542ecdb48",
@@ -69467,24 +69431,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Caesars Entertainment",
-        "id": "0e4eacf8-57ca-465f-8ba9-efd48fa8e14b",
-        "title": "Analyst 1 - Rotational Program",
-        "active": false,
-        "date_updated": 1765042561,
-        "date_posted": 1761516992,
-        "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72821",
-        "locations": [
-            "Las Vegas, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Caesars-Entertainment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "GE Healthcare",
         "id": "c45614b9-e67f-42ce-9adc-f9cef0c97f1e",
@@ -83870,26 +83816,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "American Express",
-        "id": "16dc3108-505f-4294-90cc-fb767a55226f",
-        "title": "Senior Program Analyst - Data Management Program",
-        "active": false,
-        "date_updated": 1762927882,
-        "date_posted": 1761517097,
-        "url": "https://aexp.eightfold.ai/careers/job/38568463",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -355556,6 +355482,47 @@
             "Elk Grove Village, IL"
         ],
         "company_url": "https://simplify.jobs/c/AAR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Louisiana State University (LSU)",
+        "id": "807c6824-c7d0-4b9d-bda1-bafe7c681f34",
+        "title": "Wages as Earned Research",
+        "active": true,
+        "date_updated": 1782252536,
+        "date_posted": 1782252192,
+        "url": "https://lsu.wd1.myworkdayjobs.com/lsuwaiver/job/3255-Patrick-F-Taylor-Hall/WAE---Research_R00116663",
+        "locations": [
+            "Baton Rouge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Louisiana-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Texas A&M University System",
+        "id": "5067c41a-3381-4492-9b27-bd43002abb8d",
+        "title": "Software Applications Developer 1",
+        "active": true,
+        "date_updated": 1782252653,
+        "date_posted": 1782252274,
+        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Software-Applications-Developer-I_R-094387",
+        "locations": [
+            "College Station, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
