@@ -156969,7 +156969,7 @@
         "company_name": "Texas Capital Bank",
         "id": "3e42a034-d11d-4f24-b875-be5ec71de287",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1770776263,
         "date_posted": 1770776263,
         "url": "https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Richardson-TX/Associate-Software-Engineer_JR104964-1",
@@ -356236,5 +356236,67 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Chicago Trading Company",
+        "id": "a4ca5808-6ecd-4ee1-a130-9baff8095d48",
+        "title": "Quant Trading Associate - Opportunistic",
+        "active": true,
+        "date_updated": 1782167041,
+        "date_posted": 1782166456,
+        "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4699663005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Merck",
+        "id": "5fb9ef3d-9221-4ac1-8d52-a54859ec8b9c",
+        "title": "Data Analytics Specialist - Data Analytics - Global End User Services",
+        "active": true,
+        "date_updated": 1782166399,
+        "date_posted": 1782165840,
+        "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Specialist--Data-Analytics---Global-End-User-Services_R403677-1",
+        "locations": [
+            "Linden, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Merck",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pearl Health",
+        "id": "3908e4ca-4df1-40ee-82a3-b66ea288cbdc",
+        "title": "Data Analyst - ACO Operations",
+        "active": true,
+        "date_updated": 1782166333,
+        "date_posted": 1782166246,
+        "url": "https://jobs.ashbyhq.com/pearlhealth/77c51f6c-ba07-4566-a247-f4f06ae16d6f/application",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "NYC",
+            "La Ronge, SK, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Pearl-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
