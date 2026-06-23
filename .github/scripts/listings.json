@@ -29476,24 +29476,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GCI",
-        "id": "b246cbc9-86f8-4864-ad79-7a464e4c017c",
-        "title": "Data Analytics Engineer 1 - Future Opening",
-        "active": true,
-        "date_updated": 1762914000,
-        "date_posted": 1761519654,
-        "url": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003164",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/GCI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Oracle",
         "id": "c2cf08fc-8b21-4062-9c6d-b46a394beac3",
@@ -29506,24 +29488,6 @@
             "Nashville, TN"
         ],
         "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Stryker",
-        "id": "90b6bedd-9c71-44a0-9921-1064dff14400",
-        "title": "Associate Installation Technician - New York",
-        "active": false,
-        "date_updated": 1761518564,
-        "date_posted": 1761518564,
-        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Long-Island-New-York/Associate-Installation-Technician---New-York_R552393",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Stryker",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -300561,7 +300525,7 @@
         "company_name": "EOS IT Solutions",
         "id": "8137c2b8-54f4-4d64-9145-0f9c9074a0eb",
         "title": "Data Center Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1778921821,
         "date_posted": 1778105485,
         "url": "https://eosits.com/company/careers/?gh_jid=8536933002",
@@ -355527,6 +355491,67 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vanguard",
+        "id": "f1abbff9-d522-4136-8378-82f66c4f851f",
+        "title": "SaaS Security Posture Management Associate Developer",
+        "active": true,
+        "date_updated": 1782253317,
+        "date_posted": 1782252411,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/SaaS-Security-Posture-Management-Associate-Developer_178462-2",
+        "locations": [
+            "Dallas, TX",
+            "Malvern, PA",
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "5138e4dd-513a-406b-8140-8975281f8aa0",
+        "title": "Support Engineer - Freewheel",
+        "active": true,
+        "date_updated": 1782253621,
+        "date_posted": 1782252271,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Support-Engineer---FreeWheel_R439560",
+        "locations": [
+            "Reston, VA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "2be8cc96-1155-4e71-9662-40da984578eb",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1782253621,
+        "date_posted": 1782253458,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8024620",
+        "locations": [
+            "El Dorado, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
         ]
     }
 ]
