@@ -225915,7 +225915,7 @@
         "company_name": "SpaceX",
         "id": "cebfd81e-c968-4386-ad63-a2b232bae8fa",
         "title": "Application Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773969075,
         "date_posted": 1770171781,
         "url": "https://boards.greenhouse.io/spacex/jobs/8402778002",
@@ -316484,7 +316484,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -331650,7 +331650,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -353620,7 +353620,7 @@
         "company_name": "TD Bank",
         "id": "f3fc4162-9064-4ac7-82c6-abf727ae63fd",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781820903,
         "date_posted": 1781820411,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1495154",
@@ -355656,7 +355656,7 @@
         "company_name": "CoStar Group",
         "id": "1752e2db-89d2-42d9-a338-a18f3585942c",
         "title": "Associate Research Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1782138532,
         "date_posted": 1782137593,
         "url": "https://costar.wd1.myworkdayjobs.com/confidential/job/US-VA-Richmond/Associate-Research-Consultant---May-2026-Graduates_R37170-2",
@@ -356477,5 +356477,129 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "4d5d331b-137e-48b4-8eeb-2bc6a7e03c05",
+        "title": "Software Engineer Simulation",
+        "active": true,
+        "date_updated": 1782177171,
+        "date_posted": 1782176952,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Software-Engineer-Simulation--Simulation-_JR2026510876-1",
+        "locations": [
+            "Mesa, AZ",
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "423da967-d87f-4eb2-878e-67789a6b375b",
+        "title": "Application Software Engineer - Manufacturing",
+        "active": true,
+        "date_updated": 1782177481,
+        "date_posted": 1782177415,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8603667002",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "bde6d294-a936-400d-8dea-d3870ed1da28",
+        "title": "Software Engineer 1 - Compiler - Annapurna Labs",
+        "active": true,
+        "date_updated": 1782177081,
+        "date_posted": 1782176796,
+        "url": "https://amazon.jobs/en/jobs/10438055/software-engineer-i-compiler-annapurna-labs",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "903aa634-4b1b-47f8-825d-15ac4c99ba27",
+        "title": "Mixed Signal Design Verification Engineer - Mixed Signal Design Verification Engineer",
+        "active": true,
+        "date_updated": 1782177208,
+        "date_posted": 1782176752,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011362",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "686dae74-ec7b-482e-8711-419f7570940d",
+        "title": "Software Engineer - Developer",
+        "active": true,
+        "date_updated": 1782177121,
+        "date_posted": 1782176952,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Kent-WA/Software-Engineer---Developer--Associate-and-Experienced-_JR2026515118-2",
+        "locations": [
+            "Kent, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WGU",
+        "id": "4faa6ce7-186b-4bba-9564-9e70321e61c1",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1782177195,
+        "date_posted": 1781215558,
+        "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Software-Engineer-I_JR-025400",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
