@@ -704,24 +704,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Wolverine Trading",
-        "id": "e156ee25-83f2-46df-9575-5537b07df84b",
-        "title": "Entry Level C# Software Engineer",
-        "active": false,
-        "date_updated": 1761866672,
-        "date_posted": 1761485390,
-        "url": "https://jobs.lever.co/wolve/8b1ee40d-e234-4c5d-910f-88b0addc5549/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/wolverine-trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Nuro",
         "id": "af8f1713-cafe-4400-b4bf-3eb36859265a",
@@ -356525,6 +356507,26 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": " PrizePicks",
+        "id": "4736b762-d76a-4c72-b71b-055c211c8e96",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1782138241,
+        "date_posted": 1782137632,
+        "url": "http://prizepicks.com/position?gh_jid=7777284003",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/PrizePicks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
