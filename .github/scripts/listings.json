@@ -1302,25 +1302,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Amentum",
-        "id": "037965da-859d-4532-a3b3-45dc8fd6220f",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1761501704,
-        "date_posted": 1761501704,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259",
-        "locations": [
-            "Fredericksburg, VA",
-            "Dahlgren, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Mass General Brigham",
         "id": "ad8d689d-dba3-4ca6-a7d9-a5a4a8a1f987",
         "title": "Software Engineer I",
@@ -30186,78 +30167,6 @@
             "Baton Rouge, LA"
         ],
         "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mass General Brigham",
-        "id": "739545d8-b46b-4e45-81cc-2a40bef9f83d",
-        "title": "Material Handler",
-        "active": true,
-        "date_updated": 1761502873,
-        "date_posted": 1761502873,
-        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Material-Handler_RQ4039209",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "53ba2e6c-a6a6-403a-b8b4-e5f3058e4749",
-        "title": "ERS Electrical Testing Technician - Atlanta",
-        "active": false,
-        "date_updated": 1761502305,
-        "date_posted": 1761502305,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20255663",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "84261d6d-6251-4dbc-9706-9d9d33d5ff52",
-        "title": "Application Engineer 1",
-        "active": false,
-        "date_updated": 1762910930,
-        "date_posted": 1761502529,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/123547",
-        "locations": [
-            "Mason, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oracle",
-        "id": "751644c0-79d8-42ad-9fe7-12f22004fead",
-        "title": "Telecom Technician",
-        "active": false,
-        "date_updated": 1763123578,
-        "date_posted": 1761502320,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/310448",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -92114,24 +92023,6 @@
             "Calhoun, GA"
         ],
         "company_url": "https://simplify.jobs/c/CoreWeave",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "99d74019-a1e3-4be6-8e81-54c6d34604df",
-        "title": "ERS Electrical Testing Technician - Austin",
-        "active": false,
-        "date_updated": 1761502468,
-        "date_posted": 1761502468,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20252876",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -218644,7 +218535,7 @@
         "company_name": "Concord",
         "id": "2422d2a5-ee3b-4ed9-bfec-8d56965727be",
         "title": "Data Insights Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1773958277,
         "date_posted": 1773958277,
         "url": "https://careers-concord.icims.com/jobs/2045/job?mobile=true&needsRedirect=false",
@@ -302836,7 +302727,7 @@
         "company_name": "Lila Sciences",
         "id": "7d0e569e-2131-4b13-bcc4-2f9f519e79ed",
         "title": "Software Engineer 1 - Instrument Software",
-        "active": true,
+        "active": false,
         "date_updated": 1779153752,
         "date_posted": 1779153321,
         "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4186444009",
@@ -341819,7 +341710,7 @@
         "company_name": "LivaNova",
         "id": "67453539-6455-4c15-ac17-759749df31ad",
         "title": "Electrical Test Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781216117,
         "date_posted": 1781215639,
         "url": "https://livanova.wd5.myworkdayjobs.com/search/job/Houston-Texas-United-States/Electrical-Test-Associate_JR-14573",
@@ -347055,7 +346946,7 @@
         "company_name": "Scientific Research Corporation",
         "id": "770be657-7c39-4be7-852d-75ecc6e6d3e7",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781649639,
         "date_posted": 1781129340,
         "url": "https://careers-scires.icims.com/jobs/11270/job?mobile=true&needsRedirect=false",
