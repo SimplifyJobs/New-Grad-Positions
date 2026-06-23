@@ -20998,42 +20998,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Greenwood Village South",
-        "id": "a64bbdc2-0971-40dc-ac2e-1a96adc47587",
-        "title": "HR Data Analyst",
-        "active": false,
-        "date_updated": 1761470862,
-        "date_posted": 1761470862,
-        "url": "https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/job/30489",
-        "locations": [
-            "Des Moines, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Greenwood-Village-South",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Marsh & McLennan",
-        "id": "61c905e5-2281-4abd-afcc-83089ab79869",
-        "title": "Oliver Wyman - Data & Analytics Research Fellowship - Newcastle upon Tyne",
-        "active": true,
-        "date_updated": 1762907694,
-        "date_posted": 1761470150,
-        "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Research-Fellowship---Newcastle-upon-Tyne_R_327852-1",
-        "locations": [
-            "Newcastle upon Tyne, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Marsh-McLennan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "The Bank of New York Mellon",
         "id": "2ad0d374-2795-429e-b629-a3c84b936ed6",
         "title": "2026 BNY Analyst Program-Engineering - Data Science",
@@ -45419,24 +45383,6 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The University of Chicago Medicine",
-        "id": "4ed199fd-524f-4b6b-af2b-4c2b2a3710d5",
-        "title": "Clinical Data Analyst - Same Day Surgery/Observation Coder",
-        "active": false,
-        "date_updated": 1763507855,
-        "date_posted": 1761469700,
-        "url": "https://careers-ucm.icims.com/jobs/80172/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/The-University-Of-Chicago-Medicine",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -329827,7 +329773,7 @@
         "company_name": "GE Healthcare",
         "id": "16896f36-2a8d-4b1d-99c1-da18c5e7d68e",
         "title": "Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780561123,
         "date_posted": 1780437969,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois_R4041927-1",
@@ -356637,5 +356583,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Raymond James Financial",
+        "id": "0d46ea5b-d675-4003-9fb3-b27f77285651",
+        "title": "Data Driven Insights Analyst",
+        "active": true,
+        "date_updated": 1782167041,
+        "date_posted": 1782166271,
+        "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Data-Driven-Analyst_R-0011685-1",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Raymond-James-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
