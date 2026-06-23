@@ -20849,44 +20849,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "b28e6bf7-745b-47f3-a9f2-9e0053ed8135",
-        "title": "Electrical Design Engineer - Electrical Design - FPGA/Application-Specific Integrated Circuit",
-        "active": false,
-        "date_updated": 1762919820,
-        "date_posted": 1761478914,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Engineer--Electrical-Design---FPGA-ASIC_JR80377",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CoreWeave",
-        "id": "a4d6b6ff-6744-42d3-b857-37e78af07ffb",
-        "title": "Data Center Technician-Parsippany",
-        "active": false,
-        "date_updated": 1762938438,
-        "date_posted": 1761480034,
-        "url": "https://coreweave.com/careers/job?4611401006&board=coreweave&gh_jid=4611401006",
-        "locations": [
-            "Parsippany-Troy Hills, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/CoreWeave",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Dematic",
         "id": "8c9f207a-c005-46ea-9d14-85c7f2ad715b",
         "title": "Controls Commissioning Engineer",
@@ -20937,24 +20899,6 @@
             "Chantilly, VA"
         ],
         "company_url": "https://simplify.jobs/c/CoreWeave",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "KLA Corporation",
-        "id": "108311c6-473e-4f98-a4fe-3a9a5ea8d03a",
-        "title": "System Design Engineer - Electron Beam Systems - E",
-        "active": false,
-        "date_updated": 1761479222,
-        "date_posted": 1761479222,
-        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/System-Design-Engineer--Electron-Beam-Systems---E-_2532423",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -137319,7 +137263,7 @@
         "company_name": "Snyk",
         "id": "b732e9c0-8b7c-431b-98f4-a3846cb06993",
         "title": "Associate Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769817418,
         "date_posted": 1769817418,
         "url": "https://snyk.wd103.myworkdayjobs.com/External/job/United-Kingdom---London-Office/Associate-Product-Engineer_JR100268",
