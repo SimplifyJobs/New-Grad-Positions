@@ -30737,24 +30737,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Millennium Space Systems",
-        "id": "9f0289c4-8bee-4dd4-a833-492272118e29",
-        "title": "Spacecraft Software Engineer - Early-Career",
-        "active": false,
-        "date_updated": 1762818045,
-        "date_posted": 1761491951,
-        "url": "https://job-boards.greenhouse.io/millenniumspacesystems/jobs/4891950008",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Millennium-Space-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Argonne National Laboratory",
         "id": "d81a3b66-2a79-41aa-b245-f88c99805474",
@@ -356401,6 +356383,27 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AAR",
+        "id": "6978c2cb-a592-4751-ba2c-89bca5facdce",
+        "title": "Junior Web Developer",
+        "active": true,
+        "date_updated": 1782228274,
+        "date_posted": 1782228168,
+        "url": "https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18441",
+        "locations": [
+            "Chicago, IL",
+            "Elk Grove Village, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AAR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
