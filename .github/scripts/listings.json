@@ -29440,24 +29440,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "ee056200-6cf5-4b20-85eb-41df929393f6",
-        "title": "Customer Engineer 1",
-        "active": false,
-        "date_updated": 1762911393,
-        "date_posted": 1761521245,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256481",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Cincinnati Financial",
         "id": "56515099-da0f-4a75-897b-f155d0c4c4e8",
@@ -313899,7 +313881,7 @@
         "company_name": "RELX",
         "id": "0a7ac917-236f-4c01-8c5d-45d74731949d",
         "title": "Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779869572,
         "date_posted": 1778922944,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/United-Kingdom/Solutions-Analyst_R109322-1",
@@ -347635,7 +347617,7 @@
         "company_name": "Liberty Mutual",
         "id": "e0e32a6c-3727-455d-92c5-458c2b19c493",
         "title": "Assistant Director - Data Science: Renter's Portfolio",
-        "active": true,
+        "active": false,
         "date_updated": 1781643976,
         "date_posted": 1781638909,
         "url": "https://careers-libertymutual.icims.com/jobs/76392/job?mobile=true&needsRedirect=false",
@@ -354190,7 +354172,7 @@
         "company_name": "Acrisure",
         "id": "17eb8a6f-67ab-442f-927c-a803b6d8f192",
         "title": "Product Success Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1782117830,
         "date_posted": 1781917892,
         "url": "https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/816-Congress-Ave-Ste-1800----AUSTIN-TX/Product-Success-Specialist_JR113606",
@@ -355552,6 +355534,105 @@
         "sponsorship": "Other",
         "degrees": [
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AlphaSights",
+        "id": "3739bda0-6ac2-45c1-9b04-0d040116b531",
+        "title": "Analyst \u2013 Surveys",
+        "active": true,
+        "date_updated": 1782206641,
+        "date_posted": 1780063521,
+        "url": "https://www.alphasights.com/careers/open-roles?gh_jid=7775658",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AlphaSights",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Likewize",
+        "id": "00c9f7e8-3b92-4b31-9d11-c66b39e1508a",
+        "title": "Mobile Repair Technician",
+        "active": true,
+        "date_updated": 1782205201,
+        "date_posted": 1781362314,
+        "url": "https://likewize.wd1.myworkdayjobs.com/en-US/External/job/Vaughan/Mobile-Repair-Technician---Toronto--Ontario_R-1367",
+        "locations": [
+            "Vaughan, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/519b47ce-ff84-4832-85b9-25e0fb0988bb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ameresco",
+        "id": "881fce67-4799-4f24-b95e-e555622669f6",
+        "title": "Distributed Energy Resources Monitoring Platform Technician",
+        "active": true,
+        "date_updated": 1782252595,
+        "date_posted": 1782252240,
+        "url": "https://ameresco.wd5.myworkdayjobs.com/en-US/Ameresco/job/United-States---Connecticut---Waterbury/DER-Monitoring-Platform-Technician_R3880",
+        "locations": [
+            "Waterbury, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/89688bf2-cf8f-4629-99bc-ac10ed0ac2e2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "af5bc18c-6ddf-40af-b98a-7daf01cb9cd5",
+        "title": "Engineer 1 - Digital Design - I",
+        "active": true,
+        "date_updated": 1782253257,
+        "date_posted": 1782252386,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Engineer-I---Digital-Design_R2479-26",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Franchise Group",
+        "id": "c83f4ad9-0b9d-4593-b6d3-9e22ab14a45c",
+        "title": "Systems Administrator - Data Analytics",
+        "active": true,
+        "date_updated": 1782252361,
+        "date_posted": 1781042695,
+        "url": "https://jobs.smartrecruiters.com/UnitedFranchiseGroup/744000133697159",
+        "locations": [
+            "West Palm Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Franchise-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
