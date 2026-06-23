@@ -1284,24 +1284,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "fffff823-b32d-48ee-8d4c-5f5808d49097",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1761932652,
-        "date_posted": 1761505189,
-        "url": "https://careers-gdms.icims.com/jobs/68761/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Mass General Brigham",
         "id": "ad8d689d-dba3-4ca6-a7d9-a5a4a8a1f987",
         "title": "Software Engineer I",
@@ -30063,24 +30045,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Frost",
-        "id": "d8424148-a7ed-4597-bdc6-ff09e9b20eee",
-        "title": "Engineer 1 - AI",
-        "active": false,
-        "date_updated": 1762910470,
-        "date_posted": 1761505139,
-        "url": "https://frostbank.wd5.myworkdayjobs.com/External/job/San-Antonio-TX---One-Frost/Engineer-I---AI_R251733",
-        "locations": [
-            "San Antonio, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Frost",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Argonne National Laboratory",
         "id": "4d974bd5-8f72-4917-872b-cf22dd304ff3",
         "title": "Postdoctoral Appointee: Physics-Informed AI for Microelectronics Materials",
@@ -30092,81 +30056,6 @@
             "Woodridge, IL"
         ],
         "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intercom",
-        "id": "7e981412-ba99-4f51-8c8d-d0ab017c1c16",
-        "title": "Graduate Product Engineer Dublin - 2026",
-        "active": false,
-        "date_updated": 1761504939,
-        "date_posted": 1761504939,
-        "url": "https://job-boards.greenhouse.io/intercom/jobs/7317849",
-        "locations": [
-            "London, UK",
-            "Dublin, Ireland"
-        ],
-        "company_url": "https://simplify.jobs/c/Intercom",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "7e213453-74af-4505-89a8-f0064e0e9fe8",
-        "title": "Compiler Optimization Engineer \u2013 New College Grad - LLVM and Mlir",
-        "active": false,
-        "date_updated": 1762920003,
-        "date_posted": 1761505074,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Optimization-Engineer--LLVM-and-MLIR---New-College-Grad-2025_JR2006770",
-        "locations": [
-            "Redmond, WA",
-            "Santa Clara, CA",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Otis Worldwide",
-        "id": "bfafbbfc-ba72-4f03-81aa-e6bc36d7fadb",
-        "title": "Lift Tester",
-        "active": false,
-        "date_updated": 1761504306,
-        "date_posted": 1761504306,
-        "url": "https://otis.wd5.myworkdayjobs.com/rec_ext_gateway/job/Otis-Vantage-London-10th-Floor-Great-West-Road-Brentford-TW8-9AG-UK/Lift-Tester_20142897",
-        "locations": [
-            "Hammersmith, London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Otis-Worldwide",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "4b5e7824-454b-4744-9dec-cedec3a28ca6",
-        "title": "ERS NETA Testing Technician - Baton Rouge",
-        "active": false,
-        "date_updated": 1761504143,
-        "date_posted": 1761504143,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20258299",
-        "locations": [
-            "Baton Rouge, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -44226,24 +44115,6 @@
             "Miamisburg, OH"
         ],
         "company_url": "https://simplify.jobs/c/Kettering-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Trace3",
-        "id": "b57a0780-0ccb-4518-b7da-f56802389d58",
-        "title": "Java DevSecOps Software Engineer",
-        "active": false,
-        "date_updated": 1763441473,
-        "date_posted": 1761504900,
-        "url": "https://job-boards.greenhouse.io/trace3/jobs/7350861",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Trace3",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -315989,7 +315860,7 @@
         "company_name": "Fortive",
         "id": "87e17dd7-fc02-492a-96d7-60d63d0fb1e5",
         "title": "Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779836224,
         "date_posted": 1779833209,
         "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9679",
