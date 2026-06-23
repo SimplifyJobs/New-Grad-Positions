@@ -2725,7 +2725,7 @@
         "company_name": "Graphcore",
         "id": "3c8ce518-58d5-41a0-b586-073f60bfd11d",
         "title": "2026 Graduate Software Engineer - Drivers",
-        "active": true,
+        "active": false,
         "date_updated": 1762434202,
         "date_posted": 1762434202,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8238605002",
@@ -30282,96 +30282,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nationwide",
-        "id": "f363cc9e-b2a9-480f-a966-4093e33b27d8",
-        "title": "Data Solution Analyst - Data Solution Analyst",
-        "active": false,
-        "date_updated": 1762927704,
-        "date_posted": 1761501616,
-        "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Data-Solution-Analyst_095248",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Nationwide",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "26f366b0-ec19-4937-ba07-4b0753ac432e",
-        "title": "Postdoctoral Research Associate",
-        "active": false,
-        "date_updated": 1761501628,
-        "date_posted": 1761501628,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Research-Associate---Machine-Learning-in-High-Energy-Physics-Detector-Operations_421270",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hearst",
-        "id": "b792de1a-8bf9-4a1a-b4a4-1459bf707ef0",
-        "title": "Developer Fellow",
-        "active": false,
-        "date_updated": 1762928345,
-        "date_posted": 1761500717,
-        "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025268",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Hearst",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ADT",
-        "id": "103322e4-a3ea-4904-bb17-8905b3808887",
-        "title": "Installation Technician",
-        "active": false,
-        "date_updated": 1761500550,
-        "date_posted": 1761500550,
-        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3017999",
-        "locations": [
-            "Alabaster, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/ADT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intermountain Healthcare",
-        "id": "951bdc8f-1515-4b2c-a3f7-1b71feee2877",
-        "title": "Medical Assistant Resident Sleep and Respiratory Clinic",
-        "active": false,
-        "date_updated": 1761500397,
-        "date_posted": 1761500397,
-        "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Billings-Downtown-Clinic/Medical-Assistant-Resident_R145681-1",
-        "locations": [
-            "Billings, MT"
-        ],
-        "company_url": "https://simplify.jobs/c/Intermountain-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Mass General Brigham",
         "id": "e288b762-6f1b-4032-9d01-2c45250a6b22",
@@ -30384,42 +30294,6 @@
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Stanley Black & Decker",
-        "id": "0817a9f8-41af-4dfd-83fc-8f9be27b531a",
-        "title": "Service Technician 1",
-        "active": false,
-        "date_updated": 1762936509,
-        "date_posted": 1761500045,
-        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Salt-Lake-City-UT-United-States/Service-Technician-I_REQ-1000043347",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Microsoft",
-        "id": "4e68c43e-e1ad-4696-8359-2478c4cc8065",
-        "title": "Datacenter Technician",
-        "active": false,
-        "date_updated": 1761499941,
-        "date_posted": 1761499941,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1902366",
-        "locations": [
-            "Cardiff, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -308683,7 +308557,7 @@
         "company_name": "Amazon",
         "id": "39b8fc3c-d27c-43ca-95de-868d5a97ab5b",
         "title": "Artificial Intelligence Data Associate - Artificial General Intelligence",
-        "active": true,
+        "active": false,
         "date_updated": 1779689536,
         "date_posted": 1779689120,
         "url": "https://amazon.jobs/en/jobs/10422803/ai-data-associate-dutch-artificial-general-intelligence",
@@ -342614,7 +342488,7 @@
         "company_name": "Alma",
         "id": "50284e50-9867-4679-921c-a92141d13fc4",
         "title": "Data Analyst 2 - Marketing",
-        "active": true,
+        "active": false,
         "date_updated": 1781216898,
         "date_posted": 1776723929,
         "url": "https://job-boards.greenhouse.io/alma/jobs/8514953002",
@@ -353219,7 +353093,7 @@
         "company_name": "Capital One",
         "id": "56dd38cb-985e-463a-b5fb-ab8944f2c5e2",
         "title": "Senior Product Manager - Product Management",
-        "active": true,
+        "active": false,
         "date_updated": 1781822111,
         "date_posted": 1781820740,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Product-Management---Dynamic-Experiences-Technical-Product-Manager_R244965-1",
