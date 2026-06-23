@@ -30642,47 +30642,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Pivotal Software",
-        "id": "6cb62645-1c18-4825-830c-e1379bc42dcb",
-        "title": "System Integration Prototype Technician",
-        "active": false,
-        "date_updated": 1761494264,
-        "date_posted": 1761494264,
-        "url": "https://jobs.lever.co/pivotal/826ecf2c-9371-484c-8214-a0e0a23ef8ff/apply",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pivotal-Software",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oracle",
-        "id": "af3d000d-7f9d-44c5-ae91-c0a2f980f2e6",
-        "title": "Advanced Degree Software Engineer - Oracle Health and Analytics",
-        "active": false,
-        "date_updated": 1762912552,
-        "date_posted": 1761494111,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/311345",
-        "locations": [
-            "Seattle, WA",
-            "San Carlos, CA",
-            "Pleasanton, CA",
-            "Santa Clara, CA",
-            "Kansas City, MO",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "City of Amarillo",
         "id": "69b1a9f6-b3af-44c1-8159-50853ea44789",
