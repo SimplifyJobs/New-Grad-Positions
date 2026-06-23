@@ -20758,25 +20758,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Squarepoint Capital",
-        "id": "294ac442-d653-4c51-a831-a62d3bcfb676",
-        "title": "Software Developer - Front-end",
-        "active": false,
-        "date_updated": 1761485603,
-        "date_posted": 1761485603,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6034447",
-        "locations": [
-            "Montreal, QC, Canada",
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Goldman Sachs",
         "id": "5c42f10a-f177-4af2-8f49-63d310dc4e0e",
         "title": "Asset & Wealth Management - Full-Stack Software Engineer - Analyst",
@@ -30894,60 +30875,6 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Western-Alliance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Thermo Fisher Scientific",
-        "id": "8b2e2602-446f-47db-a0fb-00a37d7e31d9",
-        "title": "Portfolio Management Specialist",
-        "active": false,
-        "date_updated": 1761863910,
-        "date_posted": 1761487084,
-        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Portfolio-Management-Specialist_R-01331805",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ADF International",
-        "id": "3c3a8935-c797-4176-878c-b7c512653262",
-        "title": "Web Developer 1",
-        "active": false,
-        "date_updated": 1762819200,
-        "date_posted": 1761487105,
-        "url": "https://job-boards.greenhouse.io/adfinternational/jobs/4916150008?gh_jid=4916150008",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ADF-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "iRhythm Technologies",
-        "id": "d157a366-4002-4c7e-9ae6-ad3e015f7dc5",
-        "title": "System Engineer 1",
-        "active": false,
-        "date_updated": 1762919459,
-        "date_posted": 1761486816,
-        "url": "https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/System-Engineer-I_JR747",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/IRhythm-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -43982,24 +43909,6 @@
             "Indianapolis, IN"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Benchling",
-        "id": "b7bdb9ff-f979-4c08-8dbe-ca8df08e21e7",
-        "title": "Software Engineer - Application Platform",
-        "active": false,
-        "date_updated": 1763422504,
-        "date_posted": 1761486739,
-        "url": "https://boards.greenhouse.io/benchling/jobs/7347773",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Benchling",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -93863,27 +93772,6 @@
             "Billings, MT"
         ],
         "company_url": "https://simplify.jobs/c/Acuren",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Daktronics",
-        "id": "b1bc0312-5e70-4308-89eb-0b4494485643",
-        "title": "Game Day Technician",
-        "active": false,
-        "date_updated": 1767309076,
-        "date_posted": 1761486784,
-        "url": "https://careers-daktronics.icims.com/jobs/7035/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Washington, DC",
-            "Fairfax, VA",
-            "Arlington, VA",
-            "Alexandria, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Daktronics",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -356012,7 +355900,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "4094133f-5f18-4aff-9d72-ecf4280916d4",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782165961,
         "date_posted": 1782165866,
         "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Chelmsford-MA/Software-Engineer_R19423",
@@ -356455,7 +356343,7 @@
         "company_name": "Draper",
         "id": "25768372-33ac-4aaa-8269-c3b15e2272a8",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782166333,
         "date_posted": 1782166062,
         "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Software-Engineer_JR002634",
@@ -356521,6 +356409,26 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/PrizePicks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Empower",
+        "id": "4ced1e29-9d24-463f-b871-a52b510662cf",
+        "title": "Nonqualified Analytics Analyst",
+        "active": true,
+        "date_updated": 1782166333,
+        "date_posted": 1782166249,
+        "url": "https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Nonqualified-Analytics-Analyst_R0059587",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Empower-Advisory-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
