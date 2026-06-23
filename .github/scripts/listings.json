@@ -1339,24 +1339,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Captivation",
-        "id": "1dce2547-22a7-44db-8109-aada5d66d3d2",
-        "title": "Software Engineer 1 - Hybrid - Java/Mapreduce/Git/Pig/Maven",
-        "active": false,
-        "date_updated": 1761489500,
-        "date_posted": 1761489500,
-        "url": "https://job-boards.greenhouse.io/captivation/jobs/4955322008",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Captivation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "BTI Solutions",
         "id": "161ee3ad-9d36-463b-b3b1-bd9f04484723",
         "title": "Entry Level Mobile Device Test Network Engineer SHQ",
@@ -355865,7 +355847,7 @@
         "company_name": "Chicago Trading Company",
         "id": "a4ca5808-6ecd-4ee1-a130-9baff8095d48",
         "title": "Quant Trading Associate - Opportunistic",
-        "active": true,
+        "active": false,
         "date_updated": 1782167041,
         "date_posted": 1782166456,
         "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4699663005",
@@ -356398,6 +356380,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "453d44e6-74fe-430c-83d5-1f4bb1c58338",
+        "title": "Leadership Development Program - Engineering - Software",
+        "active": true,
+        "date_updated": 1782207883,
+        "date_posted": 1782166213,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Software--Starts-June-2027-_01853289",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
