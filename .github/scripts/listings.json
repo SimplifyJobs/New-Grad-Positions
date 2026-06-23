@@ -12706,24 +12706,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Informa Group",
-        "id": "4d0604c4-b669-4df5-b05a-9b9bb2434048",
-        "title": "Graduate Fellowship",
-        "active": false,
-        "date_updated": 1762826956,
-        "date_posted": 1761471876,
-        "url": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000089098855",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Informa-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "United States Tennis Association",
         "id": "f48513d1-581c-481f-a4f9-a84e13e75f7c",
@@ -339896,7 +339878,7 @@
         "company_name": "Lithia Motors",
         "id": "2664a38f-b76f-42f0-82a4-12aecc67d729",
         "title": "Product Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1781166871,
         "date_posted": 1781129201,
         "url": "https://lithia.wd5.myworkdayjobs.com/LithiaCareers/job/BMW-of-Minnetonka-Minnetonka-MN-55391/Product-Specialist_R110644",
@@ -353813,7 +353795,7 @@
         "company_name": "Jonas Software",
         "id": "058e376f-60d5-425d-a1dd-6c73a4ad4224",
         "title": "Customer Support Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781857643,
         "date_posted": 1781346653,
         "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Canada---Markham---Ontario/Customer-Solution-Analyst_R12522-2",
@@ -356601,5 +356583,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Marsh & McLennan",
+        "id": "61c905e5-2281-4abd-afcc-83089ab79869",
+        "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
+        "active": true,
+        "date_updated": 1782108733,
+        "date_posted": 1781359468,
+        "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Research-Fellowship---Newcastle-upon-Tyne_R_327852-1",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Marsh-McLennan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
