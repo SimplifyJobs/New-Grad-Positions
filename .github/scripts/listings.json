@@ -247581,7 +247581,7 @@
         "company_name": "SpaceX",
         "id": "a3264a4e-68e7-4be7-af37-e7ec19850f6a",
         "title": "Application Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775516941,
         "date_posted": 1775513979,
         "url": "https://boards.greenhouse.io/spacex/jobs/8494238002",
@@ -307570,7 +307570,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -356418,5 +356418,64 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intel",
+        "id": "964aa151-7592-4263-922e-adbb07bff4bf",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782176939,
+        "date_posted": 1782176660,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Engineer_JR0285009",
+        "locations": [
+            "Hillsboro, OR",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "6fb8c7a1-2e41-47a8-becc-7617967cab4a",
+        "title": "Entry-Level Electrical / Wire Harness Assembly Technician",
+        "active": true,
+        "date_updated": 1782177121,
+        "date_posted": 1782176951,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mesa-AZ/Entry-Level-Electrical---Wire-Harness-Assembly-Technician_JR2026506013-2",
+        "locations": [
+            "Mesa, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Beacon AI",
+        "id": "28e12529-8553-4a5b-9f21-70046c96fd07",
+        "title": "Frontend Web App Engineer - Frontend/Web App",
+        "active": true,
+        "date_updated": 1782177360,
+        "date_posted": 1782176959,
+        "url": "https://jobs.ashbyhq.com/beaconai/54e0937b-bcb8-41dd-9e3f-287b29a64c11/application",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Beacon-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
