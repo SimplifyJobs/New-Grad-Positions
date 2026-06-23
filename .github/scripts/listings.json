@@ -1,25 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "2c40466c-9807-4564-b790-fc5981e2c872",
-        "title": "Junior Software Engineer - ",
-        "active": false,
-        "date_updated": 1761505342,
-        "date_posted": 1761505342,
-        "url": "https://careers-gdms.icims.com/jobs/68513/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Dedham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1761689168,
         "sponsorship": "Other",
         "active": false,
@@ -1257,26 +1237,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Blue Origin",
-        "id": "a81c582c-8a53-404e-bff2-4bcdc3bc9916",
-        "title": "Early Career Embedded Flight Software Engineer I \u2013 Grad - New Glenn",
-        "active": false,
-        "date_updated": 1761505656,
-        "date_posted": 1761505656,
-        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Early-Career-Embedded-Flight-Software-Engineer-I---New-Glenn--2025-2026-Grad-_R56219",
-        "locations": [
-            "Seattle, WA",
-            "Merritt Island, FL",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Origin",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -30025,25 +29985,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Chubb",
-        "id": "39bb5337-c33e-49dd-b334-d1bbb0718e9f",
-        "title": "Technology Associate",
-        "active": true,
-        "date_updated": 1761506526,
-        "date_posted": 1761506526,
-        "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/26148",
-        "locations": [
-            "Philadelphia, PA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Chubb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Argonne National Laboratory",
         "id": "4d974bd5-8f72-4917-872b-cf22dd304ff3",
@@ -39702,24 +39643,6 @@
             "Novi, MI"
         ],
         "company_url": "https://simplify.jobs/c/Daifuku",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Kimley-Horn",
-        "id": "e9680f09-68e0-4e6b-9dd4-85ff0ab35dc1",
-        "title": "GIS Analyst",
-        "active": false,
-        "date_updated": 1763163824,
-        "date_posted": 1761506391,
-        "url": "https://careers-kimley-horn.icims.com/jobs/20440/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Fort Worth, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Kimley-Horn",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
