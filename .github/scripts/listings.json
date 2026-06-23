@@ -1225,24 +1225,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "4eaa6900-073c-4d66-9c6a-298128abd6fd",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1761507485,
-        "date_posted": 1761507485,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I_R_1450730",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Mass General Brigham",
         "id": "ad8d689d-dba3-4ca6-a7d9-a5a4a8a1f987",
@@ -29876,43 +29858,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Q2",
-        "id": "c08186fc-9675-442e-92b9-11133d4b8fba",
-        "title": "Cybersecurity Analyst",
-        "active": false,
-        "date_updated": 1761507921,
-        "date_posted": 1761507921,
-        "url": "https://q2ebanking.wd5.myworkdayjobs.com/en-US/Q2/job/Austin-TX/Cybersecurity-Analyst_REQ-11734",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Q2Software",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "80c3c720-cd68-45b1-bc39-37c473dd2f93",
-        "title": "Applied Machine Learning Scientist 1",
-        "active": false,
-        "date_updated": 1762929216,
-        "date_posted": 1761507836,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-I_R_1450368",
-        "locations": [
-            "Montreal, QC, Canada",
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Williams Lea",
         "id": "1e9b0e31-5d86-456b-b32a-3bb1c96406ee",
@@ -29925,60 +29870,6 @@
             "Remote in UK"
         ],
         "company_url": "https://simplify.jobs/c/Williams-Lea",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Quantexa",
-        "id": "a1146331-b3dc-4372-8d2d-8cb1227b2f4e",
-        "title": "Associate Data Engineer",
-        "active": false,
-        "date_updated": 1761507400,
-        "date_posted": 1761507400,
-        "url": "https://apply.workable.com/quantexa/j/50C17DAD5A/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Quantexa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "VaynerMedia",
-        "id": "e981c59b-942f-4ec5-a287-ee8c72ce71d9",
-        "title": "Resident \u2013 Data Analytics",
-        "active": false,
-        "date_updated": 1761846739,
-        "date_posted": 1761507167,
-        "url": "https://vaynermedia.com/careers?gh_jid=7257265",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/VaynerMedia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "VaynerMedia",
-        "id": "c64199d8-f439-40ea-bdeb-2bb79d7a9f05",
-        "title": "Resident \u2013 Data Analytics",
-        "active": false,
-        "date_updated": 1761970332,
-        "date_posted": 1761507172,
-        "url": "https://vaynermedia.com/careers?gh_jid=7257227",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/VaynerMedia",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
