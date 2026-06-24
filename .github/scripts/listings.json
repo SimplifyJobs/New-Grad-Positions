@@ -29150,42 +29150,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "SpaceX",
-        "id": "80a8dfb9-53f6-4f0b-9c73-cd00f0dee9b9",
-        "title": "Software Engineer - Starship Quality",
-        "active": false,
-        "date_updated": 1761539075,
-        "date_posted": 1761539075,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8220138002",
-        "locations": [
-            "Brownsville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "EMPIST",
-        "id": "2dacce18-227e-47e8-9fd2-5b57f86dfb02",
-        "title": "Service Desk Analyst",
-        "active": false,
-        "date_updated": 1761834686,
-        "date_posted": 1761538094,
-        "url": "https://ats.rippling.com/empist/jobs/e93fefab-aaf0-4f27-a74e-152ac1d9e55c",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/EMPIST",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Oracle",
         "id": "2e9719cf-0a18-4054-aaba-fac7b0136af9",
         "title": "Undergrad Software Engineer - Fusion",
