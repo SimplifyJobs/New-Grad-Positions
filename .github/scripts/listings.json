@@ -29185,42 +29185,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Man Group",
-        "id": "0a3bdfa5-9fc3-43b7-9d80-fcb34186754c",
-        "title": "Data Management Analyst",
-        "active": true,
-        "date_updated": 1761537440,
-        "date_posted": 1761537440,
-        "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4663412101",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Man-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Visionist",
-        "id": "cddfbb0d-8030-4d70-95c5-125e5de07580",
-        "title": "Full-Stack Application Developer",
-        "active": false,
-        "date_updated": 1761536478,
-        "date_posted": 1761536478,
-        "url": "https://jobs.jobvite.com/visionist/job/oNmLyfwc?nl=1&nl=1&fr=false",
-        "locations": [
-            "Columbia, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Visionist",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Oracle",
         "id": "2e9719cf-0a18-4054-aaba-fac7b0136af9",
@@ -39082,24 +39046,6 @@
             "Tarentum, PA"
         ],
         "company_url": "https://simplify.jobs/c/Cook-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Daifuku",
-        "id": "3d34a5e5-1dee-49e5-b6a5-b9d73674ab29",
-        "title": "Technical Service Engineer 1",
-        "active": false,
-        "date_updated": 1763162268,
-        "date_posted": 1761537544,
-        "url": "https://careers-daifuku-america.icims.com/jobs/20722/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Novi, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Daifuku",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
