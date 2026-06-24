@@ -29020,42 +29020,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vertiv",
-        "id": "62571913-9e58-46ee-9a93-54b47425846a",
-        "title": "Placement Student - Software Engineering",
-        "active": false,
-        "date_updated": 1761553573,
-        "date_posted": 1761553573,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20259815",
-        "locations": [
-            "Londonderry, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "American University",
-        "id": "83466c9b-b40b-441d-a4d9-0298b9308ef7",
-        "title": "Research Assistant - Air Quality Research",
-        "active": false,
-        "date_updated": 1761552687,
-        "date_posted": 1761552687,
-        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Research-Assistant---Air-Quality-Research-on-Kenilworth-Park-Landfill-Site--Student-_R3480",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "CAE",
         "id": "4ca39cf4-2460-40ea-9324-58d5873d2623",
