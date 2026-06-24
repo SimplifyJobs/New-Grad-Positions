@@ -28948,24 +28948,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "6c2f0f1b-1cb0-4ceb-bfd2-79d380d66f42",
-        "title": "ERS Electrical Testing Technician - Atlanta",
-        "active": false,
-        "date_updated": 1761566393,
-        "date_posted": 1761566393,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20258256",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Fidelity National Information Services",
         "id": "674ebdf5-8975-4bc5-835e-ec353028d3a9",
