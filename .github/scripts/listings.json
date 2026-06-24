@@ -29075,24 +29075,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "iHeartMedia",
-        "id": "9278f4d7-bb04-463e-8ae2-b20e976f4d6b",
-        "title": "Board Operator & Street Team",
-        "active": false,
-        "date_updated": 1763119277,
-        "date_posted": 1761549410,
-        "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Manchester-NH/Part-Time-Board-Operator---Street-Team_Req36996-3",
-        "locations": [
-            "Manchester, NH"
-        ],
-        "company_url": "https://simplify.jobs/c/IHeartMedia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "CAE",
         "id": "4ca39cf4-2460-40ea-9324-58d5873d2623",
@@ -197058,7 +197040,7 @@
         "company_name": "Integral Federal",
         "id": "a4eaef17-c8b2-452e-a5e6-65c81405e419",
         "title": "Data Scientist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1772838600,
         "date_posted": 1772838600,
         "url": "https://careers-integralfed.icims.com/jobs/5217/job?mobile=true&needsRedirect=false",
@@ -351545,7 +351527,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -355452,5 +355434,43 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "d3f31c3b-a2ee-4105-b746-a30e1aa9d19b",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1782278700,
+        "date_posted": 1780064590,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7966332",
+        "locations": [
+            "Heath, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sev1Tech",
+        "id": "008560fd-17a6-4700-89cd-a750b96ec209",
+        "title": "Engineering Technician 1/2",
+        "active": true,
+        "date_updated": 1782276352,
+        "date_posted": 1780005909,
+        "url": "https://careers-sev1tech.icims.com/jobs/9520/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Stafford, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sev1Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
