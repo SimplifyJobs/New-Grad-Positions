@@ -29403,43 +29403,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vertiv",
-        "id": "d89a3dd0-1127-4f02-95ae-060fbcae30b4",
-        "title": "Associate Application Engineer - AC Power",
-        "active": false,
-        "date_updated": 1761523240,
-        "date_posted": 1761523240,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20259022",
-        "locations": [
-            "Delaware",
-            "Ohio"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "New Era Technology",
-        "id": "110894e7-ce18-4e2f-a4ac-ea1cbd0ecd93",
-        "title": "Collections IT Analyst",
-        "active": false,
-        "date_updated": 1762907995,
-        "date_posted": 1761523105,
-        "url": "https://job-boards.greenhouse.io/neweratech/jobs/8226328002",
-        "locations": [
-            "Jackson Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/New-Era-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Cincinnati Financial",
         "id": "56515099-da0f-4a75-897b-f155d0c4c4e8",
