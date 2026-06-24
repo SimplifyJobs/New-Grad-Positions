@@ -29240,24 +29240,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Caesars Entertainment",
-        "id": "5e3f4b59-5107-4671-94cf-93f58e535eb2",
-        "title": "Market Engineer 1",
-        "active": false,
-        "date_updated": 1762925168,
-        "date_posted": 1761531361,
-        "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72964",
-        "locations": [
-            "Paducah, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Caesars-Entertainment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Oracle",
         "id": "2e9719cf-0a18-4054-aaba-fac7b0136af9",
         "title": "Undergrad Software Engineer - Fusion",
@@ -348910,7 +348892,7 @@
         "company_name": "Marsh & McLennan",
         "id": "1489d490-cda0-42d1-98eb-91c014250158",
         "title": "Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781707676,
         "date_posted": 1781706930,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Edinburgh---New-Park/Investment-Analyst_R_355695-1",
