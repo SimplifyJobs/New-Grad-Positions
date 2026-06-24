@@ -273488,7 +273488,7 @@
         "company_name": "Wintermute",
         "id": "2319e255-13ec-4b97-a75b-1377d4fe5be7",
         "title": "Graduate DeFi Algorithmic Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1776932670,
         "date_posted": 1764961899,
         "url": "https://jobs.lever.co/wintermute-trading/26c45d48-38d0-43a0-a85f-8591753f392d/apply",
@@ -355424,6 +355424,65 @@
             "Mason, OH"
         ],
         "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Exponent",
+        "id": "acc0eb53-462e-48f5-b581-a821729c6b16",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1782275581,
+        "date_posted": 1780005897,
+        "url": "https://careers-exponent.icims.com/jobs/2164/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Exponent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Peraton",
+        "id": "a8c3ea34-c051-434a-8817-bccdf2d17c6c",
+        "title": "Technician 1 - Electronic",
+        "active": true,
+        "date_updated": 1782275890,
+        "date_posted": 1780092556,
+        "url": "https://careers-peraton.icims.com/jobs/158058/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Topeka, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Federal Reserve System",
+        "id": "4c96ac7c-dfa6-4ecf-98db-36ba104fa9b5",
+        "title": "Machine Learning Research Assistant",
+        "active": true,
+        "date_updated": 1782263560,
+        "date_posted": 1782263281,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Philadelphia-PA/Machine-Learning-Research-Assistant_R-0000032486",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
