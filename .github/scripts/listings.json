@@ -29002,24 +29002,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "McAdams",
-        "id": "24cca410-347c-4597-a1ed-bf06677e7f91",
-        "title": "Instrument Operator 1 - Surveying",
-        "active": false,
-        "date_updated": 1761935071,
-        "date_posted": 1761556442,
-        "url": "https://job-boards.greenhouse.io/mcadams/jobs/4948654007",
-        "locations": [
-            "Greenville, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/McAdams",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "CAE",
         "id": "4ca39cf4-2460-40ea-9324-58d5873d2623",
@@ -355267,7 +355249,7 @@
         "company_name": "Microsoft",
         "id": "18dda799-1ac9-4d19-aa6e-731b595ca6da",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1782263789,
         "date_posted": 1782263467,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556889438",
@@ -355417,5 +355399,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Klarity",
+        "id": "1f8f1200-34a4-4c3f-b9d0-7e4cb7c4062a",
+        "title": "AI Backend Engineer",
+        "active": true,
+        "date_updated": 1782292323,
+        "date_posted": 1782292242,
+        "url": "https://jobs.ashbyhq.com/klarity-ai/99de9d9b-d0c6-42a6-9e4d-2df097dae008/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Klarity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "UBS",
+        "id": "0f790154-b110-4193-a208-d4dbbc2dad5c",
+        "title": "Quantitative Analyst - Scenarios and Scenario Models",
+        "active": true,
+        "date_updated": 1782292237,
+        "date_posted": 1781947197,
+        "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=341057",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/UBS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
