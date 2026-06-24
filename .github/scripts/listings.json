@@ -1933,7 +1933,7 @@
         "company_name": "Graphcore",
         "id": "bdcc2ad1-8fbd-449a-8c34-eb2908c31a8b",
         "title": "2026 Graduate Software Engineer - Triton",
-        "active": true,
+        "active": false,
         "date_updated": 1762274143,
         "date_posted": 1762274143,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8238577002",
@@ -11791,7 +11791,7 @@
         "company_name": "Graphcore",
         "id": "ecd4fa64-e0f2-488f-bf9c-d224f587a109",
         "title": "Graduate Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1762820285,
         "date_posted": 1762820285,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8238597002",
@@ -99506,7 +99506,7 @@
         "company_name": "Graphcore",
         "id": "2b482c61-059b-4d91-b72e-b538eef56c4b",
         "title": "Graduate Silicon Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1767740789,
         "date_posted": 1767740789,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8360506002",
@@ -145064,7 +145064,7 @@
         "company_name": "The New York Times",
         "id": "68674c8e-c435-47e4-b0cb-9625d7e71081",
         "title": "Associate Android Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770333876,
         "date_posted": 1770333876,
         "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4636765005",
@@ -301259,7 +301259,7 @@
         "company_name": "Graphcore",
         "id": "e0d76bf8-965b-4eb7-96a8-715c7ee1e1f8",
         "title": "Graduate SoC Architecture Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779142141,
         "date_posted": 1779141982,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8554922002",
@@ -314300,7 +314300,7 @@
         "company_name": "H1",
         "id": "ce699c39-7cd8-4963-8665-b00a7e5c3bda",
         "title": "Research Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779822723,
         "date_posted": 1779113183,
         "url": "https://jobs.lever.co/h1/a5bd1f99-006c-46a8-8eb3-1cad154b3068/apply",
@@ -355479,6 +355479,148 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Allica Bank",
+        "id": "795dd531-f591-4a51-9521-c91cb32ad7a5",
+        "title": "Graduate AI Engineer",
+        "active": true,
+        "date_updated": 1782310322,
+        "date_posted": 1782310092,
+        "url": "https://jobs.ashbyhq.com/allica-bank/e73d2e2f-4fcb-4fbf-8216-665a0a4a6c9d/application",
+        "locations": [
+            "Milton Keynes, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Allica-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Zurich Insurance",
+        "id": "0d33ad57-857d-4acb-80a3-9d1b7e9d85ff",
+        "title": "Trading Underwriter - Multiple Teams",
+        "active": true,
+        "date_updated": 1782310322,
+        "date_posted": 1782310058,
+        "url": "https://www.careers.zurich.com/job/Croydon-Trading-Underwriter-GB-L/1364694757/?ats=successfactors",
+        "locations": [
+            "Croydon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Zurich-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "0813455c-27d0-4a9e-8972-ee868e70e7e9",
+        "title": "Graduate SoC Architect",
+        "active": true,
+        "date_updated": 1782310861,
+        "date_posted": 1782310324,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8604239002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Louisiana State University (LSU)",
+        "id": "e1c7fcf8-2f5a-4671-bb86-ffc6d04ea551",
+        "title": "Wages as Earned \u2013 Research",
+        "active": true,
+        "date_updated": 1782310212,
+        "date_posted": 1782309826,
+        "url": "https://lsu.wd1.myworkdayjobs.com/lsuwaiver/job/3255-Patrick-F-Taylor-Hall/WAE---Research_R00116738",
+        "locations": [
+            "Baton Rouge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Louisiana-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "cc92244b-4732-4d56-88b4-c66197009803",
+        "title": "Graduate Firmware Engineer",
+        "active": true,
+        "date_updated": 1782310820,
+        "date_posted": 1782310322,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8605363002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "ad37db83-e20e-42cf-8b02-4ad06055a073",
+        "title": "Graduate Silicon Engineer",
+        "active": true,
+        "date_updated": 1782310861,
+        "date_posted": 1782310324,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8604095002",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Graphcore",
+        "id": "35a062f6-37d2-455d-98e6-7b7c4c3c5a3f",
+        "title": "Graduate Software Engineer - Triton",
+        "active": true,
+        "date_updated": 1782310951,
+        "date_posted": 1782310322,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8605372002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
