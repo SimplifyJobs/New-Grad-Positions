@@ -148208,7 +148208,7 @@
         "company_name": "Snap",
         "id": "ec986f16-6360-42fc-a3b8-2b31ac65ad50",
         "title": "Embedded Software Engineer - Level 3",
-        "active": false,
+        "active": true,
         "date_updated": 1770420462,
         "date_posted": 1770420462,
         "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/San-Diego-California/Embedded-Software-Engineer--Level-3_R0044487-1",
@@ -193566,7 +193566,7 @@
         "company_name": "IDEXX",
         "id": "f6bd529c-7b90-41cd-9373-dd7c662bd89a",
         "title": "Data Onboarding Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1772680108,
         "date_posted": 1772680108,
         "url": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/London-United-Kingdom/Data-Onboarding-Tech_J-051257",
@@ -236825,7 +236825,7 @@
         "company_name": "Micron Technology",
         "id": "ceeffc80-3190-4538-b7e8-e58617d6dcd9",
         "title": "Design Validation Product Engineer - DEG Technology",
-        "active": false,
+        "active": true,
         "date_updated": 1775004841,
         "date_posted": 1774995091,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Design-Validation-Product-Engineer--DEG-Technology_JR96079",
@@ -263181,7 +263181,7 @@
         "company_name": "TikTok",
         "id": "d7f1b24a-b651-4239-81a5-05805190a745",
         "title": "Research Scientist - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1776406321,
         "date_posted": 1776406269,
         "url": "https://lifeattiktok.com/search/7629243930022267189",
@@ -300918,7 +300918,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "f99ef275-1a4f-448a-ac01-0921c8ee9b57",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779142681,
         "date_posted": 1779141834,
         "url": "https://careers-blackhawknetwork.icims.com/jobs/26582/job?mobile=true&needsRedirect=false",
@@ -306332,7 +306332,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "e036db29-3a3b-4749-8969-b686f8826486",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779487561,
         "date_posted": 1779487451,
         "url": "https://careers-blackhawknetwork.icims.com/jobs/26610/job?mobile=true&needsRedirect=false",
@@ -334654,7 +334654,7 @@
         "company_name": "Public Service Enterprise Group",
         "id": "b057bd16-1b4a-4306-8414-57d70ca5935b",
         "title": "Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1781042761,
         "date_posted": 1781042642,
         "url": "https://jobs.pseg.com/job/Newark-Data-Scientist-NJ-07101/1398268700/?ats=successfactors",
@@ -349921,7 +349921,7 @@
         "company_name": "Micron Technology",
         "id": "c8d7875f-7bac-4534-b12d-2428a99cba2f",
         "title": "Design Engineer - HBM Design for Test",
-        "active": false,
+        "active": true,
         "date_updated": 1781735221,
         "date_posted": 1781734487,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Design-Engineer--HBM-DFT_JR93231-1",
@@ -355400,6 +355400,65 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HumanSignal",
+        "id": "0851f607-53f8-49e3-a3b8-d428655610de",
+        "title": "AI Data Collector",
+        "active": true,
+        "date_updated": 1782281418,
+        "date_posted": 1774574279,
+        "url": "https://job-boards.greenhouse.io/humansignal/jobs/5823660004",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/a3363565-517a-4196-b226-f0fcbdeb872a",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "c21179e5-5ab8-405f-8bcd-9c098e8bd858",
+        "title": "New College Grad - Engineer - IC CAD",
+        "active": true,
+        "date_updated": 1782298983,
+        "date_posted": 1781953925,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Engineer--IC-CAD_JR103890",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Legrand North America",
+        "id": "f6bdbbfa-5f5a-4df7-a1c0-7d48bbb3b26e",
+        "title": "Junior Product Engineering Associate",
+        "active": true,
+        "date_updated": 1782298342,
+        "date_posted": 1780006035,
+        "url": "https://jobs-legrand.icims.com/jobs/9968/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Legrand-North-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
