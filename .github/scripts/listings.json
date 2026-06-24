@@ -29258,60 +29258,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Comcast",
-        "id": "a3d0ad04-68c1-4ef5-9655-f6abb4436b53",
-        "title": "Technical Analyst",
-        "active": false,
-        "date_updated": 1761530232,
-        "date_posted": 1761530232,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Technical-Analyst_R423157",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "L3Harris Technologies",
-        "id": "f1abda33-0999-4fc2-88af-7f4e008aabd2",
-        "title": "Senior Associate - Application Development",
-        "active": false,
-        "date_updated": 1762937258,
-        "date_posted": 1761530091,
-        "url": "https://jobs.l3harris.com/job/Greenville-Sr_-Associate,-Application-Development-TX-75402/1335454700/?ats=successfactors",
-        "locations": [
-            "Greenville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Dexterity",
-        "id": "4bf7a04c-e5bd-4283-90f7-84bfaa034492",
-        "title": "Application Support Engineer",
-        "active": true,
-        "date_updated": 1761529837,
-        "date_posted": 1761529837,
-        "url": "https://jobs.lever.co/dexterity/75ba6fc2-629a-41a0-bc79-41e4f8aea6e3/apply",
-        "locations": [
-            "San Carlos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dexterity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Oracle",
         "id": "2e9719cf-0a18-4054-aaba-fac7b0136af9",
         "title": "Undergrad Software Engineer - Fusion",
@@ -29325,42 +29271,6 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Solventum",
-        "id": "530a978b-bb58-4131-9885-d237037dd988",
-        "title": "Workshop Repair Technician - m/f/x",
-        "active": false,
-        "date_updated": 1761529537,
-        "date_posted": 1761529537,
-        "url": "https://healthcare.wd1.myworkdayjobs.com/search/job/GB-Runcorn/Workshop-Repair-Technician--m-f-x--_R01124201",
-        "locations": [
-            "Warrington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Solventum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "2b6c2369-fc77-4372-857a-1cd89d595b8a",
-        "title": "Customer Engineer 1 - Dallas TX",
-        "active": false,
-        "date_updated": 1762930918,
-        "date_posted": 1761529003,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20252630",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -99212,26 +99122,6 @@
             "Victoria, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "IXL Learning",
-        "id": "ae6a450e-b7ee-4b09-829b-124072ddbcab",
-        "title": "IXL Associate Product Manager",
-        "active": false,
-        "date_updated": 1767693114,
-        "date_posted": 1761529224,
-        "url": "https://www.ixl.com/company/jobs?gh_jid=8227077002",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/IXL-Learning",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -183187,7 +183077,7 @@
         "company_name": "Electronic Arts",
         "id": "1d25b0d9-a396-4837-a9d5-8bf63c036d3f",
         "title": "Data Scientist Mobile Growth",
-        "active": true,
+        "active": false,
         "date_updated": 1772184224,
         "date_posted": 1767914079,
         "url": "https://jobs.ea.com/en_US/careers/JobDetail/Data-Scientist-Mobile-Growth/211632",
@@ -191376,24 +191266,6 @@
             "PhD",
             "Associate's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "ab6a1407-32da-45e8-8ca5-15b170bbf181",
-        "title": "Customer Engineer 1-Chicago",
-        "active": false,
-        "date_updated": 1769857851,
-        "date_posted": 1761529518,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256060",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -292180,7 +292052,7 @@
         "company_name": " PrizePicks",
         "id": "9aa68f28-7ed4-4e14-8c2a-1f4758cc7868",
         "title": "Associate Data Scientist - Originations",
-        "active": false,
+        "active": true,
         "date_updated": 1778278681,
         "date_posted": 1778278662,
         "url": "http://prizepicks.com/position?gh_jid=7702028003",
@@ -341821,7 +341693,7 @@
         "company_name": "University of Texas at Austin",
         "id": "7775f115-a0de-4049-8fc1-d7b7a2fb84a4",
         "title": "Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781226608,
         "date_posted": 1781226410,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Data-Engineer-I_R_00045134",
@@ -351835,7 +351707,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -353838,7 +353710,7 @@
         "company_name": "CPI Security",
         "id": "5259457c-accf-4cf8-b28c-a170247f047a",
         "title": "Commercial Installation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781993501,
         "date_posted": 1781647832,
         "url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4689971006",
@@ -355556,6 +355428,128 @@
             "Jacksonville, FL"
         ],
         "company_url": "https://simplify.jobs/c/SSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LinkedIn",
+        "id": "ed7d2fc6-9d08-46ca-8318-b000bcda44bf",
+        "title": "AI Governance and Advisory Associate",
+        "active": true,
+        "date_updated": 1782263341,
+        "date_posted": 1782263208,
+        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000133706629",
+        "locations": [
+            "SF",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/LinkedIn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qualtrics",
+        "id": "6eab4c62-1932-4401-8372-fc19af756043",
+        "title": "Software Engineer 1 - Core Topics Platform",
+        "active": true,
+        "date_updated": 1782264111,
+        "date_posted": 1782263953,
+        "url": "https://www.qualtrics.com/careers/us/en/job/8018763?gh_jid=8018763",
+        "locations": [
+            "Provo, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "3M",
+        "id": "97a401ee-e4b6-44f0-a1ab-2b899e57c601",
+        "title": "Fiber Optic Testing Technician - Expanded Beam Optics",
+        "active": true,
+        "date_updated": 1782263521,
+        "date_posted": 1782263445,
+        "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Texas-Austin/Fiber-Optic-Testing-Technician----Expanded-Beam-Optics_R01167149",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/3M",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microsoft",
+        "id": "18dda799-1ac9-4d19-aa6e-731b595ca6da",
+        "title": "Data Center Technician",
+        "active": true,
+        "date_updated": 1782263789,
+        "date_posted": 1782263467,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556889438",
+        "locations": [
+            "M\u00e1laga, Spain",
+            "Wenatchee, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "United Launch Alliance",
+        "id": "b848b73d-cd4b-42f0-a5c3-b3e3f12c04d6",
+        "title": "CI/CD Infrastructure Software Engineer 1",
+        "active": true,
+        "date_updated": 1782263521,
+        "date_posted": 1782263365,
+        "url": "https://jobs.ulalaunch.com/job/Centennial-CICD-Infrastructure-Software-Engineer-1-CO-80112/1402696200/?ats=successfactors",
+        "locations": [
+            "Centennial, CO",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Launch-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Honeywell",
+        "id": "8625f8ce-59cc-4216-9db0-43314f6c866f",
+        "title": "Application Engineer 1",
+        "active": true,
+        "date_updated": 1782263650,
+        "date_posted": 1782263444,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/151139",
+        "locations": [
+            "Mason, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
