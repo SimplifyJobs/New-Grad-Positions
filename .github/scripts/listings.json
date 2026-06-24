@@ -353894,7 +353894,7 @@
         "company_name": "CPI Security",
         "id": "5259457c-accf-4cf8-b28c-a170247f047a",
         "title": "Commercial Installation Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1781993501,
         "date_posted": 1781647832,
         "url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4689971006",
@@ -355596,6 +355596,26 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SS&C",
+        "id": "6a6c1581-688a-4490-a6f9-1d598fb5a107",
+        "title": "Salesforce Systems Engineer",
+        "active": true,
+        "date_updated": 1782167041,
+        "date_posted": 1782165792,
+        "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Jacksonville-FL/Salesforce-Systems-Engineer_R42882",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/SSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
