@@ -355460,5 +355460,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SRI International",
+        "id": "61531761-76bc-4c0d-949a-4c431ac97b8e",
+        "title": "Postdoctoral Fellow - Applied & Computational Scientists",
+        "active": true,
+        "date_updated": 1782275581,
+        "date_posted": 1780005920,
+        "url": "https://careers-sri.icims.com/jobs/6314/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SRI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
