@@ -1190,24 +1190,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Wyetech",
-        "id": "61096eee-4019-4502-8944-597bb2489fb6",
-        "title": "Software Engineer 0",
-        "active": true,
-        "date_updated": 1761527226,
-        "date_posted": 1761527226,
-        "url": "https://jobs.lever.co/wyetechllc/37094832-f2d0-46ce-968d-9c2369068034/apply",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "6ab2b733-65e2-4060-8a02-4f9b41c40945",
         "title": "Modeling & Simulation Software Engineer 1 or 2 - Aht",
@@ -29379,24 +29361,6 @@
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sierra Nevada Corporation",
-        "id": "0e8efb76-1e2d-4e92-8409-094efbdf04ba",
-        "title": "Military Fellowship Program: Safety Specialist",
-        "active": false,
-        "date_updated": 1761527532,
-        "date_posted": 1761527532,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Colorado-Springs-CO/Military-Fellowship-Program--Safety-Specialist_R0028808",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -210780,26 +210744,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "JP Morgan Chase",
-        "id": "4384ebfa-0360-4e3b-9d7b-d7c21f6154c1",
-        "title": "Quantitative Trading and Research - Associate",
-        "active": false,
-        "date_updated": 1773477556,
-        "date_posted": 1761527921,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210679040",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
         ]
     },
     {
