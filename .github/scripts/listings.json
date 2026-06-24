@@ -28931,24 +28931,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Wagner College",
-        "id": "678bbd84-d9f4-41b4-a37f-8fcfb72486a9",
-        "title": "Desktop Support Technician - Desktop Support Technician",
-        "active": false,
-        "date_updated": 1762921237,
-        "date_posted": 1761580766,
-        "url": "https://fa-exad-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/292",
-        "locations": [
-            "Staten Island, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Wagner-College",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Fidelity National Information Services",
         "id": "674ebdf5-8975-4bc5-835e-ec353028d3a9",
         "title": "Technical Support Representative 1",
@@ -212639,7 +212621,7 @@
         "company_name": "Aurora Innovation",
         "id": "c9cea194-4359-4677-af86-57f85ced4893",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1773728893,
         "date_posted": 1773728893,
         "url": "https://aurora.tech/jobs/8159549002?gh_jid=8159549002",
@@ -320290,7 +320272,7 @@
         "company_name": "Faculty AI",
         "id": "862eb48a-cef1-4f8c-943b-34178f31b90f",
         "title": "Business Technology Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779977651,
         "date_posted": 1779977258,
         "url": "https://jobs.ashbyhq.com/faculty/c613b833-4bdd-45ab-9596-e64ef3fd28b9/application",
@@ -355621,6 +355603,85 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Markon",
+        "id": "6052667b-546e-4416-966d-0bfe4b2a7e81",
+        "title": "Software Engineer Level 1",
+        "active": true,
+        "date_updated": 1782275581,
+        "date_posted": 1780006098,
+        "url": "https://careers-markon.icims.com/jobs/8089/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Markon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HumanSignal",
+        "id": "34a047b0-746f-4fd2-9db6-e3fb43e612b0",
+        "title": "Data Collection Contributor",
+        "active": true,
+        "date_updated": 1782282421,
+        "date_posted": 1774574278,
+        "url": "https://job-boards.greenhouse.io/humansignal/jobs/5823639004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/a3363565-517a-4196-b226-f0fcbdeb872a",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Great American Insurance Company",
+        "id": "d25f28a4-04c0-4409-abff-3e1d96ae62af",
+        "title": "Data Reporting Analyst Associate",
+        "active": true,
+        "date_updated": 1782310612,
+        "date_posted": 1782310067,
+        "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Associate-Data-Reporting-Analyst-Data-Reporting-Analyst_R9144",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Great-American-Insurance-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sentry Insurance",
+        "id": "38f46709-1cac-493a-9148-8bc145669237",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1782310861,
+        "date_posted": 1782309837,
+        "url": "https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Software-Developer--Hybrid-Work-Model-_JR-142351",
+        "locations": [
+            "Plover, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/782e6c3f-aff3-4aed-9d50-50676cb8ed7f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
