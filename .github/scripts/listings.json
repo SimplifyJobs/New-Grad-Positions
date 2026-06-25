@@ -12248,26 +12248,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Major League Baseball",
-        "id": "d0e6972e-01b5-4c84-9fd8-160bd2d22712",
-        "title": "Analyst \u2013 Domestic Scouting",
-        "active": false,
-        "date_updated": 1761688059,
-        "date_posted": 1761688059,
-        "url": "https://job-boards.greenhouse.io/baltimoreorioles/jobs/5678108004",
-        "locations": [
-            "Baltimore, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/MLB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "CIBC",
         "id": "406d7a5c-55fb-4513-9840-cd0e96e31a84",
         "title": "Associate \u2013 Institutional Equity Research - Data Scientist",
@@ -28141,24 +28121,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Northeastern",
-        "id": "eb8b37a3-8c64-41f5-8743-8d8002f99850",
-        "title": "Postdoctoral Research Associate",
-        "active": false,
-        "date_updated": 1761687987,
-        "date_posted": 1761687987,
-        "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R136622-1",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northeastern",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Fiserv",
         "id": "ef595ab0-b7f4-44b1-95ca-7934cdac7d35",
@@ -36883,24 +36845,6 @@
             "Yeovil, UK"
         ],
         "company_url": "https://simplify.jobs/c/Thales",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "QVC",
-        "id": "d923d3af-4c64-48fe-8737-487bc69010dc",
-        "title": "Assistant Technical Designer - US",
-        "active": false,
-        "date_updated": 1761688534,
-        "date_posted": 1761688534,
-        "url": "https://qvc.wd5.myworkdayjobs.com/qrg/job/USA-PA-West-Chester/Assistant-Technical-Designer--US-_R80520",
-        "locations": [
-            "West Chester, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/de5e5424-ccde-43a4-a065-2bbca08a5eae",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
