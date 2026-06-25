@@ -345458,7 +345458,7 @@
         "company_name": "AbbVie",
         "id": "8ff8737a-af04-4d5b-82c5-7b092a7f21f9",
         "title": "Associate Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781650018,
         "date_posted": 1781647526,
         "url": "https://jobs.smartrecruiters.com/AbbVie/3743990013652366",
@@ -355265,6 +355265,26 @@
             "Malvern, PA"
         ],
         "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Corning",
+        "id": "b04e012a-fae8-459e-99d0-b1378ab36891",
+        "title": "Software Engineer - CMMS Systems",
+        "active": true,
+        "date_updated": 1782367561,
+        "date_posted": 1782367506,
+        "url": "https://corningjobs.corning.com/job/Corning-Software-Engineer-(CMMS-Systems)-NY-14831/1403127800/?ats=successfactors",
+        "locations": [
+            "Elmira, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Corning",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
