@@ -1153,24 +1153,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "896192c3-1d79-44c3-904a-e306d914117e",
-        "title": "Waveserver Software Developer - New Graduate",
-        "active": false,
-        "date_updated": 1761937804,
-        "date_posted": 1761608932,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Waveserver-Software-Developer---New-Grad_R029253",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "6ab2b733-65e2-4060-8a02-4f9b41c40945",
@@ -28683,96 +28665,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Assort-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "b9e99be7-84a2-443a-aebb-af70c4e3c1e8",
-        "title": "Embedded Engineer 1",
-        "active": false,
-        "date_updated": 1762921185,
-        "date_posted": 1761609370,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/124562",
-        "locations": [
-            "Bellefontaine, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Aevex Aerospace",
-        "id": "7fb7b063-c977-40eb-9fe8-5d2849f7962e",
-        "title": "Identity Intelligence Analyst Junior",
-        "active": false,
-        "date_updated": 1762212300,
-        "date_posted": 1761609374,
-        "url": "https://job-boards.greenhouse.io/aevexaerospace/jobs/4097943008",
-        "locations": [
-            "Quantico, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aevex-Aerospace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Instawork",
-        "id": "9df17916-9b22-4d21-ac8b-921487de77cc",
-        "title": "Product Operations Analyst",
-        "active": true,
-        "date_updated": 1761609231,
-        "date_posted": 1761609231,
-        "url": "https://job-boards.greenhouse.io/instawork/jobs/4583588006",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Instawork",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Instawork",
-        "id": "6d61b4aa-ccbb-4e1e-9510-1ecc7ccb2ad5",
-        "title": "Product Operations Analyst",
-        "active": true,
-        "date_updated": 1761609224,
-        "date_posted": 1761609224,
-        "url": "https://job-boards.greenhouse.io/instawork/jobs/4583589006",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Instawork",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AT&T",
-        "id": "aaee388e-ba9d-48e7-a6aa-3e60f0ab310b",
-        "title": "Installation Technician",
-        "active": false,
-        "date_updated": 1761608881,
-        "date_posted": 1761608881,
-        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/South-Bend-Indiana/Installation-Technician_R-85808",
-        "locations": [
-            "South Bend, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/ATT",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
