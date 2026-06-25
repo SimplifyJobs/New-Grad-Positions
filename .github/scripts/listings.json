@@ -28544,43 +28544,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Oracle",
-        "id": "320597f3-8ed3-4227-915d-43988da76d8c",
-        "title": "Software Developer 1",
-        "active": false,
-        "date_updated": 1761611076,
-        "date_posted": 1761611076,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/309552",
-        "locations": [
-            "Seattle, WA",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AGE Solutions",
-        "id": "fafa4344-081d-4995-827d-81a6f8eda813",
-        "title": "Associate Network Field Services Engineer - Telecommunications",
-        "active": false,
-        "date_updated": 1761610444,
-        "date_posted": 1761610444,
-        "url": "https://job-boards.greenhouse.io/agecareers/jobs/4954952008",
-        "locations": [
-            "Honolulu, HI"
-        ],
-        "company_url": "https://simplify.jobs/c/AGE-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Kaseya",
         "id": "7dbf2012-1546-4b0d-b91d-bf5764e059da",
@@ -28647,24 +28610,6 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Assort Health",
-        "id": "724f5d68-f44c-4be2-b77e-f6f49f9991fe",
-        "title": "Agent Engineer",
-        "active": false,
-        "date_updated": 1762925546,
-        "date_posted": 1761609995,
-        "url": "https://jobs.ashbyhq.com/assorthealth/64876579-05a2-40b6-a772-d1ce8b0ac8c4/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Assort-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
