@@ -28398,25 +28398,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hastings Direct",
-        "id": "826d1af9-a361-422e-837f-9d17928fb0a8",
-        "title": "Analyst Microservices Developer",
-        "active": false,
-        "date_updated": 1761638505,
-        "date_posted": 1761638505,
-        "url": "https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/Bexhill/Analyst-Microservices-Developer_60012552",
-        "locations": [
-            "Tunbridge Wells, UK",
-            "Leicester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hastings-Direct",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "EquipmentShare",
         "id": "ae8e3fe2-22d7-4366-8d72-7a584c1a2b26",
@@ -122256,26 +122237,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Archer",
-        "id": "bce73b16-47b6-4170-86c3-8da8216579de",
-        "title": "Senior Software Engineer - Back End",
-        "active": false,
-        "date_updated": 1769135069,
-        "date_posted": 1761639305,
-        "url": "https://job-boards.greenhouse.io/archer56/jobs/7499031003",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Archer",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
