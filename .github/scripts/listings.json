@@ -28361,25 +28361,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Camlin",
-        "id": "e56e2c77-09f1-4359-81f6-ad45c0f676bd",
-        "title": "Product Manager",
-        "active": false,
-        "date_updated": 1762168516,
-        "date_posted": 1761644894,
-        "url": "https://ats.rippling.com/camlin-careers/jobs/e3440d9e-7e9d-4ac4-9265-d9d4eb9c8474",
-        "locations": [
-            "London, UK",
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Camlin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "EquipmentShare",
         "id": "ae8e3fe2-22d7-4366-8d72-7a584c1a2b26",
