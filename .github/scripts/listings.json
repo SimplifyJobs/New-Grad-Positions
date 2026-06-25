@@ -28545,60 +28545,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Kaseya",
-        "id": "7dbf2012-1546-4b0d-b91d-bf5764e059da",
-        "title": "Help Desk Engineer",
-        "active": false,
-        "date_updated": 1761616370,
-        "date_posted": 1761616370,
-        "url": "https://www.kaseya.com/careers/jobs/id/5677876004/?gh_jid=5677876004",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Kaseya",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "287a8451-7236-4b02-b46a-ab71b0d35aae",
-        "title": "Computer Operations Analyst - Regional COSA",
-        "active": false,
-        "date_updated": 1761615883,
-        "date_posted": 1761615883,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Computer-Operations-Analyst---Regional-COSA--25-530-_R10212244-1",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "102a48c7-6c62-4141-a415-cbf5228fe828",
-        "title": "Corporate Treasury - Program & Data Management - Associate",
-        "active": false,
-        "date_updated": 1761615210,
-        "date_posted": 1761615210,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680012",
-        "locations": [
-            "Newark, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Armstrong Group",
         "id": "f5093b90-753c-42c7-968a-40aabf19550c",
         "title": "Broadband Technician 1",
