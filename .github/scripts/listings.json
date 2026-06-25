@@ -1,41 +1,5 @@
 [
     {
-        "date_updated": 1761689168,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8136092002",
-        "company_name": "Torc Robotics",
-        "title": "Machine Learning Engineer, I - App Engine (CUDA)",
-        "locations": [
-            "Ann Arbor, MI"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Simplify",
-        "id": "0539652a-4c95-4021-bb8e-fb8642bb85be",
-        "date_posted": 1761689168,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761689278,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://www.qualtrics.com/careers/us/en/job/7347811?gh_jid=7347811",
-        "company_name": "Qualtrics",
-        "title": "Software Engineer I - Customer Experience",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "8ee0ba09-44c7-400a-afa8-a25b46cc6731",
-        "date_posted": 1761689278,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1763109775,
         "sponsorship": "Other",
         "active": false,
