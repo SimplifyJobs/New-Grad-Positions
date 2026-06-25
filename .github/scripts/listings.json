@@ -28598,24 +28598,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nokia",
-        "id": "edc1031e-7cda-456f-9e05-95d9a3161eba",
-        "title": "Hardware Debug Technician",
-        "active": false,
-        "date_updated": 1761614965,
-        "date_posted": 1761614965,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24915",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Armstrong Group",
         "id": "f5093b90-753c-42c7-968a-40aabf19550c",
