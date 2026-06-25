@@ -28325,24 +28325,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Stripe",
-        "id": "002a0e4d-09e5-45ad-acac-539edde7b070",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1761650234,
-        "date_posted": 1761650234,
-        "url": "https://stripe.com/jobs/search?gh_jid=5416444",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "L3Harris Technologies",
         "id": "d741253e-880f-49bd-a467-fc89777548c0",
