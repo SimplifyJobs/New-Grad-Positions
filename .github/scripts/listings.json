@@ -355338,5 +355338,25 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "City and County of San Francisco",
+        "id": "1ad5e34b-7418-46fe-9725-948719ed2572",
+        "title": "Technology Engineer - Associate - Applications Specialty",
+        "active": true,
+        "date_updated": 1782349921,
+        "date_posted": 1782349560,
+        "url": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990013780745",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/City-And-County-Of-San-Francisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
