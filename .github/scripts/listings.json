@@ -355214,5 +355214,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "2573aeed-7da0-4b44-b555-e95d00f6563b",
+        "title": "Software Engineering - Ignite Innovator Program",
+        "active": true,
+        "date_updated": 1782165961,
+        "date_posted": 1782165840,
+        "url": "https://careers-peraton.icims.com/jobs/167926/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Blacksburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
