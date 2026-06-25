@@ -28454,60 +28454,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "67a07be6-13b6-48c1-80aa-f4259d77befb",
-        "title": "Engineer/Principal Engineer Systems Test",
-        "active": false,
-        "date_updated": 1761623787,
-        "date_posted": 1761623787,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Engineer-Principal-Engineer-Systems-Test_R10211276",
-        "locations": [
-            "Dulles, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Auto-Owners Insurance",
-        "id": "e2cb5aa7-1223-4107-a373-b4b4f3124feb",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1761623561,
-        "date_posted": 1761623561,
-        "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Analyst_R_11996",
-        "locations": [
-            "East Lansing, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Auto-Owners-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ADT",
-        "id": "98d053bf-e740-4d59-afa0-13ff3788189a",
-        "title": "Installation Technician",
-        "active": false,
-        "date_updated": 1761622754,
-        "date_posted": 1761622754,
-        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3018304",
-        "locations": [
-            "Bridgeville, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/ADT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Arqiva",
         "id": "6164a080-b6e8-425d-b0fd-851f2372cd28",
         "title": "GRC Analyst",
@@ -355357,6 +355303,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Vanguard",
+        "id": "9d262d13-ffe1-474f-b058-87dc3ae93511",
+        "title": "Accelerated Career Development Program Senior Associate - Product Pathway",
+        "active": true,
+        "date_updated": 1782349892,
+        "date_posted": 1782349684,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Accelerated-Career-Development-Program--Product-Pathway--Senior-Associate--PA-_179571",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
