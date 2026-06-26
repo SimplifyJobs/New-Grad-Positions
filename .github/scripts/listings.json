@@ -27477,42 +27477,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Newell Brands",
-        "id": "cd979548-268d-471d-816a-5f1f5cccda05",
-        "title": "Associate Product Engineer - Product Engineering",
-        "active": false,
-        "date_updated": 1761727035,
-        "date_posted": 1761727035,
-        "url": "https://jobs.newellbrands.com/job/South-Deerfield-Associate-Product-Engineer-Mass/1338391500/?ats=successfactors",
-        "locations": [
-            "Amherst, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Newell-Brands",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Newell Brands",
-        "id": "7934579d-cd45-47f4-8f34-556c29bf70c2",
-        "title": "Associate Product Engineer",
-        "active": false,
-        "date_updated": 1761727057,
-        "date_posted": 1761727057,
-        "url": "https://jobs.newellbrands.com/job/South-Deerfield-Associate-Product-Engineer-Mass/1338335600/?ats=successfactors",
-        "locations": [
-            "Amherst, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Newell-Brands",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "CACI",
         "id": "d6fe49c3-4efa-4652-9b5e-7609bea7f2c4",
@@ -75503,24 +75467,6 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/ASML",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Shield AI",
-        "id": "9f626991-8396-479f-af83-2f161feb45ad",
-        "title": "Production Technician",
-        "active": false,
-        "date_updated": 1761727211,
-        "date_posted": 1761727211,
-        "url": "https://jobs.lever.co/shieldai/efe94990-c80b-45b6-949b-71dde71235d2/apply",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Shield-AI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
