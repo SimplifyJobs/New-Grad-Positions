@@ -27009,60 +27009,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "AT&T",
-        "id": "6a9cd289-f891-4704-90d8-5725ac179034",
-        "title": "Installation Technician",
-        "active": false,
-        "date_updated": 1761772016,
-        "date_posted": 1761772016,
-        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Mount-Pleasant-Wisconsin/Installation-Technician_R-88655",
-        "locations": [
-            "Racine, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/ATT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sanford Health",
-        "id": "6575ec65-4e33-440a-ab84-96f783659e1c",
-        "title": "Associate IT Security Specialist - PRN",
-        "active": false,
-        "date_updated": 1761772239,
-        "date_posted": 1761772239,
-        "url": "https://sanford.wd5.myworkdayjobs.com/sanfordhealth/job/SD-Sioux-Falls/Associate-IT-Security-Specialist---PRN_R-0239354",
-        "locations": [
-            "Sioux Falls, SD"
-        ],
-        "company_url": "https://simplify.jobs/c/Sanford-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Standard Bots",
-        "id": "6938e106-2fcd-498e-9710-10b45a2173e9",
-        "title": "Data Collection Specialist - Robotic Training",
-        "active": false,
-        "date_updated": 1761772361,
-        "date_posted": 1761772361,
-        "url": "https://jobs.ashbyhq.com/standardbots/8bbb4880-c6f0-489a-bcaf-31225f6fd374/application",
-        "locations": [
-            "Manhasset, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Standard-Bots",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "WVUMedicine",
         "id": "0dcdcd36-1474-4abf-a65c-5fb74daec379",
         "title": "Associate System Analyst - Pacs Team",
