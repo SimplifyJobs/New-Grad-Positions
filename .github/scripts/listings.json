@@ -5184,7 +5184,7 @@
         "company_name": "Neuralink",
         "id": "99474a33-55ff-4529-a48c-0370290c7f03",
         "title": "Manufacturing Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1763087299,
         "date_posted": 1763087299,
         "url": "https://boards.greenhouse.io/neuralink/jobs/6258222003",
@@ -27422,25 +27422,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sanford Health",
-        "id": "ac0a61d1-c23a-4311-b8aa-9da4858fcf4e",
-        "title": "Unified Communications Technician - PRN",
-        "active": false,
-        "date_updated": 1761697677,
-        "date_posted": 1761697677,
-        "url": "https://sanford.wd5.myworkdayjobs.com/sanfordhealth/job/SD-Sioux-Falls/Unified-Communications-Technician---PRN_R-0238854",
-        "locations": [
-            "Sioux Falls, SD",
-            "South Dakota"
-        ],
-        "company_url": "https://simplify.jobs/c/Sanford-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lennar Corporation",
         "id": "86da4b36-6ea7-4175-bbde-63987da4e3ef",
@@ -27497,26 +27478,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Liquid AI",
-        "id": "72dc4dfe-8c90-4b38-a176-5bb96f426b28",
-        "title": "Member of Technical Staff - Public Communications Associate - CTO Office",
-        "active": false,
-        "date_updated": 1761697559,
-        "date_posted": 1761697559,
-        "url": "https://jobs.ashbyhq.com/liquid-ai/98e51fc7-2bad-4180-b2bc-bf12145e2797/application",
-        "locations": [
-            "Boston, MA",
-            "SF",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Liquid-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Metron",
         "id": "0b66ab03-7532-4484-8739-ba48625cf5b4",
         "title": "Associate Software Engineer",
@@ -27564,43 +27525,6 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/42dot",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zachry Group",
-        "id": "3ed16f5f-078d-468d-82dc-f271682baaaa",
-        "title": "Cyber Security Specialist 1",
-        "active": false,
-        "date_updated": 1762924334,
-        "date_posted": 1761697513,
-        "url": "https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/12726",
-        "locations": [
-            "Charlotte, NC",
-            "Groton, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Zachry-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ADT",
-        "id": "06414708-763e-4633-94b0-7a67cc993094",
-        "title": "Smart Home Consultant",
-        "active": false,
-        "date_updated": 1761697075,
-        "date_posted": 1761697075,
-        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3018323",
-        "locations": [
-            "Columbus, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/ADT",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -27930,24 +27854,6 @@
             "Northwich, UK"
         ],
         "company_url": "https://simplify.jobs/c/Ingram-Micro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Voya Financial",
-        "id": "cc8f00ab-8824-4447-b2a6-2222f839d416",
-        "title": "Student",
-        "active": false,
-        "date_updated": 1762929551,
-        "date_posted": 1761697823,
-        "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Scottsdale-AZ/Summer-Student---Fund-Product-Development_JR0031909",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/VoyaFinancial",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -299399,7 +299305,7 @@
         "company_name": "Dataminr",
         "id": "dca7dbef-1dae-40d7-8818-e97f1b7be751",
         "title": "Domain Expert Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1778943568,
         "date_posted": 1778942470,
         "url": "https://dataminr.wd12.myworkdayjobs.com/Dataminr/job/UK---Remote/Associate--Domain-Expert---MENA_JR2019",
@@ -352940,7 +352846,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "e286f41d-d303-4de6-a4aa-dddb294ccdef",
         "title": "ASIC FPGA Engineer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1782138686,
         "date_posted": 1782137114,
         "url": "https://careers-gdms.icims.com/jobs/73210/job?mobile=true&needsRedirect=false",
@@ -354293,7 +354199,7 @@
         "company_name": "Qualtrics",
         "id": "6eab4c62-1932-4401-8372-fc19af756043",
         "title": "Software Engineer 1 - Core Topics Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1782264111,
         "date_posted": 1782263953,
         "url": "https://www.qualtrics.com/careers/us/en/job/8018763?gh_jid=8018763",
@@ -354900,6 +354806,46 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Four Hands",
+        "id": "e2d23a33-2859-4e62-a5a1-9d2672ebeb4e",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1782426622,
+        "date_posted": 1782426326,
+        "url": "https://job-boards.greenhouse.io/fourhands/jobs/4297618009",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Four-Hands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EOS IT Solutions",
+        "id": "8f953f48-f630-4a12-a1bf-80cfc39736bf",
+        "title": "Data Center Repair Technician 1 - Mal",
+        "active": true,
+        "date_updated": 1782426875,
+        "date_posted": 1782426483,
+        "url": "https://eosits.com/company/careers/?gh_jid=8609192002",
+        "locations": [
+            "Alabama"
+        ],
+        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
         ]
     }
 ]
