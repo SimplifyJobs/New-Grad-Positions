@@ -9719,24 +9719,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Norfolk Southern",
-        "id": "82a87719-340d-417a-b20f-08c64752e370",
-        "title": "Gen AI Data Scientist",
-        "active": false,
-        "date_updated": 1761943516,
-        "date_posted": 1761767039,
-        "url": "https://jobs.nscorp.com/job/Atlanta-Gen-AI-Data-Scientist-GA-30308/1338360300/?ats=successfactors",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Norfolk-Southern",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "2ee41bb4-53ab-4af4-acd0-8b794504f69b",
@@ -27002,42 +26984,6 @@
             "Irvine, CA"
         ],
         "company_url": "https://simplify.jobs/c/EKN-Engineering",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Arqiva",
-        "id": "62cda09f-a58d-4c48-88d6-5c0a274fd165",
-        "title": "Service Desk Analyst - Utilities T1",
-        "active": false,
-        "date_updated": 1761767260,
-        "date_posted": 1761767260,
-        "url": "https://ehik.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24052",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Arqiva",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "afd5ce55-ee6a-4ca7-bdfd-0275cde3c4b5",
-        "title": "Engineer 2 - Product",
-        "active": false,
-        "date_updated": 1762918505,
-        "date_posted": 1761767246,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Canada---Burnaby/Engineer-II--Product_R1983-25",
-        "locations": [
-            "Burnaby, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -354302,5 +354248,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Shift",
+        "id": "55c4cf2d-b5d2-445e-b104-ba4e1afdcee9",
+        "title": "Graduate Data Scientist",
+        "active": true,
+        "date_updated": 1782275690,
+        "date_posted": 1770678777,
+        "url": "https://job-boards.greenhouse.io/shifttechnology/jobs/5910904003",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Shift-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
