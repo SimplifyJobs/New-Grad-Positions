@@ -1010,24 +1010,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "McDonald's",
-        "id": "5152a4d9-e591-4607-848e-02d7021253a0",
-        "title": "Software Engineer I C#",
-        "active": false,
-        "date_updated": 1761763472,
-        "date_posted": 1761763472,
-        "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-C-IL-60607/1338320000/?ats=successfactors",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/McDonald",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "6ab2b733-65e2-4060-8a02-4f9b41c40945",
         "title": "Modeling & Simulation Software Engineer 1 or 2 - Aht",
@@ -27099,24 +27081,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Catalent",
-        "id": "b6a91b20-e638-4b4f-acc2-bf3feb4927b2",
-        "title": "Manufacturing IT Systems Engineer",
-        "active": false,
-        "date_updated": 1762247191,
-        "date_posted": 1761764345,
-        "url": "https://catalent.wd1.myworkdayjobs.com/external/job/Kansas-City-MO/Computer-Systems-Engineer-I_0089709",
-        "locations": [
-            "Kansas City, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/714ab061-79c2-47bf-ac63-81a1ca90aca7",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Wells Fargo",
         "id": "a5b17fe1-bf32-4f97-b479-e10353b69a84",
         "title": "Technology Analyst Development Program - Software Engineer",
@@ -27308,24 +27272,6 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Samsara",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northeast Georgia Health System",
-        "id": "f642ff52-6773-45bb-ad97-7512925c430d",
-        "title": "Behavioral Therapist",
-        "active": false,
-        "date_updated": 1762923835,
-        "date_posted": 1761764332,
-        "url": "https://nghs.wd1.myworkdayjobs.com/External/job/Gainesville-GA/PHP---IOP-Behavioral-Therapist---MSW-LAPC-LMSW---Mon---Fri-8-00am---5-00pm_R23766",
-        "locations": [
-            "Gainesville, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northeast-Georgia-Health-System",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
