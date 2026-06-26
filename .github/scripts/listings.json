@@ -1028,24 +1028,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Twitch",
-        "id": "0f87bfdb-88e1-4091-afd0-06c534713bf4",
-        "title": "Software Engineer I - Frontend",
-        "active": false,
-        "date_updated": 1761761071,
-        "date_posted": 1761761071,
-        "url": "https://job-boards.greenhouse.io/twitch/jobs/8230925002",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Twitch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "6ab2b733-65e2-4060-8a02-4f9b41c40945",
         "title": "Modeling & Simulation Software Engineer 1 or 2 - Aht",
