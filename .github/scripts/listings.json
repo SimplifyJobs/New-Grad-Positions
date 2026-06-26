@@ -354428,5 +354428,23 @@
         "degrees": [
             "Certificate"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Strata Decision Technology",
+        "id": "9c3e5c8b-b509-484a-ab45-27aa8cf7cc88",
+        "title": "Data Integration Analyst",
+        "active": true,
+        "date_updated": 1782426593,
+        "date_posted": 1782425960,
+        "url": "https://job-boards.greenhouse.io/stratacareers/jobs/7784495003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Strata-Decision-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
