@@ -27806,24 +27806,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8cc3c434-79b2-4781-b6be-262f07b32b40",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1761700620,
-        "date_posted": 1761700620,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400021534",
-        "locations": [
-            "Cornwall, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "EquipmentShare",
         "id": "1e7b6a9c-3100-4a2c-8094-4ce9202f7c5e",
