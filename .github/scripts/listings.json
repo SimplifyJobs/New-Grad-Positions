@@ -1046,24 +1046,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "mthree",
-        "id": "99b6f131-7a24-4ea9-a8cb-fb6c3d20b427",
-        "title": "D\u00e9veloppeur g\u00e9nie logiciel / Junior Software Developer - Canada - Montreal",
-        "active": false,
-        "date_updated": 1761948994,
-        "date_posted": 1761756969,
-        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4613765006",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "6ab2b733-65e2-4060-8a02-4f9b41c40945",
         "title": "Modeling & Simulation Software Engineer 1 or 2 - Aht",
@@ -89608,24 +89590,6 @@
         "url": "https://coreweave.com/careers/job?4615522006&board=coreweave&gh_jid=4615522006",
         "locations": [
             "Round Rock, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/CoreWeave",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CoreWeave",
-        "id": "d1894a78-306e-46ca-8748-513224324392",
-        "title": "Data Center Technician - Dalton",
-        "active": false,
-        "date_updated": 1762936834,
-        "date_posted": 1761755481,
-        "url": "https://coreweave.com/careers/job?4613586006&board=coreweave&gh_jid=4613586006",
-        "locations": [
-            "Calhoun, GA"
         ],
         "company_url": "https://simplify.jobs/c/CoreWeave",
         "is_visible": true,
@@ -354443,6 +354407,24 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Strata-Decision-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Abound",
+        "id": "cf8ea2c6-a348-46f3-ba15-de86844650e5",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1782483121,
+        "date_posted": 1782482870,
+        "url": "https://jobs.ashbyhq.com/Abound/7ae69c2b-1dae-40c6-a5b2-8f5b42157263/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Abound",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
