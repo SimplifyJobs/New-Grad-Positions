@@ -26972,42 +26972,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "EKN Engineering",
-        "id": "ccb2d183-c44e-479a-b9b9-572baece9539",
-        "title": "Data Analyst 1",
-        "active": false,
-        "date_updated": 1762821018,
-        "date_posted": 1761775136,
-        "url": "https://job-boards.greenhouse.io/eknengineering/jobs/4623384005",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/EKN-Engineering",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Truveta",
-        "id": "2b0536b3-127b-42d3-a7dd-7e46a4f731e7",
-        "title": "Software Engineer - AI Platform",
-        "active": false,
-        "date_updated": 1761773522,
-        "date_posted": 1761773522,
-        "url": "https://job-boards.greenhouse.io/truveta/jobs/5691430004",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Truveta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "WVUMedicine",
         "id": "0dcdcd36-1474-4abf-a65c-5fb74daec379",
