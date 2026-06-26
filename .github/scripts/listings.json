@@ -1082,24 +1082,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "de9ca198-2f28-4db2-a464-e01ebba7ab27",
-        "title": "Software Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1761887178,
-        "date_posted": 1761702609,
-        "url": "https://careers-gdms.icims.com/jobs/68796/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "6ab2b733-65e2-4060-8a02-4f9b41c40945",
         "title": "Modeling & Simulation Software Engineer 1 or 2 - Aht",
@@ -27800,24 +27782,6 @@
             "Dover, DE"
         ],
         "company_url": "https://simplify.jobs/c/Light-And-Wonder",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "1e7b6a9c-3100-4a2c-8094-4ce9202f7c5e",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1761702387,
-        "date_posted": 1761702387,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7362373",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
