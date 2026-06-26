@@ -27062,42 +27062,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Shift",
-        "id": "55c4cf2d-b5d2-445e-b104-ba4e1afdcee9",
-        "title": "Graduate Data Scientist",
-        "active": true,
-        "date_updated": 1761764857,
-        "date_posted": 1761764857,
-        "url": "https://job-boards.greenhouse.io/shifttechnology/jobs/5910904003",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Shift-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Wells Fargo",
-        "id": "a5b17fe1-bf32-4f97-b479-e10353b69a84",
-        "title": "Technology Analyst Development Program - Software Engineer",
-        "active": false,
-        "date_updated": 1761765777,
-        "date_posted": 1761765777,
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/Technology-Analyst-Development-Program----Software-Engineer-_R-502487-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Wells-Fargo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "AT&T",
         "id": "6a9cd289-f891-4704-90d8-5725ac179034",
