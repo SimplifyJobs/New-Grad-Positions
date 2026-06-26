@@ -25404,24 +25404,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "TDS",
-        "id": "c47a65aa-97fd-450f-9202-5ea894e313c2",
-        "title": "Fiber Splicer 1 - Outside Plant Construction",
-        "active": false,
-        "date_updated": 1762930335,
-        "date_posted": 1761704250,
-        "url": "https://external-telecom-teldta.icims.com/jobs/28213/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Billings, MT"
-        ],
-        "company_url": "https://simplify.jobs/c/TDS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "KRAFTON",
         "id": "18635e7c-26c1-4fb2-aed1-ab2ffc2b1489",
@@ -27435,60 +27417,6 @@
             "Stratford-upon-Avon, UK"
         ],
         "company_url": "https://simplify.jobs/c/Bosch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "KDDI",
-        "id": "a12fc8b3-28c0-4eeb-be75-c170477d4bfe",
-        "title": "LANOC Network Support Technician",
-        "active": false,
-        "date_updated": 1761704417,
-        "date_posted": 1761704417,
-        "url": "https://jobs.lever.co/kddia/b3249fba-1c01-4367-b15a-cb40d4c44a13/apply",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/KDDI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Metron",
-        "id": "0b66ab03-7532-4484-8739-ba48625cf5b4",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1761704172,
-        "date_posted": 1761704172,
-        "url": "https://job-boards.greenhouse.io/metron/jobs/4959097007",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/22c7fd64-5419-4c19-8f0b-c4e2b6620614",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "605a602f-732c-4a6f-8f26-1b6f483f5aa5",
-        "title": "Large Model Optimization Engineer Graduate - PICO Perception - 2026 Start (to be cleaned)",
-        "active": false,
-        "date_updated": 1761703930,
-        "date_posted": 1761703930,
-        "url": "https://jobs.bytedance.com/en/position/7564193176165173557/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
