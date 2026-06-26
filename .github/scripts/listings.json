@@ -1064,24 +1064,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "IXL Learning",
-        "id": "9b7524ef-f7fb-4789-b675-2641d4c64ed9",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1761724235,
-        "date_posted": 1761724235,
-        "url": "https://www.ixl.com/company/jobs?gh_jid=8231360002",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/IXL-Learning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "6ab2b733-65e2-4060-8a02-4f9b41c40945",
         "title": "Modeling & Simulation Software Engineer 1 or 2 - Aht",
@@ -27543,100 +27525,6 @@
             "Amherst, MA"
         ],
         "company_url": "https://simplify.jobs/c/Newell-Brands",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "INTEGRIS Health",
-        "id": "4931477b-b405-4700-aa80-6702c29bd335",
-        "title": "Applications Analyst - Clinical Applications",
-        "active": false,
-        "date_updated": 1761724452,
-        "date_posted": 1761724452,
-        "url": "https://ertr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/109257",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/INTEGRIS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KIKOFF Leagues",
-        "id": "a7150633-72ef-4972-b329-893e08e8e6f6",
-        "title": "AI Data Operations Associate",
-        "active": false,
-        "date_updated": 1761724382,
-        "date_posted": 1761724382,
-        "url": "https://jobs.ashbyhq.com/kikoff/4d4d9059-fd67-4166-9f97-c81fbb988de2/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/KIKOFF-Leagues",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Invisible Technologies",
-        "id": "cf18fd63-0f07-49f6-8d31-8e9463ea0585",
-        "title": "Japanese Speaker - AI Trainer",
-        "active": false,
-        "date_updated": 1761894421,
-        "date_posted": 1761723684,
-        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4650952101",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Invisible-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Major League Baseball",
-        "id": "a88cb225-af03-4d24-9a0b-4e4f43806682",
-        "title": "Minor League Affiliate Technology Coordinator",
-        "active": true,
-        "date_updated": 1761723304,
-        "date_posted": 1761723304,
-        "url": "https://job-boards.greenhouse.io/baltimoreorioles/jobs/5650705004",
-        "locations": [
-            "Salisbury, MD",
-            "Frederick, MD",
-            "Bowie, MD",
-            "Norfolk, VA",
-            "Sarasota, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/MLB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Major League Baseball",
-        "id": "4621579b-dbe7-42a3-8f3d-d192b3fd8516",
-        "title": "Pro Scouting Analyst Fellowship",
-        "active": false,
-        "date_updated": 1761723294,
-        "date_posted": 1761723294,
-        "url": "https://job-boards.greenhouse.io/baltimoreorioles/jobs/5634155004",
-        "locations": [
-            "Baltimore, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/MLB",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
