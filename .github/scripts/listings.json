@@ -27405,24 +27405,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "42dot",
-        "id": "f37d51ae-664b-476b-8f9c-e4ba8d21d65d",
-        "title": "Transcription & Speech Data Labeling Specialist",
-        "active": false,
-        "date_updated": 1762437966,
-        "date_posted": 1761728711,
-        "url": "https://jobs.ashbyhq.com/42dot/4c50178b-6fbd-46f6-a423-ff6b1aeb75a1/application",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/42dot",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Cummins",
         "id": "c412bf76-0e08-4ed9-934b-6c3378a24a86",
@@ -27453,24 +27435,6 @@
             "Aurora, CO"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Keysight Technologies",
-        "id": "182a8ba1-48d1-466c-a327-0cc2474b9a94",
-        "title": "R&D Data Analytics Engineer",
-        "active": false,
-        "date_updated": 1761728549,
-        "date_posted": 1761728549,
-        "url": "https://jobs.keysight.com/jobs/49963?lang=en-us&icims=1",
-        "locations": [
-            "Santa Rosa, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
