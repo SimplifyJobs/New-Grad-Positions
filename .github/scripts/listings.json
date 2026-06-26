@@ -1100,24 +1100,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Amazon",
-        "id": "b0906a17-3c0e-4e2c-bdd9-b294be62c9cd",
-        "title": "Security Engineer I - Security Incident Response Team - Sirt",
-        "active": false,
-        "date_updated": 1761695440,
-        "date_posted": 1761695440,
-        "url": "https://amazon.jobs/en/jobs/3092566/security-engineer-i-security-incident-response-team-sirt",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "6ab2b733-65e2-4060-8a02-4f9b41c40945",
         "title": "Modeling & Simulation Software Engineer 1 or 2 - Aht",
@@ -27973,63 +27955,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Peraton",
-        "id": "cda105ef-8555-47a6-a911-753e79ffff5f",
-        "title": "Senior Associate Systems Engineer",
-        "active": false,
-        "date_updated": 1763119357,
-        "date_posted": 1761695697,
-        "url": "https://careers-peraton.icims.com/jobs/160820/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Odenton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oracle",
-        "id": "beb85408-7170-4682-8779-64d1debaa169",
-        "title": "Advanced Degree Software Engineer - Fusion",
-        "active": false,
-        "date_updated": 1761695972,
-        "date_posted": 1761695972,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/311889",
-        "locations": [
-            "San Carlos, CA",
-            "Pleasanton, CA",
-            "Santa Clara, CA",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ADT",
-        "id": "8b6f5d37-5a85-4e99-8867-3f919920bab0",
-        "title": "Smart Home Consultant",
-        "active": false,
-        "date_updated": 1761695983,
-        "date_posted": 1761695983,
-        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3018324",
-        "locations": [
-            "Chattanooga, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/ADT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Voya Financial",
         "id": "daff5849-bfca-4baa-8ff0-429234eef2c9",
         "title": "Student - Data Analytics",
@@ -28041,24 +27966,6 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/VoyaFinancial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Deutsche Bank",
-        "id": "2313a30f-dda0-403f-af75-455e94ea7c9b",
-        "title": "FX PB Product Associate - Associate",
-        "active": false,
-        "date_updated": 1761968737,
-        "date_posted": 1761694760,
-        "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/New-York-1-Columbus-Circle/FX-PB-Product-Associate---Associate_R0407891",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Deutsche-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
