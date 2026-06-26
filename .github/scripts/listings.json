@@ -27099,60 +27099,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "ADT",
-        "id": "31a7e268-cfa4-4c0d-9650-5c473b4ded29",
-        "title": "Smart Home Consultant",
-        "active": false,
-        "date_updated": 1761769338,
-        "date_posted": 1761769338,
-        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3018317",
-        "locations": [
-            "Little Rock, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/ADT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Hudson River Trading",
-        "id": "7bbdeb3a-5769-49bb-bd2e-f1d3c99732e6",
-        "title": "Electronic Trading Support Engineer",
-        "active": true,
-        "date_updated": 1761769051,
-        "date_posted": 1761769051,
-        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6575600",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ADT",
-        "id": "d5b9d4d1-1a3e-485f-b349-5f18ac495f46",
-        "title": "Smart Home Consultant",
-        "active": false,
-        "date_updated": 1761769338,
-        "date_posted": 1761769338,
-        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3018315",
-        "locations": [
-            "Springfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/ADT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "WVUMedicine",
         "id": "6d086e5e-efd3-4938-96e8-d72ff3c868b6",
         "title": "Associate Systems Analyst - Cadence - Scheduling",
@@ -27164,24 +27110,6 @@
             "Morgantown, WV"
         ],
         "company_url": "https://simplify.jobs/c/WVUMedicine",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Samsara",
-        "id": "bd7c8926-8027-427d-b2cf-9316f96dff8d",
-        "title": "Software Engineer - Full Stack - Safety",
-        "active": false,
-        "date_updated": 1763121630,
-        "date_posted": 1761768637,
-        "url": "https://www.samsara.com/company/careers/roles/7362939?gh_jid=7362939",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsara",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -87252,24 +87180,6 @@
             "St. Louis, MO"
         ],
         "company_url": "https://simplify.jobs/c/Wash-U",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Care Access",
-        "id": "131ccd8f-396f-4f49-8673-03ca04b1c08e",
-        "title": "Enterprise Performance Analytics Engineer",
-        "active": false,
-        "date_updated": 1767053280,
-        "date_posted": 1761769148,
-        "url": "https://job-boards.greenhouse.io/careaccess/jobs/4052147009",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Care-Access",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
