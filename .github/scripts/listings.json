@@ -574,24 +574,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Kroll",
-        "id": "7dc3f875-f527-4062-99ce-2ad24c5c92b2",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1761822845,
-        "date_posted": 1761822845,
-        "url": "https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21012997",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Kroll",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "c3b49ba9-cbf6-47c6-83f0-7f41baea1c1f",
@@ -875,24 +857,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Solace Health",
-        "id": "0f7a5963-9d0a-48b7-98ba-cf18160aa4b2",
-        "title": "Associate Product Manager \u2013 College Grad 2026",
-        "active": false,
-        "date_updated": 1761823292,
-        "date_posted": 1761823292,
-        "url": "https://jobs.ashbyhq.com/solace/4b746b99-e638-4f8b-b450-4f1ebed485b4/application",
-        "locations": [
-            "San Carlos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Solace-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -23240,26 +23204,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "StubHub",
-        "id": "8c60a58b-f8bf-4832-9b7b-8e6e38282155",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1761823083,
-        "date_posted": 1761823083,
-        "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4702686101",
-        "locations": [
-            "Santa Monica, CA",
-            "LA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/StubHub",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Hive",
         "id": "09e3c799-b4fb-46f1-b0a3-d9d2ea90dd92",
@@ -23978,24 +23922,6 @@
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Weave",
-        "id": "3154c0dc-a592-44c8-a3a0-90901e2c1925",
-        "title": "Customer Onboarding Technician",
-        "active": false,
-        "date_updated": 1763124050,
-        "date_posted": 1761822811,
-        "url": "https://jobs.ashbyhq.com/weave/20c56100-4b71-47f3-85b5-736572f8d8c8/application",
-        "locations": [
-            "Lehi, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Weave",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -26530,24 +26456,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/a1d1fe70-6ea7-48b6-b434-1cd26b8da8f2",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Analog Devices",
-        "id": "4c5bd58f-0a04-4b20-9aae-e91c71d844fb",
-        "title": "Systems Design/Architecture Engineering",
-        "active": false,
-        "date_updated": 1761943117,
-        "date_posted": 1761822193,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Engineer--Systems-Design-Architecture-Engineering_R256011",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
