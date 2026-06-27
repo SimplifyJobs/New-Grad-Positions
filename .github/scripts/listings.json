@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "66a3aac2-842f-464c-b1ea-6a945f687473",
-        "title": "SDA Software Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1761865749,
-        "date_posted": 1761865749,
-        "url": "https://careers-gdms.icims.com/jobs/68894/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Trexquant",
         "id": "d4cb56db-64d8-4fc9-af53-e99d85ba9c57",
@@ -25852,24 +25832,6 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Georgetown-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "J.Crew",
-        "id": "66c83a0a-93a2-4df5-8114-7e763e55e6e9",
-        "title": "Assistant Merchant - J.Crew Women's Jewelry and Accessories",
-        "active": false,
-        "date_updated": 1761866967,
-        "date_posted": 1761866967,
-        "url": "https://jcrew.wd1.myworkdayjobs.com/jcrewcareers/job/New-York-NY-USA-Headquarters/Assistant-Merchant---JCrew-Women-s-Footwear---Bags_120441",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/JCrew",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -332425,7 +332387,7 @@
         "company_name": "Bose",
         "id": "b9fe86b3-9c62-49fa-8137-0d4b93673399",
         "title": "PCB Solder Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781044607,
         "date_posted": 1781042840,
         "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-NY---Binghamton/Solder-Technician-I_R29023",
@@ -353200,6 +353162,69 @@
             "Cincinnati, OH"
         ],
         "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "86dca459-da2d-4783-b392-328d701e4737",
+        "title": "Packaging Engineer",
+        "active": true,
+        "date_updated": 1782569523,
+        "date_posted": 1782569346,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Packaging-Engineer_R263608",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Motorola",
+        "id": "7d4e70c6-0b17-4ce9-b7bd-e3bc913a449b",
+        "title": "Senior Data Scientist",
+        "active": true,
+        "date_updated": 1782569636,
+        "date_posted": 1782569322,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Sr-Data-Scientist_R65511",
+        "locations": [
+            "Hoffman Estates, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "05815051-0821-4191-949b-c618f3a8d36e",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1782598292,
+        "date_posted": 1782598083,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202679352",
+        "locations": [
+            "Austin, TX",
+            "Burlington, VT",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
