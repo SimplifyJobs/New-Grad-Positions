@@ -26265,24 +26265,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Enable",
-        "id": "08089ebe-5f0a-4ffc-86f0-4b26b3e9cc9b",
-        "title": "Associate Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1761862465,
-        "date_posted": 1761862465,
-        "url": "https://jobs.lever.co/enable/b96a23fd-21a8-4877-a63e-cc6c011b2efb/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Enable",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "NVIDIA",
         "id": "f3b8186c-518b-43ea-856a-d5475ef30582",
         "title": "Research Scientist \u2013 PhD New College Grad - Generative AI for Physical AI",
