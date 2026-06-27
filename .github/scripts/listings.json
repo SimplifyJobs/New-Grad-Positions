@@ -30626,26 +30626,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Bank of New York Mellon",
-        "id": "ccdb761c-6659-4a19-9765-01a27be5fdec",
-        "title": "Analyst Program-Engineering",
-        "active": false,
-        "date_updated": 1762913133,
-        "date_posted": 1761833342,
-        "url": "https://bnymellon.eightfold.ai/careers/job/37999987",
-        "locations": [
-            "Pittsburgh, PA",
-            "Lake Mary, FL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/BNY-Mellon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Centific",
         "id": "d5b595e8-3e8a-4954-b2b5-a8d2d1507bf4",
@@ -31022,24 +31002,6 @@
             "Colorado Springs, CO"
         ],
         "company_url": "https://simplify.jobs/c/Sev1Tech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "12fd6548-a259-4799-8ff7-a33c0a6bacaa",
-        "title": "Software Engineer - Java - Enterprise Architecture",
-        "active": false,
-        "date_updated": 1761833920,
-        "date_posted": 1761833920,
-        "url": "https://aexp.eightfold.ai/careers/job/37924986",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -292038,26 +292000,6 @@
             "Tualatin, OR"
         ],
         "company_url": "https://simplify.jobs/c/Lithia-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Boston Scientific",
-        "id": "a1544892-4b8f-476c-9e5a-8cc674c24bc3",
-        "title": "Software Development - 1 - Engineering",
-        "active": true,
-        "date_updated": 1761833023,
-        "date_posted": 1761833023,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808591541",
-        "locations": [
-            "Waltham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
