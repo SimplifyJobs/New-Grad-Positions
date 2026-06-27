@@ -26498,96 +26498,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3c9acd6b-a3dc-4a57-bfbb-527ef4d40624",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1761824014,
-        "date_posted": 1761824014,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400032638",
-        "locations": [
-            "Newcastle upon Tyne, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CAE",
-        "id": "80b719f2-a2b1-459a-9972-75fa7c24c67b",
-        "title": "Simulator Technician 1 - Morning Shift",
-        "active": false,
-        "date_updated": 1762919796,
-        "date_posted": 1761825290,
-        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Hamilton/Simulator-Technician-I--Morning-Shift-_116943-1",
-        "locations": [
-            "Hamilton, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f9f4b88a-535b-4472-a78e-d23f03b93a45",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1761823978,
-        "date_posted": 1761823978,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400032665",
-        "locations": [
-            "Watford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "PPG Industries",
-        "id": "1234e121-42e4-4fa8-8257-e19b8c41d753",
-        "title": "Help Desk Analyst",
-        "active": false,
-        "date_updated": 1761824969,
-        "date_posted": 1761824969,
-        "url": "https://ppg.wd5.myworkdayjobs.com/PPG_CAREERS/job/USA---Strongsville-Plant/Help-Desk-Analyst_JR2516519",
-        "locations": [
-            "Strongsville, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/PPG-Industries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "15ce5cd9-156d-4cc8-96d0-d013fcbe2cf5",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1761823978,
-        "date_posted": 1761823978,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400029795",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "WVUMedicine",
         "id": "0dcdcd36-1474-4abf-a65c-5fb74daec379",
@@ -109448,26 +109358,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "42 North Dental",
-        "id": "97a64654-d7fd-43e1-87c1-612d24d3f2a1",
-        "title": "Dental Hygienist",
-        "active": false,
-        "date_updated": 1768471491,
-        "date_posted": 1761825167,
-        "url": "https://careers-42northdental.icims.com/jobs/8895/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Coppell, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/42-North-Dental",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
