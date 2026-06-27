@@ -353594,5 +353594,70 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Burson",
+        "id": "dcf2f297-91c2-46cb-b09f-128d54efcee1",
+        "title": "Associate Analyst - Insights - Data & Intelligence",
+        "active": true,
+        "date_updated": 1782554221,
+        "date_posted": 1782554197,
+        "url": "https://www.bursonglobal.com/careers/jobs?gh_jid=5228296008",
+        "locations": [
+            "LA",
+            "Atlanta, GA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Burson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MBDA",
+        "id": "401ae4e3-b75b-4dec-9758-78342889359f",
+        "title": "Women in Engineering Community",
+        "active": true,
+        "date_updated": 1782559981,
+        "date_posted": 1782559650,
+        "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Women-in-Engineering-Community_R23836",
+        "locations": [
+            "Letchworth Garden City, UK",
+            "Bristol, UK",
+            "Bolton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MBDA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fidelity Investments",
+        "id": "0884f955-5b07-4929-95e0-f6015ea9779c",
+        "title": "Data Conversion Manager - Stock Plan Services",
+        "active": true,
+        "date_updated": 1782560419,
+        "date_posted": 1782559128,
+        "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Smithfield-RI/Data-Conversion-Manager---Stock-Plan-Services_2125453-1",
+        "locations": [
+            "Westlake, TX",
+            "Smithfield, RI",
+            "Merrimack, NH",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
