@@ -353794,5 +353794,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cresta",
+        "id": "04c01830-5699-406f-80fb-928762e20887",
+        "title": "Conversational AI Designer Associate",
+        "active": true,
+        "date_updated": 1779326358,
+        "date_posted": 1773843377,
+        "url": "https://job-boards.greenhouse.io/cresta/jobs/4970396008",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cresta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
