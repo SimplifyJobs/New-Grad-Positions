@@ -1,43 +1,5 @@
 [
     {
-        "date_updated": 1762901585,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://www.amazon.jobs/en/jobs/3116902/2026-annapurna-labs-at-aws-early-career-us-silicon-ai-systems-innovation",
-        "company_name": "Amazon",
-        "title": "Silicon & AI Systems Innovation",
-        "locations": [
-            "Austin, TX",
-            "Seattle, WA",
-            "Cupertino, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "DDH2004",
-        "id": "7eb81f0f-f375-4a4e-8a4c-4ee56e8640a9",
-        "date_posted": 1761811110,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1771250796,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://careers.duolingo.com/jobs/8192328002",
-        "company_name": "Duolingo",
-        "title": "Associate Product Manager, Recent Grad",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "category": "Product Management",
-        "source": "DDH2004",
-        "id": "ce02deaf-5da8-4327-a55e-1a0b24533664",
-        "date_posted": 1761811135,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1761925492,
         "sponsorship": "U.S. Citizenship is Required",
         "active": false,
@@ -26790,24 +26752,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Campbell's Company",
-        "id": "edc3f879-2a22-4ed3-bbcb-4bf8502f5b9f",
-        "title": "Insights Analyst",
-        "active": false,
-        "date_updated": 1761810917,
-        "date_posted": 1761810917,
-        "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Insights-Analyst_Req-61533",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Campbells-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "WVUMedicine",
         "id": "0dcdcd36-1474-4abf-a65c-5fb74daec379",
@@ -36405,26 +36349,6 @@
             "Ardmore, PA"
         ],
         "company_url": "https://simplify.jobs/c/Susquehanna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Centerline Communications",
-        "id": "3fe89490-7bf8-4327-ac17-6e8f950aaf24",
-        "title": "Small Cell/DAS Technician - Level 1",
-        "active": false,
-        "date_updated": 1763162453,
-        "date_posted": 1761811033,
-        "url": "https://careers-clinellc.icims.com/jobs/2609/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Waterbury, CT",
-            "Nashua, NH",
-            "Massachusetts"
-        ],
-        "company_url": "https://simplify.jobs/c/Centerline-Communications",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
