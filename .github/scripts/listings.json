@@ -648,24 +648,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "PagerDuty",
-        "id": "28574ea4-35be-4e2a-9d2b-d0621834a3a5",
-        "title": "Software Engineer 1 - Notifications",
-        "active": false,
-        "date_updated": 1761853375,
-        "date_posted": 1761853375,
-        "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5681853004",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/PagerDuty",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Samsara",
         "id": "ac647e5b-b4a3-4b2e-b8aa-62f5bfd71da1",
         "title": "New Grad \u2013 Software Engineering",
@@ -23089,24 +23071,6 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NTT Data",
-        "id": "7814ac74-cc72-4eb0-ad05-9d4742c80322",
-        "title": "Technical Support Service Desk Associate-Healthcare - Service Desk - 1090050021",
-        "active": false,
-        "date_updated": 1762931138,
-        "date_posted": 1761854233,
-        "url": "https://nttdata.eightfold.ai/careers/job/563327930829051",
-        "locations": [
-            "Fargo, ND"
-        ],
-        "company_url": "https://simplify.jobs/c/NTT-Data",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
