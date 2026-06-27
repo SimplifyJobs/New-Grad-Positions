@@ -1857,24 +1857,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Applied Intuition",
-        "id": "50ce9f39-5e16-422e-b9b9-9ccca94a754f",
-        "title": "Software Integration Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1761821706,
-        "date_posted": 1761821706,
-        "url": "https://boards.greenhouse.io/appliedintuition/jobs/4607272005",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Intuition",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Esri",
         "id": "af006b99-f0cd-40b6-aa02-cf5333840403",
         "title": "Publishing Product Engineer I - Arcgis Enterprise",
@@ -26692,24 +26674,6 @@
             "Oxford, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Peraton",
-        "id": "45bbeb08-5c21-4594-8a95-afd6c63c70ef",
-        "title": "Customer Technical Specialist",
-        "active": false,
-        "date_updated": 1761820986,
-        "date_posted": 1761820986,
-        "url": "https://careers-peraton.icims.com/jobs/160993/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Portland, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
