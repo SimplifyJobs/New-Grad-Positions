@@ -24090,24 +24090,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Zebra Technologies",
-        "id": "57a9d4da-b443-4fd9-9208-eb7d61d55a14",
-        "title": "Product Manager - I - Engineering",
-        "active": false,
-        "date_updated": 1761846782,
-        "date_posted": 1761846782,
-        "url": "https://zebra.eightfold.ai/careers/job/343635179599",
-        "locations": [
-            "Vernon Hills, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "The Boeing Company",
         "id": "58a2d0ed-093a-4a1a-9e2b-20860c3eaf7b",
@@ -26402,24 +26384,6 @@
             "Morton Grove, IL"
         ],
         "company_url": "https://simplify.jobs/c/Woodward-Governor",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TJX",
-        "id": "a12a8e52-b5c1-4aeb-b3fd-350e2b25e3c2",
-        "title": "IT Placement Analyst",
-        "active": false,
-        "date_updated": 1761846807,
-        "date_posted": 1761846807,
-        "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Watford-HER-WD17-1TX/IT-Placement-Analyst_REQ65700",
-        "locations": [
-            "Watford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/TJX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
