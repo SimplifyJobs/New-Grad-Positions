@@ -219815,7 +219815,7 @@
         "company_name": "Matic",
         "id": "e74e3fc9-35d6-462a-9f2c-ad5c20129ded",
         "title": "Hardware Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1774342019,
         "date_posted": 1774342019,
         "url": "https://jobs.ashbyhq.com/MaticRobots/7cc3217c-b770-4fa9-888f-dd748cfe4863/application",
@@ -234843,7 +234843,7 @@
         "company_name": "Stoke Space",
         "id": "01ecb28e-5df8-49be-99af-ec35f7bc9113",
         "title": "Assembly Technician - Nondestructive Testing",
-        "active": true,
+        "active": false,
         "date_updated": 1775004841,
         "date_posted": 1774995320,
         "url": "https://stokespace.com/careers/current-openings?gh_jid=5840929004",
@@ -341567,7 +341567,7 @@
         "company_name": "Northrop Grumman",
         "id": "4da0e478-11a4-4860-a88f-c68471e9b088",
         "title": "Principal Cyber Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781369101,
         "date_posted": 1781362538,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/Principal-Cyber-Software-Engineer_R10234421",
@@ -353809,6 +353809,44 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Cresta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ford Motor Company",
+        "id": "a7f0b305-ac90-4ccf-aa96-0d45f87c4bfc",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1782522541,
+        "date_posted": 1782522450,
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66197",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Coder",
+        "id": "00ee7d1f-2349-43a4-a7ab-cf16f1fd16a3",
+        "title": "Revenue Workflow Engineer",
+        "active": true,
+        "date_updated": 1782549001,
+        "date_posted": 1781638963,
+        "url": "https://jobs.ashbyhq.com/Coder/f86d9ca6-1a46-4594-91a7-c955904ced49/application",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Coder",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
