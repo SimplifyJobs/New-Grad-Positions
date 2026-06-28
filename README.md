@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 217 New Grad Roles by Category
+### Browse 216 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (153)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (152)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (2)
 
@@ -1143,19 +1143,12 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><div align="center"><a href="https://jobs.lever.co/webfx/497bb548-b7d7-4aff-b87b-da9dcc8fbcc8/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ab02ee55-a577-453a-bb9f-7cd2320ae755?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Continue?utm_source=GHList&utm_medium=company">Continue</a></strong></td>
-<td>Software Engineer – New grad</td>
-<td>SF</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/continue/219fce3e-7af9-4b00-8fa7-87bf53db72f7/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ea62eccc-f658-4ada-bbba-55a21bdbf3f1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
 
 <details>
-<summary>🗃️ Inactive roles (1211)</summary>
+<summary>🗃️ Inactive roles (1210)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1278,7 +1271,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Zebra-Technologies?utm_source=GHList&utm_medium=company">Zebra Technologies</a></strong></td>
@@ -9635,13 +9628,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company">American Express</a></strong></td>
 <td>Campus Undergraduate Full-Time - Software Engineer 1 - Technology</td>
 <td>NYC</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">🔥 Apple</a></strong></td>
-<td>IOS Engineer – Early Career - Generative AI Experiences Software</td>
-<td>Cupertino, CA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
