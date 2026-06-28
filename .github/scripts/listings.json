@@ -20080,24 +20080,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "NICE ",
-        "id": "1aeeaf54-2636-4ce7-8877-2881f31abd79",
-        "title": "Associate Software Engineer - Part-time Student role",
-        "active": false,
-        "date_updated": 1761869509,
-        "date_posted": 1761869509,
-        "url": "https://boards.eu.greenhouse.io/nice/jobs/4693570101?gh_jid=4693570101",
-        "locations": [
-            "Draper, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/NICE",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Analog Devices",
         "id": "db41ead1-d3bf-4a84-8b3e-1eb8b8590e6e",
@@ -25953,42 +25935,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "43b65384-ed8a-4a32-9ae8-143b6cf515d6",
-        "title": "Part-Time Research Associate",
-        "active": false,
-        "date_updated": 1761870408,
-        "date_posted": 1761870408,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Associate_REQ_0000066765-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "AlphaSights",
-        "id": "a4284602-1409-48f8-b195-6c35a8a36467",
-        "title": "Graduate \u2013 Associate Product Manager",
-        "active": false,
-        "date_updated": 1761869606,
-        "date_posted": 1761869606,
-        "url": "https://www.alphasights.com/careers/open-roles?gh_jid=6380893",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/AlphaSights",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "L3Harris Technologies",
         "id": "e8d879a8-f73a-46fe-91d5-8407b56e41e4",
         "title": "Associate Image Processing Engineer",
@@ -26260,26 +26206,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Motorola",
-        "id": "a0cc9376-022d-4420-9c1c-e97a78d55426",
-        "title": "Graduate Software Engineer",
-        "active": false,
-        "date_updated": 1761869794,
-        "date_posted": 1761869794,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R58849",
-        "locations": [
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -26601,24 +26527,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Williams Lea",
-        "id": "1e9b0e31-5d86-456b-b32a-3bb1c96406ee",
-        "title": "Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1761869523,
-        "date_posted": 1761869523,
-        "url": "https://wlt.wd3.myworkdayjobs.com/wl_careers/job/Remote-Work-From-Home-GBR/Machine-Learning-Engineer_R251002977",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Williams-Lea",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Argonne National Laboratory",
         "id": "4d974bd5-8f72-4917-872b-cf22dd304ff3",
         "title": "Postdoctoral Appointee: Physics-Informed AI for Microelectronics Materials",
@@ -26817,24 +26725,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Emory University",
-        "id": "c6b47021-b9ee-44d2-afc8-42ecac4c113b",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1761870116,
-        "date_posted": 1761870116,
-        "url": "https://staff-emory.icims.com/jobs/155850/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Emory-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Argonne National Laboratory",
         "id": "d81a3b66-2a79-41aa-b245-f88c99805474",
         "title": "Postdoctoral Appointee - AI for Coherent X-ray Imaging",
@@ -26918,24 +26808,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Metropolitan-State-University-Of-Denver",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "ba15b3af-919a-439a-a76b-e5f59be8bf25",
-        "title": "Postdoctoral Researcher - Survey Science/Time Domain Astronomy",
-        "active": false,
-        "date_updated": 1761870536,
-        "date_posted": 1761870536,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Researcher---Survey-Science-Time-Domain-Astronomy_REQ_0000072795-2",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -27273,24 +27145,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Veeva Systems",
-        "id": "6770055a-7548-4e7b-bd26-7cda7d1b59b8",
-        "title": "Associate Software Engineer in Test",
-        "active": true,
-        "date_updated": 1761869657,
-        "date_posted": 1761869657,
-        "url": "https://jobs.lever.co/veeva/8683a486-a11b-44be-8824-d3afdaa37b2d/apply",
-        "locations": [
-            "Pleasanton, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "John Deere",
         "id": "55d619b8-ec17-40a7-bc2c-de799d1a8355",
         "title": "New Product Coordinator - Product Engineering (CA) - WW Construction & Forestry",
@@ -27468,42 +27322,6 @@
             "Anchorage, AK"
         ],
         "company_url": "https://simplify.jobs/c/GCI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Southern California",
-        "id": "f1472558-20a7-424d-8b78-7ba125d49a83",
-        "title": "Integration Developer Analyst 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1762924951,
-        "date_posted": 1761870301,
-        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Integration-Developer-Analyst-II---IS-App-Development---Full-Time-8-Hour-Days--Exempt---Non-Union-_REQ20168459-1",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "FMC Corporation",
-        "id": "4a56c778-90f8-4abd-b0ca-65117a31d8de",
-        "title": "FMC Data Analyst Intern/Co-op-1",
-        "active": false,
-        "date_updated": 1762909944,
-        "date_posted": 1761869366,
-        "url": "https://fmc.wd12.myworkdayjobs.com/FMC/job/Philadelphia-Pennsylvania/FMC-Data-Analyst-Co-Op-1_R-1311",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/FMC-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -27947,24 +27765,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Grayce",
-        "id": "ffc9ddba-a113-4146-aab1-63c35a92f06d",
-        "title": "Graduate Data Analyst",
-        "active": false,
-        "date_updated": 1761869315,
-        "date_posted": 1761869315,
-        "url": "https://apply.workable.com/grayce/j/CA4F38FE83/apply",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Nextracker",
         "id": "a6ac6a58-ac38-4d90-b7ea-bdefec91c625",
@@ -28346,24 +28146,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Cummins",
-        "id": "eea21af6-73f0-4555-a96e-fbe86b576811",
-        "title": "School to Work - Product Management",
-        "active": false,
-        "date_updated": 1761868919,
-        "date_posted": 1761868919,
-        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2419848",
-        "locations": [
-            "Florence, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Cummins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "73c9c34b-2078-452e-a64e-d792318b99c5",
@@ -28563,24 +28345,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "CACI",
-        "id": "85035e24-df1e-4214-a6cf-9d5cb25f990c",
-        "title": "Automation Engineer",
-        "active": false,
-        "date_updated": 1761869168,
-        "date_posted": 1761869168,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Linthicum/Automation-Engineer_318249",
-        "locations": [
-            "Halethorpe, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "CACI",
         "id": "61a5c149-527a-4d02-abd6-a60e9947e766",
@@ -28762,24 +28526,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Window Nation",
-        "id": "f9d6be1d-56ed-4551-8005-f186c7c31160",
-        "title": "Junior Microsoft D365 Application Support & Development Specialist",
-        "active": false,
-        "date_updated": 1762908282,
-        "date_posted": 1761870263,
-        "url": "https://jobs.lever.co/windownation/71a7626a-5437-471f-aa7b-cf3e946cb856/apply",
-        "locations": [
-            "Fulton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Window-Nation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Adobe",
         "id": "d3b68096-43ee-4401-8f01-bb4434e599ef",
@@ -28931,24 +28677,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "35d3fd9b-bbce-4908-be72-7a2363871dad",
-        "title": "Part-Time Research Data Collection and Analysis",
-        "active": false,
-        "date_updated": 1761869218,
-        "date_posted": 1761869218,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Data-Collection-and-Analysis_REQ_0000072267-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Genuine Parts Company",
         "id": "6c4ad610-4a61-484f-a21c-fe6a06c3494f",
@@ -28961,24 +28689,6 @@
             "Anaheim, CA"
         ],
         "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Brink",
-        "id": "5394fdff-c3fb-4dac-9d30-d467d0dc8c28",
-        "title": "ATM Technician",
-        "active": false,
-        "date_updated": 1762439143,
-        "date_posted": 1761869880,
-        "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Louisville-KY/ATM-Technician_R64606-1",
-        "locations": [
-            "Louisville, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Brink",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -29492,27 +29202,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Eaton Corporation",
-        "id": "4fe15a52-66f2-40ae-8834-b6babad3e60d",
-        "title": "Product Engineer - Engineering",
-        "active": false,
-        "date_updated": 1761869297,
-        "date_posted": 1761869297,
-        "url": "https://eaton.eightfold.ai/careers/job/687225796770",
-        "locations": [
-            "Fayetteville, NC",
-            "Greenwood, SC",
-            "Portland, OR",
-            "Asheville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Eaton-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "McGill University",
         "id": "b9a80443-2b6a-4f70-bdb7-e999bf84ec0b",
         "title": "Tenure-Track Assistant Professor in Cybersecurity - School of Computer Science",
@@ -29622,24 +29311,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Falconwood",
-        "id": "ab4d465c-e357-4368-b05a-e3bb506f1a59",
-        "title": "Data Scientist 1",
-        "active": false,
-        "date_updated": 1762909339,
-        "date_posted": 1761869329,
-        "url": "https://careers-falconwood.icims.com/jobs/1691/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Suffolk, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Falconwood",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Exowatt",
         "id": "a9b7a671-e212-47c3-817f-22e4204a461e",
@@ -29670,24 +29341,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Samsara",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "e70ed194-7bee-4280-a5b4-a894987b2ab6",
-        "title": "Fullstack Software Engineer Graduate - Ads Interface and Platform - BS/MS",
-        "active": false,
-        "date_updated": 1761869336,
-        "date_posted": 1761869336,
-        "url": "https://lifeattiktok.com/search/7551203671384656146",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -31194,42 +30847,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "University of Texas - Austin",
-        "id": "5d644cd3-54f7-48c8-baf1-006ce4948bed",
-        "title": "Software Engineering Scientist Associate",
-        "active": false,
-        "date_updated": 1762935341,
-        "date_posted": 1761870290,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/NSW-Software-Engineering-Scientist-Associate_R_00041241",
-        "locations": [
-            "Texas"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Texas - Austin",
-        "id": "e059fefc-56b5-48ec-b344-128320c0bb7a",
-        "title": "Postdoctoral Fellow",
-        "active": false,
-        "date_updated": 1761870295,
-        "date_posted": 1761870295,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow_R_00029113",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Jabil",
         "id": "e7e7488a-6f3d-4d95-a014-0aad35ab99b7",
@@ -31899,24 +31516,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "042e85d4-d693-4d65-bcfa-4550a3c6baee",
-        "title": "Boeing Pre-Employment Training - Bpet - Students",
-        "active": false,
-        "date_updated": 1761869315,
-        "date_posted": 1761869315,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Boeing-Pre-Employment-Training--BPET--Students---Assembly-Electrical-Mechanics--Variable-Shift-_JR2025463247-1",
-        "locations": [
-            "North Charleston, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Alice L. Walton School of Medicine",
         "id": "d47d80db-5498-4dbd-8d6b-2f5203f8b8e9",
@@ -32348,24 +31947,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AlphaSights",
-        "id": "37672e0a-90ad-489a-ae64-f3f7400a3f5a",
-        "title": "Graduate Analyst - Product Analytics",
-        "active": false,
-        "date_updated": 1761869151,
-        "date_posted": 1761869151,
-        "url": "https://www.alphasights.com/careers/open-roles?gh_jid=6361298",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/AlphaSights",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "TikTok",
         "id": "ac899a9c-191b-4a0c-af3d-c1601e45e5b1",
@@ -32448,24 +32029,6 @@
         "url": "https://lifeattiktok.com/search/7532626482364909842",
         "locations": [
             "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "a229ec87-dad6-4d7e-bac2-3e7910b1f0dd",
-        "title": "Frontend Engineer - Trust and Safety - Tiktok",
-        "active": false,
-        "date_updated": 1763117085,
-        "date_posted": 1761869377,
-        "url": "https://lifeattiktok.com/search/7534826542867106066",
-        "locations": [
-            "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
@@ -32602,42 +32165,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "TikTok",
-        "id": "f3545c72-2ca5-462c-9a18-9a9eb80ba1c2",
-        "title": "Fullstack Engineer Graduate - Trust and Safety - 2026 Start",
-        "active": false,
-        "date_updated": 1761869296,
-        "date_posted": 1761869296,
-        "url": "https://lifeattiktok.com/search/7530759729113680135",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "74bf4258-3d85-4cae-b868-f9837721b119",
-        "title": "Machine Learning Engineer Graduate - E-Commerce Knowledge Graph - CV/Multimodal/NLP",
-        "active": false,
-        "date_updated": 1761868961,
-        "date_posted": 1761868961,
-        "url": "https://lifeattiktok.com/search/7288458427072284987",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
         "id": "3dcf7a3c-afb7-4631-a272-9cda24de7ffb",
         "title": "Mobile Software Engineer Graduate - Mobile Reliability - Android','2026 Start','BS/MS",
         "active": false,
@@ -32687,27 +32214,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "9a5cc923-ba68-44a0-adcc-dcb57b6f658f",
-        "title": "Research Scientist Graduate-CV/NLP/Multimodal LLM - Trust and Safety - 2025 Start",
-        "active": false,
-        "date_updated": 1761869465,
-        "date_posted": 1761869465,
-        "url": "https://lifeattiktok.com/search/7395687482177685786",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -32786,24 +32292,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "dfe51c88-ebee-4cf9-8f30-b4f757a59b81",
-        "title": "Student Researcher - Seed - Infra Inference",
-        "active": false,
-        "date_updated": 1761869812,
-        "date_posted": 1761869812,
-        "url": "https://jobs.bytedance.com/en/position/7535220842087991570/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -32925,24 +32413,6 @@
         "date_updated": 1763119991,
         "date_posted": 1761992249,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Hamer-Center-for-Community-Design-Part-time-Support_REQ_0000068837-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "3603208b-f848-4599-8f67-abbe31a85cb8",
-        "title": "Part-Time Research Associate",
-        "active": false,
-        "date_updated": 1761870400,
-        "date_posted": 1761870400,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Associate_REQ_0000058270-2",
         "locations": [
             "State College, PA"
         ],
@@ -33182,45 +32652,6 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/Fanatics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Crowdstrike",
-        "id": "2ac51bf3-0b24-48e1-81fb-2a535a16e730",
-        "title": "Analyst 1  \u2013 Falcon Complete",
-        "active": false,
-        "date_updated": 1762935928,
-        "date_posted": 1761869024,
-        "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Analyst-I--Falcon-Complete--Remote-_R23935",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Crowdstrike",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "6e01bebd-6089-44bc-bbe7-533a31bc659c",
-        "title": "Games Support Technician",
-        "active": false,
-        "date_updated": 1761869625,
-        "date_posted": 1761869625,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Canton-OH/Games-Support-Technician_R-1008616",
-        "locations": [
-            "Canton, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -33767,24 +33198,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "ByteDance",
-        "id": "be5e477b-f3a8-48e6-af45-558fc69600ae",
-        "title": "RDMA Network Software Development Engineer \u2013 Graduate - High Speed Network",
-        "active": false,
-        "date_updated": 1761869563,
-        "date_posted": 1761869563,
-        "url": "https://jobs.bytedance.com/en/position/7465422280048527634/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Atlas Van Lines",
         "id": "ca485c97-49f6-4832-a85d-06af59edc356",
         "title": "Software Developer - Associate",
@@ -34241,26 +33654,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Community Memorial Hospital Ventura",
-        "id": "393c5e4c-e83f-44ff-bd38-45364b969360",
-        "title": "Application Systems Analyst 1 - Ambulatory Billing / PB",
-        "active": false,
-        "date_updated": 1762921169,
-        "date_posted": 1761870631,
-        "url": "https://careers-mycmh.icims.com/jobs/10929/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ventura, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Community-Memorial-Hospital-Ventura",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -51416,27 +50809,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "aa922d27-47c8-4aeb-8178-6962e7ed88f7",
-        "title": "Graduate Machine Learning Engineer - App Ads and Gaming - Bachelor of Science/Master of Science",
-        "active": false,
-        "date_updated": 1764076163,
-        "date_posted": 1761869599,
-        "url": "https://lifeattiktok.com/search/7532006305218447623",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Honeywell",
         "id": "d9511021-14dd-4074-851f-8f15040f091c",
@@ -58029,24 +57401,6 @@
             "Brighton, UK"
         ],
         "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Zebra Technologies",
-        "id": "c0a0295d-3e85-4874-afc5-ec41257e678d",
-        "title": "Repair Services Associate - I Manufacturing",
-        "active": false,
-        "date_updated": 1761869893,
-        "date_posted": 1761869893,
-        "url": "https://zebra.eightfold.ai/careers/job/343635694880",
-        "locations": [
-            "Wheeling, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -104552,26 +103906,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "ENFRA",
-        "id": "d24cf7cb-5dd8-49ab-ba7e-2de99db176a3",
-        "title": "Controls Technologist 1",
-        "active": false,
-        "date_updated": 1768300840,
-        "date_posted": 1761869862,
-        "url": "https://careers-enfra.icims.com/jobs/7509/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Greenwood Village, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/ENFRA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "TD Bank",
         "id": "c6fc8321-0f25-4ba0-88e7-90e02f38b336",
         "title": "2026 Technology Graduate Analyst - London",
@@ -128133,32 +127467,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "WTW",
-        "id": "d96bc170-c24c-46b8-b84e-bb94f9f3b9cc",
-        "title": "Early Careers: Investment Analyst - Multiple Locations - 2026",
-        "active": false,
-        "date_updated": 1761869647,
-        "date_posted": 1761869647,
-        "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/jobs/job/202506183",
-        "locations": [
-            "Tampa, FL",
-            "Philadelphia, PA",
-            "Chicago, IL",
-            "Pittsburgh, PA",
-            "NYC",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/WTW",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
