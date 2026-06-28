@@ -19424,26 +19424,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Bank of New York Mellon",
-        "id": "2ad0d374-2795-429e-b629-a3c84b936ed6",
-        "title": "2026 BNY Analyst Program-Engineering - Data Science",
-        "active": false,
-        "date_updated": 1761933811,
-        "date_posted": 1761933811,
-        "url": "https://bnymellon.eightfold.ai/careers/job/38001023",
-        "locations": [
-            "Pittsburgh, PA",
-            "Lake Mary, FL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/BNY-Mellon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Fiserv",
         "id": "e37748e2-921c-4619-bd29-85542adec182",
