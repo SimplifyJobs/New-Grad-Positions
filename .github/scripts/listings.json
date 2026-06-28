@@ -205,43 +205,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "21efee4a-44eb-440a-9442-a8acd4728183",
-        "title": "AI and ML Infra Software Engineer \u2013 New College Grad 2025 - GPU Clusters",
-        "active": false,
-        "date_updated": 1761951933,
-        "date_posted": 1761951933,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2025_JR2006974",
-        "locations": [
-            "Redmond, WA",
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "d82267f3-cfff-4cd5-84be-fdf718c3f3d1",
-        "title": "Forward Deployed Software Engineer \u2013 New Grad - Commercial",
-        "active": false,
-        "date_updated": 1761951701,
-        "date_posted": 1761951701,
-        "url": "https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Johnson & Johnson",
         "id": "9fb8298d-b1ee-4fc8-b1bb-c4813cf50854",
@@ -18653,119 +18616,6 @@
             "Long Beach, CA"
         ],
         "company_url": "https://simplify.jobs/c/Relativity-Space",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "65cd01f1-a2de-4b9f-94bc-47d8a2d86050",
-        "title": "Backend Software Engineer Graduate - Product Infrastructure - 2026 Start",
-        "active": false,
-        "date_updated": 1762912543,
-        "date_posted": 1761952381,
-        "url": "https://lifeattiktok.com/search/7533106620768012562",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Adobe",
-        "id": "f0bcca8e-67f7-4f7f-a36c-8fad53ec6ca1",
-        "title": "Software Development Engineer",
-        "active": false,
-        "date_updated": 1761951773,
-        "date_posted": 1761951773,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Edinburgh/Software-Development-Engineer_R161983",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Leidos",
-        "id": "69f92618-9fd4-4c7e-9d57-b7ca76fe00d0",
-        "title": "Junior Full Spectrum Cyber AI Researcher",
-        "active": false,
-        "date_updated": 1761951845,
-        "date_posted": 1761951845,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Junior-Full-Spectrum-Cyber-AI-Researcher_R-00169769",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ASM Global",
-        "id": "007b4b4e-0fc6-4399-b0a1-30ece9069d51",
-        "title": "IT Assistant - Legends Nissan Stadium",
-        "active": false,
-        "date_updated": 1761951855,
-        "date_posted": 1761951855,
-        "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Tennessee-Titans/IT-Assistant---Legends-Nissan-Stadium_R100116928",
-        "locations": [
-            "Nashville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/ASM-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Maven Securities",
-        "id": "9b463ef7-5859-4cae-ac90-3c88ed90c188",
-        "title": "Chicago Graduate Trader Programme 2026",
-        "active": false,
-        "date_updated": 1761951681,
-        "date_posted": 1761951681,
-        "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7227500",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Maven-Securities",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Microsoft",
-        "id": "619b091b-0048-4a70-9208-7d6e4ffa55e6",
-        "title": "Research Scientist",
-        "active": false,
-        "date_updated": 1761951675,
-        "date_posted": 1761951675,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1896521",
-        "locations": [
-            "Boston, MA",
-            "Redmond, WA",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -91961,26 +91811,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics",
-        "id": "d84dca15-2a15-48f8-9b9e-841dd6a3bced",
-        "title": "Platform Integration Engineer",
-        "active": false,
-        "date_updated": 1768289038,
-        "date_posted": 1761951799,
-        "url": "https://careers-gdeb.icims.com/jobs/17448/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Groton, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
