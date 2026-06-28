@@ -340901,5 +340901,25 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cotiviti",
+        "id": "168cd950-f4e0-4aa1-8ace-a28ab856942d",
+        "title": "Associate Insights Analyst",
+        "active": true,
+        "date_updated": 1782638101,
+        "date_posted": 1782637456,
+        "url": "https://careers-cotiviti.icims.com/jobs/19527/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cotiviti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
