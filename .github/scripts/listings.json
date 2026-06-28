@@ -24797,26 +24797,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Oracle",
-        "id": "2e9719cf-0a18-4054-aaba-fac7b0136af9",
-        "title": "Undergrad Software Engineer - Fusion",
-        "active": false,
-        "date_updated": 1761879820,
-        "date_posted": 1761879820,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/305904",
-        "locations": [
-            "San Carlos, CA",
-            "Pleasanton, CA",
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oracle",
         "id": "c2cf08fc-8b21-4062-9c6d-b46a394beac3",
         "title": "Undergrad Software Engineer - Oracle Cloud Infrastructure - Oci",
         "active": false,
@@ -24827,24 +24807,6 @@
             "Nashville, TN"
         ],
         "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "American Express",
-        "id": "2e9925b2-2b85-4513-96f4-5d6ba71ada9b",
-        "title": "Campus \u2013 Full Time - Associate Digital Product Management",
-        "active": false,
-        "date_updated": 1761879744,
-        "date_posted": 1761879744,
-        "url": "https://aexp.eightfold.ai/careers/job/38535542",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -25082,24 +25044,6 @@
             "Amarillo, TX"
         ],
         "company_url": "https://simplify.jobs/c/City-Of-Amarillo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oracle",
-        "id": "ecb8c940-acf5-469b-8f0e-3cec133d5783",
-        "title": "Undergraduate Software Engineer - Oracle Cloud Infrastructure - OCI",
-        "active": false,
-        "date_updated": 1762925649,
-        "date_posted": 1761879740,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/312200",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -41736,26 +41680,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics",
-        "id": "6bc957ff-b7af-4a67-95e7-463ab4f0971d",
-        "title": "Communications Systems Engineer - Ship Control",
-        "active": false,
-        "date_updated": 1763713544,
-        "date_posted": 1761879674,
-        "url": "https://careers-gdeb.icims.com/jobs/15600/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Groton, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
