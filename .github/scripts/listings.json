@@ -19774,24 +19774,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vulcan Materials",
-        "id": "11d53f5c-29b9-4a0d-b84b-735cd57e6b69",
-        "title": "IT Specialist - Cloud Compute - Linux and Storage",
-        "active": false,
-        "date_updated": 1761895811,
-        "date_posted": 1761895811,
-        "url": "https://vulcanmat.taleo.net/careersection/2/jobdetail.ftl?job=250002JJ",
-        "locations": [
-            "Birmingham, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Vulcan-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "The Bank of New York Mellon",
         "id": "2ad0d374-2795-429e-b629-a3c84b936ed6",
@@ -24146,24 +24128,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ocean Optics",
-        "id": "ddfce2d6-33ed-49dd-a6b3-0bfab971ae6d",
-        "title": "Test and Verification Technician",
-        "active": false,
-        "date_updated": 1761895533,
-        "date_posted": 1761895533,
-        "url": "https://halma.wd3.myworkdayjobs.com/halma/job/Abingdon/Test-and-Verification-Technician_JR25_001066",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Ocean-Optics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Scientific Games",
         "id": "950755fe-78e4-42ea-8112-92d1a0c157b7",
@@ -25682,24 +25646,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "8bb9c12f-b231-4d72-9963-b9d4e85051d5",
-        "title": "Scorecard Data Assistant",
-        "active": false,
-        "date_updated": 1761895674,
-        "date_posted": 1761895674,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Scorecard-Data-Assistant_REQ_0000072644-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Trimble",
         "id": "b391c0cc-a720-4f7a-a0f5-e6615d5f7f94",
@@ -26514,24 +26460,6 @@
             "Georgia"
         ],
         "company_url": "https://simplify.jobs/c/Mohawk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "University of Virginia",
-        "id": "da630270-4a75-44b2-bfe2-84428884f7df",
-        "title": "DOPS Graduate Software Developer - Federal Work Study - Remote Optional",
-        "active": false,
-        "date_updated": 1761895100,
-        "date_posted": 1761895100,
-        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/DOPS-Graduate-Software-Developer---Federal-Work-Study---Remote-Optional_R0076751",
-        "locations": [
-            "Charlottesville, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -27949,24 +27877,6 @@
             "Rochester, NY"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Texas - Austin",
-        "id": "403a9bf0-e77b-43f7-aa61-ed61834bab10",
-        "title": "Postdoctoral Fellow in Water Systems",
-        "active": false,
-        "date_updated": 1761895424,
-        "date_posted": 1761895424,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow-in-Water-Systems_R_00041179",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -347175,6 +347085,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Boston Consulting Group",
+        "id": "55e07ebd-156d-42a6-8571-f3837a558d5d",
+        "title": "Analyst \u2013 Insurance Benchmark - BCG Vantage",
+        "active": true,
+        "date_updated": 1782609203,
+        "date_posted": 1782608989,
+        "url": "https://careers.bcg.com/global/en/job/58365",
+        "locations": [
+            "Neukirchen-Vluyn, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
