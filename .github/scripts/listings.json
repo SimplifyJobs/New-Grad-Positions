@@ -479,24 +479,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "American Express",
-        "id": "62b6a412-1cb2-4671-a879-b99473ff9031",
-        "title": "Campus Undergraduate Full-Time - Software Engineer 1 - Technology",
-        "active": false,
-        "date_updated": 1761912471,
-        "date_posted": 1761912471,
-        "url": "https://aexp.eightfold.ai/careers/job/38270715",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Ciena",
         "id": "29b3f7e5-4279-4045-946f-ee7146914021",
         "title": "Software Developer \u2013 2026 New Grads",
@@ -2628,26 +2610,6 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "ecabd409-e607-48fc-9bf4-aeec9fd6ef45",
-        "title": "Compiler Engineer \u2013 New College Grad - LLVM",
-        "active": false,
-        "date_updated": 1762908908,
-        "date_posted": 1761912586,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--LLVM---New-College-Grad-2025_JR2006491",
-        "locations": [
-            "Austin, TX",
-            "Redmond, WA",
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -20267,172 +20229,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Genuine Parts Company",
-        "id": "8d4b8b2f-e72e-48a2-984c-aa4a87da6b21",
-        "title": "Field Service Support",
-        "active": false,
-        "date_updated": 1761940581,
-        "date_posted": 1761913719,
-        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Salisbury-NC-USA/Field-Services-Support_R25_0000021139",
-        "locations": [
-            "Kannapolis, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "84345942-cc20-441c-9dad-503a0bac0a74",
-        "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance - 2026 Start",
-        "active": false,
-        "date_updated": 1761913727,
-        "date_posted": 1761913727,
-        "url": "https://jobs.bytedance.com/en/position/7536338508719573266/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hertz",
-        "id": "6c2de3ec-d489-4360-a247-915b54d4a763",
-        "title": "Cyber Security Specialist - Data Analysis",
-        "active": false,
-        "date_updated": 1761913651,
-        "date_posted": 1761913651,
-        "url": "https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29720",
-        "locations": [
-            "Bonita Springs, FL",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hertz",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "3e2cc8e9-e1d6-45c1-8ff9-ebd06fbe964c",
-        "title": "Graduate Research Scientist - Ecommerce Recommendation - PhD",
-        "active": false,
-        "date_updated": 1762928027,
-        "date_posted": 1761913713,
-        "url": "https://jobs.bytedance.com/en/position/7515575670019606802/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "d4e41dff-e3d9-4999-ae47-d7240da73381",
-        "title": "Mobile Software Engineer Graduate - Intelligent Creation - 2026 Start','BS/MS",
-        "active": false,
-        "date_updated": 1761913527,
-        "date_posted": 1761913527,
-        "url": "https://lifeattiktok.com/search/7554551752353450248",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NextEra Energy",
-        "id": "ab1cb244-db0f-4bac-b88b-53dadfd20517",
-        "title": "Associate Development Tech Specialist - GIS",
-        "active": false,
-        "date_updated": 1762920398,
-        "date_posted": 1761913466,
-        "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Assoc-Development-Tech-Specialist-GIS-FL-33408/1322670400/?ats=successfactors",
-        "locations": [
-            "Palm Beach Gardens, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/NextEra-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "7bd9f023-40bf-4c85-9c99-548d4d687d9a",
-        "title": "Security Automation Engineer",
-        "active": false,
-        "date_updated": 1761913516,
-        "date_posted": 1761913516,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Security-Automation-Engineer/210890",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "3bba481b-0d7c-4d90-9e52-a4a8953f82e1",
-        "title": "Electrical Testing Technician",
-        "active": false,
-        "date_updated": 1762939229,
-        "date_posted": 1761913497,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20258131",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "131b4f3f-f0c5-4cc2-8f95-cf54746b1576",
-        "title": "Software Engineer in ML Systems Graduate - Aml - Machine Learning Systems",
-        "active": false,
-        "date_updated": 1761913523,
-        "date_posted": 1761913523,
-        "url": "https://jobs.bytedance.com/en/position/7265104569217534263/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "040b592e-7c3b-4f84-a29e-61b7b880dc56",
@@ -20470,96 +20266,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "b3b1ff92-09f1-405b-a03c-9c57c3b74030",
-        "title": "Student Researcher - Seed - LLM Model",
-        "active": false,
-        "date_updated": 1761912904,
-        "date_posted": 1761912904,
-        "url": "https://jobs.bytedance.com/en/position/7377527065203607834/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "9ddadab3-c837-4e99-b5e2-6685a27c3a1a",
-        "title": "ML Engineer - TikTok Social",
-        "active": false,
-        "date_updated": 1763124841,
-        "date_posted": 1761912908,
-        "url": "https://lifeattiktok.com/search/7380126065912908082",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "5cb7e61a-6923-4da3-a0c7-b7bdbb129035",
-        "title": "General Hire - Machine Learning Engineer - Data-Search",
-        "active": false,
-        "date_updated": 1761912912,
-        "date_posted": 1761912912,
-        "url": "https://lifeattiktok.com/search/7516685096896792839",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "5537ea8e-bac6-4023-ac2f-e2b8b7bd37ce",
-        "title": "Research Scientist Graduate - Multimodal Large Language Model - Phd",
-        "active": false,
-        "date_updated": 1762911363,
-        "date_posted": 1761912904,
-        "url": "https://jobs.bytedance.com/en/position/7561663359977654589/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oracle",
-        "id": "3b4b6590-c21e-4e20-a90d-d1f0ec70a485",
-        "title": "Undergrad Software Engineer - Database Technologies",
-        "active": false,
-        "date_updated": 1761913000,
-        "date_posted": 1761913000,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/305298",
-        "locations": [
-            "San Carlos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Unisys",
         "id": "296e16b0-ae68-46e4-91f6-b359797b1e25",
         "title": "Assoc Eng Data Science",
@@ -20576,150 +20282,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Astreya",
-        "id": "e0818c11-8a3b-4204-ac32-d483c5fe0039",
-        "title": "Inventory Technician 1",
-        "active": false,
-        "date_updated": 1762913643,
-        "date_posted": 1761912775,
-        "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Boulder-CO/Inventory-Technician-I_R0013566",
-        "locations": [
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Astreya",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "0b81edbb-4d51-4511-9151-3e9386c8cebe",
-        "title": "Machine Learning Engineer Graduate - Multiple Teams",
-        "active": false,
-        "date_updated": 1761912886,
-        "date_posted": 1761912886,
-        "url": "https://jobs.bytedance.com/en/position/7538934102230878471/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "PIMCO",
-        "id": "f26d6a2c-deb5-42f6-a0dc-c53273f6f2f6",
-        "title": "Quantitative Developer - SMA & Muni",
-        "active": false,
-        "date_updated": 1761912313,
-        "date_posted": 1761912313,
-        "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/San-Diego-CA-USA/Quantitative-Developer---SMA---Muni_R105699",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/PIMCO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "cea1563c-802d-45b0-9937-3a8f1a7ec8bb",
-        "title": "AI LLM Network Software Development Engineer Graduate - High Speed Network - 2026 Start PhD",
-        "active": true,
-        "date_updated": 1762910356,
-        "date_posted": 1761912369,
-        "url": "https://jobs.bytedance.com/en/position/7509248845324273938/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "5b8c8d92-b4fa-4585-b5d4-0e3448e76d01",
-        "title": "Software Engineer Graduate - Ads Interface and Platform - BS/MS",
-        "active": false,
-        "date_updated": 1761912399,
-        "date_posted": 1761912399,
-        "url": "https://lifeattiktok.com/search/7540836922060589320",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "48abbe1a-0721-4a57-8d73-82faae6fd533",
-        "title": "Research Scientist Graduate \uff08High-Performance Computing - Inference Optimization - Vision AI Platform-San Jose','2025 Start','PhD",
-        "active": false,
-        "date_updated": 1761912503,
-        "date_posted": 1761912503,
-        "url": "https://jobs.bytedance.com/en/position/7473266474501720328/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "221c07a8-2ccf-4214-845b-e1e56d6f9220",
-        "title": "Anti-Fraud Strategy Product Manager Graduate - Tiktok Shop",
-        "active": false,
-        "date_updated": 1761912398,
-        "date_posted": 1761912398,
-        "url": "https://lifeattiktok.com/search/7532636003858057480",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "093acc82-ac5e-463e-8739-43de0fe8a38d",
-        "title": "Graduate Software Developer - SDN Traffic Intelligence & Control",
-        "active": false,
-        "date_updated": 1762930448,
-        "date_posted": 1761912398,
-        "url": "https://jobs.bytedance.com/en/position/7509266973236152583/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -20753,24 +20315,6 @@
             "Brighton, UK"
         ],
         "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "1362910c-a911-4d80-b4f5-7932fd8b4a1c",
-        "title": "Network Software Development Engineer Graduate - High Speed Network",
-        "active": false,
-        "date_updated": 1762910026,
-        "date_posted": 1761912118,
-        "url": "https://jobs.bytedance.com/en/position/7266367817711716666/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -22152,24 +21696,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Marriott International",
-        "id": "8423c130-9332-424e-886b-198bb9351079",
-        "title": "Technology Solutions Coordinator",
-        "active": false,
-        "date_updated": 1761913005,
-        "date_posted": 1761913005,
-        "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25168623",
-        "locations": [
-            "Nashville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Marriott-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "GE Vernova",
         "id": "a340b6e8-f4ac-43a4-9d89-6aaf907a9a30",
         "title": "Software-defined Networking and IPv6 for Secure Distributed Energy Resources Research",
@@ -22367,24 +21893,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "JP Morgan Chase",
-        "id": "f5e3232b-6b29-496a-9982-24386f3373e6",
-        "title": "Technology Support Senior Specialist",
-        "active": false,
-        "date_updated": 1761912599,
-        "date_posted": 1761912599,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210674163",
-        "locations": [
-            "Tarrytown, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Trimble",
         "id": "b391c0cc-a720-4f7a-a0f5-e6615d5f7f94",
@@ -22397,24 +21905,6 @@
             "Dayton, OH"
         ],
         "company_url": "https://simplify.jobs/c/Trimble",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Warner Bros.",
-        "id": "9ede5479-56a0-4f79-ab14-2b2386cca3ad",
-        "title": "Data Scientist 1 - Media Mix Modeling",
-        "active": false,
-        "date_updated": 1762935309,
-        "date_posted": 1761913116,
-        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Data-Scientist-I---Media-Mix-Modeling_R000093715",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Warner-Bros",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -23735,24 +23225,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "b5914719-9460-4da3-bad1-dd4428625877",
-        "title": "Student Researcher - Seed LLM - Scientific Coding Agent - Llms \u00d7 Physics/Chemistry; RL preferred - 2026 Start - PhD",
-        "active": false,
-        "date_updated": 1761912907,
-        "date_posted": 1761912907,
-        "url": "https://jobs.bytedance.com/en/position/7541089305306188039/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "The University of Kansas Hospital",
         "id": "ab48af9d-9a37-4ada-90b3-a76fec0fc45d",
@@ -23822,24 +23294,6 @@
             "San Antonio, TX"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "5e6599f9-c22b-4539-a213-0e841aa12096",
-        "title": "Research Scientist - Reinforcement Learning",
-        "active": false,
-        "date_updated": 1761939524,
-        "date_posted": 1761912909,
-        "url": "https://jobs.bytedance.com/en/position/7533306565148281095/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -67008,24 +66462,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "b8174309-8533-4cf7-9b71-20d0dcf5fea2",
-        "title": "Customer Engineer - Atlanta",
-        "active": false,
-        "date_updated": 1761913700,
-        "date_posted": 1761913700,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256846",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -217897,27 +217333,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "6e09fdff-50d8-4403-aa94-9f3a48ec272a",
-        "title": "Research Scientist Graduate - AI-Native Database Systems - PhD",
-        "active": false,
-        "date_updated": 1762922851,
-        "date_posted": 1761912910,
-        "url": "https://jobs.bytedance.com/en/position/7520736818360436999/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "3eaea7c2-1f49-45e8-a2be-dcd4655120e6",
@@ -342222,6 +341637,26 @@
         "date_updated": 1780438756,
         "date_posted": 1780438069,
         "url": "https://jobs.bytedance.com/en/position/7538946858355476743/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "2a22e614-0fd6-4b09-bc0f-15ed0eae562d",
+        "title": "Graduate Research Scientist - Multimodal Interaction and World Model - PhD",
+        "active": true,
+        "date_updated": 1780611768,
+        "date_posted": 1780610910,
+        "url": "https://jobs.bytedance.com/en/position/7488465961747220744/detail",
         "locations": [
             "San Jose, CA"
         ],
