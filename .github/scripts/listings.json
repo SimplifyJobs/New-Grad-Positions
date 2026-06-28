@@ -242,42 +242,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zip",
-        "id": "92f43ba1-0e70-45ec-8f48-c1f1318b808d",
-        "title": "Software Engineer \u2013 New Grad - 2026 Start",
-        "active": false,
-        "date_updated": 1761951335,
-        "date_posted": 1761951335,
-        "url": "https://jobs.ashbyhq.com/zip/bec203f9-7919-479a-b021-c7871b7757e2/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Zip",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Robert Half",
-        "id": "31ee69cd-c9a0-4fd3-befe-40248289aeb7",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1761968905,
-        "date_posted": 1761951096,
-        "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-258714",
-        "locations": [
-            "San Ramon, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Robert-Half",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Johnson & Johnson",
         "id": "9fb8298d-b1ee-4fc8-b1bb-c4813cf50854",
@@ -18808,132 +18772,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bosselman Enterprises",
-        "id": "20a2d138-672b-4aa8-8137-04bac133e7b4",
-        "title": "Systems Programmer/Analyst",
-        "active": false,
-        "date_updated": 1761951628,
-        "date_posted": 1761951628,
-        "url": "https://careers-bosselman.icims.com/jobs/46685/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Grand Island, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Bosselman-Enterprises",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2d626966-27b9-4a95-b3a3-11585e8528a4",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1761951459,
-        "date_posted": 1761951459,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033248",
-        "locations": [
-            "Bath, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AT&T",
-        "id": "522d510b-94dc-4a99-9771-f8ee95e72b89",
-        "title": "Installation Technician",
-        "active": false,
-        "date_updated": 1761951205,
-        "date_posted": 1761951205,
-        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Hoover-Alabama/Installation-Technician_R-88989",
-        "locations": [
-            "Hoover, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/ATT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SMX",
-        "id": "2bd3c7d4-4344-4c35-9c36-d28a4ef83db7",
-        "title": "IT Support Specialist: Endpoint Management and IT Systems",
-        "active": false,
-        "date_updated": 1761951260,
-        "date_posted": 1761951260,
-        "url": "https://www.smxtech.com/careers/?gh_jid=7486657003",
-        "locations": [
-            "Broomfield, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Smx",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "042ac2c4-6376-4389-ac32-3cf974353a04",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1761951276,
-        "date_posted": 1761951276,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7370946",
-        "locations": [
-            "McKinney, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "LetsGetChecked",
-        "id": "c4e51972-8e36-4d31-a3bb-245851222ff4",
-        "title": "IT Help Desk Administrator",
-        "active": false,
-        "date_updated": 1762919560,
-        "date_posted": 1761951135,
-        "url": "https://job-boards.eu.greenhouse.io/letsgetchecked/jobs/4704074101",
-        "locations": [
-            "Arcadia, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/LetsGetChecked",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PMG",
-        "id": "4661c3f6-60dc-4248-8e02-42548d489e81",
-        "title": "Graduate Leadership Program - AI Strategy - Solutions & Automation Track",
-        "active": false,
-        "date_updated": 1761950740,
-        "date_posted": 1761950740,
-        "url": "https://job-boards.greenhouse.io/pmg/jobs/8227319002",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/PMG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Milwaukee Tool",
         "id": "e64b5616-370a-499f-81b0-ef634eff4f8b",
@@ -18951,186 +18789,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cummins",
-        "id": "f57cf832-36fc-4036-ac61-82ae59f61302",
-        "title": "Placement Intern - Sales Application Engineer",
-        "active": false,
-        "date_updated": 1762909725,
-        "date_posted": 1761950395,
-        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2419255",
-        "locations": [
-            "Peterborough, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cummins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cummins",
-        "id": "b7aee515-cadf-470a-a574-a3c8e7cd0ab7",
-        "title": "Placement Student - Blockline Quality",
-        "active": false,
-        "date_updated": 1761950368,
-        "date_posted": 1761950368,
-        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2410206",
-        "locations": [
-            "Daventry, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cummins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cummins",
-        "id": "8dae031d-b3b4-4ae1-946f-00813c6f8dba",
-        "title": "Placement Student - Product Engineering",
-        "active": false,
-        "date_updated": 1762923473,
-        "date_posted": 1761950350,
-        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420176",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cummins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cummins",
-        "id": "60b427d2-6f07-49ff-9f6f-91c25f1e4716",
-        "title": "Placement Student",
-        "active": false,
-        "date_updated": 1761950378,
-        "date_posted": 1761950378,
-        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420123",
-        "locations": [
-            "Peterborough, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cummins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cummins",
-        "id": "2ba5d3e6-baea-43c6-b2ea-8e96ab9537cc",
-        "title": "Placement Intern - Aftertreatment Integration Test Engineering",
-        "active": false,
-        "date_updated": 1762919129,
-        "date_posted": 1761950388,
-        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2417987",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cummins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cummins",
-        "id": "0b3492fc-dddc-4ef7-812d-c524caa2c6fb",
-        "title": "Placement Student - Product Engineering - Engine Business Unit Team",
-        "active": false,
-        "date_updated": 1762438851,
-        "date_posted": 1761950379,
-        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420105",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cummins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "D.R. Horton",
-        "id": "ec47d0f5-21e1-40f2-a3fa-f6b213a34aef",
-        "title": "Help Desk Technician",
-        "active": false,
-        "date_updated": 1761950245,
-        "date_posted": 1761950245,
-        "url": "https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2504960",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/DR-Horton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Aerospace",
-        "id": "6616ef12-1068-4726-a215-7c3bf4a696cb",
-        "title": "Engineering Technician",
-        "active": false,
-        "date_updated": 1761950246,
-        "date_posted": 1761950246,
-        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Grand-Rapids/Engineering-Technician_R5021970-1",
-        "locations": [
-            "Grand Rapids, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Aerospace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Microchip Technology",
-        "id": "e6cfd97c-4c23-4b99-b203-02abace3acb1",
-        "title": "Electronic Design Automation - Eda - Engineer II','Software",
-        "active": false,
-        "date_updated": 1762935676,
-        "date_posted": 1761950095,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Canada---Toronto---67-Yonge-Street-9th-Floor/Electronic-Design-Automation--EDA--Engineer-II---Software_R2055-25",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Community Health Systems",
-        "id": "5df9f3d1-9138-4ab2-a769-60e8a61b1aa8",
-        "title": "Lab Information Systems Coordinator",
-        "active": false,
-        "date_updated": 1762923329,
-        "date_posted": 1761950045,
-        "url": "https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/133522",
-        "locations": [
-            "Knoxville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Community-Health-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -24474,24 +24132,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "W.R. Berkley",
-        "id": "7636a3c8-20cb-4e61-92df-a75cd456cab0",
-        "title": "Data Analytics Engineer",
-        "active": false,
-        "date_updated": 1763162132,
-        "date_posted": 1761950618,
-        "url": "https://careers-berkley.icims.com/jobs/13174/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/WR-Berkley",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Kensington",
         "id": "2c5a23c0-e10d-456d-9493-0c4d0a35b1f2",
@@ -24793,24 +24433,6 @@
             "Altamonte Springs, FL"
         ],
         "company_url": "https://simplify.jobs/c/Fidelity-National-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rambus",
-        "id": "6ae11029-0e99-4ec7-a18f-3bec057a9629",
-        "title": "Firmware Engineer",
-        "active": false,
-        "date_updated": 1763191068,
-        "date_posted": 1761950058,
-        "url": "https://careers-rambus.icims.com/jobs/22415/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Rambus",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -54234,24 +53856,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "EUNA Solutions",
-        "id": "395dcd37-aece-4b3c-a4ba-9879f9088521",
-        "title": "Associate Software Developer",
-        "active": false,
-        "date_updated": 1765022461,
-        "date_posted": 1761951373,
-        "url": "https://euna.bamboohr.com/careers/481/",
-        "locations": [
-            "Oakville, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/86636c38-0e05-4ec1-b699-ea03e743f151",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "GE Healthcare",
         "id": "c45614b9-e67f-42ce-9adc-f9cef0c97f1e",
@@ -61914,24 +61518,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Crusoe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "KPH Healthcare Services",
-        "id": "fe96cb32-29c4-470b-8062-c4def431de2f",
-        "title": "Pharmacy Technician",
-        "active": false,
-        "date_updated": 1765610480,
-        "date_posted": 1761950644,
-        "url": "https://kphcareers-kphhealthcareservices.icims.com/jobs/13343/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Fort Bragg, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/KPH-Healthcare-Services",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -109253,28 +108839,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Uber",
-        "id": "c23b1283-7d84-4333-bbe3-070a541a45dd",
-        "title": "Senior Scientist - Autonomous Mobility & Delivery",
-        "active": false,
-        "date_updated": 1769248784,
-        "date_posted": 1761949939,
-        "url": "https://www.uber.com/global/en/careers/list/148238/",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -340662,6 +340226,67 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Cotiviti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "779500d0-29b5-4c6f-8df1-fc747c1faa1d",
+        "title": "Test and Inspection Embedded Software Engineer-Entry Level",
+        "active": true,
+        "date_updated": 1782684541,
+        "date_posted": 1782684477,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Test-and-Inspection-Embedded-Software-Engineer-Entry-Level_JR2026516830-1",
+        "locations": [
+            "St. Louis, MO",
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Liberty University",
+        "id": "2fe92303-968c-4eff-89cc-b77df2c78a49",
+        "title": "Business Data Analyst 1",
+        "active": true,
+        "date_updated": 1782684223,
+        "date_posted": 1782684064,
+        "url": "https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Hybrid/Business-Data-Analyst-I_R0010425-1",
+        "locations": [
+            "Lynchburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Liberty-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "IMC Trading",
+        "id": "74f58f1b-0c91-41e6-a019-83b25188f802",
+        "title": "Graduate Trading Operations Specialist",
+        "active": true,
+        "date_updated": 1780650001,
+        "date_posted": 1774908428,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4608591101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMC-Trading",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
