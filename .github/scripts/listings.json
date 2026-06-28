@@ -610,24 +610,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "DigitalOcean",
-        "id": "60992aa2-7acf-41f1-b0e2-b0984102c6c7",
-        "title": "Software Engineer I - Security",
-        "active": false,
-        "date_updated": 1761875901,
-        "date_posted": 1761875901,
-        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=7184047",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/DigitalOcean",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "NVIDIA",
         "id": "36268d45-69b7-43af-8189-08e11c92ba67",
         "title": "DL Performance Software Engineer \u2013 New College Graduate 2025 - LLM Inference",
@@ -693,24 +675,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WeRide",
-        "id": "16ee2336-f35a-4235-8a82-561d46b32693",
-        "title": "New Grads 2026 - Data Scientist",
-        "active": false,
-        "date_updated": 1761874665,
-        "date_posted": 1761874665,
-        "url": "https://jobs.lever.co/weride/3240ba9e-6008-46e9-8b05-6bb3a3737a94/apply",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/WeRide",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -1560,24 +1524,6 @@
             "Oshawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/General-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Esri",
-        "id": "af006b99-f0cd-40b6-aa02-cf5333840403",
-        "title": "Publishing Product Engineer I - Arcgis Enterprise",
-        "active": false,
-        "date_updated": 1761874452,
-        "date_posted": 1761874452,
-        "url": "https://www.esri.com/careers/4828988007?gh_jid=4828988007",
-        "locations": [
-            "West Redlands, Redlands, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -3122,24 +3068,6 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Equip Health",
-        "id": "57c62c14-bd02-41ec-aab4-0fbab842901f",
-        "title": "Data Engineer 1",
-        "active": false,
-        "date_updated": 1762916801,
-        "date_posted": 1761874755,
-        "url": "https://jobs.ashbyhq.com/equip/a93220cf-9ab7-4256-bee7-9641f8bc8313/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Equip-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -19990,24 +19918,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Goldman Sachs",
-        "id": "5c42f10a-f177-4af2-8f49-63d310dc4e0e",
-        "title": "Asset & Wealth Management - Full-Stack Software Engineer - Analyst",
-        "active": false,
-        "date_updated": 1762918570,
-        "date_posted": 1761874607,
-        "url": "https://higher.gs.com/roles/154094",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Analog Devices",
         "id": "db41ead1-d3bf-4a84-8b3e-1eb8b8590e6e",
@@ -20278,26 +20188,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Castleton Commodities International",
-        "id": "ceb70e41-5655-4dde-8ff8-97d9d06b0405",
-        "title": "Natural Gas Trading Analyst",
-        "active": false,
-        "date_updated": 1763115498,
-        "date_posted": 1761874279,
-        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Calgary-Canada/Natural-Gas-Trading-Analyst--2026-Start-_R1140",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Castleton-Commodities-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -22733,24 +22623,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "IMC Trading",
-        "id": "c80068e3-9724-4645-87b4-e164f85a2244",
-        "title": "Graduate Machine Learning Researcher",
-        "active": false,
-        "date_updated": 1761874365,
-        "date_posted": 1761874365,
-        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4608585101",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/IMC-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "CAE",
         "id": "24a8eb72-3620-477d-bf64-b6936c3a92a2",
@@ -24346,24 +24218,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "IMC Trading",
-        "id": "aae00298-10af-4af6-a026-af248df8cbf7",
-        "title": "2026 Women in Trading & Technology Program - Quant Trading",
-        "active": false,
-        "date_updated": 1761874333,
-        "date_posted": 1761874333,
-        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4693599101",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/IMC-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Jabil",
         "id": "faf7ca1c-68ba-43f4-a36c-4a7c7a55c836",
@@ -25215,24 +25069,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "IntraFi",
-        "id": "b0350438-d70a-4eed-9454-69cabc89d236",
-        "title": "IAM Engineer",
-        "active": false,
-        "date_updated": 1761875993,
-        "date_posted": 1761875993,
-        "url": "https://jobs.lever.co/intrafi/a615f9ae-4ddd-4dec-a3d2-82ec09acbb44/apply",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/IntraFi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Chicago Trading Company",
         "id": "a63998b9-ed5f-4960-8264-1b84abf47c7e",
@@ -25266,24 +25102,6 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Optiver",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "XPO",
-        "id": "df0db7c4-83e8-4541-9d9c-c5a05060229f",
-        "title": "Product Manager",
-        "active": false,
-        "date_updated": 1761876005,
-        "date_posted": 1761876005,
-        "url": "https://jobs.xpo.com/job/Charlotte-Product-Manager-Hybrid-NC-28277/1320898300/?ats=successfactors",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/XPO",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -25326,42 +25144,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Neros Technologies",
-        "id": "e5cbee67-4f68-4977-abf2-c146e4551bbf",
-        "title": "FPV Technician",
-        "active": false,
-        "date_updated": 1761875966,
-        "date_posted": 1761875966,
-        "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/4963954007",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Neros-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "XPO",
-        "id": "c2ef6135-a72c-4e0d-a109-c425ef4c25b6",
-        "title": "Product Manager",
-        "active": false,
-        "date_updated": 1761876002,
-        "date_posted": 1761876002,
-        "url": "https://jobs.xpo.com/job/North-Richland-Hills-Product-Manager-Hybrid-TX-76180/1320899400/?ats=successfactors",
-        "locations": [
-            "Hurst, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/XPO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Globus Medical",
         "id": "3ce5edd4-614e-43f5-902a-4dca9d73e4b3",
@@ -25374,24 +25156,6 @@
             "King of Prussia, PA"
         ],
         "company_url": "https://simplify.jobs/c/Globus-Medical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "XPO",
-        "id": "08e4e995-d23c-45e9-80b3-cff5007508d1",
-        "title": "Product Manager",
-        "active": false,
-        "date_updated": 1761876002,
-        "date_posted": 1761876002,
-        "url": "https://jobs.xpo.com/job/Ann-Arbor-Product-Manager-Hybrid-MA-48105/1320898800/?ats=successfactors",
-        "locations": [
-            "Ann Arbor, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/XPO",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -25417,80 +25181,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "d6e2d6e8-79b4-478b-b453-9c5ef63ce432",
-        "title": "MR Calibration Engineer 1",
-        "active": false,
-        "date_updated": 1761940627,
-        "date_posted": 1761875528,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/MR-Calibration-Engineer-I---Washington-DC-Area_R4030730-1",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Shield AI",
-        "id": "d15b44a1-51bd-44fa-b07f-c20eb00b651b",
-        "title": "Electrical Test and Rapid Prototype Engineer",
-        "active": false,
-        "date_updated": 1762916176,
-        "date_posted": 1761875522,
-        "url": "https://jobs.lever.co/shieldai/94ff0a13-1092-4df5-9009-9d4dc8e4e16f/apply",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Shield-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "The Voleon Group",
-        "id": "9eaa7869-668d-4464-b9ae-cef8205d813c",
-        "title": "Associate Member of Trading Staff",
-        "active": false,
-        "date_updated": 1761875358,
-        "date_posted": 1761875358,
-        "url": "https://jobs.lever.co/voleon/ce0bda1f-3d5a-44ac-8ab3-8578d49d344c/apply",
-        "locations": [
-            "Berkeley, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Voleon-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ohio State University",
-        "id": "a91efd14-ce71-4f2c-a96c-057b4adec3ae",
-        "title": "Postdoctoral Scholar",
-        "active": false,
-        "date_updated": 1763123614,
-        "date_posted": 1761875036,
-        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar_R139161-1",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Ohio-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Semtech",
         "id": "605adaa6-35aa-44f4-bf47-f02e46d46583",
         "title": "Lab Technician",
@@ -25502,79 +25192,6 @@
             "Dartford District, UK"
         ],
         "company_url": "https://simplify.jobs/c/Semtech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Stripe",
-        "id": "2ea66244-7a43-4b3f-824b-2c0cfa51544b",
-        "title": "Full Stack Engineer - Managed Operations",
-        "active": false,
-        "date_updated": 1761875099,
-        "date_posted": 1761875099,
-        "url": "https://stripe.com/jobs/search?gh_jid=7271571",
-        "locations": [
-            "Seattle, WA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Duolingo",
-        "id": "961015e7-8ddd-41cc-91a5-51f8c3e24895",
-        "title": "Associate Product Manager \u2013 Recent Grad",
-        "active": false,
-        "date_updated": 1761874935,
-        "date_posted": 1761874935,
-        "url": "https://careers.duolingo.com/jobs/8192328002?gh_jid=8192328002",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Duolingo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Wing",
-        "id": "5ff78c67-df57-48a4-8c2a-a50013440f3b",
-        "title": "Web Software Engineer - Commerce Engineering",
-        "active": false,
-        "date_updated": 1761874929,
-        "date_posted": 1761874929,
-        "url": "https://wing.com/careers/8183010002?gh_jid=8183010002",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Akima",
-        "id": "a924efdf-9012-41f1-9fd2-cf37f30e9ecc",
-        "title": "Cybersecurity Analyst",
-        "active": false,
-        "date_updated": 1761874253,
-        "date_posted": 1761874253,
-        "url": "https://careers.akima.com/jobs/19573?lang=en-us&icims=1",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Akima",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -25600,24 +25217,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "IMC Trading",
-        "id": "25cb2f66-bf24-4840-b20c-3f8601f72d3b",
-        "title": "Graduate Software Engineer",
-        "active": false,
-        "date_updated": 1761874369,
-        "date_posted": 1761874369,
-        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4580755101",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/IMC-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Georgetown University",
         "id": "77f0946a-5ea5-4f3d-b007-4109d4eb44d6",
         "title": "Tier 2 Support Technician - Law Center",
@@ -25629,24 +25228,6 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Georgetown-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "IMC Trading",
-        "id": "73375576-ef46-462b-9bff-b7c55418a44e",
-        "title": "2026 Women in Trading & Technology Program - Software Engineer",
-        "active": false,
-        "date_updated": 1761874332,
-        "date_posted": 1761874332,
-        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4693598101",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/IMC-Trading",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -26040,24 +25621,6 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cincinnati Financial",
-        "id": "56515099-da0f-4a75-897b-f155d0c4c4e8",
-        "title": "Sales Analytics Engineer 1 - IV",
-        "active": false,
-        "date_updated": 1762909463,
-        "date_posted": 1761874394,
-        "url": "https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=2500796",
-        "locations": [
-            "Fairfield, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Cincinnati-Financial",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -26554,24 +26117,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AHEAD",
-        "id": "4d57a7e2-4766-489b-9d6a-7e88179d0f8c",
-        "title": "Associate AI Engineer",
-        "active": false,
-        "date_updated": 1761875937,
-        "date_posted": 1761875937,
-        "url": "https://jobs.lever.co/thinkahead/1ebcedcb-82ba-4d19-ac88-aa73a812dd81/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/AHEAD",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "TPI Composites ",
         "id": "83f746f3-f87c-4ef3-aba9-44b25a3cbe76",
@@ -26584,25 +26129,6 @@
             "Newton, IA"
         ],
         "company_url": "https://simplify.jobs/c/TPI-Composites",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hawk-Eye Innovations",
-        "id": "2686f224-f33e-4ac9-a059-e149f874bf7c",
-        "title": "Software Engineering Graduate Scheme 2026",
-        "active": false,
-        "date_updated": 1761874564,
-        "date_posted": 1761874564,
-        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/bbb328c9-79da-4829-810a-169d45db3d42/application",
-        "locations": [
-            "London, UK",
-            "Basingstoke, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -26774,26 +26300,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Ivy Tech Community College",
-        "id": "2db29209-6fb1-4ea0-99de-f572eea6dca6",
-        "title": "Information Technology Lab Technician - IT Lab",
-        "active": false,
-        "date_updated": 1762915980,
-        "date_posted": 1761875166,
-        "url": "https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/East-Chicago-IN/Information-Technology-Lab-Tech_JR0000107103-1",
-        "locations": [
-            "Hobart, IN",
-            "Markham, IL",
-            "Merrillville, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Ivy-Tech-Community-College",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Nordic",
         "id": "332b5c06-cec3-4bdf-857c-83acffcb3ef7",
         "title": "Cadence Analyst",
@@ -26895,26 +26401,6 @@
             "Anchorage, AK"
         ],
         "company_url": "https://simplify.jobs/c/GCI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lilt",
-        "id": "f55fb0c3-3bb0-49cf-8ce9-9136194d0dd1",
-        "title": "Lilt Cantonese AI Content Experts",
-        "active": false,
-        "date_updated": 1762939984,
-        "date_posted": 1761874764,
-        "url": "https://jobs.ashbyhq.com/lilt/00e0e527-2b8a-4b62-98a9-1beee5b5ba58/application",
-        "locations": [
-            "Remote in USA",
-            "Remote in UK",
-            "Remote in Australia"
-        ],
-        "company_url": "https://simplify.jobs/c/Lilt",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -27678,24 +27164,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Commonwealth Fusion Systems",
-        "id": "58b85934-502a-418d-bafb-8097cfaef9b8",
-        "title": "Associate Service Desk Engineer",
-        "active": false,
-        "date_updated": 1761875315,
-        "date_posted": 1761875315,
-        "url": "https://jobs.lever.co/cfsenergy/3e01cb07-001b-42b3-9949-f2eb43c35071/apply",
-        "locations": [
-            "Devens, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Commonwealth-Fusion-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "John Deere",
         "id": "1162ee7c-8e4b-49e5-97a6-1c4b420d7bad",
@@ -28193,25 +27661,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Lilt",
-        "id": "245f586d-0c8d-4991-93bb-f0a21e8e03aa",
-        "title": "Lilt Cantonese Linguists for AI Projects",
-        "active": false,
-        "date_updated": 1762918318,
-        "date_posted": 1761874764,
-        "url": "https://jobs.ashbyhq.com/lilt/03a22a88-b1a3-4b7b-9bda-4ac03656f90a/application",
-        "locations": [
-            "Remote in USA",
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Lilt",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Mohawk",
         "id": "27951589-9d4c-41f0-9bf0-414901cb9f4f",
         "title": "Information Systems Associate - Aspire Ldp",
@@ -28517,24 +27966,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Exowatt",
-        "id": "a9b7a671-e212-47c3-817f-22e4204a461e",
-        "title": "Controls & Firmware Engineer",
-        "active": false,
-        "date_updated": 1761875718,
-        "date_posted": 1761875718,
-        "url": "https://jobs.lever.co/exowatt/cb0ad135-8d68-41c6-878e-740e88a2264e/apply",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Exowatt",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Samsara",
         "id": "cd004828-41dc-44c6-b081-6cc5f2dcd1bb",
@@ -28755,44 +28186,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "BNY",
-        "id": "beb85000-e9bb-4d9f-8ff1-5ed1fd4953c7",
-        "title": "BNY Analyst Program",
-        "active": true,
-        "date_updated": 1763119751,
-        "date_posted": 1761874513,
-        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/69723",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/BNY",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BNY",
-        "id": "9f7190aa-23b9-4618-946d-1996522e0545",
-        "title": "2026 BNY Analyst Program - Engineering Data Science - Manchester",
-        "active": true,
-        "date_updated": 1761874512,
-        "date_posted": 1761874512,
-        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/69714",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/BNY",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "General Dynamics Information Technology",
         "id": "a8310416-f49f-453b-98ea-266bb88d01b4",
         "title": "Software Developer - TS/SCI Polygraph",
@@ -28841,25 +28234,6 @@
             "Wheatland, CA"
         ],
         "company_url": "https://simplify.jobs/c/ASM-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BILL",
-        "id": "15afbda4-2547-43fe-a163-2b81c0bab371",
-        "title": "Associate Risk Data Scientist",
-        "active": false,
-        "date_updated": 1761875378,
-        "date_posted": 1761875378,
-        "url": "https://www.bill.com/job?5644513004&gh_jid=5644513004",
-        "locations": [
-            "San Jose, CA",
-            "Draper, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Bill-Dot-Com",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -28930,24 +28304,6 @@
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-115-South-Jefferson-Rd-Campus-Whippany/Technology-Developer-Rotational-Graduate-Program-2026-Whippany_JR-0000067446",
         "locations": [
             "Parsippany-Troy Hills, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Barclays",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Barclays",
-        "id": "cc99048f-9cdc-4404-b6f4-be4129c41477",
-        "title": "Technology Developer Non-Rotational Graduate Programme 2026 London",
-        "active": false,
-        "date_updated": 1761876023,
-        "date_posted": 1761876023,
-        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Technology-Developer-Non-Rotational-Graduate-Programme-2026-London_JR-0000068198",
-        "locations": [
-            "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Barclays",
         "is_visible": true,
@@ -29137,24 +28493,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Akima",
-        "id": "3095d06d-b531-4d50-978d-2bbe02e61112",
-        "title": "Systems Analyst 1",
-        "active": false,
-        "date_updated": 1762928076,
-        "date_posted": 1761874486,
-        "url": "https://careers.akima.com/jobs/16412?lang=en-us&icims=1",
-        "locations": [
-            "Fayetteville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Akima",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "General Dynamics Information Technology",
         "id": "d54689b7-964b-4bd0-9bfb-b3db384cc58e",
@@ -29222,24 +28560,6 @@
             "Morrisville, NC"
         ],
         "company_url": "https://simplify.jobs/c/Viavi-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ohio State University",
-        "id": "325b1b86-1e65-4032-8fea-c5729d2e9346",
-        "title": "Assistant Professor in Artificial Intelligence in Geosciences - School of Earth Sciences",
-        "active": false,
-        "date_updated": 1761875443,
-        "date_posted": 1761875443,
-        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Assistant-Professor-in-Artificial-Intelligence-in-Geosciences---School-of-Earth-Sciences_R136677",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Ohio-State-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -29620,24 +28940,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Voleon Group",
-        "id": "8227eb84-81d9-4f47-8d99-d87c51bfd6b6",
-        "title": "Software Engineer - University Hire 2026",
-        "active": false,
-        "date_updated": 1761875385,
-        "date_posted": 1761875385,
-        "url": "https://jobs.lever.co/voleon/7c185ae4-3fdd-4613-8152-3ede45d2b7c0/apply",
-        "locations": [
-            "Berkeley, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Voleon-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -30073,24 +29375,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Goldman Sachs",
-        "id": "cc1a8fff-672b-4781-87ce-87d5f8b28a96",
-        "title": "Engineering-L2-Draper-Associate-Help Desk User Support",
-        "active": false,
-        "date_updated": 1762935985,
-        "date_posted": 1761874722,
-        "url": "https://higher.gs.com/roles/152752",
-        "locations": [
-            "Draper, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Bell Partners",
         "id": "2709fef4-ac17-4d4f-abe1-a452bc8cff50",
         "title": "IT Technician",
@@ -30447,42 +29731,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "CDW Corporation",
-        "id": "bc88562f-5e45-4a5b-8d09-27ad1071bf2b",
-        "title": "Onsite Engineer",
-        "active": false,
-        "date_updated": 1761874296,
-        "date_posted": 1761874296,
-        "url": "https://cdw.wd5.myworkdayjobs.com/careers/job/Virtual---GBR/Onsite-Engineer_R25_00000193",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/CDW-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CDW Corporation",
-        "id": "76b7d230-109a-4f0c-ab8c-73f3f138741a",
-        "title": "Senior Analyst - Managed Security Services",
-        "active": false,
-        "date_updated": 1762917647,
-        "date_posted": 1761874286,
-        "url": "https://cdw.wd5.myworkdayjobs.com/careers/job/Mississauga--Forsythe---ON/Sr-Analyst---Managed-Security-Services_R25_00001693",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/CDW-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Texas A&M International University",
         "id": "ac40bd53-efdc-494b-8a02-10c8be8ff19e",
@@ -30495,24 +29743,6 @@
             "Laredo, TX"
         ],
         "company_url": "https://simplify.jobs/c/Texas-AM-International-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Goldman Sachs",
-        "id": "df164346-58f6-42b5-9650-c5b60ce15376",
-        "title": "Asset and Wealth Management Analyst",
-        "active": false,
-        "date_updated": 1762911612,
-        "date_posted": 1761874666,
-        "url": "https://higher.gs.com/roles/152209",
-        "locations": [
-            "West Palm Beach, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -30977,24 +30207,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "IMC Trading",
-        "id": "cb0d39a3-f48a-4e62-8b19-c44959f79876",
-        "title": "Graduate Hardware Engineer",
-        "active": false,
-        "date_updated": 1761874360,
-        "date_posted": 1761874360,
-        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4580756101",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/IMC-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "PennState University",
         "id": "68188134-cafa-4b8d-aa5c-4edf4278eb7c",
@@ -31269,26 +30481,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "The Voleon Group",
-        "id": "1536ceca-31d9-4753-b9f8-d265733bb2ca",
-        "title": "Associate Member of Trading Staff",
-        "active": false,
-        "date_updated": 1761875354,
-        "date_posted": 1761875354,
-        "url": "https://jobs.lever.co/voleon/d1944524-34ca-4e76-b2ce-ada366e63162/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Voleon-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Abnormal Security",
         "id": "a88121c0-5d26-4bc4-9fd1-4bb139bbe5e6",
@@ -31307,25 +30499,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "IMC Trading",
-        "id": "f17fbb9b-81df-4d4c-9b82-8214da5c45af",
-        "title": "Graduate Quantitative Researcher",
-        "active": false,
-        "date_updated": 1761874369,
-        "date_posted": 1761874369,
-        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4631782101",
-        "locations": [
-            "Chicago, IL",
-            "Sydney NSW, Australia"
-        ],
-        "company_url": "https://simplify.jobs/c/IMC-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Amentum",
         "id": "c1ac8aae-b979-4c9e-b9c4-f5ea39e07b91",
@@ -31338,42 +30511,6 @@
             "Odenton, MD"
         ],
         "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "IMC Trading",
-        "id": "e27c7003-3e24-4459-884c-dc8b25984d04",
-        "title": "Graduate Quantitative Researcher - PhD",
-        "active": false,
-        "date_updated": 1761874370,
-        "date_posted": 1761874370,
-        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4609888101",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/IMC-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "IMC Trading",
-        "id": "d45c25bf-1cc5-497d-ba08-34dc2c206e18",
-        "title": "Graduate Quantitative Researcher - BS/MS",
-        "active": false,
-        "date_updated": 1761874367,
-        "date_posted": 1761874367,
-        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4580753101",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/IMC-Trading",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -41149,25 +40286,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Draper",
-        "id": "e50d1450-8a91-4a28-ac8c-47efd6bd4176",
-        "title": "ASIC/FPGA Hardware Engineer for Cryptographic Systems",
-        "active": false,
-        "date_updated": 1763660542,
-        "date_posted": 1761874249,
-        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Senior-ASIC-FPGA-Hardware-Engineer-for-Cryptographic-Systems_JR001787",
-        "locations": [
-            "Cambridge, MA",
-            "Hill AFB, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Draper",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "df23ccde-7af7-43d5-acff-b2a829cecd29",
@@ -50855,24 +49973,6 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Stripe",
-        "id": "ba107b4e-21bd-4329-b45b-0ee5e6e7b0a5",
-        "title": "Backend Engineer - Payments and Risk",
-        "active": false,
-        "date_updated": 1763198226,
-        "date_posted": 1761875015,
-        "url": "https://stripe.com/jobs/search?gh_jid=6163230",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Stripe",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -65396,24 +64496,6 @@
             "Blackpool, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Westwood",
-        "id": "465402d3-97d2-412c-8ce6-9bd15b721957",
-        "title": "GIS Specialist",
-        "active": false,
-        "date_updated": 1765308589,
-        "date_posted": 1761875056,
-        "url": "https://careers-westwoodps.icims.com/jobs/7494/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Hopkins, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Westwood",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -193529,26 +192611,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WebFX",
-        "id": "7538360d-15d3-40c0-b483-bd8cf1d93faa",
-        "title": "Junior Marketing Analytics Consultant",
-        "active": false,
-        "date_updated": 1773097804,
-        "date_posted": 1761874896,
-        "url": "https://jobs.lever.co/webfx/bc883e25-01c7-435d-a23f-4078d268d7b6/apply",
-        "locations": [
-            "Harrisburg, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/WebFX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Analog Devices",
         "id": "d6cc1d50-521a-4e2e-9d34-ac1a29813932",
@@ -251731,28 +250793,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Edgestream",
-        "id": "8d0a5dfb-f535-41f1-a065-9752e2bff41a",
-        "title": "Quantitative Software Engineer",
-        "active": true,
-        "date_updated": 1776161170,
-        "date_posted": 1761874355,
-        "url": "https://www.edgestreamlp.com/career?gh_jid=4163341003",
-        "locations": [
-            "Princeton, NJ",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Edgestream",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Rockwell Automation",
         "id": "16adba7b-c5fe-4737-bb4a-628a86ba3e19",
@@ -267315,26 +266355,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Resolve",
-        "id": "317a6b60-e9e0-4b17-b328-c66b7f78f409",
-        "title": "Research Engineer",
-        "active": false,
-        "date_updated": 1776933002,
-        "date_posted": 1761875984,
-        "url": "https://jobs.ashbyhq.com/Resolve%20AI/588a0c76-41df-436a-9b70-23d8728a77ee/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/a8f4cca9-6b54-4f3a-9dc0-0f0a194c4dba",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "date_updated": 1779698908,
