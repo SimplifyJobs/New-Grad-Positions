@@ -393,24 +393,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Nuro",
-        "id": "af8f1713-cafe-4400-b4bf-3eb36859265a",
-        "title": "Software Engineer \u2013 New Grad - AI Platform",
-        "active": true,
-        "date_updated": 1761871643,
-        "date_posted": 1761871643,
-        "url": "https://nuro.ai/careersitem?gh_jid=7351066",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nuro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Johnson & Johnson",
         "id": "9fb8298d-b1ee-4fc8-b1bb-c4813cf50854",
         "title": "R&D Software Engineer 1",
@@ -711,42 +693,6 @@
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "BTI Solutions",
-        "id": "161ee3ad-9d36-463b-b3b1-bd9f04484723",
-        "title": "Entry Level Mobile Device Test Network Engineer SHQ",
-        "active": false,
-        "date_updated": 1761870980,
-        "date_posted": 1761870980,
-        "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Bellevue-WA/Entry-Level-Mobile-Device-Test-Network-Engineer-SHQ_JR101363",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/BTI-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Whoop",
-        "id": "e0da206b-f1c0-4af9-9fa2-f7d209331585",
-        "title": "Android Engineer 1 - Growth",
-        "active": true,
-        "date_updated": 1761939114,
-        "date_posted": 1761871964,
-        "url": "https://jobs.lever.co/whoop/c1ee90e7-697b-49c2-b805-fa2c1ee20e4f/apply",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Whoop",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -21161,24 +21107,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SDSU Research Foundation",
-        "id": "cf435cf5-08d6-4e1d-8cfe-2a9f3ad44b41",
-        "title": "Niwc Graduate 1 - Master's - UAV/ Robotic Design",
-        "active": false,
-        "date_updated": 1762935427,
-        "date_posted": 1761871162,
-        "url": "https://careers-sdsurf.icims.com/jobs/18259/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SDSU-Research-Foundation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "040b592e-7c3b-4f84-a29e-61b7b880dc56",
@@ -25765,26 +25693,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "MillerKnoll",
-        "id": "e22eafd2-ea25-4e01-b85a-f2c39bef313e",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1761872377,
-        "date_posted": 1761872377,
-        "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MI---Zeeland/Associate-Software-Engineer_JR107791-1",
-        "locations": [
-            "Holland, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/MillerKnoll",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "IMC Trading",
         "id": "25cb2f66-bf24-4840-b20c-3f8601f72d3b",
         "title": "Graduate Software Engineer",
@@ -25892,24 +25800,6 @@
             "Roseville, CA"
         ],
         "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "LexisNexis Risk Solutions",
-        "id": "6c093271-bee1-4309-8315-268c623978c5",
-        "title": "Data Relationship Analyst 1",
-        "active": false,
-        "date_updated": 1761941848,
-        "date_posted": 1761871879,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/East-Grinstead/Data-Relationship-Analyst-I_R103164",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -26814,24 +26704,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "UTHealth Houston",
-        "id": "011d7ba6-132e-43e5-8071-ab1d8775d003",
-        "title": "IT Service Desk-Associate",
-        "active": false,
-        "date_updated": 1761871941,
-        "date_posted": 1761871941,
-        "url": "https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/5386",
-        "locations": [
-            "San Antonio, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/UTHealth-Houston",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "KLA",
         "id": "27792301-b7df-4f4d-ab03-56616712a0b3",
@@ -27658,24 +27530,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Augment",
-        "id": "1b6b9cca-9f1e-4049-89cd-2bc1e6965cda",
-        "title": "Forward-Deployed Engineer",
-        "active": false,
-        "date_updated": 1762938572,
-        "date_posted": 1761872282,
-        "url": "https://jobs.ashbyhq.com/go-augment/1900c830-9fa2-45b3-a431-bdf9c067e711/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Augment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Pace Industries",
         "id": "e20453c8-d0e3-44c9-98af-02fcc5a89a1e",
         "title": "IT Analyst",
@@ -27759,24 +27613,6 @@
             "Tarrytown, NY"
         ],
         "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nextracker",
-        "id": "a6ac6a58-ac38-4d90-b7ea-bdefec91c625",
-        "title": "Embedded Software Engineer",
-        "active": false,
-        "date_updated": 1761870961,
-        "date_posted": 1761870961,
-        "url": "https://nextracker.wd5.myworkdayjobs.com/nextracker_careers/job/Fremont-North-Bldg-California---USA/Embedded-Software-Engineer_NX-2426",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nextracker",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -28000,42 +27836,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Mercer University",
-        "id": "557c4222-3333-4c59-b090-90b7bd873453",
-        "title": "IT Field Support Technician",
-        "active": false,
-        "date_updated": 1761871796,
-        "date_posted": 1761871796,
-        "url": "https://merceruniversity.wd1.myworkdayjobs.com/student/job/Macon-Campus/IT-Field-Support-Technician_JR103298-1",
-        "locations": [
-            "Macon, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mercer-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mercer University",
-        "id": "08f9f1dc-b767-496e-a86e-215827b4993a",
-        "title": "System Manager Assistant",
-        "active": false,
-        "date_updated": 1761871824,
-        "date_posted": 1761871824,
-        "url": "https://merceruniversity.wd1.myworkdayjobs.com/student/job/Atlanta-Campus/System-Manager-Assistant_JR103150",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mercer-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "PennState University",
         "id": "31a6db78-1795-45ff-a8cf-7fa9073f5fbf",
         "title": "IST Graduate Assistant - Dr. Calacci",
@@ -28230,24 +28030,6 @@
             "Effingham, IL"
         ],
         "company_url": "https://simplify.jobs/c/Rural-King",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The University of Chicago Medicine",
-        "id": "8ee969bb-29c1-4ab3-b593-35ad4c84b2de",
-        "title": "Clinical Data Analyst - Same Day Surgery/Observation Coder",
-        "active": false,
-        "date_updated": 1761941325,
-        "date_posted": 1761872297,
-        "url": "https://careers-ucm.icims.com/jobs/79075/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/The-University-Of-Chicago-Medicine",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -28621,24 +28403,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "TDS",
-        "id": "12a7de0d-73ed-4839-aa19-ecfe412999c8",
-        "title": "Broadband Technician 1",
-        "active": false,
-        "date_updated": 1763130549,
-        "date_posted": 1761871233,
-        "url": "https://external-telecom-teldta.icims.com/jobs/28265/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Bend, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/TDS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Nitra",
         "id": "e068e1fd-dd80-4e80-b297-7ae822ee0907",
@@ -28726,24 +28490,6 @@
             "Ambler, PA"
         ],
         "company_url": "https://simplify.jobs/c/Newrez",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Red Ventures",
-        "id": "616767b4-62ce-4140-93d3-d09b3837a73e",
-        "title": "Associate Data Science Product Manager",
-        "active": true,
-        "date_updated": 1761935598,
-        "date_posted": 1761871161,
-        "url": "https://www.redventures.com/careers/positions/open?gh_jid=7279145",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Red-Ventures",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -29237,25 +28983,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Five9",
-        "id": "baf95d35-ee95-465b-b81b-f59fe6e89a8d",
-        "title": "Associate Data Scientist/AI Trainer",
-        "active": false,
-        "date_updated": 1762930568,
-        "date_posted": 1761871662,
-        "url": "https://www.five9.com/about/careers/job-detail?gh_jid=5656002004",
-        "locations": [
-            "San Ramon, CA",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Five9",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Plante Moran",
         "id": "5f2e93f8-68a9-4dbe-834d-75e2975a048d",
@@ -29513,60 +29240,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Nexstar",
-        "id": "e62b9d40-4902-4ec0-b118-f83b5eb8565c",
-        "title": "Studio Technician",
-        "active": false,
-        "date_updated": 1762914553,
-        "date_posted": 1761871454,
-        "url": "https://nexstar.wd5.myworkdayjobs.com/nexstar/job/NC-High-Point2005-Francis-Street-Tribune-WGHP/Part-time-Studio-Technician_REQ-38434-1",
-        "locations": [
-            "High Point, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Nexstar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Centific",
-        "id": "d5b595e8-3e8a-4954-b2b5-a8d2d1507bf4",
-        "title": "Deployment Engineer",
-        "active": false,
-        "date_updated": 1761872337,
-        "date_posted": 1761872337,
-        "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Deployment-Engineer_JR101165",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Centific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Centific",
-        "id": "be4ead7d-fe82-45e3-883d-863a43ff141b",
-        "title": "C# Backend Development Engineer \"C2C\"",
-        "active": false,
-        "date_updated": 1761872314,
-        "date_posted": 1761872314,
-        "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/C--Backend-Development-Engineer--C2C-_JR103606",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Centific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "CAE",
         "id": "f6403b0f-3eef-4fbb-a225-edec266d5f8e",
         "title": "Simulator Technician",
@@ -29726,24 +29399,6 @@
             "Draper, UT"
         ],
         "company_url": "https://simplify.jobs/c/Bill-Dot-Com",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Horizon3.ai",
-        "id": "ea04f13e-de33-4ef1-a4dd-22ca9ee6cc0e",
-        "title": "Applied AI Engineer 1",
-        "active": false,
-        "date_updated": 1761870982,
-        "date_posted": 1761870982,
-        "url": "https://jobs.ashbyhq.com/horizon3ai/64cab161-311a-4810-bbda-a9fc60e4df99/application",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Horizon3ai",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -30328,26 +29983,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "88030d33-d8a2-4cc7-887f-b932e6fe080a",
-        "title": "Data Science Graduate - Colorado",
-        "active": false,
-        "date_updated": 1761872050,
-        "date_posted": 1761872050,
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Data-Science-Graduate--Colorado-_1193617-1",
-        "locations": [
-            "Fort Collins, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Cantina",
         "id": "60b340ae-5495-4e57-9b86-986233f45f73",
@@ -30363,32 +29998,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "d796c00a-2880-4891-8bad-61896e56e344",
-        "title": "Data Science Graduate",
-        "active": false,
-        "date_updated": 1761871979,
-        "date_posted": 1761871979,
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1192963-1",
-        "locations": [
-            "Eau Claire, WI",
-            "Andover, MA",
-            "Bloomington, MN",
-            "San Jose, CA",
-            "Spring, TX",
-            "Durham, NC",
-            "Roseville, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -30483,45 +30092,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "a69a23cd-442c-4a6c-8fb5-574c6d2acfb4",
-        "title": "Software Engineering Graduate",
-        "active": false,
-        "date_updated": 1761872054,
-        "date_posted": 1761872054,
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Software-Engineering-Graduate--Colorado-_1193615-1",
-        "locations": [
-            "Fort Collins, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "d74c3cb0-bb70-4006-83ac-32998e26842a",
-        "title": "Firmware Engineer Graduate - Colorado",
-        "active": false,
-        "date_updated": 1761872050,
-        "date_posted": 1761872050,
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Firmware-Engineer-Graduate--Colorado-_1193613-1",
-        "locations": [
-            "Fort Collins, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "SEP",
         "id": "b158b13c-0b99-47fa-aeb6-9e6d3b45d995",
         "title": "Software Engineer - 2026 start dates - In person",
@@ -30533,30 +30103,6 @@
             "Carmel, IN"
         ],
         "company_url": "https://simplify.jobs/c/SEP",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "ee2c4038-7fa2-4e9b-8bcd-d2043e96ed39",
-        "title": "Firmware Engineer Graduate",
-        "active": false,
-        "date_updated": 1761872050,
-        "date_posted": 1761872050,
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Graduate_1192956-1",
-        "locations": [
-            "Eau Claire, WI",
-            "Andover, MA",
-            "Bloomington, MN",
-            "San Jose, CA",
-            "Spring, TX",
-            "Durham, NC",
-            "Roseville, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -31498,24 +31044,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ocean Optics",
-        "id": "a5c75788-ab5c-4284-b3c4-84217e436276",
-        "title": "Services \u2013 Technician",
-        "active": false,
-        "date_updated": 1761872278,
-        "date_posted": 1761872278,
-        "url": "https://halma.wd3.myworkdayjobs.com/halma/job/Valparaiso/Services--Technician_JR24_000145-1",
-        "locations": [
-            "Valparaiso, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Ocean-Optics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Alice L. Walton School of Medicine",
         "id": "d47d80db-5498-4dbd-8d6b-2f5203f8b8e9",
@@ -31803,116 +31331,6 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Scientific Games",
-        "id": "b088d0ee-88bb-4d9c-b643-e44d50590150",
-        "title": "Field Service Tech 1",
-        "active": false,
-        "date_updated": 1763122631,
-        "date_posted": 1761871145,
-        "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Carlsbad-NM/Field-Service-Tech-I--Carlsbad_R503558",
-        "locations": [
-            "Carlsbad, NM"
-        ],
-        "company_url": "https://simplify.jobs/c/Scientific-Games",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Scientific Games",
-        "id": "6c8e9e50-a610-4d44-a37e-38bca80b1e28",
-        "title": "Field Service Tech 1 - Clovis",
-        "active": false,
-        "date_updated": 1763116323,
-        "date_posted": 1761871163,
-        "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Clovis-NM/Field-Service-Tech-I_R503556",
-        "locations": [
-            "Clovis, NM"
-        ],
-        "company_url": "https://simplify.jobs/c/Scientific-Games",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Scientific Games",
-        "id": "e0227666-c576-4218-bf68-23a6f292bf4b",
-        "title": "Field Service Tech - Farmington",
-        "active": false,
-        "date_updated": 1761871157,
-        "date_posted": 1761871157,
-        "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Farmington-NM/Field-Service-Tech-I--Farmington_R503552",
-        "locations": [
-            "Farmington, NM"
-        ],
-        "company_url": "https://simplify.jobs/c/Scientific-Games",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Scientific Games",
-        "id": "dfcde5e7-2b4b-4631-8ab2-fad13dc70f64",
-        "title": "Field Service Tech 1 - Albuquerque",
-        "active": false,
-        "date_updated": 1762918516,
-        "date_posted": 1761871150,
-        "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Albuquerque-NM/Field-Service-Tech-I--Albuquerque_R503550",
-        "locations": [
-            "Albuquerque, NM"
-        ],
-        "company_url": "https://simplify.jobs/c/Scientific-Games",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Scientific Games",
-        "id": "9a42aa4f-29d8-4187-b134-8b52c8fcee2a",
-        "title": "Field Service Technician 1 - Albuquerque",
-        "active": false,
-        "date_updated": 1762923069,
-        "date_posted": 1761871151,
-        "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Albuquerque-NM/Field-Service-Tech-I--Albuquerque_R503551",
-        "locations": [
-            "Albuquerque, NM"
-        ],
-        "company_url": "https://simplify.jobs/c/Scientific-Games",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Scientific Games",
-        "id": "83913db5-a7be-4aeb-9acb-0e13ec6ad912",
-        "title": "Field Service Technician 1 - Gallup",
-        "active": false,
-        "date_updated": 1762924518,
-        "date_posted": 1761871160,
-        "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Gallup-NM/Field-Service-Tech-I--Gallup_R503555-1",
-        "locations": [
-            "Gallup, NM"
-        ],
-        "company_url": "https://simplify.jobs/c/Scientific-Games",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Scientific Games",
         "id": "b4125e43-2478-4192-937e-9c4c6007812b",
         "title": "Field Service Tech 1",
         "active": false,
@@ -31921,24 +31339,6 @@
         "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Taos-NM/Field-Service-Tech-I--Taos_R503553",
         "locations": [
             "Taos, NM"
-        ],
-        "company_url": "https://simplify.jobs/c/Scientific-Games",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Scientific Games",
-        "id": "64ab0989-e4e1-42d0-9abb-a26daacb2e82",
-        "title": "Field Service Tech 1",
-        "active": false,
-        "date_updated": 1762936504,
-        "date_posted": 1761871151,
-        "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Las-Cruces-NM/Field-Service-Tech-I--Las-Cruces_R503557",
-        "locations": [
-            "Las Cruces, NM"
         ],
         "company_url": "https://simplify.jobs/c/Scientific-Games",
         "is_visible": true,
@@ -32882,24 +32282,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "43935206-e475-4e15-8562-2add313ee276",
-        "title": "Search Engine Evaluator - English - Canada",
-        "active": false,
-        "date_updated": 1761872048,
-        "date_posted": 1761872048,
-        "url": "https://jobs.lever.co/rws/84e591b7-db2b-4aaf-aafc-9c87c7993780/apply",
-        "locations": [
-            "Edmonton, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "0c833dfd-91b9-48c7-a019-1851a8bad9aa",
         "title": "Student Researcher - Generative AI",
@@ -33047,26 +32429,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Louisiana State University (LSU)",
-        "id": "971c9279-1641-4ab0-abf8-ee1d259fecbf",
-        "title": "Postdoctoral Researcher - Multiple Levels",
-        "active": false,
-        "date_updated": 1761872229,
-        "date_posted": 1761872229,
-        "url": "https://lsu.wd1.myworkdayjobs.com/LSU/job/3319-Patrick-F-Taylor-Hall/Postdoctoral-Researcher--Multiple-Levels-_R00100578",
-        "locations": [
-            "Baton Rouge, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Louisiana-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "5789a34b-53b5-4a0e-9280-dd3386ba5a7b",
         "title": "Research Scientist Graduate \uff08High-Performance Computing - Inference Optimization - Vision AI Platform-Seattle",
@@ -33097,24 +32459,6 @@
             "Remote in UK"
         ],
         "company_url": "https://simplify.jobs/c/ElevenLabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Wyetech",
-        "id": "f7888df5-4729-4f81-aa21-288d7c4f7211",
-        "title": "Network Engineer",
-        "active": false,
-        "date_updated": 1762917661,
-        "date_posted": 1761871866,
-        "url": "https://jobs.lever.co/wyetechllc/a0a66317-a31b-4ece-aefb-1e0c30e1c893/apply",
-        "locations": [
-            "Laurel, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -43948,24 +43292,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics",
-        "id": "14559dae-4954-4777-b9a5-7806e3df103d",
-        "title": "SWS Fleet Support Engineer 1 / 2",
-        "active": false,
-        "date_updated": 1763667047,
-        "date_posted": 1761871686,
-        "url": "https://careers-gdeb.icims.com/jobs/15343/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Groton, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -87623,24 +86949,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Weston Solutions",
-        "id": "3217f638-e5e0-49c0-839b-4d0a4d8d238c",
-        "title": "Associate Scientist or Geoscientist - Emergency Response Team",
-        "active": false,
-        "date_updated": 1762816690,
-        "date_posted": 1761872176,
-        "url": "https://jobs.jobvite.com/weston/job/o1nOyfwu?nl=1&nl=1&fr=false",
-        "locations": [
-            "Portland, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Weston-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Analog Devices",
         "id": "0b306af5-a513-414f-8543-b1068cf8fb6b",
@@ -90580,24 +89888,6 @@
             "LA"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Seminole Hard Rock",
-        "id": "4088b9d5-71c9-4d8c-9f9f-76080c1caa11",
-        "title": "Slot Machine Technician 1",
-        "active": false,
-        "date_updated": 1767350673,
-        "date_posted": 1761872194,
-        "url": "https://careers-seminole.icims.com/jobs/40228/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Bonita Springs, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Seminole-Hard-Rock",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -111327,27 +110617,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Exponent",
-        "id": "91197e6f-08d2-48ad-b31f-292fea19a566",
-        "title": "Research Associate - Biomechanics",
-        "active": false,
-        "date_updated": 1768616699,
-        "date_posted": 1761872293,
-        "url": "https://careers-exponent.icims.com/jobs/2210/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Slough, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Exponent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -193790,29 +193059,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citadel Securities",
-        "id": "495929ef-4f6f-4cdb-9c26-6156e4966b6b",
-        "title": "Software Engineer \u2013 University Graduate - US",
-        "active": true,
-        "date_updated": 1764581908,
-        "date_posted": 1761871128,
-        "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
-        "locations": [
-            "Miami, FL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel-Securities",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "6be0cbab-0819-4d12-9317-d153d1de3524",
@@ -259215,48 +258461,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Citadel Securities",
-        "id": "ae5bd7a0-0600-42d1-b21c-5a645b496968",
-        "title": "Quantitative Researcher PhD Graduate - US",
-        "active": true,
-        "date_updated": 1764276643,
-        "date_posted": 1761871122,
-        "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-us/",
-        "locations": [
-            "Miami, FL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel-Securities",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Citadel Securities",
-        "id": "f23fe117-836c-45d4-bd59-0ea9d9ddf7f7",
-        "title": "Machine Learning Researcher \u2013 PhD Graduate - US",
-        "active": true,
-        "date_updated": 1764160431,
-        "date_posted": 1761871130,
-        "url": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us/",
-        "locations": [
-            "Miami, FL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel-Securities",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
