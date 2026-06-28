@@ -22172,24 +22172,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CAE",
-        "id": "24a8eb72-3620-477d-bf64-b6936c3a92a2",
-        "title": "Simulator Technician",
-        "active": false,
-        "date_updated": 1761904481,
-        "date_posted": 1761904481,
-        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Simulator-Technician_117989",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "PennState University",
         "id": "c8620422-a002-4f17-baf2-1a7acc5b4e5c",
@@ -343880,5 +343862,167 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "f65a57de-c5dd-4b3b-bfdf-5331d7a423c8",
+        "title": "Graduate Software Engineer - Data Arch - AI/ML Infrastructure",
+        "active": true,
+        "date_updated": 1781504983,
+        "date_posted": 1781503951,
+        "url": "https://lifeattiktok.com/search/7535215880842791176",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "504f0b08-afb2-4964-b3cd-5dee1937b1ad",
+        "title": "Frontend Software Engineer - Global CRM Platform",
+        "active": true,
+        "date_updated": 1781504821,
+        "date_posted": 1781503901,
+        "url": "https://lifeattiktok.com/search/7104433489986734350",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "7a8c16e6-b29e-441d-9635-d193fe1c96fa",
+        "title": "Software Engineer Graduate",
+        "active": true,
+        "date_updated": 1781504821,
+        "date_posted": 1781503937,
+        "url": "https://lifeattiktok.com/search/7531175534148045063",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "8b0f0a57-c19a-494c-9a6e-02dbae9af63b",
+        "title": "Research Scientist in Generative AI - Intelligent Creation",
+        "active": true,
+        "date_updated": 1781505062,
+        "date_posted": 1781503926,
+        "url": "https://lifeattiktok.com/search/7517442299329300754",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "d2bee24c-fe5c-403b-9483-ec8f0548321b",
+        "title": "Graduate Research Scientist - Applied Machine Learning - ML System",
+        "active": true,
+        "date_updated": 1780466991,
+        "date_posted": 1780466897,
+        "url": "https://jobs.bytedance.com/en/position/7540109673547581703/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "d0a7e5d4-0029-4c15-aec8-ea347fe6067b",
+        "title": "AI/LLM Network Software Development Engineer Graduate - High Speed Network",
+        "active": true,
+        "date_updated": 1780466950,
+        "date_posted": 1780466902,
+        "url": "https://jobs.bytedance.com/en/position/7509262740803930376/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "ad0c0ea3-6eff-409b-91d6-adcf6f76c26e",
+        "title": "Software Development Engineer Graduate - SDN Traffic Intelligence & Control",
+        "active": true,
+        "date_updated": 1780466950,
+        "date_posted": 1780466897,
+        "url": "https://jobs.bytedance.com/en/position/7509262736619571474/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "b159e82d-ecc8-436c-bbc2-4fbd3391aa58",
+        "title": "Graduate Research Scientist - Infrastructure System Lab - PhD",
+        "active": true,
+        "date_updated": 1780438756,
+        "date_posted": 1780438068,
+        "url": "https://jobs.bytedance.com/en/position/7537470720265029906/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
