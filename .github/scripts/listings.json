@@ -20692,24 +20692,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "b9117230-d8fa-458c-adf0-016715e8e2cc",
-        "title": "Graduate Machine Learning Engineer - E-Commerce Supply Chain & Logistics",
-        "active": false,
-        "date_updated": 1762918783,
-        "date_posted": 1761906306,
-        "url": "https://jobs.bytedance.com/en/position/7538934102570748178/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "PIMCO",
         "id": "f26d6a2c-deb5-42f6-a0dc-c53273f6f2f6",
@@ -22039,133 +22021,6 @@
             "Columbia, MO"
         ],
         "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Comcast",
-        "id": "1089f595-1f32-4d9d-8339-6d1e607d2066",
-        "title": "Residential Installation & Service Technician",
-        "active": false,
-        "date_updated": 1762924803,
-        "date_posted": 1761906478,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Rock-Falls-1304-W-Rt-30/Residential-Installation---Service-Technician_R418768",
-        "locations": [
-            "Princeton, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "e886dbd8-5618-40cb-a4d9-0aeaf23d24c8",
-        "title": "Student Researcher - LLM Foundation Research",
-        "active": false,
-        "date_updated": 1761906333,
-        "date_posted": 1761906333,
-        "url": "https://jobs.bytedance.com/en/position/7491369930711042311/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "995e93b9-bd01-47b9-8ebe-fac89b186b3d",
-        "title": "Research Scientist Graduate - High-Performance Computing - Algorithm Acceleration",
-        "active": false,
-        "date_updated": 1761906336,
-        "date_posted": 1761906336,
-        "url": "https://jobs.bytedance.com/en/position/7473264084714113287/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Airbus",
-        "id": "64f72950-86c4-4827-8be2-80fc401c2f5b",
-        "title": "Standard Offer Analyst",
-        "active": false,
-        "date_updated": 1763121602,
-        "date_posted": 1761906335,
-        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/Analyste-d-Offre-Standard---Standard-Offer-Analyst_JR10344357",
-        "locations": [
-            "Laval, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Airbus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "ea7646e9-efed-485a-a4ef-7104129e9659",
-        "title": "Software Engineer Graduate - Ads Infrastructure",
-        "active": false,
-        "date_updated": 1761906122,
-        "date_posted": 1761906122,
-        "url": "https://lifeattiktok.com/search/7541512820980418824",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Vertiv",
-        "id": "7ea795fc-8dd6-4156-bace-0928ce96a93e",
-        "title": "Data Scientist",
-        "active": false,
-        "date_updated": 1761905729,
-        "date_posted": 1761905729,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20258964",
-        "locations": [
-            "New Albany, OH",
-            "Ohio"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "430e27e8-d576-4309-8dee-53495ae8aa20",
-        "title": "Graduate Software Engineer - Data Arch - Data Ecosystem",
-        "active": false,
-        "date_updated": 1762911310,
-        "date_posted": 1761905375,
-        "url": "https://lifeattiktok.com/search/7397249993326954789",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -25578,24 +25433,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "TikTok",
-        "id": "956343c7-1c4d-47e4-a635-20f672c03e5c",
-        "title": "Software Engineer Graduate - Monetization Technology - Brand Ads",
-        "active": false,
-        "date_updated": 1761906488,
-        "date_posted": 1761906488,
-        "url": "https://lifeattiktok.com/search/7535599554659010834",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
         "id": "5d3c686e-3de2-4cd8-952c-d11449109920",
         "title": "Graduate Software Engineer - Data Arch - E-commerce",
         "active": false,
@@ -25791,24 +25628,6 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Surefire Cyber",
-        "id": "19dbf198-5725-453b-97ec-db9bd1ca7cdf",
-        "title": "Consultant - Restoration and Remediation",
-        "active": false,
-        "date_updated": 1761906284,
-        "date_posted": 1761906284,
-        "url": "https://job-boards.greenhouse.io/surefirecyber/jobs/4404868007",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Surefire-Cyber",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
