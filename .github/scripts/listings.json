@@ -407,24 +407,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Veeva Systems",
-        "id": "b042dd1d-cb9b-4674-a483-4245202e153d",
-        "title": "Associate Software Engineer \u2013 Seeking 2025 & 2026 Grads - Engineering Development Program",
-        "active": true,
-        "date_updated": 1761917627,
-        "date_posted": 1761917627,
-        "url": "https://jobs.lever.co/veeva/e31a2a3c-a508-459c-9f77-a2692a95f233/apply",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "NVIDIA",
         "id": "589a6a89-77bf-47ad-8966-596086234cde",
         "title": "Software Engineer \u2013 New College Grad 2026 - AI Infrastructure",
@@ -1103,24 +1085,6 @@
             "Marlborough, MA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Applied Materials",
-        "id": "2280b052-eae6-4829-8e1e-05b3e0637449",
-        "title": "Systems/Software \u2013 Engineer I New College Grad - Controls - Bachelor's - Gloucester - MA",
-        "active": false,
-        "date_updated": 1761917862,
-        "date_posted": 1761917862,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/Systems-Software--Controls--Engineer-I-New-College-Grad---Bachelor-s--Gloucester--MA-_R2517413",
-        "locations": [
-            "Essex County, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -19655,24 +19619,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Wintermute",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Veeva Systems",
-        "id": "48260c39-95f0-487f-a9f5-4dd9b45ac1d0",
-        "title": "Associate Software Engineer in Test",
-        "active": true,
-        "date_updated": 1761917635,
-        "date_posted": 1761917635,
-        "url": "https://jobs.lever.co/veeva/452d7860-6d5f-45e0-bc00-6a2e8852698d/apply",
-        "locations": [
-            "Pleasanton, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -102311,26 +102257,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "RS&H",
-        "id": "2eac24ec-fa90-4405-b6f0-bb20bb5b2de4",
-        "title": "Transportation Technician 1",
-        "active": false,
-        "date_updated": 1768905494,
-        "date_posted": 1761918475,
-        "url": "https://careers-rsandh.icims.com/jobs/7490/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Greenwood Village, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/RS-And-H",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "f343a486-c5e5-47a2-b3ea-48936b1813ae",
@@ -114611,24 +114537,6 @@
             "Kent, WA"
         ],
         "company_url": "https://simplify.jobs/c/Xylem",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ASM International",
-        "id": "6df034db-7649-4539-a800-73900c9f9554",
-        "title": "Engineer 1 - Field Software",
-        "active": false,
-        "date_updated": 1769596783,
-        "date_posted": 1761918770,
-        "url": "https://www.asm.com/open-vacancies/?gh_jid=4699210101",
-        "locations": [
-            "Hillsboro, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/ASM-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
