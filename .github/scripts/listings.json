@@ -1,79 +1,5 @@
 [
     {
-        "date_updated": 1771250796,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Omaha-Nebraska-United-States-of-America/Associate-Data-Scientist_R0132263-1",
-        "company_name": "PayPal",
-        "title": "Associate Data Scientist",
-        "locations": [
-            "Omaha, NE"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "da5d3683-dcb7-45cd-9a2c-fb1c0eac3b29",
-        "date_posted": 1761948465,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763109775,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://onerail.applytojob.com/apply/kuiKAbQg1L/Junior-Data-Analyst",
-        "company_name": "OneRail",
-        "title": "Junior Data Analyst",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "dc1587c8-67fa-4b63-98e4-99790dc285b5",
-        "date_posted": 1761948610,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762901585,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://idexx.wd1.myworkdayjobs.com/en-US/IDEXX/job/Westbrook-ME/Junior-Computer-Vision-Data-Scientist_J-049939",
-        "company_name": "IDEXX",
-        "title": "Junior Computer Vision Data Scientist",
-        "locations": [
-            "Westbrook, ME"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "ca5ac927-997d-4b59-8e19-ef0ca0920876",
-        "date_posted": 1761948639,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762157818,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Work-from-home/Associate-Software-Development-Engineer_R0754288",
-        "company_name": "CVS Health",
-        "title": "Associate Software Development Engineer",
-        "locations": [
-            "Remote from USA"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "b4ab4d74-1586-43ef-a3a5-861a8adbb11e",
-        "date_posted": 1761948657,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "The Travelers Companies",
@@ -346,24 +272,6 @@
             "San Ramon, CA"
         ],
         "company_url": "https://simplify.jobs/c/Robert-Half",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Experian",
-        "id": "f6c4791e-474c-439f-82c4-4b1718ceaede",
-        "title": "Product Management Xcelerator Rotation Program \u2013 Entry Level Product - Remote",
-        "active": false,
-        "date_updated": 1761948499,
-        "date_posted": 1761948499,
-        "url": "https://jobs.smartrecruiters.com/Experian/744000091139264",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Experian",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -9528,24 +9436,6 @@
             "Abbotsford, WI"
         ],
         "company_url": "https://simplify.jobs/c/Marshfield-Clinic-Health-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PolyAI",
-        "id": "dc0390ac-fc07-43c6-b165-b0d84ffd8dcf",
-        "title": "Dialogue Designer",
-        "active": false,
-        "date_updated": 1762910580,
-        "date_posted": 1761949686,
-        "url": "https://job-boards.eu.greenhouse.io/polyai/jobs/4653911101",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/PolyAI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -19238,132 +19128,6 @@
             "Knoxville, TN"
         ],
         "company_url": "https://simplify.jobs/c/Community-Health-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Red Hat",
-        "id": "e5e4a745-f89a-4193-b2c4-28347da05233",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1761949717,
-        "date_posted": 1761949717,
-        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Remote-US-NC/Associate-Software-Engineer_R-052052",
-        "locations": [
-            "North Carolina"
-        ],
-        "company_url": "https://simplify.jobs/c/Red-Hat",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mohawk",
-        "id": "c1220297-3e1e-4936-b5d0-f259e27b7e72",
-        "title": "Master Data Coordinator",
-        "active": false,
-        "date_updated": 1761949780,
-        "date_posted": 1761949780,
-        "url": "https://careers.mohawkind.com/job/Dalton-Master-Data-Coordinator-Geor-30721/1339508000/?ats=successfactors",
-        "locations": [
-            "Calhoun, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mohawk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Grand Canyon Education",
-        "id": "34ea17ce-f5b4-4f00-9b66-e0d46c8f1d16",
-        "title": "Student Worker - IT Security - Security Operation Center Analyst",
-        "active": false,
-        "date_updated": 1761949782,
-        "date_posted": 1761949782,
-        "url": "https://gcu.wd1.myworkdayjobs.com/GCEC/job/AZ-Phoenix/Student-Worker----IT-Security---Security-Operation-Center-Analyst--NFWS-_R000063915",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Grand-Canyon-Education",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AHEAD",
-        "id": "f403891c-d063-4de9-b99a-3e0e82a76308",
-        "title": "Associate ServiceNow Developer",
-        "active": false,
-        "date_updated": 1762927840,
-        "date_posted": 1761949634,
-        "url": "https://jobs.lever.co/thinkahead/54f7e3c0-7c7c-4bd1-8cd0-fc967ecc1594/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/AHEAD",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SharkNinja",
-        "id": "839660ee-bb3f-45af-be45-ef279bd47bd8",
-        "title": "Rapid Prototyping Technician - Rp - Technician",
-        "active": false,
-        "date_updated": 1762905949,
-        "date_posted": 1761949605,
-        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4608411006",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/SharkNinja",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "IMC Trading",
-        "id": "74f58f1b-0c91-41e6-a019-83b25188f802",
-        "title": "Graduate Trading Operations Specialist",
-        "active": true,
-        "date_updated": 1762925624,
-        "date_posted": 1761949362,
-        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4608591101",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/IMC-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "a70cf927-ffda-405e-a670-ba73283bf148",
-        "title": "Part-Time AI Research Assistant - Interpretable and Verifiable AI - LLM-to-Logic Translation",
-        "active": false,
-        "date_updated": 1761948433,
-        "date_posted": 1761948433,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-AI-Research-Assistant---Interpretable-and-Verifiable-AI--LLM-to-Logic-Translation----Saha_REQ_0000073202-2",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -77765,24 +77529,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Beta Technologies",
-        "id": "810670da-8a52-4308-86ce-5d13d81c0211",
-        "title": "Line Operator - Surface Mount Technology - Controls Electronics",
-        "active": false,
-        "date_updated": 1761949425,
-        "date_posted": 1761949425,
-        "url": "https://jobs.lever.co/beta/4bef600f-4647-46e6-a60a-a024577a9917/apply",
-        "locations": [
-            "Burlington, VT"
-        ],
-        "company_url": "https://simplify.jobs/c/Beta-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
