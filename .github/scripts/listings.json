@@ -425,24 +425,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Apple",
-        "id": "9a41e383-c4b1-40b8-9ee9-b1a38e6310c9",
-        "title": "IOS Engineer \u2013 Early Career - Generative AI Experiences Software",
-        "active": false,
-        "date_updated": 1761908785,
-        "date_posted": 1761908785,
-        "url": "https://jobs.apple.com/en-us/details/200628168",
-        "locations": [
-            "Cupertino, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Apple",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "NVIDIA",
         "id": "589a6a89-77bf-47ad-8966-596086234cde",
         "title": "Software Engineer \u2013 New College Grad 2026 - AI Infrastructure",
@@ -636,24 +618,6 @@
             "Annapolis Junction, MD"
         ],
         "company_url": "https://simplify.jobs/c/GDIT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Continue",
-        "id": "ea62eccc-f658-4ada-bbba-55a21bdbf3f1",
-        "title": "Software Engineer \u2013 New grad",
-        "active": true,
-        "date_updated": 1761909517,
-        "date_posted": 1761909517,
-        "url": "https://jobs.ashbyhq.com/continue/219fce3e-7af9-4b00-8fa7-87bf53db72f7/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Continue",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -21180,24 +21144,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "aa6b3a8e-67ae-456d-a099-815bb274c348",
-        "title": "Efficient ML Graduate - AI Platform - PhD",
-        "active": false,
-        "date_updated": 1761909910,
-        "date_posted": 1761909910,
-        "url": "https://jobs.bytedance.com/en/position/7540031166549133576/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Morgan Stanley",
         "id": "3e6ee773-7964-452a-89fd-d255d843f2bb",
         "title": "1L Financial Crimes Risk - Data Analytics and Reporting Analyst",
@@ -21209,114 +21155,6 @@
             "White Plains, NY"
         ],
         "company_url": "https://simplify.jobs/c/Morgan-Stanley",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Pathward",
-        "id": "25084567-ad41-4cb7-9145-6ba77ef5c811",
-        "title": "End User Computing 1",
-        "active": false,
-        "date_updated": 1762818577,
-        "date_posted": 1761910041,
-        "url": "https://job-boards.greenhouse.io/pathward/jobs/5678238004",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Pathward",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "df3506da-8108-443a-a3b6-c88ba33492b4",
-        "title": "Software Engineer Graduate - Ads Interface and Platform - 2026 Start",
-        "active": false,
-        "date_updated": 1761909288,
-        "date_posted": 1761909288,
-        "url": "https://lifeattiktok.com/search/7532747264248301842",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "c89cddfc-ea4d-453c-91cd-3f9293e56a32",
-        "title": "Software Engineer Graduate - Data Arch - Data Ecosystem",
-        "active": true,
-        "date_updated": 1763120754,
-        "date_posted": 1761909291,
-        "url": "https://lifeattiktok.com/search/7527441329384147208",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "aa14cee4-8b04-414b-a73a-1fa60273119d",
-        "title": "Research Scientist - Seed Infra Machine Learning Systems",
-        "active": false,
-        "date_updated": 1761939581,
-        "date_posted": 1761909238,
-        "url": "https://jobs.bytedance.com/en/position/7248020725390166309/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "897d1128-cb25-46a8-8761-dd6973fd06ab",
-        "title": "Graduate Research Scientist - Foundation Model - Video Generation",
-        "active": false,
-        "date_updated": 1762919640,
-        "date_posted": 1761909235,
-        "url": "https://jobs.bytedance.com/en/position/7406114161916840229/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "751fa397-1199-4905-901e-4ec8c5975bdc",
-        "title": "Graduate Machine Learning Engineer - TikTok E-Commerce - Conversational AI",
-        "active": false,
-        "date_updated": 1762923233,
-        "date_posted": 1761909239,
-        "url": "https://jobs.bytedance.com/en/position/7515577680822831367/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -21341,114 +21179,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "25c74c66-fedd-45d7-8aae-0b713c57a7a2",
-        "title": "Data Analyst Graduate - 2026 Start\u201d,",
-        "active": false,
-        "date_updated": 1761909290,
-        "date_posted": 1761909290,
-        "url": "https://lifeattiktok.com/search/7533484041950546194",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "1c8bf762-194e-4771-99e4-1f0b1306a26b",
-        "title": "Machine Learning Engineer Graduate - E-Commerce Knowledge Graph - CV/Multimodal/NLP",
-        "active": false,
-        "date_updated": 1761909235,
-        "date_posted": 1761909235,
-        "url": "https://jobs.bytedance.com/en/position/7515571517339453714/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "96f2e868-0ee5-4d40-8e7d-6ce94e0ecc9a",
-        "title": "Machine Learning Engineer Graduate - E-Commerce Risk Control - Phd",
-        "active": false,
-        "date_updated": 1761909225,
-        "date_posted": 1761909225,
-        "url": "https://jobs.bytedance.com/en/position/7515568044521834770/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Leidos",
-        "id": "442cd016-b0df-4c09-ae1c-d7dcb54d0dc8",
-        "title": "Engineering Technician 1",
-        "active": false,
-        "date_updated": 1762930568,
-        "date_posted": 1761909115,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Newport-RI/Engineering-Technician-I_R-00169661",
-        "locations": [
-            "Newport, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "0fb15963-a81f-446d-8289-80a18a6dec9f",
-        "title": "Graduate Machine Learning Engineer - TikTok E-Commerce - Conversational AI",
-        "active": false,
-        "date_updated": 1762922429,
-        "date_posted": 1761909239,
-        "url": "https://jobs.bytedance.com/en/position/7515577682554931474/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oracle",
-        "id": "3514455c-b160-4c71-8141-1ceb6c95a7a3",
-        "title": "Support Technician 1",
-        "active": false,
-        "date_updated": 1761908847,
-        "date_posted": 1761908847,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/313353",
-        "locations": [
-            "Putnam, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Unisys",
         "id": "deb1907f-a166-47fe-ad97-3394c1f59061",
@@ -21461,78 +21191,6 @@
             "Salt Lake City, UT"
         ],
         "company_url": "https://simplify.jobs/c/Unisys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d4688cec-1631-4455-ba69-58eb76350ba1",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1761908611,
-        "date_posted": 1761908611,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400032849",
-        "locations": [
-            "Croydon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "95b7c7bf-3e89-4839-919f-035661f89acb",
-        "title": "Data Scientist - TikTok Ads",
-        "active": false,
-        "date_updated": 1761908502,
-        "date_posted": 1761908502,
-        "url": "https://lifeattiktok.com/search/6863478486973040910",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "39f4bff0-424d-430f-a160-b0e058ed34ff",
-        "title": "Graduate Machine Learning Engineer - Conversational AI",
-        "active": false,
-        "date_updated": 1762936824,
-        "date_posted": 1761908473,
-        "url": "https://jobs.bytedance.com/en/position/7536339085679954183/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "12cdcdcd-047c-4e60-8371-4a3f23caa750",
-        "title": "3D Vision Algorithm Engineer Graduate - Hand Tracking - Phd",
-        "active": false,
-        "date_updated": 1762928192,
-        "date_posted": 1761908498,
-        "url": "https://jobs.bytedance.com/en/position/7560969352582334781/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -22753,24 +22411,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Banner Health",
-        "id": "1cebabf4-5018-4878-984f-ce7be0b469e1",
-        "title": "Biomed Technician 1",
-        "active": false,
-        "date_updated": 1762912143,
-        "date_posted": 1761909116,
-        "url": "https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Baywood-Med-Ctr-6644-E-Baywood-Ave/Biomed-Technician-I_R4416770",
-        "locations": [
-            "Mesa, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Banner-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "John Deere",
         "id": "55d619b8-ec17-40a7-bc2c-de799d1a8355",
         "title": "New Product Coordinator - Product Engineering (CA) - WW Construction & Forestry",
@@ -23570,24 +23210,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "TikTok",
-        "id": "9cfb88da-ad50-400d-83f5-36690c4cfae0",
-        "title": "Graduate Mobile Software Engineer - Cross Platform - BS/MS",
-        "active": false,
-        "date_updated": 1762925400,
-        "date_posted": 1761909277,
-        "url": "https://lifeattiktok.com/search/7554086295992436999",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "The University of Kansas Hospital",
         "id": "66c5e98b-3a7e-45af-9528-3b3eaafec0f7",
         "title": "Applications Analyst 1",
@@ -24205,24 +23827,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Analog Devices",
-        "id": "1a52abb5-297a-484b-afe5-2909506285f3",
-        "title": "Algorithm Development Engineer",
-        "active": false,
-        "date_updated": 1761908932,
-        "date_posted": 1761908932,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Senior-Engineer--Algorithm-Development_R253330",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Genuine Parts Company",
         "id": "c30bc244-0bec-4940-91b0-c12cbb4b264e",
         "title": "Mechanical Technician",
@@ -24456,24 +24060,6 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "97b3870b-63df-47e9-a967-0c0921c0f9e9",
-        "title": "Research Scientist Graduate - Video Quality Analysis&Coding Strategy - 2026 Start",
-        "active": true,
-        "date_updated": 1761909245,
-        "date_posted": 1761909245,
-        "url": "https://jobs.bytedance.com/en/position/7538946858355476743/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -24785,24 +24371,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "ad92e871-40dd-49fd-ac73-c60a7d286954",
-        "title": "Software Engineer Graduate - Data Arch - Data Ecosystem",
-        "active": false,
-        "date_updated": 1761909384,
-        "date_posted": 1761909384,
-        "url": "https://lifeattiktok.com/search/7403245063176194341",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Parsons",
         "id": "4ee3cbcc-5d30-4db1-8e87-e2fd2dbf73e8",
@@ -24854,27 +24422,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "bff29d5a-1c26-400d-9d2a-86e1e7af4ac8",
-        "title": "Machine Learning Engineer - Recommendations - Usds",
-        "active": false,
-        "date_updated": 1761909742,
-        "date_posted": 1761909742,
-        "url": "https://lifeattiktok.com/search/7478043575503030546",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -25024,24 +24571,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Radical AI",
-        "id": "4f7f1fed-1fc3-40fc-9076-9f62145a6dfc",
-        "title": "Software Engineer - Agents",
-        "active": false,
-        "date_updated": 1761908686,
-        "date_posted": 1761908686,
-        "url": "https://jobs.lever.co/RadicalAI/d5f1267c-82c6-43af-8e72-6f04989d1091/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Radical-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "CACI",
         "id": "38ae8094-0d38-45ad-873f-a9fd7e38d960",
@@ -25115,24 +24644,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "0c833dfd-91b9-48c7-a019-1851a8bad9aa",
-        "title": "Student Researcher - Generative AI",
-        "active": false,
-        "date_updated": 1761909239,
-        "date_posted": 1761909239,
-        "url": "https://jobs.bytedance.com/en/position/7491374011513358600/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "FOX",
         "id": "e479db10-c7ac-49a6-a850-8a0b5f9cb010",
@@ -25166,26 +24677,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "162df411-cc92-4a88-ba73-ad9e8c0fc3ab",
-        "title": "Research Scientist - LLM Model Evaluation - Seed",
-        "active": false,
-        "date_updated": 1761909233,
-        "date_posted": 1761909233,
-        "url": "https://jobs.bytedance.com/en/position/7498529294449723656/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -144483,26 +143974,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "67f6c661-271f-4ca1-bb98-726a82f22d0c",
-        "title": "Payroll Data Analyst - Hrop - Ams",
-        "active": false,
-        "date_updated": 1770977017,
-        "date_posted": 1761909915,
-        "url": "https://jobs.bytedance.com/en/position/7499217669146478856/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "02d771f1-c654-4585-bc6c-96b59a657c1a",
@@ -240876,24 +240347,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/GovWell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Doss",
-        "id": "99fc33c7-9c05-4699-923a-3bb45cf75ad0",
-        "title": "Frontend Engineer",
-        "active": false,
-        "date_updated": 1775901875,
-        "date_posted": 1761910066,
-        "url": "https://jobs.ashbyhq.com/doss/be9a271a-75d0-4ab5-9fdb-0f64c641c692/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Doss",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -343102,6 +342555,47 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "1e397c92-8682-482b-bcf4-ae906960e06c",
+        "title": "Machine Learning Engineer Graduate - Tiktok Trust and Safety-CV/NLP/Multimodal LLM - 2026 Start - PhD",
+        "active": true,
+        "date_updated": 1781600221,
+        "date_posted": 1776301939,
+        "url": "https://lifeattiktok.com/search/7517108164819454216",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "1ada89a0-c765-47f9-8ed0-e353250a765d",
+        "title": "Software Engineer Graduate",
+        "active": true,
+        "date_updated": 1775611801,
+        "date_posted": 1775610739,
+        "url": "https://lifeattiktok.com/search/7532009150009755911",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
