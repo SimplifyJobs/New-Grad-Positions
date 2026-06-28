@@ -19553,78 +19553,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "FocusKPI",
-        "id": "4fbe2fba-8ebf-49db-bd9e-9b06d43a4a7e",
-        "title": "AI Engineer Trainee",
-        "active": false,
-        "date_updated": 1763123037,
-        "date_posted": 1761920284,
-        "url": "https://focuskpi.applytojob.com/apply/z7LkPWUknN/AI-Engineer-Trainee-Remote-Experience-With-AI-Coding",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/FocusKPI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ferrovial",
-        "id": "d763d807-d693-41a9-a408-169d2ade680b",
-        "title": "Field Systems Technician - Night",
-        "active": false,
-        "date_updated": 1761920241,
-        "date_posted": 1761920241,
-        "url": "https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Charlotte/Field-Systems-Technician--Night-_JR14040",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Ferrovial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b250fa0b-0411-4cbe-8475-bfb25e4af0a0",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1761920254,
-        "date_posted": 1761920254,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400027775",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Wintermute",
-        "id": "62ebbf7e-cf37-4ca5-897c-2b91dbb58cac",
-        "title": "Graduate Quant Researcher",
-        "active": false,
-        "date_updated": 1762254561,
-        "date_posted": 1761919719,
-        "url": "https://jobs.lever.co/wintermute-trading/616070e7-e6bf-4668-acd8-b20452b16c7b/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Wintermute",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Thales",
         "id": "41981322-440a-4942-95c3-4c7546cdf722",
@@ -22965,24 +22893,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "NXP Semiconductors",
-        "id": "2c261a54-4b18-4b69-9ff7-631a102371cf",
-        "title": "JCOP Development Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1761920053,
-        "date_posted": 1761920053,
-        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Diego-Innovation-Dr/JCOP-Development-Engineer--Entry-Level_R-10059698",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Qualcomm",
         "id": "acf957e2-2c86-4d2a-aa7f-70355baafefb",
         "title": "Engineering Technician - Engineering Technician - 03428 WRD RFFE - NE",
@@ -24887,24 +24797,6 @@
             "Irvine, CA"
         ],
         "company_url": "https://simplify.jobs/c/WR-Berkley",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cook Group",
-        "id": "4ea8dd49-cbfa-4332-a958-77f42d32e29b",
-        "title": "Equipment Technician 1",
-        "active": false,
-        "date_updated": 1763163388,
-        "date_posted": 1761919645,
-        "url": "https://americas-cookmedical.icims.com/jobs/16134/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Tarentum, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cook-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
