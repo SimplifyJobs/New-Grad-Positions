@@ -19679,24 +19679,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Honeywell",
-        "id": "f7305cdc-e644-463e-882d-2090b396aa76",
-        "title": "Software Engineer & Computer Science \u2013 Recent Grad/Full Time",
-        "active": false,
-        "date_updated": 1762917277,
-        "date_posted": 1761915699,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113397",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Thales",
         "id": "41981322-440a-4942-95c3-4c7546cdf722",
@@ -19709,42 +19691,6 @@
             "Belfast, UK"
         ],
         "company_url": "https://simplify.jobs/c/Thales",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "4009eec2-6d81-4db9-bbdd-09a9dbb5d95c",
-        "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance - 2026 Start",
-        "active": false,
-        "date_updated": 1761916148,
-        "date_posted": 1761916148,
-        "url": "https://jobs.bytedance.com/en/position/7536338511746697490/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "0b8b4258-3ee8-43d4-ac6a-3ad2970f052d",
-        "title": "Research Scientist - LLM Foundation Models - Reasoning Planning & Agent",
-        "active": false,
-        "date_updated": 1762924932,
-        "date_posted": 1761916168,
-        "url": "https://jobs.bytedance.com/en/position/7398287572708952346/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -19772,24 +19718,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "e5c90d91-1d94-45da-ad3f-128d801bb20e",
-        "title": "Senior Engineering Technician",
-        "active": false,
-        "date_updated": 1761915984,
-        "date_posted": 1761915984,
-        "url": "https://careers-gdms.icims.com/jobs/68334/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Bloomington, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Unisys",
         "id": "d70d4c4f-f216-471e-a37d-152ffd6f18cb",
@@ -19802,24 +19730,6 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Unisys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Quest Global",
-        "id": "bf404fe2-8419-40cc-9d84-51d222832653",
-        "title": "Full Stack Developer",
-        "active": false,
-        "date_updated": 1761916143,
-        "date_posted": 1761916143,
-        "url": "https://careers.quest-global.com/global/en/job/P-110005",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Quest-Global",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -341241,6 +341151,26 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "0fb303dc-84aa-40cc-8e77-f66f910edbf9",
+        "title": "Graduate Machine Learning Engineer - Global E-commerce Recommendation/Search - PhD",
+        "active": true,
+        "date_updated": 1775082964,
+        "date_posted": 1775081616,
+        "url": "https://lifeattiktok.com/search/7550798923146250504",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
