@@ -18791,24 +18791,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "American Express",
-        "id": "9919d2f6-85de-40d6-91d2-1cb8ab4ebbd6",
-        "title": "Campus Full Time - Technology Software Engineer",
-        "active": false,
-        "date_updated": 1763122473,
-        "date_posted": 1761990889,
-        "url": "https://aexp.eightfold.ai/careers/job/38535541",
-        "locations": [
-            "Brighton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "74b660ae-a40a-43d4-8821-74689763cb38",
         "title": "Software Engineer/Principal Software Engineer - Aht",
@@ -21905,26 +21887,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qualcomm",
-        "id": "acf957e2-2c86-4d2a-aa7f-70355baafefb",
-        "title": "Engineering Technician - Engineering Technician - 03428 WRD RFFE - NE",
-        "active": true,
-        "date_updated": 1761991168,
-        "date_posted": 1761991168,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446707211359",
-        "locations": [
-            "Boxborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
     },
     {
         "source": "Simplify",
@@ -46720,26 +46682,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Boston Scientific",
-        "id": "59bf6e23-c0b6-4845-80ea-897c941d622a",
-        "title": "Product Mgmt - Marketing",
-        "active": false,
-        "date_updated": 1761990039,
-        "date_posted": 1761990039,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803019731",
-        "locations": [
-            "Marlborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PharmD"
-        ]
     },
     {
         "source": "Simplify",
