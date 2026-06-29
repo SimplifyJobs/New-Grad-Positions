@@ -1148,7 +1148,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1200)</summary>
+<summary>🗃️ Inactive roles (1198)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1817,7 +1817,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Concord, MA</br>Tewksbury, MA</td>
 <td>🔒</td>
-<td>29d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Medtronic?utm_source=GHList&utm_medium=company">Medtronic</a></strong></td>
@@ -9547,20 +9547,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
-<td>Software Developer – 2026 New Grads</td>
-<td>Ottawa, ON, Canada</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Unisys?utm_source=GHList&utm_medium=company">Unisys</a></strong></td>
-<td>Systems Analyst – Entry Level</td>
-<td>Milton Keynes, UK</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -10119,7 +10105,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (257)</summary>
+<summary>🗃️ Inactive roles (253)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -11903,34 +11889,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company">The Travelers Companies</a></strong></td>
-<td>Gen AI Data Engineer I</td>
-<td>Atlanta, GA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Data Engineer I - Aws - Pyspark - Snowflake</td>
-<td>Atlanta, GA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Data Engineer I - Abinitio/AWS/Devops</td>
-<td>Hartford, CT</br>St Paul, MN</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Data Engineer I - Aws - Pyspark - Snowflake</td>
-<td>Hartford, CT</br>Richardson, TX</br>St Paul, MN</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -12322,7 +12280,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (299)</summary>
+<summary>🗃️ Inactive roles (297)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -12403,7 +12361,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Platform Software Developer New Grad</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
-<td>29d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
@@ -14411,20 +14369,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/GDIT?utm_source=GHList&utm_medium=company">General Dynamics Information Technology</a></strong></td>
 <td>Software Engineer I</td>
 <td>Annapolis Junction, MD</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Embedded Software Engineer 1 - Embedded Software - MBSE</td>
-<td>Richardson, TX</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Johnson-Johnson?utm_source=GHList&utm_medium=company">Johnson & Johnson</a></strong></td>
-<td>R&D Software Engineer 1</td>
-<td>Santa Clara, CA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
