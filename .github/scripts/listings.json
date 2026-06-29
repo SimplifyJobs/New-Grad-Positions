@@ -151,43 +151,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Abridge",
-        "id": "c1b6ac37-87d4-49be-8f09-f14f1a5342c8",
-        "title": "Machine Learning Operations \u2013 New Grad - Full Stack",
-        "active": false,
-        "date_updated": 1761960810,
-        "date_posted": 1761960810,
-        "url": "https://jobs.ashbyhq.com/abridge/33d1c529-87e0-4e7c-822a-28adffb991d6/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Abridge",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citizen Health",
-        "id": "6123d6e8-2f13-4223-8d55-c62c1ba4f181",
-        "title": "Early Career Software Engineer",
-        "active": false,
-        "date_updated": 1761961307,
-        "date_posted": 1761961307,
-        "url": "https://jobs.ashbyhq.com/Citizen%20Health/0f4048fa-da35-4112-9166-123440a2cb57/application",
-        "locations": [
-            "SF",
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Citizen-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "NVIDIA",
         "id": "5aa28239-b291-4936-af82-eb51accfa37e",
         "title": "Systems Software Engineer \u2013 New College Grad 2025 - Geforce NOW Low Latency Streaming Technology",
@@ -18508,78 +18471,6 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2ea7e9bd-9db8-4e9f-80a5-468ec3e314b8",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1761961782,
-        "date_posted": 1761961782,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033295",
-        "locations": [
-            "Brandon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "University of Nevada Reno",
-        "id": "5cc0e766-acc5-48ae-8fc8-cb82888a7a79",
-        "title": "Student Worker - Digital Wolf Pack Initiative",
-        "active": false,
-        "date_updated": 1763121192,
-        "date_posted": 1761961344,
-        "url": "https://nshe.wd1.myworkdayjobs.com/unr-external/job/University-of-Nevada-Reno---Main-Campus/Student-Worker--Digital-Wolf-Pack-Initiative_R0147364",
-        "locations": [
-            "Reno, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Nevada-Reno",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "University of Nevada Reno",
-        "id": "a9a8a063-fe45-4883-acba-acc6ee96ee3a",
-        "title": "Student Worker - Digital Accessibility Tester - Information Technology",
-        "active": false,
-        "date_updated": 1761961341,
-        "date_posted": 1761961341,
-        "url": "https://nshe.wd1.myworkdayjobs.com/unr-external/job/University-of-Nevada-Reno---Main-Campus/Student-Worker---Digital-Accessibility-Tester--Information-Technology_R0147633",
-        "locations": [
-            "Reno, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Nevada-Reno",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SoundCloud",
-        "id": "8e63d3fb-33bb-4a67-b590-653ade5ae6fd",
-        "title": "Part-time IT Support - Los Angeles",
-        "active": false,
-        "date_updated": 1761961608,
-        "date_posted": 1761961608,
-        "url": "https://job-boards.greenhouse.io/soundcloud71/jobs/8235899002",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/SoundCloud",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
