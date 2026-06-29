@@ -18460,24 +18460,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Qualcomm",
-        "id": "a26e398d-d861-4d98-848c-b95dd3a689f0",
-        "title": "Software Security Engineer - Software Engineering",
-        "active": false,
-        "date_updated": 1761969643,
-        "date_posted": 1761969643,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446715287997",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Milwaukee Tool",
         "id": "e64b5616-370a-499f-81b0-ef634eff4f8b",
         "title": "Software Engineer - .NET/React",
