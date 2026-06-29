@@ -17946,42 +17946,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "42613538-1312-4d0b-a0c6-52f429b07081",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1762011570,
-        "date_posted": 1762011570,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033327",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3930c5ae-121e-4a74-b7a2-969d5885aa5a",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1762011569,
-        "date_posted": 1762011569,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033382",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "American Express",
         "id": "f167d990-d144-4876-86f3-4f07f400450f",
