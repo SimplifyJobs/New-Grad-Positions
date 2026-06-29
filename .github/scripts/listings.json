@@ -2118,24 +2118,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Cook Systems",
-        "id": "b192a954-9b26-4c40-a40f-08b179ceff1e",
-        "title": "Entry Level Software Developer",
-        "active": false,
-        "date_updated": 1762818071,
-        "date_posted": 1761960496,
-        "url": "https://job-boards.greenhouse.io/cooksys/jobs/4973134008",
-        "locations": [
-            "Nashville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Cook-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Jerry",
         "id": "8502fe00-7b15-42b4-81f6-690f0a1a340b",
         "title": "Software Engineer 1",
@@ -18598,24 +18580,6 @@
             "LA"
         ],
         "company_url": "https://simplify.jobs/c/SoundCloud",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Relativity Space",
-        "id": "a7362af4-64e0-4965-913f-07b77fec304a",
-        "title": "GNC Simulation Engineer 1",
-        "active": false,
-        "date_updated": 1762905973,
-        "date_posted": 1761960286,
-        "url": "https://boards.greenhouse.io/relativity/jobs/8236930002",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Relativity-Space",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
