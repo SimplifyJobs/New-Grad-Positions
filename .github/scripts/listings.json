@@ -17892,42 +17892,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f6e42fd7-b229-4ea4-b21c-7c4ec067b2dc",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1762101835,
-        "date_posted": 1762101835,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033562",
-        "locations": [
-            "Guildford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "f167d990-d144-4876-86f3-4f07f400450f",
-        "title": "Campus Full Time - Technology Software Engineer",
-        "active": false,
-        "date_updated": 1762909545,
-        "date_posted": 1762101956,
-        "url": "https://aexp.eightfold.ai/careers/job/38535543",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "CACI",
         "id": "d6fe49c3-4efa-4652-9b5e-7609bea7f2c4",
