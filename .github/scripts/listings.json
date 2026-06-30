@@ -335707,5 +335707,47 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Consumer Reports",
+        "id": "4196e65d-5ae8-41ef-bf53-9ffcf18d507c",
+        "title": "Data Analyst - Consumer Product Safety",
+        "active": true,
+        "date_updated": 1782800461,
+        "date_posted": 1782800311,
+        "url": "https://job-boards.greenhouse.io/consumerreports/jobs/5176455007",
+        "locations": [
+            "Washington, DC",
+            "Bozrah, CT",
+            "Yonkers, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/74725f11-3918-49f4-8f43-8260492084f7",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "7525d820-6af8-47cc-aa9c-36ec4b263426",
+        "title": "Systems Integration Engineer 1",
+        "active": true,
+        "date_updated": 1782782039,
+        "date_posted": 1782781526,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Systems-Integration-Engineer-I_R0030166",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
