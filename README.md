@@ -35,7 +35,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 <div align="center">
   <h3>😮‍💨 Tired of checking every day for new roles?</h3>
-  <p>A community member made ⬇️ <a href="https://swelist.com"><strong>SWEList</strong></a> ⬇️ that sends email alerts for new roles in this repo.</p>
+  <p>A community member made ⬇️ <a href="https://swelist.com"><strong>SWEList</strong></a> ⬇️ that sends email erts for new roles in this repo.</p>
   <a href="https://swelist.com">
     <img src="https://i.imgur.com/u7xWcQi.png" width="400" alt="Email Updates">
   </a>
@@ -137,7 +137,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/I3?utm_source=GHList&utm_medium=company">Integration Innovation (i3)</a></strong></td>
-<td>Entry Level Software Engineer</td>
+<td>Entry Level Software Engineer🇺🇸</td>
 <td>Huntsville, AL</td>
 <td><div align="center"><a href="https://careers-i3-corps.icims.com/jobs/5175/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/14ef1e83-8c2e-4630-9ce6-257af68d24db?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>1d</td>
@@ -185,7 +185,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Momentum-Engineering?utm_source=GHList&utm_medium=company">Momentum Engineering</a></strong></td>
+<td><strong><a href="https://simplify.jobs/c/Momentum-Engineering?utm_source=GHList&utm_medium=company">Momentum Engineering🇺🇸</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Annapolis Junction, MD</td>
 <td><div align="center"><a href="https://ats.rippling.com/momentumcareers/jobs/e1151761-ee74-4f66-bbc4-b676f7f7db71?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/68577c4c-9872-402a-ba7c-94206ea0fbe4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
