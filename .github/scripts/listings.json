@@ -306132,7 +306132,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -328648,7 +328648,7 @@
         "company_name": "Atlas Energy Solutions",
         "id": "3d368048-e329-4632-9100-f86205ea53a9",
         "title": "Electrical Panel Assembly Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781792735,
         "date_posted": 1781792350,
         "url": "https://job-boards.greenhouse.io/atlassand/jobs/8485256002",
@@ -342517,6 +342517,46 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fujifilm",
+        "id": "44ff51b0-850a-4019-8391-38c2a52481ba",
+        "title": "Production Engineer 1",
+        "active": true,
+        "date_updated": 1782916331,
+        "date_posted": 1782914785,
+        "url": "https://uscareers-fujifilm.icims.com/jobs/38036/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pueblo, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Fujifilm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "4ac8ef7b-66be-40a5-b3b4-f24f37b1df3d",
+        "title": "Software Engineering Associate",
+        "active": true,
+        "date_updated": 1782916344,
+        "date_posted": 1782914774,
+        "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineering-FL-32934/1404827500/?ats=successfactors",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
