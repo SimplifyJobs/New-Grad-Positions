@@ -10019,7 +10019,7 @@
         "company_name": "Ciena",
         "id": "d26ce57a-9f65-4a82-af45-1e1f59ea6111",
         "title": "Digital Verification Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1762820446,
         "date_posted": 1762820446,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/US--NY--Pittsford--1250-Pittsford-Victor-Road-Rochester/Digital-Verification-Engineer_R029443",
@@ -237039,7 +237039,7 @@
         "company_name": "Fidelity Investments",
         "id": "514ef960-57fb-4083-829c-61ce4b3b1768",
         "title": "Full Stack Software Engineer - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1776207435,
         "date_posted": 1776204491,
         "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Salt-Lake-City-UT/Full-Stack-Software-Engineer--Typescript--Angular--Nodejs--REST-API-_2125855-1",
@@ -254461,7 +254461,7 @@
         "company_name": "xAI",
         "id": "c4af72be-3beb-4321-af28-1206dea74e31",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777079161,
         "date_posted": 1777079121,
         "url": "https://job-boards.greenhouse.io/xai/jobs/5120884007",
@@ -264873,7 +264873,7 @@
         "company_name": "Salesforce",
         "id": "f72e4f9c-46ba-4a77-aa67-a10faac92de9",
         "title": "AI Builder - Emerging Talent",
-        "active": true,
+        "active": false,
         "date_updated": 1778047795,
         "date_posted": 1778047509,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR341276-1",
@@ -265488,7 +265488,7 @@
         "company_name": "Apple",
         "id": "f046a9cb-8083-4407-88de-2db7bed064d0",
         "title": "Wireless FPGA Prototype Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778078161,
         "date_posted": 1778076561,
         "url": "https://jobs.apple.com/en-us/details/200628011",
@@ -292728,7 +292728,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -301980,7 +301980,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -310999,7 +310999,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": true,
+        "active": false,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -318705,7 +318705,7 @@
         "company_name": "LivaNova",
         "id": "67453539-6455-4c15-ac17-759749df31ad",
         "title": "Electrical Test Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1781216117,
         "date_posted": 1781215639,
         "url": "https://livanova.wd5.myworkdayjobs.com/search/job/Houston-Texas-United-States/Electrical-Test-Associate_JR-14573",
@@ -323920,7 +323920,7 @@
         "company_name": "Goldman Sachs",
         "id": "a3ee586e-9f97-4009-92cc-dc4affda3b3a",
         "title": "Asset & Wealth Management - Quantitative Investment Strategies - ETF Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1781648474,
         "date_posted": 1781638708,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176625",
@@ -333182,7 +333182,7 @@
         "company_name": "Microchip Technology",
         "id": "af5bc18c-6ddf-40af-b98a-7daf01cb9cd5",
         "title": "Engineer 1 - Digital Design - I",
-        "active": true,
+        "active": false,
         "date_updated": 1782253257,
         "date_posted": 1782252386,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Engineer-I---Digital-Design_R2479-26",
@@ -334897,7 +334897,7 @@
         "company_name": "Consumer Reports",
         "id": "4196e65d-5ae8-41ef-bf53-9ffcf18d507c",
         "title": "Data Analyst - Consumer Product Safety",
-        "active": false,
+        "active": true,
         "date_updated": 1782800461,
         "date_posted": 1782800311,
         "url": "https://job-boards.greenhouse.io/consumerreports/jobs/5176455007",
@@ -336159,7 +336159,7 @@
         "company_name": "Guidewire",
         "id": "446847d3-29b2-4c3c-b983-f4e2203fc1ec",
         "title": "Associate Certification Program Systems Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1782868406,
         "date_posted": 1782770934,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946",
@@ -342304,6 +342304,941 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Avia Health",
+        "id": "e66a4e33-02cf-4d1a-85d9-586aab824ba5",
+        "title": "Insights and Advisory Services Analyst",
+        "active": true,
+        "date_updated": 1782944968,
+        "date_posted": 1782943700,
+        "url": "https://jobs.lever.co/aviahealth/e31be4d2-06de-4cc0-832d-8c02000ae174/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/AVIA-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "a5e72fb8-b288-4f48-98d7-d3083964de7e",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1782944950,
+        "date_posted": 1782943591,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01856767",
+        "locations": [
+            "Fulton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Optiver",
+        "id": "b79b2e09-dc0f-40e5-8a4d-961fa83bc2fc",
+        "title": "Graduate Quantitative Researcher",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943969,
+        "url": "https://www.optiver.com/join-us/jobs/8451763002/?gh_jid=8451763002",
+        "locations": [
+            "Austin, TX",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Optiver",
+        "id": "9806b0c4-6f96-463b-b16f-410fc0a1ae51",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943968,
+        "url": "https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Optiver",
+        "id": "1e2b7529-adf7-49ab-8d4a-8979fab4e3e9",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943968,
+        "url": "https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Edgehog Trading",
+        "id": "a35c4a97-a658-4cc5-9fca-cfd71edaef0e",
+        "title": "Junior FPGA Developer",
+        "active": true,
+        "date_updated": 1782944878,
+        "date_posted": 1782943855,
+        "url": "https://ats.rippling.com/edgehog-trading/jobs/10ba9bbf-9fbe-49ff-8f58-a88041de1438",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Edgehog-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Varsity Brands",
+        "id": "209fc4a4-5626-4653-baa1-7a5393231ce9",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1782944873,
+        "date_posted": 1782943865,
+        "url": "https://careers.varsitybrands.com/global/en/job/JR113976",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Varsity-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "fd7ab8ef-51eb-4509-94ee-5b644a84cf76",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943824,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011506",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "c34ca314-19b9-470e-9a50-e2bd7cc25d8e",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943821,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011523",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "9e72b9a6-a1e0-451b-a985-64a2ef4d7171",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943822,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011544",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "6910d1ac-48bc-4244-8d72-826b8363066f",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943823,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011504",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "377693c9-171b-4df1-8bcc-6cb070ca6cee",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943820,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011530",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "03846952-d653-4d85-82ca-f4d9b87f6a53",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943821,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011526",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "e0e1a29a-d1cb-4648-a75c-6916cdc8cbfe",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943824,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-010172",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "74333d30-58ba-4ff7-8045-b83f0f107e27",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943821,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011535",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "f520ebfe-2fb2-464b-ad24-a35fca378024",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943822,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011520",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "cf3d79b9-1918-43b5-8ad0-b027987ed266",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943822,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011497",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "c58457ce-e22e-4633-bddb-0886f0537cc2",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943820,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011524",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "99ce2c9b-4b87-41b8-b970-321354839c77",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943823,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011529",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "624c0133-f465-4e8f-aba1-48f1e5507db3",
+        "title": "Software Engineer \u2013 Bachelors Pipeline",
+        "active": true,
+        "date_updated": 1782944818,
+        "date_posted": 1782943823,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/SWE---Bachelors-Pipeline--NCG-_JR-010195",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "38bfa52f-a27c-4720-83bc-a784421b3807",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943820,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011531",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "2b07160e-c4a3-4106-afed-f3aa356288a7",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943822,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011521",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "148f5d32-0272-4e18-8f2a-7b0e48c7fa21",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943820,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011522",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "d02026d4-2f71-4409-b31d-8f9903fd4492",
+        "title": "Staff Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943822,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Staff-Software-Engineer_JR-013408",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "87f322af-ad80-4204-84c9-8fd007bad17c",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943822,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011511",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "84e71300-87d8-4137-b668-e505942b7dc7",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943824,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011528",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "6e69997b-700a-45d9-802f-0b918f67f279",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943820,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011516",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "21161652-9269-4156-abf9-9cd2dd5a5c08",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943822,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011517",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "1e93719f-be56-4b80-ade4-8960827c0469",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943833,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011505",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Moab",
+        "id": "2f54b1ff-98dd-43df-b780-96d643a0e1fc",
+        "title": "Data & AI Analyst",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943809,
+        "url": "https://jobs.ashbyhq.com/moab/8ab10f9b-2a49-409d-8b20-7ecf1ed92ee4/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Moab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Confido",
+        "id": "00142abd-9aec-4fca-9c8d-b46f6fb762d2",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1782944653,
+        "date_posted": 1782943792,
+        "url": "https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Confido",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TaylorMade Golf",
+        "id": "dfdbfcc9-49ba-4974-9c15-ba6c0402ded3",
+        "title": "Engineer Product Development - Golf Ball Evaluation",
+        "active": true,
+        "date_updated": 1782943923,
+        "date_posted": 1782943764,
+        "url": "https://taylormadegolf.wd5.myworkdayjobs.com/taylormadegolf/job/Carlsbad-California/Engineer-Product-Development---Golf-Ball-Evaluation_R0003516",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TaylorMade-Golf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Moder",
+        "id": "4362d7c3-926d-4c79-9b3e-a1bb06ff2d48",
+        "title": "Forward Deployed Engineer Fellow",
+        "active": true,
+        "date_updated": 1782944606,
+        "date_posted": 1782943778,
+        "url": "https://archwellessentials.wd1.myworkdayjobs.com/modercareers/job/Conshohocken-PA/Forward-Deployed-Engineer-Fellowship_JR107103",
+        "locations": [
+            "Conshohocken, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Moder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adtran",
+        "id": "165267eb-fe07-4e0c-a458-6e1a39df468d",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1782944595,
+        "date_posted": 1782943773,
+        "url": "https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/Software-Engineer-I_R005655-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adtran",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "e09dcaf2-838c-42c6-b6ff-9b2fb36a2015",
+        "title": "Micro-Electronic Optical Technician",
+        "active": true,
+        "date_updated": 1782943923,
+        "date_posted": 1782943750,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lewisburg-TN/Micro-Electronic-Optical-Technician_REQ35516",
+        "locations": [
+            "Tennessee"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Baxter International",
+        "id": "cf7770e5-ec10-4a15-8aa1-952200b0cdb3",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1782943923,
+        "date_posted": 1782943744,
+        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/Embedded-Software-Engineer_JR-205125-1",
+        "locations": [
+            "Auburn, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Baxter-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "1d821b71-bacc-47fd-951b-bc529290fa07",
+        "title": "Micro-Electronic Optical Technician",
+        "active": true,
+        "date_updated": 1782943923,
+        "date_posted": 1782943749,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lewisburg-TN/Micro-Electronic-Optical-Technician_REQ35512",
+        "locations": [
+            "Tennessee"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "United Launch Alliance",
+        "id": "efd7e08d-5a9d-4eb8-9400-49eec3d86a5b",
+        "title": "Ground Software Engineer 1",
+        "active": true,
+        "date_updated": 1782943923,
+        "date_posted": 1782943730,
+        "url": "https://jobs.ulalaunch.com/job/Centennial-Ground-Software-Engineer-1-CO-80112/1404920100/?ats=successfactors",
+        "locations": [
+            "Centennial, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Launch-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "ada48e5b-9c9a-4215-a6bb-e857a371cb4e",
+        "title": "Engineer 1 - Software Dev & Eng",
+        "active": true,
+        "date_updated": 1782943923,
+        "date_posted": 1782943695,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Dev---Eng_R438317",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "63d2c5d8-245e-4969-aa8b-6c7dfc13b38e",
+        "title": "Engineer 1 - Software Development & Engineering",
+        "active": true,
+        "date_updated": 1782943923,
+        "date_posted": 1782943693,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Dev---Eng_R440149",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Toyota",
+        "id": "cb3cc844-e743-4ff9-b173-f83f0dd66831",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782943923,
+        "date_posted": 1782943654,
+        "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10319691-2",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nakupuna Companies",
+        "id": "fa29769a-0705-4064-af82-8c3350997405",
+        "title": "Database Sustainment Specialist",
+        "active": true,
+        "date_updated": 1782943923,
+        "date_posted": 1782943629,
+        "url": "https://careers-nakupuna.icims.com/jobs/6708/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "El Paso, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Nakupuna-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "e2da8b69-0e6b-4858-ac8d-15de9997f663",
+        "title": "Associate \u2013 Software Engineer",
+        "active": true,
+        "date_updated": 1782943923,
+        "date_posted": 1782943591,
+        "url": "https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineer-TX-76705/1404885000/?ats=successfactors",
+        "locations": [
+            "Waco, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CrowdGen by Appen",
+        "id": "c8dbf05b-aee8-4f84-a174-60e1bed590ba",
+        "title": "Vietnamese Voice Recording Specialist - Voice Recording",
+        "active": true,
+        "date_updated": 1782944155,
+        "date_posted": 1782943635,
+        "url": "https://jobs.lever.co/appen/bea969fc-4198-4680-b527-dae3bf67527e/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CrowdGen-By-Appen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Avnet",
+        "id": "59756ce4-3f5f-4f7d-bc73-272c285ddf5a",
+        "title": "Master Data/Pricing Analyst",
+        "active": true,
+        "date_updated": 1782943561,
+        "date_posted": 1782943525,
+        "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Phoenix-Arizona-United-States-Of-America/Master-Data-Pricing-Analyst_JR-023393",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Avnet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "StoneX Group",
+        "id": "5b9c3038-87cd-4654-ad19-e7733f147f55",
+        "title": "Repo Sales/Trading Assistant",
+        "active": true,
+        "date_updated": 1782943561,
+        "date_posted": 1782943560,
+        "url": "https://careers-stonex.icims.com/jobs/15461/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/StoneX-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "527ce833-eac4-4436-833d-d95eb3ce73d0",
+        "title": "Advanced HDD Technology Designs and Integration - Hardware/Firmware Engineer",
+        "active": true,
+        "date_updated": 1782943561,
+        "date_posted": 1782943454,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000135312480",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
