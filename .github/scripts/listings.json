@@ -17581,63 +17581,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "CarMax",
-        "id": "2b5be81a-91e1-44e2-a2b6-c17e78109296",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1762154162,
-        "date_posted": 1762154162,
-        "url": "https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Associate-Product-Manager--Hybrid-_JR-163947",
-        "locations": [
-            "Richmond, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/CarMax",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Worcester Polytechnic Institute",
-        "id": "f04f3cfd-0e23-4f41-a15d-abacf4e3c4ae",
-        "title": "Post-Doctoral Fellow",
-        "active": false,
-        "date_updated": 1762153641,
-        "date_posted": 1762153641,
-        "url": "https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Post-Doctoral-Fellow_R0003237",
-        "locations": [
-            "Worcester, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Worcester-Polytechnic-Institute",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "9606ba12-1151-4b57-9dd0-cf480cb1ecf4",
-        "title": "Part-Time Undergraduate Researcher Narayanan Group",
-        "active": false,
-        "date_updated": 1762153616,
-        "date_posted": 1762153616,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Undergraduate-Researcher-Narayanan-Group_REQ_0000056170-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "CACI",
         "id": "d6fe49c3-4efa-4652-9b5e-7609bea7f2c4",
@@ -342125,6 +342068,73 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel",
+        "id": "6a5a374d-834e-4bb6-992d-4cc74f3f8e8e",
+        "title": "Quantitative Researcher",
+        "active": true,
+        "date_updated": 1782889234,
+        "date_posted": 1782889199,
+        "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/",
+        "locations": [
+            "Greenwich, CT",
+            "Houston, TX",
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel",
+        "id": "35802268-4896-4571-bb5b-698214c472da",
+        "title": "Quantitative Researcher \u2013 PhD Graduate",
+        "active": true,
+        "date_updated": 1782889201,
+        "date_posted": 1782889191,
+        "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/",
+        "locations": [
+            "London, UK",
+            "Dublin, Ireland"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel",
+        "id": "efc32a65-4a70-4386-892a-4d0c83f56292",
+        "title": "Quantitative Research Engineer \u2013 PhD Graduate",
+        "active": true,
+        "date_updated": 1782889381,
+        "date_posted": 1782889210,
+        "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-graduate-us/",
+        "locations": [
+            "Greenwich, CT",
+            "Houston, TX",
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
