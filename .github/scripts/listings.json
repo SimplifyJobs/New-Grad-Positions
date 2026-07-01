@@ -217613,7 +217613,7 @@
         "company_name": "Agoda",
         "id": "b9c4a46f-2b41-4f0f-a9fa-7ba2e07f2f51",
         "title": "Supply Analytics Senior Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775111401,
         "date_posted": 1773988105,
         "url": "https://job-boards.greenhouse.io/agoda/jobs/7698911",
@@ -276734,7 +276734,7 @@
         "company_name": "OpenSesame",
         "id": "e05e26b2-ac39-4339-9b0d-e18eac82c29a",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778826315,
         "date_posted": 1778826111,
         "url": "https://boards.greenhouse.io/opensesame/jobs/7927745",
@@ -343239,6 +343239,327 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fideres",
+        "id": "c0c8781e-d49d-42d8-b633-ab705e8d9e2a",
+        "title": "Financial Economist",
+        "active": true,
+        "date_updated": 1782945541,
+        "date_posted": 1782944749,
+        "url": "https://job-boards.eu.greenhouse.io/fideres/jobs/4711405101",
+        "locations": [
+            "London, UK",
+            "Madrid, Spain",
+            "Italy"
+        ],
+        "company_url": "https://simplify.jobs/c/Fideres",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IMC Trading",
+        "id": "1c8d5fb4-7d30-4fff-adcc-7926baadf184",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1782945541,
+        "date_posted": 1782944921,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMC-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Withum",
+        "id": "c276ae74-321c-4020-8f2c-0009e4ccebd5",
+        "title": "Healthcare Claims Analyst",
+        "active": true,
+        "date_updated": 1782945458,
+        "date_posted": 1782943413,
+        "url": "https://job-boards.greenhouse.io/campusopportunities/jobs/8459137002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Withum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "IMC Trading",
+        "id": "dcd794ed-4bea-4e26-81ff-e15bcf21d74a",
+        "title": "Graduate Quantitative Researcher",
+        "active": true,
+        "date_updated": 1782945181,
+        "date_posted": 1782944920,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907368101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMC-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "d15d5660-4610-47ec-a1ec-ef087f9dea4f",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782945181,
+        "date_posted": 1782943819,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011539",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "IMC Trading",
+        "id": "cab69aff-72b9-4758-b1e7-b89d00f92f99",
+        "title": "Graduate Quantitative Trader",
+        "active": true,
+        "date_updated": 1782945181,
+        "date_posted": 1782944920,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4751729101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMC-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "IMC Trading",
+        "id": "c672badc-9657-46ee-bfdf-c31ec6e4308c",
+        "title": "Graduate Machine Learning Researcher",
+        "active": true,
+        "date_updated": 1782945181,
+        "date_posted": 1782944920,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907416101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMC-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "IMC Trading",
+        "id": "c0eb02da-813a-4aba-85ac-aaf2109ebb3f",
+        "title": "Graduate Hardware Engineer",
+        "active": true,
+        "date_updated": 1782945181,
+        "date_posted": 1782944920,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823805101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMC-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "IMC Trading",
+        "id": "b9532175-5121-4c43-a102-f00809c0ec25",
+        "title": "Graduate Quantitative Researcher - PhD",
+        "active": true,
+        "date_updated": 1782945181,
+        "date_posted": 1782944920,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4912325101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMC-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Optiver",
+        "id": "03c41462-567b-45cd-bd7a-c296b9b2d016",
+        "title": "Graduate Quantitative Researcher",
+        "active": true,
+        "date_updated": 1782945181,
+        "date_posted": 1782943968,
+        "url": "https://www.optiver.com/join-us/jobs/8451762002/?gh_jid=8451762002",
+        "locations": [
+            "Austin, TX",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Hut Group",
+        "id": "3f02edc3-52ba-4928-aaff-5867ad66ca6e",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1782945181,
+        "date_posted": 1782944815,
+        "url": "https://www.thg.com/talent/job-search?gh_jid=4910003101",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Hut-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Palo Alto Networks",
+        "id": "a7ba3ae0-4e58-4273-a1ea-29ba664891d0",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943820,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Machine-Learning-Engineer_JR-010194",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "9565cf4f-99e7-4693-a5c0-4e0d6f8e10dc",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782944642,
+        "date_posted": 1782943820,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011519",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dyna Robotics",
+        "id": "21077186-921c-456a-ba86-8b9be3211289",
+        "title": "Data Collection",
+        "active": true,
+        "date_updated": 1782945048,
+        "date_posted": 1782943865,
+        "url": "https://jobs.ashbyhq.com/dyna-robotics/4175832f-27f9-483a-ae74-fbdda2138831/application",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dyna-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Unlimited Technology",
+        "id": "b2255434-5efb-457c-8a38-b16d937509f2",
+        "title": "Security Installation Technician 1",
+        "active": true,
+        "date_updated": 1782945625,
+        "date_posted": 1782167013,
+        "url": "https://job-boards.greenhouse.io/unlimitedtechnology/jobs/5274943008",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Unlimited-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rocket Lab USA",
+        "id": "933e1703-ba2b-47e6-8313-eca3eebe9de5",
+        "title": "Vehicle Integration Technician - All levels",
+        "active": true,
+        "date_updated": 1782945721,
+        "date_posted": 1772678389,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7565913003",
+        "locations": [
+            "Essex, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
