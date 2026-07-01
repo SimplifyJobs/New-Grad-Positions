@@ -17856,24 +17856,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2ec67f7d-cd89-4ac0-9a4d-e266f7271773",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1762127256,
-        "date_posted": 1762127256,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033652",
-        "locations": [
-            "Canterbury, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "CACI",
         "id": "d6fe49c3-4efa-4652-9b5e-7609bea7f2c4",
