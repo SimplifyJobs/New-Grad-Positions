@@ -79573,7 +79573,7 @@
         "company_name": "Peraton",
         "id": "0041a923-9bd6-4b10-8f26-c9ce59dc4508",
         "title": "Assembly Screening Technician - On the Job Training",
-        "active": true,
+        "active": false,
         "date_updated": 1767742127,
         "date_posted": 1767742127,
         "url": "https://careers-peraton.icims.com/jobs/161590/job?mobile=true&needsRedirect=false",
@@ -139347,7 +139347,7 @@
         "company_name": "Visa",
         "id": "f28bbf9e-f990-4f8d-9f1f-db4d40045510",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771254275,
         "date_posted": 1771254275,
         "url": "https://jobs.smartrecruiters.com/Visa/744000109487765",
@@ -139951,7 +139951,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "4bd7a730-4fa0-483c-9108-db46cc921b2c",
         "title": "Systems Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771285714,
         "date_posted": 1771285714,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Herndon-VA/Systems-Engineer-I_R0029356",
@@ -145248,7 +145248,7 @@
         "company_name": "Intertek",
         "id": "85ac7e74-4a56-4995-a38a-4782c2426c38",
         "title": "Engineer Energy Safety",
-        "active": true,
+        "active": false,
         "date_updated": 1771513696,
         "date_posted": 1771513696,
         "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14052",
@@ -171638,7 +171638,7 @@
         "company_name": "Veeva Systems",
         "id": "cb05d04f-5a87-4372-a83e-933fc8765a07",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772677621,
         "date_posted": 1772677621,
         "url": "https://jobs.lever.co/veeva/93aa70b0-3f70-449a-ab56-ffa7df61a488/apply",
@@ -192608,7 +192608,7 @@
         "company_name": "University System of New Hampshire",
         "id": "345420e4-2381-481f-aca5-052fb38b61d3",
         "title": "Research Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773788367,
         "date_posted": 1773788367,
         "url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Assistant_JR5245",
@@ -214054,7 +214054,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "ba2211a6-3041-48aa-9111-edebe44105f2",
         "title": "Field Service Engineer 1 - Asset Management",
-        "active": true,
+        "active": false,
         "date_updated": 1774999551,
         "date_posted": 1774479122,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/West-Greenwich-Rhode-Island-USA/Field-Service-Engineer-I--Asset-Management-_R-01345001",
@@ -237406,7 +237406,7 @@
         "company_name": "Brink",
         "id": "d42f21dd-a261-4249-b7c8-c878b2224797",
         "title": "Repair Depot Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1776207353,
         "date_posted": 1776204460,
         "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Cincinnati-OHTL140/Repair-Depot-Technician_R72681",
@@ -293275,7 +293275,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": false,
+        "active": true,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -298310,7 +298310,7 @@
         "company_name": "Memorial Sloan Kettering Cancer Center",
         "id": "c7efb42b-351d-4259-a3df-3ebd5c352f00",
         "title": "Postdoctoral Fellow / Research Scientist in MR-guided Radiotherapy - MR-guided Radiotherapy - Department of Medical Physics",
-        "active": true,
+        "active": false,
         "date_updated": 1779962574,
         "date_posted": 1779516377,
         "url": "https://msk.wd108.myworkdayjobs.com/MSKCC_Careers_Primary/job/New-York-NY/Postdoctoral-Fellow---Research-Scientist-in-MR-guided-Radiotherapy--MRgRT--Department-of-Medical-Physics_97808",
@@ -299112,7 +299112,7 @@
         "company_name": "Leidos",
         "id": "c2ced759-415c-4430-971e-4945e24dcfcc",
         "title": "Electronics Mechanical Assembly Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780275161,
         "date_posted": 1780134819,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronics-Mechanical-Assembly-Technician_R-00182031",
@@ -310776,7 +310776,7 @@
         "company_name": "GE Healthcare",
         "id": "d2d45beb-51e1-4ca0-aa90-87f09c4488dc",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780912673,
         "date_posted": 1780740065,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1--Seattle-WA-area_R4041943-1",
@@ -311505,7 +311505,7 @@
         "company_name": "GE Healthcare",
         "id": "36e9ff78-3874-4c00-8071-cf878030a4c2",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780956849,
         "date_posted": 1780956345,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I_R4041630-1",
@@ -323314,7 +323314,7 @@
         "company_name": "GlobalFoundries",
         "id": "d5970422-fe27-4301-85a8-de89cb370b46",
         "title": "Principal Packaging Integration Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1781647268,
         "date_posted": 1781639206,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Principal-Packaging-Integration-Engineer--2026-New-College-Graduate-_JR-2602418",
@@ -323815,7 +323815,7 @@
         "company_name": "BlackRock",
         "id": "844eb16a-79ea-422c-8e34-590b8cf3f1b3",
         "title": "Quantitative Modeler - Associate - Qmr",
-        "active": false,
+        "active": true,
         "date_updated": 1781646572,
         "date_posted": 1781639067,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Quantitative-Modeler--Associate---QMR_R264630-1",
@@ -325685,7 +325685,7 @@
         "company_name": "Google",
         "id": "f4f6f066-0cca-42cd-bb98-050b5c6cd374",
         "title": "Senior Software Engineer - Payments",
-        "active": true,
+        "active": false,
         "date_updated": 1781646123,
         "date_posted": 1780610782,
         "url": "https://www.google.com/about/careers/applications/jobs/results/135624046376035014",
@@ -330653,7 +330653,7 @@
         "company_name": "Boston Consulting Group",
         "id": "f70ef1b3-eb14-4935-a45d-cb45f14c674d",
         "title": "Product Delivery Analyst - Merch AI - X Delivery",
-        "active": true,
+        "active": false,
         "date_updated": 1781863668,
         "date_posted": 1781474859,
         "url": "https://careers.bcg.com/global/en/job/58332",
@@ -335458,6 +335458,444 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Florida Atlantic University",
+        "id": "a7d4722f-4856-4942-8c9d-51c5c9c6c6be",
+        "title": "Postdoctoral Fellow Application of Machine Learning and Robotics",
+        "active": true,
+        "date_updated": 1782471061,
+        "date_posted": 1781949387,
+        "url": "https://fau.wd1.myworkdayjobs.com/FAU/job/Harbor-Branch-HBOI/Postdoctoral-Fellow-Application-of-Machine-Learning-and-Robotics_REQ21771",
+        "locations": [
+            "Fort Pierce, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Florida-Atlantic-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ensign-Bickford Industries",
+        "id": "af3cc414-b026-425c-a757-7ad0aee06129",
+        "title": "Soldering Technician",
+        "active": true,
+        "date_updated": 1782816551,
+        "date_posted": 1782561788,
+        "url": "https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Soldering-Technician_REQ106824-1",
+        "locations": [
+            "Simsbury, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Ensign-Bickford-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Comcast",
+        "id": "793a19cb-e79d-4603-939a-b5a9f6c4e30c",
+        "title": "Finance Data and Reporting Analyst - Data Health",
+        "active": true,
+        "date_updated": 1782771861,
+        "date_posted": 1782770871,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Wayne-725-Chesterbrook-Blvd/Analyst--Finance-Data-and-Reporting---Data-Health_R440006",
+        "locations": [
+            "Villanova, PA",
+            "Philadelphia, PA",
+            "Berwyn, PA",
+            "Southfield, MI",
+            "Cherry Hills Village, CO",
+            "Michigan"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wex",
+        "id": "7293ea1a-ae5d-4d90-b5c6-ffc2a74cd396",
+        "title": "System Specialist",
+        "active": true,
+        "date_updated": 1782505621,
+        "date_posted": 1782425194,
+        "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/System-Specialist_R22024",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/788246ec-e89c-499a-bb15-9a02acb178a9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nidec",
+        "id": "c056d7df-fdde-419f-8c90-d5405fb5557b",
+        "title": "Application Engineer 1",
+        "active": true,
+        "date_updated": 1782771130,
+        "date_posted": 1782770702,
+        "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Application-Engineer-I_R0016497",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Nidec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integrity",
+        "id": "d67e8124-beec-46b0-86d3-bd2bd3173de3",
+        "title": "Data Integrity Specialist",
+        "active": true,
+        "date_updated": 1782379621,
+        "date_posted": 1782379485,
+        "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/St-Albans-WV/Data-Integrity-Specialist_JR4209",
+        "locations": [
+            "Charleston, WV"
+        ],
+        "company_url": "https://simplify.jobs/c/Integrity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BlueCross BlueShield of South Carolina",
+        "id": "d5d6036d-8efd-4f15-b50c-961a15c64257",
+        "title": "Statistical Programming Analyst",
+        "active": true,
+        "date_updated": 1782771302,
+        "date_posted": 1782770842,
+        "url": "https://ourhrconnect.wd501.myworkdayjobs.com/SCBlues/job/Columbia-South-Carolina/Statistical-Programming-Analyst_R1051391",
+        "locations": [
+            "Columbia, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/BlueCross-BlueShield-Of-South-Carolina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Western Union",
+        "id": "c85376fa-b469-42ae-b3ad-fc7edcec2f4b",
+        "title": "Data Analyst - Consumer Services",
+        "active": true,
+        "date_updated": 1782772021,
+        "date_posted": 1782770932,
+        "url": "https://westernunion.wd5.myworkdayjobs.com/en-US/WesternUnionJobs/job/USA-GA---Atlanta---Corporate-Center-V-5-Concourse-Parkway-Suite-2300/Data-Analyst--US-Consumer-Services_JR0130344",
+        "locations": [
+            "Denver, CO",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Union",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pfizer",
+        "id": "c596343e-a21e-4f49-95bd-fb3e2e90176f",
+        "title": "Manufacturing Execution Systems Engineer 1 - Manufacturing Execution Systems",
+        "active": true,
+        "date_updated": 1782815108,
+        "date_posted": 1782511730,
+        "url": "https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-States---Connecticut---Groton/DPMS-Manufacturing-Execution-Systems--MES--Engineer_4959813",
+        "locations": [
+            "Groton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Pfizer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vanguard",
+        "id": "b968aa10-ca7a-44df-95c0-415107358435",
+        "title": "Technology Leadership Program - Data & Analytics - Scientist",
+        "active": true,
+        "date_updated": 1782339123,
+        "date_posted": 1782338850,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Technology-Leadership-Program---Data---Analytics--Scientist----NC_179507",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SOTI",
+        "id": "8d7576b7-c879-47f9-bfd0-ee192692f979",
+        "title": "Software Analyst 1",
+        "active": true,
+        "date_updated": 1782814786,
+        "date_posted": 1782770693,
+        "url": "https://soti.wd3.myworkdayjobs.com/Careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Analyst-1_R10209",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/SOTI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vanguard",
+        "id": "652389ca-f6e9-4965-a3d5-5df3c02680c3",
+        "title": "Technology Leadership Program - Data & Analytics - Analyst",
+        "active": true,
+        "date_updated": 1782339123,
+        "date_posted": 1782338850,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Technology-Leadership-Program---Data---Analytics--Analyst----PA_179463",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zebra Technologies",
+        "id": "becf0839-2a63-4714-a3f9-9e1dec694f65",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1782253284,
+        "date_posted": 1782252400,
+        "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Montreal-Canada/Software-Engineer-I_JR102006",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vanguard",
+        "id": "74383d36-1ddd-434b-843c-bedb7d4e0300",
+        "title": "Technology Leadership Program - Multiple Teams",
+        "active": true,
+        "date_updated": 1782339841,
+        "date_posted": 1782338850,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Technology-Leadership-Program---Data---Analytics--Scientist----PA_179506",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "cc5f84b3-2184-4c42-a366-fed4021be6ff",
+        "title": "Associate or Experienced Product Data Management Engineer",
+        "active": true,
+        "date_updated": 1782781921,
+        "date_posted": 1782781709,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-or-Experienced-Product-Data-Management-Engineer_JR2026515183",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "bdca6b0d-54ef-4f43-9135-d4d108215238",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1782814145,
+        "date_posted": 1782781530,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---San-Antonio--TX_R4042993-1",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Cisco",
+        "id": "8ace0410-7d91-4964-93f2-ee681ac1a066",
+        "title": "Technical Marketing Engineer",
+        "active": true,
+        "date_updated": 1782425162,
+        "date_posted": 1782425008,
+        "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Richardson-Texas-US/Technical-Marketing-Engineer_2016594",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's",
+            "Bootcamp",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Waystar",
+        "id": "b8e64f5b-dea0-4811-b995-8a293006084e",
+        "title": "Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1782772021,
+        "date_posted": 1782770933,
+        "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Business-Intelligence-Analyst_R3274",
+        "locations": [
+            "Atlanta, GA",
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Waystar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bernhard",
+        "id": "f25c4a5a-4880-41c9-9cc6-6ba89572d36c",
+        "title": "Utility Analyst 1",
+        "active": true,
+        "date_updated": 1782813217,
+        "date_posted": 1782770761,
+        "url": "https://careers-enfra.icims.com/jobs/10446/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Fayetteville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Bernhard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "ab9af36f-dc87-4f56-bd92-b1e3b92882fe",
+        "title": "Test & Evaluation Engineer",
+        "active": true,
+        "date_updated": 1782339123,
+        "date_posted": 1782338956,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seattle-WA/Test---Evaluation-Engineer_JR2026491955",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Inova",
+        "id": "fa3cb7f0-6412-49af-b445-fe376d338128",
+        "title": "Epic Community Connect BI Developer",
+        "active": true,
+        "date_updated": 1782813601,
+        "date_posted": 1782108426,
+        "url": "https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/676305",
+        "locations": [
+            "Fairfax, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Inova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
