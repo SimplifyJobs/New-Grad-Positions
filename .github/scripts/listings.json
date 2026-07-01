@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Cummins",
-        "id": "0acf1541-cc00-4e4a-8753-441579d09848",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1762187692,
-        "date_posted": 1762187692,
-        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420573",
-        "locations": [
-            "Indiana"
-        ],
-        "company_url": "https://simplify.jobs/c/Cummins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "RTX",
         "id": "861a0ca0-a8b2-43cd-bd83-1581ca871f82",
         "title": "2026 Full-time - Cyber Security Engineer I - Onsite - MA",
@@ -17123,114 +17105,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/The-Atlantic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Vanguard",
-        "id": "a94217cb-c90f-40e8-bbc0-e1bb7e65d104",
-        "title": "Associate Product Manager - Specialist",
-        "active": false,
-        "date_updated": 1762187846,
-        "date_posted": 1762187846,
-        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Manchester-United-Kingdom/Associate-Product-Manager--Specialist_171653-1",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Vanguard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Royal Bank of Canada",
-        "id": "b801d54f-57af-46c6-b816-fe24d432d54b",
-        "title": "Data Engineer - RBC Amplify 2026 - Halifax",
-        "active": false,
-        "date_updated": 1762188980,
-        "date_posted": 1762188980,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Data-Engineer--RBC-Amplify-2026--Halifax_R-0000147291-1",
-        "locations": [
-            "Nova Scotia, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Royal Bank of Canada",
-        "id": "5991c0ca-fa90-458e-ad89-aea0043eb066",
-        "title": "Developer - RBC Amplify",
-        "active": false,
-        "date_updated": 1762914197,
-        "date_posted": 1762188983,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2026--Halifax_R-0000147296",
-        "locations": [
-            "Halifax Regional Municipality, NS, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "94254217-796a-4a69-b8ce-286215dc3ef5",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1762188459,
-        "date_posted": 1762188459,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033871",
-        "locations": [
-            "Highland Council, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Moog ",
-        "id": "34e9daad-1a81-4d10-b95d-65b8c505fbec",
-        "title": "Embedded Software and Systems Engineer",
-        "active": false,
-        "date_updated": 1762923111,
-        "date_posted": 1762188039,
-        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Embedded-Software---Systems-Engineering_R-25-13937",
-        "locations": [
-            "Goleta, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Moog",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "General Dynamics",
-        "id": "426bf22a-1a3d-4f27-9a23-db295b05e136",
-        "title": "Configuration and Logistics Data Analyst 1 - Engineering",
-        "active": false,
-        "date_updated": 1763131395,
-        "date_posted": 1762187568,
-        "url": "https://careers-gdbiw.icims.com/jobs/4772/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Brunswick, ME"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
