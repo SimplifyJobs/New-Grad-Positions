@@ -17491,24 +17491,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Experian",
-        "id": "9014c22f-a9aa-4f39-9bdc-8433a8625907",
-        "title": "Service Desk Analyst",
-        "active": false,
-        "date_updated": 1762167684,
-        "date_posted": 1762167684,
-        "url": "https://jobs.smartrecruiters.com/Experian/744000092044275",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Experian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "CACI",
         "id": "d6fe49c3-4efa-4652-9b5e-7609bea7f2c4",
@@ -310647,7 +310629,7 @@
         "company_name": "GE Healthcare",
         "id": "d2d45beb-51e1-4ca0-aa90-87f09c4488dc",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780912673,
         "date_posted": 1780740065,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1--Seattle-WA-area_R4041943-1",
@@ -331513,7 +331495,7 @@
         "company_name": "Becton Dickinson",
         "id": "aa35ab04-a301-41e9-bf2f-fc58de23b838",
         "title": "Product Development Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781958458,
         "date_posted": 1781952928,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-RI---Warwick/Product-Development-Engineer-I_R-542366-1",
@@ -334058,7 +334040,7 @@
         "company_name": "Graphcore",
         "id": "cc92244b-4732-4d56-88b4-c66197009803",
         "title": "Graduate Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782310820,
         "date_posted": 1782310322,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8605363002",
@@ -337132,7 +337114,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "9edf2f2e-d5e3-4d50-bbd0-8ca18268d95c",
         "title": "Engineer 1 - Test",
-        "active": true,
+        "active": false,
         "date_updated": 1782858510,
         "date_posted": 1782857229,
         "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/East-Longmeadow-MA-United-States/Engineer-I--Test_REQ-1000049952",
@@ -342377,6 +342359,26 @@
             "Warren, MI"
         ],
         "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AeroVironment",
+        "id": "afd49616-e6f1-4bfc-8d20-b332e0f69657",
+        "title": "Configuration Management Analyst 1",
+        "active": true,
+        "date_updated": 1782905315,
+        "date_posted": 1781953659,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/CM-Analyst-I_7754",
+        "locations": [
+            "Moorpark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
