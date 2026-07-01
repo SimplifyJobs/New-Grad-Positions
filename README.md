@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 227 New Grad Roles by Category
+### Browse 228 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (171)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (172)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (2)
 
@@ -315,6 +315,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Simulation Software Engineer 1</td>
 <td>Centennial, CO</td>
 <td><div align="center"><a href="https://jobs.ulalaunch.com/job/Centennial-Simulation-Software-Engineer-1-CO-80112/1402883800/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/950a54bb-a6e3-4cd4-b283-040935d9c8be?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Honeywell?utm_source=GHList&utm_medium=company">Honeywell</a></strong></td>
+<td>Software Engineer 1</td>
+<td>Richmond, VA</td>
+<td><div align="center"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/151776?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b529b450-7bf3-46fa-8dc5-19bb85f8310f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>6d</td>
 </tr>
 <tr>
@@ -7368,7 +7375,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Citizen-Health?utm_source=GHList&utm_medium=company">Citizen Health</a></strong></td>
@@ -10382,7 +10389,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Chinese Open-Source Intelligence Junior/Entry Level - Open-Source Intelligence Analyst</td>
 <td>Remote in USA</td>
 <td>🔒</td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/LG-Ad-Solutions?utm_source=GHList&utm_medium=company">LG Ad Solutions</a></strong></td>
