@@ -1,60 +1,5 @@
 [
     {
-        "date_updated": 1762244136,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/Citizen%20Health/0f4048fa-da35-4112-9166-123440a2cb57",
-        "company_name": "Citizen Health",
-        "title": "Early Career Software Engineer",
-        "locations": [
-            "San Francisco, CA",
-            "San Mateo, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "973d49c7-810f-4999-a0c7-a0221dd571d8",
-        "date_posted": 1762178601,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762178736,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://metacareers.com/jobs/2578176955882259",
-        "company_name": "Meta",
-        "title": "Data Engineer, Analytics (University Grad)",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Simplify",
-        "id": "9b533475-ee3b-4fee-85d5-aee82ab4fbb7",
-        "date_posted": 1762178736,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1765289586,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Remote-US-NC/Associate-Software-Engineer_R-052052",
-        "company_name": "Red Hat",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "Remote in USA"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "a3b60e61-8524-41d1-90e0-e8d231872d7c",
-        "date_posted": 1762178852,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Jerry",
@@ -240383,7 +240328,7 @@
         "company_name": "CIBC",
         "id": "151437b5-555d-4808-8f88-42d14d2dd63f",
         "title": "Regulatory Reporting and Data Management Assistant - Finance",
-        "active": false,
+        "active": true,
         "date_updated": 1776349398,
         "date_posted": 1776348608,
         "url": "https://cibc.wd3.myworkdayjobs.com/search/job/London-GBR/Regulatory-Reporting-and-Data-Management-Assistant--Finance_2608497",
@@ -293036,7 +292981,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -302288,7 +302233,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -308202,7 +308147,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -311307,7 +311252,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -318650,7 +318595,7 @@
         "company_name": "Goldman Sachs",
         "id": "aa693cdb-f3f2-4ceb-b496-134b2a24595a",
         "title": "HCM Associate - Data Analytics and Reporting",
-        "active": false,
+        "active": true,
         "date_updated": 1781187814,
         "date_posted": 1781042930,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176302",
@@ -336467,7 +336412,7 @@
         "company_name": "Guidewire",
         "id": "446847d3-29b2-4c3c-b983-f4e2203fc1ec",
         "title": "Associate Certification Program Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782868406,
         "date_posted": 1782770934,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946",
@@ -342311,6 +342256,267 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "d1bb777d-0248-4566-a4b4-60217f1a5866",
+        "title": "Graduate Firmware Engineer",
+        "active": true,
+        "date_updated": 1782916089,
+        "date_posted": 1782914894,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8615313002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Walt Disney Company",
+        "id": "12634088-9777-452c-9095-9f2de268d1e0",
+        "title": "Product Software Engineer 1",
+        "active": true,
+        "date_updated": 1782916089,
+        "date_posted": 1782914899,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2",
+        "locations": [
+            "Glendale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fujifilm",
+        "id": "36095008-d7d6-4ca4-bace-6267f6eb508a",
+        "title": "Project Engineer Associate",
+        "active": true,
+        "date_updated": 1782916088,
+        "date_posted": 1782914795,
+        "url": "https://uscareers-fujifilm.icims.com/jobs/36847/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fujifilm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fujifilm",
+        "id": "01b9231c-2d0f-4c84-babe-0910bbb4d537",
+        "title": "Associate Endoscopic Repair Tech",
+        "active": true,
+        "date_updated": 1782916085,
+        "date_posted": 1782914794,
+        "url": "https://uscareers-fujifilm.icims.com/jobs/37808/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Wayne, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Fujifilm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gentex Corporation",
+        "id": "13816ebb-26ab-4844-bc5f-6090d01efe10",
+        "title": "Machine Vision Development Engineer 1",
+        "active": true,
+        "date_updated": 1782916012,
+        "date_posted": 1782914883,
+        "url": "https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Machine-Vision-Development-Engineer-I_REQ026227",
+        "locations": [
+            "Holland, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Gentex-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Genentech",
+        "id": "a089c313-a921-4cf1-bd61-342d353de938",
+        "title": "Senior Machine Learning Scientist - Multiple Teams",
+        "active": true,
+        "date_updated": 1782915123,
+        "date_posted": 1782914664,
+        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Machine-Learning-Scientist--Foundational-ML--AI-for-Biology---Translation--AIBT-_202606-117077",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genentech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Southern Tide",
+        "id": "b3df6211-60da-4ab5-8ba6-516a9d99e2d3",
+        "title": "Production Development Assistant - Women's",
+        "active": true,
+        "date_updated": 1782915123,
+        "date_posted": 1782914928,
+        "url": "https://oxford.wd5.myworkdayjobs.com/SouthernTide/job/Greenville-SC---Southern-Tide-Headquarters/Production-Development-Assistant--Women-s-_R48041-1",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Southern-Tide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Likewize",
+        "id": "220b29a9-6707-439b-a5ee-ed4f4f753539",
+        "title": "Mobile Repair Technician",
+        "active": true,
+        "date_updated": 1782915123,
+        "date_posted": 1782914939,
+        "url": "https://likewize.wd1.myworkdayjobs.com/en-US/External/job/Gloucester-England-United-Kingdom/Mobile-Repair-Technician_R-1397",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/519b47ce-ff84-4832-85b9-25e0fb0988bb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Graphcore",
+        "id": "f4f73c57-61ae-4399-b373-ce87118430db",
+        "title": "Graduate Software Engineer - Triton",
+        "active": true,
+        "date_updated": 1782915505,
+        "date_posted": 1782914896,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8615504002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "41299018-056e-48f6-9e81-0bbe0f108f20",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1782915496,
+        "date_posted": 1782914873,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030195",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altice USA",
+        "id": "023f132e-d4bf-40d6-aabe-03314f3d4caf",
+        "title": "Software Developer Engineer 1",
+        "active": true,
+        "date_updated": 1782915518,
+        "date_posted": 1782914896,
+        "url": "https://www.optimumcareers.com/job/Plano-Software-Dev-Engineer-I-TX-75024/1404515000/?ats=successfactors",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Altice-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sophos",
+        "id": "382edd59-362c-4067-97e0-f333684dab49",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1782915123,
+        "date_posted": 1782914766,
+        "url": "https://jobs.lever.co/sophos/797834ca-58be-4a7c-a220-b2eefd449d97/apply",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/d1f5dbd0-ca93-42bc-a680-4b4613524aae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Path Robotics",
+        "id": "ac964351-0c04-4420-b4e9-e64f9125bf9e",
+        "title": "Machine Builder",
+        "active": true,
+        "date_updated": 1782915841,
+        "date_posted": 1777673738,
+        "url": "https://boards.greenhouse.io/pathrobotics/jobs/8533161002",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/PathRobotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
