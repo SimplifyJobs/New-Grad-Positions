@@ -236586,7 +236586,7 @@
         "company_name": "Halliburton",
         "id": "18c2b7e2-35ef-4d60-942a-0295f9fc0a3c",
         "title": "Logging Geologist-SDL - II",
-        "active": false,
+        "active": true,
         "date_updated": 1776178317,
         "date_posted": 1776175586,
         "url": "https://jobs.halliburton.com/job/Aberdeen-Aberdeen-Logging-Geologist-SDL,-II-ABE-AB21-0GN/1372134400/?ats=successfactors",
@@ -236889,7 +236889,7 @@
         "company_name": "AeroVironment",
         "id": "356bcf24-6d2f-40b9-b060-df366bca9d00",
         "title": "Platform Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776208870,
         "date_posted": 1776204623,
         "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/1613-NW-136th-Avenue-Sunrise-FL/Platform-Software-Engineer_7497",
@@ -290679,7 +290679,7 @@
         "company_name": "Elekta",
         "id": "2bef8297-48c9-430d-a0a8-4aa0694f67bf",
         "title": "Associate Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779819398,
         "date_posted": 1776895743,
         "url": "https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Louisiana--Home-Based/Associate-Field-Service-Engineer_R2026-0169",
@@ -292306,7 +292306,7 @@
         "company_name": "Harvard University",
         "id": "8ff9f7a3-dcc0-41fc-921c-3637e2f3a14a",
         "title": "Research Associate - General",
-        "active": true,
+        "active": false,
         "date_updated": 1779826685,
         "date_posted": 1779689072,
         "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990013259557",
@@ -296872,7 +296872,7 @@
         "company_name": "Truveta",
         "id": "f55b43ae-479e-40b6-89ae-203f3ae6b5f8",
         "title": "Machine Learning Postdoctoral Researcher - Healthcare AI Innovation",
-        "active": false,
+        "active": true,
         "date_updated": 1779949842,
         "date_posted": 1776820832,
         "url": "https://job-boards.greenhouse.io/truveta/jobs/5978375004",
@@ -302160,7 +302160,7 @@
         "company_name": "RTX",
         "id": "31b7f70c-a169-487e-a379-b84328b186b8",
         "title": "Configuration Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780389425,
         "date_posted": 1780351840,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WM--2501-W-University-Dr--WING-M-BLDG/Configuration-Analyst_01849460",
@@ -308292,7 +308292,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -311397,7 +311397,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": true,
+        "active": false,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -318740,7 +318740,7 @@
         "company_name": "Goldman Sachs",
         "id": "aa693cdb-f3f2-4ceb-b496-134b2a24595a",
         "title": "HCM Associate - Data Analytics and Reporting",
-        "active": false,
+        "active": true,
         "date_updated": 1781187814,
         "date_posted": 1781042930,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176302",
@@ -341173,7 +341173,7 @@
         "company_name": "Medpace",
         "id": "91345065-80f2-452e-8a2a-b4908b5e74ef",
         "title": "Clinical Informatics Analyst - Medpace",
-        "active": true,
+        "active": false,
         "date_updated": 1782207509,
         "date_posted": 1781906913,
         "url": "https://careers.medpace.com/jobs/12823?icims=1",
@@ -342166,6 +342166,64 @@
             "Master's",
             "PhD",
             "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "35ea5d76-cfd1-4d19-9520-439668fb7c63",
+        "title": "Postdoctoral Fellow - Nanoassembly Lab",
+        "active": true,
+        "date_updated": 1782897381,
+        "date_posted": 1782770685,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow---Nanoassembly-Lab_R_00046997",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ADT",
+        "id": "626554cd-61f8-485f-818d-dbdc0300d64f",
+        "title": "Smart Home Consultant",
+        "active": true,
+        "date_updated": 1782896689,
+        "date_posted": 1782310035,
+        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3020984",
+        "locations": [
+            "Bridgeville, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/ADT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sinclair",
+        "id": "734bad35-b10b-4c81-9332-2a092e2d3fe3",
+        "title": "Meteorologist",
+        "active": true,
+        "date_updated": 1782897121,
+        "date_posted": 1780437985,
+        "url": "https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16579",
+        "locations": [
+            "Bristol, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sinclair",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
