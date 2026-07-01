@@ -210212,7 +210212,7 @@
         "company_name": "GE Healthcare",
         "id": "7bae5a33-94e7-4ec2-b2c7-7aa45bfd02d6",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774693218,
         "date_posted": 1774693218,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1--Rockford--IL-_R4035771-2",
@@ -215225,7 +215225,7 @@
         "company_name": "Cetera Financial Group",
         "id": "cd75dfd6-b21e-43ed-84cf-b84724fd0961",
         "title": "Trading Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1775005741,
         "date_posted": 1775005612,
         "url": "https://ebhu.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/6216",
@@ -303121,7 +303121,7 @@
         "company_name": "PJM",
         "id": "54b01c4c-d6dd-4954-ac9f-967ae0e0b6c0",
         "title": "Engineer/Analyst 1 - II",
-        "active": true,
+        "active": false,
         "date_updated": 1780439404,
         "date_posted": 1780438036,
         "url": "https://pjm.wd5.myworkdayjobs.com/pjmcareers/job/Audubon-PA-Hybrid/Engineer-Analyst-I--II-_REQ-2026-4184-1",
@@ -311676,7 +311676,7 @@
         "company_name": "SOTI",
         "id": "713173a1-8131-45ff-9b14-d8315618ec38",
         "title": "Associate Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780960305,
         "date_posted": 1780956614,
         "url": "https://soti.wd3.myworkdayjobs.com/Careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Software-Developer_R10174",
@@ -314573,7 +314573,7 @@
         "company_name": "Brink",
         "id": "6955ffaa-10b0-4234-99e4-81d00fe1ab9d",
         "title": "ATM Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1781082252,
         "date_posted": 1779527356,
         "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Albany-NY/ATM-Technician_R72778",
@@ -318740,7 +318740,7 @@
         "company_name": "Goldman Sachs",
         "id": "aa693cdb-f3f2-4ceb-b496-134b2a24595a",
         "title": "HCM Associate - Data Analytics and Reporting",
-        "active": true,
+        "active": false,
         "date_updated": 1781187814,
         "date_posted": 1781042930,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176302",
@@ -328793,7 +328793,7 @@
         "company_name": "Atlas Energy Solutions",
         "id": "3d368048-e329-4632-9100-f86205ea53a9",
         "title": "Electrical Panel Assembly Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1781792735,
         "date_posted": 1781792350,
         "url": "https://job-boards.greenhouse.io/atlassand/jobs/8485256002",
@@ -339113,7 +339113,7 @@
         "company_name": "GE Healthcare",
         "id": "6b714166-bc69-4a53-ac98-4bcb62a5c1d7",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782812054,
         "date_posted": 1782252366,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I_R4042607",
@@ -342224,6 +342224,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Honeywell",
+        "id": "b529b450-7bf3-46fa-8dc5-19bb85f8310f",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1782898838,
+        "date_posted": 1782338882,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/151776",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
