@@ -2,43 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jerry",
-        "id": "9857bef3-59a5-49b7-826f-1200ceb4cf69",
-        "title": "Software Engineer I - Entry",
-        "active": false,
-        "date_updated": 1762187247,
-        "date_posted": 1762187247,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/124b6ac4-e256-4004-848b-c604c520c156/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software Engineering",
-        "company_name": "Parsons",
-        "id": "56713d01-e5f1-4b6a-9974-1d5028d3568f",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1762268811,
-        "date_posted": 1762186910,
-        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---TX-Lackland-Air-Force-Base/Software-Engineer-II_R173158-1",
-        "locations": [
-            "San Antonio, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Parsons",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Cummins",
         "id": "0acf1541-cc00-4e4a-8753-441579d09848",
         "title": "Software Engineer I",
@@ -17184,24 +17147,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Eversource Energy",
-        "id": "9b2e505e-5db5-4a4a-9ccd-494f4c88a382",
-        "title": "IT Associate Analyst - Local Area Network/Wide Area Network",
-        "active": false,
-        "date_updated": 1762186860,
-        "date_posted": 1762186860,
-        "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Berlin-CT/IT-Associate-Analyst--Network-LAN-WAN_R-029004",
-        "locations": [
-            "New Britain, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Eversource-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Royal Bank of Canada",
         "id": "b801d54f-57af-46c6-b816-fe24d432d54b",
@@ -17286,78 +17231,6 @@
             "Brunswick, ME"
         ],
         "company_url": "https://simplify.jobs/c/General-Dynamics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The University of Edinburgh",
-        "id": "157042e0-f6c2-4ce9-9685-23cc8cbf6409",
-        "title": "Research Fellow in Data Science",
-        "active": false,
-        "date_updated": 1762187304,
-        "date_posted": 1762187304,
-        "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13090",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ohio State University",
-        "id": "f340992a-3435-438b-89e2-6a010949db4b",
-        "title": "Imaging Informatics Specialist",
-        "active": false,
-        "date_updated": 1762186871,
-        "date_posted": 1762186871,
-        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Medical-Center-Campus/Imaging-Informatics-Specialist_R139491-1",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Ohio-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jane Street",
-        "id": "a69a80fa-3d57-47ec-940d-acbac42179b6",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1762817656,
-        "date_posted": 1762187091,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8160791002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Public Service Enterprise Group",
-        "id": "c91fbba3-471b-4d60-9cca-8112306361e1",
-        "title": "Associate Data Scientist",
-        "active": false,
-        "date_updated": 1762186576,
-        "date_posted": 1762186576,
-        "url": "https://jobs.pseg.com/job/South-Plainfield-Associate-Data-Scientist-NJ-07080/1339784200/?ats=successfactors",
-        "locations": [
-            "South Plainfield, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Public-Service-Enterprise-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
