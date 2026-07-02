@@ -187536,7 +187536,7 @@
         "company_name": "The Information Lab",
         "id": "ca0e46bd-3d87-4ea3-ae5c-3f8c475e3706",
         "title": "The Data School",
-        "active": true,
+        "active": false,
         "date_updated": 1773477735,
         "date_posted": 1772781089,
         "url": "https://jobs.lever.co/theinformationlab/eaa64bb6-30b9-44bf-a490-3a2ea9754c13/apply",
@@ -295311,7 +295311,7 @@
         "company_name": "Truveta",
         "id": "f55b43ae-479e-40b6-89ae-203f3ae6b5f8",
         "title": "Machine Learning Postdoctoral Researcher - Healthcare AI Innovation",
-        "active": true,
+        "active": false,
         "date_updated": 1779949842,
         "date_posted": 1776820832,
         "url": "https://job-boards.greenhouse.io/truveta/jobs/5978375004",
@@ -300619,7 +300619,7 @@
         "company_name": "CoStar Group",
         "id": "654a8203-8795-40c6-92f5-76afc4273093",
         "title": "Associate Research Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1780390666,
         "date_posted": 1780134807,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Associate-Research-Consultant_R38934",
@@ -334975,7 +334975,7 @@
         "company_name": "Guidewire",
         "id": "446847d3-29b2-4c3c-b983-f4e2203fc1ec",
         "title": "Associate Certification Program Systems Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1782868406,
         "date_posted": 1782770934,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946",
@@ -335469,7 +335469,7 @@
         "company_name": "Microsoft",
         "id": "b54f156b-5d91-418e-9a09-71f0b52832aa",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1782858593,
         "date_posted": 1782857394,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556912991",
@@ -337018,7 +337018,7 @@
         "company_name": "United Launch Alliance",
         "id": "950a54bb-a6e3-4cd4-b283-040935d9c8be",
         "title": "Simulation Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782339123,
         "date_posted": 1782338883,
         "url": "https://jobs.ulalaunch.com/job/Centennial-Simulation-Software-Engineer-1-CO-80112/1402883800/?ats=successfactors",
@@ -340013,7 +340013,7 @@
         "company_name": "BNY",
         "id": "f6389ec4-c940-4c0c-9ab8-69817c095131",
         "title": "Municipal Trading Senior Specialist - Municipal Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1782772750,
         "date_posted": 1782772559,
         "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/79077",
@@ -345037,6 +345037,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CAE",
+        "id": "441d6d3c-3c5b-433b-bf3a-a888f704d484",
+        "title": "Simulator Technician 1",
+        "active": true,
+        "date_updated": 1782985269,
+        "date_posted": 1782943549,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Orlando/Simulator-Technician-I_122131",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/CAE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
