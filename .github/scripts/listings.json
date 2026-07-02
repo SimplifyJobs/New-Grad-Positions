@@ -1,57 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Centene",
-        "id": "5df90d62-9b36-40cc-9472-654f58bfd160",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1762240965,
-        "date_posted": 1762240965,
-        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-IA/Data-Engineer-I_1606352-1",
-        "locations": [
-            "New Mexico",
-            "Cunningham, KS",
-            "Pennsylvania",
-            "Texas",
-            "Florida",
-            "Wichita, KS",
-            "South Carolina",
-            "Edmond, OK",
-            "Tennessee",
-            "Minnesota",
-            "Fort Gibson, OK",
-            "Wisconsin",
-            "North Carolina",
-            "Missouri",
-            "Illinois",
-            "McKenzie, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Centene",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Altice USA",
-        "id": "216daacb-dd56-400a-ab18-2451fcec8209",
-        "title": "Software Dev Engineer I",
-        "active": false,
-        "date_updated": 1762240688,
-        "date_posted": 1762240688,
-        "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1340029300/?ats=successfactors",
-        "locations": [
-            "Plainview, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Altice-USA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "LexisNexis Risk Solutions",
         "id": "42e61775-f544-4875-aabf-780ba7476d36",
@@ -16122,44 +16071,6 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/HEXAWARE",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Radiance Technologies",
-        "id": "a0be3ac8-17ac-4642-9ce4-ab718b552348",
-        "title": "Physicist",
-        "active": false,
-        "date_updated": 1762241284,
-        "date_posted": 1762241284,
-        "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC/Physicist_HR101844",
-        "locations": [
-            "Wright-Patterson AFB, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Radiance-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Halifax Health",
-        "id": "4eb4b0e9-f21f-41e1-bcce-7a550a1fe933",
-        "title": "Application Analyst 1",
-        "active": false,
-        "date_updated": 1762937936,
-        "date_posted": 1762240844,
-        "url": "https://halifaxhealth.wd12.myworkdayjobs.com/halifaxhealth/job/US-FL-Daytona-Beach/Application-Analyst-I_JR103318",
-        "locations": [
-            "Daytona Beach, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Halifax-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -68357,24 +68268,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "SHI International ",
-        "id": "fb4bb353-437c-413f-9e57-98e9d1a70b92",
-        "title": "FinOps Analyst",
-        "active": false,
-        "date_updated": 1762926771,
-        "date_posted": 1762241442,
-        "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/Austin-TX-USA/FinOps-Analyst_JR2047-1",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/SHI-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Pfizer",
         "id": "e4dd0561-d460-4d68-b553-8ef1ab1305e8",
         "title": "Postdoctoral Fellow in AI/ML Applications for Vaccine Research and Development",
@@ -72512,24 +72405,6 @@
             "Bartlett, IL"
         ],
         "company_url": "https://simplify.jobs/c/Holman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SHI International ",
-        "id": "f8390a30-b8be-4d7d-8ac6-a1a2fcb3d194",
-        "title": "IDCS Quality Control Technician",
-        "active": false,
-        "date_updated": 1763674462,
-        "date_posted": 1762241441,
-        "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/Piscataway-NJ-USA/IDCS-Quality-Control-Technician_JR1334-1",
-        "locations": [
-            "Middlesex, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/SHI-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -344980,6 +344855,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "f1a07716-de8a-4033-9d52-d72b1cb408f7",
+        "title": "Cyber Software Engineer",
+        "active": true,
+        "date_updated": 1782961755,
+        "date_posted": 1782957166,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Cyber-Software-Engineer---Level-1-2_R10238442",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
