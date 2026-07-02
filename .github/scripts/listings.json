@@ -306873,7 +306873,7 @@
         "company_name": "NVIDIA",
         "id": "29d56cce-6d8e-4fac-aeb4-7c14135e0b12",
         "title": "Software R&D Engineer New Grad - VLSI Physical Design",
-        "active": true,
+        "active": false,
         "date_updated": 1780639895,
         "date_posted": 1780639630,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330",
@@ -343214,5 +343214,590 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "af5a2d3a-dca7-4e57-98c9-f52493955778",
+        "title": "Associate Engineer Technical Services",
+        "active": true,
+        "date_updated": 1782963025,
+        "date_posted": 1782957152,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2026-Associate-Engineer-Technical-Services---Woodland-Hills-CA_R10238527",
+        "locations": [
+            "Canoga Park, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "7665ed7d-c986-4890-9c4d-a7b0e2545e12",
+        "title": "Survivability Engineer - Survivability",
+        "active": true,
+        "date_updated": 1782962968,
+        "date_posted": 1782957228,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Engineer-Principal-Engineer---Survivability--El-Segundo-CA-_R10237923",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "dc745eca-150d-4756-8dbf-8e31321a9587",
+        "title": "Software Engineer 2 - Aht",
+        "active": true,
+        "date_updated": 1782962943,
+        "date_posted": 1782957220,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Software-Engineer-Level-2--AHT-_R10237979",
+        "locations": [
+            "Northridge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "0c478e48-883a-4806-97e1-a6a73a0fa019",
+        "title": "Aeronautical Engineer - Hardware Avionics",
+        "active": true,
+        "date_updated": 1782962899,
+        "date_posted": 1782957213,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Engineer-Principal-Engineer-Aeronautical---Hardware-Avionics_R10238026",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "c433508a-ffd3-4dbf-a5c3-0aa574c12c6d",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782962462,
+        "date_posted": 1782957197,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer_R10238169",
+        "locations": [
+            "Palmdale, CA",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "9ae5133e-21ac-460c-a748-48bab65a707f",
+        "title": "Engineer/Principal Engineer - Survivability",
+        "active": true,
+        "date_updated": 1782962462,
+        "date_posted": 1782957204,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-Principal-Engineer---Survivability--Melbourne-FL-_R10237946",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "1d9d8f01-f629-408b-9315-beb40996eff1",
+        "title": "Software Engineer/Principal Software Engineer - Flight Autonomy",
+        "active": true,
+        "date_updated": 1782962462,
+        "date_posted": 1782957205,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Software-Engineer-Principal-Software-Engineer---Flight-Autonomy--San-Diego-CA-_R10237576",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "a9f2a5a2-f500-4dc0-bbdf-bdc9d36d08db",
+        "title": "Research Software Engineer 1",
+        "active": true,
+        "date_updated": 1782962781,
+        "date_posted": 1782957184,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Research-Software-Engineer-Level-1_R10237693",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "908e39ee-02d0-4835-8810-f81587f5e109",
+        "title": "Software Engineer - Level 1",
+        "active": true,
+        "date_updated": 1782962462,
+        "date_posted": 1782957185,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---Level-1_R10238172",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northrop Grumman",
+        "id": "7acbed73-12d0-47f6-b3e8-ca7736082239",
+        "title": "Data Insight Analyst",
+        "active": true,
+        "date_updated": 1782962814,
+        "date_posted": 1782957189,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Data-Insight-Analyst--Analyst-or-Principal-Analyst-Level-_R10238242",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Carrier Global",
+        "id": "5e012e98-195c-4cf0-ae5c-cb00b083abdd",
+        "title": "Associate Engineer",
+        "active": true,
+        "date_updated": 1782961755,
+        "date_posted": 1782957034,
+        "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Associate-Engineer_30208736",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Carrier-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stryker",
+        "id": "c8dc8601-1783-4c75-8ecd-85abae1b2db2",
+        "title": "Associate Installation Technician",
+        "active": true,
+        "date_updated": 1782961755,
+        "date_posted": 1782957006,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/California-Los-Angeles-Surrounding-Virtual-Address/Associate-Installation-Technician---California_R568098",
+        "locations": [
+            "SF",
+            "LA",
+            "San Jose, CA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stryker",
+        "id": "8cf18b07-d64c-4f20-9ce7-11f1c06ef28a",
+        "title": "Associate Installation Technician",
+        "active": true,
+        "date_updated": 1782961755,
+        "date_posted": 1782956982,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Atlanta-Georgia/Associate-Installation-Technician_R568390",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Morgan Stanley",
+        "id": "d4db2d88-84c8-4a7d-b3a8-709b5214cbeb",
+        "title": "Director of Data & Analytics Engineering",
+        "active": true,
+        "date_updated": 1782962527,
+        "date_posted": 1782956920,
+        "url": "https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Director--Data---Analytics-Engineering_JR034384",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Micron Technology",
+        "id": "dac9cae3-0071-42ed-9f63-60609679292f",
+        "title": "Engineer New Grad - Thin Films Equipment - Engineer",
+        "active": true,
+        "date_updated": 1782962512,
+        "date_posted": 1782956892,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Engineer--Thin-Films-Equipment_JR105007",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "db1edea5-494c-4e4c-ba29-fcd89622af44",
+        "title": "Software Engineer - Developer",
+        "active": true,
+        "date_updated": 1782961755,
+        "date_posted": 1782956774,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Software-Engineer---Developer--Associate-and-Experienced-_JR2026516250-1",
+        "locations": [
+            "Kent, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "38805264-c11f-41b1-b05d-932377747ec0",
+        "title": "Onsite Administrator Level 1 - Printer Technician",
+        "active": true,
+        "date_updated": 1782962343,
+        "date_posted": 1782956769,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/All-Cities-Florida-United-States-of-America/Onsite-Administrator-I--Printer-Technician----Level-I--Melbourne--FL-_3164518",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "dc697794-0dc1-4a8a-ba30-e72b0ae2706e",
+        "title": "Test and Evaluation Hardware Engineer",
+        "active": true,
+        "date_updated": 1782961755,
+        "date_posted": 1782956729,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Test-and-Evaluation-Hardware-Engineer--Associate---Experienced-_JR2026515623-1",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "b9deb1e7-9b72-4a73-8399-18ae103a226a",
+        "title": "Associate or Experienced Product Data Management Engineer",
+        "active": true,
+        "date_updated": 1782961755,
+        "date_posted": 1782956685,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-or-Experienced-Product-Data-Management-Engineer_JR2026515183-1",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "U.S. Bank",
+        "id": "ef94e327-12f8-4e9e-a0b0-5cd804b92e09",
+        "title": "Software Engineer 1 - Mainframe - Cobol",
+        "active": true,
+        "date_updated": 1782962023,
+        "date_posted": 1782956501,
+        "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brookfield-WI/Software-Engineer-I---Mainframe--Cobol-_2026-0018566",
+        "locations": [
+            "Brookfield, WI",
+            "Hopkins, MN",
+            "Irving, TX",
+            "Atlanta, GA",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/US-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KBR",
+        "id": "ced49fc2-a43b-4d16-8b88-dcac79a686c1",
+        "title": "Sensing Requirements Analyst",
+        "active": true,
+        "date_updated": 1782961987,
+        "date_posted": 1782956481,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Washington-DC-Metro-Area/Remote-Sensing-Requirements-Analyst_R2125628-1",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "c6b88cdf-a082-4483-829d-77d3e106239b",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782961878,
+        "date_posted": 1782956444,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Engineer-TS-SCI-Polygraph_R-00186603",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Truist Bank",
+        "id": "cca7ace0-9015-435c-a3c1-7234e130d72e",
+        "title": "Data Scientist 1 - Fraud Reporting",
+        "active": true,
+        "date_updated": 1782961750,
+        "date_posted": 1782956373,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Data-Scientist-I----Fraud-Reporting_R0115931",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Truist-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "State Street",
+        "id": "336cbbc3-eb04-4282-b306-8d4ed5362bec",
+        "title": "Full Stack Software Engineer",
+        "active": true,
+        "date_updated": 1782961023,
+        "date_posted": 1782956396,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Full-Stack-Software-Engineer--Officer_R-793044",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AT&T",
+        "id": "dbe103b1-b383-4e45-858a-901fe2d3c566",
+        "title": "Senior Specialist Member of Technical Staff",
+        "active": true,
+        "date_updated": 1782961691,
+        "date_posted": 1782956324,
+        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACASan-Ramon--5005-Executive-Pkwy---Adm-north-Wing5005-Executive-Pkwy/Sr-Specialist-Member-of-Technical-Staff_R-113509",
+        "locations": [
+            "San Ramon, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ATT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dave & Busters",
+        "id": "47e69401-4b91-48c2-8b30-02cb06cc9029",
+        "title": "Games Support Tech",
+        "active": true,
+        "date_updated": 1782961023,
+        "date_posted": 1782956284,
+        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Shenandoah-TX/Games-Support-Tech_R-1012132",
+        "locations": [
+            "The Woodlands, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "939c8fec-74a5-4b4f-8885-23c551df8eca",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics",
+        "active": true,
+        "date_updated": 1782961023,
+        "date_posted": 1782956262,
+        "url": "https://lifeattiktok.com/search/7515557805312297223",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LabCorp",
+        "id": "125d7827-8ff7-4757-91ec-6672e20de664",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1782961619,
+        "date_posted": 1782956282,
+        "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/USA---NC---Durham---10-Moore-Drive/Associate-Data-Scientist_2612605",
+        "locations": [
+            "Durham, NC",
+            "Burlington, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/LabCorp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
