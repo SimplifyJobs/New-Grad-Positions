@@ -291529,7 +291529,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -301503,7 +301503,7 @@
         "company_name": "PJM",
         "id": "54b01c4c-d6dd-4954-ac9f-967ae0e0b6c0",
         "title": "Engineer/Analyst 1 - II",
-        "active": false,
+        "active": true,
         "date_updated": 1780439404,
         "date_posted": 1780438036,
         "url": "https://pjm.wd5.myworkdayjobs.com/pjmcareers/job/Audubon-PA-Hybrid/Engineer-Analyst-I--II-_REQ-2026-4184-1",
@@ -313115,7 +313115,7 @@
         "company_name": "Darktrace",
         "id": "79f33ef6-2e84-47c3-bede-0836e7005973",
         "title": "Product Content Executive",
-        "active": true,
+        "active": false,
         "date_updated": 1781082749,
         "date_posted": 1780438102,
         "url": "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Product-Content-Coordinator_JR101825",
@@ -340732,7 +340732,7 @@
         "company_name": "BlackRock",
         "id": "b35a2969-1549-4c14-9dea-2aa34016c109",
         "title": "Portfolio Compliance Implementation Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1782901474,
         "date_posted": 1782396405,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Wilmington-DE/Associate--Investment-Guidelines-Compliance---Delaware_R261567",
@@ -345126,6 +345126,44 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Illumina",
+        "id": "ad923484-1c31-43b9-851a-7b0b40377e3a",
+        "title": "Manufacturing Equipment Engineer 1",
+        "active": true,
+        "date_updated": 1782993876,
+        "date_posted": 1782165978,
+        "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Manufacturing-Equipment-Engineer-1_43020-JOB-1",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Illumina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WellSky",
+        "id": "534744a2-ac38-473e-ab1e-69828b5a58c7",
+        "title": "Technical Consultant 2",
+        "active": true,
+        "date_updated": 1782994218,
+        "date_posted": 1781647695,
+        "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Technical-Consultant-II_JR4879",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/WellSky",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
