@@ -16221,24 +16221,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "BTI Solutions",
-        "id": "14f9ad79-17d9-4405-b4ff-277c0ae750b0",
-        "title": "Development Engineer",
-        "active": false,
-        "date_updated": 1762912555,
-        "date_posted": 1762222122,
-        "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Woodcliff-Lake-NJ/Korean-Bilingual-Development-Engineer-l---TL---New-Jersey_JR101385-1",
-        "locations": [
-            "Paramus, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/BTI-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Equiti",
         "id": "e9f25742-864e-47a7-beb2-74f154ac4fc9",
@@ -76530,27 +76512,6 @@
             "Odenton, MD"
         ],
         "company_url": "https://simplify.jobs/c/Markon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Alamar Biosciences",
-        "id": "f7a0fc0c-a251-45b4-af67-89e455812d52",
-        "title": "Field Service Engineer - US East",
-        "active": false,
-        "date_updated": 1767656620,
-        "date_posted": 1762223265,
-        "url": "https://job-boards.greenhouse.io/alamarbiosciences/jobs/5696574004",
-        "locations": [
-            "Philadelphia, PA",
-            "Baltimore, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Alamar-Biosciences",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -144031,7 +143992,7 @@
         "company_name": "NVIDIA",
         "id": "7fb2f96e-3662-4a02-a0c2-e7bbd2663ce9",
         "title": "System Design Engineer \u2013 New College Grad 2026",
-        "active": false,
+        "active": true,
         "date_updated": 1771543465,
         "date_posted": 1771543465,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Design-Engineer---New-College-Grad-2026_JR2011879",
@@ -182353,7 +182314,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "af5146d7-85f9-4523-8533-0e6a9acf487f",
         "title": "SW Engineering - Systems - Software Engineer I-Embedded System",
-        "active": false,
+        "active": true,
         "date_updated": 1773298069,
         "date_posted": 1773298069,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/SW-Engineering--Systems----Software-Engineer-I--Embedded-System_1200169",
@@ -219785,7 +219746,7 @@
         "company_name": "Leidos",
         "id": "cebcf839-fa11-4531-9dfa-552df2bae3a8",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1775257781,
         "date_posted": 1775254232,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Developer_R-00179976",
@@ -258874,7 +258835,7 @@
         "company_name": "DaVita",
         "id": "b00bdd60-3ec1-49ec-ae92-c2c5fbf70f45",
         "title": "Compensation and Analytics Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1777587841,
         "date_posted": 1777587048,
         "url": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Compensation-and-Analytics-Analyst_R0456698",
@@ -268418,7 +268379,7 @@
         "company_name": "NVIDIA",
         "id": "bfcd7fcc-bedf-4dac-8ae3-4fdfaf21ffa2",
         "title": "ASIC Floorplan Design Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1778202764,
         "date_posted": 1778202592,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2012971",
@@ -297919,7 +297880,7 @@
         "company_name": "Citi",
         "id": "d393479c-e4a9-4d16-bd37-a3831cc989f3",
         "title": "Analytics Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780275579,
         "date_posted": 1780137750,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/F-S-Analytics---Analyst_26960761",
@@ -298578,7 +298539,7 @@
         "company_name": "General Motors",
         "id": "96031560-54a5-445c-b11b-101739898997",
         "title": "Entry Level Developer - Simulation Platform - Galileo",
-        "active": false,
+        "active": true,
         "date_updated": 1780305252,
         "date_posted": 1780305073,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Entry-Level-Developer---Simulation-Platform--Galileo-_JR-202611523",
@@ -314931,7 +314892,7 @@
         "company_name": "Amgen",
         "id": "a694adca-179c-44e9-86be-f1f3f3d8f198",
         "title": "Principal Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1781130156,
         "date_posted": 1781129212,
         "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---Florida---Tampa/Principal-Software-Engineer_R-240843",
@@ -317410,7 +317371,7 @@
         "company_name": "RELX",
         "id": "1c9356a0-8f0b-43b6-acc9-3466330cc6c9",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781187725,
         "date_posted": 1781187027,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Cardiff/Software-Engineer-I_R112653-1",
@@ -341116,7 +341077,7 @@
         "company_name": "General Motors",
         "id": "7c1a6650-e1ab-48bb-970f-3b0f8600d65a",
         "title": "PSDS Harness Coordination & Issue Management Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782900708,
         "date_posted": 1781344891,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/PSDS-Harness-Coordination---Issue-Management-Engineer_JR-202605893-1",
@@ -343054,6 +343015,66 @@
         "degrees": [
             "Bachelor's",
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jones Lang LaSalle (JLL)",
+        "id": "2b071ed5-7aef-4618-b69d-6879c73866db",
+        "title": "Systems Integration Consultant",
+        "active": true,
+        "date_updated": 1782958143,
+        "date_posted": 1782957836,
+        "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Systems-Integration-Consultant_REQ495783",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mass General Brigham",
+        "id": "0036c4e2-4441-4dcb-b010-48cc0ce032be",
+        "title": "Deep Learning Fellow - Deep Learning",
+        "active": true,
+        "date_updated": 1782958240,
+        "date_posted": 1782957434,
+        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Research-Fellow---Deep-Learning_RQ4043167",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "385acd80-084a-456f-b4bc-2de1a954b3fc",
+        "title": "Entry-Level Electrical / Wire Harness Assembly Technician",
+        "active": true,
+        "date_updated": 1782957421,
+        "date_posted": 1782956802,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Entry-Level-Electrical---Wire-Harness-Assembly-Technician_JR2026506013",
+        "locations": [
+            "Mesa, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
