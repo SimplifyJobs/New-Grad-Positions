@@ -247287,7 +247287,7 @@
         "company_name": "Catapult",
         "id": "09ecbd59-57e6-43c3-87e9-2c2d92f3bcb5",
         "title": "Graduate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776763793,
         "date_posted": 1776763477,
         "url": "https://job-boards.greenhouse.io/catapultsports/jobs/7821130",
@@ -284739,7 +284739,7 @@
         "company_name": "The J. Paul Getty Trust",
         "id": "64bdd829-a551-459b-8b23-ade1409cd6a5",
         "title": "Metadata Specialist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779819667,
         "date_posted": 1776992598,
         "url": "https://jobs-getty.icims.com/jobs/4780/job?mobile=true&needsRedirect=false",
@@ -289118,7 +289118,7 @@
         "company_name": "Elekta",
         "id": "2bef8297-48c9-430d-a0a8-4aa0694f67bf",
         "title": "Associate Field Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779819398,
         "date_posted": 1776895743,
         "url": "https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Louisiana--Home-Based/Associate-Field-Service-Engineer_R2026-0169",
@@ -300599,7 +300599,7 @@
         "company_name": "RTX",
         "id": "31b7f70c-a169-487e-a379-b84328b186b8",
         "title": "Configuration Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780389425,
         "date_posted": 1780351840,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WM--2501-W-University-Dr--WING-M-BLDG/Configuration-Analyst_01849460",
@@ -300796,7 +300796,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -328982,7 +328982,7 @@
         "company_name": "GE Healthcare",
         "id": "24ee3d12-9b35-4c67-a394-f7756e2d8ef9",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781858628,
         "date_posted": 1781344839,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4041924-1",
@@ -334152,7 +334152,7 @@
         "company_name": "The Boeing Company",
         "id": "ab9af36f-dc87-4f56-bd92-b1e3b92882fe",
         "title": "Test & Evaluation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782339123,
         "date_posted": 1782338956,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seattle-WA/Test---Evaluation-Engineer_JR2026491955",
@@ -340612,7 +340612,7 @@
         "company_name": "ADT",
         "id": "626554cd-61f8-485f-818d-dbdc0300d64f",
         "title": "Smart Home Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1782896689,
         "date_posted": 1782310035,
         "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3020984",
@@ -344978,6 +344978,65 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "algo1",
+        "id": "4ba74089-17e2-4f89-a782-df4b0a28dd75",
+        "title": "Graduate Product Engineer",
+        "active": true,
+        "date_updated": 1782983522,
+        "date_posted": 1782983298,
+        "url": "https://jobs.ashbyhq.com/algo1/607dad25-2eb1-4911-8424-3d1a470c65c6/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Algo1",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Andrew Morgan",
+        "id": "617b7d9e-74a5-491a-a658-e4dec4262c68",
+        "title": "OneStream Developer",
+        "active": true,
+        "date_updated": 1782983507,
+        "date_posted": 1782944838,
+        "url": "https://andrew-morgan.com/current-openings/?gh_jid=5288472008",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Andrew-Morgan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GM financial",
+        "id": "5044965f-dc9a-443a-8ec7-b438937b395b",
+        "title": "Digital Analyst 1",
+        "active": true,
+        "date_updated": 1782982985,
+        "date_posted": 1782252302,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260401",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
