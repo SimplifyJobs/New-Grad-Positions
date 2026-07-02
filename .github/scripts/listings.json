@@ -1,43 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "f15f9ecd-dae5-45ab-b82f-1352a8b50521",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1762224083,
-        "date_posted": 1762224083,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/88025996928",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citizen Health",
-        "id": "e7c6c957-8528-4696-97cc-8b1cf172a138",
-        "title": "Early Career Software Engineer",
-        "active": false,
-        "date_updated": 1762223935,
-        "date_posted": 1762223935,
-        "url": "https://jobs.ashbyhq.com/Citizen%20Health/0db9efc6-cdc3-44c6-a93a-59a57808e451/application",
-        "locations": [
-            "SF",
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Citizen-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Centene",
         "id": "5df90d62-9b36-40cc-9472-654f58bfd160",
@@ -1823,24 +1786,6 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "076f6b0a-836e-4dc4-a55d-c9664c77f5f0",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1762923768,
-        "date_posted": 1762224084,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/88025996944",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -16215,80 +16160,6 @@
             "Daytona Beach, FL"
         ],
         "company_url": "https://simplify.jobs/c/Halifax-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Equiti",
-        "id": "e9f25742-864e-47a7-beb2-74f154ac4fc9",
-        "title": "Entry Level Developer - Contract",
-        "active": false,
-        "date_updated": 1762223712,
-        "date_posted": 1762223712,
-        "url": "https://wd12.myworkdaysite.com/recruiting/cloudbreak/Equiti/job/Remote-Anywhere-in-US/Entry-Level-Developer---Contract_JR-0774",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Equiti",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Capital One",
-        "id": "da5d0566-7ac5-46b9-ad86-de3f9a5c11bc",
-        "title": "Product Management Senior Associate - Commercial Banking",
-        "active": false,
-        "date_updated": 1762224123,
-        "date_posted": 1762224123,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Management-Senior-Associate--Commercial-Banking_R215222-1",
-        "locations": [
-            "McLean, VA",
-            "Richmond, VA",
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Qualcomm",
-        "id": "4d643091-2e61-4019-8b80-ae51617dbb10",
-        "title": "IT Engineer - Top Security Clearance Required - IT Engineering",
-        "active": false,
-        "date_updated": 1762224514,
-        "date_posted": 1762224514,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446715315862",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "37289888-5bd2-4491-996b-faa7f65c79a2",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1762224240,
-        "date_posted": 1762224240,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033987",
-        "locations": [
-            "Kelso, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -61804,24 +61675,6 @@
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Formlabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Park Dental",
-        "id": "a9b34c8d-56f1-49d6-aa73-d980731b647c",
-        "title": "Licensed Dental Hygienist - Plymouth West",
-        "active": false,
-        "date_updated": 1766140814,
-        "date_posted": 1762223518,
-        "url": "https://parkdentalcareers-parkdental.icims.com/jobs/5927/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Park-Dental",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -327283,7 +327136,7 @@
         "company_name": "Adobe",
         "id": "94553853-01a8-4ae7-8aff-21e02d826aa5",
         "title": "Software Development Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1781775165,
         "date_posted": 1781774746,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer-2_R169364-1",
@@ -331079,7 +330932,7 @@
         "company_name": "PNC Financial Services",
         "id": "768e4d7c-d1fc-4490-94ba-51a4efdf2cb3",
         "title": "Associate Software Engineer - Test",
-        "active": false,
+        "active": true,
         "date_updated": 1782138166,
         "date_posted": 1782137385,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Associate-Software-Engineer---Test_R221948-1",
@@ -342636,7 +342489,7 @@
         "company_name": "Unlimited Technology",
         "id": "b2255434-5efb-457c-8a38-b16d937509f2",
         "title": "Security Installation Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782945625,
         "date_posted": 1782167013,
         "url": "https://job-boards.greenhouse.io/unlimitedtechnology/jobs/5274943008",
@@ -343076,5 +342929,290 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CACI",
+        "id": "a486f855-def5-4be3-91d3-fcffc8d842ae",
+        "title": "Data Scientist for Analytics - Engineer/Scientist Support",
+        "active": true,
+        "date_updated": 1782961023,
+        "date_posted": 1782956169,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Norco-CA-US/Data-Scientist-for-Analytics--Engineer-Scientist-Support-_328426",
+        "locations": [
+            "Norco, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CACI",
+        "id": "246eeace-d38a-4899-b548-7d994f5c8653",
+        "title": "Computer Hardware Engineer 1",
+        "active": true,
+        "date_updated": 1782961174,
+        "date_posted": 1782956164,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Camp-Smith-HI-US/Computer-Hardware-Engineer-I_328438",
+        "locations": [
+            "Aberdeen, MD",
+            "Aiea, HI"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "d3a1c883-793a-46ea-ae31-39510f2442e6",
+        "title": "Structured Investments Operations - Trading Services Analyst",
+        "active": true,
+        "date_updated": 1782961023,
+        "date_posted": 1782956146,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761791",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "24979bc4-d08f-4065-b61b-3441f6415ba6",
+        "title": "Product Associate - Brokerage",
+        "active": true,
+        "date_updated": 1782961023,
+        "date_posted": 1782956149,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762291",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "16524a29-d4d9-4586-8450-b373b50ae311",
+        "title": "Change Management Engineer - Controls Engineer",
+        "active": true,
+        "date_updated": 1782960910,
+        "date_posted": 1782956088,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/Change-Management---Controls-Engineer_R5045878-1",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "4c5e215e-0cb9-4fe9-96f8-e3144750e300",
+        "title": "AI and Data Science Engineer",
+        "active": true,
+        "date_updated": 1782960854,
+        "date_posted": 1782956075,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Palantir-AI-and-Data-Science-Engineer/357597",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "667375dc-67d7-4f11-8345-f15f7251af23",
+        "title": "Software Engineering Graduate Programme",
+        "active": true,
+        "date_updated": 1782960675,
+        "date_posted": 1782956049,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/Software-Engineering-Graduate-Programme-1_R5045896-1",
+        "locations": [
+            "Rugby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "a0f6a0fe-5541-410c-89d4-a690c250ad4a",
+        "title": "GE Vernova Digital Technology Development Program",
+        "active": true,
+        "date_updated": 1782960303,
+        "date_posted": 1782956043,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Atlanta/GE-Vernova-Digital-Technology-Development-Program---US-2027_R5046158-3",
+        "locations": [
+            "Greenville, SC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trane Technologies",
+        "id": "4126dfc9-f400-4a64-a3e7-1373338d3289",
+        "title": "Application Engineer 1",
+        "active": true,
+        "date_updated": 1782960522,
+        "date_posted": 1782956029,
+        "url": "https://careers.tranetechnologies.com/global/en/job/JR-8943",
+        "locations": [
+            "Fort Smith, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Consulting Group",
+        "id": "06678afd-4cae-4ce7-968c-a5e8b3a56b8c",
+        "title": "AI Associate - BCG Platinion",
+        "active": true,
+        "date_updated": 1782960476,
+        "date_posted": 1782956020,
+        "url": "https://careers.bcg.com/global/en/job/789",
+        "locations": [
+            "Wenden, Germany",
+            "Hamburg, Germany",
+            "Neukirchen-Vluyn, Germany",
+            "Frankfurt, Germany",
+            "Stuttgart, Germany",
+            "Berlin, Germany",
+            "Munich, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "c4aa907f-14b1-42f7-ae4a-8f363448ed0b",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1782960385,
+        "date_posted": 1782956010,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant_REQ_0000079674-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "7051adbd-5d92-4bfe-88e5-e63bce5172a7",
+        "title": "Research Assistant: Artificial Intelligence - Cybersecurity - And Digital Trust Research",
+        "active": true,
+        "date_updated": 1782960372,
+        "date_posted": 1782956010,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Erie-The-Behrend-College/Part-Time-Research-Assistant--Artificial-Intelligence--Cybersecurity--and-Digital-Trust-Research_REQ_0000079573-1",
+        "locations": [
+            "Erie, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "76f71978-498c-4056-9c97-c822a125cc6f",
+        "title": "Computer Science and Engineering Researcher",
+        "active": true,
+        "date_updated": 1782960356,
+        "date_posted": 1782956008,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher-Hussain--S_REQ_0000079781-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "68e7e6fe-c2f2-4d0e-aef2-876c59df4aa6",
+        "title": "Web Designer and Developer w/ Dr Sabaghian",
+        "active": true,
+        "date_updated": 1782960303,
+        "date_posted": 1782956008,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Web-Designer-and-Developer-w--Dr-Sabaghian_REQ_0000079731-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
