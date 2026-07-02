@@ -1,23 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "LexisNexis Risk Solutions",
-        "id": "42e61775-f544-4875-aabf-780ba7476d36",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1762255239,
-        "date_posted": 1762255239,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Nottingham/Software-Engineer-1_R102845",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1762827880,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -16053,24 +16035,6 @@
             "Saskatoon, SK, Canada"
         ],
         "company_url": "https://simplify.jobs/c/EQ-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "HEXAWARE",
-        "id": "cace2e0d-4843-4ce5-94e8-aa333d4ffabe",
-        "title": "Java Full Stack Engineer - Associate Mavericks",
-        "active": false,
-        "date_updated": 1762255104,
-        "date_posted": 1762255104,
-        "url": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/547547",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/HEXAWARE",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -291565,7 +291529,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -296105,7 +296069,7 @@
         "company_name": "Integer Holdings Corporation",
         "id": "384d9167-9b17-415c-8688-f23c28147653",
         "title": "Calibration Technician / CMM Programmer",
-        "active": true,
+        "active": false,
         "date_updated": 1779957283,
         "date_posted": 1778942661,
         "url": "https://integer.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Calibration-Technician-III_R34989",
@@ -332935,7 +332899,7 @@
         "company_name": "Motorola",
         "id": "7d4e70c6-0b17-4ce9-b7bd-e3bc913a449b",
         "title": "Senior Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1782569636,
         "date_posted": 1782569322,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Sr-Data-Scientist_R65511",
@@ -340707,7 +340671,7 @@
         "company_name": "GE Healthcare",
         "id": "c3f895b7-9c28-4e91-bf07-a2ce931f2efb",
         "title": "IGS Calibration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782901489,
         "date_posted": 1782857140,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/IGS-Calibration-Engineer_R4041210-2",
@@ -345142,6 +345106,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ancestry",
+        "id": "7ff2bfdc-c0f7-4d3b-9cc7-c2eae7f22986",
+        "title": "Postdoctoral Research Fellow - AI Native Agentic Document Analysis",
+        "active": true,
+        "date_updated": 1782990633,
+        "date_posted": 1782338810,
+        "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Postdoctoral-Fellow---Applied-AI---Document-Understanding_R003380",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ancestry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
