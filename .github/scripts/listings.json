@@ -291708,7 +291708,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -309958,7 +309958,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -325289,7 +325289,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -326994,7 +326994,7 @@
         "company_name": "Microsoft",
         "id": "a6ab1df3-86d8-42bb-b220-97ec8c92cba2",
         "title": "Software Engineer - Ctj - Poly",
-        "active": true,
+        "active": false,
         "date_updated": 1781763081,
         "date_posted": 1781762785,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
@@ -344820,5 +344820,166 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "ae2ced0f-f2e0-45de-9937-89deb69a3565",
+        "title": "Software Engineer-Systems",
+        "active": true,
+        "date_updated": 1782972901,
+        "date_posted": 1782972444,
+        "url": "https://jobs.apple.com/en-us/details/200669153",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "b52f842d-ff90-4d05-a6fd-09eed56e5c3a",
+        "title": "Custom Timing and Verification CAD Engineer",
+        "active": true,
+        "date_updated": 1782972543,
+        "date_posted": 1782972424,
+        "url": "https://jobs.apple.com/en-us/details/200669990",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "67261498-8687-4b27-9544-79877952e397",
+        "title": "Graphics Software Content Engineer",
+        "active": true,
+        "date_updated": 1782972543,
+        "date_posted": 1782972459,
+        "url": "https://jobs.apple.com/en-us/details/200669452",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "1ef9a4b7-60e3-4375-a415-39ae5148988a",
+        "title": "Custom Timing and Verification CAD Engineer",
+        "active": true,
+        "date_updated": 1782972543,
+        "date_posted": 1782972445,
+        "url": "https://jobs.apple.com/en-us/details/200669836",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "0ad7f4c0-4ab8-4bed-8204-15a557a79c1e",
+        "title": "Darwin Runtime Engineer - Core OS",
+        "active": true,
+        "date_updated": 1782972543,
+        "date_posted": 1782972499,
+        "url": "https://jobs.apple.com/en-us/details/200668853",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "9d80dcec-6341-43f7-a6ea-4ea2b608bf7f",
+        "title": "Early Career Power Management Unit Digital Design Engineer",
+        "active": true,
+        "date_updated": 1782972727,
+        "date_posted": 1782972389,
+        "url": "https://jobs.apple.com/en-us/details/200670466",
+        "locations": [
+            "Swindon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Worcester Polytechnic Institute",
+        "id": "803986e2-50b9-4eb1-8f26-7078743c0763",
+        "title": "Assistant Professor",
+        "active": true,
+        "date_updated": 1782972181,
+        "date_posted": 1782972072,
+        "url": "https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Assistant-Professor_R0003517",
+        "locations": [
+            "Worcester, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Worcester-Polytechnic-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "MassMutual Ascend",
+        "id": "bf1afcd5-7183-4d7b-857c-8dfbf306f6ef",
+        "title": "Quantitative Developer",
+        "active": true,
+        "date_updated": 1782972181,
+        "date_posted": 1782972129,
+        "url": "https://massmutual.wd1.myworkdayjobs.com/MMCareers/job/New-York-NY/Quantitative-Developer_R20872",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/MassMutual-Ascend",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
