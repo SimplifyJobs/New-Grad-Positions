@@ -9893,7 +9893,7 @@
         "company_name": "Ciena",
         "id": "d26ce57a-9f65-4a82-af45-1e1f59ea6111",
         "title": "Digital Verification Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1762820446,
         "date_posted": 1762820446,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/US--NY--Pittsford--1250-Pittsford-Victor-Road-Rochester/Digital-Verification-Engineer_R029443",
@@ -301125,7 +301125,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -310144,7 +310144,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -323065,7 +323065,7 @@
         "company_name": "Goldman Sachs",
         "id": "a3ee586e-9f97-4009-92cc-dc4affda3b3a",
         "title": "Asset & Wealth Management - Quantitative Investment Strategies - ETF Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781648474,
         "date_posted": 1781638708,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176625",
@@ -342746,5 +342746,85 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Brain Corp",
+        "id": "56c57ee6-fac8-40fb-ab8a-a18309da33c6",
+        "title": "Software Engineer 1 - SW Applications",
+        "active": true,
+        "date_updated": 1782955326,
+        "date_posted": 1782955211,
+        "url": "https://braincorp.com/open-positions?gh_jid=8617160002",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Brain-Corp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Airbnb",
+        "id": "1b9c1f91-ca52-4298-9890-c44895c6b362",
+        "title": "Machine Learning Engineer - Relevance and Personalization",
+        "active": true,
+        "date_updated": 1782955261,
+        "date_posted": 1782955028,
+        "url": "https://careers.airbnb.com/positions/7708224?gh_jid=7708224",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbnb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amigo AI",
+        "id": "bad566bd-bfda-4a7e-8bd8-6e06ac6073e5",
+        "title": "Applied AI Engineer",
+        "active": true,
+        "date_updated": 1782954721,
+        "date_posted": 1782954560,
+        "url": "https://jobs.ashbyhq.com/amigo/77e12c0a-e623-4988-8c60-78e3017f0876/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Amigo-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Catapult",
+        "id": "a7d56918-0a89-4b8c-a3d3-4dcc3fe93452",
+        "title": "Gameday Video Technician",
+        "active": true,
+        "date_updated": 1782954726,
+        "date_posted": 1776907043,
+        "url": "https://job-boards.greenhouse.io/catapultsports/jobs/7794337",
+        "locations": [
+            "Nashville, TN",
+            "Columbia, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/4f931141-5573-4422-b005-60fe4fff1293",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
