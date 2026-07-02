@@ -20,42 +20,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "McDonald's",
-        "id": "d68e6692-037c-439c-8467-e1782471d327",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1762779094,
-        "date_posted": 1762273828,
-        "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1322913300/?ats=successfactors",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/McDonald",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "McDonald's",
-        "id": "b3ae3dcc-9d58-4df0-9e68-cdd089f8e648",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1762779061,
-        "date_posted": 1762273839,
-        "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1322906200/?ats=successfactors",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/McDonald",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Graphcore",
         "id": "b1bea4c8-6a49-481a-b7df-344e8de8ae75",
         "title": "2026 Graduate Software Engineer - Pytorch",
@@ -91,42 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Seagate Technology ",
-        "id": "10fb1ffb-603e-4227-a4cc-b8103fed973e",
-        "title": "Test Process Firmware Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1762273544,
-        "date_posted": 1762273544,
-        "url": "https://seagatecareers.com/job/Longmont-Test-Process-Firmware-Engineer-Early-Career-CO-80501/1340168000/?ats=successfactors",
-        "locations": [
-            "Longmont, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Seagate-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "McDonald's",
-        "id": "0b3eb928-d5d5-43ff-baa6-3ba6523abdbc",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1762779447,
-        "date_posted": 1762273832,
-        "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1322930700/?ats=successfactors",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/McDonald",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Graphcore",
         "id": "a830a7a4-b450-4201-bfda-2fa9020a48af",
@@ -139,24 +67,6 @@
             "Cambridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/Graphcore",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "9699ba82-ee3c-4794-94cd-eb1b3e5cf329",
-        "title": "Firmware Engineer I - Onsite",
-        "active": false,
-        "date_updated": 1762273568,
-        "date_posted": 1762273568,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA802-Marlborough-MA-Building-1-1001-Boston-Post-Road-Building-1-Marlborough-MA-01752-USA/Firmware-Engineer-I--Onsite-_01798097",
-        "locations": [
-            "Marlborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -15643,42 +15553,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Camlin",
-        "id": "7daa50c9-b963-4e35-80c3-48ccdaf45f69",
-        "title": "Service Technician",
-        "active": false,
-        "date_updated": 1762273069,
-        "date_posted": 1762273069,
-        "url": "https://ats.rippling.com/camlin-careers/jobs/c51322b0-655f-4b22-9cba-f4616aa90fc5",
-        "locations": [
-            "Coventry, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Camlin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Motorola",
-        "id": "4b94c7c1-90db-4f0d-9f8a-ba763ecb4681",
-        "title": "Graduate Embedded Software Engineer",
-        "active": false,
-        "date_updated": 1762273584,
-        "date_posted": 1762273584,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK126/Graduate-Embedded-Software-Engineer_R57587",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "e9f3d039-c39f-47d1-8da7-14b6009f4260",
@@ -15823,24 +15697,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Keyrock",
-        "id": "fd82f0e3-eba2-4ce1-a147-311886d710ba",
-        "title": "Graduate Digital Assets Trader - FX Market Making",
-        "active": false,
-        "date_updated": 1762273492,
-        "date_posted": 1762273492,
-        "url": "https://jobs.ashbyhq.com/keyrock/e4405304-1344-4a0e-a9cc-6390347df5bf/application",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Keyrock",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Amentum",
         "id": "2e35cf4d-9580-4a14-b5e1-20c8178bae5d",
@@ -15871,44 +15727,6 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Makpar",
-        "id": "84b8fddc-a386-4f67-a497-f1d6d027ee80",
-        "title": "Tier 1 Service Desk Specialist",
-        "active": false,
-        "date_updated": 1762273163,
-        "date_posted": 1762273163,
-        "url": "https://jobs.lever.co/makpar/b6d0f342-a3f9-4977-bc3b-4d99cd29c16a/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Makpar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "EQ Bank",
-        "id": "abd4f2a6-508d-4e03-8db3-746eabb66d15",
-        "title": "Technology Workplace Services Technician",
-        "active": false,
-        "date_updated": 1762272983,
-        "date_posted": 1762272983,
-        "url": "https://jobs.lever.co/eqbank/01fcce26-fee1-4fc9-a354-1b7b3e0ad8c2/apply",
-        "locations": [
-            "Saskatoon, SK, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/EQ-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -29135,24 +28953,6 @@
             "Kansas City, MO"
         ],
         "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Man Group",
-        "id": "3dc0c4ab-5530-4c89-a624-3ce9c9486147",
-        "title": "Python Associate Engineer",
-        "active": false,
-        "date_updated": 1763719700,
-        "date_posted": 1762273072,
-        "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4688792101",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Man-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -122797,27 +122597,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Jensen Hughes",
-        "id": "dff41bfa-3ee0-4faf-b1c9-2774ccfa274a",
-        "title": "Pra and Psa",
-        "active": false,
-        "date_updated": 1770333593,
-        "date_posted": 1762273323,
-        "url": "https://job-boards.greenhouse.io/jensenhughes/jobs/4961263008",
-        "locations": [
-            "Morrisville, NC",
-            "North Bethesda, MD",
-            "Fairfax, VA",
-            "Columbia, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Jensen-Hughes",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
