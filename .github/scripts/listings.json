@@ -2,42 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Truveta",
-        "id": "58aa995f-5b36-476b-8bd9-07ad92d7ff13",
-        "title": "Software Engineer \u2013 Entry Level - Imaging Services",
-        "active": false,
-        "date_updated": 1762325107,
-        "date_posted": 1762213391,
-        "url": "https://job-boards.greenhouse.io/truveta/jobs/5696523004",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Truveta",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Keysight Technologies",
-        "id": "647ea1f4-86f5-48c7-aba3-1fbfe45e186e",
-        "title": "Entry Level R&D Software Engineer",
-        "active": false,
-        "date_updated": 1762212717,
-        "date_posted": 1762212717,
-        "url": "https://jobs.keysight.com/jobs/50042?lang=en-us&icims=1",
-        "locations": [
-            "Santa Rosa, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Intuit",
         "id": "f15f9ecd-dae5-45ab-b82f-1352a8b50521",
         "title": "Software Engineer 1",
@@ -16343,277 +16307,6 @@
             "Kelso, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "American Express",
-        "id": "6e8f9ad1-aed3-4df8-971e-3b0ad8359da3",
-        "title": "Senior Analyst - U.S. Platinum Card Product Management",
-        "active": false,
-        "date_updated": 1762213915,
-        "date_posted": 1762213915,
-        "url": "https://aexp.eightfold.ai/careers/job/38715853",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "03b505f7-7441-454a-8eca-6c1937b2af26",
-        "title": "Machine Learning Scientist - Natural Language Processing - Machine Learning Center of Excellence",
-        "active": false,
-        "date_updated": 1762213814,
-        "date_posted": 1762213814,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210682815",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Excel Sports Management",
-        "id": "0c8ae2fc-5f39-4fe4-857b-edfeb600569b",
-        "title": "Associate - Analytics",
-        "active": false,
-        "date_updated": 1762818642,
-        "date_posted": 1762212744,
-        "url": "https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4625397005",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Excel-Sports-Management",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fortinet",
-        "id": "dca0dcff-2025-44b1-8695-665eaa86a511",
-        "title": "AI Researcher - Fortideceptor",
-        "active": false,
-        "date_updated": 1763114455,
-        "date_posted": 1762213396,
-        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/21140",
-        "locations": [
-            "Burnaby, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Fortinet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "3M",
-        "id": "ffde935e-f37e-4152-aa8f-246419cf0c4f",
-        "title": "Product Engineer",
-        "active": false,
-        "date_updated": 1762213776,
-        "date_posted": 1762213776,
-        "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Product-Engineer_R01158471",
-        "locations": [
-            "Woodbury, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/3M",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Broadridge",
-        "id": "f6e22672-4d0b-4c07-a630-ea544e0fee8c",
-        "title": "Associate Product Analyst - Edgewood (NY)",
-        "active": false,
-        "date_updated": 1762213750,
-        "date_posted": 1762213750,
-        "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Edgewood-NY/Associate-Product-Analyst--Hybrid---Edgewood--NY-_JR1077392",
-        "locations": [
-            "Catskill, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Broadridge",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e29f07c3-f0cc-480b-bf48-f628948349a6",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1762213444,
-        "date_posted": 1762213444,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033975",
-        "locations": [
-            "Wellington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cirrus Logic",
-        "id": "29a6e44e-30fc-4fd3-bc77-79ecea0673d4",
-        "title": "Engineering Technician",
-        "active": false,
-        "date_updated": 1762213432,
-        "date_posted": 1762213432,
-        "url": "https://jobs.eu.lever.co/cirrus/aadd768d-465f-4938-940c-9978ada7c38b/apply",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Cirrus-Logic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vanderlande Industries",
-        "id": "1cd80650-d6dd-4af2-af34-ee7f5a314adb",
-        "title": "Mechanic Mechatronic 3",
-        "active": false,
-        "date_updated": 1762213344,
-        "date_posted": 1762213344,
-        "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/White/Mechanic-Mechatronic-III_JR34404-1",
-        "locations": [
-            "Council Bluffs, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/7ab55595-a241-4468-bf77-178371480131",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AspenTech",
-        "id": "0432ce3d-f0b7-41bd-94cc-4ee0d7273d15",
-        "title": "Associate Software Developer",
-        "active": false,
-        "date_updated": 1762213616,
-        "date_posted": 1762213616,
-        "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Associate-Software-Developer_R8050",
-        "locations": [
-            "Wayzata, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/AspenTech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "BlackRock",
-        "id": "de8f52e2-78ba-4148-aff9-89119d279b03",
-        "title": "Cyber Security Intern",
-        "active": false,
-        "date_updated": 1762929126,
-        "date_posted": 1762213166,
-        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Edinburgh-Scotland/Cyber-Security-12-Month-Placement-Programme---2026-Cohort_R257714",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/BlackRock",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Veterans United",
-        "id": "cfc2ec98-5c1a-49ae-a85a-6a5903acec48",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1762213180,
-        "date_posted": 1762213180,
-        "url": "https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Associate-Software-Engineer_R5288",
-        "locations": [
-            "Missouri"
-        ],
-        "company_url": "https://simplify.jobs/c/Veterans-United",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "3d4f8782-3170-4704-971b-3e8f780467cd",
-        "title": "Electromechanical Engineer - Level 2 or 3",
-        "active": false,
-        "date_updated": 1762213056,
-        "date_posted": 1762213056,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Electromechanical-Engineer--Level-2-or-3-_R10213234",
-        "locations": [
-            "Aurora, CO",
-            "Cherry Hills Village, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Optiv",
-        "id": "88b87049-44db-467f-a96b-d0aa2ac3317e",
-        "title": "Consultant - Incident Response",
-        "active": false,
-        "date_updated": 1762212816,
-        "date_posted": 1762212816,
-        "url": "https://optiv.wd5.myworkdayjobs.com/optiv_careers/job/Toronto-Ontario/Consultant---Incident-Response---Remote--CAN_2025-13222",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Optiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Conduent",
-        "id": "28d248dd-ecea-4be0-b25d-9c5bd55dbfb5",
-        "title": "Service Technician Associate",
-        "active": false,
-        "date_updated": 1762212951,
-        "date_posted": 1762212951,
-        "url": "https://egua.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/17677",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Conduent",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -40050,24 +39743,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "EUNA Solutions",
-        "id": "200bde5e-f205-446e-8769-16e4c01ff06d",
-        "title": "Associate Technical Solution Specialist",
-        "active": false,
-        "date_updated": 1762213489,
-        "date_posted": 1762213489,
-        "url": "https://euna.bamboohr.com/careers/488/",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/86636c38-0e05-4ec1-b699-ea03e743f151",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -275738,7 +275413,7 @@
         "company_name": "DAT Freight & Analytics",
         "id": "8aba2157-0b80-47b7-8504-24aed69dd39e",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778797932,
         "date_posted": 1778797054,
         "url": "https://careers.dat.com/jobs/5990621004?gh_jid=5990621004",
@@ -301285,27 +300960,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cirrus Logic",
-        "id": "348dc6c6-c4fa-47db-b0f5-cc15b76b2e27",
-        "title": "Entry Level Failure Analysis Engineer",
-        "active": true,
-        "date_updated": 1780388821,
-        "date_posted": 1762213437,
-        "url": "https://jobs.eu.lever.co/cirrus/e03b0b61-bed5-4bb4-9937-a50fdfd1f971/apply",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Cirrus-Logic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -336987,7 +336641,7 @@
         "company_name": "Altamira Technologies",
         "id": "aee5f911-65e6-4c42-95c1-e8c2702c7382",
         "title": "Software Engineer - Multiple Levels",
-        "active": true,
+        "active": false,
         "date_updated": 1782828721,
         "date_posted": 1782828548,
         "url": "https://jobs.jobvite.com/altamiracorps/job/obCpAfww?nl=1&nl=1&fr=false",
@@ -341821,7 +341475,7 @@
         "company_name": "RTX",
         "id": "a5e72fb8-b288-4f48-98d7-d3083964de7e",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782944950,
         "date_posted": 1782943591,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01856767",
@@ -343047,6 +342701,46 @@
             "Essex, MD"
         ],
         "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WebFX",
+        "id": "d976fc06-b431-419f-8dcf-be9c0a1ff03e",
+        "title": "Junior Front-End Web Developer",
+        "active": true,
+        "date_updated": 1781735841,
+        "date_posted": 1781734256,
+        "url": "https://jobs.lever.co/webfx/e424e486-c772-443b-98cf-9088fef288d1/apply",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/WebFX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WebFX",
+        "id": "ab02ee55-a577-453a-bb9f-7cd2320ae755",
+        "title": "Junior Backend Software Engineer - Nutshell CRM - AWS & React Native",
+        "active": true,
+        "date_updated": 1781735844,
+        "date_posted": 1781734256,
+        "url": "https://jobs.lever.co/webfx/497bb548-b7d7-4aff-b87b-da9dcc8fbcc8/apply",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/WebFX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
