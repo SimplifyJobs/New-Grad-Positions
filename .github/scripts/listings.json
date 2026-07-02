@@ -334939,7 +334939,7 @@
         "company_name": "Guidewire",
         "id": "446847d3-29b2-4c3c-b983-f4e2203fc1ec",
         "title": "Associate Certification Program Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782868406,
         "date_posted": 1782770934,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946",
@@ -335077,7 +335077,7 @@
         "company_name": "RTX",
         "id": "e6f1a068-5885-43cd-830b-d0f062dbd2d8",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782868303,
         "date_posted": 1782868032,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-1---Engine-Indication---Crew-Alerting-Systems--Onsite-_01848535-2",
@@ -345183,5 +345183,90 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "e9a77d3a-1f5c-4f3c-8883-575121ae1905",
+        "title": "FPGA Systems Development Engineer",
+        "active": true,
+        "date_updated": 1783002781,
+        "date_posted": 1783001195,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Denmark-Copenhagen/FPGA-Systems-Development-Engineer_R263331",
+        "locations": [
+            "Durham, NC",
+            "North Carolina",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Rex Solutions",
+        "id": "20565db4-0f8e-456e-b6e3-4c484757c633",
+        "title": "Software Engineer Level 0",
+        "active": true,
+        "date_updated": 1783002781,
+        "date_posted": 1783001674,
+        "url": "https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8617784002",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Rex-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Royal Bank of Canada",
+        "id": "9655465c-4a38-4df0-85f9-a6b2e7ef3e34",
+        "title": "Investment Analyst Emerging Markets",
+        "active": true,
+        "date_updated": 1783002781,
+        "date_posted": 1783001650,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Investment-Analyst-Emerging-Markets_R-0000179088",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Clarity Innovations",
+        "id": "ff966379-204b-4e1a-b720-8443d3c7bb31",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1783002961,
+        "date_posted": 1781791880,
+        "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5167161007",
+        "locations": [
+            "Fort Bragg, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Clarity-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
