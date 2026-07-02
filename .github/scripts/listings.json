@@ -261499,7 +261499,7 @@
         "company_name": "Cummins",
         "id": "c7e6c373-c961-465c-a80b-46778c5f9117",
         "title": "Marine Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777932541,
         "date_posted": 1777932380,
         "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2427766",
@@ -304838,7 +304838,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -319527,7 +319527,7 @@
         "company_name": "RTX",
         "id": "703cda76-22ba-4087-a142-4fe4289646b5",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781303671,
         "date_posted": 1781302293,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01851415-1",
@@ -325289,7 +325289,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -329384,7 +329384,7 @@
         "company_name": "Johnson Controls",
         "id": "a96e051e-0011-414a-ac15-bede853f8700",
         "title": "Equipment Systems Application Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781879102,
         "date_posted": 1781878439,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Greenville-Wisconsin-United-States-of-America/Equipment-Systems-Application-Engineer-I_WD30272609",
@@ -344044,6 +344044,283 @@
             "Warner Robins, GA"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johnson Controls",
+        "id": "e4d9e3c8-7459-42cf-b37c-47533e01e9a0",
+        "title": "Equipment Systems Application Engineer 1",
+        "active": true,
+        "date_updated": 1782966491,
+        "date_posted": 1782963863,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Indianapolis-Indiana-United-States-of-America/Equipment-Systems-Application-Engineer-I_WD30272554",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Medtronic",
+        "id": "b3b83c58-e736-4c63-a10a-0797b5ac108e",
+        "title": "Service Center Repair Technician 1 - Medical Devices",
+        "active": true,
+        "date_updated": 1782966518,
+        "date_posted": 1782963878,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fort-Worth-Texas-United-States-of-America/Service-Center-Repair-Technician-I--Medical-Devices-_R70809",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TD Bank",
+        "id": "3ba0ebf7-43e0-40de-bde4-25584559ef46",
+        "title": "Software Engineer 1 - Financial Planning",
+        "active": true,
+        "date_updated": 1782966406,
+        "date_posted": 1782963711,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I---Financial-Planning_R_1495272-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TD Bank",
+        "id": "ca4b29e0-7309-4e81-aca2-e9ae554f52c4",
+        "title": "Software Engineer 1 - Mobile Backend Development",
+        "active": true,
+        "date_updated": 1782966342,
+        "date_posted": 1782963684,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Mobile-Backend-Development-_R_1495757",
+        "locations": [
+            "Toronto, ON, Canada",
+            "London, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CenturyLink",
+        "id": "03e32737-6a98-4604-b36e-6eb50e4e0c40",
+        "title": "Telecommunication Technician",
+        "active": true,
+        "date_updated": 1782966061,
+        "date_posted": 1782963079,
+        "url": "https://internaljobs.centurylink.com/job/PORTLAND-Telecommunication-Technician-OR-97219/1405163800/?ats=successfactors",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/CenturyLink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "f9611d49-1136-49a8-b63f-ea9127d7838b",
+        "title": "Software Programmer Entry Level",
+        "active": true,
+        "date_updated": 1782966222,
+        "date_posted": 1782963576,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Software-Programmer---Entry-Level_R0164277",
+        "locations": [
+            "Tullahoma, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "6325294f-89f1-4a61-a0fb-ae76db1cde32",
+        "title": "Electronics Technician",
+        "active": true,
+        "date_updated": 1782965343,
+        "date_posted": 1782963562,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Electronics-Technician_R0164339",
+        "locations": [
+            "Bedford, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "c3dea2d7-279c-4e0e-bda1-9787607a3028",
+        "title": "Research Engineer 1",
+        "active": true,
+        "date_updated": 1782966065,
+        "date_posted": 1782963451,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-ARLINGTON-111--1300-17Th-St-N--BBN-ARLINGTON/XMLNAME-2026-Research-Engineer-I---Arlington--VA---Cambridge--MA---Hybrid_01855555",
+        "locations": [
+            "Cambridge, MA",
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "b8af76ed-8784-40c4-9d9b-e32f8f7c1473",
+        "title": "Systems Engineer 1 - String Engineer",
+        "active": true,
+        "date_updated": 1782966054,
+        "date_posted": 1782963450,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineer-I--String-Engineer-Onsite_01855457",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Clera",
+        "id": "39a91d92-be2d-4346-9d17-b67a06c04f27",
+        "title": "Forward Deployed Engineer - Founding Customer Engineer",
+        "active": true,
+        "date_updated": 1782965343,
+        "date_posted": 1782963252,
+        "url": "https://jobs.ashbyhq.com/clera/f255a0a1-8862-4bb2-9d03-37fe71d8c7f3/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Clera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "14e0c9c2-b9ec-416d-8e8a-452d848306ca",
+        "title": "FPGA Systems Development Engineer",
+        "active": true,
+        "date_updated": 1782965343,
+        "date_posted": 1782963244,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/FPGA-Systems-Development-Engineer_R262943",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "12280112-ccfd-4d29-a80d-d41cb055a35f",
+        "title": "Onsite Administrator Level 1 - Printer Technician",
+        "active": true,
+        "date_updated": 1782965911,
+        "date_posted": 1782963225,
+        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/All-Cities-Maryland-United-States-of-America/Onsite-Administrator-Level-I--Printer-Technician---Linthicum-Heights-MD_3164513",
+        "locations": [
+            "Halethorpe, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jobs for Humanity",
+        "id": "0b519d74-ea21-41a2-9b41-447d26d9a09a",
+        "title": "Data Entry Administrator / Customer Service Data Processing Assistant",
+        "active": true,
+        "date_updated": 1782964622,
+        "date_posted": 1782962945,
+        "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000133705739",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobs-For-Humanity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Marsh & McLennan",
+        "id": "9b4c86fa-2040-457a-a98e-c8552dca332e",
+        "title": "Investment Alternatives Analyst",
+        "active": true,
+        "date_updated": 1782965455,
+        "date_posted": 1782962835,
+        "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/London---Tower-Place-West/Alternatives-Investment-Analyst_R_352318",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Marsh-McLennan",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
