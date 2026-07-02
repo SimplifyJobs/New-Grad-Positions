@@ -7635,7 +7635,7 @@
         "company_name": "Leidos",
         "id": "de6e3580-a3fb-4a6a-b4af-bd24bb0e1f6c",
         "title": "PCBA Soldering Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1762915565,
         "date_posted": 1762915565,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Aoldering-Technician_R-00170309",
@@ -25769,7 +25769,7 @@
         "company_name": "Cisco",
         "id": "5199b683-6293-4db7-9b3b-04a3a15cb801",
         "title": "Software Engineer Data/AI/Intelligent Systems 1",
-        "active": false,
+        "active": true,
         "date_updated": 1763664375,
         "date_posted": 1763664375,
         "url": "https://careers.cisco.com/global/en/job/2000073",
@@ -83830,7 +83830,7 @@
         "company_name": "Blue Origin",
         "id": "1f09ccb3-72fa-4832-b7a2-54bce9aa0813",
         "title": "Avionics Software \u2013 Early Career - Embedded - Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1768179585,
         "date_posted": 1768179585,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics-Software--Embedded--Engineer-I---Early-Career--2026-Starts-_R58482",
@@ -216779,7 +216779,7 @@
         "company_name": "Agoda",
         "id": "b9c4a46f-2b41-4f0f-a9fa-7ba2e07f2f51",
         "title": "Supply Analytics Senior Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1775111401,
         "date_posted": 1773988105,
         "url": "https://job-boards.greenhouse.io/agoda/jobs/7698911",
@@ -342826,5 +342826,234 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Genuine Parts Company",
+        "id": "315a995c-68f2-421b-a0f3-fb06cfb4fd63",
+        "title": "Motion Automation Intelligence-Application Engineer",
+        "active": true,
+        "date_updated": 1782957421,
+        "date_posted": 1782957181,
+        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Eden-Prairie-MN-USA/Motion-Ai--Senior-Application-Engineer_R25_0000033573",
+        "locations": [
+            "Eden Prairie, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "96f783a6-38d7-4533-a747-e97f4329f028",
+        "title": "Software Engineer Simulation",
+        "active": true,
+        "date_updated": 1782957360,
+        "date_posted": 1782956651,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Software-Engineer-Simulation--Simulation-_JR2026510876-2",
+        "locations": [
+            "Mesa, AZ",
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "564176c6-4df9-4388-9981-5734c8cb5bff",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1782957031,
+        "date_posted": 1782956495,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Jr-Software-Developer_R-00179871",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Emory Healthcare",
+        "id": "568d0223-8a99-430c-88c6-7b7dead047e0",
+        "title": "Data Analyst 2 - Supply Chain",
+        "active": true,
+        "date_updated": 1782956563,
+        "date_posted": 1782955958,
+        "url": "https://non-clinical-emory.icims.com/jobs/150075/job?hub=14&mobile=true&needsRedirect=false",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Emory-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "e56f33f6-3f6b-42f9-b90f-94ac8b2b473c",
+        "title": "Electrical Testing Technician",
+        "active": true,
+        "date_updated": 1782956426,
+        "date_posted": 1782955917,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20275837",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "b0f5edad-9fc1-46e2-9a54-817c32bd3c90",
+        "title": "GE Vernova Digital Technology Development Program",
+        "active": true,
+        "date_updated": 1782955982,
+        "date_posted": 1782955928,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-Digital-Technology-Development-Program---US-2027_R5046158-1",
+        "locations": [
+            "Greenville, SC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "e10b2cda-4d20-4210-83d8-f845503f8fb6",
+        "title": "Software Engineering Graduate Programme",
+        "active": true,
+        "date_updated": 1782956462,
+        "date_posted": 1782955928,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rugby/Software-Engineering-Graduate-Programme-1_R5045896-2",
+        "locations": [
+            "Rugby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vertiv",
+        "id": "7c39ac7e-0e21-4d1a-a728-c3f745ea9918",
+        "title": "Associate Application Engineer - AC Power",
+        "active": true,
+        "date_updated": 1782955982,
+        "date_posted": 1782955924,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20275273",
+        "locations": [
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sysco",
+        "id": "3269d503-bd18-4d81-adef-c0e31d44d822",
+        "title": "Associate Web Developer - NET",
+        "active": true,
+        "date_updated": 1782955982,
+        "date_posted": 1782955864,
+        "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Edward-Don--Company---Woodridge---IL/Associate-Web-Developer--Net-_R253464",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Sysco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Emory Healthcare",
+        "id": "4586102e-6794-4500-8258-2f0a102e421c",
+        "title": "Data Analyst 2",
+        "active": true,
+        "date_updated": 1782956270,
+        "date_posted": 1782955835,
+        "url": "https://non-clinical-emory.icims.com/jobs/169212/job?hub=14&mobile=true&needsRedirect=false",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Emory-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salesforce",
+        "id": "2306c8cb-5299-4e79-9eb0-b728d55ed1ca",
+        "title": "Software Engineering MTS - Salesforce Engineer",
+        "active": true,
+        "date_updated": 1782956023,
+        "date_posted": 1782955874,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Salesforce-Developer_JR318246",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
     }
 ]
