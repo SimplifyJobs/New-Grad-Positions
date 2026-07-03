@@ -14644,24 +14644,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Super Micro Computer",
-        "id": "46fa3e87-1864-498b-913e-2b738545321e",
-        "title": "Engineering Technician",
-        "active": false,
-        "date_updated": 1762332914,
-        "date_posted": 1762332914,
-        "url": "https://jobs.supermicro.com/job/San-Jose-Engineering-Technician-Cali/1340417400/?ats=successfactors",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Super-Micro-Computer",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "JP Morgan Chase",
         "id": "98128452-c760-49b8-a256-577e95b383ee",
@@ -14692,61 +14674,6 @@
             "Bethesda, MD"
         ],
         "company_url": "https://simplify.jobs/c/Marriott-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "c5f7376e-151e-4bc5-b96a-3925254d92de",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1762333270,
-        "date_posted": 1762333270,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400034362",
-        "locations": [
-            "Edinburgh, UK",
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "93fe54fe-d9d2-4ef3-a2f1-738e86ca3e41",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1762333267,
-        "date_posted": 1762333267,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400034368",
-        "locations": [
-            "Exeter, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "fe9ec327-4e20-4580-b4ab-2c5386ccd008",
-        "title": "Software Program Analyst",
-        "active": false,
-        "date_updated": 1762921438,
-        "date_posted": 1762332905,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Luis-Obispo-CA/Part-Time-Software-Program-Analyst_JR2025479448-1",
-        "locations": [
-            "San Luis Obispo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -16998,24 +16925,6 @@
             "Portsmouth, UK"
         ],
         "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Waters Corporation",
-        "id": "05264de0-373c-48bc-8571-02d656b0d9e2",
-        "title": "Instrument Technician",
-        "active": false,
-        "date_updated": 1763191592,
-        "date_posted": 1762332148,
-        "url": "https://uscareers-waters.icims.com/jobs/23759/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Franklin, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Waters-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -241066,7 +240975,7 @@
         "company_name": "University of Texas at Austin",
         "id": "0a2c27c4-783b-47bb-9b5f-ae9f5bf46d0b",
         "title": "Hydrographic Survey Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776522107,
         "date_posted": 1776521479,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Hydrographic-Survey-Analyst_R_00043224",
@@ -265799,7 +265708,7 @@
         "company_name": "Fortinet",
         "id": "0f8b69bb-cbbb-4949-b2a7-23aa41726134",
         "title": "Software Developer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1778192655,
         "date_posted": 1778191637,
         "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22818",
@@ -318945,7 +318854,7 @@
         "company_name": "GE Healthcare",
         "id": "21ab0f3d-c575-482f-9952-f8529ee4f32d",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781356773,
         "date_posted": 1781344806,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4041925-1",
@@ -327529,7 +327438,7 @@
         "company_name": "GE Healthcare",
         "id": "24ee3d12-9b35-4c67-a394-f7756e2d8ef9",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781858628,
         "date_posted": 1781344839,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4041924-1",
@@ -329118,7 +329027,7 @@
         "company_name": "Acrisure",
         "id": "17eb8a6f-67ab-442f-927c-a803b6d8f192",
         "title": "Product Success Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1782117830,
         "date_posted": 1781917892,
         "url": "https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/816-Congress-Ave-Ste-1800----AUSTIN-TX/Product-Success-Specialist_JR113606",
@@ -343432,7 +343341,7 @@
         "company_name": "Magna",
         "id": "0b9077af-1b4f-4d09-89aa-68f71d6dfc1e",
         "title": "Camera & Vision Systems Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1782981300,
         "date_posted": 1782957253,
         "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Piedmont-South-Carolina-US/Camera---Vision-Systems-Specialist_R00248948",
@@ -343513,7 +343422,7 @@
         "company_name": "Seagate Technology ",
         "id": "43c1d1fd-08c0-4d52-b478-2b03c8895b08",
         "title": "Wafer Sustaining Engineer 1 - Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1782982471,
         "date_posted": 1778922216,
         "url": "https://seagatecareers.com/job/Bloomington-Wafer-Sustaining-Engineer-I-Early-Career-MN/1356284900/?ats=successfactors",
@@ -345578,6 +345487,44 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Maven-Clinic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "122774c3-e3bb-4ef2-8ca6-8060398c2d9e",
+        "title": "Guidance and Control Engineer",
+        "active": true,
+        "date_updated": 1783068409,
+        "date_posted": 1782955985,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Guidance-and-Control-Engineer_REQ_0000070656-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Saviynt",
+        "id": "48abe8fa-aa3f-4ae9-99a8-e0bfd63d3f59",
+        "title": "Principal Software Engineer - Customer Engineering",
+        "active": true,
+        "date_updated": 1783068661,
+        "date_posted": 1777932467,
+        "url": "https://jobs.lever.co/saviynt/bb180ca7-954c-4c5b-8e9f-a388ae695f7c/apply",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Saviynt",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
