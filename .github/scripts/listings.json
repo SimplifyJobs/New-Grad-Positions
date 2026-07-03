@@ -208308,7 +208308,7 @@
         "company_name": "Walmart",
         "id": "20137627-c16b-4e82-b0ab-eb3539c56e5e",
         "title": "Software Engineer 3",
-        "active": false,
+        "active": true,
         "date_updated": 1774910094,
         "date_posted": 1774908653,
         "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2413529",
@@ -290112,7 +290112,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -290132,7 +290132,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": true,
+        "active": false,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -299343,7 +299343,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -308362,7 +308362,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": true,
+        "active": false,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -323693,7 +323693,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -345116,6 +345116,290 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "d3ff5ace-964a-408c-b75f-58756c9ba738",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1783041883,
+        "date_posted": 1783041113,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer_REF081674W-1",
+        "locations": [
+            "Austin, TX",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Visa",
+        "id": "16f51748-22b2-4f09-8f72-43f8f66da8b1",
+        "title": "AI Workflow/ Solutions Analyst - Value Added Services",
+        "active": true,
+        "date_updated": 1783041886,
+        "date_posted": 1783041106,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---San-Francisco-CA/Sales-Enablement-AI-Solutions-Analyst_REF080571W",
+        "locations": [
+            "SF",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "e26b2edc-1dbc-4a35-aaff-5c93a013dd1a",
+        "title": "Software Engineer 3",
+        "active": true,
+        "date_updated": 1783041820,
+        "date_posted": 1783041272,
+        "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME--USA--Software-Engineer-III_R-2558596",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Visa",
+        "id": "b31b7881-e6d7-4605-ace6-749d9ebfd5c3",
+        "title": "Product Analyst - Generative AI Platform",
+        "active": true,
+        "date_updated": 1783041659,
+        "date_posted": 1783041130,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Product-Analyst---Generative-AI-Platform_REF080612W",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Specter",
+        "id": "769df4a0-a4a0-4d95-a8c6-f2b85de54841",
+        "title": "Data Operations Engineer",
+        "active": true,
+        "date_updated": 1783041481,
+        "date_posted": 1783041015,
+        "url": "https://jobs.ashbyhq.com/specter/af53e965-287d-4a18-9090-6e6302b4c78c/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Specter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "f1ff7da9-0228-4439-858e-699aad2ebc40",
+        "title": "Military Talent Program - Software Engineering Pipeline",
+        "active": true,
+        "date_updated": 1783041318,
+        "date_posted": 1783041101,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Military-Talent-Program---Software-Engineering-Pipeline_REF083391W",
+        "locations": [
+            "Austin, TX",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "3bd0ee22-015a-46b2-bd09-a7d1297b6963",
+        "title": "Software Engineer / Site Reliability Engineer - Linux",
+        "active": true,
+        "date_updated": 1783041317,
+        "date_posted": 1783041100,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Basingstoke-United-Kingdom/Software-Engineer_REF076350W",
+        "locations": [
+            "Basingstoke, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Airlines",
+        "id": "2de0c210-bf82-426d-925f-f55f3bbcf97c",
+        "title": "Associate Analyst - Operations Analytics",
+        "active": true,
+        "date_updated": 1783041121,
+        "date_posted": 1783041018,
+        "url": "https://careers.united.com/global/en/job/WHQ00026561",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Airlines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "da5958b1-3c85-4bef-a6ab-9ca1ded957c5",
+        "title": "Software Engineer - GenAI - Finance Tech",
+        "active": true,
+        "date_updated": 1783041121,
+        "date_posted": 1783041091,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer-Austin_REF083267W",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Caesars Entertainment",
+        "id": "4f9c9958-c7ae-4010-895e-2a3f229ab825",
+        "title": "Trader 1",
+        "active": true,
+        "date_updated": 1783041023,
+        "date_posted": 1783040732,
+        "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/86409",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Caesars-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Goldman Sachs",
+        "id": "bc5879a8-4b16-4bc4-90e6-ab5042dcaab1",
+        "title": "Asset & Wealth Management - Multiple Teams",
+        "active": true,
+        "date_updated": 1783041481,
+        "date_posted": 1782742015,
+        "url": "https://higher.gs.com/roles/176984",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Goldman Sachs",
+        "id": "5b258ed4-b417-42be-a561-334564c2635f",
+        "title": "Transaction Banking Associate - Liquidity Solutions Product Manager",
+        "active": true,
+        "date_updated": 1783041041,
+        "date_posted": 1781129390,
+        "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/175378",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Goldman Sachs",
+        "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
+        "title": "Transaction Banking - API Product Manager",
+        "active": true,
+        "date_updated": 1783041121,
+        "date_posted": 1780956574,
+        "url": "https://higher.gs.com/roles/169660",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Inflection",
+        "id": "e0be99bd-ffea-49b6-951c-25030dee438d",
+        "title": "Research Engineer - Voice",
+        "active": true,
+        "date_updated": 1783042021,
+        "date_posted": 1778624107,
+        "url": "https://boards.greenhouse.io/inflectionai/jobs/4681124006",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Inflection-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
