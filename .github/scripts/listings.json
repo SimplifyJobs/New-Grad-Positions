@@ -14645,42 +14645,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "98128452-c760-49b8-a256-577e95b383ee",
-        "title": "Machine Learning Scientist - Natural Language Processing - Machine Learning Center of Excellence",
-        "active": false,
-        "date_updated": 1762333606,
-        "date_posted": 1762333606,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680850",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Marriott International",
-        "id": "828da427-12e3-4caa-8f72-e8b5a9a45fab",
-        "title": "Associate Software Engineer - Platform Engineering",
-        "active": false,
-        "date_updated": 1762333951,
-        "date_posted": 1762333951,
-        "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25174792",
-        "locations": [
-            "Bethesda, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Marriott-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "CACI",
         "id": "d6fe49c3-4efa-4652-9b5e-7609bea7f2c4",
         "title": "Data Analyst - Systems Analysis Engineer/Scientist Support",
@@ -179532,7 +179496,7 @@
         "company_name": "Roku",
         "id": "5de5f9a5-8bea-40c2-8121-4ed65352ed36",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773267361,
         "date_posted": 1773267361,
         "url": "https://www.weareroku.com/jobs/7680250?gh_jid=7680250",
@@ -299055,7 +299019,7 @@
         "company_name": "RTX",
         "id": "31b7f70c-a169-487e-a379-b84328b186b8",
         "title": "Configuration Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780389425,
         "date_posted": 1780351840,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WM--2501-W-University-Dr--WING-M-BLDG/Configuration-Analyst_01849460",
@@ -308271,7 +308235,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": true,
+        "active": false,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -311304,7 +311268,7 @@
         "company_name": "Intel",
         "id": "281d456a-7a99-4168-bca5-f4afe8dbf3d0",
         "title": "Module Development Engineer - Advanced Packaging",
-        "active": true,
+        "active": false,
         "date_updated": 1781080269,
         "date_posted": 1780956453,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Module-Development-Engineer--Adv-Packaging-_JR0284566",
@@ -313461,7 +313425,7 @@
         "company_name": "Lithia Motors",
         "id": "2664a38f-b76f-42f0-82a4-12aecc67d729",
         "title": "Product Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1781166871,
         "date_posted": 1781129201,
         "url": "https://lithia.wd5.myworkdayjobs.com/LithiaCareers/job/BMW-of-Minnetonka-Minnetonka-MN-55391/Product-Specialist_R110644",
@@ -323602,7 +323566,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -327294,7 +327258,7 @@
         "company_name": "Thorlabs",
         "id": "7c9cb97e-8415-40e9-b523-73df39f6debe",
         "title": "Engineering Documentation Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781821951,
         "date_posted": 1781820584,
         "url": "https://apply.workable.com/thorlabs/j/FC12102DA5/apply",
@@ -329484,7 +329448,7 @@
         "company_name": "BAE Systems",
         "id": "8cc1b7df-a36d-497d-9d33-2607aac36cbf",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782167041,
         "date_posted": 1782166318,
         "url": "https://baesystems.taleo.net/careersection/2/jobdetail.ftl?job=00136162",
@@ -331052,7 +331016,7 @@
         "company_name": "Sentry Insurance",
         "id": "38f46709-1cac-493a-9148-8bc145669237",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1782310861,
         "date_posted": 1782309837,
         "url": "https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Software-Developer--Hybrid-Work-Model-_JR-142351",
@@ -336889,7 +336853,7 @@
         "company_name": "Kraken Robotics",
         "id": "89944c94-ff67-41ed-bf27-39dd8c7741d7",
         "title": "Electrical/Electronics Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1782811055,
         "date_posted": 1782742077,
         "url": "https://ats.rippling.com/kraken-robotics-inc/jobs/2aeebe9a-29dd-467a-854f-002f08e69f1a",
@@ -345237,7 +345201,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc5879a8-4b16-4bc4-90e6-ab5042dcaab1",
         "title": "Asset & Wealth Management - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1783041481,
         "date_posted": 1782742015,
         "url": "https://higher.gs.com/roles/176984",
@@ -345277,7 +345241,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -345528,5 +345492,104 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CrowdGen by Appen",
+        "id": "b8d72682-d2a6-423f-8b43-203cd8b8e7f5",
+        "title": "Computer Voice Rating Task for Scottish English",
+        "active": true,
+        "date_updated": 1783069921,
+        "date_posted": 1783069504,
+        "url": "https://jobs.lever.co/appen/b5ff2202-1209-44eb-85a5-d7959c579989/apply",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/CrowdGen-By-Appen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "b8f7e376-a1d4-4026-80bd-35eea7e24d85",
+        "title": "Threat Context Analyst",
+        "active": true,
+        "date_updated": 1783069681,
+        "date_posted": 1783069416,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556868626",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Walmart",
+        "id": "2eea33f1-9935-4d88-a2d5-812aa3b346e5",
+        "title": "Analyst \u2013 Temp Services",
+        "active": true,
+        "date_updated": 1783070415,
+        "date_posted": 1783041227,
+        "url": "https://walmart.wd504.myworkdayjobs.com/Non-WorkdayInternal/job/Bentonville-AR/Analyst--Temp-Services_R-2555236-2",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Stanley Black & Decker",
+        "id": "496c053d-7fe7-4666-8edf-31b4f46f535f",
+        "title": "Associate Product Manager - Expansion",
+        "active": true,
+        "date_updated": 1783070925,
+        "date_posted": 1783030324,
+        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager---Expansion_REQ-1000049991",
+        "locations": [
+            "Towson, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "56b688ac-5461-4812-9be2-46a7c60e49be",
+        "title": "Software Engineer 2 - Foundry Agents - CoreAI",
+        "active": true,
+        "date_updated": 1783069297,
+        "date_posted": 1778767648,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556863227",
+        "locations": [
+            "Redmond, WA",
+            "NYC",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
