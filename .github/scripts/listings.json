@@ -1,118 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "7daef556-470c-45ce-bd10-00a2a1563067",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1762300008,
-        "date_posted": 1762300008,
-        "url": "https://careers-gdms.icims.com/jobs/68913/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TD Bank",
-        "id": "c5c90be9-194e-4400-ba77-fd2aea0d4948",
-        "title": "Software Engineer I - ",
-        "active": false,
-        "date_updated": 1762300366,
-        "date_posted": 1762300366,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1453958-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NCR Voyix",
-        "id": "f8b99260-5e60-46f1-9511-92f6b61c3c3b",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1762299312,
-        "date_posted": 1762299312,
-        "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Software-Engineer-I_R0155211",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/NCR-Voyix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Roblox",
-        "id": "3bab1db8-9378-44c8-8bb6-af5949304458",
-        "title": "2026] Software Engineer \u2013 Early Career - Security",
-        "active": false,
-        "date_updated": 1762325082,
-        "date_posted": 1762299229,
-        "url": "https://careers.roblox.com/jobs/7357095?gh_jid=7357095",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Roblox",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Yahoo",
-        "id": "f0ef1358-3e95-4f00-90f3-f9f4c8f6dbb4",
-        "title": "Software Dev Engineer I - ",
-        "active": false,
-        "date_updated": 1762299373,
-        "date_posted": 1762299373,
-        "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Software-Dev-Engineer-I_JR0026648",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Yahoo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citizen Health",
-        "id": "352f5eda-1530-4425-a79a-394bcbecb582",
-        "title": "Early Career Software Engineer",
-        "active": false,
-        "date_updated": 1762299792,
-        "date_posted": 1762299792,
-        "url": "https://jobs.ashbyhq.com/Citizen%20Health/dffc8654-8007-48f3-a3d8-6fc643dd2008/application",
-        "locations": [
-            "SF",
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Citizen-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1762411197,
         "sponsorship": "U.S. Citizenship is Required",
         "active": false,
@@ -14858,241 +14745,6 @@
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Luis-Obispo-CA/Part-Time-Software-Program-Analyst_JR2025479448-1",
         "locations": [
             "San Luis Obispo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CAE",
-        "id": "9c9525a9-2ccf-42f7-a1b0-553973d4668a",
-        "title": "Simulator Technician",
-        "active": false,
-        "date_updated": 1762299189,
-        "date_posted": 1762299189,
-        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Lake-Nona-FL-USA/Simulator-Technician_118134",
-        "locations": [
-            "Orange County, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "American Express",
-        "id": "ce414dee-5a0f-4607-b361-028d4f62c674",
-        "title": "Analyst \u2013 Data Analytics - A757144 - GCS AI&M Enablement",
-        "active": false,
-        "date_updated": 1763121214,
-        "date_posted": 1762300353,
-        "url": "https://aexp.eightfold.ai/careers/job/38689644",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AT&T",
-        "id": "585f64c5-e04f-4e8b-96f1-878ad9c0aa08",
-        "title": "Installation Technician",
-        "active": false,
-        "date_updated": 1762299661,
-        "date_posted": 1762299661,
-        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Milwaukee-Wisconsin/Installation-Technician_R-89303",
-        "locations": [
-            "Milwaukee, WI",
-            "Wauwatosa, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/ATT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Newsela",
-        "id": "52d0d8b2-4e5f-430a-8e5e-3db068aa3782",
-        "title": "Product Marketing Coordinator",
-        "active": false,
-        "date_updated": 1762299185,
-        "date_posted": 1762299185,
-        "url": "https://job-boards.greenhouse.io/newsela/jobs/7375821",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Newsela",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Grayce",
-        "id": "a3c9913d-f042-4d33-a9cb-05d044573e0d",
-        "title": "Graduate Software Engineer",
-        "active": false,
-        "date_updated": 1763120006,
-        "date_posted": 1762299212,
-        "url": "https://apply.workable.com/grayce/j/D77EA78FA7/apply",
-        "locations": [
-            "Cardiff, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cars Commerce",
-        "id": "3b648cc8-5264-449f-93bd-6217defb5ade",
-        "title": "Technical Support Engineer 1",
-        "active": false,
-        "date_updated": 1762299837,
-        "date_posted": 1762299837,
-        "url": "https://cars.wd12.myworkdayjobs.com/en-US/cars/job/Montreal-Quebec/Technical-Support-Engineer-I_JR10817",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Cars-Commerce",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cohesity",
-        "id": "89b394d4-d119-4496-ae7a-500c10fadf78",
-        "title": "Technical Support Engineer",
-        "active": false,
-        "date_updated": 1762299242,
-        "date_posted": 1762299242,
-        "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Technical-Support-Engineer_R01864",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cohesity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Comcast",
-        "id": "ade86788-6070-41e7-bcb7-d456518e5760",
-        "title": "Freelancer",
-        "active": false,
-        "date_updated": 1762300261,
-        "date_posted": 1762300261,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Freelancer_R414494",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AppDirect",
-        "id": "e4957549-b603-49f2-8a00-763bb3175a47",
-        "title": "HR Technology Systems Support Coordinator",
-        "active": false,
-        "date_updated": 1762299552,
-        "date_posted": 1762299552,
-        "url": "https://job-boards.greenhouse.io/appdirect/jobs/8213269002",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/AppDirect",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "iHeartMedia",
-        "id": "cda20e02-3a96-4b2b-9cd4-46ba9943e3a5",
-        "title": "Network Operations Center Operator",
-        "active": false,
-        "date_updated": 1762924876,
-        "date_posted": 1762299103,
-        "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Sherman-Oaks-CA/Network-Operations-Center-Operator_Req37116-2",
-        "locations": [
-            "Sherman Oaks, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/IHeartMedia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Boeing Company",
-        "id": "952ecd28-536d-44e0-a57a-a3b47456b7a9",
-        "title": "Wire Data Engineer - Entry or Associate Level",
-        "active": false,
-        "date_updated": 1762299120,
-        "date_posted": 1762299120,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Wire-Data-Engineer--Entry-or-Associate-Level-_JR2025477975-1",
-        "locations": [
-            "Seal Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Anduril",
-        "id": "7bea21fe-131b-4cbd-ab43-95471c1c90e6",
-        "title": "Product Operations Associate - Ghost",
-        "active": false,
-        "date_updated": 1762299106,
-        "date_posted": 1762299106,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4968731007",
-        "locations": [
-            "Newport Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "319fbb31-5299-466f-b244-9e4254189e63",
-        "title": "Product Security Penetration Tester/Analyst",
-        "active": false,
-        "date_updated": 1762299114,
-        "date_posted": 1762299114,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Product-Security-Penetration-Tester-Analyst--Associate-or-Experienced-_JR2025479035",
-        "locations": [
-            "Hazelwood, MO"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
@@ -99330,24 +98982,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Riot Platforms",
-        "id": "9fefc7f2-cd4c-4faf-8e95-48391886d75a",
-        "title": "ASIC Technician",
-        "active": false,
-        "date_updated": 1769161839,
-        "date_posted": 1762299818,
-        "url": "https://ats.rippling.com/riot-platforms-careers/jobs/638fdea2-8035-49e6-bb69-7130407ac525",
-        "locations": [
-            "Paducah, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Riot-Platforms",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -226091,24 +225725,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Crusoe",
-        "id": "5b855ce3-073b-483b-b073-3ea130392628",
-        "title": "Associate Systems Software Engineer",
-        "active": false,
-        "date_updated": 1775727551,
-        "date_posted": 1762300207,
-        "url": "https://jobs.ashbyhq.com/Crusoe/39e3cfc5-c0fd-44ad-b5de-ffde8080c099/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Crusoe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "ac4fcabd-1425-4ccf-a254-aeb025b53a19",
@@ -325349,7 +324965,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "4710d907-886e-410b-837e-6d5ee10e37cd",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781735221,
         "date_posted": 1781734484,
         "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Vancouver-Washington-United-States-of-America/Embedded-Software-Engineer_3162790",
@@ -345461,5 +345077,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rogers Behavioral Health",
+        "id": "78c6bbf3-f3b8-4d88-a30b-6788e0b54ae8",
+        "title": "Therapist - Intensive Outpatient Program / Partial Hospitalization Program Outpatient",
+        "active": true,
+        "date_updated": 1782987024,
+        "date_posted": 1781360621,
+        "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Skokie-Clinic-Skokie-IL/Therapist--IOP-PHP-Outpatient_R5142",
+        "locations": [
+            "Morton Grove, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/b92a810e-00da-4d83-9a36-b7d609699d59",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "McDonald's",
+        "id": "8b055c51-7d1e-44f0-b190-12b9ab15e25a",
+        "title": "Software Engineer 1 C#",
+        "active": true,
+        "date_updated": 1778922786,
+        "date_posted": 1778922398,
+        "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-C-IL-60607/1340292800/?ats=successfactors",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/McDonald",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
