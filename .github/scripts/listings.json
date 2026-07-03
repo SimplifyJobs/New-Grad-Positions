@@ -345401,5 +345401,43 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Natera",
+        "id": "5ad87d39-cea2-4d58-aa4e-150a97cfbe7a",
+        "title": "Quality Process Analyst",
+        "active": true,
+        "date_updated": 1783042381,
+        "date_posted": 1783042185,
+        "url": "https://job-boards.greenhouse.io/natera/jobs/6105091004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Natera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Flexport",
+        "id": "f667aafd-a58e-4445-a974-54d1951d1f59",
+        "title": "Automation Engineer 1",
+        "active": true,
+        "date_updated": 1783042242,
+        "date_posted": 1783041965,
+        "url": "https://boards.greenhouse.io/flexport/jobs/8015840",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Flexport",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
