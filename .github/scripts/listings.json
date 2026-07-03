@@ -14498,42 +14498,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "NBCUniversal",
-        "id": "4f3ed6ab-2964-4518-b397-a8c6bfdc2658",
-        "title": "Software Engineer - Fandango",
-        "active": false,
-        "date_updated": 1763559830,
-        "date_posted": 1762363544,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000091519849",
-        "locations": [
-            "North Hollywood, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Visa",
-        "id": "434e66a5-62cf-49c7-a1c9-325885798c5e",
-        "title": "Graduate Software Engineer",
-        "active": false,
-        "date_updated": 1762363368,
-        "date_posted": 1762363368,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000091613645",
-        "locations": [
-            "Reading, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "CACI",
         "id": "d6fe49c3-4efa-4652-9b5e-7609bea7f2c4",
@@ -275732,7 +275696,7 @@
         "company_name": "Latitude AI",
         "id": "3bbe2af6-887c-4489-a3de-e915addbc9d4",
         "title": "GIS Production Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779027301,
         "date_posted": 1779027191,
         "url": "https://job-boards.greenhouse.io/latitude/jobs/7936103",
@@ -335088,7 +335052,7 @@
         "company_name": "Dialpad",
         "id": "24b42313-a648-445f-8186-306cd80d5f8f",
         "title": "Analytics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782339123,
         "date_posted": 1770420608,
         "url": "https://job-boards.greenhouse.io/dialpad/jobs/8407071002",
