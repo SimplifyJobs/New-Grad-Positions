@@ -280925,7 +280925,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -289839,7 +289839,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -289859,7 +289859,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": true,
+        "active": false,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -308089,7 +308089,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": true,
+        "active": false,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -321010,7 +321010,7 @@
         "company_name": "Goldman Sachs",
         "id": "a3ee586e-9f97-4009-92cc-dc4affda3b3a",
         "title": "Asset & Wealth Management - Quantitative Investment Strategies - ETF Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781648474,
         "date_posted": 1781638708,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176625",
@@ -329063,7 +329063,7 @@
         "company_name": "PNC Financial Services",
         "id": "768e4d7c-d1fc-4490-94ba-51a4efdf2cb3",
         "title": "Associate Software Engineer - Test",
-        "active": false,
+        "active": true,
         "date_updated": 1782138166,
         "date_posted": 1782137385,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Associate-Software-Engineer---Test_R221948-1",
@@ -333249,7 +333249,7 @@
         "company_name": "Guidewire",
         "id": "446847d3-29b2-4c3c-b983-f4e2203fc1ec",
         "title": "Associate Certification Program Systems Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1782868406,
         "date_posted": 1782770934,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946",
@@ -345055,7 +345055,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc5879a8-4b16-4bc4-90e6-ab5042dcaab1",
         "title": "Asset & Wealth Management - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1783041481,
         "date_posted": 1782742015,
         "url": "https://higher.gs.com/roles/176984",
@@ -345095,7 +345095,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -345703,5 +345703,306 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sitreps",
+        "id": "b1ef56f6-35ca-45ae-a9b7-9b57b95a7b04",
+        "title": "Implementation Engineer",
+        "active": true,
+        "date_updated": 1783117441,
+        "date_posted": 1783116521,
+        "url": "https://job-boards.greenhouse.io/sitrepsllc/jobs/4093707009",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sitreps",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ocado Group",
+        "id": "d76d5269-b3d1-4236-8470-50e90abc3837",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1783117441,
+        "date_posted": 1783117300,
+        "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=4629180101&gh_jid=4629180101",
+        "locations": [
+            "Stockbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ocado-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "STEM Healthcare",
+        "id": "26731c5e-b0ae-4c6b-94ef-3ddde412a176",
+        "title": "Insights Associate",
+        "active": true,
+        "date_updated": 1783117441,
+        "date_posted": 1783117328,
+        "url": "https://job-boards.greenhouse.io/stemhealthcare/jobs/8044122",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/STEM-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Mastercard",
+        "id": "0033879f-2afc-4de2-8801-9d8a420a0c46",
+        "title": "Payments Product Specialist - Product Management",
+        "active": true,
+        "date_updated": 1783117456,
+        "date_posted": 1783116703,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Specialist--Product-Management_R-280525-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dave & Busters",
+        "id": "fa71ae30-f52e-4776-9d7d-46bb77f7910d",
+        "title": "Games Support Tech",
+        "active": true,
+        "date_updated": 1783117441,
+        "date_posted": 1783116690,
+        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Louisville-KY/Games-Support-Tech_R-1012182",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Inizio",
+        "id": "ae61a9b8-5095-4ca3-83b3-bab29381fb86",
+        "title": "Insights Associate",
+        "active": true,
+        "date_updated": 1783116723,
+        "date_posted": 1783116594,
+        "url": "https://job-boards.greenhouse.io/ashfieldadvisory/jobs/8045336",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Inizio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "641208f9-ad50-400b-9d42-5d981a5a4c62",
+        "title": "Analyst Data Manager",
+        "active": true,
+        "date_updated": 1783117346,
+        "date_posted": 1783116599,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/Analyst-Data-Manager_01856992",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "State of North Carolina",
+        "id": "d92b7905-31c9-462b-9f08-01f277c12fc2",
+        "title": "Electronics Technician 1/Division 4",
+        "active": true,
+        "date_updated": 1783117286,
+        "date_posted": 1783116554,
+        "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wilson-County-NC/Electronics-Technician-I-Division-4_JR-118398",
+        "locations": [
+            "Wake Forest, NC",
+            "Goldsboro, NC",
+            "Roanoke Rapids, NC",
+            "Clayton, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Of-North-Carolina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Seattle Children's Hospital",
+        "id": "d7379585-dd62-438c-8f7e-0f31571f6625",
+        "title": "Mental Health Therapist Associate",
+        "active": true,
+        "date_updated": 1783117323,
+        "date_posted": 1783116588,
+        "url": "https://careers.seattlechildrens.org/us/en/job/R262360",
+        "locations": [
+            "Federal Way, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Seattle-Childrens-Hospital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "State of North Carolina",
+        "id": "83fbb7be-6beb-4e69-b120-682831e9b688",
+        "title": "Electronics Technician 1 - Division 5",
+        "active": true,
+        "date_updated": 1783117237,
+        "date_posted": 1783116527,
+        "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Durham-County-NC/Electronics-Technician-I_JR-118269",
+        "locations": [
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Of-North-Carolina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medical College of Wisconsin",
+        "id": "32a573ca-7e58-42ed-8db3-afdf7710cb7d",
+        "title": "Postdoctoral Researcher - Data Science Institute",
+        "active": true,
+        "date_updated": 1783116723,
+        "date_posted": 1783116504,
+        "url": "https://mcw.wd503.myworkdayjobs.com/ExternalCareers/job/Milwaukee-WI/Postdoctoral-Researcher---Data-Science-Institute_JR101296",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Medical-College-Of-Wisconsin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD",
+            "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rockwell Automation",
+        "id": "5f92bd59-c0dd-402a-872b-49a348812a6a",
+        "title": "Hardware Test Designer",
+        "active": true,
+        "date_updated": 1783116723,
+        "date_posted": 1783116465,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Waterloo-Ontario-Canada/Hardware-Test-Designer_R26-5047",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Targeted Victory",
+        "id": "1d83102a-79d5-4b64-af59-494b78508aa7",
+        "title": "Junior AI Engineer",
+        "active": true,
+        "date_updated": 1783116723,
+        "date_posted": 1783116361,
+        "url": "https://careers-targetedvictory.icims.com/jobs/8008/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Targeted-Victory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CGS Immersive",
+        "id": "4f5b85c9-8a49-40c4-b4d6-08e739bd06f9",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1783116361,
+        "date_posted": 1783116304,
+        "url": "https://job-boards.greenhouse.io/immersive/jobs/5290237008",
+        "locations": [
+            "Saint John, NB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CGS-Immersive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arcadis",
+        "id": "dcf79b4e-141a-4c02-832d-d01418bb6c86",
+        "title": "Hydrogeology Consultant",
+        "active": true,
+        "date_updated": 1783116361,
+        "date_posted": 1783116230,
+        "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42256",
+        "locations": [
+            "London, UK",
+            "Guildford, UK",
+            "Bristol, UK",
+            "Birmingham, UK",
+            "Exeter, UK",
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcadis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
