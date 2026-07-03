@@ -338491,7 +338491,7 @@
         "company_name": "Protolabs",
         "id": "f39b3e40-01a7-4a7f-806d-b1a4e4baca35",
         "title": "Associate Technical Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1782742321,
         "date_posted": 1782741986,
         "url": "https://jobs.lever.co/protolabs/83fa31f8-6d15-4a8c-bf69-e6c9ec1bbbbd/apply",
@@ -345829,5 +345829,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Latitude AI",
+        "id": "d508afd3-f392-4af0-a7ef-6ac25b73b9e6",
+        "title": "GIS Production Analyst - Contractor",
+        "active": true,
+        "date_updated": 1783089218,
+        "date_posted": 1783089066,
+        "url": "https://job-boards.greenhouse.io/latitude/jobs/8045205",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
