@@ -345727,5 +345727,27 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Adobe",
+        "id": "e3f70885-9036-43a5-9a6a-16813ea0291c",
+        "title": "Product Manager - Acrobat Sign",
+        "active": true,
+        "date_updated": 1783079685,
+        "date_posted": 1781952977,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Product-Manager---Acrobat-Sign_R167587",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
     }
 ]
