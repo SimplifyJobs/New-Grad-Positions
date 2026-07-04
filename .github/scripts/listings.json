@@ -13024,42 +13024,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Verisk",
-        "id": "aae3d135-934d-4fe3-976f-8a0080edff70",
-        "title": "Platform Support Engineer - Maternity leave",
-        "active": false,
-        "date_updated": 1762433344,
-        "date_posted": 1762433344,
-        "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2629",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Verisk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hawk-Eye Innovations",
-        "id": "c381d082-50c6-40e0-ac0b-d98349258f13",
-        "title": "College Sports Systems Technician",
-        "active": false,
-        "date_updated": 1762433475,
-        "date_posted": 1762433475,
-        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/958207d1-29ad-46bb-a41c-bd15acf94e03/application",
-        "locations": [
-            "Coralville, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "General Dynamics Mission Systems",
         "id": "51bfcbac-7f03-4321-9860-1b8a9cc8382f",
@@ -13185,24 +13149,6 @@
             "McLean, VA"
         ],
         "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lewis Brisbois",
-        "id": "3a5eacfe-c177-4693-8b6d-1adc74d5eff6",
-        "title": "Financial Systems Analyst 1",
-        "active": false,
-        "date_updated": 1763131313,
-        "date_posted": 1762433554,
-        "url": "https://careers-lewisbrisbois.icims.com/jobs/12142/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Lewis-Brisbois",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -26579,24 +26525,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fujitsu",
-        "id": "52933e52-66d0-4edf-a219-ea3436d7da66",
-        "title": "Developer",
-        "active": false,
-        "date_updated": 1763735923,
-        "date_posted": 1762433894,
-        "url": "https://edzt.fa.em4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/32246",
-        "locations": [
-            "Gatineau, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Fujitsu",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Visa",
         "id": "ed28e4dd-a9ea-43b5-a104-22fa7b10dbe2",
@@ -36699,24 +36627,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Bevel",
-        "id": "0345db2f-493d-4d1e-b563-f7cb0d4d252b",
-        "title": "iOS Engineer",
-        "active": false,
-        "date_updated": 1763123948,
-        "date_posted": 1762433628,
-        "url": "https://jobs.ashbyhq.com/Bevel/e771c115-5372-43aa-a97b-6db16a0fc97c/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Bevel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -88322,7 +88232,7 @@
         "company_name": "Ensign-Bickford Aerospace & Defense Company",
         "id": "c18a6a31-6cf7-481a-99f5-cb0c4d069d8a",
         "title": "Soldering Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1768235148,
         "date_posted": 1768235148,
         "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Soldering-Technician_REQ106824",
@@ -198491,7 +198401,7 @@
         "company_name": "University of Arkansas",
         "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
         "title": "Cosmos Graduate Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773813920,
         "date_posted": 1773813920,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2",
@@ -305475,7 +305385,7 @@
         "company_name": "Smithfield Foods",
         "id": "ec77de01-167d-46aa-8664-665e8f9bb621",
         "title": "Associate AI Enablement Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780881331,
         "date_posted": 1780880781,
         "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Associate-AI-Enablement-Analyst_R-2026-7552",
@@ -330541,7 +330451,7 @@
         "company_name": "Ensign-Bickford Industries",
         "id": "af3cc414-b026-425c-a757-7ad0aee06129",
         "title": "Soldering Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1782816551,
         "date_posted": 1782561788,
         "url": "https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Soldering-Technician_REQ106824-1",
@@ -330830,7 +330740,7 @@
         "company_name": "GE Healthcare",
         "id": "bdca6b0d-54ef-4f43-9135-d4d108215238",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1782814145,
         "date_posted": 1782781530,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---San-Antonio--TX_R4042993-1",
@@ -343406,7 +343316,7 @@
         "company_name": "Visa",
         "id": "b31b7881-e6d7-4605-ace6-749d9ebfd5c3",
         "title": "Product Analyst - Generative AI Platform",
-        "active": false,
+        "active": true,
         "date_updated": 1783041659,
         "date_posted": 1783041130,
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Product-Analyst---Generative-AI-Platform_REF080612W",
@@ -343983,7 +343893,7 @@
         "company_name": "GE Healthcare",
         "id": "650fe64f-56da-4821-b1ce-ab081f6d9828",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783071836,
         "date_posted": 1781950920,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer---Harrisburg--PA_R4042234",
@@ -344696,5 +344606,23 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stanley Black & Decker",
+        "id": "7625c4a9-1304-47d7-9755-2d7cee1d65f7",
+        "title": "Field Test Operator 1",
+        "active": true,
+        "date_updated": 1783169947,
+        "date_posted": 1783030333,
+        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Field-Test-Operator-I_REQ-1000049857",
+        "locations": [
+            "Strongsville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
