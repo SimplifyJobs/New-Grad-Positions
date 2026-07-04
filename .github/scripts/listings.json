@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "3341ad19-ff53-40d9-aed1-0eab9614c836",
-        "title": "Software Engineer 1 - Entry Level",
-        "active": false,
-        "date_updated": 1762435047,
-        "date_posted": 1762435047,
-        "url": "https://careers-gdms.icims.com/jobs/69129/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Pittsfield, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Graphcore",
-        "id": "3c8ce518-58d5-41a0-b586-073f60bfd11d",
-        "title": "2026 Graduate Software Engineer - Drivers",
-        "active": false,
-        "date_updated": 1762434202,
-        "date_posted": 1762434202,
-        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8238605002",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Graphcore",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Axon",
         "id": "d79bd3b7-c1d4-4bbd-913f-b004edba607b",
@@ -49,24 +13,6 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Axon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "a5beff7a-688c-49b4-b43d-4ff0814d29c6",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1762434791,
-        "date_posted": 1762434791,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/88102807904",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -820,27 +766,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Graphcore",
-        "id": "936e4f8d-c318-4fa2-a18d-da426777294d",
-        "title": "2026 Graduate Software Engineer - AI/ML Test Systems",
-        "active": false,
-        "date_updated": 1762820279,
-        "date_posted": 1762434200,
-        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8245655002",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Graphcore",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -12927,24 +12852,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Gensler",
-        "id": "a54fa542-67d1-4ee1-b789-f3d2490071fc",
-        "title": "Design Strategist - Data Analytics + Insights",
-        "active": false,
-        "date_updated": 1762434651,
-        "date_posted": 1762434651,
-        "url": "https://gensler.wd1.myworkdayjobs.com/genslercareers/job/New-York-NY-US/Design-Strategist---Data-Analytics---Insights_R-16508",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Gensler",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "NVIDIA",
         "id": "e01385b4-cf9b-4e3e-8217-ec2d26a5163c",
@@ -12987,25 +12894,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Tanium",
-        "id": "a5b3d7a9-abec-4a83-b4c3-cfa9d33decb3",
-        "title": "Associate Technical Support Engineer",
-        "active": false,
-        "date_updated": 1763122517,
-        "date_posted": 1762434419,
-        "url": "https://www.tanium.com/careers/7379061?gh_jid=7379061",
-        "locations": [
-            "Oakland, CA",
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tanium",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Lenovo",
         "id": "7a7527be-1354-4f12-b883-2c6ac652f93d",
@@ -13018,137 +12906,6 @@
             "Morrisville, NC"
         ],
         "company_url": "https://simplify.jobs/c/a1d1fe70-6ea7-48b6-b434-1cd26b8da8f2",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "51bfcbac-7f03-4321-9860-1b8a9cc8382f",
-        "title": "SWC Systems Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1762435047,
-        "date_posted": 1762435047,
-        "url": "https://careers-gdms.icims.com/jobs/69095/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Pittsfield, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dexcom",
-        "id": "c9e8db36-f0b8-4d7e-b218-b53091326635",
-        "title": "Senior Hardware Engineer",
-        "active": false,
-        "date_updated": 1762931480,
-        "date_posted": 1762435463,
-        "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Sr-Hardware-Engineer_JR115014",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dexcoma",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Capital One",
-        "id": "08ccf882-b5f6-420f-aa38-05d68aa885fd",
-        "title": "Senior Associate - Product Manager - Business Cards & Payments",
-        "active": false,
-        "date_updated": 1762435246,
-        "date_posted": 1762435246,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Product-Manager---Business-Cards---Payments_R225698-1",
-        "locations": [
-            "McLean, VA",
-            "Richmond, VA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Capital One",
-        "id": "02fe0c74-7dd6-4c17-9bf9-a5ae822c9d73",
-        "title": "Senior Manager - Data Science - GenAI Digital Assistant",
-        "active": false,
-        "date_updated": 1762435242,
-        "date_posted": 1762435242,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Manager--Data-Science---GenAI-Digital-Assistant_R225838-2",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Broadridge",
-        "id": "5638d168-78e9-4748-9ee9-617ccb8244c0",
-        "title": "Quantitative Analyst",
-        "active": false,
-        "date_updated": 1762435046,
-        "date_posted": 1762435046,
-        "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/London---12-Arthur-Street/Quantitative-Analyst_JR1077910",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Broadridge",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uline",
-        "id": "ff37eaf0-2a2b-4c9f-95e6-3c40f02666b0",
-        "title": "Associate Software Developer",
-        "active": false,
-        "date_updated": 1762434694,
-        "date_posted": 1762434694,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Waukegan-IL/Associate-Software-Developer_R259024",
-        "locations": [
-            "Waukegan, IL",
-            "Pleasant Prairie, WI",
-            "Morton Grove, IL",
-            "Kenosha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Booz Allen",
-        "id": "87a48f2e-c28a-4acd-b2c9-69e1e644f2e3",
-        "title": "Data Scientist - Data Scientist",
-        "active": false,
-        "date_updated": 1762910489,
-        "date_posted": 1762434096,
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--Data-Scientist_R0228796",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -49206,25 +48963,6 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "St. Johns Riverside Hospital",
-        "id": "85f2293e-89a4-4c4a-82e9-cb771e21a515",
-        "title": "Rehabilitation Aide Physical Therapy",
-        "active": false,
-        "date_updated": 1765419570,
-        "date_posted": 1762435097,
-        "url": "https://careers-riversidehealth.icims.com/jobs/9339/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Arlington, VA",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/St-Johns-Riverside-Hospital",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -288241,7 +287979,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -288261,7 +287999,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": true,
+        "active": false,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -331651,7 +331389,7 @@
         "company_name": "Guidewire",
         "id": "446847d3-29b2-4c3c-b983-f4e2203fc1ec",
         "title": "Associate Certification Program Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782868406,
         "date_posted": 1782770934,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946",
@@ -337463,7 +337201,7 @@
         "company_name": "General Motors",
         "id": "7c1a6650-e1ab-48bb-970f-3b0f8600d65a",
         "title": "PSDS Harness Coordination & Issue Management Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782900708,
         "date_posted": 1781344891,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/PSDS-Harness-Coordination---Issue-Management-Engineer_JR-202605893-1",
@@ -343253,7 +342991,7 @@
         "company_name": "Visa",
         "id": "d3ff5ace-964a-408c-b75f-58756c9ba738",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783041883,
         "date_posted": 1783041113,
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer_REF081674W-1",
@@ -343358,7 +343096,7 @@
         "company_name": "Visa",
         "id": "f1ff7da9-0228-4439-858e-699aad2ebc40",
         "title": "Military Talent Program - Software Engineering Pipeline",
-        "active": false,
+        "active": true,
         "date_updated": 1783041318,
         "date_posted": 1783041101,
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Military-Talent-Program---Software-Engineering-Pipeline_REF083391W",
@@ -343596,7 +343334,7 @@
         "company_name": "Pfizer",
         "id": "e0a9a5ab-89d5-42f4-945d-9069baf05201",
         "title": "Manufacturing Execution Systems Engineer 1 - Manufacturing Execution Systems",
-        "active": false,
+        "active": true,
         "date_updated": 1783059443,
         "date_posted": 1783059074,
         "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Connecticut---Groton/DPMS-Manufacturing-Execution-Systems--MES--Engineer_4959813-1",
@@ -344624,5 +344362,47 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WVUMedicine",
+        "id": "e8b32023-6f3e-4349-95bb-d9c742852714",
+        "title": "Associate Systems Analyst",
+        "active": true,
+        "date_updated": 1783170544,
+        "date_posted": 1783162128,
+        "url": "https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Remote/Associate-Systems-Analyst---MyChart-Digital-Experience_JR26-37123-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/WVUMedicine",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Becton Dickinson",
+        "id": "6763db63-2703-4fa3-ba56-026f329dda6e",
+        "title": "Commercial Analytics Engineer Business Decision Intelligence",
+        "active": true,
+        "date_updated": 1783170299,
+        "date_posted": 1783167365,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Commercial-Analytics-Engineer-Business-Decision-Intelligence_R-549477-1",
+        "locations": [
+            "Midland Park, NJ",
+            "Vernon Hills, IL",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
