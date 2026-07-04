@@ -303476,7 +303476,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -344514,5 +344514,27 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Iridium Communications",
+        "id": "1102b151-c80a-4b0f-9d32-1bad02116841",
+        "title": "Site Engineer 1",
+        "active": true,
+        "date_updated": 1783153708,
+        "date_posted": 1783029906,
+        "url": "https://careers-iridium.icims.com/jobs/4981/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Fairbanks, AK",
+            "Reston, VA",
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Iridium-Communications",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
