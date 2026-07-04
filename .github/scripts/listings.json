@@ -239285,7 +239285,7 @@
         "company_name": "University of Texas at Austin",
         "id": "0a2c27c4-783b-47bb-9b5f-ae9f5bf46d0b",
         "title": "Hydrographic Survey Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1776522107,
         "date_posted": 1776521479,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Hydrographic-Survey-Analyst_R_00043224",
@@ -302673,7 +302673,7 @@
         "company_name": "Concept Plus",
         "id": "2fef259f-7eea-4f01-83b4-de47794fec0d",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780612625,
         "date_posted": 1780610995,
         "url": "https://ats.rippling.com/conceptplus/jobs/916978a4-fa79-4f6e-9eb6-515aa1cf3fb5",
@@ -327337,7 +327337,7 @@
         "company_name": "Acrisure",
         "id": "17eb8a6f-67ab-442f-927c-a803b6d8f192",
         "title": "Product Success Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1782117830,
         "date_posted": 1781917892,
         "url": "https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/816-Congress-Ave-Ste-1800----AUSTIN-TX/Product-Success-Specialist_JR113606",
@@ -330979,7 +330979,7 @@
         "company_name": "United Launch Alliance",
         "id": "29f16d32-81aa-4294-be70-0811c67ecf6e",
         "title": "Flight Computer Emulation Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782512101,
         "date_posted": 1782511612,
         "url": "https://jobs.ulalaunch.com/job/Centennial-Flight-Computer-Emulation-Software-Engineer-1-CO-80112/1403799500/?ats=successfactors",
@@ -334825,7 +334825,7 @@
         "company_name": "United Launch Alliance",
         "id": "4b522d5e-1655-476c-ba76-1ada826022c7",
         "title": "Integrated Test Environment Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782512361,
         "date_posted": 1782511612,
         "url": "https://jobs.ulalaunch.com/job/Centennial-Integrated-Test-Environment-(ITE)-Software-Engineer-1-CO-80112/1403796400/?ats=successfactors",
@@ -343807,7 +343807,7 @@
         "company_name": "Pennsylvania State University",
         "id": "122774c3-e3bb-4ef2-8ca6-8060398c2d9e",
         "title": "Guidance and Control Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783068409,
         "date_posted": 1782955985,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Guidance-and-Control-Engineer_REQ_0000070656-2",
@@ -344535,6 +344535,48 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Johnson Controls",
+        "id": "239d22af-617c-4ea7-afda-d6623504eaec",
+        "title": "Product Manager - Data Center Thermal Solutions",
+        "active": true,
+        "date_updated": 1783155432,
+        "date_posted": 1782963891,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Product-Manager--Data-Center-Thermal-Solutions_WD30248551-1",
+        "locations": [
+            "Sparks, MD",
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "096d522c-ec26-4c3b-8db3-87ee020df889",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1783153884,
+        "date_posted": 1782857138,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1-San-Diego_R4042998",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
