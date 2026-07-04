@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Okta",
-        "id": "dfc489c9-e403-46e0-a1ba-e7e8092e311e",
-        "title": "Software Engineer I \u2013 New Grad",
-        "active": false,
-        "date_updated": 1762471485,
-        "date_posted": 1762471485,
-        "url": "https://www.okta.com/company/careers/opportunity/6209884?gh_jid=6209884",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Okta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Citizen Health",
         "id": "b39419cf-950a-488e-b775-01a81bbe2ad0",
         "title": "Early Career Software Engineer",
@@ -68,24 +50,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Businessolver",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "b27ecf71-d5ba-422e-8ec8-deb17b381bbf",
-        "title": "Software Engineer I - C - C++ - Onsite",
-        "active": false,
-        "date_updated": 1762471733,
-        "date_posted": 1762471733,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Software-Engineer-I---C--C----Onsite-_01804913",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -12363,24 +12327,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Miami",
-        "id": "43548e3d-6824-4e32-88c2-08c014f1f531",
-        "title": "Artificial Intelligence",
-        "active": false,
-        "date_updated": 1762471758,
-        "date_posted": 1762471758,
-        "url": "https://umiami.wd1.myworkdayjobs.com/UMFaculty/job/Coral-Gables-FL/Artificial-Intelligence--Expertise-in-Quantum-Science-and-AI-_R100092114",
-        "locations": [
-            "Coral Gables, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Miami",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "USAA",
         "id": "e56b306a-c055-4d24-9b7f-13d34c3be7a1",
@@ -12436,24 +12382,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Garner Health",
-        "id": "80c5b7f0-d530-4998-a642-da1f0814d29b",
-        "title": "Data Analyst 2",
-        "active": false,
-        "date_updated": 1762818011,
-        "date_posted": 1762471829,
-        "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/5701107004",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Garner-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Broadridge",
         "id": "3eac7fe5-a733-457a-a282-fd1e54568a11",
@@ -12466,24 +12394,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Broadridge",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DMI",
-        "id": "6197dc3f-7066-401a-a2ee-928b4bb17daa",
-        "title": "Service Desk Analyst",
-        "active": false,
-        "date_updated": 1762470696,
-        "date_posted": 1762470696,
-        "url": "https://careers-dminc.icims.com/jobs/28321/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/DMI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -12594,222 +12504,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "7-Eleven",
-        "id": "41c746ec-ea0d-4335-9fd4-56e2c19123e6",
-        "title": "Integration Analyst 1",
-        "active": false,
-        "date_updated": 1762919565,
-        "date_posted": 1762470949,
-        "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Integration-Analyst-I_R25_0000009211",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/7-Eleven",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NBCUniversal",
-        "id": "fc930078-458b-47fa-9cce-2094a5f355dc",
-        "title": "Dreamworks Technology - Asset Management Technician",
-        "active": false,
-        "date_updated": 1762912239,
-        "date_posted": 1762471357,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000092106861",
-        "locations": [
-            "Glendale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Highmark Health",
-        "id": "7dcab5c0-5b50-4ee2-90f2-3e1b65fb7771",
-        "title": "Associate Technical Analyst - Server/Application Admin - Radiology Systems",
-        "active": false,
-        "date_updated": 1762471515,
-        "date_posted": 1762471515,
-        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Technical-Analyst--Server-Application-Admin---Radiology-Systems-_J272317-1",
-        "locations": [
-            "Pennsylvania"
-        ],
-        "company_url": "https://simplify.jobs/c/Highmark-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "MaineGeneral Health",
-        "id": "162274f2-3018-44da-8537-1150dbc84404",
-        "title": "Service Desk Analyst 1",
-        "active": false,
-        "date_updated": 1762936896,
-        "date_posted": 1762471554,
-        "url": "https://mainegeneral.wd5.myworkdayjobs.com/mainegeneralcareers/job/Augusta-ME/Service-Desk-Analyst-I_R15453",
-        "locations": [
-            "Augusta, ME"
-        ],
-        "company_url": "https://simplify.jobs/c/MaineGeneral-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Booz Allen",
-        "id": "e13a6ce8-a917-46f9-ad51-e1af2a4a12a5",
-        "title": "Technology Engineer Analyst",
-        "active": false,
-        "date_updated": 1762471014,
-        "date_posted": 1762471014,
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Technology-Engineer-Analyst_R0229199",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Swift Group",
-        "id": "6f7e14fb-4c8a-4db6-8bd0-62b3e85ea3af",
-        "title": "Cyber Defense Analyst Level 1",
-        "active": false,
-        "date_updated": 1762471059,
-        "date_posted": 1762471059,
-        "url": "https://job-boards.greenhouse.io/theswiftgroup/jobs/4976396008",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Swift-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Advanced Energy",
-        "id": "64527b47-addc-4e82-bde6-03006a5e8aa1",
-        "title": "Electronics Service Technician 1",
-        "active": false,
-        "date_updated": 1762924308,
-        "date_posted": 1762471233,
-        "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Electronics-Service-Technician-I-CO-80525/1313863000/?ats=successfactors",
-        "locations": [
-            "Fort Collins, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Advanced-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SpaceX",
-        "id": "2769fa42-a075-4f0c-b8e9-8e47870a3d15",
-        "title": "Gateway Site Development Engineer - Starlink",
-        "active": false,
-        "date_updated": 1762471162,
-        "date_posted": 1762471162,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8242959002",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Texas A&M University - Corpus Christi",
-        "id": "7aaa18c9-7671-41d2-a552-4cb4c0e51c60",
-        "title": "Assistant Professor - Data Science",
-        "active": false,
-        "date_updated": 1762470801,
-        "date_posted": 1762470801,
-        "url": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Assistant-Professor--Data-Science_R-088833-1",
-        "locations": [
-            "Corpus Christi, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Texas-AM-University-Corpus-Christi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Bridgewater Associates",
-        "id": "5a740424-ba2b-476c-a351-e95d4819756a",
-        "title": "Trading Associate",
-        "active": false,
-        "date_updated": 1762470454,
-        "date_posted": 1762470454,
-        "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/7985213002",
-        "locations": [
-            "Westport, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Bridgewater-Associates",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Bridgewater Associates",
-        "id": "1e0891ed-c472-419d-86a9-380dd2159ae3",
-        "title": "Trading Associate",
-        "active": false,
-        "date_updated": 1762470472,
-        "date_posted": 1762470472,
-        "url": "https://job-boards.greenhouse.io/bwaltpostings/jobs/8096635002",
-        "locations": [
-            "Westport, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Bridgewater-Associates",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "University of Southern California",
-        "id": "75828313-07e6-40e2-b18f-4212e043bf3c",
-        "title": "Enterprise Applications Developer",
-        "active": false,
-        "date_updated": 1762470385,
-        "date_posted": 1762470385,
-        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Enterprise-Applications-Developer_REQ20168827-2",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -84686,24 +84380,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Jackson Rancheria Casino Resort",
-        "id": "28cc0c92-500e-41c5-81ed-0a45fd082016",
-        "title": "Assistant \u2013 Sales",
-        "active": false,
-        "date_updated": 1768443757,
-        "date_posted": 1762470545,
-        "url": "https://careers-jacksoncasino.icims.com/jobs/8374/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Quantico, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jackson-Rancheria-Casino-Resort",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
