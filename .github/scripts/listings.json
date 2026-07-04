@@ -297114,7 +297114,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -306133,7 +306133,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -319054,7 +319054,7 @@
         "company_name": "Goldman Sachs",
         "id": "a3ee586e-9f97-4009-92cc-dc4affda3b3a",
         "title": "Asset & Wealth Management - Quantitative Investment Strategies - ETF Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781648474,
         "date_posted": 1781638708,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176625",
@@ -336107,7 +336107,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sportradar",
-        "id": "0d1a89c8-7123-49f0-9b89-8104bed8fd88",
+        "id": "d92be692-7fa4-4d3b-9020-599a80fd4eec",
         "title": "Senior Data Engineer",
         "active": true,
         "date_updated": 1782812521,
@@ -343099,7 +343099,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc5879a8-4b16-4bc4-90e6-ab5042dcaab1",
         "title": "Asset & Wealth Management - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1783041481,
         "date_posted": 1782742015,
         "url": "https://higher.gs.com/roles/176984",
@@ -343139,7 +343139,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -344372,6 +344372,327 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "cdf237e5-7a05-45c0-bed0-a61cde302d6c",
+        "title": "Data Labeling Analyst - Speech & Voice AI Analyst - Danish Speakers",
+        "active": true,
+        "date_updated": 1783203889,
+        "date_posted": 1783202822,
+        "url": "https://jobs.lever.co/weloglobal/b26aa765-1a9d-46f7-a899-0354c3ee428d/apply",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "Redmond, WA",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "a64d3e41-0647-4eea-9f66-4dce71543588",
+        "title": "Maps Personalization Relevance Rater - English",
+        "active": true,
+        "date_updated": 1783203485,
+        "date_posted": 1783202821,
+        "url": "https://jobs.lever.co/weloglobal/0157c8d2-ccef-4760-89c2-cd874506955f/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "8a199879-ac83-4e03-9133-ae6136c3e5c4",
+        "title": "Data Labeling Analyst - Speech & Voice AI Analyst - Finnish Speakers",
+        "active": true,
+        "date_updated": 1783203527,
+        "date_posted": 1783202823,
+        "url": "https://jobs.lever.co/weloglobal/e7f8d054-a739-4a19-a049-39fbd0603988/apply",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "Redmond, WA",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "dab22e42-1501-48f9-8e42-41475f560b6f",
+        "title": "Data Labeling Analyst - Speech & Voice AI Analyst - Turkish Speakers",
+        "active": true,
+        "date_updated": 1783203427,
+        "date_posted": 1783202823,
+        "url": "https://jobs.lever.co/weloglobal/4a8823f6-2575-4817-8a3e-c091a6b5c1d9/apply",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "Redmond, WA",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "FOTH",
+        "id": "f1f1ef38-bdd9-4787-8ad4-c31575e2f26d",
+        "title": "Hydrogeologist/Hydrologist",
+        "active": true,
+        "date_updated": 1783203121,
+        "date_posted": 1783202803,
+        "url": "https://jobs.lever.co/foth/9b4e9dad-02b9-4132-9818-7091bd611a00/apply",
+        "locations": [
+            "Madison, WI",
+            "Duluth, MN",
+            "Green Bay, WI",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/FOTH",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "d90de82b-95ea-4ea1-9e0e-f1aecda3da9a",
+        "title": "Data Labeling Analyst - Speech & Voice AI Analyst - German Speakers",
+        "active": true,
+        "date_updated": 1783203419,
+        "date_posted": 1783202822,
+        "url": "https://jobs.lever.co/weloglobal/876de2c2-ea50-45f7-81ae-bb1d046fe979/apply",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "Redmond, WA",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "d826e4b9-2dc1-49fa-881e-cd8795539e03",
+        "title": "Data Labeling Analyst - Speech & Voice AI Analyst - Italian Speakers",
+        "active": true,
+        "date_updated": 1783203416,
+        "date_posted": 1783202824,
+        "url": "https://jobs.lever.co/weloglobal/93e6a510-e2a2-403e-b9a7-c510f4804afe/apply",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "Redmond, WA",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "9bb998e0-bdcf-4282-9ab0-8e0a36f17a18",
+        "title": "Data Labeling Analyst - Speech & Voice AI Analyst - Dutch Speakers",
+        "active": true,
+        "date_updated": 1783203414,
+        "date_posted": 1783202822,
+        "url": "https://jobs.lever.co/weloglobal/550c61aa-98c1-479d-a817-4e3db4b7783a/apply",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "Redmond, WA",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "834d08af-0c06-46ed-ad50-7d3b0dbe770a",
+        "title": "Speech & Voice AI Analyst - Swedish Speakers",
+        "active": true,
+        "date_updated": 1783203415,
+        "date_posted": 1783202821,
+        "url": "https://jobs.lever.co/weloglobal/8f46acd5-9292-40f2-a191-0cd61577cbc4/apply",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "Redmond, WA",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "619ca1f2-89e4-482c-a3eb-fa81ee86d139",
+        "title": "Data Labeling Analyst - Speech & Voice AI Analyst - Greek Speakers",
+        "active": true,
+        "date_updated": 1783203420,
+        "date_posted": 1783202824,
+        "url": "https://jobs.lever.co/weloglobal/4ba18e57-c8b7-4783-916b-358c4fe59985/apply",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "Redmond, WA",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "2847e6a4-be8a-4416-b29a-c272c47e2947",
+        "title": "Data Labeling Analyst - Speech & Voice AI Analyst",
+        "active": true,
+        "date_updated": 1783203407,
+        "date_posted": 1783202821,
+        "url": "https://jobs.lever.co/weloglobal/f4c39f0f-32e8-4508-accd-60f7c536a3d3/apply",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "Redmond, WA",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
