@@ -19,24 +19,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Graphcore",
-        "id": "84454b94-00c5-4d81-aa05-06a9e890545c",
-        "title": "2026 Graduate Software Engineer - Drivers",
-        "active": false,
-        "date_updated": 1762435867,
-        "date_posted": 1762435867,
-        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8245742002",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Graphcore",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Okta",
         "id": "dfc489c9-e403-46e0-a1ba-e7e8092e311e",
