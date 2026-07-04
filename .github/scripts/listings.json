@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Axon",
-        "id": "d79bd3b7-c1d4-4bbd-913f-b004edba607b",
-        "title": "Embedded Software Engineer I",
-        "active": false,
-        "date_updated": 1762441004,
-        "date_posted": 1762441004,
-        "url": "https://job-boards.greenhouse.io/axon/jobs/6289451003",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Axon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Okta",
         "id": "dfc489c9-e403-46e0-a1ba-e7e8092e311e",
@@ -12870,24 +12852,6 @@
             "Portsmouth, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Lenovo",
-        "id": "7a7527be-1354-4f12-b883-2c6ac652f93d",
-        "title": "IT Product Analyst - eCommerce",
-        "active": false,
-        "date_updated": 1762440550,
-        "date_posted": 1762440550,
-        "url": "https://jobs.lenovo.com/en_US/careers/JobDetail/IT-Product-Analyst-eCommerce/69337",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/a1d1fe70-6ea7-48b6-b434-1cd26b8da8f2",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
