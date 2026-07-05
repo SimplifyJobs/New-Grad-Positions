@@ -7,11 +7,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 ---
 ### Browse 234 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (171)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (172)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (2)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (34)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (33)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (5)
 
@@ -605,6 +605,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>24d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Concept-Plus?utm_source=GHList&utm_medium=company">Concept Plus</a></strong></td>
+<td>Junior Software Developer</td>
+<td>Dayton, OH</td>
+<td><div align="center"><a href="https://ats.rippling.com/conceptplus/jobs/916978a4-fa79-4f6e-9eb6-515aa1cf3fb5?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2fef259f-7eea-4f01-83b4-de47794fec0d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Visionist?utm_source=GHList&utm_medium=company">Visionist</a></strong></td>
 <td>Junior Software Engineer</td>
 <td>Laurel, MD</td>
@@ -1004,7 +1011,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Ivo</strong></td>
 <td>Software Engineer, Backend</td>
 <td>San Francisco, CA</td>
 <td><a href="https://jobs.lever.co/ivo/3ce9dc16-90fd-4b99-b4b9-dfd48ec1a50d?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
@@ -1281,7 +1288,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1191)</summary>
+<summary>🗃️ Inactive roles (1190)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1970,13 +1977,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company">The Boeing Company</a></strong></td>
 <td>Entry Level Software Engineer</td>
 <td>Richardson, TX</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Concept-Plus?utm_source=GHList&utm_medium=company">Concept Plus</a></strong></td>
-<td>Junior Software Developer</td>
-<td>Dayton, OH</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -9961,13 +9961,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Digital Product Configuration Management Engineer 1</td>
-<td>Burlington, MA</td>
-<td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/XMLNAME-2026-Raytheon-Full-Time-Digital-Product-Configuration-Management-Engineer-I--Onsite-_01855446?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/08acace2-9fd1-4285-8c6b-4ae9d8803e29?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>3d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Micron-Technology?utm_source=GHList&utm_medium=company">Micron Technology</a></strong></td>
 <td>New College Grad - Product Yield Enhancement Engineer - High Bandwidth Memory</td>
 <td>Boise, ID</td>
@@ -10189,7 +10182,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (259)</summary>
+<summary>🗃️ Inactive roles (260)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -10204,6 +10197,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <tbody>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Digital Product Configuration Management Engineer 1</td>
+<td>Burlington, MA</td>
+<td>🔒</td>
+<td>3d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Research Engineer 1</td>
 <td>Cambridge, MA</br>Arlington, VA</td>
 <td>🔒</td>
