@@ -11036,26 +11036,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Medline",
-        "id": "154690e8-ea3a-4ea7-ae27-66bbe8d41c26",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1762533859,
-        "date_posted": 1762533859,
-        "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Associate-Product-Manager---February-2026-Start-Date_R2512926",
-        "locations": [
-            "Northbrook, IL",
-            "Chicago, IL",
-            "Illinois"
-        ],
-        "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "SandboxAQ",
         "id": "7ffb2a24-a1f8-44ae-919d-08adcd8d134f",
@@ -11104,79 +11084,6 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Aritzia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Verisk",
-        "id": "c67a13f0-09f1-4760-b30a-c7e9cf8c9df2",
-        "title": "DSEP Participant",
-        "active": false,
-        "date_updated": 1762533405,
-        "date_posted": 1762533405,
-        "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2689",
-        "locations": [
-            "London, UK",
-            "Norwich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Verisk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leggett & Platt",
-        "id": "08186950-fa5e-4a4a-a183-6ecdc0cbc2d0",
-        "title": "IT Support Specialist 1",
-        "active": false,
-        "date_updated": 1762533967,
-        "date_posted": 1762533967,
-        "url": "https://careers.leggett.com/job/Havre-De-Grace-IT-Support-Specialist-I-MD-21078/1340704100/?ats=successfactors",
-        "locations": [
-            "Aberdeen, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Leggett-And-Platt",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NBCUniversal",
-        "id": "563ae690-6c94-47ca-a1c3-24fdf75bbf5a",
-        "title": "Technical Associate",
-        "active": false,
-        "date_updated": 1762912849,
-        "date_posted": 1762534045,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000090688885",
-        "locations": [
-            "Englewood, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Verkada",
-        "id": "2b322253-29ab-4fc3-85a4-3b57cfd1a0c9",
-        "title": "Technical Support Engineer - Industrial Placement - 12-months",
-        "active": false,
-        "date_updated": 1762534450,
-        "date_posted": 1762534450,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/4925509007",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -11763,24 +11670,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Verisk",
-        "id": "eca39507-eda0-4d66-bc40-2075cef16a94",
-        "title": "Data Modeler - Predictive Modelling",
-        "active": false,
-        "date_updated": 1762533396,
-        "date_posted": 1762533396,
-        "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2496",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Verisk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "ExxonMobil",
         "id": "37ac1a1a-335e-4256-8dcb-bc5790bf30f3",
         "title": "PhD Student",
@@ -11855,24 +11744,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "c0192ecc-071b-442c-bb36-66747ca918aa",
-        "title": "IBM Certified Tivoli Administrator",
-        "active": false,
-        "date_updated": 1762534390,
-        "date_posted": 1762534390,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999657119543",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Eurofins",
         "id": "6355c1ea-4c2f-4ba5-be9e-5c4d4ae79c5d",
         "title": "IT Support Engineer",
@@ -11938,24 +11809,6 @@
             "Anaheim, CA"
         ],
         "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Halifax Health",
-        "id": "fd4a461b-9a6a-4595-9ab8-4916380d33fe",
-        "title": "Integrated Healthcare Technology Technician",
-        "active": false,
-        "date_updated": 1762534500,
-        "date_posted": 1762534500,
-        "url": "https://halifaxhealth.wd12.myworkdayjobs.com/halifaxhealth/job/US-FL-Daytona-Beach/Integrated-Healthcare-Technology-Technician_JR102939",
-        "locations": [
-            "Daytona Beach, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Halifax-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -25188,24 +25041,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "PROCEPT BioRobotics",
-        "id": "ab9b63d4-fc46-48d7-9ea6-00db3e98de11",
-        "title": "Associate Equipment Engineer",
-        "active": false,
-        "date_updated": 1763723808,
-        "date_posted": 1762534424,
-        "url": "https://jobs.lever.co/procept-biorobotics/5a68b46b-9399-4310-b63c-3f0b5770e4f2/apply",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ProceptBioRobotics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Apple",
         "id": "0544250a-00ca-4fb1-9dd0-2314da948c3d",
@@ -35513,26 +35348,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lawrence Berkeley National Laboratory",
-        "id": "8a16bb7e-8255-44bf-b866-099b47805b14",
-        "title": "Materials Synthesis Postdoctoral Scholar",
-        "active": false,
-        "date_updated": 1762533476,
-        "date_posted": 1762533476,
-        "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=105321",
-        "locations": [
-            "Berkeley, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -84506,26 +84321,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vistry Group",
-        "id": "441064e7-e55d-47b0-8c08-9d82095a933d",
-        "title": "Real Estate Graduate",
-        "active": false,
-        "date_updated": 1768461710,
-        "date_posted": 1762534254,
-        "url": "https://careers-vistrygroup.icims.com/jobs/7958/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Odenton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Vistry-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
         ]
     },
     {
@@ -279274,26 +279069,6 @@
             "Wheeling, IL"
         ],
         "company_url": "https://simplify.jobs/c/LG-Electronics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "mthree",
-        "id": "de2aa833-1aeb-4eec-b942-b25dd9ec163a",
-        "title": "Junior Software Developer - Go Lang",
-        "active": true,
-        "date_updated": 1762816874,
-        "date_posted": 1762533054,
-        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Mthree",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
