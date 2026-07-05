@@ -11074,24 +11074,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Anything",
-        "id": "f8b74ac0-f617-4773-a41c-52b1303723b6",
-        "title": "Content Engineer",
-        "active": false,
-        "date_updated": 1762532946,
-        "date_posted": 1762532946,
-        "url": "https://jobs.ashbyhq.com/anything/2012e41b-0e89-4ca3-8135-893226b5f836/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Anything",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Globus Medical",
         "id": "6c71c6ad-a163-4c75-adc8-0c85a5efc2d4",
@@ -11104,24 +11086,6 @@
             "King of Prussia, PA"
         ],
         "company_url": "https://simplify.jobs/c/Globus-Medical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BetterHelp",
-        "id": "07a7c346-27c2-4741-8582-898b8d2130e4",
-        "title": "AI Extern",
-        "active": false,
-        "date_updated": 1762532930,
-        "date_posted": 1762532930,
-        "url": "https://job-boards.greenhouse.io/betterhelpcom/jobs/4679163008",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/BetterHelp",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -11902,171 +11866,6 @@
             "Columbus, OH"
         ],
         "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nexstar",
-        "id": "a6e55308-bc75-4dd0-b6c5-6d84cc019438",
-        "title": "Newsnation - Technical Assistant - Part-time",
-        "active": false,
-        "date_updated": 1762913659,
-        "date_posted": 1762532419,
-        "url": "https://nexstar.wd5.myworkdayjobs.com/nexstar/job/NY-New-York/NewsNation---Technical-Assistant---Part-time_REQ-37343",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Nexstar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cohere",
-        "id": "143e1a80-c0aa-434f-8d41-77ca90a30883",
-        "title": "Forward Deployed Engineer - Prompt Specialist",
-        "active": false,
-        "date_updated": 1762532433,
-        "date_posted": 1762532433,
-        "url": "https://jobs.ashbyhq.com/cohere/6745547c-cc72-466c-867c-a0539b04909b/application",
-        "locations": [
-            "Montreal, QC, Canada",
-            "Toronto, ON, Canada",
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Cohere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Oklahoma",
-        "id": "41d10584-593e-4edb-a8b2-424ebab1e8e9",
-        "title": "Data Technician",
-        "active": false,
-        "date_updated": 1762532149,
-        "date_posted": 1762532149,
-        "url": "https://ou.taleo.net/careersection/2/jobdetail.ftl?job=252356",
-        "locations": [
-            "Norman, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Oklahoma",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Epicrispr Biotechnologies",
-        "id": "e5eace46-ae51-434e-a3cc-277073bd51c7",
-        "title": "Associate Data Scientist / Data Scientist 1",
-        "active": false,
-        "date_updated": 1762819847,
-        "date_posted": 1762532675,
-        "url": "https://job-boards.greenhouse.io/epicbio/jobs/5587739004",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Epicrispr-Biotechnologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Recursion Pharmaceuticals",
-        "id": "f7829c2d-8909-4ae9-8f96-560906fa0dce",
-        "title": "Data Science Returnship",
-        "active": false,
-        "date_updated": 1762532498,
-        "date_posted": 1762532498,
-        "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7345334",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/RecursionPharma",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mercer University",
-        "id": "b3784d33-ad4f-45fa-b10c-6347a4ea3e1d",
-        "title": "Events Backstage and Production Booth Technician",
-        "active": false,
-        "date_updated": 1762911100,
-        "date_posted": 1762532435,
-        "url": "https://merceruniversity.wd1.myworkdayjobs.com/student/job/Macon-Campus/Events--Backstage-and-Production-Booth-Tech_JR103440",
-        "locations": [
-            "Macon, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mercer-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "2753bbb8-8695-46ca-9ab3-062953b9c0c0",
-        "title": "Part-Time Research Assistants-Statistics",
-        "active": false,
-        "date_updated": 1762531752,
-        "date_posted": 1762531752,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistants-Statistics_REQ_0000055596-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adtheorant",
-        "id": "7e09ffdb-e694-4112-850c-2b99e71cedc2",
-        "title": "Data Analytics - Junior Associate",
-        "active": false,
-        "date_updated": 1762922521,
-        "date_posted": 1762532229,
-        "url": "https://careers-cadent.icims.com/jobs/1270/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Adtheorant",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Duke Energy",
-        "id": "6cda351f-2e37-49ae-81f1-e76dde33dd0c",
-        "title": "Associate Operational Technical Analyst",
-        "active": false,
-        "date_updated": 1762531805,
-        "date_posted": 1762531805,
-        "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Plainfield-IN/Associate-Operational-Technical-Analyst_R37352",
-        "locations": [
-            "Plainfield, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Duke-Energy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -65845,24 +65644,6 @@
             "Clearwater, FL"
         ],
         "company_url": "https://simplify.jobs/c/Geosyntec-Consultants",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Intercontinental Exchange",
-        "id": "8e331c03-3a71-4316-aa12-17df950b171a",
-        "title": "Associate Financial Engineer",
-        "active": false,
-        "date_updated": 1767309971,
-        "date_posted": 1762531877,
-        "url": "https://careers-ice.icims.com/jobs/11703/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/ICEMarkets",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -132632,25 +132413,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Goodnotes",
-        "id": "20443b1a-7a60-4d70-9c62-24bb5d18a5ea",
-        "title": "Machine Learning Researcher \u2013 Fresh Graduates are welcome - Handwriting",
-        "active": false,
-        "date_updated": 1771226525,
-        "date_posted": 1762532293,
-        "url": "https://job-boards.greenhouse.io/goodnotes/jobs/5569058004",
-        "locations": [
-            "London, UK",
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Goodnotes",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
