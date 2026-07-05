@@ -253573,7 +253573,7 @@
         "company_name": "McKesson",
         "id": "b6f45935-4a59-4442-a3b4-257ac48ab46f",
         "title": "Product Development Coordinator",
-        "active": false,
+        "active": true,
         "date_updated": 1777587804,
         "date_posted": 1777586892,
         "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-VA-Richmond/Product-Development-Coordinator--Hybrid_JR0143232",
@@ -278169,7 +278169,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -304602,9 +304602,9 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Metropolitan Transportation Authority",
-        "id": "bb38c2b4-980c-4afe-b92c-df899573cea1",
+        "id": "ff4d4740-3fd4-4dce-9f5d-2ffad59028cc",
         "title": "Application Developer 3 - Data and AI Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1780912873,
         "date_posted": 1780912784,
         "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oygdzfwk?nl=1&nl=1&fr=false",
@@ -316302,7 +316302,7 @@
         "company_name": "Withum",
         "id": "9b7de8ac-9ec0-4667-b20c-edcde5abe3f0",
         "title": "Healthcare Claims Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781427028,
         "date_posted": 1781426428,
         "url": "https://job-boards.greenhouse.io/withumsmithbrown/jobs/8459137002",
@@ -340647,7 +340647,7 @@
         "company_name": "Micron Technology",
         "id": "c2582b57-89c6-4642-a9f2-b5a0b7e3678a",
         "title": "New College Grad - Product Yield Enhancement Engineer - High Bandwidth Memory",
-        "active": true,
+        "active": false,
         "date_updated": 1782988284,
         "date_posted": 1782956886,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Product-Yield-Enhancement-Engineer--HBM_JR104805",
@@ -343955,6 +343955,28 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Becton Dickinson",
+        "id": "d5334592-4814-4ea5-a7f1-14bb1ae228ca",
+        "title": "Commercial Analytics Engineer - Go To Market Analytics",
+        "active": true,
+        "date_updated": 1783248364,
+        "date_posted": 1783173955,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Commercial-Analytics-Engineer---Go-To-Market-Analytics_R-548948-1",
+        "locations": [
+            "Midland Park, NJ",
+            "Vernon Hills, IL",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
