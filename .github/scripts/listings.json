@@ -287103,7 +287103,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": false,
+        "active": true,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -292978,7 +292978,7 @@
         "company_name": "RTX",
         "id": "e739e2f1-b776-4dd0-a1e8-e2b24a8ac460",
         "title": "Configuration Management Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1780274571,
         "date_posted": 1780139378,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MIDLAND-450--450-Leitz-Rd--BLDG-450/Configuration-Management-Specialist_01840354",
@@ -343414,7 +343414,7 @@
         "company_name": "GE Healthcare",
         "id": "7e3f8ed0-1008-4885-9949-187f282c315b",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783164046,
         "date_posted": 1781950914,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4042289-1",
@@ -343978,5 +343978,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KION Group",
+        "id": "df8fdb7f-8b26-4b9b-a196-acc56e848e2e",
+        "title": "Assembly Technician",
+        "active": true,
+        "date_updated": 1783249819,
+        "date_posted": 1783161027,
+        "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Assembly-Technician_JR-0088176",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KION-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
