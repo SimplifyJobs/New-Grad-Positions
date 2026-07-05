@@ -208098,7 +208098,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "bca74012-9462-4061-95f7-b27d58666e24",
+        "id": "4042a11a-8433-4d3c-b163-eb95de05c795",
         "title": "Operations Research Postdoctoral Researcher",
         "active": true,
         "date_updated": 1774986841,
@@ -267239,7 +267239,7 @@
         "company_name": "Western Digital",
         "id": "5e02390a-cb89-4c3e-bcb5-d9ef5ed73f13",
         "title": "Software Engineer - Apps & Firmware",
-        "active": true,
+        "active": false,
         "date_updated": 1778707982,
         "date_posted": 1778623482,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126151504",
@@ -267996,7 +267996,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "ServiceNow",
-        "id": "b3ed9e95-62a3-4499-b1b0-38840f1f4711",
+        "id": "ce260f13-eca8-4ce4-b243-d56296546ce9",
         "title": "Software Engineer - Agentic AI Systems - Moveworks",
         "active": true,
         "date_updated": 1778720941,
@@ -270785,7 +270785,7 @@
         "company_name": "Western Digital",
         "id": "d3dfea1b-c649-4bb7-a956-377922e3f9be",
         "title": "Software Engineer - Apps & Firmware",
-        "active": false,
+        "active": true,
         "date_updated": 1778807168,
         "date_posted": 1778807100,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126593979",
@@ -287083,7 +287083,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -287103,7 +287103,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": true,
+        "active": false,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -288574,7 +288574,7 @@
         "company_name": "Wabtec",
         "id": "58d0b6ca-a9a4-477a-a725-e2d3da87d7b8",
         "title": "Product Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779872657,
         "date_posted": 1779872657,
         "url": "https://jobs.smartrecruiters.com/Wabtec/3743990012585977",
@@ -305333,7 +305333,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": true,
+        "active": false,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -318254,7 +318254,7 @@
         "company_name": "Goldman Sachs",
         "id": "a3ee586e-9f97-4009-92cc-dc4affda3b3a",
         "title": "Asset & Wealth Management - Quantitative Investment Strategies - ETF Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1781648474,
         "date_posted": 1781638708,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176625",
@@ -342299,7 +342299,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc5879a8-4b16-4bc4-90e6-ab5042dcaab1",
         "title": "Asset & Wealth Management - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1783041481,
         "date_posted": 1782742015,
         "url": "https://higher.gs.com/roles/176984",
@@ -342339,7 +342339,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -343996,5 +343996,68 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ramboll",
+        "id": "8ec7d10c-7d52-4287-a21c-ecc4f4e67140",
+        "title": "Geologist/Hydrogeologist Associate",
+        "active": true,
+        "date_updated": 1783261374,
+        "date_posted": 1783260263,
+        "url": "https://jobs.smartrecruiters.com/Ramboll3/744000132475979",
+        "locations": [
+            "Syracuse, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Ramboll",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Alta Resource Technologies",
+        "id": "4eba7e60-7ddc-4173-b5eb-3bc982688cf5",
+        "title": "Data Engineer Junior",
+        "active": true,
+        "date_updated": 1783261327,
+        "date_posted": 1783260896,
+        "url": "https://job-boards.greenhouse.io/altaresourcetechnologiesinc/jobs/4225005009",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Alta-Resource-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Headlands Tech Holdings",
+        "id": "90b92c02-68ac-4402-b8f2-91494bc89e19",
+        "title": "Research Developer New Grad",
+        "active": true,
+        "date_updated": 1783260759,
+        "date_posted": 1783260128,
+        "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
+        "locations": [
+            "London, UK",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Headlands-Tech-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
