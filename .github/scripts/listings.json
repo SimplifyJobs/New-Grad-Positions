@@ -12091,42 +12091,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "M&T Bank",
-        "id": "4c350ea4-7e0a-40c1-a812-6bbd9c0f9058",
-        "title": "Merchant Services Product Manager 1",
-        "active": false,
-        "date_updated": 1762923135,
-        "date_posted": 1762473770,
-        "url": "https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Merchant-Services-Product-Manager-I_R74433-1",
-        "locations": [
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/M-And-T-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Genuine Parts Company",
-        "id": "40bb0c77-e1af-4f16-8567-3c5ff875caf8",
-        "title": "Motion Ai-Automation Engineer",
-        "active": false,
-        "date_updated": 1762473891,
-        "date_posted": 1762473891,
-        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Milpitas-CA-USA/Automation-Engineer_R25_0000032796",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "CACI",
         "id": "d6fe49c3-4efa-4652-9b5e-7609bea7f2c4",
