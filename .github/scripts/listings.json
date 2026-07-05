@@ -1,149 +1,5 @@
 [
     {
-        "date_updated": 1762554697,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4615879006",
-        "company_name": "NewsBreak",
-        "title": "Software Engineer, ML Infra (Junior & New Grad)",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "699a858e-37ed-4cf5-b038-da228c57e7c6",
-        "date_posted": 1762554697,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762554734,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/celonis/jobs/6598373003?gh_jid=6598373003",
-        "company_name": "Celonis",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "Los Angeles, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "c114faa5-a8bc-4503-8681-5bdee2051c92",
-        "date_posted": 1762554734,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1766718336,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/94f60162-99c7-4251-bbb5-dc9582902422?dcr_ci=ServiceNow",
-        "company_name": "ServiceNow",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "Waltham, MA"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "c36e584f-e56e-4e2d-9ba5-dea79f90ff66",
-        "date_posted": 1762554778,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762779326,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.lever.co/Trend-Health-Partners/d975ec6f-3b70-4993-af9f-9cfd715ca399",
-        "company_name": "Trend Health Partners",
-        "title": "Machine Learning Engineer I",
-        "locations": [
-            "Remote in USA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "0a4e0ab7-61ef-4cb0-affb-57680b199151",
-        "date_posted": 1762554791,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762554834,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.smartrecruiters.com/BryceTech/f40e9665-32d7-47d8-90fd-ac1f18dc05be?dcr_ci=BryceTech",
-        "company_name": "BryceTech",
-        "title": "Junior Exercise Software IT Specialist",
-        "locations": [
-            "Suffolk, VA"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "3e8a341b-5b62-445c-8382-6d3bdb849f34",
-        "date_posted": 1762554834,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763561375,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-98561-1",
-        "company_name": "Expedia Group",
-        "title": "Software Development Engineer I",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "af8ffce5-dd20-4103-80be-08e9bd58f84e",
-        "date_posted": 1762554873,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1765891977,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Medina-Minnesota/Associate-Software-Quality-Engineer_R7865",
-        "company_name": "AspenTech",
-        "title": "Associate Software Quality Engineer",
-        "locations": [
-            "Medina, MN"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "5ac059b5-bf58-4eb3-9df5-5a1a5094d78d",
-        "date_posted": 1762554945,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1766718336,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Medina-Minnesota/Associate-Software-Quality-Engineer_R8022-1",
-        "company_name": "AspenTech",
-        "title": "Associate Software Quality Engineer",
-        "locations": [
-            "Medina, MN"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "b1badcc7-16a0-4989-9c61-667c4ae9425b",
-        "date_posted": 1762555474,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Esri",
@@ -342145,5 +342001,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Tower Research Capital",
+        "id": "5825825a-af07-4016-acd3-ebb1c85f9d91",
+        "title": "Quantitative Trader",
+        "active": true,
+        "date_updated": 1783290961,
+        "date_posted": 1783290840,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=8024142",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
