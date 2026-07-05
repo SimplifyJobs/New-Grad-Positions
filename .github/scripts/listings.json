@@ -11018,78 +11018,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "3b400fc1-4cf0-4aad-8a65-c125e53ae3f5",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1762906894,
-        "date_posted": 1762535266,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/104997361",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SandboxAQ",
-        "id": "7ffb2a24-a1f8-44ae-919d-08adcd8d134f",
-        "title": "Software Engineering Intern - Hardware Interface",
-        "active": false,
-        "date_updated": 1763116847,
-        "date_posted": 1762536071,
-        "url": "https://www.sandboxaq.com/job-openings?gh_jid=5646274004",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SandboxAQ",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Globus Medical",
-        "id": "6c71c6ad-a163-4c75-adc8-0c85a5efc2d4",
-        "title": "Product Manager",
-        "active": false,
-        "date_updated": 1762535006,
-        "date_posted": 1762535006,
-        "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Product-Manager_JR103718",
-        "locations": [
-            "King of Prussia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Globus-Medical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Aritzia",
-        "id": "be31e968-db52-4bb1-9213-a594df096293",
-        "title": "Product Technical Development Fit Model - Size 4",
-        "active": false,
-        "date_updated": 1762918766,
-        "date_posted": 1762535614,
-        "url": "https://aritzia.wd3.myworkdayjobs.com/External/job/Support-Office-Vancouver/Technical-Development---Size-4-Fit-Model_R0002378",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Aritzia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "TikTok",
         "id": "3358fff6-e5b8-4f7d-89dc-5337053ef0a3",
@@ -11102,133 +11030,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Chicago",
-        "id": "b6aa9221-6ea0-4ee5-ae68-a5b83b82a03a",
-        "title": "Data Science - Analyst",
-        "active": false,
-        "date_updated": 1762535241,
-        "date_posted": 1762535241,
-        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science--Analyst_JR31922-1",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Flip",
-        "id": "f4a2911b-da73-42ec-974c-00805a228a1d",
-        "title": "CX Data Analyst - Transportation",
-        "active": false,
-        "date_updated": 1762535215,
-        "date_posted": 1762535215,
-        "url": "https://job-boards.greenhouse.io/flip/jobs/4947308008",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Flip-CX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "ebb558c2-42cf-4d74-bf9a-7ce8cdc60e99",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1762535114,
-        "date_posted": 1762535114,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999656874267",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lumen Technologies",
-        "id": "67715aad-c7d9-48e3-9595-1367395ebcb3",
-        "title": "Network Technician - Cwa",
-        "active": false,
-        "date_updated": 1762535240,
-        "date_posted": 1762535240,
-        "url": "https://jobs.lumen.com/global/en/job/338016",
-        "locations": [
-            "Orleans, NE",
-            "North Platte, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Artech Information System",
-        "id": "ca88e4a0-5f30-414e-bf05-902e87a1b36c",
-        "title": "Repairs Services Associate",
-        "active": false,
-        "date_updated": 1762911513,
-        "date_posted": 1762535301,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/99669868",
-        "locations": [
-            "Long Island, New York"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Charles River Associates (CRA)",
-        "id": "5e65a9bd-e559-473e-b74d-7dcbc217864b",
-        "title": "Data Analytics Consulting Analyst/Associate - Data Analytics Consulting Analyst/Associate",
-        "active": false,
-        "date_updated": 1762906182,
-        "date_posted": 1762535629,
-        "url": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/7335373",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Charles-River-Associates",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "2bec1a7d-914d-4faa-b3ff-7b88b93296a5",
-        "title": "Desktop support",
-        "active": false,
-        "date_updated": 1762535121,
-        "date_posted": 1762535121,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999655440001",
-        "locations": [
-            "Lubbock, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -11301,24 +11102,6 @@
             "Ipswich, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Robert Bosch Venture Capital",
-        "id": "690caaed-b4ea-4781-8be9-4791871640d5",
-        "title": "Graduate Placement - Product Engineering - Months 2025 Placement",
-        "active": false,
-        "date_updated": 1762536322,
-        "date_posted": 1762536322,
-        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000089046325",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Bosch",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -11645,98 +11428,6 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Astreya",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Robert Bosch Venture Capital",
-        "id": "2d90d8e4-085b-4ceb-839d-7e236114be13",
-        "title": "ISP Partner Graduate",
-        "active": false,
-        "date_updated": 1762536402,
-        "date_posted": 1762536402,
-        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000088317820",
-        "locations": [
-            "Stratford-upon-Avon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Bosch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ExxonMobil",
-        "id": "37ac1a1a-335e-4256-8dcb-bc5790bf30f3",
-        "title": "PhD Student",
-        "active": false,
-        "date_updated": 1762938480,
-        "date_posted": 1762535033,
-        "url": "https://jobs.exxonmobil.com/ExxonMobil/job/Houston-PhD-Students-Seeking-Full-Time-Employment-TX-77001/1314976300/?ats=successfactors",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/ExxonMobil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "89d5349f-2c66-4a91-8d29-81f3471fcb89",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1762907055,
-        "date_posted": 1762535266,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/104997437",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "68dbc247-02ba-40e3-ad3c-77dd882dbe16",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1762906986,
-        "date_posted": 1762535264,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/104997642",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "5709ac9e-a849-4630-b572-1d65ea4f85ba",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1762535264,
-        "date_posted": 1762535264,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/104997489",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -12196,24 +11887,6 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Google",
-        "id": "8122af8b-f8ee-4025-a43c-a863de2b12e3",
-        "title": "Product Manager 1 - Kids Content Machine Learning",
-        "active": false,
-        "date_updated": 1762929311,
-        "date_posted": 1762535291,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/72221174532055750",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -18489,24 +18162,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "SAS",
-        "id": "f71a9c57-e340-47f4-8b49-38c4244e2db8",
-        "title": "Software Developer - Emerging Career - 0",
-        "active": false,
-        "date_updated": 1763509388,
-        "date_posted": 1762534983,
-        "url": "https://careers-sas.icims.com/jobs/39730/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/SAS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Tastylive",
         "id": "e0c9eb9b-2efe-4201-80f6-fae59526e7aa",
@@ -21896,24 +21551,6 @@
             "Hereford, UK"
         ],
         "company_url": "https://simplify.jobs/c/Malvern-Panalytical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Kimley-Horn",
-        "id": "55f5d9e4-a505-4fd8-867a-3dad3080ccca",
-        "title": "GIS Analyst",
-        "active": false,
-        "date_updated": 1763667150,
-        "date_posted": 1762535048,
-        "url": "https://careers-kimley-horn.icims.com/jobs/20773/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Fort Worth, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Kimley-Horn",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -276785,24 +276422,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Rogo",
-        "id": "18e45b1f-ec9d-4b39-b46f-20fe586900e8",
-        "title": "Product Manager - Enterprise",
-        "active": false,
-        "date_updated": 1779351661,
-        "date_posted": 1762535151,
-        "url": "https://jobs.ashbyhq.com/rogo/ccecba20-cd08-4ab6-82bf-1c7df8b2719e/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Rogo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
