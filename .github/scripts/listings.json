@@ -1,41 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "14ab0e89-be76-410f-97d1-d2821f3daba3",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1762539294,
-        "date_posted": 1762539294,
-        "url": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/88136864768",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "a26f59eb-1079-48eb-9709-4f93545c30f9",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1762539302,
-        "date_posted": 1762539302,
-        "url": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/88136864736",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1762557353,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -10469,120 +10433,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Johnson Controls",
-        "id": "dd37ea19-ee6a-4a02-a48c-cbe18c07cd27",
-        "title": "System Administrator",
-        "active": false,
-        "date_updated": 1762538792,
-        "date_posted": 1762538792,
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/San-Leandro-California-United-States-of-America/System-Administrator_WD30215103",
-        "locations": [
-            "San Leandro, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Controls",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Global Atlantic Financial Group",
-        "id": "693f7801-950a-448f-bb63-26fcde803afa",
-        "title": "Analyst \u2013 Product Operations",
-        "active": false,
-        "date_updated": 1762906849,
-        "date_posted": 1762538996,
-        "url": "https://job-boards.greenhouse.io/gafg/jobs/7232918",
-        "locations": [
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/GlobalAtlantic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Electronic Arts",
-        "id": "ef3a0aa3-5ed5-4ca8-aa81-b4f45046553f",
-        "title": "Machine Learning Scientist PhD Student Catalyst",
-        "active": false,
-        "date_updated": 1762539840,
-        "date_posted": 1762539840,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Machine-Learning-Scientist-PhD-Student-Catalyst/210863",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Uline",
-        "id": "60886cf4-9ee8-4a83-a533-3ac161898d49",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1762538731,
-        "date_posted": 1762538731,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-Product-Manager_R259019-1",
-        "locations": [
-            "Waukegan, IL",
-            "Milwaukee, WI",
-            "Pleasant Prairie, WI",
-            "Morton Grove, IL",
-            "Kenosha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Eudia",
-        "id": "ba658453-de63-4f33-bdc2-2f5540430974",
-        "title": "AI Fellowship: Cracked Academy",
-        "active": false,
-        "date_updated": 1762538619,
-        "date_posted": 1762538619,
-        "url": "https://job-boards.greenhouse.io/eudia/jobs/4048654009",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Eudia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Invesco",
-        "id": "3f6ac51a-f6c7-4be7-84c5-8a9b8e20ee39",
-        "title": "ETF Product Development Analyst",
-        "active": false,
-        "date_updated": 1762539471,
-        "date_posted": 1762539471,
-        "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/London-London/EMEA-ETF-Product-Development-Analyst_R-12150-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Invesco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "American Express",
         "id": "fc3bda46-3ce2-4585-934c-4514f2ba017d",
@@ -10595,61 +10445,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rockwell Automation",
-        "id": "a8b9b4a2-03be-4200-92ae-22f11658a057",
-        "title": "Embedded Software Engineer - Product Security",
-        "active": false,
-        "date_updated": 1762539941,
-        "date_posted": 1762539941,
-        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Senior-Product-Security-Engineer_R25-4246",
-        "locations": [
-            "Mayfield Heights, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Thales",
-        "id": "68c672fe-40ed-4635-98c1-deb804a6169e",
-        "title": "Engineering Graduate",
-        "active": false,
-        "date_updated": 1762924974,
-        "date_posted": 1762539837,
-        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2026-Engineering-Graduate_R0298345-1",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Thales",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "John Deere",
-        "id": "0a412f3e-372e-442b-a96d-08bd11d5b851",
-        "title": "Student - Quality Analytics - Data and Analytics",
-        "active": false,
-        "date_updated": 1762917590,
-        "date_posted": 1762538600,
-        "url": "https://johndeere.eightfold.ai/careers/job/137477670658",
-        "locations": [
-            "Grimes, IA",
-            "Ames, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/John-Deere",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -10783,24 +10578,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Cook Group",
-        "id": "c79e75a1-8d94-4850-bfdc-4fc5969cdb6d",
-        "title": "IT Support Services Associate 1",
-        "active": false,
-        "date_updated": 1763130869,
-        "date_posted": 1762539718,
-        "url": "https://americas-cookmedical.icims.com/jobs/17610/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cook-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Papa John's",
         "id": "97d82a4e-ed78-4ab2-b56e-e37815c6a0ed",
         "title": "Installer Trainer",
@@ -10819,60 +10596,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Oshkosh",
-        "id": "23504a83-ebc3-494e-9fc1-3889b4c0fddb",
-        "title": "NASCAR Track Support Engineer-Entry Level",
-        "active": false,
-        "date_updated": 1762538594,
-        "date_posted": 1762538594,
-        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/NASCAR-Track-Support-Engineer-Entry-Level_R41700",
-        "locations": [
-            "Huntersville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Oshkosh",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ciena",
-        "id": "c06c369c-856a-4418-94f7-408f546e4637",
-        "title": "D\u00e9veloppeur Microsoft - Stage Hiver 2026 - 4 mois",
-        "active": false,
-        "date_updated": 1762912237,
-        "date_posted": 1762538760,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Dveloppeur-Microsoft-365---Stage-Hiver-2026---4-mois_R029414",
-        "locations": [
-            "Quebec City, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Scientific Games",
-        "id": "d7aab202-d16e-4628-8868-b585a0bd8f82",
-        "title": "Field Service Technician 1 - North West - AZ",
-        "active": false,
-        "date_updated": 1762940013,
-        "date_posted": 1762538676,
-        "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Arizona-US/Field-Service-Tech-I---North-West--AZ_R503131",
-        "locations": [
-            "Arizona"
-        ],
-        "company_url": "https://simplify.jobs/c/Scientific-Games",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Royal Bank of Canada",
         "id": "ab4ed944-7f16-4c17-9627-6443aaa943cb",
         "title": "Data Engineer",
@@ -10884,62 +10607,6 @@
             "Calgary, AB, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "1607b945-2f8c-4166-a504-85afde1205d6",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1762538545,
-        "date_posted": 1762538545,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/Engineer-Principal-Engineer-Software_R10211264",
-        "locations": [
-            "Rancho Cordova, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "TRIC Robotics",
-        "id": "961ca440-8253-4354-97c1-0b43d447c777",
-        "title": "Oxnard Field Operator",
-        "active": false,
-        "date_updated": 1762539252,
-        "date_posted": 1762539252,
-        "url": "https://tricrobotics.bamboohr.com/careers/50/",
-        "locations": [
-            "Oxnard, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TRIC-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GHD",
-        "id": "5a4387dc-5171-4f83-8e02-c69a7c51786e",
-        "title": "Graduate Engineer",
-        "active": false,
-        "date_updated": 1762538526,
-        "date_posted": 1762538526,
-        "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23799",
-        "locations": [
-            "Houston, TX",
-            "Norridge, IL",
-            "Southfield, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/GHD",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -11084,24 +10751,6 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Carvana",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Freudenberg Group",
-        "id": "944532fe-820f-4370-b194-661933722701",
-        "title": "IT Service Specialist",
-        "active": false,
-        "date_updated": 1762538486,
-        "date_posted": 1762538486,
-        "url": "https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Lebanon-IN/IT-Service-Specialist_R_00093409",
-        "locations": [
-            "Whitestown, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Freudenberg-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
