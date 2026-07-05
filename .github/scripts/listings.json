@@ -37,24 +37,6 @@
         "is_visible": true
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TD Bank",
-        "id": "d3d2420c-88e1-4dbf-8f26-729ec5ac165f",
-        "title": "Software Engineer 1 - Technology Solutions",
-        "active": false,
-        "date_updated": 1762543578,
-        "date_posted": 1762543578,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1451394",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1762554697,
         "sponsorship": "Other",
         "active": true,
@@ -10427,60 +10409,6 @@
             "Miami, FL"
         ],
         "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Leidos",
-        "id": "dad2ffac-9f5d-47b5-b845-4c5ceb510393",
-        "title": "Decal Lab Technician",
-        "active": false,
-        "date_updated": 1762543825,
-        "date_posted": 1762543825,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Webster-TX/Decal-Lab-Technician_R-00170050",
-        "locations": [
-            "Webster, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genuine Parts Company",
-        "id": "a70e8aae-0ae4-4d26-b2d6-42dd6dcb5250",
-        "title": "PIM Data Analyst - Vendor Relations-2",
-        "active": false,
-        "date_updated": 1762543544,
-        "date_posted": 1762543544,
-        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/PIM-Data-Analyst---Vendor-Relations-2_R25_0000033456",
-        "locations": [
-            "Birmingham, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Papa John's",
-        "id": "97d82a4e-ed78-4ab2-b56e-e37815c6a0ed",
-        "title": "Installer Trainer",
-        "active": false,
-        "date_updated": 1762543563,
-        "date_posted": 1762543563,
-        "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Louisville/Installer-Trainer_R25_0000000590",
-        "locations": [
-            "Louisville, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Papa-Johns",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -342281,6 +342209,26 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Headlands-Tech-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "7e134007-3fa8-4732-84ca-e7119c8f4116",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1782741985,
+        "date_posted": 1782741889,
+        "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
