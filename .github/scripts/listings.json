@@ -342099,5 +342099,43 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Diligent Corporation",
+        "id": "d2726d53-5ea3-4e53-ac66-793145403143",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1783319626,
+        "date_posted": 1783319524,
+        "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6020954004",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Diligent-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Celonis",
+        "id": "d2281e01-32fb-4463-bf0e-308726070837",
+        "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
+        "active": true,
+        "date_updated": 1783319401,
+        "date_posted": 1783319362,
+        "url": "https://job-boards.greenhouse.io/celonis/jobs/7725788003?gh_jid=7725788003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Celonis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
