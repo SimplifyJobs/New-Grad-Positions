@@ -93,24 +93,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Versaterm",
-        "id": "8a3f9fa0-e010-4e72-b2ab-9a9350dd7515",
-        "title": "Software Engineer I - Community Report",
-        "active": false,
-        "date_updated": 1762619159,
-        "date_posted": 1762619159,
-        "url": "https://job-boards.greenhouse.io/versaterm/jobs/4981617008",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Versaterm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "General Dynamics Information Technology",
         "id": "d3f3a88a-3946-4704-9375-3afd0df7aeda",
         "title": "Software Engineer I",
@@ -9798,42 +9780,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Medtronic",
-        "id": "fdef2b27-32dc-4b85-b8bf-a4ff4c7273f3",
-        "title": "Senior Systems Engineer - Neuro",
-        "active": false,
-        "date_updated": 1762924764,
-        "date_posted": 1762618752,
-        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Sr-Systems-Engineer---Neuro_R51255",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Medtronic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SpaceX",
-        "id": "e0ab1b4d-28e7-45de-b587-cae9ad9849dd",
-        "title": "Full Stack Software Engineer - Security - Starlink",
-        "active": false,
-        "date_updated": 1762618827,
-        "date_posted": 1762618827,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8246482002",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Lumen Technologies",
         "id": "d7a2467c-f04c-4895-a54f-1594f4579a91",
         "title": "Enhanced Premise Technician",
@@ -10119,61 +10065,6 @@
             "Seal Beach, CA"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Continental Resources",
-        "id": "6e18360a-520b-40b1-b540-faeacbfba6ac",
-        "title": "Environmental Engineer - Air Quality",
-        "active": false,
-        "date_updated": 1762924779,
-        "date_posted": 1762619251,
-        "url": "https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Environmental-Engineer---Air-Quality_R02413",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Continental-Resources",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Allegion",
-        "id": "66b26049-e618-4b64-98e0-1a289f9bf0ee",
-        "title": "Product Experience Specialist",
-        "active": false,
-        "date_updated": 1762619357,
-        "date_posted": 1762619357,
-        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Product-Experience-Specialist_JR34370",
-        "locations": [
-            "Carmel, IN",
-            "Parsippany-Troy Hills, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Allegion",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nelnet",
-        "id": "5d17816a-6dcc-44e7-a856-ed59629d7593",
-        "title": "System Analyst",
-        "active": false,
-        "date_updated": 1762619352,
-        "date_posted": 1762619352,
-        "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/System-Analyst_R21929",
-        "locations": [
-            "Lincoln, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Nelnet",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -16412,24 +16303,6 @@
             "Omaha, NE"
         ],
         "company_url": "https://simplify.jobs/c/AGCO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Formlabs",
-        "id": "0921bbb1-42de-4e67-8a6f-42386849cf4e",
-        "title": "Engineering Technician",
-        "active": false,
-        "date_updated": 1763459767,
-        "date_posted": 1762618870,
-        "url": "https://careers.formlabs.com/job/7384787/apply/?gh_jid=7384787",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Formlabs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -55349,24 +55222,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Formlabs",
-        "id": "098b0b63-dd32-425a-8ad4-dcfe684b5b1e",
-        "title": "Engineering Technician",
-        "active": false,
-        "date_updated": 1766141610,
-        "date_posted": 1762618873,
-        "url": "https://careers.formlabs.com/job/7384786/apply/?gh_jid=7384786",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Formlabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Sherwin-Williams",
         "id": "0b5908be-12ff-42bf-ae2f-5e21df2a4bbd",
@@ -61551,24 +61406,6 @@
         "url": "https://job-boards.greenhouse.io/versaterm/jobs/5046646008",
         "locations": [
             "Mesa, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Versaterm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Versaterm",
-        "id": "35a3beb4-d5f6-4296-9d2d-6924f415fe30",
-        "title": "Software Engineer 2 - AI Services",
-        "active": false,
-        "date_updated": 1767198855,
-        "date_posted": 1762619167,
-        "url": "https://job-boards.greenhouse.io/versaterm/jobs/4981370008",
-        "locations": [
-            "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Versaterm",
         "is_visible": true,
