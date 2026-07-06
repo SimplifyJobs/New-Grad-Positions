@@ -9470,60 +9470,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "CVS Health",
-        "id": "b1733f7e-9d04-44ec-b785-7f7c69cbc318",
-        "title": "Technical Support Representative",
-        "active": false,
-        "date_updated": 1762627830,
-        "date_posted": 1762627830,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Smithfield/Technical-Support-Representative_R0763884",
-        "locations": [
-            "Smithfield, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TD Bank",
-        "id": "43420cc1-60d7-4395-b049-9e946d86e866",
-        "title": "Product Owner 1",
-        "active": false,
-        "date_updated": 1763118614,
-        "date_posted": 1762627288,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Product-Owner-I_R_1454564",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "JP Morgan Chase",
-        "id": "e84fb9c2-001a-4f38-9432-4789df8163a5",
-        "title": "Algorithmic Execution Automated Trading Strategist - Associate",
-        "active": false,
-        "date_updated": 1762908729,
-        "date_posted": 1762627032,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210684444",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Eurofins",
         "id": "6355c1ea-4c2f-4ba5-be9e-5c4d4ae79c5d",
         "title": "IT Support Engineer",
@@ -61928,24 +61874,6 @@
             "Hillsboro, OR"
         ],
         "company_url": "https://simplify.jobs/c/Atlas-Copco-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "WSP",
-        "id": "1227fe70-e6c3-4146-a1e6-ad90f6515002",
-        "title": "Assistant Technician - Field Services",
-        "active": false,
-        "date_updated": 1762908901,
-        "date_posted": 1762627462,
-        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/75353",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/WSP",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -211861,7 +211789,7 @@
         "company_name": "Muon Space",
         "id": "fe44618b-7715-4226-9975-99434d82f353",
         "title": "Electrical Hardware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775257381,
         "date_posted": 1775254911,
         "url": "https://job-boards.greenhouse.io/muonspace/jobs/5099251007",
@@ -286069,7 +285997,7 @@
         "company_name": "Penn Interactive",
         "id": "ecd72698-9c9f-4edf-ae02-439ce0410bf1",
         "title": "Trading Operations Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779919573,
         "date_posted": 1779919463,
         "url": "https://job-boards.greenhouse.io/penninteractive/jobs/6006111004",
@@ -330460,7 +330388,7 @@
         "company_name": "NRG Energy",
         "id": "c8d156e3-53e3-4705-a6af-acf096994913",
         "title": "Field Service Professional",
-        "active": true,
+        "active": false,
         "date_updated": 1782771742,
         "date_posted": 1782770802,
         "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Rialto-Field-Service-Professional-Rialto,-CA-CA-92376/1404199000/?ats=successfactors",
