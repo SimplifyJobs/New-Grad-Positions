@@ -209874,7 +209874,7 @@
         "company_name": "Agoda",
         "id": "b9c4a46f-2b41-4f0f-a9fa-7ba2e07f2f51",
         "title": "Supply Analytics Senior Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1775111401,
         "date_posted": 1773988105,
         "url": "https://job-boards.greenhouse.io/agoda/jobs/7698911",
@@ -319652,7 +319652,7 @@
         "company_name": "William & Mary",
         "id": "f8e59619-a702-4946-92d6-7050ae4fda63",
         "title": "HR Solutions Center Coordinator and Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781735941,
         "date_posted": 1781734135,
         "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Posting-Location---William--Mary/HR-Solutions-Center-Coordinator-and-Data-Analyst_JR101839",
@@ -322232,7 +322232,7 @@
         "company_name": "Townsquare Media",
         "id": "bbe0b2f1-3172-4df2-9da3-bb7f34e2dfab",
         "title": "Board Operator - Kfyo",
-        "active": true,
+        "active": false,
         "date_updated": 1781849966,
         "date_posted": 1781849851,
         "url": "https://careers.townsquaremedia.com/job-details/?gh_jid=8017766",
@@ -342396,6 +342396,44 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/d2aa3bc8-ea76-45c1-82e0-cc4f6d9878a5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Man Group",
+        "id": "b5770e6a-b77f-467c-98db-9d7df2ac6edb",
+        "title": "Analyst Data & Distribution",
+        "active": true,
+        "date_updated": 1783348956,
+        "date_posted": 1783348542,
+        "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4918531101",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Man-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Everfox",
+        "id": "5b51e676-8b92-4a35-a771-c5e6ce70e43c",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1783348324,
+        "date_posted": 1783347131,
+        "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/GBR_WS_Malvern/Software-Engineer-I_JR500693-1",
+        "locations": [
+            "Hereford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Everfox",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
