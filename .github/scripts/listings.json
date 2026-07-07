@@ -300483,7 +300483,7 @@
         "company_name": "Abbott",
         "id": "ebcf495e-ffc8-41a2-9ced-68da1c5801e4",
         "title": "Design to Cost Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780747642,
         "date_posted": 1780740902,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Abbott-Park/Design-to-Cost-Engineer_31149181",
@@ -339303,7 +339303,7 @@
         "company_name": "Pfizer",
         "id": "e0a9a5ab-89d5-42f4-945d-9069baf05201",
         "title": "Manufacturing Execution Systems Engineer 1 - Manufacturing Execution Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1783059443,
         "date_posted": 1783059074,
         "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Connecticut---Groton/DPMS-Manufacturing-Execution-Systems--MES--Engineer_4959813-1",
@@ -343183,6 +343183,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Airgas",
+        "id": "66fc128d-c9b5-48c7-a15b-eb35ce40b227",
+        "title": "eBusiness Coordinator",
+        "active": true,
+        "date_updated": 1783426005,
+        "date_posted": 1781949834,
+        "url": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Texarkana-TX---Filling-industrial/eBusiness-Coordinator_R10092563",
+        "locations": [
+            "Texarkana, TX",
+            "Longview, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Airgas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
