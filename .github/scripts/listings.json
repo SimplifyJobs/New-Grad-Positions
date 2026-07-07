@@ -342969,5 +342969,25 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LawDepot",
+        "id": "969bc497-69df-447a-894f-e1a4d4472f4d",
+        "title": "Web Developer 1",
+        "active": true,
+        "date_updated": 1783405847,
+        "date_posted": 1783404557,
+        "url": "https://jobs.ashbyhq.com/lawdepot/992a8f7f-29f0-4bae-aa7e-b946df313c95/application",
+        "locations": [
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/LawDepot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
