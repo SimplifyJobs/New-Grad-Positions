@@ -342908,5 +342908,25 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Real Chemistry",
+        "id": "7524cdac-aee7-4b2a-9d2d-a2874294f7f0",
+        "title": "Senior Social Media Analyst - Integrated Intelligence",
+        "active": true,
+        "date_updated": 1783388052,
+        "date_posted": 1781638996,
+        "url": "https://job-boards.greenhouse.io/realchemistry/jobs/5262316008",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Real-Chemistry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
