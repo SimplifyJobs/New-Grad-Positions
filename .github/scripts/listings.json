@@ -327358,7 +327358,7 @@
         "company_name": "Guidewire",
         "id": "446847d3-29b2-4c3c-b983-f4e2203fc1ec",
         "title": "Associate Certification Program Systems Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1782868406,
         "date_posted": 1782770934,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946",
@@ -343205,5 +343205,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "fab690d5-188b-4bf0-bbdd-8e166198edc8",
+        "title": "Test Associate",
+        "active": true,
+        "date_updated": 1783427682,
+        "date_posted": 1783161964,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Test-Associate_01852912",
+        "locations": [
+            "Farmington, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
