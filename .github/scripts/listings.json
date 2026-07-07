@@ -57030,24 +57030,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "4ca4b5db-4fdf-43d9-aca5-e675235730cc",
-        "title": "Generalist Software Engineer",
-        "active": false,
-        "date_updated": 1766484755,
-        "date_posted": 1762677684,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Generalist-Software-Engineer/211695",
-        "locations": [
-            "Victoria, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Remi",
         "id": "639a8f32-953e-4c7a-882f-0bf3ad477035",
         "title": "Software Engineer 1/2",
@@ -301369,7 +301351,7 @@
         "company_name": "GE Healthcare",
         "id": "0f965ade-d8a0-42be-a1dd-cc2ff518efb6",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780906751,
         "date_posted": 1780437968,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1--Central-IL-_R4041220-1",
@@ -312799,7 +312781,7 @@
         "company_name": "GE Healthcare",
         "id": "21ab0f3d-c575-482f-9952-f8529ee4f32d",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781356773,
         "date_posted": 1781344806,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4041925-1",
@@ -320384,7 +320366,7 @@
         "company_name": "University of Arkansas",
         "id": "0a6e4114-568d-4b32-9b9c-9ecb2b8bb774",
         "title": "Extra Help AI Researcher-1",
-        "active": true,
+        "active": false,
         "date_updated": 1781820737,
         "date_posted": 1781820301,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/University-of-Arkansas-at-Pine-Bluff/Extra-Help-AI-Researcher-1_R0087100",
@@ -323860,7 +323842,7 @@
         "company_name": "The Boeing Company",
         "id": "6fb8c7a1-2e41-47a8-becc-7617967cab4a",
         "title": "Entry-Level Electrical / Wire Harness Assembly Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1782177121,
         "date_posted": 1782176951,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mesa-AZ/Entry-Level-Electrical---Wire-Harness-Assembly-Technician_JR2026506013-2",
@@ -330460,7 +330442,7 @@
         "company_name": "United Launch Alliance",
         "id": "4b522d5e-1655-476c-ba76-1ada826022c7",
         "title": "Integrated Test Environment Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1782512361,
         "date_posted": 1782511612,
         "url": "https://jobs.ulalaunch.com/job/Centennial-Integrated-Test-Environment-(ITE)-Software-Engineer-1-CO-80112/1403796400/?ats=successfactors",
@@ -340200,7 +340182,7 @@
         "company_name": "GE Healthcare",
         "id": "096d522c-ec26-4c3b-8db3-87ee020df889",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783153884,
         "date_posted": 1782857138,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1-San-Diego_R4042998",
@@ -342858,6 +342840,44 @@
             "Edmonton, AB, Canada"
         ],
         "company_url": "https://simplify.jobs/c/LawDepot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Airbus",
+        "id": "151ec050-c8e3-4b78-a444-502b96a1c753",
+        "title": "Automated Drilling Unit - Technician/Mechanic",
+        "active": true,
+        "date_updated": 1783414014,
+        "date_posted": 1783376247,
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Automated-Drilling--Unit--ADU--Technician-Mechanic--Contract-_JR10426330",
+        "locations": [
+            "Mobile, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "21bc858f-e033-4139-bd79-1046d6a6f78d",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1783413541,
+        "date_posted": 1782482707,
+        "url": "https://careers-gdms.icims.com/jobs/73314/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
