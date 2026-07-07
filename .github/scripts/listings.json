@@ -280038,7 +280038,7 @@
         "company_name": "May Mobility",
         "id": "ec759cf1-5f3d-43b3-9644-a80046fd7aae",
         "title": "Site Autonomy Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779821462,
         "date_posted": 1778278262,
         "url": "https://job-boards.greenhouse.io/maymobility/jobs/8539969002",
@@ -293540,7 +293540,7 @@
         "company_name": "Motorola",
         "id": "f586670c-43fc-4aa0-876f-128f612b446a",
         "title": "Junior Backend Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780438250,
         "date_posted": 1780437891,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Junior-Back-End-Engineer_R65538",
@@ -311040,7 +311040,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "aded84fb-4d21-4dae-b6fc-4ee782d8a5ec",
         "title": "Post Doctoral Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781257358,
         "date_posted": 1781257150,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Post-Doctoral-Associate_JR101922",
@@ -327358,7 +327358,7 @@
         "company_name": "Guidewire",
         "id": "446847d3-29b2-4c3c-b983-f4e2203fc1ec",
         "title": "Associate Certification Program Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782868406,
         "date_posted": 1782770934,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946",
@@ -336457,7 +336457,7 @@
         "company_name": "RTX",
         "id": "b8af76ed-8784-40c4-9d9b-e32f8f7c1473",
         "title": "Systems Engineer 1 - String Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1782966054,
         "date_posted": 1782963450,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineer-I--String-Engineer-Onsite_01855457",
@@ -343163,6 +343163,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Becton Dickinson",
+        "id": "f4923655-60d1-44de-baaf-d5668a32a2f2",
+        "title": "Electro-Mechanical Technician",
+        "active": true,
+        "date_updated": 1783423862,
+        "date_posted": 1783158191,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-West/Electro-Mechanical-Technician_R-549184",
+        "locations": [
+            "Norfolk, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
