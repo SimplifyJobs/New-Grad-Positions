@@ -299093,7 +299093,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -317833,7 +317833,7 @@
         "company_name": "JP Morgan Chase",
         "id": "e4e910c3-1384-49ee-a4e8-b2d687b8cfb1",
         "title": "Markets Asset Servicing Analyst - Global Corporate Actions - Commercial & Investment Bank",
-        "active": true,
+        "active": false,
         "date_updated": 1781707424,
         "date_posted": 1781705361,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754824",
@@ -341262,7 +341262,7 @@
         "company_name": "Adelaide Metrics",
         "id": "f4ca77c2-d762-41df-ab99-c8d70e490f7e",
         "title": "Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1783348050,
         "date_posted": 1783346981,
         "url": "https://ats.rippling.com/adelaide/jobs/60b7ea31-eb5b-42d9-863e-4ae0c602ea1d",
@@ -343466,6 +343466,103 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "5dce4ee7-c6ab-40bc-bdd4-6d3fed2272cc",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1783435861,
+        "date_posted": 1783435350,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8044354",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The Access Group",
+        "id": "093cdbb8-4410-448c-a982-8ac9a9d866f2",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1783435326,
+        "date_posted": 1783433573,
+        "url": "https://theaccessgroup.wd103.myworkdayjobs.com/Access_Group_External_Careers/job/United-Kingdom-Remote/Product-Manager_JR004229-2",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Access-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Trevor Project",
+        "id": "b43d1b28-6e5d-489f-9d7d-5aa8b785b67a",
+        "title": "Data Operations Associate",
+        "active": true,
+        "date_updated": 1783435141,
+        "date_posted": 1783433373,
+        "url": "https://jobs.lever.co/thetrevorproject/90a30d32-6048-4ec1-b323-bacdc78aacd9/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/TheTrevorProject",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mark43",
+        "id": "5839397b-fbad-4dae-875c-f2eec69f3d71",
+        "title": "Junior Support Engineer",
+        "active": true,
+        "date_updated": 1783435141,
+        "date_posted": 1783435099,
+        "url": "https://mark43.com/list-job/8048459?gh_jid=8048459",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Mark43",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SRS Acquiom",
+        "id": "17110a3f-bbb2-4dc4-bff8-3b66b1f55dad",
+        "title": "Data Imports Analyst",
+        "active": true,
+        "date_updated": 1783435141,
+        "date_posted": 1779488211,
+        "url": "https://job-boards.greenhouse.io/srsacquiom/jobs/5143375007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SRS-Acquiom",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
