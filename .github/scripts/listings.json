@@ -284092,7 +284092,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -289910,7 +289910,7 @@
         "company_name": "General Motors",
         "id": "a949f780-0ff6-4438-83e2-a09c88954fec",
         "title": "Software Developer \u2013 Early Career",
-        "active": false,
+        "active": true,
         "date_updated": 1780035482,
         "date_posted": 1778945320,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Early-Career_JR-202518755",
@@ -293323,7 +293323,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -302342,7 +302342,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -315263,7 +315263,7 @@
         "company_name": "Goldman Sachs",
         "id": "a3ee586e-9f97-4009-92cc-dc4affda3b3a",
         "title": "Asset & Wealth Management - Quantitative Investment Strategies - ETF Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1781648474,
         "date_posted": 1781638708,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176625",
@@ -320854,7 +320854,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -327502,7 +327502,7 @@
         "company_name": "Guidewire",
         "id": "446847d3-29b2-4c3c-b983-f4e2203fc1ec",
         "title": "Associate Certification Program Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782868406,
         "date_posted": 1782770934,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946",
@@ -339308,7 +339308,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc5879a8-4b16-4bc4-90e6-ab5042dcaab1",
         "title": "Asset & Wealth Management - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1783041481,
         "date_posted": 1782742015,
         "url": "https://higher.gs.com/roles/176984",
@@ -339348,7 +339348,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -342685,6 +342685,228 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Relativity Space",
+        "id": "75a8d3f3-1ab6-485a-8040-bb363f87ecb8",
+        "title": "Avionics Hardware Engineer 1",
+        "active": true,
+        "date_updated": 1783387464,
+        "date_posted": 1783387124,
+        "url": "https://boards.greenhouse.io/relativity/jobs/8621629002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Relativity-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NewsBreak",
+        "id": "6219210e-e390-4c2e-a436-58559bdccd22",
+        "title": "Newsbreak Venture New Grad - AI Growth Intelligence Engineer",
+        "active": true,
+        "date_updated": 1783387300,
+        "date_posted": 1783386976,
+        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4694899006",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NewsBreak",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "5ca64b1d-da84-4768-a279-1f3101c07ac8",
+        "title": "Software Engineer - Starshield",
+        "active": true,
+        "date_updated": 1783387081,
+        "date_posted": 1783386847,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8621649002",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Novartis",
+        "id": "dd9c7caf-cc2d-466c-99aa-cfca088f1c33",
+        "title": "Scientific Data Engineer",
+        "active": true,
+        "date_updated": 1783386901,
+        "date_posted": 1783386445,
+        "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Cambridge-USA/Scientific-Data-Engineer_REQ-10081250-1",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Novartis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "5e9a8812-4cb4-4dc5-be3e-8698a2453275",
+        "title": "Software Engineer - Product Development - Starshield",
+        "active": true,
+        "date_updated": 1783386901,
+        "date_posted": 1783386844,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8621621002",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Everfox",
+        "id": "4fbc1825-ffcb-4193-b91d-8a4b24c96e52",
+        "title": "Embedded Systems Engineer 1",
+        "active": true,
+        "date_updated": 1783386971,
+        "date_posted": 1783386759,
+        "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/UK---London/Embedded-Systems-Engineer-I_JR500701",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Everfox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Baker Hughes",
+        "id": "d6cb2e87-c24a-40ca-91a9-3a5652932c5e",
+        "title": "Field Specialist - DSC",
+        "active": true,
+        "date_updated": 1783386721,
+        "date_posted": 1783386707,
+        "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-OTHER-TEXAS/Field-Specialist--DSC----Port-Arthur--TX_R166246",
+        "locations": [
+            "Beaumont, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Baker-Hughes",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NASA Jet Propulsion Laboratory (JPL)",
+        "id": "6316227d-de77-44a7-b56c-e9a7308c909b",
+        "title": "Postdoc Imaging Spectroscopy and Earth Observation Data Integration",
+        "active": true,
+        "date_updated": 1783386888,
+        "date_posted": 1783386703,
+        "url": "https://citjpl.wd5.myworkdayjobs.com/Jobs/job/JPL-Campus/Postdoc--Imaging-Spectroscopy-and-Earth-Observation-Data-Integration_R5823",
+        "locations": [
+            "Pasadena, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NASA-JPL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "King & Spalding",
+        "id": "ea1c7f11-67a1-450c-9c54-856d708eac55",
+        "title": "Data Analyst Consultant-Healthcare",
+        "active": true,
+        "date_updated": 1783386721,
+        "date_posted": 1783386551,
+        "url": "https://kslaw.wd1.myworkdayjobs.com/en-US/careers/job/Washington-DC-District-of-Columbia/Data-Analyst-Consultant--Healthcare_R452",
+        "locations": [
+            "Washington, DC",
+            "McLean, VA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/King-And-Spalding",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sumitomo Electric Wiring Systems",
+        "id": "9586d173-b7b6-46b3-b0ba-c60b4641cb98",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1783386847,
+        "date_posted": 1783386622,
+        "url": "https://jobs.jobvite.com/sews/job/oYlrAfw4?nl=1&nl=1&fr=false",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Sumitomo-Electric-Wiring-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "ddd133e6-7ff2-4032-8e0e-f3f111bdfd57",
+        "title": "Computer Engineer - Embedded Hardware Test - Entry Level",
+        "active": true,
+        "date_updated": 1783386747,
+        "date_posted": 1783386468,
+        "url": "https://careers-gdms.icims.com/jobs/73366/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
