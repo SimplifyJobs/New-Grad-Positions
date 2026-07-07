@@ -279346,7 +279346,7 @@
         "company_name": "Apple",
         "id": "d86b8636-bf3e-43fe-807a-695ed81fe909",
         "title": "Tools and Automation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779830289,
         "date_posted": 1778076521,
         "url": "https://jobs.apple.com/en-us/details/200659710",
@@ -283948,7 +283948,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -293179,7 +293179,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -302198,7 +302198,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": true,
+        "active": false,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -308751,7 +308751,7 @@
         "company_name": "Innodata",
         "id": "d5d82c02-4aa5-4e45-b339-f7f317ba442c",
         "title": "Generative AI Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781169537,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266740009",
@@ -309062,7 +309062,7 @@
         "company_name": "Innodata",
         "id": "cd0abd57-42f1-4881-b493-a2dbc66efb4e",
         "title": "AI Content Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781170923,
         "date_posted": 1781169533,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266737009",
@@ -317529,7 +317529,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -320710,7 +320710,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -339204,7 +339204,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -339621,7 +339621,7 @@
         "company_name": "Acosta Group",
         "id": "db8d3dbb-93d7-494e-8138-1a0b2df71207",
         "title": "Senior Space Planning Specialist - Business Intelligence",
-        "active": true,
+        "active": false,
         "date_updated": 1783072715,
         "date_posted": 1781791556,
         "url": "https://eczy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30317",
@@ -343223,5 +343223,249 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Terex",
+        "id": "e3b385c3-0b50-4fe0-bd31-dfd54c154e21",
+        "title": "Commercial Graduate Analyst",
+        "active": true,
+        "date_updated": 1783433881,
+        "date_posted": 1783433126,
+        "url": "https://terex.wd1.myworkdayjobs.com/terexcareers/job/UK-Grantham-Wharf/Commercial-Graduate-Analyst_REQ-12477",
+        "locations": [
+            "East Midlands, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Terex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel",
+        "id": "66cb9e6f-2e5e-4fab-be1b-bf612ad91a02",
+        "title": "Quantitative Trader: Equity Quantitative Research \u2013 University Graduate",
+        "active": true,
+        "date_updated": 1783433881,
+        "date_posted": 1783433322,
+        "url": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Arista Networks",
+        "id": "a00b7601-6b3c-4061-8d26-d11a5a7aca37",
+        "title": "Software Engineer - Network Systems",
+        "active": true,
+        "date_updated": 1783433881,
+        "date_posted": 1783433133,
+        "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000136204119",
+        "locations": [
+            "Nashua, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Arista-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "4cc19448-c709-4f52-92b4-9d868f9ad3e9",
+        "title": "Leadership Development Program - Engineering - Software",
+        "active": true,
+        "date_updated": 1783434364,
+        "date_posted": 1783433300,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Software--Starts-June-2027-_01853289-1",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Home Depot",
+        "id": "752e89f0-f208-4a4d-896d-1483b2b3716a",
+        "title": "Dropship Analyst",
+        "active": true,
+        "date_updated": 1783434276,
+        "date_posted": 1783433599,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Analyst--Dropship_Req186058",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Home-Depot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Danaher Corporation",
+        "id": "9bb49990-9291-45b6-af36-cf59ea162b3b",
+        "title": "Data Analyst - Global Trade Compliance",
+        "active": true,
+        "date_updated": 1783433881,
+        "date_posted": 1783433519,
+        "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Washington-DC-United-States/Data-Analyst--Global-Trade-Compliance_R1312926",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Teza Technologies",
+        "id": "efdc72ea-9ac5-43e5-b3e6-31dbf215e470",
+        "title": "Quantitative Researcher",
+        "active": true,
+        "date_updated": 1783433881,
+        "date_posted": 1783433425,
+        "url": "https://jobs.ashbyhq.com/teza-technologies/7319556d-40bf-442e-bb78-e658e938a7a3/application",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Teza-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "217fe233-6af8-4cdd-aeaf-5380d0ca183d",
+        "title": "AI Research - Multiple Positions Available",
+        "active": true,
+        "date_updated": 1783433881,
+        "date_posted": 1783433177,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760324",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "eb87c575-f355-4c1f-b359-be5c684b2d03",
+        "title": "Engineer 1 - Mechanical Test",
+        "active": true,
+        "date_updated": 1783433863,
+        "date_posted": 1783433383,
+        "url": "https://jobs.lever.co/shieldai/792d3340-fe18-4caa-a5c6-9905e67213e3/apply",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "c1a68563-fce3-4b44-b45f-03020c8ce1c2",
+        "title": "Embedded Audio Software Associate",
+        "active": true,
+        "date_updated": 1783433867,
+        "date_posted": 1783433379,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Associate-Engineer--Embedded-Audio-Software_R263781",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kimley-Horn",
+        "id": "7e5858ee-eba9-4783-9ac7-bb48f040f034",
+        "title": "GIS Analyst - Civil Engineering",
+        "active": true,
+        "date_updated": 1783433162,
+        "date_posted": 1783433154,
+        "url": "https://careers-kimley-horn.icims.com/jobs/24872/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Kimley-Horn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rogers Behavioral Health",
+        "id": "5c0748e1-a7ed-4bae-9ce1-edbea903c615",
+        "title": "Therapist PHP/IOP",
+        "active": true,
+        "date_updated": 1783433472,
+        "date_posted": 1783433124,
+        "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Kenosha-Clinic-Kenosha-WI/Therapist---PHP-IOP_R7967-1",
+        "locations": [
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/b92a810e-00da-4d83-9a36-b7d609699d59",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
