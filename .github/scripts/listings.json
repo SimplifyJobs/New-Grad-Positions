@@ -215921,7 +215921,7 @@
         "company_name": "Handshake",
         "id": "594e3770-fcd1-4bc5-ac62-ed97804b6051",
         "title": "Machine Learning Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775555061,
         "date_posted": 1775484598,
         "url": "https://jobs.ashbyhq.com/handshake/dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70/application",
@@ -266253,7 +266253,7 @@
         "company_name": "Veeva Systems",
         "id": "59882688-f37f-4664-bba8-fd1c9b781086",
         "title": "Associate Product Manager - Vault CRM Suite",
-        "active": false,
+        "active": true,
         "date_updated": 1778748301,
         "date_posted": 1777338339,
         "url": "https://jobs.lever.co/veeva/6bcc8228-5b43-43e5-b96b-d62679b8c64a/apply",
@@ -302198,7 +302198,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -307388,7 +307388,7 @@
         "company_name": "Lithia Motors",
         "id": "2664a38f-b76f-42f0-82a4-12aecc67d729",
         "title": "Product Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1781166871,
         "date_posted": 1781129201,
         "url": "https://lithia.wd5.myworkdayjobs.com/LithiaCareers/job/BMW-of-Minnetonka-Minnetonka-MN-55391/Product-Specialist_R110644",
@@ -317529,7 +317529,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -320710,7 +320710,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -337428,7 +337428,7 @@
         "company_name": "CAE",
         "id": "441d6d3c-3c5b-433b-bf3a-a888f704d484",
         "title": "Simulator Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1782985269,
         "date_posted": 1782943549,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Orlando/Simulator-Technician-I_122131",
@@ -339164,7 +339164,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc5879a8-4b16-4bc4-90e6-ab5042dcaab1",
         "title": "Asset & Wealth Management - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1783041481,
         "date_posted": 1782742015,
         "url": "https://higher.gs.com/roles/176984",
@@ -339204,7 +339204,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -339539,7 +339539,7 @@
         "company_name": "Microsoft",
         "id": "56b688ac-5461-4812-9be2-46a7c60e49be",
         "title": "Software Engineer 2 - Foundry Agents - CoreAI",
-        "active": true,
+        "active": false,
         "date_updated": 1783069297,
         "date_posted": 1778767648,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556863227",
@@ -342882,6 +342882,104 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Parkdepot",
+        "id": "2239e38a-7da7-4975-86d9-0c48c4caccc5",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1783415702,
+        "date_posted": 1783415168,
+        "url": "https://jobs.lever.co/salesdemo-jr/b2b796b7-cc11-4456-bb00-a2a72fa11f09/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Parkdepot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cerebras",
+        "id": "8ab3cc20-459a-4c6f-bfcb-4b8487e56196",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1783416135,
+        "date_posted": 1783415513,
+        "url": "https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507/application",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Quantcast",
+        "id": "9bb1e297-4e54-423d-95b6-87905ec6f140",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1783415702,
+        "date_posted": 1783415417,
+        "url": "https://jobs.ashbyhq.com/quantcast/2a6d8f0e-e0f3-4114-944b-2736b26072c4/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Quantcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Quantcast",
+        "id": "2bff8dfb-25b3-496f-8102-aa8b7129f953",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1783415702,
+        "date_posted": 1783415417,
+        "url": "https://jobs.ashbyhq.com/quantcast/9dff7e55-ebac-4af5-a57c-e3c9892fc5ee/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Quantcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Revenue Analytics",
+        "id": "ce0bcfce-b781-4159-9056-ce13e88cee79",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1783415702,
+        "date_posted": 1783415169,
+        "url": "https://jobs.lever.co/revenueanalytics/d1d069f6-be13-431b-94c9-626f5bed83c6/apply",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Revenue-Analytics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
