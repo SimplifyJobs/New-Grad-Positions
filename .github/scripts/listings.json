@@ -1,23 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "McDonald's",
-        "id": "b05a4f89-0ec5-4c84-bc93-529f64173985",
-        "title": "Full Stack Engineer 1",
-        "active": false,
-        "date_updated": 1762742164,
-        "date_posted": 1762742164,
-        "url": "https://jobs.mcdonalds.com/job/Chicago-Full-Stack-Engineer-I-IAM-IL-60607/1341509500/?ats=successfactors",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/McDonald",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1762771308,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -9175,150 +9157,6 @@
             "Charlottesville, VA"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Virginia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "6591aa75-af5e-44b3-93aa-73d4e3d18ed8",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1762742971,
-        "date_posted": 1762742971,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035692",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f4e066ac-3965-4261-be93-63ab7a6ccba5",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1762742966,
-        "date_posted": 1762742966,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400025652",
-        "locations": [
-            "Swindon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b9eaa785-f6e1-4b06-a9e2-a6e9369fdedc",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1762742974,
-        "date_posted": 1762742974,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035804",
-        "locations": [
-            "Workington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "6d3c09f6-1995-4f52-b0a7-9dfcf73404da",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1762742971,
-        "date_posted": 1762742971,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035696",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "49cf0834-d37c-45ff-9136-42a8dfce4615",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1762742975,
-        "date_posted": 1762742975,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035813",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "295fccda-8dce-4359-b719-03d921111acd",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1762742971,
-        "date_posted": 1762742971,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035700",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0ee3ae56-2563-4e1f-a658-544eb2f74c93",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1762742970,
-        "date_posted": 1762742970,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035697",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "002eb5b7-87f5-405f-8adb-66a9b5a66c77",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1762742970,
-        "date_posted": 1762742970,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035695",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -332434,7 +332272,7 @@
         "company_name": "Emory University",
         "id": "ec825551-bc4f-4760-86f1-c24bc6ca2df7",
         "title": "Data Analyst - Rollins School of Public Health",
-        "active": true,
+        "active": false,
         "date_updated": 1782425162,
         "date_posted": 1782425103,
         "url": "https://staff-emory.icims.com/jobs/168806/job?mobile=true&needsRedirect=false",
