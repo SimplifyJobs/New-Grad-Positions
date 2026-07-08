@@ -9181,24 +9181,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Invisible Technologies",
-        "id": "624a9d6f-3f4f-4378-910f-d11a0e9aae97",
-        "title": "Product Manager",
-        "active": false,
-        "date_updated": 1762741104,
-        "date_posted": 1762741104,
-        "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/4707873101",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Invisible-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "6591aa75-af5e-44b3-93aa-73d4e3d18ed8",
@@ -50366,26 +50348,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "360care",
-        "id": "2d7c8c70-fd22-40a9-9837-ca89f7e2109c",
-        "title": "Dentist",
-        "active": false,
-        "date_updated": 1765902444,
-        "date_posted": 1762740573,
-        "url": "https://careers-360care.icims.com/jobs/3337/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Aurora, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/360care",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -319376,7 +319338,7 @@
         "company_name": "Adobe",
         "id": "94553853-01a8-4ae7-8aff-21e02d826aa5",
         "title": "Software Development Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1781775165,
         "date_posted": 1781774746,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer-2_R169364-1",
