@@ -283768,7 +283768,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": false,
+        "active": true,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -292979,7 +292979,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -301998,7 +301998,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -320510,7 +320510,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -339004,7 +339004,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -344889,7 +344889,7 @@
         "company_name": "Goldman Sachs",
         "id": "6a36b7f9-3aea-44d6-b6a2-b8ba794476ea",
         "title": "Asset & Wealth Management - Product Management - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1783472761,
         "date_posted": 1781791629,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/173819",
@@ -344900,5 +344900,86 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vanguard",
+        "id": "de82883f-ad2d-473b-974e-08156f207dd9",
+        "title": "Entry Level Application Engineer",
+        "active": true,
+        "date_updated": 1783491664,
+        "date_posted": 1783491203,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Entry-Level-Application-Engineer---2026-Start-Date_168908",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "82360f2c-2160-476a-9230-f37eda7dcce5",
+        "title": "Senior Analyst - Manufacturing/Operations",
+        "active": true,
+        "date_updated": 1783491468,
+        "date_posted": 1783491031,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-CHESAPEAKE-305--1100-International-Plz--BLDG-305/Sr-Analyst--Manufacturing-Operations_01857274",
+        "locations": [
+            "Chesapeake, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vanguard",
+        "id": "80e0d020-8c43-4fa5-9126-8fa016e2b871",
+        "title": "Entry Level Application Engineer",
+        "active": true,
+        "date_updated": 1783491301,
+        "date_posted": 1783491203,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2026-Start-Date_171145",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lyft",
+        "id": "6cf07fce-a741-4ce5-adbc-9449cccdd79b",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1783490949,
+        "date_posted": 1783490799,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8623323002?gh_jid=8623323002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
