@@ -159777,7 +159777,7 @@
         "company_name": "General Motors",
         "id": "0a4def13-9b3a-4f3a-b3c9-5a90b20c870b",
         "title": "Software Engineer AV HIL Platform and Services \u2013 University Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1772583464,
         "date_posted": 1772583464,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577",
@@ -245760,7 +245760,7 @@
         "company_name": "Turo",
         "id": "300ed511-d9bc-49b8-a6be-9c8006189469",
         "title": "Product Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1777079429,
         "date_posted": 1777079240,
         "url": "https://turo.wd12.myworkdayjobs.com/Turo_careers/job/San-Francisco/Product-Data-Analyst_R-102416",
@@ -275054,7 +275054,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -283948,7 +283948,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -283968,7 +283968,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": true,
+        "active": false,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -293179,7 +293179,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -302198,7 +302198,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": true,
+        "active": false,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -315853,7 +315853,7 @@
         "company_name": "Uhaul",
         "id": "25b15347-192f-44ac-a85d-232632aaa217",
         "title": "ETL Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1781658721,
         "date_posted": 1781658603,
         "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/ETL-Developer_R247910",
@@ -317529,7 +317529,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -320710,7 +320710,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -330940,7 +330940,7 @@
         "company_name": "Emory University",
         "id": "1714275b-fa30-47dd-be4a-be688b5bcdd2",
         "title": "Data Analyst - Rollins School of Public Health",
-        "active": true,
+        "active": false,
         "date_updated": 1782425701,
         "date_posted": 1782425103,
         "url": "https://staff-emory.icims.com/jobs/168802/job?mobile=true&needsRedirect=false",
@@ -339204,7 +339204,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -344803,5 +344803,302 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "bf2190c7-5e13-41d5-907e-45c3a6b86f0c",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1783473841,
+        "date_posted": 1783473745,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8049925",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "4b93fc6e-d532-4ef5-9f7b-ea35b60bbde4",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1783473873,
+        "date_posted": 1783473714,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8049920",
+        "locations": [
+            "Heath, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "35f8daf5-58bd-40d0-bf5a-4a470e16bebb",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1783473841,
+        "date_posted": 1783473745,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8049921",
+        "locations": [
+            "Heath, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "f5893e69-dd4b-4dc3-a8ff-6cd0a24bde9f",
+        "title": "ASIC Verification Engineer New Grad",
+        "active": true,
+        "date_updated": 1783473414,
+        "date_posted": 1783472913,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2026_JR2020640",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Super Micro Computer",
+        "id": "a6eba92d-3834-4a08-adb2-179842245c1a",
+        "title": "Hardware Engineer",
+        "active": true,
+        "date_updated": 1783473301,
+        "date_posted": 1783472903,
+        "url": "https://jobs.supermicro.com/job/San-Jose-Hardware-Engineer-Cali/1406608400/?ats=successfactors",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Super-Micro-Computer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Fidelity International",
+        "id": "724f2162-1ba2-4334-b0b8-d0fdae518005",
+        "title": "Product Management Associate",
+        "active": true,
+        "date_updated": 1783473410,
+        "date_posted": 1783473187,
+        "url": "https://fil.wd3.myworkdayjobs.com/en-US/001/job/Kingswood-Fields-Office/Associate---Product-Management_J68746-1",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "438bd6ae-c51c-47cd-8ee5-66dcc7e5bba0",
+        "title": "Junior Software Developer - CDN Operations Engineering",
+        "active": true,
+        "date_updated": 1783473256,
+        "date_posted": 1783473120,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Junior-Software-Development-Engineer---CDN-OpsEng_R440501-1",
+        "locations": [
+            "Cherry Hills Village, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ancestry",
+        "id": "f9d5859a-3dae-4db0-a36d-bac32a5792d4",
+        "title": "Digitization Technician - Historical Document Preservation",
+        "active": true,
+        "date_updated": 1783473121,
+        "date_posted": 1783473073,
+        "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Draper-UT/Digitization-Technician---Historical-Document-Preservation_R003396",
+        "locations": [
+            "Draper, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Ancestry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Materials",
+        "id": "d0aa5e4a-9602-46ff-a906-bcd51900a9a5",
+        "title": "Software Engineer 2 \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1783473221,
+        "date_posted": 1783472962,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Otter.ai",
+        "id": "b043dd73-06f2-4ce6-8f9c-00113656ba29",
+        "title": "Software Engineer New Grad - Backend",
+        "active": true,
+        "date_updated": 1783473232,
+        "date_posted": 1783473071,
+        "url": "https://otter.ai/careers?gh_jid=7798264003",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Otter-ai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blissway",
+        "id": "8271a031-5f9d-416a-9a7f-75c5c821afd7",
+        "title": "Machine Learning Engineer - Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1783473219,
+        "date_posted": 1783473024,
+        "url": "https://jobs.ashbyhq.com/blissway/662f1761-5d28-421d-8b47-605cc910991d/application",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Blissway",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hilbert",
+        "id": "786414d8-5fda-439b-81fc-9534536d2589",
+        "title": "Mathematician - Foundation Team",
+        "active": true,
+        "date_updated": 1783473121,
+        "date_posted": 1783472997,
+        "url": "https://jobs.ashbyhq.com/hilberts/adbe0102-fa3e-484f-98c8-bf02dd478945/application",
+        "locations": [
+            "SF",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hilbert",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EXL",
+        "id": "c46c59e7-80b8-4494-acf4-94ec39d2d300",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1783472942,
+        "date_posted": 1783472888,
+        "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/16842",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/EXL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Healthcare",
+        "id": "0d4fe4d8-2a3c-4bae-ab91-fcfa10a631c4",
+        "title": "Field Engineer 1",
+        "active": true,
+        "date_updated": 1783472992,
+        "date_posted": 1783472744,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/El-Paso/Field-Engineer-1_R4043144-2",
+        "locations": [
+            "El Paso, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Goldman Sachs",
+        "id": "6a36b7f9-3aea-44d6-b6a2-b8ba794476ea",
+        "title": "Asset & Wealth Management - Product Management - Associate",
+        "active": true,
+        "date_updated": 1783472761,
+        "date_posted": 1781791629,
+        "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/173819",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
