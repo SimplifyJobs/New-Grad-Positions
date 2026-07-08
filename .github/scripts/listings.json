@@ -220055,7 +220055,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "11fc4625-b478-401d-bb55-2c850b6b69b2",
         "title": "Capabilities Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775774891,
         "date_posted": 1775772374,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Hanover/Capabilities-Development-Engineer_RQ218156",
@@ -317329,7 +317329,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -320166,7 +320166,7 @@
         "company_name": "University of Arkansas",
         "id": "0a6e4114-568d-4b32-9b9c-9ecb2b8bb774",
         "title": "Extra Help AI Researcher-1",
-        "active": false,
+        "active": true,
         "date_updated": 1781820737,
         "date_posted": 1781820301,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/University-of-Arkansas-at-Pine-Bluff/Extra-Help-AI-Researcher-1_R0087100",
@@ -321105,7 +321105,7 @@
         "company_name": "Jonas Software",
         "id": "058e376f-60d5-425d-a1dd-6c73a4ad4224",
         "title": "Customer Support Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781857643,
         "date_posted": 1781346653,
         "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Canada---Markham---Ontario/Customer-Solution-Analyst_R12522-2",
@@ -329394,7 +329394,7 @@
         "company_name": "VHC Health",
         "id": "443877d2-75f4-4c3c-969e-3a5f6c593c5b",
         "title": "Epic ADT Prelude Application Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782550591,
         "date_posted": 1782396164,
         "url": "https://careers-vhchealth.icims.com/jobs/13367/job?mobile=true&needsRedirect=false",
@@ -333271,7 +333271,7 @@
         "company_name": "Fujifilm",
         "id": "44ff51b0-850a-4019-8391-38c2a52481ba",
         "title": "Production Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1782916331,
         "date_posted": 1782914785,
         "url": "https://uscareers-fujifilm.icims.com/jobs/38036/job?mobile=true&needsRedirect=false",
@@ -341024,7 +341024,7 @@
         "company_name": "Change Grow Live",
         "id": "22fa6861-700c-4ea8-b11d-1d21c5b8e2f6",
         "title": "Data Administrator",
-        "active": true,
+        "active": false,
         "date_updated": 1783328701,
         "date_posted": 1783328539,
         "url": "https://careers-changegrowlive.icims.com/jobs/20510/job?mobile=true&needsRedirect=false",
@@ -342652,7 +342652,7 @@
         "company_name": "Airbus",
         "id": "151ec050-c8e3-4b78-a444-502b96a1c753",
         "title": "Automated Drilling Unit - Technician/Mechanic",
-        "active": true,
+        "active": false,
         "date_updated": 1783414014,
         "date_posted": 1783376247,
         "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Automated-Drilling--Unit--ADU--Technician-Mechanic--Contract-_JR10426330",
@@ -344868,7 +344868,7 @@
         "company_name": "GE Healthcare",
         "id": "0d4fe4d8-2a3c-4bae-ab91-fcfa10a631c4",
         "title": "Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783472992,
         "date_posted": 1783472744,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/El-Paso/Field-Engineer-1_R4043144-2",
@@ -344980,6 +344980,46 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "1d3530a4-4135-456e-bc23-3abc62f17374",
+        "title": "Module Equipment Technician",
+        "active": true,
+        "date_updated": 1783500974,
+        "date_posted": 1783462337,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-New-Mexico-Albuquerque/NMSi---WPM-Module-Equipment-Technician-Contract_JR0284185",
+        "locations": [
+            "Albuquerque, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "GM financial",
+        "id": "2703e9ba-b128-47e2-a890-1409b9c23f4b",
+        "title": "Product Owner 1 - Technical",
+        "active": true,
+        "date_updated": 1783500289,
+        "date_posted": 1782943555,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260474",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
