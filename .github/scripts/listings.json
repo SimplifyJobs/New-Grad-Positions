@@ -289661,7 +289661,7 @@
         "company_name": "Brink",
         "id": "a999a49c-402d-44ce-b35b-d60c89144761",
         "title": "ATM Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780274470,
         "date_posted": 1780131751,
         "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Baton-Rouge-LA/ATM-Technician_R72782",
@@ -308373,7 +308373,7 @@
         "company_name": "CAI",
         "id": "8a849022-9763-4117-a1c4-04369a4fe47b",
         "title": "Image Verifier - Neurodiverse Solutions",
-        "active": false,
+        "active": true,
         "date_updated": 1781170299,
         "date_posted": 1781129230,
         "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Image-Verifier--Neurodiverse-Solutions_R7277",
@@ -322173,7 +322173,7 @@
         "company_name": "Boom Supersonic",
         "id": "f462955a-f1ed-48a4-8085-3a76617351b3",
         "title": "Build Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781957186,
         "date_posted": 1777990090,
         "url": "https://ats.rippling.com/boom-supersonic/jobs/9a4d79c0-d602-4cb4-a1d3-629b13faaa74",
@@ -334050,7 +334050,7 @@
         "company_name": "United Launch Alliance",
         "id": "efd7e08d-5a9d-4eb8-9400-49eec3d86a5b",
         "title": "Ground Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782943923,
         "date_posted": 1782943730,
         "url": "https://jobs.ulalaunch.com/job/Centennial-Ground-Software-Engineer-1-CO-80112/1404920100/?ats=successfactors",
@@ -336257,7 +336257,7 @@
         "company_name": "RTX",
         "id": "b8af76ed-8784-40c4-9d9b-e32f8f7c1473",
         "title": "Systems Engineer 1 - String Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782966054,
         "date_posted": 1782963450,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineer-I--String-Engineer-Onsite_01855457",
@@ -345155,5 +345155,48 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citizens Financial Group",
+        "id": "edb51f38-b714-4a24-9da0-f9cd68b1cd01",
+        "title": "Business Strategy Insights & Analytics Analyst-Unsecured Lending",
+        "active": true,
+        "date_updated": 1783505341,
+        "date_posted": 1783116516,
+        "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45337",
+        "locations": [
+            "Boston, MA",
+            "Providence, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/Citizens-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adventist Health",
+        "id": "ff2bba2e-723d-46cb-88df-b5fcf1050049",
+        "title": "Certified EHR Systems Analyst 1 - Radiant",
+        "active": true,
+        "date_updated": 1783505776,
+        "date_posted": 1780697288,
+        "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/64291",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adventist-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
     }
 ]
