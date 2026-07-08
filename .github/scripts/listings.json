@@ -1,44 +1,5 @@
 [
     {
-        "date_updated": 1762776196,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://qualcomm.eightfold.ai/careers/job/446715361809",
-        "company_name": "Qualcomm",
-        "title": "Product Software Engineer",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "0a73ae0e-f34f-4d81-b661-b00a1f462fb1",
-        "date_posted": 1762776196,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763109775,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/San-Leandro-California-United-States-of-America/Software-Developer-Graduate--US_R011626",
-        "company_name": "AVEVA",
-        "title": "Software Developer Graduate",
-        "locations": [
-            "San Leandro, CA",
-            "Lake Forest, CA",
-            "Scottsdale, AZ",
-            "Philadelphia, PA"
-        ],
-        "category": "Software Engineering",
-        "source": "DereC4",
-        "id": "282577e0-c3e6-4340-b5ef-895b53022095",
-        "date_posted": 1762776405,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1763027857,
         "sponsorship": "Other",
         "active": false,
@@ -6123,7 +6084,7 @@
         "company_name": "Leidos",
         "id": "de6e3580-a3fb-4a6a-b4af-bd24bb0e1f6c",
         "title": "PCBA Soldering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1762915565,
         "date_posted": 1762915565,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Aoldering-Technician_R-00170309",
@@ -212632,7 +212593,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "f56ae791-707f-4f70-adf2-cf83aab72cda",
         "title": "Engineering Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775296515,
         "date_posted": 1775294591,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chesapeake/Engineering-Technician-I_RQ215211",
@@ -292729,7 +292690,7 @@
         "company_name": "CoStar Group",
         "id": "654a8203-8795-40c6-92f5-76afc4273093",
         "title": "Associate Research Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1780390666,
         "date_posted": 1780134807,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Associate-Research-Consultant_R38934",
@@ -342898,7 +342859,7 @@
         "company_name": "Becton Dickinson",
         "id": "f4923655-60d1-44de-baaf-d5668a32a2f2",
         "title": "Electro-Mechanical Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1783423862,
         "date_posted": 1783158191,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-West/Electro-Mechanical-Technician_R-549184",
@@ -345185,6 +345146,28 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "ee0b78af-412a-49ac-af70-f1d6a460b368",
+        "title": "Senior BEOL Engineer - DRAM Process Integration",
+        "active": true,
+        "date_updated": 1783512953,
+        "date_posted": 1783167953,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Sr-BEOL-Engineer---DRAM-Process-Integration_JR94163",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
