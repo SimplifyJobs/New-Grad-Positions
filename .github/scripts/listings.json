@@ -1,78 +1,5 @@
 [
     {
-        "date_updated": 1762771308,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://lifeattiktok.com/search/7535528357414570248",
-        "company_name": "TikTok",
-        "title": "Software Engineer Graduate (Data Platfrom TikTok BP)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "73c3a796-d014-40f5-8bc3-3647a8ff58f3",
-        "date_posted": 1762771308,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762771383,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://lifeattiktok.com/search/7535220808265681159",
-        "company_name": "TikTok",
-        "title": "Software Engineer Graduate (Data Arch - Data Ecosystem)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "0226ad2b-76b9-4a34-83eb-b0dd7ee4e68e",
-        "date_posted": 1762771383,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763027857,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000092424475",
-        "company_name": "ServiceNow",
-        "title": "Frontend Software Engineer",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "DereC4",
-        "id": "efacdb64-de8f-46db-9d25-a04bf3702bac",
-        "date_posted": 1762771678,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762827880,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/Software-Developer_REQ_226365",
-        "company_name": "Rochester Regional Health",
-        "title": "Software Developer",
-        "locations": [
-            "Remote",
-            "Rochester, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "5fa4b918-af4f-410b-bb19-d9f192d6c0dc",
-        "date_posted": 1762771910,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1762776196,
         "sponsorship": "Other",
         "active": false,
@@ -242597,7 +242524,7 @@
         "company_name": "TikTok",
         "id": "3430c8dc-b361-418e-b760-bb4b8464dcab",
         "title": "Graduate Machine Learning Engineer - TikTok Recommendation Live",
-        "active": true,
+        "active": false,
         "date_updated": 1774619455,
         "date_posted": 1767482802,
         "url": "https://lifeattiktok.com/search/7542584919815325960",
@@ -312848,7 +312775,7 @@
         "company_name": "Northrop Grumman",
         "id": "8bd70b8f-84a0-45a5-a141-6c12e2d84212",
         "title": "Software Development Engineers - Level 2 or 3",
-        "active": false,
+        "active": true,
         "date_updated": 1781373061,
         "date_posted": 1781362306,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Software-Development-Engineers--Level-2-or-3-_R10236310",
@@ -320263,7 +320190,7 @@
         "company_name": "GE Healthcare",
         "id": "d3753f43-4080-4744-a191-85778e307842",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781822067,
         "date_posted": 1781820704,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I---Cincinnati--OH_R4042421-1",
@@ -335095,7 +335022,7 @@
         "company_name": "GE Vernova",
         "id": "667375dc-67d7-4f11-8345-f15f7251af23",
         "title": "Software Engineering Graduate Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1782960675,
         "date_posted": 1782956049,
         "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/Software-Engineering-Graduate-Programme-1_R5045896-1",
@@ -342670,7 +342597,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "21bc858f-e033-4139-bd79-1046d6a6f78d",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783413541,
         "date_posted": 1782482707,
         "url": "https://careers-gdms.icims.com/jobs/73314/job?mobile=true&needsRedirect=false",
@@ -342991,7 +342918,7 @@
         "company_name": "Airgas",
         "id": "66fc128d-c9b5-48c7-a15b-eb35ce40b227",
         "title": "eBusiness Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1783426005,
         "date_posted": 1781949834,
         "url": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Texarkana-TX---Filling-industrial/eBusiness-Coordinator_R10092563",
@@ -345196,6 +345123,46 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "a8310416-f49f-453b-98ea-266bb88d01b4",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1783507531,
+        "date_posted": 1781949814,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-McLean/Software-Developer-TS-SCI-w-Polygraph_RQ207428",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Information Technology",
+        "id": "90bd553b-9cef-4aa2-bb5a-6ed3934c5bf9",
+        "title": "Electronics Technician Maintenance 1",
+        "active": true,
+        "date_updated": 1783506685,
+        "date_posted": 1781949755,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NM-Chaparral/Electronics-Technician-Maintenance-I_RQ218695-1",
+        "locations": [
+            "El Paso, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Associate's"
         ]
     }
