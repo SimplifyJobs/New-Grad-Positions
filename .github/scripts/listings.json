@@ -283695,7 +283695,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": true,
+        "active": false,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -295444,7 +295444,7 @@
         "company_name": "GE Healthcare",
         "id": "e5fa4799-a260-407a-b0e3-d49579653596",
         "title": "Field Service Engineer 1 Surgery",
-        "active": true,
+        "active": false,
         "date_updated": 1780481215,
         "date_posted": 1780134828,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1-Surgery---Jackson--TN_R4039686-1",
@@ -300210,7 +300210,7 @@
         "company_name": "Abbott",
         "id": "ebcf495e-ffc8-41a2-9ced-68da1c5801e4",
         "title": "Design to Cost Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780747642,
         "date_posted": 1780740902,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Abbott-Park/Design-to-Cost-Engineer_31149181",
@@ -345163,6 +345163,27 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "53296978-e1d5-43a7-bb67-828f1fa03034",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1783509344,
+        "date_posted": 1778941910,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Missouri_R4040983-1",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Associate's"
         ]
     }
