@@ -303764,7 +303764,7 @@
         "company_name": "Public Service Enterprise Group",
         "id": "b057bd16-1b4a-4306-8414-57d70ca5935b",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1781042761,
         "date_posted": 1781042642,
         "url": "https://jobs.pseg.com/job/Newark-Data-Scientist-NJ-07101/1398268700/?ats=successfactors",
@@ -314919,7 +314919,7 @@
         "company_name": "Goldman Sachs",
         "id": "a3ee586e-9f97-4009-92cc-dc4affda3b3a",
         "title": "Asset & Wealth Management - Quantitative Investment Strategies - ETF Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781648474,
         "date_posted": 1781638708,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176625",
@@ -318093,7 +318093,7 @@
         "company_name": "CAE",
         "id": "774b0fcc-b7d3-460c-a425-b2ee55fa0c0d",
         "title": "Hiring Event",
-        "active": false,
+        "active": true,
         "date_updated": 1781736572,
         "date_posted": 1781734171,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Binghamton-NY/CAE-USA-Hiring-Event---Binghamton--NY_122474",
@@ -319432,7 +319432,7 @@
         "company_name": "Teamworks",
         "id": "be6d0d6f-9bd4-4e53-b198-217e9097c785",
         "title": "Computer Vision Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1781775901,
         "date_posted": 1780524613,
         "url": "https://jobs.ashbyhq.com/teamworks/7e11cc46-5f8b-4274-a754-8b74ea3a3769/application",
@@ -320510,7 +320510,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -328196,7 +328196,7 @@
         "company_name": "PG&E",
         "id": "fc33c6e7-3dcf-4038-98bd-d226dce278f7",
         "title": "Engineering Assistant 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782857347,
         "date_posted": 1782857028,
         "url": "https://careers.pge.com/job/Oakland-Engineering-Assistant-I-CA-94612/1404547000/?ats=successfactors",
@@ -330141,7 +330141,7 @@
         "company_name": "ADT",
         "id": "c3bd2ec6-e7d0-4442-9d78-c79058f26d46",
         "title": "Low Voltage Technician - Field Operations - Smart Security Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1782425701,
         "date_posted": 1782425236,
         "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3020918",
@@ -330616,7 +330616,7 @@
         "company_name": "Kraken Robotics",
         "id": "89944c94-ff67-41ed-bf27-39dd8c7741d7",
         "title": "Electrical/Electronics Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1782811055,
         "date_posted": 1782742077,
         "url": "https://ats.rippling.com/kraken-robotics-inc/jobs/2aeebe9a-29dd-467a-854f-002f08e69f1a",
@@ -334148,7 +334148,7 @@
         "company_name": "L3Harris Technologies",
         "id": "e2da8b69-0e6b-4858-ac8d-15de9997f663",
         "title": "Associate \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782943923,
         "date_posted": 1782943591,
         "url": "https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineer-TX-76705/1404885000/?ats=successfactors",
@@ -339004,7 +339004,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -340079,7 +340079,7 @@
         "company_name": "GE Healthcare",
         "id": "7e3f8ed0-1008-4885-9949-187f282c315b",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783164046,
         "date_posted": 1781950914,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4042289-1",
@@ -342930,7 +342930,7 @@
         "company_name": "Ampersand",
         "id": "c4953912-da38-426b-ae71-ee8f6fec8f69",
         "title": "Research Associate - Microfluidics & Platform Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1783419424,
         "date_posted": 1783041071,
         "url": "https://ats.rippling.com/ampersand-biomedicines/jobs/9d2a985f-4892-4344-a2a6-000eebdedd8b",
@@ -345079,5 +345079,81 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WVUMedicine",
+        "id": "6233367e-05cb-4a93-bff1-f6acba246d4d",
+        "title": "Systems Analyst Associate - Software Trainer - Inpatient and Outpatient Provider Training",
+        "active": true,
+        "date_updated": 1783503958,
+        "date_posted": 1782957177,
+        "url": "https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/WVUH-Windwood/Associate-Systems-Analyst---Software-Trainer--Inpatient-and-Outpatient-Provider-Training----Hybrid_JR26-34833",
+        "locations": [
+            "Morgantown, WV"
+        ],
+        "company_url": "https://simplify.jobs/c/WVUMedicine",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BNY",
+        "id": "8b288ebd-9f41-4a86-85d7-7220a98e4bb8",
+        "title": "Specialist 2 - Client Processing - Loans Administrator and Data Analyst",
+        "active": true,
+        "date_updated": 1783503042,
+        "date_posted": 1783346729,
+        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/74771",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/BNY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brookhaven Lab",
+        "id": "47cd7af0-f4ad-46a3-93f8-775e536d6bb7",
+        "title": "Postdoc Research Associate for Studying Gluon Saturation with Baseline EIC Energies",
+        "active": true,
+        "date_updated": 1783503541,
+        "date_posted": 1782943758,
+        "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Postdoc-Research-Associate-for-Studying-Gluon-Saturation-with-Baseline-EIC-Energies_JR102560",
+        "locations": [
+            "Shirley, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Keystone AI",
+        "id": "86bbbf6b-c290-40cc-abd7-bdb645167ce8",
+        "title": "Data Management & Research Contractor - Ems Guru",
+        "active": true,
+        "date_updated": 1783504441,
+        "date_posted": 1781705893,
+        "url": "https://www.keystone.com/careers?gh_jid=8012879",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Keystone-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
