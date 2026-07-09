@@ -285263,7 +285263,7 @@
         "company_name": "Insperity",
         "id": "eb43e589-96b1-42be-a5a5-db720d60cb85",
         "title": "Agency Temp - Associate Software Implementation Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779930361,
         "date_posted": 1779930288,
         "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Associate-Software-Implementation-Analyst_JR102707",
@@ -347110,6 +347110,594 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Anduril",
+        "id": "8bda5b15-0885-4e6b-8c7e-605a86961ee4",
+        "title": "Early Career Firmware Engineer",
+        "active": true,
+        "date_updated": 1783637101,
+        "date_posted": 1783636374,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5167865007",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Alpha FMC",
+        "id": "028ebf66-3ce9-44aa-ba25-fc82e3c68e31",
+        "title": "AI Junior Analyst",
+        "active": true,
+        "date_updated": 1783637167,
+        "date_posted": 1783636913,
+        "url": "https://job-boards.greenhouse.io/alphafmcroles/jobs/8626491002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Alpha-FMC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "896852cc-417e-4bba-ba7f-1e1cb726008d",
+        "title": "ASIC Design Engineer New Grad",
+        "active": true,
+        "date_updated": 1783636947,
+        "date_posted": 1783555200,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Edwards Lifesciences",
+        "id": "9b75e0f4-e8c6-4664-826e-c7ec9afc39ad",
+        "title": "Associate Product Manager - Marketing",
+        "active": true,
+        "date_updated": 1783636741,
+        "date_posted": 1783555200,
+        "url": "https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Associate-Product-Manager--US-Marketing_Req-49106",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Edwards-Lifesciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ochsner Health",
+        "id": "69556a6a-9797-4eb8-b3a9-7376c011cf79",
+        "title": "Epic Analyst or Associate - Cadence - Authorization & Referrals",
+        "active": true,
+        "date_updated": 1783636939,
+        "date_posted": 1783555200,
+        "url": "https://ochsner.wd1.myworkdayjobs.com/ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/IS-Epic-Analyst-or-Associate--Cadence--Authorization---Referrals-_REQ_00246907",
+        "locations": [
+            "New Orleans, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ochsner-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "abffad1d-b598-4eb2-b9cf-d7d309b14112",
+        "title": "Environmental Laboratory Technician - Engineering Technician B",
+        "active": true,
+        "date_updated": 1783636923,
+        "date_posted": 1783634899,
+        "url": "https://jobs.l3harris.com/job/Londonderry-Environmental-Lab,-Engineering-Technician-B-NH-03053/1407282500/?ats=successfactors",
+        "locations": [
+            "Merrimack, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Garner Health",
+        "id": "6179b0ff-cbcf-4f7c-89fe-69676d906dd0",
+        "title": "Feed Integrations Associate",
+        "active": true,
+        "date_updated": 1783636741,
+        "date_posted": 1783636255,
+        "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6112552004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Garner-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CACI",
+        "id": "108fc54d-1d8c-432a-91c8-d2a6dabff21b",
+        "title": "IT Data Specialist 1",
+        "active": true,
+        "date_updated": 1783636798,
+        "date_posted": 1783555200,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/IT-Data-Specialist-I_328825",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Generate Biomedicines",
+        "id": "48db66c5-5cf5-4f7c-9816-77d541c8d745",
+        "title": "Data Scientist 1",
+        "active": true,
+        "date_updated": 1783636760,
+        "date_posted": 1783635917,
+        "url": "https://generatebiomedicines.com/open-positions?gh_jid=4695495006",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/GenerateBiomedicines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "db50fd06-19b3-4eb3-8597-d6eadf799b65",
+        "title": "Systems Architect",
+        "active": true,
+        "date_updated": 1783636741,
+        "date_posted": 1783635801,
+        "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4695845006",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "5909e69f-9e25-4075-904c-d31c6aa6f5f7",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1783636741,
+        "date_posted": 1783635798,
+        "url": "https://www.esri.com/careers/5176566007?gh_jid=5176566007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "8e55dd92-ce76-4276-8228-0c0d7cf68660",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1783636741,
+        "date_posted": 1783635803,
+        "url": "https://www.esri.com/careers/5176578007?gh_jid=5176578007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "ffb03723-b901-479e-8a6d-d6cb881ba0e3",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1783636741,
+        "date_posted": 1783635580,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8054091",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "c2f02828-faa2-456e-8175-87ea205ccab9",
+        "title": "Drafter",
+        "active": true,
+        "date_updated": 1783636022,
+        "date_posted": 1783555200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Drafter-2-3_R10239613",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "68626d60-41ba-4ce2-8fc5-7315d24945f3",
+        "title": "Environmental Test Dynamics Engineer - Level 1 or Level 2",
+        "active": true,
+        "date_updated": 1783636022,
+        "date_posted": 1783555200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Environmental-Test-Dynamics-Engineer---Level-1-or-Level-2_R10239708",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "120f25fc-5d0c-48fc-95ba-f4643959e7b8",
+        "title": "Principal Energetics Manufacturing Engineer",
+        "active": true,
+        "date_updated": 1783636690,
+        "date_posted": 1783555200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Principal-Engineer-Energetics-Manufacturing_R10239438",
+        "locations": [
+            "Logan, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "6c2fe943-5778-43b7-9845-06428b3eec92",
+        "title": "Design Engineer New Grad - Design Engineer - DRAM Technology and Products",
+        "active": true,
+        "date_updated": 1783636672,
+        "date_posted": 1783555200,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "4a36cab4-1a4a-43ac-90cd-c832659395c5",
+        "title": "Formal Verification Engineer",
+        "active": true,
+        "date_updated": 1783636562,
+        "date_posted": 1783555200,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2020837",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "ce9250e1-36be-4c4c-aeff-ee1b9d5881c6",
+        "title": "Entry Level Software Developer",
+        "active": true,
+        "date_updated": 1783636460,
+        "date_posted": 1783555200,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00186923",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "86f07a59-1ed5-4896-9caa-860180ff3c9e",
+        "title": "Software Engineer 3",
+        "active": true,
+        "date_updated": 1783636498,
+        "date_posted": 1783555200,
+        "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2499802-1",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fidelity National Information Services",
+        "id": "63c6a592-c40f-4678-b68b-ef4ff9d09505",
+        "title": "Analyst 1 - Business Intelligence",
+        "active": true,
+        "date_updated": 1783636340,
+        "date_posted": 1783555200,
+        "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-WI-MKE-4900/Analyst-I--Business-Intelligence_JR0307857",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-National-Information-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "ff412e91-a5e3-48f6-8ed1-fa4ac83c5e81",
+        "title": "Software Engineer New Grad - Undergrads",
+        "active": true,
+        "date_updated": 1783636335,
+        "date_posted": 1783555200,
+        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "13834a5f-488b-4fc4-bdd9-d3bff5044f25",
+        "title": "Software Engineer New Grad - Undergrads",
+        "active": true,
+        "date_updated": 1783636325,
+        "date_posted": 1783555200,
+        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-3",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SpaceX",
+        "id": "f8f71507-c0d4-4d07-ae3b-027559a5cabd",
+        "title": "Data Engineer - Starlink",
+        "active": true,
+        "date_updated": 1783636022,
+        "date_posted": 1783635171,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8626535002",
+        "locations": [
+            "Bastrop, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "1d46efc8-7178-4b97-bf03-317a454f488e",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1783636290,
+        "date_posted": 1783555200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01858115",
+        "locations": [
+            "Fulton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "af755532-e162-46d6-a161-7874c1865c6e",
+        "title": "Software Engineer New Grad - Undergrads",
+        "active": true,
+        "date_updated": 1783636259,
+        "date_posted": 1783555200,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-1",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citi",
+        "id": "bf1e526e-cb95-4bbe-b3fc-d5ead020cb49",
+        "title": "Services Analyst",
+        "active": true,
+        "date_updated": 1783636267,
+        "date_posted": 1783555200,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Toronto---Canada/Services--Full-Time-Analyst--Toronto---CA--2027_26975984",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Novartis",
+        "id": "a36ce204-239e-4a40-aa35-88e602ea03b0",
+        "title": "Innovation Postdoctoral Fellow - Data Science & AI",
+        "active": true,
+        "date_updated": 1783636022,
+        "date_posted": 1783555200,
+        "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/San-Diego/Innovation-Postdoctoral-Fellow--Data-Science---AI_REQ-10082695-1",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Novartis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Life",
+        "id": "ecbaf329-4e0e-49b2-9693-bf1f4c17b230",
+        "title": "Associate Illustration Systems Analyst / Analyst",
+        "active": true,
+        "date_updated": 1783636860,
+        "date_posted": 1783461716,
+        "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4305154009",
+        "locations": [
+            "Montpelier, VT",
+            "Addison, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Life",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
