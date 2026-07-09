@@ -7611,45 +7611,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Serco North America",
-        "id": "603c5ff9-f101-4b7e-b2c6-2bf9cd2f41be",
-        "title": "Air Traffic Control Specialist - Alaska",
-        "active": false,
-        "date_updated": 1762827745,
-        "date_posted": 1762827745,
-        "url": "https://careers-sercous.icims.com/jobs/71818/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "King Salmon, AK",
-            "Kodiak, AK",
-            "Soldotna, AK",
-            "Bethel, AK"
-        ],
-        "company_url": "https://simplify.jobs/c/Serco-North-America",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Quest Global",
-        "id": "2198822d-3534-425d-908f-cf9422bfab15",
-        "title": "Data Migration Engineer/Programmer",
-        "active": false,
-        "date_updated": 1763122336,
-        "date_posted": 1762827091,
-        "url": "https://careers.quest-global.com/global/en/job/P-113136",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Quest-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Eurofins",
         "id": "6355c1ea-4c2f-4ba5-be9e-5c4d4ae79c5d",
         "title": "IT Support Engineer",
