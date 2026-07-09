@@ -7611,42 +7611,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "ASM Global",
-        "id": "35ed9a34-e2f4-49c5-bc29-446471faf91f",
-        "title": "IT Coordinator",
-        "active": false,
-        "date_updated": 1762824358,
-        "date_posted": 1762824358,
-        "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/El-Paso-TX/IT-Coordinator_R100116783",
-        "locations": [
-            "El Paso, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/ASM-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Oracle",
-        "id": "63c9443e-c9c3-49c7-99bc-91e30f334dfa",
-        "title": "Data Center Technician",
-        "active": false,
-        "date_updated": 1762823573,
-        "date_posted": 1762823573,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/314645",
-        "locations": [
-            "Stamford, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Serco North America",
         "id": "603c5ff9-f101-4b7e-b2c6-2bf9cd2f41be",
         "title": "Air Traffic Control Specialist - Alaska",
@@ -20779,24 +20743,6 @@
             "Birmingham, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Arcadis",
-        "id": "5944bd0c-d567-4e8c-8b09-f9496bd428b7",
-        "title": "Geologist",
-        "active": false,
-        "date_updated": 1763722114,
-        "date_posted": 1762824549,
-        "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/33794",
-        "locations": [
-            "Sacramento, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Arcadis",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -172150,7 +172096,7 @@
         "company_name": "RTX",
         "id": "5e50d104-4b2a-4299-be1b-990dfc38d4c0",
         "title": "Embedded Linux Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1773269465,
         "date_posted": 1773269465,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Embedded-Linux-Software-Engineer-I--Onsite-_01793223-2",
@@ -221561,7 +221507,7 @@
         "company_name": "EvenUp",
         "id": "37510038-1f6f-4be0-bfe7-50811c1ee137",
         "title": "Software Engineer \u2013 New Grad - Cases Product",
-        "active": false,
+        "active": true,
         "date_updated": 1775870975,
         "date_posted": 1775869761,
         "url": "https://jobs.ashbyhq.com/evenup/41488eae-50a9-4ad3-b6e0-2fd28efb238e/application",
@@ -272154,7 +272100,7 @@
         "company_name": "Goldman Sachs",
         "id": "ad57e8fa-d0bd-4c63-9809-6141b7dda000",
         "title": "Asset & Wealth Management Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779343943,
         "date_posted": 1779343723,
         "url": "https://higher.gs.com/roles/168978",
@@ -291273,7 +291219,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -300292,7 +300238,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -313213,7 +313159,7 @@
         "company_name": "Goldman Sachs",
         "id": "a3ee586e-9f97-4009-92cc-dc4affda3b3a",
         "title": "Asset & Wealth Management - Quantitative Investment Strategies - ETF Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1781648474,
         "date_posted": 1781638708,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176625",
@@ -315623,7 +315569,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -318804,7 +318750,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -330148,7 +330094,7 @@
         "company_name": "Goldman Sachs",
         "id": "3ac699af-5c50-4a7c-81af-6dfb56f595db",
         "title": "Asset& Wealth Management-Software Engineering-Associate-New York",
-        "active": false,
+        "active": true,
         "date_updated": 1782742321,
         "date_posted": 1782742023,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/168978",
@@ -337298,7 +337244,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -343183,7 +343129,7 @@
         "company_name": "Goldman Sachs",
         "id": "6a36b7f9-3aea-44d6-b6a2-b8ba794476ea",
         "title": "Asset & Wealth Management - Product Management - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1783472761,
         "date_posted": 1781791629,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/173819",
@@ -345997,6 +345943,152 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thoughtworks",
+        "id": "19f32ab3-2a4d-4e59-9937-92878312f48c",
+        "title": "Graduate Developer",
+        "active": true,
+        "date_updated": 1783560457,
+        "date_posted": 1783560107,
+        "url": "https://www.thoughtworks.com/careers/jobs/8037730?gh_jid=8037730",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Thoughtworks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "5a3af054-4413-4265-a625-02bc1cc34542",
+        "title": "Energy Analyst - Residential Energy",
+        "active": true,
+        "date_updated": 1783559950,
+        "date_posted": 1783559572,
+        "url": "https://www.tesla.com/careers/search/job/276044",
+        "locations": [
+            "Henderson, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "72d27188-ca10-44bc-b865-6250f7f6e7cf",
+        "title": "Software Engineer 3",
+        "active": true,
+        "date_updated": 1783559946,
+        "date_posted": 1783559556,
+        "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2556771",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "5f640ccc-e574-436b-a1e0-c02c264acd22",
+        "title": "Software Engineer 3",
+        "active": true,
+        "date_updated": 1783559941,
+        "date_posted": 1783559556,
+        "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2556776-1",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Quora",
+        "id": "b2a451e2-c73b-4273-ba1e-8a91e3c9b407",
+        "title": "Machine Learning Engineer New Grad",
+        "active": true,
+        "date_updated": 1783559900,
+        "date_posted": 1783559411,
+        "url": "https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4/application",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Quora",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Capital One",
+        "id": "ad753003-9375-4d9a-815a-8ea2bb7841d8",
+        "title": "Senior Associate Product Manager - Card Core Platforms & Servicing",
+        "active": true,
+        "date_updated": 1783559701,
+        "date_posted": 1783559509,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate-Product-Manager---US-Card-Core-Platforms---Servicing_R246413-1",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "4ab2be7c-c405-42fa-9dbf-cb0e5ff6a73d",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1783559934,
+        "date_posted": 1783559547,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Engineer_R-00186934-1",
+        "locations": [
+            "Gaithersburg, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
