@@ -7650,24 +7650,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Hitachi Energy",
-        "id": "4669cfe6-3425-46ad-8f64-8c84e586ba73",
-        "title": "Information Technology Intenship",
-        "active": false,
-        "date_updated": 1762826443,
-        "date_posted": 1762826443,
-        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Holland-Michigan-United-States/Information-Technology-Intenship_R0111854",
-        "locations": [
-            "Holland, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/83d28c1e-7f20-4aac-afd9-6bc8a468d7eb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Eurofins",
         "id": "6355c1ea-4c2f-4ba5-be9e-5c4d4ae79c5d",
         "title": "IT Support Engineer",
@@ -256082,7 +256064,7 @@
         "company_name": "Quadric",
         "id": "424ec906-24ff-4198-87e6-c0c54c4ee048",
         "title": "AI Kernel Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1778106167,
         "date_posted": 1778105317,
         "url": "https://apply.workable.com/quadric-dot-i-o-inc/j/B8F898E1F5/apply",
