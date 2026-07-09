@@ -290985,7 +290985,7 @@
         "company_name": "CoStar Group",
         "id": "654a8203-8795-40c6-92f5-76afc4273093",
         "title": "Associate Research Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1780390666,
         "date_posted": 1780134807,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Associate-Research-Consultant_R38934",
@@ -293799,7 +293799,7 @@
         "company_name": "Wellmark",
         "id": "a15ce0e8-8b4c-4f66-b334-fddec09c78e1",
         "title": "Data Science Consultant - Pharmacy",
-        "active": true,
+        "active": false,
         "date_updated": 1780495561,
         "date_posted": 1780495471,
         "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000129990590",
@@ -313102,7 +313102,7 @@
         "company_name": "Goldman Sachs",
         "id": "a3ee586e-9f97-4009-92cc-dc4affda3b3a",
         "title": "Asset & Wealth Management - Quantitative Investment Strategies - ETF Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781648474,
         "date_posted": 1781638708,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176625",
@@ -318693,7 +318693,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -327897,7 +327897,7 @@
         "company_name": "GE Healthcare",
         "id": "6b714166-bc69-4a53-ac98-4bcb62a5c1d7",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1782812054,
         "date_posted": 1782252366,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I_R4042607",
@@ -335411,7 +335411,7 @@
         "company_name": "CAE",
         "id": "441d6d3c-3c5b-433b-bf3a-a888f704d484",
         "title": "Simulator Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782985269,
         "date_posted": 1782943549,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Orlando/Simulator-Technician-I_122131",
@@ -337583,7 +337583,7 @@
         "company_name": "GE Healthcare",
         "id": "650fe64f-56da-4821-b1ce-ab081f6d9828",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783071836,
         "date_posted": 1781950920,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer---Harrisburg--PA_R4042234",
@@ -343150,7 +343150,7 @@
         "company_name": "Lyft",
         "id": "6cf07fce-a741-4ce5-adbc-9449cccdd79b",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783490949,
         "date_posted": 1783490799,
         "url": "https://app.careerpuck.com/job-board/lyft/job/8623323002?gh_jid=8623323002",
@@ -343307,7 +343307,7 @@
         "company_name": "Brookhaven Lab",
         "id": "47cd7af0-f4ad-46a3-93f8-775e536d6bb7",
         "title": "Postdoc Research Associate for Studying Gluon Saturation with Baseline EIC Energies",
-        "active": true,
+        "active": false,
         "date_updated": 1783503541,
         "date_posted": 1782943758,
         "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Postdoc-Research-Associate-for-Studying-Gluon-Saturation-with-Baseline-EIC-Energies_JR102560",
@@ -343428,7 +343428,7 @@
         "company_name": "GE Healthcare",
         "id": "53296978-e1d5-43a7-bb67-828f1fa03034",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783509344,
         "date_posted": 1778941910,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Missouri_R4040983-1",
@@ -343489,7 +343489,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "86485467-5c53-4759-8039-a301b9ce2207",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1783520844,
         "date_posted": 1783519810,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Associate-Product-Mgr_R114877-1",
@@ -346167,6 +346167,102 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Salvo-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Hong Kong Exchanges",
+        "id": "f227ed65-cb4f-48d5-ae86-e42bc7b46232",
+        "title": "Trading Analytics - Analyst",
+        "active": true,
+        "date_updated": 1783590481,
+        "date_posted": 1783555200,
+        "url": "https://hkex.wd3.myworkdayjobs.com/HKEXCareerPage/job/UK-London/Trading-Analytics---Analyst_R004178",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/HKEX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DailyPay",
+        "id": "6b972f64-325d-41ab-b701-8bbb3bc06911",
+        "title": "Analyst 1 - Mission Control",
+        "active": true,
+        "date_updated": 1783590122,
+        "date_posted": 1783588404,
+        "url": "https://jobs.ashbyhq.com/dailypay/17a78eb3-d50c-4c6c-8b80-6f45affd8ffa/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DailyPay",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "6f9df55d-39e6-4e2f-bab1-9e34c3210d29",
+        "title": "Maps Personalization Relevance Rater",
+        "active": true,
+        "date_updated": 1783589401,
+        "date_posted": 1783577184,
+        "url": "https://jobs.lever.co/weloglobal/93094a81-c521-4e5a-a4e0-31a95c2c2ed1/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Newmont",
+        "id": "7e0179db-0054-4f44-8810-5459ab5e6fde",
+        "title": "Analyst \u2013 Field Services",
+        "active": true,
+        "date_updated": 1783589498,
+        "date_posted": 1783491125,
+        "url": "https://jobs.newmont.com/us/en/job/43597",
+        "locations": [
+            "British Columbia, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/90e0373e-e60e-4722-bb8f-06f1471a1c38",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keysight Technologies",
+        "id": "95bc4c80-b05c-4a02-a834-0fd608db40be",
+        "title": "Service Technician Coordinator",
+        "active": true,
+        "date_updated": 1783590510,
+        "date_posted": 1782511581,
+        "url": "https://jobs.keysight.com/jobs/52777?icims=1",
+        "locations": [
+            "Bracknell, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
