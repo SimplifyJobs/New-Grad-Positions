@@ -113014,7 +113014,7 @@
         "company_name": "The New York Times",
         "id": "68674c8e-c435-47e4-b0cb-9625d7e71081",
         "title": "Associate Android Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1770333876,
         "date_posted": 1770333876,
         "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4636765005",
@@ -184980,7 +184980,7 @@
         "company_name": "Astronomer",
         "id": "da35e250-cc83-40c3-8030-56a35545fe85",
         "title": "Software Engineer - Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1773959546,
         "date_posted": 1773959546,
         "url": "https://jobs.ashbyhq.com/astronomer/de75aa5e-82f9-4348-9122-4cc83138a569/application",
@@ -325341,7 +325341,7 @@
         "company_name": "Guidewire",
         "id": "446847d3-29b2-4c3c-b983-f4e2203fc1ec",
         "title": "Associate Certification Program Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782868406,
         "date_posted": 1782770934,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946",
@@ -332750,7 +332750,7 @@
         "company_name": "WebFX",
         "id": "d976fc06-b431-419f-8dcf-be9c0a1ff03e",
         "title": "Junior Front-End Web Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1781735841,
         "date_posted": 1781734256,
         "url": "https://jobs.lever.co/webfx/e424e486-c772-443b-98cf-9088fef288d1/apply",
@@ -340284,7 +340284,7 @@
         "company_name": "Clarity Innovations",
         "id": "c74bd012-8066-4308-ab89-4a3177fd0ea6",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1783377363,
         "date_posted": 1783376538,
         "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5179526007",
@@ -346508,6 +346508,194 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Busey Bank",
+        "id": "d938afb4-26dd-42ec-80c8-714cc2fc6351",
+        "title": "Associate Portfolio Manager - Trading",
+        "active": true,
+        "date_updated": 1783607942,
+        "date_posted": 1783555200,
+        "url": "https://busey.wd503.myworkdayjobs.com/busey/job/Creve-Coeur-MO---12300-Olive-Blvd/Associate-Portfolio-Manager--Trading_JR102392",
+        "locations": [
+            "Collinsville, IL",
+            "Urbana, IL",
+            "Naperville, IL",
+            "Creve Coeur, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Busey-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "eba30ef1-0ed0-446e-8727-22010e8ae45e",
+        "title": "Diagnostic Technician 1",
+        "active": true,
+        "date_updated": 1783607859,
+        "date_posted": 1783555200,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Diagnostic-Technician-I_J2456323",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Elwood Technologies",
+        "id": "e9746139-c78b-4531-8ab7-605a87721e51",
+        "title": "Graduate Software Engineer - User Interface",
+        "active": true,
+        "date_updated": 1783607852,
+        "date_posted": 1783606517,
+        "url": "https://job-boards.greenhouse.io/elwoodtechnologies/jobs/6112453004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Elwood-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "VF",
+        "id": "6f658e91-3c5f-4f2a-b9ca-055d1ff812c3",
+        "title": "Associate Merchandiser - Footwear",
+        "active": true,
+        "date_updated": 1783607825,
+        "date_posted": 1783555200,
+        "url": "https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/USCA--USA--New-Hampshire--Stratham-Domain-Dr-HQ---TBL/Timberland--Associate-Merchandiser--Footwear_R-20260624-0008-2",
+        "locations": [
+            "Portsmouth, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/VF",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Abbott",
+        "id": "48e02c0e-a94c-42d0-9a97-bdc199d15e38",
+        "title": "Associate Engineer - Vision Systems",
+        "active": true,
+        "date_updated": 1783607642,
+        "date_posted": 1783555200,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/Associate-Engineer--Vision-Systems----Ideal-Graduate-Opportunity_31155414",
+        "locations": [
+            "Brize Norton, Carterton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "T-Mobile",
+        "id": "e9577754-da1f-4bdb-a264-cd3538a3eb6a",
+        "title": "Associate Product Manager - T-Platform",
+        "active": true,
+        "date_updated": 1783607401,
+        "date_posted": 1783555200,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Product-Manager---T-Platform_REQ362276-1",
+        "locations": [
+            "Frisco, TX",
+            "Bellevue, WA",
+            "Parsippany-Troy Hills, NJ",
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "T-Mobile",
+        "id": "592579db-eaea-485c-8f45-b39376a10c93",
+        "title": "Associate Product Manager - T-Platform",
+        "active": true,
+        "date_updated": 1783607401,
+        "date_posted": 1783555200,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/alumni/job/Bellevue-Washington/Associate-Product-Manager---T-Platform_REQ362276",
+        "locations": [
+            "Frisco, TX",
+            "Bellevue, WA",
+            "Parsippany-Troy Hills, NJ",
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Regeneron Pharmaceuticals",
+        "id": "326c806c-b963-4965-966a-eab3c03c37fe",
+        "title": "Process Development Engineer 1 - Purification Data Analysis",
+        "active": true,
+        "date_updated": 1783607569,
+        "date_posted": 1783555200,
+        "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/Process-Development-Engineer-I---Purification-Data-Analysis_R48653",
+        "locations": [
+            "Tarrytown, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Regeneron-Pharmaceuticals",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Elwood Technologies",
+        "id": "6233ea9e-7cb1-4aa3-9f4e-bdaa6e88fcfd",
+        "title": "Graduate/Junior Software Engineer - Backend",
+        "active": true,
+        "date_updated": 1783607515,
+        "date_posted": 1783606517,
+        "url": "https://job-boards.greenhouse.io/elwoodtechnologies/jobs/6112395004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Elwood-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
