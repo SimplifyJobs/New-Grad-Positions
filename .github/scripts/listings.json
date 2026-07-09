@@ -138042,7 +138042,7 @@
         "company_name": "Honeywell",
         "id": "b543773b-5b5c-45dc-a639-851b84a8a0ec",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771629169,
         "date_posted": 1771629169,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/139984",
@@ -272043,7 +272043,7 @@
         "company_name": "Goldman Sachs",
         "id": "ad57e8fa-d0bd-4c63-9809-6141b7dda000",
         "title": "Asset & Wealth Management Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1779343943,
         "date_posted": 1779343723,
         "url": "https://higher.gs.com/roles/168978",
@@ -273037,7 +273037,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -303375,7 +303375,7 @@
         "company_name": "Confluence Technologies",
         "id": "5af2268a-ff2d-4b13-b566-d3b9f116ae9c",
         "title": "Data Engineer Associate - Data Platform - Data Pipelines",
-        "active": false,
+        "active": true,
         "date_updated": 1781082868,
         "date_posted": 1781082374,
         "url": "https://confluence.pinpointhq.com/en/postings/fcbb93f0-38bb-42ba-8f6e-e0141576d0d7?ats=pinpointhq",
@@ -318693,7 +318693,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -328541,7 +328541,7 @@
         "company_name": "XPO",
         "id": "b40b851b-e6f5-4572-994c-74cce397d745",
         "title": "Associate Analyst - Linehaul Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1782799921,
         "date_posted": 1782799698,
         "url": "https://jobs.xpo.com/job/Boston-Associate-Analyst,-Linehaul-Analytics-Hybrid-MA-02110/1404324500/?ats=successfactors",
@@ -330037,7 +330037,7 @@
         "company_name": "Goldman Sachs",
         "id": "3ac699af-5c50-4a7c-81af-6dfb56f595db",
         "title": "Asset& Wealth Management-Software Engineering-Associate-New York",
-        "active": true,
+        "active": false,
         "date_updated": 1782742321,
         "date_posted": 1782742023,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/168978",
@@ -332770,7 +332770,7 @@
         "company_name": "WebFX",
         "id": "ab02ee55-a577-453a-bb9f-7cd2320ae755",
         "title": "Junior Backend Software Engineer - Nutshell CRM - AWS & React Native",
-        "active": true,
+        "active": false,
         "date_updated": 1781735844,
         "date_posted": 1781734256,
         "url": "https://jobs.lever.co/webfx/497bb548-b7d7-4aff-b87b-da9dcc8fbcc8/apply",
@@ -337187,7 +337187,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -344247,7 +344247,7 @@
         "company_name": "Wood",
         "id": "bf8740a3-40bf-452b-87b1-53e86d021067",
         "title": "Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783549572,
         "date_posted": 1783548561,
         "url": "https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30525",
@@ -346368,6 +346368,146 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "State of North Carolina",
+        "id": "5fb3ffae-8a78-4dbf-92eb-8b3124aeaf7d",
+        "title": "Business Systems Analyst 1",
+        "active": true,
+        "date_updated": 1783607067,
+        "date_posted": 1783555200,
+        "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Carteret-County-NC/Business-Systems-Analyst-I--Temporary---Carteret-_JR-119671",
+        "locations": [
+            "MCAS Cherry Point, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Of-North-Carolina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Magna",
+        "id": "7423347c-413f-4216-a33f-3a01fa6f593f",
+        "title": "IT \u2013 Programmer",
+        "active": true,
+        "date_updated": 1783606919,
+        "date_posted": 1783606543,
+        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Nashville-Illinois-US/IT---Programmer_R00223231",
+        "locations": [
+            "Mascoutah, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Magna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Hard Rock Digital",
+        "id": "80c19141-cafb-4c95-94e5-b2790205cada",
+        "title": "Trading Event Control Associate",
+        "active": true,
+        "date_updated": 1783606700,
+        "date_posted": 1783606199,
+        "url": "https://hardrockdigital.recruitee.com/o/associate-trading-event-control-1",
+        "locations": [
+            "Ireland",
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Hard-Rock-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thermo Fisher Scientific",
+        "id": "e866b75b-bf29-4798-bb4d-caaa7780849b",
+        "title": "AI Developer",
+        "active": true,
+        "date_updated": 1783606321,
+        "date_posted": 1783555200,
+        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Birmingham-United-Kingdom/AI-Developer_R-01358937-1",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kearny Bank",
+        "id": "8fe68f48-820b-4cb6-a7a1-320503351d61",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1783606321,
+        "date_posted": 1783606165,
+        "url": "https://careers-kearnybank.icims.com/jobs/3162/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Wayne, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Kearny-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "43ab9503-9377-4297-a179-a85a7169d278",
+        "title": "Quantitative Trading & Research - RMBS Underwriting - Analyst",
+        "active": true,
+        "date_updated": 1783606321,
+        "date_posted": 1783606005,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768112",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Westinghouse Electric Company",
+        "id": "f37a5b0b-f475-470e-9c7d-87900deb7329",
+        "title": "Nuclear Analysis Technician C",
+        "active": true,
+        "date_updated": 1783606914,
+        "date_posted": 1778922279,
+        "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Nuclear-Analysis-Tech-C-NC/1373546000/?ats=successfactors",
+        "locations": [
+            "Grove City, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
