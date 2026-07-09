@@ -320335,7 +320335,7 @@
         "company_name": "Illinois Tool Works",
         "id": "bcef0050-4fcb-4233-a03c-12523b7dcbbf",
         "title": "Field Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1781949337,
         "date_posted": 1781330873,
         "url": "https://careers.itw.com/global/en/job/JR4541",
@@ -335638,7 +335638,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "9655465c-4a38-4df0-85f9-a6b2e7ef3e34",
         "title": "Investment Analyst Emerging Markets",
-        "active": true,
+        "active": false,
         "date_updated": 1783002781,
         "date_posted": 1783001650,
         "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Investment-Analyst-Emerging-Markets_R-0000179088",
@@ -337187,7 +337187,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -337860,7 +337860,7 @@
         "company_name": "Mastercard",
         "id": "0033879f-2afc-4de2-8801-9d8a420a0c46",
         "title": "Payments Product Specialist - Product Management",
-        "active": true,
+        "active": false,
         "date_updated": 1783117456,
         "date_posted": 1783116703,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Specialist--Product-Management_R-280525-1",
@@ -338262,7 +338262,7 @@
         "company_name": "GE Healthcare",
         "id": "7e3f8ed0-1008-4885-9949-187f282c315b",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783164046,
         "date_posted": 1781950914,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4042289-1",
@@ -346266,5 +346266,68 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ford Motor Company",
+        "id": "f3a393b1-15b5-4af2-8adb-58662f1338b2",
+        "title": "Product Development Engineer",
+        "active": true,
+        "date_updated": 1783592461,
+        "date_posted": 1783375705,
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/64134",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "9c4f6e91-a5cc-482a-ad58-1870f54b7c91",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1783592461,
+        "date_posted": 1782956180,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Software-Engineer_327867",
+        "locations": [
+            "Springfield, VA",
+            "St. Louis, MO",
+            "Denver, CO",
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Trio",
+        "id": "dcdf0a09-b26b-4234-835e-fdcb9892d744",
+        "title": "Energy Analyst",
+        "active": true,
+        "date_updated": 1783591921,
+        "date_posted": 1781129191,
+        "url": "https://jobs.lever.co/trio/21f7e6e8-1357-4c31-a04c-36f1e48853a8/apply",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Trio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
