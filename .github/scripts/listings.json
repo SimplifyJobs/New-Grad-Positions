@@ -300160,7 +300160,7 @@
         "company_name": "GE Healthcare",
         "id": "36e9ff78-3874-4c00-8071-cf878030a4c2",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780956849,
         "date_posted": 1780956345,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I_R4041630-1",
@@ -300181,7 +300181,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -313102,7 +313102,7 @@
         "company_name": "Goldman Sachs",
         "id": "a3ee586e-9f97-4009-92cc-dc4affda3b3a",
         "title": "Asset & Wealth Management - Quantitative Investment Strategies - ETF Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1781648474,
         "date_posted": 1781638708,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176625",
@@ -318693,7 +318693,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -330958,7 +330958,7 @@
         "company_name": "University of Texas at Austin",
         "id": "35ea5d76-cfd1-4d19-9520-439668fb7c63",
         "title": "Postdoctoral Fellow - Nanoassembly Lab",
-        "active": false,
+        "active": true,
         "date_updated": 1782897381,
         "date_posted": 1782770685,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow---Nanoassembly-Lab_R_00046997",
@@ -337187,7 +337187,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -338770,7 +338770,7 @@
         "company_name": "Becton Dickinson",
         "id": "3cfcbd81-be3d-4fdc-a561-42da7da111b6",
         "title": "Metrology Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1783243517,
         "date_posted": 1782560914,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Metrology-Technician_R-545344-1",
@@ -343211,7 +343211,7 @@
         "company_name": "Trane Technologies",
         "id": "75f53fa8-84b6-4068-8c1a-ea1ccbe13f6a",
         "title": "Test Tech - Machinist",
-        "active": true,
+        "active": false,
         "date_updated": 1783502808,
         "date_posted": 1783433443,
         "url": "https://careers.tranetechnologies.com/global/en/job/JR-9731",
@@ -346093,5 +346093,82 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "556ab560-52f8-48e5-b852-911e4c5cfaca",
+        "title": "Maps Personalization Relevance Rater - English",
+        "active": true,
+        "date_updated": 1783588681,
+        "date_posted": 1783577174,
+        "url": "https://jobs.lever.co/weloglobal/7b07afde-d586-4945-9ef8-b41ca36a739b/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MKS Instruments",
+        "id": "3c0d7ce6-a174-4d1c-8187-55365f57505e",
+        "title": "Manufacturing Test Engineer",
+        "active": true,
+        "date_updated": 1783589376,
+        "date_posted": 1782857204,
+        "url": "https://mksinst.wd1.myworkdayjobs.com/mkscareersamericas/job/Rochester-NY/Mfg-Test-Eng-Tech-2_R20063",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/MKS-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mauser Packaging Solutions",
+        "id": "60c91828-d8ac-40fd-babc-1c5301d3eadd",
+        "title": "SQL Server DBA Data Warehouse Technical Lead",
+        "active": true,
+        "date_updated": 1783588501,
+        "date_posted": 1782166023,
+        "url": "https://hdpn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5531",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mauser-Packaging-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Salvo Health",
+        "id": "4f854a1f-70d5-470b-9d45-125aa11c1930",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1783587601,
+        "date_posted": 1779919647,
+        "url": "https://jobs.lever.co/salvohealth/3b327f35-1ba9-4ddf-bb18-7c3cce52ecfd/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Salvo-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
