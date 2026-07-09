@@ -10245,7 +10245,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (255)</summary>
+<summary>🗃️ Inactive roles (254)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -12033,13 +12033,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company">The Boeing Company</a></strong></td>
 <td>Entry Level Product Data Management Specialist</td>
 <td>Hazelwood, MO</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Expedia-Group?utm_source=GHList&utm_medium=company">Expedia Group</a></strong></td>
-<td>Data Engineer I</td>
-<td>Seattle, WA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -13897,14 +13890,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineer 1 - Software Engineer I</td>
 <td>Indianapolis, IN</td>
 <td>🔒</td>
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>↳</td>
 <td>Software Engineer 1 - Hardware In the Loop</td>
 <td>Tucson, AZ</td>
 <td>🔒</td>
@@ -14149,7 +14142,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>↳</td>
 <td>Software Embedded Engineer 1 - TX</td>
 <td>McKinney, TX</td>
 <td>🔒</td>
