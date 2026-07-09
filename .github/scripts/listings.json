@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1763378043,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Data-Engineer-I_R-98969-2",
-        "company_name": "Expedia Group",
-        "title": "Data Engineer I",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "23eb39a1-3638-4ffd-ab71-ffd657f91e17",
-        "date_posted": 1762875377,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Chewy",
