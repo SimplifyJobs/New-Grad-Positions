@@ -192129,7 +192129,7 @@
         "company_name": "University of Arkansas",
         "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
         "title": "Cosmos Graduate Research Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773813920,
         "date_posted": 1773813920,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2",
@@ -280970,7 +280970,7 @@
         "company_name": "The Federal Reserve System",
         "id": "d05c2b68-917e-4f4e-a813-a4ce97be4c5b",
         "title": "Senior Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1779875512,
         "date_posted": 1779528352,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Philadelphia-PA/Research-Assistant-Sr-Research-Assistant_R-0000030430",
@@ -287788,7 +287788,7 @@
         "company_name": "Leidos",
         "id": "c2ced759-415c-4430-971e-4945e24dcfcc",
         "title": "Electronics Mechanical Assembly Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780275161,
         "date_posted": 1780134819,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronics-Mechanical-Assembly-Technician_R-00182031",
@@ -334440,7 +334440,7 @@
         "company_name": "RTX",
         "id": "b8af76ed-8784-40c4-9d9b-e32f8f7c1473",
         "title": "Systems Engineer 1 - String Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1782966054,
         "date_posted": 1782963450,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineer-I--String-Engineer-Onsite_01855457",
@@ -345121,7 +345121,7 @@
         "company_name": "Intel",
         "id": "ac371a61-176d-4cbb-a098-a8d32e0b88d5",
         "title": "Package Failure Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783550551,
         "date_posted": 1783548666,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Package-Failure-Analysis-Engineer_JR0285289",
@@ -346324,6 +346324,26 @@
             "Dublin, OH"
         ],
         "company_url": "https://simplify.jobs/c/Trio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "7cf84182-19ec-4a2d-be09-60beff5ba17d",
+        "title": "AI Analyst",
+        "active": true,
+        "date_updated": 1783594180,
+        "date_posted": 1783520026,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/AI-Analyst_R-0000179708",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
