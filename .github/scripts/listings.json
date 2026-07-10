@@ -5748,44 +5748,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Royal Bank of Canada",
-        "id": "e12e36c4-05ba-4d80-9101-ae2dbe619187",
-        "title": "Analyst \u2013 Futures E-Trading Connectivity and Support",
-        "active": false,
-        "date_updated": 1762914258,
-        "date_posted": 1762914258,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Chicago-Illinois-United-States-of-America/Analyst---Futures-E-Trading-Connectivity-and-Support_R-0000148370",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "United Parcel Service (UPS)",
-        "id": "c74f3a4d-cf14-4251-b5ae-29bf460623e6",
-        "title": "Technology Support Group Technician",
-        "active": false,
-        "date_updated": 1762913460,
-        "date_posted": 1762913460,
-        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---BUFORD-CENTER-GAORD/Technology-Support-Group-Technician_R25035663",
-        "locations": [
-            "Buford, GA",
-            "Athens, GA",
-            "Gainesville, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "NVIDIA",
         "id": "cae9d19e-c04b-4cbc-be15-3f714451302d",
@@ -345824,7 +345786,7 @@
         "company_name": "Novartis",
         "id": "a36ce204-239e-4a40-aa35-88e602ea03b0",
         "title": "Innovation Postdoctoral Fellow - Data Science & AI",
-        "active": true,
+        "active": false,
         "date_updated": 1783636022,
         "date_posted": 1783555200,
         "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/San-Diego/Innovation-Postdoctoral-Fellow--Data-Science---AI_REQ-10082695-1",
