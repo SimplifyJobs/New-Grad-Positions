@@ -311888,7 +311888,7 @@
         "company_name": "Northrop Grumman",
         "id": "9d681413-112b-4d9c-b04a-306ccb95decb",
         "title": "Hardware Configuration Analyst 2",
-        "active": false,
+        "active": true,
         "date_updated": 1781648269,
         "date_posted": 1781639441,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Hardware-Configuration-Analyst---Level-1_R10236095",
@@ -318248,7 +318248,7 @@
         "company_name": "Illinois Tool Works",
         "id": "bcef0050-4fcb-4233-a03c-12523b7dcbbf",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781949337,
         "date_posted": 1781330873,
         "url": "https://careers.itw.com/global/en/job/JR4541",
@@ -335100,7 +335100,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -345616,7 +345616,7 @@
         "company_name": "National Life",
         "id": "ecbaf329-4e0e-49b2-9693-bf1f4c17b230",
         "title": "Associate Illustration Systems Analyst / Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783636860,
         "date_posted": 1783461716,
         "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4305154009",
@@ -346001,6 +346001,44 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Alkira",
+        "id": "f5d0810b-8d0e-4bee-b85c-e93f19ab3aef",
+        "title": "Software Engineer - Datapath",
+        "active": true,
+        "date_updated": 1783678321,
+        "date_posted": 1783548695,
+        "url": "https://alkira.bamboohr.com/careers/232/",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alkira",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "University of Wisconsin-Madison",
+        "id": "997f9f78-dc02-4906-b96f-938de73bd1e9",
+        "title": "Production Coordinator - Conference Services and Events",
+        "active": true,
+        "date_updated": 1783678852,
+        "date_posted": 1783087456,
+        "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Production-Coordinator_JR10012733",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Wisconsin-Madison",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
         ]
     }
 ]
