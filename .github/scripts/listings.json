@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Washpost",
-        "id": "9cba0739-3489-4992-aacf-6ac868f0b589",
-        "title": "Software Engineer 1 - iOS App Development",
-        "active": false,
-        "date_updated": 1762989472,
-        "date_posted": 1762989472,
-        "url": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Software-Engineer-1--iOS-App-Development_JR-90275609",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Washpost",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Truist Bank",
         "id": "1364f9e4-2756-4370-954b-1e3c9173e962",
         "title": "Software Engineer 1",
@@ -5617,42 +5599,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sandisk",
-        "id": "ec7ec16d-d02d-4bc9-a0b6-842fb8461e78",
-        "title": "Graduate Failure Analysis Engineer - Failure Analysis",
-        "active": false,
-        "date_updated": 1762989798,
-        "date_posted": 1762989798,
-        "url": "https://jobs.smartrecruiters.com/Sandisk/744000085240232",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sandisk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sandisk",
-        "id": "c054aac3-738b-4b4e-9fe1-ab9f220b7d81",
-        "title": "Graduate Engineer - Device Engineer",
-        "active": false,
-        "date_updated": 1762989802,
-        "date_posted": 1762989802,
-        "url": "https://jobs.smartrecruiters.com/Sandisk/744000083516066",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sandisk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "CACI",
         "id": "d6fe49c3-4efa-4652-9b5e-7609bea7f2c4",
@@ -6034,42 +5980,6 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Aritzia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "NBCUniversal",
-        "id": "765ba5ed-fb4c-413b-b232-4c988bf524fc",
-        "title": "Senior Analyst - Cross Product Analytics",
-        "active": false,
-        "date_updated": 1762989954,
-        "date_posted": 1762989954,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000093289294",
-        "locations": [
-            "North Hollywood, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Sandisk",
-        "id": "11cd465b-543c-4abb-a852-1bcde9f62586",
-        "title": "Staff Engineer \u2013 New College Graduate - Product Development Engineering - Program Management",
-        "active": false,
-        "date_updated": 1762989746,
-        "date_posted": 1762989746,
-        "url": "https://jobs.smartrecruiters.com/Sandisk/744000091901566",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sandisk",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -223362,7 +223272,7 @@
         "company_name": "Halliburton",
         "id": "18c2b7e2-35ef-4d60-942a-0295f9fc0a3c",
         "title": "Logging Geologist-SDL - II",
-        "active": true,
+        "active": false,
         "date_updated": 1776178317,
         "date_posted": 1776175586,
         "url": "https://jobs.halliburton.com/job/Aberdeen-Aberdeen-Logging-Geologist-SDL,-II-ABE-AB21-0GN/1372134400/?ats=successfactors",
@@ -343807,7 +343717,7 @@
         "company_name": "Thoughtworks",
         "id": "19f32ab3-2a4d-4e59-9937-92878312f48c",
         "title": "Graduate Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1783560457,
         "date_posted": 1783560107,
         "url": "https://www.thoughtworks.com/careers/jobs/8037730?gh_jid=8037730",
