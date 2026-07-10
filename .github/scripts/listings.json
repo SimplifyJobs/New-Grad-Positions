@@ -5710,44 +5710,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "cb0ed7bd-e842-472f-be35-198b9186a94d",
-        "title": "Associate-Technology Risk & Control",
-        "active": false,
-        "date_updated": 1762915587,
-        "date_posted": 1762915587,
-        "url": "https://aexp.eightfold.ai/careers/job/38692005",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Leidos",
-        "id": "de6e3580-a3fb-4a6a-b4af-bd24bb0e1f6c",
-        "title": "PCBA Soldering Technician",
-        "active": true,
-        "date_updated": 1762915565,
-        "date_posted": 1762915565,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Aoldering-Technician_R-00170309",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "NVIDIA",
         "id": "cae9d19e-c04b-4cbc-be15-3f714451302d",
@@ -321300,7 +321262,7 @@
         "company_name": "Coder",
         "id": "00ee7d1f-2349-43a4-a7ab-cf16f1fd16a3",
         "title": "Revenue Workflow Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782549001,
         "date_posted": 1781638963,
         "url": "https://jobs.ashbyhq.com/Coder/f86d9ca6-1a46-4594-91a7-c955904ced49/application",
