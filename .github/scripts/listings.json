@@ -5653,25 +5653,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Comcast",
-        "id": "167c193a-ced8-409c-bb8c-24377cf36c4c",
-        "title": "Residential Installation & Service Technician",
-        "active": false,
-        "date_updated": 1762931599,
-        "date_posted": 1762931599,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/FL---Sarasota-5205-Fruitville-Rd/Residential-Installation---Service-Technician_R420229",
-        "locations": [
-            "North Port, FL",
-            "Sarasota, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "CACI",
         "id": "d6fe49c3-4efa-4652-9b5e-7609bea7f2c4",
