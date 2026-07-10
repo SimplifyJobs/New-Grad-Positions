@@ -6754,26 +6754,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "CoreWeave",
-        "id": "170bc3e4-67a1-4bc2-ab11-1502dd740a6b",
-        "title": "Software Engineer-Metaldev",
-        "active": false,
-        "date_updated": 1762905325,
-        "date_posted": 1762905325,
-        "url": "https://coreweave.com/careers/job?4616276006&board=coreweave&gh_jid=4616276006",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/CoreWeave",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Marshfield Clinic Health System",
         "id": "cbf2a691-6ab1-4bdb-b821-5b92caca2d9e",
         "title": "Voice Engineer 1",
@@ -7046,24 +7026,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "PDI Technologies",
-        "id": "72e52de6-fba4-45a6-b721-4de89c13a3cf",
-        "title": "Product Manager 1",
-        "active": false,
-        "date_updated": 1762905643,
-        "date_posted": 1762905643,
-        "url": "https://jobs.lever.co/pditechnologies/26a00f24-886c-4743-973a-f79632f6c5c3/apply",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/PDI-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Marshfield Clinic Health System",
         "id": "ca0d2490-768c-4a58-b92f-8c86d97dc460",
@@ -7148,24 +7110,6 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/McGill-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nexstar",
-        "id": "9bcb212e-933a-4120-a849-f7568b085b4f",
-        "title": "Assistant 1 - Production Part Time KXMB",
-        "active": false,
-        "date_updated": 1762905646,
-        "date_posted": 1762905646,
-        "url": "https://nexstar.wd5.myworkdayjobs.com/nexstar/job/ND-Bismarck/Assistant-I--Production-Part-Time-KXMB_REQ-39192",
-        "locations": [
-            "Bismarck, ND"
-        ],
-        "company_url": "https://simplify.jobs/c/Nexstar",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -7431,24 +7375,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Tokai Rika Group",
-        "id": "4f07e788-c341-4ffd-bdad-a46c69703db1",
-        "title": "Product Engineer",
-        "active": false,
-        "date_updated": 1762905120,
-        "date_posted": 1762905120,
-        "url": "https://jobs.lever.co/tramgroup/b8322851-969d-4d59-9d09-55e8ef2eff64/apply",
-        "locations": [
-            "Plymouth, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/TRAMGROUP",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Worldpay",
         "id": "42994693-239f-4511-b9c1-6a0ab308f68f",
         "title": "Software Engineer - .NET/C#",
@@ -7532,60 +7458,6 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/Fanatics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hydrafacial",
-        "id": "40c5677b-0b8b-46a7-86cf-46ccf85a2d74",
-        "title": "Technical Support Representative - Night Shift - Temp\u201d,",
-        "active": false,
-        "date_updated": 1762904902,
-        "date_posted": 1762904902,
-        "url": "https://beautyhealth.wd12.myworkdayjobs.com/beautyhealthcareer/job/USA-California---Long-Beach/Technical-Support-Representative---Night-Shift--Temporary-_JR101272",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hydrafacial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cummins",
-        "id": "eb4c7ad6-09c5-4dcb-8c55-ae36b1b0211e",
-        "title": "Battery Systems Engineer",
-        "active": false,
-        "date_updated": 1762904849,
-        "date_posted": 1762904849,
-        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420426",
-        "locations": [
-            "Columbus, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Cummins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AbbVie",
-        "id": "e6db3eb2-5dec-4da3-abf1-2c8dc0e36d69",
-        "title": "Associate Data Scientist 1",
-        "active": false,
-        "date_updated": 1762903927,
-        "date_posted": 1762903927,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010270936",
-        "locations": [
-            "Waukegan, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/AbbVie",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -202042,27 +201914,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Eurofins",
-        "id": "d20e13b8-49e5-4c5a-8ace-89ada8072b4e",
-        "title": "EMC/Wireless Engineer",
-        "active": true,
-        "date_updated": 1774953001,
-        "date_posted": 1762904550,
-        "url": "https://jobs.smartrecruiters.com/Eurofins/744000093021552",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Eurofins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "USM Business Systems",
         "id": "e3113b3d-cffc-4c01-b668-b23654392f50",
@@ -316748,7 +316599,7 @@
         "company_name": "Memorial Sloan Kettering Cancer Center",
         "id": "82f2dfc3-f4e9-49c9-812d-bc91c57e302c",
         "title": "Application Analyst 1 - Epic Healthy Planet",
-        "active": true,
+        "active": false,
         "date_updated": 1781736324,
         "date_posted": 1781733946,
         "url": "https://msk.wd108.myworkdayjobs.com/MSKCC_Careers_Primary/job/New-York-NY/Application-Analyst-I---Epic-Healthy-Planet_99542",
@@ -340653,7 +340504,7 @@
         "company_name": "NASA Jet Propulsion Laboratory (JPL)",
         "id": "6316227d-de77-44a7-b56c-e9a7308c909b",
         "title": "Postdoc Imaging Spectroscopy and Earth Observation Data Integration",
-        "active": true,
+        "active": false,
         "date_updated": 1783386888,
         "date_posted": 1783386703,
         "url": "https://citjpl.wd5.myworkdayjobs.com/Jobs/job/JPL-Campus/Postdoc--Imaging-Spectroscopy-and-Earth-Observation-Data-Integration_R5823",
