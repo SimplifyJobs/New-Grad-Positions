@@ -5692,28 +5692,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "cae9d19e-c04b-4cbc-be15-3f714451302d",
-        "title": "CPU Design Engineer",
-        "active": false,
-        "date_updated": 1762922435,
-        "date_posted": 1762922435,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/CPU-Design-Engineer---New-College-Grad-2026_JR2007624",
-        "locations": [
-            "Texas",
-            "Santa Clara, CA",
-            "Durham, NC",
-            "Hillsboro, OR",
-            "Massachusetts"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Boston Scientific",
         "id": "cc161eb3-7808-4551-a8b0-38c3c52d3988",
