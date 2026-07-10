@@ -5692,24 +5692,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "c31f8208-5114-40c0-acc4-4d80da086e64",
-        "title": "Applied AI ML Associate - AI for Operations - Customer Onboarding and Documentation",
-        "active": false,
-        "date_updated": 1762917125,
-        "date_posted": 1762917125,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210684418",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "NVIDIA",
         "id": "cae9d19e-c04b-4cbc-be15-3f714451302d",
@@ -345959,6 +345941,24 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/SOCi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "de6e3580-a3fb-4a6a-b4af-bd24bb0e1f6c",
+        "title": "PCBA Soldering Technician",
+        "active": true,
+        "date_updated": 1783595738,
+        "date_posted": 1783163771,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Aoldering-Technician_R-00170309",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
