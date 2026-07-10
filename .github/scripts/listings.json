@@ -5730,42 +5730,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Mastercard",
-        "id": "c47c565f-0c32-4cd2-8c4b-e8181a6b8575",
-        "title": "Product Solutions Enablement Specialist - Merchants & Commerce - Digital Products & Solutions\u201d\u201cCustomer Solutions",
-        "active": false,
-        "date_updated": 1763114915,
-        "date_posted": 1762912649,
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Product-Solutions-Enablement-Specialist--Merchants---Commerce--Digital-Products---Solutions--Customer-Solutions_R-263920",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Mastercard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "MultiCare Health System",
-        "id": "9083b0c6-6e4b-4da6-8849-287eea4b1365",
-        "title": "Information Security Cybersecurity 1",
-        "active": false,
-        "date_updated": 1762912515,
-        "date_posted": 1762912515,
-        "url": "https://multicare.wd1.myworkdayjobs.com/multicare/job/Remote-USA/Information-Security-Cybersecurity-I_JR63286",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/8cbd871d-4e1b-4472-a51d-63dde4a7094d",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Leidos",
         "id": "de6e3580-a3fb-4a6a-b4af-bd24bb0e1f6c",
@@ -29448,24 +29412,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/RAPP",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Qualcomm",
-        "id": "c31f4c38-36c2-42aa-8272-3691f0e26d08",
-        "title": "Engineer AI Systems Architecture - Machine Learning Engineering",
-        "active": false,
-        "date_updated": 1764583832,
-        "date_posted": 1762912683,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446715431063",
-        "locations": [
-            "Markham, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -345898,7 +345844,7 @@
         "company_name": "National Life",
         "id": "ecbaf329-4e0e-49b2-9693-bf1f4c17b230",
         "title": "Associate Illustration Systems Analyst / Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783636860,
         "date_posted": 1783461716,
         "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4305154009",
@@ -346074,5 +346020,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "SOCi",
+        "id": "c0ffd714-8bbc-4571-8ef8-3335a5cb1d4f",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1783647361,
+        "date_posted": 1783647143,
+        "url": "https://job-boards.greenhouse.io/soci/jobs/6105407004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SOCi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
