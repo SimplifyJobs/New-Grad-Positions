@@ -279908,7 +279908,7 @@
         "company_name": "University of Texas at Austin",
         "id": "4ab36df9-7ea0-4864-8025-fc02dd2bba1c",
         "title": "Postdoctoral Fellow - Nuclear Engineering Teaching Lab - Cockrell School of Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1779871540,
         "date_posted": 1778940838,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow--Nuclear-Engineering-Teaching-Lab--Cockrell-School-of-Engineering_R_00028498",
@@ -346056,6 +346056,26 @@
             "Marcy-l'\u00c9toile, France"
         ],
         "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Airgas",
+        "id": "9dad4e5e-a813-469c-bfc6-db68ccbaa603",
+        "title": "Lab Technician",
+        "active": true,
+        "date_updated": 1783687417,
+        "date_posted": 1783375652,
+        "url": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Charleston-WV/Lab-Technician_R10095746",
+        "locations": [
+            "Charleston, WV"
+        ],
+        "company_url": "https://simplify.jobs/c/Airgas",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
