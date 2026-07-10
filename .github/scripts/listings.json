@@ -316280,7 +316280,7 @@
         "company_name": "Anduril",
         "id": "facba7e2-c8c9-4614-81fc-eaaeb43303e3",
         "title": "Electro-Mechanical Technician - Ew",
-        "active": true,
+        "active": false,
         "date_updated": 1781821621,
         "date_posted": 1781820688,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5115407007",
@@ -336016,7 +336016,7 @@
         "company_name": "Transcend",
         "id": "f0b5d4dc-e932-4eb9-a406-003fba8d30b1",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783118521,
         "date_posted": 1783118387,
         "url": "https://job-boards.greenhouse.io/transcendinc/jobs/4202502009",
@@ -346797,6 +346797,462 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Mechanize",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "67d97fb0-e503-49a2-880a-869d7f4abcf6",
+        "title": "Machine Learning Test Capability Engineer",
+        "active": true,
+        "date_updated": 1783723421,
+        "date_posted": 1783721360,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38490",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Texas Capital Bank",
+        "id": "59178c9e-20fa-443d-84ff-15c566738c41",
+        "title": "Sales Trader Operations Analyst",
+        "active": true,
+        "date_updated": 1783723321,
+        "date_posted": 1783641600,
+        "url": "https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Dallas-TX/Sales-Trader-Operations-Analyst_JR105703",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Capital-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "5fbcaa2a-e397-4a5e-9cd6-c5d130497416",
+        "title": "Software Engineer 1 - Oracle Cloud HCM - CET Services",
+        "active": true,
+        "date_updated": 1783723267,
+        "date_posted": 1783721402,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007827",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "0b62c7f4-54e2-4f21-bea8-06550ceca33f",
+        "title": "Analytics Development Analyst",
+        "active": true,
+        "date_updated": 1783722963,
+        "date_posted": 1783721502,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Analytics-Development-Analyst/359127",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Parsons",
+        "id": "f649268a-a699-41a6-9900-66818886f2ab",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1783722963,
+        "date_posted": 1783641600,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Junior-Software-Developer_R183217",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "f641296a-d046-402e-a13c-6df6218f537f",
+        "title": "Systems Software Engineer New Grad - Autonomous Systems Mapping",
+        "active": true,
+        "date_updated": 1783723195,
+        "date_posted": 1783641600,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Autonomous-Systems-Mapping---New-College-Graduate-2026_JR2020838",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Maritz",
+        "id": "e5dcf151-a718-4c4b-9591-5dfe88d744dc",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1783723201,
+        "date_posted": 1783641600,
+        "url": "https://maritz.wd1.myworkdayjobs.com/Maritz/job/Fenton-MO/Software-Engineer-I_R15306",
+        "locations": [
+            "Fenton, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Maritz",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johnson Controls",
+        "id": "bc16e04e-483c-4b33-9153-1620809d551e",
+        "title": "HVAC Equipment Systems Application Engineer 1",
+        "active": true,
+        "date_updated": 1783723202,
+        "date_posted": 1783641600,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Linthicum-Maryland-United-States-of-America/HVAC-Equipment-Systems-Application-Engineer-I_WD30273247",
+        "locations": [
+            "Halethorpe, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marriott International",
+        "id": "0f06e190-3900-4101-b627-e187eddcb571",
+        "title": "FLEX Associate Software Engineer - Customer Data Platform",
+        "active": true,
+        "date_updated": 1783722963,
+        "date_posted": 1783721455,
+        "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26085377",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Marriott-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Protective Life",
+        "id": "83869f42-4dd6-4e7b-a467-ba00273e5e4d",
+        "title": "Business Systems Analyst - IT Planning & Engagement",
+        "active": true,
+        "date_updated": 1783722963,
+        "date_posted": 1783721231,
+        "url": "https://jobs.lever.co/protective/3c40e93e-66e3-4aeb-9a8a-ed65f826ed41/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Protective-Life",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "37ac6945-c9e7-4464-96b8-8cae2b505214",
+        "title": "Data Scientist Associate",
+        "active": true,
+        "date_updated": 1783722963,
+        "date_posted": 1783721251,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768686",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Highmark Health",
+        "id": "414a4a1b-b899-436d-898b-9d0b114bd26a",
+        "title": "Associate Data Solutions Analyst",
+        "active": true,
+        "date_updated": 1783722963,
+        "date_posted": 1783641600,
+        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Data-Solutions-Analyst_J284073",
+        "locations": [
+            "New Mexico",
+            "Washington",
+            "Kansas",
+            "Pennsylvania",
+            "North Dakota",
+            "Oregon",
+            "Delaware",
+            "Iowa",
+            "California",
+            "Washington, DC",
+            "Vermont",
+            "Wyoming",
+            "Texas",
+            "Montana",
+            "Jackson Township, NJ",
+            "Florida",
+            "Waterbury, CT",
+            "Nevada",
+            "South Carolina",
+            "South Dakota",
+            "Georgia",
+            "Arizona",
+            "Concord, NH",
+            "Mississippi",
+            "Tennessee",
+            "Virginia",
+            "Arkansas",
+            "Minnesota",
+            "Colorado",
+            "Nebraska",
+            "Rhode Island",
+            "Utah",
+            "Kentucky",
+            "West Virginia",
+            "NYC",
+            "Maryland",
+            "Hawaii",
+            "Wisconsin",
+            "Maine",
+            "Massachusetts",
+            "North Carolina",
+            "Oklahoma",
+            "Missouri",
+            "Ohio",
+            "Indiana",
+            "Louisiana",
+            "Alaska",
+            "Michigan",
+            "Illinois",
+            "Alabama",
+            "Idaho"
+        ],
+        "company_url": "https://simplify.jobs/c/Highmark-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "f3ff28a4-7c5d-4aaa-a461-24eea0bf7d57",
+        "title": "Mixed Signal Test and Process Engineer Associate",
+        "active": true,
+        "date_updated": 1783722956,
+        "date_posted": 1783641600,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Associate-Mixed-Signal-Test-and-Process-Engineer---AHT-_R10239843",
+        "locations": [
+            "Northridge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "cac83c89-3891-4a0b-9daa-28eca0edcb0f",
+        "title": "Software Engineer - Simulation",
+        "active": true,
+        "date_updated": 1783722949,
+        "date_posted": 1783641600,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Software-Engineer---Simulation--Palmdale-_R10239890",
+        "locations": [
+            "Palmdale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johnson Controls",
+        "id": "a9e9b275-e88f-4785-9b59-9f67f0e70d01",
+        "title": "Embedded Software Engineer 2",
+        "active": true,
+        "date_updated": 1783722948,
+        "date_posted": 1783641600,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Westford-Massachusetts-United-States-of-America/Embedded-Software-Engineer-II_WD30273363-1",
+        "locations": [
+            "Westford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "f1596b50-c4f2-4865-8fd3-61743f4ba3a7",
+        "title": "Embedded Software Engineer Associate",
+        "active": true,
+        "date_updated": 1783722954,
+        "date_posted": 1783641600,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/SDS-Associate---Embedded-Software-Engineer---19013-_R10239748",
+        "locations": [
+            "Hill AFB, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Home Depot",
+        "id": "a189b636-d294-4696-a12f-457f49c240b5",
+        "title": "Associate Data Scientist - Decision Analytics",
+        "active": true,
+        "date_updated": 1783722242,
+        "date_posted": 1783641600,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---Decision-Analytics_Req186435",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Home-Depot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Empower",
+        "id": "8e873566-1aaf-425a-8aed-a64ede788e1a",
+        "title": "Data Scientist - Responsible AI",
+        "active": true,
+        "date_updated": 1783722242,
+        "date_posted": 1783641600,
+        "url": "https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Data-Scientist---Responsible-AI_R0059892",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Empower-Advisory-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ultra Intelligence and Communications",
+        "id": "102e3ec1-caea-45f1-93e6-2171f3261419",
+        "title": "Software Engineer Associate",
+        "active": true,
+        "date_updated": 1783722892,
+        "date_posted": 1783641600,
+        "url": "https://ultra.wd3.myworkdayjobs.com/uiccareers/job/Huntsville-USA/Associate-Software-Engineer_REQ-12218",
+        "locations": [
+            "Austin, TX",
+            "Remote in USA",
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Ultra-Intelligence-And-Communications",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Brigham Young University",
+        "id": "6d262d1c-25c4-44ac-a7af-e1b47254bb74",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1783722242,
+        "date_posted": 1783641600,
+        "url": "https://byu.wd1.myworkdayjobs.com/byu-careers/job/Provo-UT/Research-Assistant--TEMPORARY---part-time-175-hrs-wk-_JR-10728",
+        "locations": [
+            "Provo, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Brigham-Young-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
