@@ -3516,24 +3516,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "0b210085-93e7-458f-93d8-c968a12b5fd5",
-        "title": "Equipment Installer 1",
-        "active": false,
-        "date_updated": 1763000662,
-        "date_posted": 1763000662,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20262433",
-        "locations": [
-            "Elyria, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "CACI",
         "id": "d6fe49c3-4efa-4652-9b5e-7609bea7f2c4",
