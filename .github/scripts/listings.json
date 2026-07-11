@@ -1,59 +1,5 @@
 [
     {
-        "date_updated": 1763456565,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Associate-Engineer-Embedded-Software_R25-8467",
-        "company_name": "Rockwell Automation",
-        "title": "Associate Engineer Embedded Software",
-        "locations": [
-            "Mayfield Heights, OH"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "459d8e17-d7ab-41e7-813a-cfe999058b13",
-        "date_posted": 1763048606,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763378043,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/maybern/90f7a0d4-4e6c-43e0-a444-06301faa4058",
-        "company_name": "Maybern",
-        "title": "Software Engineer, New Grad",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "9f2a9400-3895-4ff2-bde7-506309f8ae20",
-        "date_posted": 1763048742,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1764252808,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.lever.co/commonlit/7ecb41f7-552c-4879-afaf-b9810a9b6f56/",
-        "company_name": "CommonLit",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Remote in USA"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "ba93a912-46a7-414d-984c-2b89be80fa7e",
-        "date_posted": 1763048787,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "General Dynamics Mission Systems",
