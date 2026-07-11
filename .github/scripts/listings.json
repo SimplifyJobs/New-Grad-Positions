@@ -286659,7 +286659,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -294593,7 +294593,7 @@
         "company_name": "Smithfield Foods",
         "id": "db980a0f-d55b-4030-8e3f-2759d0156e13",
         "title": "AI Enablement Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780881121,
         "date_posted": 1780880783,
         "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/AI-Enablement-Analyst_R-2026-7550",
@@ -295678,7 +295678,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -315104,7 +315104,7 @@
         "company_name": "Johnson Controls",
         "id": "a96e051e-0011-414a-ac15-bede853f8700",
         "title": "Equipment Systems Application Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781879102,
         "date_posted": 1781878439,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Greenville-Wisconsin-United-States-of-America/Equipment-Systems-Application-Engineer-I_WD30272609",
@@ -319638,7 +319638,7 @@
         "company_name": "Ensign-Bickford Industries",
         "id": "af3cc414-b026-425c-a757-7ad0aee06129",
         "title": "Soldering Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1782816551,
         "date_posted": 1782561788,
         "url": "https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Soldering-Technician_REQ106824-1",
@@ -320838,7 +320838,7 @@
         "company_name": "Guidewire",
         "id": "446847d3-29b2-4c3c-b983-f4e2203fc1ec",
         "title": "Associate Certification Program Systems Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1782868406,
         "date_posted": 1782770934,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946",
@@ -331500,7 +331500,7 @@
         "company_name": "Semtech",
         "id": "8fa27d1c-b8d6-4e46-9d06-d133a1df424f",
         "title": "Staff Characterisation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783030482,
         "date_posted": 1783029954,
         "url": "https://semtech.wd1.myworkdayjobs.com/SemtechJobs/job/GBR---Bristol/Staff-Characterisation-Engineer_REQ3285-2",
@@ -343001,7 +343001,7 @@
         "company_name": "Leidos",
         "id": "ce9250e1-36be-4c4c-aeff-ee1b9d5881c6",
         "title": "Entry Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1783636460,
         "date_posted": 1783555200,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00186923",
@@ -345220,6 +345220,48 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "aab64ef6-9ec0-4144-b49c-b26ff662a042",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1783780655,
+        "date_posted": 1783555200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-PHOENIX-3405--3405-S-5th-St--BLDG-3405/Field-Service-Engineer--Onsite-_01858612",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Kemper",
+        "id": "86ac1562-2715-4449-9912-46ee9a679952",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1783780021,
+        "date_posted": 1783376306,
+        "url": "https://kemper.wd5.myworkdayjobs.com/kemper_careers/job/Chicago-Illinois/Investment-Analyst_R-26-0037110",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Kemper",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA",
+            "Master's"
         ]
     }
 ]
