@@ -1,23 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Truist Bank",
-        "id": "7c9e842e-7dd5-4980-a6f8-d0455e567e14",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1762997331,
-        "date_posted": 1762997331,
-        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0108252",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Truist-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1763456565,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -3618,263 +3600,6 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/DaVita",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Harbor",
-        "id": "b2eeaf01-d53b-4da5-b358-811c408fd5fd",
-        "title": "Entry Level Solution Developer",
-        "active": false,
-        "date_updated": 1762997374,
-        "date_posted": 1762997374,
-        "url": "https://job-boards.greenhouse.io/harborglobal/jobs/4772263007",
-        "locations": [
-            "Belfast, UK",
-            "Remote in UK",
-            "Dieppe, NB, Canada",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Harbor",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "iTradeNetwork",
-        "id": "45602803-b30d-484c-9b3c-e5c0ab85ddbf",
-        "title": "AI/ML Software Engineer",
-        "active": false,
-        "date_updated": 1762997470,
-        "date_posted": 1762997470,
-        "url": "https://www.itradenetwork.com/jobs/4892164008?gh_jid=4892164008",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/ITradeNetwork",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "beb74e6c-4a75-4bc9-b50a-af0509dda71f",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1762997267,
-        "date_posted": 1762997267,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035753",
-        "locations": [
-            "Essex, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CVS Health",
-        "id": "9cf29fd5-06ba-477e-8d75-e90bd0193d08",
-        "title": "Technical Support Representative",
-        "active": false,
-        "date_updated": 1762997067,
-        "date_posted": 1762997067,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Smithfield/Technical-Support-Representative_R0763869",
-        "locations": [
-            "Smithfield, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ID.me",
-        "id": "61726806-59ec-48ed-9d24-80b44e85154a",
-        "title": "Software Development Engineer",
-        "active": false,
-        "date_updated": 1762997157,
-        "date_posted": 1762997157,
-        "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7031610003",
-        "locations": [
-            "McLean, VA",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/IDme",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Warner Music",
-        "id": "377482ab-d109-41a0-8d9f-4584fc6c02e9",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1762996811,
-        "date_posted": 1762996811,
-        "url": "https://jobs.lever.co/wmg/aa0d4f4d-2d60-4749-836c-d6026c3e7842/apply",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/cce28f75-897e-4868-bcbb-501d451534d0",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Manulife Financial",
-        "id": "1bc5ad8a-debd-476a-a888-123dd85a416f",
-        "title": "Investment Analyst",
-        "active": false,
-        "date_updated": 1762996851,
-        "date_posted": 1762996851,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Senior-Investment-Analyst_JR25041458",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Keysight Technologies",
-        "id": "bf683b52-f7ab-40fe-bac3-86c0710e5cef",
-        "title": "Service Technician Specialist",
-        "active": false,
-        "date_updated": 1762996427,
-        "date_posted": 1762996427,
-        "url": "https://jobs.keysight.com/jobs/47266?lang=en-us&icims=1",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Vertiv",
-        "id": "79dba19d-e4fc-4196-a85b-60aaae99941b",
-        "title": "Sales Pricing Analyst",
-        "active": false,
-        "date_updated": 1762996348,
-        "date_posted": 1762996348,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20262439",
-        "locations": [
-            "New Albany, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "50045789-dddc-4c06-ac62-fd3e1030feb3",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1762996522,
-        "date_posted": 1762996522,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036591",
-        "locations": [
-            "Ipswich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Thales",
-        "id": "31f057e0-31a9-40ec-8092-2dace22ec47e",
-        "title": "Test Manufacturing Technician",
-        "active": false,
-        "date_updated": 1762996547,
-        "date_posted": 1762996547,
-        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Glasgow/Test-Manufacturing-Technician_R0296700",
-        "locations": [
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Thales",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AT&T",
-        "id": "b445bc48-6aec-4e5c-a036-4b06da5a1a1a",
-        "title": "Installation Technician",
-        "active": false,
-        "date_updated": 1762996216,
-        "date_posted": 1762996216,
-        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Brooklyn-Heights-Ohio/Installation-Technician_R-90325",
-        "locations": [
-            "Brooklyn Heights, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/ATT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ca545224-61e7-4b5d-8763-9947749fd47f",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1762995807,
-        "date_posted": 1762995807,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033004",
-        "locations": [
-            "Kelso, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "T-Mobile",
-        "id": "19fe68c9-1cf8-4ded-8ada-aa97fb95bf67",
-        "title": "Assoc Engineer - Software",
-        "active": false,
-        "date_updated": 1762995701,
-        "date_posted": 1762995701,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Assoc-Engineer--Software_REQ338089",
-        "locations": [
-            "Bellevue, WA",
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -278000,7 +277725,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": false,
+        "active": true,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -287211,7 +286936,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -296230,7 +295955,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": true,
+        "active": false,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -303573,7 +303298,7 @@
         "company_name": "Goldman Sachs",
         "id": "aa693cdb-f3f2-4ceb-b496-134b2a24595a",
         "title": "HCM Associate - Data Analytics and Reporting",
-        "active": true,
+        "active": false,
         "date_updated": 1781187814,
         "date_posted": 1781042930,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176302",
@@ -345407,6 +345132,104 @@
             "Cambridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/AVEVA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Toast",
+        "id": "2244ff68-0a68-4409-9b6d-d02578e78a2b",
+        "title": "Software Engineer 1 - Fullstack",
+        "active": true,
+        "date_updated": 1783733080,
+        "date_posted": 1783732954,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=8046879",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Toast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "842d796a-d789-46c6-b40f-ee55dd5d2367",
+        "title": "Junior Software Engineer - AI/ML Applications",
+        "active": true,
+        "date_updated": 1783732702,
+        "date_posted": 1783641600,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer---AI-ML-Applications_R-00187033",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "73e95483-23f7-498e-83cf-df008b007d83",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1783732709,
+        "date_posted": 1783641600,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer_R-00187032",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tulane University",
+        "id": "33a92a71-ce82-4a78-954c-43f88db17f65",
+        "title": "Data Processor - Multiple Teams",
+        "active": true,
+        "date_updated": 1783732742,
+        "date_posted": 1783731807,
+        "url": "https://tulane-ibqejb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1310",
+        "locations": [
+            "New Orleans, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tulane-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Astronomer",
+        "id": "85b3d57c-17e3-4b2e-9786-3b5d828d0199",
+        "title": "Software Engineer - Infra & Systems",
+        "active": true,
+        "date_updated": 1783732501,
+        "date_posted": 1783732220,
+        "url": "https://jobs.ashbyhq.com/astronomer/540c1dd1-5658-49f9-b587-37865a360cd4/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Astronomer",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
