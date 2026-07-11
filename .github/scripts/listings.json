@@ -3407,24 +3407,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "AT&T",
-        "id": "b2a8a4f1-fcc6-4c45-afc5-8ccea0786c88",
-        "title": "Installation Technician",
-        "active": false,
-        "date_updated": 1763031367,
-        "date_posted": 1763031367,
-        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Akron-Ohio/Installation-Technician_R-90323",
-        "locations": [
-            "Akron, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/ATT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "CACI",
         "id": "d6fe49c3-4efa-4652-9b5e-7609bea7f2c4",
@@ -176667,7 +176649,7 @@
         "company_name": "University of Arkansas",
         "id": "fdb28bed-d2e6-44f2-b305-6599d8d12c2f",
         "title": "Cosmos Extra Help Assistant 1",
-        "active": false,
+        "active": true,
         "date_updated": 1773786839,
         "date_posted": 1773786839,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Extra-Help-Assistant-I_R0082208-1",
@@ -256985,7 +256967,7 @@
         "company_name": "CoStar Group",
         "id": "d4f6f6bc-3852-4c6c-9944-6136eaffc260",
         "title": "Product Manager - Content Platforms",
-        "active": false,
+        "active": true,
         "date_updated": 1778595055,
         "date_posted": 1778594751,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Product-Manager--Content-Platforms_R38907",
@@ -282313,7 +282295,7 @@
         "company_name": "Leidos",
         "id": "a7cc0774-97d0-4a06-9229-b827f35ca01c",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779960720,
         "date_posted": 1778945223,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/2143-Annapolis-Junction-MD/Software-Engineer-TS-SCI-Poly_R-00176836",
@@ -283400,7 +283382,7 @@
         "company_name": "RTX",
         "id": "e739e2f1-b776-4dd0-a1e8-e2b24a8ac460",
         "title": "Configuration Management Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1780274571,
         "date_posted": 1780139378,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MIDLAND-450--450-Leitz-Rd--BLDG-450/Configuration-Management-Specialist_01840354",
@@ -340372,7 +340354,7 @@
         "company_name": "Cummins",
         "id": "e7a9bde1-ee4c-4f67-a702-47ab95982a9f",
         "title": "Instrumentation Engineering Technician - Ocu - Technical",
-        "active": true,
+        "active": false,
         "date_updated": 1783550345,
         "date_posted": 1783548508,
         "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2426025",
@@ -343419,7 +343401,7 @@
         "company_name": "RTX",
         "id": "d10ce00e-5157-4b2d-8360-0b3db2f86c62",
         "title": "Embedded Cybersecurity Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783645888,
         "date_posted": 1783555200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01829680-1",
@@ -343478,7 +343460,7 @@
         "company_name": "Leidos",
         "id": "de6e3580-a3fb-4a6a-b4af-bd24bb0e1f6c",
         "title": "PCBA Soldering Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1783595738,
         "date_posted": 1783163771,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Aoldering-Technician_R-00170309",
@@ -345155,6 +345137,26 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Handshake",
+        "id": "d7bf6fb3-03d0-4929-bf38-4073f1bff227",
+        "title": "Strategic Projects Associate",
+        "active": true,
+        "date_updated": 1783766049,
+        "date_posted": 1782857340,
+        "url": "https://jobs.ashbyhq.com/handshake/8f8ed382-27c3-46d0-9c74-6293e9294cd4/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Handshake",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
