@@ -3389,24 +3389,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "d3155eda-3365-4d08-978d-1bfa01ecc2a1",
-        "title": "Associate Software Engineer - Greenville TX",
-        "active": false,
-        "date_updated": 1763032086,
-        "date_posted": 1763032086,
-        "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineer-(Greenville,-TX)-TX-75402/1342556800/?ats=successfactors",
-        "locations": [
-            "Greenville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "CACI",
         "id": "d6fe49c3-4efa-4652-9b5e-7609bea7f2c4",
@@ -112048,27 +112030,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Heart Aerospace",
-        "id": "3bac44f6-4953-459e-8fe2-6fd5a71424a1",
-        "title": "Software Engineer - Flight Software",
-        "active": true,
-        "date_updated": 1770449457,
-        "date_posted": 1763031925,
-        "url": "https://job-boards.greenhouse.io/heartaerospace/jobs/4013531009",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Heart-Aerospace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -244015,7 +243976,7 @@
         "company_name": "McKesson",
         "id": "b6f45935-4a59-4442-a3b4-257ac48ab46f",
         "title": "Product Development Coordinator",
-        "active": false,
+        "active": true,
         "date_updated": 1777587804,
         "date_posted": 1777586892,
         "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-VA-Richmond/Product-Development-Coordinator--Hybrid_JR0143232",
@@ -297174,7 +297135,7 @@
         "company_name": "RTX",
         "id": "d316d4d5-6b08-4290-b24d-fa803b41cc07",
         "title": "Semiconductor Equipment Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1781015189,
         "date_posted": 1781014588,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR2--362-Lowell-St--AR2-PLYMOUTH-BLDG/Semiconductor-Equipment-Engineer_01851345",
@@ -303122,7 +303083,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "d3531016-1216-4618-820a-79eb7027353c",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781187017,
         "date_posted": 1781186686,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Cardiff/Software-Engineer-I_R112653",
@@ -329461,7 +329422,7 @@
         "company_name": "Truist Bank",
         "id": "cca7ace0-9015-435c-a3c1-7234e130d72e",
         "title": "Data Scientist 1 - Fraud Reporting",
-        "active": false,
+        "active": true,
         "date_updated": 1782961750,
         "date_posted": 1782956373,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Data-Scientist-I----Fraud-Reporting_R0115931",
