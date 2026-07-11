@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "American Express",
-        "id": "76e985fc-db84-4951-a8bb-0af40a1932d0",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1763055451,
-        "date_posted": 1763055451,
-        "url": "https://aexp.eightfold.ai/careers/job/38773050",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "GM financial",
         "id": "f7e33744-207d-4a9c-8b55-58e988d522fc",
         "title": "Software Development Engineer 1",
@@ -2491,43 +2473,6 @@
             "Brossard, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Acuity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "6668bcd6-a753-43d0-b837-df10ee6e9e78",
-        "title": "University Graduate - AI Context Engineer",
-        "active": false,
-        "date_updated": 1763055642,
-        "date_posted": 1763055642,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---AI-Context-Engineer_R158639",
-        "locations": [
-            "SF",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oracle",
-        "id": "0a682c50-b1ba-4a11-b73c-2f8a3e88b387",
-        "title": "Configuration Analyst - Drug File/VA Oracle Health - Hybrid Kansas City MO Office",
-        "active": false,
-        "date_updated": 1763055096,
-        "date_posted": 1763055096,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/312884",
-        "locations": [
-            "Kansas City, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
