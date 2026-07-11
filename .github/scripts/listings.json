@@ -290869,7 +290869,7 @@
         "company_name": "GE Healthcare",
         "id": "16896f36-2a8d-4b1d-99c1-da18c5e7d68e",
         "title": "Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780561123,
         "date_posted": 1780437969,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois_R4041927-1",
@@ -311086,7 +311086,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -314862,7 +314862,7 @@
         "company_name": "Jonas Software",
         "id": "058e376f-60d5-425d-a1dd-6c73a4ad4224",
         "title": "Customer Support Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781857643,
         "date_posted": 1781346653,
         "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Canada---Markham---Ontario/Customer-Solution-Analyst_R12522-2",
@@ -335980,7 +335980,7 @@
         "company_name": "Hitachi Energy",
         "id": "4368dfe9-0b60-4fc4-b2f3-c4f1db10e1ea",
         "title": "Electron Microscopy Analyst 1-3",
-        "active": true,
+        "active": false,
         "date_updated": 1783377567,
         "date_posted": 1783376285,
         "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HTA-NCP-Hillsboro-OR/Electron-Microscopy-Analyst-I-III_R0136062",
@@ -341654,7 +341654,7 @@
         "company_name": "Applied Information Sciences",
         "id": "10709aa6-b8fe-4857-b17e-c4104373db67",
         "title": "Program Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783586435,
         "date_posted": 1783462344,
         "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Program-Analyst_JR2026001282",
@@ -345051,5 +345051,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "21fb3199-c870-4858-95fa-90d230d5088d",
+        "title": "Tech Marketing & Performance Engineer",
+        "active": true,
+        "date_updated": 1783760164,
+        "date_posted": 1781639423,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Tech-Marketing---Performance-Engineer_3164629",
+        "locations": [
+            "Spring, TX",
+            "Fort Collins, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
