@@ -3,24 +3,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Truist Bank",
-        "id": "1364f9e4-2756-4370-954b-1e3c9173e962",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1762994751,
-        "date_posted": 1762994751,
-        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0108269",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Truist-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Truist Bank",
         "id": "7c9e842e-7dd5-4980-a6f8-d0455e567e14",
         "title": "Software Engineer 1",
         "active": false,
@@ -3864,24 +3846,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "ce9a5219-9321-446b-b3d5-c0d33e861a70",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1762995658,
-        "date_posted": 1762995658,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036868",
-        "locations": [
-            "Bath, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "ca545224-61e7-4b5d-8763-9947749fd47f",
         "title": "Trading Assistant",
         "active": false,
@@ -3911,156 +3875,6 @@
             "Overland Park, KS"
         ],
         "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "e09a8c95-8fda-485a-b001-840821bcb86d",
-        "title": "Equipment Installer 1",
-        "active": false,
-        "date_updated": 1762995456,
-        "date_posted": 1762995456,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20262434",
-        "locations": [
-            "Elyria, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "7eaf1032-d0ee-4e8f-886f-5b9f1fbee39b",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1762995267,
-        "date_posted": 1762995267,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036701",
-        "locations": [
-            "Portsmouth, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "6f62f639-8103-4102-af46-a27d1397990d",
-        "title": "GPU Power Architect",
-        "active": false,
-        "date_updated": 1762995293,
-        "date_posted": 1762995293,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Power-Architect---New-College-Grad-2026_JR2004018",
-        "locations": [
-            "California",
-            "Austin, TX",
-            "Santa Clara, CA",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ca45395e-69db-4436-b892-44d63dae4735",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1762995240,
-        "date_posted": 1762995240,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036894",
-        "locations": [
-            "Essex, UK",
-            "Harlow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "4891eae3-d945-4c8a-9fff-18a6351a9688",
-        "title": "JPMorgan Chase Fellowship Program - Data Science Track",
-        "active": false,
-        "date_updated": 1762994899,
-        "date_posted": 1762994899,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680224",
-        "locations": [
-            "Plano, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "77325490-4743-462a-9a6a-01b3ec5ce769",
-        "title": "Equipment Installer 1",
-        "active": false,
-        "date_updated": 1762994404,
-        "date_posted": 1762994404,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20262013",
-        "locations": [
-            "Elyria, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citigroup",
-        "id": "94db29a7-a024-4251-9bb6-b2f6e7372df9",
-        "title": "Technology - Application Development - Full Time Analyst",
-        "active": false,
-        "date_updated": 1762993917,
-        "date_posted": 1762993917,
-        "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Technology--Application-Development--Full-Time-Analyst--Irving---USA--2026_25920347",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Citigroup",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citigroup",
-        "id": "20dcf6b4-20fc-4661-a8ae-dd75a7d96643",
-        "title": "Technology - Application Development - Full Time Analyst",
-        "active": false,
-        "date_updated": 1762993907,
-        "date_posted": 1762993907,
-        "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Full-Time-Analyst--Mississauga--Canada-2026_25920345",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Citigroup",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -345575,6 +345389,24 @@
             "Provo, UT"
         ],
         "company_url": "https://simplify.jobs/c/Brigham-Young-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AVEVA",
+        "id": "a9a1fad6-89a7-4e1a-8a70-8a407375f852",
+        "title": "Artificial Intelligence and Machine Learning Graduate",
+        "active": true,
+        "date_updated": 1783418763,
+        "date_posted": 1783417139,
+        "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Cambridge-United-Kingdom/Artificial-Intelligence-and-Machine-Learning-Graduate_R011706",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AVEVA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
