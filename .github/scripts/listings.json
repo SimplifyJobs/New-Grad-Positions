@@ -3534,78 +3534,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "CVS Health",
-        "id": "6faf8798-25b8-41c4-83e8-7ad960516df8",
-        "title": "Technical Support Representative",
-        "active": false,
-        "date_updated": 1762999005,
-        "date_posted": 1762999005,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Smithfield/Technical-Support-Representative_R0763867",
-        "locations": [
-            "Smithfield, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "5a62555b-53f3-4525-acce-679a1c070094",
-        "title": "Software Engineer Graduate - Fullstack - Trust and Safety",
-        "active": false,
-        "date_updated": 1762998546,
-        "date_posted": 1762998546,
-        "url": "https://lifeattiktok.com/search/7571921718702524725",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "The Boeing Company",
-        "id": "49b2d860-e8a1-4b30-9c9c-14bf1bbc75e7",
-        "title": "Entry Level Program Manager",
-        "active": false,
-        "date_updated": 1762998285,
-        "date_posted": 1762998285,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-Program-Management_JR2025484387-1",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "DaVita",
-        "id": "31d215b3-a96a-4a4c-81c9-52032bc6c5f8",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1762997887,
-        "date_posted": 1762997887,
-        "url": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Associate-Product-Manager_R0432323",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/DaVita",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "CACI",
         "id": "d6fe49c3-4efa-4652-9b5e-7609bea7f2c4",
@@ -38910,25 +38838,6 @@
             "West Athens, CA"
         ],
         "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "ID.me",
-        "id": "f25bf7c0-978f-493e-a51e-4d2f1b712864",
-        "title": "Product Manager",
-        "active": false,
-        "date_updated": 1765409350,
-        "date_posted": 1762998632,
-        "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7388743003",
-        "locations": [
-            "McLean, VA",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/IDme",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -245170,7 +245079,7 @@
         "company_name": "Twitch",
         "id": "84537aaf-2816-4b2c-9c5e-d04454e92f47",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777619701,
         "date_posted": 1777080097,
         "url": "https://job-boards.greenhouse.io/twitch/jobs/8519628002",
@@ -292850,7 +292759,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -345230,6 +345139,24 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Astronomer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Inversion Space",
+        "id": "98b8f971-621c-46bf-8915-22ec116e536a",
+        "title": "Full Stack Engineer 2",
+        "active": true,
+        "date_updated": 1783733984,
+        "date_posted": 1783733782,
+        "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4714122005",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/InversionSpace",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
