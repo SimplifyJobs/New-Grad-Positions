@@ -2461,24 +2461,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Acuity",
-        "id": "0b284b34-d330-4c56-b7af-a697b231e3ee",
-        "title": "Engineering Technician Senior",
-        "active": false,
-        "date_updated": 1763062598,
-        "date_posted": 1763062598,
-        "url": "https://careers.acuityinc.com/job/Brossard-Engineering-Technician-Senior-Queb-J4Y-0C4/1342591100/?ats=successfactors",
-        "locations": [
-            "Brossard, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Acuity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Wiltshire Farm Foods",
         "id": "bc421933-50e6-4328-b92f-c85c3bbd5a7d",
