@@ -237288,7 +237288,7 @@
         "company_name": "University of Texas at Austin",
         "id": "e7b8ba38-13c5-4926-9962-f314ca280f9d",
         "title": "Postdoctoral Scholar",
-        "active": false,
+        "active": true,
         "date_updated": 1776939144,
         "date_posted": 1776521500,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Scholar--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00018034",
@@ -252856,7 +252856,7 @@
         "company_name": "The Federal Reserve System",
         "id": "d156d721-a042-48fe-9807-31e82eaebe66",
         "title": "Federal Reserve Financial Services Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778191679,
         "date_posted": 1778191327,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/Federal-Reserve-Financial-Services-Software-Engineer-I_R-0000032219-1",
@@ -329776,7 +329776,7 @@
         "company_name": "Johnson Controls",
         "id": "e4d9e3c8-7459-42cf-b37c-47533e01e9a0",
         "title": "Equipment Systems Application Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1782966491,
         "date_posted": 1782963863,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Indianapolis-Indiana-United-States-of-America/Equipment-Systems-Application-Engineer-I_WD30272554",
@@ -329916,7 +329916,7 @@
         "company_name": "RTX",
         "id": "c3dea2d7-279c-4e0e-bda1-9787607a3028",
         "title": "Research Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1782966065,
         "date_posted": 1782963451,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-ARLINGTON-111--1300-17Th-St-N--BBN-ARLINGTON/XMLNAME-2026-Research-Engineer-I---Arlington--VA---Cambridge--MA---Hybrid_01855555",
@@ -333177,7 +333177,7 @@
         "company_name": "Adobe",
         "id": "e3f70885-9036-43a5-9a6a-16813ea0291c",
         "title": "Product Manager - Acrobat Sign",
-        "active": false,
+        "active": true,
         "date_updated": 1783079685,
         "date_posted": 1781952977,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Product-Manager---Acrobat-Sign_R167587",
@@ -339908,7 +339908,7 @@
         "company_name": "RTX",
         "id": "f58cb7cb-43b9-4892-9932-37caa2157a3f",
         "title": "Data Management 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783549240,
         "date_posted": 1783548790,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-808--1151-E-Hermans-Rd--BLDG-808/Data-Management-I----Onsite-_01854038",
@@ -345094,6 +345094,44 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Handshake",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "846c5a44-a89e-42ad-a35d-da43ca8327b7",
+        "title": "Assembly/Test 1",
+        "active": true,
+        "date_updated": 1783771564,
+        "date_posted": 1782963466,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MEDLEY-9100--9120-9124-NW-105th-Cir--NW-105TH/Assembly-Test-1---Onsite-_01853422",
+        "locations": [
+            "Doral, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DraftKings",
+        "id": "6861ead2-e4de-4ff0-bdad-eb13a5dfc2cb",
+        "title": "Analyst 1 - Marketing Analytics",
+        "active": true,
+        "date_updated": 1783772834,
+        "date_posted": 1782338830,
+        "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Analyst-I--Marketing-Analytics_JR14528",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/DraftKings",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
