@@ -472,42 +472,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Wiltshire Farm Foods",
-        "id": "bc421933-50e6-4328-b92f-c85c3bbd5a7d",
-        "title": "Placement Project Engineer - Process Improvement",
-        "active": false,
-        "date_updated": 1763124703,
-        "date_posted": 1763124703,
-        "url": "https://wiltshirefarmfoods-apetito.icims.com/jobs/7677/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Trowbridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Wiltshire-Farm-Foods",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CACI",
-        "id": "d6fe49c3-4efa-4652-9b5e-7609bea7f2c4",
-        "title": "Data Analyst - Systems Analysis Engineer/Scientist Support",
-        "active": false,
-        "date_updated": 1763124599,
-        "date_posted": 1763124599,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-CA-Norco/Data-Analyst--Systems-Analysis-Engineer-Scientist-Support-_319036",
-        "locations": [
-            "Norco, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Genuine Parts Company",
         "id": "6c4ad610-4a61-484f-a21c-fe6a06c3494f",
@@ -186240,7 +186204,7 @@
         "company_name": "University of Rochester",
         "id": "ff8e02ae-33e9-4d66-a3d3-e686d33c4861",
         "title": "Data Analyst 1 - Drug Diversion Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1774478575,
         "date_posted": 1774478575,
         "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Strong-Memorial-Hospital/Data-Analyst-I---Pharmacy_R269792-1",
@@ -342159,7 +342123,7 @@
         "company_name": "Walmart",
         "id": "fcb16229-442c-4c0d-ae3d-bfc990f71343",
         "title": "Manager of Advanced Analytics - Seller Performance",
-        "active": true,
+        "active": false,
         "date_updated": 1783778439,
         "date_posted": 1783641600,
         "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Manager--Advanced-Analytics---Seller-Performance_R-2552880",
