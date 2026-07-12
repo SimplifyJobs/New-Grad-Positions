@@ -145,24 +145,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "acca75ee-0a80-4563-98ff-74c1c5394ff3",
-        "title": "Graduate \u2013 R&D Engineer - m/f/d - Months",
-        "active": false,
-        "date_updated": 1763135449,
-        "date_posted": 1763135449,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/127697",
-        "locations": [
-            "Neukirchen-Vluyn, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Atlas Van Lines",
         "id": "ca485c97-49f6-4832-a85d-06af59edc356",
