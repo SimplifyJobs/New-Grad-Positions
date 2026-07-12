@@ -508,151 +508,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5f2c399a-3972-409f-9600-4a85ffc13fe3",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763114493,
-        "date_posted": 1763114493,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035109",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "452669b2-c09e-4789-a955-262b2f93cb50",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763114507,
-        "date_posted": 1763114507,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037238",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "eb493026-11a0-4027-a343-6b52a2ef5125",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763114493,
-        "date_posted": 1763114493,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035110",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "053a8e51-092f-497a-9e39-ec114250274c",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763114505,
-        "date_posted": 1763114505,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037239",
-        "locations": [
-            "Southampton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ee671e28-ce7a-48ce-ba13-2af917925283",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763114506,
-        "date_posted": 1763114506,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037241",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e82c0ab5-78c4-4f98-ae59-c4188bb02eba",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763114494,
-        "date_posted": 1763114494,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035105",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e7b3dac0-0cab-4ead-bfc3-73ad9fde7f54",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763114506,
-        "date_posted": 1763114506,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037229",
-        "locations": [
-            "Exeter, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e323a3c4-d85c-4e86-9207-b916fbe857fe",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763114504,
-        "date_posted": 1763114504,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037250",
-        "locations": [
-            "Washington",
-            "Newcastle upon Tyne, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Wiltshire Farm Foods",
         "id": "bc421933-50e6-4328-b92f-c85c3bbd5a7d",
@@ -280477,7 +280332,7 @@
         "company_name": "Leidos",
         "id": "c2ced759-415c-4430-971e-4945e24dcfcc",
         "title": "Electronics Mechanical Assembly Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780275161,
         "date_posted": 1780134819,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronics-Mechanical-Assembly-Technician_R-00182031",
@@ -298211,7 +298066,7 @@
         "company_name": "Goldman Sachs",
         "id": "f99b0f28-4c34-4e85-8a26-27c6ea7b386a",
         "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
-        "active": false,
+        "active": true,
         "date_updated": 1781170202,
         "date_posted": 1781168798,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/162274",
@@ -308403,7 +308258,7 @@
         "company_name": "GE Healthcare",
         "id": "b8df6356-852a-4297-b6d7-4e4dab8e1234",
         "title": "Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781704769,
         "date_posted": 1781639272,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois-Central-Illinois_R4042298-1",
@@ -311135,7 +310990,7 @@
         "company_name": "GE Healthcare",
         "id": "d3753f43-4080-4744-a191-85778e307842",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781822067,
         "date_posted": 1781820704,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I---Cincinnati--OH_R4042421-1",
@@ -340611,7 +340466,7 @@
         "company_name": "Goldman Sachs",
         "id": "9f62800f-29c9-4903-ae21-b3abdaa8c9f4",
         "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
-        "active": true,
+        "active": false,
         "date_updated": 1783664461,
         "date_posted": 1771381096,
         "url": "https://higher.gs.com/roles/162274",
@@ -342420,7 +342275,7 @@
         "company_name": "RTX",
         "id": "aab64ef6-9ec0-4144-b49c-b26ff662a042",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783780655,
         "date_posted": 1783555200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-PHOENIX-3405--3405-S-5th-St--BLDG-3405/Field-Service-Engineer--Onsite-_01858612",
@@ -342493,5 +342348,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Momentive",
+        "id": "ae82995e-fb7d-4e07-a7f7-bfcb2d92aa89",
+        "title": "Field Marketing Technician",
+        "active": true,
+        "date_updated": 1783851354,
+        "date_posted": 1783165593,
+        "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/UK-Abingdon/Field-Marketing-Technician_R9591",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Momentive-Performance-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
