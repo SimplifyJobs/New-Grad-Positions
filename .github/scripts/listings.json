@@ -23448,24 +23448,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "cbcde1ae-190b-49d5-aaf9-833855f7bd6b",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1763132748,
-        "date_posted": 1763132748,
-        "url": "https://aexp.eightfold.ai/careers/job/38833294",
-        "locations": [
-            "Brighton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Qualcomm",
         "id": "e232907d-54a5-4e77-9ee2-eedabdebc9f2",
