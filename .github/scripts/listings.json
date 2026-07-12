@@ -473,42 +473,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Nielsen",
-        "id": "413aacd0-4cab-4cab-8bf6-abfc27dae9d2",
-        "title": "Digital Data Research Support",
-        "active": false,
-        "date_updated": 1763121516,
-        "date_posted": 1763121516,
-        "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000089945155",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Nielsen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Auto-Owners Insurance",
-        "id": "96c5c6ea-6177-4493-968b-011c5b773f4f",
-        "title": "Business Intelligence Developer",
-        "active": false,
-        "date_updated": 1763120225,
-        "date_posted": 1763120225,
-        "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_10771",
-        "locations": [
-            "East Lansing, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Auto-Owners-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Wiltshire Farm Foods",
         "id": "bc421933-50e6-4328-b92f-c85c3bbd5a7d",
         "title": "Placement Project Engineer - Process Improvement",
@@ -544,24 +508,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "John Deere",
-        "id": "55d619b8-ec17-40a7-bc2c-de799d1a8355",
-        "title": "New Product Coordinator - Product Engineering (CA) - WW Construction & Forestry",
-        "active": false,
-        "date_updated": 1763121221,
-        "date_posted": 1763121221,
-        "url": "https://johndeere.eightfold.ai/careers/job/137477487515",
-        "locations": [
-            "Langley, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/John-Deere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Genuine Parts Company",
         "id": "6c4ad610-4a61-484f-a21c-fe6a06c3494f",
@@ -574,24 +520,6 @@
             "Anaheim, CA"
         ],
         "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "6193f354-5f4f-447a-9757-bc61deb982b6",
-        "title": "Game Support Technician",
-        "active": false,
-        "date_updated": 1763121492,
-        "date_posted": 1763121492,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Livonia-MI/Game-Support-Technician_R-1008908",
-        "locations": [
-            "Livonia, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -265581,7 +265509,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -292704,7 +292632,7 @@
         "company_name": "GE Healthcare",
         "id": "36e9ff78-3874-4c00-8071-cf878030a4c2",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780956849,
         "date_posted": 1780956345,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I_R4041630-1",
@@ -342367,6 +342295,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of Rochester",
+        "id": "41200d44-c1ae-4d74-8212-a9c18506edc5",
+        "title": "EHR Applications Analyst 1",
+        "active": true,
+        "date_updated": 1783855905,
+        "date_posted": 1782957156,
+        "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/30-Corporate-Woods/EHR-Applications-Analyst-I_R272507",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Rochester",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
