@@ -92,60 +92,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "ServiceNow",
-        "id": "b8b71eb7-0206-4be7-b91e-daf182bea81d",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1763136724,
-        "date_posted": 1763136724,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000093719085",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ServiceNow",
-        "id": "4bf9420f-3b86-4e28-be0e-8d88dede5109",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1763136724,
-        "date_posted": 1763136724,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000093719514",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University Health Network",
-        "id": "e402f38f-68ef-4c54-a510-5a3ddb9541d5",
-        "title": "Postdoctoral Researcher",
-        "active": false,
-        "date_updated": 1763136404,
-        "date_posted": 1763136404,
-        "url": "https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000088820465",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Health-Network",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Atlas Van Lines",
         "id": "ca485c97-49f6-4832-a85d-06af59edc356",
         "title": "Software Developer - Associate",
