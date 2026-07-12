@@ -279266,7 +279266,7 @@
         "company_name": "Johnson & Johnson",
         "id": "1434006f-8b30-492e-a344-121b2ba9fb2b",
         "title": "Postdoctoral Researcher Video Team",
-        "active": true,
+        "active": false,
         "date_updated": 1779956238,
         "date_posted": 1779314728,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/Postdoctoral-Researcher-Video-team_R-055592-1",
@@ -308471,7 +308471,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -342443,7 +342443,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "21fb3199-c870-4858-95fa-90d230d5088d",
         "title": "Tech Marketing & Performance Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783760164,
         "date_posted": 1781639423,
         "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Tech-Marketing---Performance-Engineer_3164629",
@@ -342503,7 +342503,7 @@
         "company_name": "GE Healthcare",
         "id": "211d5160-dd5b-403d-aa71-3b6dd6378ee9",
         "title": "Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783762313,
         "date_posted": 1783555200,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1_R4042917-1",
@@ -342745,5 +342745,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fujifilm",
+        "id": "101ca310-bb14-4bc9-993b-7225e184fccf",
+        "title": "Engineering Technician - Level depends on Skills Match",
+        "active": true,
+        "date_updated": 1783845001,
+        "date_posted": 1782914795,
+        "url": "https://uscareers-fujifilm.icims.com/jobs/37311/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Hanover, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fujifilm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
