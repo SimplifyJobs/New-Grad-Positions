@@ -59,42 +59,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "mthree",
-        "id": "23cb0aa4-4617-4868-aa0f-03d66945fe2e",
-        "title": "Entry Level Full-Stack Developer",
-        "active": false,
-        "date_updated": 1763086597,
-        "date_posted": 1763086597,
-        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4613045006",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fanatics",
-        "id": "d8243664-058d-4c5e-b96f-3be891eb8dad",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1763086837,
-        "date_posted": 1763086837,
-        "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25522",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Fanatics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Truist Bank",
         "id": "64dd4cfd-b61e-497b-97cd-f934eceaaa7f",
         "title": "Software Engineer 1",
@@ -108,24 +72,6 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Truist-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DoorDash",
-        "id": "34a2227f-b88a-4459-86f3-799abbf995cf",
-        "title": "Software Engineer - Entry Level",
-        "active": false,
-        "date_updated": 1763087403,
-        "date_posted": 1763087403,
-        "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/7392991",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/DoorDash",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -1055,24 +1001,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Man Group",
-        "id": "81783024-fadd-403d-9b27-7f247086ef9d",
-        "title": "Technology Rotational Program - Associate Engineer",
-        "active": false,
-        "date_updated": 1763086592,
-        "date_posted": 1763086592,
-        "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4710813101",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Man-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Maven Securities",
         "id": "7da22634-57f3-4202-ac36-4fa6e474de38",
         "title": "Graduate Developer Programme",
@@ -1175,24 +1103,6 @@
             "Leesville, LA"
         ],
         "company_url": "https://simplify.jobs/c/ATT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Neuralink",
-        "id": "99474a33-55ff-4529-a48c-0370290c7f03",
-        "title": "Manufacturing Technician",
-        "active": false,
-        "date_updated": 1763087299,
-        "date_posted": 1763087299,
-        "url": "https://boards.greenhouse.io/neuralink/jobs/6258222003",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Neuralink",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -1308,24 +1218,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "KL Discovery",
-        "id": "f7ac70ed-7232-45bb-9a94-b9dbcff30239",
-        "title": "Associate Forensic Analyst",
-        "active": false,
-        "date_updated": 1763087084,
-        "date_posted": 1763087084,
-        "url": "https://ekug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1920",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/KL-Discovery",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Maven Securities",
         "id": "9c635eca-5d7f-46f0-8cd5-a9209a7f1533",
@@ -1377,27 +1269,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Avis Budget Group",
-        "id": "95546583-c57a-4303-a47b-ed41e3bc1f69",
-        "title": "Accelerate - Business Insights Analyst - Post Graduation Opportunity",
-        "active": false,
-        "date_updated": 1763087307,
-        "date_posted": 1763087307,
-        "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Business-Insights-Analyst--Post-Graduation-Opportunity-_R0181082",
-        "locations": [
-            "Parsippany-Troy Hills, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Avis-Budget-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -1618,24 +1489,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Southern Company",
-        "id": "bb511e79-e303-462a-89ef-15a08af68735",
-        "title": "Data Analytics Analyst - Load Research",
-        "active": false,
-        "date_updated": 1763086947,
-        "date_posted": 1763086947,
-        "url": "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15710",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Southern-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Iridium Communications",
         "id": "92618d3c-605c-4be5-8fdb-eafe70b1ffad",
@@ -1666,24 +1519,6 @@
             "Hazelwood, MO"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Marshall Wace",
-        "id": "19216d8d-516a-45eb-8265-b4f7ea981ec3",
-        "title": "Technology Placement - 2026 - 4-Months",
-        "active": false,
-        "date_updated": 1763087294,
-        "date_posted": 1763087294,
-        "url": "https://job-boards.greenhouse.io/mwam-imperial-placements/jobs/8147000002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Marshall-Wace",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -1726,83 +1561,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Global Payments",
-        "id": "d32a2fc4-92f4-45c8-8ccd-633def0fd0d4",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1763087171,
-        "date_posted": 1763087171,
-        "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Cleveland-Ohio-USA/Associate-Product-Manager_R0066591",
-        "locations": [
-            "Cleveland, OH",
-            "Charlotte, NC",
-            "Jacksonville, FL",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Global-Payments",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CyrusOne",
-        "id": "c74eaaf6-96f7-4609-88d9-281cf0b9ebf6",
-        "title": "Service Delivery Technician 1",
-        "active": false,
-        "date_updated": 1763086692,
-        "date_posted": 1763086692,
-        "url": "https://cyrusone.wd1.myworkdayjobs.com/CyrusOne/job/Sterling-VA/Service-Delivery-Technician-I_R0006705-5",
-        "locations": [
-            "Dulles, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/CyrusOne",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Inspire Medical Systems",
-        "id": "b8c7ef6b-a6f4-459b-a9f7-094c91bd84b5",
-        "title": "Associate Enterprise Architect",
-        "active": false,
-        "date_updated": 1763086894,
-        "date_posted": 1763086894,
-        "url": "https://job-boards.greenhouse.io/inspiremedicalsystemsinc/jobs/4972972008?gh_jid=4972972008",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Inspire-Medical-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Altice USA",
-        "id": "ae0c63dd-bea7-49d5-bc2e-6e502132774e",
-        "title": "Cyber Defense Operator",
-        "active": false,
-        "date_updated": 1763086793,
-        "date_posted": 1763086793,
-        "url": "https://www.alticeusacareers.com/job/Bethpage-Cyber-Defense-Operator-NY-11714/1318364900/?ats=successfactors",
-        "locations": [
-            "Plano, TX",
-            "Westport, CT",
-            "Plainview, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Altice-USA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "The Boeing Company",
         "id": "a8bf1d23-c52e-4403-8738-78b42e5e9644",
@@ -1815,42 +1573,6 @@
             "Long Beach, CA"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "a49c7702-f74f-4e52-b892-7b9609105ed3",
-        "title": "Embedded Cybersecurity Software Engineer",
-        "active": false,
-        "date_updated": 1763087159,
-        "date_posted": 1763087159,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Cybersecurity-Software-Engineer--Onsite-_01806439",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Motorola",
-        "id": "82469d57-ab17-4735-862b-14360b3d5a1f",
-        "title": "Software Engineer - C#/.NET and Azure",
-        "active": false,
-        "date_updated": 1763087202,
-        "date_posted": 1763087202,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/West-Valley-City-UT/Software-Engineer---C--NET-and-Azure_R58225",
-        "locations": [
-            "West Valley City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -2262,24 +1984,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "CenturyLink",
-        "id": "f04c8b2f-94e3-40c2-bc8d-4e2fc290b3a3",
-        "title": "Telecommunications Technician",
-        "active": false,
-        "date_updated": 1763087254,
-        "date_posted": 1763087254,
-        "url": "https://internaljobs.centurylink.com/job/LEESBURG-Telecommunications-Technician-FL-34748/1342749300/?ats=successfactors",
-        "locations": [
-            "Mt Dora, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "The Boeing Company",
         "id": "d55ff156-6921-4aa4-b141-3cc1e4bbde39",
@@ -2292,169 +1996,6 @@
             "Long Beach, CA"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Deer Valley Resort",
-        "id": "9f3d3396-0eba-48d4-b2bc-8b1921afb790",
-        "title": "IT Support Specialist",
-        "active": false,
-        "date_updated": 1763086644,
-        "date_posted": 1763086644,
-        "url": "https://alterra.wd1.myworkdayjobs.com/deervalleyresort/job/Park-City-UT/IT-Support-Specialist---Year-Round_JR127991",
-        "locations": [
-            "Park City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Deer-Valley-Resort",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lumen Technologies",
-        "id": "642b73cb-f04a-4502-92ec-7464d64999c0",
-        "title": "Telecommunications Technician",
-        "active": false,
-        "date_updated": 1763087267,
-        "date_posted": 1763087267,
-        "url": "https://jobs.lumen.com/global/en/job/340468",
-        "locations": [
-            "Mt Dora, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Menlo Security",
-        "id": "dd884f48-9f0b-43b1-952f-392abd33af7f",
-        "title": "Senior Software Engineer",
-        "active": false,
-        "date_updated": 1763087018,
-        "date_posted": 1763087018,
-        "url": "https://jobs.ashbyhq.com/menlosecurity/31cb9aaa-e31a-44e3-8b96-57d9a6270b34/application",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Menlo-Security",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Space Dynamics Laboratory",
-        "id": "da34a1f4-9241-47fd-a5f3-5d09567c0b1d",
-        "title": "Student IT Service Desk Assistant",
-        "active": false,
-        "date_updated": 1763086454,
-        "date_posted": 1763086454,
-        "url": "https://spacedynamicslaboratory.applytojob.com/apply/Z3jwCEA4Lb/Student-IT-Service-Desk-Assistant",
-        "locations": [
-            "Logan, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Space-Dynamics-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Booz Allen",
-        "id": "ef7bcd77-c30c-41f3-a901-a13984a4148d",
-        "title": "Data Scientist",
-        "active": false,
-        "date_updated": 1763086356,
-        "date_posted": 1763086356,
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0229416",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hiscox",
-        "id": "50900857-bdaf-4827-a94a-bb91f4471a0c",
-        "title": "Business Insights Analyst",
-        "active": false,
-        "date_updated": 1763086207,
-        "date_posted": 1763086207,
-        "url": "https://hiscox.wd3.myworkdayjobs.com/Hiscox_External_Site/job/USA-New-York---Manhattan/Business-Insights-Analyst_R0018401",
-        "locations": [
-            "NYC",
-            "Farmington, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Hiscox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "PURE Insurance",
-        "id": "1fe68310-0cf8-46fd-b3c1-81ce97dbbc1d",
-        "title": "Product Development Specialist",
-        "active": false,
-        "date_updated": 1763086255,
-        "date_posted": 1763086255,
-        "url": "https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Chicago/Product-Development-Specialist_R2529",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/fc808eea-5bbd-47f2-b012-c26bad545ecd",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "42f4dac3-2b76-4b1d-be0c-0de07ec54c90",
-        "title": "Student Researcher",
-        "active": false,
-        "date_updated": 1763086038,
-        "date_posted": 1763086038,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Student-Researcher_REQ_0000073588-2",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "PennState University",
-        "id": "0b38e2c4-5ae5-426e-93f5-9298732bc47c",
-        "title": "Research Assistant - Computer Science and Engineering",
-        "active": false,
-        "date_updated": 1763086020,
-        "date_posted": 1763086020,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Computer-Science-and-Engineering_REQ_0000073587-2",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
