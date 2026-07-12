@@ -341793,5 +341793,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "9f79f993-861a-4ac9-b961-8ee92f2a728d",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1783896481,
+        "date_posted": 1783895652,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8049732",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
     }
 ]
