@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Allegiant Air",
-        "id": "6617b14e-3046-4046-9fc6-45c097a19d93",
-        "title": "Product Manager 1",
-        "active": false,
-        "date_updated": 1763191337,
-        "date_posted": 1763191337,
-        "url": "https://jobs.lever.co/allegiantair/eae0d56b-4187-4c46-b595-700fef1c69ab/apply",
-        "locations": [
-            "Las Vegas, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Allegiant-Air",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "d19146a1-32fb-4964-a464-4b07808e148b",
@@ -139,24 +121,6 @@
             "Solihull, UK"
         ],
         "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "DataDirect Networks (DDN)",
-        "id": "3d56da13-973f-441a-8bcc-beb821806c5b",
-        "title": "Firmware Engineer",
-        "active": false,
-        "date_updated": 1763192059,
-        "date_posted": 1763191880,
-        "url": "https://careers-ddn.icims.com/jobs/5270/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/DataDirect-Networks",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -50798,24 +50762,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Primetals Technologies",
-        "id": "45c94582-3063-4327-b109-024e04f0c592",
-        "title": "Technical Translator 1",
-        "active": false,
-        "date_updated": 1763191707,
-        "date_posted": 1763191707,
-        "url": "https://mhicareers.com/job/Orlando-Technical-Translator-I-FL-32809/1261635101/?ats=successfactors",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Primetals-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "AT&T",
         "id": "d280566c-d2e8-4e3c-9ccf-8896d56326d9",
@@ -97703,24 +97649,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Primetals Technologies",
-        "id": "8726d4cd-5b78-4641-a80b-65f7dc83664b",
-        "title": "Quality Inspector - Off Shift",
-        "active": false,
-        "date_updated": 1770110345,
-        "date_posted": 1763191709,
-        "url": "https://mhicareers.com/job/Orlando-Quality-Inspector-(Off-Shift)-FL-32809/1240993301/?ats=successfactors",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Primetals-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
