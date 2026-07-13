@@ -1,114 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "d9abb219-bcd9-4d2c-9e03-380098ef28ed",
-        "title": "Early Career Configuration Management Engineer",
-        "active": false,
-        "date_updated": 1763232230,
-        "date_posted": 1763232230,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Early-Career-Configuration-Management-Engineer_JR2025466090",
-        "locations": [
-            "Hazelwood, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f25d9a33-87a9-4c4e-aaed-bfece1216ae7",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763232647,
-        "date_posted": 1763232647,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037545",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "29eca946-823b-4680-ada9-f5449c92a3a5",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763232646,
-        "date_posted": 1763232646,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400034816",
-        "locations": [
-            "Stockbridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "c497e0ea-588a-4af3-a104-929942700bc6",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763232641,
-        "date_posted": 1763232641,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036384",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ec810782-5f34-4388-a566-4b2f64c5a2a6",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763232641,
-        "date_posted": 1763232641,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035054",
-        "locations": [
-            "Yeovil, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b7ba086b-0ffd-4b9c-8c22-c99368da825e",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763232647,
-        "date_posted": 1763232647,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037544",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Thales",
         "id": "d4162a38-acb9-4e62-8872-19cb8fc9bc38",
@@ -121,43 +13,6 @@
             "Reading, UK"
         ],
         "company_url": "https://simplify.jobs/c/Thales",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9d0995fb-739d-4837-90be-0e300de99781",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1763232648,
-        "date_posted": 1763232648,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037513",
-        "locations": [
-            "Durham, UK",
-            "Thirsk, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b7ed665e-6b23-4ad0-bb5e-cd80e4de2fa0",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763232647,
-        "date_posted": 1763232647,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037543",
-        "locations": [
-            "Hereford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -3580,24 +3435,6 @@
             "Omaha, NE"
         ],
         "company_url": "https://simplify.jobs/c/AGCO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Rapid7",
-        "id": "0996383a-6bd5-46cb-9144-fc21996371d9",
-        "title": "Business Systems Analyst",
-        "active": false,
-        "date_updated": 1763459920,
-        "date_posted": 1763233026,
-        "url": "https://mymoose.wd1.myworkdayjobs.com/careers/job/US---MA---Boston/Business-Systems-Analyst_R10501",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rapid7",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -20731,24 +20568,6 @@
         "date_updated": 1763364834,
         "date_posted": 1763364834,
         "url": "https://zebra.eightfold.ai/careers/job/343636075371",
-        "locations": [
-            "Wheeling, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Zebra Technologies",
-        "id": "9bdb6074-0c01-4a6b-acb7-3c17862f3e1e",
-        "title": "Repair Services Associate - Manufacturing",
-        "active": false,
-        "date_updated": 1763232275,
-        "date_posted": 1763232275,
-        "url": "https://zebra.eightfold.ai/careers/job/343635960672",
         "locations": [
             "Wheeling, IL"
         ],
@@ -47918,24 +47737,6 @@
             "Milpitas, CA"
         ],
         "company_url": "https://simplify.jobs/c/KLA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "b26c1808-64c8-4f06-ad00-97d3dd770a18",
-        "title": "Radio Frequency Electronics Technician",
-        "active": false,
-        "date_updated": 1767175002,
-        "date_posted": 1763231784,
-        "url": "https://jobs.l3harris.com/job/San-Diego-Radio-Frequency-Electronics-Technician-CA-92123/1341196200/?ats=successfactors",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -96922,28 +96723,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Hershey",
-        "id": "f50791ba-a44e-4d1e-ae50-bdd0346fe3d9",
-        "title": "Senior Research Scientist R&D Sweets",
-        "active": false,
-        "date_updated": 1770110096,
-        "date_posted": 1763231597,
-        "url": "https://careers.thehersheycompany.com/job/Hershey-Senior-Research-Scientist-R&D-Sweets-PA-17033/1309021500/?ats=successfactors",
-        "locations": [
-            "Hershey, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hershey",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "9cd8ea84-48e9-4aef-a9f1-9c4c7e01aa82",
@@ -102733,26 +102512,6 @@
             "Ames, IA"
         ],
         "company_url": "https://simplify.jobs/c/Iowa-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "04a955b8-29f3-4904-980b-4a642a60258d",
-        "title": "Associate Systems Engineer",
-        "active": false,
-        "date_updated": 1770333034,
-        "date_posted": 1763231703,
-        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Systems-Engineer-(Salt-Lake-City,-UT)-UT-84116/1316801100/?ats=successfactors",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -272838,26 +272597,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "McDonald's",
-        "id": "6a3c013b-9b7d-42f4-9de4-e1064c13e339",
-        "title": "Software Engineer 1 - iOS",
-        "active": true,
-        "date_updated": 1763233120,
-        "date_posted": 1763233120,
-        "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-iOS-IL-60607/1322170500/?ats=successfactors",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/McDonald",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Sysmex",
         "id": "71149fe5-961e-4bf1-8571-edd4d46f114a",
@@ -284954,7 +284693,7 @@
         "company_name": "Iridium Communications",
         "id": "e6fed708-1919-457c-959e-7f55c96e2e5c",
         "title": "Applications Programmer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780610901,
         "date_posted": 1780610616,
         "url": "https://careers-iridium.icims.com/jobs/4920/job?mobile=true&needsRedirect=false",
@@ -309034,7 +308773,7 @@
         "company_name": "Primetals Technologies",
         "id": "eb1172e1-919e-4b58-97c7-3fee4ddf9008",
         "title": "Project Support Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781908544,
         "date_posted": 1781906969,
         "url": "https://mhicareers.com/job/Orlando-Project-Support-Engineer-I-FL-32809/1406621533/?ats=successfactors",
@@ -312816,7 +312555,7 @@
         "company_name": "Burson",
         "id": "afc84c6c-c552-4196-9136-2b81462c1693",
         "title": "Associate Analyst - Insights - Data & Intelligence",
-        "active": true,
+        "active": false,
         "date_updated": 1782554581,
         "date_posted": 1782554190,
         "url": "https://www.bursonglobal.com/careers/jobs?gh_jid=5228295008",
@@ -335456,7 +335195,7 @@
         "company_name": "Ford Motor Company",
         "id": "f3a393b1-15b5-4af2-8adb-58662f1338b2",
         "title": "Product Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783592461,
         "date_posted": 1783375705,
         "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/64134",
@@ -337592,7 +337331,7 @@
         "company_name": "Salesforce",
         "id": "f15f48ce-a8f4-4d99-93f4-526a6654b335",
         "title": "AI Builder New Grad - Emerging Talent",
-        "active": true,
+        "active": false,
         "date_updated": 1783722399,
         "date_posted": 1779372512,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/AI-Builder--Emerging-Talent---UK---Ireland-Market_JR342481-1",
