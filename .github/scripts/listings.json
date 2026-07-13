@@ -236018,7 +236018,7 @@
         "company_name": "Semtech",
         "id": "7b6c0417-a7c9-4f6f-b819-56e9b9454b5f",
         "title": "Staff Characterisation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777471728,
         "date_posted": 1777471521,
         "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/GBR---Bristol/Staff-Characterisation-Engineer_REQ3285",
@@ -275526,7 +275526,7 @@
         "company_name": "Johnson & Johnson",
         "id": "1434006f-8b30-492e-a344-121b2ba9fb2b",
         "title": "Postdoctoral Researcher Video Team",
-        "active": false,
+        "active": true,
         "date_updated": 1779956238,
         "date_posted": 1779314728,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/Postdoctoral-Researcher-Video-team_R-055592-1",
@@ -325222,7 +325222,7 @@
         "company_name": "Semtech",
         "id": "8fa27d1c-b8d6-4e46-9d06-d133a1df424f",
         "title": "Staff Characterisation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783030482,
         "date_posted": 1783029954,
         "url": "https://semtech.wd1.myworkdayjobs.com/SemtechJobs/job/GBR---Bristol/Staff-Characterisation-Engineer_REQ3285-2",
@@ -328426,7 +328426,7 @@
         "company_name": "Change Grow Live",
         "id": "22fa6861-700c-4ea8-b11d-1d21c5b8e2f6",
         "title": "Data Administrator",
-        "active": true,
+        "active": false,
         "date_updated": 1783328701,
         "date_posted": 1783328539,
         "url": "https://careers-changegrowlive.icims.com/jobs/20510/job?mobile=true&needsRedirect=false",
@@ -339124,5 +339124,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sonepar",
+        "id": "1d6fa710-751b-4eb5-854f-14c036ad5698",
+        "title": "Product File Analyst",
+        "active": true,
+        "date_updated": 1783931541,
+        "date_posted": 1783893820,
+        "url": "https://career.sonepar.com/job/Omaha-Product-File-Analyst-NE-68144/1414075033/?ats=successfactors",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonepar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
