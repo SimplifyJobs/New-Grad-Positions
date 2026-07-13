@@ -196093,7 +196093,7 @@
         "company_name": "Agoda",
         "id": "b9c4a46f-2b41-4f0f-a9fa-7ba2e07f2f51",
         "title": "Supply Analytics Senior Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775111401,
         "date_posted": 1773988105,
         "url": "https://job-boards.greenhouse.io/agoda/jobs/7698911",
@@ -280363,7 +280363,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -286466,7 +286466,7 @@
         "company_name": "Magna",
         "id": "b36dd93e-55df-46c6-8350-15f7d2381821",
         "title": "CMM Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780652834,
         "date_posted": 1780611048,
         "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Northwood-Ohio-US/CMM-Technician_R00246035",
@@ -319438,7 +319438,7 @@
         "company_name": "Kraken Robotics",
         "id": "f1991f99-aaa9-4acd-a513-721aa3623a46",
         "title": "Calibration Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1782812800,
         "date_posted": 1782338930,
         "url": "https://ats.rippling.com/kraken-robotics-inc/jobs/306b015a-6c3c-4205-b6df-6a9c7ce7b9a8",
@@ -338790,7 +338790,7 @@
         "company_name": "Handshake",
         "id": "d7bf6fb3-03d0-4929-bf38-4073f1bff227",
         "title": "Strategic Projects Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1783766049,
         "date_posted": 1782857340,
         "url": "https://jobs.ashbyhq.com/handshake/8f8ed382-27c3-46d0-9c74-6293e9294cd4/application",
@@ -339012,7 +339012,7 @@
         "company_name": "Momentive",
         "id": "ae82995e-fb7d-4e07-a7f7-bfcb2d92aa89",
         "title": "Field Marketing Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1783851354,
         "date_posted": 1783165593,
         "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/UK-Abingdon/Field-Marketing-Technician_R9591",
@@ -339142,5 +339142,44 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Legit Script",
+        "id": "850aa9c8-1bec-49eb-923b-6f490c0cf0c3",
+        "title": "Analyst 1 - Certification",
+        "active": true,
+        "date_updated": 1783937340,
+        "date_posted": 1783721506,
+        "url": "https://ats.rippling.com/legitscript-careers/jobs/bff3cd31-c2c3-4045-b569-edb52266856f",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Legit-Script",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "9e081b4b-dc90-4c5c-8b6f-41f7f8e08c31",
+        "title": "New College Grad - Product Yield Enhancement Engineer - High Bandwidth Memory",
+        "active": true,
+        "date_updated": 1783937451,
+        "date_posted": 1782956886,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Yield-Enhancement-Engineer--HBM_JR104804",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
