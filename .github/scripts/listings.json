@@ -2,133 +2,6 @@
     {
         "source": "Simplify",
         "category": "Product",
-        "company_name": "Kensington",
-        "id": "2c5a23c0-e10d-456d-9493-0c4d0a35b1f2",
-        "title": "Product Associate",
-        "active": false,
-        "date_updated": 1763167703,
-        "date_posted": 1763167703,
-        "url": "https://job-boards.greenhouse.io/kensingtontours/jobs/4982201007",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Kensington",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TD Bank",
-        "id": "e6571166-98ac-4e4b-aace-3c94a231f184",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1763167393,
-        "date_posted": 1763167393,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1456531-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "c9f9cb23-4346-45e9-b775-f72ddba981a2",
-        "title": "Machine Learning Engineer 1",
-        "active": false,
-        "date_updated": 1763167390,
-        "date_posted": 1763167390,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1456493",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "b0637bb9-19d7-4f45-ad5e-6c217b38523c",
-        "title": "Data Engineer Associate",
-        "active": false,
-        "date_updated": 1763167422,
-        "date_posted": 1763167422,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210685563",
-        "locations": [
-            "Plano, TX",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Oracle",
-        "id": "a01a6dda-d914-4e32-88d1-64d0f153b167",
-        "title": "Advanced Degree Product Manager - Oracle Health & Analytics",
-        "active": false,
-        "date_updated": 1763167504,
-        "date_posted": 1763167504,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/315136",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "JP Morgan Chase",
-        "id": "14272f6f-ea93-4734-a6d9-b1b68979cd54",
-        "title": "Trading Services Specialist",
-        "active": false,
-        "date_updated": 1763167417,
-        "date_posted": 1763167417,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210684831",
-        "locations": [
-            "Newark, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Thermo Fisher Scientific",
-        "id": "0dddad7b-42ee-42bc-977f-d2a1e2a33049",
-        "title": "Field Service Engineer",
-        "active": false,
-        "date_updated": 1763167177,
-        "date_posted": 1763167177,
-        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hemel-Hempstead-United-Kingdom/Field-Service-Engineer_R-01333489",
-        "locations": [
-            "Watford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
         "company_name": "Allegiant Air",
         "id": "6617b14e-3046-4046-9fc6-45c097a19d93",
         "title": "Product Manager 1",
@@ -4361,24 +4234,6 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Rapid7",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Beth Israel Lahey Health",
-        "id": "b9e2e529-59e0-4a7c-88b1-1d277df09967",
-        "title": "Research Data Coordinator-Cardiovascular Research",
-        "active": false,
-        "date_updated": 1763460670,
-        "date_posted": 1763167335,
-        "url": "https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Deaconess-Medical-Center/Research-Data-Coordinator--Cardiovascular-Research--Nezafat-Lab_JR87230",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Beth-Israel-Lahey-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -33191,24 +33046,6 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Whoop",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Utah State University",
-        "id": "89c25834-99f4-4895-b8a3-34a98c253a3b",
-        "title": "ServiceNow Junior Developer",
-        "active": false,
-        "date_updated": 1765408457,
-        "date_posted": 1763167443,
-        "url": "https://careers-usu.icims.com/jobs/9751/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Logan, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Utah-State-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
