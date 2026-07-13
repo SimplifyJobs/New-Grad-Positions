@@ -288632,7 +288632,7 @@
         "company_name": "GE Healthcare",
         "id": "d2d45beb-51e1-4ca0-aa90-87f09c4488dc",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780912673,
         "date_posted": 1780740065,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1--Seattle-WA-area_R4041943-1",
@@ -295757,7 +295757,7 @@
         "company_name": "CAI",
         "id": "8a849022-9763-4117-a1c4-04369a4fe47b",
         "title": "Image Verifier - Neurodiverse Solutions",
-        "active": false,
+        "active": true,
         "date_updated": 1781170299,
         "date_posted": 1781129230,
         "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Image-Verifier--Neurodiverse-Solutions_R7277",
@@ -307243,7 +307243,7 @@
         "company_name": "GE Healthcare",
         "id": "d2ff1270-eca5-47c9-b13a-781c17317939",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781822050,
         "date_posted": 1781820703,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/El-Paso/Field-Engineer-1_R4042436-1",
@@ -332629,7 +332629,7 @@
         "company_name": "GE Healthcare",
         "id": "53296978-e1d5-43a7-bb67-828f1fa03034",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783509344,
         "date_posted": 1778941910,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Missouri_R4040983-1",
@@ -336218,7 +336218,7 @@
         "company_name": "RTX",
         "id": "fe524bb3-1caa-4696-bd75-0aa4f70a9e3c",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783635732,
         "date_posted": 1783555200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Software-Engineer-I--Onsite-_01858576",
@@ -339196,6 +339196,26 @@
             "Columbia City, IN"
         ],
         "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DraftKings",
+        "id": "3b3b4d4b-e7f3-40bf-bc06-d4442188fc0f",
+        "title": "Analyst 1 - Reach and Partnerships",
+        "active": true,
+        "date_updated": 1783942450,
+        "date_posted": 1783548765,
+        "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Analyst-I--Research-and-Partnerships_JR14592",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/DraftKings",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
