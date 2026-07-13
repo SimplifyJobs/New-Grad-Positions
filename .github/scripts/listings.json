@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Thales",
-        "id": "d4162a38-acb9-4e62-8872-19cb8fc9bc38",
-        "title": "Firmware Research Engineer",
-        "active": false,
-        "date_updated": 1763233521,
-        "date_posted": 1763233521,
-        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Reading/Firmware-Research-Engineer_R0301492-2",
-        "locations": [
-            "Reading, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Thales",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "a0ee57d3-b456-4331-bd9f-428b5031f40f",
@@ -29560,24 +29542,6 @@
             "Aurora, CO"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qualcomm",
-        "id": "8d4f1bea-93b8-4fa5-8f8f-6877e092b800",
-        "title": "Display Software Engineer - Software Engineering",
-        "active": false,
-        "date_updated": 1765284672,
-        "date_posted": 1763233576,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446715352351",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
