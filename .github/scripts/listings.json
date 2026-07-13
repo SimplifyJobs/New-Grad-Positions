@@ -276025,7 +276025,7 @@
         "company_name": "Light & Wonder",
         "id": "945e7966-c41e-424b-a290-704ce71be03c",
         "title": "Associate Mathematician",
-        "active": true,
+        "active": false,
         "date_updated": 1779960517,
         "date_posted": 1779959541,
         "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Associate-Mathematician_R322193",
@@ -276989,7 +276989,7 @@
         "company_name": "Leidos",
         "id": "c2ced759-415c-4430-971e-4945e24dcfcc",
         "title": "Electronics Mechanical Assembly Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780275161,
         "date_posted": 1780134819,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronics-Mechanical-Assembly-Technician_R-00182031",
@@ -277027,7 +277027,7 @@
         "company_name": "RTX",
         "id": "e739e2f1-b776-4dd0-a1e8-e2b24a8ac460",
         "title": "Configuration Management Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1780274571,
         "date_posted": 1780139378,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MIDLAND-450--450-Leitz-Rd--BLDG-450/Configuration-Management-Specialist_01840354",
@@ -317098,7 +317098,7 @@
         "company_name": "GE Healthcare",
         "id": "6b714166-bc69-4a53-ac98-4bcb62a5c1d7",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782812054,
         "date_posted": 1782252366,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I_R4042607",
@@ -327425,7 +327425,7 @@
         "company_name": "KION Group",
         "id": "3aafa27e-591f-4c36-b70e-fa0d8e7d631c",
         "title": "Assembly Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1783156777,
         "date_posted": 1782955695,
         "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Assembly-Technician_JR-0088176-1",
@@ -328034,7 +328034,7 @@
         "company_name": "KION Group",
         "id": "df8fdb7f-8b26-4b9b-a196-acc56e848e2e",
         "title": "Assembly Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1783249819,
         "date_posted": 1783161027,
         "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Assembly-Technician_JR-0088176",
@@ -332650,7 +332650,7 @@
         "company_name": "Micron Technology",
         "id": "ee0b78af-412a-49ac-af70-f1d6a460b368",
         "title": "Senior BEOL Engineer - DRAM Process Integration",
-        "active": false,
+        "active": true,
         "date_updated": 1783512953,
         "date_posted": 1783167953,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Sr-BEOL-Engineer---DRAM-Process-Integration_JR94163",
@@ -339180,6 +339180,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Medtronic",
+        "id": "92d2cc04-86f2-4272-bbc1-3e2618e00921",
+        "title": "Calibration/Metrology Tech 1",
+        "active": true,
+        "date_updated": 1783939750,
+        "date_posted": 1783376176,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Warsaw-Indiana-United-States-of-America/Calibration-Metrology-Tech-I_R71202",
+        "locations": [
+            "Columbia City, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
