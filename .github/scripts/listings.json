@@ -339411,5 +339411,106 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "0834f388-7b02-413d-9774-004d6c8f329c",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1783953541,
+        "date_posted": 1783953334,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8052030",
+        "locations": [
+            "Waco, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Canonical",
+        "id": "911ce47e-21c3-4047-ad0a-0cd6334a781d",
+        "title": "Graduate Software Engineer - Open Source and Linux - Canonical Ubuntu",
+        "active": true,
+        "date_updated": 1783953361,
+        "date_posted": 1783952849,
+        "url": "https://job-boards.greenhouse.io/canonical/jobs/8055009",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Canonical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "12bb8c08-3ba6-419a-aac2-cbaded0ca79f",
+        "title": "Entry-Level Full Stack Developer",
+        "active": true,
+        "date_updated": 1783953202,
+        "date_posted": 1783951526,
+        "url": "https://careers-peraton.icims.com/jobs/168438/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ferrovial",
+        "id": "fcb9818e-a71f-46e8-9fec-0de00b44edd3",
+        "title": "Graduate Digital Construction Data Manager",
+        "active": true,
+        "date_updated": 1783953156,
+        "date_posted": 1783900800,
+        "url": "https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/London/Graduate-Digital-Construction---Data-Management-2026_JR18262",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ferrovial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BeyondTrust",
+        "id": "3d6cfbee-bf7c-4fa4-bdc5-7beea6d5ae6a",
+        "title": "Data Engineer Associate",
+        "active": true,
+        "date_updated": 1783953742,
+        "date_posted": 1766103288,
+        "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/6602214",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BeyondTrust",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
