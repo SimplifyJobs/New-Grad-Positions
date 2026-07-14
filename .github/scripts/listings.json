@@ -279348,7 +279348,7 @@
         "company_name": "CoStar Group",
         "id": "654a8203-8795-40c6-92f5-76afc4273093",
         "title": "Associate Research Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1780390666,
         "date_posted": 1780134807,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Associate-Research-Consultant_R38934",
@@ -285628,7 +285628,7 @@
         "company_name": "Magna",
         "id": "b36dd93e-55df-46c6-8350-15f7d2381821",
         "title": "CMM Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780652834,
         "date_posted": 1780611048,
         "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Northwood-Ohio-US/CMM-Technician_R00246035",
@@ -288544,7 +288544,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -309156,7 +309156,7 @@
         "company_name": "Iowa State University",
         "id": "cbfeef3e-9b1c-4335-a876-5175843ac797",
         "title": "Chemical Engineering Assistant/Associate/Full Professor",
-        "active": false,
+        "active": true,
         "date_updated": 1782038261,
         "date_posted": 1781950261,
         "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Chemical-Engineering---Assistant-Associate-Full-Professor_R19314",
@@ -331791,7 +331791,7 @@
         "company_name": "GE Healthcare",
         "id": "53296978-e1d5-43a7-bb67-828f1fa03034",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783509344,
         "date_posted": 1778941910,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Missouri_R4040983-1",
@@ -334056,7 +334056,7 @@
         "company_name": "Lithia Motors",
         "id": "246fcd3c-f60d-462d-b5f8-88f240c700ee",
         "title": "Product Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1783550098,
         "date_posted": 1783548939,
         "url": "https://lithia.wd5.myworkdayjobs.com/LithiaCareers/job/BMW-of-Minnetonka-Minnetonka-MN-55391/Product-Specialist_R112529",
@@ -334598,7 +334598,7 @@
         "company_name": "Newmont",
         "id": "7e0179db-0054-4f44-8810-5459ab5e6fde",
         "title": "Analyst \u2013 Field Services",
-        "active": true,
+        "active": false,
         "date_updated": 1783589498,
         "date_posted": 1783491125,
         "url": "https://jobs.newmont.com/us/en/job/43597",
@@ -340783,6 +340783,47 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UBS",
+        "id": "db02fc9d-18c1-4cf1-8984-872d4e1385f0",
+        "title": "Financial Data Operations Analyst",
+        "active": true,
+        "date_updated": 1784029502,
+        "date_posted": 1783606251,
+        "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=348523",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/UBS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stellant Systems",
+        "id": "a2e8a9b2-6542-4def-9b6a-0b3b7ca9e7d8",
+        "title": "TWT Project Engineer",
+        "active": true,
+        "date_updated": 1784030941,
+        "date_posted": 1780006156,
+        "url": "https://careers-stellantsystems.icims.com/jobs/2030/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Carson, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stellant-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
