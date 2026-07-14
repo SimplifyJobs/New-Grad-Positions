@@ -279525,7 +279525,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -325510,7 +325510,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc5879a8-4b16-4bc4-90e6-ab5042dcaab1",
         "title": "Asset & Wealth Management - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1783041481,
         "date_posted": 1782742015,
         "url": "https://higher.gs.com/roles/176984",
@@ -336066,7 +336066,7 @@
         "company_name": "National Life",
         "id": "ecbaf329-4e0e-49b2-9693-bf1f4c17b230",
         "title": "Associate Illustration Systems Analyst / Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783636860,
         "date_posted": 1783461716,
         "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4305154009",
@@ -340579,5 +340579,49 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "84a39b8e-8d89-4f91-ab45-1d53e8d86776",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1784011681,
+        "date_posted": 1784009157,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1408046100/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "e705fffd-6c2f-4555-b991-f5808e23542c",
+        "title": "System Software Engineer New Grad - Dynamo-Triton Inference Server",
+        "active": true,
+        "date_updated": 1784011765,
+        "date_posted": 1783900800,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767",
+        "locations": [
+            "Remote in USA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
