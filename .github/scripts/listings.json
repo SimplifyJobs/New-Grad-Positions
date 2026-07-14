@@ -174321,7 +174321,7 @@
         "company_name": "University of Wisconsin-Madison",
         "id": "5fcb80ac-f68e-4c80-9424-b371e81f6af7",
         "title": "Assistant Professor of Music Technology and Artificial Intelligence - Rise-AI",
-        "active": false,
+        "active": true,
         "date_updated": 1774015768,
         "date_posted": 1774015768,
         "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Assistant-Professor-of-Music-Technology-and-Artificial-Intelligence_JR10004513",
@@ -317265,7 +317265,7 @@
         "company_name": "Bruker Corporation",
         "id": "989bda69-e915-4f55-9c05-93d55b61e576",
         "title": "Staff Electromechanical Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1782511569,
         "date_posted": 1782511470,
         "url": "https://uscareers-bruker.icims.com/jobs/19488/job?hub=12&mobile=true&needsRedirect=false",
@@ -323156,7 +323156,7 @@
         "company_name": "Uhaul",
         "id": "21d004ad-6539-4d79-95ad-3c770a367bb6",
         "title": "Tier 1 Application Support",
-        "active": true,
+        "active": false,
         "date_updated": 1782966781,
         "date_posted": 1782957521,
         "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Tier-1-Application-Support-1_R248502",
@@ -323774,7 +323774,7 @@
         "company_name": "CAE",
         "id": "441d6d3c-3c5b-433b-bf3a-a888f704d484",
         "title": "Simulator Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782985269,
         "date_posted": 1782943549,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Orlando/Simulator-Technician-I_122131",
@@ -325510,7 +325510,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc5879a8-4b16-4bc4-90e6-ab5042dcaab1",
         "title": "Asset & Wealth Management - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1783041481,
         "date_posted": 1782742015,
         "url": "https://higher.gs.com/roles/176984",
@@ -335127,7 +335127,7 @@
         "company_name": "Intel",
         "id": "d7b45b6a-4fd7-436e-b27b-fcb6fc323110",
         "title": "Design for Test Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783636132,
         "date_posted": 1783555200,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Colorado-Fort-Collins/DFT-Design-Engineer_JR0285455",
@@ -340763,6 +340763,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Harvard University",
+        "id": "adbf2084-9827-4147-b0e6-4e073febca40",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1784028064,
+        "date_posted": 1784019712,
+        "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990014072606",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/9094158f-c28a-4cb7-9757-204e5a4e8130",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
