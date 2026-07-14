@@ -264083,7 +264083,7 @@
         "company_name": "General Dynamics UK",
         "id": "a7c67a3e-3bad-4dae-b885-0d9e1f0ede88",
         "title": "Junior Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779820021,
         "date_posted": 1777385142,
         "url": "https://jobs.smartrecruiters.com/GDMSI/744000123456285",
@@ -279504,7 +279504,7 @@
         "company_name": "InterSystems",
         "id": "c5bf9211-6c60-4edb-8401-bda8ea0f5bc7",
         "title": "Graduate Application Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1780392847,
         "date_posted": 1774362520,
         "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=7676945003",
@@ -289900,7 +289900,7 @@
         "company_name": "CoStar Group",
         "id": "cd60499a-dfb8-403e-ba59-7ed8d2cba47d",
         "title": "Bilingual French/English Associate Sales Comparable Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1780998501,
         "date_posted": 1780740292,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Bilingual-French-English-Associate-Sales-Comparable-Researcher_R37248",
@@ -303875,7 +303875,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -304077,7 +304077,7 @@
         "company_name": "GE Healthcare",
         "id": "b8df6356-852a-4297-b6d7-4e4dab8e1234",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781704769,
         "date_posted": 1781639272,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois-Central-Illinois_R4042298-1",
@@ -308660,7 +308660,7 @@
         "company_name": "Becton Dickinson",
         "id": "aa35ab04-a301-41e9-bf2f-fc58de23b838",
         "title": "Product Development Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781958458,
         "date_posted": 1781952928,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-RI---Warwick/Product-Development-Engineer-I_R-542366-1",
@@ -338329,7 +338329,7 @@
         "company_name": "Micron Technology",
         "id": "9e081b4b-dc90-4c5c-8b6f-41f7f8e08c31",
         "title": "New College Grad - Product Yield Enhancement Engineer - High Bandwidth Memory",
-        "active": true,
+        "active": false,
         "date_updated": 1783937451,
         "date_posted": 1782956886,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Yield-Enhancement-Engineer--HBM_JR104804",
@@ -339682,7 +339682,7 @@
         "company_name": "Gousto",
         "id": "4c3c25b0-b21b-401f-9b7d-4f295124cb4e",
         "title": "Associate Product Manager - Data Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1783982164,
         "date_posted": 1783980306,
         "url": "https://jobs.smartrecruiters.com/Gousto1/744000137499769",
@@ -340743,6 +340743,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cubic",
+        "id": "9872691c-797f-4cd9-9474-84ad8ec2b651",
+        "title": "Technical Systems Technician",
+        "active": true,
+        "date_updated": 1784025487,
+        "date_posted": 1783549080,
+        "url": "https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Gagetown-New-Brunswick/Repair-Technician---Gagetown_REQ_49372",
+        "locations": [
+            "Fredericton, NB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cubic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
