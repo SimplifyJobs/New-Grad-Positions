@@ -180533,7 +180533,7 @@
         "company_name": "University of Arkansas",
         "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
         "title": "Cosmos Graduate Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773813920,
         "date_posted": 1773813920,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2",
@@ -270334,7 +270334,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": true,
+        "active": false,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -276207,7 +276207,7 @@
         "company_name": "Brink",
         "id": "a999a49c-402d-44ce-b35b-d60c89144761",
         "title": "ATM Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780274470,
         "date_posted": 1780131751,
         "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Baton-Rouge-LA/ATM-Technician_R72782",
@@ -312793,7 +312793,7 @@
         "company_name": "GE Healthcare",
         "id": "bdca6b0d-54ef-4f43-9135-d4d108215238",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1782814145,
         "date_posted": 1782781530,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---San-Antonio--TX_R4042993-1",
@@ -313704,7 +313704,7 @@
         "company_name": "Guidewire",
         "id": "446847d3-29b2-4c3c-b983-f4e2203fc1ec",
         "title": "Associate Certification Program Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782868406,
         "date_posted": 1782770934,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946",
@@ -319321,7 +319321,7 @@
         "company_name": "University of Texas at Austin",
         "id": "35ea5d76-cfd1-4d19-9520-439668fb7c63",
         "title": "Postdoctoral Fellow - Nanoassembly Lab",
-        "active": true,
+        "active": false,
         "date_updated": 1782897381,
         "date_posted": 1782770685,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow---Nanoassembly-Lab_R_00046997",
@@ -340825,5 +340825,123 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Halliburton",
+        "id": "ddb544f9-bbc0-401e-a393-4386241d8268",
+        "title": "Electrical Tech 1",
+        "active": true,
+        "date_updated": 1784032926,
+        "date_posted": 1784020013,
+        "url": "https://jobs.halliburton.com/job/Aberdeen-Aberdeen-R&M-Electrical-Tech-I-ABE-AB21-0GN/1408540100/?ats=successfactors",
+        "locations": [
+            "Aberdeen, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Halliburton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "Associate's",
+            "JD",
+            "MD",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "de413639-c1d4-4d67-91c6-800f92bfe49b",
+        "title": "Software Development Engineer - Military Veterans",
+        "active": true,
+        "date_updated": 1784032382,
+        "date_posted": 1784020125,
+        "url": "https://amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans",
+        "locations": [
+            "Seattle, WA",
+            "Redmond, WA",
+            "Arlington, VA",
+            "Culver City, CA",
+            "Bellevue, WA",
+            "Denver, CO",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Radius Limited",
+        "id": "a3299838-0c8c-4021-afae-0f548867ddce",
+        "title": "Graduate Java Developer",
+        "active": true,
+        "date_updated": 1784032382,
+        "date_posted": 1784019685,
+        "url": "https://jobs.smartrecruiters.com/RadiusLimited/744000137606588",
+        "locations": [
+            "Northwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Radius-Limited",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Halliburton",
+        "id": "783807fa-606f-44d7-bd75-3a5c0d034e4a",
+        "title": "Electrical Tech 1",
+        "active": true,
+        "date_updated": 1784032307,
+        "date_posted": 1784020013,
+        "url": "https://jobs.halliburton.com/job/Aberdeen-Aberdeen-R&M-Electrical-Tech-I-ABE-AB21-0GN/1408540000/?ats=successfactors",
+        "locations": [
+            "Aberdeen, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Halliburton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "Associate's",
+            "JD",
+            "MD",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RX",
+        "id": "452e16d8-ffc5-4e0c-9e68-b6ea7d2a595e",
+        "title": "Junior Web Producer",
+        "active": true,
+        "date_updated": 1784033462,
+        "date_posted": 1782828300,
+        "url": "https://relx.wd3.myworkdayjobs.com/ReedExhibitions/job/UK---Richmond/Junior-Web-Producer_R115338",
+        "locations": [
+            "Hammersmith, London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/RX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
