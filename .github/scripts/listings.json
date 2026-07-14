@@ -340623,5 +340623,23 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WPP Media",
+        "id": "62cf381c-6186-4f84-a47c-edd68da74e63",
+        "title": "Thrive Future Talent Scheme",
+        "active": true,
+        "date_updated": 1784012622,
+        "date_posted": 1783982185,
+        "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5112174008",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/WPP-Media",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
