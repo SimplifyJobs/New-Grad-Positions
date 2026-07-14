@@ -105903,7 +105903,7 @@
         "company_name": "Snowflake",
         "id": "f2e9f88c-37a4-4ba5-8140-a603e6102185",
         "title": "Product Manager - Metadata Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1770679017,
         "date_posted": 1770679017,
         "url": "https://jobs.ashbyhq.com/snowflake/3f8a210b-9003-489a-91c8-e3f0abeee1fc/application",
@@ -242929,7 +242929,7 @@
         "company_name": "Apple",
         "id": "de20aa23-c071-412c-9292-45c9c8870739",
         "title": "SoC Power Analysis and Optimization Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778078161,
         "date_posted": 1778076682,
         "url": "https://jobs.apple.com/en-us/details/200657339",
@@ -271600,7 +271600,7 @@
         "company_name": "Hershey",
         "id": "de70befc-a12e-4a60-ac41-5e3a3e8a036c",
         "title": "Category Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779834686,
         "date_posted": 1779487695,
         "url": "https://careers.thehersheycompany.com/job/Minneapolis-Cat-Analyst-Target-MN-55401/1393482000/?ats=successfactors",
@@ -290735,7 +290735,7 @@
         "company_name": "Canon",
         "id": "de446fba-c793-4a13-afbc-0aa4a0c3ee0e",
         "title": "Field Service 1 Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1781044018,
         "date_posted": 1781042838,
         "url": "https://external-canoncareers.icims.com/jobs/34488/job?mobile=true&needsRedirect=false",
@@ -297305,7 +297305,7 @@
         "company_name": "KLA",
         "id": "e675320e-527b-4836-a222-75959950a5aa",
         "title": "Field Service Engineer Semiconductor Equipment",
-        "active": true,
+        "active": false,
         "date_updated": 1781256107,
         "date_posted": 1781255732,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/Chandler-AZ/Field-Service-Engineer-Semi-conductor-Equipment_2637284-1",
@@ -321317,7 +321317,7 @@
         "company_name": "Vertiv",
         "id": "e56f33f6-3f6b-42f9-b90f-94ac8b2b473c",
         "title": "Electrical Testing Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1782956426,
         "date_posted": 1782955917,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20275837",
@@ -327174,7 +327174,7 @@
         "company_name": "Becton Dickinson",
         "id": "d5334592-4814-4ea5-a7f1-14bb1ae228ca",
         "title": "Commercial Analytics Engineer - Go To Market Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1783248364,
         "date_posted": 1783173955,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Commercial-Analytics-Engineer---Go-To-Market-Analytics_R-548948-1",
@@ -327487,7 +327487,7 @@
         "company_name": "Diligent Corporation",
         "id": "d2726d53-5ea3-4e53-ac66-793145403143",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1783319626,
         "date_posted": 1783319524,
         "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6020954004",
@@ -341503,5 +341503,214 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "d850c719-af9b-44cb-8cc7-e0bd1c72ee50",
+        "title": "Design Verification Engineer - Silicon Engineering",
+        "active": true,
+        "date_updated": 1784068021,
+        "date_posted": 1784067197,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8632971002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Mastercard",
+        "id": "0613fb2a-08a4-4f1a-adb8-a17ae84bf06f",
+        "title": "Specialist Network Products - Network Products",
+        "active": true,
+        "date_updated": 1784068967,
+        "date_posted": 1783987200,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Specialist--Network-Products_R-282409",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cerebras",
+        "id": "0e014b55-7295-4b7b-817a-ee4f8de89e5f",
+        "title": "Simulation Engineer New Grad",
+        "active": true,
+        "date_updated": 1784068933,
+        "date_posted": 1784067191,
+        "url": "https://jobs.ashbyhq.com/cerebras/bf6f81b2-f079-483a-9238-295a184b3f0f/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "244d1b77-4840-442a-9e8f-dfb9618dd19e",
+        "title": "Software Engineer New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1784068895,
+        "date_posted": 1783987200,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R246921",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cambridge Associates",
+        "id": "7b99dc92-140a-4a0e-9bd9-3e66fb80535c",
+        "title": "Investment Analyst - Private Equity",
+        "active": true,
+        "date_updated": 1784068021,
+        "date_posted": 1783987200,
+        "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/Investment-Analyst--Private-Equity_JR0000342",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cambridge Associates",
+        "id": "749cf4cc-a929-418b-827e-5080040111c4",
+        "title": "Investment Analyst - Private Equity",
+        "active": true,
+        "date_updated": 1784068021,
+        "date_posted": 1783987200,
+        "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/Boston/Investment-Analyst--Private-Equity_JR0000342-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "cdbc0a69-360c-4dfe-8c6d-5c0fea16678d",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1784068719,
+        "date_posted": 1784067142,
+        "url": "https://jobs.intuit.com/job/charlotte/software-engineer-i-credit-karma/27595/97793819216",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Polymarket",
+        "id": "3187d7f5-bee5-440f-9e37-6a4fa018e014",
+        "title": "Growth Data Analyst",
+        "active": true,
+        "date_updated": 1784068021,
+        "date_posted": 1784067121,
+        "url": "https://jobs.ashbyhq.com/polymarket/fc6fa07f-b39c-4916-b54e-1adca738c1be/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Polymarket",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Medline",
+        "id": "ca3c4c33-a29c-4e45-a4dd-dd24692b6428",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1784068021,
+        "date_posted": 1783987200,
+        "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/CORP--Northfield---Headquarters/Associate-Product-Manager---October-2026-Start-Date_R2614293",
+        "locations": [
+            "Northbrook, IL",
+            "Chicago, IL",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "9e455d5a-c157-4189-b1f4-40f1219f2987",
+        "title": "Software Integration Engineer",
+        "active": true,
+        "date_updated": 1784068021,
+        "date_posted": 1784067032,
+        "url": "https://careers-gdms.icims.com/jobs/73543/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Groton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
