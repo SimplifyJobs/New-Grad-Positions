@@ -321261,7 +321261,7 @@
         "company_name": "Brain Corp",
         "id": "56c57ee6-fac8-40fb-ab8a-a18309da33c6",
         "title": "Software Engineer 1 - SW Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1782955326,
         "date_posted": 1782955211,
         "url": "https://braincorp.com/open-positions?gh_jid=8617160002",
@@ -336174,7 +336174,7 @@
         "company_name": "National Life",
         "id": "ecbaf329-4e0e-49b2-9693-bf1f4c17b230",
         "title": "Associate Illustration Systems Analyst / Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1783636860,
         "date_posted": 1783461716,
         "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4305154009",
@@ -338875,7 +338875,7 @@
         "company_name": "xAI",
         "id": "e447124e-8631-4087-b1be-9c4e9c72a118",
         "title": "AI Tutor Russian",
-        "active": true,
+        "active": false,
         "date_updated": 1783981583,
         "date_posted": 1777442701,
         "url": "https://job-boards.greenhouse.io/xai/jobs/5123528007",
@@ -338893,7 +338893,7 @@
         "company_name": "xAI",
         "id": "c948ab79-bcf5-45ab-8403-a13ee3af2241",
         "title": "AI Tutor",
-        "active": true,
+        "active": false,
         "date_updated": 1783981566,
         "date_posted": 1775023514,
         "url": "https://job-boards.greenhouse.io/xai/jobs/5090269007",
@@ -339548,7 +339548,7 @@
         "company_name": "xAI",
         "id": "8c7583df-5a6a-4cc8-aa70-1f9c3e63c9c1",
         "title": "AI Tutor \u2013 Finnish",
-        "active": true,
+        "active": false,
         "date_updated": 1783982881,
         "date_posted": 1775023510,
         "url": "https://job-boards.greenhouse.io/xai/jobs/5090199007",
@@ -340645,6 +340645,45 @@
             "Las Vegas, NV"
         ],
         "company_url": "https://simplify.jobs/c/MGM-Resorts-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SambaNova Systems",
+        "id": "94b5c207-eda9-41bc-b43a-082ff957f285",
+        "title": "AI Systems Performance Engineer New Grad",
+        "active": true,
+        "date_updated": 1783993012,
+        "date_posted": 1783992816,
+        "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6115124004",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SambaNova-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "xAI",
+        "id": "8356b429-a6dd-461c-8902-4a9d9678ca19",
+        "title": "AI Tutor Punjabi",
+        "active": true,
+        "date_updated": 1783992813,
+        "date_posted": 1775023510,
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5090246007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/XAI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
