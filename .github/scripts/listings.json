@@ -122722,7 +122722,7 @@
         "company_name": "Latitude",
         "id": "e2df8873-c0b9-46be-8f26-ecc003f5fcdc",
         "title": "Entry Level Software Developer - Data & Database Focus",
-        "active": true,
+        "active": false,
         "date_updated": 1771542932,
         "date_posted": 1771542932,
         "url": "https://jobs.lever.co/latitudeinc/4afc4fa6-2729-4de4-89bf-cda1209fb0d8/apply",
@@ -216399,7 +216399,7 @@
         "company_name": "mthree",
         "id": "f5e5e13c-5b95-448b-9f96-4e17ad694841",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776295449,
         "date_posted": 1776291785,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4622899006",
@@ -276189,7 +276189,7 @@
         "company_name": "RTX",
         "id": "e739e2f1-b776-4dd0-a1e8-e2b24a8ac460",
         "title": "Configuration Management Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1780274571,
         "date_posted": 1780139378,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MIDLAND-450--450-Leitz-Rd--BLDG-450/Configuration-Management-Specialist_01840354",
@@ -324596,7 +324596,7 @@
         "company_name": "EquipmentShare",
         "id": "c3c8eba6-e2ec-44bc-a92e-730da42c79a2",
         "title": "Telematics Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1783032481,
         "date_posted": 1783032108,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8043826",
@@ -341042,6 +341042,67 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "f1b2854e-8e03-43fa-8c3d-97b53bb22da6",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1784040841,
+        "date_posted": 1784039596,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8051940",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ralliant",
+        "id": "70c26f0e-8666-401a-94c9-368f2a81c49b",
+        "title": "Hardware Engineer",
+        "active": true,
+        "date_updated": 1784039406,
+        "date_posted": 1784037884,
+        "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/9940",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ralliant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Katalyst Space Technologies",
+        "id": "68a6a4dc-3fdb-4b12-83f1-c98c75b2761c",
+        "title": "Software Engineer 1 - Model and Simulation",
+        "active": true,
+        "date_updated": 1784040307,
+        "date_posted": 1784039318,
+        "url": "https://job-boards.greenhouse.io/katalyst/jobs/6115352004",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Katalyst-Space-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
