@@ -190160,7 +190160,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "5a03e922-9be2-4e12-9821-b01d8c92b5e6",
+        "id": "35bdadb3-6dd8-4e23-b36d-a34aa8762510",
         "title": "Uncertainty Quantification for Surrogate Models Postdoctoral Researcher",
         "active": true,
         "date_updated": 1774972621,
@@ -260426,7 +260426,7 @@
         "company_name": "Goldman Sachs",
         "id": "ad57e8fa-d0bd-4c63-9809-6141b7dda000",
         "title": "Asset & Wealth Management Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779343943,
         "date_posted": 1779343723,
         "url": "https://higher.gs.com/roles/168978",
@@ -267867,7 +267867,7 @@
         "company_name": "Elekta",
         "id": "2bef8297-48c9-430d-a0a8-4aa0694f67bf",
         "title": "Associate Field Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779819398,
         "date_posted": 1776895743,
         "url": "https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Louisiana--Home-Based/Associate-Field-Service-Engineer_R2026-0169",
@@ -295887,7 +295887,7 @@
         "company_name": "Goldman Sachs",
         "id": "aa693cdb-f3f2-4ceb-b496-134b2a24595a",
         "title": "HCM Associate - Data Analytics and Reporting",
-        "active": false,
+        "active": true,
         "date_updated": 1781187814,
         "date_posted": 1781042930,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176302",
@@ -311746,7 +311746,7 @@
         "company_name": "Boston Consulting Group",
         "id": "55e07ebd-156d-42a6-8571-f3837a558d5d",
         "title": "Analyst \u2013 Insurance Benchmark - BCG Vantage",
-        "active": false,
+        "active": true,
         "date_updated": 1782609203,
         "date_posted": 1782608989,
         "url": "https://careers.bcg.com/global/en/job/58365",
@@ -318400,7 +318400,7 @@
         "company_name": "Goldman Sachs",
         "id": "3ac699af-5c50-4a7c-81af-6dfb56f595db",
         "title": "Asset& Wealth Management-Software Engineering-Associate-New York",
-        "active": false,
+        "active": true,
         "date_updated": 1782742321,
         "date_posted": 1782742023,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/168978",
@@ -325510,7 +325510,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc5879a8-4b16-4bc4-90e6-ab5042dcaab1",
         "title": "Asset & Wealth Management - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1783041481,
         "date_posted": 1782742015,
         "url": "https://higher.gs.com/roles/176984",
@@ -331414,7 +331414,7 @@
         "company_name": "GE Healthcare",
         "id": "0d4fe4d8-2a3c-4bae-ab91-fcfa10a631c4",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783472992,
         "date_posted": 1783472744,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/El-Paso/Field-Engineer-1_R4043144-2",
@@ -336433,7 +336433,7 @@
         "company_name": "Boston Consulting Group",
         "id": "5c11f224-5f7c-475c-ab82-c1b9a2075d4b",
         "title": "Enterprise Solutions Associate - Focus SAP - BCG Platinion",
-        "active": true,
+        "active": false,
         "date_updated": 1783674863,
         "date_posted": 1782956020,
         "url": "https://careers.bcg.com/global/en/job/787",
@@ -337928,7 +337928,7 @@
         "company_name": "Google",
         "id": "4f6973c1-da33-4e06-83f6-24ba86a31d95",
         "title": "Software Engineer 3 - AI/ML - Google Cloud AI",
-        "active": true,
+        "active": false,
         "date_updated": 1783762272,
         "date_posted": 1766012998,
         "url": "https://www.google.com/about/careers/applications/jobs/results/87457161382109894",
@@ -340680,6 +340680,49 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hello Fresh",
+        "id": "510f6bf4-86ad-45e5-a051-b95b70df4a88",
+        "title": "WMS Analyst",
+        "active": true,
+        "date_updated": 1784019714,
+        "date_posted": 1783980741,
+        "url": "https://careers.hellofresh.com/global/en/job/8029057",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hello-Fresh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Becton Dickinson",
+        "id": "34e8e96d-96c0-4716-8a7d-dc2e966b1994",
+        "title": "Entry Level Automation Service Engineer",
+        "active": true,
+        "date_updated": 1784021292,
+        "date_posted": 1783555200,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA---Michigan---Sterling-Heights/Automation-Service-Engineer--Ann-Arbor-Sterling-Heights--Michigan_R-550143",
+        "locations": [
+            "Sparks, MD",
+            "Phoenix, AZ",
+            "Warren, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
