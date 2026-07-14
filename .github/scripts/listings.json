@@ -284636,7 +284636,7 @@
         "company_name": "Concept Plus",
         "id": "2fef259f-7eea-4f01-83b4-de47794fec0d",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780612625,
         "date_posted": 1780610995,
         "url": "https://ats.rippling.com/conceptplus/jobs/916978a4-fa79-4f6e-9eb6-515aa1cf3fb5",
@@ -303875,7 +303875,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -321057,7 +321057,7 @@
         "company_name": "Dyna Robotics",
         "id": "21077186-921c-456a-ba86-8b9be3211289",
         "title": "Data Collection",
-        "active": true,
+        "active": false,
         "date_updated": 1782945048,
         "date_posted": 1782943865,
         "url": "https://jobs.ashbyhq.com/dyna-robotics/4175832f-27f9-483a-ae74-fbdda2138831/application",
@@ -327570,7 +327570,7 @@
         "company_name": "Change Grow Live",
         "id": "22fa6861-700c-4ea8-b11d-1d21c5b8e2f6",
         "title": "Data Administrator",
-        "active": false,
+        "active": true,
         "date_updated": 1783328701,
         "date_posted": 1783328539,
         "url": "https://careers-changegrowlive.icims.com/jobs/20510/job?mobile=true&needsRedirect=false",
@@ -328182,7 +328182,7 @@
         "company_name": "PG&E",
         "id": "7b688238-e23e-4f54-ad02-d8ba1449cf8e",
         "title": "Engineering Assistant 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783375643,
         "date_posted": 1783375415,
         "url": "https://careers.pge.com/job/Oakland-Engineering-Assistant-I-CA-94612/1383125900/?ats=successfactors",
@@ -334443,7 +334443,7 @@
         "company_name": "Applied Information Sciences",
         "id": "10709aa6-b8fe-4857-b17e-c4104373db67",
         "title": "Program Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1783586435,
         "date_posted": 1783462344,
         "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Program-Analyst_JR2026001282",
@@ -340641,5 +340641,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "3e9a986a-e4e6-4568-8af6-391c93cfdfb8",
+        "title": "Customer Engineer 1",
+        "active": true,
+        "date_updated": 1784019407,
+        "date_posted": 1776118074,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270540",
+        "locations": [
+            "Lubbock, TX",
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dyna Robotics",
+        "id": "2b70eb5b-5b8d-4ff2-bd17-7885e217e855",
+        "title": "Robot Safety Operator",
+        "active": true,
+        "date_updated": 1784018344,
+        "date_posted": 1781849286,
+        "url": "https://jobs.ashbyhq.com/dyna-robotics/07330a37-aa35-4825-9080-66b29256a2fb/application",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dyna-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
     }
 ]
