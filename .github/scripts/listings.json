@@ -1,60 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b4bbbb72-bd62-485a-8742-07f68f602141",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763354965,
-        "date_posted": 1763354965,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037840",
-        "locations": [
-            "Winchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2ee61731-7daf-40ea-a530-646995ec86d4",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763354961,
-        "date_posted": 1763354961,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037684",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "17f758a5-6646-45cb-97b6-8389c437a94d",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763354965,
-        "date_posted": 1763354965,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037841",
-        "locations": [
-            "Winchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Fermilab",
         "id": "28c24f75-bdb2-4c93-81ef-8bd13ff02fe5",
