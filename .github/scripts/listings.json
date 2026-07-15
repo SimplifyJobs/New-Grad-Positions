@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "e47a89dd-0f00-4357-b302-1ea78ab94997",
-        "title": "Associate \u2013 Systems Engineer",
-        "active": false,
-        "date_updated": 1763396618,
-        "date_posted": 1763396618,
-        "url": "https://jobs.l3harris.com/job/Ottawa-Associate,-Systems-Engineer-ON-K2H-9N6/1343330400/?ats=successfactors",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Virginia",
-        "id": "57ef4d6f-f823-4df3-8105-878f60b1d8f1",
-        "title": "CCL Digital Humanities and Engagement SRA - Student Wage",
-        "active": false,
-        "date_updated": 1763395665,
-        "date_posted": 1763395665,
-        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/CCL-Digital-Humanities-and-Engagement-SRA--Student-Wage-_R0078089-1",
-        "locations": [
-            "Charlottesville, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "6c1acbf2-9422-424d-b0eb-034fc69570c9",
@@ -284,60 +248,6 @@
             "Edinburgh, UK"
         ],
         "company_url": "https://simplify.jobs/c/Lloyds-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "eced7627-7ac2-47ce-85cb-81b8fd78954a",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1763396886,
-        "date_posted": 1763396886,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA803-Marlborough-MA-Building-3-1001-Boston-Post-Road-Building-3-Marlborough-MA-01752-USA/Software-Engineer-I--Onsite-_01806424",
-        "locations": [
-            "Marlborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "e3ac0d73-f38e-4346-bfd9-ce721c36a724",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1763396882,
-        "date_posted": 1763396882,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/FL410-Largo-FL-MFG-7887-Bryan-Dairy-Road---Largo-FL-33777-USA/Software-Engineer-I--Onsite-_01806704",
-        "locations": [
-            "Largo, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "090d6179-e43f-4ba2-98e9-7d2aa343eeed",
-        "title": "Engineering Services & Support Technician",
-        "active": false,
-        "date_updated": 1763396881,
-        "date_posted": 1763396881,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/104-30-Edgewater-Drive-Ottawa-Ontario-K2L-1V8-Canada/Engineering-Services---Support-Technician--T1---Onsite-_01807033",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -22646,24 +22556,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "mthree",
-        "id": "0f16bd26-68b4-45a1-9c02-8a689c8be9f6",
-        "title": "Technology Talent Programme",
-        "active": false,
-        "date_updated": 1764773874,
-        "date_posted": 1763396369,
-        "url": "https://mthree.com/careers/job/?gh_jid=4597297006",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "RELX",
         "id": "f5b8869b-d88f-4329-b22b-267f4cb30288",
@@ -23311,24 +23203,6 @@
             "Idaho"
         ],
         "company_url": "https://simplify.jobs/c/Highmark-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Karsun Solutions",
-        "id": "1410c5a2-d4b1-485d-95de-b1f8c7098dbe",
-        "title": "Full Stack Developer - AI Prompt Engineering",
-        "active": false,
-        "date_updated": 1764803946,
-        "date_posted": 1763396118,
-        "url": "https://apply-karsun-llc.icims.com/jobs/3619/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Karsun-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
