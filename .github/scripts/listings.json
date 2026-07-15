@@ -1,47 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "14c4a323-757c-4cff-8f13-d420889b434a",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763367440,
-        "date_posted": 1763367440,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037848",
-        "locations": [
-            "Portsmouth, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "CVS Health",
-        "id": "c0ad4da8-d2c5-46ac-a01f-ddc59a494c34",
-        "title": "Innovation & Technology Leadership Development Program - Aetna Product Management - Summer 2026",
-        "active": false,
-        "date_updated": 1763368197,
-        "date_posted": 1763368197,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Innovation---Technology-Leadership-Development-Program--Aetna-Product-Management----Summer-2026_R0771788",
-        "locations": [
-            "Wheeling, IL",
-            "Smithfield, RI",
-            "Scottsdale, AZ",
-            "Hartford, CT",
-            "NYC",
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "5c92f994-fdfe-4606-b2ac-a10a3e7b09d0",
@@ -284809,7 +284768,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -333387,7 +333346,7 @@
         "company_name": "BlackRock",
         "id": "30df6797-f3eb-4152-bf17-c53a82c49432",
         "title": "Quant Research Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783550162,
         "date_posted": 1783548965,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/Analyst--Quant-Research_R264912",
@@ -342129,6 +342088,26 @@
             "Bellevue, WA"
         ],
         "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Veeva Systems",
+        "id": "0b7e7043-7827-4ce9-ad37-87f67ec5375b",
+        "title": "Associate Technical Consultant - Entry-Level Consulting - Life Sciences",
+        "active": true,
+        "date_updated": 1784103895,
+        "date_posted": 1774391504,
+        "url": "https://jobs.lever.co/veeva/2f1ed4cd-5999-47a0-8c06-38898fed4711/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
