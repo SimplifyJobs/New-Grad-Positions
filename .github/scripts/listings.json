@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "5c92f994-fdfe-4606-b2ac-a10a3e7b09d0",
-        "title": "Electronics Technician",
-        "active": false,
-        "date_updated": 1763378598,
-        "date_posted": 1763378598,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/Goodrich-Control-Systems-The-Radleys-Marston-Green-Birmingham-B33-0HZ/Electronics-Technician_01805668",
-        "locations": [
-            "Solihull, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Guidewire",
         "id": "30aba6e7-cf07-461b-95fb-db66e7d7c054",
@@ -291189,7 +291171,7 @@
         "company_name": "RTX",
         "id": "dad0ca1d-738f-4aa4-a6f0-82385e963ad1",
         "title": "Modeling Simulation & Analysis Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781085845,
         "date_posted": 1780910173,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/XMLNAME-2026-Modeling-Simulation---Analysis-Engineer-I--Onsite_01825180",
@@ -305112,7 +305094,7 @@
         "company_name": "RTX",
         "id": "383bd654-246b-40dc-aee6-14221be0fdd8",
         "title": "Systems Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781772528,
         "date_posted": 1781639446,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026--Fulltime--Systems-Electronic-Engineer-I--Onsite_01825190",
@@ -307989,7 +307971,7 @@
         "company_name": "Becton Dickinson",
         "id": "aa35ab04-a301-41e9-bf2f-fc58de23b838",
         "title": "Product Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781958458,
         "date_posted": 1781952928,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-RI---Warwick/Product-Development-Engineer-I_R-542366-1",
@@ -333889,7 +333871,7 @@
         "company_name": "DailyPay",
         "id": "6b972f64-325d-41ab-b701-8bbb3bc06911",
         "title": "Analyst 1 - Mission Control",
-        "active": true,
+        "active": false,
         "date_updated": 1783590122,
         "date_posted": 1783588404,
         "url": "https://jobs.ashbyhq.com/dailypay/17a78eb3-d50c-4c6c-8b80-6f45affd8ffa/application",
@@ -340261,7 +340243,7 @@
         "company_name": "RX",
         "id": "452e16d8-ffc5-4e0c-9e68-b6ea7d2a595e",
         "title": "Junior Web Producer",
-        "active": true,
+        "active": false,
         "date_updated": 1784033462,
         "date_posted": 1782828300,
         "url": "https://relx.wd3.myworkdayjobs.com/ReedExhibitions/job/UK---Richmond/Junior-Web-Producer_R115338",
@@ -341529,7 +341511,7 @@
         "company_name": "Flextronics International",
         "id": "cd588944-acf9-4633-9224-2ce9b1309a10",
         "title": "Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784071051,
         "date_posted": 1783987200,
         "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Engineering-Technician_WD225011",
@@ -342431,5 +342413,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KBR",
+        "id": "9f8cf1af-90e3-46c9-b825-c902ce5bdddf",
+        "title": "Junior Systems Engineer - Digital Engineering Methodology",
+        "active": true,
+        "date_updated": 1784113638,
+        "date_posted": 1783376122,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Jr-Systems-Engineer--Digital-Engineering-Methodology-_R2125985-1",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
