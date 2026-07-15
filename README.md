@@ -5,7 +5,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 259 New Grad Roles by Category
+### Browse 258 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (179)
 
@@ -15,7 +15,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (12)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (28)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (27)
 
 💼 **[Other](#-other-new-grad-roles)** (0)
 
@@ -12332,13 +12332,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>13d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/CesiumAstro?utm_source=GHList&utm_medium=company">CesiumAstro</a></strong></td>
-<td>Embedded Software Engineer 1</td>
-<td>Austin, TX</td>
-<td><div align="center"><a href="https://jobs.lever.co/CesiumAstro/1c793184-7d93-49e8-9e4c-ee2372c23096/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f4326a96-a327-4a16-a7f9-2481a28b16b8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Legrand-North-America?utm_source=GHList&utm_medium=company">Legrand North America</a></strong></td>
 <td>Entry Level Hardware Engineer</td>
 <td>Fremont, CA</td>
@@ -12434,7 +12427,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (313)</summary>
+<summary>🗃️ Inactive roles (314)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -12577,6 +12570,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/SpaceX?utm_source=GHList&utm_medium=company">🔥 SpaceX</a></strong></td>
 <td>Engineer New Grad - ASIC Design - Starshield</td>
 <td>West Athens, CA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/CesiumAstro?utm_source=GHList&utm_medium=company">CesiumAstro</a></strong></td>
+<td>Embedded Software Engineer 1</td>
+<td>Austin, TX</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
