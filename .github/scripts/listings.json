@@ -342343,5 +342343,149 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bracebridge Capital",
+        "id": "2e51bbf0-3ecd-4697-979e-02f9e1a042b1",
+        "title": "Machine Learning Analyst",
+        "active": true,
+        "date_updated": 1784126522,
+        "date_posted": 1784126224,
+        "url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4715042005",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bracebridge-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Clarity Innovations",
+        "id": "a73c9a6d-f530-4e41-a5b0-5761f8650703",
+        "title": "Data Manager",
+        "active": true,
+        "date_updated": 1784126522,
+        "date_posted": 1784125657,
+        "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5165168007",
+        "locations": [
+            "Hurlburt Field, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Clarity-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LeoLabs",
+        "id": "a4848b4c-f20b-4b74-93ca-64fd316ffe97",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1784125264,
+        "date_posted": 1784124966,
+        "url": "https://job-boards.greenhouse.io/leolabsinc/jobs/4221511009",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/LeoLabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "eb00327c-de5a-46e4-85b1-6ac7acb377a1",
+        "title": "Graduate Quantitative Trader",
+        "active": true,
+        "date_updated": 1784125828,
+        "date_posted": 1784124398,
+        "url": "https://careers-sig.icims.com/jobs/11031/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Sharp Electronics",
+        "id": "39c14899-0542-4d41-a43d-234fb47f32bd",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1784125264,
+        "date_posted": 1784124538,
+        "url": "https://job-boards.greenhouse.io/sharpelectronics/jobs/4254963009",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Sharp-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "moo",
+        "id": "6654bd72-f018-4dc9-b60f-bd2691289b7a",
+        "title": "E-commerce Product Enablement Assistant",
+        "active": true,
+        "date_updated": 1784125264,
+        "date_posted": 1784124581,
+        "url": "https://jobs.lever.co/moo/920ec01a-af4f-4ef3-86db-decf2ef52b7d/apply",
+        "locations": [
+            "Boston, MA",
+            "London, UK",
+            "Beckton, London, UK",
+            "Providence, RI",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Moo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "moo",
+        "id": "2424f9f9-8fa2-4097-a6a3-38d0d323ef36",
+        "title": "Trading & Merchandising Assistant",
+        "active": true,
+        "date_updated": 1784125264,
+        "date_posted": 1784124598,
+        "url": "https://jobs.lever.co/moo/1a7604fe-57bd-4dc8-bf81-ebaae75cd7ac/apply",
+        "locations": [
+            "Boston, MA",
+            "London, UK",
+            "Beckton, London, UK",
+            "Providence, RI",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Moo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
