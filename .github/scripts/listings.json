@@ -342487,5 +342487,85 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Genuine Parts Company",
+        "id": "c6795610-6066-4b50-a853-17506687c2a5",
+        "title": "Motion Automation Intelligence-Application Engineer",
+        "active": true,
+        "date_updated": 1784128681,
+        "date_posted": 1784073600,
+        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Eden-Prairie-MN-USA/Motion-Automation-Intelligence--Application-Engineer_R26_0000023122",
+        "locations": [
+            "Eden Prairie, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pariveda Solutions",
+        "id": "c4268818-09cf-4f39-a33e-85f5c536aeb4",
+        "title": "Technical Software Consultant",
+        "active": true,
+        "date_updated": 1784127961,
+        "date_posted": 1784124772,
+        "url": "https://jobs.ashbyhq.com/pariveda/d825ed65-edd8-4540-92c9-4c01f2b6a982/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Pariveda-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "b55ad3ad-86ef-4a40-9c55-0bc3f7bfb9a2",
+        "title": "Graduate Quantitative Systematic Trader",
+        "active": true,
+        "date_updated": 1784128571,
+        "date_posted": 1784124398,
+        "url": "https://careers-sig.icims.com/jobs/11032/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cerebras",
+        "id": "74127152-f238-47ca-b3b4-df49a5135001",
+        "title": "Software Engineer - Tools & Infrastructure / DevOps",
+        "active": true,
+        "date_updated": 1784127961,
+        "date_posted": 1784124746,
+        "url": "https://jobs.ashbyhq.com/cerebras/c0d8fa46-fd9e-49b5-80c9-040bbd0da916/application?embed=true",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
