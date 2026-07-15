@@ -307920,7 +307920,7 @@
         "company_name": "Granite Construction",
         "id": "5e853f47-8506-4e4c-96f3-88bd7c4ce574",
         "title": "Regional Technology Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781907841,
         "date_posted": 1781906919,
         "url": "https://granite.wd1.myworkdayjobs.com/careers/job/Tucson-Arizona/Regional-Technology-Associate_R0000007670",
@@ -340628,7 +340628,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -342209,6 +342209,26 @@
             "Master's",
             "MBA",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Best Buy",
+        "id": "b849c7e6-cfbe-49f0-b555-c1de063a9f47",
+        "title": "Counter Intelligence Agent 1",
+        "active": true,
+        "date_updated": 1784079944,
+        "date_posted": 1783987200,
+        "url": "https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career/job/40001-Langley-Distribution-Centre/GSC-Counter-Intelligence-Agent-I_R-51610-1",
+        "locations": [
+            "Langley, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Best-Buy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
         ]
     }
 ]
