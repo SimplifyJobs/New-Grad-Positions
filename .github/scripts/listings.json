@@ -1,96 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Apex Fintech Solutions",
-        "id": "d515f10e-1201-49d7-a06d-37aae6145889",
-        "title": "Associate Product Analyst - Product Analytics",
-        "active": false,
-        "date_updated": 1763421558,
-        "date_posted": 1763421558,
-        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Associate-Product-Analyst_JR103820",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Apex-Fintech-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Apex Fintech Solutions",
-        "id": "d24b8b2c-a64e-4171-9027-2cceeb1e2b7b",
-        "title": "Software Engineer 1 - Aldp",
-        "active": false,
-        "date_updated": 1763421565,
-        "date_posted": 1763421565,
-        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103499",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Apex-Fintech-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "BTI Solutions",
-        "id": "fe729341-d7ae-464f-a0bf-34203fda9d7c",
-        "title": "Development Engineer",
-        "active": false,
-        "date_updated": 1763421002,
-        "date_posted": 1763421002,
-        "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/ALISO-VIEJO-CA/Development-Engineer-l--TL--Aliso-Viejo--CA_JR101432-1",
-        "locations": [
-            "Aliso Viejo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/BTI-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Wharton School",
-        "id": "cd97b351-6ee4-4972-95e1-abeaf8b2228f",
-        "title": "Pre-Doctoral Research Specialist",
-        "active": false,
-        "date_updated": 1763420837,
-        "date_posted": 1763420837,
-        "url": "https://wd1.myworkdaysite.com/recruiting/upenn/Wharton/job/SD---Wharton-Accounting-Dept/Pre-Doctoral-Research-Specialist_JR00114176",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Wharton-School",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Wharton School",
-        "id": "2940d24e-88aa-4676-abb5-cbe6e91ac8c2",
-        "title": "Pre-Doctoral Research Specialist",
-        "active": false,
-        "date_updated": 1763420841,
-        "date_posted": 1763420841,
-        "url": "https://wd1.myworkdaysite.com/recruiting/upenn/Wharton/job/SD---Wharton-Finance/Pre-Doctoral-Research-Specialist_JR00114193",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Wharton-School",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Citizen Health",
         "id": "f491dca7-aa4c-4045-b7e9-f78424d7f65b",
@@ -276072,7 +275982,7 @@
         "company_name": "Sentry Insurance",
         "id": "1d7df491-9ca3-4a0a-9714-625d042f8c45",
         "title": "Business Product Analyst Personal Lines",
-        "active": true,
+        "active": false,
         "date_updated": 1780353146,
         "date_posted": 1780351687,
         "url": "https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Madison-WI/Business-Product-Analyst-Personal-Lines_JR-142215",
@@ -342842,5 +342752,66 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Brattle Group",
+        "id": "8f12319d-baff-4b24-b854-a8c4433d3c14",
+        "title": "Data and AI Engineer",
+        "active": true,
+        "date_updated": 1784157661,
+        "date_posted": 1784154155,
+        "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4713471005",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/TheBrattleGroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "5e2a52b6-cafd-4ca2-be4c-7e29d9d52a5e",
+        "title": "Senior ML/AI Engineer",
+        "active": true,
+        "date_updated": 1784157122,
+        "date_posted": 1784073600,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-ML-AI-Engineer_R-0000180633-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ensono",
+        "id": "56d69755-6c4e-43bf-8e66-eda652410a6c",
+        "title": "Associate Machine Learning AI Engineer",
+        "active": true,
+        "date_updated": 1784157353,
+        "date_posted": 1784155197,
+        "url": "https://ensono.com/company/careers/jobs-board/?gh_jid=4711789005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ensono",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
