@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fermilab",
-        "id": "28c24f75-bdb2-4c93-81ef-8bd13ff02fe5",
-        "title": "Research Associate/ECA",
-        "active": false,
-        "date_updated": 1763364032,
-        "date_posted": 1763364032,
-        "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Research-Associate-ECA_R_009154",
-        "locations": [
-            "Batavia, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Fermilab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Astreya",
-        "id": "d26e1846-db4f-4dee-a653-8005d8d129d6",
-        "title": "Data Center Network Modeling Technician 4",
-        "active": false,
-        "date_updated": 1763364662,
-        "date_posted": 1763364662,
-        "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Boulder-CO/Data-Center-Network-Modeling-Technician-IV_R0013743",
-        "locations": [
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Astreya",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "14c4a323-757c-4cff-8f13-d420889b434a",
@@ -49,24 +13,6 @@
             "Portsmouth, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Astreya",
-        "id": "8df58b02-31d0-4cf6-93bf-9c7a1d0b8c40",
-        "title": "Data Center Network Modeling Technician 4",
-        "active": false,
-        "date_updated": 1763364661,
-        "date_posted": 1763364661,
-        "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Boulder-CO/Data-Center-Network-Modeling-Technician-IV_R0013744",
-        "locations": [
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Astreya",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -33323,24 +33269,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Lightfield",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "HomeVision",
-        "id": "19a6f62b-2298-4a15-81e2-c19701cf6e1d",
-        "title": "Application Support Engineer",
-        "active": false,
-        "date_updated": 1763363819,
-        "date_posted": 1763363819,
-        "url": "https://jobs.ashbyhq.com/homevision/cb8e1f54-b045-4d7f-a851-26f23926fe3c/application",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/HomeVision",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -342182,5 +342110,47 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "X Development",
+        "id": "ec6787f1-d9ad-4f43-b1cd-83f7db32213b",
+        "title": "Machine Learning Engineer - Tapestry",
+        "active": true,
+        "date_updated": 1784099881,
+        "date_posted": 1784096632,
+        "url": "https://x.company/careers/8633983002?gh_jid=8633983002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/X-Development",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "T-Mobile",
+        "id": "189e6612-61ee-4e53-bbbf-55a23596ef33",
+        "title": "Associate Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1784100037,
+        "date_posted": 1783987200,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Assoc-Engineer--Software---Agentic-AI-Engineering---Network_REQ360354",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
