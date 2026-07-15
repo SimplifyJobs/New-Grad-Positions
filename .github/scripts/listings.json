@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1771250796,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.citi.com/job/new-york/technology-production-support-full-time-analyst-new-york-new-jersey-usa-2026/287/88356984496",
-        "company_name": "Citi",
-        "title": "Technology, Production Support, Full-Time Analyst",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "eren-s-chang",
-        "id": "908a0f99-7c8b-4922-a9cc-e3634fd5acdb",
-        "date_posted": 1763345369,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Circle",
@@ -332106,7 +332088,7 @@
         "company_name": "Intel",
         "id": "a2dae56d-603c-4e87-a44a-81f631f6e186",
         "title": "Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783549692,
         "date_posted": 1783548665,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Design-Verification-Engineer_JR0285357-1",
@@ -342230,5 +342212,61 @@
         "degrees": [
             "Certificate"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Sleep Doctor",
+        "id": "f412cb03-d505-4e1b-a52b-748ac4920662",
+        "title": "Technical Product Associate - Lifecycle",
+        "active": true,
+        "date_updated": 1784081701,
+        "date_posted": 1784078382,
+        "url": "https://job-boards.greenhouse.io/sleepdoctor/jobs/7805274003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sleep-Doctor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Twitch",
+        "id": "da5cdf71-9a3d-481d-82ed-4bf5aedf8088",
+        "title": "Software Engineer 1 - Discovery",
+        "active": true,
+        "date_updated": 1784081522,
+        "date_posted": 1784079798,
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8623578002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Twitch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BGE",
+        "id": "b984c7ab-c8db-4daa-a1c4-5fa90988eed1",
+        "title": "Rod/Instrument Tech",
+        "active": true,
+        "date_updated": 1784081161,
+        "date_posted": 1784079488,
+        "url": "https://job-boards.greenhouse.io/bgeinc/jobs/5351606008",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/BGE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
