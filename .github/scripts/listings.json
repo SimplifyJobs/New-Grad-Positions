@@ -283965,7 +283965,7 @@
         "company_name": "Concept Plus",
         "id": "2fef259f-7eea-4f01-83b4-de47794fec0d",
         "title": "Junior Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780612625,
         "date_posted": 1780610995,
         "url": "https://ats.rippling.com/conceptplus/jobs/916978a4-fa79-4f6e-9eb6-515aa1cf3fb5",
@@ -303204,7 +303204,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -333772,7 +333772,7 @@
         "company_name": "Applied Information Sciences",
         "id": "10709aa6-b8fe-4857-b17e-c4104373db67",
         "title": "Program Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783586435,
         "date_posted": 1783462344,
         "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Program-Analyst_JR2026001282",
@@ -337604,7 +337604,7 @@
         "company_name": "Sonepar",
         "id": "1d6fa710-751b-4eb5-854f-14c036ad5698",
         "title": "Product File Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783931541,
         "date_posted": 1783893820,
         "url": "https://career.sonepar.com/job/Omaha-Product-File-Analyst-NE-68144/1414075033/?ats=successfactors",
@@ -342108,6 +342108,47 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KBR",
+        "id": "0d4ef954-ada4-4373-b140-31c73052bdf4",
+        "title": "Junior Systems Engineer - Digital Engineering Infrastructure",
+        "active": true,
+        "date_updated": 1784104882,
+        "date_posted": 1783376122,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Jr-Systems-Engineer--Digital-Engineering-Infrastructure-_R2125984",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FOX",
+        "id": "1959d4a6-4b9c-4759-9763-980fe344f2a1",
+        "title": "Bilingual Spanish Master Control Operator 1",
+        "active": true,
+        "date_updated": 1784105316,
+        "date_posted": 1781361320,
+        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Bilingual-Spanish-Master-Control-Operator-I_R50031309",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/FOX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
