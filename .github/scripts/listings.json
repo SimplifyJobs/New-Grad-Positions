@@ -69905,7 +69905,7 @@
         "company_name": "Ensign-Bickford Aerospace & Defense Company",
         "id": "c18a6a31-6cf7-481a-99f5-cb0c4d069d8a",
         "title": "Soldering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1768235148,
         "date_posted": 1768235148,
         "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Soldering-Technician_REQ106824",
@@ -266584,7 +266584,7 @@
         "company_name": "Carrier Global",
         "id": "ce2e591f-5fd7-4ee8-b684-1d48bfea12c1",
         "title": "Mobile Application Developer - Service Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1779830289,
         "date_posted": 1779529203,
         "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAGAO-Carrier-Home-Georgia-Remote-Location-Remote-City-GA-30303-USA/Mobile-Application-Developer---Service-Technician_30205642",
@@ -300162,7 +300162,7 @@
         "company_name": "BlackRock",
         "id": "844eb16a-79ea-422c-8e34-590b8cf3f1b3",
         "title": "Quantitative Modeler - Associate - Qmr",
-        "active": true,
+        "active": false,
         "date_updated": 1781646572,
         "date_posted": 1781639067,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Quantitative-Modeler--Associate---QMR_R264630-1",
@@ -317929,7 +317929,7 @@
         "company_name": "Kraken Robotics",
         "id": "f1991f99-aaa9-4acd-a513-721aa3623a46",
         "title": "Calibration Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1782812800,
         "date_posted": 1782338930,
         "url": "https://ats.rippling.com/kraken-robotics-inc/jobs/306b015a-6c3c-4205-b6df-6a9c7ce7b9a8",
@@ -339523,7 +339523,7 @@
         "company_name": "BlackRock",
         "id": "912909a7-5907-4e12-a460-63a997152877",
         "title": "Blackrock Investment Institute - AI Solutions - Research Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1783981978,
         "date_posted": 1783900800,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/BlackRock-Investment-Institute--AI-Solutions--Research-Associate_R265120",
@@ -340120,7 +340120,7 @@
         "company_name": "UBS",
         "id": "db02fc9d-18c1-4cf1-8984-872d4e1385f0",
         "title": "Financial Data Operations Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784029502,
         "date_posted": 1783606251,
         "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=348523",
@@ -341590,7 +341590,7 @@
         "company_name": "The Federal Reserve System",
         "id": "9e1b41b8-4a47-4743-be7f-080286d984d9",
         "title": "Research Assistant - Center for Indian Country Development",
-        "active": true,
+        "active": false,
         "date_updated": 1784071064,
         "date_posted": 1783987200,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Minneapolis-MN/Research-Assistant--Center-for-Indian-Country-Development_R-0000032728-1",
@@ -342413,5 +342413,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rolls-Royce",
+        "id": "bd4157ec-7d2b-46f1-8a62-ac689f905044",
+        "title": "Product Support Engineer",
+        "active": true,
+        "date_updated": 1784111808,
+        "date_posted": 1783127345,
+        "url": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/London-North-Pole/Product-Support-Engineer_JR6153142-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
