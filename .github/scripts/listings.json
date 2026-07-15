@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cardinal Health",
-        "id": "6d48ac86-984a-4a0d-b4af-e7de13850815",
-        "title": "Senior Analyst - Application Development and Maintenance",
-        "active": false,
-        "date_updated": 1763337332,
-        "date_posted": 1763337332,
-        "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Senior-Analyst--Application-Development-and-Maintenance_20170673",
-        "locations": [
-            "Indiana"
-        ],
-        "company_url": "https://simplify.jobs/c/Cardinal-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "ION Group",
-        "id": "cf2704b7-f380-4764-8e97-08939d20a4fd",
-        "title": "Rotational Analyst - London",
-        "active": false,
-        "date_updated": 1763336362,
-        "date_posted": 1763336362,
-        "url": "https://jobs.lever.co/ion/d1ea10e9-c568-427a-ac83-98f8b2706880/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ION-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Johnson & Johnson",
         "id": "e4b5da31-a6e8-4a06-b26a-33d5859acf0e",
@@ -331259,7 +331223,7 @@
         "company_name": "Fidelity International",
         "id": "724f2162-1ba2-4334-b0b8-d0fdae518005",
         "title": "Product Management Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1783473410,
         "date_posted": 1783473187,
         "url": "https://fil.wd3.myworkdayjobs.com/en-US/001/job/Kingswood-Fields-Office/Associate---Product-Management_J68746-1",
@@ -342335,5 +342299,158 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ignite Digital Services",
+        "id": "cec7ea72-fd1c-4f5e-94e4-3d0650cf934b",
+        "title": "Engineer/Scientist 1",
+        "active": true,
+        "date_updated": 1784071874,
+        "date_posted": 1784068483,
+        "url": "https://ignite-digital.com/careers/job-listings/?gh_jid=5343803008",
+        "locations": [
+            "Chesapeake, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ignite-Digital-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Five Rings Capital",
+        "id": "b13b8faa-739e-4b2b-85aa-0656c14a4b88",
+        "title": "Campus Software Developer - Software Developer",
+        "active": true,
+        "date_updated": 1784071837,
+        "date_posted": 1784068200,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349905008",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Five-Rings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "InstaLILY",
+        "id": "67937ffc-14b5-4231-9e62-9a4f13dd11c2",
+        "title": "Software Engineer 1 - General",
+        "active": true,
+        "date_updated": 1784071849,
+        "date_posted": 1784068258,
+        "url": "https://job-boards.greenhouse.io/instalilyai/jobs/4271757009",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/InstaLILY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "InstaLILY",
+        "id": "3f792c7c-c847-4af9-8c23-0d263a76c9c8",
+        "title": "Software Engineer - General",
+        "active": true,
+        "date_updated": 1784071624,
+        "date_posted": 1784068258,
+        "url": "https://job-boards.greenhouse.io/instalilyai/jobs/4264790009",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/InstaLILY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Five Rings Capital",
+        "id": "3ace8680-5997-4467-ad7e-82ecc656e241",
+        "title": "Campus Full Time - Software Developer",
+        "active": true,
+        "date_updated": 1784071838,
+        "date_posted": 1784068200,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Five-Rings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Esri",
+        "id": "32671d23-475d-488c-a8ca-48ba428e3c3a",
+        "title": "Software Development Engineer 1 - Agentic AI - Arcgis Enterprise",
+        "active": true,
+        "date_updated": 1784071843,
+        "date_posted": 1784068249,
+        "url": "https://www.esri.com/careers/5186832007?gh_jid=5186832007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Five Rings Capital",
+        "id": "3a402286-5e69-475d-bc36-48cf8a3e43fe",
+        "title": "Quantitative Trader - Quantitative Trader",
+        "active": true,
+        "date_updated": 1784071839,
+        "date_posted": 1784068199,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5255334008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Five-Rings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Five Rings Capital",
+        "id": "1728da0d-2401-4203-b113-9da8c141d62f",
+        "title": "Quantitative Trader - Quantitative Trader",
+        "active": true,
+        "date_updated": 1784071842,
+        "date_posted": 1784068199,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5255367008",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Five-Rings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
