@@ -1,41 +1,5 @@
 [
     {
-        "date_updated": 1764154693,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://apply.workable.com/mlabs/j/9FD344525A/",
-        "company_name": "MLabs",
-        "title": "Software Engineer (New Grads)",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "d98e3a89-77a0-4a6f-a6d1-6155ebee62e5",
-        "date_posted": 1763443877,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Air Liquide",
-        "id": "0ff6a28b-0c9e-4962-867c-73a635ac4f7a",
-        "title": "Modelling & Simulation Engineer",
-        "active": false,
-        "date_updated": 1763445076,
-        "date_posted": 1763445076,
-        "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Houston-TX-HO/VIE---Modelling---Simulation-Engineer-M-F-D-_R10080193",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Air-Liquide",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Major League Baseball",
@@ -333427,7 +333391,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "61889653-930e-4e1c-9b9f-f805543a4d55",
         "title": "Quant Rotation Program Associate New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1783664280,
         "date_posted": 1783555200,
         "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Quant-New-Grad-Rotation-Program-Associate_R-0000172286",
@@ -334402,7 +334366,7 @@
         "company_name": "American Express",
         "id": "5fbcaa2a-e397-4a5e-9cd6-c5d130497416",
         "title": "Software Engineer 1 - Oracle Cloud HCM - CET Services",
-        "active": true,
+        "active": false,
         "date_updated": 1783723267,
         "date_posted": 1783721402,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007827",
@@ -337875,7 +337839,7 @@
         "company_name": "Harvard University",
         "id": "adbf2084-9827-4147-b0e6-4e073febca40",
         "title": "Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1784028064,
         "date_posted": 1784019712,
         "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990014072606",
