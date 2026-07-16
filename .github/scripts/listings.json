@@ -166433,7 +166433,7 @@
         "company_name": "University of Arkansas",
         "id": "fdb28bed-d2e6-44f2-b305-6599d8d12c2f",
         "title": "Cosmos Extra Help Assistant 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773786839,
         "date_posted": 1773786839,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Extra-Help-Assistant-I_R0082208-1",
@@ -278838,7 +278838,7 @@
         "company_name": "Stevens Institute of Technology",
         "id": "79e05eca-1049-4e66-b595-48c413a41398",
         "title": "Postdoctoral Associate-Systems Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1780477806,
         "date_posted": 1780131853,
         "url": "https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Postdoctoral-Associate-Systems-Engineering_RQ29678-1",
@@ -288817,7 +288817,7 @@
         "company_name": "RTX",
         "id": "dad0ca1d-738f-4aa4-a6f0-82385e963ad1",
         "title": "Modeling Simulation & Analysis Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781085845,
         "date_posted": 1780910173,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/XMLNAME-2026-Modeling-Simulation---Analysis-Engineer-I--Onsite_01825180",
@@ -333747,7 +333747,7 @@
         "company_name": "Kustomer",
         "id": "67fa641a-072c-4739-8ce6-46b35fd111a5",
         "title": "Software Engineer \u2013 Early Career - Full Stack",
-        "active": true,
+        "active": false,
         "date_updated": 1783722242,
         "date_posted": 1783721501,
         "url": "https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817/application",
@@ -342101,6 +342101,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "6280b3d0-3188-4a7c-b764-c241c08c48f1",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1784208831,
+        "date_posted": 1783555200,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---DC-and-North-Virginia-Area_R4043471-2",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
