@@ -1,23 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Visa",
-        "id": "4c34bbce-42bc-4b9a-ba9d-ecfeb9db1820",
-        "title": "Graduate Software Engineer",
-        "active": false,
-        "date_updated": 1763470847,
-        "date_posted": 1763470847,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000094151680",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1763770077,
         "sponsorship": "Other",
         "active": true,
@@ -258395,7 +258377,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -279038,7 +279020,7 @@
         "company_name": "GE Healthcare",
         "id": "e5fa4799-a260-407a-b0e3-d49579653596",
         "title": "Field Service Engineer 1 Surgery",
-        "active": true,
+        "active": false,
         "date_updated": 1780481215,
         "date_posted": 1780134828,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1-Surgery---Jackson--TN_R4039686-1",
@@ -294219,7 +294201,7 @@
         "company_name": "ASML",
         "id": "79f0c18b-082f-47c3-973c-94dbac055391",
         "title": "Optical Fabrication Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781255620,
         "date_posted": 1780409320,
         "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Nights_J-00342603",
@@ -294361,7 +294343,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "aded84fb-4d21-4dae-b6fc-4ee782d8a5ec",
         "title": "Post Doctoral Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1781257358,
         "date_posted": 1781257150,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Post-Doctoral-Associate_JR101922",
@@ -336453,7 +336435,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "68bbcde0-5e03-49bb-97e2-af52d217f918",
         "title": "Postdoctoral Researcher - Critical Elements at Mineral-Water Interfaces",
-        "active": true,
+        "active": false,
         "date_updated": 1783982881,
         "date_posted": 1783900800,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/XMLNAME-2-Postdoctoral-Researcher---Critical-Elements-at-Mineral-Water-Interfaces_423070",
@@ -337907,7 +337889,7 @@
         "company_name": "RX",
         "id": "452e16d8-ffc5-4e0c-9e68-b6ea7d2a595e",
         "title": "Junior Web Producer",
-        "active": false,
+        "active": true,
         "date_updated": 1784033462,
         "date_posted": 1782828300,
         "url": "https://relx.wd3.myworkdayjobs.com/ReedExhibitions/job/UK---Richmond/Junior-Web-Producer_R115338",
@@ -340662,7 +340644,7 @@
         "company_name": "M&T Bank",
         "id": "8eae988e-3577-4825-b2d6-6feb6223b6af",
         "title": "Fraud Detection Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784154090,
         "date_posted": 1784073600,
         "url": "https://mtb.wd5.myworkdayjobs.com/MTB/job/Amherst-NY/Fraud-Detection-Analyst_R88185",
@@ -342075,6 +342057,46 @@
             "Milwaukee, WI"
         ],
         "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Solar Turbines",
+        "id": "117c2f2b-e16b-44db-b634-e9cb1579b304",
+        "title": "Entry Level Engineer Rotation - Solutions Platforms Engineering",
+        "active": true,
+        "date_updated": 1784206248,
+        "date_posted": 1784160000,
+        "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Rotation----Solutions-Platforms-Engineered_R0000381658",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Solar-Turbines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Road Runner",
+        "id": "d45acc1f-f48c-4f62-8dd2-171e5665c943",
+        "title": "Junior Applications Engineer",
+        "active": true,
+        "date_updated": 1784205461,
+        "date_posted": 1783900800,
+        "url": "https://wd1.myworkdaysite.com/en-US/recruiting/rrts/careers/job/Downers-Grove-IL/Junior-Applications-Engineer_R0002296-2",
+        "locations": [
+            "Downers Grove, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Road-Runner",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
