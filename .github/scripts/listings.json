@@ -1,78 +1,5 @@
 [
     {
-        "date_updated": 1763770077,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--WA/Software-Development_R17786-1",
-        "company_name": "Zoom",
-        "title": "Software Development",
-        "locations": [
-            "Remote in USA"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "2316e6fd-7d71-44bb-a671-cde022188740",
-        "date_posted": 1763482649,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1763623536,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career",
-        "company_name": "Apple",
-        "title": "Software Engineer, IS&T Early Career",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "5913752b-66db-42f5-b735-95de34f2e57e",
-        "date_posted": 1763482717,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763482797,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.lever.co/parallelwireless/0608a395-7c6d-4e01-acfe-ade970b991dd/",
-        "company_name": "Parallel Wireless",
-        "title": "Junior RT Software Engineer 5G Stack",
-        "locations": [
-            "Nashua, NH"
-        ],
-        "category": "Hardware Engineering",
-        "source": "angie-hue",
-        "id": "343d1734-5ba1-4337-ae45-088cf64f7eda",
-        "date_posted": 1763482797,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1767713003,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://kar.wd1.myworkdayjobs.com/en-US/OPENLANE_Careers/job/Remote-United-States/Junior-Software-Engineer_R-253158",
-        "company_name": "OPENLANE",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Remote in USA",
-            "Remote in Canada"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "4333b214-19cf-4982-88ce-2454e740701a",
-        "date_posted": 1763482852,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "EOS",
@@ -214676,7 +214603,7 @@
         "company_name": "CIBC",
         "id": "151437b5-555d-4808-8f88-42d14d2dd63f",
         "title": "Regulatory Reporting and Data Management Assistant - Finance",
-        "active": false,
+        "active": true,
         "date_updated": 1776349398,
         "date_posted": 1776348608,
         "url": "https://cibc.wd3.myworkdayjobs.com/search/job/London-GBR/Regulatory-Reporting-and-Data-Management-Assistant--Finance_2608497",
@@ -342438,6 +342365,48 @@
             "Palm Bay, FL"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "1f3e1e41-ed2b-4a92-80d2-bfcb0d592c06",
+        "title": "Senior Product Manager - Product Management - Machine Learning and AI",
+        "active": true,
+        "date_updated": 1784218178,
+        "date_posted": 1784160000,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Product-Management---Machine-Learning-and-AI_R247089-1",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA",
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "e5a7ba11-ce4c-4e67-a64f-cff6039affba",
+        "title": "ASIC Design Engineer - Neural Engine Direct Memory Access",
+        "active": true,
+        "date_updated": 1784217781,
+        "date_posted": 1784211021,
+        "url": "https://jobs.apple.com/en-us/details/200670681",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
