@@ -1,95 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b695fc8b-4a4a-4235-bafc-d54d9291316f",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763443488,
-        "date_posted": 1763443488,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400032732",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8e4471f0-2642-4c9a-accb-c084d378f59a",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763443501,
-        "date_posted": 1763443501,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038099",
-        "locations": [
-            "Workington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "17da0ce3-b7a8-4ba8-b30a-9dd322556002",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763443488,
-        "date_posted": 1763443488,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038185",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0c0635f7-16f9-41c6-8b57-3a068adbec80",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1763443488,
-        "date_posted": 1763443488,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036282",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Figure",
-        "id": "3c75f0ca-29e4-400d-8e74-9adafaebcc9c",
-        "title": "Data Labeler",
-        "active": true,
-        "date_updated": 1763442345,
-        "date_posted": 1763442345,
-        "url": "https://job-boards.greenhouse.io/figureai/jobs/4590702006",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Figure-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1764154693,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -35624,24 +35534,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Covenant Health",
-        "id": "169ab55f-64d0-453a-a3b9-5b5f2055c540",
-        "title": "Certified Nursing Assistant - Oncology",
-        "active": false,
-        "date_updated": 1765967441,
-        "date_posted": 1763442831,
-        "url": "https://careers-covenanthealth.icims.com/jobs/69327/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Covenant-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -321645,7 +321537,7 @@
         "company_name": "University of Central Florida",
         "id": "21576dcc-16d0-4ac6-b351-2c10592d3a7a",
         "title": "Applications Programmer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783030371,
         "date_posted": 1783029921,
         "url": "https://ucf.wd1.myworkdayjobs.com/careers/job/Orlando-FL-Main-Campus/Applications-Programmer-I_R113630",
@@ -330310,7 +330202,7 @@
         "company_name": "Florida Atlantic University",
         "id": "38dda367-7146-4c35-9a30-b5d2d72d93c9",
         "title": "Biostatistician/Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1783548181,
         "date_posted": 1783548129,
         "url": "https://fau.wd1.myworkdayjobs.com/FAU/job/Boca-Raton/Biostatistician-Data-Scientist_REQ22029",
@@ -334086,7 +333978,7 @@
         "company_name": "Texas Instruments",
         "id": "3995856a-3717-462d-b7e3-fb4c9effc68b",
         "title": "Career Accelerator Program - Analog Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783721524,
         "date_posted": 1783721334,
         "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011730",
