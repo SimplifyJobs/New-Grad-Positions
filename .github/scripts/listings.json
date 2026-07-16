@@ -257401,7 +257401,7 @@
         "company_name": "Goldman Sachs",
         "id": "ad57e8fa-d0bd-4c63-9809-6141b7dda000",
         "title": "Asset & Wealth Management Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1779343943,
         "date_posted": 1779343723,
         "url": "https://higher.gs.com/roles/168978",
@@ -276323,7 +276323,7 @@
         "company_name": "CoStar Group",
         "id": "654a8203-8795-40c6-92f5-76afc4273093",
         "title": "Associate Research Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1780390666,
         "date_posted": 1780134807,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Associate-Research-Consultant_R38934",
@@ -289952,7 +289952,7 @@
         "company_name": "Symbotic",
         "id": "6ef3fbcc-770e-4606-b400-91b81efa3a57",
         "title": "Software Engineer - Core Systems & Platform Services",
-        "active": true,
+        "active": false,
         "date_updated": 1781129533,
         "date_posted": 1781129240,
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer--Core-Systems---Platform-Services_R7327",
@@ -304031,7 +304031,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -310679,7 +310679,7 @@
         "company_name": "Guidewire",
         "id": "446847d3-29b2-4c3c-b983-f4e2203fc1ec",
         "title": "Associate Certification Program Systems Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1782868406,
         "date_posted": 1782770934,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946",
@@ -315375,7 +315375,7 @@
         "company_name": "Goldman Sachs",
         "id": "3ac699af-5c50-4a7c-81af-6dfb56f595db",
         "title": "Asset& Wealth Management-Software Engineering-Associate-New York",
-        "active": true,
+        "active": false,
         "date_updated": 1782742321,
         "date_posted": 1782742023,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/168978",
@@ -322485,7 +322485,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc5879a8-4b16-4bc4-90e6-ab5042dcaab1",
         "title": "Asset & Wealth Management - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1783041481,
         "date_posted": 1782742015,
         "url": "https://higher.gs.com/roles/176984",
@@ -322525,7 +322525,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -329848,7 +329848,7 @@
         "company_name": "University of British Columbia",
         "id": "c1cb7fd9-b807-48f6-9200-f72966fd39bd",
         "title": "Junior Data Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1783548363,
         "date_posted": 1783548324,
         "url": "https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Junior-Data-Developer_JR25210",
@@ -339985,7 +339985,7 @@
         "company_name": "Rippling",
         "id": "b68fef1a-f677-4b59-90ac-bcb31044393b",
         "title": "Pre-sales Solutions Consultant - Hcm",
-        "active": true,
+        "active": false,
         "date_updated": 1784110588,
         "date_posted": 1783462267,
         "url": "https://ats.rippling.com/rippling/jobs/7efd5065-2437-4c0d-a0f6-80138e3de1a0",
@@ -341905,5 +341905,81 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hinge Health",
+        "id": "a1e87ed8-5609-4ab7-89ac-b86a8c86ff89",
+        "title": "Client Integration Associate",
+        "active": true,
+        "date_updated": 1784194741,
+        "date_posted": 1783894132,
+        "url": "https://jobs.ashbyhq.com/hinge-health/2a7e28e3-3898-4386-98a4-b1a95982ced4/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Hinge-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Transcat",
+        "id": "ac564de5-0f73-4a52-a971-3e6dea3eedd1",
+        "title": "Repair Technician 1",
+        "active": true,
+        "date_updated": 1784195876,
+        "date_posted": 1783951517,
+        "url": "https://careers-transcat.icims.com/jobs/5579/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "East Liberty, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Transcat",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Air Liquide",
+        "id": "83ab0621-6dd2-4f2d-b3c0-36a8a4fe59f6",
+        "title": "Plant Engineer",
+        "active": true,
+        "date_updated": 1784195842,
+        "date_posted": 1783641600,
+        "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Hamilton-ON---Birmingham-St---ASU/Plant-Engineer_R10095535",
+        "locations": [
+            "Hamilton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Air-Liquide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FOX",
+        "id": "78d4d72d-8d8b-486e-b304-6ef7beb040da",
+        "title": "Machine Shop CNC Operator - CNC Operators",
+        "active": true,
+        "date_updated": 1784195577,
+        "date_posted": 1783635197,
+        "url": "https://foxfactory.wd1.myworkdayjobs.com/FOX/job/US-GA-Gainesville-Machine-Shop/CNC-Machine-Operator---3rd-Shift_JR109102",
+        "locations": [
+            "Gainesville, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ride-FOX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
