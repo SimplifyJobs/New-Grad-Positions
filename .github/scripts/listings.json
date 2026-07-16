@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Kettering Health",
-        "id": "4f7b4275-b8b5-443c-88ba-f969a8383109",
-        "title": "Clinical Analytics Analyst - Information Systems Analytic Health",
-        "active": false,
-        "date_updated": 1763441246,
-        "date_posted": 1763441246,
-        "url": "https://careers-ketteringhealth.icims.com/jobs/57003/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Miamisburg, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Kettering-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "b695fc8b-4a4a-4235-bafc-d54d9291316f",
@@ -106,28 +88,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "True Anomaly",
-        "id": "236f8be6-8165-460a-98c3-3e3aba3592d4",
-        "title": "Flight Software Engineer",
-        "active": false,
-        "date_updated": 1763442039,
-        "date_posted": 1763442039,
-        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/4984605007",
-        "locations": [
-            "Long Beach, CA",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/TrueAnomaly",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "date_updated": 1764154693,
