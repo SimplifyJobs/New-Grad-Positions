@@ -267291,7 +267291,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": true,
+        "active": false,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -341970,7 +341970,7 @@
         "company_name": "Clearway Energy",
         "id": "f79df477-5654-42fa-9a77-575477e5eede",
         "title": "Operations Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784198405,
         "date_posted": 1784038586,
         "url": "https://job-boards.greenhouse.io/clearwayjobs/jobs/5182450007",
@@ -342165,6 +342165,85 @@
         "sponsorship": "Other",
         "degrees": [
             "JD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intercontinental Exchange",
+        "id": "893c3c32-4034-4b9a-aeec-2289b0a7055b",
+        "title": "Property Data Solutions Associate",
+        "active": true,
+        "date_updated": 1784215444,
+        "date_posted": 1784210792,
+        "url": "https://careers-ice.icims.com/jobs/13397/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ICEMarkets",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Commvault",
+        "id": "6452af52-4f5e-468d-8fb2-34baca8a9840",
+        "title": "Entry-Level Software Engineer - AI/ML",
+        "active": true,
+        "date_updated": 1784215678,
+        "date_posted": 1784210748,
+        "url": "https://job-boards.greenhouse.io/commvault/jobs/5233620008",
+        "locations": [
+            "Shrewsbury, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Commvault",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics",
+        "id": "67b263fd-9197-4c3c-bcf7-fdf6ef1c0343",
+        "title": "Engineer 1/2 - Communication Systems",
+        "active": true,
+        "date_updated": 1784215521,
+        "date_posted": 1784210998,
+        "url": "https://careers-gdeb.icims.com/jobs/19807/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Groton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Skyward",
+        "id": "38dc2c09-ef44-4386-8b3d-d546a28f5e6f",
+        "title": "Product Owner - Student & Business Suite",
+        "active": true,
+        "date_updated": 1784214721,
+        "date_posted": 1784210658,
+        "url": "https://jobs.smartrecruiters.com/Skyward1/744000138113649",
+        "locations": [
+            "Plover, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Skyward",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
