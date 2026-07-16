@@ -1,81 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Major League Baseball",
-        "id": "0f805f93-2b26-438c-8c49-629bed07db92",
-        "title": "Associate Software Engineer - Full-Stack Development",
-        "active": false,
-        "date_updated": 1763455207,
-        "date_posted": 1763455207,
-        "url": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7500695003",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/MLB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Major League Baseball",
-        "id": "3e6c6676-620d-4ed3-b372-fd8020e224c5",
-        "title": "Video & Technology Associate",
-        "active": false,
-        "date_updated": 1763455222,
-        "date_posted": 1763455222,
-        "url": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7327636003",
-        "locations": [
-            "Reading, PA",
-            "Allentown, PA",
-            "Lakewood, NJ",
-            "Clearwater, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/MLB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Major League Baseball",
-        "id": "79844fa3-ab56-40d6-88d2-9ca7c8c116e7",
-        "title": "Major League Video and Technology Associate",
-        "active": false,
-        "date_updated": 1763455213,
-        "date_posted": 1763455213,
-        "url": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7511281003",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/MLB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Major League Baseball",
-        "id": "fc59870f-7fa7-48e6-aa9b-37caaafd8fb1",
-        "title": "Associate Software Engineer - Data Engineering",
-        "active": false,
-        "date_updated": 1763455209,
-        "date_posted": 1763455209,
-        "url": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7500706003",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/MLB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AGCO",
         "id": "49137f2a-ed09-4305-9a0c-74ed7003f721",
@@ -304779,7 +304704,7 @@
         "company_name": "GE Healthcare",
         "id": "24ee3d12-9b35-4c67-a394-f7756e2d8ef9",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781858628,
         "date_posted": 1781344839,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4041924-1",
@@ -340373,7 +340298,7 @@
         "company_name": "United Parcel Service (UPS)",
         "id": "437a4476-d56d-412b-a963-91ec0c144015",
         "title": "Application Developer - Java Backend & Front end",
-        "active": true,
+        "active": false,
         "date_updated": 1784124721,
         "date_posted": 1784073600,
         "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Application-Developer---Java-Backend---Front-end_R26020292",
@@ -341897,6 +341822,66 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ADT",
+        "id": "6a6b7eb6-a6a2-4945-9938-f887606859be",
+        "title": "Smart Home Consultant - Multiple Teams",
+        "active": true,
+        "date_updated": 1784192317,
+        "date_posted": 1784153348,
+        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021347",
+        "locations": [
+            "Norfolk, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ADT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "3aa50c82-9381-4d06-bbd0-5f063ed38312",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1784190873,
+        "date_posted": 1784106196,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556932425",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "6470fc04-154d-4d53-9a4c-9f69aaba3aaf",
+        "title": "Quantitative Systematic Trader",
+        "active": true,
+        "date_updated": 1784192041,
+        "date_posted": 1782770788,
+        "url": "https://careers-sig.icims.com/jobs/11022/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Philadelphia, PA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
