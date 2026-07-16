@@ -311015,7 +311015,7 @@
         "company_name": "Bits",
         "id": "f434b0dc-d10e-493d-a188-808610d33901",
         "title": "Founders Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1782799742,
         "date_posted": 1782799725,
         "url": "https://apply.workable.com/getbits/j/C1E552FAB5/apply",
@@ -339236,7 +339236,7 @@
         "company_name": "The Federal Reserve System",
         "id": "9e1b41b8-4a47-4743-be7f-080286d984d9",
         "title": "Research Assistant - Center for Indian Country Development",
-        "active": false,
+        "active": true,
         "date_updated": 1784071064,
         "date_posted": 1783987200,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Minneapolis-MN/Research-Assistant--Center-for-Indian-Country-Development_R-0000032728-1",
@@ -342021,5 +342021,24 @@
         "degrees": [
             "Certificate"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lloyds Bank",
+        "id": "9a1df9b1-4746-4546-90e8-fd2410ece224",
+        "title": "Data Analyst - Risk Data Excellence",
+        "active": true,
+        "date_updated": 1784201942,
+        "date_posted": 1784160000,
+        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Birmingham/Data-Analyst---Risk-Data-Excellence_158348",
+        "locations": [
+            "Edinburgh, UK",
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
