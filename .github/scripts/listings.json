@@ -300832,7 +300832,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -328392,7 +328392,7 @@
         "company_name": "Goldman Sachs",
         "id": "6a36b7f9-3aea-44d6-b6a2-b8ba794476ea",
         "title": "Asset & Wealth Management - Product Management - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1783472761,
         "date_posted": 1781791629,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/173819",
@@ -342244,6 +342244,204 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Beth Israel Lahey Health",
+        "id": "b77d2a6d-728d-4ccd-a442-8bbc99dbb8d0",
+        "title": "Biostatistician 1 - Epidemiology & Data Science Section",
+        "active": true,
+        "date_updated": 1784217467,
+        "date_posted": 1784160000,
+        "url": "https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Deaconess-Medical-Center/Biostatistician-I--Epidemiology---Data-Science-Section-_JR99657",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Beth-Israel-Lahey-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "54c92b6a-b3a3-484e-b7e0-8a4413dba26c",
+        "title": "Software Engineer Associate",
+        "active": true,
+        "date_updated": 1784217113,
+        "date_posted": 1784210975,
+        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1408232900/?ats=successfactors",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Iowa State University",
+        "id": "029b9666-a3d9-4d99-a944-c7560692ad2b",
+        "title": "Postdoctoral Research Associate",
+        "active": true,
+        "date_updated": 1784216806,
+        "date_posted": 1784160000,
+        "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Postdoctoral-Research-Associate---Crop-Systems-Modeling-and-Data-Analytics_R19506",
+        "locations": [
+            "Ames, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Iowa-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Woolpert",
+        "id": "b1fb1349-fb26-4b33-ad4d-d920ce999a99",
+        "title": "Sensing Technician",
+        "active": true,
+        "date_updated": 1784216404,
+        "date_posted": 1784211855,
+        "url": "https://job-boards.greenhouse.io/woolpert/jobs/4316042009",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Woolpert",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "0f4b604b-b669-4826-af12-9fb70c18aad5",
+        "title": "Early Career - GPU Performance Architect",
+        "active": true,
+        "date_updated": 1784215981,
+        "date_posted": 1784211015,
+        "url": "https://jobs.apple.com/en-us/details/200671539",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LexisNexis Legal & Professional",
+        "id": "e7e6bef5-79b4-4ef0-88f8-0daabd257a4b",
+        "title": "Data Discovery and Enrichment Expert 1",
+        "active": true,
+        "date_updated": 1784216277,
+        "date_posted": 1784160000,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Discovery-and-Enrichment-Expert-I---Hybrid-or-Remote_R116188",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Legal-And-Professional",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "JD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Emory Healthcare",
+        "id": "0a4c4cde-1d9b-48c5-8918-3a0f171d4fe8",
+        "title": "Data Analyst 2",
+        "active": true,
+        "date_updated": 1784215879,
+        "date_posted": 1784211021,
+        "url": "https://non-clinical-emory.icims.com/jobs/165195/job?hub=14&mobile=true&needsRedirect=false",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Emory-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "a135c16f-7fb9-4d99-8edb-4cfa5a9c2420",
+        "title": "Associate Software Engineering",
+        "active": true,
+        "date_updated": 1784215835,
+        "date_posted": 1784210973,
+        "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1409372300/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "95649664-19eb-4e0e-a93f-2088f0cd857f",
+        "title": "Electrical Assembler",
+        "active": true,
+        "date_updated": 1784215838,
+        "date_posted": 1784210938,
+        "url": "https://jobs.l3harris.com/job/Rochester-Assembly-B-NY-14623/1408768300/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "72c67b39-d84c-46b6-b7b6-e9e97c47087d",
+        "title": "Software Engineering Associate",
+        "active": true,
+        "date_updated": 1784215824,
+        "date_posted": 1784210953,
+        "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905/1409055400/?ats=successfactors",
+        "locations": [
+            "Palm Bay, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
