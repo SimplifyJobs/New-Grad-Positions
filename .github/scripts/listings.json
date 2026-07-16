@@ -335005,7 +335005,7 @@
         "company_name": "Viridien",
         "id": "dc805aeb-d84a-48fc-a4e3-5b3fb59db09c",
         "title": "Instrumentation & Monitoring Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1783778285,
         "date_posted": 1783641600,
         "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/New-York-United-States-of-America/Instrumentation---Monitoring-Technician--Baltimore-Washington--DC-_JR101389-2",
@@ -342040,5 +342040,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Barclays",
+        "id": "1c5fabfe-6225-4b9b-8370-7883f14e0df6",
+        "title": "Process Data Modelling Analyst",
+        "active": true,
+        "date_updated": 1784203381,
+        "date_posted": 1784073600,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Process-Data-Modelling-Analyst_JR-0000115755-1",
+        "locations": [
+            "Northamptonshire, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Barclays",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Becton Dickinson",
+        "id": "4567b973-6e0b-4ea2-a3bd-676bcc5ef747",
+        "title": "Automation Service Technician \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1784203753,
+        "date_posted": 1783814400,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA---Wisconsin---Milwaukee/Automation-Service-Technician--Milwaukee-Chicago-Area_R-550373",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
