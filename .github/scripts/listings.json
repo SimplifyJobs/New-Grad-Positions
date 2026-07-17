@@ -1,127 +1,5 @@
 [
     {
-        "date_updated": 1763557991,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States",
-        "company_name": "Cisco",
-        "title": "Software Engineer Data/AI/Intelligent Systems I (Full Time)",
-        "locations": [
-            "Austin, TX",
-            "San Jose, CA",
-            "Alpharetta, GA",
-            "Atlanta, GA",
-            "Boston, MA",
-            "Dallas, TX",
-            "Fulton, MD",
-            "Hillsboro, OR",
-            "Knoxville, TN",
-            "Maynard, MA",
-            "Milpitas, CA",
-            "New York, NY",
-            "Research Triangle Park, NC"
-        ],
-        "category": "Software Engineering",
-        "source": "DereC4",
-        "id": "dff4c026-8cab-4cdd-92eb-26189980b28c",
-        "date_posted": 1763557991,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763558319,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/applovin/jobs/4451556006",
-        "company_name": "AppLovin",
-        "title": "Backend Engineer, New Grad",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "DereC4",
-        "id": "b8ccf2d6-f57b-44fd-bb25-fdda3e617777",
-        "date_posted": 1763558319,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763587113,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4577504101",
-        "company_name": "IMC",
-        "title": "Software Engineer, Early Career",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "0b6969e8-daa3-46c6-b7e0-20c9c0799cbd",
-        "date_posted": 1763558438,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1764068324,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74549",
-        "company_name": "IBM",
-        "title": "Entry Level Software Developer",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "DereC4",
-        "id": "d97b5b70-7378-4cb5-86e7-5b9047ac09b4",
-        "date_posted": 1763558581,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1771250796,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://careers.skillstorm.com/jobs/entry-level-software-developer-42267",
-        "company_name": "SkillStorm",
-        "title": "Entry Level Software Developer",
-        "locations": [
-            "Plano, TX",
-            "McKinney, TX",
-            "Houston, TX"
-        ],
-        "category": "Software Engineering",
-        "source": "DereC4",
-        "id": "12abd7de-caa3-423d-96cb-8087bafb7bc0",
-        "date_posted": 1763558834,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763710136,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/flexport/jobs/7354795",
-        "company_name": "Flexport",
-        "title": "Software Engineer I, Finance",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "DereC4",
-        "id": "d4721527-227a-4fe0-aead-5f222ffa6d22",
-        "date_posted": 1763558961,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1763588222,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -326778,7 +326656,7 @@
         "company_name": "The Walt Disney Company",
         "id": "09348e94-2ce0-465a-8403-160d7d647428",
         "title": "Viewer Insights Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783521001,
         "date_posted": 1783519925,
         "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/London-United-Kingdom/Viewer-Insights-Analyst_10153635-1",
@@ -332555,7 +332433,7 @@
         "company_name": "Fujifilm",
         "id": "101ca310-bb14-4bc9-993b-7225e184fccf",
         "title": "Engineering Technician - Level depends on Skills Match",
-        "active": true,
+        "active": false,
         "date_updated": 1783845001,
         "date_posted": 1782914795,
         "url": "https://uscareers-fujifilm.icims.com/jobs/37311/job?mobile=true&needsRedirect=false",
