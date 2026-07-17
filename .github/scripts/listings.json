@@ -192827,7 +192827,7 @@
         "company_name": "Observable Space",
         "id": "2b06a568-e62e-4895-be8b-8eb922cb5288",
         "title": "Junior Optical Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775257381,
         "date_posted": 1775254164,
         "url": "https://jobs.ashbyhq.com/observable-space/5c3952b2-9533-46d7-97c2-a0c4fa1a90b1/application",
@@ -255819,7 +255819,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -279035,7 +279035,7 @@
         "company_name": "Concept Plus",
         "id": "2fef259f-7eea-4f01-83b4-de47794fec0d",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780612625,
         "date_posted": 1780610995,
         "url": "https://ats.rippling.com/conceptplus/jobs/916978a4-fa79-4f6e-9eb6-515aa1cf3fb5",
@@ -300296,7 +300296,7 @@
         "company_name": "CoStar Group",
         "id": "2bc5a205-56bd-4f78-b7b0-f67a68066540",
         "title": "Associate Research Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1781772425,
         "date_posted": 1781360965,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/UK-London/Associate-Research-Consultant--CoStar---London_R38556",
@@ -302110,7 +302110,7 @@
         "company_name": "GE Healthcare",
         "id": "24ee3d12-9b35-4c67-a394-f7756e2d8ef9",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781858628,
         "date_posted": 1781344839,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4041924-1",
@@ -311187,7 +311187,7 @@
         "company_name": "United Launch Alliance",
         "id": "4b522d5e-1655-476c-ba76-1ada826022c7",
         "title": "Integrated Test Environment Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782512361,
         "date_posted": 1782511612,
         "url": "https://jobs.ulalaunch.com/job/Centennial-Integrated-Test-Environment-(ITE)-Software-Engineer-1-CO-80112/1403796400/?ats=successfactors",
@@ -328455,7 +328455,7 @@
         "company_name": "Lithia Motors",
         "id": "246fcd3c-f60d-462d-b5f8-88f240c700ee",
         "title": "Product Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1783550098,
         "date_posted": 1783548939,
         "url": "https://lithia.wd5.myworkdayjobs.com/LithiaCareers/job/BMW-of-Minnetonka-Minnetonka-MN-55391/Product-Specialist_R112529",
@@ -330526,7 +330526,7 @@
         "company_name": "The Boeing Company",
         "id": "5312bbaf-e3ec-4a63-924d-74c3c76a2767",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783646104,
         "date_posted": 1783555200,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Embedded-Software-Engineer--Associate-or-Experienced-_JR2026517692-1",
@@ -330546,7 +330546,7 @@
         "company_name": "The Boeing Company",
         "id": "39cd8c55-18b0-44a0-80df-a67f7656329b",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783646104,
         "date_posted": 1783555200,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Long-Beach-CA/Embedded-Software-Engineer--Associate-or-Experienced-_JR2026517692",
@@ -332306,7 +332306,7 @@
         "company_name": "GE Healthcare",
         "id": "211d5160-dd5b-403d-aa71-3b6dd6378ee9",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783762313,
         "date_posted": 1783555200,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1_R4042917-1",
@@ -335087,7 +335087,7 @@
         "company_name": "Hello Fresh",
         "id": "510f6bf4-86ad-45e5-a051-b95b70df4a88",
         "title": "WMS Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1784019714,
         "date_posted": 1783980741,
         "url": "https://careers.hellofresh.com/global/en/job/8029057",
@@ -337211,7 +337211,7 @@
         "company_name": "FOX",
         "id": "1959d4a6-4b9c-4759-9763-980fe344f2a1",
         "title": "Bilingual Spanish Master Control Operator 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784105316,
         "date_posted": 1781361320,
         "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Bilingual-Spanish-Master-Control-Operator-I_R50031309",
@@ -341160,5 +341160,109 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blue Cross Blue Shield of Arizona",
+        "id": "2682987d-bc44-43ad-aca5-109801591e78",
+        "title": "Business Intelligence Developer Medicaid - Level I",
+        "active": true,
+        "date_updated": 1784278180,
+        "date_posted": 1781361769,
+        "url": "https://bcbsaz.wd1.myworkdayjobs.com/en-US/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/Business-Intelligence-Developer-Medicaid---Level-I--Remote-AZ-_R6047",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Cross-Blue-Shield-Of-Arizona",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wash U",
+        "id": "1a57c9ec-6a95-47a9-a89b-c29ccdee57d7",
+        "title": "Neuroimaging Engineer - Neurology",
+        "active": true,
+        "date_updated": 1784277239,
+        "date_posted": 1781359627,
+        "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Remote/Neuroimaging-Engineer--Remote----Neurology_JR94536",
+        "locations": [
+            "Jefferson City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Wash-U",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "3077b33e-6c82-4350-bea3-1507b95463ea",
+        "title": "Field Engineer 1",
+        "active": true,
+        "date_updated": 1784278609,
+        "date_posted": 1783555200,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1---Ann-Arbor-Detroit-Southeast-Michigan_R4043442-2",
+        "locations": [
+            "Detroit, MI",
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Albemarle",
+        "id": "1cc95b27-a71e-4a83-9ded-d32483696478",
+        "title": "Analytical R&T Chemist",
+        "active": true,
+        "date_updated": 1784277372,
+        "date_posted": 1782943738,
+        "url": "https://albemarle.wd5.myworkdayjobs.com/External/job/Kings-Mountain-North-Carolina-United-States-of-America/Analytical-R-T-Chemist--I-_REQ-30811",
+        "locations": [
+            "Gastonia, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Albemarle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Westinghouse Electric Company",
+        "id": "4cbe811b-6028-4295-8bb4-9b619022b595",
+        "title": "Electrical/Mechanical Technician 1",
+        "active": true,
+        "date_updated": 1784278018,
+        "date_posted": 1780668430,
+        "url": "https://careers.westinghousenuclear.com/job/Madison-ElectricalMechanical-Technician-I-PA-15663/1397157300/?ats=successfactors",
+        "locations": [
+            "New Stanton, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
