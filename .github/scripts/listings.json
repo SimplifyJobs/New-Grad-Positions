@@ -1,114 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "fda22b24-a22a-4088-bf2b-423a79dc2c3c",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763540042,
-        "date_posted": 1763540042,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038469",
-        "locations": [
-            "Bury Saint Edmunds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "80bb0b84-0015-41cb-b750-a0447b552d35",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763540348,
-        "date_posted": 1763540348,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038465",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0f1ff007-da8b-4723-97c9-d11e8df85ed5",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763540041,
-        "date_posted": 1763540041,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038466",
-        "locations": [
-            "Exeter, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0a0e954d-15fd-420f-93fc-bf89809d66d1",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763540047,
-        "date_posted": 1763540047,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400032257",
-        "locations": [
-            "Northwich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "T-Mobile",
-        "id": "9bd0a5a9-8841-422b-9ff8-474fce66015e",
-        "title": "Analyst - Credit Risk - Data Science & Modeling",
-        "active": false,
-        "date_updated": 1763539881,
-        "date_posted": 1763539881,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Analyst--Credit-Risk---Data-Science---Modeling_REQ324699",
-        "locations": [
-            "Frisco, TX",
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "S&P Global ",
-        "id": "6b1dac83-6802-4178-a489-5d858df7edac",
-        "title": "Financial Risk Analytics - Analyst",
-        "active": false,
-        "date_updated": 1763539558,
-        "date_posted": 1763539558,
-        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/London-UK/Financial-Risk-Analytics---Analyst_321616",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/SP-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1763557991,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -279947,7 +279838,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -298383,7 +298274,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -302159,7 +302050,7 @@
         "company_name": "Jonas Software",
         "id": "058e376f-60d5-425d-a1dd-6c73a4ad4224",
         "title": "Customer Support Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781857643,
         "date_posted": 1781346653,
         "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Canada---Markham---Ontario/Customer-Solution-Analyst_R12522-2",
@@ -309125,7 +309016,7 @@
         "company_name": "Arkansas Blue Cross",
         "id": "01b0b189-8c92-4f22-806d-c12eb333167c",
         "title": "Business Systems Analyst Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1782857501,
         "date_posted": 1782857134,
         "url": "https://arkbluecross.wd1.myworkdayjobs.com/abcbs_external_careers/job/Little-Rock-AR/Business-Systems-Analyst-Associate_R0013605",
@@ -322078,7 +321969,7 @@
         "company_name": "Change Grow Live",
         "id": "22fa6861-700c-4ea8-b11d-1d21c5b8e2f6",
         "title": "Data Administrator",
-        "active": true,
+        "active": false,
         "date_updated": 1783328701,
         "date_posted": 1783328539,
         "url": "https://careers-changegrowlive.icims.com/jobs/20510/job?mobile=true&needsRedirect=false",
@@ -324768,7 +324659,7 @@
         "company_name": "RXO",
         "id": "12cb079c-c97b-4587-afa5-31b8c5d833c4",
         "title": "Analyst \u2013 Customer Accounts",
-        "active": true,
+        "active": false,
         "date_updated": 1783462326,
         "date_posted": 1783462088,
         "url": "https://rxo.wd501.myworkdayjobs.com/rxojobs/job/Marietta-Georgia/Analyst--Customer-Accounts_JR104125-1",
@@ -337279,7 +337170,7 @@
         "company_name": "Veeva Systems",
         "id": "0b7e7043-7827-4ce9-ad37-87f67ec5375b",
         "title": "Associate Technical Consultant - Entry-Level Consulting - Life Sciences",
-        "active": true,
+        "active": false,
         "date_updated": 1784103895,
         "date_posted": 1774391504,
         "url": "https://jobs.lever.co/veeva/2f1ed4cd-5999-47a0-8c06-38898fed4711/apply",
@@ -341231,5 +341122,43 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Illinois Tool Works",
+        "id": "2256a30b-47f4-47b2-b57a-3f0f6163ddb6",
+        "title": "Calibration Technician",
+        "active": true,
+        "date_updated": 1784276731,
+        "date_posted": 1781330867,
+        "url": "https://careers.itw.com/global/en/job/JR6907",
+        "locations": [
+            "Eden Prairie, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Illinois-Tool-Works",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thumbtack",
+        "id": "189eff7a-f39b-41a6-a72c-d9e37cd08a5b",
+        "title": "Software Engineer - AI/ML Infrastructure",
+        "active": true,
+        "date_updated": 1784276281,
+        "date_posted": 1777943287,
+        "url": "https://jobs.ashbyhq.com/thumbtack/fc9f96bc-bd4e-4883-95a8-91d25833fa35/application?embed=true",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Thumbtack",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
