@@ -181338,7 +181338,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "fdc3cd2a-7252-4a0a-9875-230e758dcf8e",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1774563083,
         "date_posted": 1774563083,
         "url": "https://careers-sig.icims.com/jobs/10687/job?mobile=true&needsRedirect=false",
@@ -269913,7 +269913,7 @@
         "company_name": "University of Arkansas",
         "id": "b9bcf351-5da5-411a-9194-d85ff25786a8",
         "title": "Graduate Assistant - Information Science",
-        "active": false,
+        "active": true,
         "date_updated": 1779961464,
         "date_posted": 1779527543,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/Graduate-Assistant---Information-Science_R0062021",
@@ -273924,7 +273924,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -284299,7 +284299,7 @@
         "company_name": "CoStar Group",
         "id": "cd60499a-dfb8-403e-ba59-7ed8d2cba47d",
         "title": "Bilingual French/English Associate Sales Comparable Researcher",
-        "active": false,
+        "active": true,
         "date_updated": 1780998501,
         "date_posted": 1780740292,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Bilingual-French-English-Associate-Sales-Comparable-Researcher_R37248",
@@ -313856,7 +313856,7 @@
         "company_name": "Gumloop",
         "id": "e8a66ca5-922d-49b4-bd09-ff3fe9d0eabd",
         "title": "Product Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782900208,
         "date_posted": 1782781755,
         "url": "https://jobs.ashbyhq.com/Gumloop/cdb897fd-bd89-4395-bbb0-d29a83c02357/application",
@@ -325872,7 +325872,7 @@
         "company_name": "RTX",
         "id": "82360f2c-2160-476a-9230-f37eda7dcce5",
         "title": "Senior Analyst - Manufacturing/Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1783491468,
         "date_posted": 1783491031,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-CHESAPEAKE-305--1100-International-Plz--BLDG-305/Sr-Analyst--Manufacturing-Operations_01857274",
@@ -334593,7 +334593,7 @@
         "company_name": "BlackRock",
         "id": "912909a7-5907-4e12-a460-63a997152877",
         "title": "Blackrock Investment Institute - AI Solutions - Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1783981978,
         "date_posted": 1783900800,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/BlackRock-Investment-Institute--AI-Solutions--Research-Associate_R265120",
@@ -336660,7 +336660,7 @@
         "company_name": "The Federal Reserve System",
         "id": "9e1b41b8-4a47-4743-be7f-080286d984d9",
         "title": "Research Assistant - Center for Indian Country Development",
-        "active": true,
+        "active": false,
         "date_updated": 1784071064,
         "date_posted": 1783987200,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Minneapolis-MN/Research-Assistant--Center-for-Indian-Country-Development_R-0000032728-1",
@@ -337470,7 +337470,7 @@
         "company_name": "Veeva Systems",
         "id": "ed36fcbe-2b5b-415f-b688-320bafcde449",
         "title": "Associate Technical Consultant - Entry-Level Consulting - Life Sciences",
-        "active": false,
+        "active": true,
         "date_updated": 1784110848,
         "date_posted": 1774391445,
         "url": "https://jobs.lever.co/veeva/0893f708-83d9-4a62-8011-5223ec3d373b/apply",
@@ -341356,5 +341356,65 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bosch Home Comfort",
+        "id": "a5436b84-33a5-41fc-91cd-78012456a7cc",
+        "title": "Associate Vehicle Data Analyst",
+        "active": true,
+        "date_updated": 1784284021,
+        "date_posted": 1784210844,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000138177390",
+        "locations": [
+            "Northfield, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hello Fresh",
+        "id": "f37df277-dfe2-4693-a158-a49783bc4b51",
+        "title": "Warehouse Management System Analyst - Global Warehouse Technology",
+        "active": true,
+        "date_updated": 1784283886,
+        "date_posted": 1784020507,
+        "url": "https://careers.hellofresh.com/global/en/job/8049084",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hello-Fresh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Western & Southern Financial Group",
+        "id": "e671d1ed-b76e-49b7-8d2a-81b5e6f9f4ed",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1784284207,
+        "date_posted": 1776866666,
+        "url": "https://careers-westernsouthern.icims.com/jobs/24908/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Southern-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
