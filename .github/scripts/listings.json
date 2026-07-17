@@ -276462,7 +276462,7 @@
         "company_name": "GE Healthcare",
         "id": "e5fa4799-a260-407a-b0e3-d49579653596",
         "title": "Field Service Engineer 1 Surgery",
-        "active": false,
+        "active": true,
         "date_updated": 1780481215,
         "date_posted": 1780134828,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1-Surgery---Jackson--TN_R4039686-1",
@@ -280192,7 +280192,7 @@
         "company_name": "CoStar Group",
         "id": "51a40a27-b08d-41d2-adaf-d0a5b47c4ca9",
         "title": "Data Operations Associate - Str",
-        "active": true,
+        "active": false,
         "date_updated": 1780669261,
         "date_posted": 1780668457,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/UK-London/Data-Operations-Associate--STR---London_R39082",
@@ -286259,7 +286259,7 @@
         "company_name": "RTX",
         "id": "dad0ca1d-738f-4aa4-a6f0-82385e963ad1",
         "title": "Modeling Simulation & Analysis Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781085845,
         "date_posted": 1780910173,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/XMLNAME-2026-Modeling-Simulation---Analysis-Engineer-I--Onsite_01825180",
@@ -330666,7 +330666,7 @@
         "company_name": "Leidos",
         "id": "de6e3580-a3fb-4a6a-b4af-bd24bb0e1f6c",
         "title": "PCBA Soldering Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1783595738,
         "date_posted": 1783163771,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Aoldering-Technician_R-00170309",
@@ -337368,7 +337368,7 @@
         "company_name": "Ferrovial",
         "id": "5164ca1e-9a08-4913-8e3c-322ddd5352b6",
         "title": "Traffic and Revenue Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784110111,
         "date_posted": 1783987200,
         "url": "https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Dallas/Traffic---Revenue-Engineer_JR18294",
@@ -339551,7 +339551,7 @@
         "company_name": "GE Healthcare",
         "id": "6280b3d0-3188-4a7c-b764-c241c08c48f1",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784208831,
         "date_posted": 1783555200,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---DC-and-North-Virginia-Area_R4043471-2",
@@ -341459,5 +341459,41 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Alkami Technology",
+        "id": "477e4909-9fa1-4e10-a7cc-bdc0526bc2a2",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1784288269,
+        "date_posted": 1783987200,
+        "url": "https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Software-Engineer_JR-000768",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alkami-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RELX",
+        "id": "f6cb518d-5aa5-45fa-a6d3-01d64fcaad5a",
+        "title": "Junior Web Producer",
+        "active": true,
+        "date_updated": 1784289005,
+        "date_posted": 1783167772,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/UK---Richmond/Junior-Web-Producer_R115338-1",
+        "locations": [
+            "Hammersmith, London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
