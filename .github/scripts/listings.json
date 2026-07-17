@@ -1,42 +1,5 @@
 [
     {
-        "date_updated": 1763589147,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://spacedynamicslaboratory.applytojob.com/apply/9YHX63vuSs/EntryLevel-Software-Engineer",
-        "company_name": "Space Dynamics Laboratory",
-        "title": "Entry-Level Software Engineer",
-        "locations": [
-            "North Logan, UT"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "b66701f5-f31f-4301-96b8-bd5ae3e7cbea",
-        "date_posted": 1763569228,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1763770047,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://spectris.wd3.myworkdayjobs.com/en-US/Malvern_Panalytical_Careers/job/Northampton-MA/Graduate-Software-Engineer_16693",
-        "company_name": "Malvern Panalytical",
-        "title": "Graduate Software Engineer",
-        "locations": [
-            "Northampton, MA",
-            "Malvern, GB"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "a863e40c-2bc0-4c8b-b880-b3dbd872dd3f",
-        "date_posted": 1763569349,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "IXL Learning",
