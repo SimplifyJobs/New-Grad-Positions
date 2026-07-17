@@ -1,97 +1,5 @@
 [
     {
-        "date_updated": 1763588222,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Development-Engineer-I-NY-11714/1327484300/",
-        "company_name": "Optimum",
-        "title": "Software Development Engineer I",
-        "locations": [
-            "Bethpage, NY",
-            "Plano TX"
-        ],
-        "category": "Software Engineering",
-        "source": "DereC4",
-        "id": "7a717584-07e6-42cf-a189-423b7308030b",
-        "date_posted": 1763559123,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1771250796,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/amaehealth/jobs/4050820009",
-        "company_name": "Amae Health",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "DereC4",
-        "id": "8f66b6bc-3b74-4805-8d01-473ea18572d7",
-        "date_posted": 1763559469,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1771250796,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-11821",
-        "company_name": "Q2",
-        "title": "Software Engineer",
-        "locations": [
-            "Austin, TX"
-        ],
-        "category": "Software Engineering",
-        "source": "DereC4",
-        "id": "208839bf-6563-4d7c-97d2-4b53fbe51ca0",
-        "date_posted": 1763559550,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763710136,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://app.dover.com/apply/wanderlog/561b05dd-36f6-43ab-aeb9-93b04d97b3fb?rs=42706078",
-        "company_name": "Wanderlog",
-        "title": "Full-Stack Software Engineer",
-        "locations": [
-            "San Francisco, CA",
-            "Remote in USA"
-        ],
-        "category": "Software Engineering",
-        "source": "DereC4",
-        "id": "f8d189f8-3a86-4d9e-ad7a-0fdfd87b3298",
-        "date_posted": 1763559741,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763589115,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363",
-        "company_name": "Citizen Health",
-        "title": "Early Career Software Engineer",
-        "locations": [
-            "San Francisco"
-        ],
-        "category": "Software Engineering",
-        "source": "DereC4",
-        "id": "735c09f6-ea13-4b8a-82dc-17b3eafb078e",
-        "date_posted": 1763560351,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1763589147,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -179896,7 +179804,7 @@
         "company_name": "Denso",
         "id": "644a3b81-bf2d-49ef-bb15-ebe18d1ff92e",
         "title": "Data Scientist 2",
-        "active": true,
+        "active": false,
         "date_updated": 1774649019,
         "date_posted": 1774649019,
         "url": "https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23724",
@@ -307583,7 +307491,7 @@
         "company_name": "S&P Global ",
         "id": "4c9828a5-d43f-4bc8-acc8-f18921966890",
         "title": "Market Risk Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782425405,
         "date_posted": 1782425028,
         "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/London-UK/Market-Risk--Product--Analyst_329916",
@@ -326206,7 +326114,7 @@
         "company_name": "The Walt Disney Company",
         "id": "474a45b5-4d5b-4354-b0ec-4e4586430378",
         "title": "Viewer Insights Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783520461,
         "date_posted": 1783519925,
         "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/London-United-Kingdom/Viewer-Insights-Analyst_10153635",
