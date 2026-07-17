@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "73562300-92f7-4aa6-bf0e-c5f68f935aad",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1763535266,
-        "date_posted": 1763535266,
-        "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineer-(Greenville,-TX)-TX-75402/1343978400/?ats=successfactors",
-        "locations": [
-            "Greenville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "36f5f151-6c11-41ad-b434-fa2a82d849f6",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1763535266,
-        "date_posted": 1763535266,
-        "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineer-(Greenville,-TX)-TX-75402/1343978900/?ats=successfactors",
-        "locations": [
-            "Greenville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "fda22b24-a22a-4088-bf2b-423a79dc2c3c",
