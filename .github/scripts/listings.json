@@ -65035,7 +65035,7 @@
         "company_name": "Ensign-Bickford Aerospace & Defense Company",
         "id": "c18a6a31-6cf7-481a-99f5-cb0c4d069d8a",
         "title": "Soldering Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1768235148,
         "date_posted": 1768235148,
         "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Soldering-Technician_REQ106824",
@@ -246311,7 +246311,7 @@
         "company_name": "Cencora",
         "id": "dcbeb1d6-2bca-4251-af9e-4bcd4074fc46",
         "title": "Automation Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778709149,
         "date_posted": 1778623786,
         "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Carrollton-TX/Automation-Developer-I_R2521185",
@@ -264733,7 +264733,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": true,
+        "active": false,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -318257,7 +318257,7 @@
         "company_name": "Micron Technology",
         "id": "c2582b57-89c6-4642-a9f2-b5a0b7e3678a",
         "title": "New College Grad - Product Yield Enhancement Engineer - High Bandwidth Memory",
-        "active": true,
+        "active": false,
         "date_updated": 1782988284,
         "date_posted": 1782956886,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Product-Yield-Enhancement-Engineer--HBM_JR104805",
@@ -332429,7 +332429,7 @@
         "company_name": "Viridien",
         "id": "dc805aeb-d84a-48fc-a4e3-5b3fb59db09c",
         "title": "Instrumentation & Monitoring Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1783778285,
         "date_posted": 1783641600,
         "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/New-York-United-States-of-America/Instrumentation---Monitoring-Technician--Baltimore-Washington--DC-_JR101389-2",
@@ -339432,7 +339432,7 @@
         "company_name": "Magna",
         "id": "d4aef4dc-4198-4ad2-9aee-b00f5195981d",
         "title": "Robot Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784198820,
         "date_posted": 1783519994,
         "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Guelph-Ontario-CA/Robot-Technician_R00249413",
@@ -339531,7 +339531,7 @@
         "company_name": "Road Runner",
         "id": "d45acc1f-f48c-4f62-8dd2-171e5665c943",
         "title": "Junior Applications Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784205461,
         "date_posted": 1783900800,
         "url": "https://wd1.myworkdaysite.com/en-US/recruiting/rrts/careers/job/Downers-Grove-IL/Junior-Applications-Engineer_R0002296-2",
@@ -341415,6 +341415,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "c2443618-c54b-459e-92ba-adf7795466cb",
+        "title": "Installation Team Field Service Engineer 1/2/3",
+        "active": true,
+        "date_updated": 1784284490,
+        "date_posted": 1783164512,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/i-Team-Customer-Engineer_R2615612",
+        "locations": [
+            "Boise, ID",
+            "Phoenix, AZ",
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
