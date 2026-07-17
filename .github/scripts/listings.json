@@ -320464,7 +320464,7 @@
         "company_name": "PNC Financial Services",
         "id": "9b136209-9ef3-43d1-9809-93b65286b8b2",
         "title": "Senior Business Systems Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1783081163,
         "date_posted": 1782957864,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Bus-Systems-Analyst-Sr_R224818-1",
@@ -323733,7 +323733,7 @@
         "company_name": "DuCharme, McMillen & Associates",
         "id": "7650ccc7-1f1d-4681-a5e1-ec914f2123f1",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783417861,
         "date_posted": 1780134779,
         "url": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Data-Engineer_REQ228",
@@ -335331,7 +335331,7 @@
         "company_name": "RX",
         "id": "452e16d8-ffc5-4e0c-9e68-b6ea7d2a595e",
         "title": "Junior Web Producer",
-        "active": true,
+        "active": false,
         "date_updated": 1784033462,
         "date_posted": 1782828300,
         "url": "https://relx.wd3.myworkdayjobs.com/ReedExhibitions/job/UK---Richmond/Junior-Web-Producer_R115338",
@@ -336159,7 +336159,7 @@
         "company_name": "Wash U",
         "id": "709bcee3-40ef-47a1-b8ab-344c4eddcca3",
         "title": "Data Reporting Analyst - Medical School Finacial Reporting - Workday",
-        "active": true,
+        "active": false,
         "date_updated": 1784071734,
         "date_posted": 1783987200,
         "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Analyst-Data-Reporting--Hybrid----Medical-School-Finacial-Reporting--Workday_JR95744-1",
@@ -341437,6 +341437,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "d0eb6f7a-0b38-4ff0-88b2-e57505b2a75d",
+        "title": "Pre Silicon Verification Engineer",
+        "active": true,
+        "date_updated": 1784286424,
+        "date_posted": 1783559373,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Pre-Silicon-Verification-Engineer_JR0285398",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
