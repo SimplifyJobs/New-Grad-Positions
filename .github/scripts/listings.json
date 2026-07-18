@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citizen Health",
-        "id": "4ae2a421-62bb-4ce5-9aed-5220db4881fe",
-        "title": "Early Career Software Engineer",
-        "active": false,
-        "date_updated": 1763624412,
-        "date_posted": 1763624412,
-        "url": "https://jobs.ashbyhq.com/Citizen%20Health/8113495b-b98c-41e7-959e-540293b875fd/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Citizen-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "PA Consulting",
         "id": "db53eec0-88a0-4d9f-9d9e-b9644d8db5ae",
