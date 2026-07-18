@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Draper",
-        "id": "a1f70e2d-a55f-47bf-904e-f5ccb5b8d818",
-        "title": "MES Programmer",
-        "active": false,
-        "date_updated": 1763607111,
-        "date_posted": 1763607111,
-        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/MES-Programmer--Eyelit-_JR001892",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Draper",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SpaceX",
-        "id": "99628bf9-ff98-4548-b4ae-5d2053ced717",
-        "title": "Full Stack Software Engineer - Constellation Tools - Starlink",
-        "active": false,
-        "date_updated": 1763606343,
-        "date_posted": 1763606343,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8288010002",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Cisco",
         "id": "fdae5a64-1c52-49be-b26c-d4ceabecac4e",
@@ -50,24 +14,6 @@
             "San Jose, CA",
             "Carlsbad, CA",
             "Acton, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cisco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cisco",
-        "id": "26a9b835-5ce3-4639-9c03-48ada3108211",
-        "title": "Software Engineer Security & Automation 1",
-        "active": false,
-        "date_updated": 1763607651,
-        "date_posted": 1763607651,
-        "url": "https://careers.cisco.com/global/en/job/2000123",
-        "locations": [
-            "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Cisco",
         "is_visible": true,
@@ -4959,24 +4905,6 @@
             "Essex, UK"
         ],
         "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Integration Innovation (i3)",
-        "id": "d8404e29-59e5-4d31-8561-f56dd7aea602",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1763770056,
-        "date_posted": 1763606571,
-        "url": "https://careers-i3-corps.icims.com/jobs/4967/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/I3",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
