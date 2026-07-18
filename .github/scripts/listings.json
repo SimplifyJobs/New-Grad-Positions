@@ -64529,7 +64529,7 @@
         "company_name": "Ensign-Bickford Aerospace & Defense Company",
         "id": "c18a6a31-6cf7-481a-99f5-cb0c4d069d8a",
         "title": "Soldering Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1768235148,
         "date_posted": 1768235148,
         "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Soldering-Technician_REQ106824",
@@ -143625,7 +143625,7 @@
         "company_name": "IDEXX",
         "id": "f6bd529c-7b90-41cd-9373-dd7c662bd89a",
         "title": "Data Onboarding Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1772680108,
         "date_posted": 1772680108,
         "url": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/London-United-Kingdom/Data-Onboarding-Tech_J-051257",
@@ -200655,7 +200655,7 @@
         "company_name": "Leidos",
         "id": "a3f4d468-0bb5-4653-8978-0ec67bb42dea",
         "title": "Embedded Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1775776038,
         "date_posted": 1775772690,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Leominster-UK/Embedded-Software-Developer_R-00179537",
@@ -201786,7 +201786,7 @@
         "company_name": "RTX",
         "id": "25ac2b37-a149-4b03-b823-b3655e741ece",
         "title": "Raytheon Full Time",
-        "active": false,
+        "active": true,
         "date_updated": 1775802886,
         "date_posted": 1775801197,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Raytheon-Full-Time---Software-Effectors-Engineer-I---Tucson--AZ--Onsite-_01835713-1",
@@ -219801,7 +219801,7 @@
         "company_name": "Applied Materials",
         "id": "f41272f9-0120-450f-abf0-a8d6cbd6d49d",
         "title": "AI Algorithm Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1776768714,
         "date_posted": 1776523223,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Algorithm-Developer_R2519827",
@@ -243687,7 +243687,7 @@
         "company_name": "CoStar Group",
         "id": "d4f6f6bc-3852-4c6c-9944-6136eaffc260",
         "title": "Product Manager - Content Platforms",
-        "active": false,
+        "active": true,
         "date_updated": 1778595055,
         "date_posted": 1778594751,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Product-Manager--Content-Platforms_R38907",
@@ -274286,7 +274286,7 @@
         "company_name": "Cisco",
         "id": "dd41795d-26bf-459d-8d69-e77d6ff3a99c",
         "title": "Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780439527,
         "date_posted": 1780438079,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/London-United-Kingdom/Data-Analyst_2013255",
@@ -280455,7 +280455,7 @@
         "company_name": "Brunswick",
         "id": "c07c90db-439d-477d-8373-f58c555664e9",
         "title": "Embedded Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780698661,
         "date_posted": 1780697384,
         "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Embedded-Software-Engineer_JR-050448",
@@ -281352,7 +281352,7 @@
         "company_name": "Smithfield Foods",
         "id": "db980a0f-d55b-4030-8e3f-2759d0156e13",
         "title": "AI Enablement Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780881121,
         "date_posted": 1780880783,
         "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/AI-Enablement-Analyst_R-2026-7550",
@@ -281687,7 +281687,7 @@
         "company_name": "GE Healthcare",
         "id": "d2d45beb-51e1-4ca0-aa90-87f09c4488dc",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780912673,
         "date_posted": 1780740065,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1--Seattle-WA-area_R4041943-1",
@@ -299790,7 +299790,7 @@
         "company_name": "CoStar Group",
         "id": "2bc5a205-56bd-4f78-b7b0-f67a68066540",
         "title": "Associate Research Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1781772425,
         "date_posted": 1781360965,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/UK-London/Associate-Research-Consultant--CoStar---London_R38556",
@@ -342590,6 +342590,73 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amgen",
+        "id": "17374d9a-ad54-4e44-a80e-a69f110c90cf",
+        "title": "Principal Architect - Information Systems",
+        "active": true,
+        "date_updated": 1784390308,
+        "date_posted": 1784326292,
+        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---Florida---Jacksonville/Principal-Architect_R-240858",
+        "locations": [
+            "Tampa, FL",
+            "Thousand Oaks, CA",
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Amgen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amgen",
+        "id": "bdc202da-c93e-413f-ae34-0eb62dc56c07",
+        "title": "Engineer 1",
+        "active": true,
+        "date_updated": 1784389652,
+        "date_posted": 1783164293,
+        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Engineer-I_R-242685",
+        "locations": [
+            "Thousand Oaks, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amgen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Micron Technology",
+        "id": "09b622fc-3724-4b0d-b819-3a5c3d6dfbd2",
+        "title": "Engineer \u2013 Metro Real-time Defect Analysis - Real-time Defect Analysis - Process & Equipment",
+        "active": true,
+        "date_updated": 1784389141,
+        "date_posted": 1781361688,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Engineer--Metro-Real-time-Defect-Analysis--RDA--Process---Equipment_JR94375",
+        "locations": [
+            "Leander, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
