@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cisco",
-        "id": "fdae5a64-1c52-49be-b26c-d4ceabecac4e",
-        "title": "Hardware Engineer 1 - Full time - United States",
-        "active": false,
-        "date_updated": 1763607781,
-        "date_posted": 1763607781,
-        "url": "https://careers.cisco.com/global/en/job/2000108",
-        "locations": [
-            "Austin, TX",
-            "San Jose, CA",
-            "Carlsbad, CA",
-            "Acton, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cisco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Clearway Energy",
         "id": "6c5dee18-7fe6-4fcd-b6ee-eb3600f1845f",
