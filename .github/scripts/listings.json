@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "ServiceNow",
-        "id": "e80f82e4-f6f1-45eb-99d8-104cf58d3243",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1763622218,
-        "date_posted": 1763622218,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000094496491",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Citizen Health",
         "id": "4ae2a421-62bb-4ce5-9aed-5220db4881fe",
         "title": "Early Career Software Engineer",
@@ -36108,24 +36090,6 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/TrueAnomaly",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Barrios",
-        "id": "28838ed2-cf67-4bb5-8e8e-73a4cbe89069",
-        "title": "Configuration and Data Management Specialist - Configuration and Data Management Specialist",
-        "active": false,
-        "date_updated": 1766186580,
-        "date_posted": 1763623750,
-        "url": "https://careers-barrios.icims.com/jobs/2723/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Barrios",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
