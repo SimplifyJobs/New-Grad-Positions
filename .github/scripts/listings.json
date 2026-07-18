@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palo Alto Networks",
-        "id": "9f8b07d5-e88f-4892-a0fd-25b920416fc4",
-        "title": "Software Engineer Test Automation - Prisma Access",
-        "active": false,
-        "date_updated": 1763681118,
-        "date_posted": 1763681118,
-        "url": "https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000094709295",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "BAE Systems",
         "id": "9a1f96ae-d552-4200-9c9c-7db6d865999a",
