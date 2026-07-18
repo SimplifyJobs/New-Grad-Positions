@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Schweitzer Engineering Laboratories",
-        "id": "df23ccde-7af7-43d5-acff-b2a829cecd29",
-        "title": "Associate Trend Insight Analyst",
-        "active": false,
-        "date_updated": 1763662550,
-        "date_posted": 1763662550,
-        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Trend-Insight-Analyst_2025-18678",
-        "locations": [
-            "Moscow, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/SEL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Schweitzer Engineering Laboratories",
-        "id": "07212bbc-e593-46dc-bd93-84599b9e2d30",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1763662563,
-        "date_posted": 1763662563,
-        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Data-Analyst_2025-18806",
-        "locations": [
-            "Moscow, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/SEL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Hawk-Eye Innovations",
         "id": "e289b438-270d-4d2a-bd82-83872a5db38b",
@@ -170,26 +132,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CoreWeave",
-        "id": "6063a4cb-22bd-49de-9833-d977ed1cda79",
-        "title": "Data Center Technician - Afton - TX",
-        "active": false,
-        "date_updated": 1763663373,
-        "date_posted": 1763663373,
-        "url": "https://coreweave.com/careers/job?4619658006&board=coreweave&gh_jid=4619658006",
-        "locations": [
-            "Cee Vee, United States"
-        ],
-        "company_url": "https://simplify.jobs/c/CoreWeave",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
     },
     {
         "source": "Simplify",
@@ -823,25 +765,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/BNY",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Malvern Panalytical",
-        "id": "76ad1d2b-26b1-4604-a357-17819cf1caea",
-        "title": "Graduate Software Engineer",
-        "active": false,
-        "date_updated": 1763663429,
-        "date_posted": 1763663429,
-        "url": "https://spectris.wd3.myworkdayjobs.com/Malvern_Panalytical_Careers/job/Northampton-MA/Graduate-Software-Engineer_16693",
-        "locations": [
-            "Northampton, MA",
-            "Hereford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Malvern-Panalytical",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -331200,7 +331123,7 @@
         "company_name": "Johnson Controls",
         "id": "bc16e04e-483c-4b33-9153-1620809d551e",
         "title": "HVAC Equipment Systems Application Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783723202,
         "date_posted": 1783641600,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Linthicum-Maryland-United-States-of-America/HVAC-Equipment-Systems-Application-Engineer-I_WD30273247",
@@ -331371,7 +331294,7 @@
         "company_name": "Northrop Grumman",
         "id": "cac83c89-3891-4a0b-9daa-28eca0edcb0f",
         "title": "Software Engineer - Simulation",
-        "active": false,
+        "active": true,
         "date_updated": 1783722949,
         "date_posted": 1783641600,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Software-Engineer---Simulation--Palmdale-_R10239890",
@@ -331392,7 +331315,7 @@
         "company_name": "Johnson Controls",
         "id": "a9e9b275-e88f-4785-9b59-9f67f0e70d01",
         "title": "Embedded Software Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1783722948,
         "date_posted": 1783641600,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Westford-Massachusetts-United-States-of-America/Embedded-Software-Engineer-II_WD30273363-1",
@@ -331710,7 +331633,7 @@
         "company_name": "GE Healthcare",
         "id": "211d5160-dd5b-403d-aa71-3b6dd6378ee9",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783762313,
         "date_posted": 1783555200,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1_R4042917-1",
@@ -333609,7 +333532,7 @@
         "company_name": "Micron Technology",
         "id": "f8191bb6-b5ba-4864-9c7c-ca435b225435",
         "title": "New College Grad - Design Engineer - Hbm",
-        "active": false,
+        "active": true,
         "date_updated": 1783982507,
         "date_posted": 1783900800,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Design-Engineer--HBM_JR106212",
@@ -334228,7 +334151,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "cf4dc2c3-c69b-428b-be85-674b7be3b43b",
         "title": "Therapist \u2013 PHP/Iop",
-        "active": false,
+        "active": true,
         "date_updated": 1783991829,
         "date_posted": 1783900800,
         "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Hinsdale-Clinic-Hinsdale-IL/Therapist---PHP-IOP_R8074",
