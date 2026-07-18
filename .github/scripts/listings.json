@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rolls-Royce",
-        "id": "74c6c47f-5b40-4ff9-bc9b-6ed972d90c35",
-        "title": "Software Engineer-Aerospace Controls",
-        "active": false,
-        "date_updated": 1763668278,
-        "date_posted": 1763668278,
-        "url": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Indianapolis/Control-System-Senior-Software-Engineer_JR6136710",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Rolls-Royce",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Caterpillar Inc.",
-        "id": "c8a1d9b6-462a-4d69-af52-2dfa17b77023",
-        "title": "Performance Simulation/Application Associate Engineer",
-        "active": false,
-        "date_updated": 1763668005,
-        "date_posted": 1763668005,
-        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tucson-Arizona/Performance-Simulation-Application-Associate-Engineer_R0000336454",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Bank of America",
         "id": "ed236d8c-366e-4b58-8207-3cb3f7642d19",
@@ -474,24 +438,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Ameriprise Financial",
-        "id": "8ce18b07-cb45-4865-b581-e1a1cd1bea3b",
-        "title": "Staff Auditor-Data Analytics",
-        "active": false,
-        "date_updated": 1763667238,
-        "date_posted": 1763667238,
-        "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Minneapolis-Minnesota/Staff-Auditor-Data-Analytics_R25_0000003994-1",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Ameriprise-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Zurich Insurance",
         "id": "5571c923-8fb9-4a91-b497-dea13be8100a",
         "title": "Data Engineer",
@@ -524,26 +470,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "84420078-c2df-4df5-b291-a665b2972610",
-        "title": "Entry Level Engineer",
-        "active": false,
-        "date_updated": 1763668386,
-        "date_posted": 1763668386,
-        "url": "https://careers-gdms.icims.com/jobs/69361/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -911,24 +837,6 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/Equifax",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DuCharme, McMillen & Associates",
-        "id": "470e3ddd-c64e-4fbd-b577-170eb4f62dc6",
-        "title": "Associate Software Support",
-        "active": false,
-        "date_updated": 1763668448,
-        "date_posted": 1763668448,
-        "url": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Associate-Software-Support_REQ261",
-        "locations": [
-            "Fort Wayne, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/DuCharme-McMillen-Associates",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -2381,24 +2289,6 @@
             "Christchurch, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CompassX Group",
-        "id": "1db4907b-1742-4572-8dc9-8a75db5ae604",
-        "title": "Data Analyst - Business-Facing / Data Prep",
-        "active": false,
-        "date_updated": 1763722872,
-        "date_posted": 1763668253,
-        "url": "https://jobs.lever.co/compassx/c1ea4296-67e6-4a67-9522-eabc9e14a542/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/CompassX-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
