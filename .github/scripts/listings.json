@@ -637,24 +637,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "TREK",
-        "id": "f90d16cb-8e89-4ebd-8fdd-d279a002c7b3",
-        "title": "Service Technician",
-        "active": false,
-        "date_updated": 1763672438,
-        "date_posted": 1763672438,
-        "url": "https://trekbikes.wd1.myworkdayjobs.com/en-US/TREK/job/Battersea-London-UK/Service-Technician_Trek113507",
-        "locations": [
-            "Hammersmith, London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/TREK",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Johnson & Johnson",
         "id": "bf858219-82c0-488f-9ff0-c1925e76d21b",
@@ -668,24 +650,6 @@
             "Bracknell, UK"
         ],
         "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "T-Mobile",
-        "id": "a88c5ae9-d239-449b-8fe9-5e7bd247452b",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1763670926,
-        "date_posted": 1763670926,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Associate-Software-Engineer_REQ337809-1",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -340693,5 +340657,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Heron Power",
+        "id": "cad2f1cb-bef8-45a0-acbe-7a9c714ef9c4",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1776992941,
+        "date_posted": 1776992940,
+        "url": "http://jobs.ashbyhq.com/heron-power/9f03d489-7fb1-48f8-9f41-70a9e64aed62/application?embed=true",
+        "locations": [
+            "Santa Cruz, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Heron-Power",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
