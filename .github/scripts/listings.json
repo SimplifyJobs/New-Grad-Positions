@@ -214900,7 +214900,7 @@
         "company_name": "Intel",
         "id": "6a9037a8-cfc4-43f5-841f-202346e3bfb4",
         "title": "Image Processing Engineer - C++/Linux",
-        "active": false,
+        "active": true,
         "date_updated": 1776474773,
         "date_posted": 1776474487,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Image-Processing-Engineer--C---Linux-_JR0282835",
@@ -220790,7 +220790,7 @@
         "company_name": "PNC Financial Services",
         "id": "696bd826-6011-43cc-920a-c36cd7661a43",
         "title": "Software Developer Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1776810206,
         "date_posted": 1776809245,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Developer-Associate_R217594-1",
@@ -260763,7 +260763,7 @@
         "company_name": "Wash U",
         "id": "9e25a8aa-0f5c-4e37-9e6b-b2704ec085f0",
         "title": "Postdoctoral Research Associate - Physics",
-        "active": false,
+        "active": true,
         "date_updated": 1779830289,
         "date_posted": 1779527682,
         "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/Postdoctoral-Research-Associate---Physics_JR94253",
@@ -268460,7 +268460,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "6ee7b98c-ff40-48fa-9739-71119f369879",
         "title": "Therapist \u2013 Partial Hospitalization Program / Intensive Outpatient",
-        "active": false,
+        "active": true,
         "date_updated": 1779958824,
         "date_posted": 1778941395,
         "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Brown-Deer-Area/Therapist---PHP-IOP---PRN_R6262",
@@ -268828,7 +268828,7 @@
         "company_name": "University of Arkansas",
         "id": "613121a0-b6ea-469c-bf10-9bb507ad6f4c",
         "title": "Graduate Research Assistant - Machine Learning / Artificial Intelligence",
-        "active": false,
+        "active": true,
         "date_updated": 1779958500,
         "date_posted": 1778940427,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--ML-AI-_R0053896",
@@ -296814,7 +296814,7 @@
         "company_name": "Bristol Myers Squibb",
         "id": "6f99e1c0-bfec-450e-b005-708019d6c388",
         "title": "Associate Engineer - Analytical AI Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1781647988,
         "date_posted": 1781639363,
         "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1603317-1",
@@ -323711,7 +323711,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "5c0748e1-a7ed-4bae-9ce1-edbea903c615",
         "title": "Therapist PHP/IOP",
-        "active": false,
+        "active": true,
         "date_updated": 1783433472,
         "date_posted": 1783433124,
         "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Kenosha-Clinic-Kenosha-WI/Therapist---PHP-IOP_R7967-1",
@@ -342517,5 +342517,41 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Motorola",
+        "id": "5e4889b7-d480-4748-b2e4-a502d39e9074",
+        "title": "Electronics Test and Assembly Technician 1",
+        "active": true,
+        "date_updated": 1784375764,
+        "date_posted": 1779527608,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Electronics-Test-and-Assembly-Technician-I--Morning-Shift-_R63168",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "58acf037-6bf4-4105-bcdf-379bcde27cf4",
+        "title": "Electrical Technician",
+        "active": true,
+        "date_updated": 1784374023,
+        "date_posted": 1778942355,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Byhalia-MS/Electrical-Technician--Weekend-_J2449671",
+        "locations": [
+            "Olive Branch, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
