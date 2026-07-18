@@ -339285,7 +339285,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "e7e6bef5-79b4-4ef0-88f8-0daabd257a4b",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784216277,
         "date_posted": 1784160000,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Discovery-and-Enrichment-Expert-I---Hybrid-or-Remote_R116188",
@@ -340109,7 +340109,7 @@
         "company_name": "Citi",
         "id": "6d79e4e4-0194-40a1-8bdb-af23a1575053",
         "title": "Markets Quantitative Analysis",
-        "active": false,
+        "active": true,
         "date_updated": 1784241352,
         "date_posted": 1784160000,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Full-Time-Analyst--New-York---USA--2027_26978780",
@@ -342571,5 +342571,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rogers Behavioral Health",
+        "id": "9e07fe1f-6795-4be0-83a7-ed61fd938ce2",
+        "title": "Therapist \u2013 Intensive Outpatient Program",
+        "active": true,
+        "date_updated": 1784382990,
+        "date_posted": 1784246400,
+        "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Wausau-Clinic/Therapist---PHP-IOP---PRN_R7834",
+        "locations": [
+            "Abbotsford, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/b92a810e-00da-4d83-9a36-b7d609699d59",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
