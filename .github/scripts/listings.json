@@ -1,61 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Bank of America",
-        "id": "ed236d8c-366e-4b58-8207-3cb3f7642d19",
-        "title": "Software Engineer 1 - Year Up",
-        "active": false,
-        "date_updated": 1763669854,
-        "date_posted": 1763669854,
-        "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Charlotte/Software-Engineer-I---Year-Up---Charlotte--NC_25044048-1",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "American Express",
-        "id": "560e8f3e-7e26-4c26-a835-c64e2119be4a",
-        "title": "Campus Undergraduate Full-Time - Associate Digital Product Management - Technology",
-        "active": false,
-        "date_updated": 1763669661,
-        "date_posted": 1763669661,
-        "url": "https://aexp.eightfold.ai/careers/job/38887410",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Linamar",
-        "id": "dca32202-3cb8-4f37-a08e-77d42b6d9936",
-        "title": "Mechatronics Engineer/Designer - Intermediate",
-        "active": false,
-        "date_updated": 1763669207,
-        "date_posted": 1763669207,
-        "url": "https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/12157",
-        "locations": [
-            "Oakland, ON, Canada",
-            "London, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Linamar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "ff626abc-7bd5-4a76-8b36-e535b1e32d2d",
@@ -437,24 +382,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Zurich Insurance",
-        "id": "5571c923-8fb9-4a91-b497-dea13be8100a",
-        "title": "Data Engineer",
-        "active": false,
-        "date_updated": 1763669639,
-        "date_posted": 1763669639,
-        "url": "https://www.careers.zurich.com/job/Toronto-Data-Engineer-ON/1331033157/?ats=successfactors",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Zurich-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "bdbcff6a-ccad-4c2c-8d94-1f8abad6c414",
@@ -467,25 +394,6 @@
             "Bath, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Bank of America",
-        "id": "7f435ac6-192a-43c4-a1f2-f95240cf7397",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1763669860,
-        "date_posted": 1763669860,
-        "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/New-York/Software-Engineer-I---Year-Up---Charlotte--NC_25044053-1",
-        "locations": [
-            "NYC",
-            "Lawrence Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -564,27 +472,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Early Warning",
-        "id": "f0d75e6d-95b8-4110-89af-53a1430e1764",
-        "title": "Data Scientist 1",
-        "active": false,
-        "date_updated": 1763669079,
-        "date_posted": 1763669079,
-        "url": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/New-York-City/Data-Scientist-I_REQ2025986",
-        "locations": [
-            "SF",
-            "Chicago, IL",
-            "Scottsdale, AZ",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Early-Warning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "69573b3b-6ca5-473f-a192-f74ff791ea4c",
@@ -621,25 +508,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GM financial",
-        "id": "19fca12f-9a37-4f34-b498-2bbbd4a9eb4b",
-        "title": "Machine Learning Operations Engineer 2",
-        "active": false,
-        "date_updated": 1763670492,
-        "date_posted": 1763670492,
-        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1262",
-        "locations": [
-            "Arlington, TX",
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/GM-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "c52fb87d-d16b-4bd9-a928-333db42d8bd0",
@@ -670,24 +538,6 @@
             "Oxford, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "8af8fbdb-c746-4161-b348-ddb9dd2682a5",
-        "title": "Postdoctoral Appointee - MSD Computational Materials",
-        "active": false,
-        "date_updated": 1763670444,
-        "date_posted": 1763670444,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---MSD-Computational-Materials_421447",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -731,24 +581,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "bdf8a27a-724f-40a7-b6c7-db51489d264d",
-        "title": "Postdoctoral Appointee - Coastal-urban Flooding",
-        "active": false,
-        "date_updated": 1763670464,
-        "date_posted": 1763670464,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Coastal-urban-Flooding_421450",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Adobe",
         "id": "57ff4ef0-dbca-47f3-9719-9327a9ecee6c",
         "title": "Graduate University Engineer - Machine Learning Engineer",
@@ -781,62 +613,6 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/DaVita",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amentum",
-        "id": "ffc87d2c-9d2e-4c03-8aaf-5777350c3410",
-        "title": "Entry Configuration Management Engineering Technician",
-        "active": false,
-        "date_updated": 1763669335,
-        "date_posted": 1763669335,
-        "url": "https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000C2R",
-        "locations": [
-            "Cape Canaveral, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Thomson Reuters",
-        "id": "d0dfd4a4-3c02-4e9e-b562-3866b2dac2df",
-        "title": "AI Engineer \u2013 New Grad - Materia AI",
-        "active": false,
-        "date_updated": 1763670457,
-        "date_posted": 1763670457,
-        "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/AI-Engineer--New-Grad--2026-start---Materia-AI_JREQ194296",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Thomson-Reuters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Equifax",
-        "id": "5ea33220-2502-4539-b1ae-4d414a85f830",
-        "title": "Benefits Solutions Product Manager",
-        "active": false,
-        "date_updated": 1763670064,
-        "date_posted": 1763670064,
-        "url": "https://equifax.wd5.myworkdayjobs.com/external/job/USA---Colorado---Denver---17th-Street/Benefits-Solutions-Product-Manager_J00172232",
-        "locations": [
-            "Clayton, MO",
-            "St. Louis, MO",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Equifax",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -899,26 +675,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Bank of America",
-        "id": "d79519de-39ad-46ca-9e77-8a41e128dcbd",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1763669849,
-        "date_posted": 1763669849,
-        "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Plano/Software-Engineer-I---Year-Up_25044050",
-        "locations": [
-            "Plano, TX",
-            "Sugar Land, TX",
-            "Addison, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "T-Mobile",
         "id": "a88c5ae9-d239-449b-8fe9-5e7bd247452b",
         "title": "Associate Software Engineer",
@@ -930,42 +686,6 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "S&P Global ",
-        "id": "2821b6ae-6dbd-4825-ade6-45b0d1688c68",
-        "title": "Analyst  Data Management - Fixed Income Indices",
-        "active": false,
-        "date_updated": 1763669292,
-        "date_posted": 1763669292,
-        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Dallas-TX/Analyst--Data-Management---Fixed-Income-Indices_319188",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/SP-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Aflac",
-        "id": "62b49907-3df7-4736-9e4e-8e65ccfe78ce",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1763669879,
-        "date_posted": 1763669879,
-        "url": "https://careers.aflac.com/job/New-York-City-Software-Engineer-I-NY-10005/1344238100/?ats=successfactors",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Aflac",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -4004,24 +3724,6 @@
             "St. Louis, MO"
         ],
         "company_url": "https://simplify.jobs/c/Wash-U",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Heron Power",
-        "id": "cad2f1cb-bef8-45a0-acbe-7a9c714ef9c4",
-        "title": "Power Electronics PCBA Technician",
-        "active": true,
-        "date_updated": 1763881176,
-        "date_posted": 1763669627,
-        "url": "http://jobs.ashbyhq.com/heron-power/9f03d489-7fb1-48f8-9f41-70a9e64aed62/application",
-        "locations": [
-            "Santa Cruz, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Heron-Power",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -56337,26 +56039,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Lucid",
-        "id": "5ca9ceaf-7424-4462-9e89-d93d1e8af941",
-        "title": "Product Manager",
-        "active": false,
-        "date_updated": 1768260424,
-        "date_posted": 1763669713,
-        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5711817004",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Lucid",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
