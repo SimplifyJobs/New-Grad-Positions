@@ -254520,7 +254520,7 @@
         "company_name": "Goldman Sachs",
         "id": "ad57e8fa-d0bd-4c63-9809-6141b7dda000",
         "title": "Asset & Wealth Management Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779343943,
         "date_posted": 1779343723,
         "url": "https://higher.gs.com/roles/168978",
@@ -282638,7 +282638,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": true,
+        "active": false,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -287979,7 +287979,7 @@
         "company_name": "Goldman Sachs",
         "id": "f99b0f28-4c34-4e85-8a26-27c6ea7b386a",
         "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
-        "active": false,
+        "active": true,
         "date_updated": 1781170202,
         "date_posted": 1781168798,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/162274",
@@ -297969,7 +297969,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -305120,7 +305120,7 @@
         "company_name": "UBS",
         "id": "0f790154-b110-4193-a208-d4dbbc2dad5c",
         "title": "Quantitative Analyst - Scenarios and Scenario Models",
-        "active": true,
+        "active": false,
         "date_updated": 1782292237,
         "date_posted": 1781947197,
         "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=341057",
@@ -312494,7 +312494,7 @@
         "company_name": "Goldman Sachs",
         "id": "3ac699af-5c50-4a7c-81af-6dfb56f595db",
         "title": "Asset& Wealth Management-Software Engineering-Associate-New York",
-        "active": false,
+        "active": true,
         "date_updated": 1782742321,
         "date_posted": 1782742023,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/168978",
@@ -313183,7 +313183,7 @@
         "company_name": "Citadel Securities",
         "id": "f23fe117-836c-45d4-bd59-0ea9d9ddf7f7",
         "title": "Machine Learning Researcher \u2013 PhD Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1782886321,
         "date_posted": 1782886138,
         "url": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us/",
@@ -319604,7 +319604,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc5879a8-4b16-4bc4-90e6-ab5042dcaab1",
         "title": "Asset & Wealth Management - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1783041481,
         "date_posted": 1782742015,
         "url": "https://higher.gs.com/roles/176984",
@@ -319644,7 +319644,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -325529,7 +325529,7 @@
         "company_name": "Goldman Sachs",
         "id": "6a36b7f9-3aea-44d6-b6a2-b8ba794476ea",
         "title": "Asset & Wealth Management - Product Management - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1783472761,
         "date_posted": 1781791629,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/173819",
@@ -330379,7 +330379,7 @@
         "company_name": "Goldman Sachs",
         "id": "9f62800f-29c9-4903-ae21-b3abdaa8c9f4",
         "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
-        "active": true,
+        "active": false,
         "date_updated": 1783664461,
         "date_posted": 1771381096,
         "url": "https://higher.gs.com/roles/162274",
@@ -335122,7 +335122,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -342495,6 +342495,112 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citadel",
+        "id": "1d1d2782-d1f8-47e7-980c-9f71c9a591cf",
+        "title": "Machine Learning Researcher \u2013 PhD Graduate",
+        "active": true,
+        "date_updated": 1784337481,
+        "date_posted": 1784336953,
+        "url": "https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-us/",
+        "locations": [
+            "Greenwich, CT",
+            "Houston, TX",
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bot Auto",
+        "id": "1619e24c-542d-4737-9c8d-d2da19828cee",
+        "title": "Software Engineer - Simulation Systems",
+        "active": true,
+        "date_updated": 1784337121,
+        "date_posted": 1784337010,
+        "url": "https://job-boards.greenhouse.io/botauto/jobs/5363495008",
+        "locations": [
+            "Houston, TX",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Bot-Auto",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pierre Fabre",
+        "id": "cc405aa1-7c6d-473f-8adf-3bd7354528d5",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1784337326,
+        "date_posted": 1777593600,
+        "url": "https://pierrefabre.wd3.myworkdayjobs.com/External_Career_Site/job/USA---Secaucus/Data-Engineer_JR112468",
+        "locations": [
+            "Union City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Pierre-Fabre",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "93ee2a52-ab38-49dc-8fdb-327a42940329",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1784337121,
+        "date_posted": 1784246400,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Software-Development-Engineer_R440794",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Berkeley National Laboratory",
+        "id": "5fc15f21-5b6d-4848-a043-3dceb4bd4592",
+        "title": "DuraMat Degradation Analysis Postdoctoral Fellow",
+        "active": true,
+        "date_updated": 1784337364,
+        "date_posted": 1784337013,
+        "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=107137",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
