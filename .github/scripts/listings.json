@@ -3,78 +3,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "9a5cd823-dd3b-4c1b-9b33-ff251618a60f",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763715757,
-        "date_posted": 1763715757,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038950",
-        "locations": [
-            "Fleet, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "American Express",
-        "id": "c52de270-f124-4edf-b970-37c40fe9f5e4",
-        "title": "Data Engineer 1 - Infra Data & Analytics",
-        "active": false,
-        "date_updated": 1763716613,
-        "date_posted": 1763716613,
-        "url": "https://aexp.eightfold.ai/careers/job/38902972",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "91b40f9f-63f8-4a92-ba60-6e162a7c1090",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763715755,
-        "date_posted": 1763715755,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038976",
-        "locations": [
-            "Brighton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3204e227-d24c-44aa-b2d3-20703bac9ee8",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763715757,
-        "date_posted": 1763715757,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038896",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "62e6b2d5-774a-4971-abe9-6a77856b3fb8",
         "title": "Trading Assistant - Shift",
         "active": false,
@@ -101,25 +29,6 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039002",
         "locations": [
             "Birmingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "758df9c8-fc0e-4d3b-9d70-48b5ea49e30b",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763715753,
-        "date_posted": 1763715753,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038993",
-        "locations": [
-            "Edinburgh, UK",
-            "Midlothian, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
@@ -164,24 +73,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ed4b7de0-4c59-45f6-948d-a6a1472c3ddd",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763715764,
-        "date_posted": 1763715764,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038963",
-        "locations": [
-            "Fleet, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -250493,7 +250384,7 @@
         "company_name": "Goldman Sachs",
         "id": "ad57e8fa-d0bd-4c63-9809-6141b7dda000",
         "title": "Asset & Wealth Management Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779343943,
         "date_posted": 1779343723,
         "url": "https://higher.gs.com/roles/168978",
@@ -269592,7 +269483,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -278611,7 +278502,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -293655,7 +293546,7 @@
         "company_name": "Texas Instruments",
         "id": "058b7d75-3a62-4309-9b1b-27083eeb374d",
         "title": "Career Accelerator Program - Systems Engineer - MS/PhD",
-        "active": true,
+        "active": false,
         "date_updated": 1781676361,
         "date_posted": 1781676236,
         "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25005001",
@@ -308467,7 +308358,7 @@
         "company_name": "Goldman Sachs",
         "id": "3ac699af-5c50-4a7c-81af-6dfb56f595db",
         "title": "Asset& Wealth Management-Software Engineering-Associate-New York",
-        "active": false,
+        "active": true,
         "date_updated": 1782742321,
         "date_posted": 1782742023,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/168978",
@@ -315577,7 +315468,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc5879a8-4b16-4bc4-90e6-ab5042dcaab1",
         "title": "Asset & Wealth Management - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1783041481,
         "date_posted": 1782742015,
         "url": "https://higher.gs.com/roles/176984",
@@ -315617,7 +315508,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -316654,7 +316545,7 @@
         "company_name": "KION Group",
         "id": "3aafa27e-591f-4c36-b70e-fa0d8e7d631c",
         "title": "Assembly Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1783156777,
         "date_posted": 1782955695,
         "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Assembly-Technician_JR-0088176-1",
@@ -321502,7 +321393,7 @@
         "company_name": "Goldman Sachs",
         "id": "6a36b7f9-3aea-44d6-b6a2-b8ba794476ea",
         "title": "Asset & Wealth Management - Product Management - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1783472761,
         "date_posted": 1781791629,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/173819",
@@ -326174,7 +326065,7 @@
         "company_name": "The Boeing Company",
         "id": "89e526cf-0e54-45c4-a433-624110773f9c",
         "title": "Product Data Management Specialist - Data Management - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1783646201,
         "date_posted": 1783555200,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Product-Data-Mgmt-Specialist--Data-Management---Engineering-_JR2026505081-1",
@@ -326708,7 +326599,7 @@
         "company_name": "GE Healthcare",
         "id": "46103e7b-140c-4409-9ed4-6d663674bf27",
         "title": "Field Service Engineer 1 - Anesthesia",
-        "active": true,
+        "active": false,
         "date_updated": 1783692669,
         "date_posted": 1783641600,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/PCS-Field-Service-Engineer-1---Anesthesia_R4043436-1",
@@ -328437,7 +328328,7 @@
         "company_name": "DraftKings",
         "id": "3b3b4d4b-e7f3-40bf-bc06-d4442188fc0f",
         "title": "Analyst 1 - Reach and Partnerships",
-        "active": false,
+        "active": true,
         "date_updated": 1783942450,
         "date_posted": 1783548765,
         "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Analyst-I--Research-and-Partnerships_JR14592",
@@ -330776,7 +330667,7 @@
         "company_name": "Becton Dickinson",
         "id": "34e8e96d-96c0-4716-8a7d-dc2e966b1994",
         "title": "Entry Level Automation Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784021292,
         "date_posted": 1783555200,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA---Michigan---Sterling-Heights/Automation-Service-Engineer--Ann-Arbor-Sterling-Heights--Michigan_R-550143",
@@ -331095,7 +330986,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -334904,7 +334795,7 @@
         "company_name": "ADT",
         "id": "6a6b7eb6-a6a2-4945-9938-f887606859be",
         "title": "Smart Home Consultant - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1784192317,
         "date_posted": 1784153348,
         "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021347",
@@ -336975,7 +336866,7 @@
         "company_name": "Newmont",
         "id": "7370520c-89d3-4038-b511-9357a4f2cbd4",
         "title": "Temp Technician - Core Shed",
-        "active": true,
+        "active": false,
         "date_updated": 1784279958,
         "date_posted": 1784239917,
         "url": "https://jobs.newmont.com/us/en/job/43816",
@@ -339029,6 +338920,47 @@
             "Omaha, NE"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mars",
+        "id": "54341115-e630-4bf3-adbd-85b2174da927",
+        "title": "Content & Data Systems Coordinator - Content & Data Systems",
+        "active": true,
+        "date_updated": 1784453215,
+        "date_posted": 1784246400,
+        "url": "https://mars.wd3.myworkdayjobs.com/external/job/USA-Tennessee-Franklin/Coodrinator--Content---Data-Systems_R160944-2",
+        "locations": [
+            "Franklin, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Mars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UL Solutions",
+        "id": "798eb9cc-a971-4622-b640-6f4db571967b",
+        "title": "Polymer Materials Chemist",
+        "active": true,
+        "date_updated": 1784451945,
+        "date_posted": 1784124546,
+        "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/9979",
+        "locations": [
+            "Neukirchen-Vluyn, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/UL-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
