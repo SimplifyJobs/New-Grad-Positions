@@ -3,81 +3,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "62e6b2d5-774a-4971-abe9-6a77856b3fb8",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763718554,
-        "date_posted": 1763718554,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038988",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8c28ed2b-bd70-4cad-af0b-fc847a901986",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763717714,
-        "date_posted": 1763717714,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039002",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "44cb0ad4-6669-4a31-93dc-5ca8ea4c0d81",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763717716,
-        "date_posted": 1763717716,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038992",
-        "locations": [
-            "Edinburgh, UK",
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zeiss",
-        "id": "85281894-5d9f-437a-a073-f56049182653",
-        "title": "3D Tomography Application Engineer",
-        "active": false,
-        "date_updated": 1763717647,
-        "date_posted": 1763717647,
-        "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Boise/XMLNAME-3D-Tomography-Application-Engineer_JR_1044312-1",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Zeiss",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "7a82eb50-4a90-4f54-831b-cc0db818865d",
         "title": "Trading Assistant - Shift",
         "active": false,
@@ -214,28 +139,6 @@
             "Birmingham, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oracle",
-        "id": "2a174ecc-736d-49a5-9e8e-7e8f41ad712b",
-        "title": "Java Software Engineer - Oracle Health and Analytics",
-        "active": false,
-        "date_updated": 1763719131,
-        "date_posted": 1763719131,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/316172",
-        "locations": [
-            "Seattle, WA",
-            "San Carlos, CA",
-            "Pleasanton, CA",
-            "Santa Clara, CA",
-            "Kansas City, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -250384,7 +250287,7 @@
         "company_name": "Goldman Sachs",
         "id": "ad57e8fa-d0bd-4c63-9809-6141b7dda000",
         "title": "Asset & Wealth Management Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1779343943,
         "date_posted": 1779343723,
         "url": "https://higher.gs.com/roles/168978",
@@ -275397,7 +275300,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -281838,7 +281741,7 @@
         "company_name": "Darktrace",
         "id": "79f33ef6-2e84-47c3-bede-0836e7005973",
         "title": "Product Content Executive",
-        "active": false,
+        "active": true,
         "date_updated": 1781082749,
         "date_posted": 1780438102,
         "url": "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Product-Content-Coordinator_JR101825",
@@ -293546,7 +293449,7 @@
         "company_name": "Texas Instruments",
         "id": "058b7d75-3a62-4309-9b1b-27083eeb374d",
         "title": "Career Accelerator Program - Systems Engineer - MS/PhD",
-        "active": false,
+        "active": true,
         "date_updated": 1781676361,
         "date_posted": 1781676236,
         "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25005001",
@@ -308358,7 +308261,7 @@
         "company_name": "Goldman Sachs",
         "id": "3ac699af-5c50-4a7c-81af-6dfb56f595db",
         "title": "Asset& Wealth Management-Software Engineering-Associate-New York",
-        "active": true,
+        "active": false,
         "date_updated": 1782742321,
         "date_posted": 1782742023,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/168978",
@@ -315468,7 +315371,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc5879a8-4b16-4bc4-90e6-ab5042dcaab1",
         "title": "Asset & Wealth Management - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1783041481,
         "date_posted": 1782742015,
         "url": "https://higher.gs.com/roles/176984",
@@ -315508,7 +315411,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -327910,7 +327813,7 @@
         "company_name": "Handshake",
         "id": "d7bf6fb3-03d0-4929-bf38-4073f1bff227",
         "title": "Strategic Projects Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1783766049,
         "date_posted": 1782857340,
         "url": "https://jobs.ashbyhq.com/handshake/8f8ed382-27c3-46d0-9c74-6293e9294cd4/application",
@@ -335575,7 +335478,7 @@
         "company_name": "TransUnion",
         "id": "89b14375-8bf7-4493-bd7f-1e4668a91bd8",
         "title": "Business Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784242513,
         "date_posted": 1783001326,
         "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Leeds-United-Kingdom/Solutions-Analyst_19040948",
@@ -338961,6 +338864,26 @@
             "Neukirchen-Vluyn, Germany"
         ],
         "company_url": "https://simplify.jobs/c/UL-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "c8945595-20d2-46f8-8647-88f20add37e6",
+        "title": "Software Engineer - Applied AI - Starlink",
+        "active": true,
+        "date_updated": 1784453221,
+        "date_posted": 1784452385,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8637712002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
