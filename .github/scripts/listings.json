@@ -1,62 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "e039a275-ac00-403e-ab6f-6a50536d677c",
-        "title": "SDA Software Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1763714084,
-        "date_posted": 1763714084,
-        "url": "https://careers-gdms.icims.com/jobs/69406/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Thrive Global",
-        "id": "d6eb9b0b-a9b8-47f9-9fcc-3c6343dd7d42",
-        "title": "AI Innovation Fellow",
-        "active": false,
-        "date_updated": 1763714830,
-        "date_posted": 1763714830,
-        "url": "https://ats.rippling.com/thriveglobal/jobs/4a65f5a4-f64f-4a5e-96b1-5413911e6ce0",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/ThriveGlobal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "T-Rex Solutions",
-        "id": "aa968dea-9621-46fd-827c-143ce514f04f",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1763714818,
-        "date_posted": 1763714818,
-        "url": "https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8301876002",
-        "locations": [
-            "Odenton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Rex-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "9a5cd823-dd3b-4c1b-9b33-ff251618a60f",
@@ -93,96 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Best Buy",
-        "id": "b8c09dd7-4783-47d0-bb08-12ef84e3f50f",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1763714827,
-        "date_posted": 1763714827,
-        "url": "https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career/job/00000-Canadian-Headquarters/Multiple-Data-Analyst-Roles_R-48329",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Best-Buy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Louisiana State University (LSU)",
-        "id": "728611e4-c7ce-4983-841e-263cec8eeaaa",
-        "title": "Postdoctoral Researcher",
-        "active": false,
-        "date_updated": 1763715529,
-        "date_posted": 1763715529,
-        "url": "https://lsu.wd1.myworkdayjobs.com/LSU/job/2056-Digital-Media-Center/Postdoctoral-Researcher_R00111205",
-        "locations": [
-            "Baton Rouge, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Louisiana-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TalentWerx",
-        "id": "bdfc0c2f-9329-4778-850d-9c51d2e3701b",
-        "title": "E01 Full Stack Developer 1",
-        "active": false,
-        "date_updated": 1763715041,
-        "date_posted": 1763715041,
-        "url": "https://jobs.lever.co/talentwerx.io/429066bc-94ea-428b-aa25-83d9ff0c710e/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/TalentWerx",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sonos",
-        "id": "4ded43d7-344d-43dc-b2a3-788519296a0e",
-        "title": "Junior Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1763713956,
-        "date_posted": 1763713956,
-        "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Glasgow---Sonos-Scotland/Junior-Machine-Learning-Engineer_R2590",
-        "locations": [
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sonos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amgen",
-        "id": "bb6b81f4-844d-4c60-ac50-55010942cfa7",
-        "title": "Senior Data Scientist",
-        "active": false,
-        "date_updated": 1763713866,
-        "date_posted": 1763713866,
-        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---Massachusetts---Cambridge/Senior-Data-Scientist_R-230939",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amgen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "91b40f9f-63f8-4a92-ba60-6e162a7c1090",
@@ -201,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Comcast",
-        "id": "4b4902e4-d88a-413e-a711-410111dcaea6",
-        "title": "Analyst - Enterprise Analytics",
-        "active": false,
-        "date_updated": 1763715015,
-        "date_posted": 1763715015,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Analyst--Enterprise-Analytics_R424630",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "3204e227-d24c-44aa-b2d3-20703bac9ee8",
@@ -231,45 +67,6 @@
             "Crawley, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Entrata",
-        "id": "e4e487c8-0a16-484f-b842-6f15e52975ba",
-        "title": "Data Analyst 1",
-        "active": false,
-        "date_updated": 1763714981,
-        "date_posted": 1763714981,
-        "url": "https://jobs.lever.co/entrata/e53e2bfd-e02c-48b3-9528-53d860847655/apply",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Entrata",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Early Warning",
-        "id": "a8775cd5-5e4b-4a99-929e-c57aa9baab79",
-        "title": "Software Engineer - Java - Contract",
-        "active": false,
-        "date_updated": 1763714328,
-        "date_posted": 1763714328,
-        "url": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/New-York-City/Software-Engineer---Java--Contract-_REQ2025955",
-        "locations": [
-            "SF",
-            "Chicago, IL",
-            "Scottsdale, AZ",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Early-Warning",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -328,26 +125,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Charles Schwab",
-        "id": "51c0ac82-bbc2-4845-9cb2-3e6122b4c960",
-        "title": "Junior Software Development Engineer",
-        "active": false,
-        "date_updated": 1763714192,
-        "date_posted": 1763714192,
-        "url": "https://career-schwab.icims.com/jobs/117180/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Charles-Schwab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -748,24 +525,6 @@
             "Highlands Ranch, CO"
         ],
         "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Gen",
-        "id": "ecc183fb-3972-4764-a0a6-cbf8c8ddaa64",
-        "title": "Product Management - Working Student",
-        "active": false,
-        "date_updated": 1763758453,
-        "date_posted": 1763714205,
-        "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---New-York-New-York/Product-Management-Intern_54908",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Gen",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -24854,24 +24613,6 @@
             "Manchester, UK"
         ],
         "company_url": "https://simplify.jobs/c/Turner-And-Townsend",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Covenant Health",
-        "id": "ce6c1103-0115-452b-aa5d-3f2d6948abe0",
-        "title": "Nurse Assistant Non-Cert",
-        "active": false,
-        "date_updated": 1765556520,
-        "date_posted": 1763714081,
-        "url": "https://careers-covenanthealth.icims.com/jobs/69323/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Covenant-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -258193,7 +257934,7 @@
         "company_name": "Elekta",
         "id": "2bef8297-48c9-430d-a0a8-4aa0694f67bf",
         "title": "Associate Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779819398,
         "date_posted": 1776895743,
         "url": "https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Louisiana--Home-Based/Associate-Field-Service-Engineer_R2026-0169",
@@ -296223,7 +295964,7 @@
         "company_name": "CoStar Group",
         "id": "2bc5a205-56bd-4f78-b7b0-f67a68066540",
         "title": "Associate Research Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1781772425,
         "date_posted": 1781360965,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/UK-London/Associate-Research-Consultant--CoStar---London_R38556",
@@ -299626,7 +299367,7 @@
         "company_name": "Acrisure",
         "id": "17eb8a6f-67ab-442f-927c-a803b6d8f192",
         "title": "Product Success Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1782117830,
         "date_posted": 1781917892,
         "url": "https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/816-Congress-Ave-Ste-1800----AUSTIN-TX/Product-Success-Specialist_JR113606",
@@ -309647,7 +309388,7 @@
         "company_name": "University of Texas at Austin",
         "id": "35ea5d76-cfd1-4d19-9520-439668fb7c63",
         "title": "Postdoctoral Fellow - Nanoassembly Lab",
-        "active": false,
+        "active": true,
         "date_updated": 1782897381,
         "date_posted": 1782770685,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow---Nanoassembly-Lab_R_00046997",
@@ -328233,7 +327974,7 @@
         "company_name": "GE Healthcare",
         "id": "211d5160-dd5b-403d-aa71-3b6dd6378ee9",
         "title": "Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783762313,
         "date_posted": 1783555200,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1_R4042917-1",
@@ -332211,7 +331952,7 @@
         "company_name": "Northrop Grumman",
         "id": "72857989-e862-4df3-a763-1be440fb5a9f",
         "title": "Data Analyst / Principal Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784071677,
         "date_posted": 1783987200,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Data-Analyst---Principal-Data-Analyst---18600_R10240328",
@@ -337116,7 +336857,7 @@
         "company_name": "Wash U",
         "id": "1a57c9ec-6a95-47a9-a89b-c29ccdee57d7",
         "title": "Neuroimaging Engineer - Neurology",
-        "active": false,
+        "active": true,
         "date_updated": 1784277239,
         "date_posted": 1781359627,
         "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Remote/Neuroimaging-Engineer--Remote----Neurology_JR94536",
@@ -339182,7 +338923,7 @@
         "company_name": "Neogen",
         "id": "2acf1a8b-f556-42a5-950b-a2bc13c5d6ad",
         "title": "Customer Data Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784401510,
         "date_posted": 1784160000,
         "url": "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Lincoln-NE/Customer-Data-Specialist-I_REQ-10830",
