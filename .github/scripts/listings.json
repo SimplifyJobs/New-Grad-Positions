@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Apple",
-        "id": "0544250a-00ca-4fb1-9dd0-2314da948c3d",
-        "title": "AIML Resident - Health",
-        "active": false,
-        "date_updated": 1763736290,
-        "date_posted": 1763736290,
-        "url": "https://jobs.apple.com/en-us/details/200630790",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Apple",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Apple",
-        "id": "51367323-c5e6-4367-be7b-971985467d00",
-        "title": "SoC Physical Design Engineer - Static Timing Analysis/Timing",
-        "active": false,
-        "date_updated": 1763735680,
-        "date_posted": 1763735680,
-        "url": "https://jobs.apple.com/en-us/details/200608691",
-        "locations": [
-            "Beaverton, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Apple",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Visa",
         "id": "ed28e4dd-a9ea-43b5-a104-22fa7b10dbe2",
@@ -275084,7 +275048,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
