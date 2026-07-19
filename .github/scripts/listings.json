@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BAE Systems",
-        "id": "9a1f96ae-d552-4200-9c9c-7db6d865999a",
-        "title": "Chemical Modelling - Ignition and Growth",
-        "active": false,
-        "date_updated": 1763692361,
-        "date_posted": 1763692361,
-        "url": "https://baesystems.taleo.net/careersection/2/jobdetail.ftl?job=00131944",
-        "locations": [
-            "Cardiff, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/BAE-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PharmD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Advanced Energy",
         "id": "67e54134-0a57-4814-af7c-ec51c9a99ec7",
