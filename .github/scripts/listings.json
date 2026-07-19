@@ -281505,7 +281505,7 @@
         "company_name": "RTX",
         "id": "dad0ca1d-738f-4aa4-a6f0-82385e963ad1",
         "title": "Modeling Simulation & Analysis Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781085845,
         "date_posted": 1780910173,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/XMLNAME-2026-Modeling-Simulation---Analysis-Engineer-I--Onsite_01825180",
@@ -338672,6 +338672,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "f2d5c1c7-8ded-4ba4-bc2e-c84e4c257373",
+        "title": "X-Ray/Mammography Field Engineer 1",
+        "active": true,
+        "date_updated": 1784461987,
+        "date_posted": 1784073600,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/CA19-01-San-Francisco-44-Montgomery/X-Ray-Mammography-Field-Engineer-I_R4043363-1",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
