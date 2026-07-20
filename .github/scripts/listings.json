@@ -273150,7 +273150,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -274116,7 +274116,7 @@
         "company_name": "S&C Electric Company",
         "id": "f26b1776-f5fe-489c-95fa-6479999186ed",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780698287,
         "date_posted": 1780697321,
         "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/106730",
@@ -283640,7 +283640,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "d3531016-1216-4618-820a-79eb7027353c",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781187017,
         "date_posted": 1781186686,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Cardiff/Software-Engineer-I_R112653",
@@ -301375,7 +301375,7 @@
         "company_name": "Tierpoint",
         "id": "ec6743ad-109d-425f-a2ac-59eab12de40c",
         "title": "Operations Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782398111,
         "date_posted": 1782396519,
         "url": "https://careers-tierpoint.icims.com/jobs/3006/job?mobile=true&needsRedirect=false",
@@ -337188,6 +337188,107 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "ec5d8a02-e212-41b7-beae-22d51584065e",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1784557997,
+        "date_posted": 1784505600,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry---Level-Software-Engineer_JR2026519286-1",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "dda7d74d-d65d-4a3c-9dc8-b54b84d1b217",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1784558006,
+        "date_posted": 1784505600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01854272",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "b4c1f817-bcdc-4513-a9a6-744a3bfcf515",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1784558004,
+        "date_posted": 1784505600,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry---Level-Software-Engineer_JR2026519286",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Halliburton",
+        "id": "336657f4-8f7f-47c5-a96f-73135c82762f",
+        "title": "Logging Geologist-Surface Data Logging - II",
+        "active": true,
+        "date_updated": 1784557925,
+        "date_posted": 1784556661,
+        "url": "https://jobs.halliburton.com/job/Aberdeen-Aberdeen-Logging-Geologist-SDL,-II-ABE-AB21-0GN/1410445400/?ats=successfactors",
+        "locations": [
+            "Aberdeen, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Halliburton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KAYAK",
+        "id": "393dc727-3264-4ec8-a08c-8633b621b07f",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1784557442,
+        "date_posted": 1784556701,
+        "url": "https://jobs.ashbyhq.com/KAYAK/1cd42283-0b84-448f-9aac-ca94b72db320/application?embed=true",
+        "locations": [
+            "Cambridge, MA",
+            "Concord, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/KAYAK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
