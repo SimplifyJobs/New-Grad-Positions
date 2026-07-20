@@ -26525,24 +26525,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Teledyne",
-        "id": "f9216bab-cfb1-46ea-a28a-62caf07e6393",
-        "title": "Manufacturing Technician SSP",
-        "active": false,
-        "date_updated": 1765979158,
-        "date_posted": 1763811633,
-        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---El-Segundo-CA/Manufacturing-Technician-SSP_REQ32050-1",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Michael Kors",
         "id": "6ab2c6e3-cccd-47f4-85c3-b0beef145074",
@@ -39061,24 +39043,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "226bcc7d-be34-4de5-8c0d-6411522dc313",
-        "title": "Field Engineer 1 - Monitoring Solutions",
-        "active": false,
-        "date_updated": 1763812288,
-        "date_posted": 1763812288,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-I---Monitoring-Solutions-Nashville--TN_R4024407-1",
-        "locations": [
-            "Knoxville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -285169,7 +285133,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "aded84fb-4d21-4dae-b6fc-4ee782d8a5ec",
         "title": "Post Doctoral Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781257358,
         "date_posted": 1781257150,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Post-Doctoral-Associate_JR101922",
@@ -288616,7 +288580,7 @@
         "company_name": "BlackRock",
         "id": "844eb16a-79ea-422c-8e34-590b8cf3f1b3",
         "title": "Quantitative Modeler - Associate - Qmr",
-        "active": true,
+        "active": false,
         "date_updated": 1781646572,
         "date_posted": 1781639067,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Quantitative-Modeler--Associate---QMR_R264630-1",
@@ -336596,7 +336560,7 @@
         "company_name": "FHLBank Topeka",
         "id": "a8969c6b-0534-4d5e-908a-45a01eb2a01c",
         "title": "Model Validation and Assurance Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784401711,
         "date_posted": 1784246400,
         "url": "https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Model-Validation-and-Assurance-Analyst-I_JR100369",
