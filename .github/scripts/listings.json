@@ -261812,7 +261812,7 @@
         "company_name": "Adobe",
         "id": "05086e88-742a-4c28-b7de-951c54ab9644",
         "title": "Research Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1779955811,
         "date_posted": 1778941541,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist_R167353",
@@ -331630,7 +331630,7 @@
         "company_name": "Sia Partners",
         "id": "1a20739d-1db9-4070-8a50-94f4de563b2e",
         "title": "Associate Consultant - Generative AI",
-        "active": true,
+        "active": false,
         "date_updated": 1784153161,
         "date_posted": 1784153107,
         "url": "https://jobs.smartrecruiters.com/Sia/744000137956110",
@@ -338501,5 +338501,46 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "b96ec365-a5fe-43fe-bfab-94fe98e6360d",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1784588581,
+        "date_posted": 1784586841,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8065549",
+        "locations": [
+            "Stamford, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "81f9d6d8-76eb-434a-aef9-4c176940d9f8",
+        "title": "Wireless Software Engineer - Starlink",
+        "active": true,
+        "date_updated": 1784587864,
+        "date_posted": 1784587541,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8637814002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
