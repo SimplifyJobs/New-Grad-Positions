@@ -249259,7 +249259,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -293582,7 +293582,7 @@
         "company_name": "Overlake Hospital Medical Center",
         "id": "21a8bc56-7e8e-43e2-9948-1b48e375ee7a",
         "title": "IS Systems Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781771860,
         "date_posted": 1781344913,
         "url": "https://overlakemedicalcenter.wd5.myworkdayjobs.com/overlake_external_career_site/job/Beyondsoft-Building/IS-Systems-Analyst-I_R-10879",
@@ -293736,7 +293736,7 @@
         "company_name": "CoStar Group",
         "id": "2bc5a205-56bd-4f78-b7b0-f67a68066540",
         "title": "Associate Research Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1781772425,
         "date_posted": 1781360965,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/UK-London/Associate-Research-Consultant--CoStar---London_R38556",
@@ -295550,7 +295550,7 @@
         "company_name": "GE Healthcare",
         "id": "24ee3d12-9b35-4c67-a394-f7756e2d8ef9",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781858628,
         "date_posted": 1781344839,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4041924-1",
@@ -307160,7 +307160,7 @@
         "company_name": "University of Texas at Austin",
         "id": "35ea5d76-cfd1-4d19-9520-439668fb7c63",
         "title": "Postdoctoral Fellow - Nanoassembly Lab",
-        "active": true,
+        "active": false,
         "date_updated": 1782897381,
         "date_posted": 1782770685,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow---Nanoassembly-Lab_R_00046997",
@@ -324272,7 +324272,7 @@
         "company_name": "Boston Consulting Group",
         "id": "5c11f224-5f7c-475c-ab82-c1b9a2075d4b",
         "title": "Enterprise Solutions Associate - Focus SAP - BCG Platinion",
-        "active": false,
+        "active": true,
         "date_updated": 1783674863,
         "date_posted": 1782956020,
         "url": "https://careers.bcg.com/global/en/job/787",
@@ -335186,7 +335186,7 @@
         "company_name": "Wise",
         "id": "4b189ec2-f2b0-4e15-8307-41504bb531be",
         "title": "Graduate Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784297161,
         "date_posted": 1784297097,
         "url": "https://jobs.smartrecruiters.com/Wise/744000138320359",
@@ -336695,7 +336695,7 @@
         "company_name": "Neogen",
         "id": "2acf1a8b-f556-42a5-950b-a2bc13c5d6ad",
         "title": "Customer Data Specialist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1784401510,
         "date_posted": 1784160000,
         "url": "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Lincoln-NE/Customer-Data-Specialist-I_REQ-10830",
@@ -337138,5 +337138,48 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Primetals Technologies",
+        "id": "5b9a3bf3-98a4-4993-9d9b-54fcaca9802a",
+        "title": "Operations Specialist - Monitoring Center",
+        "active": true,
+        "date_updated": 1784537500,
+        "date_posted": 1784153421,
+        "url": "https://mhicareers.com/job/Orlando-Operations-Specialist,-Monitoring-Center-FL-32809/1415503233/?ats=successfactors",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Primetals-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Squarepoint Capital",
+        "id": "3958e289-2cc7-46c2-b642-bef4e445c5d8",
+        "title": "Graduate Trading Applications Specialist",
+        "active": true,
+        "date_updated": 1784536381,
+        "date_posted": 1767742139,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6100081",
+        "locations": [
+            "Montreal, QC, Canada",
+            "London, UK",
+            "Houston, TX",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
