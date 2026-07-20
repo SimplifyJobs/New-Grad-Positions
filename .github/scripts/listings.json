@@ -1,172 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Thoughtworks",
-        "id": "1d051e78-9c54-4e71-86e0-767754c2f59c",
-        "title": "Consultant Graduate Developer",
-        "active": false,
-        "date_updated": 1763772990,
-        "date_posted": 1763772990,
-        "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7397123",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Thoughtworks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brookhaven Lab",
-        "id": "0578e341-6add-45bc-853f-8b0fee04481f",
-        "title": "Post-Doc Research",
-        "active": false,
-        "date_updated": 1763772975,
-        "date_posted": 1763772975,
-        "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Post-Doc-Research_JR102105",
-        "locations": [
-            "Shirley, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Leidos",
-        "id": "97727a0f-cbfc-4f70-bcab-c3e003c9b0a9",
-        "title": "Software Engineer - C++",
-        "active": false,
-        "date_updated": 1763772764,
-        "date_posted": 1763772764,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tewksbury-MA/Software-Engineer--C--_R-00169722",
-        "locations": [
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "T-Mobile",
-        "id": "6c0cec2a-3445-4241-a580-6b0ce3f70aff",
-        "title": "Associate Engineer",
-        "active": false,
-        "date_updated": 1763772655,
-        "date_posted": 1763772655,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Engineer_REQ338007",
-        "locations": [
-            "Frisco, TX",
-            "Bellevue, WA",
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "fa19847b-7727-47a3-b9ab-6ba22e2a409e",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1763772300,
-        "date_posted": 1763772300,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/b66e09db-5014-4870-a14e-e319b958fe70/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "9636e1b8-21b7-4e29-95c3-5b9f8f6097ed",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1763772297,
-        "date_posted": 1763772297,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/5512ddad-11a5-4e8e-89f6-64447746dc5c/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "5143b4df-220d-4c12-b528-1a6604a0c975",
-        "title": "Software Engineer - Entry",
-        "active": false,
-        "date_updated": 1763772298,
-        "date_posted": 1763772298,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/22e2aa5a-e9e8-409f-8dc2-312fed707d1b/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Caterpillar Inc.",
-        "id": "aa52db2a-8edd-453c-a75c-14d0e3a5b5a9",
-        "title": "Human-Machine Interface Digital Analyst",
-        "active": false,
-        "date_updated": 1763771659,
-        "date_posted": 1763771659,
-        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Alpharetta-Georgia/Human-Machine-Interface-Digital-Analyst_R0000336409",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Oshkosh",
-        "id": "0c345bda-4285-4eca-a75a-f981ee7ce224",
-        "title": "NASCAR Track Support Engineer-Entry Level",
-        "active": false,
-        "date_updated": 1763772026,
-        "date_posted": 1763772026,
-        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/NASCAR-Track-Support-Engineer-Entry-Level_R42834",
-        "locations": [
-            "Huntersville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Oshkosh",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "f907fc59-77e9-43a6-bcee-57098b1097aa",
@@ -637,55 +471,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Humana",
-        "id": "8c9015ef-386a-4959-b30b-ab5be14cfa62",
-        "title": "Associate Data Scientist - Marketing Analytics Capabilities",
-        "active": false,
-        "date_updated": 1763773139,
-        "date_posted": 1763773139,
-        "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Associate--Data-Scientist--Mktg-Analytics-Capabilities_R-390489",
-        "locations": [
-            "Boston, MA",
-            "Seattle, WA",
-            "Louisville, KY",
-            "Nashville, TN",
-            "Washington, DC",
-            "Tampa, FL",
-            "Dallas, TX",
-            "Chicago, IL",
-            "Fort Lauderdale, FL",
-            "NYC",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Humana",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "7a54f455-5f1f-4421-a261-ac0a7dfea6de",
-        "title": "Software Engineer AI Automation",
-        "active": false,
-        "date_updated": 1763773089,
-        "date_posted": 1763773089,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-AI-Automation/211876",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Manulife Financial",
         "id": "54a4141a-79de-40ca-bc88-5b15aecad826",
@@ -698,24 +483,6 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "419e9a97-5112-463f-bddc-ece2c1c294e1",
-        "title": "Postdoctoral Appointee - Cosmology - Spherex Galaxy Clusters",
-        "active": false,
-        "date_updated": 1763773026,
-        "date_posted": 1763773026,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Cosmology--SPHEREx-Galaxy-Clusters-_421458-1",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -737,60 +504,6 @@
         "company_url": "https://simplify.jobs/c/Amentum",
         "is_visible": true,
         "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Thoughtworks",
-        "id": "090643fe-ce5c-41a3-a9d8-dda0c303a98b",
-        "title": "Graduate Developer",
-        "active": false,
-        "date_updated": 1763772990,
-        "date_posted": 1763772990,
-        "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7373064",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Thoughtworks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vanderlande Industries",
-        "id": "06cefb99-267c-45bf-8b44-a9ce8b1dea27",
-        "title": "Mechanic Mechatronic 3",
-        "active": false,
-        "date_updated": 1763773087,
-        "date_posted": 1763773087,
-        "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/White/Mechanic-Mechatronic-III_JR34717-1",
-        "locations": [
-            "Council Bluffs, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/7ab55595-a241-4468-bf77-178371480131",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Wash U",
-        "id": "d85069ba-4891-4909-ac80-a6879e919533",
-        "title": "Postdoctoral Research Associate - Radiology",
-        "active": false,
-        "date_updated": 1763772911,
-        "date_posted": 1763772911,
-        "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Postdoctoral-Research-Associate---Radiology_JR91414",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Wash-U",
-        "is_visible": true,
-        "sponsorship": "Other",
         "degrees": []
     },
     {
@@ -17811,24 +17524,6 @@
             "Morrisville, NC"
         ],
         "company_url": "https://simplify.jobs/c/Deutsche-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Sysdig",
-        "id": "ea1072f7-4023-4d97-b51a-840d9b6e5864",
-        "title": "Senior Product Manager - East Coast",
-        "active": false,
-        "date_updated": 1765273656,
-        "date_posted": 1763771995,
-        "url": "https://jobs.lever.co/sysdig/2e7dc196-49b3-47cd-b5d3-66a5c2fce21d/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sysdig",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -38961,24 +38656,6 @@
             "Newcastle upon Tyne, UK"
         ],
         "company_url": "https://simplify.jobs/c/DXC-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ASSA ABLOY",
-        "id": "a4bdfe8c-5208-4c94-bef4-72393c28a913",
-        "title": "Test Facility Technician",
-        "active": false,
-        "date_updated": 1764755693,
-        "date_posted": 1763773119,
-        "url": "https://assaabloy.jobs2web.com/job/Mason-City-Test-Facility-Technician-IA-50401/1270022601/?ats=successfactors",
-        "locations": [
-            "Mason City, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
