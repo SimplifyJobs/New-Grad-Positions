@@ -1,168 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Aritzia",
-        "id": "57e91f44-6363-47ca-b5fd-b81e5cb36e40",
-        "title": "Product Senior Analyst/Analyst - Digital Product Management - Plm",
-        "active": false,
-        "date_updated": 1763769192,
-        "date_posted": 1763769192,
-        "url": "https://aritzia.wd3.myworkdayjobs.com/External/job/Support-Office-Vancouver/Product---Senior-Analyst-Analyst--Digital-Product-Management--PLM-_R0021505",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Aritzia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Light & Wonder",
-        "id": "02ee2e72-1a71-43f8-b96a-a5b8db365a19",
-        "title": "Production Test Tech 1",
-        "active": false,
-        "date_updated": 1763769108,
-        "date_posted": 1763769108,
-        "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Production-Test-Tech-I_R321100",
-        "locations": [
-            "Las Vegas, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Light-And-Wonder",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "fd31170e-7b39-4232-9a05-e56522c20f27",
-        "title": "Full Time - Software Development Engineer I",
-        "active": false,
-        "date_updated": 1763768973,
-        "date_posted": 1763768973,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI101-1847-W-Main-Rd-1847-W-Main-Road-Nimitz-Building-Portsmouth-RI-02871-USA/XMLNAME-2026-Full-Time---Software-Development-Engineer-I---Onsite--RI-_01808192",
-        "locations": [
-            "Bristol, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "f6ad290f-9b82-48b8-9328-175e17212070",
-        "title": "Modeling Simulation & Analysis Engineer 2",
-        "active": false,
-        "date_updated": 1763768957,
-        "date_posted": 1763768957,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ849-RMS-AP-Bldg-849-1151-East-Hermans-Road-Building-849-Tucson-AZ-85756-USA/Modeling-Simulation---Analysis-Engineer-II---Onsite_01797315",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sensata",
-        "id": "35b05f39-8081-404b-aab4-42ef82a8e346",
-        "title": "Engineering Lab Technician - Emc",
-        "active": false,
-        "date_updated": 1763768884,
-        "date_posted": 1763768884,
-        "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Engineering-Lab-Technician--EMC_IRC96180",
-        "locations": [
-            "Attleboro, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/sensata-tech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Perle",
-        "id": "2a393876-fd7d-4027-8c6a-d56bf5975edf",
-        "title": "English Language Specialist",
-        "active": false,
-        "date_updated": 1763768988,
-        "date_posted": 1763768988,
-        "url": "https://ats.rippling.com/perle/jobs/e0e43ac5-e697-4c63-bf8e-f5aa0d5acd94",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Perle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Perle",
-        "id": "25b8877d-ad5d-4ea7-bcd6-81281dec8e4d",
-        "title": "Farsi Language Specialist",
-        "active": false,
-        "date_updated": 1763768991,
-        "date_posted": 1763768991,
-        "url": "https://ats.rippling.com/perle/jobs/385615d7-f8f1-43aa-993f-105a0e2423a2",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Perle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Perle",
-        "id": "1f72486d-d63b-4d19-a4a6-da5333d3150d",
-        "title": "Mandarin Language Specialist (USA-based)",
-        "active": false,
-        "date_updated": 1763768995,
-        "date_posted": 1763768995,
-        "url": "https://ats.rippling.com/perle/jobs/cfdb3c23-1159-4461-8be9-4028a71fbebc",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Perle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Google",
-        "id": "d43517b4-0413-405e-bdfc-2720fe4b1d1c",
-        "title": "Software Engineer - AlloyDB Semantic Search",
-        "active": false,
-        "date_updated": 1763768824,
-        "date_posted": 1763768824,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/120884376987673286",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Microchip Technology",
         "id": "bcb8fc3b-f62c-4d1a-be82-1fc4a920946f",
@@ -293,24 +131,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Becker Friedman Institute for Economics",
-        "id": "68135bed-89a9-4222-80a4-6077cdedb922",
-        "title": "Research Professional",
-        "active": false,
-        "date_updated": 1763769568,
-        "date_posted": 1763769568,
-        "url": "https://job-boards.greenhouse.io/universityofchicago/jobs/7491304003",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Becker-Friedman-Institute-For-Economics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "The Boeing Company",
         "id": "5b4be754-2860-4730-bf9a-6a750da601e3",
         "title": "Systems Engineer - Operations/Systems Analyst",
@@ -322,24 +142,6 @@
             "Arlington, VA"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Grayce",
-        "id": "4f10db9c-c3d2-4510-8235-e65f85830bd1",
-        "title": "Graduate Digital Analyst",
-        "active": false,
-        "date_updated": 1763769395,
-        "date_posted": 1763769395,
-        "url": "https://apply.workable.com/grayce/j/FFAB3FD7DB/apply",
-        "locations": [
-            "Essex, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -9321,24 +9123,6 @@
             "Hawaii"
         ],
         "company_url": "https://simplify.jobs/c/Four-Seasons",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Perle",
-        "id": "50c5b556-fa30-4122-a8b4-6d5b87911017",
-        "title": "Hebrew Language Specialist",
-        "active": false,
-        "date_updated": 1763768987,
-        "date_posted": 1763768987,
-        "url": "https://ats.rippling.com/perle/jobs/4905fb62-b7d5-4fc7-9f2c-b4ed50dc9c9f",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Perle",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -36064,25 +35848,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "KPH Healthcare Services",
-        "id": "fdce107d-1a3e-460d-9e0e-070212933495",
-        "title": "Patient Benefit Specialist",
-        "active": false,
-        "date_updated": 1767091435,
-        "date_posted": 1763769593,
-        "url": "https://kphcareers-kphhealthcareservices.icims.com/jobs/13192/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Washington, DC",
-            "Vienna, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/KPH-Healthcare-Services",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Qualtrics",
         "id": "47f440b0-3fe8-4f10-a730-29481356d643",
@@ -40525,24 +40290,6 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "0905ab59-9b64-45fd-978e-84d8417dc496",
-        "title": "Composite Technician B",
-        "active": false,
-        "date_updated": 1763768071,
-        "date_posted": 1763768071,
-        "url": "https://jobs.l3harris.com/job/Huntsville-Composite-Technician-B-AL-35773/1344990100/?ats=successfactors",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -338338,5 +338085,41 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RWS",
+        "id": "98552b81-a14c-47cc-8832-28fb466dc1b7",
+        "title": "AI Data Specialist",
+        "active": true,
+        "date_updated": 1779834784,
+        "date_posted": 1779833210,
+        "url": "https://jobs.lever.co/rws/dd563b7b-74d5-4124-bb0b-89a8d44348ae/apply",
+        "locations": [
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/RWS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RWS",
+        "id": "aa42f4fa-9a75-46d4-b15c-9edf6678d943",
+        "title": "AI Data Specialist",
+        "active": true,
+        "date_updated": 1779228361,
+        "date_posted": 1779228342,
+        "url": "https://jobs.lever.co/rws/edfded6a-6a93-49cd-9b50-d0f74c3a41ac/apply",
+        "locations": [
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/RWS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
