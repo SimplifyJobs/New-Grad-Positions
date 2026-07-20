@@ -1,153 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "bcb8fc3b-f62c-4d1a-be82-1fc4a920946f",
-        "title": "Engineer 1 - Design",
-        "active": false,
-        "date_updated": 1763770898,
-        "date_posted": 1763770898,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I-Design_R2423-25",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Illumina",
-        "id": "91554628-f2f5-48f3-b727-06c7a3d6ffd6",
-        "title": "Engineer 1 - Development",
-        "active": false,
-        "date_updated": 1763770868,
-        "date_posted": 1763770868,
-        "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Engineer-1---Development_41419-JOB-1",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Illumina",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CoStar Group",
-        "id": "df89fe99-cd2b-43dd-82ab-ad28a4f2d213",
-        "title": "Associate HR Data Analyst",
-        "active": false,
-        "date_updated": 1763770704,
-        "date_posted": 1763770704,
-        "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Arlington/Associate-HR-Data-Analyst_R37484-1",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/CoStar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Visual Concepts",
-        "id": "9d97bf3c-c5b4-40b9-ab37-a5b63051eab3",
-        "title": "Game Analyst - NBA 2K",
-        "active": false,
-        "date_updated": 1763770641,
-        "date_posted": 1763770641,
-        "url": "https://job-boards.greenhouse.io/visualconcepts/jobs/7489198003",
-        "locations": [
-            "Novato, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/VisualConcepts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Via",
-        "id": "4a8656fb-c666-47f3-a1e3-e74f48970bdf",
-        "title": "Data Science Associate",
-        "active": false,
-        "date_updated": 1763770426,
-        "date_posted": 1763770426,
-        "url": "https://job-boards.greenhouse.io/via/jobs/8304049002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Via",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "NextEra Energy",
-        "id": "19e91b32-069b-4e02-99fc-5063a802a55c",
-        "title": "Product Manager 1",
-        "active": false,
-        "date_updated": 1763770493,
-        "date_posted": 1763770493,
-        "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Product-Manager-I-FL-33408/1335450900/?ats=successfactors",
-        "locations": [
-            "Palm Beach Gardens, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/NextEra-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mass General Brigham",
-        "id": "217b9a0e-9ec4-4d5c-b541-965db8d5f3ba",
-        "title": "Applications Analyst 1",
-        "active": false,
-        "date_updated": 1763769908,
-        "date_posted": 1763769908,
-        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Applications-Analyst-I_RQ4042883",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Boeing Company",
-        "id": "5b4be754-2860-4730-bf9a-6a750da601e3",
-        "title": "Systems Engineer - Operations/Systems Analyst",
-        "active": false,
-        "date_updated": 1763769703,
-        "date_posted": 1763769703,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Systems-Engineer--Operations-Systems-Analyst---Associate-and-Experienced-_JR2025485949-1",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Thoughtworks",
         "id": "1d051e78-9c54-4e71-86e0-767754c2f59c",
@@ -278,24 +131,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Redstone Federal Credit Union",
-        "id": "def0ce17-513c-4670-8483-136c275da985",
-        "title": "Data Analyst 1 - Finance",
-        "active": false,
-        "date_updated": 1763771445,
-        "date_posted": 1763771445,
-        "url": "https://redfcu.wd1.myworkdayjobs.com/rfcu/job/Huntsville-AL/Data-Analyst-I---Finance_R2692",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/2328cfbe-c418-49ac-bd3f-bc68cb7cec36",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Caterpillar Inc.",
         "id": "aa52db2a-8edd-453c-a75c-14d0e3a5b5a9",
@@ -326,78 +161,6 @@
             "Huntersville, NC"
         ],
         "company_url": "https://simplify.jobs/c/Oshkosh",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Teledyne",
-        "id": "8a00b50c-b885-44e1-b839-a88581fb74e9",
-        "title": "Technical Product Service Technician",
-        "active": false,
-        "date_updated": 1763771300,
-        "date_posted": 1763771300,
-        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Hudson-NH/Technical-Product-Service-Technician_REQ31798-1",
-        "locations": [
-            "Nashua, NH"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SandboxAQ",
-        "id": "282dbadb-9c6b-49f7-8f45-580f82e296f6",
-        "title": "Software Engineering Resident - AI",
-        "active": false,
-        "date_updated": 1763771388,
-        "date_posted": 1763771388,
-        "url": "https://www.sandboxaq.com/job-openings?gh_jid=5718741004",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/SandboxAQ",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "7479cf2c-d787-41fd-aa53-f8f729f9cc56",
-        "title": "Software Developer 1",
-        "active": false,
-        "date_updated": 1763771122,
-        "date_posted": 1763771122,
-        "url": "https://jobs.intuit.com/job/toronto/software-developer-1/27595/88685696272",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "KBR",
-        "id": "59e806ab-22b8-4f08-9ca7-443659fa9b08",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1763770997,
-        "date_posted": 1763770997,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2115655-1",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -3133,24 +2896,6 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "OneRail",
-        "id": "3eb91961-056f-4648-934c-ee20a0cc9e80",
-        "title": "Onerail",
-        "active": false,
-        "date_updated": 1764076656,
-        "date_posted": 1763771188,
-        "url": "https://onerail.applytojob.com/apply/CNOA6LYsNb/Product-Analyst-Integrations",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/OneRail",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -327410,7 +327155,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "bccb0dfa-4860-48ad-b80e-49337e7356a5",
         "title": "College Sports Systems Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1783952462,
         "date_posted": 1783951796,
         "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/4956a424-8147-4366-b403-95b89e2ba748/application",
