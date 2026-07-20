@@ -337290,5 +337290,107 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "United Parcel Service (UPS)",
+        "id": "3249c05e-dc97-4543-b9b7-4ac9a9df176b",
+        "title": "Associate App Developer-Java",
+        "active": true,
+        "date_updated": 1784560141,
+        "date_posted": 1784505600,
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Associate-App-Developer--Java_R26020266",
+        "locations": [
+            "Indiana"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "RF-SMART",
+        "id": "9fdf30a2-416d-4bfb-9ee4-7acfe70b94d8",
+        "title": "Product Analyst 1 - Automation",
+        "active": true,
+        "date_updated": 1784560006,
+        "date_posted": 1784558132,
+        "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5363087008",
+        "locations": [
+            "Highlands Ranch, CO",
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/f006a158-9398-482e-9a19-a635e79862ae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Foot Locker",
+        "id": "b6d26674-02dd-4d33-b66b-c7262e0d6a87",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1784559421,
+        "date_posted": 1784556788,
+        "url": "https://careers.footlocker.com/jobs/71035?icims=1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Foot-Locker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "TD Bank",
+        "id": "03a2d7df-fdb2-4bbf-ad0f-6e82db22d8b6",
+        "title": "Research Associate - Quantitative Research Team - TD Asset Management",
+        "active": true,
+        "date_updated": 1784559421,
+        "date_posted": 1784505600,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Research-Associate--Quantitative-Research-Team---TD-Asset-Management_R_1500864",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Halliburton",
+        "id": "6bf28357-2909-4953-9186-9aa232203f00",
+        "title": "Logging Geologist SDL - 2",
+        "active": true,
+        "date_updated": 1784559844,
+        "date_posted": 1784556660,
+        "url": "https://jobs.halliburton.com/job/Aberdeen-Aberdeen-Logging-Geologist-SDL,-II-ABE-AB21-0GN/1410444500/?ats=successfactors",
+        "locations": [
+            "Aberdeen, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Halliburton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
