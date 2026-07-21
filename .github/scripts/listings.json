@@ -276255,7 +276255,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -328739,7 +328739,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -333927,7 +333927,7 @@
         "company_name": "Citi",
         "id": "6d79e4e4-0194-40a1-8bdb-af23a1575053",
         "title": "Markets Quantitative Analysis",
-        "active": true,
+        "active": false,
         "date_updated": 1784241352,
         "date_posted": 1784160000,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Full-Time-Analyst--New-York---USA--2027_26978780",
@@ -339047,5 +339047,1121 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zededa",
+        "id": "54eb8a09-3206-49de-ab52-5f7361b9dae4",
+        "title": "Software Engineer - AI & Edge Kubernetes Orchestration",
+        "active": true,
+        "date_updated": 1784598911,
+        "date_posted": 1784596725,
+        "url": "https://ats.rippling.com/zededa/jobs/3e34a738-5eb1-405d-b46b-e9737226f5be",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zededa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Supper",
+        "id": "de79e0dc-5609-42ef-8312-c5808709ec5f",
+        "title": "Forward Deployed Data Analyst",
+        "active": true,
+        "date_updated": 1784598827,
+        "date_posted": 1784596656,
+        "url": "https://ats.rippling.com/supper/jobs/efb530ae-91fc-4593-9b67-b0cbe9a314b9",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/57551d2d-1f21-42f2-a7f5-de43796f1f9e",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Critical Response Group",
+        "id": "8b5fce07-250c-4bee-82e2-01faa32996d2",
+        "title": "Field Mapping Associate",
+        "active": true,
+        "date_updated": 1784598845,
+        "date_posted": 1784596669,
+        "url": "https://ats.rippling.com/critical-response-group/jobs/6dc635bb-c283-4d0b-bd70-603b92b4fd21",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/12289134-2dfa-4371-9b91-74451b17748c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zededa",
+        "id": "a6c9e89f-2433-4341-82a6-aa201ad90379",
+        "title": "Software Engineer - Core team",
+        "active": true,
+        "date_updated": 1784598744,
+        "date_posted": 1784596724,
+        "url": "https://ats.rippling.com/zededa/jobs/f289c83c-1afd-47fd-bd2a-f57fdba3fd4e",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zededa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Frec Markets, Inc.",
+        "id": "1bf9f9f5-3286-4f19-a215-7dea806f51ed",
+        "title": "Growth Product Manager Associate - Customer Acquisition",
+        "active": true,
+        "date_updated": 1784598784,
+        "date_posted": 1784596731,
+        "url": "https://jobs.ashbyhq.com/frec/fc4ac3ad-bb6f-4eeb-b5ac-db93c9a381a7/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/fe48eea7-1560-4da3-8da0-23beaf0c4f24",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Backbone Systems",
+        "id": "1f4098c1-71c5-46d4-a2a8-15e10722b2aa",
+        "title": "Founding Engineer - Applied Research",
+        "active": true,
+        "date_updated": 1784598123,
+        "date_posted": 1784596706,
+        "url": "https://jobs.ashbyhq.com/backbone/cbfce5dc-e2c7-452e-bb23-2dac1198df7d/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Backbone-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Morris Health Technologies Inc.",
+        "id": "87686f55-6312-4dc1-a69b-1b70710add27",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1784598614,
+        "date_posted": 1784596567,
+        "url": "https://jobs.ashbyhq.com/morrishealthtech/21e734ca-b012-438d-af22-ff30ea12bf39/application?embed=true",
+        "locations": [
+            "Logan, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/03bad7ab-c243-4994-9306-73ac9b38f14b",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Logiqal",
+        "id": "c755ab4c-e91e-4619-895d-5645bd121697",
+        "title": "Optical Systems Engineer",
+        "active": true,
+        "date_updated": 1784598123,
+        "date_posted": 1784596566,
+        "url": "https://jobs.ashbyhq.com/logiqal/271933d2-8444-4035-986b-ccaeab326732/application?embed=true",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/f3b2abae-8549-421f-ad65-6b3736db6639",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Valinor",
+        "id": "66fa9c33-4570-4bc3-99ea-4ccffd19d14b",
+        "title": "Full-Stack Software Engineer - C2 & Tactical Integration",
+        "active": true,
+        "date_updated": 1784598123,
+        "date_posted": 1784596573,
+        "url": "https://jobs.ashbyhq.com/valinor/c2fbf6c0-fa83-4f51-885d-3ac09eb1e80e/application?embed=true",
+        "locations": [
+            "Monterey, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Valinor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Maigrate",
+        "id": "81410c86-5eab-481e-b83a-d9aef5ae21a3",
+        "title": "Junior AI Engineer",
+        "active": true,
+        "date_updated": 1784598123,
+        "date_posted": 1784596534,
+        "url": "https://jobs.ashbyhq.com/maigrate/8bfd51bb-0cef-4fc3-9b9d-5d30bce8d813/application?embed=true",
+        "locations": [
+            "Jamaica, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/409e335c-067c-43f4-9973-2f34e231d8e0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Revel",
+        "id": "f18e1c6b-1286-4e39-af87-b217d7a605a7",
+        "title": "Software Engineer - Test - Entry-Junior",
+        "active": true,
+        "date_updated": 1784598123,
+        "date_posted": 1784596675,
+        "url": "https://jobs.ashbyhq.com/revel/014c6445-bf8c-4213-ad97-faa83d129199/application?embed=true",
+        "locations": [
+            "SF",
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Revel-IO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Revel",
+        "id": "befb95ee-468b-47b8-9575-5fcbc777da7a",
+        "title": "Full Stack Software Engineer - Entry-Junior",
+        "active": true,
+        "date_updated": 1784598123,
+        "date_posted": 1784596675,
+        "url": "https://jobs.ashbyhq.com/revel/49e46e96-e266-4ef6-8b62-e056d695dc52/application?embed=true",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Revel-IO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Teleskope",
+        "id": "36105160-307d-40ce-b0bd-e200d768a5fd",
+        "title": "Junior AI Engineer - Data Annotation",
+        "active": true,
+        "date_updated": 1784598544,
+        "date_posted": 1784596494,
+        "url": "https://jobs.ashbyhq.com/teleskope/7b4960a8-e829-474c-aa4d-d88cb2118c26/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/32b9b535-8eb0-4554-a468-373d6775cde4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Simile",
+        "id": "22b43b67-f988-474a-b37a-41fa90f1aec1",
+        "title": "Forward Deployed Engineer - Member of Technical Staff",
+        "active": true,
+        "date_updated": 1784598123,
+        "date_posted": 1784596484,
+        "url": "https://jobs.ashbyhq.com/simile/f3b88e25-c2c6-4564-8bd1-df1d86ad31a7/application?embed=true",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/b56c8164-b68f-4124-86bf-cf99d785e3aa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Revel",
+        "id": "037fa901-97c4-4099-8f01-dd0399bbef6a",
+        "title": "Embedded Software Engineer - Entry-Junior",
+        "active": true,
+        "date_updated": 1784598123,
+        "date_posted": 1784596675,
+        "url": "https://jobs.ashbyhq.com/revel/444b5704-3840-4b0a-ba34-f82eab8c430f/application?embed=true",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Revel-IO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DLS Engineering Associates, Inc.",
+        "id": "85d5f698-d3a7-44d8-ba19-1f5bb9c76509",
+        "title": "Mid-Level Software Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1784598467,
+        "date_posted": 1784596668,
+        "url": "https://ats.rippling.com/dlsengineering/jobs/54c5b4d2-bd37-40e2-a157-cab7d8c4226b",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/32898145-513e-4646-9ea6-fa2873ac532e",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lynx Software Technologies, Inc.",
+        "id": "c22551d8-08a3-420b-bc07-57307de5fe28",
+        "title": "Systems Engineering Technologist",
+        "active": true,
+        "date_updated": 1784598371,
+        "date_posted": 1784596650,
+        "url": "https://ats.rippling.com/lynx-software-technologies/jobs/1f23415a-ea5d-4e3f-9cad-ad4dec9aa4d2",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/50cefb01-88df-487e-ad74-b315296dc0a3",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Agility PR Solutions",
+        "id": "6d2c2cb5-ad11-4392-8611-fa4dacaddd3a",
+        "title": "Media Analyst",
+        "active": true,
+        "date_updated": 1784598376,
+        "date_posted": 1784596649,
+        "url": "https://ats.rippling.com/agilitypr/jobs/a5d209bc-f6a2-4278-aab9-e470119a61c7",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/532bc09a-4a6e-480d-aee6-e48c2dd573b4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Supernova Technology",
+        "id": "00620949-7bbd-4342-a515-87e57990c860",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1784598359,
+        "date_posted": 1784596650,
+        "url": "https://ats.rippling.com/supernova-technology/jobs/7ea1a05c-b0e6-4f1a-b53c-193ce3d91502",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/99fea2f6-d40d-4312-bafe-88a2f629680d",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Whc",
+        "id": "e7bbbe13-fdde-4ddc-a6b2-11c6f25daf56",
+        "title": "Product Owner Digital Infrastructure - Digital Infrastructure",
+        "active": true,
+        "date_updated": 1784598245,
+        "date_posted": 1784596623,
+        "url": "https://ats.rippling.com/whc/jobs/f49f0c6b-9321-4f0e-99da-f03809128908",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/82b7a601-2bad-4ec0-a23e-23bd508cd79a",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Les Olson IT",
+        "id": "d6d6cb1e-e2cf-4e95-a057-eb52e6b82b7b",
+        "title": "Print and Image Service Technician",
+        "active": true,
+        "date_updated": 1784598203,
+        "date_posted": 1784596612,
+        "url": "https://ats.rippling.com/les-olson-it/jobs/d7c52af6-f44a-48dc-862c-8f90f4c27909",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/fc2e208c-23f8-4997-9422-3970dc53d3ba",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Les Olson IT",
+        "id": "3e37df61-3664-4a02-bfa1-4524333cec51",
+        "title": "Print and Image Service Technician",
+        "active": true,
+        "date_updated": 1784598212,
+        "date_posted": 1784596613,
+        "url": "https://ats.rippling.com/les-olson-it/jobs/f4bdafda-8d23-4ab8-9012-8244e1d077dc",
+        "locations": [
+            "Ogden, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/fc2e208c-23f8-4997-9422-3970dc53d3ba",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vortex Companies, LLC",
+        "id": "235d8840-df58-48d8-8809-bcb07403c8c4",
+        "title": "Robotic Engineering Technician",
+        "active": true,
+        "date_updated": 1784598229,
+        "date_posted": 1784596618,
+        "url": "https://ats.rippling.com/vortex-companies-llc/jobs/79676646-b359-4208-b23c-80f2f65a5963",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/8ad4ee0f-0d4c-4d89-9281-6a702eacc4f2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Noviam Inc.",
+        "id": "d2544f60-cd38-4b42-8324-9875e9be30f2",
+        "title": "Client Trading Analyst",
+        "active": true,
+        "date_updated": 1784598155,
+        "date_posted": 1784596604,
+        "url": "https://ats.rippling.com/noviam/jobs/a694ee50-5cb6-45c1-a1c1-24c11302338f",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/653aad93-c179-44b5-8da3-0403333698f6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Glass Roots Construction, LLC",
+        "id": "6ff60b2d-a99b-4ef7-be1d-e3488827eba8",
+        "title": "Fiber Optic Splicer",
+        "active": true,
+        "date_updated": 1784598161,
+        "date_posted": 1784596607,
+        "url": "https://ats.rippling.com/glass-roots-construction-llc/jobs/769f92ed-ba34-43e7-aef4-7fc826d816d4",
+        "locations": [
+            "Reno, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/fe50f380-26fb-4e98-860d-4ea9819b4e40",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tuesday Health",
+        "id": "583ba91a-b167-4485-b880-4421fdebf5a5",
+        "title": "Data Analyst - Clinical Operations",
+        "active": true,
+        "date_updated": 1784598134,
+        "date_posted": 1784596599,
+        "url": "https://ats.rippling.com/jobs-at-tuesday-health/jobs/3c25b99c-39d8-4928-9deb-d1a64d816b81",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/1b6716cb-e11b-4b7c-b824-4d86d28ea387",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citylogix Inc.",
+        "id": "a61d2533-62dc-4fe1-9f5d-a9dba2f9255f",
+        "title": "Field Data Collection Technician",
+        "active": true,
+        "date_updated": 1784598147,
+        "date_posted": 1784596605,
+        "url": "https://ats.rippling.com/citylogix/jobs/c6b77049-2fcf-4bd9-8d96-03a67d17f0ba",
+        "locations": [
+            "Las Vegas, NV",
+            "Seattle, WA",
+            "Dallas, TX",
+            "Wakefield, MA",
+            "Phoenix, AZ",
+            "Bellevue, WA",
+            "Denver, CO",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/c16363aa-c9a1-4796-91d9-11de47269bec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Noviam Inc.",
+        "id": "7f7708f8-60e0-45e9-83a1-b622de309e47",
+        "title": "Noviam Investment Analyst",
+        "active": true,
+        "date_updated": 1784598166,
+        "date_posted": 1784596606,
+        "url": "https://ats.rippling.com/noviam/jobs/2d19cf7b-8fbc-4ad1-851e-38f17ed0c656",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/653aad93-c179-44b5-8da3-0403333698f6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Onware",
+        "id": "6456e17c-f678-4b61-ae7a-bb6023a5a1ae",
+        "title": "Analytics Consultant",
+        "active": true,
+        "date_updated": 1784598163,
+        "date_posted": 1784596606,
+        "url": "https://ats.rippling.com/onware/jobs/a51c1e8e-628a-4399-a6a8-28fd4180eb96",
+        "locations": [
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ee6743be-7d7e-46c8-991e-36d9229825c5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Proper Voltage",
+        "id": "4ad4d5d3-e2ca-4f73-aa5b-bffb158a1aad",
+        "title": "Associate Product & Programs Engineer",
+        "active": true,
+        "date_updated": 1784598135,
+        "date_posted": 1784596603,
+        "url": "https://ats.rippling.com/proper-voltage/jobs/a24948f9-25cd-4174-94b9-a14dc8971939",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/43c13ac1-b960-4767-9019-2f55b6a2cd0a",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tavern Research",
+        "id": "1b94db6b-dd0f-4ed4-8bcb-426f4736c007",
+        "title": "Data Scientist 1",
+        "active": true,
+        "date_updated": 1784598138,
+        "date_posted": 1784596605,
+        "url": "https://ats.rippling.com/tavernresearch/jobs/1a3cfbeb-973a-4528-8fc6-43c04e179ea8",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/3e8fa2fe-c892-4a84-8ed7-c32b8fbc9820",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Peakhealth AI Inc",
+        "id": "f863b27b-8e81-4649-88fb-276417087564",
+        "title": "AI Product Manager",
+        "active": true,
+        "date_updated": 1784598139,
+        "date_posted": 1784596605,
+        "url": "https://ats.rippling.com/peakhealth-ai/jobs/65f2319e-f462-4358-9ff5-6b4e56041b90",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/c82e8dd8-8ed7-4d50-940a-d03b289736ab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bloom Growth",
+        "id": "3bf25066-222f-48ac-827a-d9f4bec52703",
+        "title": "Software Product Owner",
+        "active": true,
+        "date_updated": 1784598014,
+        "date_posted": 1784596577,
+        "url": "https://ats.rippling.com/bloomgrowth/jobs/34e67ce0-7c83-452f-8cf6-336c60defdfa",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/ad830b3b-8559-4a43-9250-302f3fe23762",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sylvera",
+        "id": "fd1be064-00e6-43ab-ace6-f2d9e52e6295",
+        "title": "Carbon Analyst",
+        "active": true,
+        "date_updated": 1784597404,
+        "date_posted": 1784596573,
+        "url": "https://jobs.ashbyhq.com/sylvera/c13b52bb-4162-4d30-b233-487abdb08944/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sylvera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sylvera",
+        "id": "d80da277-ca69-4b98-8cd7-82a973f5c16f",
+        "title": "Lidar Technician",
+        "active": true,
+        "date_updated": 1784597404,
+        "date_posted": 1784596574,
+        "url": "https://jobs.ashbyhq.com/sylvera/f3de4a22-0839-4691-ae01-2a13fd26ab11/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sylvera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Runpod",
+        "id": "c5fcea16-f224-42aa-9e2e-6da4137424ee",
+        "title": "Full-Stack Software Engineer - Full-Stack",
+        "active": true,
+        "date_updated": 1784597962,
+        "date_posted": 1784596571,
+        "url": "https://jobs.ashbyhq.com/runpod/87e39052-6819-4332-86ba-81e5ba9785dd/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Runpod",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorway",
+        "id": "be7a07eb-cdcf-4beb-b397-d81adeeffce7",
+        "title": "Senior iOS Engineer",
+        "active": true,
+        "date_updated": 1784597404,
+        "date_posted": 1784596568,
+        "url": "https://jobs.ashbyhq.com/motorway/46db37d5-ed4c-40c8-87f1-94cd030553ee/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/c6bffd7f-d0bf-40ba-bb04-7e8d5d62fd15",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Packz",
+        "id": "a9432e02-af17-408c-bd3e-b6f7f958091d",
+        "title": "iOS Engineer",
+        "active": true,
+        "date_updated": 1784597912,
+        "date_posted": 1784596551,
+        "url": "https://jobs.ashbyhq.com/packz/dd3c3954-2180-4d37-bd4d-baa2fb934902/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ab6145b7-7c27-48db-9fb6-b948b95ee678",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Focal",
+        "id": "95dbbfea-b072-44f1-a033-05228bbc1a1b",
+        "title": "Field Deployment Engineer - Entry Level",
+        "active": true,
+        "date_updated": 1784597902,
+        "date_posted": 1784596555,
+        "url": "https://jobs.ashbyhq.com/focal/f83af2f4-3d80-42fc-b1b5-8e65342ce152/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/e5e190b6-269e-4a8a-b2f2-ee2c28d83295",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorway",
+        "id": "614f571f-bfc5-4df6-be09-786e4f1dd4b7",
+        "title": "Senior Android Engineer",
+        "active": true,
+        "date_updated": 1784597404,
+        "date_posted": 1784596567,
+        "url": "https://jobs.ashbyhq.com/motorway/470b20b3-a354-47b9-8550-d6b917c3e3ad/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/c6bffd7f-d0bf-40ba-bb04-7e8d5d62fd15",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Castle",
+        "id": "49359bde-573c-4530-af6e-e13563e1ff13",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1784597404,
+        "date_posted": 1784596555,
+        "url": "https://jobs.ashbyhq.com/castle/932f2d90-0233-4f8c-9ca6-5bf63b88d6cd/application?embed=true",
+        "locations": [
+            "Cambridge, MA",
+            "Catskill, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/a44b786f-4946-4d96-a05f-3ef4e23ba2d3",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "NumerixS Quant",
+        "id": "ef055bfb-25be-4266-9961-0b9b7e24bb02",
+        "title": "Quantitative Analyst",
+        "active": true,
+        "date_updated": 1784597404,
+        "date_posted": 1784596554,
+        "url": "https://jobs.ashbyhq.com/numerixs-quant/ae69634e-327b-4708-ae73-07fc812ab72b/application?embed=true",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/2dda7a70-a08c-47ba-88b4-5145c6157e2a",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Brainbase Labs",
+        "id": "6ccd63e5-c214-4937-9f21-d095f19d1ae8",
+        "title": "Founding Engineer",
+        "active": true,
+        "date_updated": 1784597404,
+        "date_posted": 1784596545,
+        "url": "https://jobs.ashbyhq.com/brainbaselabs/54fe9496-006d-4604-94a0-90258f2c3dd3/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/d52af626-a653-4a1c-b70c-d2961b65d3e5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "endeavorai.com",
+        "id": "40e2fdfc-acb5-47d6-8840-3499fd5901c8",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1784597848,
+        "date_posted": 1784596539,
+        "url": "https://jobs.ashbyhq.com/endeavorai/e397ddef-2102-40e5-82e8-cd1e126f9da8/application?embed=true",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/4b1c0dc2-79aa-4b9b-a785-9b28b0aeb819",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Firetiger",
+        "id": "ded7326e-5564-41be-adf4-964fe99051d7",
+        "title": "Product Engineer New Grad",
+        "active": true,
+        "date_updated": 1784597791,
+        "date_posted": 1784596520,
+        "url": "https://jobs.ashbyhq.com/firetiger/a65c30a8-6bdb-4258-9d6a-5e6e90ff86e6/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/960c6ef5-d183-4a92-a011-fdb324f93cfe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hipp Health",
+        "id": "2ddc678f-eab8-41af-aace-5d5fb90b0e1d",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1784597790,
+        "date_posted": 1784596520,
+        "url": "https://jobs.ashbyhq.com/hipp/ea04e914-674c-4c05-b40a-7e8a035bad14/application?embed=true",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/f473c82a-c1cf-4e5e-8d3b-f514e20d9665",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Strada",
+        "id": "8900ebd2-3908-4311-861b-2774c0681730",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1784597823,
+        "date_posted": 1784596531,
+        "url": "https://jobs.ashbyhq.com/stradahq/626411c6-808e-4eb2-b28d-76f5d88e0af6/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/9c17bcd2-b55a-46cc-a200-f360ffc5533f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salesforce",
+        "id": "ceee05f6-44e6-4990-abd6-547bbff168a8",
+        "title": "Software Engineering Member of Technical Staff - Full Stack",
+        "active": true,
+        "date_updated": 1784597759,
+        "date_posted": 1784505600,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS--Full-Stack_JR352457",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cohort AI Inc.",
+        "id": "de42fe19-a406-4689-988c-3c42fd8b0821",
+        "title": "Associate Data Engineer",
+        "active": true,
+        "date_updated": 1784596685,
+        "date_posted": 1784596503,
+        "url": "https://jobs.ashbyhq.com/cohort/1ccefa5e-f19c-4753-99ff-e05cfdbf671e/application?embed=true",
+        "locations": [
+            "Naperville, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/4b8c1fc7-c01c-4789-92da-5529002b3496",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Monogram",
+        "id": "7b28ad1a-3b67-44fa-9397-e62fd4fab9d3",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1784596685,
+        "date_posted": 1784596487,
+        "url": "https://jobs.ashbyhq.com/monogram/83fe2f22-953f-4848-b09c-fc9d78c655d1/application?embed=true",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ab5178d7-aa82-473f-b7c3-1e80a72a6f15",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Embedding VC",
+        "id": "6d45c124-a55b-42b9-91ce-c2a6748876d5",
+        "title": "AI Research Engineer",
+        "active": true,
+        "date_updated": 1784596685,
+        "date_posted": 1784596491,
+        "url": "https://jobs.ashbyhq.com/embedding-vc/925e9460-e2db-45ee-86d3-69d497106272/application?embed=true",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/aee370f8-2100-48c2-8c89-5b13871fbe75",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Monogram",
+        "id": "a1522c95-4497-4da3-bc77-f5edd6d238d7",
+        "title": "Monogram Fellow",
+        "active": true,
+        "date_updated": 1784596685,
+        "date_posted": 1784596482,
+        "url": "https://jobs.ashbyhq.com/monogram/266ea87b-24b5-4b0d-be57-57eb4bc69df7/application?embed=true",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ab5178d7-aa82-473f-b7c3-1e80a72a6f15",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Simple AI",
+        "id": "7842a386-1b4c-467e-a31e-13c433e89358",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1784596685,
+        "date_posted": 1784596484,
+        "url": "https://jobs.ashbyhq.com/simple-ai/bc8b4fee-f2df-4c15-9e91-c87cf1afd08c/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/d2d230b6-cad8-4044-b55a-101eb5640fd5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apiphany",
+        "id": "45f9bf7a-34f7-48f8-93df-4a905d6c7dda",
+        "title": "Full Stack Engineer",
+        "active": true,
+        "date_updated": 1784597487,
+        "date_posted": 1784596482,
+        "url": "https://jobs.ashbyhq.com/apiphany/e4d2827e-5d85-486c-84e3-a6059ca4f0f5/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/32939a7c-359b-4ba7-8e69-5056bdbdd924",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vmax AI Corp",
+        "id": "242213e9-bbe0-4913-a052-26f570d8359a",
+        "title": "Research Fellow - Open Endedness",
+        "active": true,
+        "date_updated": 1784597476,
+        "date_posted": 1784596479,
+        "url": "https://jobs.ashbyhq.com/vmax/c4e1e51b-65c5-41f0-9bed-c90bc452859b/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/1fb5c993-46ed-456c-b351-dd89628f1e89",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aurelius Systems",
+        "id": "9d3a37c4-077e-4638-ad61-25a1bce894a9",
+        "title": "Hardware Technician",
+        "active": true,
+        "date_updated": 1784596685,
+        "date_posted": 1784596471,
+        "url": "https://jobs.ashbyhq.com/aureliussystems/70b086d1-3f32-4dd0-aef4-adeb281ee40e/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/c2a0981c-18ab-490b-ab0e-2bf74b140296",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Archy",
+        "id": "ccec55af-3020-4ce4-9a46-d24c1dff05aa",
+        "title": "Migration Automation Software Engineer",
+        "active": true,
+        "date_updated": 1784596685,
+        "date_posted": 1784596449,
+        "url": "https://jobs.ashbyhq.com/archy/5eb1c3cd-1031-4699-b89c-9bd94f15783b/application?embed=true",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/ce947725-b826-4907-95c1-0a992ddb392a",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Sauna",
+        "id": "184decd3-a68c-4bef-819a-470ea5a74672",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1784596685,
+        "date_posted": 1784596440,
+        "url": "https://jobs.ashbyhq.com/sauna.ai/3f22e2fe-2a2e-42b8-a9bf-756c26ba5f5b/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/011ca3ec-99ae-4b70-917d-7e5d2a4e89bf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
