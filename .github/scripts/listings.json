@@ -39582,24 +39582,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "8c22edd5-37f2-4ea3-b8bb-0d6e527b5cb0",
-        "title": "New College Graduate Engineer - Design",
-        "active": false,
-        "date_updated": 1763900154,
-        "date_posted": 1763900154,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/United-Kingdom---Cambridge/New-College-Graduate-Engineer---Design_R2345-25",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Prysmian Cables & Systems",
         "id": "30dd5dbc-1240-4c11-965b-134eb0282e8e",
         "title": "Jointing Technician",
@@ -248840,7 +248822,7 @@
         "company_name": "The Boeing Company",
         "id": "31d71f2a-9a18-4322-9731-399a235bc668",
         "title": "Hardware Subsystems Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779487934,
         "date_posted": 1779487866,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Hardware-Subsystems-Engineer----Associate-or-Experienced-_JR2026510994",
@@ -317959,7 +317941,7 @@
         "company_name": "PURE Insurance",
         "id": "49dbad76-2285-4d9f-851e-a14db699d25c",
         "title": "State Management Product Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1783463041,
         "date_posted": 1783462473,
         "url": "https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Chicago/State-Management-Product-Analyst_R2693",
@@ -318257,7 +318239,7 @@
         "company_name": "EXL",
         "id": "c46c59e7-80b8-4494-acf4-94ec39d2d300",
         "title": "Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783472942,
         "date_posted": 1783472888,
         "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/16842",
@@ -319349,7 +319331,7 @@
         "company_name": "Cambridge Associates",
         "id": "49b905b6-7c18-4233-aaa8-6f7e1ce5e06e",
         "title": "Investment Analyst - Venture Capital",
-        "active": false,
+        "active": true,
         "date_updated": 1783549622,
         "date_posted": 1783548707,
         "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/Boston/Investment-Analyst--Venture-Capital_JR0000335",
@@ -319758,7 +319740,7 @@
         "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
         "id": "2ef54b60-3789-4c6c-9334-f82a476cfc90",
         "title": "Application Developer 1 - Power Platform",
-        "active": false,
+        "active": true,
         "date_updated": 1783548743,
         "date_posted": 1783548322,
         "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Offices-at-Vernon-Place/Application-Developer-I--Power-Platform_JR222607",
@@ -322687,7 +322669,7 @@
         "company_name": "Micron Technology",
         "id": "6c2fe943-5778-43b7-9845-06428b3eec92",
         "title": "Design Engineer New Grad - Design Engineer - DRAM Technology and Products",
-        "active": false,
+        "active": true,
         "date_updated": 1783636672,
         "date_posted": 1783555200,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR105519",
@@ -322792,7 +322774,7 @@
         "company_name": "Cadence Design Systems",
         "id": "ff412e91-a5e3-48f6-8ed1-fa4ac83c5e81",
         "title": "Software Engineer New Grad - Undergrads",
-        "active": false,
+        "active": true,
         "date_updated": 1783636335,
         "date_posted": 1783555200,
         "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894",
@@ -341739,6 +341721,49 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Baker Tilly",
+        "id": "e8cc1f0b-b9c4-4556-9174-cb286c1e23f3",
+        "title": "Associate Data Engineer",
+        "active": true,
+        "date_updated": 1784623502,
+        "date_posted": 1783159580,
+        "url": "https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-TX-Frisco/Associate-Data-Engineer_JR106581",
+        "locations": [
+            "Frisco, TX",
+            "Madison, WI",
+            "Tampa, FL",
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Baker-Tilly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "1a22f6de-6cee-4fe0-a021-eeef9cdb81ea",
+        "title": "Senior Software Engineer - Software Engineering",
+        "active": true,
+        "date_updated": 1784635357,
+        "date_posted": 1783462430,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ222853-1",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
