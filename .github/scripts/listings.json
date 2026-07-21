@@ -323279,7 +323279,7 @@
         "company_name": "Boston Consulting Group",
         "id": "5c11f224-5f7c-475c-ab82-c1b9a2075d4b",
         "title": "Enterprise Solutions Associate - Focus SAP - BCG Platinion",
-        "active": true,
+        "active": false,
         "date_updated": 1783674863,
         "date_posted": 1782956020,
         "url": "https://careers.bcg.com/global/en/job/787",
@@ -323740,7 +323740,7 @@
         "company_name": "Ryan Specialty",
         "id": "3ef20c8f-78f5-4228-873c-4e934a646234",
         "title": "Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1783721524,
         "date_posted": 1783641600,
         "url": "https://ryansg.wd5.myworkdayjobs.com/en-US/Ryan_Specialty_Career_Site/job/Richmond---Virginia/Data-Analyst_JR26-4964-1",
@@ -325858,7 +325858,7 @@
         "company_name": "Microchip Technology",
         "id": "f331ee8d-ffb5-4460-8ad2-003f3021b428",
         "title": "Engineer 1 - Software",
-        "active": false,
+        "active": true,
         "date_updated": 1783981038,
         "date_posted": 1783900800,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---Santa-Rosa---Westwind/Engineer-I---Software_R2844-26",
@@ -326445,7 +326445,7 @@
         "company_name": "The Walt Disney Company",
         "id": "02e5fdd1-d85a-4ba4-a308-481a5a59f884",
         "title": "Product Operations Manager 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783982718,
         "date_posted": 1783900800,
         "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Operations-Manager-I_10154625",
@@ -326836,7 +326836,7 @@
         "company_name": "Vishay Intertechnology",
         "id": "e30c5e4d-fcff-441f-ab50-793f0a59237f",
         "title": "Design Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783982153,
         "date_posted": 1783900800,
         "url": "https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Duluth-MN/Design-Engineer-I_JR-18717",
@@ -326956,7 +326956,7 @@
         "company_name": "NVIDIA",
         "id": "3280f6de-005d-4216-bc5c-c1052e58d650",
         "title": "Compiler Engineer AI Inference New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1783982095,
         "date_posted": 1783900800,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--AI-Inference--New-College-Grad-2026_JR2021230",
@@ -327000,7 +327000,7 @@
         "company_name": "Milwaukee Tool",
         "id": "105c3126-384f-4e87-837d-063dffc60a79",
         "title": "Applied Machine Learning Engineer 1 - Advanced Engineering & Technology",
-        "active": false,
+        "active": true,
         "date_updated": 1783982071,
         "date_posted": 1783900800,
         "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Brookfield-WI/Applied-Machine-Learning-Engineer-I---Advanced-Engineering---Technology_R75643",
@@ -327228,7 +327228,7 @@
         "company_name": "NVIDIA",
         "id": "58e0500b-3577-4e69-9d43-b710f8155f10",
         "title": "Backend Compiler Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1783992294,
         "date_posted": 1783900800,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242",
@@ -341765,5 +341765,63 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Milwaukee Tool",
+        "id": "3c582ba3-ac19-4b5e-bf8d-8f095d9f8f30",
+        "title": "Repair Tech 1",
+        "active": true,
+        "date_updated": 1784624942,
+        "date_posted": 1783900800,
+        "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Greenwood-MS/Repair-Tech-1_R75661",
+        "locations": [
+            "Greenwood, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Milwaukee-Tool",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "3e20c933-d849-415e-b9d6-3553f4b2db6f",
+        "title": "Post-silicon Validation and Debug Engineer",
+        "active": true,
+        "date_updated": 1784638603,
+        "date_posted": 1782424959,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Post-silicon-Validation-and-Debug-Engineer_JR0284687",
+        "locations": [
+            "Hillsboro, OR",
+            "Folsom, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Acorns",
+        "id": "8498a27b-6194-4320-b7b7-dcbae0ff12b8",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1784638638,
+        "date_posted": 1783721509,
+        "url": "https://jobs.ashbyhq.com/Acorns/89e8c629-36d6-48a3-9b64-0a48d290f36c/application?embed=true",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Acorns",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
