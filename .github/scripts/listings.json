@@ -202235,7 +202235,7 @@
         "company_name": "Scientific Games",
         "id": "bd7e6997-8a0a-4a02-9790-a88c7a27235b",
         "title": "Bench Tech 1",
-        "active": false,
+        "active": true,
         "date_updated": 1776295360,
         "date_posted": 1776290958,
         "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Columbus-OH/Bench-Tech-I_R504611",
@@ -223452,7 +223452,7 @@
         "company_name": "McKesson",
         "id": "b6f45935-4a59-4442-a3b4-257ac48ab46f",
         "title": "Product Development Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1777587804,
         "date_posted": 1777586892,
         "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-VA-Richmond/Product-Development-Coordinator--Hybrid_JR0143232",
@@ -288928,7 +288928,7 @@
         "company_name": "CACI",
         "id": "a9d9ef99-80e5-4ffe-a59e-6c8e6229a7f3",
         "title": "Junior C# Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781646123,
         "date_posted": 1781639275,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/Bethesda-MD-US/Junior-C--Software-Engineer_327770",
@@ -316667,7 +316667,7 @@
         "company_name": "Illinois Tool Works",
         "id": "47e15701-8350-4806-9e72-912b4f89f705",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783462326,
         "date_posted": 1783462266,
         "url": "https://careers.itw.com/global/en/job/JR8874",
@@ -317605,7 +317605,7 @@
         "company_name": "TD Synnex",
         "id": "306e4ed9-6bd2-4e10-b8fe-5d6bc446b90d",
         "title": "Electronic Repair Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783463744,
         "date_posted": 1783462631,
         "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Groveport-Ohio-United-States/Electronic-Repair-Technician-I-WW_R52518-1",
@@ -319912,7 +319912,7 @@
         "company_name": "AcuityMD",
         "id": "b5c78897-f495-4390-9607-22be34b2d35b",
         "title": "Data Analyst - Software Engineering Track",
-        "active": true,
+        "active": false,
         "date_updated": 1783550594,
         "date_posted": 1783550087,
         "url": "https://job-boards.greenhouse.io/acuitymd/jobs/6111981004",
@@ -320764,7 +320764,7 @@
         "company_name": "Generac",
         "id": "6323b048-4972-4a8b-820a-ad28bd5ab688",
         "title": "Data Science Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1783549622,
         "date_posted": 1783548749,
         "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Data-Science-Analyst_JR15318",
@@ -323748,7 +323748,7 @@
         "company_name": "Integrity",
         "id": "dd8f457d-8504-4e96-9788-306f132e5ae9",
         "title": "Data Integrity Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1783721161,
         "date_posted": 1783641600,
         "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/St-Albans-WV/Data-Integrity-Specialist_JR4338",
@@ -324240,7 +324240,7 @@
         "company_name": "The Home Depot",
         "id": "a189b636-d294-4696-a12f-457f49c240b5",
         "title": "Associate Data Scientist - Decision Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1783722242,
         "date_posted": 1783641600,
         "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---Decision-Analytics_Req186435",
@@ -324746,7 +324746,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "f582972e-e7c0-4d00-941e-67ece4906d06",
         "title": "UiPath Robotic Process Automation Developer Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1783836872,
         "date_posted": 1783814400,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Home-Office-LAHOME/UiPath-Robotic-Process-Automation-Developer-Associate_RQ223293-1",
@@ -332806,7 +332806,7 @@
         "company_name": "Citi",
         "id": "943f0044-c7a6-45de-9201-e5abf845cfae",
         "title": "Markets \u2013 Sales and Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1784241364,
         "date_posted": 1784160000,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Markets---Sales-and-Trading--Full-Time-Analyst--New-York---USA--2027_26979638",
@@ -342597,6 +342597,109 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/632a53fd-0c7b-47b9-9b99-afb72538f479",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "e4b8cd51-b869-4105-a6b8-5375ad8594b6",
+        "title": "Electrical Engineer - Power Systems Design",
+        "active": true,
+        "date_updated": 1784658500,
+        "date_posted": 1783641600,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-or-Principal-Engineer-Electrical---Power-Systems-Design_R10239670",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "274aa428-8769-4ec7-ab3b-c7010c375afe",
+        "title": "Junior Systems Engineer",
+        "active": true,
+        "date_updated": 1784647262,
+        "date_posted": 1783641600,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Systems-Engineer_328922",
+        "locations": [
+            "Springfield, VA",
+            "St. Louis, MO",
+            "Denver, CO",
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ncino",
+        "id": "adfde478-b8ce-47d8-b289-ee3292a4af67",
+        "title": "Associate Software Engineer 2",
+        "active": true,
+        "date_updated": 1784658056,
+        "date_posted": 1783641600,
+        "url": "https://ncino.wd5.myworkdayjobs.com/en-US/nCinoCareers/job/London-UK/Associate-Software-Engineer-2_R6300",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NCino",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASML",
+        "id": "b5c59d1a-9c80-455f-9138-838c0b983ddd",
+        "title": "Manufacturing Technician - Back Half Days",
+        "active": true,
+        "date_updated": 1784646544,
+        "date_posted": 1783548329,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Manufacturing-Technician---Back-Half-Days_J-00347439",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ASML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "43438076-cec7-4da9-96c7-ef727cd46965",
+        "title": "Probe Card Engineer New Grad - Probe Card Engineer",
+        "active": true,
+        "date_updated": 1784657048,
+        "date_posted": 1783462727,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Probe-Card-Engineer_JR105216",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
