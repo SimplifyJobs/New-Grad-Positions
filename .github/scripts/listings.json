@@ -226936,7 +226936,7 @@
         "company_name": "NVIDIA",
         "id": "ae5192ab-5b33-474f-b52a-660a64e80529",
         "title": "GPU Power Architect New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1777684501,
         "date_posted": 1777684077,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Power-Architect---New-College-Grad-2026_JR2017169",
@@ -229421,7 +229421,7 @@
         "company_name": "NVIDIA",
         "id": "66eb3818-d5e6-44ad-a145-ac9c1394f98e",
         "title": "Machine Learning Applications and Compiler Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778019936,
         "date_posted": 1778019051,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016937",
@@ -230049,7 +230049,7 @@
         "company_name": "Micron Technology",
         "id": "cac834af-10dd-4206-ad1c-d46be647b983",
         "title": "Design Validation Product Engineer - DEG Technology",
-        "active": false,
+        "active": true,
         "date_updated": 1778029561,
         "date_posted": 1778029519,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Design-Validation-Product-Engineer--DEG-Technology_JR100261",
@@ -231673,7 +231673,7 @@
         "company_name": "Autodesk",
         "id": "5c8a98c5-fd71-49a1-a18e-0288492a5163",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1778106241,
         "date_posted": 1778105388,
         "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_25WD91160-1",
@@ -233612,7 +233612,7 @@
         "company_name": "Medavie",
         "id": "8524276b-8fb8-4816-ae38-9e5bd17f7298",
         "title": "Snowflake Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1778193361,
         "date_posted": 1778191576,
         "url": "https://medaviehs.wd10.myworkdayjobs.com/Medavie_External/job/Nova-Scotia/Snowflake-Developer_R-267771",
@@ -234920,7 +234920,7 @@
         "company_name": "Pennsylvania State University",
         "id": "2996a6ee-f2d3-435c-ac5f-483d0768559e",
         "title": "Postdoctoral Scholar - Gong Lab",
-        "active": false,
+        "active": true,
         "date_updated": 1778278141,
         "date_posted": 1778278066,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Environmental-Health-Science-and-Geospatial-Science--Gong-Lab_REQ_0000078246-1",
@@ -243675,7 +243675,7 @@
         "company_name": "EOS IT Solutions",
         "id": "2fc92f90-9072-4d65-92fe-6fdb60448368",
         "title": "Data Center Repair Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1778919841,
         "date_posted": 1777673274,
         "url": "https://eosits.com/company/careers/?gh_jid=8527286002",
@@ -252587,7 +252587,7 @@
         "company_name": "University of Miami",
         "id": "40941787-3b64-4d01-823b-25e2b6aee563",
         "title": "Healthcare Risk Management Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1779820742,
         "date_posted": 1778941578,
         "url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Healthcare-Risk-Management-Specialist_R100096906",
@@ -253739,7 +253739,7 @@
         "company_name": "Dow Jones",
         "id": "411c3968-1db9-400d-9249-7089efe85b77",
         "title": "People Insights Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779821282,
         "date_posted": 1778941763,
         "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/London-1-London-Bridge-St/Analyst--People-Insights_Job_Req_52878",
@@ -258045,7 +258045,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": true,
+        "active": false,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -281578,7 +281578,7 @@
         "company_name": "Jabil",
         "id": "017376e4-553b-4f7c-b74f-807f5d873a1e",
         "title": "Electronic Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781170427,
         "date_posted": 1781169596,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Electronic-Technician-I_J2448563",
@@ -341517,6 +341517,103 @@
             "Louisiana"
         ],
         "company_url": "https://simplify.jobs/c/Louisiana-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The Home Depot",
+        "id": "69c37196-9476-4480-b3db-6e036374b1f6",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1784613421,
+        "date_posted": 1782956871,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Product-Manager_Req179163",
+        "locations": [
+            "Georgia"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Home-Depot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moog ",
+        "id": "bdd1c6b4-5ef4-4eb4-9170-fe4f64d18ea3",
+        "title": "Assembly & Test Technicians",
+        "active": true,
+        "date_updated": 1784613421,
+        "date_posted": 1783162692,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Tewkesbury-GBR/Assembly---Test-Technician---Afternoon-Shift_R-26-17584-1",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "3bc5242c-9222-474e-aec4-3ae65557b90a",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1784617778,
+        "date_posted": 1781360988,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant_REQ_0000078034-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Argonne National Laboratory",
+        "id": "6cb13044-28d6-4291-9684-4c9f64739102",
+        "title": "Postdoctoral Appointee - Convective Storms and Severe Weather",
+        "active": true,
+        "date_updated": 1784613421,
+        "date_posted": 1781360861,
+        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Convective-Storms-and-Severe-Weather_422701",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "26122aac-15c6-4bb8-8587-10eb5fa433c0",
+        "title": "RF Microwave Design Principal Engineer - SkillBridge",
+        "active": true,
+        "date_updated": 1784617370,
+        "date_posted": 1782957553,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Engineer-Principal-Engineer-RF-Microwave-Design--SkillBridge-_R10231212",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
