@@ -1,187 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Centene",
-        "id": "4bfaf25c-a9a8-482b-835b-849803bb2865",
-        "title": "Business Solutions Developer 1",
-        "active": false,
-        "date_updated": 1763889011,
-        "date_posted": 1763889011,
-        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-OH/Business-Solutions-Developer-I_1601216",
-        "locations": [
-            "New Mexico",
-            "Cunningham, KS",
-            "Kansas",
-            "Pennsylvania",
-            "Oconomowoc, WI",
-            "Texas",
-            "Florida",
-            "Wichita, KS",
-            "South Carolina",
-            "Edmond, OK",
-            "Tennessee",
-            "Minnesota",
-            "Kentucky",
-            "Fort Gibson, OK",
-            "Wisconsin",
-            "North Carolina",
-            "Missouri",
-            "Illinois",
-            "McKenzie, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Centene",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0644ba76-28d0-4ff7-968c-3f90900a5422",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763890132,
-        "date_posted": 1763890132,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035430",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "da38f820-61a4-4249-b7a7-c0c3e75bf015",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763890135,
-        "date_posted": 1763890135,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039284",
-        "locations": [
-            "Bracknell, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "4f8865ce-d442-4934-8a87-342d14041fa8",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763890133,
-        "date_posted": 1763890133,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039478",
-        "locations": [
-            "Nuneaton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "64a0be14-6aae-4f66-a375-0efa8036387e",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1763890148,
-        "date_posted": 1763890148,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039336",
-        "locations": [
-            "Tunbridge Wells, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "VaynerMedia",
-        "id": "f84c5882-e532-4698-9cda-06d17e0c48dd",
-        "title": "Resident \u2013 Data Analytics",
-        "active": false,
-        "date_updated": 1763889419,
-        "date_posted": 1763889419,
-        "url": "https://vaynermedia.com/careers?gh_jid=7417014",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/VaynerMedia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Perle",
-        "id": "4e072999-95e3-42e4-b687-0c26c23c6770",
-        "title": "Ukrainian Language Specialist (Canada or US-based)",
-        "active": false,
-        "date_updated": 1763889089,
-        "date_posted": 1763889089,
-        "url": "https://ats.rippling.com/perle/jobs/b344304f-21d2-4604-9778-1afac2c3f354",
-        "locations": [
-            "Remote in USA",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Perle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northwood Space",
-        "id": "c4881d6a-5c33-4e9d-a384-0fd643a7e3b4",
-        "title": "Global Sites Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1763889035,
-        "date_posted": 1763889035,
-        "url": "https://jobs.ashbyhq.com/NorthwoodSpace/baa85b78-5718-4e74-9b21-170776dc4185/application",
-        "locations": [
-            "Carson, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northwood-Space",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Perle",
-        "id": "e983d45d-84fe-4928-bdf7-17bee9b88f4c",
-        "title": "Portuguese Language Specialist",
-        "active": false,
-        "date_updated": 1763889050,
-        "date_posted": 1763889050,
-        "url": "https://ats.rippling.com/perle/jobs/fdf883df-c148-45ee-8c75-673d1c4b005d",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Perle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "8c998265-ff09-49df-a3e5-3078fe2da4a3",
@@ -15954,24 +15773,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Service Corporation International",
-        "id": "24717486-0de1-483c-98ca-741d80791222",
-        "title": "Product Specialist 1",
-        "active": false,
-        "date_updated": 1765116250,
-        "date_posted": 1763888785,
-        "url": "https://sci.wd5.myworkdayjobs.com/sci/job/OH---Cincinnati/Product-Specialist-I_Req155437",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/981ac81d-186b-4d3b-a98f-1bce1b03c41a",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "L3Harris Technologies",
         "id": "c3bb7752-ed83-4bdf-aa22-bb1891b0aea5",
@@ -18131,24 +17932,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Leidos",
-        "id": "cd6d795e-898f-4ac1-9e32-9371ffe6150b",
-        "title": "GenAI Contact Center as a Service Application Developer",
-        "active": false,
-        "date_updated": 1765363947,
-        "date_posted": 1763889795,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/GENAI-CCAS-Application-Developer_R-00170128",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "D2L",
         "id": "4f5e74ec-73cb-4c30-887b-3f97e6fdacd6",
         "title": "Software Developer \u2013 New Graduate",
@@ -18307,24 +18090,6 @@
             "Redmond, WA"
         ],
         "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Leidos",
-        "id": "deb07f7d-f3d0-4255-a529-010cf9b5c39c",
-        "title": "Electronics Mechanical Assembly Technician",
-        "active": false,
-        "date_updated": 1765372138,
-        "date_posted": 1763889847,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronics-Mechanical-Assembly-Technician_R-00168633",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -35754,29 +35519,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Analog Devices",
-        "id": "ff763df4-1004-4999-a59b-e66141e0cc4f",
-        "title": "Digital Design Engineer",
-        "active": false,
-        "date_updated": 1763889435,
-        "date_posted": 1763889435,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/Digital-Design-Engineer_R255049",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Centennial, CO",
-            "Colorado Springs, CO",
-            "Dallas, TX",
-            "Durham, NC",
-            "Lowell, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AtkinsR\u00e9alis",
         "id": "36328d95-1d3d-4128-9a15-c51b6cedbda7",
@@ -36101,24 +35843,6 @@
             "Chandler, AZ"
         ],
         "company_url": "https://simplify.jobs/c/ARRAY-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "2637f1d5-4e4d-4a09-8532-4a091c4f5985",
-        "title": "Field Engineer 1 - Kingman - AZ",
-        "active": false,
-        "date_updated": 1763888804,
-        "date_posted": 1763888804,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1---Kingman--AZ_R4028558-1",
-        "locations": [
-            "Kingman, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -38968,27 +38692,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "cbd0222c-f9dd-44fb-985c-c877282da256",
-        "title": "Field Engineer 1 - New Orleans - LA",
-        "active": false,
-        "date_updated": 1763888635,
-        "date_posted": 1763888635,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1---New-Orleans--LA_R4030428-1",
-        "locations": [
-            "New Orleans, LA",
-            "Cocodrie, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Cox",
         "id": "8ead22f9-5809-4983-aca9-43c0840223b0",
@@ -39349,24 +39052,6 @@
             "New Glasgow, NS, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Uhaul",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Analog Devices",
-        "id": "44bc3cf0-7c1a-4540-ba43-a47f57cabbeb",
-        "title": "Electronics Lab Technician",
-        "active": false,
-        "date_updated": 1763889400,
-        "date_posted": 1763889400,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Electronic-Labs-Technician_R257163",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -58107,27 +57792,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Miami",
-        "id": "33977b82-8c75-4508-b93f-83f063a173cf",
-        "title": "Postdoctoral Scholar",
-        "active": false,
-        "date_updated": 1768561216,
-        "date_posted": 1763889295,
-        "url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Post-Doctoral-Scholar_R100087909",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Miami",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD",
-            "MD"
         ]
     },
     {
@@ -177720,7 +177384,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "35bdadb3-6dd8-4e23-b36d-a34aa8762510",
+        "id": "5a03e922-9be2-4e12-9821-b01d8c92b5e6",
         "title": "Uncertainty Quantification for Surrogate Models Postdoctoral Researcher",
         "active": true,
         "date_updated": 1774972621,
@@ -203261,7 +202925,7 @@
         "company_name": "Applied Materials",
         "id": "380b4398-963e-4f3d-967c-a86d18cdf0d4",
         "title": "Applied Early Career Program - Field Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776294739,
         "date_posted": 1776290957,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/PhoenixAZ/Applied-Early-Career-Program---Field-Service-Engineer_R2617841",
@@ -204556,7 +204220,7 @@
         "company_name": "NVIDIA",
         "id": "d0e06f19-99c0-4b3a-b8eb-f4b89a83b0a8",
         "title": "ASIC Verification Engineer \u2013 New College Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1776302616,
         "date_posted": 1776301730,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Durham/ASIC-Verification-Engineer---New-College-Grad-2026_JR2016248",
@@ -266603,7 +266267,7 @@
         "company_name": "The Boeing Company",
         "id": "a04562b9-7b11-4524-893e-827c8551693a",
         "title": "Spacecraft Software Engineer Associate - Millennium Space Systems",
-        "active": false,
+        "active": true,
         "date_updated": 1780362999,
         "date_posted": 1780362603,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Software-Engineer--Associate-or-Mid-Level---Millennium-Space-Systems_JR2026512895",
@@ -266750,7 +266414,7 @@
         "company_name": "Viavi Solutions",
         "id": "2fb0855c-5d5c-48b4-bc69-3bec76722181",
         "title": "Engineering Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780362541,
         "date_posted": 1780362462,
         "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Lenexa-KS-USA/Engineering-Technician_260004707-1",
@@ -266810,7 +266474,7 @@
         "company_name": "William & Mary",
         "id": "27354c8c-170b-488f-bbc8-61fbc488b26f",
         "title": "Physics Fellow - Experimental Particle Physics",
-        "active": false,
+        "active": true,
         "date_updated": 1780380540,
         "date_posted": 1780380262,
         "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Posting-Location---William--Mary/Postdoctoral-Fellow-of-Physics--Experimental-Particle-Physics-_JR101780",
@@ -271936,7 +271600,7 @@
         "company_name": "Northrop Grumman",
         "id": "126c2509-0c6a-4576-ac89-b4cbbc3ae2e1",
         "title": "Electronics Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780612372,
         "date_posted": 1780610903,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Tinker-AFB/Engineer-Electronics_R10234542",
@@ -272156,7 +271820,7 @@
         "company_name": "The Boeing Company",
         "id": "c23a7b9a-fd9b-4f1a-9ef3-a39aeada13f8",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780612783,
         "date_posted": 1780611057,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-2",
@@ -273019,7 +272683,7 @@
         "company_name": "NVIDIA",
         "id": "29d56cce-6d8e-4fac-aeb4-7c14135e0b12",
         "title": "Software R&D Engineer New Grad - VLSI Physical Design",
-        "active": false,
+        "active": true,
         "date_updated": 1780639895,
         "date_posted": 1780639630,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330",
@@ -274045,7 +273709,7 @@
         "company_name": "Micron Technology",
         "id": "60fcb589-ed8a-43a1-9fee-3c7139e29aa7",
         "title": "Layout Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780698241,
         "date_posted": 1780697325,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Layout-Engineer--DEG_JR103399",
@@ -341768,6 +341432,67 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DaVita",
+        "id": "509360f9-0204-4926-bbe2-59d92f7e7380",
+        "title": "Analyst \u2013 Clinical Programs - Clinical Transformation",
+        "active": true,
+        "date_updated": 1784616304,
+        "date_posted": 1781361381,
+        "url": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Analyst--Clinical-Programs--Clinical-Transformation-_R0461297",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/DaVita",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "e58e9be4-b693-4e36-809b-f4abf0d467c5",
+        "title": "Principal Engineer Electronics",
+        "active": true,
+        "date_updated": 1784616304,
+        "date_posted": 1783166333,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Principal-Engineer-Electronics_R10234539",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CDK Global",
+        "id": "206c6083-f563-44cd-81e9-c569ef0f36ef",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1784615584,
+        "date_posted": 1782554803,
+        "url": "https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Portland-OR-USA/Associate-Product-Manager_JR8858-1",
+        "locations": [
+            "Austin, TX",
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/CDK-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
