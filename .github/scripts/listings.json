@@ -3,24 +3,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "6d36f8cf-6aa6-4e98-a833-204bca1dd140",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763924885,
-        "date_posted": 1763924885,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039479",
-        "locations": [
-            "Nuneaton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "48e7e82e-2ed6-4d21-9de2-e43bac811958",
         "title": "Trading Assistant",
         "active": false,
@@ -29,24 +11,6 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039335",
         "locations": [
             "Bedford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ea3c3b6a-2592-40a1-9e97-78b6ca493eab",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763926259,
-        "date_posted": 1763926259,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039464",
-        "locations": [
-            "Reading, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
@@ -331783,7 +331747,7 @@
         "company_name": "Solar Turbines",
         "id": "1f641045-f717-4a41-9a0a-20d4a4e5092b",
         "title": "Entry Level Gas Turbine Product Engineer - Gtpe",
-        "active": false,
+        "active": true,
         "date_updated": 1784210580,
         "date_posted": 1784160000,
         "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291",
@@ -332187,7 +332151,7 @@
         "company_name": "Allegion",
         "id": "4920c8bb-024e-4b58-a4b9-58fe968ee612",
         "title": "Associate Analytics Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784242084,
         "date_posted": 1784160000,
         "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Associate-Analytics-Engineer_JR36667",
@@ -332366,7 +332330,7 @@
         "company_name": "Adtran",
         "id": "f620a3b2-f89c-456c-9361-de46424a3c75",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1784242384,
         "date_posted": 1784160000,
         "url": "https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/Software-Engineer-I_R005697",
@@ -332444,7 +332408,7 @@
         "company_name": "Analog Devices",
         "id": "bef6b810-7713-40ea-a0aa-5c718e6fa16d",
         "title": "Equipment Engineer Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1784242333,
         "date_posted": 1784160000,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Associate-Equipment-Engineer_R263953",
@@ -332867,7 +332831,7 @@
         "company_name": "State Street",
         "id": "4fa24711-9cd9-46f9-a20e-0aac3586c235",
         "title": "Full Stack Software Engineer - Officer",
-        "active": false,
+        "active": true,
         "date_updated": 1784240641,
         "date_posted": 1784160000,
         "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Full-Stack-Software-Engineer--Officer_R-792058",
@@ -332991,7 +332955,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "2d7c2622-be41-4ab9-88a1-8e58e902b8c9",
         "title": "Field Service Engineer 1 - Electron Microscopy",
-        "active": false,
+        "active": true,
         "date_updated": 1784240758,
         "date_posted": 1784160000,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Idaho-USA/On-Site-Field-Service-Engineer-I--Electron-Microscopy--Boise--Idaho_R-01360774-1",
@@ -333258,7 +333222,7 @@
         "company_name": "Everfox",
         "id": "eda8945b-09f3-4443-8b05-971607aad015",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784250721,
         "date_posted": 1784246400,
         "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/GBR_WS_Malvern/Software-Engineer-I_JR500694",
@@ -333299,7 +333263,7 @@
         "company_name": "USAA",
         "id": "e01e5ee4-a95e-4242-9df8-ccb66621a279",
         "title": "Information Management Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1784269007,
         "date_posted": 1784246400,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Information-Management-Analyst-I_R0119307",
@@ -334249,7 +334213,7 @@
         "company_name": "Ensemble Health Partners",
         "id": "04fe7777-df0d-4f23-81c1-360665b5e106",
         "title": "AI Innovation Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1784326321,
         "date_posted": 1784246400,
         "url": "https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/AI-Innovation-Specialist_R048169",
@@ -334687,7 +334651,7 @@
         "company_name": "Rocket Companies",
         "id": "feddb33d-3c53-46be-9599-b215ba67e99e",
         "title": "Android Mobile Software Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1784328841,
         "date_posted": 1784246400,
         "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Android-Mobile-Software-Developer-I_R-083752",
@@ -334838,7 +334802,7 @@
         "company_name": "NVIDIA",
         "id": "36ac811b-2597-49be-8022-58b4486ef9d8",
         "title": "ASIC Design Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1784328067,
         "date_posted": 1784246400,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2021534",
@@ -335423,7 +335387,7 @@
         "company_name": "FHLBank Topeka",
         "id": "a8969c6b-0534-4d5e-908a-45a01eb2a01c",
         "title": "Model Validation and Assurance Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1784401711,
         "date_posted": 1784246400,
         "url": "https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Model-Validation-and-Assurance-Analyst-I_JR100369",
@@ -336055,7 +336019,7 @@
         "company_name": "Flex",
         "id": "70de09ce-96fa-4f2c-9ec8-c6b7e7ed7c83",
         "title": "Debug Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784556644,
         "date_posted": 1784505600,
         "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Debug-Technician_WD225610",
@@ -337131,7 +337095,7 @@
         "company_name": "Buxton ",
         "id": "a8e5e7fa-d48a-40f0-9581-e1aa4b063793",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784587225,
         "date_posted": 1784585559,
         "url": "https://ats.rippling.com/buxtoncocareers/jobs/523b9aef-c897-4bf9-b395-b8ca2d9cb60e",
@@ -342792,6 +342756,147 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "dc1f30f8-9de6-47ca-a171-28803aef5609",
+        "title": "Senior Antenna RF Engineer",
+        "active": true,
+        "date_updated": 1784661975,
+        "date_posted": 1784246400,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Antenna-RF-Engineer---Associates--Experienced-or-Senior_JR2026516816-1",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "ff8163af-703b-4d99-adec-a16c25c62dac",
+        "title": "Electronic Tester",
+        "active": true,
+        "date_updated": 1784653022,
+        "date_posted": 1784246400,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Electronic-Tester_R2738-26",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Travelers",
+        "id": "3b6ae373-3a19-4ff6-98d5-02c593359a00",
+        "title": "Data Engineer 1 - Aws - Databricks",
+        "active": true,
+        "date_updated": 1784661496,
+        "date_posted": 1784073600,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Databricks-_R-51521",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "ab31b2e7-d70c-4b00-9f94-375767675a53",
+        "title": "Modernization Software Engineer \u2013 Associate or Mid-Level",
+        "active": true,
+        "date_updated": 1784652302,
+        "date_posted": 1784160000,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Modernization-Software-Engineer--Associate-or-Mid-Level-_JR2026519283-1",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Global Infrastructure",
+        "id": "e84bac62-0fcc-47e6-ac4d-9834e775e0f5",
+        "title": "Aviation Environmental Planning Analyst",
+        "active": true,
+        "date_updated": 1784661229,
+        "date_posted": 1784160000,
+        "url": "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--OH--Cincinnati---4445-Lake-Forest-Drive/Analyst--Aviation-Environmental-Planning_6035",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Infrastructure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "71df40cc-03d5-4fff-9f25-188f6aef357a",
+        "title": "Software Architect",
+        "active": true,
+        "date_updated": 1784652302,
+        "date_posted": 1784160000,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Software-Architect--Associate-and-Experienced-_JR2026515264-2",
+        "locations": [
+            "Tukwila, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "3308ac34-523a-4204-824a-4cbe54e395b0",
+        "title": "Radar Sustainment Engineer - System Model Development",
+        "active": true,
+        "date_updated": 1784661313,
+        "date_posted": 1784160000,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Radar-Sustainment-Engineer---System-Model-Development_R-00187367",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
