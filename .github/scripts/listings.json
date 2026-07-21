@@ -489,42 +489,6 @@
         "degrees": []
     },
     {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "JP Morgan Chase",
-        "id": "2cf9c9ef-df43-4e5f-afd7-5387992b16ba",
-        "title": "Analyst - Currencies Emerging Markets Trading",
-        "active": false,
-        "date_updated": 1763910600,
-        "date_posted": 1763910600,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210657880",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "EXL",
-        "id": "9953d6ee-08cc-45e8-bdf5-b877c5e260b1",
-        "title": "Data Scientist",
-        "active": false,
-        "date_updated": 1763910911,
-        "date_posted": 1763910911,
-        "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/7049",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/EXL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1765195362,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -221912,7 +221876,7 @@
         "company_name": "Welocalize",
         "id": "0f13303e-f2f1-4e7f-b71c-15603aa14803",
         "title": "Data Labeling Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1777453921,
         "date_posted": 1777453889,
         "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/CA-Client-Field-Office-San-Fran-Bay-Area/Data-Labeling-Associate_R0007638",
@@ -227464,7 +227428,7 @@
         "company_name": "NVIDIA",
         "id": "e55e6b16-14da-4a9c-a2e9-d71bd39346e1",
         "title": "Machine Learning Applications and Compiler Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1777933857,
         "date_posted": 1777932628,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2017194",
@@ -236500,7 +236464,7 @@
         "company_name": "RTX",
         "id": "361e7871-844b-47ca-aca3-4a6f0bde8dec",
         "title": "Digital Hardware Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778595621,
         "date_posted": 1778594963,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Digital-Hardware-Engineer-I_01841999-1",
@@ -266256,7 +266220,7 @@
         "company_name": "Flatiron Health",
         "id": "e2052cb0-de30-4673-ae90-6fb2129078b5",
         "title": "Data Analyst - Evidence Solutions",
-        "active": false,
+        "active": true,
         "date_updated": 1780393568,
         "date_posted": 1780351913,
         "url": "https://flatiron.com/careers/open-positions/job?gh_jid=7834645",
@@ -281711,7 +281675,7 @@
         "company_name": "CAI",
         "id": "8a849022-9763-4117-a1c4-04369a4fe47b",
         "title": "Image Verifier - Neurodiverse Solutions",
-        "active": false,
+        "active": true,
         "date_updated": 1781170299,
         "date_posted": 1781129230,
         "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Image-Verifier--Neurodiverse-Solutions_R7277",
@@ -284178,7 +284142,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "aded84fb-4d21-4dae-b6fc-4ee782d8a5ec",
         "title": "Post Doctoral Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1781257358,
         "date_posted": 1781257150,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Post-Doctoral-Associate_JR101922",
@@ -321531,7 +321495,7 @@
         "company_name": "State of North Carolina",
         "id": "5fb3ffae-8a78-4dbf-92eb-8b3124aeaf7d",
         "title": "Business Systems Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783607067,
         "date_posted": 1783555200,
         "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Carteret-County-NC/Business-Systems-Analyst-I--Temporary---Carteret-_JR-119671",
@@ -324070,7 +324034,7 @@
         "company_name": "Texas Capital Bank",
         "id": "59178c9e-20fa-443d-84ff-15c566738c41",
         "title": "Sales Trader Operations Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1783723321,
         "date_posted": 1783641600,
         "url": "https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Dallas-TX/Sales-Trader-Operations-Analyst_JR105703",
@@ -325162,7 +325126,7 @@
         "company_name": "DraftKings",
         "id": "3b3b4d4b-e7f3-40bf-bc06-d4442188fc0f",
         "title": "Analyst 1 - Reach and Partnerships",
-        "active": false,
+        "active": true,
         "date_updated": 1783942450,
         "date_posted": 1783548765,
         "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Analyst-I--Research-and-Partnerships_JR14592",
@@ -325433,7 +325397,7 @@
         "company_name": "Ferrovial",
         "id": "fcb9818e-a71f-46e8-9fec-0de00b44edd3",
         "title": "Graduate Digital Construction Data Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783953156,
         "date_posted": 1783900800,
         "url": "https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/London/Graduate-Digital-Construction---Data-Management-2026_JR18262",
@@ -336141,7 +336105,7 @@
         "company_name": "Leidos",
         "id": "675a9412-93b5-472a-b2b3-fb762ddbcc1a",
         "title": "Reports Officer",
-        "active": true,
+        "active": false,
         "date_updated": 1784545254,
         "date_posted": 1778943597,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Reports-Officer_R-00161172",
@@ -342178,5 +342142,82 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OCLC",
+        "id": "f8f8b7bc-4fd2-4440-aa0c-ad3f67e75989",
+        "title": "Analytics Engineer",
+        "active": true,
+        "date_updated": 1784638622,
+        "date_posted": 1783167713,
+        "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Analytics-Engineer_R0003839",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/350afefb-30b2-4d69-899d-19a3d7dd96f5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Scientific Games",
+        "id": "3c7bdbe1-f485-4aff-a18d-85331363aa72",
+        "title": "Field Service Technician 1",
+        "active": true,
+        "date_updated": 1784647329,
+        "date_posted": 1782560376,
+        "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Kansas-US/Field-Service-Tech-I--Garden-City-or-Dodge-City_R504716",
+        "locations": [
+            "Dodge City, KS",
+            "Holcomb, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Scientific-Games",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CACI",
+        "id": "d71b1a02-c1ff-45cb-b43a-5c8a1f789e2a",
+        "title": "E Discovery-IT Data Specialist - Entry Level",
+        "active": true,
+        "date_updated": 1784646959,
+        "date_posted": 1783641600,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/E-Discovery-IT-Data-Specialist--Entry-Level_328913",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gannett Fleming",
+        "id": "77901a92-4563-4b91-8189-e5fdb5dc96d0",
+        "title": "Transportation Management Center Operator 1 - Tmc",
+        "active": true,
+        "date_updated": 1784647034,
+        "date_posted": 1780005879,
+        "url": "https://careers-gannettfleming.icims.com/jobs/13900/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Albany, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Gannett-Fleming",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
