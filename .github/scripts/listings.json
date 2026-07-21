@@ -39255,24 +39255,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "7955530e-eddd-477a-82b5-624a0b5ffefa",
-        "title": "Postdoctoral Appointee - Electrocatalysis - Center for Nanoscale Materials",
-        "active": false,
-        "date_updated": 1763904117,
-        "date_posted": 1763904117,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Electrocatalysis--Center-for-Nanoscale-Materials-_421178",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "7a603273-9b90-4097-924a-cd9faccbe8a9",
@@ -257907,7 +257889,7 @@
         "company_name": "Torc Robotics",
         "id": "2e5c002d-70a9-4b03-aa6f-2899c732b466",
         "title": "Software Engineer - Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1779837662,
         "date_posted": 1779833510,
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8560188002",
@@ -284559,7 +284541,7 @@
         "company_name": "NVIDIA",
         "id": "14a31aec-c177-4340-a706-56acffbff5aa",
         "title": "Research Scientist New Grad - Efficient Deep Learning",
-        "active": false,
+        "active": true,
         "date_updated": 1781274266,
         "date_posted": 1781273408,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1",
@@ -316383,7 +316365,7 @@
         "company_name": "Airgas",
         "id": "66fc128d-c9b5-48c7-a15b-eb35ce40b227",
         "title": "eBusiness Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1783426005,
         "date_posted": 1781949834,
         "url": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Texarkana-TX---Filling-industrial/eBusiness-Coordinator_R10092563",
@@ -328076,7 +328058,7 @@
         "company_name": "Old Republic Title",
         "id": "472695ff-25cc-4d34-bb28-83c22bbdbd70",
         "title": "Associate Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1784067305,
         "date_posted": 1783987200,
         "url": "https://oldrepublic.wd1.myworkdayjobs.com/oldrepublictitle/job/FL-Orlando-6545-Corporate-Ctr-Blvd/Associate-C--Developer_R-4196",
@@ -328096,7 +328078,7 @@
         "company_name": "CACI",
         "id": "3279a6ef-7caf-43b0-8804-1ab00150311f",
         "title": "eDiscovery Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1784067725,
         "date_posted": 1783987200,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/Alexandria-VA-US/eDiscovery-Data-Analyst_329042",
@@ -331918,7 +331900,7 @@
         "company_name": "Barclays",
         "id": "1c5fabfe-6225-4b9b-8370-7883f14e0df6",
         "title": "Process Data Modelling Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784203381,
         "date_posted": 1784073600,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Process-Data-Modelling-Analyst_JR-0000115755-1",
@@ -336615,7 +336597,7 @@
         "company_name": "KLA Corporation",
         "id": "2639bb1a-2539-43a1-a08a-7ba213fd2fb6",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784585704,
         "date_posted": 1784585627,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer_2637811-1",
@@ -341823,5 +341805,90 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "346f07a8-ce10-40ae-b1d9-948c14b7069e",
+        "title": "Systems Engineering",
+        "active": true,
+        "date_updated": 1784640062,
+        "date_posted": 1781362490,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Springfield-VA/Systems-Engineering--Associate-or-Experienced-_JR2026514487-1",
+        "locations": [
+            "Springfield, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Camping World",
+        "id": "5b19dd58-8746-4665-8994-facf0fc584c0",
+        "title": "Product Specialist",
+        "active": true,
+        "date_updated": 1784627826,
+        "date_posted": 1782963196,
+        "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Vacaville-CA/Product-Specialist_26_05706",
+        "locations": [
+            "Vacaville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Camping-World",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "1dd74385-508b-4070-a030-a2f23a02a0ef",
+        "title": "Senior Principal Software Engineer - Cloud & Applications",
+        "active": true,
+        "date_updated": 1784639473,
+        "date_posted": 1781361789,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Principal---Sr-Principal-Engineer-Software---Cloud---Applications_R10235026-1",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KLA Corporation",
+        "id": "54764bb4-b126-4330-9e84-bc66966f425a",
+        "title": "Research Scientist",
+        "active": true,
+        "date_updated": 1784625662,
+        "date_posted": 1783987200,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Research-Scientist_2638810",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
