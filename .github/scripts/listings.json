@@ -3,24 +3,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "81f9654b-be7d-4c9b-a663-68b36a74e480",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763916530,
-        "date_posted": 1763916530,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039417",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "6d36f8cf-6aa6-4e98-a833-204bca1dd140",
         "title": "Trading Assistant - Shift",
         "active": false,
@@ -36766,24 +36748,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KBR",
-        "id": "c4a20ee7-7152-4d61-8856-51f18d4aef28",
-        "title": "Operations Research Analyst-Foundational",
-        "active": false,
-        "date_updated": 1763916593,
-        "date_posted": 1763916593,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Arlington-Virginia/Operations-Research-Analyst--Foundational_R2114720",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "GlobalFoundries",
         "id": "b645edc9-b29a-457c-81b1-5602355b8625",
@@ -38179,24 +38143,6 @@
         "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Niles-OH/Support-Technician_R-1007281-1",
         "locations": [
             "Youngstown, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "3427e6e9-f08c-42fe-9680-1494b93c0b86",
-        "title": "Games Support Technician",
-        "active": false,
-        "date_updated": 1763916524,
-        "date_posted": 1763916524,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/St-Louis-MO/Games-Support-Technician_R-1009531",
-        "locations": [
-            "St. Louis, MO"
         ],
         "company_url": "https://simplify.jobs/c/Dave-And-Busters",
         "is_visible": true,
@@ -238576,7 +238522,7 @@
         "company_name": "Cencora",
         "id": "dcbeb1d6-2bca-4251-af9e-4bcd4074fc46",
         "title": "Automation Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778709149,
         "date_posted": 1778623786,
         "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Carrollton-TX/Automation-Developer-I_R2521185",
@@ -293493,7 +293439,7 @@
         "company_name": "Axos Bank",
         "id": "b79c1989-c4d0-4236-83c7-5cc5c3a24ae2",
         "title": "Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1781831578,
         "date_posted": 1781831259,
         "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---Data-Engineer_JR4824",
@@ -296102,7 +296048,7 @@
         "company_name": "Texas A&M University System",
         "id": "263f198b-2169-4ff2-bfd5-465b3b33e059",
         "title": "Associate Software Applications Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1782137654,
         "date_posted": 1782137105,
         "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Associate-Software-Applications-Developer-I_R-094102",
@@ -296362,7 +296308,7 @@
         "company_name": "Snap Finance",
         "id": "51513216-6e4c-41c3-becf-4f1894713925",
         "title": "Data Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1782166739,
         "date_posted": 1782165978,
         "url": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Metro-9---West-Valley-City/Data-Analyst-I_R-2803",
@@ -297092,7 +297038,7 @@
         "company_name": "Raymond James Financial",
         "id": "0d46ea5b-d675-4003-9fb3-b27f77285651",
         "title": "Data Driven Insights Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1782167041,
         "date_posted": 1782166271,
         "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Data-Driven-Analyst_R-0011685-1",
@@ -298618,7 +298564,7 @@
         "company_name": "Burson",
         "id": "de60296f-9957-42fb-b728-3d4c4e3a4135",
         "title": "Insights Analyst - Data & Intelligence",
-        "active": false,
+        "active": true,
         "date_updated": 1782557133,
         "date_posted": 1782554185,
         "url": "https://www.bursonglobal.com/careers/jobs?gh_jid=5228344008",
@@ -300784,7 +300730,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "f22b7344-c3cf-4ad1-98b8-1f4e83a49b01",
         "title": "Associate Embedded Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1782561601,
         "date_posted": 1782338955,
         "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Software-Engineer_2026-21564",
@@ -302333,7 +302279,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "4f11f81b-693b-44a7-88c3-3c4d0f322f6a",
         "title": "Postdoctoral Researcher: Machine Learning/Artificial Intelligence Applications to Power Systems",
-        "active": false,
+        "active": true,
         "date_updated": 1782380521,
         "date_posted": 1782380373,
         "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Postdoctoral-Researcher--Machine-Learning-Artificial-Intelligence-Applications-to-Power-Systems_R14240",
@@ -304167,7 +304113,7 @@
         "company_name": "Semtech",
         "id": "d383099e-abdb-49dd-93bd-2159aa10a970",
         "title": "Analog Design Engineer Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1782713334,
         "date_posted": 1782713117,
         "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Calgary-AB/Associate-Analog-Design-Engineer_REQ3435",
@@ -335659,7 +335605,7 @@
         "company_name": "UL Solutions",
         "id": "798eb9cc-a971-4622-b640-6f4db571967b",
         "title": "Polymer Materials Chemist",
-        "active": false,
+        "active": true,
         "date_updated": 1784451945,
         "date_posted": 1784124546,
         "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/9979",
@@ -342383,6 +342329,88 @@
             "Oklahoma City, OK"
         ],
         "company_url": "https://simplify.jobs/c/Scientific-Games",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Semtech",
+        "id": "ba5d0ccb-2200-48f1-b412-5c776b362e6c",
+        "title": "Associate Analog Design Engineer",
+        "active": true,
+        "date_updated": 1784642222,
+        "date_posted": 1783158026,
+        "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Associate-Analog-Design-Engineer_REQ3436",
+        "locations": [
+            "Calgary, AB, Canada",
+            "Burlington, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Semtech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Axalta",
+        "id": "426c6f34-aa83-40d0-ab67-51ecc39afbbe",
+        "title": "Product Manager - Portfolio & Projects",
+        "active": true,
+        "date_updated": 1784642222,
+        "date_posted": 1782396329,
+        "url": "https://axalta.wd1.myworkdayjobs.com/axalta/job/Wellingborough/Product-Manager---Portfolio---Projects_2026-18109",
+        "locations": [
+            "Northamptonshire, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Axalta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Compassion International",
+        "id": "f15eabeb-73d9-4a1d-b314-38d1600f8365",
+        "title": "Monitoring, Evaluation, Accountability, and Learning Fellow",
+        "active": true,
+        "date_updated": 1784652424,
+        "date_posted": 1784073600,
+        "url": "https://compassion.wd5.myworkdayjobs.com/CompassionCareersPrivateLink/job/Remote---USA/Monitoring---Evaluation-for-Accountability-and-Learning--MEAL--Fellow_R8260-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Compassion-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "NJM Insurance Group",
+        "id": "6d1290ca-61af-487e-8d4b-4365e095c4e9",
+        "title": "Insurance Product Management Analyst - Associate",
+        "active": true,
+        "date_updated": 1784641503,
+        "date_posted": 1782252322,
+        "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst--Associate---Hybrid_R2007869",
+        "locations": [
+            "Trenton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/NJM-Insurance-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
