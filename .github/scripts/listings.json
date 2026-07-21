@@ -338542,5 +338542,27 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Google",
+        "id": "e616bee5-c6dc-4c5c-a1ec-cc0658a9bbaa",
+        "title": "Register Transfer Level Design and Integration Engineer",
+        "active": true,
+        "date_updated": 1784592196,
+        "date_posted": 1784591884,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/91632461594665670",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
