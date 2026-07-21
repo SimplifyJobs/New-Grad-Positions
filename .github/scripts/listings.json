@@ -170078,7 +170078,7 @@
         "company_name": "John Deere",
         "id": "c466f97c-9005-489d-aa5f-b5633363cde5",
         "title": "Data & Analytics Development Program 1 - Data & Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1774477541,
         "date_posted": 1774477541,
         "url": "https://johndeere.eightfold.ai/careers/job/137480009581",
@@ -340163,5 +340163,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tavern Research",
+        "id": "23748ab0-91e3-4972-9291-59273e31a724",
+        "title": "Engineer 1",
+        "active": true,
+        "date_updated": 1784600677,
+        "date_posted": 1784596606,
+        "url": "https://ats.rippling.com/tavernresearch/jobs/bf39b76f-cfe0-47a0-ad25-0f9aa66fdcc6",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/3e8fa2fe-c892-4a84-8ed7-c32b8fbc9820",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Turn/River Capital",
+        "id": "1d75a6e1-a28d-443d-81ad-4503db0a6903",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1784600284,
+        "date_posted": 1784596731,
+        "url": "https://jobs.ashbyhq.com/turn-river/23f04521-5b4b-418a-85ac-547116a4ef56/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/TurnRiver-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
