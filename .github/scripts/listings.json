@@ -160896,7 +160896,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -235366,7 +235366,7 @@
         "company_name": "Mastercard",
         "id": "c3250137-008d-4db4-9bef-fdf8b14174c8",
         "title": "Software Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1778279273,
         "date_posted": 1778278172,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-277898",
@@ -238058,7 +238058,7 @@
         "company_name": "NVIDIA",
         "id": "69fae8a8-fe9d-4a65-ac46-321fd29f3a4a",
         "title": "DFT Engineer \u2013 New College Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1778708881,
         "date_posted": 1778623823,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DFT-Engineer---New-College-Grad_JR2016865",
@@ -238612,7 +238612,7 @@
         "company_name": "PHINIA",
         "id": "caf4986c-1a4c-4718-9295-bd1ec02e972c",
         "title": "Alternator Electronics Product Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778710157,
         "date_posted": 1778710031,
         "url": "https://phinia.wd5.myworkdayjobs.com/PHINIA_Careers/job/Anderson---Indiana---USA/Alternator-Electronics-Product-Engineer_R2026-0336",
@@ -239221,7 +239221,7 @@
         "company_name": "Morgan Stanley",
         "id": "133ada9c-934e-49d3-8173-37080d0fe9fb",
         "title": "Electronic Trading Risk Management Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1778708881,
         "date_posted": 1778623654,
         "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Electronic-Trading-Risk-Management-Associate_PT-JR036434",
@@ -239319,7 +239319,7 @@
         "company_name": "Eversource Energy",
         "id": "cbe143be-5e60-4222-85cf-89aec8787e04",
         "title": "IT Associate Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1778710157,
         "date_posted": 1778710000,
         "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/IT-Associate-Data-Analyst_R-030512",
@@ -239359,7 +239359,7 @@
         "company_name": "TSC",
         "id": "952ea53b-46d2-468c-a4ee-c7ea0ae0051d",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778710584,
         "date_posted": 1778709926,
         "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2567-1",
@@ -241308,7 +241308,7 @@
         "company_name": "Microchip Technology",
         "id": "2c5e15e0-f04c-4140-a057-99e89f67c85b",
         "title": "Engineer 1 - Software",
-        "active": false,
+        "active": true,
         "date_updated": 1778797459,
         "date_posted": 1778796494,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Engineer-I-Software_R2074-26-1",
@@ -242740,7 +242740,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "26fe63da-ab35-4c3c-a2fb-9c2d3c58a726",
         "title": "Research Assistant - Tepper School of Business",
-        "active": false,
+        "active": true,
         "date_updated": 1778882941,
         "date_posted": 1778882800,
         "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant_2024536",
@@ -251482,7 +251482,7 @@
         "company_name": "Northrop Grumman",
         "id": "12cb10ee-717a-4836-b668-4342034c0313",
         "title": "Hardware Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779831181,
         "date_posted": 1779142111,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Hardware-Engineer-Level-2-3_R10233253-1",
@@ -308885,7 +308885,7 @@
         "company_name": "Airbnb",
         "id": "1b9c1f91-ca52-4298-9890-c44895c6b362",
         "title": "Machine Learning Engineer - Relevance and Personalization",
-        "active": false,
+        "active": true,
         "date_updated": 1782955261,
         "date_posted": 1782955028,
         "url": "https://careers.airbnb.com/positions/7708224?gh_jid=7708224",
@@ -341619,6 +341619,109 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stryker",
+        "id": "6a05b37a-7db1-4f70-a3e3-adaa67ebef4f",
+        "title": "Associate Installation Technician",
+        "active": true,
+        "date_updated": 1784614145,
+        "date_posted": 1782957121,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Chicago-Illinois/Associate-Installation-Technician---Chicago_R565174",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA Corporation",
+        "id": "53ef41c6-6ac2-4f02-91a0-8d8df13895c0",
+        "title": "Senior Systems Design Engineer",
+        "active": true,
+        "date_updated": 1784620095,
+        "date_posted": 1782555684,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Sr-Systems-Design-Engineer_2636396",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ameren",
+        "id": "d3bc246d-f382-4f1b-9f1a-d6ae8ad6638f",
+        "title": "Probabilistic Risk Assessment Practitioner",
+        "active": true,
+        "date_updated": 1784619453,
+        "date_posted": 1783163783,
+        "url": "https://ameren.wd1.myworkdayjobs.com/External/job/Steedman-MO/Probabilistic-Risk-Assessment-Practitioner_033347",
+        "locations": [
+            "Jefferson City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Ameren",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northrop Grumman",
+        "id": "deae7556-338a-40f3-98fa-3efd925ab57e",
+        "title": "Missile Modeling Infrared - Infrared Plume Engineer",
+        "active": true,
+        "date_updated": 1784614145,
+        "date_posted": 1783158760,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Missile-Modeling-Infrared--IR--Plume-Engineer---Level-2_R10232259",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "d31ef757-c8bd-4b2a-8610-3828c2c55f0e",
+        "title": "Postdoctoral Data Analytics Computational Sciences",
+        "active": true,
+        "date_updated": 1784614145,
+        "date_posted": 1781951444,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Postdoctoral-Data-Analytics-Computational-Sciences_R-063632-2",
+        "locations": [
+            "Ambler, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
