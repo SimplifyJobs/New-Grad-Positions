@@ -217263,7 +217263,7 @@
         "company_name": "AT&T",
         "id": "66f5c919-4f16-4374-a401-b9a26aacb171",
         "title": "Systems Integration Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776992941,
         "date_posted": 1776992892,
         "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Reston-Virginia/Systems-Integration-Engineer--Government-_R-107706",
@@ -224556,7 +224556,7 @@
         "company_name": "The Boeing Company",
         "id": "31ac1bea-e976-40b4-83d2-322d74703e39",
         "title": "ASIC/FPGA Verification Engineer Lead - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1777621301,
         "date_posted": 1777327680,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/ASIC-FPGA-Verification-Engineer----Associate--Experienced--or-Lead----SoCal_JR2025480380",
@@ -246293,7 +246293,7 @@
         "company_name": "Ercot",
         "id": "a7c61c00-3f37-4f60-a827-43ce1d719294",
         "title": "Entry Level Power & Computer Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779316069,
         "date_posted": 1779314763,
         "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/GMS-Development-Program---Entry-Level-Power---Computer-Engineer_R2289-1",
@@ -247536,7 +247536,7 @@
         "company_name": "CaptiveAire Systems",
         "id": "75a1c4ee-6cf5-47a7-ba62-eb6954779862",
         "title": "Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779402781,
         "date_posted": 1779401231,
         "url": "https://www.captiveaire.com/Careers/Opening.asp?id=8560942002&gh_jid=8560942002",
@@ -247596,7 +247596,7 @@
         "company_name": "CaptiveAire Systems",
         "id": "31d1e5b5-d44e-4e9a-a946-16852122bbba",
         "title": "Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779402781,
         "date_posted": 1779401231,
         "url": "https://www.captiveaire.com/Careers/Opening.asp?id=8560958002&gh_jid=8560958002",
@@ -248696,7 +248696,7 @@
         "company_name": "The Home Depot",
         "id": "b9d05735-ed15-4667-82c8-6f2681a82a98",
         "title": "Online Experience Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779487741,
         "date_posted": 1779487610,
         "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/NEW-JERSEY---VIRTUAL---NJ01/Online-Experience-Analyst_Req181321-1",
@@ -263128,7 +263128,7 @@
         "company_name": "O'Reilly Auto Parts",
         "id": "63a20165-295a-4be7-96f3-3d7652a32a3b",
         "title": "Electronic Catalog Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780281542,
         "date_posted": 1780136522,
         "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Regional-Office-PHX/Electronic-Catalog-Technician_R183177",
@@ -270854,7 +270854,7 @@
         "company_name": "The Boeing Company",
         "id": "2be4d166-0f14-4931-b9f1-d0cf0e9564fc",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780612726,
         "date_posted": 1780611023,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-1",
@@ -279753,7 +279753,7 @@
         "company_name": "The Boeing Company",
         "id": "337cc959-7b73-48b1-a554-663f5dadf462",
         "title": "Linux System Administrator - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1781130241,
         "date_posted": 1781129496,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Linux-System-Administrator--Associate-_JR2026514382-1",
@@ -317991,7 +317991,7 @@
         "company_name": "Goldman Sachs",
         "id": "6a36b7f9-3aea-44d6-b6a2-b8ba794476ea",
         "title": "Asset & Wealth Management - Product Management - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1783472761,
         "date_posted": 1781791629,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/173819",
@@ -343158,6 +343158,90 @@
         "degrees": [
             "Bachelor's",
             "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Barr",
+        "id": "d5b47b14-ab65-44e1-b532-56a96b46ed94",
+        "title": "Geologist/Geological Engineer Entry Level",
+        "active": true,
+        "date_updated": 1784665389,
+        "date_posted": 1783161415,
+        "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Jefferson-City-MO/Geologist-Geological-Engineer---Entry-Level--Hybrid-_R-102144",
+        "locations": [
+            "Jefferson City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Barr",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ONEOK",
+        "id": "bef822fd-5ed1-4394-b834-0255fb9e992e",
+        "title": "Engineer 1 Engineering Development Program",
+        "active": true,
+        "date_updated": 1784665274,
+        "date_posted": 1783318295,
+        "url": "https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Tulsa-OK/FTE--Engineer-I-EDP-Program_R7775-1",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/ONEOK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "12dac20b-912f-4745-8fc4-76b5c94d7d2d",
+        "title": "Structural Analysis Engineer",
+        "active": true,
+        "date_updated": 1784664269,
+        "date_posted": 1781361723,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer-or-Principal-Engineer-Structural-Analysis--4-10-2nd-Shift-_R10231985",
+        "locations": [
+            "Palmdale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "54ee09d1-9674-4ac5-8741-1b0fa5ec967a",
+        "title": "Embedded Software Engineer Associate",
+        "active": true,
+        "date_updated": 1784664057,
+        "date_posted": 1783721867,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Embedded-Software-Engineer_JR2026500069",
+        "locations": [
+            "St. Louis, MO",
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
