@@ -508,42 +508,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Anduril",
-        "id": "538530de-89f8-4a80-af1b-2891b24079f1",
-        "title": "Skillbridge Software Engineer",
-        "active": false,
-        "date_updated": 1763898814,
-        "date_posted": 1763898814,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4989142007",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "54ab35b3-558e-4eda-a8e8-4a3458ad819d",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763898309,
-        "date_posted": 1763898309,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039426",
-        "locations": [
-            "Brighton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Viridien",
         "id": "ea30bf77-1030-4770-992a-b3687c59a3d2",
@@ -5256,24 +5220,6 @@
             "Gilbert, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brookhaven Lab",
-        "id": "ac07ec52-7579-4145-9912-b1ece7a77e2e",
-        "title": "Postdoctoral Research Associate",
-        "active": false,
-        "date_updated": 1764244826,
-        "date_posted": 1763898849,
-        "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Postdoctoral-Research-Associate_JR102138",
-        "locations": [
-            "Shirley, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -38315,24 +38261,6 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Dave & Busters",
-        "id": "ab7525c1-72e7-4e5d-9dcb-78553d92f6e5",
-        "title": "Game Support Technician",
-        "active": false,
-        "date_updated": 1763897907,
-        "date_posted": 1763897907,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Staten-Island-NY/Game-Support-Technician_R-1009445",
-        "locations": [
-            "Staten Island, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
         "id": "08b1f24c-be0d-420e-886e-8e15df9ad49d",
         "title": "Support Technician",
         "active": false,
@@ -38971,24 +38899,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "e9f4c135-7646-4fc9-bc79-b66b5fa87be7",
-        "title": "Staff Engineer - Ce CAD",
-        "active": false,
-        "date_updated": 1763898519,
-        "date_posted": 1763898519,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Staff-Engineer--CE-CAD_JR85936",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "CSA Group",
         "id": "a7eadefb-576d-41c7-a208-34d56f7c3c12",
         "title": "Product Safety Engineer",
@@ -39339,24 +39249,6 @@
             "Chesapeake, VA"
         ],
         "company_url": "https://simplify.jobs/c/United-Rentals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "24e6a0fd-67b2-417b-a2de-1a28d44898e5",
-        "title": "Associate / Engineer Systems Architect",
-        "active": false,
-        "date_updated": 1763898775,
-        "date_posted": 1763898775,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate---Engineer-Systems-Architect_R10213736",
-        "locations": [
-            "Melbourne, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -310927,7 +310819,7 @@
         "company_name": "Analog Devices",
         "id": "e9a77d3a-1f5c-4f3c-8883-575121ae1905",
         "title": "FPGA Systems Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783002781,
         "date_posted": 1783001195,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Denmark-Copenhagen/FPGA-Systems-Development-Engineer_R263331",
@@ -323571,7 +323463,7 @@
         "company_name": "Cadence Design Systems",
         "id": "222a9169-ad29-4c31-ae33-30a683f7f5a4",
         "title": "Software Engineer 2 - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1783693502,
         "date_posted": 1783347159,
         "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CAMBRIDGE/Software-Engineer-II_R55345",
@@ -338044,7 +337936,7 @@
         "company_name": "Funding Circle",
         "id": "d07243d2-a109-4f64-a14d-7a75944627e3",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784596685,
         "date_posted": 1784596351,
         "url": "https://jobs.ashbyhq.com/fundingcircle/363c58fa-a6f6-4fc3-8082-d9675110543c/application?embed=true",
@@ -341819,6 +341711,28 @@
             "Hillsboro, OR"
         ],
         "company_url": "https://simplify.jobs/c/Onto-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "acf0d0e1-8c4d-46ec-b752-fd7a1e27b611",
+        "title": "Modeling and Simulation Engineer - Level 2 or 3",
+        "active": true,
+        "date_updated": 1784619904,
+        "date_posted": 1783166693,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Modeling-and-Simulation-Engineer---Level-2-or-3_R10237626",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
