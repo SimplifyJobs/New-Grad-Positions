@@ -3,60 +3,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "8c998265-ff09-49df-a3e5-3078fe2da4a3",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763913298,
-        "date_posted": 1763913298,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039278",
-        "locations": [
-            "Brighton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "78f4747f-da18-4d52-9206-9d903932a6ba",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763913296,
-        "date_posted": 1763913296,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039460",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3d8295dc-4507-4e48-a1d5-0223664dab23",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763913269,
-        "date_posted": 1763913269,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039482",
-        "locations": [
-            "Aberdeen, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "81f9654b-be7d-4c9b-a663-68b36a74e480",
         "title": "Trading Assistant - Shift",
         "active": false,
@@ -36325,24 +36271,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Jabil",
-        "id": "c565a820-ea0d-402a-a133-4dbe26c2152e",
-        "title": "Tester-Conversions-CVG200",
-        "active": false,
-        "date_updated": 1763913587,
-        "date_posted": 1763913587,
-        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Tester--Conversions--CVG200_J2413699",
-        "locations": [
-            "Florence, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Molina Healthcare",
         "id": "da1365fc-7761-4369-95f9-25e6e780a98d",
@@ -46324,26 +46252,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brookhaven Lab",
-        "id": "8ce43adc-3849-4dee-b2f4-91c7d3bd71ec",
-        "title": "Research Associate in Theoretical and Computational Condensed Matter Physics",
-        "active": false,
-        "date_updated": 1767868712,
-        "date_posted": 1763912637,
-        "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Research-Associate-in-Theoretical-and-Computational-Condensed-Matter-Physics_JR102043",
-        "locations": [
-            "Shirley, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -244689,7 +244597,7 @@
         "company_name": "Northrop Grumman",
         "id": "a9b775df-5621-4fd0-8f92-88e7195729a0",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779229204,
         "date_posted": 1779228486,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2026-Associate-Software-Engineer---Software-Engineer_R10204594-1",
@@ -244993,7 +244901,7 @@
         "company_name": "Centific",
         "id": "ca93362f-f11c-4d3b-a867-f3c1417de4e6",
         "title": "Software Development Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1779228704,
         "date_posted": 1779228325,
         "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/SDE2-2_JR107318-1",
@@ -245529,7 +245437,7 @@
         "company_name": "RTX",
         "id": "a8a6d6cf-eca6-463c-aa6a-c75476440d15",
         "title": "FPGA Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1779229882,
         "date_posted": 1779228559,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Full-Time-Raytheon-2026---Multi-Product-Power---Digital-FPGA-Engineer-II_01845082",
@@ -245605,7 +245513,7 @@
         "company_name": "Centific",
         "id": "ea2a33ce-7b4b-4668-aef4-040db65c4418",
         "title": "Software Development Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1779239384,
         "date_posted": 1779239134,
         "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/SDE2-3_JR107319-1",
@@ -246555,7 +246463,7 @@
         "company_name": "KLA",
         "id": "62b6057a-71fe-4796-8206-b9e1a4302740",
         "title": "NPI Product Engineer - Linux",
-        "active": false,
+        "active": true,
         "date_updated": 1779314955,
         "date_posted": 1779314772,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/NPI-Product-Engineer--Linux-_2636600",
@@ -247916,7 +247824,7 @@
         "company_name": "Teledyne",
         "id": "a6733129-23e1-40a0-a857-3f033508c96a",
         "title": "Project Technician - Systems",
-        "active": false,
+        "active": true,
         "date_updated": 1779402061,
         "date_posted": 1779401168,
         "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Chelmsford-TDY/Project-Technician---Systems_REQ34384",
@@ -255092,7 +255000,7 @@
         "company_name": "RTX",
         "id": "fa474607-b473-4e19-9ab2-cc2e995af474",
         "title": "Intelligence Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779831181,
         "date_posted": 1779142225,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-BUCKLEY-SFB-CUST--18500-E-6th-Ave--BUCKLEY-SFB-External-Site/Intelligence-Analyst_01846084",
@@ -260022,7 +259930,7 @@
         "company_name": "U.S. Bank",
         "id": "62ef6ac9-bebc-4b02-9be1-baa27b409ff5",
         "title": "PWM Investment Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779919573,
         "date_posted": 1779919454,
         "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Scottsdale-AZ/PWM-Investment-Analyst_2026-0014134-1",
@@ -264455,7 +264363,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "6cdf0d8d-0131-405d-a787-840245e42c85",
         "title": "Postdoctoral Appointee",
-        "active": false,
+        "active": true,
         "date_updated": 1780352281,
         "date_posted": 1780351600,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Characterizing-high-pressure-melts-using-coherence-and-nano-beams-at-HPCAT_422749",
@@ -292418,7 +292326,7 @@
         "company_name": "AeroVironment",
         "id": "aeba307b-a933-4edb-a7ea-55fa39b926cc",
         "title": "FPGA Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1781776621,
         "date_posted": 1781361270,
         "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/1300-Britt-Street-Southeast-Albuquerque-NM/FPGA-Engineer_7801",
@@ -312306,7 +312214,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -342216,6 +342124,167 @@
             "Albany, NY"
         ],
         "company_url": "https://simplify.jobs/c/Gannett-Fleming",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Exact Sciences",
+        "id": "2822d913-543f-4ec5-8818-8a6b0aa547ea",
+        "title": "Automation Integration Engineer 1 - Sat-Tues Days",
+        "active": true,
+        "date_updated": 1784649121,
+        "date_posted": 1783462073,
+        "url": "https://exactsciences.wd1.myworkdayjobs.com/en-CA/Exact_Sciences/job/US---WI---Madison/Automation-Integration-Engineer-I--Sat-Tues-Days_R26-13270-1",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Exact-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Scientific Games",
+        "id": "14980f61-60c8-47bb-b9fc-e7627d266fde",
+        "title": "Field Service Tech",
+        "active": true,
+        "date_updated": 1784639342,
+        "date_posted": 1781344703,
+        "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Farmington-NM/Field-Service-Tech--Farmington_R504821-1",
+        "locations": [
+            "Farmington, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/Scientific-Games",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Baker Hughes",
+        "id": "1b8a680a-6075-4cca-be83-9761bcf7d710",
+        "title": "Junior Field Services Engineer",
+        "active": true,
+        "date_updated": 1784639342,
+        "date_posted": 1784239997,
+        "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-OTHER-TEXAS/Junior-Field-Services-Engineer_R164519",
+        "locations": [
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/Baker-Hughes",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "5b344988-6fe7-43dc-bfd3-872dec24b122",
+        "title": "Systems Engineer - Electron Beam",
+        "active": true,
+        "date_updated": 1784638622,
+        "date_posted": 1781360086,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Systems-Engineer--Electron-Beam-_2636685-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "bc8a7270-5def-42bd-bf90-02498044b5be",
+        "title": "Hardware Quality Engineer 2",
+        "active": true,
+        "date_updated": 1784648524,
+        "date_posted": 1783987200,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/hardware-qual-engineer-level-2_R2622433",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Protiviti",
+        "id": "643e70de-8d92-48d2-8011-92dca4e79d3b",
+        "title": "AI & Workforce Signals Analyst",
+        "active": true,
+        "date_updated": 1784638622,
+        "date_posted": 1782561258,
+        "url": "https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/ATLANTA---PEACHTREE-RD/AI---Workforce-Signals-Analyst_JR-260382-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Protiviti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Protiviti",
+        "id": "32fe5d31-92af-4598-96d9-ee778af9d4e9",
+        "title": "AI & Workforce Signals Analyst",
+        "active": true,
+        "date_updated": 1784638622,
+        "date_posted": 1781360619,
+        "url": "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/ATLANTA---PEACHTREE-RD/AI---Workforce-Signals-Analyst_JR-260382",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Protiviti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "c2f5393e-5085-4e0d-abeb-baab50cf1601",
+        "title": "Research Assistant/Programmer",
+        "active": true,
+        "date_updated": 1784647948,
+        "date_posted": 1783167402,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant-Programmer---Yanxi-Liu_REQ_0000078620",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
