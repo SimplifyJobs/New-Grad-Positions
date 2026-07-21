@@ -248137,7 +248137,7 @@
         "company_name": "Goldman Sachs",
         "id": "ad57e8fa-d0bd-4c63-9809-6141b7dda000",
         "title": "Asset & Wealth Management Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779343943,
         "date_posted": 1779343723,
         "url": "https://higher.gs.com/roles/168978",
@@ -258045,7 +258045,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": false,
+        "active": true,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -261812,7 +261812,7 @@
         "company_name": "Adobe",
         "id": "05086e88-742a-4c28-b7de-951c54ab9644",
         "title": "Research Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1779955811,
         "date_posted": 1778941541,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist_R167353",
@@ -267236,7 +267236,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -277299,7 +277299,7 @@
         "company_name": "DataVisor",
         "id": "19c2948a-5174-45a4-8f4f-b90a051b1723",
         "title": "Data Scientist - AI Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1780967701,
         "date_posted": 1780967347,
         "url": "https://apply.workable.com/datavisor-jobs/j/FC5ABB4A50/apply",
@@ -281596,7 +281596,7 @@
         "company_name": "Goldman Sachs",
         "id": "f99b0f28-4c34-4e85-8a26-27c6ea7b386a",
         "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
-        "active": false,
+        "active": true,
         "date_updated": 1781170202,
         "date_posted": 1781168798,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/162274",
@@ -306111,7 +306111,7 @@
         "company_name": "Goldman Sachs",
         "id": "3ac699af-5c50-4a7c-81af-6dfb56f595db",
         "title": "Asset& Wealth Management-Software Engineering-Associate-New York",
-        "active": false,
+        "active": true,
         "date_updated": 1782742321,
         "date_posted": 1782742023,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/168978",
@@ -313221,7 +313221,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc5879a8-4b16-4bc4-90e6-ab5042dcaab1",
         "title": "Asset & Wealth Management - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1783041481,
         "date_posted": 1782742015,
         "url": "https://higher.gs.com/roles/176984",
@@ -313261,7 +313261,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -319146,7 +319146,7 @@
         "company_name": "Goldman Sachs",
         "id": "6a36b7f9-3aea-44d6-b6a2-b8ba794476ea",
         "title": "Asset & Wealth Management - Product Management - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1783472761,
         "date_posted": 1781791629,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/173819",
@@ -323996,7 +323996,7 @@
         "company_name": "Goldman Sachs",
         "id": "9f62800f-29c9-4903-ae21-b3abdaa8c9f4",
         "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
-        "active": true,
+        "active": false,
         "date_updated": 1783664461,
         "date_posted": 1771381096,
         "url": "https://higher.gs.com/roles/162274",
@@ -337174,7 +337174,7 @@
         "company_name": "Goldman Sachs",
         "id": "bcba2ca1-73d6-4c2b-babd-5b6a31e81da9",
         "title": "Corporate Treasury - Quantitative Engineer - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1784556901,
         "date_posted": 1784538520,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/178881",
@@ -338563,6 +338563,489 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pogo Technologies, Inc.",
+        "id": "932383ee-ca92-41c1-8df6-69caf0ca4a87",
+        "title": "Full Stack Engineer",
+        "active": true,
+        "date_updated": 1784597349,
+        "date_posted": 1784596439,
+        "url": "https://jobs.ashbyhq.com/joinpogo/8e023749-da1c-458a-885b-fe0f33da5901/application?embed=true",
+        "locations": [
+            "Canada",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/f58a30c3-a04b-42bb-a8b9-b55894b3d405",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zilch",
+        "id": "834ecc0b-3d0c-4ffc-a703-836ccd706c7a",
+        "title": "Finance Data Analyst",
+        "active": true,
+        "date_updated": 1784596685,
+        "date_posted": 1784596427,
+        "url": "https://jobs.ashbyhq.com/zilch/c8b27944-e66b-437e-9cf2-02bf362a55b0/application?embed=true",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/97dc3f2f-8062-4ab4-bbd3-b66aca121ab4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Watney",
+        "id": "55edec28-5009-46dd-88ac-a4a731bcbcdb",
+        "title": "Deployment Strategist",
+        "active": true,
+        "date_updated": 1784596685,
+        "date_posted": 1784596422,
+        "url": "https://jobs.ashbyhq.com/watney/b6b6278e-fa90-4e17-a62a-a5915e7d5116/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/627788a0-7a06-4a27-99ae-533f868a0d89",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Feathery",
+        "id": "ec7a9307-14d3-42ca-8b60-1691f82c9dd0",
+        "title": "Full Stack Engineer",
+        "active": true,
+        "date_updated": 1784597261,
+        "date_posted": 1784596416,
+        "url": "https://jobs.ashbyhq.com/feathery/0814d62d-2742-454a-b8f4-7e302fdf5a24/application?embed=true",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/f2320929-6657-49d1-93a2-99493178b1be",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Healf",
+        "id": "4afdb47c-fd9f-42ec-a243-979af91c54eb",
+        "title": "Founding Engineer - Deeper Engagement",
+        "active": true,
+        "date_updated": 1784596685,
+        "date_posted": 1784596411,
+        "url": "https://jobs.ashbyhq.com/healf/7e2ef20d-bf76-4cb8-b5a9-aac9d24506b8/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/a623f1c3-7d52-4550-9cbb-eafe382ab747",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Envision Horizons LLC",
+        "id": "584d6519-6f67-48f9-b88c-0c1b41e3f7e3",
+        "title": "Full Stack Developer",
+        "active": true,
+        "date_updated": 1784596685,
+        "date_posted": 1784596403,
+        "url": "https://jobs.ashbyhq.com/envision-horizons/ec0c6149-02d0-48ce-8612-61fea67918af/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/c78c68e3-3c85-49ef-8297-59555edf0d6c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Maya HTT",
+        "id": "04df933f-b106-43cd-819e-f25691aa1ef3",
+        "title": "Engineering Software Application Analyst",
+        "active": true,
+        "date_updated": 1784596685,
+        "date_posted": 1784596385,
+        "url": "https://jobs.ashbyhq.com/maya-htt/54decd5c-6f2e-41cf-a699-29013679f6be/application?embed=true",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/2a2fefae-ff96-482a-b19d-5e205cbb158f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Outpost Technologies",
+        "id": "7e7b49d4-7950-49f4-a22a-5e9c86400005",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1784597129,
+        "date_posted": 1784596379,
+        "url": "https://jobs.ashbyhq.com/outpostnow/03779bd2-bc4d-4c36-beaa-ec3558716643/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/177761c2-93f2-4306-8da6-30685a0e4e92",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Logos Space",
+        "id": "69de5c9d-45e8-4ef4-bed6-0225e35647e3",
+        "title": "Payload Pointing Control Software Engineer",
+        "active": true,
+        "date_updated": 1784596685,
+        "date_posted": 1784596375,
+        "url": "https://jobs.ashbyhq.com/logos-space/ca591880-6b60-4359-9765-28cc0629ec5d/application?embed=true",
+        "locations": [
+            "Mountain View, CA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/2f8ddeb0-bf10-4651-9836-784955a934a0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "ARQ",
+        "id": "90deed62-0de8-412f-a777-d8ebcc9205cc",
+        "title": "Product Owner - ARQ Operating System",
+        "active": true,
+        "date_updated": 1784596685,
+        "date_posted": 1784596364,
+        "url": "https://jobs.ashbyhq.com/arq/db5b0b12-ba9b-405c-b0f0-1792d31e3be2/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/8ad771f4-18fb-441e-ac5b-1548983f7f97",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "ARQ",
+        "id": "420b3611-5e3f-48c9-9578-3c89bf72e806",
+        "title": "Product Owner - ARQ Operating System",
+        "active": true,
+        "date_updated": 1784596685,
+        "date_posted": 1784596365,
+        "url": "https://jobs.ashbyhq.com/arq/80e6f36c-baea-42c2-bb82-de4e0a8e68cd/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/8ad771f4-18fb-441e-ac5b-1548983f7f97",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Funding Circle",
+        "id": "d07243d2-a109-4f64-a14d-7a75944627e3",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1784596685,
+        "date_posted": 1784596351,
+        "url": "https://jobs.ashbyhq.com/fundingcircle/363c58fa-a6f6-4fc3-8082-d9675110543c/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/d4b54dc1-ba9c-4ca7-9816-aaa9b3d1386b",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Super Micro Computer",
+        "id": "7aa3c4bc-fee3-4ded-af85-e231c0cc2dab",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1784596685,
+        "date_posted": 1784596131,
+        "url": "https://jobs.supermicro.com/job/San-Jose-Engineering-Technician-Cali/1410838700/?ats=successfactors",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Super-Micro-Computer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Columbia Sportswear Company",
+        "id": "9f5fcaa6-dd9a-414d-81d0-29129bb60c13",
+        "title": "Product Line Management Specialist 1",
+        "active": true,
+        "date_updated": 1784596909,
+        "date_posted": 1784505600,
+        "url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Product-Line-Management-Specialist-I_R-025058-2",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Columbia-Sportswear-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Association of People With Disabilities",
+        "id": "67b5b449-b8c2-494e-a306-0e9bc0573ab3",
+        "title": "Disability Data Fellow",
+        "active": true,
+        "date_updated": 1784596709,
+        "date_posted": 1784596317,
+        "url": "https://ats.rippling.com/aapd-jobs/jobs/d6167f67-df46-44ae-b7d6-63b7b50b0acd",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/968ce368-8d68-475d-90c1-247d35217e67",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Talent 101 Inc",
+        "id": "82b15482-6a17-48fb-8047-ca1b176b5754",
+        "title": "Tracking Technician",
+        "active": true,
+        "date_updated": 1784596696,
+        "date_posted": 1784596314,
+        "url": "https://ats.rippling.com/talent-101-inc/jobs/e102bedf-e68a-403b-b5a9-7a15147b70a2",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/23f8d388-d774-4de7-b341-a5f055955379",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Truepoint Wealth Counsel",
+        "id": "c1ff56ac-26f7-410b-8c9e-0dd35d354e18",
+        "title": "Associate Trader",
+        "active": true,
+        "date_updated": 1784596691,
+        "date_posted": 1784596311,
+        "url": "https://ats.rippling.com/truepointcareers/jobs/4b43d579-0e77-47ec-8304-8079f06ce843",
+        "locations": [
+            "Sharonville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/198029a9-7fc3-417a-8403-6f1ea72338cb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Eastern Glass and Aluminum",
+        "id": "d27e7af3-759b-46dd-86ad-e1edfbe8aafc",
+        "title": "Product Associate",
+        "active": true,
+        "date_updated": 1784596655,
+        "date_posted": 1784596305,
+        "url": "https://ats.rippling.com/ega-job-board/jobs/616e19f1-8a56-4fb5-abce-865af21192ca",
+        "locations": [
+            "Norcross, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/0f153b58-e53b-434d-b7d9-deba0c6076b0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wildfire Defense Systems, Inc.",
+        "id": "2391b68e-833b-4f9b-9a5a-1786185957f9",
+        "title": "Software Developer 2",
+        "active": true,
+        "date_updated": 1784596609,
+        "date_posted": 1784596290,
+        "url": "https://ats.rippling.com/wdscareers/jobs/7e1868fc-6ca3-4be2-99aa-885050075d1b",
+        "locations": [
+            "Post Falls, ID",
+            "Bozeman, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/3b0e45ed-cf72-4590-abbb-87afc5de4520",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nomi Health",
+        "id": "4993ca44-38ca-4407-b5e3-cb885e7956a8",
+        "title": "Associate Data Analyst",
+        "active": true,
+        "date_updated": 1784596321,
+        "date_posted": 1784596191,
+        "url": "https://jobs.lever.co/nomihealth/e2609b96-33aa-45b9-81d8-4398f704821c/apply",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Nomi-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA Corporation",
+        "id": "7051260a-2b82-469c-b326-d9703c241c5f",
+        "title": "System Design Engineer",
+        "active": true,
+        "date_updated": 1784596685,
+        "date_posted": 1784505600,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/System-Design-Engineer_2638535",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Columbia Sportswear Company",
+        "id": "1f2ddc59-3cb0-4026-b5f8-336375f60432",
+        "title": "Product Line Management Specialist 1",
+        "active": true,
+        "date_updated": 1784596417,
+        "date_posted": 1784505600,
+        "url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/Columbia_Career_Site/job/Portland-Oregon-United-States-of-America/Product-Line-Management-Specialist-I_R-025058-1",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Columbia-Sportswear-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UntilLabs",
+        "id": "0dbc9fad-c658-4d72-ad60-a24162928106",
+        "title": "Physics and Engineering Technician",
+        "active": true,
+        "date_updated": 1784596141,
+        "date_posted": 1784595933,
+        "url": "https://jobs.lever.co/until/582b0ca5-bd92-4a58-849a-fedcbb52ceaa/apply",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/UntilLabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Google",
+        "id": "90b7359f-408b-4a90-8569-d5c80516f753",
+        "title": "Design Verification Engineer - TPU Cloud Compute",
+        "active": true,
+        "date_updated": 1784595961,
+        "date_posted": 1784595905,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/131330438437184198",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "03fe39e0-908d-4258-bb11-3d87a677ec27",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1784596313,
+        "date_posted": 1784595895,
+        "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1410851000/?ats=successfactors",
+        "locations": [
+            "Palm Bay, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
