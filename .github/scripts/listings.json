@@ -35817,7 +35817,7 @@
         "company_name": "University of Texas - Austin",
         "id": "27b16d3d-0298-439a-a080-3b6b90f58fd1",
         "title": "Postdoctoral Fellow",
-        "active": false,
+        "active": true,
         "date_updated": 1763885755,
         "date_posted": 1763885755,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow_R_00030888",
@@ -175576,7 +175576,7 @@
         "company_name": "University of Texas at Austin",
         "id": "41d690ba-a328-481e-87a4-a010f56e469d",
         "title": "Postdoctoral Fellow",
-        "active": false,
+        "active": true,
         "date_updated": 1774842442,
         "date_posted": 1774689321,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow_R_00009657",
@@ -187587,7 +187587,7 @@
         "company_name": "Elekta",
         "id": "a61d1008-152e-4915-aec5-bc00790e4bc8",
         "title": "Associate Field Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775298421,
         "date_posted": 1775297959,
         "url": "https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Louisiana--Home-Based/Associate-Field-Service-Engineer---Baton-Rouge--LA_R2024-0706",
@@ -249512,7 +249512,7 @@
         "company_name": "Pennsylvania State University",
         "id": "320f72e6-8a9a-4738-95c6-ef64f3b1e8d3",
         "title": "Postdoctoral Scholar Sengupta Group",
-        "active": false,
+        "active": true,
         "date_updated": 1779438904,
         "date_posted": 1778947282,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar-Sengupta-Group_REQ_0000062624-1",
@@ -331585,7 +331585,7 @@
         "company_name": "Microsoft",
         "id": "ccad45ad-8f6f-4e1f-824a-6372ae9c7258",
         "title": "Fabric IP Designer",
-        "active": true,
+        "active": false,
         "date_updated": 1784153494,
         "date_posted": 1784153112,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556931111",
@@ -333144,7 +333144,7 @@
         "company_name": "L3Harris Technologies",
         "id": "a135c16f-7fb9-4d99-8edb-4cfa5a9c2420",
         "title": "Associate Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1784215835,
         "date_posted": 1784210973,
         "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1409372300/?ats=successfactors",
@@ -340200,6 +340200,127 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "71de840d-8d8a-41e1-9ec5-6ea7dc50cbc7",
+        "title": "Diagnostic Technician 1",
+        "active": true,
+        "date_updated": 1784608050,
+        "date_posted": 1780034965,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I_J2413704",
+        "locations": [
+            "Florence, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "O'Reilly Auto Parts",
+        "id": "3b49a4cb-4d08-41fd-a399-b5f5ad98fd86",
+        "title": "Electronic Catalog Technician",
+        "active": true,
+        "date_updated": 1784607662,
+        "date_posted": 1781362772,
+        "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Regional-Office-PHX/Content-Technician---PHX_R114562",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/OReilly-Auto-Parts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "61ccd754-cb5e-4e52-8a9e-fa2e607a4fd5",
+        "title": "Future Runoff and Reservoir Evaporation Projections for Texas River Basins Postdoctoral Fellow",
+        "active": true,
+        "date_updated": 1784607935,
+        "date_posted": 1782558015,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow-in-Future-Runoff-and-Reservoir-Evaporation-Projections-for-Texas-River-Basins_R_00034762-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "61517630-6979-4c34-904b-092ee73c3445",
+        "title": "Postdoctoral Fellow",
+        "active": true,
+        "date_updated": 1784607662,
+        "date_posted": 1781952573,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow_R_00031011",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "3d10b00e-4044-46fa-a6b1-65c1b085e91f",
+        "title": "Post-Doctoral Researcher - Cockrell School of Engineering",
+        "active": true,
+        "date_updated": 1784607662,
+        "date_posted": 1782561078,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Post-Doctoral-Researcher--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00019690",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "6b06f96d-3a46-49a9-8ff3-408a41c4ee01",
+        "title": "Postdoctoral Researcher in Particle Astrophysics - Department of Physics - Wissel Research Group",
+        "active": true,
+        "date_updated": 1784607895,
+        "date_posted": 1781360754,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar---Department-of-Physics---Wissel-Research-Group_REQ_0000045022-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
