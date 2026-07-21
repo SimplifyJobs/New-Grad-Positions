@@ -80532,7 +80532,7 @@
         "company_name": "Expedia Group",
         "id": "8cd9b4b6-af3a-4e87-a627-4dce6a58a377",
         "title": "Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1769826816,
         "date_posted": 1769826816,
         "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Canada---Quebec---Montreal/Dveloppeur--euse--pour-l-application-mobile-I-2026--Montral_R-98643-1",
@@ -98213,7 +98213,7 @@
         "company_name": "Genentech",
         "id": "f2e42b05-e4fb-470d-8603-248ae56f24a2",
         "title": "Senior ML Scientist - Scientific Reasoning Models - AI for Drug Discovery",
-        "active": false,
+        "active": true,
         "date_updated": 1770851815,
         "date_posted": 1770851815,
         "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/Senior---Principal-Machine-Learning-Scientist--Scientific-Reasoning-Models_202602-103618",
@@ -157455,7 +157455,7 @@
         "company_name": "University of Chicago",
         "id": "a989ae47-c9be-4491-89db-357f5e636718",
         "title": "Data Science Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1773788503,
         "date_posted": 1773788503,
         "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst--TCOM_JR33014-1",
@@ -157475,7 +157475,7 @@
         "company_name": "University System of New Hampshire",
         "id": "345420e4-2381-481f-aca5-052fb38b61d3",
         "title": "Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773788367,
         "date_posted": 1773788367,
         "url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Assistant_JR5245",
@@ -162032,7 +162032,7 @@
         "company_name": "University of Wisconsin-Madison",
         "id": "5fcb80ac-f68e-4c80-9424-b371e81f6af7",
         "title": "Assistant Professor of Music Technology and Artificial Intelligence - Rise-AI",
-        "active": false,
+        "active": true,
         "date_updated": 1774015768,
         "date_posted": 1774015768,
         "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Assistant-Professor-of-Music-Technology-and-Artificial-Intelligence_JR10004513",
@@ -164851,7 +164851,7 @@
         "company_name": "CACI",
         "id": "6af8c893-078d-4b0c-895a-7fe8105ba976",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1774306885,
         "date_posted": 1774306885,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Annapolis-Junction/Software-Engineer-Skill-Level-0_323580",
@@ -165306,7 +165306,7 @@
         "company_name": "Jabil",
         "id": "50421f1b-8c4b-46d2-8b26-62ad27e52d39",
         "title": "Conversions Diagnostic Technician 1 - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1774307197,
         "date_posted": 1774307197,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/CVG200-Conversions-Diagnostic-Technician-I---401-Shift_J2444082",
@@ -172448,7 +172448,7 @@
         "company_name": "Jabil",
         "id": "499c7b30-eeec-4636-95c6-5f823c40d240",
         "title": "Diagnostic Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774571020,
         "date_posted": 1774571020,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-1_J2443292",
@@ -173845,7 +173845,7 @@
         "company_name": "GlobalFoundries",
         "id": "c6805667-f7a7-4da9-b10c-bc3a3281ac5c",
         "title": "Global Tapeout and Mask Operations New College Graduate - Biz App and Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1774728699,
         "date_posted": 1774649057,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1",
@@ -180579,7 +180579,7 @@
         "company_name": "Micron Technology",
         "id": "ceeffc80-3190-4538-b7e8-e58617d6dcd9",
         "title": "Design Validation Product Engineer - DEG Technology",
-        "active": false,
+        "active": true,
         "date_updated": 1775004841,
         "date_posted": 1774995091,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Design-Validation-Product-Engineer--DEG-Technology_JR96079",
@@ -182059,7 +182059,7 @@
         "company_name": "Nidec",
         "id": "dac1d4bb-0d47-4ee8-bb0a-d506c4911ea0",
         "title": "Application Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775085301,
         "date_posted": 1775081400,
         "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---ACIM-MO/Application-Engineer-I_R0014576",
@@ -188948,7 +188948,7 @@
         "company_name": "Robert Half",
         "id": "22c73d7b-43d7-45a2-b537-5beb5f314625",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775516184,
         "date_posted": 1775513333,
         "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943",
@@ -192392,7 +192392,7 @@
         "company_name": "Motorola",
         "id": "3bc11357-f814-4102-a7af-456453dc5023",
         "title": "Graduate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775658961,
         "date_posted": 1775657368,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R62287",
@@ -240428,7 +240428,7 @@
         "company_name": "Applied Materials",
         "id": "6b5b4470-dfc0-4c79-948e-56b204c3a363",
         "title": "Global Product Support",
-        "active": false,
+        "active": true,
         "date_updated": 1778749381,
         "date_posted": 1777713569,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Global-Product-Support_R2616208",
@@ -248137,7 +248137,7 @@
         "company_name": "Goldman Sachs",
         "id": "ad57e8fa-d0bd-4c63-9809-6141b7dda000",
         "title": "Asset & Wealth Management Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1779343943,
         "date_posted": 1779343723,
         "url": "https://higher.gs.com/roles/168978",
@@ -263844,7 +263844,7 @@
         "company_name": "NatWest Group",
         "id": "d9d98718-3266-4066-a180-d6d84556794c",
         "title": "Tech Insight Experience for Women - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1780272183,
         "date_posted": 1780132193,
         "url": "https://rbs.wd3.myworkdayjobs.com/rbs/job/Edinburgh/Tech-Insight-Experience-for-Women---Engineering_R-00276058",
@@ -269334,7 +269334,7 @@
         "company_name": "NVIDIA",
         "id": "28f533ee-77db-4862-babb-7897aa104c42",
         "title": "Cell Modeling and Verification Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1780467005,
         "date_posted": 1780466907,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cell-Modelling-and-Verification-Engineer---New-College-Grad-2026_JR2011631",
@@ -271825,7 +271825,7 @@
         "company_name": "Booz Allen",
         "id": "068c33d1-37e9-4250-897b-6f892f36b6cf",
         "title": "Data Architect",
-        "active": false,
+        "active": true,
         "date_updated": 1780611664,
         "date_posted": 1780610920,
         "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/Data-Architect_R0236266",
@@ -281596,7 +281596,7 @@
         "company_name": "Goldman Sachs",
         "id": "f99b0f28-4c34-4e85-8a26-27c6ea7b386a",
         "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781168798,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/162274",
@@ -306111,7 +306111,7 @@
         "company_name": "Goldman Sachs",
         "id": "3ac699af-5c50-4a7c-81af-6dfb56f595db",
         "title": "Asset& Wealth Management-Software Engineering-Associate-New York",
-        "active": true,
+        "active": false,
         "date_updated": 1782742321,
         "date_posted": 1782742023,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/168978",
@@ -323996,7 +323996,7 @@
         "company_name": "Goldman Sachs",
         "id": "9f62800f-29c9-4903-ae21-b3abdaa8c9f4",
         "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
-        "active": false,
+        "active": true,
         "date_updated": 1783664461,
         "date_posted": 1771381096,
         "url": "https://higher.gs.com/roles/162274",
@@ -340985,6 +340985,254 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "d956e028-055b-4a9d-8632-25a0dbb02c1b",
+        "title": "Postdoctoral Scholar",
+        "active": true,
+        "date_updated": 1784611983,
+        "date_posted": 1783162705,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000076988-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "3f3d8829-12d0-48c8-9194-297c145e76eb",
+        "title": "New College Grad - Dry Etch Equipment Engineer",
+        "active": true,
+        "date_updated": 1784611983,
+        "date_posted": 1782957101,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-College-Grad---Dry-Etch-Equipment-Engineer_JR97628",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TD Synnex",
+        "id": "39c947cb-0cab-41b0-8056-745f80dc13af",
+        "title": "IT Business Systems Engineer - IT Specialist in Business Systems - API Web",
+        "active": true,
+        "date_updated": 1784611983,
+        "date_posted": 1782598084,
+        "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/Business-Systems-Engineer---Spcialiste-en-systmes-d-affaires_R46579-1",
+        "locations": [
+            "Washington",
+            "Oregon",
+            "Texas",
+            "Florida",
+            "South Carolina",
+            "Mississauga, ON, Canada",
+            "Greenville, SC",
+            "Colorado",
+            "North Carolina",
+            "Remote in Canada",
+            "Clearwater, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Synnex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Morgan Stanley",
+        "id": "188af1fb-dac8-467a-94bc-277494b39675",
+        "title": "UHNW Planning - Multiple Teams",
+        "active": true,
+        "date_updated": 1784611983,
+        "date_posted": 1782956957,
+        "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/UHNW-Planning--Product-Owner---Global-Investment-Office--Assistant-Vice-President_PT-JR033559",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "iHeartMedia",
+        "id": "bac12c37-ad5a-4f40-8cd7-bb509db72857",
+        "title": "Broadcast Producer",
+        "active": true,
+        "date_updated": 1784611983,
+        "date_posted": 1783157957,
+        "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Memphis-TN-Thousand-Oaks/Broadcast-Producer_Req38210",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/IHeartMedia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CACI",
+        "id": "0f4c86c0-cdf8-4e44-a0b5-219b470259cc",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1784611983,
+        "date_posted": 1783519489,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Riverside-CA-US/Data-Analyst_324138-1",
+        "locations": [
+            "Riverside, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "4d634b3b-7a4d-4c71-bfbc-f421280d3653",
+        "title": "Energy Economics Researcher - Postdoctoral Fellow",
+        "active": true,
+        "date_updated": 1784611983,
+        "date_posted": 1781360285,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Energy-Economics-Researcher---Postdoctoral-Fellow_R_00045286",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dave & Busters",
+        "id": "5d7fdaa7-cf2e-4905-a2d7-452ef6404013",
+        "title": "Support Technician",
+        "active": true,
+        "date_updated": 1784611983,
+        "date_posted": 1781360803,
+        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Pittsburgh-PA/Support-Technician_R-1000437",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hilcorp",
+        "id": "b0fff089-6a5e-4f21-ac7a-483e8e621e57",
+        "title": "Geologist",
+        "active": true,
+        "date_updated": 1784614685,
+        "date_posted": 1783161401,
+        "url": "https://hec.wd5.myworkdayjobs.com/hilcorp_energy_company/job/XMLNAME-26-088E---Geologist_R005769-1",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Hilcorp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Varian",
+        "id": "d224bcab-8222-4897-b73a-18d5582c9b93",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1784614161,
+        "date_posted": 1783159970,
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ATL-NP/Field-Service-Engineer-HW--Miami--FL_R-25914-1",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "6ad88d99-c42d-4bfa-9756-be12473cfa4f",
+        "title": "Signal and Power Integrity Engineer New Grad",
+        "active": true,
+        "date_updated": 1784614055,
+        "date_posted": 1781951519,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Signal-and-Power-Integrity-Engineer---New-College-Grad-2026_JR2015067",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "U.S. Bank",
+        "id": "a63197b5-c5d9-443c-bada-560d14dcefea",
+        "title": "Business Systems Analyst",
+        "active": true,
+        "date_updated": 1784613871,
+        "date_posted": 1782956730,
+        "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hackensack-NJ/Business-System-Programming-Analyst_2026-0005806",
+        "locations": [
+            "Saddle Brook, NJ",
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/US-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
