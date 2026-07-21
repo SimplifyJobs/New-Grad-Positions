@@ -83519,7 +83519,7 @@
         "company_name": "JP Morgan Chase",
         "id": "06d84c13-9fb2-462d-b96a-1b6dbbfbcbf9",
         "title": "Asset Management - Equity Quant Researcher - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1770160655,
         "date_posted": 1770160655,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706680",
@@ -244827,7 +244827,7 @@
         "company_name": "RTX",
         "id": "5cf15281-fec7-4bc8-83b4-3db03d031421",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779229441,
         "date_posted": 1779228560,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-1--ONSITE-_01846079",
@@ -275154,7 +275154,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": true,
+        "active": false,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -299177,7 +299177,7 @@
         "company_name": "Nidec",
         "id": "c056d7df-fdde-419f-8c90-d5405fb5557b",
         "title": "Application Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1782771130,
         "date_posted": 1782770702,
         "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Application-Engineer-I_R0016497",
@@ -299403,7 +299403,7 @@
         "company_name": "GE Healthcare",
         "id": "bdca6b0d-54ef-4f43-9135-d4d108215238",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782814145,
         "date_posted": 1782781530,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---San-Antonio--TX_R4042993-1",
@@ -304372,7 +304372,7 @@
         "company_name": "Brown Brothers Harriman",
         "id": "323dd4c0-4f2e-4f29-ae6c-8ff3d8857474",
         "title": "Equity Trading Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1782771302,
         "date_posted": 1782770852,
         "url": "https://bbh.wd5.myworkdayjobs.com/en-US/BBH/job/New-York/Equity-Trading-Analyst_69852",
@@ -305848,7 +305848,7 @@
         "company_name": "Spry Methods",
         "id": "273bb2f3-4593-4275-8e2f-2868f7271591",
         "title": "Intelligence Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782895141,
         "date_posted": 1782425102,
         "url": "https://jobs.lever.co/sprymethods/fe9298b9-c538-42c6-b4a0-bf63fdd68f42/apply",
@@ -306731,7 +306731,7 @@
         "company_name": "Palo Alto Networks",
         "id": "e0e1a29a-d1cb-4648-a75c-6916cdc8cbfe",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1782944642,
         "date_posted": 1782943824,
         "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-010172",
@@ -306871,7 +306871,7 @@
         "company_name": "Palo Alto Networks",
         "id": "38bfa52f-a27c-4720-83bc-a784421b3807",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1782944642,
         "date_posted": 1782943820,
         "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011531",
@@ -306931,7 +306931,7 @@
         "company_name": "Palo Alto Networks",
         "id": "d02026d4-2f71-4409-b31d-8f9903fd4492",
         "title": "Staff Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1782944642,
         "date_posted": 1782943822,
         "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Staff-Software-Engineer_JR-013408",
@@ -307110,7 +307110,7 @@
         "company_name": "Moder",
         "id": "4362d7c3-926d-4c79-9b3e-a1bb06ff2d48",
         "title": "Forward Deployed Engineer Fellow",
-        "active": false,
+        "active": true,
         "date_updated": 1782944606,
         "date_posted": 1782943778,
         "url": "https://archwellessentials.wd1.myworkdayjobs.com/modercareers/job/Conshohocken-PA/Forward-Deployed-Engineer-Fellowship_JR107103",
@@ -308900,7 +308900,7 @@
         "company_name": "State Street",
         "id": "336cbbc3-eb04-4282-b306-8d4ed5362bec",
         "title": "Full Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782961023,
         "date_posted": 1782956396,
         "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Full-Stack-Software-Engineer--Officer_R-793044",
@@ -312120,7 +312120,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc5879a8-4b16-4bc4-90e6-ab5042dcaab1",
         "title": "Asset & Wealth Management - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1783041481,
         "date_posted": 1782742015,
         "url": "https://higher.gs.com/roles/176984",
@@ -325152,7 +325152,7 @@
         "company_name": "Megger",
         "id": "1c30b47e-7f63-4678-b2f7-5f6b6ac163aa",
         "title": "Production Technician Trainee",
-        "active": true,
+        "active": false,
         "date_updated": 1783952154,
         "date_posted": 1783900800,
         "url": "https://megger.wd3.myworkdayjobs.com/MeggerCareers/job/Dover-United-Kingdom/Trainee-Production-Technician_JR100785",
@@ -327638,7 +327638,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -331722,7 +331722,7 @@
         "company_name": "Solar Turbines",
         "id": "117c2f2b-e16b-44db-b634-e9cb1579b304",
         "title": "Entry Level Engineer Rotation - Solutions Platforms Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1784206248,
         "date_posted": 1784160000,
         "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Rotation----Solutions-Platforms-Engineered_R0000381658",
@@ -342411,6 +342411,152 @@
             "Trenton, NJ"
         ],
         "company_url": "https://simplify.jobs/c/NJM-Insurance-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Optiver",
+        "id": "d73deee7-6165-42a6-a011-7c892c312c94",
+        "title": "Graduate FPGA Engineer",
+        "active": true,
+        "date_updated": 1784654462,
+        "date_posted": 1784643587,
+        "url": "https://www.optiver.com/join-us/jobs/8402081002/?gh_jid=8402081002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Bank of America",
+        "id": "02eff408-0056-4995-9781-b124ad783bd7",
+        "title": "Analytics Transformation - Client Quantitative Analyst I",
+        "active": true,
+        "date_updated": 1784654538,
+        "date_posted": 1784592000,
+        "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/New-York/ANALYTICS-TRANFORMATION---Client-Quantitative-Analyst-I_26022430",
+        "locations": [
+            "Newark, NJ",
+            "Bangor, ME",
+            "Charlotte, NC",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bank-Of-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Onto Innovation",
+        "id": "dfc6abcd-7f1b-4472-abff-5d0f26bab592",
+        "title": "Applications Engineer 3",
+        "active": true,
+        "date_updated": 1784652302,
+        "date_posted": 1784160000,
+        "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Wilmington-MA-Upton/Applications-Engineer-3_R-6211",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Onto-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "T-Mobile",
+        "id": "504675ba-0277-4711-b22d-095e8b7c0942",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1784644382,
+        "date_posted": 1782956742,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/alumni/job/Bellevue-Washington/Associate-Product-Manager_REQ362128",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "1a30f17b-7e1c-425f-be9a-36f0533d68f5",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1784642946,
+        "date_posted": 1782943820,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011514",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Workday",
+        "id": "b57b86a4-ea53-4723-95f1-99044cd96070",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1784642946,
+        "date_posted": 1783167918,
+        "url": "https://workday.wd5.myworkdayjobs.com/Workday_Jobs/job/USA-OH-Mason/Product-Manager_JR-0108527",
+        "locations": [
+            "Mason, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Workday",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Chipotle Mexican Grill",
+        "id": "52fb4fd8-e24b-40a3-a22c-5cbb8cfb36e8",
+        "title": "Product Owner - IT Restaurant Systems",
+        "active": true,
+        "date_updated": 1784642222,
+        "date_posted": 1782741845,
+        "url": "https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/8890---500-Neil-Ave/Product-Owner--IT-Restaurant-Systems_JR-2026-01215037",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Chipotle",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
