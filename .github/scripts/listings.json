@@ -275521,7 +275521,7 @@
         "company_name": "SpaceX",
         "id": "6a05b74e-28ae-45f2-9897-9e22330d02ab",
         "title": "Production Development Technician - Optical",
-        "active": true,
+        "active": false,
         "date_updated": 1780960142,
         "date_posted": 1780957199,
         "url": "https://boards.greenhouse.io/spacex/jobs/8573588002",
@@ -320202,7 +320202,7 @@
         "company_name": "Micron Technology",
         "id": "c95931ec-9fb6-4e5a-8738-9e0b798ec8f1",
         "title": "New College Grad - Semiconductor Verification Design Engineer - DRAM Products Group",
-        "active": false,
+        "active": true,
         "date_updated": 1783550345,
         "date_posted": 1783549091,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Verification-Design-Engineer--DRAM-Products-Group_JR104793",
@@ -320242,7 +320242,7 @@
         "company_name": "Northrop Grumman",
         "id": "381814e7-c378-4537-930a-24141fd8ce7c",
         "title": "Software Engineer Level 1 or 2",
-        "active": false,
+        "active": true,
         "date_updated": 1783550345,
         "date_posted": 1783549092,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-1-or-2_R10239388",
@@ -320553,7 +320553,7 @@
         "company_name": "Masco",
         "id": "20080998-6e06-4a67-a507-2e2f610642ac",
         "title": "Data Analyst - Procurement",
-        "active": false,
+        "active": true,
         "date_updated": 1783549622,
         "date_posted": 1783548947,
         "url": "https://masco.wd1.myworkdayjobs.com/Masco/job/US---Michigan---Livonia/Data-Analyst--Procurement_REQ53585",
@@ -321154,7 +321154,7 @@
         "company_name": "Newmont",
         "id": "7e0179db-0054-4f44-8810-5459ab5e6fde",
         "title": "Analyst \u2013 Field Services",
-        "active": true,
+        "active": false,
         "date_updated": 1783589498,
         "date_posted": 1783491125,
         "url": "https://jobs.newmont.com/us/en/job/43597",
@@ -322195,7 +322195,7 @@
         "company_name": "CACI",
         "id": "108fc54d-1d8c-432a-91c8-d2a6dabff21b",
         "title": "IT Data Specialist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783636798,
         "date_posted": 1783555200,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/IT-Data-Specialist-I_328825",
@@ -322401,7 +322401,7 @@
         "company_name": "NVIDIA",
         "id": "4a36cab4-1a4a-43ac-90cd-c832659395c5",
         "title": "Formal Verification Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783636562,
         "date_posted": 1783555200,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2020837",
@@ -323653,7 +323653,7 @@
         "company_name": "Globus Medical",
         "id": "364449cf-2409-40fe-b5f2-16e3e661425c",
         "title": "Associate Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783721524,
         "date_posted": 1783641600,
         "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/ASSOCIATE-PRODUCT-MANAGER_JR107245",
@@ -324810,7 +324810,7 @@
         "company_name": "Micron Technology",
         "id": "19dc207d-51a6-45cf-be80-50c93ab46e32",
         "title": "New Grad Electrical Engineer - Computer Engineer - Engineering Automation",
-        "active": false,
+        "active": true,
         "date_updated": 1783923712,
         "date_posted": 1783900800,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Computer-Engineer--Engineering-Automation_JR103691",
@@ -325726,7 +325726,7 @@
         "company_name": "Northern Trust",
         "id": "1d4467f6-2ccd-4309-97eb-55d3b5944d16",
         "title": "Associate Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783980361,
         "date_posted": 1783900800,
         "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Associate-Product-Manager_R157655",
@@ -327826,7 +327826,7 @@
         "company_name": "University of Central Florida",
         "id": "f61e39f8-df08-44c4-bc85-927710bd0006",
         "title": "Postdoctoral Scholar - Physics",
-        "active": false,
+        "active": true,
         "date_updated": 1784067731,
         "date_posted": 1783987200,
         "url": "https://ucf.wd1.myworkdayjobs.com/careers/job/Orlando-FL-Main-Campus/Post-Doctoral-Scholar--Physics_R113708",
@@ -328817,7 +328817,7 @@
         "company_name": "The Federal Reserve System",
         "id": "9e1b41b8-4a47-4743-be7f-080286d984d9",
         "title": "Research Assistant - Center for Indian Country Development",
-        "active": true,
+        "active": false,
         "date_updated": 1784071064,
         "date_posted": 1783987200,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Minneapolis-MN/Research-Assistant--Center-for-Indian-Country-Development_R-0000032728-1",
@@ -330708,7 +330708,7 @@
         "company_name": "The Boeing Company",
         "id": "e79aefdd-a0ab-47c7-8139-2d34c1e2b4a5",
         "title": "Entry Level Support Engineering Data Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1784154963,
         "date_posted": 1784073600,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Support-Engineering-Data-Specialist--Associate-_JR2026517149-1",
@@ -331648,7 +331648,7 @@
         "company_name": "Becton Dickinson",
         "id": "4567b973-6e0b-4ea2-a3bd-676bcc5ef747",
         "title": "Automation Service Technician \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1784203753,
         "date_posted": 1783814400,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA---Wisconsin---Milwaukee/Automation-Service-Technician--Milwaukee-Chicago-Area_R-550373",
@@ -332669,7 +332669,7 @@
         "company_name": "Northrop Grumman",
         "id": "ab0771e9-db3f-45e7-8243-a2d147085b12",
         "title": "Software Engineer/Principal Software Engineer - DevSecOps",
-        "active": false,
+        "active": true,
         "date_updated": 1784241364,
         "date_posted": 1784160000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer-Principal-Software-Engineer---DevSecOps--San-Diego---Hybrid-_R10240651",
@@ -334298,7 +334298,7 @@
         "company_name": "Texas A&M University System",
         "id": "489be2bf-5ecf-4711-8059-16c4db19d1fa",
         "title": "Assistant Data Visualization Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784325961,
         "date_posted": 1784246400,
         "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Houston-TX/Assistant-Data-Visualization-Analyst_R-095267",
@@ -339880,7 +339880,7 @@
         "company_name": "TD Synnex",
         "id": "39c947cb-0cab-41b0-8056-745f80dc13af",
         "title": "IT Business Systems Engineer - IT Specialist in Business Systems - API Web",
-        "active": true,
+        "active": false,
         "date_updated": 1784611983,
         "date_posted": 1782598084,
         "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/Business-Systems-Engineer---Spcialiste-en-systmes-d-affaires_R46579-1",
@@ -343409,6 +343409,129 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "8c37179b-4a84-4451-bd0f-12eac9d7fbef",
+        "title": "Test Engineering Tech 2",
+        "active": true,
+        "date_updated": 1784671128,
+        "date_posted": 1783987200,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Salt-Lake-CityGrantsville-UT/Test-Engineering-Tech-II--Temp-to-Perm-_J2457757",
+        "locations": [
+            "Salt Lake City, UT",
+            "Tooele, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Argonne National Laboratory",
+        "id": "13e05a61-88a8-450f-b919-6953d7bf4ea1",
+        "title": "Assistant Scientist",
+        "active": true,
+        "date_updated": 1784663102,
+        "date_posted": 1784246400,
+        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Assistant-Scientist--RD2---Scientist--RD3----Coherent-X-ray-Scattering-of-Geochemical-Interfaces_423116",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "10752806-09f5-4207-aff2-8cebfdd8845e",
+        "title": "Postdoctoral Scholar",
+        "active": true,
+        "date_updated": 1784663102,
+        "date_posted": 1784160000,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000079870-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Embry-Riddle Aeronautical University",
+        "id": "944bcb9c-0aa3-41cb-9ea2-8aa91dc53922",
+        "title": "Flight Simulation Technician",
+        "active": true,
+        "date_updated": 1784662382,
+        "date_posted": 1784073600,
+        "url": "https://embryriddle.wd1.myworkdayjobs.com/External/job/Prescott-AZ/Flight-Simulation-Technician_R311789",
+        "locations": [
+            "Prescott, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Embry-Riddle-Aeronautical-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "64e4132f-4013-4cca-8734-977dba502024",
+        "title": "Software Engineer/Principal Software Engineer - Java",
+        "active": true,
+        "date_updated": 1784668862,
+        "date_posted": 1783555200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer-Principal-Software-Engineer---Java_R10239296-1",
+        "locations": [
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "cbdd094a-df53-4277-8928-3b3af376f6e0",
+        "title": "GE Vernova Advanced Research Development Program",
+        "active": true,
+        "date_updated": 1784661662,
+        "date_posted": 1783987200,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/GE-Vernova-Advanced-Research-Development-Program--Edison--Master-s-Level----US-2027_R5047236-2",
+        "locations": [
+            "Schenectady, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
