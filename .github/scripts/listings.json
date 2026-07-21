@@ -20613,24 +20613,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "12b71b82-5176-47d7-9bd0-59d7bb51ebc0",
-        "title": "Field Service Engineer 1 - Denver - CO",
-        "active": false,
-        "date_updated": 1765463861,
-        "date_posted": 1763888313,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Denver--CO_R4031913-1",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "JP Morgan Chase",
         "id": "ffe19e42-c866-4d26-ac16-c3be14e91487",
@@ -38044,27 +38026,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Montrose Environmental Group",
-        "id": "eb0c6d6d-5a42-4f55-a92c-504f9b9489f3",
-        "title": "FTIR Field Scientist - Air Emissions",
-        "active": false,
-        "date_updated": 1763887685,
-        "date_posted": 1763887685,
-        "url": "https://montrose.wd1.myworkdayjobs.com/meg/job/USA-CO-Arvada-Joyce-Drive/FTIR-Field-Scientist--Stack-_R7552",
-        "locations": [
-            "Elk Grove Village, IL",
-            "Carson City, MI",
-            "Roanoke, VA",
-            "Wheat Ridge, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Montrose-Environmental-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Milwaukee Tool",
         "id": "9be3b765-5134-4f84-8eb7-c5a81bdfdcbf",
@@ -39552,24 +39513,6 @@
             "Cleveland, OH"
         ],
         "company_url": "https://simplify.jobs/c/CSA-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Procter & Gamble (P&G)",
-        "id": "6a65fd5a-bbfa-4ebc-b2c6-5afd8c79453f",
-        "title": "Distribution Center Automated Technician",
-        "active": false,
-        "date_updated": 1763887377,
-        "date_posted": 1763887377,
-        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/SOUTHEAST-FULFILLMENT-CENTER/Distribution-Center-Automated-Technician_R000135210",
-        "locations": [
-            "McDonough, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -54482,26 +54425,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Draper",
-        "id": "b7079f34-95f8-493e-89a0-b0f8575c8657",
-        "title": "Embedded Software Engineer",
-        "active": false,
-        "date_updated": 1768389208,
-        "date_posted": 1763887640,
-        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Senior-Resilient---Fault-Tolerant-Embedded-Software-Engineer_JR000672",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Draper",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "GE Aerospace",
         "id": "416bd4ee-9a93-44dc-aa39-72635d5ea18a",
         "title": "Repair Station Associate - Harness",
@@ -58241,26 +58164,6 @@
             "Salt Lake City, UT"
         ],
         "company_url": "https://simplify.jobs/c/Barr",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Draper",
-        "id": "bfd7284e-6b11-478d-9541-44bec97c347d",
-        "title": "Embedded Software Engineer",
-        "active": false,
-        "date_updated": 1768563030,
-        "date_posted": 1763887682,
-        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Software-Engineer_JR001254",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Draper",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -177817,7 +177720,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "5a03e922-9be2-4e12-9821-b01d8c92b5e6",
+        "id": "35bdadb3-6dd8-4e23-b36d-a34aa8762510",
         "title": "Uncertainty Quantification for Surrogate Models Postdoctoral Researcher",
         "active": true,
         "date_updated": 1774972621,
@@ -189012,7 +188915,7 @@
         "company_name": "University of Texas at Austin",
         "id": "e19303e5-1dd5-489f-a2e1-b85888f74f79",
         "title": "Postdoctoral Fellow-Walker Department of Mechanical Engineering - Cockrell School of Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1775515718,
         "date_posted": 1775513100,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow-Walker-Department-of-Mechancial-Engineering--Cockrell-School-of-Engineering_R_00045345",
@@ -263452,7 +263355,7 @@
         "company_name": "Motorola",
         "id": "afc48c33-7438-4ae9-b278-d1b434d99a9e",
         "title": "Graduate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779977161,
         "date_posted": 1779977055,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R65351",
@@ -264209,7 +264112,7 @@
         "company_name": "Iowa State University",
         "id": "a05271a0-8ea8-441b-8161-116fd5133ce9",
         "title": "Assistant Professor in Applied Linguistics and Artificial Intelligence - Artificial Intelligence",
-        "active": false,
+        "active": true,
         "date_updated": 1780280823,
         "date_posted": 1780131876,
         "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Assistant-Professor-in-Applied-Linguistics-and-Artificial-Intelligence--AI-_R19304-1",
@@ -265011,7 +264914,7 @@
         "company_name": "Micron Technology",
         "id": "246cd778-c7c8-4dd5-88be-30f5e424219b",
         "title": "DRAM Design Engineer New Grad - DRAM Design Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780323766,
         "date_posted": 1780322983,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---DRAM-Design-Engineer_JR103089",
@@ -265459,7 +265362,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "09d20042-33f6-4f2b-a735-d91f7209f653",
         "title": "Postdoctoral Appointee - Research at extremes of pressure - Temperature and strain at HPCAT",
-        "active": false,
+        "active": true,
         "date_updated": 1780352281,
         "date_posted": 1780351601,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Research-at-extremes-of-pressure--temperature-and-strain-at-HPCAT_422744",
@@ -266199,7 +266102,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -273262,7 +273165,7 @@
         "company_name": "Leonardo",
         "id": "a4f8108a-b8e0-440e-8e67-3084664f7d44",
         "title": "Embedded Design Engineer - FPGA Academy",
-        "active": false,
+        "active": true,
         "date_updated": 1780652161,
         "date_posted": 1780652120,
         "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Embedded-Design-Engineer--FPGA-Academy-_R0029850",
@@ -287031,7 +286934,7 @@
         "company_name": "Nidec",
         "id": "1866e9da-3ccc-4dec-bae0-9d84fe202dd4",
         "title": "Application Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781373925,
         "date_posted": 1781360790,
         "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Application-Engineer-I_R0015972",
@@ -302780,7 +302683,7 @@
         "company_name": "Nightwing Intelligence Solutions",
         "id": "74ecf24a-3da9-4055-ae12-5927fed9f147",
         "title": "Software Engineer - Full Stack",
-        "active": false,
+        "active": true,
         "date_updated": 1782299701,
         "date_posted": 1780006146,
         "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Engineer---Full-Stack_JR101686",
@@ -341804,6 +341707,66 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Micron Technology",
+        "id": "b4491de9-ac4b-4bf6-9bfe-caf49b9c53a0",
+        "title": "HBM Product Manager \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1784615584,
+        "date_posted": 1783166153,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HBM-Product-Manager--New-College-Grad-_JR102001",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The Home Depot",
+        "id": "b65909da-46ff-45c0-b152-14e09dcad9d8",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1784615584,
+        "date_posted": 1783159437,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Product-Manager_Req181501",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Home-Depot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "27b16d3d-0298-439a-a080-3b6b90f58fd1",
+        "title": "Postdoctoral Fellow",
+        "active": true,
+        "date_updated": 1784607662,
+        "date_posted": 1781360307,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow_R_00030888",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "PhD"
         ]
     }
