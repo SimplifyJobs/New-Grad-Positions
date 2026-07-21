@@ -509,24 +509,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Viridien",
-        "id": "ea30bf77-1030-4770-992a-b3687c59a3d2",
-        "title": "Seismic Imaging Analyst",
-        "active": false,
-        "date_updated": 1763910016,
-        "date_posted": 1763910016,
-        "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Seismic-Imaging-Analyst_JR101070-2",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Viridien",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "EXL",
         "id": "9953d6ee-08cc-45e8-bdf5-b877c5e260b1",
         "title": "Data Scientist",
@@ -256163,7 +256145,7 @@
         "company_name": "The Federal Reserve System",
         "id": "d05c2b68-917e-4f4e-a813-a4ce97be4c5b",
         "title": "Senior Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1779875512,
         "date_posted": 1779528352,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Philadelphia-PA/Research-Assistant-Sr-Research-Assistant_R-0000030430",
@@ -319274,7 +319256,7 @@
         "company_name": "Cambridge Associates",
         "id": "c3da4ebf-fe80-45be-a96d-627691d4df0a",
         "title": "Investment Analyst - Venture Capital",
-        "active": false,
+        "active": true,
         "date_updated": 1783549622,
         "date_posted": 1783548700,
         "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/Investment-Analyst--Venture-Capital_JR0000335-2",
@@ -323927,7 +323909,7 @@
         "company_name": "Exact Sciences",
         "id": "a2bcdeb5-f730-4200-9a7a-52e8054aa307",
         "title": "Instrumentation/Automation Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783721634,
         "date_posted": 1783721245,
         "url": "https://exactsciences.wd1.myworkdayjobs.com/en-CA/Exact_Sciences/job/US---WI---Madison/Instrumentation-Automation-Service-Engineer-I--Tues--Fri--6-00-am--4-30-pm_R26-13041-1",
@@ -334552,7 +334534,7 @@
         "company_name": "Texas A&M University System",
         "id": "489be2bf-5ecf-4711-8059-16c4db19d1fa",
         "title": "Assistant Data Visualization Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1784325961,
         "date_posted": 1784246400,
         "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Houston-TX/Assistant-Data-Visualization-Analyst_R-095267",
@@ -334909,7 +334891,7 @@
         "company_name": "KBR",
         "id": "ae7d5613-a5d0-4aed-aa82-17ed6c67e828",
         "title": "Semiconductor Device Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784327045,
         "date_posted": 1784246400,
         "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Semiconductor-Device-Engineer_R2126834",
@@ -335059,7 +335041,7 @@
         "company_name": "CACI",
         "id": "2c24322b-3f22-439d-89d9-a8a4549bb524",
         "title": "IT Data Specialist \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1784327764,
         "date_posted": 1784246400,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/IT-Data-Specialist---Entry-Level_329225",
@@ -336600,7 +336582,7 @@
         "company_name": "Nextech Systems",
         "id": "de2c8961-9838-4025-864c-04058434a52e",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784585704,
         "date_posted": 1784585408,
         "url": "https://jobs.lever.co/nextech/5f2f3398-12f2-45c2-921e-f22f915e1c15/apply",
@@ -338014,7 +337996,7 @@
         "company_name": "Wildfire Defense Systems, Inc.",
         "id": "2391b68e-833b-4f9b-9a5a-1786185957f9",
         "title": "Software Developer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1784596609,
         "date_posted": 1784596290,
         "url": "https://ats.rippling.com/wdscareers/jobs/7e1868fc-6ca3-4be2-99aa-885050075d1b",
@@ -338192,7 +338174,7 @@
         "company_name": "Critical Response Group",
         "id": "8b5fce07-250c-4bee-82e2-01faa32996d2",
         "title": "Field Mapping Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1784598845,
         "date_posted": 1784596669,
         "url": "https://ats.rippling.com/critical-response-group/jobs/6dc635bb-c283-4d0b-bd70-603b92b4fd21",
@@ -338573,7 +338555,7 @@
         "company_name": "Vortex Companies, LLC",
         "id": "235d8840-df58-48d8-8809-bcb07403c8c4",
         "title": "Robotic Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784598229,
         "date_posted": 1784596618,
         "url": "https://ats.rippling.com/vortex-companies-llc/jobs/79676646-b359-4208-b23c-80f2f65a5963",
@@ -338753,7 +338735,7 @@
         "company_name": "Peakhealth AI Inc",
         "id": "f863b27b-8e81-4649-88fb-276417087564",
         "title": "AI Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1784598139,
         "date_posted": 1784596605,
         "url": "https://ats.rippling.com/peakhealth-ai/jobs/65f2319e-f462-4358-9ff5-6b4e56041b90",
@@ -342010,6 +341992,191 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Travelers",
+        "id": "f6865848-c6d8-4488-a94b-ee21317efaa1",
+        "title": "Software Engineer 1 - Guidewire Policy Configuration",
+        "active": true,
+        "date_updated": 1784645835,
+        "date_posted": 1784073600,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Guidewire-Policy-Configuration_R-51545",
+        "locations": [
+            "Sparks, MD",
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GRAIL",
+        "id": "f05a32fb-9cb5-4c9f-9c79-8f522cc6b6ef",
+        "title": "Data Analytics Engineer 1",
+        "active": true,
+        "date_updated": 1784645720,
+        "date_posted": 1784614205,
+        "url": "https://jobs.lever.co/grailbio/475f2338-6a6a-450b-a851-f47c93a33e69/apply",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/GRAIL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "8c744354-a4ae-42f5-8f27-c5ab2023398c",
+        "title": "Associate \u2013 Hardware Engineer",
+        "active": true,
+        "date_updated": 1784635742,
+        "date_posted": 1784613878,
+        "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Hardware-Engineer-TX-75402/1410860300/?ats=successfactors",
+        "locations": [
+            "Greenville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Everfox",
+        "id": "5d4273a4-4eda-4ac4-8656-a398851d11d7",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1784645663,
+        "date_posted": 1784592000,
+        "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500751",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Everfox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Semtech",
+        "id": "eff78df6-63f3-44c3-a44c-8c05d0eebf15",
+        "title": "Associate Hardware Design Engineer",
+        "active": true,
+        "date_updated": 1784635023,
+        "date_posted": 1783375602,
+        "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Associate-PCB-Design-Engineer_REQ3455",
+        "locations": [
+            "Burlington, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Semtech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "50ce988c-1291-4a79-a36e-4bffc91f464b",
+        "title": "Senior Antenna RF Engineer",
+        "active": true,
+        "date_updated": 1784644690,
+        "date_posted": 1784246400,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Antenna-RF-Engineer---Associates--Experienced-or-Senior_JR2026516816",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ryder System",
+        "id": "3d200b4d-987e-4693-807e-0f1053cfed9a",
+        "title": "Customs Specialist",
+        "active": true,
+        "date_updated": 1784644417,
+        "date_posted": 1784246400,
+        "url": "https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/CAN---Longueuil-QC-J4G-1A1/Spcialiste-des-douanes-Customs-Specialist_R177978",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ryder-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "10a88ab0-8841-4314-a5c8-e89481716a62",
+        "title": "Senior Product Manager - Audit Insights & Innovation - AI and Data Engineering",
+        "active": true,
+        "date_updated": 1784644347,
+        "date_posted": 1784246400,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Associate--Product-Manager--Audit-Insights---Innovation--AI-and-Data-Engineering_R247257-2",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University System",
+        "id": "adb04e00-2777-400e-8d32-810aa962c3f9",
+        "title": "Research Assistant - Energy & Environmental Sustainability",
+        "active": true,
+        "date_updated": 1784634304,
+        "date_posted": 1784246400,
+        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Research-Assistant--Energy---Environmental-Sustainability-_R-095226",
+        "locations": [
+            "Prairie View, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
