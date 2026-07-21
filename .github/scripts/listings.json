@@ -490,24 +490,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "07f3ba90-c827-40d3-a8ab-4ecc361cb6a2",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763893199,
-        "date_posted": 1763893199,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039285",
-        "locations": [
-            "Northern Ireland, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "NVIDIA",
         "id": "d522c27c-456b-4d94-afce-7926f6b4fb76",
@@ -22874,24 +22856,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ASML",
-        "id": "f62681e0-b3a4-4fcb-ac61-6eda329fa3c5",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1765626374,
-        "date_posted": 1763892815,
-        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Software-Engineer_J-00330610",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASML",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Brandes Associates",
         "id": "f50e27a9-62a5-4794-9149-451108af754c",
@@ -38459,24 +38423,6 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Dave & Busters",
-        "id": "1f475c7e-fc1d-4aa4-85f1-243fe744cd03",
-        "title": "Support Technician",
-        "active": false,
-        "date_updated": 1763893141,
-        "date_posted": 1763893141,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Louisville-KY/Support-Technician_R-1009444",
-        "locations": [
-            "Louisville, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
         "id": "f16fb1ff-be66-44c9-ad1c-ec557499e0fc",
         "title": "Game Support Technician",
         "active": false,
@@ -39919,24 +39865,6 @@
             "United Kingdom"
         ],
         "company_url": "https://simplify.jobs/c/DXC-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Stanley Black & Decker",
-        "id": "100b9aad-ec08-4134-a3c7-4f8c2a11e847",
-        "title": "Service Technician 1",
-        "active": false,
-        "date_updated": 1763893569,
-        "date_posted": 1763893569,
-        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Norcross-GA-United-States/Service-Technician-I_REQ-1000042992",
-        "locations": [
-            "Norcross, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -222855,7 +222783,7 @@
         "company_name": "Northrop Grumman",
         "id": "d9368b85-8130-440d-a260-1b1c9652c7b6",
         "title": "Electromechanical Engineer - Level 1 OR 2",
-        "active": false,
+        "active": true,
         "date_updated": 1777501441,
         "date_posted": 1777500621,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Electromechanical-Engineer--Level-1-OR-2-_R10230923",
@@ -223874,7 +223802,7 @@
         "company_name": "The Home Depot",
         "id": "c1b62322-6a6c-4f98-812e-a753548b255c",
         "title": "Associate Data Scientist - Space Intelligence",
-        "active": false,
+        "active": true,
         "date_updated": 1777587841,
         "date_posted": 1777587047,
         "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---Space-Intelligence_Req178898-1",
@@ -265676,7 +265604,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -280293,7 +280221,7 @@
         "company_name": "The Boeing Company",
         "id": "6805ad41-b94a-44ef-9bac-4bb826f84abb",
         "title": "Linux System Administrator - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1781130241,
         "date_posted": 1781129480,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Linux-System-Administrator--Associate-_JR2026514382",
@@ -280729,7 +280657,7 @@
         "company_name": "Applied Materials",
         "id": "ad7d7867-e455-490d-8f63-f85d5e3e7490",
         "title": "Data Scientist - Agentic AI / ML",
-        "active": false,
+        "active": true,
         "date_updated": 1781140141,
         "date_posted": 1781139980,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist---Agentic-AI---ML_R2621700",
@@ -283081,7 +283009,7 @@
         "company_name": "Viridien",
         "id": "ba9a6dcc-a160-4ada-a8fb-35dc158ac085",
         "title": "Seismic Imaging Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1781186761,
         "date_posted": 1781186582,
         "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Seismic-Imaging-Analyst_JR101333-2",
@@ -283769,7 +283697,7 @@
         "company_name": "Lumentum",
         "id": "6df12b44-dd54-4190-9e0b-c129286498e4",
         "title": "Senior Product Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1781216117,
         "date_posted": 1781215591,
         "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Rose/Senior-Product-Engineer-P40_2026764",
@@ -285207,7 +285135,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "a7879cc5-5237-4e86-8f55-4a1755d765a8",
         "title": "Research Associate - College of Engineering - Electrical and Computer Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1781303221,
         "date_posted": 1781302120,
         "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---College-of-Engineering---Electrical-and-Computer-Engineering_2024661",
@@ -285367,7 +285295,7 @@
         "company_name": "The Boeing Company",
         "id": "ae21e7cb-1f14-401f-95ad-c50eac0d39a4",
         "title": "Seat Systems Software Certification Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1781303221,
         "date_posted": 1781302283,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/GBR---Bristol-UK/Seat-Systems-Software-Certification-Engineer--Associate-or-Experienced-level-_JR2026514691-3",
@@ -285407,7 +285335,7 @@
         "company_name": "Northrop Grumman",
         "id": "f86afae0-0327-4116-afd0-a466375bd5d0",
         "title": "Intelligence Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1781303221,
         "date_posted": 1781302267,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Intelligence-Analyst---Level-2-or-3_R10236100",
@@ -285831,7 +285759,7 @@
         "company_name": "The Boeing Company",
         "id": "b0c5b65e-7019-4d0f-a1ff-3052173df5c3",
         "title": "Seat Systems Software Certification Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1781303221,
         "date_posted": 1781302298,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Seat-Systems-Software-Certification-Engineer--Associate-or-Experienced-level-_JR2026514691",
@@ -287136,7 +287064,7 @@
         "company_name": "Louisiana State University (LSU)",
         "id": "6501c31e-355f-48ec-beeb-f97a308d4278",
         "title": "Postdoctoral Researcher",
-        "active": false,
+        "active": true,
         "date_updated": 1781638741,
         "date_posted": 1781638576,
         "url": "https://lsu.wd1.myworkdayjobs.com/LSU/job/Argonne-National-Laboratory/Postdoctoral-Researcher_R00116543",
@@ -319908,7 +319836,7 @@
         "company_name": "RTX",
         "id": "f58cb7cb-43b9-4892-9932-37caa2157a3f",
         "title": "Data Management 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783549240,
         "date_posted": 1783548790,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-808--1151-E-Hermans-Rd--BLDG-808/Data-Management-I----Onsite-_01854038",
@@ -333902,7 +333830,7 @@
         "company_name": "Blue Cross Blue Shield of Arizona",
         "id": "2682987d-bc44-43ad-aca5-109801591e78",
         "title": "Business Intelligence Developer Medicaid - Level I",
-        "active": false,
+        "active": true,
         "date_updated": 1784278180,
         "date_posted": 1781361769,
         "url": "https://bcbsaz.wd1.myworkdayjobs.com/en-US/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/Business-Intelligence-Developer-Medicaid---Level-I--Remote-AZ-_R6047",
@@ -341443,5 +341371,201 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Atrium Hospitality",
+        "id": "2bfcfe7f-295f-406f-b60e-8d2b100785d2",
+        "title": "Audio Tech",
+        "active": true,
+        "date_updated": 1784629698,
+        "date_posted": 1781638976,
+        "url": "https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/Frisco-TX/On-Call-Audio-Tech_R48780",
+        "locations": [
+            "Frisco, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Atrium-Hospitality",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Grand Canyon University",
+        "id": "be5d5745-ee84-4ae6-b172-d4332c7a7ef7",
+        "title": "Image Processing and Computer Vision - Adjunct Faculty - College of Engineering and Technology",
+        "active": true,
+        "date_updated": 1784617742,
+        "date_posted": 1783157973,
+        "url": "https://gcu.wd1.myworkdayjobs.com/GCU/job/AZ-Phoenix/Image-Processing-and-Computer-Vision---Adjunct-Faculty---Traditional-Campus----Fall-2026----College-of-Engineering-and-Technology_R000066594",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Grand-Canyon-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "940af5e9-b061-4e04-bb67-81fe75ec728a",
+        "title": "F-15 Mission Systems Software Engineer Senior - Associate",
+        "active": true,
+        "date_updated": 1784629481,
+        "date_posted": 1782555160,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/F-15-Mission-Systems-Software-Engineer--Associate--Experienced----Senior-_JR2026507780",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ryder System",
+        "id": "3115293e-b441-44c4-a702-ffbbf8b9ef9e",
+        "title": "Application Support Engineer 1",
+        "active": true,
+        "date_updated": 1784629277,
+        "date_posted": 1778942329,
+        "url": "https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/USA---Coral-Gables-FL-33134/Application-Support-Engineer-I_R170446",
+        "locations": [
+            "Coral Gables, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Ryder-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "3ae738c3-1972-4573-b39f-dd2e9c32be38",
+        "title": "High Performance Compute - Multiple Teams",
+        "active": true,
+        "date_updated": 1784617024,
+        "date_posted": 1781638738,
+        "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/High-Performance-Compute--HPC--Software-Engineer---HPC-SW-Systems_2636307-2",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The Home Depot",
+        "id": "bc899167-3e53-4572-949e-2f262c036fd4",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1784617024,
+        "date_posted": 1783158903,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Product-Manager_Req183689",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Home-Depot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "iHeartMedia",
+        "id": "f9fb1fef-a6af-4e5f-83e7-5344246c8ea9",
+        "title": "Board Operator",
+        "active": true,
+        "date_updated": 1784628917,
+        "date_posted": 1783166631,
+        "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Harrisonburg-VA/Part-Time-Board-Operator_Req38744-4",
+        "locations": [
+            "Harrisonburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/IHeartMedia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Morgan Stanley",
+        "id": "b347ca2e-0a09-4f0e-8032-cda3e3fdb27c",
+        "title": "Equities \u2013 Derivatives Clearing Strategy & Product",
+        "active": true,
+        "date_updated": 1784617024,
+        "date_posted": 1783161605,
+        "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Equities---Derivatives-Clearing-Strategy---Product---Associate_JR038698-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stewart",
+        "id": "617caf94-0106-4351-99bc-6d4f930e8107",
+        "title": "Copilot Systems Engineer 1",
+        "active": true,
+        "date_updated": 1784628356,
+        "date_posted": 1781359958,
+        "url": "https://stewart.wd1.myworkdayjobs.com/External/job/USA-TX---Remote/Systems-Engineer-I_JR108188",
+        "locations": [
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/Stewart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The Home Depot",
+        "id": "d7f65fa3-38e9-4183-aff0-0df8378f4299",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1784617024,
+        "date_posted": 1783165609,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/PRODUCT-MANAGER_Req183246",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Home-Depot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
