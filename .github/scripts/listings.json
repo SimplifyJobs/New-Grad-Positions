@@ -35814,24 +35814,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "University of Texas - Austin",
-        "id": "27b16d3d-0298-439a-a080-3b6b90f58fd1",
-        "title": "Postdoctoral Fellow",
-        "active": true,
-        "date_updated": 1763885755,
-        "date_posted": 1763885755,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow_R_00030888",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Pfizer",
         "id": "e4dd0561-d460-4d68-b553-8ef1ab1305e8",
         "title": "Postdoctoral Fellow in AI/ML Applications for Vaccine Research and Development",
@@ -40399,42 +40381,6 @@
             "Norcross, GA"
         ],
         "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "3386e777-8a2d-4f32-a918-94adc10dfcf6",
-        "title": "Assistant or Associate Research Professor",
-        "active": false,
-        "date_updated": 1763885517,
-        "date_posted": 1763885517,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Assistant-or-Associate-Research-Professor--The-Thomas-D-Larson-Transportation-Institute_REQ_0000073124-2",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Howard University",
-        "id": "58810439-f891-49c3-a699-cdf374f329b3",
-        "title": "Assistant Professor",
-        "active": false,
-        "date_updated": 1763886075,
-        "date_posted": 1763886075,
-        "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Classroom-Building-4-School-of-Business/Assistant-Professor_JR107320-1",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Howard-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -169862,7 +169808,7 @@
         "company_name": "University of Rochester",
         "id": "ff8e02ae-33e9-4d66-a3d3-e686d33c4861",
         "title": "Data Analyst 1 - Drug Diversion Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1774478575,
         "date_posted": 1774478575,
         "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Strong-Memorial-Hospital/Data-Analyst-I---Pharmacy_R269792-1",
@@ -243375,7 +243321,7 @@
         "company_name": "Exclusive Networks",
         "id": "2bde9acf-af97-42cf-8f41-4da73b0d035b",
         "title": "Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1778912101,
         "date_posted": 1778911591,
         "url": "https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/London/Data-Analyst_JR1913-1",
@@ -248891,7 +248837,7 @@
         "company_name": "GlobalFoundries",
         "id": "3c05a5e7-3576-44c5-9123-47434f3eee75",
         "title": "Design Engineer Verification New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1779402403,
         "date_posted": 1779401141,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/Design-Engineer-Verification--2026-New-College-Graduate-_JR-2601844",
@@ -249131,7 +249077,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -257105,7 +257051,7 @@
         "company_name": "KnitWell Group",
         "id": "e349964c-cf0d-4281-a635-06a6f595b077",
         "title": "Assistant Product Coordinator",
-        "active": false,
+        "active": true,
         "date_updated": 1779876002,
         "date_posted": 1779429976,
         "url": "https://knitwellgroup.wd1.myworkdayjobs.com/US_Corporate_Jobs/job/New-York-Office/Assistant-Product-Coordinator_R-2026731",
@@ -262608,7 +262554,7 @@
         "company_name": "Invenergy",
         "id": "5eb27c42-a289-43d7-92f3-f287948a1014",
         "title": "Solar Performance Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779958621,
         "date_posted": 1779487621,
         "url": "https://invenergyllc.wd1.myworkdayjobs.com/en-US/invenergycareers/job/Chicago-IL/Solar-Performance-Analyst_R10624",
@@ -267236,7 +267182,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -320527,7 +320473,7 @@
         "company_name": "Comcast",
         "id": "12ee8070-f334-4f78-a421-b5bb89bd1d64",
         "title": "Assisted Tools Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783549108,
         "date_posted": 1783548815,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Field-Experience-Domain-Engineer_R438012",
@@ -341721,6 +341667,143 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Metropolitan State University of Denver",
+        "id": "ae6902d8-c1b6-4ef6-b013-63bffcca8610",
+        "title": "Student Systems Analyst",
+        "active": true,
+        "date_updated": 1784614861,
+        "date_posted": 1783157829,
+        "url": "https://msudenver.wd1.myworkdayjobs.com/MSUDenver/job/Denver-Colorado/Student-Systems-Analyst_JR105262",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Metropolitan-State-University-Of-Denver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "United Parcel Service (UPS)",
+        "id": "a43641ff-3abd-46fe-ab19-0315be4a14ac",
+        "title": "Applications Development Associate",
+        "active": true,
+        "date_updated": 1784621970,
+        "date_posted": 1781344211,
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Applications-Devt-Associate_R26013571",
+        "locations": [
+            "Indiana"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "5461517c-0df5-4f2b-be10-acc67f4fced1",
+        "title": "Product Installation Engineer - Rapid",
+        "active": true,
+        "date_updated": 1784621899,
+        "date_posted": 1781360070,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Product-Install-Engineer---RAPID---Extensive-90----Travel-Required_2635691",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Abbott",
+        "id": "7155ac3f-5d4c-4c9d-98cf-38f9e2dea5ad",
+        "title": "Field Service Engineer 2",
+        "active": true,
+        "date_updated": 1784621700,
+        "date_posted": 1781953189,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Springfield/Field-Service-Engineer-II--Springfield--IL_31150798-1",
+        "locations": [
+            "Springfield, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Analog Devices",
+        "id": "0fbbfc2f-a11a-49dd-a008-b301eb21f6df",
+        "title": "Senior Engineer - Machine Learning",
+        "active": true,
+        "date_updated": 1784614861,
+        "date_posted": 1781361181,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Senior-Engineer--Machine-Learning_R262583-1",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Southern California",
+        "id": "e612f074-ef4f-414c-9858-087d37613ed8",
+        "title": "Research Engineer 1",
+        "active": true,
+        "date_updated": 1784621126,
+        "date_posted": 1783167546,
+        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Arlington-VA/Research-Engineer-I_REQ20175277-1",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "eBay",
+        "id": "aca0e18e-5d8f-4da5-bb42-48000abb73e1",
+        "title": "Applied Researcher 1",
+        "active": true,
+        "date_updated": 1784614145,
+        "date_posted": 1783166463,
+        "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Applied-Researcher-1_R0074634",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/E-Bay",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
             "PhD"
         ]
     }
