@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Caesars Entertainment",
-        "id": "793f994b-40cf-45e9-a577-d1e2ff36d468",
-        "title": "Slot Technician - Slot Machines",
-        "active": false,
-        "date_updated": 1763944762,
-        "date_posted": 1763944762,
-        "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/76420",
-        "locations": [
-            "Elgin, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Caesars-Entertainment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "f317828b-2997-47fa-83cb-152f54508739",
@@ -190440,7 +190422,7 @@
         "company_name": "Axon",
         "id": "15019db0-bd99-4871-89c5-0c4e322637b5",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775604594,
         "date_posted": 1775600445,
         "url": "https://job-boards.greenhouse.io/axon/jobs/7576969003",
@@ -216835,7 +216817,7 @@
         "company_name": "RoboForce",
         "id": "32fb0fec-1af6-42ec-a08e-3b5f1086976f",
         "title": "Data Collection Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1776982861,
         "date_posted": 1776982711,
         "url": "https://job-boards.greenhouse.io/roboforce/jobs/5198791008",
@@ -216956,7 +216938,7 @@
         "company_name": "Northrop Grumman",
         "id": "b5b8fd8d-bfe1-4bc0-a902-6285c6270a00",
         "title": "Software Engineer / Principal Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776982861,
         "date_posted": 1776982097,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Software-Engineer---Principal-Software-Engineer---Requirements---Test_R10230491",
@@ -218091,7 +218073,7 @@
         "company_name": "Marvell",
         "id": "f1fcf68f-8890-42fe-ac03-f0005d940502",
         "title": "Accelerated Computing Solutions Analyst \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1777068541,
         "date_posted": 1777068435,
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Accelerated-Computing-Solutions-Analyst---Early-Career_2601165-1",
@@ -264535,7 +264517,7 @@
         "company_name": "The Boeing Company",
         "id": "ac60b5e8-747b-497a-837c-82f9950d1bfd",
         "title": "Spacecraft Software Engineer - Millennium Space Systems",
-        "active": false,
+        "active": true,
         "date_updated": 1780353505,
         "date_posted": 1780351868,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Spacecraft-Software-Engineer--Associate-or-Mid-Level---Millennium-Space-Systems_JR2026512895-2",
@@ -268320,7 +268302,7 @@
         "company_name": "Matillion",
         "id": "6f064ba4-8cb5-4c86-8237-7530909d2469",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780477561,
         "date_posted": 1780477403,
         "url": "https://jobs.lever.co/matillion/62ae3359-b2ea-43bc-bed7-574e939f66e2/apply",
@@ -282952,7 +282934,7 @@
         "company_name": "The Boeing Company",
         "id": "0ff85166-c02a-4091-8195-f30ef0966eb3",
         "title": "Entry Level Software Systems Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1781216821,
         "date_posted": 1781215823,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Systems-Engineer_JR2026511294",
@@ -290267,7 +290249,7 @@
         "company_name": "Laserfiche",
         "id": "3937a504-382b-4061-a6ac-e27d6b2f4540",
         "title": "Support Engineer 1 - I",
-        "active": false,
+        "active": true,
         "date_updated": 1781677549,
         "date_posted": 1781676490,
         "url": "https://jobs.jobvite.com/laserfiche/job/orDbAfwz?nl=1&nl=1&fr=false",
@@ -293129,7 +293111,7 @@
         "company_name": "SpaceX",
         "id": "778e1777-fab9-418c-a38b-1acb7ac03dd1",
         "title": "Software Engineer - Pcba - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1781821621,
         "date_posted": 1781821066,
         "url": "https://boards.greenhouse.io/spacex/jobs/8584271002",
@@ -309010,7 +308992,7 @@
         "company_name": "NVIDIA",
         "id": "7118a968-548c-4bab-a2f7-a787ad1603a8",
         "title": "ASIC Physical Design and Timing Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1782963533,
         "date_posted": 1782957586,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-and-Timing-Engineer---New-College-Grad-2026_JR2019810",
@@ -316094,7 +316076,7 @@
         "company_name": "Terex",
         "id": "e3b385c3-0b50-4fe0-bd31-dfd54c154e21",
         "title": "Commercial Graduate Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783433881,
         "date_posted": 1783433126,
         "url": "https://terex.wd1.myworkdayjobs.com/terexcareers/job/UK-Grantham-Wharf/Commercial-Graduate-Analyst_REQ-12477",
@@ -318330,7 +318312,7 @@
         "company_name": "Micron Technology",
         "id": "ee0b78af-412a-49ac-af70-f1d6a460b368",
         "title": "Senior BEOL Engineer - DRAM Process Integration",
-        "active": false,
+        "active": true,
         "date_updated": 1783512953,
         "date_posted": 1783167953,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Sr-BEOL-Engineer---DRAM-Process-Integration_JR94163",
@@ -334844,7 +334826,7 @@
         "company_name": "Axle",
         "id": "fc9bdda8-0104-4f86-ad16-8e42683b6444",
         "title": "Data Science Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1784327045,
         "date_posted": 1780956479,
         "url": "https://job-boards.greenhouse.io/axle/jobs/5158529007",
@@ -344543,6 +344525,348 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BNY",
+        "id": "3154be10-173a-4b90-8b24-47c92d5b67ae",
+        "title": "Senior Data Scientist - Data Scientist",
+        "active": true,
+        "date_updated": 1784681920,
+        "date_posted": 1784642969,
+        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/79328",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/BNY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University System",
+        "id": "f6183b33-d7e6-448b-ac69-94db33d0caf8",
+        "title": "Postdoctoral Research Associate - Texas A&M Agrilife Research - Agricultural Economics",
+        "active": true,
+        "date_updated": 1784681119,
+        "date_posted": 1783165043,
+        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Postdoctoral-Research-Associate_R-094720",
+        "locations": [
+            "College Station, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ivy Tech Community College",
+        "id": "b20fdc5f-62fb-404d-8b45-0dbb43b19684",
+        "title": "Assistant Registrar - Data Analyst",
+        "active": true,
+        "date_updated": 1784680399,
+        "date_posted": 1784592000,
+        "url": "https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Indianapolis-IN/Assistant-Registrar---Data-Analyst_JR0000108989",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Ivy-Tech-Community-College",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "13826454-b917-4af3-b569-9bddf01cb84a",
+        "title": "Engineer / Principal Software Engineer - Cloud & Applications",
+        "active": true,
+        "date_updated": 1784681523,
+        "date_posted": 1782957260,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Engineer---Principal-Engineer-Software---Cloud---Applications_R10237199",
+        "locations": [
+            "Melbourne, FL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wells Fargo",
+        "id": "e1ad5c14-e8ab-4797-95ce-3508ef2c3839",
+        "title": "Engineering Associate - Mainframe Systems",
+        "active": true,
+        "date_updated": 1784681119,
+        "date_posted": 1783900800,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/IRVING-TX/Engineering-Associate---Mainframe-Systems_R-559987",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amwins",
+        "id": "2b8e0245-ef43-45f0-9e04-60566482962b",
+        "title": "Insurance Brokerage Relationship Management Associate",
+        "active": true,
+        "date_updated": 1784680927,
+        "date_posted": 1784672833,
+        "url": "https://www.amwins.com/who-we-are/careers/open-positions?gh_jid=4326367009",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/61149ad1-851f-4dac-8f8f-4fba1d81babd",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "35537a74-34d1-4088-bd5c-b0baf9eed719",
+        "title": "Senior Pharmaceutical Reporting Analyst",
+        "active": true,
+        "date_updated": 1784680881,
+        "date_posted": 1784592000,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Pharmaceutical-Reporting-Senior-Analyst_R0951898-1",
+        "locations": [
+            "Pennsylvania",
+            "California",
+            "Texas",
+            "Florida",
+            "Georgia",
+            "Arizona",
+            "Virginia",
+            "Ohio",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "35a35482-5bd6-4b46-b19f-184707e7171b",
+        "title": "Electrical Engineer 1 - ASIC/FPGA",
+        "active": true,
+        "date_updated": 1784680771,
+        "date_posted": 1784592000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Electrical-Engineer-I---ASIC-FPGA--Onsite-_01861017",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "edf45637-cce9-4e17-a58e-c3c827a43b98",
+        "title": "Software Engineer/Principal Software Engineer - Java",
+        "active": true,
+        "date_updated": 1784680688,
+        "date_posted": 1784592000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Software-Engineer-Principal-Software-Engineer-Java--TS-SCI-CI-Poly---AHT-_R10241339",
+        "locations": [
+            "Wright-Patterson AFB, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northrop Grumman",
+        "id": "d3af5ef3-c5be-48e1-a924-8275b36c2ed5",
+        "title": "Data Scientist Associate",
+        "active": true,
+        "date_updated": 1784680678,
+        "date_posted": 1784592000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/XMLNAME-2026-Associate-Data-Scientist-Data-Scientist---Promontory-UT_R10241351",
+        "locations": [
+            "Logan, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Micron Technology",
+        "id": "0921cc7c-5118-4b58-bb30-c23a720502d9",
+        "title": "Full-Stack AI Engineer",
+        "active": true,
+        "date_updated": 1784678959,
+        "date_posted": 1784592000,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Full-Stack-AI-Engineer_JR106377",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "b8b5d32f-0c43-4547-a9ec-f624bbd9213e",
+        "title": "New College Grad - Semiconductor Design Engineer",
+        "active": true,
+        "date_updated": 1784678959,
+        "date_posted": 1784592000,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Design-Engineer_JR106463",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "41b1bdd1-a7c8-47ea-8db1-3d9af57d40e9",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1784678959,
+        "date_posted": 1784673331,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8077184",
+        "locations": [
+            "Central California, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johnson & Johnson",
+        "id": "34b04721-e840-45ac-960b-89280c5b5a94",
+        "title": "Associate Field Service Engineer",
+        "active": true,
+        "date_updated": 1784680399,
+        "date_posted": 1784592000,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Montral-Quebec-Canada/Associate-Field-Service-Engineer--Fixed-Term-_R-089236-1",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "a4c9000a-8165-4cc2-befa-d63b5f26b40a",
+        "title": "Conversion - Software Engineer 1",
+        "active": true,
+        "date_updated": 1784680313,
+        "date_posted": 1784592000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/XMLNAME-2027-Conversion---Software-Engineer-I---St-Petersburg--FL--Onsite-_01860332",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "935d5e2a-2962-45cf-b6cc-08183fc2b835",
+        "title": "GPU Architecture Engineer New Grad",
+        "active": true,
+        "date_updated": 1784680208,
+        "date_posted": 1784592000,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2026_JR2021615",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA",
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's",
             "PhD"
         ]
