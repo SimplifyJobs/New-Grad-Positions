@@ -296641,7 +296641,7 @@
         "company_name": " PrizePicks",
         "id": "4736b762-d76a-4c72-b71b-055c211c8e96",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782138241,
         "date_posted": 1782137632,
         "url": "http://prizepicks.com/position?gh_jid=7777284003",
@@ -345641,6 +345641,26 @@
             "West Palm Beach, FL"
         ],
         "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AlphaLife Sciences",
+        "id": "6efed8e0-ecf9-4113-90cc-fd187d314b95",
+        "title": "AI Software Engineer",
+        "active": true,
+        "date_updated": 1784697678,
+        "date_posted": 1782770892,
+        "url": "https://jobs.ashbyhq.com/alphalifesci/238161ca-5aa0-4089-9cdf-d41912eba9c1/application?embed=true",
+        "locations": [
+            "Iselin, Woodbridge Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/AlphaLife-Sciences",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
