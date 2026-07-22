@@ -346321,5 +346321,64 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "ce226506-da45-4030-9c50-ab0fb7d61512",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1784732238,
+        "date_posted": 1784730954,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8078055",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "7161bed2-d996-43a6-bcc3-a87b132cb424",
+        "title": "Software Engineer - Frontend - Typescript",
+        "active": true,
+        "date_updated": 1784732238,
+        "date_posted": 1784678400,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Software-Engineer--Frontend--TypeScript_R66988",
+        "locations": [
+            "London, UK",
+            "Uxbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Schroders",
+        "id": "aaa7f297-f7c8-41c7-9946-af933d50a07e",
+        "title": "Investment Analyst - Infrastructure Debt",
+        "active": true,
+        "date_updated": 1784732238,
+        "date_posted": 1784729542,
+        "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1781",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Schroders",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
