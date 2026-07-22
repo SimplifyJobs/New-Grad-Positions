@@ -319697,7 +319697,7 @@
         "company_name": "Red Hat",
         "id": "e20329ac-6427-4de0-96a0-96990e67b705",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783550345,
         "date_posted": 1783548321,
         "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Durham/Associate-Software-Engineer_R-058395",
@@ -345585,5 +345585,46 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Deluxe",
+        "id": "4fd8c949-8e4c-4555-87e8-f15b89627f06",
+        "title": "Technical Product Analyst 1",
+        "active": true,
+        "date_updated": 1784692213,
+        "date_posted": 1782252264,
+        "url": "https://deluxe.wd5.myworkdayjobs.com/en-US/USA_CAN/job/Remote--USA/Technical-Product-Analyst-I_260794WD",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deluxe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UBS",
+        "id": "bae9f7da-62ea-4d76-8ea6-af11ad55f9f0",
+        "title": "Financial Data Operations Analyst",
+        "active": true,
+        "date_updated": 1784691918,
+        "date_posted": 1783606263,
+        "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=345891",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/UBS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
