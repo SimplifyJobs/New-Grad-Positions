@@ -302841,7 +302841,7 @@
         "company_name": "Vertiv",
         "id": "c3d74931-865d-4b60-b10e-744b71a3bd11",
         "title": "Equipment Installer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782208228,
         "date_posted": 1781849057,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20274821",
@@ -305890,7 +305890,7 @@
         "company_name": "Graphcore",
         "id": "f4f73c57-61ae-4399-b373-ce87118430db",
         "title": "Graduate Software Engineer - Triton",
-        "active": true,
+        "active": false,
         "date_updated": 1782915505,
         "date_posted": 1782914896,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8615504002",
@@ -310194,7 +310194,7 @@
         "company_name": "Clarity Innovations",
         "id": "ff966379-204b-4e1a-b720-8443d3c7bb31",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1783002961,
         "date_posted": 1781791880,
         "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5167161007",
@@ -311012,7 +311012,7 @@
         "company_name": "Torch Technologies",
         "id": "7906cd76-3364-4be5-9530-02fc87a7f0f2",
         "title": "Systems Engineer/Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1783031221,
         "date_posted": 1783030587,
         "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Systems-Engineer-Analyst_R1322",
@@ -327203,7 +327203,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -346167,5 +346167,159 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "48286d9b-dbec-49ca-8712-27dbaaa8b249",
+        "title": "Data Collection Project",
+        "active": true,
+        "date_updated": 1784732371,
+        "date_posted": 1784729137,
+        "url": "https://jobs.lever.co/weloglobal/405280a1-a7d7-4a50-a4a0-fbae40055b1f/apply",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "36315efc-ac6d-4346-9298-318338752a00",
+        "title": "Video Recording Participant",
+        "active": true,
+        "date_updated": 1784731519,
+        "date_posted": 1784729665,
+        "url": "https://jobs.lever.co/tsmg/45e1ae3a-765b-4b70-a0ce-896a4e51a52a/apply",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Argonne National Laboratory",
+        "id": "04ab19d9-e442-4c1d-9c84-64f58b09240b",
+        "title": "Predoctoral Appointee",
+        "active": true,
+        "date_updated": 1784731519,
+        "date_posted": 1784678400,
+        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Predoctoral-Appointee---Machine-Learning-for-Viral-Glycosylation-Prediction_423126",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "a693aee3-d175-46a2-864d-983e727bf888",
+        "title": "Voltage Technician",
+        "active": true,
+        "date_updated": 1784731607,
+        "date_posted": 1784730768,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8079331",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Brookings Institution",
+        "id": "aa941c91-1e7d-40d9-a460-c010cc741db0",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1784730798,
+        "date_posted": 1784729321,
+        "url": "https://careers-brookings.icims.com/jobs/3884/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Brookings-Institution",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Worldwide TechServices",
+        "id": "a930e99b-11a7-4c4c-9117-1732331af6ba",
+        "title": "Dynamic PC Support",
+        "active": true,
+        "date_updated": 1784730798,
+        "date_posted": 1784729395,
+        "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000139081829",
+        "locations": [
+            "Amarillo, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldwide-TechServices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "e1ce7cd0-8b1d-4707-9fce-7f8566d631c5",
+        "title": "Video Recording Participant",
+        "active": true,
+        "date_updated": 1784730798,
+        "date_posted": 1784729665,
+        "url": "https://jobs.lever.co/tsmg/1c257ea0-638d-4d01-ac34-c85ceaa69fee/apply",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pogo Technologies, Inc.",
+        "id": "b9dddc91-404f-4923-b104-dda004ce620a",
+        "title": "Full Stack Engineer",
+        "active": true,
+        "date_updated": 1784730933,
+        "date_posted": 1784729599,
+        "url": "https://jobs.ashbyhq.com/joinpogo/5cb77d21-34bd-46ad-995f-62a7428b7061/application?embed=true",
+        "locations": [
+            "Canada",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/f58a30c3-a04b-42bb-a8b9-b55894b3d405",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
