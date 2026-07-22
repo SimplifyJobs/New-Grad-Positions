@@ -297962,7 +297962,7 @@
         "company_name": "KLA Corporation",
         "id": "4210520a-e30a-4e55-aad9-c41a24fcc119",
         "title": "Fleet Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1782556562,
         "date_posted": 1782555677,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Fleet-Engineer_2637290-1",
@@ -302275,7 +302275,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "36bcaa93-c547-4cd3-8183-20a2f867fbfb",
         "title": "Postdoctoral Appointee - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1782339123,
         "date_posted": 1782338926,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Battery-Modeling--Electrochemistry--and-AI_422994",
@@ -345526,5 +345526,64 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Radius Limited",
+        "id": "25c6cc6c-bd71-4818-9bfe-caa939eec64b",
+        "title": "Graduate Full Stack Developer - Python and React",
+        "active": true,
+        "date_updated": 1784689039,
+        "date_posted": 1784642666,
+        "url": "https://jobs.smartrecruiters.com/RadiusLimited/744000138873544",
+        "locations": [
+            "Northwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Radius-Limited",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Niagara Bottling",
+        "id": "bbb4cfe5-a327-4309-86a0-3fc83e080711",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1784688248,
+        "date_posted": 1783472727,
+        "url": "https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Corp-Main---Diamond-Bar-CA/Systems-Engineer-I_R55432",
+        "locations": [
+            "Walnut, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Niagara-Bottling",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "iHeartMedia",
+        "id": "f341ecc4-3c72-4e2a-89af-ef79f6c89f31",
+        "title": "Producer: Sports and Digital",
+        "active": true,
+        "date_updated": 1784688053,
+        "date_posted": 1784160000,
+        "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Madison-WI/Producer--Sports-and-Digital-PT_Req38692-4",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/IHeartMedia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
