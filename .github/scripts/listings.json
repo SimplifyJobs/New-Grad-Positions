@@ -265700,7 +265700,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -302435,7 +302435,7 @@
         "company_name": "GE Healthcare",
         "id": "6b714166-bc69-4a53-ac98-4bcb62a5c1d7",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1782812054,
         "date_posted": 1782252366,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I_R4042607",
@@ -320973,7 +320973,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "e866b75b-bf29-4798-bb4d-caaa7780849b",
         "title": "AI Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1783606321,
         "date_posted": 1783555200,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Birmingham-United-Kingdom/AI-Developer_R-01358937-1",
@@ -327107,7 +327107,7 @@
         "company_name": "RX",
         "id": "452e16d8-ffc5-4e0c-9e68-b6ea7d2a595e",
         "title": "Junior Web Producer",
-        "active": false,
+        "active": true,
         "date_updated": 1784033462,
         "date_posted": 1782828300,
         "url": "https://relx.wd3.myworkdayjobs.com/ReedExhibitions/job/UK---Richmond/Junior-Web-Producer_R115338",
@@ -330327,7 +330327,7 @@
         "company_name": "The Boeing Company",
         "id": "e79aefdd-a0ab-47c7-8139-2d34c1e2b4a5",
         "title": "Entry Level Support Engineering Data Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1784154963,
         "date_posted": 1784073600,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Support-Engineering-Data-Specialist--Associate-_JR2026517149-1",
@@ -336496,7 +336496,7 @@
         "company_name": "Cisco",
         "id": "f6c918f6-c11f-4973-831f-d6bf6762f164",
         "title": "Hardware Engineer - High-speed IO/Testing",
-        "active": true,
+        "active": false,
         "date_updated": 1784587141,
         "date_posted": 1784505600,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Hardware-Engineer---High-speed-IO-Testing--Onsite-_2020365-1",
@@ -337323,7 +337323,7 @@
         "company_name": "Talent 101 Inc",
         "id": "82b15482-6a17-48fb-8047-ca1b176b5754",
         "title": "Tracking Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1784596696,
         "date_posted": 1784596314,
         "url": "https://ats.rippling.com/talent-101-inc/jobs/e102bedf-e68a-403b-b5a9-7a15147b70a2",
@@ -345826,6 +345826,64 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NielsenIQ",
+        "id": "a92e3a1c-065b-46a2-a2ef-e57a32b72b2c",
+        "title": "Insights Analyst",
+        "active": true,
+        "date_updated": 1784713519,
+        "date_posted": 1784624642,
+        "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000138818745",
+        "locations": [
+            "London, UK",
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NielsenIQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Polymarket",
+        "id": "a422035a-8c4c-4612-9ef6-e5f88dbae73a",
+        "title": "Forward Deployed Engineer - Institutional",
+        "active": true,
+        "date_updated": 1784714239,
+        "date_posted": 1781129353,
+        "url": "https://jobs.ashbyhq.com/polymarket/9d54dede-9ca1-4c3e-a404-270b8e3d523c/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Polymarket",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Old Mission",
+        "id": "896dbe55-ef9b-431b-9a54-5c8eb5ad8c43",
+        "title": "Junior Quantitative Researcher",
+        "active": true,
+        "date_updated": 1784714959,
+        "date_posted": 1779142154,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6309652003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
