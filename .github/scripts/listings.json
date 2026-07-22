@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "L3Harris Technologies",
-        "id": "7c87b129-7d03-4ebb-bd00-0264cba78220",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1763942211,
-        "date_posted": 1763942211,
-        "url": "https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039600/?ats=successfactors",
-        "locations": [
-            "Waco, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "L3Harris Technologies",
-        "id": "07a89285-0761-4f66-b50d-e8564e3bfbc6",
-        "title": "Assoc \u2013 Software Engineer - Waco - TX",
-        "active": false,
-        "date_updated": 1763942211,
-        "date_posted": 1763942211,
-        "url": "https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039700/?ats=successfactors",
-        "locations": [
-            "Waco, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Caesars Entertainment",
         "id": "793f994b-40cf-45e9-a577-d1e2ff36d468",
@@ -26367,7 +26329,7 @@
         "company_name": "Auto-Owners Insurance",
         "id": "33675427-69db-483c-bbbe-c86819f94415",
         "title": "Math Major Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1766015311,
         "date_posted": 1766015311,
         "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Math-Major-Software-Developer_R_1008",
@@ -179604,7 +179566,7 @@
         "company_name": "KLA",
         "id": "0a401657-4fa0-441d-bfa6-318cb0d39e6e",
         "title": "Product Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775002681,
         "date_posted": 1774994746,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Product-Development-Engineer_2635306",
@@ -205097,7 +205059,7 @@
         "company_name": "GlobalFoundries",
         "id": "7c7c7353-5820-41bb-a47b-a57e9fd1f739",
         "title": "AI Enablement Strategist",
-        "active": false,
+        "active": true,
         "date_updated": 1776377408,
         "date_posted": 1776377082,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-Enablement-Strategist--New-College-Graduate-_JR-2600365",
@@ -246659,7 +246621,7 @@
         "company_name": "Northrop Grumman",
         "id": "af8f0f0d-0022-49ef-be96-34f019baa6b0",
         "title": "Space Flight Operations \u2013 Engineer/Principal Engineer Systems",
-        "active": false,
+        "active": true,
         "date_updated": 1779315661,
         "date_posted": 1779314912,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Space-Flight-Operations---Engineer-Principal-Engineer-Systems_R10233658",
@@ -247976,7 +247938,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -250026,7 +249988,7 @@
         "company_name": "ExxonMobil",
         "id": "986ef8b3-34eb-4bdb-b765-e9de65da9050",
         "title": "Gas Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1779819398,
         "date_posted": 1778922203,
         "url": "https://jobs.exxonmobil.com/job/London-Gas-Trader-LND-SE10SU/1384294800/?ats=successfactors",
@@ -266081,7 +266043,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -275100,7 +275062,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -286909,7 +286871,7 @@
         "company_name": "Northrop Grumman",
         "id": "bcbaa5af-ffac-4e7d-bec3-2a331e2d1137",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1781646858,
         "date_posted": 1781639440,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-DevOps-Engineer---Level-2-3_R10236589",
@@ -290431,7 +290393,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -300260,7 +300222,7 @@
         "company_name": "Guidewire",
         "id": "446847d3-29b2-4c3c-b983-f4e2203fc1ec",
         "title": "Associate Certification Program Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782868406,
         "date_posted": 1782770934,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946",
@@ -312106,7 +312068,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -315610,7 +315572,7 @@
         "company_name": "King & Spalding",
         "id": "ea1c7f11-67a1-450c-9c54-856d708eac55",
         "title": "Data Analyst Consultant-Healthcare",
-        "active": false,
+        "active": true,
         "date_updated": 1783386721,
         "date_posted": 1783386551,
         "url": "https://kslaw.wd1.myworkdayjobs.com/en-US/careers/job/Washington-DC-District-of-Columbia/Data-Analyst-Consultant--Healthcare_R452",
@@ -317991,7 +317953,7 @@
         "company_name": "Goldman Sachs",
         "id": "6a36b7f9-3aea-44d6-b6a2-b8ba794476ea",
         "title": "Asset & Wealth Management - Product Management - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1783472761,
         "date_posted": 1781791629,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/173819",
@@ -327584,7 +327546,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -328549,7 +328511,7 @@
         "company_name": "Northrop Grumman",
         "id": "53fbb298-0ce6-4d07-8338-de5267ff0c4f",
         "title": "GNC Engineer - Flying Qualities Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1784071675,
         "date_posted": 1783987200,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-or-Principal-Engineer-Guidance-Navigation-Control---Flying-Qualities-Engineering_R10239652",
@@ -329706,7 +329668,7 @@
         "company_name": "Cadence Design Systems",
         "id": "cde38f13-9a90-413f-8cd1-e00cf9e7262d",
         "title": "Software Engineer 1 - Computational Fluid Dynamics - Computational Fluid Dynamics",
-        "active": false,
+        "active": true,
         "date_updated": 1784125669,
         "date_posted": 1784073600,
         "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LONDON-01/Software-Engineer-I---Computational-Fluid-Dynamics--CFD-_R55487-1",
@@ -329843,7 +329805,7 @@
         "company_name": "United Parcel Service (UPS)",
         "id": "e1901e5a-e1da-4108-aa1d-7e341c93d311",
         "title": "Applications Development Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1784125008,
         "date_posted": 1784073600,
         "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Applications-Devt-Associate_R26005648",
@@ -332609,7 +332571,7 @@
         "company_name": "Northrop Grumman",
         "id": "efdc29ac-3896-4cea-8dfa-2a4eb0e9929d",
         "title": "Software Engineer Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1784241952,
         "date_posted": 1784160000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10240764",
@@ -333801,7 +333763,7 @@
         "company_name": "Pennsylvania State University",
         "id": "35b9522d-17e0-488f-ae8b-d1b88467b762",
         "title": "Research Assistant in Meteorology",
-        "active": false,
+        "active": true,
         "date_updated": 1784297739,
         "date_posted": 1784246400,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-time-Research-Assistant-in-Meteorology---Tropical-Cyclone-Modeling-and-Data-Analysis_REQ_0000080359-1",
@@ -335844,7 +335806,7 @@
         "company_name": "Concept Plus",
         "id": "310197b6-811c-4282-aaef-afdcf2115383",
         "title": "Support Desk Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784536098,
         "date_posted": 1780006154,
         "url": "https://ats.rippling.com/conceptplus/jobs/1bd82388-8cfd-4dc8-b580-449d18011031",
@@ -337920,7 +337882,7 @@
         "company_name": "Supper",
         "id": "de79e0dc-5609-42ef-8312-c5808709ec5f",
         "title": "Forward Deployed Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784598827,
         "date_posted": 1784596656,
         "url": "https://ats.rippling.com/supper/jobs/efb530ae-91fc-4593-9b67-b0cbe9a314b9",
@@ -344052,6 +344014,228 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Chicago",
+        "id": "63690151-1a30-4480-89d0-d1af29e3ec5e",
+        "title": "Admissions System Technology Specialist",
+        "active": true,
+        "date_updated": 1784678239,
+        "date_posted": 1784592000,
+        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Admissions-System-Technology-Specialist_JR34520",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blue Cross Blue Shield of Arizona",
+        "id": "226d315a-7b11-4e93-aa2f-49c1ba24b724",
+        "title": "Business Intelligence Analyst Lead",
+        "active": true,
+        "date_updated": 1784671761,
+        "date_posted": 1784160000,
+        "url": "https://bcbsaz.wd1.myworkdayjobs.com/en-US/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/Business-Intelligence-Analyst-Lead---Hybrid_R6154",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Cross-Blue-Shield-Of-Arizona",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Wisconsin-Madison",
+        "id": "4f91949f-48ca-4a78-a774-bd464309295a",
+        "title": "IRP Research Analyst - Bfy",
+        "active": true,
+        "date_updated": 1784671761,
+        "date_posted": 1784592000,
+        "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/IRP-Research-Analyst---BFY_JR10013173",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Wisconsin-Madison",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Markel Group",
+        "id": "163dc031-ef89-45df-ac7b-23c2a0d3af34",
+        "title": "Data Processor",
+        "active": true,
+        "date_updated": 1784677753,
+        "date_posted": 1784592000,
+        "url": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Bedford-TX/Data-Processor---State-National_R0023382",
+        "locations": [
+            "Hurst, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Markel-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Group 1 Automotive",
+        "id": "85d31e6a-319f-48fb-9257-4d401c4f3ad5",
+        "title": "Applications Specialist 1",
+        "active": true,
+        "date_updated": 1784677723,
+        "date_posted": 1784671459,
+        "url": "https://careers-group1auto.icims.com/jobs/36615/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Group-1-Automotive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Texas Instruments",
+        "id": "7201fef9-2990-4336-9766-3088f919731f",
+        "title": "Career Accelerator Program - Product Engineer",
+        "active": true,
+        "date_updated": 1784671761,
+        "date_posted": 1784671447,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25003917",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CACI",
+        "id": "38aa92ad-5136-4d31-bafd-6a2c02de9888",
+        "title": "MI Systems Maintainer Integrator",
+        "active": true,
+        "date_updated": 1784667421,
+        "date_posted": 1782956169,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Springfield-VA-US/MI-Systems-Maintainer-Integrator_328391",
+        "locations": [
+            "Springfield, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NV5 Global",
+        "id": "3e5b5d0c-c0b9-423d-8e7d-c78fcccf1618",
+        "title": "Survey CAD Drafter",
+        "active": true,
+        "date_updated": 1784677511,
+        "date_posted": 1784671683,
+        "url": "https://careers-nv5.icims.com/jobs/12193/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Palm Desert, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NV5-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of British Columbia",
+        "id": "74875a99-6903-4125-ae86-24a7ba6b33bb",
+        "title": "Graduate Teaching Assistant Health Data Analytics Course: Introduction to the Big Data Era",
+        "active": true,
+        "date_updated": 1784677340,
+        "date_posted": 1784073600,
+        "url": "https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Hospital-Site---Vancouver-BC-Canada/Graduate-Teaching-Assistant--Health-Data-Analytics-Course--Introduction-to-the-Big-Data-Era---Opportunities-for-Better-Health-Care_JR25265",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/0afd0e99-520e-4d18-ba6a-1e60dc183fd4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Capital One",
+        "id": "aca38119-fad3-41e7-b497-e1f7b7ecd7d3",
+        "title": "Product Management Senior Associate - Product Management - Commercial Banking",
+        "active": true,
+        "date_updated": 1784677206,
+        "date_posted": 1784073600,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Product-Managment---Commercial-Banking_R246933-1",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA",
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WGU",
+        "id": "767f1d89-f1fa-4d06-bf5c-a61d9c738f7c",
+        "title": "Software Engineer Python/Angular",
+        "active": true,
+        "date_updated": 1784678239,
+        "date_posted": 1784246400,
+        "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Software-Engineer-Python-Angular_JR-025709",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
