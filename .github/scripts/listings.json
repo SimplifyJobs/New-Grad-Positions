@@ -239048,7 +239048,7 @@
         "company_name": "Slice (slicelife.com)",
         "id": "a6a3e049-7705-4778-b661-940154f9d584",
         "title": "Software Developer - Services",
-        "active": true,
+        "active": false,
         "date_updated": 1778768461,
         "date_posted": 1778768368,
         "url": "https://slice.careers/careers-listing?gh_jid=7228672",
@@ -285037,7 +285037,7 @@
         "company_name": "Illinois Tool Works",
         "id": "ee4b4ef7-c9ee-4c4b-81a9-cde751440974",
         "title": "Field Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1781331095,
         "date_posted": 1781330874,
         "url": "https://careers.itw.com/global/en/job/JR6437",
@@ -290252,7 +290252,7 @@
         "company_name": "GE Healthcare",
         "id": "b8df6356-852a-4297-b6d7-4e4dab8e1234",
         "title": "Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781704769,
         "date_posted": 1781639272,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois-Central-Illinois_R4042298-1",
@@ -298968,7 +298968,7 @@
         "company_name": "GE Healthcare",
         "id": "bdca6b0d-54ef-4f43-9135-d4d108215238",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1782814145,
         "date_posted": 1782781530,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---San-Antonio--TX_R4042993-1",
@@ -324504,7 +324504,7 @@
         "company_name": "Micron Technology",
         "id": "9e081b4b-dc90-4c5c-8b6f-41f7f8e08c31",
         "title": "New College Grad - Product Yield Enhancement Engineer - High Bandwidth Memory",
-        "active": false,
+        "active": true,
         "date_updated": 1783937451,
         "date_posted": 1782956886,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Yield-Enhancement-Engineer--HBM_JR104804",
@@ -343740,7 +343740,7 @@
         "company_name": "Markel Group",
         "id": "163dc031-ef89-45df-ac7b-23c2a0d3af34",
         "title": "Data Processor",
-        "active": true,
+        "active": false,
         "date_updated": 1784677753,
         "date_posted": 1784592000,
         "url": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Bedford-TX/Data-Processor---State-National_R0023382",
@@ -345331,7 +345331,7 @@
         "company_name": "GE Healthcare",
         "id": "9bcfa28e-365a-46d9-84da-0dea36c7276e",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784686723,
         "date_posted": 1784592000,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer_R4043729-1",
@@ -345924,5 +345924,48 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA Corporation",
+        "id": "f3a9de98-82b9-40ff-be18-62ed750578c6",
+        "title": "HPC Software Engineer",
+        "active": true,
+        "date_updated": 1784717118,
+        "date_posted": 1784592000,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/HPC-Software-Engineer_2638794",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HCSC",
+        "id": "ae7ac1d8-d114-4fd2-8588-3298ee46931a",
+        "title": "Mainframe Developer",
+        "active": true,
+        "date_updated": 1784718370,
+        "date_posted": 1784505600,
+        "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Developer---Mainframe_R0054977",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
     }
 ]
