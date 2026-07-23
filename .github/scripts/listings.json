@@ -1,60 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "AGILE Space Industries",
-        "id": "89323c4a-81af-4d54-bd8c-21187d9b5312",
-        "title": "Test Operations Technician",
-        "active": false,
-        "date_updated": 1764112966,
-        "date_posted": 1764112966,
-        "url": "https://job-boards.greenhouse.io/agilespaceindustries/jobs/4631702005",
-        "locations": [
-            "Dolores, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/AGILE-Space-Industries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Stackline",
-        "id": "5cba0867-9dba-4f74-ad53-b596f293ced9",
-        "title": "Data Scientist 1",
-        "active": false,
-        "date_updated": 1764112457,
-        "date_posted": 1764112457,
-        "url": "https://job-boards.greenhouse.io/stackline/jobs/4633616005",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Stackline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Allen Institute for AI",
-        "id": "9cb8387c-7993-45e7-8f17-15f180a5e0ff",
-        "title": "Young Investigator - Flexolmo",
-        "active": true,
-        "date_updated": 1764112114,
-        "date_posted": 1764112114,
-        "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7417128",
-        "locations": [
-            "Berkeley, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/allenai",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "The Travelers Companies",
         "id": "b1bf524b-564b-4dfe-9836-e8bb27b72ca8",
@@ -143,78 +89,6 @@
             "Basingstoke, UK"
         ],
         "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KnowBe4",
-        "id": "5cb937f1-cc8d-474e-8723-97e32461219e",
-        "title": "Revenue Systems and Analytics Analyst",
-        "active": false,
-        "date_updated": 1764113384,
-        "date_posted": 1764113384,
-        "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8307207002",
-        "locations": [
-            "Clearwater, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/KnowBe4",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Medtronic",
-        "id": "bf3fb376-8fce-4a49-98cd-203bdcbb254b",
-        "title": "Student Placement Data Analysis & Market Development",
-        "active": false,
-        "date_updated": 1764113091,
-        "date_posted": 1764113091,
-        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Watford-Hertfordshire-United-Kingdom/Student-Placement-Data-Analysis---Market-Development_R50074",
-        "locations": [
-            "Watford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Medtronic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sony Interactive Entertainment",
-        "id": "8a93b34a-edd7-4d2b-89b1-3a9a02eb7f28",
-        "title": "Software Engineer - Cloud Game Streaming",
-        "active": false,
-        "date_updated": 1764113218,
-        "date_posted": 1764113218,
-        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5710311004",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sony Interactive Entertainment",
-        "id": "3601ff1d-608d-4bc4-b664-78558a277a7d",
-        "title": "Software Engineer 2",
-        "active": false,
-        "date_updated": 1764113222,
-        "date_posted": 1764113222,
-        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5712397004",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -21458,24 +21332,6 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/DCH-Health-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Campus Apartments",
-        "id": "8fbbb306-3384-40ce-8d52-8b8cbf87991b",
-        "title": "Apartment Groundsperson",
-        "active": false,
-        "date_updated": 1765793362,
-        "date_posted": 1764112055,
-        "url": "https://careers-campusapts.icims.com/jobs/3338/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Occoquan Historic District, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Campus-Apartments",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -49731,24 +49587,6 @@
             "Maidstone, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Flanigan's Enterprises",
-        "id": "ce47b82a-20d0-424f-b10c-7b71fb4d3cbc",
-        "title": "ID Checker",
-        "active": false,
-        "date_updated": 1768300123,
-        "date_posted": 1764112658,
-        "url": "https://careers-flanigans.icims.com/jobs/22818/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Dahlgren, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Flanigans-Enterprises",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -350201,6 +350039,367 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Anthelion Capital",
+        "id": "e5906d37-fe28-4871-a242-a005148afc9a",
+        "title": "Quant Developer",
+        "active": true,
+        "date_updated": 1784847782,
+        "date_posted": 1784845474,
+        "url": "https://jobs.ashbyhq.com/anthelioncap/b6f6487c-384d-422c-8446-9cd06b068b38/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Anthelion-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Appian",
+        "id": "61c0c8df-1076-44d6-987e-3b5e536c6e12",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1784848003,
+        "date_posted": 1784846147,
+        "url": "https://job-boards.greenhouse.io/appian/jobs/8041241",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Appian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zello",
+        "id": "22fac0ef-83eb-431d-923e-def7b3640c11",
+        "title": "Software Engineer 1 - AI Generalist",
+        "active": true,
+        "date_updated": 1784847975,
+        "date_posted": 1784845453,
+        "url": "https://jobs.ashbyhq.com/Zello/66de7a50-17cb-42aa-87eb-cd40c637338e/application?embed=true",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Zello",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Royal Bank of Canada",
+        "id": "44e3db0c-9720-436a-8db7-dfe648ebf19b",
+        "title": "FX Product Analyst",
+        "active": true,
+        "date_updated": 1784847936,
+        "date_posted": 1784764800,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Analyst--FX-Product_R-0000181595",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cerebras",
+        "id": "fabf124a-32b2-45ba-bffe-d3084937296a",
+        "title": "Kernel Engineer New Grad",
+        "active": true,
+        "date_updated": 1784847845,
+        "date_posted": 1784845011,
+        "url": "https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e/application?embed=true",
+        "locations": [
+            "Canada",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Chicago Trading Company",
+        "id": "990f303a-7466-45ea-b93d-7870da5c7f7a",
+        "title": "Floor Trader",
+        "active": true,
+        "date_updated": 1784847421,
+        "date_posted": 1784845039,
+        "url": "https://job-boards.greenhouse.io/chicagotrading/jobs/4715673005",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pure Storage",
+        "id": "5f6c680f-ae7d-45bb-852d-8546076ef556",
+        "title": "PCIe Hardware Engineer - Systems",
+        "active": true,
+        "date_updated": 1784847882,
+        "date_posted": 1784845130,
+        "url": "https://job-boards.greenhouse.io/purestorage/jobs/7985259",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pure-Storage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bluestaq",
+        "id": "57efe4c7-9370-4c4e-9497-aeb4a91462c2",
+        "title": "Bluestaq Graduate Research Scholar - NDSU Partnership",
+        "active": true,
+        "date_updated": 1784847421,
+        "date_posted": 1784846277,
+        "url": "https://job-boards.greenhouse.io/bluestaq/jobs/4329651009",
+        "locations": [
+            "Colorado Springs, CO",
+            "Fargo, ND"
+        ],
+        "company_url": "https://simplify.jobs/c/Bluestaq",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WGNSTAR",
+        "id": "f18cead9-70a4-42c4-91bf-39c16dd5b1e2",
+        "title": "Field Service Technician - Multiple Teams",
+        "active": true,
+        "date_updated": 1784847813,
+        "date_posted": 1784844927,
+        "url": "https://wgnstar.applytojob.com/apply/FLPgC6bOxN/Field-Service-Engineer-Semiconductor-Equipment",
+        "locations": [
+            "Sugar Land, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/50003f56-3a40-4584-900a-cbd6f09c2dd7",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Caterpillar Inc.",
+        "id": "c5296342-1505-4fcc-b322-901fd4c3e978",
+        "title": "Minestar Application Specialist",
+        "active": true,
+        "date_updated": 1784847421,
+        "date_posted": 1784764800,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Home-in-Ontario/MineStar-Application-Specialist_R0000368919",
+        "locations": [
+            "Greater Sudbury, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cerebras",
+        "id": "be8f4bc8-3744-45dd-96b4-35a6d931e52a",
+        "title": "ML Software Engineer New Grad - Integration & Quality",
+        "active": true,
+        "date_updated": 1784847836,
+        "date_posted": 1784845009,
+        "url": "https://jobs.ashbyhq.com/cerebras/05fd05ea-b515-4c26-851e-b3882dfba154/application?embed=true",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Morgan Stanley",
+        "id": "62878ecb-5fb2-4394-b0c3-c215cfb06308",
+        "title": "Consultant Conversion Software Engineer 3 - Associate",
+        "active": true,
+        "date_updated": 1784847822,
+        "date_posted": 1784764800,
+        "url": "https://ms.wd5.myworkdayjobs.com/private/job/Montreal-Canada/Consultant-Conversion-Software-Eng-III---Job-Level---Associate_PT-JR040750",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Alpaca",
+        "id": "76f25200-51b5-44d1-96a3-208f145505ea",
+        "title": "Securities Finance Trader",
+        "active": true,
+        "date_updated": 1784846702,
+        "date_posted": 1784846046,
+        "url": "https://job-boards.greenhouse.io/alpaca/jobs/6123649004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alpaca",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Appian",
+        "id": "6abcd37d-6cab-48fb-9032-20d039ef92ec",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1784847748,
+        "date_posted": 1784846119,
+        "url": "https://job-boards.greenhouse.io/appian/jobs/8069612",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Appian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Appian",
+        "id": "58649bd4-c621-49ec-9ed6-236a6d8882ad",
+        "title": "Associate Application Engineer",
+        "active": true,
+        "date_updated": 1784847733,
+        "date_posted": 1784846094,
+        "url": "https://job-boards.greenhouse.io/appian/jobs/8035372",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Appian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Compass",
+        "id": "da048e8f-6ba6-43fd-8dc9-7c5a1adf494a",
+        "title": "Software Engineer - Mobile - iOS",
+        "active": true,
+        "date_updated": 1784846702,
+        "date_posted": 1784845722,
+        "url": "https://www.compass.com/careers?gh_jid=8081848",
+        "locations": [
+            "Aventura, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/c4ada4ff-d862-4957-b06a-e57a2b3c5037",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ando",
+        "id": "f5021ba3-ab40-4f41-8ba1-9bb148f6533d",
+        "title": "Mobile Engineer",
+        "active": true,
+        "date_updated": 1784846702,
+        "date_posted": 1784845484,
+        "url": "https://jobs.ashbyhq.com/ando/3b23fc33-9e45-4213-959b-d313e418e6d0/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Ando",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Anthelion Capital",
+        "id": "46282d1e-a7a8-486b-9fca-570d0e0cbd01",
+        "title": "Quant Researcher",
+        "active": true,
+        "date_updated": 1784846702,
+        "date_posted": 1784845475,
+        "url": "https://jobs.ashbyhq.com/anthelioncap/9b798aa7-3fd3-4a4a-8fa3-34a0d13e4b9a/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Anthelion-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
