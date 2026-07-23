@@ -1,78 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Jabil",
-        "id": "e35a871e-8091-4a36-8c24-03c28971cdeb",
-        "title": "Calibration Technician",
-        "active": false,
-        "date_updated": 1764042853,
-        "date_posted": 1764042853,
-        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/West-Chester-PA/Calibration-Technician_J2432993-1",
-        "locations": [
-            "West Chester, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Alkami Technology",
-        "id": "2971ec4c-863c-415c-b325-cb179a5df726",
-        "title": "Technical Implementation Engineer 1",
-        "active": false,
-        "date_updated": 1764042537,
-        "date_posted": 1764042537,
-        "url": "https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Technical-Implementation-Engineer-I_JR-000447",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Alkami-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ford Motor Company",
-        "id": "8879342f-7604-45b1-8165-dcda82a93e0d",
-        "title": "Associate Electrical Hardware Engineer",
-        "active": false,
-        "date_updated": 1764042209,
-        "date_posted": 1764042209,
-        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/55210",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "39f3621b-0f48-4f94-aecc-ebf008044aba",
-        "title": "Engineer 1",
-        "active": false,
-        "date_updated": 1764041806,
-        "date_posted": 1764041806,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Engineer-I---Test--Development-_R2065-25",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "f363b0ab-588a-4d55-a2a7-93aeb8a22e61",
@@ -83,43 +11,6 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400028818",
         "locations": [
             "Essex, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "IMEG",
-        "id": "63abed04-2df1-4c3b-9fc9-30e1ef8b192f",
-        "title": "Building Performance Engineering New Grad - St. Louis - MO",
-        "active": false,
-        "date_updated": 1764043266,
-        "date_posted": 1764043266,
-        "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Building-Performance-Engineering-New-Grad----St-Louis--MO_R-15526",
-        "locations": [
-            "Chicago, IL",
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/IMEG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "664657d3-fba8-4c28-99e9-9cc26e47486a",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764043184,
-        "date_posted": 1764043184,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039854",
-        "locations": [
-            "Bedford, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
@@ -140028,26 +139919,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Peregrine",
-        "id": "825f1b3f-e746-4f30-9b42-c9ed3840a4c5",
-        "title": "Deployment Strategist",
-        "active": false,
-        "date_updated": 1773093491,
-        "date_posted": 1764042601,
-        "url": "https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4633583005",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Peregrine-Tech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -346735,6 +346606,48 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA Corporation",
+        "id": "4d2d22a7-7d80-4f59-8a8c-e8044adb9556",
+        "title": "Customer Application Engineer",
+        "active": true,
+        "date_updated": 1784778234,
+        "date_posted": 1784678400,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Customer-Applications-Development-Engineer_2638213",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA Corporation",
+        "id": "ac78bf99-5e40-411f-8671-769122893ad2",
+        "title": "Customer Application Engineer",
+        "active": true,
+        "date_updated": 1784777457,
+        "date_posted": 1784678400,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Customer-Applications-Development-Engineer_2638213-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
