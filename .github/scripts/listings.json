@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f363b0ab-588a-4d55-a2a7-93aeb8a22e61",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1764044667,
-        "date_posted": 1764044667,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400028818",
-        "locations": [
-            "Essex, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Jerry",
         "id": "822405bb-f4e1-4ef4-8dc9-db4719585f9c",
@@ -343090,7 +343072,7 @@
         "company_name": "Humana",
         "id": "598cd323-ba48-48d2-84cd-5d2cf2361bfb",
         "title": "SFDC/BPM Junior Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1784672479,
         "date_posted": 1784592000,
         "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/SFDC-BPM-Junior-Developer_R-420716",
@@ -343843,7 +343825,7 @@
         "company_name": "PNC Financial Services",
         "id": "52c8bdc5-91f7-416d-8a1b-26f9975959b9",
         "title": "Software Engineer Associate Mainframe Testing/Selenium",
-        "active": true,
+        "active": false,
         "date_updated": 1784683235,
         "date_posted": 1784592000,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer-Associate-Mainframe-testing-Selenium_R228735-1",
