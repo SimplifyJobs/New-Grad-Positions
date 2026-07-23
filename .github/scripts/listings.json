@@ -1,78 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Chicago",
-        "id": "f599247e-d208-41d9-9e4c-9a0a667afcc4",
-        "title": "Data Science Analyst",
-        "active": false,
-        "date_updated": 1764040828,
-        "date_posted": 1764040828,
-        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst--TCOM_JR32117",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "039a1f94-d568-4fdf-b0fa-080fdf45b399",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1764040801,
-        "date_posted": 1764040801,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039705",
-        "locations": [
-            "Bath, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Northern Trust",
-        "id": "6515c4b9-ea5d-4807-ac3b-58ab3eafc98e",
-        "title": "Senior Analyst Artificial Intelligence Enterprise Engineer",
-        "active": false,
-        "date_updated": 1764040684,
-        "date_posted": 1764040684,
-        "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Analyst-Artificial-Intelligence-Enterprise-Engineer_R148471",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Northern-Trust",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Samsung",
-        "id": "4879b9cc-1f5b-4663-a635-9f479feb0342",
-        "title": "Failure Analysis Technician",
-        "active": false,
-        "date_updated": 1764040281,
-        "date_posted": 1764040281,
-        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Failure-Analysis-Technician_R111241-1",
-        "locations": [
-            "Pflugerville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Jabil",
         "id": "e35a871e-8091-4a36-8c24-03c28971cdeb",
@@ -336595,7 +336523,7 @@
         "company_name": "Columbia Sportswear Company",
         "id": "9f5fcaa6-dd9a-414d-81d0-29129bb60c13",
         "title": "Product Line Management Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784596909,
         "date_posted": 1784505600,
         "url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Product-Line-Management-Specialist-I_R-025058-2",
@@ -346678,6 +346606,135 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Woongjin",
+        "id": "ea634b62-9d57-4c6d-8b6f-bbc560848a6f",
+        "title": "MES Operation Engineer/ Developer Bilingual",
+        "active": true,
+        "date_updated": 1784775963,
+        "date_posted": 1784768940,
+        "url": "https://jobs.smartrecruiters.com/WJCompany/744000139167387",
+        "locations": [
+            "Savannah, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Woongjin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "e6c0519d-b7d4-4685-8d00-5d0af8b92263",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1784777023,
+        "date_posted": 1784678400,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4044007-1",
+        "locations": [
+            "Austin, TX",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "1e14e936-caef-45c5-8fd3-40314b1ede84",
+        "title": "Engineer \u2013 Product Structuring Configuration Specialist",
+        "active": true,
+        "date_updated": 1784775963,
+        "date_posted": 1784678400,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/Engineer---Product-Structuring-Configuration-Specialist_R5047411-1",
+        "locations": [
+            "Greenville, SC",
+            "Bengaluru, Karnataka, India"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "189921e3-430a-4e43-b346-19090aca1deb",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1784776684,
+        "date_posted": 1784678400,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Software-Engineer_R10241797",
+        "locations": [
+            "Palmdale, CA",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Crusoe",
+        "id": "febf0ce3-b358-48c8-805e-03aab0ba0354",
+        "title": "Workforce Intelligence Engineer",
+        "active": true,
+        "date_updated": 1784776684,
+        "date_posted": 1784769272,
+        "url": "https://jobs.ashbyhq.com/Crusoe/bd0a5128-8727-4631-ab3b-913249b2ea84/application?embed=true",
+        "locations": [
+            "SF",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crusoe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "64d8a339-fc47-43a1-83fc-39765bf1bac0",
+        "title": "Deep Learning Software Engineer New Grad - Inference",
+        "active": true,
+        "date_updated": 1784776829,
+        "date_posted": 1784678400,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742",
+        "locations": [
+            "Washington",
+            "California",
+            "Texas",
+            "NYC",
+            "Massachusetts"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
