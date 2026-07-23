@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "d9511021-14dd-4074-851f-8f15040f091c",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1764075419,
-        "date_posted": 1764075419,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/128960",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Qualtrics",
         "id": "298c8073-8027-44ee-8cbb-f3b08d2fb8be",
@@ -70103,7 +70085,7 @@
         "company_name": "CaptiveAire Systems",
         "id": "d9b08630-982b-4b8c-99f1-c6ad6174aaf3",
         "title": "Mechanical Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769556979,
         "date_posted": 1769556979,
         "url": "https://www.captiveaire.com/Careers/Opening.asp?id=8393085002&gh_jid=8393085002",
@@ -286317,7 +286299,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "c6323b29-ccd9-4ad8-88b0-983798afde45",
         "title": "Therapist",
-        "active": true,
+        "active": false,
         "date_updated": 1781649189,
         "date_posted": 1781647707,
         "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Madison-Clinic-Madison-WI/Therapist---PHP-IOP_R7488",
@@ -314570,7 +314552,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "5c0748e1-a7ed-4bae-9ce1-edbea903c615",
         "title": "Therapist PHP/IOP",
-        "active": true,
+        "active": false,
         "date_updated": 1783433472,
         "date_posted": 1783433124,
         "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Kenosha-Clinic-Kenosha-WI/Therapist---PHP-IOP_R7967-1",
@@ -321037,7 +321019,7 @@
         "company_name": "Leidos",
         "id": "de6e3580-a3fb-4a6a-b4af-bd24bb0e1f6c",
         "title": "PCBA Soldering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1783595738,
         "date_posted": 1783163771,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Aoldering-Technician_R-00170309",
@@ -322800,7 +322782,7 @@
         "company_name": "Viridien",
         "id": "dc805aeb-d84a-48fc-a4e3-5b3fb59db09c",
         "title": "Instrumentation & Monitoring Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1783778285,
         "date_posted": 1783641600,
         "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/New-York-United-States-of-America/Instrumentation---Monitoring-Technician--Baltimore-Washington--DC-_JR101389-2",
@@ -323099,7 +323081,7 @@
         "company_name": "Micron Technology",
         "id": "9e081b4b-dc90-4c5c-8b6f-41f7f8e08c31",
         "title": "New College Grad - Product Yield Enhancement Engineer - High Bandwidth Memory",
-        "active": true,
+        "active": false,
         "date_updated": 1783937451,
         "date_posted": 1782956886,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Yield-Enhancement-Engineer--HBM_JR104804",
@@ -329862,7 +329844,7 @@
         "company_name": "Becton Dickinson",
         "id": "4567b973-6e0b-4ea2-a3bd-676bcc5ef747",
         "title": "Automation Service Technician \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1784203753,
         "date_posted": 1783814400,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA---Wisconsin---Milwaukee/Automation-Service-Technician--Milwaukee-Chicago-Area_R-550373",
@@ -348199,6 +348181,176 @@
         "sponsorship": "Other",
         "degrees": [
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Digital United",
+        "id": "4504eac2-c100-4de7-a5dd-ed9ead552a98",
+        "title": "AI Solutions Associate",
+        "active": true,
+        "date_updated": 1784811330,
+        "date_posted": 1784787253,
+        "url": "https://digitalunitedllc.applytojob.com/apply/KKyp2mtDHH/AI-Solutions-Associate",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/4b78a33f-ccdb-4b77-804c-633ca1267ee2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "a04bef1d-b361-4567-bc08-63485f47e6c2",
+        "title": "Low Voltage Technician",
+        "active": true,
+        "date_updated": 1784809621,
+        "date_posted": 1784730901,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8079325",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "c59f71b0-614c-493e-909b-978a9b21eb58",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1784810396,
+        "date_posted": 1784592000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/XMLNAME-2027-Conversion---Software-Engineer-II---St-Petersburg--FL--Onsite-_01860305",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rippling",
+        "id": "6dfc65c7-cb92-4fec-bce8-91b8e1f18136",
+        "title": "Software Engineer 2 - Backend - Rippling AI",
+        "active": true,
+        "date_updated": 1784810065,
+        "date_posted": 1784643194,
+        "url": "https://ats.rippling.com/rippling/jobs/9a82b4f8-ca55-4d20-9d20-b91dfd6901b5",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Rippling",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Guardian Life",
+        "id": "a25c3583-0836-43df-b773-2a4320ce42a2",
+        "title": "Data Scientist - Agentic AI",
+        "active": true,
+        "date_updated": 1784811338,
+        "date_posted": 1784326371,
+        "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/Data-Scientist--Agentic-AI_R000108002",
+        "locations": [
+            "Boston, MA",
+            "Stamford, CT",
+            "Holmdel, NJ",
+            "NYC",
+            "Bethlehem, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guardian-Life",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "d8f01940-000a-4963-a53a-a8ecc213ca07",
+        "title": "Junior Application Developer",
+        "active": true,
+        "date_updated": 1784808901,
+        "date_posted": 1784505600,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Application-Developer_328917",
+        "locations": [
+            "Springfield, VA",
+            "St. Louis, MO",
+            "Denver, CO",
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vantor",
+        "id": "7056e132-e311-407b-b4f0-383070144ec9",
+        "title": "Senior Software Engineer",
+        "active": true,
+        "date_updated": 1784810191,
+        "date_posted": 1782558219,
+        "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/Senior-Software-Engineer_R24153",
+        "locations": [
+            "Washington, DC",
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vantor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Travelers",
+        "id": "80294e61-203e-4217-8dc6-ec6801f1860f",
+        "title": "Data Engineer 1 - Python - AWS",
+        "active": true,
+        "date_updated": 1784811546,
+        "date_posted": 1782281105,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I-TM1-IPA-_R-50835",
+        "locations": [
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
