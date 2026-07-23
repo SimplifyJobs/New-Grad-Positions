@@ -154773,7 +154773,7 @@
         "company_name": "University of Arkansas",
         "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
         "title": "Graduate Research Assistant - Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1773814930,
         "date_posted": 1773814930,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891",
@@ -227249,7 +227249,7 @@
         "company_name": "Salesforce",
         "id": "f72e4f9c-46ba-4a77-aa67-a10faac92de9",
         "title": "AI Builder - Emerging Talent",
-        "active": false,
+        "active": true,
         "date_updated": 1778047795,
         "date_posted": 1778047509,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR341276-1",
@@ -232143,7 +232143,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "a3de7dd7-1dca-4566-b189-b76577cc41f3",
         "title": "Machine Learning Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778278304,
         "date_posted": 1778277921,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Machine-Learning-Application-Engineer_JR104089",
@@ -264100,7 +264100,7 @@
         "company_name": "CoStar Group",
         "id": "654a8203-8795-40c6-92f5-76afc4273093",
         "title": "Associate Research Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1780390666,
         "date_posted": 1780134807,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Associate-Research-Consultant_R38934",
@@ -274733,7 +274733,7 @@
         "company_name": "RTX",
         "id": "d316d4d5-6b08-4290-b24d-fa803b41cc07",
         "title": "Semiconductor Equipment Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781015189,
         "date_posted": 1781014588,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR2--362-Lowell-St--AR2-PLYMOUTH-BLDG/Semiconductor-Equipment-Engineer_01851345",
@@ -286427,7 +286427,7 @@
         "company_name": "Leidos",
         "id": "988992bc-d29a-426e-8529-b9ebceca82d7",
         "title": "Electronics Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781647703,
         "date_posted": 1781639291,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Electronics-Technician-1_R-00185508",
@@ -310018,7 +310018,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "78c6bbf3-f3b8-4d88-a30b-6788e0b54ae8",
         "title": "Therapist - Intensive Outpatient Program / Partial Hospitalization Program Outpatient",
-        "active": true,
+        "active": false,
         "date_updated": 1782987024,
         "date_posted": 1781360621,
         "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Skokie-Clinic-Skokie-IL/Therapist--IOP-PHP-Outpatient_R5142",
@@ -325941,7 +325941,7 @@
         "company_name": "Google",
         "id": "5735479a-0db8-4cb4-b4d1-faf8deb278c3",
         "title": "Business Intelligence Developer 1 - Google Cloud",
-        "active": true,
+        "active": false,
         "date_updated": 1784067824,
         "date_posted": 1784066872,
         "url": "https://www.google.com/about/careers/applications/jobs/results/112117687143801542",
@@ -333787,7 +333787,7 @@
         "company_name": "GE Healthcare",
         "id": "f2d5c1c7-8ded-4ba4-bc2e-c84e4c257373",
         "title": "X-Ray/Mammography Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1784461987,
         "date_posted": 1784073600,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/CA19-01-San-Francisco-44-Montgomery/X-Ray-Mammography-Field-Engineer-I_R4043363-1",
@@ -340281,7 +340281,7 @@
         "company_name": "KLA",
         "id": "5b344988-6fe7-43dc-bfd3-872dec24b122",
         "title": "Systems Engineer - Electron Beam",
-        "active": true,
+        "active": false,
         "date_updated": 1784638622,
         "date_posted": 1781360086,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Systems-Engineer--Electron-Beam-_2636685-1",
@@ -344551,7 +344551,7 @@
         "company_name": "BlueScope",
         "id": "e9519038-762e-4268-af19-553cd0affc5c",
         "title": "Design Estimator 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784721039,
         "date_posted": 1783166133,
         "url": "https://bluescopenac.wd5.myworkdayjobs.com/en-US/BNACareers/job/MO-Kansas-City/Estimator_REQ-1260-1",
@@ -348537,5 +348537,125 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bose",
+        "id": "86e931fd-0f9e-41ef-a3df-c6b61d4a438b",
+        "title": "Marketing and Loyalty Product Owner",
+        "active": true,
+        "date_updated": 1784813667,
+        "date_posted": 1784592000,
+        "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-GA---Atlanta/Salesforce-Marketing-and-Loyalty-Product-Owner_R29108",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bose",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Illumina",
+        "id": "df4438fa-d274-458c-bfa7-b388f0639a6c",
+        "title": "Field Service Engineer 2",
+        "active": true,
+        "date_updated": 1784813538,
+        "date_posted": 1783168828,
+        "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Texas---Remote/Field-Service-Engineer-2--Austin-TX_42638-JOB-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Illumina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Brink",
+        "id": "f7f50b23-e251-4e05-a677-0567f8032d66",
+        "title": "Electronic Assembly Technician",
+        "active": true,
+        "date_updated": 1784815072,
+        "date_posted": 1783160138,
+        "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Cincinnati-OHTL140/Workshop-Technician_R72685",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Brink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Maryland - College Park",
+        "id": "d53d5cd4-a2bf-462f-afe0-48220fa5561f",
+        "title": "Critical and Emerging Technology Research Professional",
+        "active": true,
+        "date_updated": 1784814454,
+        "date_posted": 1783159219,
+        "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Critical-and-Emerging-Technology-Research-Professional_JR104086",
+        "locations": [
+            "Hyattsville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Maryland-College-Park",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ultra",
+        "id": "d9100abf-f3db-4435-8ddd-64f17c7aeb7a",
+        "title": "Embedded Rust Software Engineer",
+        "active": true,
+        "date_updated": 1784814396,
+        "date_posted": 1783166092,
+        "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Tampa-FL-United-States/Embedded-RUST-Software-Engineer--Clearance-Required-_REQ-11962-1",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Ultra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AeroVironment",
+        "id": "7bc6376f-bcd6-4836-99e5-8721a5d55ed8",
+        "title": "Software Engineer 1 - Applications",
+        "active": true,
+        "date_updated": 1784813439,
+        "date_posted": 1781361281,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Melbourne-FL/Software-Engineer-III--Apps-_7569",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
