@@ -1,64 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Rogers Behavioral Health",
-        "id": "76c6f492-82ea-4476-aee8-f24755252217",
-        "title": "Child and Adolescent Therapist",
-        "active": false,
-        "date_updated": 1764028101,
-        "date_posted": 1764028101,
-        "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Minneapolis-Clinic-Eden-Prairie-MN/Child-and-Adolescent-Therapist---PHP-IOP_R5566",
-        "locations": [
-            "Eden Prairie, MN",
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/b92a810e-00da-4d83-9a36-b7d609699d59",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Xometry",
-        "id": "177a92d0-b504-497f-b227-cb630a1da7a2",
-        "title": "Product Manager 2",
-        "active": false,
-        "date_updated": 1764027742,
-        "date_posted": 1764027742,
-        "url": "https://job-boards.greenhouse.io/xometry/jobs/4990690007",
-        "locations": [
-            "North Bethesda, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Xometry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Altos Labs",
-        "id": "bd161da4-62d9-413f-b4ff-014fd29f69b6",
-        "title": "Machine Learning Engineer/Scientist - Multi Modality",
-        "active": false,
-        "date_updated": 1764027651,
-        "date_posted": 1764027651,
-        "url": "https://job-boards.greenhouse.io/altoslabs/jobs/5709084004",
-        "locations": [
-            "SF",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AltosLabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "University of Chicago",
         "id": "68aa2ea5-f5fe-42c6-b25e-7b560649389e",
@@ -26473,24 +26415,6 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Xometry",
-        "id": "7233bd42-cd0e-442c-a8e2-33c863c5d7e2",
-        "title": "Product Manager 2",
-        "active": false,
-        "date_updated": 1766013462,
-        "date_posted": 1764027742,
-        "url": "https://job-boards.greenhouse.io/xometry/jobs/4990695007",
-        "locations": [
-            "Waltham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Xometry",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -176680,7 +176604,7 @@
         "company_name": "Ask IT Consulting",
         "id": "a8ad3e04-98f4-41c1-949d-f0ff017efa48",
         "title": "GIS Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1774949401,
         "date_posted": 1771485054,
         "url": "https://jobs.smartrecruiters.com/AskITConsulting/743999655190825",
@@ -296509,7 +296433,7 @@
         "company_name": " PrizePicks",
         "id": "4736b762-d76a-4c72-b71b-055c211c8e96",
         "title": "Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1782138241,
         "date_posted": 1782137632,
         "url": "http://prizepicks.com/position?gh_jid=7777284003",
@@ -321603,7 +321527,7 @@
         "company_name": "Edwards Lifesciences",
         "id": "9b75e0f4-e8c6-4664-826e-c7ec9afc39ad",
         "title": "Associate Product Manager - Marketing",
-        "active": true,
+        "active": false,
         "date_updated": 1783636741,
         "date_posted": 1783555200,
         "url": "https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Associate-Product-Manager--US-Marketing_Req-49106",
@@ -347097,5 +347021,147 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "McMaster-Carr",
+        "id": "4600d580-8dad-49ce-93c7-89ae51839461",
+        "title": "Technology - Development - Design",
+        "active": true,
+        "date_updated": 1784763200,
+        "date_posted": 1784759219,
+        "url": "https://job-boards.greenhouse.io/mcmastercarr/jobs/4250906009",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/McMaster-Carr",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fidelity National Information Services",
+        "id": "93256d0a-8438-4762-951a-51e4ca7fe948",
+        "title": "Mainframe Software Engineer 1",
+        "active": true,
+        "date_updated": 1784763216,
+        "date_posted": 1784678400,
+        "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0308256-1",
+        "locations": [
+            "Columbus, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-National-Information-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA Corporation",
+        "id": "56e870e9-c68a-4e37-b405-abb6a05aa197",
+        "title": "Product Installation Engineer",
+        "active": true,
+        "date_updated": 1784763135,
+        "date_posted": 1784678400,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/USA-AZ-Chandler-KLA/Product-Install-Engineer--OMD-Extensive-90----Travel-Required_2638890",
+        "locations": [
+            "Chandler, AZ",
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LawDepot",
+        "id": "de965350-2173-4ef2-bf59-2ee04c48330c",
+        "title": "Data Analyst - Digital Marketing",
+        "active": true,
+        "date_updated": 1784762478,
+        "date_posted": 1784758484,
+        "url": "https://jobs.ashbyhq.com/lawdepot/cba3671a-688e-4c66-ab42-632943589187/application?embed=true",
+        "locations": [
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/LawDepot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Truist Bank",
+        "id": "b0afbb22-80b8-44ed-9b73-50455ea27dea",
+        "title": "Data Scientist 1",
+        "active": true,
+        "date_updated": 1784763067,
+        "date_posted": 1784678400,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Data-Scientist-I_R0117092",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Truist-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "95ed441b-87a8-475a-bc4b-59ccc71f157f",
+        "title": "Data Scientist 1",
+        "active": true,
+        "date_updated": 1784763068,
+        "date_posted": 1784678400,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Scientist-I_R_1498923",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Unilever",
+        "id": "94ea2770-4b5a-4e2d-b23c-1f2b9eef837b",
+        "title": "Sales Analyst - Customer Analytics Associate",
+        "active": true,
+        "date_updated": 1784762478,
+        "date_posted": 1784678400,
+        "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Toronto-ON/Sales-Analyst---Customer-Analytics-Associate_R-1184967",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Unilever",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
