@@ -157953,7 +157953,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -157973,7 +157973,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -191550,7 +191550,7 @@
         "company_name": "Leidos",
         "id": "a3f4d468-0bb5-4653-8978-0ec67bb42dea",
         "title": "Embedded Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1775776038,
         "date_posted": 1775772690,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Leominster-UK/Embedded-Software-Developer_R-00179537",
@@ -245214,7 +245214,7 @@
         "company_name": "Goldman Sachs",
         "id": "ad57e8fa-d0bd-4c63-9809-6141b7dda000",
         "title": "Asset & Wealth Management Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1779343943,
         "date_posted": 1779343723,
         "url": "https://higher.gs.com/roles/168978",
@@ -278673,7 +278673,7 @@
         "company_name": "Goldman Sachs",
         "id": "f99b0f28-4c34-4e85-8a26-27c6ea7b386a",
         "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781168798,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/162274",
@@ -303188,7 +303188,7 @@
         "company_name": "Goldman Sachs",
         "id": "3ac699af-5c50-4a7c-81af-6dfb56f595db",
         "title": "Asset& Wealth Management-Software Engineering-Associate-New York",
-        "active": true,
+        "active": false,
         "date_updated": 1782742321,
         "date_posted": 1782742023,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/168978",
@@ -311294,7 +311294,7 @@
         "company_name": "Johnson Controls",
         "id": "239d22af-617c-4ea7-afda-d6623504eaec",
         "title": "Product Manager - Data Center Thermal Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1783155432,
         "date_posted": 1782963891,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Product-Manager--Data-Center-Thermal-Solutions_WD30248551-1",
@@ -321073,7 +321073,7 @@
         "company_name": "Goldman Sachs",
         "id": "9f62800f-29c9-4903-ae21-b3abdaa8c9f4",
         "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
-        "active": false,
+        "active": true,
         "date_updated": 1783664461,
         "date_posted": 1771381096,
         "url": "https://higher.gs.com/roles/162274",
@@ -325476,7 +325476,7 @@
         "company_name": "Hello Fresh",
         "id": "510f6bf4-86ad-45e5-a051-b95b70df4a88",
         "title": "WMS Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1784019714,
         "date_posted": 1783980741,
         "url": "https://careers.hellofresh.com/global/en/job/8029057",
@@ -330733,7 +330733,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "2f78f4c3-9e6e-4a85-838a-f9f976e35279",
         "title": "Field Service Engineer 1 - Sdb/Sem",
-        "active": true,
+        "active": false,
         "date_updated": 1784242244,
         "date_posted": 1784160000,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Field-Service-Engineer-I--SDB-SEM--RTP_R-01360776",
@@ -336693,7 +336693,7 @@
         "company_name": "Proper Voltage",
         "id": "4ad4d5d3-e2ca-4f73-aa5b-bffb158a1aad",
         "title": "Associate Product & Programs Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784598135,
         "date_posted": 1784596603,
         "url": "https://ats.rippling.com/proper-voltage/jobs/a24948f9-25cd-4174-94b9-a14dc8971939",
@@ -344325,7 +344325,7 @@
         "company_name": "Mondelez International",
         "id": "1037ed24-3510-414d-8f43-92754cb871d6",
         "title": "Sales Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784711539,
         "date_posted": 1784505600,
         "url": "https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Santa-F-Mexico/Sales-Intelligence-Analyst_R-173130-1",
@@ -346556,7 +346556,7 @@
         "company_name": "Goldman Sachs",
         "id": "661e7b88-0421-44b3-b7ab-02a9cd80d9cc",
         "title": "Wealth Management Product Manager - Analytics - Wealth Management",
-        "active": true,
+        "active": false,
         "date_updated": 1784789844,
         "date_posted": 1783472747,
         "url": "https://higher.gs.com/roles/178589",
@@ -347284,5 +347284,181 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GenLogs",
+        "id": "2fba0e44-fc70-4e30-bb36-9ebc62f23b1a",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1784799217,
+        "date_posted": 1784596654,
+        "url": "https://ats.rippling.com/genlogs-corporation/jobs/127f98d1-b702-4395-a25c-0f7ebc98881b",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/GenLogs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LightGuide, Inc.",
+        "id": "50180eb2-dcb7-40d6-b58d-4cb6d07f22d3",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1784799204,
+        "date_posted": 1784596611,
+        "url": "https://ats.rippling.com/lightguide/jobs/6571ec49-8229-40b0-be4b-6b031d5c5af8",
+        "locations": [
+            "Wixom, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/e4ceb7ca-b9b5-4eda-b494-85c226f01789",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Felicity",
+        "id": "538e7991-2b20-4492-b418-e7ac75c0c8b9",
+        "title": "Forward Deployed Software Engineer",
+        "active": true,
+        "date_updated": 1784799177,
+        "date_posted": 1784596562,
+        "url": "https://jobs.ashbyhq.com/felicity/99ab4a4f-c219-42f9-9c1b-cf832634cd46/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/569c5082-cbe7-43fb-a90d-7dc7b4fb8110",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "STV",
+        "id": "1010548a-bf89-4255-b286-bac1944e2f44",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1784798101,
+        "date_posted": 1784505600,
+        "url": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/AI-Engineer_JR5923",
+        "locations": [
+            "Boston, MA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/STV",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AT&T",
+        "id": "28c81062-506f-485d-959b-39015b174c5d",
+        "title": "Senior Specialist Member of Technical Staff - Device Analytics and AI",
+        "active": true,
+        "date_updated": 1784799023,
+        "date_posted": 1784505600,
+        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bothell-Washington/Sr-Specialist-Member-of-Technical-Staff---Device-Analytics-and-AI_R-115905",
+        "locations": [
+            "Bothell, WA",
+            "San Ramon, CA",
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ATT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "375277d7-af0e-43e0-9297-8f4a38e6ea6e",
+        "title": "Software Engineer 3",
+        "active": true,
+        "date_updated": 1784800109,
+        "date_posted": 1784160000,
+        "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2559919-1",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "3ebc7a54-1798-4697-b346-5e49457aea81",
+        "title": "Research Assistant for Planetary Prebiotic Chemistry Data Reduction and Manuscript",
+        "active": true,
+        "date_updated": 1784800637,
+        "date_posted": 1782956055,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-assistant-for-Planetary-Prebiotic-Chemistry-for-data-reduction-and-manuscript-preparation-GEOSCI_REQ_0000069220-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PSP Investments",
+        "id": "2256fb16-191d-48d3-83de-c41babc22b3b",
+        "title": "Developer \u2013 GenAI and Digital Workplace",
+        "active": true,
+        "date_updated": 1784800565,
+        "date_posted": 1783462187,
+        "url": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Developer--GenAI-and-Digital-Workplace_R4840",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PSP-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ADT",
+        "id": "7842df2d-13e2-4573-8d17-324cac04f8de",
+        "title": "Smart Home Consultant - Multiple Teams",
+        "active": true,
+        "date_updated": 1784800791,
+        "date_posted": 1775167597,
+        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3019871",
+        "locations": [
+            "Daly City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ADT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
