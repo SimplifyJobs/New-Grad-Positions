@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "University of Chicago",
-        "id": "68aa2ea5-f5fe-42c6-b25e-7b560649389e",
-        "title": "Data Science Analyst - LMS Support",
-        "active": false,
-        "date_updated": 1764029711,
-        "date_posted": 1764029711,
-        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst---LMS-Support_JR32045-1",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Huntington Ingalls Industries",
         "id": "689fcec3-f139-49d9-8b94-29672308a018",
         "title": "Engineer Model-Based",
@@ -72,24 +54,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "42eda1ca-2bb2-4bd6-bd2e-2e8b743b0c37",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1764030559,
-        "date_posted": 1764030559,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/Software-Engineer-I--Onsite-_01808762",
-        "locations": [
-            "Aurora, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -56649,27 +56613,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Acuren",
-        "id": "966ddc56-3e26-4598-9ca9-5469bc773302",
-        "title": "Entry Level NDT Assistant",
-        "active": false,
-        "date_updated": 1768558806,
-        "date_posted": 1764030531,
-        "url": "https://uscareers-acuren.icims.com/jobs/17003/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Acuren",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -243091,7 +243034,7 @@
         "company_name": "Smith+Nephew",
         "id": "b85d639c-0455-4086-aafe-7a264333264b",
         "title": "Embedded Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779142814,
         "date_posted": 1779142001,
         "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Embedded-Software-Engineer-I_R90678",
