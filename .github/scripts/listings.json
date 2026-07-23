@@ -1,62 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Huntington Ingalls Industries",
-        "id": "689fcec3-f139-49d9-8b94-29672308a018",
-        "title": "Engineer Model-Based",
-        "active": false,
-        "date_updated": 1764032249,
-        "date_posted": 1764032249,
-        "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-MODEL-BASED-1-Virg/1344828800/?ats=successfactors",
-        "locations": [
-            "Newport News, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nestle",
-        "id": "227db165-f87f-4c4e-ac21-67762a0fe2ba",
-        "title": "Digital Innovation Intern",
-        "active": false,
-        "date_updated": 1764031953,
-        "date_posted": 1764031953,
-        "url": "https://jobdetails.nestle.com/job/York-Digital-Innovation-Placement-YN-YO31-8TA/1269016301/?ats=successfactors",
-        "locations": [
-            "York, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Nestle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NOV",
-        "id": "2bb1f46c-e798-44e4-9916-3ee1dbeca8cb",
-        "title": "Sustaining Product Engineer",
-        "active": false,
-        "date_updated": 1764031656,
-        "date_posted": 1764031656,
-        "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/38504",
-        "locations": [
-            "Tulsa, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/NOV",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "dd39b023-1acc-4bdb-b972-386750ff7d14",
@@ -214,42 +158,6 @@
             "Florida"
         ],
         "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nutanix",
-        "id": "ad036e69-6bd9-4d86-9d58-8af4b59f51fe",
-        "title": "Software Engineer 1 - Python - Linux",
-        "active": false,
-        "date_updated": 1764032311,
-        "date_posted": 1764032311,
-        "url": "https://jobs.jobvite.com/nutanix/job/oTkVyfwq?nl=1&nl=1&fr=false",
-        "locations": [
-            "Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Nutanix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zoox",
-        "id": "4623a7c1-3474-4e5c-8ba2-03d68e320620",
-        "title": "Software Engineer - Automation Tools and Infrastructure",
-        "active": false,
-        "date_updated": 1764032362,
-        "date_posted": 1764032362,
-        "url": "https://jobs.lever.co/zoox/77b65c9f-0f61-4395-bd38-051e2f27b8d2/apply",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoox",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -35772,24 +35680,6 @@
             "Grand Rapids, MI"
         ],
         "company_url": "https://simplify.jobs/c/KION-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Nestle",
-        "id": "a9aafff1-3f31-44f0-84a1-9bd2cc8123b0",
-        "title": "Product Developer Graduate",
-        "active": false,
-        "date_updated": 1764031960,
-        "date_posted": 1764031960,
-        "url": "https://jobdetails.nestle.com/job/York-Product-Developer-Graduate-YN-YO91-1XY/1268641501/?ats=successfactors",
-        "locations": [
-            "York, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Nestle",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -320649,7 +320539,7 @@
         "company_name": "State of North Carolina",
         "id": "5fb3ffae-8a78-4dbf-92eb-8b3124aeaf7d",
         "title": "Business Systems Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783607067,
         "date_posted": 1783555200,
         "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Carteret-County-NC/Business-Systems-Analyst-I--Temporary---Carteret-_JR-119671",
@@ -321838,8 +321728,8 @@
         "company_name": "Cadence Design Systems",
         "id": "ff412e91-a5e3-48f6-8ed1-fa4ac83c5e81",
         "title": "Software Engineer New Grad - Undergrads",
-        "active": false,
-        "date_updated": 1784768441,
+        "active": true,
+        "date_updated": 1783636335,
         "date_posted": 1783555200,
         "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894",
         "locations": [
@@ -321858,8 +321748,8 @@
         "company_name": "Cadence Design Systems",
         "id": "13834a5f-488b-4fc4-bdd9-d3bff5044f25",
         "title": "Software Engineer New Grad - Undergrads",
-        "active": false,
-        "date_updated": 1784768441,
+        "active": true,
+        "date_updated": 1783636325,
         "date_posted": 1783555200,
         "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-3",
         "locations": [
