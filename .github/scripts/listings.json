@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1764857387,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://stonybrooku.taleo.net/careersection/2/jobdetail.ftl?job=2503221&tz=GMT-05%3A00&tzname=America%2FNew_York",
-        "company_name": "Stony Brook University",
-        "title": "Programmer-Analyst",
-        "locations": [
-            "Stony Brook, NY"
-        ],
-        "category": "Other",
-        "source": "hieuqmai",
-        "id": "d0eeeeee-6f82-41c9-aa5a-77b3f01965ec",
-        "date_posted": 1764068020,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Honeywell",
@@ -269763,7 +269745,7 @@
         "company_name": "Cisco",
         "id": "b88bbe2e-a86e-430c-828a-1aa79c78fa82",
         "title": "Design Verification Engineer - Acacia Networks",
-        "active": true,
+        "active": false,
         "date_updated": 1780612588,
         "date_posted": 1780610991,
         "url": "https://careers.cisco.com/global/en/job/2014236",
@@ -285245,7 +285227,7 @@
         "company_name": "Leidos",
         "id": "5d4b6b01-4f6c-467d-b938-c443966db5c5",
         "title": "Linux Systems Administrator",
-        "active": true,
+        "active": false,
         "date_updated": 1781647706,
         "date_posted": 1781639292,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Linux-Systems-Administrators---All-Levels_R-00185476",
@@ -315318,7 +315300,7 @@
         "company_name": "EquipmentShare",
         "id": "7e1b986d-55c5-4e67-97f8-e6f0087cf54f",
         "title": "Low Voltage Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1783464481,
         "date_posted": 1783464224,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8049241",
@@ -325497,7 +325479,7 @@
         "company_name": "Becton Dickinson",
         "id": "34e8e96d-96c0-4716-8a7d-dc2e966b1994",
         "title": "Entry Level Automation Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784021292,
         "date_posted": 1783555200,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA---Michigan---Sterling-Heights/Automation-Service-Engineer--Ann-Arbor-Sterling-Heights--Michigan_R-550143",
@@ -331696,7 +331678,7 @@
         "company_name": "Newmont",
         "id": "7370520c-89d3-4038-b511-9357a4f2cbd4",
         "title": "Temp Technician - Core Shed",
-        "active": true,
+        "active": false,
         "date_updated": 1784279958,
         "date_posted": 1784239917,
         "url": "https://jobs.newmont.com/us/en/job/43816",
@@ -332487,7 +332469,7 @@
         "company_name": "University of Southern California",
         "id": "4a24f76c-93eb-4463-8d7b-0c9ed7a5ffdd",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1784326696,
         "date_posted": 1784246400,
         "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Data-Scientist--ITS-_REQ20177952",
@@ -334644,7 +334626,7 @@
         "company_name": "Welo Global",
         "id": "1600d176-4eb0-4795-b869-f9ffced07431",
         "title": "Generative AI Analyst - English",
-        "active": true,
+        "active": false,
         "date_updated": 1784585161,
         "date_posted": 1784585102,
         "url": "https://jobs.lever.co/weloglobal/606b5af9-e332-4dff-821a-4ac2cdb3c0db/apply",
@@ -347177,7 +347159,7 @@
         "company_name": "Agilent Technologies",
         "id": "1b67573f-b989-4633-8440-59305aad18a4",
         "title": "Field Service Representative",
-        "active": true,
+        "active": false,
         "date_updated": 1784798810,
         "date_posted": 1783641600,
         "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/Canada-Remote-Location-Greater-Vancouver-Area/Field-Service-Representative_4038671",
@@ -347500,5 +347482,184 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Adobe",
+        "id": "0f4d504f-0513-4375-85a3-250c4cf4610a",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1784804142,
+        "date_posted": 1784160000,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Product-Manager_R170204",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ampliwork, Inc",
+        "id": "8b2cbddc-da27-4fb2-b8db-666cf3beb9ca",
+        "title": "Full-Stack Developer",
+        "active": true,
+        "date_updated": 1784804340,
+        "date_posted": 1784596579,
+        "url": "https://ats.rippling.com/ampliwork-inc/jobs/df7e9bf9-b88b-4f5b-9ac7-51e85664fe0e",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/1f0a4f43-e2ca-4f5f-8651-d21371524990",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Walmart",
+        "id": "531bbd22-e5d4-417b-b3da-aa698cb9a39e",
+        "title": "Principal Data Analyst",
+        "active": true,
+        "date_updated": 1784803706,
+        "date_posted": 1784505600,
+        "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Principal--Data-Analyst_R-2575136-1",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HCSC",
+        "id": "44b60b17-38d1-4627-b3a5-2be60727a000",
+        "title": "Lead Data Science Product Manager",
+        "active": true,
+        "date_updated": 1784803356,
+        "date_posted": 1783548322,
+        "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Lead-Data-Science-Product-Mgr_R0048660",
+        "locations": [
+            "Chicago, IL",
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AT&T",
+        "id": "72f57794-d819-4050-b4bb-29575c3deb69",
+        "title": "Senior Specialist Member of Technical Staff - Device Analytics and AI",
+        "active": true,
+        "date_updated": 1784804188,
+        "date_posted": 1784505600,
+        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bothell-Washington/Sr-Specialist-Member-of-Technical-Staff---Device-Analytics-and-AI_R-115904",
+        "locations": [
+            "Bothell, WA",
+            "San Ramon, CA",
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ATT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rogers Behavioral Health",
+        "id": "5d023457-583e-4d96-a658-1530450d2382",
+        "title": "Therapist \u2013 PHP/Iop",
+        "active": true,
+        "date_updated": 1784802993,
+        "date_posted": 1783490764,
+        "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Sun-Prairie-Clinic/Therapist---PHP-IOP_R8003",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/b92a810e-00da-4d83-9a36-b7d609699d59",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "7eec2888-63cc-4069-b5ab-c00832f56cc7",
+        "title": "Low Voltage Technician",
+        "active": true,
+        "date_updated": 1784800261,
+        "date_posted": 1783693186,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8055123",
+        "locations": [
+            "Billings, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "986ea611-ea1c-4d67-92f0-e24ab83289b5",
+        "title": "Low Voltage Technician",
+        "active": true,
+        "date_updated": 1784803141,
+        "date_posted": 1783464224,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7993532",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Clipboard Health",
+        "id": "aab6c380-9862-40d5-94d2-8cb5734fec75",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1784802421,
+        "date_posted": 1782886087,
+        "url": "https://jobs.ashbyhq.com/clipboard/1e6c34a4-26a2-4b71-b210-0ce4f951e3ec/application?embed=true",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Clipboard-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
