@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Assurant",
-        "id": "4e6726d7-f9ec-4da8-9eed-297b7db9bd33",
-        "title": "Smartphone Repair Technician-Croydon",
-        "active": false,
-        "date_updated": 1764057396,
-        "date_posted": 1764057396,
-        "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Croydon-Boxpark/Smartphone-Repair-Technician-Croydon_R-110124-1",
-        "locations": [
-            "Croydon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Assurant",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "827099d0-99b3-4218-8213-e2dc6d2ab3c2",
@@ -289643,7 +289625,7 @@
         "company_name": "Micron Technology",
         "id": "667b53a4-4d36-4ec4-8a70-624264eba047",
         "title": "DRAM Device and Cell Technology Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781735682,
         "date_posted": 1781734486,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DRAM-Device---Cell-Technology-Engineer_JR102292",
@@ -347103,5 +347085,107 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hays Electrical Services",
+        "id": "10232d0d-4e9b-4fc1-8961-da6acac23b88",
+        "title": "Data Analyst 1 - Business Intelligence & Strategy",
+        "active": true,
+        "date_updated": 1784792416,
+        "date_posted": 1784788192,
+        "url": "https://hayselectricalservices.applytojob.com/apply/gCUJCjoH7Z/Data-Analyst-I",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/19282e6f-f9cf-4baa-a998-b1fc0a337b7a",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TAP Engineering",
+        "id": "96c96ce1-bd3a-4029-aca3-508094e76e49",
+        "title": "CNO Analyst / Programmer Level 0 - TAP Engineering",
+        "active": true,
+        "date_updated": 1784792262,
+        "date_posted": 1784787399,
+        "url": "https://tapengineering.applytojob.com/apply/0O2AeCZSpf/CNO-Analyst-Programmer-Level-0",
+        "locations": [
+            "Hanover, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/8249c1a7-f228-4f80-a484-5b004d572ef2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sunbird Software Inc.",
+        "id": "19801474-82c2-4250-9502-3c2a38069ae9",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1784792219,
+        "date_posted": 1784788198,
+        "url": "https://sunbirdsoftwareinc.applytojob.com/apply/2lbEU8vwlb/DCIM-Data-Analyst",
+        "locations": [
+            "Sioux Falls, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/557321e8-0f47-4907-a5db-0bb7630b4fa9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Foxconn",
+        "id": "d5114ad9-743e-4d62-aef8-c75f86a0dea4",
+        "title": "Q-Edge Corporation",
+        "active": true,
+        "date_updated": 1784791803,
+        "date_posted": 1784788151,
+        "url": "https://foxconnqedge.applytojob.com/apply/iqFWFEXNBM/Repair-EngineerA-Group-MLBRSHoustonTX",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Foxconn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Foxconn",
+        "id": "0330f1fd-370b-49fb-a262-9b46dcdf324d",
+        "title": "Electronics Repair Technician",
+        "active": true,
+        "date_updated": 1784792084,
+        "date_posted": 1784788151,
+        "url": "https://foxconnqedge.applytojob.com/apply/9Ggj4JeXqQ/Repair-Engineer-2-A-Group-MLBRSHoustonTX",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Foxconn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
     }
 ]
