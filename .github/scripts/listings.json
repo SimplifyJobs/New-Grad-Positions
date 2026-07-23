@@ -1,23 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Qualtrics",
-        "id": "298c8073-8027-44ee-8cbb-f3b08d2fb8be",
-        "title": "Senior Specialist - People Analytics",
-        "active": false,
-        "date_updated": 1764080566,
-        "date_posted": 1764080566,
-        "url": "https://www.qualtrics.com/careers/us/en/job/7268113?gh_jid=7268113",
-        "locations": [
-            "Provo, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualtrics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1764679827,
         "sponsorship": "U.S. Citizenship is Required",
         "active": false,
@@ -157917,7 +157899,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -157937,7 +157919,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -205741,7 +205723,7 @@
         "company_name": "Intel",
         "id": "6a9037a8-cfc4-43f5-841f-202346e3bfb4",
         "title": "Image Processing Engineer - C++/Linux",
-        "active": true,
+        "active": false,
         "date_updated": 1776474773,
         "date_posted": 1776474487,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Image-Processing-Engineer--C---Linux-_JR0282835",
@@ -245178,7 +245160,7 @@
         "company_name": "Goldman Sachs",
         "id": "ad57e8fa-d0bd-4c63-9809-6141b7dda000",
         "title": "Asset & Wealth Management Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779343943,
         "date_posted": 1779343723,
         "url": "https://higher.gs.com/roles/168978",
@@ -263294,7 +263276,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -263774,7 +263756,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -278083,7 +278065,7 @@
         "company_name": "Amgen",
         "id": "a694adca-179c-44e9-86be-f1f3f3d8f198",
         "title": "Principal Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781130156,
         "date_posted": 1781129212,
         "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---Florida---Tampa/Principal-Software-Engineer_R-240843",
@@ -278637,7 +278619,7 @@
         "company_name": "Goldman Sachs",
         "id": "f99b0f28-4c34-4e85-8a26-27c6ea7b386a",
         "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
-        "active": false,
+        "active": true,
         "date_updated": 1781170202,
         "date_posted": 1781168798,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/162274",
@@ -303152,7 +303134,7 @@
         "company_name": "Goldman Sachs",
         "id": "3ac699af-5c50-4a7c-81af-6dfb56f595db",
         "title": "Asset& Wealth Management-Software Engineering-Associate-New York",
-        "active": false,
+        "active": true,
         "date_updated": 1782742321,
         "date_posted": 1782742023,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/168978",
@@ -307000,7 +306982,7 @@
         "company_name": "Leidos",
         "id": "c6b88cdf-a082-4483-829d-77d3e106239b",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782961878,
         "date_posted": 1782956444,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Engineer-TS-SCI-Polygraph_R-00186603",
@@ -311013,7 +310995,7 @@
         "company_name": "Inizio",
         "id": "ae61a9b8-5095-4ca3-83b3-bab29381fb86",
         "title": "Insights Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1783116723,
         "date_posted": 1783116594,
         "url": "https://job-boards.greenhouse.io/ashfieldadvisory/jobs/8045336",
@@ -311397,7 +311379,7 @@
         "company_name": "GE Healthcare",
         "id": "e0ab658c-09fa-417e-8fba-181533ca4231",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783164890,
         "date_posted": 1783161591,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4043077-1",
@@ -321037,7 +321019,7 @@
         "company_name": "Goldman Sachs",
         "id": "9f62800f-29c9-4903-ae21-b3abdaa8c9f4",
         "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
-        "active": true,
+        "active": false,
         "date_updated": 1783664461,
         "date_posted": 1771381096,
         "url": "https://higher.gs.com/roles/162274",
@@ -324946,7 +324928,7 @@
         "company_name": "BlackRock",
         "id": "912909a7-5907-4e12-a460-63a997152877",
         "title": "Blackrock Investment Institute - AI Solutions - Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1783981978,
         "date_posted": 1783900800,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/BlackRock-Investment-Institute--AI-Solutions--Research-Associate_R265120",
@@ -332786,7 +332768,7 @@
         "company_name": "Fidelity Investments",
         "id": "ea0123ec-2b1b-4707-a216-1b4612ef7b68",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1784328843,
         "date_posted": 1784246400,
         "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Merrimack-NH/Associate-Product-Manager_2132301",
@@ -341121,7 +341103,7 @@
         "company_name": "Truist Bank",
         "id": "bca28e69-448e-402f-98aa-2480ae21eb85",
         "title": "Associate AI & Data Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1784663172,
         "date_posted": 1784592000,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Associate-AI---Data-Consultat_R0116994",
@@ -344886,7 +344868,7 @@
         "company_name": "Pogo Technologies, Inc.",
         "id": "b9dddc91-404f-4923-b104-dda004ce620a",
         "title": "Full Stack Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784730933,
         "date_posted": 1784729599,
         "url": "https://jobs.ashbyhq.com/joinpogo/5cb77d21-34bd-46ad-995f-62a7428b7061/application?embed=true",
@@ -345831,7 +345813,7 @@
         "company_name": "Fidelity National Information Services",
         "id": "93256d0a-8438-4762-951a-51e4ca7fe948",
         "title": "Mainframe Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784763216,
         "date_posted": 1784678400,
         "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0308256-1",
@@ -348656,6 +348638,155 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Ameriprise Financial",
+        "id": "f768db22-fdd3-4678-84ea-0ffacf840cf7",
+        "title": "Assistant Product Manager",
+        "active": true,
+        "date_updated": 1784813221,
+        "date_posted": 1784764800,
+        "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/London-United-Kingdom/Assistant-Product-Manager_R26_2812-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ameriprise-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Salesforce",
+        "id": "df3cad1b-cab7-444f-b096-17bc2f773158",
+        "title": "Product Manager/Senior Product Manager - Agent Fabric",
+        "active": true,
+        "date_updated": 1784815596,
+        "date_posted": 1782972297,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Product-Manager-Sr-Product-Manager--Agent-Fabric_JR347705-1",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Wilmington Trust",
+        "id": "f86fdb48-0528-4279-bf23-e688c7083633",
+        "title": "Credit Risk Model Development Quantitative Analyst 2 - Consumer Portfolio",
+        "active": true,
+        "date_updated": 1784815944,
+        "date_posted": 1783549065,
+        "url": "https://mtb.wd5.myworkdayjobs.com/wtexternal/job/Buffalo-NY/Credit-Risk-Model-Development-Quantitative-Analyst-II---Consumer-Portfolio--Hybrid---see-job-description-for-potential-work-locations-_R83338-2",
+        "locations": [
+            "Washington, DC",
+            "Bridgeport, CT",
+            "Buffalo, NY",
+            "NYC",
+            "Wilmington, DE",
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wilmington-Trust",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "4c99b011-efd6-45bc-8f68-0cd24f9ad05b",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1784815963,
+        "date_posted": 1781639293,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Data-Scientist_R-00185399",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intel",
+        "id": "7e32c304-350c-4c2e-bc24-0cf4928dbefc",
+        "title": "Process Integration and Yield Technician - Metrology",
+        "active": true,
+        "date_updated": 1784815284,
+        "date_posted": 1783987200,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Intel-Foundry-Process-Integration-and-Yield-Technician---Metrology_JR0285569",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PharmD",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Abbott",
+        "id": "9729d31a-919a-4b41-b2a9-a7896a92d84f",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1784815633,
+        "date_posted": 1783728000,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Colorado---Denver/Field-Service-Engineer--Denver--CO-_31155413",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stevens Institute of Technology",
+        "id": "96e88a68-a0ee-4188-a499-9672080866da",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1784816724,
+        "date_posted": 1782554859,
+        "url": "https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Research-Assistant_RQ30301",
+        "locations": [
+            "Union City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Stevens-Institute-Of-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
