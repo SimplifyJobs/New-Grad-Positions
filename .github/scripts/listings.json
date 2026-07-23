@@ -55501,7 +55501,7 @@
         "company_name": "Ensign-Bickford Aerospace & Defense Company",
         "id": "c18a6a31-6cf7-481a-99f5-cb0c4d069d8a",
         "title": "Soldering Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1768235148,
         "date_posted": 1768235148,
         "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Soldering-Technician_REQ106824",
@@ -202257,7 +202257,7 @@
         "company_name": "Cisco",
         "id": "d13824fa-a600-41bb-bfde-87089cad7974",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776334583,
         "date_posted": 1772724286,
         "url": "https://careers.cisco.com/global/en/job/2006629",
@@ -260164,7 +260164,7 @@
         "company_name": "Handshake",
         "id": "e4077c52-2354-4df5-9e3b-8d653242718a",
         "title": "Software Engineer - Handshake AI Enterprise",
-        "active": true,
+        "active": false,
         "date_updated": 1779962493,
         "date_posted": 1779199791,
         "url": "https://jobs.ashbyhq.com/handshake/dc18f669-4bc0-4c29-ac2a-429c814789b5/application",
@@ -260921,7 +260921,7 @@
         "company_name": "Leidos",
         "id": "c2ced759-415c-4430-971e-4945e24dcfcc",
         "title": "Electronics Mechanical Assembly Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780275161,
         "date_posted": 1780134819,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronics-Mechanical-Assembly-Technician_R-00182031",
@@ -260977,7 +260977,7 @@
         "company_name": "Brink",
         "id": "a999a49c-402d-44ce-b35b-d60c89144761",
         "title": "ATM Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780274470,
         "date_posted": 1780131751,
         "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Baton-Rouge-LA/ATM-Technician_R72782",
@@ -275060,7 +275060,7 @@
         "company_name": "RTX",
         "id": "7db737f1-b67f-477e-a5a6-94674263ada3",
         "title": "Semiconductor Equipment Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781015182,
         "date_posted": 1781014588,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR2--362-Lowell-St--AR2-PLYMOUTH-BLDG/Semiconductor-Equipment-Engineer_01851347",
@@ -283632,7 +283632,7 @@
         "company_name": "Illinois Tool Works",
         "id": "ee4b4ef7-c9ee-4c4b-81a9-cde751440974",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781331095,
         "date_posted": 1781330874,
         "url": "https://careers.itw.com/global/en/job/JR6437",
@@ -304730,7 +304730,7 @@
         "company_name": "Edgehog Trading",
         "id": "a35c4a97-a658-4cc5-9fca-cfd71edaef0e",
         "title": "Junior FPGA Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1782944878,
         "date_posted": 1782943855,
         "url": "https://ats.rippling.com/edgehog-trading/jobs/10ba9bbf-9fbe-49ff-8f58-a88041de1438",
@@ -310300,7 +310300,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b258ed4-b417-42be-a561-334564c2635f",
         "title": "Transaction Banking Associate - Liquidity Solutions Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783041041,
         "date_posted": 1781129390,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/175378",
@@ -331816,7 +331816,7 @@
         "company_name": "Intel",
         "id": "d0eb6f7a-0b38-4ff0-88b2-e57505b2a75d",
         "title": "Pre Silicon Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784286424,
         "date_posted": 1783559373,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Pre-Silicon-Verification-Engineer_JR0285398",
@@ -336479,7 +336479,7 @@
         "company_name": "Whc",
         "id": "e7bbbe13-fdde-4ddc-a6b2-11c6f25daf56",
         "title": "Product Owner Digital Infrastructure - Digital Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1784598245,
         "date_posted": 1784596623,
         "url": "https://ats.rippling.com/whc/jobs/f49f0c6b-9321-4f0e-99da-f03809128908",
@@ -336805,7 +336805,7 @@
         "company_name": "Motorway",
         "id": "be7a07eb-cdcf-4beb-b397-d81adeeffce7",
         "title": "Senior iOS Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784597404,
         "date_posted": 1784596568,
         "url": "https://jobs.ashbyhq.com/motorway/46db37d5-ed4c-40c8-87f1-94cd030553ee/application?embed=true",
@@ -347819,5 +347819,211 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "ec0226f7-e5b0-476b-aa85-1cdf3cc6d0e7",
+        "title": "Low Voltage Technician",
+        "active": true,
+        "date_updated": 1784804582,
+        "date_posted": 1784730901,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8079330",
+        "locations": [
+            "Stamford, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "f8d311b9-2969-4040-a280-36ff64b6da20",
+        "title": "Engineering Technician C",
+        "active": true,
+        "date_updated": 1784804582,
+        "date_posted": 1784671463,
+        "url": "https://jobs.l3harris.com/job/Rochester-Engineering-Technician-C-NY-14606/1411098500/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BetMGM",
+        "id": "a44bdc23-9344-42be-ae8b-fc6ff57ab72e",
+        "title": "Product Data Analyst",
+        "active": true,
+        "date_updated": 1784806665,
+        "date_posted": 1782559294,
+        "url": "https://betmgminc.wd5.myworkdayjobs.com/en-US/BetMGM/job/Hybrid-New-Jersey/Product-Data-Analyst_JR100718",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/BetMGM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vantor",
+        "id": "ad7c7576-5b17-4beb-b37d-50523cb7f627",
+        "title": "GIS Engineer - Jr",
+        "active": true,
+        "date_updated": 1784806525,
+        "date_posted": 1783168661,
+        "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
+        "locations": [
+            "Washington, DC",
+            "Arlington, VA",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vantor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Smithfield Foods",
+        "id": "522fa117-c316-4e57-a2a1-8e128d51a306",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1784806576,
+        "date_posted": 1781360830,
+        "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Suffolk-VA/Software-Engineer_R-2026-6268",
+        "locations": [
+            "Suffolk, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Smithfield-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Newmont",
+        "id": "85af216c-ab0f-4854-acfb-8d80f97552f0",
+        "title": "Assayer \u2013 Fire",
+        "active": true,
+        "date_updated": 1784807158,
+        "date_posted": 1783991496,
+        "url": "https://jobs.newmont.com/us/en/job/43722",
+        "locations": [
+            "British Columbia, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/90e0373e-e60e-4722-bb8f-06f1471a1c38",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northumbria University",
+        "id": "666bb4c3-369b-4da7-894b-88648d1d3749",
+        "title": "Intelligence Analyst - KTP Associate",
+        "active": true,
+        "date_updated": 1784803141,
+        "date_posted": 1783087384,
+        "url": "https://fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4101",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Northumbria-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Elsevier",
+        "id": "9f0cd315-9b3d-4c6e-af6b-0302ac544ecb",
+        "title": "Data Scientist 2",
+        "active": true,
+        "date_updated": 1784806706,
+        "date_posted": 1782309914,
+        "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/UK---London-London-Wall/Data-Scientist-II_R114630-1",
+        "locations": [
+            "London, UK",
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Elsevier",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ernst & Young",
+        "id": "b128a10b-bece-4786-bca6-79962ce002fd",
+        "title": "Consultant Applied AI Engineer - Applied AI Engineer",
+        "active": true,
+        "date_updated": 1784806358,
+        "date_posted": 1781187119,
+        "url": "https://careers.ey.com/ey/job/London-Consultant-Applied-AI-Engineer%2C-TC-E14-5EY/1382111233/",
+        "locations": [
+            "London, UK",
+            "Edinburgh, UK",
+            "Belfast, UK",
+            "Birmingham, UK",
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ernst-And-Young",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Harvey",
+        "id": "c4ff30bf-4501-46af-832e-cbe45a12f9f9",
+        "title": "Software Engineer - Agents",
+        "active": true,
+        "date_updated": 1784805301,
+        "date_posted": 1777673281,
+        "url": "https://jobs.ashbyhq.com/harvey/2bd5b22c-d873-45da-a6d3-89944edb701c/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Harvey",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
