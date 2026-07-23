@@ -2,42 +2,6 @@
     {
         "source": "Simplify",
         "category": "Quant",
-        "company_name": "Truist Bank",
-        "id": "91642467-0a79-437b-a740-9dea7e112cc7",
-        "title": "Investment Analyst 1",
-        "active": false,
-        "date_updated": 1764035330,
-        "date_posted": 1764035330,
-        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Investment-Analyst-I---Atlanta_R0108611",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Truist-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "f3e7f3a6-dde9-45c4-b76e-eb47c90e3ca3",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1764034894,
-        "date_posted": 1764034894,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/d75ef549-303a-442d-bd9e-b4ce7641de4a/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "d6021286-ccb7-44ae-8a98-db84f65c5742",
         "title": "Trading Assistant - Shift",
@@ -317044,7 +317008,7 @@
         "company_name": "Goldman Sachs",
         "id": "6a36b7f9-3aea-44d6-b6a2-b8ba794476ea",
         "title": "Asset & Wealth Management - Product Management - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1783472761,
         "date_posted": 1781791629,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/173819",
