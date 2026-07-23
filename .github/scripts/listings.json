@@ -1,78 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d6021286-ccb7-44ae-8a98-db84f65c5742",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764037415,
-        "date_posted": 1764037415,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039474",
-        "locations": [
-            "East Midlands, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "86041433-2f4d-49cf-b537-900a566af58a",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1764037398,
-        "date_posted": 1764037398,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039831",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "6c8c67bf-1f22-4f0c-8dc8-9c47cc21b57c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1764037160,
-        "date_posted": 1764037160,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039790",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3d6a1b66-2678-4094-8c47-897e595b8daa",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1764037054,
-        "date_posted": 1764037054,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039709",
-        "locations": [
-            "Maidstone, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "RWS",
         "id": "1aeb479a-17be-49b1-abbd-3dfe70143edd",
@@ -329684,7 +329612,7 @@
         "company_name": "The Boeing Company",
         "id": "8e8d5564-eec4-492c-82f0-7d0b1a361e71",
         "title": "Entry Level Test and Evaluation Technical Services Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1784154963,
         "date_posted": 1784073600,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Heath-OH/Entry-Level-Test-and-Evaluation-Technical-Services-Specialist_JR2026519119-1",
@@ -342694,7 +342622,7 @@
         "company_name": "The Boeing Company",
         "id": "a1c5de4c-8029-4517-9938-26f5625ee7d0",
         "title": "Entry Level Test and Evaluation Technical Services Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1784671022,
         "date_posted": 1784073600,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Heath-OH/Entry-Level-Test-and-Evaluation-Technical-Services-Specialist_JR2026519119",
@@ -346714,7 +346642,7 @@
         "company_name": "Truist Bank",
         "id": "b0afbb22-80b8-44ed-9b73-50455ea27dea",
         "title": "Data Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784763067,
         "date_posted": 1784678400,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Data-Scientist-I_R0117092",
