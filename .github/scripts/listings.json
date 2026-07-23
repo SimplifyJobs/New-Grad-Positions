@@ -1,59 +1,5 @@
 [
     {
-        "date_updated": 1764679827,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Junior-Data-Scientist_34033",
-        "company_name": "Guidehouse",
-        "title": "Junior Data Scientist",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "75a88053-120b-4ec6-9fd4-4295fbb98125",
-        "date_posted": 1764087943,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1771250796,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.baesystems.com/global/en/job/BAE1US118690BREXTERNAL/Entry-Level-Software-Engineer",
-        "company_name": "BAE Systems",
-        "title": "Entry Level Software Engineer",
-        "locations": [
-            "Totowa, NJ"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "cdbda0b6-3175-4a45-a415-912d3acee1c4",
-        "date_posted": 1764088015,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nielsen",
-        "id": "2dfbcd68-152f-4af6-a3a4-ef91db1e7463",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1764087895,
-        "date_posted": 1764087895,
-        "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000095409894",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Nielsen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "AGILE Space Industries",
@@ -231198,7 +231144,7 @@
         "company_name": "RTX",
         "id": "ecd42cd9-2e5c-4b58-b00e-c37e33d6691a",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778193687,
         "date_posted": 1778191810,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-I--Onsite-_01834725",
@@ -349164,5 +349110,85 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "13fdfa41-fb60-4de0-a16b-e9aa63f71bd8",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1784823151,
+        "date_posted": 1784764800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "mthree",
+        "id": "50d620ab-b082-4900-a4b3-362376a23dd7",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1784823092,
+        "date_posted": 1784817253,
+        "url": "https://mthree.com/careers/job/?gh_jid=4664940006",
+        "locations": [
+            "London, UK",
+            "Christchurch, UK",
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Mthree",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Metergy Solutions",
+        "id": "03a44e3b-b826-4831-a454-fc5b69ea9f3c",
+        "title": "Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1784821861,
+        "date_posted": 1784815767,
+        "url": "https://jobs.lever.co/metergysolutions/de72dbe2-6b5f-4554-be5a-f49b80a0df76/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Metergy-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ZOLL Medical Corporation",
+        "id": "a9a2c03e-99fe-4af7-97e7-6fa8b430c241",
+        "title": "System Level Debug Technician",
+        "active": true,
+        "date_updated": 1784821861,
+        "date_posted": 1784764800,
+        "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Chelmsford-MA/System-Level-Debug-Technician_R19759",
+        "locations": [
+            "Lowell, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoll",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
