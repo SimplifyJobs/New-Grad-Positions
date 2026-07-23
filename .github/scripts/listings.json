@@ -1,151 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "120d1c2a-5641-4d09-b4ca-47cd986cfc40",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1764060795,
-        "date_posted": 1764060795,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039858",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ba11d6f1-8f7f-43fa-94df-4a051ccc3e97",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1764060507,
-        "date_posted": 1764060507,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039827",
-        "locations": [
-            "Exeter, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "059c929f-90ab-4710-b229-c272bd1731c9",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1764060491,
-        "date_posted": 1764060491,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039852",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "c2456664-ed50-4104-a734-df43ba9c4212",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764060464,
-        "date_posted": 1764060464,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039653",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "S&P Global ",
-        "id": "7700c74c-e9eb-4fc3-830c-f32462df1986",
-        "title": "Product Specialist - Indices & ETFs",
-        "active": false,
-        "date_updated": 1764060484,
-        "date_posted": 1764060484,
-        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Product-Specialist---Indices---ETF-s_321476-1",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/SP-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "51901cc1-22fe-4522-ba2c-73d6a3bb040c",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764060325,
-        "date_posted": 1764060325,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039623",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0a5ce1e3-503f-4363-8482-116eacb716e2",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764060473,
-        "date_posted": 1764060473,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039673",
-        "locations": [
-            "Cardiff, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "FactSet",
-        "id": "d3ece732-260b-477b-baa0-850a7e963ed5",
-        "title": "Client Solutions Associate",
-        "active": false,
-        "date_updated": 1764059700,
-        "date_posted": 1764059700,
-        "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/London-GBR/Client-Solutions-Associate---London--February-2026_R29574",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/FactSet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1764857387,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -191970,7 +191824,7 @@
         "company_name": "Sanford Health",
         "id": "076d29c9-8b56-4cfc-8845-bf6bc453ef63",
         "title": "Social Worker",
-        "active": true,
+        "active": false,
         "date_updated": 1775775071,
         "date_posted": 1775772596,
         "url": "https://sanford.wd5.myworkdayjobs.com/sanfordhealth/job/ND-Fargo/Social-Worker---Adolescent-PHP_R-0256042",
@@ -227455,7 +227309,7 @@
         "company_name": "Salesforce",
         "id": "1a2e58cc-f4e5-478e-a272-afd67fbeedd1",
         "title": "AI Builder - Emerging Talent",
-        "active": false,
+        "active": true,
         "date_updated": 1778047794,
         "date_posted": 1778047484,
         "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR341276",
@@ -259035,7 +258889,7 @@
         "company_name": "Adobe",
         "id": "05086e88-742a-4c28-b7de-951c54ab9644",
         "title": "Research Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1779955811,
         "date_posted": 1778941541,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist_R167353",
@@ -270373,7 +270227,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -278093,7 +277947,7 @@
         "company_name": "The Boeing Company",
         "id": "6805ad41-b94a-44ef-9bac-4bb826f84abb",
         "title": "Linux System Administrator - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781130241,
         "date_posted": 1781129480,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Linux-System-Administrator--Associate-_JR2026514382",
@@ -292585,7 +292439,7 @@
         "company_name": "Jonas Software",
         "id": "058e376f-60d5-425d-a1dd-6c73a4ad4224",
         "title": "Customer Support Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781857643,
         "date_posted": 1781346653,
         "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Canada---Markham---Ontario/Customer-Solution-Analyst_R12522-2",
@@ -308548,7 +308402,7 @@
         "company_name": "Magna",
         "id": "0b9077af-1b4f-4d09-89aa-68f71d6dfc1e",
         "title": "Camera & Vision Systems Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1782981300,
         "date_posted": 1782957253,
         "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Piedmont-South-Carolina-US/Camera---Vision-Systems-Specialist_R00248948",
@@ -312504,7 +312358,7 @@
         "company_name": "Change Grow Live",
         "id": "22fa6861-700c-4ea8-b11d-1d21c5b8e2f6",
         "title": "Data Administrator",
-        "active": true,
+        "active": false,
         "date_updated": 1783328701,
         "date_posted": 1783328539,
         "url": "https://careers-changegrowlive.icims.com/jobs/20510/job?mobile=true&needsRedirect=false",
@@ -316348,7 +316202,7 @@
         "company_name": "GE Healthcare",
         "id": "0d4fe4d8-2a3c-4bae-ab91-fcfa10a631c4",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783472992,
         "date_posted": 1783472744,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/El-Paso/Field-Engineer-1_R4043144-2",
@@ -323679,7 +323533,7 @@
         "company_name": "Cisco",
         "id": "09bea554-117c-4239-ae76-df0eaa0baa78",
         "title": "ASIC Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783981644,
         "date_posted": 1781344343,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/ASIC-Design-Verification-Engineer_2006886",
@@ -327049,7 +326903,7 @@
         "company_name": "Leidos",
         "id": "14a6cbae-0399-43b6-abde-c83ea97de5e5",
         "title": "Embedded Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784071162,
         "date_posted": 1783987200,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Embedded-Firmware-Engineer_R-00187155",
@@ -329672,7 +329526,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "0b30bc91-8862-4411-aa6f-7aa4a04e32ce",
         "title": "Therapist \u2013 Partial Hospitalization / Intensive Outpatient",
-        "active": true,
+        "active": false,
         "date_updated": 1784164489,
         "date_posted": 1784073600,
         "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Kenosha-Clinic-Kenosha-WI/Therapist---PHP-IOP_R7948",
@@ -333203,7 +333057,7 @@
         "company_name": "TheGuarantors",
         "id": "19f79bc4-c14b-46f6-8df6-0223d27ed872",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1784327651,
         "date_posted": 1784326338,
         "url": "https://ats.rippling.com/theguarantors-open-positions/jobs/40594c89-8739-4809-ba63-e20f0ea5e735",
@@ -344568,7 +344422,7 @@
         "company_name": "PerkinElmer",
         "id": "0b21b50f-291a-430e-87be-1116ba7808e4",
         "title": "Project Controls \u2013 Engineer 3/Lead Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784713035,
         "date_posted": 1781359476,
         "url": "https://newperkinelmer.wd1.myworkdayjobs.com/External/job/Customer-Site---TX/Project-Controls---Engineer-III-Lead-Engineer_REQ-057697-1",
@@ -347113,6 +346967,106 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Elevation Capital",
+        "id": "1f353815-9b0a-48e3-9087-2efbaac8e819",
+        "title": "Applied AI Engineer",
+        "active": true,
+        "date_updated": 1784796153,
+        "date_posted": 1784596597,
+        "url": "https://ats.rippling.com/elevationcapital/jobs/ad98d50d-1b45-4d22-a1a9-a7d102a34640",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/1d55f857-5bae-4582-8a39-deda2711f85d",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Encore Auctions",
+        "id": "1f6cf7ed-f256-45a9-b813-60d0068877aa",
+        "title": "Technical Hardware Specialist",
+        "active": true,
+        "date_updated": 1784796193,
+        "date_posted": 1784596321,
+        "url": "https://ats.rippling.com/encore-auctions/jobs/dbc43d3e-7113-419e-92c7-3dcb3f2fd104",
+        "locations": [
+            "London, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/779084dd-340d-4dc4-a98a-456aad1666a4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "14fe1533-aa75-4464-9580-385dd224fe52",
+        "title": "Embedded Software Engineer 2",
+        "active": true,
+        "date_updated": 1784797040,
+        "date_posted": 1782963479,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-MORRISVILLE-907--951-Aviation-Pkwy--907-BLDG/Software-Engineer-II--Onsite--2_01852707",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Maryland - College Park",
+        "id": "03a80408-3fdc-4795-a4b5-eae66d9d2956",
+        "title": "Junior Data Engineer - Faculty Specialist",
+        "active": true,
+        "date_updated": 1784796827,
+        "date_posted": 1781360155,
+        "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Junior-Data-Engineer--Faculty-Specialist-_JR104102",
+        "locations": [
+            "Hyattsville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Maryland-College-Park",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Calico Labs",
+        "id": "0c8f66cd-2ac6-4639-9287-c47e96c448cb",
+        "title": "Senior Machine Learning Scientist",
+        "active": true,
+        "date_updated": 1784795591,
+        "date_posted": 1777674194,
+        "url": "https://www.calicolabs.com/careers/?gh_jid=8533254002",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CalicoLabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
