@@ -5,13 +5,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 307 New Grad Roles by Category
+### Browse 308 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (194)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (6)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (54)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (55)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (12)
 
@@ -5285,7 +5285,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Ivo</strong></td>
 <td>Software Engineer, Backend</td>
 <td>San Francisco, CA</td>
 <td>🔒</td>
@@ -9972,6 +9972,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>AI Research Scientist New Grad - Agents & Reinforcement Learning 🎓</td>
 <td>Bellevue, WA</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/24c586e2-4b8e-49a9-b78f-a304a23cfd6e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/University-Of-Maryland-College-Park?utm_source=GHList&utm_medium=company">University of Maryland - College Park</a></strong></td>
+<td>Junior Data Engineer - Faculty Specialist</td>
+<td>Hyattsville, MD</td>
+<td><div align="center"><a href="https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Junior-Data-Engineer--Faculty-Specialist-_JR104102?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/03a80408-3fdc-4795-a4b5-eae66d9d2956?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
