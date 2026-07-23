@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "822405bb-f4e1-4ef4-8dc9-db4719585f9c",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1764045430,
-        "date_posted": 1764045430,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/e805f417-8daf-43de-8396-ea55ba08edce/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Seminole Hard Rock",
         "id": "1829b233-e37b-43d5-ab0c-2fcc51352a0d",
