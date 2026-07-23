@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e679b6bf-7f6f-4fa6-be9d-5321a0a084a0",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764055112,
-        "date_posted": 1764055112,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039736",
-        "locations": [
-            "Bracknell, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Assurant",
         "id": "4e6726d7-f9ec-4da8-9eed-297b7db9bd33",
@@ -38398,26 +38380,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "8a1794df-3bfa-482c-8ee4-e138699515f8",
-        "title": "Graduate Research Scientist in Code Generation",
-        "active": false,
-        "date_updated": 1767434243,
-        "date_posted": 1764055795,
-        "url": "https://jobs.bytedance.com/en/position/7561701015045769533/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -270502,7 +270464,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -289956,7 +289918,7 @@
         "company_name": "Goldman Sachs",
         "id": "77482a4b-c4db-430c-9e57-1a5071d06e6b",
         "title": "Global Banking & Markets - Loan Management - SF Trade Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1781735941,
         "date_posted": 1781734087,
         "url": "https://higher.gs.com/roles/176868",
@@ -292057,7 +292019,7 @@
         "company_name": "Nutanix",
         "id": "f946c1fe-f878-4d37-9287-b08b55acbcb6",
         "title": "Member of Technical Staff 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781831701,
         "date_posted": 1781773829,
         "url": "https://jobs.jobvite.com/nutanix/job/o1pjAfw3?nl=1&nl=1&fr=false",
@@ -326696,7 +326658,7 @@
         "company_name": "Intuit",
         "id": "cdbc0a69-360c-4dfe-8c6d-5c0fea16678d",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784068719,
         "date_posted": 1784067142,
         "url": "https://jobs.intuit.com/job/charlotte/software-engineer-i-credit-karma/27595/97793819216",
@@ -334526,7 +334488,7 @@
         "company_name": "Goldman Sachs",
         "id": "bcba2ca1-73d6-4c2b-babd-5b6a31e81da9",
         "title": "Corporate Treasury - Quantitative Engineer - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1784556901,
         "date_posted": 1784538520,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/178881",
@@ -346844,5 +346806,302 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LP Analyst",
+        "id": "e378868f-b3aa-4e52-bb5c-b35ece9f0d2f",
+        "title": "LP Analyst",
+        "active": true,
+        "date_updated": 1784791085,
+        "date_posted": 1784788215,
+        "url": "https://lpanalyst.applytojob.com/apply/kVHwf3zDyN/Private-Equity-Data-Operations-Analyst",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ccaf5a79-a8dc-469d-b557-40c8b9be7efd",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "IntelliPro Group Inc.",
+        "id": "1cc61e60-75a5-4692-b6d9-72ceabb5cc0b",
+        "title": "Product Marketing Manager",
+        "active": true,
+        "date_updated": 1784791636,
+        "date_posted": 1784788216,
+        "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX/Product-Marketing-Manager",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/7078c429-1ce5-4d50-8282-a41dc948e271",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "IntelliPro Group Inc.",
+        "id": "d8dc5ea2-16f6-4847-b23f-ee0535d180c8",
+        "title": "Hardware Test Technician 1",
+        "active": true,
+        "date_updated": 1784791595,
+        "date_posted": 1784788210,
+        "url": "https://intellipro.applytojob.com/apply/g0Z5wjrWdx/Hardware-Test-Technician-I",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/7078c429-1ce5-4d50-8282-a41dc948e271",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sunbird Software Inc.",
+        "id": "afadaeca-5d47-4d28-9457-a2ede4c333d9",
+        "title": "Data Analyst - Company name withheld",
+        "active": true,
+        "date_updated": 1784791558,
+        "date_posted": 1784788199,
+        "url": "https://sunbirdsoftwareinc.applytojob.com/apply/bdVFysDrJp/Data-Analyst",
+        "locations": [
+            "Sioux Falls, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/557321e8-0f47-4907-a5db-0bb7630b4fa9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "Associate's",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sunbird Software Inc.",
+        "id": "6c2d559a-c15a-44a8-83ca-b2334187426b",
+        "title": "Sunbird Software Inc Product Support Engineer",
+        "active": true,
+        "date_updated": 1784791535,
+        "date_posted": 1784788202,
+        "url": "https://sunbirdsoftwareinc.applytojob.com/apply/wsB1TcU0Gf/Product-Support-Engineer",
+        "locations": [
+            "Middlesex, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/557321e8-0f47-4907-a5db-0bb7630b4fa9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sunbird Software Inc.",
+        "id": "5ffc89cf-42df-49a7-bd5c-59a9a9d50f7c",
+        "title": "Software Support Engineer",
+        "active": true,
+        "date_updated": 1784791549,
+        "date_posted": 1784788205,
+        "url": "https://sunbirdsoftwareinc.applytojob.com/apply/YEyTkwbnWT/Software-Support-Engineer",
+        "locations": [
+            "Middlesex, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/557321e8-0f47-4907-a5db-0bb7630b4fa9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pegatron Technologies LLC",
+        "id": "4f97919a-e2f3-42e7-a1e7-6b964079b369",
+        "title": "Electronic Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1784791323,
+        "date_posted": 1784787714,
+        "url": "https://pegatrontechnologiesllc.applytojob.com/apply/Kz0NqBOqy0/Electronic-Engineer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/75f77020-12dc-4b27-9c4b-5988bb07af9d",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "R&R Human Resources Solutions",
+        "id": "c3e95af9-d335-4dfb-9a7f-b9f61b7af7a9",
+        "title": "Residential Systems Integration Technician",
+        "active": true,
+        "date_updated": 1784791028,
+        "date_posted": 1784787529,
+        "url": "https://rrhrsolutions.applytojob.com/apply/tPu2W3qlZ2/Installation-Smart-Home-Technician",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/99fae19d-8e0b-4c65-b50f-d9db6829a433",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ponca City Development Authority",
+        "id": "3f58a799-897f-4638-ad3e-aeeec9ddcea8",
+        "title": "Lab Technician",
+        "active": true,
+        "date_updated": 1784791015,
+        "date_posted": 1784788123,
+        "url": "https://poncaworks.applytojob.com/apply/p30S8cjBIG/Lab-Technician",
+        "locations": [
+            "Bartlesville, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/d447925e-f449-406c-b9c9-18d495594b9d",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sherwood Design Engineers",
+        "id": "e4de2696-b698-4456-a194-7991e72e44c2",
+        "title": "Design Engineer 1 - Land Development",
+        "active": true,
+        "date_updated": 1784790195,
+        "date_posted": 1784787461,
+        "url": "http://sherwooddesignengineers.applytojob.com/apply/NSenjjw7BR/Civil-Engineer-I",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/0a03461c-9d3d-4443-a67b-19f6ba0c22af",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GABLETEK",
+        "id": "ba9ad1ed-d788-4244-adea-7bc7bc4b8022",
+        "title": "Librarian 3DEXPERIENCE PLM Platform - Automotive",
+        "active": true,
+        "date_updated": 1784790158,
+        "date_posted": 1784787436,
+        "url": "https://gabletek.applytojob.com/apply/VG6dFF94IX/Librarian-3DEXPERIENCE-PLM-Platform-Automotive",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/1d6c9040-5cca-4298-a12e-467e9a31b240",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AtomTech Inc.",
+        "id": "4b95aaff-dff0-4304-8d95-74f9709a2146",
+        "title": "Service Technician",
+        "active": true,
+        "date_updated": 1784790179,
+        "date_posted": 1784787866,
+        "url": "https://atomdesignservicesllc.applytojob.com/apply/ZDWb4OCmES/Service-Technician",
+        "locations": [
+            "Warren, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/abd30341-f157-4018-8016-a0d19bcdfd8a",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Archetype Strategy",
+        "id": "85b0fc42-9066-4ad0-b948-a47851825f6a",
+        "title": "Data Center Technician",
+        "active": true,
+        "date_updated": 1784790075,
+        "date_posted": 1784787357,
+        "url": "https://archetypestrategy.applytojob.com/apply/rvyxBfRidr/Datacenter-Technician",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/9c0bb496-bdbd-4d4b-858f-e9ee3af2fcc4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Archetype Strategy",
+        "id": "68c4dd88-c8d3-4396-b1e3-e303dc3177c4",
+        "title": "Data Center Technician",
+        "active": true,
+        "date_updated": 1784790096,
+        "date_posted": 1784787359,
+        "url": "https://archetypestrategy.applytojob.com/apply/zlLqwP22fD/Datacenter-Technician",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/9c0bb496-bdbd-4d4b-858f-e9ee3af2fcc4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Archetype Strategy",
+        "id": "352e138a-5a5d-4dda-9d78-462813cb2518",
+        "title": "Data Center Technician",
+        "active": true,
+        "date_updated": 1784790102,
+        "date_posted": 1784787357,
+        "url": "https://archetypestrategy.applytojob.com/apply/M0qi5JEVWO/Datacenter-Technician",
+        "locations": [
+            "Kansas City, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/9c0bb496-bdbd-4d4b-858f-e9ee3af2fcc4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
