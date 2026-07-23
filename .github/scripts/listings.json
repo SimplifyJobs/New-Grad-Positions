@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Seminole Hard Rock",
-        "id": "1829b233-e37b-43d5-ab0c-2fcc51352a0d",
-        "title": "Slot Technician 1 - Ft",
-        "active": false,
-        "date_updated": 1764050215,
-        "date_posted": 1764050215,
-        "url": "https://careers-seminole.icims.com/jobs/63405/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Coconut Creek, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Seminole-Hard-Rock",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "7e269d4e-fb77-4905-b001-8458fb675167",
@@ -333612,7 +333594,7 @@
         "company_name": "CVS Health",
         "id": "edd6aeac-fc67-4167-a57d-6fc4be8c5c17",
         "title": "AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784332081,
         "date_posted": 1784246400,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Richardson/AI-Engineer_R0968098",
