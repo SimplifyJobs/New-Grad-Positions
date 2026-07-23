@@ -163844,7 +163844,7 @@
         "company_name": "ASM International",
         "id": "20ab4e16-195e-4f9b-b9a8-a6651d21e85e",
         "title": "Engineer - Field Service- Early Career",
-        "active": false,
+        "active": true,
         "date_updated": 1774390169,
         "date_posted": 1774390169,
         "url": "https://www.asm.com/open-vacancies/?gh_jid=4806787101",
@@ -264259,7 +264259,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -298438,7 +298438,7 @@
         "company_name": "Guidewire",
         "id": "446847d3-29b2-4c3c-b983-f4e2203fc1ec",
         "title": "Associate Certification Program Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782868406,
         "date_posted": 1782770934,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946",
@@ -310264,7 +310264,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b258ed4-b417-42be-a561-334564c2635f",
         "title": "Transaction Banking Associate - Liquidity Solutions Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1783041041,
         "date_posted": 1781129390,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/175378",
@@ -316169,7 +316169,7 @@
         "company_name": "Goldman Sachs",
         "id": "6a36b7f9-3aea-44d6-b6a2-b8ba794476ea",
         "title": "Asset & Wealth Management - Product Management - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1783472761,
         "date_posted": 1781791629,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/173819",
@@ -317261,7 +317261,7 @@
         "company_name": "Intel",
         "id": "2806a6de-285b-409b-a826-2addd6b3abf3",
         "title": "Physical Design Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783549692,
         "date_posted": 1783548665,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Massachusetts-Beaver-Brook/Physical-Design-Engineer_JR0285374",
@@ -325762,7 +325762,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -328866,7 +328866,7 @@
         "company_name": "US Conec",
         "id": "2a847ab0-daaf-472f-8c54-b0a5da772e26",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1784154963,
         "date_posted": 1784154853,
         "url": "https://job-boards.greenhouse.io/usconec/jobs/4314187009",
@@ -346480,7 +346480,7 @@
         "company_name": "General Motors",
         "id": "0e9ad6d9-7864-4cdf-a054-b5d6d5ae0f61",
         "title": "Hardware Engineer - Propulsion Controllers",
-        "active": false,
+        "active": true,
         "date_updated": 1784788844,
         "date_posted": 1784505600,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/Hardware-Engineer---Propulsion-Controllers_JR-202615319-1",
@@ -348829,5 +348829,300 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Theodo",
+        "id": "c790faa5-8f9d-4f89-89ec-44ddff30a6db",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1784816822,
+        "date_posted": 1784815611,
+        "url": "https://jobs.lever.co/theodo/50719697-c4ea-4936-afad-aa887da576d0/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Theodo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pogo Technologies, Inc.",
+        "id": "c63e3c05-9a47-401f-ae91-17cfc9ff81ff",
+        "title": "Full Stack Engineer",
+        "active": true,
+        "date_updated": 1784820080,
+        "date_posted": 1784816600,
+        "url": "https://jobs.ashbyhq.com/joinpogo/052dc86b-4f85-44a3-ac11-2dbd9ffebd0a/application?embed=true",
+        "locations": [
+            "Canada",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/f58a30c3-a04b-42bb-a8b9-b55894b3d405",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Illumia",
+        "id": "3547f1fc-3473-484d-9766-31b2a0f754c1",
+        "title": "Associate Integration Engineer",
+        "active": true,
+        "date_updated": 1784816822,
+        "date_posted": 1784816659,
+        "url": "https://transact-campus.breezy.hr/p/e8d28d6d8087/apply",
+        "locations": [
+            "Alpharetta, GA",
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Illumia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cerebras",
+        "id": "d5647d2a-f398-444e-b1ac-3d03cc6604a7",
+        "title": "Software Engineer - Cluster Deployment",
+        "active": true,
+        "date_updated": 1784816822,
+        "date_posted": 1784816239,
+        "url": "https://jobs.ashbyhq.com/cerebras/63b9c135-ce5d-4898-8e4d-9422d39e4ca6/application?embed=true",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorway",
+        "id": "aefc5b08-1680-4b84-be22-32f58209301b",
+        "title": "Senior Android Engineer",
+        "active": true,
+        "date_updated": 1784816822,
+        "date_posted": 1784816639,
+        "url": "https://jobs.ashbyhq.com/motorway/bff71341-eb6f-45cc-b32d-5c562b510d9f/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Motorway",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorway",
+        "id": "4dddb487-3ea9-4c12-810c-61a61f6b3adc",
+        "title": "Senior iOS Engineer",
+        "active": true,
+        "date_updated": 1784816822,
+        "date_posted": 1784816639,
+        "url": "https://jobs.ashbyhq.com/motorway/dc86ac05-7114-4ee7-8023-19d1ffd845bc/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Motorway",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "502a427d-2a14-4b25-8a0e-2b093361ed1a",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1784819992,
+        "date_posted": 1784764800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01861434",
+        "locations": [
+            "Concord, MA",
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "05265820-1130-4644-9da5-87524303c14b",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1784819994,
+        "date_posted": 1784764800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "AssetMark",
+        "id": "d9447339-f3e1-4210-8b22-f68143807820",
+        "title": "Associate Product Manager - Internal AI",
+        "active": true,
+        "date_updated": 1784819435,
+        "date_posted": 1784764800,
+        "url": "https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Associate-Product-Manager--Internal-AI_Req-003911",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/AssetMark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Capital One",
+        "id": "16267619-37ca-4cb8-9207-ff565ccf25af",
+        "title": "Senior Associate - Product Management - Creditflow",
+        "active": true,
+        "date_updated": 1784816822,
+        "date_posted": 1784764800,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Associate--Product-Management--Creditflow_R247633-1",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zurich Insurance",
+        "id": "ac56ab22-4e58-404f-bd27-334854dd766c",
+        "title": "Software Engineer Associate",
+        "active": true,
+        "date_updated": 1784819368,
+        "date_posted": 1784815795,
+        "url": "https://www.careers.zurich.com/job/Bath-Associate-Software-Engineer-GB-E/1367510657/?ats=successfactors",
+        "locations": [
+            "Trowbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Zurich-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "William & Mary",
+        "id": "bf94b14c-8f66-4fe0-bc43-3a35af41d060",
+        "title": "Postdoctoral Fellow of Computer Science - Robust and Adaptive Intelligence",
+        "active": true,
+        "date_updated": 1784816822,
+        "date_posted": 1784764800,
+        "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Posting-Location---William--Mary/Postdoctoral-Fellow-of-Computer-Science--Robust-and-Adaptive-Intelligence-_JR101939",
+        "locations": [
+            "Williamsburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/William-And-Mary",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "4644bdd6-0956-4473-86a3-ef0a98bdcd5c",
+        "title": "Associate \u2013 Software Engineer",
+        "active": true,
+        "date_updated": 1784816822,
+        "date_posted": 1784815472,
+        "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1411849300/?ats=successfactors",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Goldman Sachs",
+        "id": "99e46a07-02c6-4ca9-aa86-628729f79425",
+        "title": "Foundation Engineering Product Management Associate",
+        "active": true,
+        "date_updated": 1784820176,
+        "date_posted": 1782914861,
+        "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176110",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vercel",
+        "id": "5367f94f-a612-439d-bcd3-7cfc8f6daf65",
+        "title": "Software Engineer - CDN Content",
+        "active": true,
+        "date_updated": 1784820391,
+        "date_posted": 1783463654,
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/6105394004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Vercel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
