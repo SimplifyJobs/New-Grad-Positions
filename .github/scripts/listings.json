@@ -232820,7 +232820,7 @@
         "company_name": "Jabil",
         "id": "eb5a3cd7-f4cb-44cb-9434-4ec124ec06f3",
         "title": "Electronic Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778327167,
         "date_posted": 1778322754,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Electronic-Technician-I_J2447879",
@@ -233707,7 +233707,7 @@
         "company_name": "RTX",
         "id": "9cf6befe-5806-49aa-aed1-c3765502fb5b",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778539071,
         "date_posted": 1778537443,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595",
@@ -287561,7 +287561,7 @@
         "company_name": "Netflix",
         "id": "e6e2f164-a369-4302-b4df-28307e6e6179",
         "title": "Research Scientist 4 - Machine Learning and Inference Research - Large Language Model Post-Training",
-        "active": true,
+        "active": false,
         "date_updated": 1781649338,
         "date_posted": 1781638810,
         "url": "https://explore.jobs.netflix.net/careers/job/790311856514",
@@ -291674,7 +291674,7 @@
         "company_name": "Nutanix",
         "id": "f946c1fe-f878-4d37-9287-b08b55acbcb6",
         "title": "Member of Technical Staff 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781831701,
         "date_posted": 1781773829,
         "url": "https://jobs.jobvite.com/nutanix/job/o1pjAfw3?nl=1&nl=1&fr=false",
@@ -318306,7 +318306,7 @@
         "company_name": "Northrop Grumman",
         "id": "78a1a51e-7c5a-49ae-909c-fe53612553e2",
         "title": "Associate Cyber Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783550370,
         "date_posted": 1783549093,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/R10206390-22026-Associate-Cyber-Software-Engineer---Chantilly-VA_R10236425",
@@ -326151,7 +326151,7 @@
         "company_name": "CharterUP",
         "id": "976f06d8-f609-44c6-9618-38469b1cf0c5",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784067305,
         "date_posted": 1781129988,
         "url": "https://job-boards.greenhouse.io/charterup/jobs/5225364008",
@@ -328895,7 +328895,7 @@
         "company_name": "Tenon",
         "id": "d1e84831-34a4-4fd1-8e04-6adc31a1c0e4",
         "title": "Associate ServiceNow Technical Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1784155231,
         "date_posted": 1784153782,
         "url": "https://job-boards.greenhouse.io/tenon/jobs/8067766",
@@ -335100,7 +335100,7 @@
         "company_name": "STV",
         "id": "d86d5a45-c146-4585-8c27-938e7a70cf81",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784587141,
         "date_posted": 1784505600,
         "url": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/Junior-Software-Engineer_JR5922",
@@ -341290,7 +341290,7 @@
         "company_name": "Barr",
         "id": "d5b47b14-ab65-44e1-b532-56a96b46ed94",
         "title": "Geologist/Geological Engineer Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1784665389,
         "date_posted": 1783161415,
         "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Jefferson-City-MO/Geologist-Geological-Engineer---Entry-Level--Hybrid-_R-102144",
@@ -343503,7 +343503,7 @@
         "company_name": "Northrop Grumman",
         "id": "ddb49233-5a37-440d-b616-cac6dc372935",
         "title": "Technical Services Principal Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784684710,
         "date_posted": 1783159262,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Technical-Services-Principal-Engineer--T03-Level----18898_R10234086",
@@ -349059,7 +349059,7 @@
         "company_name": "Vercel",
         "id": "5367f94f-a612-439d-bcd3-7cfc8f6daf65",
         "title": "Software Engineer - CDN Content",
-        "active": true,
+        "active": false,
         "date_updated": 1784820391,
         "date_posted": 1783463654,
         "url": "https://job-boards.greenhouse.io/vercel/jobs/6105394004",
@@ -349552,6 +349552,655 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cennox",
+        "id": "214fac6b-81bb-4228-9e0e-db820ddf48f3",
+        "title": "Bank Equipment Technician",
+        "active": true,
+        "date_updated": 1784846702,
+        "date_posted": 1784845310,
+        "url": "https://cennox.applytojob.com/apply/cwouSjaltD/Bank-Equipment-Technician",
+        "locations": [
+            "Rapid City, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/9803a770-c1f9-428b-810f-927c2e692f3f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bridger",
+        "id": "e2dbbfb0-5164-4098-99ba-6fc554978c24",
+        "title": "Early Career Product Engineer",
+        "active": true,
+        "date_updated": 1784846702,
+        "date_posted": 1784845363,
+        "url": "https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/c3939657-7662-4446-8f09-44707fee4020",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "b58aed3a-c2f5-4853-ad63-e9ed97cfdd74",
+        "title": "Systems Engineer",
+        "active": true,
+        "date_updated": 1784847402,
+        "date_posted": 1784764800,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/Engineer-Principal-Engineer-Systems_R10241911",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "07dbddbf-b521-4f3b-9483-e64d7d73f91f",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1784847371,
+        "date_posted": 1784764800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01861526",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "a0fbd352-1b5a-45de-958a-2a48f80d9b87",
+        "title": "Lab Operations Engineer - Entry Level - Associate Level",
+        "active": true,
+        "date_updated": 1784846702,
+        "date_posted": 1784764800,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Lab-Operations-Engineer--Electrical-Electronic-Testing--Entry-Level-or-Associate-or-Experienced_JR2026518383-1",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TD Bank",
+        "id": "88991ebe-50a5-4065-8905-4186af747615",
+        "title": "Software Engineer Associate",
+        "active": true,
+        "date_updated": 1784847195,
+        "date_posted": 1784764800,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1495599",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vanguard",
+        "id": "e7563970-e9fe-4113-a13b-d286b6149540",
+        "title": "Entry Level Application Engineer",
+        "active": true,
+        "date_updated": 1784846702,
+        "date_posted": 1784764800,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Entry-Level-Application-Engineer---2027-Start-Date---Malvern_180413",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Duke Energy",
+        "id": "e5199e35-c506-4a76-883f-64e0cc757660",
+        "title": "Natural Gas GIS Analyst 1 or 2",
+        "active": true,
+        "date_updated": 1784847157,
+        "date_posted": 1784764800,
+        "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Natural-Gas-GIS-Analyst-I-or-II_R40652",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Duke-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SailPoint",
+        "id": "b96782c6-ff49-4777-867a-5eb73643c37e",
+        "title": "Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1784846702,
+        "date_posted": 1784764800,
+        "url": "https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Headquarters-Austin-Texas-USA/Business-Intelligence-Analyst_R013800",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SailPoint",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "e3815529-57c7-41bb-8d69-cad889c3b01e",
+        "title": "AI and ML Infra Software Engineer New Grad - GPU Clusters",
+        "active": true,
+        "date_updated": 1784847066,
+        "date_posted": 1784764800,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591",
+        "locations": [
+            "Redmond, WA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Home Solutions",
+        "id": "a4aca9ca-8ec6-4a92-b3a6-e0c31d3b86ab",
+        "title": "Senior Associate Growth Products",
+        "active": true,
+        "date_updated": 1784847107,
+        "date_posted": 1784844920,
+        "url": "https://job-boards.greenhouse.io/homesolutions/jobs/4718047005",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Home-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "a455da9d-eaec-41c8-9de6-819c1f5bac60",
+        "title": "Software Engineer New Grad - Physical Design Infrastructure",
+        "active": true,
+        "date_updated": 1784847115,
+        "date_posted": 1784764800,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Physical-Design-Infrastructure---New-College-Grad-2026_JR2021823",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WSP",
+        "id": "c2567c1b-f496-475c-89ca-09b9817084df",
+        "title": "Early Professional - Geochemistry",
+        "active": true,
+        "date_updated": 1784846702,
+        "date_posted": 1784844738,
+        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91284",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Mississauga, ON, Canada",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/WSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Systems, Inc.",
+        "id": "baa6a8ff-d13c-457a-97fd-48484c7d24db",
+        "title": "Associate AI Automation Engineer/AI Automation Engineer",
+        "active": true,
+        "date_updated": 1784846702,
+        "date_posted": 1784844702,
+        "url": "https://careers-appliedsystems.icims.com/jobs/7719/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Systems-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citi",
+        "id": "e4bf962c-7909-44e9-87df-e094623b1d07",
+        "title": "Applications Development Intermediate Programmer Analyst",
+        "active": true,
+        "date_updated": 1784846800,
+        "date_posted": 1784764800,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Apps-Dev-Intmd-Programmer-Analyst_26980088",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citi",
+        "id": "88daf4b9-edae-47b1-a817-45fafebd36ee",
+        "title": "Applications Development Intermediate Programmer Analyst",
+        "active": true,
+        "date_updated": 1784846779,
+        "date_posted": 1784764800,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Apps-Dev-Intmd-Programmer-Analyst_26980086",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Agiliti",
+        "id": "2b6a2845-0693-463e-8aa9-f078e2dc5947",
+        "title": "Laser Service Engineer 1",
+        "active": true,
+        "date_updated": 1784846793,
+        "date_posted": 1784764800,
+        "url": "https://agiliti.wd5.myworkdayjobs.com/careers/job/Knoxville---District-site/Laser-Service-Engineer_JR43542",
+        "locations": [
+            "Knoxville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Agiliti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Verizon Communications",
+        "id": "e6cfe600-230b-48b7-ba94-ac7e34e8e0cd",
+        "title": "Engineer 1 - Systems Engineering",
+        "active": true,
+        "date_updated": 1784846776,
+        "date_posted": 1784764800,
+        "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I---Systems-Engineering_R-1097946",
+        "locations": [
+            "E Fowler Ave, Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Verizon-Communications",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "0985ca3e-a5e6-4c0a-9fd2-7037eaa6267c",
+        "title": "Entry Level Systems Engineer",
+        "active": true,
+        "date_updated": 1784846756,
+        "date_posted": 1784844642,
+        "url": "https://careers-gdms.icims.com/jobs/73740/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Qorvo",
+        "id": "51e84b4f-a97c-4924-bd58-0ad88090781e",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1784845981,
+        "date_posted": 1784844633,
+        "url": "https://careers.qorvo.com/job/Richardson-Data-Engineer-TX-75081/1411989400/?ats=successfactors",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Qorvo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "1457cc3d-f998-4c6c-9be8-17240dffe414",
+        "title": "Manufacturing Technician A",
+        "active": true,
+        "date_updated": 1784846704,
+        "date_posted": 1784844260,
+        "url": "https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-A-NY-14623/1412004200/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WGU",
+        "id": "a2f1914e-0d8a-4ad1-9ec9-b41b6f58e680",
+        "title": "Salesforce Engineer 1",
+        "active": true,
+        "date_updated": 1784846418,
+        "date_posted": 1784844548,
+        "url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Salesforce-Engineer-I_JR-025457",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LMI ",
+        "id": "fd37505f-6f1d-4b69-90c3-96afb595c774",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1784845081,
+        "date_posted": 1784844761,
+        "url": "https://careers-lmi.icims.com/jobs/14313/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/LMI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moog ",
+        "id": "8d1bf677-1f11-44e1-af9b-1634206d1f41",
+        "title": "Assembly & Test Technician 1",
+        "active": true,
+        "date_updated": 1784846213,
+        "date_posted": 1784764800,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/A-T-Technician-I_R-26-19036",
+        "locations": [
+            "Boston, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WSP",
+        "id": "af0b9cf1-98a1-464d-889f-528ee8eb0125",
+        "title": "Geophysics Technician - Field Services",
+        "active": true,
+        "date_updated": 1784845081,
+        "date_posted": 1784844735,
+        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91611",
+        "locations": [
+            "Portland, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/WSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moog ",
+        "id": "80dd0ad1-15db-42bd-b141-5e8c2425ad2d",
+        "title": "Assembly & Test Technician 1",
+        "active": true,
+        "date_updated": 1784846133,
+        "date_posted": 1784764800,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/A-T-Technician-I_R-26-19034",
+        "locations": [
+            "Boston, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Steampunk",
+        "id": "bbeebdd8-3616-4469-a88c-e505fd4a31c0",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1784845081,
+        "date_posted": 1784844713,
+        "url": "https://careers-steampunk.icims.com/jobs/7942/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Steampunk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "a7732c33-2d6f-45db-940c-5033f542bc73",
+        "title": "Product Associate - Payments",
+        "active": true,
+        "date_updated": 1784845081,
+        "date_posted": 1784844603,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770062",
+        "locations": [
+            "Plano, TX",
+            "Chicago, IL",
+            "NYC",
+            "Brooklyn, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CLEAResult",
+        "id": "3e53c089-1bcd-4be9-910f-228387e69550",
+        "title": "Energy Analyst 1",
+        "active": true,
+        "date_updated": 1784845901,
+        "date_posted": 1784764800,
+        "url": "https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Toronto-ON---University-Avenue/Energy-Analyst-I_R0017868",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CLEAResult",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JP Morgan Chase",
+        "id": "87afd5e6-c90a-42d0-a2f7-3d5ac0176d87",
+        "title": "Java Backend Software Engineer 2 - Artificial Intelligence",
+        "active": true,
+        "date_updated": 1784845829,
+        "date_posted": 1784844601,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758513",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JP Morgan Chase",
+        "id": "79abbe3b-fe7e-4da2-8bbd-0e44fce94ea7",
+        "title": "Applied AI Engineer - Markets Operations - Associate",
+        "active": true,
+        "date_updated": 1784845081,
+        "date_posted": 1784844591,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723353",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northwell Health",
+        "id": "6c1fb526-53c3-4b84-b3b9-f057092282c6",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1784845081,
+        "date_posted": 1784844589,
+        "url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/192698",
+        "locations": [
+            "Manhasset, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwell-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
