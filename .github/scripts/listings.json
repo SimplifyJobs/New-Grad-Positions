@@ -22428,7 +22428,7 @@
         "company_name": "CaseGuard",
         "id": "13540a7a-3ab0-4bde-ae75-edcab7f4406f",
         "title": "Data Annotation Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1765842117,
         "date_posted": 1765842117,
         "url": "https://job-boards.greenhouse.io/caseguard/jobs/5037116008",
@@ -134486,7 +134486,7 @@
         "company_name": "IDEXX",
         "id": "f6bd529c-7b90-41cd-9373-dd7c662bd89a",
         "title": "Data Onboarding Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1772680108,
         "date_posted": 1772680108,
         "url": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/London-United-Kingdom/Data-Onboarding-Tech_J-051257",
@@ -162632,7 +162632,7 @@
         "company_name": "Leidos",
         "id": "8741a52e-0aaf-43bb-949a-85b23902a433",
         "title": "Software Engineer TS/SCI Poly",
-        "active": true,
+        "active": false,
         "date_updated": 1774318559,
         "date_posted": 1774318559,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Engineer-TS-SCI-Poly_R-00179080",
@@ -214908,7 +214908,7 @@
         "company_name": "University of Texas at Austin",
         "id": "e7b8ba38-13c5-4926-9962-f314ca280f9d",
         "title": "Postdoctoral Scholar",
-        "active": true,
+        "active": false,
         "date_updated": 1776939144,
         "date_posted": 1776521500,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Scholar--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00018034",
@@ -333419,7 +333419,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "9e07fe1f-6795-4be0-83a7-ed61fd938ce2",
         "title": "Therapist \u2013 Intensive Outpatient Program",
-        "active": true,
+        "active": false,
         "date_updated": 1784382990,
         "date_posted": 1784246400,
         "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Wausau-Clinic/Therapist---PHP-IOP---PRN_R7834",
@@ -342157,7 +342157,7 @@
         "company_name": "University of Rochester",
         "id": "fa126103-d28c-4be7-8ac5-2116c033dc1a",
         "title": "EHR Applications Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784675502,
         "date_posted": 1783462281,
         "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/30-Corporate-Woods/EHR-Applications-Analyst-I_R272724",
@@ -344512,7 +344512,7 @@
         "company_name": "HCSC",
         "id": "ae7ac1d8-d114-4fd2-8588-3298ee46931a",
         "title": "Mainframe Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1784718370,
         "date_posted": 1784505600,
         "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Developer---Mainframe_R0054977",
@@ -348646,7 +348646,7 @@
         "company_name": "Ameriprise Financial",
         "id": "f768db22-fdd3-4678-84ea-0ffacf840cf7",
         "title": "Assistant Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1784813221,
         "date_posted": 1784764800,
         "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/London-United-Kingdom/Assistant-Product-Manager_R26_2812-1",
@@ -348787,6 +348787,47 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Walmart",
+        "id": "f02f7eae-85d4-41ce-ab83-d813e6ba7b9e",
+        "title": "Senior Data Analytics Manager - Data Analytics",
+        "active": true,
+        "date_updated": 1784817240,
+        "date_posted": 1784678400,
+        "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--Senior-Manager--Data-Analytics_R-2573105-1",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thomson Reuters",
+        "id": "b859a4fd-b8c5-460f-925e-d94e48b75089",
+        "title": "Senior Software Engineer - Agentic AI",
+        "active": true,
+        "date_updated": 1784817900,
+        "date_posted": 1783163408,
+        "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Senior-Software-Engineer--AI_JREQ194264-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Thomson-Reuters",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
