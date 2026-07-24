@@ -2,100 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "McDonald's",
-        "id": "d6998d1c-a926-4c9b-9f3d-906be1234078",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1764123714,
-        "date_posted": 1764123714,
-        "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1345564800/?ats=successfactors",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/McDonald",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "dcc4f525-cc7d-42ee-8809-3dd994874b16",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1764122592,
-        "date_posted": 1764122592,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/a53c897a-9549-450b-8315-a24e4a26fffe/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "887cd798-4436-4b56-bbc4-395918ecce25",
-        "title": "Software Engineer - Entry",
-        "active": false,
-        "date_updated": 1764122590,
-        "date_posted": 1764122590,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/25eb3f23-704e-4fe9-a598-3381ef7a8c7c/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Squarepoint Capital",
-        "id": "743c34f9-a9e9-439a-be1a-404769bb6010",
-        "title": "Junior Discretionary Trader",
-        "active": false,
-        "date_updated": 1764122661,
-        "date_posted": 1764122661,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=3851879",
-        "locations": [
-            "London, UK",
-            "Houston, TX",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "58641a88-4af9-49ce-9099-cd121bcce6de",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1764122593,
-        "date_posted": 1764122593,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/d0cb1d98-64f9-4eec-abf7-e706f020770d/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Bank of Montreal",
         "id": "f7fdacaa-d9df-41f5-8c19-f5173df160bb",
         "title": "Software Engineer",
@@ -197,25 +103,6 @@
             "Aldershot, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Bio-Techne",
-        "id": "83f5e48a-8b01-4ea2-8726-82158d7ba931",
-        "title": "Associate Web Developer",
-        "active": false,
-        "date_updated": 1764123944,
-        "date_posted": 1764123944,
-        "url": "https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Denver-CO/Associate-Web-Developer_JR101338",
-        "locations": [
-            "Minneapolis, MN",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Bio-Techne",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -405,24 +292,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cars Commerce",
-        "id": "b638859b-858e-4734-ad70-6fd5a6ca9008",
-        "title": "Software Engineer - Frontend",
-        "active": false,
-        "date_updated": 1764123813,
-        "date_posted": 1764123813,
-        "url": "https://cars.wd12.myworkdayjobs.com/en-US/cars/job/United-States-Remote/Software-Engineer_JR10748",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cars-Commerce",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "aabb5d17-c5e4-49a0-b94f-7ee592fcf49c",
@@ -567,24 +436,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bank of America",
-        "id": "2828c8a3-2bb0-45fd-afc0-721f4b22af4e",
-        "title": "Data Technology Analyst - Year Up",
-        "active": false,
-        "date_updated": 1764123808,
-        "date_posted": 1764123808,
-        "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Jersey-City/Data-Technology-Analyst---Year-Up_25046810",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Sainsbury's",
         "id": "24e83456-8722-44f3-8fb7-505e7521b637",
@@ -652,25 +503,6 @@
             "Liverpool, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Morgan Stanley",
-        "id": "98a01e7f-8267-4ec4-a065-e72cee3cf741",
-        "title": "IED Quantitative Trading Assistant - Analyst/Associate",
-        "active": false,
-        "date_updated": 1764123842,
-        "date_posted": 1764123842,
-        "url": "https://ms.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-Utah-United-States-of-America/IED---Quantitative-Trading-Assistant---Analyst-Associate_JR025328-1",
-        "locations": [
-            "Salt Lake City, UT",
-            "South Jordan, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -5546,24 +5378,6 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RAPP",
-        "id": "1186a4db-1c88-4a79-b9aa-8d931c778a4d",
-        "title": "Data Analyst - Fixed Term Contract",
-        "active": false,
-        "date_updated": 1764583934,
-        "date_posted": 1764124088,
-        "url": "https://job-boards.greenhouse.io/rapp/jobs/7423477",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/RAPP",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -32758,24 +32572,6 @@
             "Concord, NH"
         ],
         "company_url": "https://simplify.jobs/c/Freudenberg-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fortive",
-        "id": "f3cef07d-66de-440d-bed3-6ad2e508a07d",
-        "title": "Operations Analyst",
-        "active": false,
-        "date_updated": 1764123480,
-        "date_posted": 1764123480,
-        "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8330",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Fortive",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -61869,25 +61665,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Morgan Stanley",
-        "id": "95cbe458-a7fd-408b-8b27-d51548b5b1ed",
-        "title": "Ied \u2013 Quantitative Trading Assistant - Analyst/Associate",
-        "active": false,
-        "date_updated": 1766100182,
-        "date_posted": 1764123842,
-        "url": "https://ms.wd5.myworkdayjobs.com/private/job/Salt-Lake-City-Utah-United-States-of-America/IED---Quantitative-Trading-Assistant---Analyst-Associate_JR025328",
-        "locations": [
-            "Salt Lake City, UT",
-            "South Jordan, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
