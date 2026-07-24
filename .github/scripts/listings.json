@@ -1,79 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Arjo",
-        "id": "265f643a-f0b6-44c6-af2b-c87e34590064",
-        "title": "Field Service Engineer - North London - Essex",
-        "active": false,
-        "date_updated": 1764199473,
-        "date_posted": 1764199473,
-        "url": "https://jobs.arjo.com/job/South-Region-UK,-Field-based-(-Field-Service-Engineer-North-London,Essex,-Kent-Lond/1271038501/?ats=successfactors",
-        "locations": [
-            "Thurrock, UK",
-            "Beckton, London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Arjo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TrueBuilt",
-        "id": "9ad854c0-7347-451e-b25a-ee95be9e627f",
-        "title": "Founding Engineer",
-        "active": true,
-        "date_updated": 1764198767,
-        "date_posted": 1764198767,
-        "url": "https://job-boards.greenhouse.io/applytotruebuilt/jobs/4588866004",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/TrueBuilt",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "US Conec",
-        "id": "81b4a7a7-9d51-4df8-b6bd-9ce67704d507",
-        "title": "Product Development Technician",
-        "active": false,
-        "date_updated": 1764198928,
-        "date_posted": 1764198928,
-        "url": "https://job-boards.greenhouse.io/usconec/jobs/4037792009",
-        "locations": [
-            "Hickory, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Conec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uare.ai",
-        "id": "b013d54d-e343-4859-badb-79f7e0e59c09",
-        "title": "Software Engineer \u2013 Early Career",
-        "active": true,
-        "date_updated": 1764198602,
-        "date_posted": 1764198602,
-        "url": "https://job-boards.greenhouse.io/uareai/jobs/4036519009",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Uareai",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Ford Motor Company",
         "id": "81683e22-89ba-4aa3-bd3c-535d191e9c43",
@@ -122,24 +49,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Datadog",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Stratolaunch",
-        "id": "38df0e8a-0a99-43ab-93b9-ad5e58b0e441",
-        "title": "Environmental Test Engineering Technician",
-        "active": false,
-        "date_updated": 1764198727,
-        "date_posted": 1764198727,
-        "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/4771185008",
-        "locations": [
-            "Mojave, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Stratolaunch",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -20468,24 +20377,6 @@
             "Princeton, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Amazing-Lash-Studios",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WPP Media",
-        "id": "15a02fb8-0081-4957-90d1-9c7e39881b5e",
-        "title": "Data Scientist \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1765881243,
-        "date_posted": 1764199610,
-        "url": "https://job-boards.greenhouse.io/wppmedia/jobs/4992067008",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/WPP-Media",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -217972,7 +217863,7 @@
         "company_name": "Twitch",
         "id": "150760be-94ba-4811-8967-65c696778efc",
         "title": "Software Development Engineer - Discovery",
-        "active": true,
+        "active": false,
         "date_updated": 1777501262,
         "date_posted": 1777501083,
         "url": "https://job-boards.greenhouse.io/twitch/jobs/8527544002",
@@ -301317,7 +301208,7 @@
         "company_name": "Censys",
         "id": "14f15f8c-4d06-416b-ae40-d498a8e4b07c",
         "title": "Software Engineer - Backend - Core Services",
-        "active": true,
+        "active": false,
         "date_updated": 1782772562,
         "date_posted": 1778249170,
         "url": "https://job-boards.greenhouse.io/censys/jobs/8500307002",
