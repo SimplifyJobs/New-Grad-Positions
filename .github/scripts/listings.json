@@ -155600,7 +155600,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -155620,7 +155620,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -200976,7 +200976,7 @@
         "company_name": "GlobalFoundries",
         "id": "7c7c7353-5820-41bb-a47b-a57e9fd1f739",
         "title": "AI Enablement Strategist",
-        "active": true,
+        "active": false,
         "date_updated": 1776377408,
         "date_posted": 1776377082,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-Enablement-Strategist--New-College-Graduate-_JR-2600365",
@@ -242861,7 +242861,7 @@
         "company_name": "Goldman Sachs",
         "id": "ad57e8fa-d0bd-4c63-9809-6141b7dda000",
         "title": "Asset & Wealth Management Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779343943,
         "date_posted": 1779343723,
         "url": "https://higher.gs.com/roles/168978",
@@ -260977,7 +260977,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -261457,7 +261457,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -270979,7 +270979,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -274395,7 +274395,7 @@
         "company_name": "American Express",
         "id": "80020c68-a6f6-4f9e-ace2-ff2bf5d7c282",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781082823,
         "date_posted": 1781082292,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009082",
@@ -276320,7 +276320,7 @@
         "company_name": "Goldman Sachs",
         "id": "f99b0f28-4c34-4e85-8a26-27c6ea7b386a",
         "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781168798,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/162274",
@@ -287328,7 +287328,7 @@
         "company_name": "Goldman Sachs",
         "id": "77482a4b-c4db-430c-9e57-1a5071d06e6b",
         "title": "Global Banking & Markets - Loan Management - SF Trade Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1781735941,
         "date_posted": 1781734087,
         "url": "https://higher.gs.com/roles/176868",
@@ -296139,7 +296139,7 @@
         "company_name": "Guidewire",
         "id": "446847d3-29b2-4c3c-b983-f4e2203fc1ec",
         "title": "Associate Certification Program Systems Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1782868406,
         "date_posted": 1782770934,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946",
@@ -300835,7 +300835,7 @@
         "company_name": "Goldman Sachs",
         "id": "3ac699af-5c50-4a7c-81af-6dfb56f595db",
         "title": "Asset& Wealth Management-Software Engineering-Associate-New York",
-        "active": false,
+        "active": true,
         "date_updated": 1782742321,
         "date_posted": 1782742023,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/168978",
@@ -307965,7 +307965,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b258ed4-b417-42be-a561-334564c2635f",
         "title": "Transaction Banking Associate - Liquidity Solutions Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1783041041,
         "date_posted": 1781129390,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/175378",
@@ -313870,7 +313870,7 @@
         "company_name": "Goldman Sachs",
         "id": "6a36b7f9-3aea-44d6-b6a2-b8ba794476ea",
         "title": "Asset & Wealth Management - Product Management - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1783472761,
         "date_posted": 1781791629,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/173819",
@@ -318720,7 +318720,7 @@
         "company_name": "Goldman Sachs",
         "id": "9f62800f-29c9-4903-ae21-b3abdaa8c9f4",
         "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
-        "active": false,
+        "active": true,
         "date_updated": 1783664461,
         "date_posted": 1771381096,
         "url": "https://higher.gs.com/roles/162274",
@@ -327214,7 +327214,7 @@
         "company_name": "Clearway Energy",
         "id": "2a591e73-9bc0-4b50-8194-d6b5110c86f4",
         "title": "Operations Specialist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1784166167,
         "date_posted": 1782829636,
         "url": "https://job-boards.greenhouse.io/clearwayjobs/jobs/4945625007",
@@ -327488,7 +327488,7 @@
         "company_name": "Lloyds Bank",
         "id": "9a1df9b1-4746-4546-90e8-fd2410ece224",
         "title": "Data Analyst - Risk Data Excellence",
-        "active": true,
+        "active": false,
         "date_updated": 1784201942,
         "date_posted": 1784160000,
         "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Birmingham/Data-Analyst---Risk-Data-Excellence_158348",
@@ -340020,7 +340020,7 @@
         "company_name": "Group 1 Automotive",
         "id": "85d31e6a-319f-48fb-9257-4d401c4f3ad5",
         "title": "Applications Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784677723,
         "date_posted": 1784671459,
         "url": "https://careers-group1auto.icims.com/jobs/36615/job?mobile=true&needsRedirect=false",
@@ -346347,7 +346347,7 @@
         "company_name": "Ameriprise Financial",
         "id": "f768db22-fdd3-4678-84ea-0ffacf840cf7",
         "title": "Assistant Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1784813221,
         "date_posted": 1784764800,
         "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/London-United-Kingdom/Assistant-Product-Manager_R26_2812-1",
@@ -346794,7 +346794,7 @@
         "company_name": "Goldman Sachs",
         "id": "99e46a07-02c6-4ca9-aa86-628729f79425",
         "title": "Foundation Engineering Product Management Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1784820176,
         "date_posted": 1782914861,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176110",
@@ -347294,7 +347294,7 @@
         "company_name": "KLA Corporation",
         "id": "6759ef94-4668-4d2a-8493-92afcf8a93bf",
         "title": "Electrical Manufacturing Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784845427,
         "date_posted": 1782561679,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Electrical-Manufacturing-Design-Engineer_2636829",
@@ -349340,6 +349340,253 @@
             "Morgantown, WV"
         ],
         "company_url": "https://simplify.jobs/c/WVUMedicine",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pogo Technologies, Inc.",
+        "id": "d8f80069-7e92-4a82-9b1f-b8aaa60b695c",
+        "title": "Full Stack Engineer",
+        "active": true,
+        "date_updated": 1784903191,
+        "date_posted": 1784902911,
+        "url": "https://jobs.ashbyhq.com/joinpogo/570c8f47-ee6f-4c54-9858-33d9f2233fb6/application?embed=true",
+        "locations": [
+            "Canada",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/f58a30c3-a04b-42bb-a8b9-b55894b3d405",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Observable Space",
+        "id": "1827abb6-82cd-4735-aeff-87e0b81c8003",
+        "title": "Junior Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1784903041,
+        "date_posted": 1784902993,
+        "url": "https://jobs.ashbyhq.com/observable-space/97e8073f-a23e-4360-ba9c-a3869ad58ab1/application?embed=true",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Observable-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oxford Quantum Circuits (OQC)",
+        "id": "832938a4-3ffe-4b33-92a1-cb77b96ca582",
+        "title": "Associate Scientific Software Engineer",
+        "active": true,
+        "date_updated": 1784902861,
+        "date_posted": 1784902619,
+        "url": "https://apply.workable.com/oxford-quantum-circuits-8/j/FFA221764E/apply",
+        "locations": [
+            "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Oxford-Quantum-Circuits",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Medtronic",
+        "id": "c21ea81c-9844-46be-9e30-5d382756f674",
+        "title": "Software Engineer 1 - AI-Driven Data Solutions",
+        "active": true,
+        "date_updated": 1784903086,
+        "date_posted": 1784851200,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I--AI-Driven-Data-Solutions----Lafayette--CO_R72435",
+        "locations": [
+            "Lafayette, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "21ea7c78-a29a-4a0e-ba6d-b356f70186cc",
+        "title": "Associate Embedded Software Engineer / Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1784902861,
+        "date_posted": 1784851200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Embedded-Software-Engineer---Embedded-Software-Engineer_R10241869",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jones Lang LaSalle (JLL)",
+        "id": "ba0fbd69-5e56-4eb3-9233-5fdd64f5073f",
+        "title": "General Maintenance Operative - Mobile Engineering Services",
+        "active": true,
+        "date_updated": 1784903105,
+        "date_posted": 1784851200,
+        "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Norfolk-GBR/Specialist--Mobile-Engineering-Services_REQ524271",
+        "locations": [
+            "Easton, Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Fifth Third Bank",
+        "id": "f1b9f96c-3775-4818-8d87-9a8a3b322a86",
+        "title": "Fixed Income Trading Analyst",
+        "active": true,
+        "date_updated": 1784902501,
+        "date_posted": 1784851200,
+        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/New-York-NY/Fixed-Income-Trading-Analyst_R71008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Globus Medical",
+        "id": "9a644312-fb19-4369-828b-fac129503c2f",
+        "title": "Product Manager Associate",
+        "active": true,
+        "date_updated": 1784902888,
+        "date_posted": 1784851200,
+        "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Product-Manager_JR107337",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Globus-Medical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FirstEnergy",
+        "id": "125e89e8-a75c-41d0-81bc-174497ab9a4a",
+        "title": "Application Configuration Analyst - Work Management & GIS",
+        "active": true,
+        "date_updated": 1784902322,
+        "date_posted": 1784902270,
+        "url": "https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/FirstEnergyCareers/job/104807",
+        "locations": [
+            "Akron, OH",
+            "Greensburg, PA",
+            "Reading, PA",
+            "Fairmont, WV"
+        ],
+        "company_url": "https://simplify.jobs/c/FirstEnergy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Apple",
+        "id": "d18bc1a4-16e1-4dad-9fb3-8dcae83337fe",
+        "title": "GPU ML Engineer",
+        "active": true,
+        "date_updated": 1784902322,
+        "date_posted": 1784902270,
+        "url": "https://jobs.apple.com/en-us/details/200672759",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Norfolk Southern",
+        "id": "4215d93b-b97c-43ac-8dd7-90720683ca4a",
+        "title": "2026 Communications Electronic Technician - Greensboro - NC - 1",
+        "active": true,
+        "date_updated": 1784902141,
+        "date_posted": 1783692463,
+        "url": "https://jobs.nscorp.com/job/Greensboro-2026-Communications-Electronic-Technician-(Greensboro,-NC)-1-NC-27407/1400877900/?ats=successfactors",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Norfolk-Southern",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Liberty Mutual",
+        "id": "379a7170-b11b-4d6f-8a29-66362a700538",
+        "title": "Product Owner",
+        "active": true,
+        "date_updated": 1784901962,
+        "date_posted": 1784901788,
+        "url": "https://careers-libertymutual.icims.com/jobs/76912/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Boston, MA",
+            "Indianapolis, IN",
+            "Remote in USA",
+            "Portsmouth, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Liberty-Mutual",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
