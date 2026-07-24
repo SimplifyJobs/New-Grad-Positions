@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Caterpillar Inc.",
-        "id": "5ea3d6c8-9684-45ee-87b9-fc5931c49046",
-        "title": "Digital Data Analyst",
-        "active": false,
-        "date_updated": 1764122089,
-        "date_posted": 1764122089,
-        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Digital-Data-Analyst_R0000335361",
-        "locations": [
-            "Peoria, IL",
-            "Chicago, IL",
-            "Westminster, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citizen Health",
-        "id": "3bd23cb4-ffa2-48a8-a083-c167673f30e8",
-        "title": "Early Career Software Engineer",
-        "active": false,
-        "date_updated": 1764120857,
-        "date_posted": 1764120857,
-        "url": "https://jobs.ashbyhq.com/Citizen%20Health/43674d9c-52f7-447f-ac48-d202c7269611/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Citizen-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "McDonald's",
         "id": "d6998d1c-a926-4c9b-9f3d-906be1234078",
@@ -130,42 +92,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "AVEVA",
-        "id": "d52916d8-f404-408b-b88e-b12e71b2935d",
-        "title": "Product Manager Graduate - Portfolio",
-        "active": false,
-        "date_updated": 1764122407,
-        "date_posted": 1764122407,
-        "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Cambridge-United-Kingdom/Product-Manager-Graduate---Portfolio_R012850-1",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/AVEVA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CoreWeave",
-        "id": "78d2253b-2df5-48c1-b1fe-5ccac8ae88ff",
-        "title": "Data Center Technician - Muskogee",
-        "active": false,
-        "date_updated": 1764122376,
-        "date_posted": 1764122376,
-        "url": "https://coreweave.com/careers/job?4621173006&board=coreweave&gh_jid=4621173006",
-        "locations": [
-            "Muskogee, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/CoreWeave",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -219814,7 +219740,7 @@
         "company_name": "Twitch",
         "id": "150760be-94ba-4811-8967-65c696778efc",
         "title": "Software Development Engineer - Discovery",
-        "active": false,
+        "active": true,
         "date_updated": 1777501262,
         "date_posted": 1777501083,
         "url": "https://job-boards.greenhouse.io/twitch/jobs/8527544002",
@@ -350193,6 +350119,64 @@
             "Menlo Park, CA"
         ],
         "company_url": "https://simplify.jobs/c/Workstream",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Silvus Technologies",
+        "id": "8eab18bf-2613-4c84-a501-126d8438e0ca",
+        "title": "Electronics Technician - Entry-Level",
+        "active": true,
+        "date_updated": 1784857575,
+        "date_posted": 1784857206,
+        "url": "https://job-boards.greenhouse.io/silvus/jobs/4919020008",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Silvus-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "The Trade Desk",
+        "id": "f9077939-94c6-4cfc-a2f4-67a3d65d9a4d",
+        "title": "Trading Specialist",
+        "active": true,
+        "date_updated": 1784857141,
+        "date_posted": 1784856742,
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5190817007",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Scale AI",
+        "id": "68a68b65-1d47-4a36-84d0-71b34ff78559",
+        "title": "AI Product Manager - Coding/Multimodal",
+        "active": true,
+        "date_updated": 1784856781,
+        "date_posted": 1784240963,
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4609736005",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Scale-AI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
