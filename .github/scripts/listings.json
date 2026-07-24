@@ -1,187 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "c0154f33-6f2c-4c37-b42a-7f373b6f413f",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764156218,
-        "date_posted": 1764156218,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040158",
-        "locations": [
-            "Portsmouth, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "873c0baf-a9e7-40a8-ab28-beabca537286",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764156202,
-        "date_posted": 1764156202,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035647",
-        "locations": [
-            "Feltham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "6c3c5db3-3d30-425b-b12a-26c9ce9d0dd8",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1764156207,
-        "date_posted": 1764156207,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039960",
-        "locations": [
-            "Dorchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "40f5f3cc-8a15-4d60-9748-c8e27041fd0d",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1764156207,
-        "date_posted": 1764156207,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040061",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2e9d5095-5068-4ef0-bd3a-afa353bfa0e1",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764156200,
-        "date_posted": 1764156200,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040164",
-        "locations": [
-            "Wellington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "15e21a54-5183-496b-97b6-0027474cc1f9",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764156233,
-        "date_posted": 1764156233,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039829",
-        "locations": [
-            "Harrogate, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "e4a7fa0f-109b-41aa-b0a9-5765f6e5cc2e",
-        "title": "Systems Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1764155043,
-        "date_posted": 1764155043,
-        "url": "https://careers-gdms.icims.com/jobs/68794/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Auto-Owners Insurance",
-        "id": "8c4720ae-5554-4048-993d-3d7fabab889c",
-        "title": "Business Intelligence Engineer",
-        "active": false,
-        "date_updated": 1764154900,
-        "date_posted": 1764154900,
-        "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineer_R_12122-1",
-        "locations": [
-            "East Lansing, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Auto-Owners-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "89974dd3-a1c2-40fc-86d6-5dad3c14bdc3",
-        "title": "Software Systems Engineer",
-        "active": false,
-        "date_updated": 1764156556,
-        "date_posted": 1764156556,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Systems-Engineer_R-00171075",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qualcomm",
-        "id": "219510e4-d1e4-436c-a04c-ffc121fb19ab",
-        "title": "Systems Integration and Test - Systems Integration and Test - Systems Test Engineering",
-        "active": false,
-        "date_updated": 1764156504,
-        "date_posted": 1764156504,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446715507241",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1764748533,
         "sponsorship": "Other",
         "active": false,
@@ -163150,7 +162968,7 @@
         "company_name": "University of Arkansas",
         "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
         "title": "Cosmos Graduate Research Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773813920,
         "date_posted": 1773813920,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2",
@@ -192671,7 +192489,7 @@
         "company_name": "CAE",
         "id": "b3302ee4-ed5d-4bb3-b09b-6a7e70607a9a",
         "title": "Flight Simulator Technician / Electronics Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1775902129,
         "date_posted": 1775900895,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Flight-Simulator-Technician-II-Electronics-Technician_115800",
@@ -259756,7 +259574,7 @@
         "company_name": "ASML",
         "id": "be8d8d2a-8f30-431f-9d6b-5b5198153ad7",
         "title": "Optical Fabrication Technician - CNC",
-        "active": false,
+        "active": true,
         "date_updated": 1780306989,
         "date_posted": 1780134707,
         "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technician--CNC--CWW-Back-End-Days_J-00338895-1",
@@ -282462,7 +282280,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "aca2cbca-71c0-435f-83b5-d07623be4c1a",
         "title": "ARLIS Artificial Intelligence Research Professional",
-        "active": false,
+        "active": true,
         "date_updated": 1781430742,
         "date_posted": 1781360162,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/ARLIS-Artificial-Intelligence-Research-Professional_JR101775",
@@ -301217,7 +301035,7 @@
         "company_name": "Kraken Robotics",
         "id": "f1991f99-aaa9-4acd-a513-721aa3623a46",
         "title": "Calibration Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1782812800,
         "date_posted": 1782338930,
         "url": "https://ats.rippling.com/kraken-robotics-inc/jobs/306b015a-6c3c-4205-b6df-6a9c7ce7b9a8",
@@ -315961,7 +315779,7 @@
         "company_name": "Intel",
         "id": "c4f75451-6395-4886-9ba6-1734cf0089b3",
         "title": "Package Failure Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783550552,
         "date_posted": 1783548668,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Package-Failure-Analysis-Engineer_JR0285288",
@@ -316101,7 +315919,7 @@
         "company_name": "Intel",
         "id": "ac371a61-176d-4cbb-a098-a8d32e0b88d5",
         "title": "Package Failure Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783550551,
         "date_posted": 1783548666,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Package-Failure-Analysis-Engineer_JR0285289",
@@ -327034,7 +326852,7 @@
         "company_name": "Hargreaves Lansdown",
         "id": "587c3c3f-58c0-4fa5-9764-04939de5e22c",
         "title": "Digital Insight Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784154842,
         "date_posted": 1784073600,
         "url": "https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Harbourside-1/Digital-Insight-Analyst_R9198-2",
@@ -329601,7 +329419,7 @@
         "company_name": "Hello Fresh",
         "id": "f37df277-dfe2-4693-a158-a49783bc4b51",
         "title": "Warehouse Management System Analyst - Global Warehouse Technology",
-        "active": false,
+        "active": true,
         "date_updated": 1784283886,
         "date_posted": 1784020507,
         "url": "https://careers.hellofresh.com/global/en/job/8049084",
@@ -333981,7 +333799,7 @@
         "company_name": "Supper",
         "id": "de79e0dc-5609-42ef-8312-c5808709ec5f",
         "title": "Forward Deployed Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784598827,
         "date_posted": 1784596656,
         "url": "https://ats.rippling.com/supper/jobs/efb530ae-91fc-4593-9b67-b0cbe9a314b9",
@@ -334560,7 +334378,7 @@
         "company_name": "Peakhealth AI Inc",
         "id": "f863b27b-8e81-4649-88fb-276417087564",
         "title": "AI Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1784598139,
         "date_posted": 1784596605,
         "url": "https://ats.rippling.com/peakhealth-ai/jobs/65f2319e-f462-4358-9ff5-6b4e56041b90",
@@ -338596,7 +338414,7 @@
         "company_name": "Order.co",
         "id": "da12b20d-34fe-4703-9626-d5d4b50c664b",
         "title": "Product Information Management Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1784655861,
         "date_posted": 1784596663,
         "url": "https://ats.rippling.com/orderco/jobs/6e06a4b6-c727-4007-bdae-e3735aad6e61",
@@ -346390,7 +346208,7 @@
         "company_name": "PNC Financial Services",
         "id": "43ca5d0b-0cd2-46ca-9b5a-55d7590fcaaa",
         "title": "Software Engineer - Java/OpenShift/Kubernetes",
-        "active": true,
+        "active": false,
         "date_updated": 1784813016,
         "date_posted": 1784326033,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer--JAVA--Openshift-Kubernetes-_R219224-1",
@@ -346409,7 +346227,7 @@
         "company_name": "Bose",
         "id": "86e931fd-0f9e-41ef-a3df-c6b61d4a438b",
         "title": "Marketing and Loyalty Product Owner",
-        "active": true,
+        "active": false,
         "date_updated": 1784813667,
         "date_posted": 1784592000,
         "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-GA---Atlanta/Salesforce-Marketing-and-Loyalty-Product-Owner_R29108",
@@ -348067,7 +347885,7 @@
         "company_name": "CLEAResult",
         "id": "3e53c089-1bcd-4be9-910f-228387e69550",
         "title": "Energy Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784845901,
         "date_posted": 1784764800,
         "url": "https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Toronto-ON---University-Avenue/Energy-Analyst-I_R0017868",
@@ -349162,5 +348980,108 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Electrosonic",
+        "id": "fe057372-d742-45ad-ba50-11737f639302",
+        "title": "AV Service Technician",
+        "active": true,
+        "date_updated": 1784891377,
+        "date_posted": 1784596629,
+        "url": "https://ats.rippling.com/electrosonic-careers/jobs/ff205794-6907-4166-b7fa-07224afff7b7",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/ede67488-f701-4587-9c87-21a513ab96ed",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ascentt",
+        "id": "d12f2ff0-0f88-454c-b37a-5deed2b941d6",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1784892572,
+        "date_posted": 1784596576,
+        "url": "https://ats.rippling.com/ascentt/jobs/73a84276-c50c-4688-891b-38f58e4a03ea",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/be540f59-829a-4588-b556-01610de982b4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Odyssey",
+        "id": "ee90ddfd-4df3-43fb-a192-330a49accc6c",
+        "title": "AI Resident",
+        "active": true,
+        "date_updated": 1784889721,
+        "date_posted": 1784326326,
+        "url": "https://jobs.ashbyhq.com/odysseyml/1af903b4-3cab-4d3b-8d8b-ce918fdf6a3d/application?embed=true",
+        "locations": [
+            "Palo Alto, CA",
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Odyssey-ML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Royal Bank of Canada",
+        "id": "5c3cff64-adff-4063-92f2-242e9159bb57",
+        "title": "Associate Director Senior Software Engineer - .Net C#",
+        "active": true,
+        "date_updated": 1784891819,
+        "date_posted": 1783376338,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/90-WESTERN-PKYBEDFORD/Associate-Director--Senior-Full-Stack-Python-C---Developer_R-0000161475-1",
+        "locations": [
+            "Nova Scotia, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Foundation ",
+        "id": "ba9bdb33-4e78-4666-ba6b-5389e5cca279",
+        "title": "Humanoid Robot Data Collection Operator",
+        "active": true,
+        "date_updated": 1784890870,
+        "date_posted": 1782339000,
+        "url": "https://ats.rippling.com/foundation-robotics/jobs/0b7d8908-e4e2-4b0f-9113-4e065f7d9882",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Foundation-Future-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
+        ]
     }
 ]
