@@ -2,100 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "The Travelers Companies",
-        "id": "b1bf524b-564b-4dfe-9836-e8bb27b72ca8",
-        "title": "Software Engineer 1 - AWS - JavaScript",
-        "active": false,
-        "date_updated": 1764114924,
-        "date_posted": 1764114924,
-        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--JavaScript--React-_R-48162",
-        "locations": [
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Travelers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SunSource",
-        "id": "faa87946-62be-4d3f-bf34-519b602289ed",
-        "title": "NC \u2013 Digital Electronic Technician",
-        "active": false,
-        "date_updated": 1764114840,
-        "date_posted": 1764114840,
-        "url": "https://jobs.lever.co/sunsrce/9fc024b9-59a4-41ce-ab84-ef4385285379/apply",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/SunSource",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "GE Healthcare",
-        "id": "961ec761-68ea-452a-8346-579a0bd02a0e",
-        "title": "Software Engineer 1 - MIM Platform",
-        "active": false,
-        "date_updated": 1764114449,
-        "date_posted": 1764114449,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineer-I---MIM-Platform_R4031385-1",
-        "locations": [
-            "Orange, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BeOne",
-        "id": "82200585-570c-44e8-a63a-ed4ebfd7ee70",
-        "title": "Data Science and Analytics 2 - Data Science & Digital Innovation",
-        "active": false,
-        "date_updated": 1764114405,
-        "date_posted": 1764114405,
-        "url": "https://beigene.wd5.myworkdayjobs.com/beigene/job/Cambridge/Data-Science-and-Analytics-II--Data-Science---Digital-Innovation_R32023",
-        "locations": [
-            "Cambridge, MA",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/BeOne",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hawk-Eye Innovations",
-        "id": "bd0a426d-3793-4122-9523-1d69e8f60c6b",
-        "title": "Student Placement: Football Systems Operator",
-        "active": false,
-        "date_updated": 1764114179,
-        "date_posted": 1764114179,
-        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/862cce30-78c5-47f4-9beb-0e8699cfbee2/application",
-        "locations": [
-            "Basingstoke, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Sinclair",
         "id": "ac660aac-d8cb-4995-91b8-4b5c2ac37350",
         "title": "Software Development Engineer - Level 1 - Direct-to-Consumer Streaming",
@@ -143,24 +49,6 @@
             "Portsmouth, UK"
         ],
         "company_url": "https://simplify.jobs/c/Unilever",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Robert Bosch Venture Capital",
-        "id": "7738a1df-75b5-414c-bce7-e4067757c255",
-        "title": "Undergraduate Placement Year 2026 - Product Management Undergraduate - Combustion Solutions",
-        "active": false,
-        "date_updated": 1764115095,
-        "date_posted": 1764115095,
-        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000095480366",
-        "locations": [
-            "Stratford-upon-Avon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Bosch",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -46109,26 +45997,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Wolverine Trading",
-        "id": "08dc8ec6-0a64-4914-a1fb-fd5706306a3c",
-        "title": "Quantitative Analyst",
-        "active": false,
-        "date_updated": 1767951768,
-        "date_posted": 1764114026,
-        "url": "https://jobs.lever.co/wolve/8d23da26-8996-4a04-a96f-3dd8b3f63078/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/wolverine-trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -325888,7 +325756,7 @@
         "company_name": "WuXi AppTec",
         "id": "50b4283a-6028-4bd6-a0b1-24be19dcb195",
         "title": "Product Manager 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784067076,
         "date_posted": 1784066729,
         "url": "https://careers-wuxiapptec.icims.com/jobs/14131/job?mobile=true&needsRedirect=false",
@@ -329115,7 +328983,7 @@
         "company_name": "NVIDIA",
         "id": "4546e2dd-8ddd-433a-94d4-bc3c684efb9e",
         "title": "Physical Design Methodology and Operations Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1784165285,
         "date_posted": 1784073600,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-Methodology-and-Operations-Engineer---New-College-Grad-2026_JR2021434",
@@ -333093,7 +332961,7 @@
         "company_name": "MultiCare Health System",
         "id": "3f232600-1023-4500-a3d7-7740abb084a3",
         "title": "Revenue Cycle Systems Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784369993,
         "date_posted": 1781745129,
         "url": "https://multicare.wd1.myworkdayjobs.com/multicare/job/Remote-USA/Revenue-Cycle-Systems-Analyst-I_JR78095",
@@ -345721,7 +345589,7 @@
         "company_name": "Woongjin",
         "id": "ea634b62-9d57-4c6d-8b6f-bbc560848a6f",
         "title": "MES Operation Engineer/ Developer Bilingual",
-        "active": true,
+        "active": false,
         "date_updated": 1784775963,
         "date_posted": 1784768940,
         "url": "https://jobs.smartrecruiters.com/WJCompany/744000139167387",
@@ -350165,7 +350033,7 @@
         "company_name": "Pure Storage",
         "id": "5f6c680f-ae7d-45bb-852d-8546076ef556",
         "title": "PCIe Hardware Engineer - Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1784847882,
         "date_posted": 1784845130,
         "url": "https://job-boards.greenhouse.io/purestorage/jobs/7985259",
