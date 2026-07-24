@@ -1,63 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "9bbc6321-d352-48c5-a8d7-1fdffa6d3c71",
-        "title": "Systems Engineer",
-        "active": false,
-        "date_updated": 1764119672,
-        "date_posted": 1764119672,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Systems-Engineer-Level-2-3_R10215560",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intel",
-        "id": "32783462-8b9b-4c5b-85f6-00f1318afc44",
-        "title": "SOC Design Verification Engineer",
-        "active": false,
-        "date_updated": 1764119187,
-        "date_posted": 1764119187,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/SOC-Design-Verification-Engineer_JR0278430",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SHI International ",
-        "id": "7c2fd6c2-3894-42c0-a2bc-bdc160bb51f2",
-        "title": "Pubsec Project Admin",
-        "active": false,
-        "date_updated": 1764119149,
-        "date_posted": 1764119149,
-        "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/US---NC---Home-Office/PubSec-Project-Admin_JR2239",
-        "locations": [
-            "Remote in USA",
-            "North Carolina"
-        ],
-        "company_url": "https://simplify.jobs/c/SHI-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Caterpillar Inc.",
         "id": "5ea3d6c8-9684-45ee-87b9-fc5931c49046",
@@ -157353,7 +157296,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -157373,7 +157316,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -245608,7 +245551,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -338742,7 +338685,7 @@
         "company_name": "Varian",
         "id": "d23e1c2a-47d8-4102-bfc6-92343450288b",
         "title": "Field Service Representative Hardware",
-        "active": true,
+        "active": false,
         "date_updated": 1784629963,
         "date_posted": 1783165214,
         "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ATL-NP/Field-Service-Rep-HW---Melbourne--FL_R-28645",
@@ -349047,7 +348990,7 @@
         "company_name": "KLA Corporation",
         "id": "6759ef94-4668-4d2a-8493-92afcf8a93bf",
         "title": "Electrical Manufacturing Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784845427,
         "date_posted": 1782561679,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Electrical-Manufacturing-Design-Engineer_2636829",
@@ -349492,7 +349435,7 @@
         "company_name": "WGU",
         "id": "a2f1914e-0d8a-4ad1-9ec9-b41b6f58e680",
         "title": "Salesforce Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784846418,
         "date_posted": 1784844548,
         "url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Salesforce-Engineer-I_JR-025457",
@@ -350070,6 +350013,190 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Hiive",
+        "id": "6155b9e5-8862-497f-9990-9adf977ae58b",
+        "title": "Analyst \u2013 Sales & Trading",
+        "active": true,
+        "date_updated": 1784856421,
+        "date_posted": 1784856173,
+        "url": "https://jobs.ashbyhq.com/hiive/c7980780-7f39-47d2-9b5f-a970bbdfe94e/application?embed=true",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hiive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Highmark Health",
+        "id": "3e56e7e4-827e-4958-831f-32eea1731ac4",
+        "title": "Associate Data Solutions Analyst - Medicaid Operations",
+        "active": true,
+        "date_updated": 1784856061,
+        "date_posted": 1784764800,
+        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Data-Solutions-Analyst---Medicaid-Operations_J284898-1",
+        "locations": [
+            "New Mexico",
+            "Washington",
+            "Kansas",
+            "Pennsylvania",
+            "North Dakota",
+            "Delaware",
+            "Iowa",
+            "California",
+            "Vermont",
+            "Wyoming",
+            "Florida",
+            "Waterbury, CT",
+            "Nevada",
+            "South Dakota",
+            "Georgia",
+            "Arizona",
+            "Concord, NH",
+            "Mississippi",
+            "Tennessee",
+            "Virginia",
+            "Arkansas",
+            "Minnesota",
+            "Colorado",
+            "Nebraska",
+            "Rhode Island",
+            "Utah",
+            "Kentucky",
+            "West Virginia",
+            "NYC",
+            "Maryland",
+            "Hawaii",
+            "Wisconsin",
+            "Maine",
+            "Massachusetts",
+            "North Carolina",
+            "Oklahoma",
+            "Missouri",
+            "Indiana",
+            "Louisiana",
+            "Alaska",
+            "Michigan",
+            "Illinois",
+            "Alabama",
+            "Idaho"
+        ],
+        "company_url": "https://simplify.jobs/c/Highmark-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Broadridge",
+        "id": "6e46ee35-62d6-45c2-a8e5-1056b7d01e45",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1784855673,
+        "date_posted": 1784764800,
+        "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Denver-CO/Software-Engineer-_JR1084518",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Broadridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northwestern Medicine",
+        "id": "56b7812f-ca56-436a-8f33-ff0021349237",
+        "title": "Access Program Analyst",
+        "active": true,
+        "date_updated": 1784855547,
+        "date_posted": 1784855216,
+        "url": "https://jobs.smartrecruiters.com/NorthwesternMedicine/744000139381159",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Medicine",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "bdecc16e-8605-4d50-933d-efd4212bd848",
+        "title": "Senior Software Engineer - Software Engineer",
+        "active": true,
+        "date_updated": 1784855426,
+        "date_posted": 1784855070,
+        "url": "https://jobs.l3harris.com/job/Herndon-Senior-Associate,-Software-Engineer-VA-20171/1412220600/?ats=successfactors",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Avnet",
+        "id": "7b121d0e-e5ce-4e76-a84d-be932192f3a6",
+        "title": "Graduate Engineer",
+        "active": true,
+        "date_updated": 1784855497,
+        "date_posted": 1783559227,
+        "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Maidenhead-United-Kingdom/EMEA-Engineering-Graduate-Program_JR-022118",
+        "locations": [
+            "Letchworth Garden City, UK",
+            "Maidenhead, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Avnet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Workstream",
+        "id": "d6586a28-14d3-4627-88f6-5279119e3d74",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1784855161,
+        "date_posted": 1783502743,
+        "url": "https://job-boards.greenhouse.io/workstream/jobs/6111335004",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Workstream",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
