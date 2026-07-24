@@ -247671,7 +247671,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "7cd8d110-7c75-470e-8d65-dbc17f8a6017",
         "title": "Postdoctoral Associate - AI Security",
-        "active": true,
+        "active": false,
         "date_updated": 1779821462,
         "date_posted": 1778940747,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Postdoctoral-Associate---AI-Security_JR104051-1",
@@ -314247,7 +314247,7 @@
         "company_name": "Micron Technology",
         "id": "ee0b78af-412a-49ac-af70-f1d6a460b368",
         "title": "Senior BEOL Engineer - DRAM Process Integration",
-        "active": true,
+        "active": false,
         "date_updated": 1783512953,
         "date_posted": 1783167953,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Sr-BEOL-Engineer---DRAM-Process-Integration_JR94163",
@@ -320024,7 +320024,7 @@
         "company_name": "Johnson Controls",
         "id": "a9e9b275-e88f-4785-9b59-9f67f0e70d01",
         "title": "Embedded Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1783722948,
         "date_posted": 1783641600,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Westford-Massachusetts-United-States-of-America/Embedded-Software-Engineer-II_WD30273363-1",
@@ -327527,7 +327527,7 @@
         "company_name": "Becton Dickinson",
         "id": "4567b973-6e0b-4ea2-a3bd-676bcc5ef747",
         "title": "Automation Service Technician \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1784203753,
         "date_posted": 1783814400,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA---Wisconsin---Milwaukee/Automation-Service-Technician--Milwaukee-Chicago-Area_R-550373",
@@ -340510,7 +340510,7 @@
         "company_name": "Ivy Tech Community College",
         "id": "b20fdc5f-62fb-404d-8b45-0dbb43b19684",
         "title": "Assistant Registrar - Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784680399,
         "date_posted": 1784592000,
         "url": "https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Indianapolis-IN/Assistant-Registrar---Data-Analyst_JR0000108989",
@@ -345654,7 +345654,7 @@
         "company_name": "Ernst & Young",
         "id": "b128a10b-bece-4786-bca6-79962ce002fd",
         "title": "Consultant Applied AI Engineer - Applied AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784806358,
         "date_posted": 1781187119,
         "url": "https://careers.ey.com/ey/job/London-Consultant-Applied-AI-Engineer%2C-TC-E14-5EY/1382111233/",
@@ -345735,7 +345735,7 @@
         "company_name": "Teledyne",
         "id": "b9b81cf7-3e52-4bfd-b88d-0adea3291dc8",
         "title": "Engineering Technician / Micro-Electronic Wire Bonder Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784809307,
         "date_posted": 1783462637,
         "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lewisburg-TN/Engineering-Technician---Micro-Electronic-Wire-Bonder-Technician_REQ35581-1",
@@ -346062,7 +346062,7 @@
         "company_name": "Alkami Technology",
         "id": "540cb73e-d506-40f3-9265-30fdcf18d821",
         "title": "Application Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784812605,
         "date_posted": 1784073600,
         "url": "https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Application-Support-Engineer--Temporary-Worker-_JR-000770",
@@ -346190,7 +346190,7 @@
         "company_name": "Jones Lang LaSalle (JLL)",
         "id": "61dcef40-f2a3-45bd-8171-fc67802fe602",
         "title": "Product Specialist - Enterprise AI",
-        "active": true,
+        "active": false,
         "date_updated": 1784812685,
         "date_posted": 1784240218,
         "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/London-GBR/Product-Specialist---Enterprise-AI_REQ496960",
@@ -346365,7 +346365,7 @@
         "company_name": "Salesforce",
         "id": "df3cad1b-cab7-444f-b096-17bc2f773158",
         "title": "Product Manager/Senior Product Manager - Agent Fabric",
-        "active": true,
+        "active": false,
         "date_updated": 1784815596,
         "date_posted": 1782972297,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Product-Manager-Sr-Product-Manager--Agent-Fabric_JR347705-1",
@@ -348468,7 +348468,7 @@
         "company_name": "Avnet",
         "id": "7b121d0e-e5ce-4e76-a84d-be932192f3a6",
         "title": "Graduate Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784855497,
         "date_posted": 1783559227,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Maidenhead-United-Kingdom/EMEA-Engineering-Graduate-Program_JR-022118",
@@ -349241,5 +349241,89 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amgen",
+        "id": "e5a5d5ed-1322-4019-b65e-3a1961b62915",
+        "title": "SAP Principal Architect - Transportation Management",
+        "active": true,
+        "date_updated": 1784896401,
+        "date_posted": 1783158147,
+        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/SAP-Principal-Architect--Transportation-Management_R-244752",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amgen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "e0f4ad95-621b-4469-be39-0a9855d90b63",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1784896848,
+        "date_posted": 1783167642,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Software-Engineer_REQ_0000077212-2",
+        "locations": [
+            "State College, PA",
+            "Key West, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Abbott",
+        "id": "4955303d-d217-43de-9269-ee255fa3bdbe",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1784897040,
+        "date_posted": 1783728000,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Denver/Field-Service-Engineer--Denver--CO-_31155413-1",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ultra Intelligence and Communications",
+        "id": "96774925-a5b1-4f7d-bd69-63caa464f1f8",
+        "title": "Embedded Rust Software Engineer",
+        "active": true,
+        "date_updated": 1784897414,
+        "date_posted": 1782562906,
+        "url": "https://ultra.wd3.myworkdayjobs.com/uiccareers/job/Tampa-FL-United-States/Embedded-RUST-Software-Engineer--Clearance-Required-_REQ-11962",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Ultra-Intelligence-And-Communications",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
