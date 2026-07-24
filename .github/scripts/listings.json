@@ -1,65 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "United Parcel Service (UPS)",
-        "id": "eba10cdd-4f81-400c-a682-b149bdc4e5b6",
-        "title": "Software Development Engineer 1 - Salesforce",
-        "active": false,
-        "date_updated": 1764126712,
-        "date_posted": 1764126712,
-        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/Software-Development-Engineer-I---Salesforce_R25023930",
-        "locations": [
-            "Georgia",
-            "Parsippany-Troy Hills, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "82f429db-858c-406d-818c-6ed6557227e7",
-        "title": "DL System Software Engineer \u2013 New College Graduate - AI Platform",
-        "active": false,
-        "date_updated": 1764126651,
-        "date_posted": 1764126651,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DL-System-Software-Engineer--AI-Platform---New-College-Graduate-2025_JR2007061",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "3b80e808-16cb-4297-ac49-0f3fc2b5a220",
-        "title": "Research Scientist \u2013 New College Grad 2026 - Fundamental LLM Research for Knowledge - Reasoning And Agents",
-        "active": false,
-        "date_updated": 1764126650,
-        "date_posted": 1764126650,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-LLM-Research-for-Knowledge--Reasoning--and-Agents---New-College-Grad-2026_JR2008820",
-        "locations": [
-            "California",
-            "Remote in USA",
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "304447c2-ed31-4002-9ee9-967b2c560c54",
