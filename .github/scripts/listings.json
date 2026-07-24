@@ -325920,7 +325920,7 @@
         "company_name": "moo",
         "id": "2424f9f9-8fa2-4097-a6a3-38d0d323ef36",
         "title": "Trading & Merchandising Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1784125264,
         "date_posted": 1784124598,
         "url": "https://jobs.lever.co/moo/1a7604fe-57bd-4dc8-bf81-ebaae75cd7ac/apply",
@@ -349320,6 +349320,26 @@
             "Tampa, FL"
         ],
         "company_url": "https://simplify.jobs/c/Ultra-Intelligence-And-Communications",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WVUMedicine",
+        "id": "facc5729-e308-4ae7-9988-8a96415e1cf8",
+        "title": "Associate Systems Analyst - Health Plan",
+        "active": true,
+        "date_updated": 1784898541,
+        "date_posted": 1784678400,
+        "url": "https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Information-Technology-Center/Associate-Systems-Analyst---Health-Plan_JR26-41005",
+        "locations": [
+            "Morgantown, WV"
+        ],
+        "company_url": "https://simplify.jobs/c/WVUMedicine",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
