@@ -1,41 +1,5 @@
 [
     {
-        "date_updated": 1764748533,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Lincoln-NE-Base-Camp/CLUB-Data-Analyst-I_R242594",
-        "company_name": "Bass Pro Shops",
-        "title": "CLUB Data Analyst I",
-        "locations": [
-            "locations Lincoln, NE"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "8db7d639-145f-45cf-91a4-2748ab758f6e",
-        "date_posted": 1764174063,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1765195362,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://selectmilk.wd12.myworkdayjobs.com/en-US/selectmilkproducers/job/La-Crosse-WI/Data-Analyst-I_JR101657",
-        "company_name": "Select Milk Producers",
-        "title": "Data Analyst I",
-        "locations": [
-            "La Crosse, WI"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "b78eaeea-bdf3-4b70-9b0c-69731ba85c3c",
-        "date_posted": 1764174118,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
