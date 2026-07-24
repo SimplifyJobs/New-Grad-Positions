@@ -134697,7 +134697,7 @@
         "company_name": "Wheely",
         "id": "fc8b8739-1b1e-457f-9a51-024e85f733da",
         "title": "Associate Data Scientist - Operations Research",
-        "active": true,
+        "active": false,
         "date_updated": 1772793154,
         "date_posted": 1772793154,
         "url": "https://boards.greenhouse.io/wheely/jobs/7655292003",
@@ -185409,7 +185409,7 @@
         "company_name": "BDO Canada",
         "id": "b9669691-e59f-4cf2-b311-b5751beb5045",
         "title": "Consultant \u2013 New Grad - Data & Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1775601002,
         "date_posted": 1775599624,
         "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Business-Analyst--Data---Analytics---New-Grad--May-2026-_JR5658-1",
@@ -267874,7 +267874,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -343158,7 +343158,7 @@
         "company_name": "RTX",
         "id": "cc5ee59a-59c1-4e20-90ce-d5bc7cbc587e",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784762605,
         "date_posted": 1784678400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1",
@@ -347477,7 +347477,7 @@
         "company_name": "SailPoint",
         "id": "b96782c6-ff49-4777-867a-5eb73643c37e",
         "title": "Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784846702,
         "date_posted": 1784764800,
         "url": "https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Headquarters-Austin-Texas-USA/Business-Intelligence-Analyst_R013800",
@@ -349592,5 +349592,43 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "87d29a4d-42d9-4d87-a487-32270a8eca2c",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1784903761,
+        "date_posted": 1784903616,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8081860",
+        "locations": [
+            "Savannah, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WPP Media",
+        "id": "6d7752f7-d27a-4149-af3c-d554fedbca03",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1784903790,
+        "date_posted": 1784903660,
+        "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5364102008",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/WPP-Media",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
