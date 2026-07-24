@@ -1,60 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sinclair",
-        "id": "ac660aac-d8cb-4995-91b8-4b5c2ac37350",
-        "title": "Software Development Engineer - Level 1 - Direct-to-Consumer Streaming",
-        "active": false,
-        "date_updated": 1764116771,
-        "date_posted": 1764116771,
-        "url": "https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/14900",
-        "locations": [
-            "Santa Monica, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sinclair",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ultra",
-        "id": "2350ab64-efd4-4c5f-9543-37c994e13818",
-        "title": "Graduate Engineer",
-        "active": false,
-        "date_updated": 1764116127,
-        "date_posted": 1764116127,
-        "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Dartmouth-NS-Canada/Graduate-Engineer_REQ-10809",
-        "locations": [
-            "Dartmouth, NS, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ultra",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Unilever",
-        "id": "461699a8-c37b-4160-bff5-19c7f5bae687",
-        "title": "Product Development Technologist",
-        "active": false,
-        "date_updated": 1764116003,
-        "date_posted": 1764116003,
-        "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Colworth-Science-Park/Product-Development-Technologist_R-1169028",
-        "locations": [
-            "Portsmouth, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Unilever",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Milwaukee Tool",
         "id": "f685b8fc-833a-492f-8877-a86a350f48cd",
@@ -157,42 +103,6 @@
             "Milpitas, CA"
         ],
         "company_url": "https://simplify.jobs/c/SERES",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "7ad150ad-6a77-491f-9aa8-5cf10dc50b93",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1764117051,
-        "date_posted": 1764117051,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7425497",
-        "locations": [
-            "Fort Worth, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Museum of Science",
-        "id": "11bdc472-12e0-4b72-9895-ad52d1fb7c15",
-        "title": "Associate CRM Systems Developer",
-        "active": false,
-        "date_updated": 1764117053,
-        "date_posted": 1764117053,
-        "url": "https://job-boards.greenhouse.io/themuseumofscience/jobs/5011562008",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Museum-Of-Science",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -349026,7 +348936,7 @@
         "company_name": "Citi",
         "id": "c8b1494a-3262-4b95-a356-612e9c1e1dd9",
         "title": "Junior Generative AI Application Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1784845081,
         "date_posted": 1784844835,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Junior-Generative-AI-Application-Developer_26962476",
