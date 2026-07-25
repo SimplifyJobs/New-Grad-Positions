@@ -2,60 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Ford Motor Company",
-        "id": "81683e22-89ba-4aa3-bd3c-535d191e9c43",
-        "title": "2026 Ford Undergraduate Program - Tech & Data Automation",
-        "active": false,
-        "date_updated": 1764201414,
-        "date_posted": 1764201414,
-        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/55690",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WPP Media",
-        "id": "303cb4e5-f249-4b24-8ebb-8f49adccaff6",
-        "title": "Data Excellence Executive",
-        "active": false,
-        "date_updated": 1764201243,
-        "date_posted": 1764201243,
-        "url": "https://job-boards.greenhouse.io/wppmedia/jobs/4980989008",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/WPP-Media",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Datadog",
-        "id": "e3409e6c-30b4-4148-b208-59a5f8d02c0e",
-        "title": "Data Analyst - GTM Strategy & Operations",
-        "active": false,
-        "date_updated": 1764199890,
-        "date_posted": 1764199890,
-        "url": "https://careers.datadoghq.com/detail/7374529/?gh_jid=7374529",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Datadog",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "University of Texas - Austin",
         "id": "e6db0bd6-76f1-4615-b791-fb0f7674f780",
         "title": "Postdoctoral Fellow - Agentic AI",
@@ -245933,7 +245879,7 @@
         "company_name": "Handshake",
         "id": "70e27907-823d-4645-b246-d59e32f57b37",
         "title": "Applied AI Engineer - Handshake AI Enterprise",
-        "active": true,
+        "active": false,
         "date_updated": 1779831905,
         "date_posted": 1779199719,
         "url": "https://jobs.ashbyhq.com/handshake/b1e63b0f-daa0-48d0-b69d-676576b2c70f/application",
@@ -295884,7 +295830,7 @@
         "company_name": "Guidewire",
         "id": "446847d3-29b2-4c3c-b983-f4e2203fc1ec",
         "title": "Associate Certification Program Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782868406,
         "date_posted": 1782770934,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946",
@@ -350886,6 +350832,24 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/The-New-York-Times",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uare.ai",
+        "id": "b013d54d-e343-4859-badb-79f7e0e59c09",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1772552664,
+        "date_posted": 1772552664,
+        "url": "https://job-boards.greenhouse.io/uareai/jobs/4036519009",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uareai",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
