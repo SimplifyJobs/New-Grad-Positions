@@ -1,226 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Medtronic",
-        "id": "e432c36f-8257-4786-a26f-c382a59654c0",
-        "title": "Front-end Software Engineer 1",
-        "active": false,
-        "date_updated": 1764210197,
-        "date_posted": 1764210197,
-        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Front-end-Software-Engineer-I_R53681",
-        "locations": [
-            "Northridge, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Medtronic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Conduent",
-        "id": "9e0e0c84-a7ae-4e5d-ba53-b3c7760e8c5e",
-        "title": "Service Technician 2",
-        "active": false,
-        "date_updated": 1764209974,
-        "date_posted": 1764209974,
-        "url": "https://egua.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18273",
-        "locations": [
-            "Somerset County, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Conduent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Leggett & Platt",
-        "id": "6df90fe0-0a56-42ee-a66e-f1859ede5389",
-        "title": "Product Manager Intern",
-        "active": true,
-        "date_updated": 1764209331,
-        "date_posted": 1764209331,
-        "url": "https://careers.leggett.com/job/Conover-Product-Manager-Trainee-NC/1345826500/?ats=successfactors",
-        "locations": [
-            "Hickory, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Leggett-And-Platt",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Leidos",
-        "id": "9a7da1a8-2189-4b4a-ba9c-0efa4ad631ae",
-        "title": "Residential Technical Reviewer",
-        "active": false,
-        "date_updated": 1764209838,
-        "date_posted": 1764209838,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Peoria-IL/Residential-Technical-Reviewer_R-00171066-1",
-        "locations": [
-            "Peoria, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nextiva",
-        "id": "538c80ad-2550-4d38-9b11-aaccedbec187",
-        "title": "LLM Optimization - AI SEO / GEO",
-        "active": false,
-        "date_updated": 1764209810,
-        "date_posted": 1764209810,
-        "url": "https://www.nextiva.com/company/careers-listing?gh_jid=8307771002",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Nextiva",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Confluent",
-        "id": "1dd5db34-5b19-4ee7-a8cd-c26ffa616364",
-        "title": "Senior Software Engineer",
-        "active": false,
-        "date_updated": 1764209873,
-        "date_posted": 1764209873,
-        "url": "https://jobs.ashbyhq.com/confluent/030edb02-e575-40d4-912c-75842caa3f47/application",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Confluent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "EverDriven",
-        "id": "f84f15f3-f909-479d-a8d2-e57573d0ee3d",
-        "title": "Business Intelligence Analyst",
-        "active": false,
-        "date_updated": 1764209375,
-        "date_posted": 1764209375,
-        "url": "https://job-boards.greenhouse.io/everdriven/jobs/5010416008",
-        "locations": [
-            "Greenwood Village, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/EverDriven",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "ShipMonk",
-        "id": "ba9c448e-4c57-4288-a241-307354e06887",
-        "title": "Associate Product Manager - Inbound",
-        "active": false,
-        "date_updated": 1764209496,
-        "date_posted": 1764209496,
-        "url": "https://job-boards.eu.greenhouse.io/shipmonk/jobs/4713685101",
-        "locations": [
-            "Las Vegas, NV",
-            "Louisville, KY",
-            "Dallas, TX",
-            "Fort Lauderdale, FL",
-            "Wilkes-Barre, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/ShipMonk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ChowBus",
-        "id": "97654be5-d207-49da-8822-b820aae70149",
-        "title": "Test Operator",
-        "active": false,
-        "date_updated": 1764209405,
-        "date_posted": 1764209405,
-        "url": "https://job-boards.greenhouse.io/chowbus/jobs/7541113003",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/ChowBus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Banco Bilbao Vizcaya Argentaria",
-        "id": "166f377c-7bfd-44c9-82ae-1b16403a22f3",
-        "title": "GM IG Credit Trading Analyst",
-        "active": false,
-        "date_updated": 1764209498,
-        "date_posted": 1764209498,
-        "url": "https://bbva.wd3.myworkdayjobs.com/BBVA/job/New-York/GM-IG-Credit-Trading-Analyst_JR00054681",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Banco-Bilbao-Vizcaya-Argentaria",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Fullscript",
-        "id": "3737cdb4-22c7-4ea9-9a0b-941bc2cd83ec",
-        "title": "Product Manager - Journeys",
-        "active": false,
-        "date_updated": 1764209178,
-        "date_posted": 1764209178,
-        "url": "https://jobs.lever.co/fullscript/10c0976e-8b9b-4926-82b6-2fdb66876345/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/FullScript",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Phamily",
-        "id": "21800147-af65-4d12-8bac-88adf3e27d3a",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1764209193,
-        "date_posted": 1764209193,
-        "url": "https://job-boards.greenhouse.io/jobsatphamily/jobs/5013584008",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Phamily",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Argonne National Laboratory",
         "id": "66fd2a5a-e56a-4a36-8a22-f4c09b2a069d",
@@ -276,24 +56,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "f2d7355d-39e6-4e85-871e-807b4ba1ca80",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1764210653,
-        "date_posted": 1764210653,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7429687",
-        "locations": [
-            "Lewiston, ME"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Analog Devices",
         "id": "071dac29-96d3-43fa-af5e-32f9c1533678",
         "title": "Engineer \u2013 Embedded Software",
@@ -305,79 +67,6 @@
             "Edinburgh, UK"
         ],
         "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Manulife Financial",
-        "id": "d890b4ae-a31e-4549-9b6a-50b02697a77b",
-        "title": "Data Analyst - International Group Program",
-        "active": false,
-        "date_updated": 1764210321,
-        "date_posted": 1764210321,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/USA-Massachusetts---Full-Time-Remote/Data-Analyst---International-Group-Program_JR25050035-3",
-        "locations": [
-            "Massachusetts"
-        ],
-        "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "a8637d13-6ef7-45f2-9b2f-15b747fe0c6f",
-        "title": "Electrical/Hardware Engineer 1",
-        "active": false,
-        "date_updated": 1764209452,
-        "date_posted": 1764209452,
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electrical-Hardware-Engineer-I_1195982",
-        "locations": [
-            "Eau Claire, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Reevo",
-        "id": "306d6a4d-b01e-46dc-a4f1-97283795d6eb",
-        "title": "Builder \u2013 New Grad - AI Engineer",
-        "active": false,
-        "date_updated": 1764210450,
-        "date_posted": 1764210450,
-        "url": "https://jobs.ashbyhq.com/reevo/2a1f4f7f-86d3-41f4-bda1-3867ff82eb0d/application",
-        "locations": [
-            "SF",
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/374054ce-758f-4d27-8f5a-2ad73d2e19df",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Autodesk",
-        "id": "17657ead-d77d-41ac-aad5-697080cd5695",
-        "title": "Junior Product Manager - Markups and Collaborations",
-        "active": false,
-        "date_updated": 1764210417,
-        "date_posted": 1764210417,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Ontario---Toronto---University-Ave/Junior-Product-manager---Markups-and-Collaborations_25WD93282-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Autodesk",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -396,24 +85,6 @@
             "Halifax Regional Municipality, NS, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "William Blair",
-        "id": "2a9d9592-19f4-459d-b533-f5658bc852a4",
-        "title": "Working in Technology - Wit - Data Science",
-        "active": false,
-        "date_updated": 1764209695,
-        "date_posted": 1764209695,
-        "url": "https://www.williamblair.com/Careers/job-description?gh_jid=4960393007",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/William-Blair",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -4626,25 +4297,6 @@
             "Cedar Rapids, IA"
         ],
         "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "SOCi",
-        "id": "c88ad2bd-f28e-43e7-a67b-e9bdeb47f724",
-        "title": "Product Operations Specialist - Research and Development",
-        "active": false,
-        "date_updated": 1764209063,
-        "date_posted": 1764209063,
-        "url": "https://job-boards.greenhouse.io/soci/jobs/5648255004",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/SOCi",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -28016,24 +27668,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "L3Harris Technologies",
-        "id": "cb836f35-ebcf-4cb7-a325-706e08b5e3a5",
-        "title": "Senior Associate - Software Engineer",
-        "active": false,
-        "date_updated": 1766593321,
-        "date_posted": 1764209376,
-        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr_-Associate,-Software-Engineering-UT-84116/1345896800/?ats=successfactors",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Fidelity National Information Services",
         "id": "7d2e7e87-8ad2-49dd-a26d-8947bdaea508",
         "title": "Product Support Representative 1",
@@ -32156,26 +31790,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Good American",
-        "id": "0779b0da-64cc-4afb-ae9b-ef02f84adf25",
-        "title": "Product Development Assistant - Temp",
-        "active": false,
-        "date_updated": 1764209375,
-        "date_posted": 1764209375,
-        "url": "https://jobs.lever.co/goodamerican/8b1f6156-5627-48cd-8c12-87cea9200827/apply",
-        "locations": [
-            "Hollywood, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Good-American",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "AT&T",
         "id": "d280566c-d2e8-4e3c-9ccf-8896d56326d9",
@@ -34827,24 +34441,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "DXC Technology",
-        "id": "2f875912-0e72-4d1e-8b06-482801386a04",
-        "title": "DXC Graduate Programme",
-        "active": false,
-        "date_updated": 1764209934,
-        "date_posted": 1764209934,
-        "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---GLS---TEWKESBURY/DXC-Graduate-Programme-2026_51567299",
-        "locations": [
-            "Gloucester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DXC-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Prysmian Cables & Systems",
         "id": "30dd5dbc-1240-4c11-965b-134eb0282e8e",
@@ -34891,44 +34487,6 @@
         "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/DXC-Graduate-Programme-2026_51567289",
         "locations": [
             "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DXC-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DXC Technology",
-        "id": "32748cb4-b7e7-4f3d-8c49-a2b238fc0fd7",
-        "title": "DXC Graduate Programme",
-        "active": false,
-        "date_updated": 1764209943,
-        "date_posted": 1764209943,
-        "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---RFW---ERSKINE/DXC-Graduate-Programme-2026_51567253",
-        "locations": [
-            "Glasgow, UK",
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/DXC-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DXC Technology",
-        "id": "19ec4fd6-b5b7-43fc-8474-7d021334b158",
-        "title": "DXC Graduate Programme",
-        "active": false,
-        "date_updated": 1764209945,
-        "date_posted": 1764209945,
-        "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---RFW---ERSKINE/DXC-Graduate-Programme-2026_51567258",
-        "locations": [
-            "Glasgow, UK",
-            "United Kingdom"
         ],
         "company_url": "https://simplify.jobs/c/DXC-Technology",
         "is_visible": true,
@@ -267348,7 +266906,7 @@
         "company_name": "Bot Auto",
         "id": "bd388190-03f5-4a8c-bdfa-6d5eb2535cbf",
         "title": "Software Engineer - Operation Platforms",
-        "active": true,
+        "active": false,
         "date_updated": 1780621741,
         "date_posted": 1780621638,
         "url": "https://job-boards.greenhouse.io/botauto/jobs/5248910008",
@@ -295813,7 +295371,7 @@
         "company_name": "Bot Auto",
         "id": "8c23452c-c16b-4b78-b154-65fac1cb24cd",
         "title": "Frontend Engineer - Autonomous Traffic Control",
-        "active": true,
+        "active": false,
         "date_updated": 1782339841,
         "date_posted": 1782339141,
         "url": "https://job-boards.greenhouse.io/botauto/jobs/5279037008",
@@ -349377,7 +348935,7 @@
         "company_name": "Snap",
         "id": "9760e8f0-a376-4d0d-b635-be2d7014cb9c",
         "title": "Software Engineer - Backend - Level 3",
-        "active": true,
+        "active": false,
         "date_updated": 1784931122,
         "date_posted": 1784851200,
         "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Software-Engineer--Backend--Level-3_H226SWE1-2",
@@ -350765,6 +350323,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "e6db0bd6-76f1-4615-b791-fb0f7674f780",
+        "title": "Postdoctoral Fellow - Multiple Teams",
+        "active": true,
+        "date_updated": 1784609824,
+        "date_posted": 1783162863,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow---TMI--Agentic-AI--Texas-Materials-Institute--Cockrell-School-of-Engineering_R_00043444",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
