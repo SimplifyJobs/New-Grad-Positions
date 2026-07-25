@@ -1,59 +1,5 @@
 [
     {
-        "date_updated": 1764259764,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/clear/jobs/7430247",
-        "company_name": "CLEAR",
-        "title": "Software Engineer, New Grad, Fullstack",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "f67efe8e-f1a7-435d-bce0-28bb5afd5b63",
-        "date_posted": 1764259764,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1764259856,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/clear/jobs/7403318",
-        "company_name": "CLEAR",
-        "title": "Software Engineer, New Grad, Backend",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "13175006-e5f3-4600-94cf-20c3dd115faa",
-        "date_posted": 1764259856,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1764259915,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/bpcs/jobs/7271702",
-        "company_name": "Blueprint Technologies",
-        "title": "Software Engineer 1",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "a764d534-579d-41bf-bd8c-94ca353be0ba",
-        "date_posted": 1764259915,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Booz Allen",
