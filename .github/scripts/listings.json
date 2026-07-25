@@ -1,59 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "603d9e4a-8d3d-412c-b7b7-c5bdd22b00dd",
-        "title": "Product Manager",
-        "active": false,
-        "date_updated": 1764215011,
-        "date_posted": 1764215011,
-        "url": "https://lifeattiktok.com/search/7532237822393436434",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "bcfeba5b-e9fc-40ae-9519-f30b40390d7d",
-        "title": "Research Engineer Graduate - Ads ML Infrastructure - PhD",
-        "active": false,
-        "date_updated": 1764214934,
-        "date_posted": 1764214934,
-        "url": "https://lifeattiktok.com/search/7559990747538671879",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "0bc7f99a-1026-4daa-a088-a8306efef1bd",
-        "title": "Graduate Engineer - Machine Learning Engineer - Data-Search-Recommendation Tiktok.US",
-        "active": true,
-        "date_updated": 1764214964,
-        "date_posted": 1764214964,
-        "url": "https://lifeattiktok.com/search/7533377193083177234",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1764259764,
         "sponsorship": "Other",
         "active": false,
@@ -347579,7 +347525,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "5c3cff64-adff-4063-92f2-242e9159bb57",
         "title": "Associate Director Senior Software Engineer - .Net C#",
-        "active": true,
+        "active": false,
         "date_updated": 1784891819,
         "date_posted": 1783376338,
         "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/90-WESTERN-PKYBEDFORD/Associate-Director--Senior-Full-Stack-Python-C---Developer_R-0000161475-1",
