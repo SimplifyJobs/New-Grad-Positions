@@ -1,60 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Texas - Austin",
-        "id": "e6db0bd6-76f1-4615-b791-fb0f7674f780",
-        "title": "Postdoctoral Fellow - Agentic AI",
-        "active": true,
-        "date_updated": 1764208303,
-        "date_posted": 1764208303,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow---TMI--Agentic-AI--Texas-Materials-Institute--Cockrell-School-of-Engineering_R_00043444",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Texas - Austin",
-        "id": "13b7c776-b6dc-4c75-98d1-5e69dc3770bf",
-        "title": "Postdoctoral Fellow - Transmission Electron Microscopy",
-        "active": false,
-        "date_updated": 1764208295,
-        "date_posted": 1764208295,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow---Transmission-Electron-Microscopy--Texas-Materials-Institute--Cockrell-School-of-Engineering_R_00043435",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "InfStones",
-        "id": "c08795b8-5f4c-43b3-9a23-4a8a1f71ec5e",
-        "title": "Application Engineer",
-        "active": false,
-        "date_updated": 1764208177,
-        "date_posted": 1764208177,
-        "url": "https://jobs.lever.co/infstones/f4aa3e0f-172e-41db-b7a2-0133836d9bf7/apply",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/InfStones",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Medtronic",
         "id": "e432c36f-8257-4786-a26f-c382a59654c0",
@@ -239,75 +185,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Centrica",
-        "id": "bcb06a25-8717-4aea-b789-9315a289f291",
-        "title": "Trainee Kitchen Appliance Engineer",
-        "active": false,
-        "date_updated": 1764208839,
-        "date_posted": 1764208839,
-        "url": "https://centrica.wd3.myworkdayjobs.com/Centrica/job/Flexible/Trainee-Kitchen-Appliance-Engineer_R0078697",
-        "locations": [
-            "London, UK",
-            "Workington, UK",
-            "Weybridge, UK",
-            "Thurrock, UK",
-            "Beckton, London, UK",
-            "Wembley, UK",
-            "Sheffield, UK",
-            "Trafford, UK",
-            "Dulwich, London, UK",
-            "Glasgow, UK",
-            "Manchester, UK",
-            "United Kingdom",
-            "Watford, UK",
-            "Blackpool, UK",
-            "Brent Cross, London, UK",
-            "Dundee, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Centrica",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "827cd090-59cd-4a5c-a46a-9e3abdce6955",
-        "title": "Part-Time Research Assistant-Population Research Institute",
-        "active": false,
-        "date_updated": 1764208873,
-        "date_posted": 1764208873,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant-Population-Research-Institute_REQ_0000073860-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "7c47eed5-d082-43ad-b0af-a478b29da1a7",
-        "title": "Part-Time Research Assistant - Astronomy Department",
-        "active": false,
-        "date_updated": 1764208858,
-        "date_posted": 1764208858,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Astronomy-Department_REQ_0000073928-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Fullscript",
         "id": "3737cdb4-22c7-4ea9-9a0b-941bc2cd83ec",
@@ -338,42 +215,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Phamily",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "0f1b28fb-2b6d-41ce-9ce9-59d83cc282d2",
-        "title": "Part-Time Grad",
-        "active": false,
-        "date_updated": 1764208866,
-        "date_posted": 1764208866,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Grad_REQ_0000073814-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Serco North America",
-        "id": "3f36d922-19eb-46e2-9b36-ea3f749e45bd",
-        "title": "Entry Level Systems Engineer",
-        "active": false,
-        "date_updated": 1764208623,
-        "date_posted": 1764208623,
-        "url": "https://careers-sercous.icims.com/jobs/72101/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Serco-North-America",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -13587,24 +13428,6 @@
             "Redmond, WA"
         ],
         "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EOS",
-        "id": "fccb2493-8f1a-498e-86d1-3a5ad1479180",
-        "title": "Data Center Repair Technician - Breakfix",
-        "active": false,
-        "date_updated": 1765371522,
-        "date_posted": 1764208706,
-        "url": "https://eosits.com/company/careers/?gh_jid=8310522002",
-        "locations": [
-            "Cheyenne, WY"
-        ],
-        "company_url": "https://simplify.jobs/c/EOS",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -30348,24 +30171,6 @@
             "Dundee, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SpaceX",
-        "id": "0e8985fb-c588-4891-a34c-10476927d9be",
-        "title": "Application Software Engineer",
-        "active": false,
-        "date_updated": 1767137892,
-        "date_posted": 1764208723,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8310481002",
-        "locations": [
-            "Brownsville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
