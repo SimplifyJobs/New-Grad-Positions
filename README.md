@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 318 New Grad Roles by Category
+### Browse 319 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (198)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (199)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (5)
 
@@ -127,6 +127,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>London, UK</br>Christchurch, UK</br>Glasgow, UK</td>
 <td><div align="center"><a href="https://mthree.com/careers/job/?gh_jid=4664940006&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/50d620ab-b082-4900-a4b3-362376a23dd7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>1d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Black-Cape?utm_source=GHList&utm_medium=company">Black Cape</a></strong></td>
+<td>Junior Full Stack Software Engineer</td>
+<td>Colorado Springs, CO</td>
+<td><div align="center"><a href="https://blackcape.applytojob.com/apply/Hxw7V35F52/Full-Stack-Software-Engineer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d57b14ea-69f3-486f-abba-3677ea919fc6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -9916,7 +9923,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Data Engineer 1 - Multiple Teams</td>
 <td>Hartford, CT</br>Richardson, TX</br>St Paul, MN</td>
 <td><div align="center"><a href="https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-50910?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b8b13950-f977-4efa-a16f-25c7dfd1d262?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Bot-Auto?utm_source=GHList&utm_medium=company">Bot Auto</a></strong></td>
