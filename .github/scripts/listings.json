@@ -1,78 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "66fd2a5a-e56a-4a36-8a22-f4c09b2a069d",
-        "title": "Postdoctoral Appointee",
-        "active": false,
-        "date_updated": 1764211583,
-        "date_posted": 1764211583,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Materials-Design-and-Synchrotron-Characterization-for-Freeze-Induced-Ion-Separation_421467-1",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "UBS",
-        "id": "b8223039-5378-41f1-bbbb-6b19117e870f",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1764211482,
-        "date_posted": 1764211482,
-        "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=337505",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/UBS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Keysight Technologies",
-        "id": "7b96ce7f-313b-48a9-b42d-3a8960a9e385",
-        "title": "Working Student Software QA - Data Engineering",
-        "active": false,
-        "date_updated": 1764211514,
-        "date_posted": 1764211514,
-        "url": "https://jobs.keysight.com/jobs/50912?lang=en-us&icims=1",
-        "locations": [
-            "Neukirchen-Vluyn, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Analog Devices",
-        "id": "071dac29-96d3-43fa-af5e-32f9c1533678",
-        "title": "Engineer \u2013 Embedded Software",
-        "active": false,
-        "date_updated": 1764210775,
-        "date_posted": 1764210775,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Engineer--Embedded-Software_R253331",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Royal Bank of Canada",
         "id": "bbf6822a-fb0d-401d-a7ea-46ae690d922d",
@@ -433,42 +361,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Wolters Kluwer",
-        "id": "9e9730ef-8160-492e-afd4-415f6fd2ba91",
-        "title": "Associate Product Software Engineer",
-        "active": false,
-        "date_updated": 1764212183,
-        "date_posted": 1764212183,
-        "url": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Waltham-MA/Associate-Product-Software-Engineer_R0052913",
-        "locations": [
-            "Waltham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wolters-Kluwer",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citizen Health",
-        "id": "72619e6e-8109-48b1-a482-440b7068218f",
-        "title": "Early Career Software Engineer",
-        "active": false,
-        "date_updated": 1764212215,
-        "date_posted": 1764212215,
-        "url": "https://jobs.ashbyhq.com/Citizen%20Health/6a543e11-e135-4888-8f5b-de7e2a356e23/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Citizen-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "TikTok",
         "id": "603d9e4a-8d3d-412c-b7b7-c5bdd22b00dd",
@@ -517,24 +409,6 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "6a019928-9c4f-44db-8042-60b4ff138789",
-        "title": "Electronics Engineer 2",
-        "active": false,
-        "date_updated": 1764211016,
-        "date_posted": 1764211016,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Engineer-Electronics-2_R10215731",
-        "locations": [
-            "Gilbert, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -25864,26 +25738,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Daifuku",
-        "id": "4553cd21-7cf1-4949-8368-06d5a6f3307f",
-        "title": "Junior IT Software Developer",
-        "active": false,
-        "date_updated": 1766445561,
-        "date_posted": 1764210886,
-        "url": "https://careers-daifuku-america.icims.com/jobs/20879/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Novi, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Daifuku",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Comcast",
         "id": "d714ccec-63db-41f3-a502-006d2e687439",
@@ -26140,24 +25994,6 @@
             "Gloucester, UK"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Daifuku",
-        "id": "085d2efc-a205-4f8d-8d83-616789f34024",
-        "title": "Software Implementation Engineer 1",
-        "active": false,
-        "date_updated": 1766761917,
-        "date_posted": 1764210885,
-        "url": "https://careers-daifuku-america.icims.com/jobs/20889/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Savannah, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Daifuku",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -350343,6 +350179,26 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Leggett & Platt",
+        "id": "6df90fe0-0a56-42ee-a66e-f1859ede5389",
+        "title": "Product Manager Trainee",
+        "active": true,
+        "date_updated": 1784693359,
+        "date_posted": 1778922221,
+        "url": "https://careers.leggett.com/job/Conover-Product-Manager-Trainee-NC/1345826500/?ats=successfactors",
+        "locations": [
+            "Hickory, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Leggett-And-Platt",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
