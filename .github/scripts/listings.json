@@ -218911,7 +218911,7 @@
         "company_name": "The Boeing Company",
         "id": "31ac1bea-e976-40b4-83d2-322d74703e39",
         "title": "ASIC/FPGA Verification Engineer Lead - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777621301,
         "date_posted": 1777327680,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/ASIC-FPGA-Verification-Engineer----Associate--Experienced--or-Lead----SoCal_JR2025480380",
@@ -242887,7 +242887,7 @@
         "company_name": "The Boeing Company",
         "id": "31d71f2a-9a18-4322-9731-399a235bc668",
         "title": "Hardware Subsystems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779487934,
         "date_posted": 1779487866,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Hardware-Subsystems-Engineer----Associate-or-Experienced-_JR2026510994",
@@ -349865,6 +349865,24 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/Unlimited-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Redesign Group",
+        "id": "0012aa78-86b4-4df6-adf6-b46844f4ad9f",
+        "title": "Infrastructure Implementation Engineer",
+        "active": true,
+        "date_updated": 1784968002,
+        "date_posted": 1784596290,
+        "url": "https://ats.rippling.com/redesigncareers/jobs/cf4c6c27-b2c3-4803-ab86-62b4118904aa",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Redesign-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
