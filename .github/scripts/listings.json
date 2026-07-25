@@ -326783,7 +326783,7 @@
         "company_name": "TD Bank",
         "id": "a1259a33-ab0d-4927-8624-cce93dd07b86",
         "title": "Research Associate - Quantitative Research Team - TD Asset Management",
-        "active": true,
+        "active": false,
         "date_updated": 1784242084,
         "date_posted": 1784160000,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Research-Associate--Quantitative-Research-Team---TD-Asset-Management_R_1500358",
@@ -334910,7 +334910,7 @@
         "company_name": "Johnson & Johnson",
         "id": "d31ef757-c8bd-4b2a-8610-3828c2c55f0e",
         "title": "Postdoctoral Data Analytics Computational Sciences",
-        "active": true,
+        "active": false,
         "date_updated": 1784614145,
         "date_posted": 1781951444,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Postdoctoral-Data-Analytics-Computational-Sciences_R-063632-2",
@@ -349785,6 +349785,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "0bc7f99a-1026-4daa-a088-a8306efef1bd",
+        "title": "Machine Learning Engineer Graduate - Data-Search-Recommendation",
+        "active": true,
+        "date_updated": 1776119591,
+        "date_posted": 1776118290,
+        "url": "https://lifeattiktok.com/search/7533377193083177234",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
