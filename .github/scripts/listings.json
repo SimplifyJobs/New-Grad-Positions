@@ -265097,7 +265097,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -348622,7 +348622,7 @@
         "company_name": "The Redesign Group",
         "id": "0012aa78-86b4-4df6-adf6-b46844f4ad9f",
         "title": "Infrastructure Implementation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784968002,
         "date_posted": 1784596290,
         "url": "https://ats.rippling.com/redesigncareers/jobs/cf4c6c27-b2c3-4803-ab86-62b4118904aa",
@@ -349153,5 +349153,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gaiia",
+        "id": "2c0b0a9a-753b-435f-9684-4dc886fe5fdd",
+        "title": "Data Migration Specialist",
+        "active": true,
+        "date_updated": 1785055584,
+        "date_posted": 1775081397,
+        "url": "https://ats.rippling.com/gaiias-open-positions/jobs/4b2a9591-cabc-4196-b879-99ff06278144",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Gaiia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
