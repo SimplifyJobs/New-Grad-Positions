@@ -1,96 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Creation Technologies",
-        "id": "9686f98b-39e5-4236-a0b0-c1b93350007d",
-        "title": "Production Technician",
-        "active": false,
-        "date_updated": 1764366814,
-        "date_posted": 1764366814,
-        "url": "https://creationtech.wd1.myworkdayjobs.com/Creation/job/Newark-NY-USA/Production-Technician_JR5907",
-        "locations": [
-            "Canandaigua, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Creation-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cogeco",
-        "id": "6703fb5a-2bc0-4c6d-9b47-9b23a52eddaa",
-        "title": "Technician",
-        "active": false,
-        "date_updated": 1764366845,
-        "date_posted": 1764366845,
-        "url": "https://cogeco.wd3.myworkdayjobs.com/Cogeco_Careers/job/Uniontown-PA/Technician--Customer-Facing_JR9144",
-        "locations": [
-            "Uniontown, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cogeco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "CMC Markets",
-        "id": "25435053-db63-4773-b785-5fe5bfd4d6aa",
-        "title": "Quantitative Trader",
-        "active": false,
-        "date_updated": 1764366802,
-        "date_posted": 1764366802,
-        "url": "https://cmcmarkets.wd3.myworkdayjobs.com/CMC_Markets_Careers/job/Toronto/Quantitative-Trader_CMC4730",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/CMC-Markets",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Arlington County VA",
-        "id": "a88f40ef-eef9-4e22-86ca-3f3cf9db4d67",
-        "title": "Engineering Support Associate",
-        "active": false,
-        "date_updated": 1764366653,
-        "date_posted": 1764366653,
-        "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1167",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Arlington-County-VA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BAE Systems",
-        "id": "67856fae-1de1-4d10-aa33-b872cdd15e87",
-        "title": "Data Analyst - Supply Chain",
-        "active": false,
-        "date_updated": 1764365560,
-        "date_posted": 1764365560,
-        "url": "https://baesystems.taleo.net/careersection/2/jobdetail.ftl?job=00132502",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/BAE-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Interact Software",
         "id": "e47c7eb9-396f-4747-984d-d523c8e30a39",
@@ -249,71 +159,6 @@
             "Portland, OR"
         ],
         "company_url": "https://simplify.jobs/c/Deckers-Brands",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Turntide",
-        "id": "c6452181-bf88-4256-a1ed-04d645937538",
-        "title": "Electrical Hardware Engineer",
-        "active": true,
-        "date_updated": 1764367223,
-        "date_posted": 1764367223,
-        "url": "https://ats.rippling.com/turntide-careers/jobs/afaa3bd8-f5f1-4f4a-a53e-13f00b7ca8fa",
-        "locations": [
-            "Newcastle upon Tyne, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Turntide",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Circle",
-        "id": "a92e003b-37f8-425e-8c24-a7bc40e4cea1",
-        "title": "New Grad Software Engineer - Backend 2026",
-        "active": false,
-        "date_updated": 1764367087,
-        "date_posted": 1764367087,
-        "url": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/New-Grad-Software-Engineer--Backend-2024_JR100011-1",
-        "locations": [
-            "Salt Lake City, UT",
-            "Boston, MA",
-            "Seattle, WA",
-            "Washington, DC",
-            "SF",
-            "Austin, TX",
-            "LA",
-            "Miami, FL",
-            "Chicago, IL",
-            "NYC",
-            "Phoenix, AZ",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Circle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The University of Edinburgh",
-        "id": "4d54d0a7-6995-4c01-9497-1abec913aac9",
-        "title": "Research Fellow",
-        "active": false,
-        "date_updated": 1764367159,
-        "date_posted": 1764367159,
-        "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13446",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -32088,24 +31933,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Vistry Group",
-        "id": "08cbb1df-a9ea-4d14-b47c-e167a717c0e7",
-        "title": "Design and Technical Graduate",
-        "active": false,
-        "date_updated": 1767351436,
-        "date_posted": 1764366134,
-        "url": "https://careers-vistrygroup.icims.com/jobs/7941/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Odenton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Vistry-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Prysmian Cables & Systems",
         "id": "aff198d0-d33a-4ad8-9069-46d8b09e991d",
@@ -44394,26 +44221,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vistry Group",
-        "id": "4315fa67-0f6f-470c-9dd6-a0a9bd8cf45f",
-        "title": "Design & Technical Graduate",
-        "active": false,
-        "date_updated": 1768271046,
-        "date_posted": 1764366131,
-        "url": "https://careers-vistrygroup.icims.com/jobs/7945/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Chantilly, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vistry-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": " Cottingham & Butler",
         "id": "10490415-411f-46b4-bcdf-8fd74bc04a50",
@@ -52020,26 +51827,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vistry Group",
-        "id": "f3b7e9ef-368c-48e5-b751-6766461ce774",
-        "title": "Real Estate Graduate",
-        "active": false,
-        "date_updated": 1768646472,
-        "date_posted": 1764366119,
-        "url": "https://careers-vistrygroup.icims.com/jobs/7968/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Odenton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Vistry-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -349321,6 +349108,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "48f3cfe9-0438-42d1-9ab8-c9e35bbbbf06",
+        "title": "Postdoctoral Research Positions at Center for Exoplanets & Habitable Worlds",
+        "active": true,
+        "date_updated": 1784609644,
+        "date_posted": 1781360738,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Research-Positions-at-Penn-State-Center-for-Exoplanets---Habitable-Worlds_REQ_0000073486-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
