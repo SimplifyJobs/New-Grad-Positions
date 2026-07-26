@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Thales",
-        "id": "ec72b7ab-e2fb-4085-b3de-61de94197a1e",
-        "title": "Systems Engineering Intern",
-        "active": false,
-        "date_updated": 1764303014,
-        "date_posted": 1764303014,
-        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Belfast/XMLNAME-2026-Systems-Engineering-Placement-Student_R0307228",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Thales",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Thales",
-        "id": "0148433f-4bc8-4e07-8ed3-3dcfa964d37e",
-        "title": "Environmental Test and Trials Engineer",
-        "active": false,
-        "date_updated": 1764303010,
-        "date_posted": 1764303010,
-        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Belfast/Trials-and-Environmental-Test-Placement-Engineer_R0307932",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Thales",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AWE",
         "id": "82aaa01d-73a9-4f11-bc18-02aead3529a2",
@@ -330371,7 +330335,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "b41558a2-a4a1-460b-953a-246f18295bc7",
         "title": "Config Data Mgmt Cntrlr 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784585704,
         "date_posted": 1784585395,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-CONFIG-DATA-MGMT-CNTRLR-1-Virg/1410779500/?ats=successfactors",
@@ -336678,7 +336642,7 @@
         "company_name": "L3Harris Technologies",
         "id": "d2f25cb4-f8f8-4f4f-b949-9bec2e8c4ba8",
         "title": "Software Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1784672494,
         "date_posted": 1784613877,
         "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineer-TX-75402/1410859000/?ats=successfactors",
@@ -336698,7 +336662,7 @@
         "company_name": "L3Harris Technologies",
         "id": "b22c5f54-5cdc-437a-8dbc-1fcd052c0318",
         "title": "Software Engineering Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1784672500,
         "date_posted": 1784613879,
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineering-FL-32904/1410865700/?ats=successfactors",
