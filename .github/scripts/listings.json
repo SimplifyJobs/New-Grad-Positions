@@ -50408,7 +50408,7 @@
         "company_name": "Ensign-Bickford Aerospace & Defense Company",
         "id": "c18a6a31-6cf7-481a-99f5-cb0c4d069d8a",
         "title": "Soldering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1768235148,
         "date_posted": 1768235148,
         "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Soldering-Technician_REQ106824",
@@ -258200,7 +258200,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -258680,7 +258680,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -274577,7 +274577,7 @@
         "company_name": "CAI",
         "id": "8a849022-9763-4117-a1c4-04369a4fe47b",
         "title": "Image Verifier - Neurodiverse Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1781170299,
         "date_posted": 1781129230,
         "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Image-Verifier--Neurodiverse-Solutions_R7277",
@@ -292451,7 +292451,7 @@
         "company_name": "GE Healthcare",
         "id": "bdca6b0d-54ef-4f43-9135-d4d108215238",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1782814145,
         "date_posted": 1782781530,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---San-Antonio--TX_R4042993-1",
@@ -343468,7 +343468,7 @@
         "company_name": "Illumina",
         "id": "df4438fa-d274-458c-bfa7-b388f0639a6c",
         "title": "Field Service Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1784813538,
         "date_posted": 1783168828,
         "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Texas---Remote/Field-Service-Engineer-2--Austin-TX_42638-JOB-1",
@@ -349005,7 +349005,7 @@
         "company_name": "Adobe",
         "id": "566b2bbd-54ce-4b8d-a1ac-674afdd92d61",
         "title": "Research Scientist/Engineer - Photoshop",
-        "active": true,
+        "active": false,
         "date_updated": 1784983589,
         "date_posted": 1780265244,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Research-Scientist-Engineer_R164613",
@@ -349351,6 +349351,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University Corporation for Atmospheric Research",
+        "id": "a8338279-5aec-41da-a1bb-be6e9f724991",
+        "title": "Climate & Global Change Postdoctoral Fellowship",
+        "active": true,
+        "date_updated": 1785068301,
+        "date_posted": 1784505600,
+        "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Climate---Global-Change-Postdoctoral-Fellowship_REQ-2026-119",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Center-For-Atmospheric-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
