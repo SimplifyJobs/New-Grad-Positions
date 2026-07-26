@@ -1,78 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "S&P Global ",
-        "id": "bfa82268-4df0-4455-8c2b-286d5932b7a0",
-        "title": "Associate Product Specialist - ETF & Benchmark Solutions",
-        "active": false,
-        "date_updated": 1764370589,
-        "date_posted": 1764370589,
-        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/London-UK/Associate-Product-Specialist--ETF---Benchmark-Solutions_321744",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/SP-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Wing Assistant",
-        "id": "f5fd7f07-c8cf-47ea-ac08-9cfd2109b1b4",
-        "title": "Founder's Associate/Product Manager",
-        "active": false,
-        "date_updated": 1764369191,
-        "date_posted": 1764369191,
-        "url": "https://jobs.lever.co/getwingapp/e28a1fa1-7617-409d-9e76-95d11e2893ee/apply",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Wing-Assistant",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Wing Assistant",
-        "id": "89e1d185-e000-4dfb-b97f-a087516a8020",
-        "title": "Founder's Associate / Product Manager",
-        "active": false,
-        "date_updated": 1764369189,
-        "date_posted": 1764369189,
-        "url": "https://jobs.lever.co/getwingapp/6a034065-a2cd-4ab8-905b-23435ea1235c/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Wing-Assistant",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Wing Assistant",
-        "id": "63abe376-4e65-4da2-a05c-ba74dd471a4c",
-        "title": "Founders Associate Product Manager",
-        "active": false,
-        "date_updated": 1764369191,
-        "date_posted": 1764369191,
-        "url": "https://jobs.lever.co/getwingapp/de2bfb07-871f-4e97-8d14-bcfc144772ee/apply",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Wing-Assistant",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "TD Bank",
         "id": "c92fef25-cdbc-4f18-a781-66eb6c8bb8a4",
@@ -264630,7 +264558,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -349049,6 +348977,46 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Retell AI",
+        "id": "15516d2c-266f-4437-aa09-f737ed54939c",
+        "title": "Internal Deployed Engineer",
+        "active": true,
+        "date_updated": 1785106081,
+        "date_posted": 1785104495,
+        "url": "https://jobs.ashbyhq.com/retell-ai/2e3f3930-0949-4b86-8ed1-7f5d9e068c87/application?embed=true",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Retell-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Retell AI",
+        "id": "2b6ae9a3-338f-478c-8bb1-24ae92d0c4cf",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1785104821,
+        "date_posted": 1785104495,
+        "url": "https://jobs.ashbyhq.com/retell-ai/538ecfa9-2315-42a6-89cc-3cae52165526/application?embed=true",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Retell-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
