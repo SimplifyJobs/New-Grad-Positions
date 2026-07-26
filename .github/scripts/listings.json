@@ -1,115 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "FocusKPI",
-        "id": "9e7b804b-ab77-4c61-8874-7bbcb5b7cac9",
-        "title": "AI Engineer Trainee",
-        "active": false,
-        "date_updated": 1764300233,
-        "date_posted": 1764300233,
-        "url": "https://focuskpi.applytojob.com/apply/8wVLzr3Ubt/AI-Engineer-Trainee-Remote-Experience-With-AI-Coding",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/FocusKPI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Danaher Corporation",
-        "id": "1e1c6a35-ee0a-49a6-9fbf-7a3bd6c7d3b5",
-        "title": "Field Service Engineer - Tucson - AZ",
-        "active": false,
-        "date_updated": 1764300134,
-        "date_posted": 1764300134,
-        "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Tucson-Arizona-United-States/Field-Service-Engineer---Tucson--AZ_R1297068",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "b0945ae7-52df-445c-806f-18240148a916",
-        "title": "Software Engineer 1 - Enterprise Architecture",
-        "active": false,
-        "date_updated": 1764300031,
-        "date_posted": 1764300031,
-        "url": "https://aexp.eightfold.ai/careers/job/38852057",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "American Express",
-        "id": "8a3d0a0c-f52e-41e1-b804-5c6ed8d622b0",
-        "title": "Associate-Digital Product Management",
-        "active": false,
-        "date_updated": 1764300008,
-        "date_posted": 1764300008,
-        "url": "https://aexp.eightfold.ai/careers/job/38962236",
-        "locations": [
-            "Brighton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Danaher Corporation",
-        "id": "05c7889b-36d7-4154-8342-d1f6a758afa7",
-        "title": "Field Service Engineer 1",
-        "active": false,
-        "date_updated": 1764300096,
-        "date_posted": 1764300096,
-        "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Dallas-Texas-United-States/Field-Service-Engineer-I---Dallas--TX_R1299560",
-        "locations": [
-            "Dallas, TX",
-            "Fort Worth, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Unily",
-        "id": "e2554a19-7b03-4cab-b0b6-d02912e6a7da",
-        "title": "Technical Graduate Programme",
-        "active": false,
-        "date_updated": 1764299760,
-        "date_posted": 1764299760,
-        "url": "https://ats.rippling.com/unily/jobs/c387c133-6332-484f-a47e-a9e4e0113fd5",
-        "locations": [
-            "Guildford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Unily",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Oracle",
         "id": "ae09b4db-4f1a-4d58-8067-d048c287b9c5",
@@ -202,24 +93,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Zurich Insurance",
-        "id": "f0942827-735e-4d7a-b393-83e3433d3658",
-        "title": "Digital Trading Underwriter - Underwriting Delivery Team",
-        "active": false,
-        "date_updated": 1764300395,
-        "date_posted": 1764300395,
-        "url": "https://www.careers.zurich.com/job/Chichester-Digital-Trading-Underwriter-Underwriting-Delivery-Team-GB-W/1333154157/?ats=successfactors",
-        "locations": [
-            "Portsmouth, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Zurich-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Argonne National Laboratory",
         "id": "8eb7611f-22e3-4c33-a9cc-86ce8920d72f",
@@ -268,42 +141,6 @@
             "Woodridge, IL"
         ],
         "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Barry-Wehmiller",
-        "id": "a6e8b948-f75a-41c7-b39c-fdbb5e048c1b",
-        "title": "Entry Level Software Engineer - Start Spring / Summer 2026",
-        "active": false,
-        "date_updated": 1764300442,
-        "date_posted": 1764300442,
-        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Raleigh-NC/Entry-Level-Software-Engineer--Start-Spring---Summer-2026-_R019945",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Barry-Wehmiller",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cisive",
-        "id": "56ae36d3-be2d-4b0f-a8fa-7b306f926908",
-        "title": "Software Developer",
-        "active": false,
-        "date_updated": 1764300420,
-        "date_posted": 1764300420,
-        "url": "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Developer_JR100117-1",
-        "locations": [
-            "Maryland"
-        ],
-        "company_url": "https://simplify.jobs/c/Cisive",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -682,78 +519,6 @@
             "Cambridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Danaher Corporation",
-        "id": "bc182196-d43a-4193-93ba-0cd5272996a2",
-        "title": "Field Service Engineer",
-        "active": false,
-        "date_updated": 1764300146,
-        "date_posted": 1764300146,
-        "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/GBR---Remote/Field-Service-Engineer--London-_R1298398",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Danaher Corporation",
-        "id": "78ca8a92-f5c2-47bc-be3a-a090d77ff90d",
-        "title": "Field Service Engineer",
-        "active": false,
-        "date_updated": 1764300162,
-        "date_posted": 1764300162,
-        "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/GBR---Remote/Field-Service-Engineer--London-_R1295342-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Danaher Corporation",
-        "id": "65321c89-77db-43ee-b1ab-1f8ee993463e",
-        "title": "Field Service Engineer",
-        "active": false,
-        "date_updated": 1764300145,
-        "date_posted": 1764300145,
-        "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/GBR---Remote/Field-Service-Engineer--London-_R1298396",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Danaher Corporation",
-        "id": "282a2a24-5c99-456d-bcf1-9bf4be98d228",
-        "title": "Field Service Engineer",
-        "active": false,
-        "date_updated": 1764300146,
-        "date_posted": 1764300146,
-        "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/GBR---Remote/Field-Service-Engineer--London-_R1298395",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
