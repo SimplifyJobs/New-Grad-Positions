@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "50a4c51c-f065-4220-af8b-55c30ab5ba74",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1764376651,
-        "date_posted": 1764376651,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040757",
-        "locations": [
-            "Canterbury, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Thales",
-        "id": "1e45fa3c-5d8b-46ad-bbec-15e4f97b27c7",
-        "title": "Placement Software Engineer",
-        "active": false,
-        "date_updated": 1764376629,
-        "date_posted": 1764376629,
-        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Belfast/Placement-Software-Engineer_R0305802",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Thales",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "CVS Health",
         "id": "5c6e0ea7-ddd5-4795-9212-8980c4b73069",
