@@ -288073,7 +288073,7 @@
         "company_name": "Acrisure",
         "id": "17eb8a6f-67ab-442f-927c-a803b6d8f192",
         "title": "Product Success Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1782117830,
         "date_posted": 1781917892,
         "url": "https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/816-Congress-Ave-Ste-1800----AUSTIN-TX/Product-Success-Specialist_JR113606",
@@ -317048,7 +317048,7 @@
         "company_name": "Sonepar",
         "id": "1d6fa710-751b-4eb5-854f-14c036ad5698",
         "title": "Product File Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783931541,
         "date_posted": 1783893820,
         "url": "https://career.sonepar.com/job/Omaha-Product-File-Analyst-NE-68144/1414075033/?ats=successfactors",
@@ -322381,7 +322381,7 @@
         "company_name": "Cisco",
         "id": "7a41b37b-bd8a-4927-901d-15da9744cdcf",
         "title": "Failure Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784154435,
         "date_posted": 1784153503,
         "url": "https://careers.cisco.com/global/en/job/2018947",
@@ -336439,7 +336439,7 @@
         "company_name": "University of British Columbia",
         "id": "74875a99-6903-4125-ae86-24a7ba6b33bb",
         "title": "Graduate Teaching Assistant Health Data Analytics Course: Introduction to the Big Data Era",
-        "active": true,
+        "active": false,
         "date_updated": 1784677340,
         "date_posted": 1784073600,
         "url": "https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Hospital-Site---Vancouver-BC-Canada/Graduate-Teaching-Assistant--Health-Data-Analytics-Course--Introduction-to-the-Big-Data-Era---Opportunities-for-Better-Health-Care_JR25265",
@@ -340980,7 +340980,7 @@
         "company_name": "Encore Auctions",
         "id": "1f6cf7ed-f256-45a9-b813-60d0068877aa",
         "title": "Technical Hardware Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1784796193,
         "date_posted": 1784596321,
         "url": "https://ats.rippling.com/encore-auctions/jobs/dbc43d3e-7113-419e-92c7-3dcb3f2fd104",
@@ -348275,7 +348275,7 @@
         "company_name": "Gaiia",
         "id": "2c0b0a9a-753b-435f-9684-4dc886fe5fdd",
         "title": "Data Migration Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1785055584,
         "date_posted": 1775081397,
         "url": "https://ats.rippling.com/gaiias-open-positions/jobs/4b2a9591-cabc-4196-b879-99ff06278144",
@@ -348732,5 +348732,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DGR Systems",
+        "id": "172ad890-81ad-4e3a-ab8b-3e63d27b0a38",
+        "title": "Associate Engineer - Microsoft 365 Solutions",
+        "active": true,
+        "date_updated": 1785141635,
+        "date_posted": 1784596611,
+        "url": "https://ats.rippling.com/dgrsystems/jobs/8165421c-9513-46ad-9a80-78c676c49771",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/15a0b362-6e39-4aed-9040-6eca7f0b45b8",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
