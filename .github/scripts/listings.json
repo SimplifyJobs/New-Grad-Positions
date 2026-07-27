@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Bass Pro Shops",
-        "id": "5ebd0191-ef42-479b-bd7c-f00e3b3c56e1",
-        "title": "Assistant Merchant 1 Fishing Rods & Reels",
-        "active": false,
-        "date_updated": 1764373796,
-        "date_posted": 1764373796,
-        "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Assistant-Merchant-I-Rods---Reels_R234431",
-        "locations": [
-            "Springfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Bass-Pro-Shops",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Bass Pro Shops",
-        "id": "75a87e70-0964-4e7f-bfc6-b050a9cbaafb",
-        "title": "Assistant Merchant 1-Fishing",
-        "active": false,
-        "date_updated": 1764373216,
-        "date_posted": 1764373216,
-        "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Winnipeg-MB-Base-Camp/Assistant-Merchant-I-Fishing_R240797",
-        "locations": [
-            "Winnipeg, MB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Bass-Pro-Shops",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "5d0c42ad-1b57-461b-bf2c-af14053c435d",
@@ -69,24 +31,6 @@
             "Springfield, MO"
         ],
         "company_url": "https://simplify.jobs/c/Bass-Pro-Shops",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "General Dynamics Information Technology",
-        "id": "2af08e03-6ce3-4d09-91e8-e6b3686d0291",
-        "title": "Data Scientist",
-        "active": false,
-        "date_updated": 1764374273,
-        "date_posted": 1764374273,
-        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Tampa/Data-Scientist--On-site-in-Tampa--FL-_RQ210904-1",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/GDIT",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -338372,7 +338316,7 @@
         "company_name": "Deluxe",
         "id": "4fd8c949-8e4c-4555-87e8-f15b89627f06",
         "title": "Technical Product Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784692213,
         "date_posted": 1782252264,
         "url": "https://deluxe.wd5.myworkdayjobs.com/en-US/USA_CAN/job/Remote--USA/Technical-Product-Analyst-I_260794WD",
