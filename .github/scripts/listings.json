@@ -3,42 +3,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "5d0c42ad-1b57-461b-bf2c-af14053c435d",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764374910,
-        "date_posted": 1764374910,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040720",
-        "locations": [
-            "Beaconsfield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Bass Pro Shops",
-        "id": "64b52113-a9c6-4fda-931e-f93800802ee5",
-        "title": "Product Specialist - Casual Footwear",
-        "active": false,
-        "date_updated": 1764374593,
-        "date_posted": 1764374593,
-        "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Product-Specialist---Casual-Footwear_R241109",
-        "locations": [
-            "Springfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Bass-Pro-Shops",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "50a4c51c-f065-4220-af8b-55c30ab5ba74",
         "title": "Trading Assistant",
         "active": false,
@@ -837,24 +801,6 @@
             "Remote in UK"
         ],
         "company_url": "https://simplify.jobs/c/Goodnotes",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qualcomm",
-        "id": "e232907d-54a5-4e77-9ee2-eedabdebc9f2",
-        "title": "Physical Design Engineer - ASICS Engineering",
-        "active": false,
-        "date_updated": 1764374682,
-        "date_posted": 1764374682,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446714867469",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -31186,24 +31132,6 @@
             "Middletown, CT"
         ],
         "company_url": "https://simplify.jobs/c/Arcadis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Uhaul",
-        "id": "b155bba9-97a8-487d-86a1-8ec76d897964",
-        "title": "Hitch Professional",
-        "active": false,
-        "date_updated": 1764374519,
-        "date_posted": 1764374519,
-        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Truro-Nova-Scotia/Hitch-Professional_R233270-1",
-        "locations": [
-            "New Glasgow, NS, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Uhaul",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
