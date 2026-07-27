@@ -181533,7 +181533,7 @@
         "company_name": "LetsGetChecked",
         "id": "44f63b87-48fd-489b-9f6e-71d611ee69a1",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775573461,
         "date_posted": 1775571459,
         "url": "https://job-boards.eu.greenhouse.io/letsgetchecked/jobs/4833407101",
@@ -268673,7 +268673,7 @@
         "company_name": "CoStar Group",
         "id": "cd60499a-dfb8-403e-ba59-7ed8d2cba47d",
         "title": "Bilingual French/English Associate Sales Comparable Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1780998501,
         "date_posted": 1780740292,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Bilingual-French-English-Associate-Sales-Comparable-Researcher_R37248",
@@ -344948,7 +344948,7 @@
         "company_name": "Marsh & McLennan",
         "id": "d63a1e36-bc28-4b1b-9610-5689a7f332c2",
         "title": "Catastrophe Advisory - AVP or VP",
-        "active": true,
+        "active": false,
         "date_updated": 1784873446,
         "date_posted": 1784764800,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Catastrophe-Advisory--AVP-or-VP-_R_357272",
@@ -348432,7 +348432,7 @@
         "company_name": "PNC Financial Services",
         "id": "d4190e8a-30ce-4e88-b3ec-2903dcd0933c",
         "title": "Quantitative Analytics & Model Development Analyst - Data - Modeling & Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1785065333,
         "date_posted": 1784851200,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/VA---Tysons-Corner/Quantitative-Analytics---Model-Development-Analyst---Data--Modeling---Analytics_R229308-1",
@@ -348872,5 +348872,46 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "908303ba-e269-4604-90fe-a27b03a930f9",
+        "title": "Asset Tracking Technician",
+        "active": true,
+        "date_updated": 1785151544,
+        "date_posted": 1784851200,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Asset-Tracking-Technician---Connecticut_R4043891",
+        "locations": [
+            "Waterbury, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jonas Software",
+        "id": "3fc16a74-a9eb-4fa6-af6e-e70895f74579",
+        "title": "Implementation Specialist 1",
+        "active": true,
+        "date_updated": 1785150580,
+        "date_posted": 1780611014,
+        "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/Implementation-Specialist-I_R51653",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jonas-Software",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
