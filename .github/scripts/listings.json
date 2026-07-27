@@ -258298,7 +258298,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -283666,7 +283666,7 @@
         "company_name": "Goldman Sachs",
         "id": "77482a4b-c4db-430c-9e57-1a5071d06e6b",
         "title": "Global Banking & Markets - Loan Management - SF Trade Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1781735941,
         "date_posted": 1781734087,
         "url": "https://higher.gs.com/roles/176868",
@@ -294482,7 +294482,7 @@
         "company_name": "Schroders",
         "id": "9d36ae31-8f5c-4faa-912b-e3a3ec7057a0",
         "title": "Client Static Data Analyst - Operations Academy",
-        "active": true,
+        "active": false,
         "date_updated": 1782295204,
         "date_posted": 1782223651,
         "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1677",
@@ -298452,7 +298452,7 @@
         "company_name": "Southern Tide",
         "id": "b3df6211-60da-4ab5-8ba6-516a9d99e2d3",
         "title": "Production Development Assistant - Women's",
-        "active": true,
+        "active": false,
         "date_updated": 1782915123,
         "date_posted": 1782914928,
         "url": "https://oxford.wd5.myworkdayjobs.com/SouthernTide/job/Greenville-SC---Southern-Tide-Headquarters/Production-Development-Assistant--Women-s-_R48041-1",
@@ -306460,7 +306460,7 @@
         "company_name": "Akima",
         "id": "8a457c47-06f4-45e7-af52-38a8d4be974c",
         "title": "Weather Forecaster 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783347728,
         "date_posted": 1783346560,
         "url": "https://careers.akima.com/jobs/24091?icims=1",
@@ -318865,7 +318865,7 @@
         "company_name": "FlightHub",
         "id": "c3cd89be-9fb1-4392-a1fe-a64e3b07beed",
         "title": "AI Coder",
-        "active": true,
+        "active": false,
         "date_updated": 1783982099,
         "date_posted": 1783980909,
         "url": "https://job-boards.greenhouse.io/flighthub/jobs/8060355",
@@ -319801,7 +319801,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -332242,7 +332242,7 @@
         "company_name": "Varian",
         "id": "d224bcab-8222-4897-b73a-18d5582c9b93",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784614161,
         "date_posted": 1783159970,
         "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ATL-NP/Field-Service-Engineer-HW--Miami--FL_R-25914-1",
@@ -348236,7 +348236,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "b916f41f-f7eb-4b6f-8f44-0548ef19671b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785046322,
         "date_posted": 1785046231,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1412050700/?ats=successfactors",
@@ -348947,6 +348947,183 @@
             "Buffalo, NY"
         ],
         "company_url": "https://simplify.jobs/c/KeyBank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "c29f5fe7-d092-4635-aa51-5160b768cd11",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1785163978,
+        "date_posted": 1785110400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site-_01860803",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Trainline",
+        "id": "abc4d0c3-741e-40b0-b430-dff60ea2e58d",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1785163681,
+        "date_posted": 1785161508,
+        "url": "https://jobs.ashbyhq.com/trainline/c252f025-e4bb-410e-9b94-a1f5e16e9edd/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Trainline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "UW Credit Union",
+        "id": "da1edac2-c456-4ca2-abdc-5419d5c04292",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1785163863,
+        "date_posted": 1785161133,
+        "url": "https://careers-uwcu.icims.com/jobs/6150/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/UW-Credit-Union",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pogo Technologies, Inc.",
+        "id": "223c9803-c3ad-4d94-bee5-814efdb939ef",
+        "title": "Full Stack Engineer",
+        "active": true,
+        "date_updated": 1785163723,
+        "date_posted": 1785162110,
+        "url": "https://jobs.ashbyhq.com/joinpogo/1547e923-aab9-4912-b402-49b60c782893/application?embed=true",
+        "locations": [
+            "Canada",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/f58a30c3-a04b-42bb-a8b9-b55894b3d405",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TIAA",
+        "id": "80c2e7ad-0c14-4c64-90ca-97d2e8a07aef",
+        "title": "Investment Performance Analyst",
+        "active": true,
+        "date_updated": 1785163141,
+        "date_posted": 1785110400,
+        "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/Investment-Performance-Analyst_R260500515-1",
+        "locations": [
+            "Chicago, IL",
+            "NYC",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/TIAA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "943c34a8-56b9-4010-9579-eb69cc5a1ee7",
+        "title": "Software Engineer 1 Graduate",
+        "active": true,
+        "date_updated": 1785163393,
+        "date_posted": 1785110400,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Grosvernor-House/Software-Engineer-I--Graduate-_R116044-2",
+        "locations": [
+            "Southampton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "9fin",
+        "id": "358ef8ed-86ce-43ea-a511-45ae660e9663",
+        "title": "Data Operations Associate - Financials",
+        "active": true,
+        "date_updated": 1785162601,
+        "date_posted": 1785161907,
+        "url": "https://jobs.ashbyhq.com/9fin/2dc33d78-ff59-4695-a5c1-a417a6082f6f/application?embed=true",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/9fin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RELX",
+        "id": "90bcba7b-34ec-4f16-8ac9-408b360c11cb",
+        "title": "Software Engineer 1 - Graduate",
+        "active": true,
+        "date_updated": 1785162764,
+        "date_posted": 1785110400,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Grosvernor-House/Software-Engineer-I--Graduate-_R116044-3",
+        "locations": [
+            "Southampton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "fa0ebc2b-c763-4683-926b-c4befa25a42e",
+        "title": "Java Software Engineer 1",
+        "active": true,
+        "date_updated": 1785162723,
+        "date_posted": 1785110400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Java-Software-Engineer-I--On-Site-_01860806",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
