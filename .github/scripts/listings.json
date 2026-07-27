@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "CVS Health",
-        "id": "5c6e0ea7-ddd5-4795-9212-8980c4b73069",
-        "title": "Application Developer",
-        "active": false,
-        "date_updated": 1764384890,
-        "date_posted": 1764384890,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Arizona/Application-Developer_R0707420",
-        "locations": [
-            "Arizona"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Ramboll",
         "id": "394cfd31-0636-4063-aed6-1456bc1f089e",
@@ -111373,7 +111355,7 @@
         "company_name": "Whoop",
         "id": "f36c475c-e6ef-4b2e-9d44-08abae8f7f4a",
         "title": "Software Engineer 1 - Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1771974965,
         "date_posted": 1771974965,
         "url": "https://jobs.lever.co/whoop/3b94218d-3a5a-4dd1-91c7-5f18655c93a8/apply",
@@ -159229,7 +159211,7 @@
         "company_name": "Whoop",
         "id": "eee5bda2-ed1f-4835-999c-5c86bfdaf6f9",
         "title": "Software Engineer 1 - Frontend - Growth",
-        "active": true,
+        "active": false,
         "date_updated": 1773699824,
         "date_posted": 1773699824,
         "url": "https://jobs.lever.co/whoop/27101f2d-abc5-4cf3-aa86-f164e66ecdd8/apply",
