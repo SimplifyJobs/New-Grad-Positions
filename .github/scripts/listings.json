@@ -310097,7 +310097,7 @@
         "company_name": "GE Healthcare",
         "id": "0d4fe4d8-2a3c-4bae-ab91-fcfa10a631c4",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783472992,
         "date_posted": 1783472744,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/El-Paso/Field-Engineer-1_R4043144-2",
@@ -316958,7 +316958,7 @@
         "company_name": "Sonepar",
         "id": "1d6fa710-751b-4eb5-854f-14c036ad5698",
         "title": "Product File Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1783931541,
         "date_posted": 1783893820,
         "url": "https://career.sonepar.com/job/Omaha-Product-File-Analyst-NE-68144/1414075033/?ats=successfactors",
@@ -348205,7 +348205,7 @@
         "company_name": "Intel",
         "id": "144e1a48-c61f-4ab8-8c01-3dd597e4a6d2",
         "title": "Packaging Module Equipment Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785055619,
         "date_posted": 1784592000,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Packaging-Module-Equipment-Development-Engineer_JR0285781",
@@ -348649,7 +348649,7 @@
         "company_name": "DGR Systems",
         "id": "172ad890-81ad-4e3a-ab8b-3e63d27b0a38",
         "title": "Associate Engineer - Microsoft 365 Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1785141635,
         "date_posted": 1784596611,
         "url": "https://ats.rippling.com/dgrsystems/jobs/8165421c-9513-46ad-9a80-78c676c49771",
@@ -350847,5 +350847,23 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "VaynerMedia",
+        "id": "2d1e5268-70f2-4085-892c-614648e8984a",
+        "title": "Senior Associate - Analytics - Media",
+        "active": true,
+        "date_updated": 1785228122,
+        "date_posted": 1783980767,
+        "url": "https://vaynermedia.com/careers?gh_jid=8008443",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/VaynerMedia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
