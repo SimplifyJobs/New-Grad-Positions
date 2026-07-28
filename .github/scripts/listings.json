@@ -282949,7 +282949,7 @@
         "company_name": "Goldman Sachs",
         "id": "77482a4b-c4db-430c-9e57-1a5071d06e6b",
         "title": "Global Banking & Markets - Loan Management - SF Trade Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1781735941,
         "date_posted": 1781734087,
         "url": "https://higher.gs.com/roles/176868",
@@ -319084,7 +319084,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -322102,7 +322102,7 @@
         "company_name": "Amazon",
         "id": "e4b58f75-06fd-4cb5-a7a9-7a5bc9223efd",
         "title": "Digital Associate - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1784154963,
         "date_posted": 1784153162,
         "url": "https://amazon.jobs/en/jobs/10475774/digital-associate-ring-data-engineering-services-operations-it-support-engineering",
@@ -348099,7 +348099,7 @@
         "company_name": "Leidos",
         "id": "4f269b50-3cb1-4960-9d2f-c2b2a5f0a932",
         "title": "Cybersecurity Product Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785149493,
         "date_posted": 1784246400,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cybersecurity-Product-Engineer_R-00187602",
@@ -348242,7 +348242,7 @@
         "company_name": "RTX",
         "id": "c29f5fe7-d092-4635-aa51-5160b768cd11",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785163978,
         "date_posted": 1785110400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site-_01860803",
@@ -348969,7 +348969,7 @@
         "company_name": "JP Morgan Chase",
         "id": "ca2e0d80-9a79-444c-8113-4d3810fca8bc",
         "title": "Software Engineer 2 - Java/Fullstack/React",
-        "active": true,
+        "active": false,
         "date_updated": 1785194981,
         "date_posted": 1785191126,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771738",
@@ -349641,7 +349641,7 @@
         "company_name": "Atoms",
         "id": "f02c042b-9e16-4ce4-89a2-a10d78d3da08",
         "title": "Harness Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1785194073,
         "date_posted": 1785190518,
         "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8651507002",
@@ -350514,5 +350514,42 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "ef843ea8-58f1-47d4-9e25-1c2c6ba27125",
+        "title": "Client Execution Trading",
+        "active": true,
+        "date_updated": 1785250083,
+        "date_posted": 1767740876,
+        "url": "https://www.citadelsecurities.com/careers/details/client-execution-trading/",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pogo Technologies, Inc.",
+        "id": "33972c52-575d-4ede-a314-0ccebc85ee47",
+        "title": "Full Stack Engineer",
+        "active": true,
+        "date_updated": 1785249640,
+        "date_posted": 1785248418,
+        "url": "https://jobs.ashbyhq.com/joinpogo/a54fe5c6-d695-4925-8087-d9378756dde7/application?embed=true",
+        "locations": [
+            "Canada",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/f58a30c3-a04b-42bb-a8b9-b55894b3d405",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
