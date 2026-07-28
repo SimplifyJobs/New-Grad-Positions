@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "ShyftLabs",
-        "id": "f37c77b7-0682-4e48-8559-c8d685f7719b",
-        "title": "Technical Product Manager",
-        "active": false,
-        "date_updated": 1764519646,
-        "date_posted": 1764519646,
-        "url": "https://jobs.lever.co/shyftlabs/116b8142-6898-4056-ae5b-1621914f3249/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/ShyftLabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Advanced Energy",
-        "id": "f0615ba4-1bf8-47a8-a564-8814bad8e23c",
-        "title": "Product Compliance Engineer 1",
-        "active": false,
-        "date_updated": 1764518730,
-        "date_posted": 1764518730,
-        "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Product-Compliance-Engineer-I-CO-80525/1344925100/?ats=successfactors",
-        "locations": [
-            "Fort Collins, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Advanced-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "1dd1971d-4757-4c89-ba71-1060d844ede8",
@@ -67,169 +31,6 @@
             "Kitchener, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Epiroc",
-        "id": "8aba4c68-64db-48cf-9c94-eee58c9496df",
-        "title": "Early Career",
-        "active": false,
-        "date_updated": 1764520220,
-        "date_posted": 1764520220,
-        "url": "https://www.careerprofile.epiroc.com/job/Broomfield-Early-Career-Product-Application-&-Marketing-Engineer-Development-Program-CO-80020/1245337401/?ats=successfactors",
-        "locations": [
-            "Garland, TX",
-            "Broomfield, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Epiroc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e2c954ef-f37b-4ad1-a373-b1ec36791c0e",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1764520192,
-        "date_posted": 1764520192,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041060",
-        "locations": [
-            "Aylesbury, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "bd77c669-8a5c-4d98-b49b-9ef0c5aa739f",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764520187,
-        "date_posted": 1764520187,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041027",
-        "locations": [
-            "Southampton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ae3f2e53-2fd4-4d09-8ee8-7aae0eddbabc",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764520185,
-        "date_posted": 1764520185,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041082",
-        "locations": [
-            "Cardiff, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9aef7d4a-1a14-4df0-98e1-ba95eea590cf",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764520183,
-        "date_posted": 1764520183,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040793",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "934e4582-72e9-4ce4-b42f-9ee8132ca594",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764520191,
-        "date_posted": 1764520191,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040978",
-        "locations": [
-            "Stratford-upon-Avon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "7b574834-d8f2-4900-82d5-2da0a6726231",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764520189,
-        "date_posted": 1764520189,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041088",
-        "locations": [
-            "Derby, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "76c273c6-12b7-4748-b11e-f2a0e8639372",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764520183,
-        "date_posted": 1764520183,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038487",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0c99bfa3-57b9-4585-be8f-5d78ab8827f4",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764520184,
-        "date_posted": 1764520184,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041089",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -28019,24 +27820,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Halliburton",
-        "id": "7ca6ce47-67f7-4bd5-9cd8-40383b789ea8",
-        "title": "R&M Electrical Technician - I - III",
-        "active": false,
-        "date_updated": 1764519166,
-        "date_posted": 1764519166,
-        "url": "https://jobs.halliburton.com/job/Houston-R&M-Electrical-Technician-(I-III)-Sperry-Drilling-TX-77032/1344575900/?ats=successfactors",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Halliburton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Stanley Black & Decker",
         "id": "040fa9f6-5e38-4f0e-aadd-f18d1849e60d",
         "title": "Service Technician",
@@ -49154,28 +48937,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics",
-        "id": "847bd9c6-2877-484d-8753-6c7fbaa1716c",
-        "title": "Embedded Software Engineer - Embedded Software",
-        "active": true,
-        "date_updated": 1768577002,
-        "date_posted": 1764519974,
-        "url": "https://careers-gdeb.icims.com/jobs/17551/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Groton, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
