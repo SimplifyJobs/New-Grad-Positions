@@ -325176,7 +325176,7 @@
         "company_name": "ADT",
         "id": "33471cc2-5c3e-427b-bd58-4941e976af2e",
         "title": "Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784239923,
         "date_posted": 1784239713,
         "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021376",
