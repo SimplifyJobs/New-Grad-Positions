@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "73a5af1c-485b-45f6-912d-5781c1c9149b",
-        "title": "Low Power ASIC Engineer \u2013 New College Grad 2026",
-        "active": false,
-        "date_updated": 1764540122,
-        "date_posted": 1764540122,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2008185",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Four Seasons",
         "id": "4261c748-a194-4989-ae3f-65b10557a7c4",
@@ -129516,7 +129498,7 @@
         "company_name": "SpryPoint",
         "id": "8a5792ca-e91d-46de-baa4-1081901c9e94",
         "title": "Data Conversion Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1772763248,
         "date_posted": 1772763248,
         "url": "https://jobs.lever.co/sprypointservices/ea33fe62-4334-4eac-9b05-9eac7f6312cc/apply",
@@ -150762,7 +150744,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -150782,7 +150764,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -226146,7 +226128,7 @@
         "company_name": "Caesars Entertainment",
         "id": "c5419a29-0a6b-4d6e-8818-6cfb80a43f75",
         "title": "Analyst 1 - Corporate - Digital Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1778508620,
         "date_posted": 1778508277,
         "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/84192",
@@ -238839,7 +238821,7 @@
         "company_name": "Viridien",
         "id": "27d62306-3b52-4374-a800-705bb429b036",
         "title": "Graphical Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1779403861,
         "date_posted": 1779401384,
         "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Graphical-Software-Developer_JR101297-1",
@@ -245915,7 +245897,7 @@
         "company_name": "Apple",
         "id": "05f5221f-b896-43da-96e6-5eb2ea75288a",
         "title": "Software Engineer - iCloud Platform",
-        "active": false,
+        "active": true,
         "date_updated": 1779823443,
         "date_posted": 1779152912,
         "url": "https://jobs.apple.com/en-us/details/200634236",
@@ -247931,7 +247913,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": false,
+        "active": true,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -256139,7 +256121,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -256619,7 +256601,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -266141,7 +266123,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -267971,7 +267953,7 @@
         "company_name": "Western Alliance",
         "id": "b00373e5-54e1-4446-abe8-08744fbadc47",
         "title": "Associate Foreign Exchange Sales Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1781042761,
         "date_posted": 1781042725,
         "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Boston-MA/Associate-Foreign-Exchange-Sales-Trader_R13232",
@@ -276358,7 +276340,7 @@
         "company_name": "Bank of Montreal",
         "id": "d2a0a81e-f9bf-40a8-830d-bb9f0efdb5c9",
         "title": "Personal & Business Banking Development Program New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1781303499,
         "date_posted": 1781302181,
         "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Personal---Business-Banking-Development-Program--New-Graduate-_R260017863-3",
@@ -277011,7 +276993,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "PA Consulting",
-        "id": "314e1221-0871-4252-99d8-21a93bedcdee",
+        "id": "4b7feeac-2c7a-4260-8556-c8f33800ba50",
         "title": "Salesforce Developer",
         "active": true,
         "date_updated": 1781388924,
@@ -315426,7 +315408,7 @@
         "company_name": "Inversion Space",
         "id": "98b8f971-621c-46bf-8915-22ec116e536a",
         "title": "Full Stack Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1783733984,
         "date_posted": 1783733782,
         "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4714122005",
@@ -319733,7 +319715,7 @@
         "company_name": "Guidewire",
         "id": "0d1fdb68-7acd-47a6-9000-85bad53536d8",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784071157,
         "date_posted": 1783987200,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/Canada---Toronto/Software-Engineer_JR_15001-1",
@@ -319755,7 +319737,7 @@
         "company_name": "Guidewire",
         "id": "17734f9e-611b-4c99-b1f8-b1434eebd5ed",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784071157,
         "date_posted": 1783987200,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/Canada---Toronto/Software-Engineer_JR_15002",
@@ -339127,7 +339109,7 @@
         "company_name": "General Motors",
         "id": "98692bc2-e4ee-44ca-8252-b744fef826af",
         "title": "Software Engineer - AV HIL Platform and Services",
-        "active": true,
+        "active": false,
         "date_updated": 1784787575,
         "date_posted": 1781950837,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-HIL-Platform-and-Services_JR-202602819-2",
@@ -342193,7 +342175,7 @@
         "company_name": "Edwards Lifesciences",
         "id": "60c011d1-c985-4830-8f58-273b7efbb363",
         "title": "Associate Analyst - Technical Product Owner",
-        "active": false,
+        "active": true,
         "date_updated": 1784845081,
         "date_posted": 1782857319,
         "url": "https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA-IRV-1442-AltonMIC/Associate-Analyst--Technical-Product-Owner_Req-48666",
@@ -342699,7 +342681,7 @@
         "company_name": "NVIDIA",
         "id": "a455da9d-eaec-41c8-9de6-819c1f5bac60",
         "title": "Software Engineer New Grad - Physical Design Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1784847115,
         "date_posted": 1784764800,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Physical-Design-Infrastructure---New-College-Grad-2026_JR2021823",
@@ -343772,7 +343754,7 @@
         "company_name": "Marsh & McLennan",
         "id": "d63a1e36-bc28-4b1b-9610-5689a7f332c2",
         "title": "Catastrophe Advisory - AVP or VP",
-        "active": true,
+        "active": false,
         "date_updated": 1784873446,
         "date_posted": 1784764800,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Catastrophe-Advisory--AVP-or-VP-_R_357272",
@@ -350297,5 +350279,225 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Super Micro Computer",
+        "id": "4b44405f-b28c-4f00-8c54-39814353bfa4",
+        "title": "Product Management Associate",
+        "active": true,
+        "date_updated": 1785277514,
+        "date_posted": 1780103176,
+        "url": "https://jobs.supermicro.com/job/San-Jose-Associate-Product-Manager-Cali/1367984400/?ats=successfactors",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Super-Micro-Computer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ADT",
+        "id": "e62bf7e2-c0f5-40ee-baa5-1c40d76e65ab",
+        "title": "Installation Technician",
+        "active": true,
+        "date_updated": 1785276542,
+        "date_posted": 1785276492,
+        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021543",
+        "locations": [
+            "Norfolk, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ADT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Life.Church",
+        "id": "08b821af-a2a3-42fa-b03d-fd9289252ec1",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1785276542,
+        "date_posted": 1785276440,
+        "url": "https://jobs.lever.co/life/40e4d965-d90d-4408-bddf-b0f5e840648c/apply",
+        "locations": [
+            "Edmond, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Life-Church",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SBA Communications Corporation",
+        "id": "7e9ec181-24b4-4c12-9034-f275098baa35",
+        "title": "Junior Analyst",
+        "active": true,
+        "date_updated": 1785277152,
+        "date_posted": 1785196800,
+        "url": "https://sbasite.wd5.myworkdayjobs.com/SBA_Communications_Careers/job/Boca-Raton-FL-Corporate-Office/Junior-Analyst_JR102494-1",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/SBA-Communications-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Manulife Financial",
+        "id": "e3d3e5c2-9d68-47ca-9dea-85edde365402",
+        "title": "Associate Full Stack Software Engineer",
+        "active": true,
+        "date_updated": 1785276362,
+        "date_posted": 1785196800,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Associate-Full-Stack-Software-Engineer_JR26071165-1",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "f592dfda-4f94-41d2-a58b-295fc4094f07",
+        "title": "Data Scientist 1 - Dsap",
+        "active": true,
+        "date_updated": 1785276745,
+        "date_posted": 1785196800,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Data-Scientist-I--DSAP-_R116014",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "293a2db3-6ec7-465d-b8ba-1e20db33494f",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1785276693,
+        "date_posted": 1785276250,
+        "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1413415700/?ats=successfactors",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "a7a21277-7af0-4b06-894f-af2ce1530e21",
+        "title": "Associate \u2013 Software Engineer",
+        "active": true,
+        "date_updated": 1785276362,
+        "date_posted": 1785276244,
+        "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1413343400/?ats=successfactors",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Marsh",
+        "id": "4419fe7a-dc75-4ef1-9bc9-82a17e8bd8ad",
+        "title": "Software Asset Associate Analyst",
+        "active": true,
+        "date_updated": 1785277081,
+        "date_posted": 1785110400,
+        "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/London---Tower-Place-West/Software-Asset-Associate-Analyst_R_357195",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/55341c12-8fd6-4cce-8472-d15c4a3ab583",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Motors",
+        "id": "5ddebbe0-06a6-40ca-af4d-824d4ef27f73",
+        "title": "AI/ML Senior Researcher",
+        "active": true,
+        "date_updated": 1785277037,
+        "date_posted": 1784764800,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/AI-ML-Senior-Researcher_JR-202614302-1",
+        "locations": [
+            "Warren, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Guidewire",
+        "id": "f430edd0-d3c9-4fab-a589-d84c7a62cb7e",
+        "title": "Consultant Developer - Software Developer - Industry Innovation & Co-Development Group",
+        "active": true,
+        "date_updated": 1785276583,
+        "date_posted": 1783641600,
+        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/Canada---Toronto-Remote/Consultant-Developer--Software-Developer----Industry-Innovation---Co-Development-Group_JR_14343",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidewire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
