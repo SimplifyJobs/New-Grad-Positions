@@ -151239,7 +151239,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -331315,7 +331315,7 @@
         "company_name": "Beth Israel Deaconess Medical Center",
         "id": "02a35b3b-4a8c-48db-a2b2-d2464df6e5bf",
         "title": "Healthcare Data Analyst - OBGYN Quality",
-        "active": false,
+        "active": true,
         "date_updated": 1784610543,
         "date_posted": 1783347093,
         "url": "https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Deaconess-Medical-Center/Healthcare-Data-Analyst---BIDMC--OBGYN-Quality_JR88822",
@@ -344767,7 +344767,7 @@
         "company_name": "Jackson",
         "id": "8a2fcdb7-da4d-42a2-96ac-e566a2545414",
         "title": "CRM \u2013 Dynamics - Platform Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784893261,
         "date_posted": 1782554871,
         "url": "https://jackson.wd1.myworkdayjobs.com/Jackson_Careers/job/Nashville-TN/CRM-Platform-Analyst_REQ-03658",
@@ -348117,7 +348117,7 @@
         "company_name": "Leidos",
         "id": "4f269b50-3cb1-4960-9d2f-c2b2a5f0a932",
         "title": "Cybersecurity Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785149493,
         "date_posted": 1784246400,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cybersecurity-Product-Engineer_R-00187602",
@@ -350393,6 +350393,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "7f814df9-4d07-4be5-b742-9ed37b9549a8",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1785243277,
+        "date_posted": 1782963453,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-II--Onsite-_01855746",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
