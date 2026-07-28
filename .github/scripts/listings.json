@@ -337356,7 +337356,7 @@
         "company_name": "Charles Schwab",
         "id": "77b8e814-59fa-4f15-9ad5-a156fd67cbb3",
         "title": "Inbound International Trader Service Specialist - Trader Service - International Client Services",
-        "active": true,
+        "active": false,
         "date_updated": 1784683141,
         "date_posted": 1784671815,
         "url": "https://career-schwab.icims.com/jobs/124373/job?mobile=true&needsRedirect=false",
@@ -350631,5 +350631,143 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Birdy Grey",
+        "id": "edb01413-8e1d-4860-9870-ebac52d5f323",
+        "title": "Product Coordinator",
+        "active": true,
+        "date_updated": 1785195001,
+        "date_posted": 1785191508,
+        "url": "https://job-boards.greenhouse.io/birdygrey/jobs/5189108007",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Birdy-Grey",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "5dbfce20-e73f-4080-acb5-e87c3799b33d",
+        "title": "Software Engineer - Tactical Decision Aids - Entry-Level",
+        "active": true,
+        "date_updated": 1785195137,
+        "date_posted": 1785110400,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Engineer--Tactical-Decision-Aids---Entry-Level-_R-00188211",
+        "locations": [
+            "Manassas, VA",
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox Automotive",
+        "id": "2361eb91-04c3-4c59-9b31-d26309c4ca59",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1785195104,
+        "date_posted": 1785110400,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I---18525_R202680328",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox-Automotive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Trade Desk",
+        "id": "8f70efd9-bbb5-49a2-8281-d6c0755dafe1",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1785195034,
+        "date_posted": 1785191548,
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mitratech",
+        "id": "2abdeb2f-c08f-453f-bcf4-452c264696d6",
+        "title": "Software Engineer 1 - Assurehire - Go",
+        "active": true,
+        "date_updated": 1785195031,
+        "date_posted": 1785192015,
+        "url": "https://job-boards.greenhouse.io/mitratech/jobs/8060928",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/93880384-17ad-491e-9000-8de4f32fec16",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Slice (slicelife.com)",
+        "id": "2884d651-d2f6-41f5-b48d-e12239c293ae",
+        "title": "Staff Software Developer - Services",
+        "active": true,
+        "date_updated": 1785194281,
+        "date_posted": 1785191815,
+        "url": "https://slice.careers/careers-listing?gh_jid=7547313",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Slicelife",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "22ae89c0-77a2-45aa-b692-5398b7aa171c",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1785194281,
+        "date_posted": 1785191672,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8088904",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
     }
 ]
