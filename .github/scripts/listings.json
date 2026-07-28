@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Select Milk Producers ",
-        "id": "0d205c8c-ff04-4d71-a305-b0ec4b1867cb",
-        "title": "Data Analyst 1",
-        "active": false,
-        "date_updated": 1764487464,
-        "date_posted": 1764487464,
-        "url": "https://selectmilk.wd12.myworkdayjobs.com/selectmilkproducers/job/La-Crosse-WI/Data-Analyst-I_JR101657",
-        "locations": [
-            "Winona, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Select-Milk-Producers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "ShyftLabs",
         "id": "f37c77b7-0682-4e48-8559-c8d685f7719b",
@@ -31211,24 +31193,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "PennState University",
-        "id": "e52a1f82-22c1-4e0b-b92f-6ca89cc0c616",
-        "title": "Part-time digital fabrication assistant - Stuckeman School",
-        "active": false,
-        "date_updated": 1764486462,
-        "date_posted": 1764486462,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-time-digital-fabrication-assistant---Stuckeman-School_REQ_0000068856-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Plexus",
         "id": "d4f5fb26-4ac9-4889-bc3e-2df68380884f",
         "title": "Systems Integration Technician",
@@ -31240,24 +31204,6 @@
             "Nampa, ID"
         ],
         "company_url": "https://simplify.jobs/c/Plexus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Southern California",
-        "id": "b929cc29-fbb5-494f-ac27-f072b61bd3a2",
-        "title": "Postdoctoral Scholar Research Associate",
-        "active": false,
-        "date_updated": 1764486499,
-        "date_posted": 1764486499,
-        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Downtown/Postdoctoral-Scholar-Research-Associate_REQ20165823",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
