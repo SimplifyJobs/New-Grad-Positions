@@ -271530,7 +271530,7 @@
         "company_name": "Manhattan District Attorney's Office",
         "id": "fbc507b4-f388-457e-bd06-2b2092a7dad1",
         "title": "Cryptocurrency Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781140417,
         "date_posted": 1781140131,
         "url": "https://fa-elzs-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3290",
@@ -348399,7 +348399,7 @@
         "company_name": "RTX",
         "id": "fa0ebc2b-c763-4683-926b-c4befa25a42e",
         "title": "Java Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785162723,
         "date_posted": 1785110400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Java-Software-Engineer-I--On-Site-_01860806",
@@ -349758,7 +349758,7 @@
         "company_name": "Dartmouth Health",
         "id": "d4ab9cd3-d28a-492f-9243-8813a685900f",
         "title": "Database Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1785193381,
         "date_posted": 1785190346,
         "url": "https://careers-dartmouth-hitchcock.icims.com/jobs/40915/job?mobile=true&needsRedirect=false",
@@ -350551,5 +350551,188 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Alta Ares",
+        "id": "6bbdcfe2-93ba-469c-9fe4-be23b9387ac6",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1785251701,
+        "date_posted": 1785248308,
+        "url": "https://jobs.ashbyhq.com/alta-ares/ad4ace6a-823c-43ea-ae32-3d0711c33096/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/c782ee52-6480-425e-a802-4f5edaebdce2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "3c8b555d-aec3-4b01-b616-8e1695b8734a",
+        "title": "Senior Data Analyst Biosurgery",
+        "active": true,
+        "date_updated": 1785251561,
+        "date_posted": 1785196800,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Senior-Data-Analyst-SNP-Biosurgery_R-089461-1",
+        "locations": [
+            "Bridgewater Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wash U",
+        "id": "2225cd46-4cec-4699-ad57-d987498d2ddc",
+        "title": "Postdoctoral Research Associate - Engineering",
+        "active": true,
+        "date_updated": 1785251535,
+        "date_posted": 1785196800,
+        "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/Postdoctoral-Research-Associate---Engineering_JR96129",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Wash-U",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD",
+            "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "9ff7391f-f70c-4a01-8d70-fafdbc994449",
+        "title": "Artificial Intelligence Data Associate - Artificial General Intelligence Data Services",
+        "active": true,
+        "date_updated": 1785251444,
+        "date_posted": 1785247802,
+        "url": "https://amazon.jobs/en/jobs/10427965/ai-data-associate-with-dutch-artificial-general-intelligence-data-services",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "81476e53-2803-426e-8021-2bcd1ad52184",
+        "title": "Software Engineer Associate",
+        "active": true,
+        "date_updated": 1785251430,
+        "date_posted": 1785247449,
+        "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1413204500/?ats=successfactors",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "7ed66f32-6c52-4758-9183-5392da9a3824",
+        "title": "Associate \u2013 Software Engineer",
+        "active": true,
+        "date_updated": 1785250981,
+        "date_posted": 1785247448,
+        "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1413201700/?ats=successfactors",
+        "locations": [
+            "Palm Bay, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ASSYSTEM",
+        "id": "2434ad2b-e4db-4f0d-bc60-0edafbedf7b0",
+        "title": "Graduate Data Engineer & Analyst",
+        "active": true,
+        "date_updated": 1785250981,
+        "date_posted": 1785247508,
+        "url": "https://jobs.smartrecruiters.com/ASSYSTEM/744000140196694",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ASSYSTEM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "0e645a26-5aa4-441c-b793-1ef8516245ca",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1785250801,
+        "date_posted": 1785196800,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Software-Engineer_R66979",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "4ba38e7e-381e-463a-9acc-2814e492da98",
+        "title": "Software Development Associate",
+        "active": true,
+        "date_updated": 1785251075,
+        "date_posted": 1785247864,
+        "url": "https://careers-peraton.icims.com/jobs/168946/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
