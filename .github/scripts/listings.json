@@ -1029,120 +1029,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1bfe4c88-57c9-4da6-9ad0-de3006d5c7c0",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764499192,
-        "date_posted": 1764499192,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040996",
-        "locations": [
-            "Edinburgh, UK",
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "SS&C",
-        "id": "f4f4937b-0a0f-4412-a00c-9f364560c29a",
-        "title": "Government Programs Product Manager",
-        "active": false,
-        "date_updated": 1764498795,
-        "date_posted": 1764498795,
-        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Kansas-City-MO/Government-Programs-Product-Manager_R37509",
-        "locations": [
-            "Kansas",
-            "Jackson Township, NJ",
-            "Florida",
-            "Kansas City, MO",
-            "Massachusetts",
-            "Missouri"
-        ],
-        "company_url": "https://simplify.jobs/c/SSC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "db9ffbda-dd04-48b4-9fde-11a8f1ef09c6",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764499191,
-        "date_posted": 1764499191,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040836",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "17140dc0-d9a6-4732-880d-1a4c21594ef8",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1764499194,
-        "date_posted": 1764499194,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040942",
-        "locations": [
-            "Hereford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d4666de8-b9ff-4792-81be-d4eb3be0fd0d",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764499189,
-        "date_posted": 1764499189,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033660",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "c447dc16-d9b4-4dfe-8422-12f8523e1e6d",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764499192,
-        "date_posted": 1764499192,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041017",
-        "locations": [
-            "Gloucester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Geico",
         "id": "f5d0feea-69a5-499d-b44a-372653fb7bfd",
@@ -1179,24 +1065,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "65373371-914a-43cf-90e4-093516a8b17b",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764499192,
-        "date_posted": 1764499192,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040828",
-        "locations": [
-            "Northwich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "EquipmentShare",
         "id": "4508ebca-cabd-4414-95d8-9e1cec9fd411",
@@ -1209,78 +1077,6 @@
             "McKinney, TX"
         ],
         "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3c220a2f-159e-4185-b495-47a7f84d8ebb",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764499200,
-        "date_posted": 1764499200,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040816",
-        "locations": [
-            "Wellington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "6521454f-60c6-4a96-8331-bcd069bd716f",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764499202,
-        "date_posted": 1764499202,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040819",
-        "locations": [
-            "Brighton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f826a1a9-56a5-4205-9926-6aa6d49832c2",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764499195,
-        "date_posted": 1764499195,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040846",
-        "locations": [
-            "Camberley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ea8a5765-119b-4315-8e7d-ec8f36ee7a90",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764499192,
-        "date_posted": 1764499192,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040909",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -30393,132 +30189,6 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Dave & Busters",
-        "id": "6c2f3929-2e63-4d3b-ba2d-f77dc5bb81c6",
-        "title": "Support Technician",
-        "active": false,
-        "date_updated": 1764498855,
-        "date_posted": 1764498855,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Huntsville-AL/Support-Technician_R-1007245",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "34c2d164-7dd4-435a-ac9e-0ca009d30b3a",
-        "title": "Game Support Technician",
-        "active": false,
-        "date_updated": 1764498800,
-        "date_posted": 1764498800,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Lehigh-Valley-PA/Game-Support-Technician_R-1008102",
-        "locations": [
-            "Allentown, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "ca3fadde-db7b-49e6-842b-d27f03515f5f",
-        "title": "Game Support Technician",
-        "active": false,
-        "date_updated": 1764498777,
-        "date_posted": 1764498777,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Daly-City-CA/Game-Support-Technician_R-1008249",
-        "locations": [
-            "Daly City, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "f4df5cf9-5c5e-4777-a5dd-aee62b63ea7a",
-        "title": "Support Technician",
-        "active": false,
-        "date_updated": 1764499082,
-        "date_posted": 1764499082,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Woburn-MA/Support-Technician_R-1006022",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "9dcfd7b5-f4d5-4773-a345-4a0e40c3f035",
-        "title": "Games Support Technician",
-        "active": false,
-        "date_updated": 1764498706,
-        "date_posted": 1764498706,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Spokane-WA/Games-Support-Technician_R-1008630",
-        "locations": [
-            "Spokane, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "8c4a6c3b-fd67-4e4c-8711-9fdb9c037458",
-        "title": "Game Support Technician",
-        "active": false,
-        "date_updated": 1764498735,
-        "date_posted": 1764498735,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Columbia-SC/Game-Support-Technician_R-1007912",
-        "locations": [
-            "Columbia, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "02b603e1-0fda-45ad-bba4-cf2d5ab65333",
-        "title": "Game Support Technician",
-        "active": false,
-        "date_updated": 1764498697,
-        "date_posted": 1764498697,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Concord-CA/Game-Support-Technician_R-1009343",
-        "locations": [
-            "Concord, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
         "id": "08b1f24c-be0d-420e-886e-8e15df9ad49d",
         "title": "Support Technician",
         "active": false,
@@ -30914,42 +30584,6 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Wisk-Aero",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Uhaul",
-        "id": "1e238a5f-26f8-476b-949f-6503922e6b63",
-        "title": "Hitch Service Technician - Part Time - 2",
-        "active": false,
-        "date_updated": 1764499685,
-        "date_posted": 1764499685,
-        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Alcoa-Tennessee/Hitch-Professional--Part-Time--2_R226027",
-        "locations": [
-            "Maryville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Uhaul",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Uhaul",
-        "id": "629734a1-4027-41ce-9cfb-3d5e5c7da2c4",
-        "title": "Hitch Installer",
-        "active": false,
-        "date_updated": 1764499802,
-        "date_posted": 1764499802,
-        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Cheshire-New-Hampshire/Hitch-Installer_R232965",
-        "locations": [
-            "Brattleboro, VT"
-        ],
-        "company_url": "https://simplify.jobs/c/Uhaul",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -100320,7 +99954,7 @@
         "company_name": "ASSYSTEM",
         "id": "57e04409-fc03-4d83-8a96-352f25125716",
         "title": "Graduate Digital Engineering & Integration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771485092,
         "date_posted": 1771485092,
         "url": "https://jobs.smartrecruiters.com/ASSYSTEM/744000107736138",
@@ -156433,7 +156067,7 @@
         "company_name": "Leidos",
         "id": "8741a52e-0aaf-43bb-949a-85b23902a433",
         "title": "Software Engineer TS/SCI Poly",
-        "active": false,
+        "active": true,
         "date_updated": 1774318559,
         "date_posted": 1774318559,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Engineer-TS-SCI-Poly_R-00179080",
@@ -159068,7 +158702,7 @@
         "company_name": "University of Arkansas",
         "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
         "title": "Cosmos Graduate Research Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773813920,
         "date_posted": 1773813920,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2",
@@ -258060,7 +257694,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -310387,7 +310021,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "86485467-5c53-4759-8039-a301b9ce2207",
         "title": "Associate Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783520844,
         "date_posted": 1783519810,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Associate-Product-Mgr_R114877-1",
@@ -330244,7 +329878,7 @@
         "company_name": "Whc",
         "id": "e7bbbe13-fdde-4ddc-a6b2-11c6f25daf56",
         "title": "Product Owner Digital Infrastructure - Digital Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1784598245,
         "date_posted": 1784596623,
         "url": "https://ats.rippling.com/whc/jobs/f49f0c6b-9321-4f0e-99da-f03809128908",
@@ -330336,7 +329970,7 @@
         "company_name": "Glass Roots Construction, LLC",
         "id": "6ff60b2d-a99b-4ef7-be1d-e3488827eba8",
         "title": "Fiber Optic Splicer",
-        "active": false,
+        "active": true,
         "date_updated": 1784598161,
         "date_posted": 1784596607,
         "url": "https://ats.rippling.com/glass-roots-construction-llc/jobs/769f92ed-ba34-43e7-aef4-7fc826d816d4",
@@ -341875,7 +341509,7 @@
         "company_name": "Intel",
         "id": "a2e0c276-1954-40a3-968b-6f2a7ce70e0f",
         "title": "Product Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784808412,
         "date_posted": 1781949573,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Product-Development-Engineer_JR0284027-1",
@@ -350773,6 +350407,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Man Group",
+        "id": "69cc1a07-98ae-47cb-8990-bbbf8cb58ed8",
+        "title": "Risk & Performance Analyst",
+        "active": true,
+        "date_updated": 1785234242,
+        "date_posted": 1784299111,
+        "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4930572101",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Man-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
