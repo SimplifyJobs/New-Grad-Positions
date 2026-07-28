@@ -151259,7 +151259,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -253588,7 +253588,7 @@
         "company_name": "University of Arkansas",
         "id": "b9bcf351-5da5-411a-9194-d85ff25786a8",
         "title": "Graduate Assistant - Information Science",
-        "active": true,
+        "active": false,
         "date_updated": 1779961464,
         "date_posted": 1779527543,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/Graduate-Assistant---Information-Science_R0062021",
@@ -309886,7 +309886,7 @@
         "company_name": "Micron Technology",
         "id": "ee0b78af-412a-49ac-af70-f1d6a460b368",
         "title": "Senior BEOL Engineer - DRAM Process Integration",
-        "active": false,
+        "active": true,
         "date_updated": 1783512953,
         "date_posted": 1783167953,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Sr-BEOL-Engineer---DRAM-Process-Integration_JR94163",
@@ -327109,7 +327109,7 @@
         "company_name": "GE Healthcare",
         "id": "f2d5c1c7-8ded-4ba4-bc2e-c84e4c257373",
         "title": "X-Ray/Mammography Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784461987,
         "date_posted": 1784073600,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/CA19-01-San-Francisco-44-Montgomery/X-Ray-Mammography-Field-Engineer-I_R4043363-1",
@@ -331315,7 +331315,7 @@
         "company_name": "Beth Israel Deaconess Medical Center",
         "id": "02a35b3b-4a8c-48db-a2b2-d2464df6e5bf",
         "title": "Healthcare Data Analyst - OBGYN Quality",
-        "active": true,
+        "active": false,
         "date_updated": 1784610543,
         "date_posted": 1783347093,
         "url": "https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Deaconess-Medical-Center/Healthcare-Data-Analyst---BIDMC--OBGYN-Quality_JR88822",
@@ -347195,7 +347195,7 @@
         "company_name": "Leidos",
         "id": "621332f4-f518-4ad3-a075-e227ef9245d2",
         "title": "Electrical Hardware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784976150,
         "date_posted": 1784764800,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Electrical-Hardware-Engineer_R-00188035",
@@ -347395,7 +347395,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "7286e60a-9dac-4611-b5e0-aa1f9a12fd51",
         "title": "Field Service Engineer - Electron Microscopy",
-        "active": false,
+        "active": true,
         "date_updated": 1784979481,
         "date_posted": 1781950854,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Kansas-USA/Field-Service-Engineer--Electron-Microscopy-_R-01334329",
@@ -350373,6 +350373,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Abby Care",
+        "id": "fa54869a-f35b-40df-87b1-8c44c20b5f5a",
+        "title": "Full-Stack Software Engineer",
+        "active": true,
+        "date_updated": 1785240181,
+        "date_posted": 1783548714,
+        "url": "https://jobs.ashbyhq.com/abby-care/36e55afe-b77d-4e5f-84bf-a1fa4ce208a2/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Abby-Care",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
