@@ -1101,60 +1101,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "KLA",
-        "id": "9ea71909-4ff1-4112-9b53-e1aa526fb517",
-        "title": "Product Install Engineer - Swift - Extensive Travel Up To",
-        "active": false,
-        "date_updated": 1764502526,
-        "date_posted": 1764502526,
-        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Product-Install-Engineer----SWIFT---Extensive-Travel-Up-To--90-_2532312",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Campbell's Company",
-        "id": "83284c01-20c1-4a12-a087-77c9eeabce5a",
-        "title": "Packaging Engineer - Sustainability",
-        "active": false,
-        "date_updated": 1764503051,
-        "date_posted": 1764503051,
-        "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Packaging-Engineer---Sustainability_Req-62127",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Campbells-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "1c13d324-2e31-4abf-96d7-af6d070b6a3d",
-        "title": "Fleet Data Management Customer Data Analyst",
-        "active": false,
-        "date_updated": 1764503469,
-        "date_posted": 1764503469,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW100-East-Hartford-400-Main-Street-East-Hartford-CT-06118-USA/F135-Fleet-Data-Management-Customer-Data-Analyst----Onsite-_01805732",
-        "locations": [
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Huntington Bancshares",
         "id": "9660f68e-f3b4-4fdb-9cb1-1f124f127fe8",
@@ -54667,27 +54613,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KLA",
-        "id": "8e45a60c-dbe6-490b-94ca-bd65c46dc02c",
-        "title": "Algorithm Engineer",
-        "active": false,
-        "date_updated": 1769028339,
-        "date_posted": 1764502580,
-        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-Engineer_2531425",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -119693,26 +119618,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Altice USA",
-        "id": "e45c6fbb-512a-49aa-b5e0-a1383db2cdea",
-        "title": "Software Development Engineer 2",
-        "active": false,
-        "date_updated": 1772270853,
-        "date_posted": 1764502980,
-        "url": "https://www.optimumcareers.com/job/Bethpage-Software-Development-Engineer-II-NY-11714/1315636500/?ats=successfactors",
-        "locations": [
-            "Plainview, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Altice-USA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -320430,7 +320335,7 @@
         "company_name": "The Federal Reserve System",
         "id": "9e1b41b8-4a47-4743-be7f-080286d984d9",
         "title": "Research Assistant - Center for Indian Country Development",
-        "active": true,
+        "active": false,
         "date_updated": 1784071064,
         "date_posted": 1783987200,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Minneapolis-MN/Research-Assistant--Center-for-Indian-Country-Development_R-0000032728-1",
@@ -321138,7 +321043,7 @@
         "company_name": "Ferrovial",
         "id": "5164ca1e-9a08-4913-8e3c-322ddd5352b6",
         "title": "Traffic and Revenue Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784110111,
         "date_posted": 1783987200,
         "url": "https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Dallas/Traffic---Revenue-Engineer_JR18294",
@@ -344344,7 +344249,7 @@
         "company_name": "Marsh & McLennan",
         "id": "d63a1e36-bc28-4b1b-9610-5689a7f332c2",
         "title": "Catastrophe Advisory - AVP or VP",
-        "active": true,
+        "active": false,
         "date_updated": 1784873446,
         "date_posted": 1784764800,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Catastrophe-Advisory--AVP-or-VP-_R_357272",
@@ -348232,7 +348137,7 @@
         "company_name": "NVIDIA",
         "id": "b0f43086-0678-4a32-8e31-fcb55607faf5",
         "title": "Systems Software Engineer - Kubernetes Scale - DGX Cloud",
-        "active": true,
+        "active": false,
         "date_updated": 1785149249,
         "date_posted": 1783168449,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020236",
@@ -349236,7 +349141,7 @@
         "company_name": "Cisco",
         "id": "816fa3ce-73c5-4f4b-8a2a-6fab0a909948",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785194920,
         "date_posted": 1785191046,
         "url": "https://careers.cisco.com/global/en/job/2019587",
@@ -349651,7 +349556,7 @@
         "company_name": "CoStar Group",
         "id": "61a0ad54-27a3-4039-8fbc-0ff3439803fd",
         "title": "Software Engineer 1 CoStar Suite",
-        "active": true,
+        "active": false,
         "date_updated": 1785194320,
         "date_posted": 1785110400,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R39484",
@@ -349848,7 +349753,7 @@
         "company_name": "Bread Financial",
         "id": "5f4e39e3-07d8-4eba-b8f0-c468e3b145ac",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1785194040,
         "date_posted": 1785110400,
         "url": "https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us/job/Columbus-OH/Data-Scientist_R1012926",
@@ -350448,6 +350353,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flex",
+        "id": "8571ed99-9a5b-46bc-8da2-3cc9a3889733",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1785238270,
+        "date_posted": 1781917931,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Engineering-Tech_WD223444",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Flex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
