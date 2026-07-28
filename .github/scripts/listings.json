@@ -275272,7 +275272,7 @@
         "company_name": "Anaplan",
         "id": "4e95327c-5c8e-4544-8222-30df7d7f2aac",
         "title": "Associate Backend Software Engineer - Python",
-        "active": false,
+        "active": true,
         "date_updated": 1781273525,
         "date_posted": 1781273415,
         "url": "https://job-boards.greenhouse.io/anaplan/jobs/8579820002",
@@ -291421,7 +291421,7 @@
         "company_name": "RTX",
         "id": "e6f1a068-5885-43cd-830b-d0f062dbd2d8",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1782868303,
         "date_posted": 1782868032,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-1---Engine-Indication---Crew-Alerting-Systems--Onsite-_01848535-2",
@@ -300894,7 +300894,7 @@
         "company_name": "General Motors",
         "id": "bf19b34b-cf94-4c89-90d8-c345748d47f3",
         "title": "Electrical Hardware Engineer - Central Compute",
-        "active": true,
+        "active": false,
         "date_updated": 1782966910,
         "date_posted": 1782956656,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Electrical-Hardware-Engineer---Central-Compute_JR-202612987",
@@ -301886,7 +301886,7 @@
         "company_name": "Goldman Sachs",
         "id": "d7efd06c-f78a-41c8-9b51-59e2289f8eff",
         "title": "Software Engineer - IAM Entitlements",
-        "active": true,
+        "active": false,
         "date_updated": 1783030503,
         "date_posted": 1783030004,
         "url": "https://higher.gs.com/roles/177874",
@@ -310839,7 +310839,7 @@
         "company_name": "RTX",
         "id": "e0091951-b28a-4c4f-bad1-73a0ad757198",
         "title": "FPGA Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783550625,
         "date_posted": 1783548790,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineer-I_01857935",
@@ -318728,7 +318728,7 @@
         "company_name": "Foot Locker",
         "id": "d706d742-c4a0-4296-8c42-a3336449db90",
         "title": "Space Optimization Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784067305,
         "date_posted": 1784066917,
         "url": "https://careers.footlocker.com/jobs/70887?icims=1",
@@ -325739,7 +325739,7 @@
         "company_name": "NVIDIA",
         "id": "f1025b20-1cf5-4f9d-8505-a81fea68f463",
         "title": "Systems Software Engineer New Grad - Accelerated Kubernetes Performance and Scale",
-        "active": true,
+        "active": false,
         "date_updated": 1784328094,
         "date_posted": 1784246400,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957",
@@ -327837,7 +327837,7 @@
         "company_name": "General Motors",
         "id": "bbc022fc-4777-48a1-ae01-9f98fb0e7402",
         "title": "Electrical Hardware Engineer - CCU Validation",
-        "active": false,
+        "active": true,
         "date_updated": 1784587551,
         "date_posted": 1784505600,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/Electrical-Hardware-Engineer---CCU-Validation_JR-202614276",
@@ -336162,7 +336162,7 @@
         "company_name": "Charles Schwab",
         "id": "77b8e814-59fa-4f15-9ad5-a156fd67cbb3",
         "title": "Inbound International Trader Service Specialist - Trader Service - International Client Services",
-        "active": false,
+        "active": true,
         "date_updated": 1784683141,
         "date_posted": 1784671815,
         "url": "https://career-schwab.icims.com/jobs/124373/job?mobile=true&needsRedirect=false",
@@ -342641,7 +342641,7 @@
         "company_name": "NVIDIA",
         "id": "e3815529-57c7-41bb-8d69-cad889c3b01e",
         "title": "AI and ML Infra Software Engineer New Grad - GPU Clusters",
-        "active": true,
+        "active": false,
         "date_updated": 1784847066,
         "date_posted": 1784764800,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591",
@@ -347765,7 +347765,7 @@
         "company_name": "RTX",
         "id": "c29f5fe7-d092-4635-aa51-5160b768cd11",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1785163978,
         "date_posted": 1785110400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site-_01860803",
@@ -347922,7 +347922,7 @@
         "company_name": "RTX",
         "id": "fa0ebc2b-c763-4683-926b-c4befa25a42e",
         "title": "Java Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1785162723,
         "date_posted": 1785110400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Java-Software-Engineer-I--On-Site-_01860806",
@@ -347942,7 +347942,7 @@
         "company_name": "NRG Energy",
         "id": "d7ad5a68-5865-4f32-8997-bf2f85dae34c",
         "title": "Field Service Professional",
-        "active": true,
+        "active": false,
         "date_updated": 1785190141,
         "date_posted": 1785190137,
         "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Des-Moines-Field-Service-Professional-Des-Moines,-IA-IA-50309/1412980200/?ats=successfactors",
@@ -348608,7 +348608,7 @@
         "company_name": "Rocket EMS",
         "id": "10c663e4-d288-4646-abbe-62dce7344ba7",
         "title": "Through-Hole Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1785194281,
         "date_posted": 1785191072,
         "url": "https://job-boards.greenhouse.io/rocketems/jobs/4332666009",
@@ -350496,6 +350496,310 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Guidewire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nidec",
+        "id": "94fd2be0-ad0f-4d9e-868d-305cdda3c042",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1785279517,
+        "date_posted": 1785196800,
+        "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSACaliforniaRancho-Cordova-CA/Software-Engineer_R0012452",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nidec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Chicago",
+        "id": "05e30e45-b0a8-4d2f-b6df-900f3abe6259",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1785279494,
+        "date_posted": 1785196800,
+        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Temporary-Research-Assistant_JR34601",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "9c496c0c-adbe-40c6-b1f7-1b63e26afb22",
+        "title": "Configuration Analyst 1",
+        "active": true,
+        "date_updated": 1785278881,
+        "date_posted": 1785276709,
+        "url": "https://careers.huntingtoningalls.com/job/Pascagoula-CONFIGURATION-ANALYST-1-Miss/1413414200/?ats=successfactors",
+        "locations": [
+            "Biloxi, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Linamar",
+        "id": "f9c4ac87-55f4-4b44-bb97-5e2f3ab430ea",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1785278881,
+        "date_posted": 1785276579,
+        "url": "https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/14006",
+        "locations": [
+            "Livonia, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Linamar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "The Brookings Institution",
+        "id": "aa97f4c6-c957-4972-a958-80ebba23ad79",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1785278881,
+        "date_posted": 1785276533,
+        "url": "https://careers-brookings.icims.com/jobs/3886/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Brookings-Institution",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Caterpillar Inc.",
+        "id": "e133aaa9-69a5-45e5-bfa0-3e9b9d241c2b",
+        "title": "Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1785278881,
+        "date_posted": 1785196800,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Business-Intelligence-Analyst_R0000385342",
+        "locations": [
+            "Peoria, IL",
+            "Dallas, TX",
+            "Chicago, IL",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qualifacts",
+        "id": "8521a845-717b-4043-9a84-34537e07c480",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1785279326,
+        "date_posted": 1785196800,
+        "url": "https://qualifacts.wd5.myworkdayjobs.com/Qualifacts_External_Careers/job/Ontario---Remote/Software-Engineer-I--P1-_R-102648",
+        "locations": [
+            "Ontario, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualifacts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "d6ad51e0-366b-4b13-b829-8c5dacf13565",
+        "title": "Camera Framework Tooling Engineer - Photo Capture - Camera & Photos",
+        "active": true,
+        "date_updated": 1785277081,
+        "date_posted": 1785276759,
+        "url": "https://jobs.apple.com/en-us/details/200674154",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PNC Financial Services",
+        "id": "24fda12b-d6f7-436e-b6f6-5bc3671536ee",
+        "title": "Software Engineer Associate",
+        "active": true,
+        "date_updated": 1785278341,
+        "date_posted": 1785196800,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Software-Engineer-Associate_R230944-1",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stantec",
+        "id": "ff927c2a-6bfd-40b3-bf7c-fde5e28553ab",
+        "title": "Survey Technician/Assistant",
+        "active": true,
+        "date_updated": 1785277081,
+        "date_posted": 1785276671,
+        "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006838",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Stantec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JP Morgan Chase",
+        "id": "97344c37-7a6a-4252-b0e7-522f9b541585",
+        "title": "Applied AI ML Associate - Agentic AI and Python",
+        "active": true,
+        "date_updated": 1785277081,
+        "date_posted": 1785276603,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773873",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Entergy",
+        "id": "12b24ce7-2680-43a1-b0cd-ebd4f1a07878",
+        "title": "Analyst 1-3",
+        "active": true,
+        "date_updated": 1785278076,
+        "date_posted": 1785276583,
+        "url": "https://jobs.entergy.com/job/Gretna-Analyst-I-III-Loui/1413389000/?ats=successfactors",
+        "locations": [
+            "New Orleans, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Entergy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ADT",
+        "id": "13f98f4e-64c3-4717-aa5c-9fe4e527b91f",
+        "title": "Senior Product Engineer",
+        "active": true,
+        "date_updated": 1785277081,
+        "date_posted": 1785276552,
+        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021460",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ADT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nissan Global",
+        "id": "2f8f6d20-4b74-4aa3-ad10-09cc59927e6d",
+        "title": "Researcher 2 - Battery Systems & Agentic AI",
+        "active": true,
+        "date_updated": 1785277863,
+        "date_posted": 1784246400,
+        "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Researcher-II--Battery-Systems---Agentic-AI_R00211845",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nissan-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "McMaster-Carr",
+        "id": "1b38b4c1-1d6c-48bc-b1b3-d41b733858c7",
+        "title": "Early Career Management Track for Teach for America",
+        "active": true,
+        "date_updated": 1785278816,
+        "date_posted": 1783981486,
+        "url": "https://job-boards.greenhouse.io/mcmastercarr/jobs/4314767009",
+        "locations": [
+            "Cleveland, OH",
+            "LA",
+            "Chicago, IL",
+            "Princeton, NJ",
+            "Fort Worth, TX",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/McMaster-Carr",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
