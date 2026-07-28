@@ -186405,7 +186405,7 @@
         "company_name": "Tracer Cloud",
         "id": "772a0777-a24a-4341-884d-0ebb7698469d",
         "title": "Junior Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775831409,
         "date_posted": 1775830322,
         "url": "https://jobs.ashbyhq.com/tracer/b4877106-3d56-4fb7-9571-ac13673d03d8/application",
@@ -248503,7 +248503,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": true,
+        "active": false,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -334597,7 +334597,7 @@
         "company_name": "Hospital for Special Surgery (HSS)",
         "id": "78d41a5c-0231-4088-b407-e501ec046cfa",
         "title": "Education Outcomes and Data Analytics Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1784653742,
         "date_posted": 1784592000,
         "url": "https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Education-Outcomes-and-Data-Analytics-Assistant_JR2026-105688",
@@ -344982,7 +344982,7 @@
         "company_name": "Amgen",
         "id": "e5a5d5ed-1322-4019-b65e-3a1961b62915",
         "title": "SAP Principal Architect - Transportation Management",
-        "active": false,
+        "active": true,
         "date_updated": 1784896401,
         "date_posted": 1783158147,
         "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/SAP-Principal-Architect--Transportation-Management_R-244752",
@@ -347311,7 +347311,7 @@
         "company_name": "Norton Rose Fulbright",
         "id": "5ce92496-57c5-4a49-8a74-6c3bef7f6814",
         "title": "Business and Data Reporting Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1784976108,
         "date_posted": 1784764800,
         "url": "https://nrf.wd3.myworkdayjobs.com/External/job/Newcastle-upon-Tyne-United-Kingdom/Business-and-Data-Reporting-Analyst--12-month-FTC-_R-4201",
@@ -350423,6 +350423,27 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Man-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "GM financial",
+        "id": "e2089db8-32bb-483f-8878-8a5ee25e3c1b",
+        "title": "Product Owner 2",
+        "active": true,
+        "date_updated": 1785237242,
+        "date_posted": 1784325952,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260461",
+        "locations": [
+            "Fort Worth, TX",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
