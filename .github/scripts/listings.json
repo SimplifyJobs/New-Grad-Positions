@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1dd1971d-4757-4c89-ba71-1060d844ede8",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764521092,
-        "date_posted": 1764521092,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041024",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oracle",
-        "id": "d1362864-fd70-4c92-bdc7-1c76896acc53",
-        "title": "Software Developer - Rotational Program - Netsuite",
-        "active": false,
-        "date_updated": 1764520573,
-        "date_posted": 1764520573,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/314506",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "True Anomaly",
         "id": "2536fc43-f3e0-4239-bf31-e8c19894b771",
@@ -86,24 +50,6 @@
             "Corpus Christi, TX"
         ],
         "company_url": "https://simplify.jobs/c/Texas-AM-University-Corpus-Christi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "University of Texas - Austin",
-        "id": "9ac74a13-8611-4414-944f-2db9dba7f8f8",
-        "title": "FAB Equipment Technician Senior - Multiple Teams",
-        "active": false,
-        "date_updated": 1764521855,
-        "date_posted": 1764521855,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/FAB-Equipment-Technician---Levels-I--II--Sr--or-Master--Texas-Institute-for-Electronics_R_00041137",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -350494,6 +350440,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics",
+        "id": "847bd9c6-2877-484d-8753-6c7fbaa1716c",
+        "title": "Embedded Software Engineer - Embedded Software",
+        "active": true,
+        "date_updated": 1785191117,
+        "date_posted": 1785190350,
+        "url": "https://careers-gdeb.icims.com/jobs/17551/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Groton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
