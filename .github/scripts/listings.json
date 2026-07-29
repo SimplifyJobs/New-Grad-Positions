@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Huntington Bancshares",
-        "id": "9660f68e-f3b4-4fdb-9cb1-1f124f127fe8",
-        "title": "Technology Delivery Analyst",
-        "active": false,
-        "date_updated": 1764622123,
-        "date_posted": 1764622123,
-        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst_R0067553",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "GE Vernova",
         "id": "1c40a48e-dd46-425d-98bf-bd923b7f90b0",
