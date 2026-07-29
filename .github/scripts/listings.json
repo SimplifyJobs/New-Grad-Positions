@@ -2,44 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Proofpoint",
-        "id": "dae4ef54-4244-4c0a-b2e8-7c3d80edb600",
-        "title": "People Data Analyst",
-        "active": false,
-        "date_updated": 1764564303,
-        "date_posted": 1764564303,
-        "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Draper-UT/People-Data-Analyst_R13109",
-        "locations": [
-            "Pittsburgh, PA",
-            "Draper, UT",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Proofpoint",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brookhaven Lab",
-        "id": "0e497446-3e1f-4448-a2ed-8b5e3f37cae6",
-        "title": "Postdoctoral Research Associate",
-        "active": false,
-        "date_updated": 1764564084,
-        "date_posted": 1764564084,
-        "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Postdoctoral-Research-Associate_JR101323",
-        "locations": [
-            "Shirley, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Argonne National Laboratory",
         "id": "b58840f8-8364-484a-a3b8-a48c438fa8b8",
         "title": "Postdoctoral Appointee",
