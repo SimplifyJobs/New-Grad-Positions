@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "4508ebca-cabd-4414-95d8-9e1cec9fd411",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1764616930,
-        "date_posted": 1764616930,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7434245",
-        "locations": [
-            "McKinney, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Huntington Bancshares",
         "id": "9660f68e-f3b4-4fdb-9cb1-1f124f127fe8",
