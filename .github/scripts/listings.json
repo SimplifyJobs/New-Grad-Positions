@@ -165054,7 +165054,7 @@
         "company_name": "University of Texas at Austin",
         "id": "41d690ba-a328-481e-87a4-a010f56e469d",
         "title": "Postdoctoral Fellow",
-        "active": false,
+        "active": true,
         "date_updated": 1774842442,
         "date_posted": 1774689321,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow_R_00009657",
@@ -238609,7 +238609,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -247567,7 +247567,7 @@
         "company_name": "University of Texas at Austin",
         "id": "4ab36df9-7ea0-4864-8025-fc02dd2bba1c",
         "title": "Postdoctoral Fellow - Nuclear Engineering Teaching Lab - Cockrell School of Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1779871540,
         "date_posted": 1778940838,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow--Nuclear-Engineering-Teaching-Lab--Cockrell-School-of-Engineering_R_00028498",
@@ -255731,7 +255731,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -256211,7 +256211,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -294810,7 +294810,7 @@
         "company_name": "Momentum Engineering",
         "id": "68577c4c-9872-402a-ba7c-94206ea0fbe4",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782809957,
         "date_posted": 1782713300,
         "url": "https://ats.rippling.com/momentumcareers/jobs/e1151761-ee74-4f66-bbc4-b676f7f7db71",
@@ -336627,7 +336627,7 @@
         "company_name": "UBS",
         "id": "bae9f7da-62ea-4d76-8ea6-af11ad55f9f0",
         "title": "Financial Data Operations Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784691918,
         "date_posted": 1783606263,
         "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=345891",
@@ -339598,7 +339598,7 @@
         "company_name": "Intel",
         "id": "2ebb6328-9b20-44d1-a1d2-4d2b35897b6a",
         "title": "Power Delivery Pathfinding Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1784798413,
         "date_posted": 1781733885,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AIG-Power-Delivery-Pathfinding-Researcher_JR0284885",
@@ -339789,7 +339789,7 @@
         "company_name": "Walmart",
         "id": "375277d7-af0e-43e0-9297-8f4a38e6ea6e",
         "title": "Software Engineer 3",
-        "active": true,
+        "active": false,
         "date_updated": 1784800109,
         "date_posted": 1784160000,
         "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2559919-1",
@@ -340687,7 +340687,7 @@
         "company_name": "Rippling",
         "id": "6dfc65c7-cb92-4fec-bce8-91b8e1f18136",
         "title": "Software Engineer 2 - Backend - Rippling AI",
-        "active": true,
+        "active": false,
         "date_updated": 1784810065,
         "date_posted": 1784643194,
         "url": "https://ats.rippling.com/rippling/jobs/9a82b4f8-ca55-4d20-9d20-b91dfd6901b5",
@@ -345733,7 +345733,7 @@
         "company_name": "FluidStack",
         "id": "488ddd45-32b4-44dd-8800-5d1d7728a61a",
         "title": "Strategy & Operations Software Generalist",
-        "active": true,
+        "active": false,
         "date_updated": 1784931841,
         "date_posted": 1784585481,
         "url": "https://jobs.ashbyhq.com/fluidstack/821fdf35-818a-4d17-8f50-21c41f802aa6/application?embed=true",
@@ -351523,5 +351523,134 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Realm",
+        "id": "56706b17-a1d7-48dd-bba3-9ffdfd036a04",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1785317971,
+        "date_posted": 1775254166,
+        "url": "https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Realm-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Google",
+        "id": "c7378f52-eadd-4b18-9a28-079c2da6bbda",
+        "title": "Data Center Technician 1",
+        "active": true,
+        "date_updated": 1785317865,
+        "date_posted": 1785316684,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/113041210339140294",
+        "locations": [
+            "Austell, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "35fd0ab8-45a8-44c2-93b6-be8ecf688597",
+        "title": "Software Engineer 3",
+        "active": true,
+        "date_updated": 1785317611,
+        "date_posted": 1784160000,
+        "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2559900-1",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blue Origin",
+        "id": "0fd7f357-58b5-46ee-957a-99ab87cc5a03",
+        "title": "Avionics Hardware Engineer - Lunar Permanence",
+        "active": true,
+        "date_updated": 1785318065,
+        "date_posted": 1781345446,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics-Hardware-Engineer---Lunar-Permanence_R65710",
+        "locations": [
+            "Seattle, WA",
+            "LA",
+            "Phoenix, AZ",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adobe",
+        "id": "404ba643-445d-4434-b04c-20a6d12d4d18",
+        "title": "Technical Consultant",
+        "active": true,
+        "date_updated": 1785317928,
+        "date_posted": 1778941574,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Los-Angeles/Professional-Services-Consultant_R164857-1",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "San Jose, CA",
+            "NYC",
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fidelity Investments",
+        "id": "405b9ad2-32a7-4811-9fc5-d6d4c4992b8c",
+        "title": "Leap Systems Analyst",
+        "active": true,
+        "date_updated": 1785318231,
+        "date_posted": 1783029971,
+        "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Systems-Analyst_2132117",
+        "locations": [
+            "Westlake, TX",
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
