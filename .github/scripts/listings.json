@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Manulife Financial",
-        "id": "28e04146-7926-46e5-9992-96a12902c138",
-        "title": "Investment Analyst",
-        "active": false,
-        "date_updated": 1764549850,
-        "date_posted": 1764549850,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Investment-Analyst_JR25091648-2",
-        "locations": [
-            "Boston, MA",
-            "Charlotte, NC",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Intel",
         "id": "9a9ae9b6-d15e-46e0-8eef-a6fca332b718",
@@ -285910,7 +285888,7 @@
         "company_name": "Canon",
         "id": "f4ad704c-86be-4c36-bcb2-cdd53569377a",
         "title": "Service Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781906713,
         "date_posted": 1781906507,
         "url": "https://external-canoncareers.icims.com/jobs/34493/job?mobile=true&needsRedirect=false",
@@ -291331,7 +291309,7 @@
         "company_name": "RTX",
         "id": "e6f1a068-5885-43cd-830b-d0f062dbd2d8",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782868303,
         "date_posted": 1782868032,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-1---Engine-Indication---Crew-Alerting-Systems--Onsite-_01848535-2",
