@@ -2,25 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Intel",
-        "id": "9a9ae9b6-d15e-46e0-8eef-a6fca332b718",
-        "title": "CPU Verification Engineer",
-        "active": false,
-        "date_updated": 1764560696,
-        "date_posted": 1764560696,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/CPU-Verification-Engineer_JR0278559",
-        "locations": [
-            "Austin, TX",
-            "Hillsboro, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "KION Group",
         "id": "219bf330-0086-4c47-b67d-d7796b4c88e7",
         "title": "Autonomous Mobile Robot Systems Engineer",
@@ -27701,24 +27682,6 @@
             "Hill AFB, UT"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Horizon media",
-        "id": "b1669a44-b18d-47c7-9940-ab6bc951be0c",
-        "title": "Assistant Programmatic",
-        "active": false,
-        "date_updated": 1764561506,
-        "date_posted": 1764561506,
-        "url": "https://horizonmedia.wd1.myworkdayjobs.com/en-US/CareerOpportunities/job/New-York-New-York/Assistant--Programmatic_R0015427",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/783568f2-87b3-4222-8741-7766d21bf8a7",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -223350,7 +223313,7 @@
         "company_name": "Medavie",
         "id": "8524276b-8fb8-4816-ae38-9e5bd17f7298",
         "title": "Snowflake Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1778193361,
         "date_posted": 1778191576,
         "url": "https://medaviehs.wd10.myworkdayjobs.com/Medavie_External/job/Nova-Scotia/Snowflake-Developer_R-267771",
