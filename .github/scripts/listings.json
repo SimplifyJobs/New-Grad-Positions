@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "eb799b43-8a5e-40f1-9577-ea9bdaa02040",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764606909,
-        "date_posted": 1764606909,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041168",
-        "locations": [
-            "Maidstone, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "94054b90-6f92-45e5-ae85-f3fa4e604f4f",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764606910,
-        "date_posted": 1764606910,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039949",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "RTX",
         "id": "d315730d-066b-42d4-9899-a4e6fbf5560f",
