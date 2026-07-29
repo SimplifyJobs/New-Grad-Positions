@@ -3,101 +3,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "4d6c2509-37c0-485d-aa6c-e890db6f9863",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764606122,
-        "date_posted": 1764606122,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041155",
-        "locations": [
-            "Dartford District, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citi",
-        "id": "0fcf3260-9f21-42db-9908-9e7907df54cc",
-        "title": "Technology - Application Development - Full-Time Analyst",
-        "active": false,
-        "date_updated": 1764606154,
-        "date_posted": 1764606154,
-        "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Technology--Application-Development--Full-Time-Analyst--New-York-New-Jersey---USA--2026_25920349",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Citigroup",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Emerson Electric",
-        "id": "0a8e49c8-34d4-4421-84df-498fddb58431",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1764606059,
-        "date_posted": 1764606059,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25028581",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Halliburton",
-        "id": "d514560e-e699-4468-8684-21e1cd4ac387",
-        "title": "Machine Learning Geoscientist",
-        "active": false,
-        "date_updated": 1764605863,
-        "date_posted": 1764605863,
-        "url": "https://jobs.halliburton.com/job/Abingdon-Machine-Learning-Geoscientist-OXF-OX14-4RW/1346290400/?ats=successfactors",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Halliburton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CTEH",
-        "id": "07436dcc-429b-4d8b-b118-8bbce9e26587",
-        "title": "Field Data Specialist",
-        "active": false,
-        "date_updated": 1764605626,
-        "date_posted": 1764605626,
-        "url": "https://montrose.wd1.myworkdayjobs.com/cteh/job/USA-AR-Little-Rock--Northshore-Dr/Field-Data-Specialist_R7641",
-        "locations": [
-            "Webster, TX",
-            "Jackson, MS",
-            "Little Rock, AR",
-            "Elk Grove Village, IL",
-            "Metairie, LA",
-            "Golden, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/CTEH",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "eb799b43-8a5e-40f1-9577-ea9bdaa02040",
         "title": "Trading Assistant - Shift",
         "active": false,
@@ -122,97 +27,6 @@
         "date_updated": 1764606910,
         "date_posted": 1764606910,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039949",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cummins",
-        "id": "f5b0ca0a-2d35-4998-849e-a931e44ad2d5",
-        "title": "AI/ML Systems Engineer",
-        "active": false,
-        "date_updated": 1764606159,
-        "date_posted": 1764606159,
-        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2418409",
-        "locations": [
-            "Columbus, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Cummins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f39eb1af-14f1-4ec0-8236-60f8abc33476",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764606059,
-        "date_posted": 1764606059,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040532",
-        "locations": [
-            "Durham, UK",
-            "Thirsk, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "cb491f4d-7107-4cca-a5b6-e46e4b904e8e",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764606055,
-        "date_posted": 1764606055,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041270",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ae3a002a-fcc9-4768-b9d4-140c56c39bf1",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764606059,
-        "date_posted": 1764606059,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041279",
-        "locations": [
-            "Beckton, London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "18b4b6fd-fe39-4685-bfd4-997bc373e07b",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764606063,
-        "date_posted": 1764606063,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041040",
         "locations": [
             "United Kingdom"
         ],
@@ -3106,24 +2920,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Finix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Whoop",
-        "id": "0001e78e-935c-4221-967c-4650d23adccc",
-        "title": "Software Engineer 1 - Fullstack - Hardware Accelerate",
-        "active": false,
-        "date_updated": 1764755535,
-        "date_posted": 1764606203,
-        "url": "https://jobs.lever.co/whoop/e52bfb59-5a57-4e23-9991-88ef1b3dd745/apply",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Whoop",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -29634,24 +29430,6 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Wisk-Aero",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Arcadis",
-        "id": "423ce665-120e-46ff-bc35-0b7dd92b77cb",
-        "title": "Entry Level Environmental Engineer",
-        "active": false,
-        "date_updated": 1764606208,
-        "date_posted": 1764606208,
-        "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36038",
-        "locations": [
-            "Middletown, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Arcadis",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
