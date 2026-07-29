@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1764604549,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/affirm/jobs/7485068003",
-        "company_name": "Affirm",
-        "title": "Software Engineer, Early Career",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "3d6d6af9-2d80-47cd-bab7-3de78427877d",
-        "date_posted": 1764604549,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
