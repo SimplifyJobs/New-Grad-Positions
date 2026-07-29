@@ -389,24 +389,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Strata Decision Technology",
-        "id": "15b1f2f8-7ea4-4c87-bf2e-7131c1f01d84",
-        "title": "Analyst \u2013 Data Integration",
-        "active": false,
-        "date_updated": 1764614990,
-        "date_posted": 1764568998,
-        "url": "https://job-boards.greenhouse.io/stratacareers/jobs/7542763003",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Strata-Decision-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "EquipmentShare",
         "id": "4508ebca-cabd-4414-95d8-9e1cec9fd411",
@@ -150430,7 +150412,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -150450,7 +150432,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -238685,7 +238667,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -247599,7 +247581,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": false,
+        "active": true,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -255807,7 +255789,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -256287,7 +256269,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -282158,7 +282140,7 @@
         "company_name": "Goldman Sachs",
         "id": "77482a4b-c4db-430c-9e57-1a5071d06e6b",
         "title": "Global Banking & Markets - Loan Management - SF Trade Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1781735941,
         "date_posted": 1781734087,
         "url": "https://higher.gs.com/roles/176868",
@@ -301572,7 +301554,7 @@
         "company_name": "Goldman Sachs",
         "id": "d7efd06c-f78a-41c8-9b51-59e2289f8eff",
         "title": "Software Engineer - IAM Entitlements",
-        "active": true,
+        "active": false,
         "date_updated": 1783030503,
         "date_posted": 1783030004,
         "url": "https://higher.gs.com/roles/177874",
@@ -302795,7 +302777,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b258ed4-b417-42be-a561-334564c2635f",
         "title": "Transaction Banking Associate - Liquidity Solutions Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783041041,
         "date_posted": 1781129390,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/175378",
@@ -314299,7 +314281,7 @@
         "company_name": "Glean",
         "id": "c0ac6ad4-9461-42b9-9740-6caf78973162",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783721524,
         "date_posted": 1783721212,
         "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4713977005",
@@ -318293,7 +318275,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -351373,6 +351355,127 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Novartis",
+        "id": "75fcbbf9-493c-42d3-9c9b-1256df66d2be",
+        "title": "Data Science & AI Innovation Fellow",
+        "active": true,
+        "date_updated": 1785306057,
+        "date_posted": 1785196800,
+        "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Cambridge-USA/Data-Science---AI-Innovation-Postdoctoral-Fellow_REQ-10084589-1",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Novartis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Procore Technologies",
+        "id": "20cece1a-cb67-4ab4-985c-df29bfb30538",
+        "title": "Product Manager - Notifications",
+        "active": true,
+        "date_updated": 1785305521,
+        "date_posted": 1784678400,
+        "url": "https://procore.wd12.myworkdayjobs.com/Procore_External_Careers/job/US---Texas---Austin/Product-Manager--Notifications_R0018309",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Procore-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Texas Sports Academy",
+        "id": "49643f6b-95e6-4d37-af1d-1118ce4439cd",
+        "title": "Junior Software Engineer - AI-Forward",
+        "active": true,
+        "date_updated": 1785305521,
+        "date_posted": 1785305398,
+        "url": "https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Sports-Academy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ontic",
+        "id": "fd63c186-3871-469b-8b30-05ffc839ae26",
+        "title": "Electro-mechanical Technician",
+        "active": true,
+        "date_updated": 1785305342,
+        "date_posted": 1783728000,
+        "url": "https://ontic.wd103.myworkdayjobs.com/OnticCareers/job/Creedmoor-North-Carolina/Electro-mechanical-Technician_R5707",
+        "locations": [
+            "Wake Forest, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ontic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ontic",
+        "id": "84364420-d769-4d86-9452-26952dd3f22d",
+        "title": "Electronics Repair Technician-Manufacturing",
+        "active": true,
+        "date_updated": 1785305342,
+        "date_posted": 1785196800,
+        "url": "https://ontic.wd103.myworkdayjobs.com/OnticCareers/job/Creedmoor-North-Carolina/Electronics-Repair-Technician--Manufacturing_R5996",
+        "locations": [
+            "Wake Forest, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ontic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fanatics",
+        "id": "f7271424-f3fd-4d9b-bc10-941158cc53e6",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1785305793,
+        "date_posted": 1782857258,
+        "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4301606009",
+        "locations": [
+            "LA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fanatics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
