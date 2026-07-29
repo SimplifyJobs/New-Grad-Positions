@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oracle",
-        "id": "c1c41da7-34ad-48d1-961b-1360aefe657c",
-        "title": "Software Developer 1",
-        "active": false,
-        "date_updated": 1764594580,
-        "date_posted": 1764594580,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/316967",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "ad5d0c19-93b6-4f5c-9a30-fb79b206d913",
@@ -238591,7 +238573,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -277016,7 +276998,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "aca2cbca-71c0-435f-83b5-d07623be4c1a",
         "title": "ARLIS Artificial Intelligence Research Professional",
-        "active": true,
+        "active": false,
         "date_updated": 1781430742,
         "date_posted": 1781360162,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/ARLIS-Artificial-Intelligence-Research-Professional_JR101775",
@@ -325923,7 +325905,7 @@
         "company_name": "Micron Technology",
         "id": "09b622fc-3724-4b0d-b819-3a5c3d6dfbd2",
         "title": "Engineer \u2013 Metro Real-time Defect Analysis - Real-time Defect Analysis - Process & Equipment",
-        "active": true,
+        "active": false,
         "date_updated": 1784389141,
         "date_posted": 1781361688,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Engineer--Metro-Real-time-Defect-Analysis--RDA--Process---Equipment_JR94375",
@@ -330525,7 +330507,7 @@
         "company_name": "Morgan Stanley",
         "id": "188af1fb-dac8-467a-94bc-277494b39675",
         "title": "UHNW Planning - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1784611983,
         "date_posted": 1782956957,
         "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/UHNW-Planning--Product-Owner---Global-Investment-Office--Assistant-Vice-President_PT-JR033559",
@@ -340819,7 +340801,7 @@
         "company_name": "Walmart",
         "id": "858080e3-2352-462b-935d-b2105782b4fb",
         "title": "Data Engineer 3",
-        "active": true,
+        "active": false,
         "date_updated": 1784812009,
         "date_posted": 1783987200,
         "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Data-Engineer-III_R-2559247",
@@ -342457,7 +342439,7 @@
         "company_name": "L3Harris Technologies",
         "id": "1457cc3d-f998-4c6c-9be8-17240dffe414",
         "title": "Manufacturing Technician A",
-        "active": true,
+        "active": false,
         "date_updated": 1784846704,
         "date_posted": 1784844260,
         "url": "https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-A-NY-14623/1412004200/?ats=successfactors",
@@ -343966,7 +343948,7 @@
         "company_name": "Motorola",
         "id": "6998ac94-4506-4a5b-9b4f-1999714714cb",
         "title": "Software Engineer - Frontend - Typescript",
-        "active": true,
+        "active": false,
         "date_updated": 1784894513,
         "date_posted": 1783549068,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/London-UK/Software-Engineer--Frontend--TypeScript-_R65770",
@@ -347214,7 +347196,7 @@
         "company_name": "Leidos",
         "id": "4f269b50-3cb1-4960-9d2f-c2b2a5f0a932",
         "title": "Cybersecurity Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785149493,
         "date_posted": 1784246400,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cybersecurity-Product-Engineer_R-00187602",
@@ -352016,6 +351998,133 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ElevenLabs",
+        "id": "8ea72754-f0f4-4214-a82a-7dfe08a5b26c",
+        "title": "Full-Stack Engineer - ElevenAPI",
+        "active": true,
+        "date_updated": 1785330865,
+        "date_posted": 1785219701,
+        "url": "https://jobs.ashbyhq.com/elevenlabs/179541ee-8225-437b-b67d-d24c09240cd5/application?embed=true",
+        "locations": [
+            "Remote in USA",
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ElevenLabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Logicbroker, Inc.",
+        "id": "6b03630d-0a84-4e5b-8cef-095cd0a12c22",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1785330804,
+        "date_posted": 1785190857,
+        "url": "https://ats.rippling.com/logicbroker-inc/jobs/3d23113d-d689-407d-af4b-57907b4e2a61",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/2dd44eae-a360-4950-83f2-2e58d3ee7c0d",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Trane Technologies",
+        "id": "d6bd062d-46ba-416d-8c4d-e74fa43728ea",
+        "title": "Product Manager - Smart Services",
+        "active": true,
+        "date_updated": 1785330620,
+        "date_posted": 1784931819,
+        "url": "https://careers.tranetechnologies.com/global/en/job/JR-10538",
+        "locations": [
+            "Huntersville, NC",
+            "Winona, MN",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DOOR",
+        "id": "ce8bff22-7655-468f-a91c-1225212c20b2",
+        "title": "Senior Software Engineer - Mobile Connectivity",
+        "active": true,
+        "date_updated": 1785331726,
+        "date_posted": 1784596658,
+        "url": "https://ats.rippling.com/door/jobs/1513e8f7-1f57-4b6a-a5de-8709655bb66a",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DOOR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "c7546bb5-49ec-469b-8a16-49691bdd40dc",
+        "title": "Program/Product Engineer 2",
+        "active": true,
+        "date_updated": 1785330345,
+        "date_posted": 1784246400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-PUEBLO-050--50-William-White-Blvd--BLDG-50/Program-Product-Engineer-II--Onsite-_01860288",
+        "locations": [
+            "Pueblo, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Federal Reserve System",
+        "id": "addfb629-5045-4889-a617-34ec3b27c95e",
+        "title": "Data Scientist Associate/1/2",
+        "active": true,
+        "date_updated": 1785331542,
+        "date_posted": 1783548954,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Data-Scientist-Associate-I-II_R-0000032588",
+        "locations": [
+            "Cleveland, OH",
+            "Pittsburgh, PA",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
