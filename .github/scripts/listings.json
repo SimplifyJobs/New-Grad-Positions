@@ -3,42 +3,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "96b1ad76-389c-409c-bbe4-c43ab4fb103d",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764573255,
-        "date_posted": 1764573255,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041139",
-        "locations": [
-            "Cardiff, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Goodnotes",
-        "id": "eed9ada6-79db-4b83-aa0e-6d02cc99d6d0",
-        "title": "Full Stack Engineer",
-        "active": false,
-        "date_updated": 1764574071,
-        "date_posted": 1764574071,
-        "url": "https://job-boards.greenhouse.io/goodnotes/jobs/5724185004",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Goodnotes",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "e4671d60-8bfd-4813-a4e1-68d516890f02",
         "title": "Trading Assistant - Shift",
         "active": false,
