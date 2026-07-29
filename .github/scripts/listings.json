@@ -1,25 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "KION Group",
-        "id": "219bf330-0086-4c47-b67d-d7796b4c88e7",
-        "title": "Autonomous Mobile Robot Systems Engineer",
-        "active": false,
-        "date_updated": 1764563010,
-        "date_posted": 1764563010,
-        "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Mississauga-Canada/AMR-Systems-Engineer_JR-0079898-1",
-        "locations": [
-            "Montreal, QC, Canada",
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/KION-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Proofpoint",
         "id": "dae4ef54-4244-4c0a-b2e8-7c3d80edb600",
@@ -30323,24 +30304,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Chicago",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "FOX",
-        "id": "879cbb8b-667d-40f3-a244-30f0fc4fa83e",
-        "title": "Per Diem Technician",
-        "active": false,
-        "date_updated": 1764561835,
-        "date_posted": 1764561835,
-        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Philadelphia-Pennsylvania-USA/Per-Diem-Technician_R50029312-1",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fox",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -343425,7 +343388,7 @@
         "company_name": "L3Harris Technologies",
         "id": "bdecc16e-8605-4d50-933d-efd4212bd848",
         "title": "Senior Software Engineer - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784855426,
         "date_posted": 1784855070,
         "url": "https://jobs.l3harris.com/job/Herndon-Senior-Associate,-Software-Engineer-VA-20171/1412220600/?ats=successfactors",
@@ -345751,7 +345714,7 @@
         "company_name": "Applied Materials",
         "id": "d04a1e3d-3d4e-4ad9-89e5-7102fa97ee73",
         "title": "Manufacturing Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784932385,
         "date_posted": 1784851200,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/Manufacturing-Technician-I_R2624785",
@@ -346146,7 +346109,7 @@
         "company_name": "Cisco",
         "id": "df78c0fb-57f3-4187-b36f-0cde8952f3ea",
         "title": "Data Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1784942225,
         "date_posted": 1784851200,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Data-Engineer-II--Full-Time--United-States_2001849",
