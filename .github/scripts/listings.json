@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "39219bba-57e9-418a-b45d-4e8e5804beb0",
-        "title": "ASIC Design Engineer",
-        "active": false,
-        "date_updated": 1764567868,
-        "date_posted": 1764567868,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2003628",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "PNC Financial Services",
         "id": "c01e0cbc-fca5-4db4-95bf-ca0ca15c0e95",
@@ -341622,7 +341604,7 @@
         "company_name": "L3Harris Technologies",
         "id": "4644bdd6-0956-4473-86a3-ef0a98bdcd5c",
         "title": "Associate \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784816822,
         "date_posted": 1784815472,
         "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1411849300/?ats=successfactors",
@@ -351363,6 +351345,28 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "30612f5b-226b-4ab8-9610-ae2ae82ca2a0",
+        "title": "Developer Technology Engineer New Grad - Public Sector",
+        "active": true,
+        "date_updated": 1784760166,
+        "date_posted": 1784758590,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
