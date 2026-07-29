@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Morgan Stanley",
-        "id": "6a9e7be6-ab2f-4f46-a9d1-7c44368e66c2",
-        "title": "Java Developer - Associate",
-        "active": false,
-        "date_updated": 1764546225,
-        "date_posted": 1764546225,
-        "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Texas - Austin",
-        "id": "3e0ff160-6782-4b09-90e1-18475b83bfbf",
-        "title": "Research Engineering/Scientist Associate 1",
-        "active": false,
-        "date_updated": 1764545723,
-        "date_posted": 1764545723,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Research-Engineering-Scientist-Associate-I--II--or-III_R_00040412",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Manulife Financial",
         "id": "28e04146-7926-46e5-9992-96a12902c138",
