@@ -320784,7 +320784,7 @@
         "company_name": "UT Southwestern Medical Center",
         "id": "abaa5e9d-c0a5-4c3e-bb1c-fc4e14df83ff",
         "title": "Application Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784154399,
         "date_posted": 1784153479,
         "url": "https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=958075",
@@ -350160,7 +350160,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "e133aaa9-69a5-45e5-bfa0-3e9b9d241c2b",
         "title": "Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785278881,
         "date_posted": 1785196800,
         "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Business-Intelligence-Analyst_R0000385342",
@@ -352193,5 +352193,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Express",
+        "id": "3b22e93e-4d46-491f-9ba6-12c83ea4bb48",
+        "title": "Data Engineer 1 - Global Servicing Technology",
+        "active": true,
+        "date_updated": 1785335491,
+        "date_posted": 1785334236,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011091",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
