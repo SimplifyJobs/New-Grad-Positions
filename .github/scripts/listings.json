@@ -1,60 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "b58840f8-8364-484a-a3b8-a48c438fa8b8",
-        "title": "Postdoctoral Appointee",
-        "active": false,
-        "date_updated": 1764566147,
-        "date_posted": 1764566147,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Uncertainty-Quantification-and-Modeling-of-Large-Scale-Dynamics-in-Networks_420061",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citi",
-        "id": "ada9c63b-16d9-413f-833c-05fd5f866c40",
-        "title": "Technology - Application Development",
-        "active": false,
-        "date_updated": 1764566050,
-        "date_posted": 1764566050,
-        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581",
-        "locations": [
-            "Jacksonville, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Citigroup",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "30612f5b-226b-4ab8-9610-ae2ae82ca2a0",
-        "title": "Developer Technology Engineer \u2013 New College Grad - Public Sector",
-        "active": true,
-        "date_updated": 1764565831,
-        "date_posted": 1764565831,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "NVIDIA",
         "id": "39219bba-57e9-418a-b45d-4e8e5804beb0",
@@ -225707,7 +225653,7 @@
         "company_name": "NVIDIA",
         "id": "30c3335f-cd91-4d95-a18e-b910683cd5d3",
         "title": "GPU System and Scheduling Architect New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1778479886,
         "date_posted": 1778479738,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-System-and-Scheduling-Architect---New-College-Grad-2026_JR2016691-1",
@@ -314312,7 +314258,7 @@
         "company_name": "Glean",
         "id": "293f49e2-46ed-4681-8434-d125238c93fa",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783721524,
         "date_posted": 1783721211,
         "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4713145005",
@@ -349762,7 +349708,7 @@
         "company_name": "Harvard University",
         "id": "53d9ab39-e29b-463e-ac70-97d6977fb6ba",
         "title": "Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1785247742,
         "date_posted": 1785247614,
         "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990014314307",
