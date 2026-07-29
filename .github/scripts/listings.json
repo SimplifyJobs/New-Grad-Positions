@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Geico",
-        "id": "f5d0feea-69a5-499d-b44a-372653fb7bfd",
-        "title": "RAD Business Systems Analyst",
-        "active": false,
-        "date_updated": 1764613361,
-        "date_posted": 1764613361,
-        "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/RAD-Business-Systems-Analyst_R0059698",
-        "locations": [
-            "Bethesda, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Geico",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "EquipmentShare",
         "id": "4508ebca-cabd-4414-95d8-9e1cec9fd411",
@@ -4246,24 +4228,6 @@
             "Tunbridge Wells, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PolyAI",
-        "id": "72d03c31-11db-477f-937a-651216793057",
-        "title": "Agent Designer",
-        "active": false,
-        "date_updated": 1764774337,
-        "date_posted": 1764613713,
-        "url": "https://job-boards.eu.greenhouse.io/polyai/jobs/4721383101",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/PolyAI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -224840,7 +224804,7 @@
         "company_name": "Lawrence Berkeley National Laboratory",
         "id": "9f48cf3b-02b6-4273-add7-e4b623f6ddd2",
         "title": "AI-Readiness Data Automation Postdoctoral Scholar",
-        "active": true,
+        "active": false,
         "date_updated": 1778289204,
         "date_posted": 1778288920,
         "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=106583",
@@ -320245,7 +320209,7 @@
         "company_name": "LeoLabs",
         "id": "a4848b4c-f20b-4b74-93ca-64fd316ffe97",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784125264,
         "date_posted": 1784124966,
         "url": "https://job-boards.greenhouse.io/leolabsinc/jobs/4221511009",
@@ -323964,7 +323928,7 @@
         "company_name": "Fanatics",
         "id": "9197775f-913a-45d6-be61-de505b9edc09",
         "title": "Junior Product Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1784298241,
         "date_posted": 1784297006,
         "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27988",
@@ -344830,7 +344794,7 @@
         "company_name": "Flock Safety",
         "id": "99bae768-bf2d-44b8-969b-c1ee70877892",
         "title": "Associate Wireless Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784931841,
         "date_posted": 1784931816,
         "url": "https://jobs.ashbyhq.com/Flock%20Safety/b50cadaf-7eb1-4237-8e37-a1f6a1a359ee/application?embed=true",
@@ -346001,7 +345965,7 @@
         "company_name": "Black Cape",
         "id": "d57b14ea-69f3-486f-abba-3677ea919fc6",
         "title": "Junior Full Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784977081,
         "date_posted": 1784787158,
         "url": "https://blackcape.applytojob.com/apply/Hxw7V35F52/Full-Stack-Software-Engineer",
@@ -350626,7 +350590,7 @@
         "company_name": "Verdantas",
         "id": "8fcdc9f5-a11b-4076-91e7-b9d63f2ab00e",
         "title": "Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785280103,
         "date_posted": 1780876800,
         "url": "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/San-Ramon-CA/Data-Analyst-I_R-100842",
