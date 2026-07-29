@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "PNC Financial Services",
-        "id": "c01e0cbc-fca5-4db4-95bf-ca0ca15c0e95",
-        "title": "Product Manager 1",
-        "active": false,
-        "date_updated": 1764570708,
-        "date_posted": 1764570708,
-        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Product-Manager-I_R204484-1",
-        "locations": [
-            "Cleveland, OH",
-            "Philadelphia, PA",
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "96b1ad76-389c-409c-bbe4-c43ab4fb103d",
@@ -229159,7 +229137,7 @@
         "company_name": "Cencora",
         "id": "dcbeb1d6-2bca-4251-af9e-4bcd4074fc46",
         "title": "Automation Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778709149,
         "date_posted": 1778623786,
         "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Carrollton-TX/Automation-Developer-I_R2521185",
