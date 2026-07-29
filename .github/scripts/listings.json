@@ -226509,7 +226509,7 @@
         "company_name": "Intel",
         "id": "6e8c11b2-b77c-4286-b649-c05d47b2ee69",
         "title": "Power and Performance Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778538799,
         "date_posted": 1778537352,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Power-and-Performance-Engineer_JR0283718-1",
@@ -252106,7 +252106,7 @@
         "company_name": "University of Arkansas",
         "id": "613121a0-b6ea-469c-bf10-9bb507ad6f4c",
         "title": "Graduate Research Assistant - Machine Learning / Artificial Intelligence",
-        "active": true,
+        "active": false,
         "date_updated": 1779958500,
         "date_posted": 1778940427,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--ML-AI-_R0053896",
@@ -255206,7 +255206,7 @@
         "company_name": "The Boeing Company",
         "id": "ac60b5e8-747b-497a-837c-82f9950d1bfd",
         "title": "Spacecraft Software Engineer - Millennium Space Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1780353505,
         "date_posted": 1780351868,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Spacecraft-Software-Engineer--Associate-or-Mid-Level---Millennium-Space-Systems_JR2026512895-2",
@@ -329028,7 +329028,7 @@
         "company_name": "Citylogix Inc.",
         "id": "a61d2533-62dc-4fe1-9f5d-a9dba2f9255f",
         "title": "Field Data Collection Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1784598147,
         "date_posted": 1784596605,
         "url": "https://ats.rippling.com/citylogix/jobs/c6b77049-2fcf-4bd9-8d96-03a67d17f0ba",
@@ -346634,7 +346634,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "e5001ef9-b86a-4eb1-9324-a5ec13f1f2e0",
         "title": "Geospatial Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785046484,
         "date_posted": 1785024000,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Sterling/Spatial-Surveillance-Anayst---Clearance-Required_RQ224771",
@@ -346810,7 +346810,7 @@
         "company_name": "CoStar Group",
         "id": "8dd72d6a-2a14-4979-9e59-8ec366f81825",
         "title": "Multifamily Researcher Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1785061954,
         "date_posted": 1783376236,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond---CoStar-Tower/Associate-Multifamily-Researcher_R39294",
@@ -348256,7 +348256,7 @@
         "company_name": "Cisco",
         "id": "816fa3ce-73c5-4f4b-8a2a-6fab0a909948",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785194920,
         "date_posted": 1785191046,
         "url": "https://careers.cisco.com/global/en/job/2019587",
@@ -349414,7 +349414,7 @@
         "company_name": "GE Healthcare",
         "id": "47dffff6-031e-40c4-9ec5-87f8aa08f15e",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785231970,
         "date_posted": 1782558381,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4042537-1",
@@ -349956,7 +349956,7 @@
         "company_name": "SBA Communications Corporation",
         "id": "7e9ec181-24b4-4c12-9034-f275098baa35",
         "title": "Junior Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785277152,
         "date_posted": 1785196800,
         "url": "https://sbasite.wd5.myworkdayjobs.com/SBA_Communications_Careers/job/Boca-Raton-FL-Corporate-Office/Junior-Analyst_JR102494-1",
@@ -350057,7 +350057,7 @@
         "company_name": "Marsh",
         "id": "4419fe7a-dc75-4ef1-9bc9-82a17e8bd8ad",
         "title": "Software Asset Associate Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1785277081,
         "date_posted": 1785110400,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/London---Tower-Place-West/Software-Asset-Associate-Analyst_R_357195",
@@ -351888,6 +351888,92 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HCSC",
+        "id": "d11ca26a-d342-4fbc-8cd1-bb55ddf50d14",
+        "title": "Provider Data Analyst",
+        "active": true,
+        "date_updated": 1785327214,
+        "date_posted": 1785196800,
+        "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TN---Nashville/Provider-Data-Analyst---work-From-Home_R0054990-2",
+        "locations": [
+            "Nashville, TN",
+            "Albuquerque, NM",
+            "Chicago, IL",
+            "Tulsa, OK",
+            "Richardson, TX",
+            "Helena, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "a8ddf658-bbb6-4714-a626-f51188c1df2d",
+        "title": "Junior CPU Verification Engineer",
+        "active": true,
+        "date_updated": 1785326706,
+        "date_posted": 1784851200,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/Junior-CPU-Verification-Engineer_JR0285875",
+        "locations": [
+            "Austin, TX",
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Jones Lang LaSalle (JLL)",
+        "id": "524639cf-9878-47c2-ac5e-a6e39d5d1e18",
+        "title": "Debt Management System Analyst - Quality & Data",
+        "active": true,
+        "date_updated": 1785326418,
+        "date_posted": 1784505600,
+        "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Charlotte-NC/Debt-Management-System-Analyst---Quality---Data_REQ521188",
+        "locations": [
+            "Charlotte, NC",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Magna",
+        "id": "a574a4cd-de72-4459-8bc1-2cde97524618",
+        "title": "Engineer 1 - Software Algorithm",
+        "active": true,
+        "date_updated": 1785327555,
+        "date_posted": 1781953338,
+        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Engineer-I---Software-Algorithm_R00237795",
+        "locations": [
+            "Auburn Hills, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Magna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
