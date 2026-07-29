@@ -224580,7 +224580,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "a3de7dd7-1dca-4566-b189-b76577cc41f3",
         "title": "Machine Learning Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778278304,
         "date_posted": 1778277921,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Machine-Learning-Application-Engineer_JR104089",
@@ -226983,7 +226983,7 @@
         "company_name": "CoStar Group",
         "id": "d4f6f6bc-3852-4c6c-9944-6136eaffc260",
         "title": "Product Manager - Content Platforms",
-        "active": true,
+        "active": false,
         "date_updated": 1778595055,
         "date_posted": 1778594751,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Product-Manager--Content-Platforms_R38907",
@@ -321278,7 +321278,7 @@
         "company_name": "Northrop Grumman",
         "id": "c5cca8ff-fdd8-4df1-a38b-1d3a2f8f65a8",
         "title": "Principal Structural Engineer - Structural Analysis",
-        "active": true,
+        "active": false,
         "date_updated": 1784155317,
         "date_posted": 1784073600,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-or-Principal-Engineer---Structural-Analysis_R10240061",
@@ -321505,7 +321505,7 @@
         "company_name": "KeyBank",
         "id": "881fa82b-e0aa-4f68-bbe0-30ff5a4dcf8f",
         "title": "Consumer Deposit Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1784154997,
         "date_posted": 1784073600,
         "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Product-Manager--Consumer-Deposit----Brooklyn--OH_R-40767",
@@ -322581,7 +322581,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "e7e6bef5-79b4-4ef0-88f8-0daabd257a4b",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784216277,
         "date_posted": 1784160000,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Discovery-and-Enrichment-Expert-I---Hybrid-or-Remote_R116188",
@@ -328183,7 +328183,7 @@
         "company_name": "Outpost Technologies",
         "id": "7e7b49d4-7950-49f4-a22a-5e9c86400005",
         "title": "Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1784597129,
         "date_posted": 1784596379,
         "url": "https://jobs.ashbyhq.com/outpostnow/03779bd2-bc4d-4c36-beaa-ec3558716643/application?embed=true",
@@ -343942,7 +343942,7 @@
         "company_name": "Franklin Templeton",
         "id": "edb84787-721e-4acb-8666-f9e864d81984",
         "title": "Junior Quant Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1784894417,
         "date_posted": 1783160375,
         "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/New-York-New-York-United-States-of-America/Junior-Quant-Developer_868307-1",
@@ -346211,7 +346211,7 @@
         "company_name": "United Airlines",
         "id": "6131fc0a-92b8-493d-9444-82f1e8b4a4db",
         "title": "Developer \u2013 IT - Front End Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1784973440,
         "date_posted": 1784841706,
         "url": "https://careers.united.com/us/en/job/HSC00001085",
@@ -346331,7 +346331,7 @@
         "company_name": "Norton Rose Fulbright",
         "id": "5ce92496-57c5-4a49-8a74-6c3bef7f6814",
         "title": "Business and Data Reporting Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784976108,
         "date_posted": 1784764800,
         "url": "https://nrf.wd3.myworkdayjobs.com/External/job/Newcastle-upon-Tyne-United-Kingdom/Business-and-Data-Reporting-Analyst--12-month-FTC-_R-4201",
@@ -351790,6 +351790,104 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Aerospace",
+        "id": "70d11b4c-8e1d-49f6-9d6f-91e4bb97258d",
+        "title": "Electronic Analyzer & Tester",
+        "active": true,
+        "date_updated": 1785324601,
+        "date_posted": 1781951164,
+        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Grand-Rapids/Electronic-Analyzer---Tester---2nd-shift_R5031644-1",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rogers Behavioral Health",
+        "id": "e5643783-5916-41bd-a4db-88951e55f30b",
+        "title": "Therapist PHP/IOP",
+        "active": true,
+        "date_updated": 1785325245,
+        "date_posted": 1784851200,
+        "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Madison-Clinic-Madison-WI/Therapist---PHP-IOP_R8160",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/b92a810e-00da-4d83-9a36-b7d609699d59",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MILE MARKER",
+        "id": "93d28632-116f-48c5-970b-7693ac0dfd7a",
+        "title": "Senior Analyst - Analytics",
+        "active": true,
+        "date_updated": 1785326404,
+        "date_posted": 1784596594,
+        "url": "https://ats.rippling.com/mile-marker/jobs/62026688-3037-4eb1-ac30-0dc1502dbe93",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/965822b2-59c3-441a-8288-c95cd6120614",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Walmart",
+        "id": "e0697689-eb59-4303-9ad6-0fdc04d09854",
+        "title": "Data Scientist 3",
+        "active": true,
+        "date_updated": 1785325496,
+        "date_posted": 1784164434,
+        "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Data-Scientist-III_R-2478690",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "62275a71-15f7-4a8f-93fe-2a0a10761aa4",
+        "title": "Postdoctoral Scholar",
+        "active": true,
+        "date_updated": 1785325665,
+        "date_posted": 1781952422,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-Erie-The-Behrend-College/Postdoctoral-Scholar-Position---Autonomous-Polymer-Processing-and-Interface-Engineering_REQ_0000078902-1",
+        "locations": [
+            "Erie, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
