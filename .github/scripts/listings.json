@@ -1,23 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ad5d0c19-93b6-4f5c-9a30-fb79b206d913",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764596885,
-        "date_posted": 1764596885,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039413",
-        "locations": [
-            "Tunbridge Wells, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1764604549,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -246506,7 +246488,7 @@
         "company_name": "The Federal Reserve System",
         "id": "d05c2b68-917e-4f4e-a813-a4ce97be4c5b",
         "title": "Senior Research Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1779875512,
         "date_posted": 1779528352,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Philadelphia-PA/Research-Assistant-Sr-Research-Assistant_R-0000030430",
@@ -325905,7 +325887,7 @@
         "company_name": "Micron Technology",
         "id": "09b622fc-3724-4b0d-b819-3a5c3d6dfbd2",
         "title": "Engineer \u2013 Metro Real-time Defect Analysis - Real-time Defect Analysis - Process & Equipment",
-        "active": false,
+        "active": true,
         "date_updated": 1784389141,
         "date_posted": 1781361688,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Engineer--Metro-Real-time-Defect-Analysis--RDA--Process---Equipment_JR94375",
@@ -332160,7 +332142,7 @@
         "company_name": "Camping World",
         "id": "5b19dd58-8746-4665-8994-facf0fc584c0",
         "title": "Product Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1784627826,
         "date_posted": 1782963196,
         "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Vacaville-CA/Product-Specialist_26_05706",
@@ -340269,7 +340251,7 @@
         "company_name": "Vantor",
         "id": "ad7c7576-5b17-4beb-b37d-50523cb7f627",
         "title": "GIS Engineer - Jr",
-        "active": true,
+        "active": false,
         "date_updated": 1784806525,
         "date_posted": 1783168661,
         "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
@@ -340631,7 +340613,7 @@
         "company_name": "RTX",
         "id": "c59f71b0-614c-493e-909b-978a9b21eb58",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1784810396,
         "date_posted": 1784592000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/XMLNAME-2027-Conversion---Software-Engineer-II---St-Petersburg--FL--Onsite-_01860305",
@@ -341214,7 +341196,7 @@
         "company_name": "Walmart",
         "id": "f02f7eae-85d4-41ce-ab83-d813e6ba7b9e",
         "title": "Senior Data Analytics Manager - Data Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1784817240,
         "date_posted": 1784678400,
         "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--Senior-Manager--Data-Analytics_R-2573105-1",
@@ -341670,7 +341652,7 @@
         "company_name": "Becton Dickinson",
         "id": "555378b1-69c4-4a27-b664-d84ac05b0bfd",
         "title": "Commercial Analytics Engineer Business Decision Intelligence",
-        "active": true,
+        "active": false,
         "date_updated": 1784845794,
         "date_posted": 1784764800,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Commercial-Analytics-Engineer-Business-Decision-Intelligence_R-548945-1",
@@ -347318,7 +347300,7 @@
         "company_name": "KeyBank",
         "id": "57f6c6ca-f06d-4268-841e-94f0919b6012",
         "title": "Digital 2 Product Owner - Business Originations",
-        "active": true,
+        "active": false,
         "date_updated": 1785162404,
         "date_posted": 1785017535,
         "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Buffalo-NY/Digital-II_R-39782",
@@ -352125,6 +352107,51 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Arlo Technologies",
+        "id": "f2b46eae-3215-4cf6-a9a3-5cf2af55fae5",
+        "title": "Hardware Engineer",
+        "active": true,
+        "date_updated": 1785332341,
+        "date_posted": 1780012800,
+        "url": "https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Carlsbad-CA/Hardware-Engineer_JR100358",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arlo-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "cb10960c-cbb5-4773-a7da-082249e6b4bc",
+        "title": "Teamcenter System Administrator/Support",
+        "active": true,
+        "date_updated": 1785331885,
+        "date_posted": 1784764800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Teamcenter-System-Administrator-Support--Hybrid-_01860884",
+        "locations": [
+            "Charlotte, NC",
+            "Richardson, TX",
+            "Tucson, AZ",
+            "Cedar Rapids, IA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
