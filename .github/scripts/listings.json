@@ -254466,7 +254466,7 @@
         "company_name": "Harvard University",
         "id": "d6b8df2b-2bd2-4c1b-bfdb-4d118140a153",
         "title": "Research Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1780304581,
         "date_posted": 1780304527,
         "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990013391596",
@@ -262906,7 +262906,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -318495,7 +318495,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -350653,7 +350653,7 @@
         "company_name": "Nissan Global",
         "id": "2f8f6d20-4b74-4aa3-ad10-09cc59927e6d",
         "title": "Researcher 2 - Battery Systems & Agentic AI",
-        "active": true,
+        "active": false,
         "date_updated": 1785277863,
         "date_posted": 1784246400,
         "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Researcher-II--Battery-Systems---Agentic-AI_R00211845",
@@ -351480,6 +351480,73 @@
             "Ann Arbor, MI"
         ],
         "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Johnson & Johnson",
+        "id": "b1050739-5934-4112-824b-5654527d84de",
+        "title": "Professional - Service & Repair",
+        "active": true,
+        "date_updated": 1785288781,
+        "date_posted": 1785196800,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raynham-Massachusetts-United-States-of-America/Professional--Service---Repair_R-087038",
+        "locations": [
+            "West Chester, PA",
+            "Bridgewater Township, NJ",
+            "Columbia City, IN",
+            "Bridgewater, MA",
+            "Palm Beach Gardens, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "89283851-fad6-414b-8dc2-c90c3537d123",
+        "title": "Entry-Level Software Engineer-Developers",
+        "active": true,
+        "date_updated": 1785288676,
+        "date_posted": 1785196800,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-level-Software-Engineer-Developers_JR2026518452-1",
+        "locations": [
+            "Seal Beach, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Goldman Sachs",
+        "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
+        "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
+        "active": true,
+        "date_updated": 1785288997,
+        "date_posted": 1785276668,
+        "url": "https://higher.gs.com/roles/180216",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
