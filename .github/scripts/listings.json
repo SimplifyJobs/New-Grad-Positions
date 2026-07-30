@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Varian",
-        "id": "9d7253c6-7e61-4d45-9427-de316d88d0eb",
-        "title": "Data Analysis and Simulation Professional 2",
-        "active": false,
-        "date_updated": 1764635499,
-        "date_posted": 1764635499,
-        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/CYA-GR/Data-Analysis-and-Simulation-Professional-2_R-24837-1",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "ASM International",
         "id": "ced5fdce-c36b-4b3a-8bf8-d6b84b04eb3c",
@@ -283695,7 +283677,7 @@
         "company_name": "Cadence Design Systems",
         "id": "e849f4c2-737b-476e-8296-765db1bdc056",
         "title": "Software Engineer 2 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1781821561,
         "date_posted": 1781820415,
         "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/BOSTON-02/Software-Engineer-II--New-College-Grad-2026-_R54895",
