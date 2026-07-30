@@ -1,62 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "7ab7c865-b7dc-4216-bbd2-fcdde885fede",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764641812,
-        "date_posted": 1764641812,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041198",
-        "locations": [
-            "Cardiff, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Allo Communications",
-        "id": "88ef7ac5-c940-4d68-9331-321f1601dad5",
-        "title": "Outside Plant Technician 1",
-        "active": false,
-        "date_updated": 1764641057,
-        "date_posted": 1764641057,
-        "url": "https://nelnet.wd1.myworkdayjobs.com/myallocommunications/job/Joplin-MO/Outside-Plant-Technician-I_R21824",
-        "locations": [
-            "Joplin, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Allo-Communications",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Magna",
-        "id": "91df9597-d8a3-4930-b5a5-57e14c36a4f5",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1764642396,
-        "date_posted": 1764642396,
-        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Northwood-Ohio-US/Data-Analyst_R00221046",
-        "locations": [
-            "Toledo, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Magna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Amplitude",
         "id": "b917a0ca-befd-4bf0-8b3f-3d3c93e109ea",
@@ -87,115 +31,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Graham-Capital-Management",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Adobe",
-        "id": "5e6f3e61-40fe-4700-8251-5e1ada720bd8",
-        "title": "Software Development Engineer",
-        "active": false,
-        "date_updated": 1764642513,
-        "date_posted": 1764642513,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R159512",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "c819be1e-c7c5-45c5-898e-209bae1c5153",
-        "title": "Machine Learning Engineer 1",
-        "active": false,
-        "date_updated": 1764642507,
-        "date_posted": 1764642507,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1459537",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Optiver",
-        "id": "16d09a37-a7b7-4047-8157-801b17f02ac3",
-        "title": "Sales Trading Assistant - Trade Booking & Onboarding",
-        "active": false,
-        "date_updated": 1764641537,
-        "date_posted": 1764641537,
-        "url": "https://optiver.com/working-at-optiver/career-opportunities/8161718002/?gh_jid=8161718002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Optiver",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lyft",
-        "id": "fc726abc-e5bd-4fff-bc01-71c8366f4297",
-        "title": "Data Scientist - Algorithms Pricing - Optimization",
-        "active": false,
-        "date_updated": 1764641536,
-        "date_posted": 1764641536,
-        "url": "https://app.careerpuck.com/job-board/lyft/job/8148208002?gh_jid=8148208002",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Lyft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Qualcomm",
-        "id": "3da2f12b-d440-446b-bef2-c791ec898aed",
-        "title": "Software Engineer - Core Platform Test - Software Engineering",
-        "active": false,
-        "date_updated": 1764641636,
-        "date_posted": 1764641636,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446715563394",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e2cfe589-9c7c-4771-871b-974ba7fc21c9",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764641820,
-        "date_posted": 1764641820,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041386",
-        "locations": [
-            "Edinburgh, UK",
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -7844,24 +7679,6 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Hudson River Trading",
-        "id": "29099208-ccd7-46d8-a388-0c637f8b6c02",
-        "title": "Junior Crypto Electronic Trading Support Engineer",
-        "active": true,
-        "date_updated": 1772431282,
-        "date_posted": 1764642004,
-        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7351141",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -28373,24 +28190,6 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Dave & Busters",
-        "id": "f97d5e1c-e7a4-453d-a240-a6f38be5930a",
-        "title": "Game Support Technician",
-        "active": false,
-        "date_updated": 1764642354,
-        "date_posted": 1764642354,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Pittsburgh-2-PA/Game-Support-Technician_R-1009870",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
         "id": "08b1f24c-be0d-420e-886e-8e15df9ad49d",
         "title": "Support Technician",
         "active": false,
@@ -29089,24 +28888,6 @@
             "Batavia, IL"
         ],
         "company_url": "https://simplify.jobs/c/Fermilab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Becton Dickinson",
-        "id": "4fc11207-512e-41cc-8e1c-08a268e71335",
-        "title": "Electro-Mechanical Technician",
-        "active": false,
-        "date_updated": 1764642231,
-        "date_posted": 1764642231,
-        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-West/North-Molding-Electro-Mechanical-Tech---B-shift_R-516958-1",
-        "locations": [
-            "Norfolk, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -154913,26 +154694,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Alertus Technologies",
-        "id": "43ae95ec-4bbc-4eb5-9e77-2d6b981e639b",
-        "title": "Product Specialist",
-        "active": false,
-        "date_updated": 1774344086,
-        "date_posted": 1764641760,
-        "url": "https://jobs.lever.co/alertus/50c05baf-4591-40eb-9fc1-d4b7abf6c3c0/apply",
-        "locations": [
-            "Baltimore, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Alertus-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
