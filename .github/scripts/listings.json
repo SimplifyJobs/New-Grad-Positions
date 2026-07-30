@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "3531887f-877e-4a5a-b17c-256f82dec8bb",
-        "title": "Machinist",
-        "active": false,
-        "date_updated": 1764658515,
-        "date_posted": 1764658515,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/Machinist-2-3_R10215808",
-        "locations": [
-            "Hill AFB, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Morningstar",
-        "id": "dddeb8a2-30ca-4cbc-8067-32cabb8b80fb",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1764658702,
-        "date_posted": 1764658702,
-        "url": "https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Associate-Software-Engineer_REQ-054479",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Morningstar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "PPG Industries",
         "id": "51ad60b0-09ba-4842-9584-eebad773e9ee",
@@ -319584,7 +319548,7 @@
         "company_name": "PepsiCo",
         "id": "aabe8d61-d2c5-4513-b60e-2426dbca6c22",
         "title": "Transportation Systems & Integration Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784153161,
         "date_posted": 1784153157,
         "url": "https://uscareers-pepsico.icims.com/jobs/427125/job?mobile=true&needsRedirect=false",
@@ -349844,7 +349808,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
