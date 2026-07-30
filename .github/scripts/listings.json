@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lineage Logistics",
-        "id": "e75b7081-8f65-48d4-ba3c-24ba7f2209bc",
-        "title": "Associate Report Developer",
-        "active": false,
-        "date_updated": 1764651370,
-        "date_posted": 1764651370,
-        "url": "https://onelineage.wd1.myworkdayjobs.com/external/job/Novi-MI-Humboldt-Drive/Associate-Report-Developer_R0097857",
-        "locations": [
-            "Novi, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Lineage-Logistics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Northrop Grumman",
         "id": "5a0096cc-ee1a-40fa-b204-b04c1e831103",
@@ -52,25 +34,6 @@
             "Minneapolis, MN"
         ],
         "company_url": "https://simplify.jobs/c/Wells-Fargo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Comcast",
-        "id": "f270d697-a383-41d4-bbc4-66af787634f8",
-        "title": "C++ Engineer - ONSITE: Chicago - IL or Denver','CO",
-        "active": false,
-        "date_updated": 1764651540,
-        "date_posted": 1764651540,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Software-Engineer-1_R424219",
-        "locations": [
-            "Chicago, IL",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -151289,7 +151252,7 @@
         "company_name": "Zello",
         "id": "a695ca02-4e18-475f-a605-839901e002c6",
         "title": "Applied AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774044707,
         "date_posted": 1774044707,
         "url": "https://jobs.ashbyhq.com/Zello/2fa8cd4a-7ddb-40c6-8577-4a004c182e80/application",
@@ -163259,7 +163222,7 @@
         "company_name": "ByteDance",
         "id": "864af4f6-3292-4ecc-9131-99c07de4bdd5",
         "title": "Software Development Engineer - Network Monitoring & Alerts",
-        "active": true,
+        "active": false,
         "date_updated": 1774660236,
         "date_posted": 1774660236,
         "url": "https://jobs.bytedance.com/en/position/7399926633496365321/detail",
@@ -224947,7 +224910,7 @@
         "company_name": "RTX",
         "id": "9cf6befe-5806-49aa-aed1-c3765502fb5b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778539071,
         "date_posted": 1778537443,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595",
@@ -320375,7 +320338,7 @@
         "company_name": "CIBC",
         "id": "85faf201-61c9-4689-beac-b3d361596572",
         "title": "Trading Credit Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784154669,
         "date_posted": 1784073600,
         "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--Trading-Credit_2614693",
