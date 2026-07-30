@@ -253569,7 +253569,7 @@
         "company_name": "Hanger",
         "id": "aec32dc7-970b-4b07-a156-349675fe570a",
         "title": "Assembly and Soldering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780352598,
         "date_posted": 1780351654,
         "url": "https://careers-hanger.icims.com/jobs/31308/job?mobile=true&needsRedirect=false",
@@ -264333,7 +264333,7 @@
         "company_name": "Origis Energy",
         "id": "54749497-4189-4a1e-ba2f-224fbd8b967c",
         "title": "Operational Performance Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780957457,
         "date_posted": 1772752176,
         "url": "https://job-boards.greenhouse.io/origisenergy/jobs/5753532004",
@@ -295465,7 +295465,7 @@
         "company_name": "RTX",
         "id": "a5e72fb8-b288-4f48-98d7-d3083964de7e",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782944950,
         "date_posted": 1782943591,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01856767",
@@ -326031,7 +326031,7 @@
         "company_name": "Capital One",
         "id": "d03ac761-2dfa-4cd7-bd7c-797b6ff89c19",
         "title": "Software Engineer New Grad - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784587302,
         "date_posted": 1784505600,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
@@ -346424,7 +346424,7 @@
         "company_name": "Barry-Wehmiller",
         "id": "b8f78492-15f1-4f82-89cd-020a8716caec",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785190681,
         "date_posted": 1785110400,
         "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Denver-CO/Entry-Level-Software-Engineer_R022282",
@@ -352416,6 +352416,67 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "f7e6b3bf-23bf-49ff-9d1d-faafbdd45f0e",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1785422199,
+        "date_posted": 1785369600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineer-I--Onsite-_01863008",
+        "locations": [
+            "Anaheim, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "d3495d6f-29fd-4ac4-a52f-1625a666f38b",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1785422218,
+        "date_posted": 1785369600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01863236",
+        "locations": [
+            "Concord, MA",
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "89bfab9f-d821-4e96-830a-ae4a6af6f4c5",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1785422194,
+        "date_posted": 1785369600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01863044",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
