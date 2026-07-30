@@ -308238,7 +308238,7 @@
         "company_name": "M&T Bank",
         "id": "e94f85d7-92f9-4b17-95c0-64c50f733b02",
         "title": "Credit Model Development Quantitative Analyst 1 - HELOC & Residential Mortgage",
-        "active": false,
+        "active": true,
         "date_updated": 1783549493,
         "date_posted": 1783548483,
         "url": "https://mtb.wd5.myworkdayjobs.com/MTB/job/Wilmington-DE/Credit-Model-Development-Quantitative-Analyst-I--HELOC----Residential-Mortgage--Hybrid-_R87946",
@@ -349575,7 +349575,7 @@
         "company_name": "Marsh",
         "id": "ec3b458b-fb1a-4091-8bee-90ac0e02e901",
         "title": "AI Product Enablement Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1785287946,
         "date_posted": 1784851200,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Oliver-Wyman---Regional-AI-Product-Enablement-Analyst_R_359871-1",
@@ -350751,7 +350751,7 @@
         "company_name": "GE Healthcare",
         "id": "0ea4d18f-2790-404b-a61e-8a07c46a5523",
         "title": "Engineering Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1785364136,
         "date_posted": 1784505600,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program_R4043922-1",
@@ -352312,6 +352312,26 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Brink",
+        "id": "fd059456-5732-417a-a89f-b8dfe01d5b01",
+        "title": "ATM Technician",
+        "active": true,
+        "date_updated": 1785416914,
+        "date_posted": 1783462478,
+        "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Orlando-FL/ATM-Technician_R76410",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Brink",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
