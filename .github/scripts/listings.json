@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ASM International",
-        "id": "ced5fdce-c36b-4b3a-8bf8-d6b84b04eb3c",
-        "title": "Engineer 1 - Equipment Engineering",
-        "active": false,
-        "date_updated": 1764640520,
-        "date_posted": 1764640520,
-        "url": "https://www.asm.com/open-vacancies/?gh_jid=4717063101",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/ASM-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "7ab7c865-b7dc-4216-bbd2-fcdde885fede",
@@ -52,27 +34,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CWAN",
-        "id": "5e932af2-bc60-42ec-b357-22e1a520195c",
-        "title": "Financial Data Analyst",
-        "active": false,
-        "date_updated": 1764640823,
-        "date_posted": 1764640823,
-        "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Boise-Office/Financial-Data-Analyst_R3162-2",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/CWAN",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -27950,24 +27911,6 @@
             "Cranberry Twp, PA"
         ],
         "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Zeta Global",
-        "id": "6d692bbf-24ae-4ba0-9a71-49ad0db16075",
-        "title": "Associate \u2013 Data Cloud Solutions",
-        "active": false,
-        "date_updated": 1764639581,
-        "date_posted": 1764639581,
-        "url": "https://zetaglobal.com/jobs/jobs-at-zeta-global?gh_jid=5710438004",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zeta-Global",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
