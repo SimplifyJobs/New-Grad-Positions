@@ -182753,7 +182753,7 @@
         "company_name": "Sanford Health",
         "id": "076d29c9-8b56-4cfc-8845-bf6bc453ef63",
         "title": "Social Worker",
-        "active": false,
+        "active": true,
         "date_updated": 1775775071,
         "date_posted": 1775772596,
         "url": "https://sanford.wd5.myworkdayjobs.com/sanfordhealth/job/ND-Fargo/Social-Worker---Adolescent-PHP_R-0256042",
@@ -307131,7 +307131,7 @@
         "company_name": "GE Healthcare",
         "id": "0d4fe4d8-2a3c-4bae-ab91-fcfa10a631c4",
         "title": "Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783472992,
         "date_posted": 1783472744,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/El-Paso/Field-Engineer-1_R4043144-2",
@@ -321053,7 +321053,7 @@
         "company_name": "Iowa State University",
         "id": "029b9666-a3d9-4d99-a944-c7560692ad2b",
         "title": "Postdoctoral Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1784216806,
         "date_posted": 1784160000,
         "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Postdoctoral-Research-Associate---Crop-Systems-Modeling-and-Data-Analytics_R19506",
@@ -327480,7 +327480,7 @@
         "company_name": "Vortex Companies, LLC",
         "id": "235d8840-df58-48d8-8809-bcb07403c8c4",
         "title": "Robotic Engineering Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1784598229,
         "date_posted": 1784596618,
         "url": "https://ats.rippling.com/vortex-companies-llc/jobs/79676646-b359-4208-b23c-80f2f65a5963",
@@ -340313,7 +340313,7 @@
         "company_name": "Edwards Lifesciences",
         "id": "60c011d1-c985-4830-8f58-273b7efbb363",
         "title": "Associate Analyst - Technical Product Owner",
-        "active": true,
+        "active": false,
         "date_updated": 1784845081,
         "date_posted": 1782857319,
         "url": "https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA-IRV-1442-AltonMIC/Associate-Analyst--Technical-Product-Owner_Req-48666",
@@ -345219,7 +345219,7 @@
         "company_name": "Gaiia",
         "id": "2c0b0a9a-753b-435f-9684-4dc886fe5fdd",
         "title": "Data Migration Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1785055584,
         "date_posted": 1775081397,
         "url": "https://ats.rippling.com/gaiias-open-positions/jobs/4b2a9591-cabc-4196-b879-99ff06278144",
@@ -349974,7 +349974,7 @@
         "company_name": "Camlin",
         "id": "273c41ba-8d4c-449e-827f-e190604ab395",
         "title": "Incident Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785314924,
         "date_posted": 1784585483,
         "url": "https://ats.rippling.com/camlin-careers/jobs/803397be-f794-4002-8c8a-c39e99a3ce2b",
@@ -352069,5 +352069,73 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lynker",
+        "id": "066823c0-7e50-4e03-8ed1-f8b51e7d9d9e",
+        "title": "Marine Sensor Data Scientist - AI/ML",
+        "active": true,
+        "date_updated": 1785400561,
+        "date_posted": 1785161223,
+        "url": "https://careers-lynker.icims.com/jobs/1633/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Galveston, TX",
+            "MCAS Cherry Point, NC",
+            "Miami, FL",
+            "Biloxi, MS",
+            "Panama City, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Lynker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OU Health",
+        "id": "1123b920-9db4-4da1-aa71-92f6c33aaf5a",
+        "title": "EHR Epic Patient Access Analyst",
+        "active": true,
+        "date_updated": 1785401432,
+        "date_posted": 1782558382,
+        "url": "https://oumedicine.wd5.myworkdayjobs.com/OUHealthCareers/job/Virtual/EHR-Epic-Patient-Access-Analyst_R0062734",
+        "locations": [
+            "Kansas",
+            "Texas",
+            "Arkansas",
+            "Oklahoma",
+            "Missouri"
+        ],
+        "company_url": "https://simplify.jobs/c/OU-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Planet Technologies",
+        "id": "0bbeb70c-6baf-4995-9ef6-20d13d84c20c",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1785400381,
+        "date_posted": 1776118149,
+        "url": "https://jobs.lever.co/planettechnologies/3a0d29bd-59a3-4326-b5ca-40e747708102/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Planet-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
