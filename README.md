@@ -10252,7 +10252,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (260)</summary>
+<summary>🗃️ Inactive roles (259)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -12078,13 +12078,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Amplitude?utm_source=GHList&utm_medium=company">Amplitude</a></strong></td>
-<td>Software Engineer 1 - Data Warehouse</td>
-<td>SF</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -12183,7 +12176,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (20)</summary>
+<summary>🗃️ Inactive roles (19)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -12328,13 +12321,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><details><summary><strong>4 locations</strong></summary>Tempe, TX</br>Plano, TX</br>Fort Worth, TX</br>Columbus, OH</details></td>
 <td>🔒</td>
 <td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Graham-Capital-Management?utm_source=GHList&utm_medium=company">Graham Capital Management</a></strong></td>
-<td>Portfolio Analyst/Junior Trader</td>
-<td>NYC</td>
-<td>🔒</td>
-<td>8mo</td>
 </tr>
 </tbody>
 </table>
@@ -14492,14 +14478,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Embedded Engineer 1 - TX</td>
 <td>McKinney, TX</td>
 <td>🔒</td>
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>↳</td>
 <td>FPGA Design Engineer 1</td>
 <td>McKinney, TX</td>
 <td>🔒</td>
@@ -14821,7 +14807,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/AeroVironment?utm_source=GHList&utm_medium=company">AeroVironment</a></strong></td>
 <td>Product Engineer 1</td>
 <td>Huntsville, AL</td>
 <td>🔒</td>
