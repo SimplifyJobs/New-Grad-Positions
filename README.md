@@ -5,7 +5,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 308 New Grad Roles by Category
+### Browse 307 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (204)
 
@@ -15,7 +15,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (11)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (39)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (38)
 
 💼 **[Other](#-other-new-grad-roles)** (0)
 
@@ -6055,7 +6055,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Cadence-Design-Systems?utm_source=GHList&utm_medium=company">Cadence Design Systems</a></strong></td>
+<td>↳</td>
 <td>Software Engineer 1</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -6517,7 +6517,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Invesco?utm_source=GHList&utm_medium=company">Invesco</a></strong></td>
+<td>↳</td>
 <td>Early Career Analyst - Technology</td>
 <td>Houston, TX</br>Atlanta, GA</td>
 <td>🔒</td>
@@ -12619,13 +12619,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Aurora-Innovation?utm_source=GHList&utm_medium=company">Aurora Innovation</a></strong></td>
-<td>Software Engineer 1</td>
-<td>Mountain View, CA</td>
-<td><div align="center"><a href="https://aurora.tech/jobs/8159549002?gh_jid=8159549002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c9cea194-4359-4677-af86-57f85ced4893?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>4mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/DMC-Engineering?utm_source=GHList&utm_medium=company">DMC Engineering</a></strong></td>
 <td>Entry Level Embedded Engineer</td>
 <td>Denver, CO</td>
@@ -12651,7 +12644,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (311)</summary>
+<summary>🗃️ Inactive roles (312)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -13781,6 +13774,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineer 1 - C - C++</td>
 <td>Cambridge, MA</td>
+<td>🔒</td>
+<td>4mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Aurora-Innovation?utm_source=GHList&utm_medium=company">Aurora Innovation</a></strong></td>
+<td>Software Engineer 1</td>
+<td>Mountain View, CA</td>
 <td>🔒</td>
 <td>4mo</td>
 </tr>
