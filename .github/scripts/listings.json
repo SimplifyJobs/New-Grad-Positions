@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Oshkosh",
-        "id": "4f966063-b071-48e4-9b1a-6a6cfb6af1e1",
-        "title": "Engineering Test Lab Technician",
-        "active": false,
-        "date_updated": 1764649399,
-        "date_posted": 1764649399,
-        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Lab-Technician_R41339-1",
-        "locations": [
-            "Oshkosh, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Oshkosh",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Capital One",
-        "id": "dc0aecc2-a247-4b66-b402-d7a3e1d1433c",
-        "title": "Senior Associate - Product Manager - Business Cards & Payments",
-        "active": false,
-        "date_updated": 1764648590,
-        "date_posted": 1764648590,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Product-Manager---Business-Cards---Payments_R231093-1",
-        "locations": [
-            "McLean, VA",
-            "Richmond, VA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lineage Logistics",
         "id": "e75b7081-8f65-48d4-ba3c-24ba7f2209bc",
@@ -341544,7 +341506,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "44e3db0c-9720-436a-8db7-dfe648ebf19b",
         "title": "FX Product Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784847936,
         "date_posted": 1784764800,
         "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Analyst--FX-Product_R-0000181595",
@@ -343808,7 +343770,7 @@
         "company_name": "L3Harris Technologies",
         "id": "6d81a3cc-6213-4b8e-8b41-fdd96aceb86c",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784931058,
         "date_posted": 1784930589,
         "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20170/1412446800/?ats=successfactors",
