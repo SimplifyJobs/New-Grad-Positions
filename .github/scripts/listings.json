@@ -1,23 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citi",
-        "id": "43000e62-2525-4319-9e81-cb5334db3e74",
-        "title": "Technology - Application Development - Full-Time Analyst",
-        "active": false,
-        "date_updated": 1764676027,
-        "date_posted": 1764676027,
-        "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Technology---Application-Development--Full-Time-Analyst--UK---London--2026_25922068",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Citigroup",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1764701892,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -212450,7 +212432,7 @@
         "company_name": "McKesson",
         "id": "b6f45935-4a59-4442-a3b4-257ac48ab46f",
         "title": "Product Development Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1777587804,
         "date_posted": 1777586892,
         "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-VA-Richmond/Product-Development-Coordinator--Hybrid_JR0143232",
@@ -311875,7 +311857,7 @@
         "company_name": "Leidos",
         "id": "de6e3580-a3fb-4a6a-b4af-bd24bb0e1f6c",
         "title": "PCBA Soldering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1783595738,
         "date_posted": 1783163771,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Aoldering-Technician_R-00170309",
@@ -320700,7 +320682,7 @@
         "company_name": "Becton Dickinson",
         "id": "4567b973-6e0b-4ea2-a3bd-676bcc5ef747",
         "title": "Automation Service Technician \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1784203753,
         "date_posted": 1783814400,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA---Wisconsin---Milwaukee/Automation-Service-Technician--Milwaukee-Chicago-Area_R-550373",
@@ -321000,7 +320982,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "e7e6bef5-79b4-4ef0-88f8-0daabd257a4b",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": false,
+        "active": true,
         "date_updated": 1784216277,
         "date_posted": 1784160000,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Discovery-and-Enrichment-Expert-I---Hybrid-or-Remote_R116188",
@@ -324123,7 +324105,7 @@
         "company_name": "Walmart",
         "id": "bbcbe0b3-c9ab-4ade-a616-f25dc9e7f7f7",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1784355722,
         "date_posted": 1784246400,
         "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Denver-CO/Software-Engineer-II_R-2510887-1",
@@ -332572,7 +332554,7 @@
         "company_name": "GE Vernova",
         "id": "cbdd094a-df53-4277-8928-3b3af376f6e0",
         "title": "GE Vernova Advanced Research Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1784661662,
         "date_posted": 1783987200,
         "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/GE-Vernova-Advanced-Research-Development-Program--Edison--Master-s-Level----US-2027_R5047236-2",
@@ -338704,7 +338686,7 @@
         "company_name": "BetMGM",
         "id": "a44bdc23-9344-42be-ae8b-fc6ff57ab72e",
         "title": "Product Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1784806665,
         "date_posted": 1782559294,
         "url": "https://betmgminc.wd5.myworkdayjobs.com/en-US/BetMGM/job/Hybrid-New-Jersey/Product-Data-Analyst_JR100718",
@@ -338908,7 +338890,7 @@
         "company_name": "Teledyne",
         "id": "b9b81cf7-3e52-4bfd-b88d-0adea3291dc8",
         "title": "Engineering Technician / Micro-Electronic Wire Bonder Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1784809307,
         "date_posted": 1783462637,
         "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lewisburg-TN/Engineering-Technician---Micro-Electronic-Wire-Bonder-Technician_REQ35581-1",
@@ -346761,7 +346743,7 @@
         "company_name": "TopDog Law",
         "id": "49d923dd-d457-49e4-a927-533c8abf03ed",
         "title": "Analyst \u2013 Underwriting Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1785194853,
         "date_posted": 1785190986,
         "url": "https://ats.rippling.com/topdoglaw/jobs/cb0b45f5-937e-41ca-9fd7-c4099a73a036",
@@ -349593,7 +349575,7 @@
         "company_name": "Marsh",
         "id": "ec3b458b-fb1a-4091-8bee-90ac0e02e901",
         "title": "AI Product Enablement Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785287946,
         "date_posted": 1784851200,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Oliver-Wyman---Regional-AI-Product-Enablement-Analyst_R_359871-1",
@@ -350275,7 +350257,7 @@
         "company_name": "Walmart",
         "id": "e0697689-eb59-4303-9ad6-0fdc04d09854",
         "title": "Data Scientist 3",
-        "active": true,
+        "active": false,
         "date_updated": 1785325496,
         "date_posted": 1784164434,
         "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Data-Scientist-III_R-2478690",
@@ -350609,7 +350591,7 @@
         "company_name": "RTX",
         "id": "cb10960c-cbb5-4773-a7da-082249e6b4bc",
         "title": "Teamcenter System Administrator/Support",
-        "active": true,
+        "active": false,
         "date_updated": 1785331885,
         "date_posted": 1784764800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Teamcenter-System-Administrator-Support--Hybrid-_01860884",
@@ -352127,6 +352109,67 @@
             "Minneapolis, MN"
         ],
         "company_url": "https://simplify.jobs/c/Allina-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "a411d025-1b26-4c12-900f-29fd7dc0e98d",
+        "title": "Field Service Engineer 1 - Multi-Modality",
+        "active": true,
+        "date_updated": 1785411281,
+        "date_posted": 1785110400,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Multi-Modality---San-Antonio--TX_R4044121-2",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cenovus Energy",
+        "id": "7f683bef-bb29-4da3-b79a-26172c72ea13",
+        "title": "Downstream Business New Grad",
+        "active": true,
+        "date_updated": 1785411100,
+        "date_posted": 1784851200,
+        "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/New-Grad--Downstream-Business--June-2027--Calgary-_R-410695",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cenovus-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "ca7c8e33-3118-4603-b1b2-eefe6d2f3903",
+        "title": "Signal Processing Engineer",
+        "active": true,
+        "date_updated": 1785411808,
+        "date_posted": 1783158580,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Signal-Processing-Engineer_REQ_0000077400-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
