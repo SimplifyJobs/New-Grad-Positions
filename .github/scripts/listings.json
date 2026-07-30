@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amplitude",
-        "id": "b917a0ca-befd-4bf0-8b3f-3d3c93e109ea",
-        "title": "Software Engineer 1 - Data Warehouse",
-        "active": false,
-        "date_updated": 1764643164,
-        "date_posted": 1764643164,
-        "url": "https://job-boards.greenhouse.io/amplitude/jobs/8224986002",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Amplitude",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Graham Capital Management",
-        "id": "1cf88814-9d8f-4246-ad50-4e28f1e8bea5",
-        "title": "Portfolio Analyst/Junior Trader",
-        "active": false,
-        "date_updated": 1764642668,
-        "date_posted": 1764642668,
-        "url": "https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4634972005",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Graham-Capital-Management",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Oshkosh",
         "id": "4f966063-b071-48e4-9b1a-6a6cfb6af1e1",
