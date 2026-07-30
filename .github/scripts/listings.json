@@ -1,82 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dematic",
-        "id": "8d630d12-9771-4891-9a28-c3ca3ce26678",
-        "title": "Controls Commissioning Engineer",
-        "active": false,
-        "date_updated": 1764703523,
-        "date_posted": 1764703523,
-        "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Controls-Commissioning-Engineer_JR-0084645",
-        "locations": [
-            "Grand Rapids, MI",
-            "Plano, TX",
-            "Wauwatosa, WI",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dematic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Caterpillar Inc.",
-        "id": "92e9aa05-3889-4d96-b5f7-66d5522bd599",
-        "title": "Design Standard Tech",
-        "active": false,
-        "date_updated": 1764703165,
-        "date_posted": 1764703165,
-        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Rapid-City-South-Dakota/Design-Standard-Tech_R0000331400",
-        "locations": [
-            "Rapid City, SD"
-        ],
-        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Applied Fluid Power",
-        "id": "4cbc71ff-6c84-4859-9138-aed40a335e6e",
-        "title": "Product Manager",
-        "active": false,
-        "date_updated": 1764703377,
-        "date_posted": 1764703377,
-        "url": "https://applied.wd501.myworkdayjobs.com/applied/job/Strongsville-OH/SOD-Product-Manager_JR102581",
-        "locations": [
-            "Strongsville, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Fluid-Power",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Otto Aviation",
-        "id": "48467b7c-08e5-459d-92f6-beba0320ff52",
-        "title": "Associate Engineer - Materials - Processes & Structural Test",
-        "active": false,
-        "date_updated": 1764703052,
-        "date_posted": 1764703052,
-        "url": "https://job-boards.greenhouse.io/ottoaviation/jobs/5016267008",
-        "locations": [
-            "Fort Worth, TX",
-            "Jacksonville, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Otto-Aviation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "LSEG",
         "id": "06edb55d-7b82-463f-8405-a5046baff4d0",
@@ -92,26 +16,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tencent",
-        "id": "bffea4fb-8295-4115-be17-9e758ece9325",
-        "title": "Data Science Associate",
-        "active": false,
-        "date_updated": 1764703628,
-        "date_posted": 1764703628,
-        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Associate_R106542",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
