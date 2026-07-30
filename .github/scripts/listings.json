@@ -1,25 +1,5 @@
 [
     {
-        "date_updated": 1764701892,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Merrimack-NH/Associate-Full-Stack-Engineer_2120832-1",
-        "company_name": "Fidelity Investments",
-        "title": "Associate Full Stack Engineer",
-        "locations": [
-            "Merrimack, NH",
-            "Smithfield, RI",
-            "Westlake, TX"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "a4121796-9bf3-4394-b21c-0262460879c2",
-        "date_posted": 1764689104,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
@@ -294390,7 +294370,7 @@
         "company_name": "Protolabs",
         "id": "f39b3e40-01a7-4a7f-806d-b1a4e4baca35",
         "title": "Associate Technical Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1782742321,
         "date_posted": 1782741986,
         "url": "https://jobs.lever.co/protolabs/83fa31f8-6d15-4a8c-bf69-e6c9ec1bbbbd/apply",
@@ -338526,7 +338506,7 @@
         "company_name": "CommerceIQ",
         "id": "0ac792eb-ee45-477f-863f-d896897e6c8d",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784804582,
         "date_posted": 1784626059,
         "url": "https://job-boards.greenhouse.io/commerceiq/jobs/7803169003",
@@ -352082,7 +352062,7 @@
         "company_name": "Vertiv",
         "id": "c5744d52-1abb-46e0-a1d8-8ea1d49737d5",
         "title": "Customer Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785410568,
         "date_posted": 1782955935,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20275333",
@@ -352476,6 +352456,107 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Genuine Parts Company",
+        "id": "9c63dfdc-47be-4361-9084-b85a09c4fb8c",
+        "title": "HR Product Owner - Multiple Teams",
+        "active": true,
+        "date_updated": 1785424681,
+        "date_posted": 1785369600,
+        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/HR-Product-Owner--Workday-Configuration--Payroll-Absence-Time-Tracking----Global-Industrial_R26_0000019076",
+        "locations": [
+            "Birmingham, AL",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flock Safety",
+        "id": "029505d1-6ace-4662-b75d-f151ff5e0295",
+        "title": "Wireless Software Engineer Associate",
+        "active": true,
+        "date_updated": 1785424647,
+        "date_posted": 1785421335,
+        "url": "https://jobs.ashbyhq.com/Flock%20Safety/44ae4912-89d9-4e83-840d-e22250d6a473/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/FlockSafety",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Funding Circle",
+        "id": "a90bb128-97cc-48c9-9c10-a4ab6237143d",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1785424501,
+        "date_posted": 1785421312,
+        "url": "https://jobs.ashbyhq.com/fundingcircle/d0c854c2-5b2f-42a2-bbf9-2f1e2ec1367d/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/d4b54dc1-ba9c-4ca7-9816-aaa9b3d1386b",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Oracle",
+        "id": "36883176-8696-4a99-b547-0c54d1aed330",
+        "title": "Systems Software Engineer 1",
+        "active": true,
+        "date_updated": 1785424141,
+        "date_posted": 1785420639,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340728",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "St. Luke's University Health Network",
+        "id": "d75cb861-c6a9-4180-aed7-703917091f17",
+        "title": "Epic Analyst/Builder 1",
+        "active": true,
+        "date_updated": 1785423991,
+        "date_posted": 1784764800,
+        "url": "https://sluhn.wd1.myworkdayjobs.com/SLUHN/job/Allentown-PA---1110-American-Parkway/Epic-Analyst-Builder-I_R143531-1",
+        "locations": [
+            "Allentown, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/St-Lukes-University-Health-Network",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Master's"
         ]
     }
