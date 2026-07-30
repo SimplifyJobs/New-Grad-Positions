@@ -1,133 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Carnegie Mellon University",
-        "id": "b7891347-2be8-439d-9496-512da8b1474c",
-        "title": "Research Assistant",
-        "active": false,
-        "date_updated": 1764701724,
-        "date_posted": 1764701724,
-        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---CSD--Li-Lab----School-of-Computer-Science_2023911",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Ontario Teachers' Pension Plan",
-        "id": "013487e2-d08c-487e-811d-73908fbb93ea",
-        "title": "Investment Analyst - Credit Funds",
-        "active": false,
-        "date_updated": 1764701577,
-        "date_posted": 1764701577,
-        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Investment-Analyst--Credit-Funds_6775",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "OneMain Financial",
-        "id": "a373e53a-88af-4217-a742-145707396a1a",
-        "title": "Data Science Analyst",
-        "active": false,
-        "date_updated": 1764701483,
-        "date_posted": 1764701483,
-        "url": "https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2508-47530",
-        "locations": [
-            "Charlotte, NC",
-            "Wilmington, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/b4966f20-7ca2-4e09-9e76-ea8708e860ec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Medtronic",
-        "id": "3b7dba70-dc92-4a44-8f14-d02db3a4c13b",
-        "title": "Associate Advanced Analytics Analyst",
-        "active": false,
-        "date_updated": 1764700939,
-        "date_posted": 1764700939,
-        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Assoc-Adv-Analytics-Analyst_R53734-1",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Medtronic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Booz Allen",
-        "id": "3249a108-d85f-4cff-aa5b-4b77e75284ff",
-        "title": "Full-Stack Developer - Junior",
-        "active": false,
-        "date_updated": 1764700837,
-        "date_posted": 1764700837,
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/Full-Stack-Developer--Junior_R0230138",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "City of Amarillo",
-        "id": "93aba62b-ba72-476e-9595-9565078fdfb1",
-        "title": "GIS Analyst 1",
-        "active": false,
-        "date_updated": 1764700695,
-        "date_posted": 1764700695,
-        "url": "https://amarillo.wd5.myworkdayjobs.com/amarillo_external_career_site/job/Simms-Municipal-Building/GIS-ANALYST-I_JR2267",
-        "locations": [
-            "Amarillo, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/City-Of-Amarillo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CACI",
-        "id": "30d8847b-9ac9-46b5-9e2b-53f43d6fbc52",
-        "title": "Research Data Analyst",
-        "active": false,
-        "date_updated": 1764700683,
-        "date_posted": 1764700683,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NC-Fort-Bragg/Research-Data-Analyst_320026",
-        "locations": [
-            "Fort Bragg, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Dematic",
         "id": "8d630d12-9771-4891-9a28-c3ca3ce26678",
@@ -198,24 +71,6 @@
             "Jacksonville, FL"
         ],
         "company_url": "https://simplify.jobs/c/Otto-Aviation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "LOTTE BIOLOGICS",
-        "id": "56bd40a3-a426-4bcd-aaf8-3ef30e8d5bf4",
-        "title": "Associate Data Engineer",
-        "active": false,
-        "date_updated": 1764701792,
-        "date_posted": 1764701792,
-        "url": "https://job-boards.greenhouse.io/lottebiologicsusallc/jobs/4895261008",
-        "locations": [
-            "East Syracuse, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/LOTTE-BIOLOGICS",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -5618,25 +5473,6 @@
             "Canterbury, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Moog ",
-        "id": "b3415a03-953f-4161-80ca-2c4849c9c562",
-        "title": "Associate Product Engineer",
-        "active": false,
-        "date_updated": 1765134303,
-        "date_posted": 1764700976,
-        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Eng--Assc-Product_R-25-14762-1",
-        "locations": [
-            "Boston, NY",
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Moog",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -206126,7 +205962,7 @@
         "company_name": "TikTok",
         "id": "f3916852-1757-4e3f-98ee-3c671cecfa94",
         "title": "Machine Learning Engineer - Local Services Search",
-        "active": true,
+        "active": false,
         "date_updated": 1776993121,
         "date_posted": 1776993042,
         "url": "https://lifeattiktok.com/search/7534641468595489032",
@@ -292268,7 +292104,7 @@
         "company_name": "Honeywell",
         "id": "bca97b0b-9965-4948-aebd-d060788e65ac",
         "title": "Application Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782426642,
         "date_posted": 1782425234,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/151142",
@@ -327012,7 +326848,7 @@
         "company_name": "Revel",
         "id": "befb95ee-468b-47b8-9575-5fcbc777da7a",
         "title": "Full Stack Software Engineer - Entry-Junior",
-        "active": true,
+        "active": false,
         "date_updated": 1784598123,
         "date_posted": 1784596675,
         "url": "https://jobs.ashbyhq.com/revel/49e46e96-e266-4ef6-8b62-e056d695dc52/application?embed=true",
@@ -351230,7 +351066,7 @@
         "company_name": "Everfox",
         "id": "e477c19e-0543-43fc-af92-9a394bca77e5",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785365182,
         "date_posted": 1785283200,
         "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500749-1",
@@ -352274,7 +352110,7 @@
         "company_name": "L3Harris Technologies",
         "id": "ef984f79-9956-4177-88e3-699523d5bc5b",
         "title": "Software Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1785420618,
         "date_posted": 1785420205,
         "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1414060200/?ats=successfactors",
