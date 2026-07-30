@@ -2,297 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "PermitFlow",
-        "id": "9bc10730-8b8c-431d-8b7e-3c38eaf90372",
-        "title": "Full Stack Software Engineer Graduate",
-        "active": false,
-        "date_updated": 1764717287,
-        "date_posted": 1764717287,
-        "url": "https://jobs.ashbyhq.com/permitflow/7fab96f1-04a1-4c33-81d5-f254271c83b6/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/PermitFlow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "McDonald's",
-        "id": "75185469-4346-43d5-9216-e90f676b46f7",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1764717673,
-        "date_posted": 1764717673,
-        "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1315513100/?ats=successfactors",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/McDonald",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Lumafield",
-        "id": "0e1c6b0a-ecdf-4101-832d-67a4ce2cb481",
-        "title": "Product Manager - Industrial CT Software",
-        "active": false,
-        "date_updated": 1764717628,
-        "date_posted": 1764717628,
-        "url": "https://jobs.lever.co/lumafield/6f7a79bb-81f0-4be1-a47d-c77c4b440eba/apply",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumafield",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "cf04e803-1012-4427-8d1a-7c43e2c03248",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1764717453,
-        "date_posted": 1764717453,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400031881",
-        "locations": [
-            "York, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "c87f1470-90db-44c8-9c08-5bf4b0e0e679",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764717463,
-        "date_posted": 1764717463,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041612",
-        "locations": [
-            "Hereford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Regal",
-        "id": "8cd94b7d-9fa6-4de9-b0f5-9892884db845",
-        "title": "AI Product Specialist",
-        "active": false,
-        "date_updated": 1764717413,
-        "date_posted": 1764717413,
-        "url": "https://jobs.lever.co/regalvoice/a0291985-c8cf-41f4-88c1-3a150d1aeb24/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Regal-io",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amentum",
-        "id": "497e7fb5-4251-435e-ab53-6989487b6716",
-        "title": "Software Requirements Engineer",
-        "active": false,
-        "date_updated": 1764717258,
-        "date_posted": 1764717258,
-        "url": "https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000CEP",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2e207496-7c3b-4a9b-b65d-8c7a46cbea3c",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764717462,
-        "date_posted": 1764717462,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041547",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zip",
-        "id": "f99a0cbd-41eb-44a9-a318-c9bf56365c27",
-        "title": "Software Engineer \u2013 New Grad - 2026 Start",
-        "active": false,
-        "date_updated": 1764717046,
-        "date_posted": 1764717046,
-        "url": "https://jobs.ashbyhq.com/zip/341b1155-bdb7-465f-8d7d-d89e0d6efe93/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Zip",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zip",
-        "id": "f3735307-e108-4ad3-9827-46c53ae4406c",
-        "title": "Software Engineer \u2013 New Grad - 2026 Start",
-        "active": false,
-        "date_updated": 1764717045,
-        "date_posted": 1764717045,
-        "url": "https://jobs.ashbyhq.com/zip/482e918e-411c-481f-94d4-e4c4db36a7f3/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Zip",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Zebra Technologies",
-        "id": "c2cfe160-feab-4edf-a197-f515a11ac39d",
-        "title": "Repair Services Associate - I - Manufacturing",
-        "active": false,
-        "date_updated": 1764717147,
-        "date_posted": 1764717147,
-        "url": "https://zebra.eightfold.ai/careers/job/343636291769",
-        "locations": [
-            "Bentonville, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citizen Health",
-        "id": "665ff02b-badb-48f0-96f9-987ef0a38bdf",
-        "title": "Early Career Software Engineer",
-        "active": false,
-        "date_updated": 1764717223,
-        "date_posted": 1764717223,
-        "url": "https://jobs.ashbyhq.com/Citizen%20Health/8dd7987e-2f3b-4e1e-9773-4bb2f136dd22/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Citizen-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NextEra Energy",
-        "id": "3a6a7247-48e0-461d-a336-06aea316329b",
-        "title": "Associate AI & Analytics Engineer",
-        "active": false,
-        "date_updated": 1764717194,
-        "date_posted": 1764717194,
-        "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Associate-AI-&-Analytics-Engineer-FL-33408/1346759200/?ats=successfactors",
-        "locations": [
-            "Palm Beach Gardens, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/NextEra-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Catbird",
-        "id": "61d8d502-2769-41df-8c56-e63f320e7156",
-        "title": "Product Development Assistant",
-        "active": false,
-        "date_updated": 1764716707,
-        "date_posted": 1764716707,
-        "url": "https://jobs.lever.co/Catbird/b4b6a954-35eb-4012-8706-6bf5226bcefd/apply",
-        "locations": [
-            "Brooklyn, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Catbird",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Verisk",
-        "id": "4dff686e-c99f-4ea6-a046-fa19c501133c",
-        "title": "Digital Solutions Product Analyst",
-        "active": false,
-        "date_updated": 1764716832,
-        "date_posted": 1764716832,
-        "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2795",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Verisk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Berkshire Hathaway Energy",
-        "id": "3eb205a8-2517-4a62-889f-6b52ecc100b5",
-        "title": "Tech 1 \u2013 Mapping",
-        "active": false,
-        "date_updated": 1764716679,
-        "date_posted": 1764716679,
-        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003893",
-        "locations": [
-            "Las Vegas, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Palo Alto Networks",
         "id": "872b169c-101c-4544-b8e9-659871a5daf3",
         "title": "Senior Software Engineer in Test Prisma Access - AI Automation Engineer",
@@ -1318,24 +1027,6 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/DRW-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Finix",
-        "id": "f3aeeee5-d243-46e3-9cbb-ea3d8c13ca51",
-        "title": "Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1764754534,
-        "date_posted": 1764717629,
-        "url": "https://jobs.lever.co/finix/d6f2a487-01ab-4909-aaad-89fc5cbec3ff/apply",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Finix",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -256785,7 +256476,7 @@
         "company_name": "ByteDance",
         "id": "2e3c62d7-145c-40a1-be15-9566931b9276",
         "title": "Graduate Machine Learning Engineer - E-Commerce Governance-CV/NLP/Multimodal/LLM",
-        "active": true,
+        "active": false,
         "date_updated": 1780466990,
         "date_posted": 1780466893,
         "url": "https://jobs.bytedance.com/en/position/7515582521393318151/detail",
@@ -256826,7 +256517,7 @@
         "company_name": "ByteDance",
         "id": "28364c69-14ae-4cf0-ae5a-eaa37e2e3cab",
         "title": "Graduate Machine Learning Engineer - E-Commerce Governance - PhD",
-        "active": true,
+        "active": false,
         "date_updated": 1780466976,
         "date_posted": 1780466893,
         "url": "https://jobs.bytedance.com/en/position/7527430521355143431/detail",
@@ -295641,7 +295332,7 @@
         "company_name": "Confido",
         "id": "00142abd-9aec-4fca-9c8d-b46f6fb762d2",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1782944653,
         "date_posted": 1782943792,
         "url": "https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e/application",
