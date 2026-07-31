@@ -143097,7 +143097,7 @@
         "company_name": "University of Arkansas",
         "id": "fdb28bed-d2e6-44f2-b305-6599d8d12c2f",
         "title": "Cosmos Extra Help Assistant 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773786839,
         "date_posted": 1773786839,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Extra-Help-Assistant-I_R0082208-1",
@@ -203755,7 +203755,7 @@
         "company_name": "University of Texas at Austin",
         "id": "e7b8ba38-13c5-4926-9962-f314ca280f9d",
         "title": "Postdoctoral Scholar",
-        "active": true,
+        "active": false,
         "date_updated": 1776939144,
         "date_posted": 1776521500,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Scholar--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00018034",
@@ -267370,7 +267370,7 @@
         "company_name": "Nokia",
         "id": "4ccce667-a183-4d73-9a53-0d5799b92ba3",
         "title": "Manufacturing Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781167501,
         "date_posted": 1776215222,
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/33838",
@@ -288236,7 +288236,7 @@
         "company_name": "Topcon Positioning",
         "id": "d4957fd9-48fb-4cdf-b4bf-ffd0d72e9385",
         "title": "Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1782379981,
         "date_posted": 1782379846,
         "url": "https://topcon.wd1.myworkdayjobs.com/TopconPositioningCareers/job/Bristol-PA/Service-Technician_JR106893",
@@ -297334,7 +297334,7 @@
         "company_name": "CAE",
         "id": "441d6d3c-3c5b-433b-bf3a-a888f704d484",
         "title": "Simulator Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782985269,
         "date_posted": 1782943549,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Orlando/Simulator-Technician-I_122131",
@@ -306269,7 +306269,7 @@
         "company_name": "DTCC",
         "id": "5f2b852b-ba6a-48a8-85f1-ac83ec6421e0",
         "title": "Technology Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783548905,
         "date_posted": 1783548395,
         "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214155",
@@ -317977,7 +317977,7 @@
         "company_name": "Hargreaves Lansdown",
         "id": "587c3c3f-58c0-4fa5-9764-04939de5e22c",
         "title": "Digital Insight Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1784154842,
         "date_posted": 1784073600,
         "url": "https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Harbourside-1/Digital-Insight-Analyst_R9198-2",
@@ -346812,7 +346812,7 @@
         "company_name": "Tavern Research",
         "id": "9e6e56d1-9f9d-4225-b07a-a32e4e6988ca",
         "title": "Engineer 1 - Digital Engagement",
-        "active": false,
+        "active": true,
         "date_updated": 1785281088,
         "date_posted": 1785277341,
         "url": "https://ats.rippling.com/tavernresearch/jobs/328ac66c-4c82-4598-8101-3d9fa64bd436",
@@ -348393,7 +348393,7 @@
         "company_name": "Pennsylvania State University",
         "id": "bea57c4a-be73-42eb-b6da-e93a1735c880",
         "title": "Software Research and Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785329271,
         "date_posted": 1783168662,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Software-Research-and-Development-Engineer_REQ_0000073411-2",
@@ -348432,7 +348432,7 @@
         "company_name": "Logicbroker, Inc.",
         "id": "6b03630d-0a84-4e5b-8cef-095cd0a12c22",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785330804,
         "date_posted": 1785190857,
         "url": "https://ats.rippling.com/logicbroker-inc/jobs/3d23113d-d689-407d-af4b-57907b4e2a61",
@@ -350535,7 +350535,7 @@
         "company_name": "St. Luke's University Health Network",
         "id": "d75cb861-c6a9-4180-aed7-703917091f17",
         "title": "Epic Analyst/Builder 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785423991,
         "date_posted": 1784764800,
         "url": "https://sluhn.wd1.myworkdayjobs.com/SLUHN/job/Allentown-PA---1110-American-Parkway/Epic-Analyst-Builder-I_R143531-1",
@@ -352378,6 +352378,88 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Kraken Robotics",
+        "id": "49f5a83c-2d4b-4b3a-be46-7ac1cddd9d6c",
+        "title": "Electronics Technologist",
+        "active": true,
+        "date_updated": 1785505748,
+        "date_posted": 1785248594,
+        "url": "https://ats.rippling.com/kraken-robotics-inc/jobs/91ab4101-8c0f-4e52-a2a7-c952cb966fe2",
+        "locations": [
+            "St. John's, NL, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kraken-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "fe6f340c-a4df-4a15-b14f-5d0a4ccea31f",
+        "title": "DevSecOps Research Computing Software Engineer",
+        "active": true,
+        "date_updated": 1785505331,
+        "date_posted": 1783163272,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/DevSecOps-Research-Computing-Software-Engineer_REQ_0000079351-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Walmart",
+        "id": "97102f77-363f-464f-bc6f-5f23227ad587",
+        "title": "Senior Manager - Multiple Teams",
+        "active": true,
+        "date_updated": 1785506126,
+        "date_posted": 1784240275,
+        "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Ol-Roy-Building-AR-Bentonville-Home-Office/Senior-Manager--Data-Analytics--Merchandising--Transform-_R-2519616",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "899119f2-65a4-4b58-bbf8-884ec290abcd",
+        "title": "Navigation Analysis Research and Development Engineer",
+        "active": true,
+        "date_updated": 1785505063,
+        "date_posted": 1781952329,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Navigation-Analysis-Research-and-Development-Engineer_REQ_0000076265-2",
+        "locations": [
+            "Horsham, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
