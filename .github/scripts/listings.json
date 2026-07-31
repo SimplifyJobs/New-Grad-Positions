@@ -155076,26 +155076,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "SpaceX",
-        "id": "e7fd1c70-d896-4445-911b-b11335c64b79",
-        "title": "Software Engineer - Hardware Test & Automation",
-        "active": false,
-        "date_updated": 1774044613,
-        "date_posted": 1764719916,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8316301002",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Twitch",
         "id": "bed6f7ea-e6e8-4d84-b025-7ee242811892",
         "title": "Software Engineer 1",
@@ -224561,7 +224541,7 @@
         "company_name": "Apple",
         "id": "3a24d292-8b32-45b5-9a05-a82e2336cdda",
         "title": "Analog Mixed Signal IP Post Silicon Validation",
-        "active": true,
+        "active": false,
         "date_updated": 1778576941,
         "date_posted": 1778576762,
         "url": "https://jobs.apple.com/en-us/details/200662038",
@@ -256435,7 +256415,7 @@
         "company_name": "ByteDance",
         "id": "660c3a00-d629-407f-a045-aae133cd0c02",
         "title": "Graduate Machine Learning Engineer - E-Commerce Governance - PhD",
-        "active": true,
+        "active": false,
         "date_updated": 1780466989,
         "date_posted": 1780466891,
         "url": "https://jobs.bytedance.com/en/position/7527426391449864466/detail",
@@ -295605,7 +295585,7 @@
         "company_name": "Avnet",
         "id": "59756ce4-3f5f-4f7d-bc73-272c285ddf5a",
         "title": "Master Data/Pricing Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782943561,
         "date_posted": 1782943525,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Phoenix-Arizona-United-States-Of-America/Master-Data-Pricing-Analyst_JR-023393",
