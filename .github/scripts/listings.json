@@ -161500,7 +161500,7 @@
         "company_name": "University of Texas at Austin",
         "id": "41d690ba-a328-481e-87a4-a010f56e469d",
         "title": "Postdoctoral Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1774842442,
         "date_posted": 1774689321,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow_R_00009657",
@@ -172698,7 +172698,7 @@
         "company_name": "Jonas Software",
         "id": "2bf837f4-2dee-4219-8ab6-1913926fddaf",
         "title": "BI Reporting Developer Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1775300302,
         "date_posted": 1775297661,
         "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Canada---Markham---Ontario/BI-Reporting-Developer-Analyst_R49412-2",
@@ -252177,7 +252177,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -252657,7 +252657,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -332973,7 +332973,7 @@
         "company_name": "Veeva Systems",
         "id": "697e78cc-e93b-4914-add6-a845bb8ae6bc",
         "title": "Technical Consultant Associate - Entry-Level Consulting - Life Sciences",
-        "active": false,
+        "active": true,
         "date_updated": 1784686056,
         "date_posted": 1774391442,
         "url": "https://jobs.lever.co/veeva/eed4b1a3-13ae-4cf4-9bd9-5bc6a0d214a6/apply",
@@ -347910,7 +347910,7 @@
         "company_name": "HCSC",
         "id": "2de2e992-e614-42da-9012-fcc4d83828a1",
         "title": "Lead Data Science Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785317383,
         "date_posted": 1782828252,
         "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Lead-Data-Science-Engineer_R0048547-1",
@@ -347936,7 +347936,7 @@
         "company_name": "Cisco",
         "id": "5103a89d-30c4-48b8-af70-8cfe2aa28d53",
         "title": "Hardware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785317347,
         "date_posted": 1780610991,
         "url": "https://careers.cisco.com/global/en/job/2012764",
@@ -347996,7 +347996,7 @@
         "company_name": "Google",
         "id": "c7378f52-eadd-4b18-9a28-079c2da6bbda",
         "title": "Data Center Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785317865,
         "date_posted": 1785316684,
         "url": "https://www.google.com/about/careers/applications/jobs/results/113041210339140294",
@@ -351846,7 +351846,7 @@
         "company_name": "Herald",
         "id": "767e732a-7bdb-469e-b6a3-66b00eed4f01",
         "title": "Product Manager - Workflows",
-        "active": true,
+        "active": false,
         "date_updated": 1785478906,
         "date_posted": 1781820589,
         "url": "https://job-boards.greenhouse.io/heraldapi/jobs/5269932008",
@@ -351937,6 +351937,88 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fidelity Investments",
+        "id": "17699a31-38e1-4e82-b409-fe317a841c6f",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1785491188,
+        "date_posted": 1783029974,
+        "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Software-Engineer_2132114",
+        "locations": [
+            "Westlake, TX",
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hitachi Energy",
+        "id": "2cf04723-b22e-46b7-995d-d613b616e5b1",
+        "title": "Process Engineering Technician",
+        "active": true,
+        "date_updated": 1785491186,
+        "date_posted": 1782957567,
+        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/South-Boston-Virginia-United-States-of-America/Process-Engineering-Technician_R0135210-1",
+        "locations": [
+            "Danville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/83d28c1e-7f20-4aac-afd9-6bc8a468d7eb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "thyssenkrupp",
+        "id": "5830852c-614b-4f98-b679-c96b5f7474be",
+        "title": "Trader Trainee",
+        "active": true,
+        "date_updated": 1785491999,
+        "date_posted": 1780611016,
+        "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Toronto---Adelaide-Street-East/Trader-Trainee---Steel-Canada_JR105059",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Thyssenkrupp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rogers Behavioral Health",
+        "id": "343de3c2-f74f-4f4b-b201-aeb6232de510",
+        "title": "Therapist \u2013 PHP/Iop",
+        "active": true,
+        "date_updated": 1785491255,
+        "date_posted": 1783462015,
+        "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Seattle-Clinic-Bellevue-WA/Therapist---PHP-IOP_R7978",
+        "locations": [
+            "Seattle, WA",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/b92a810e-00da-4d83-9a36-b7d609699d59",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
