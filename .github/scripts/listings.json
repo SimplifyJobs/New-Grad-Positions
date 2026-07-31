@@ -1,203 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "U.S. Bank",
-        "id": "4bdb1cee-1cc2-4d49-a6f3-db3a2a36b351",
-        "title": "C# / .NET Software Application Support / Engineer",
-        "active": false,
-        "date_updated": 1764732299,
-        "date_posted": 1764732299,
-        "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/C----NET-Software-Application-Support---Engineer_2025-0028171",
-        "locations": [
-            "Brookfield, WI",
-            "Chicago, IL",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "ac250283-32e6-43a1-9698-ed3cde7f9cfa",
-        "title": "Engineer 1 - Test",
-        "active": false,
-        "date_updated": 1764731864,
-        "date_posted": 1764731864,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I-Test_R2113-25",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Waystar",
-        "id": "818e757e-d340-4275-815d-e3934b3fad23",
-        "title": "ML Engineer 2",
-        "active": false,
-        "date_updated": 1764731644,
-        "date_posted": 1764731644,
-        "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/ML-Engineer-II_R2882-1",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Waystar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "7828bc7a-9e1c-4c1b-8960-531427ee0248",
-        "title": "Associate Systems Modeling Simulations Engineer/Systems Modeling Simulations Engineer",
-        "active": false,
-        "date_updated": 1764731583,
-        "date_posted": 1764731583,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2026-Associate-Systems-Modeling-Simulations-Engineer-Systems-Modeling-Simulations-Engineer_R10216012",
-        "locations": [
-            "Camarillo, CA",
-            "Hill AFB, UT",
-            "Palmdale, CA",
-            "Nellis AFB, NV",
-            "Wheatland, CA",
-            "Grand Forks, ND",
-            "San Diego, CA",
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "General Dynamics Information Technology",
-        "id": "595b2d06-7f54-404b-a53a-31caefb3ae05",
-        "title": "Human Performance Data Scientist 1",
-        "active": true,
-        "date_updated": 1764731685,
-        "date_posted": 1764731685,
-        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Hurlburt-Field---Hurlburt-Fld-FLC017/Human-Performance-Data-Scientist-I_RQ210954",
-        "locations": [
-            "Florida"
-        ],
-        "company_url": "https://simplify.jobs/c/GDIT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Information Technology",
-        "id": "3b99f679-4553-488e-9536-7390d0b27483",
-        "title": "Software Developer Associate",
-        "active": false,
-        "date_updated": 1764731692,
-        "date_posted": 1764731692,
-        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate_RQ211011",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/GDIT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intel",
-        "id": "45a94d25-36a6-4254-bdb7-19c92d54df15",
-        "title": "SoC Debug Engineer",
-        "active": false,
-        "date_updated": 1764731236,
-        "date_posted": 1764731236,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Massachusetts-Beaver-Brook/SoC-Debug-Engineer_JR0278482",
-        "locations": [
-            "Austin, TX",
-            "Santa Clara, CA",
-            "Hillsboro, OR",
-            "Worcester, MA",
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "BlackRock",
-        "id": "7cce112a-69b9-4b36-af4b-35412e16c9b2",
-        "title": "Analyst \u2013 Python Engineer",
-        "active": false,
-        "date_updated": 1764731032,
-        "date_posted": 1764731032,
-        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Wilmington-DE/Analyst---Python-Engineer_R258097",
-        "locations": [
-            "Wilmington, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/BlackRock",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "MatX",
-        "id": "11867e76-7abe-457e-bdd0-0882784e5c24",
-        "title": "Machine Learning Researcher \u2013 New College Grad 2025",
-        "active": false,
-        "date_updated": 1764731154,
-        "date_posted": 1764731154,
-        "url": "https://job-boards.greenhouse.io/matx/jobs/4461372008",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/MatX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Magnite",
-        "id": "06576287-01ec-4aaf-8bce-8448965cf9ee",
-        "title": "Backend Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1764731110,
-        "date_posted": 1764731110,
-        "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/United-Kingdom---Belfast/Backend-Engineer--Entry-Level-_R-01154",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ee8236a0-5b6a-4389-a774-e10fe29442a2",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Dimensional Fund Advisors",
         "id": "b6c4c1b0-6d03-4055-aad2-7243314bd0c9",
@@ -272,45 +75,6 @@
             "Portland, OR"
         ],
         "company_url": "https://simplify.jobs/c/Cambia-Health-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Becton Dickinson",
-        "id": "1b9ab3e7-79cd-4bbb-b998-a844ac409b53",
-        "title": "Field Service Engineer",
-        "active": false,
-        "date_updated": 1764732505,
-        "date_posted": 1764732505,
-        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---39-Loveton-Circle/Field-Service-Engineer_R-532752",
-        "locations": [
-            "California",
-            "LA",
-            "Sparks, MD",
-            "Glendale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Aegis Therapies",
-        "id": "138d6e5a-8e18-4859-ba5f-bfffac95fe7e",
-        "title": "IT Data Warehouse Specialist",
-        "active": false,
-        "date_updated": 1764732557,
-        "date_posted": 1764732557,
-        "url": "https://aegistherapies.wd1.myworkdayjobs.com/aegiscareers/job/Fort-Smith-AR/IT-Data-Warehouse-Specialist_R0043523",
-        "locations": [
-            "Fort Smith, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/Aegis-Therapies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -3149,24 +2913,6 @@
             "Broomfield, CO"
         ],
         "company_url": "https://simplify.jobs/c/ONYX-Insight",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "BlackRock",
-        "id": "596c9a3c-e544-458b-bbd6-31eb514dde06",
-        "title": "Index Fixed Income Portfolio Manager/Algo Engineer - Associate",
-        "active": false,
-        "date_updated": 1764960546,
-        "date_posted": 1764731020,
-        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Index-Fixed-Income-Project-Manager-Algo-Engineer--Associate-_R258028",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/BlackRock",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -206148,7 +205894,7 @@
         "company_name": "NVIDIA",
         "id": "234bc8ff-21fc-4236-9880-38732507d070",
         "title": "Low Power ASIC Engineer \u2013 New College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1777069114,
         "date_posted": 1777068472,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017001",
@@ -304363,7 +304109,7 @@
         "company_name": "Montenson",
         "id": "0374875f-3923-4f08-a133-af725d47bba7",
         "title": "Data Scientist Associate - Estimating",
-        "active": true,
+        "active": false,
         "date_updated": 1783463010,
         "date_posted": 1783462203,
         "url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23001",
