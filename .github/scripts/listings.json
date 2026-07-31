@@ -243915,7 +243915,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": false,
+        "active": true,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -274038,7 +274038,7 @@
         "company_name": "Leidos",
         "id": "5d4b6b01-4f6c-467d-b938-c443966db5c5",
         "title": "Linux Systems Administrator",
-        "active": false,
+        "active": true,
         "date_updated": 1781647706,
         "date_posted": 1781639292,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Linux-Systems-Administrators---All-Levels_R-00185476",
@@ -297885,7 +297885,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "dc8cd8dc-3c3b-409c-9320-6db0956ea02c",
         "title": "Python Developer Quant Core Data",
-        "active": false,
+        "active": true,
         "date_updated": 1783030959,
         "date_posted": 1783029963,
         "url": "https://careers-sig.icims.com/jobs/11163/job?mobile=true&needsRedirect=false",
@@ -318952,7 +318952,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "e7e6bef5-79b4-4ef0-88f8-0daabd257a4b",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784216277,
         "date_posted": 1784160000,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Discovery-and-Enrichment-Expert-I---Hybrid-or-Remote_R116188",
@@ -324632,7 +324632,7 @@
         "company_name": "Funding Circle",
         "id": "d07243d2-a109-4f64-a14d-7a75944627e3",
         "title": "Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1784596685,
         "date_posted": 1784596351,
         "url": "https://jobs.ashbyhq.com/fundingcircle/363c58fa-a6f6-4fc3-8082-d9675110543c/application?embed=true",
@@ -333115,7 +333115,7 @@
         "company_name": "Quantum",
         "id": "e5892aa7-3c5f-4ce8-81b1-9c90e2a80f59",
         "title": "Graduate Commercial Insights Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1784712079,
         "date_posted": 1784711755,
         "url": "https://jobs.ashbyhq.com/quantum/24e8d551-3081-4356-a2ce-13235537e88d/application?embed=true",
@@ -340844,7 +340844,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "ea7f7cb2-ad06-44c7-8cd8-5652e226befb",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784931122,
         "date_posted": 1784931043,
         "url": "https://careers.westinghousenuclear.com/job/Warrendale-Software-Engineer-OR/1412373000/?ats=successfactors",
@@ -343784,7 +343784,7 @@
         "company_name": "UW Credit Union",
         "id": "da1edac2-c456-4ca2-abdc-5419d5c04292",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785163863,
         "date_posted": 1785161133,
         "url": "https://careers-uwcu.icims.com/jobs/6150/job?mobile=true&needsRedirect=false",
@@ -351555,7 +351555,7 @@
         "company_name": "Advanced Technology Services",
         "id": "1f77b613-c5a5-4a28-9d44-e43f4b43e7be",
         "title": "Calibration Metrology Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1785450945,
         "date_posted": 1785364141,
         "url": "https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4700158006",
@@ -352540,6 +352540,46 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "d82267f3-cfff-4cd5-84be-fdf718c3f3d1",
+        "title": "Forward Deployed Software Engineer New Grad - Commercial",
+        "active": true,
+        "date_updated": 1785509536,
+        "date_posted": 1785506997,
+        "url": "https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "1b22c446-ca15-46a6-8a3f-b6d8575ffa66",
+        "title": "Software Engineering Associate",
+        "active": true,
+        "date_updated": 1785508282,
+        "date_posted": 1785506597,
+        "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-CO-80925/1414513700/?ats=successfactors",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
