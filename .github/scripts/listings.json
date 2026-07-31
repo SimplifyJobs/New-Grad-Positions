@@ -2,42 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Chewy",
-        "id": "ad803e25-9423-4f7f-9bdb-76fd76d16bc1",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1764725338,
-        "date_posted": 1764725338,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7395133",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SageSure",
-        "id": "c45e3a4c-4bd9-4121-92d2-550043187a3e",
-        "title": "Associate Data Analyst",
-        "active": false,
-        "date_updated": 1764724346,
-        "date_posted": 1764724346,
-        "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4620339006",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/SageSure-Insurance-Managers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "mthree",
         "id": "e71ba1ca-1f1f-4807-b23b-d6e3f651a1a2",
         "title": "Java Developer",
@@ -1911,25 +1875,6 @@
             "Lowell, MA"
         ],
         "company_url": "https://simplify.jobs/c/Tokyo-Electron",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Redis",
-        "id": "2bce9d58-7d72-4b6d-bed7-b53373fe3a58",
-        "title": "Senior Applied AI Engineer",
-        "active": false,
-        "date_updated": 1764812967,
-        "date_posted": 1764725317,
-        "url": "https://job-boards.greenhouse.io/redis/jobs/5722089004",
-        "locations": [
-            "Remote in USA",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Redis",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -147868,7 +147813,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -147888,7 +147833,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -152601,7 +152546,7 @@
         "company_name": "Leidos",
         "id": "8741a52e-0aaf-43bb-949a-85b23902a433",
         "title": "Software Engineer TS/SCI Poly",
-        "active": false,
+        "active": true,
         "date_updated": 1774318559,
         "date_posted": 1774318559,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Engineer-TS-SCI-Poly_R-00179080",
@@ -175900,7 +175845,7 @@
         "company_name": "Robert Half",
         "id": "22c73d7b-43d7-45a2-b537-5beb5f314625",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775516184,
         "date_posted": 1775513333,
         "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943",
@@ -244997,7 +244942,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": true,
+        "active": false,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -253205,7 +253150,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -253685,7 +253630,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -263207,7 +263152,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": true,
+        "active": false,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -264644,7 +264589,7 @@
         "company_name": "RTX",
         "id": "d316d4d5-6b08-4290-b24d-fa803b41cc07",
         "title": "Semiconductor Equipment Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1781015189,
         "date_posted": 1781014588,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR2--362-Lowell-St--AR2-PLYMOUTH-BLDG/Semiconductor-Equipment-Engineer_01851345",
@@ -297978,7 +297923,7 @@
         "company_name": "General Motors",
         "id": "bf19b34b-cf94-4c89-90d8-c345748d47f3",
         "title": "Electrical Hardware Engineer - Central Compute",
-        "active": false,
+        "active": true,
         "date_updated": 1782966910,
         "date_posted": 1782956656,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Electrical-Hardware-Engineer---Central-Compute_JR-202612987",
@@ -328758,7 +328703,7 @@
         "company_name": "Analog Devices",
         "id": "0fbbfc2f-a11a-49dd-a008-b301eb21f6df",
         "title": "Senior Engineer - Machine Learning",
-        "active": true,
+        "active": false,
         "date_updated": 1784614861,
         "date_posted": 1781361181,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Senior-Engineer--Machine-Learning_R262583-1",
@@ -348648,7 +348593,7 @@
         "company_name": "Marsh",
         "id": "ec3b458b-fb1a-4091-8bee-90ac0e02e901",
         "title": "AI Product Enablement Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1785287946,
         "date_posted": 1784851200,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Oliver-Wyman---Regional-AI-Product-Enablement-Analyst_R_359871-1",
@@ -350800,7 +350745,7 @@
         "company_name": "Remitly",
         "id": "1d60545c-0180-4558-9259-1591b408c2be",
         "title": "Fullstack Software Development Engineer 1 - Card",
-        "active": true,
+        "active": false,
         "date_updated": 1785366381,
         "date_posted": 1785283200,
         "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Arlington-Virginia-United-States/Fullstack-Software-Development-Engineer-I--Card_R_106624",
@@ -352141,7 +352086,7 @@
         "company_name": "General Motors",
         "id": "1ce92922-bf16-49b6-8c16-8cd50877c3bf",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785449684,
         "date_posted": 1782956719,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Engineer_JR-202519828",
@@ -352671,5 +352616,101 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Frost",
+        "id": "1a5a546c-999a-48da-8da5-16813b772990",
+        "title": "Product Owner 1",
+        "active": true,
+        "date_updated": 1785460800,
+        "date_posted": 1785369600,
+        "url": "https://frostbank.wd5.myworkdayjobs.com/External/job/San-Antonio-TX---One-Frost/Product-Owner-I_R261341",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Frost",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Armada",
+        "id": "6cb6f4c5-0d14-454d-9289-fa07a847ef2d",
+        "title": "Product Manager Associate - Aep Sff",
+        "active": true,
+        "date_updated": 1785460640,
+        "date_posted": 1785460210,
+        "url": "https://job-boards.greenhouse.io/armada/jobs/5371838008",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Armada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "6a779119-9427-4e51-b8bb-2638070e150c",
+        "title": "Engineering Technician B",
+        "active": true,
+        "date_updated": 1785460321,
+        "date_posted": 1785459849,
+        "url": "https://jobs.l3harris.com/job/Cincinnati-Engineering-Technician-B-OH-45245/1414392600/?ats=successfactors",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "457fe4b3-2378-4097-9fee-28ae038b5a68",
+        "title": "Global Banking & Markets Operations-Irp Sales & Trading Services-Analyst",
+        "active": true,
+        "date_updated": 1785461100,
+        "date_posted": 1785449429,
+        "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180260",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Atoms",
+        "id": "11dbc4dc-b47d-422a-9d47-f588f79534f0",
+        "title": "Vehicle Installation Technician",
+        "active": true,
+        "date_updated": 1785460810,
+        "date_posted": 1785190528,
+        "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8651508002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Atoms",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
