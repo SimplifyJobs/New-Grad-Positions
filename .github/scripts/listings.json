@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palo Alto Networks",
-        "id": "872b169c-101c-4544-b8e9-659871a5daf3",
-        "title": "Senior Software Engineer in Test Prisma Access - AI Automation Engineer",
-        "active": false,
-        "date_updated": 1764721333,
-        "date_posted": 1764721333,
-        "url": "https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000096657347",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Moloco",
-        "id": "15a4619e-5784-4ead-a3d0-cdccb655340a",
-        "title": "Machine Learning Infra SWE",
-        "active": false,
-        "date_updated": 1764720830,
-        "date_posted": 1764720830,
-        "url": "https://job-boards.greenhouse.io/moloco/jobs/6599200003",
-        "locations": [
-            "San Carlos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Moloco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Signifyd",
         "id": "923b42e0-af19-4f0e-be15-b9161e6770ee",
@@ -114,24 +78,6 @@
         "degrees": [
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Yext",
-        "id": "27b5e3df-9426-413d-8df0-69796c890028",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1764721886,
-        "date_posted": 1764721886,
-        "url": "https://job-boards.greenhouse.io/yext/jobs/7011931",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Yext",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -42820,24 +42766,6 @@
         "degrees": [
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Dialysis Clinic",
-        "id": "f5df3490-8994-4749-ace5-d584fd159897",
-        "title": "Dialysis Patient Care Technician",
-        "active": false,
-        "date_updated": 1768443509,
-        "date_posted": 1764721456,
-        "url": "https://careers-dialysisclinic.icims.com/jobs/22554/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Dialysis-Clinic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -96483,26 +96411,6 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Appian",
-        "id": "e4f75862-ed5e-403a-985b-03b8e7d8fb0d",
-        "title": "Technical Consultant - Top Secret Clearance",
-        "active": false,
-        "date_updated": 1771457338,
-        "date_posted": 1764721339,
-        "url": "https://job-boards.greenhouse.io/appian/jobs/5946156",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Appian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -273086,7 +272994,7 @@
         "company_name": "The Boeing Company",
         "id": "ae21e7cb-1f14-401f-95ad-c50eac0d39a4",
         "title": "Seat Systems Software Certification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781303221,
         "date_posted": 1781302283,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/GBR---Bristol-UK/Seat-Systems-Software-Certification-Engineer--Associate-or-Experienced-level-_JR2026514691-3",
@@ -273550,7 +273458,7 @@
         "company_name": "The Boeing Company",
         "id": "b0c5b65e-7019-4d0f-a1ff-3052173df5c3",
         "title": "Seat Systems Software Certification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781303221,
         "date_posted": 1781302298,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Seat-Systems-Software-Certification-Engineer--Associate-or-Experienced-level-_JR2026514691",
@@ -299160,7 +299068,7 @@
         "company_name": "Goldman Sachs",
         "id": "d7efd06c-f78a-41c8-9b51-59e2289f8eff",
         "title": "Software Engineer - IAM Entitlements",
-        "active": true,
+        "active": false,
         "date_updated": 1783030503,
         "date_posted": 1783030004,
         "url": "https://higher.gs.com/roles/177874",
