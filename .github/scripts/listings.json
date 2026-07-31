@@ -143642,7 +143642,7 @@
         "company_name": "University of Arkansas",
         "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
         "title": "Graduate Research Assistant - Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1773814930,
         "date_posted": 1773814930,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891",
@@ -146786,7 +146786,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -146806,7 +146806,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -173519,7 +173519,7 @@
         "company_name": "Pennsylvania State University",
         "id": "511d6f5f-2c89-4282-b5ab-da8d188ff120",
         "title": "Engineering Designer",
-        "active": true,
+        "active": false,
         "date_updated": 1775303196,
         "date_posted": 1775300138,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Designer_REQ_0000076206-2",
@@ -263481,7 +263481,7 @@
         "company_name": "CoStar Group",
         "id": "cd60499a-dfb8-403e-ba59-7ed8d2cba47d",
         "title": "Bilingual French/English Associate Sales Comparable Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1780998501,
         "date_posted": 1780740292,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Bilingual-French-English-Associate-Sales-Comparable-Researcher_R37248",
@@ -322245,7 +322245,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "9e07fe1f-6795-4be0-83a7-ed61fd938ce2",
         "title": "Therapist \u2013 Intensive Outpatient Program",
-        "active": true,
+        "active": false,
         "date_updated": 1784382990,
         "date_posted": 1784246400,
         "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Wausau-Clinic/Therapist---PHP-IOP---PRN_R7834",
@@ -342702,7 +342702,7 @@
         "company_name": "Norton Rose Fulbright",
         "id": "5ce92496-57c5-4a49-8a74-6c3bef7f6814",
         "title": "Business and Data Reporting Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1784976108,
         "date_posted": 1784764800,
         "url": "https://nrf.wd3.myworkdayjobs.com/External/job/Newcastle-upon-Tyne-United-Kingdom/Business-and-Data-Reporting-Analyst--12-month-FTC-_R-4201",
@@ -345000,7 +345000,7 @@
         "company_name": "Leidos",
         "id": "5f9be77e-4f35-4993-83fe-933fc69fda09",
         "title": "Surface Mount Assembly Technician - Surface Mount Technology - Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1785194437,
         "date_posted": 1785110400,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Surface-Mount-Technology-SMT--tECHNICIAN_R-00188215",
@@ -348209,7 +348209,7 @@
         "company_name": "MILE MARKER",
         "id": "93d28632-116f-48c5-970b-7693ac0dfd7a",
         "title": "Senior Analyst - Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1785326404,
         "date_posted": 1784596594,
         "url": "https://ats.rippling.com/mile-marker/jobs/62026688-3037-4eb1-ac30-0dc1502dbe93",
@@ -350091,7 +350091,7 @@
         "company_name": "GE Healthcare",
         "id": "a411d025-1b26-4c12-900f-29fd7dc0e98d",
         "title": "Field Service Engineer 1 - Multi-Modality",
-        "active": true,
+        "active": false,
         "date_updated": 1785411281,
         "date_posted": 1785110400,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Multi-Modality---San-Antonio--TX_R4044121-2",
@@ -350132,7 +350132,7 @@
         "company_name": "Pennsylvania State University",
         "id": "ca7c8e33-3118-4603-b1b2-eefe6d2f3903",
         "title": "Signal Processing Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785411808,
         "date_posted": 1783158580,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Signal-Processing-Engineer_REQ_0000077400-1",
@@ -352109,6 +352109,67 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intel",
+        "id": "dc78ae5b-1e53-4193-9e47-0549b350dd79",
+        "title": "System Software Engineer",
+        "active": true,
+        "date_updated": 1785499153,
+        "date_posted": 1785110400,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/System-Software-Engineer_JR0285048",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Light & Wonder",
+        "id": "40f778f0-8d19-479e-837a-89687aed8df9",
+        "title": "Field Service Tech 2",
+        "active": true,
+        "date_updated": 1785497938,
+        "date_posted": 1778941772,
+        "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/North-Carolina-US/FIELD-SERVICE-TECH-II_R321692",
+        "locations": [
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Light-And-Wonder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "d49d4a3f-dcd1-4699-9cad-00b2bbc628dc",
+        "title": "Simulation Software Engineer",
+        "active": true,
+        "date_updated": 1785498009,
+        "date_posted": 1783163790,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Simulation-Software-Engineer_REQ_0000076942-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
