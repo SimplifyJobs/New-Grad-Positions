@@ -214869,7 +214869,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "866dfdeb-427f-40f5-9c92-cabe2dd6c658",
         "title": "Therapist \u2013 Child & Adolescent",
-        "active": true,
+        "active": false,
         "date_updated": 1778019153,
         "date_posted": 1778018743,
         "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/St-Paul-Clinic-Woodbury-MN/Therapist---Child---Adolescent---PHP-IOP_R7031",
@@ -249095,7 +249095,7 @@
         "company_name": "University of Arkansas",
         "id": "b9bcf351-5da5-411a-9194-d85ff25786a8",
         "title": "Graduate Assistant - Information Science",
-        "active": true,
+        "active": false,
         "date_updated": 1779961464,
         "date_posted": 1779527543,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/Graduate-Assistant---Information-Science_R0062021",
@@ -313366,7 +313366,7 @@
         "company_name": "Micron Technology",
         "id": "f8191bb6-b5ba-4864-9c7c-ca435b225435",
         "title": "New College Grad - Design Engineer - Hbm",
-        "active": false,
+        "active": true,
         "date_updated": 1783982507,
         "date_posted": 1783900800,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Design-Engineer--HBM_JR106212",
@@ -318952,7 +318952,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "e7e6bef5-79b4-4ef0-88f8-0daabd257a4b",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": false,
+        "active": true,
         "date_updated": 1784216277,
         "date_posted": 1784160000,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Discovery-and-Enrichment-Expert-I---Hybrid-or-Remote_R116188",
@@ -349126,7 +349126,7 @@
         "company_name": "Regal Rexnord",
         "id": "ee4aaf62-7d90-4ccb-a4b8-316d27e6f80b",
         "title": "Application Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785365772,
         "date_posted": 1785283200,
         "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Florence-Kentucky-United-States/Application-Engineer-I_R26_03815",
@@ -350253,7 +350253,7 @@
         "company_name": "Regal Rexnord",
         "id": "5333f836-9cf2-4382-96ba-082613f49176",
         "title": "Application Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785416016,
         "date_posted": 1785283200,
         "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Auburn-Alabama-United-States/Application-Engineer-I_R26_03816",
@@ -352255,5 +352255,66 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "7bcafcc7-31cf-41d4-87f2-24cd9a2c4cd1",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1785501239,
+        "date_posted": 1785283200,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00188155",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GFL",
+        "id": "cbe3aad4-f051-46d2-82af-2b44107d8cf6",
+        "title": "HR Data Analyst",
+        "active": true,
+        "date_updated": 1785501060,
+        "date_posted": 1785283200,
+        "url": "https://wd3.myworkdaysite.com/recruiting/gflenv/Careers/job/1000-Social-StreetRaleighNC/HR-Data-Analyst_R37915-1",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/GFL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Ferguson ",
+        "id": "9e862ca0-5557-4522-84c2-151df6feaabb",
+        "title": "Senior Product Manager - Costing and Rebates",
+        "active": true,
+        "date_updated": 1785501604,
+        "date_posted": 1781950135,
+        "url": "https://ferguson.wd1.myworkdayjobs.com/en-US/Ferguson_Experienced/job/Remote/Senior-Product-Owner---Costing-and-Rebates_R-134820",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ferguson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
