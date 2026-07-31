@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vitol",
-        "id": "693fa4c1-65c1-4712-bedb-6534d07a23f5",
-        "title": "Early Careers - Technology",
-        "active": false,
-        "date_updated": 1764779836,
-        "date_posted": 1764779836,
-        "url": "https://jobs.smartrecruiters.com/Vitol/744000096852824",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Vitol",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Vanderlande Industries",
         "id": "1d571e05-480c-44f1-ba2c-0c8ad44cac25",
@@ -103,25 +85,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Nielsen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "HCSC",
-        "id": "3c454ab5-df1d-42d8-9f82-2a59738565dd",
-        "title": "Data Scientist",
-        "active": false,
-        "date_updated": 1764780952,
-        "date_posted": 1764780952,
-        "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Data-Scientist_R0045413-1",
-        "locations": [
-            "Chicago, IL",
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -24906,30 +24869,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Uline",
-        "id": "f52a3c9c-831a-4ba0-9eb2-4a3bc3d54824",
-        "title": "Business Systems Analyst - International",
-        "active": false,
-        "date_updated": 1767280442,
-        "date_posted": 1764780545,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Systems-Analyst---International_R259571-1",
-        "locations": [
-            "Waukegan, IL",
-            "Milwaukee, WI",
-            "Pleasant Prairie, WI",
-            "Morton Grove, IL",
-            "Kenosha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Cable One",
         "id": "d7c2f0c4-99af-4d6f-978b-58cfd5813bb1",
@@ -46048,24 +45987,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Formlabs",
-        "id": "6230d91e-53ef-4326-8ab3-ac0f89ea62ac",
-        "title": "Revenue Analytics Lead",
-        "active": false,
-        "date_updated": 1768643737,
-        "date_posted": 1764780506,
-        "url": "https://careers.formlabs.com/job/7181193/apply/?gh_jid=7181193",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Formlabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
