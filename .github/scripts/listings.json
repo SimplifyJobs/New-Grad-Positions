@@ -1,96 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vanderlande Industries",
-        "id": "1d571e05-480c-44f1-ba2c-0c8ad44cac25",
-        "title": "Integration Engineer",
-        "active": false,
-        "date_updated": 1764782069,
-        "date_posted": 1764782069,
-        "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-Atlanta/Integration-Engineer_JR34722",
-        "locations": [
-            "Marietta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/7ab55595-a241-4468-bf77-178371480131",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vanderlande Industries",
-        "id": "15304295-2be6-4005-8574-7361eee3a9ca",
-        "title": "Integration Engineer",
-        "active": false,
-        "date_updated": 1764782068,
-        "date_posted": 1764782068,
-        "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-Atlanta/Integration-Engineer_JR34733",
-        "locations": [
-            "Marietta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/7ab55595-a241-4468-bf77-178371480131",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Auto-Owners Insurance",
-        "id": "f5dfe658-eae8-4382-968f-8b9afa61c9f5",
-        "title": "Business Intelligence Developer",
-        "active": false,
-        "date_updated": 1764781789,
-        "date_posted": 1764781789,
-        "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_12154",
-        "locations": [
-            "East Lansing, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Auto-Owners-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Applied Fluid Power",
-        "id": "c208acb6-228d-43a0-9c9e-ff23ce5023fe",
-        "title": "SOD Product Manager",
-        "active": false,
-        "date_updated": 1764781767,
-        "date_posted": 1764781767,
-        "url": "https://applied.wd501.myworkdayjobs.com/applied/job/Strongsville-OH/SOD-Product-Manager_JR102927",
-        "locations": [
-            "Strongsville, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Fluid-Power",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nielsen",
-        "id": "e4227ff8-f1ce-4f85-9753-430fa2bd10a6",
-        "title": "Analyst \u2013 Retail",
-        "active": false,
-        "date_updated": 1764781589,
-        "date_posted": 1764781589,
-        "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000096809290",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nielsen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "TJX",
         "id": "6fa2da19-c727-4a4f-ad73-1b30db63c4eb",
@@ -228735,7 +228645,7 @@
         "company_name": "NVIDIA",
         "id": "17d6c668-4bc6-4bfb-8c59-1da4ee9209a5",
         "title": "Software R&D Engineer New Grad - Digital Logic Synthesis",
-        "active": true,
+        "active": false,
         "date_updated": 1778883887,
         "date_posted": 1778883147,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-R-D-Engineer--Digital-Logic-Synthesis---New-College-Grad-2026_JR2018263",
@@ -318483,7 +318393,7 @@
         "company_name": "RELX",
         "id": "1f87470c-a25f-4f78-b44b-eabd57ceab67",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784212739,
         "date_posted": 1784160000,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Raleigh-NC/Data-Discovery-and-Enrichment-Expert-I---Hybrid-or-Remote_R116188-1",
@@ -328978,7 +328888,7 @@
         "company_name": "Globus Medical",
         "id": "0d17b2f7-b0ae-4f9d-8dab-b9be3acb5a0f",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1784640062,
         "date_posted": 1781343709,
         "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/ASSOCIATE-PRODUCT-MANAGER_JR106707",
