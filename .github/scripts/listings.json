@@ -1,86 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Signifyd",
-        "id": "923b42e0-af19-4f0e-be15-b9161e6770ee",
-        "title": "Data Scientist 1",
-        "active": false,
-        "date_updated": 1764722666,
-        "date_posted": 1764722666,
-        "url": "https://job-boards.greenhouse.io/signifyd95/jobs/7437634",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Signifyd",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Motional",
-        "id": "0e9e4a98-bdc2-4405-b36b-b5ff37182561",
-        "title": "Machine Learning Engineer - Prediction",
-        "active": false,
-        "date_updated": 1764722467,
-        "date_posted": 1764722467,
-        "url": "https://motional.com/open-positions/?gh_jid=7545187003#/7545187003",
-        "locations": [
-            "Boston, MA",
-            "Remote in USA",
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Motional",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Motional",
-        "id": "ca2d9d19-4db9-4063-8077-4d8e6135da02",
-        "title": "Machine Learning Engineer - Machine Learning Planner",
-        "active": false,
-        "date_updated": 1764722457,
-        "date_posted": 1764722457,
-        "url": "https://motional.com/open-positions/?gh_jid=7545197003#/7545197003",
-        "locations": [
-            "Boston, MA",
-            "Remote in USA",
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Motional",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Motional",
-        "id": "5eaff5ec-26dd-4021-9510-4052c78750ef",
-        "title": "Machine Learning Engineer - Behaviors",
-        "active": false,
-        "date_updated": 1764722460,
-        "date_posted": 1764722460,
-        "url": "https://motional.com/open-positions/?gh_jid=7545098003#/7545098003",
-        "locations": [
-            "Boston, MA",
-            "Remote in USA",
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Motional",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Chewy",
         "id": "ad803e25-9423-4f7f-9bdb-76fd76d16bc1",
@@ -6614,24 +6534,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/E-Bay",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "StepStone Group",
-        "id": "3e82fe50-bac7-4e86-a41b-c483e71879ad",
-        "title": "Analyst \u2013 Portfolio Management",
-        "active": false,
-        "date_updated": 1765321009,
-        "date_posted": 1764723373,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7438476",
-        "locations": [
-            "La Jolla, San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/StepStoneGroup",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -256219,7 +256121,7 @@
         "company_name": "ByteDance",
         "id": "fdc3a455-e72d-403a-8bf1-c952e5131c84",
         "title": "Graduate Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780466981,
         "date_posted": 1780466890,
         "url": "https://jobs.bytedance.com/en/position/7515571512419338514/detail",
@@ -351853,7 +351755,7 @@
         "company_name": "JP Morgan Chase",
         "id": "fe1344ca-b32d-4e07-944c-5581485c18db",
         "title": "Jpmchase Institute Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1785449882,
         "date_posted": 1785449373,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774926",
