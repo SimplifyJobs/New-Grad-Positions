@@ -1,150 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Emerson Electric",
-        "id": "eb518bb3-6760-4a5c-8b60-913d726a330c",
-        "title": "Software Engineer - C# - TypeScript",
-        "active": false,
-        "date_updated": 1764728492,
-        "date_posted": 1764728492,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25028977",
-        "locations": [
-            "Round Rock, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Varian",
-        "id": "7688c5d4-e49d-44d6-bf24-50695b3ee1a2",
-        "title": "Field Service Technician",
-        "active": false,
-        "date_updated": 1764727961,
-        "date_posted": 1764727961,
-        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/WAS-PA/Field-Service-Tech---NYC--NY_R-23788",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Colorado School of Mines",
-        "id": "57fb2d2f-c83e-4652-80cb-112f591fca24",
-        "title": "Postdoctoral Fellow - Geophysics",
-        "active": false,
-        "date_updated": 1764727956,
-        "date_posted": 1764727956,
-        "url": "https://mines.wd1.myworkdayjobs.com/mines_careers/job/Colorado/Post-Doctoral-Fellow--Geophysics_JR107630",
-        "locations": [
-            "Golden, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Colorado-School-Of-Mines",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Commerce Architects",
-        "id": "1f7a29cf-68e7-48ec-9968-729026c01ca8",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1764727948,
-        "date_posted": 1764727948,
-        "url": "https://jobs.lever.co/commercearchitects/ec4bd3b5-3219-4524-805a-d9dff354c5ec/apply",
-        "locations": [
-            "Spokane, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Commerce-Architects",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Commerce Architects",
-        "id": "1899df58-ab9d-4b0f-b0f5-4bc4205892a9",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1764727949,
-        "date_posted": 1764727949,
-        "url": "https://jobs.lever.co/commercearchitects/bb9cd77a-8b08-4260-8fb0-fcd2e703a271/apply",
-        "locations": [
-            "Spokane, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Commerce-Architects",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qualcomm",
-        "id": "ec8ad564-829a-4344-a665-37030a4fa928",
-        "title": "Sensors Software Engineer - Software Engineering",
-        "active": false,
-        "date_updated": 1764727750,
-        "date_posted": 1764727750,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446715712169",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fermat",
-        "id": "ad3cabe6-a5fb-404f-a81f-db46781d4494",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1764727735,
-        "date_posted": 1764727735,
-        "url": "https://jobs.ashbyhq.com/fermat/6a40e7b5-d9bb-40a6-8b5e-cdcf566d60f1/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Fermat",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KOHO",
-        "id": "8e56d335-db60-4a06-ab4f-8f8c660feb41",
-        "title": "Main Template - 2025",
-        "active": false,
-        "date_updated": 1764727745,
-        "date_posted": 1764727745,
-        "url": "https://jobs.ashbyhq.com/koho/17f522d4-20d0-4633-8d61-a755cf9380b8/application",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/KOHO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Samsung",
         "id": "8c9636c1-8871-4600-85ef-19b26b8d3e06",
@@ -162,24 +18,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Envista",
-        "id": "3e4b161c-03b2-4fc4-b3c2-7d62c4077e93",
-        "title": "Finishing Technician",
-        "active": false,
-        "date_updated": 1764728806,
-        "date_posted": 1764728806,
-        "url": "https://envista.wd1.myworkdayjobs.com/en-US/envistacareers/job/United-States-of-America--Wisconsin--Sturtevant/Finishing-Technician_R5024642",
-        "locations": [
-            "Racine, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Envista",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -432,24 +270,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cadent",
-        "id": "3115fe69-bbc7-48e9-8f86-7b98df182455",
-        "title": "Data Analytics - Junior Associate",
-        "active": false,
-        "date_updated": 1764728856,
-        "date_posted": 1764728856,
-        "url": "https://careers-cadent.icims.com/jobs/1271/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "BlackRock",
         "id": "7cce112a-69b9-4b36-af4b-35412e16c9b2",
@@ -485,24 +305,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "090bf65b-665b-4895-b8e1-01788fdab23e",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764728620,
-        "date_posted": 1764728620,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039861",
-        "locations": [
-            "Bedford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -25212,24 +25014,6 @@
             "Surrey, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/White-Cap-Supply-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Eastern Communications",
-        "id": "876bbda9-9fea-4bf6-8a49-b8a1e6ffb11b",
-        "title": "Vehicle Installation Technician",
-        "active": false,
-        "date_updated": 1764728016,
-        "date_posted": 1764728016,
-        "url": "https://jobs.lever.co/eastern-communications/58098138-6383-4afd-84ba-a9035d0bdfe5/apply",
-        "locations": [
-            "Quincy, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Eastern-Communications",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
