@@ -1,86 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Dimensional Fund Advisors",
-        "id": "b6c4c1b0-6d03-4055-aad2-7243314bd0c9",
-        "title": "Associate \u2013 Investment Analytics and Data - Portfolio Analytics",
-        "active": false,
-        "date_updated": 1764733582,
-        "date_posted": 1764733582,
-        "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Associate--Investment-Analytics-and-Data--Portfolio-Analytics-_2025-8613",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/3d361434-7ac4-4284-b2ef-078b0bc92808",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Shields Health Solutions",
-        "id": "f1298b1e-60e9-42b1-835d-cbea4f53338f",
-        "title": "Associate Data Analyst",
-        "active": false,
-        "date_updated": 1764733466,
-        "date_posted": 1764733466,
-        "url": "https://job-boards.greenhouse.io/shieldshealthsolutions/jobs/7544865003",
-        "locations": [
-            "Canton, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Shields-Health-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Daimler Truck",
-        "id": "e8f28bd1-7f64-4de6-9783-e159c13d5b38",
-        "title": "System Engineering Analytics Engineer 1",
-        "active": false,
-        "date_updated": 1764733504,
-        "date_posted": 1764733504,
-        "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/System-Engineering-Analytics-Engineer-I_DT-16155",
-        "locations": [
-            "Portland, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Daimler-Truck",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cambia Health Solutions",
-        "id": "bd0d727e-a8e2-453e-832c-20231fe9c3d4",
-        "title": "AI Scientist 1 - Healthcare",
-        "active": false,
-        "date_updated": 1764733288,
-        "date_posted": 1764733288,
-        "url": "https://cambiahealth.wd1.myworkdayjobs.com/External/job/Renton-WA/AI-Scientist-I--Healthcare-_R-5997",
-        "locations": [
-            "Salt Lake City, UT",
-            "Post Falls, ID",
-            "Medford, OR",
-            "Burlington, WA",
-            "Tukwila, WA",
-            "Boise, ID",
-            "Moscow, ID",
-            "Bellevue, WA",
-            "Portland, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Cambia-Health-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Huntington Bancshares",
         "id": "6cc1ba6c-eccb-4f52-99ff-67aa1e69df5b",
@@ -37858,24 +37778,6 @@
             "Hammersmith, London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sabre",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "a5d5fdf7-804f-4a17-9ab7-9bfa37970994",
-        "title": "Games Support Technician",
-        "active": false,
-        "date_updated": 1767890020,
-        "date_posted": 1764734117,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/DB0202---Santa-Rosa-CA/Games-Support-Technician_R-1009894",
-        "locations": [
-            "Santa Rosa, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -352096,6 +351998,26 @@
             "Associate's",
             "Bootcamp",
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Dynamics Information Technology",
+        "id": "595b2d06-7f54-404b-a53a-31caefb3ae05",
+        "title": "Human Performance Data Scientist 1",
+        "active": true,
+        "date_updated": 1784754558,
+        "date_posted": 1780135620,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Hurlburt-Field---229-Cody-Ave-FLC017/Human-Performance-Data-Scientist-I_RQ210954",
+        "locations": [
+            "Hurlburt Field, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
