@@ -1,118 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Samsung",
-        "id": "8c9636c1-8871-4600-85ef-19b26b8d3e06",
-        "title": "R&D Product Development Engineer",
-        "active": false,
-        "date_updated": 1764730531,
-        "date_posted": 1764730531,
-        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/19-Chapin-Road-Pine-Brook-NJ-USA/R-D-Product-Development-Engineer_R111419-1",
-        "locations": [
-            "Parsippany-Troy Hills, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Stanley Black & Decker",
-        "id": "38395ce4-a405-4c46-b049-caa003eda305",
-        "title": "Service Technician",
-        "active": false,
-        "date_updated": 1764730457,
-        "date_posted": 1764730457,
-        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/San-Antonio-TX-United-States/Service-Technician_REQ-1000043872",
-        "locations": [
-            "San Antonio, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Carnegie Mellon University",
-        "id": "ebb97515-f54d-472c-ad3e-4c33803310cc",
-        "title": "Investment Analyst - Investment Office",
-        "active": false,
-        "date_updated": 1764729855,
-        "date_posted": 1764729855,
-        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Investment-Analyst---2-Year-Investment-Analyst-Program---Investment-Office_2023904",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "5ab5b8db-7886-42f6-80e4-e24a553ea695",
-        "title": "Systems Engineer 1",
-        "active": false,
-        "date_updated": 1764729916,
-        "date_posted": 1764729916,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/FL410-Largo-FL-MFG-7887-Bryan-Dairy-Road---Largo-FL-33777-USA/Systems-Engineer-I--Onsite-_01809966",
-        "locations": [
-            "Largo, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Carnegie Mellon University",
-        "id": "02b7ec3e-6888-413e-8080-713925775d28",
-        "title": "Research Associate - Electrical and Computer Engineering",
-        "active": false,
-        "date_updated": 1764729854,
-        "date_posted": 1764729854,
-        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---Electrical-and-Computer-Engineering_2022193",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sierra Space",
-        "id": "62bc1987-62b4-4863-b436-4e30525acd73",
-        "title": "Business Intelligence Developer 1",
-        "active": false,
-        "date_updated": 1764729137,
-        "date_posted": 1764729137,
-        "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO-Arapahoe-2---CO_ARA/Business-Intelligence-Developer-I_R25115-1",
-        "locations": [
-            "Centennial, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Space",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "U.S. Bank",
         "id": "4bdb1cee-1cc2-4d49-a6f3-db3a2a36b351",
@@ -224,24 +112,6 @@
             "Annapolis Junction, MD"
         ],
         "company_url": "https://simplify.jobs/c/GDIT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "58db250d-7803-4e21-9bd8-c5e5d824f502",
-        "title": "2026 Fulltime-Raytheon EO Optical Engineer 1",
-        "active": false,
-        "date_updated": 1764729905,
-        "date_posted": 1764729905,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime--Raytheon-EO-Optical-Engineer-I---Onsite-_01806682",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -26602,24 +26472,6 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Encore Capital Group",
-        "id": "587977bc-f480-4163-8532-dd8642bafe99",
-        "title": "Market Intelligence Analyst",
-        "active": false,
-        "date_updated": 1764730264,
-        "date_posted": 1764730264,
-        "url": "https://encore.wd1.myworkdayjobs.com/externalnew/job/CA---San-Diego/Market-Intelligence-Analyst_HR-19578-1",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Encore-Capital-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -86147,26 +85999,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "AeroVironment",
-        "id": "9c231176-4d7c-44d9-a84f-b1391ec58cd5",
-        "title": "Product Engineer 1",
-        "active": false,
-        "date_updated": 1770900907,
-        "date_posted": 1764729519,
-        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Huntsville-AL/Product-Engineer-II-_6245",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/AeroVironment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -351558,7 +351390,7 @@
         "company_name": "Fifth Third Bank",
         "id": "ef55f078-97dd-4d24-b83e-fe4a5d11a422",
         "title": "IT Leadership Program - 2027",
-        "active": true,
+        "active": false,
         "date_updated": 1785449882,
         "date_posted": 1785449831,
         "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/IT-Leadership-Program---2027_R67329",
