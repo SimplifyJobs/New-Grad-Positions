@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "RELX",
-        "id": "f5b8869b-d88f-4329-b22b-267f4cb30288",
-        "title": "Associate Product Manager - Remote USA - EST",
-        "active": false,
-        "date_updated": 1764778341,
-        "date_posted": 1764778341,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Georgia/Associate-Product-Manager--Remote-USA---EST-_R105054-1",
-        "locations": [
-            "Georgia"
-        ],
-        "company_url": "https://simplify.jobs/c/RELX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Vitol",
         "id": "693fa4c1-65c1-4712-bedb-6534d07a23f5",
@@ -31,60 +13,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Vitol",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "44e4ad5b-76e7-435a-927d-989073975db2",
-        "title": "Software Engineer - Full Stack",
-        "active": false,
-        "date_updated": 1764778436,
-        "date_posted": 1764778436,
-        "url": "https://jobs.intuit.com/job/new-york/software-engineer-full-stack/27595/89117477792",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Estes Forwarding Worldwide",
-        "id": "b9e39a25-b614-4973-9233-a9072238b731",
-        "title": "Software Engineer 1 - Core Services",
-        "active": false,
-        "date_updated": 1764779124,
-        "date_posted": 1764779124,
-        "url": "https://careers-efwnow.icims.com/jobs/6859/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Richmond, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Estes-Forwarding-Worldwide",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "AeroVironment",
-        "id": "4a44e78b-7014-400b-ab4e-e6121937749b",
-        "title": "Software Engineer 1 - Embedded",
-        "active": false,
-        "date_updated": 1764779264,
-        "date_posted": 1764779264,
-        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineer-I--Embedded-_6243-1",
-        "locations": [
-            "Moorpark, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AeroVironment",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -14087,24 +14015,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Covenant Health",
-        "id": "aaa4e62f-49d4-4931-afb1-571160ce09ac",
-        "title": "Cna",
-        "active": false,
-        "date_updated": 1765938044,
-        "date_posted": 1764779404,
-        "url": "https://careers-covenanthealth.icims.com/jobs/69535/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Pittsfield, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Covenant-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Microchip Technology",
         "id": "d33a4313-f7fb-4bba-900f-667914ffc31b",
@@ -26304,24 +26214,6 @@
             "Harlow, UK"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Mimecast",
-        "id": "8585de18-ba94-4f0d-b767-663a0e8f5660",
-        "title": "Product Operations Coordinator",
-        "active": false,
-        "date_updated": 1764778026,
-        "date_posted": 1764778026,
-        "url": "https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America---Massachusetts---Lexington/Product-Operations-Coordinator_R6134-1",
-        "locations": [
-            "Lexington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mimecast",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -40685,27 +40577,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Rivian",
-        "id": "a8a38036-9d8b-4ef0-918a-ee2fb14ed529",
-        "title": "Software Engineer - Engineering Productivity - Infotainment Platform",
-        "active": false,
-        "date_updated": 1768382229,
-        "date_posted": 1764779232,
-        "url": "https://careers.rivian.com/jobs/27934?lang=en-us&icims=1",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Sainsbury's",
         "id": "70074171-58c1-4c78-bd4a-e5340e397ccd",
@@ -47789,26 +47660,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Affiliated Engineers",
-        "id": "9d635b98-48b1-4ae8-99b2-fcd2f78d4038",
-        "title": "Engineering Data Analyst",
-        "active": false,
-        "date_updated": 1768905386,
-        "date_posted": 1764778743,
-        "url": "https://careers-aeieng.icims.com/jobs/5499/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Rockford, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Affiliated-Engineers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -85290,51 +85141,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "40376ce7-1646-4417-9ec8-5b9aa3777f5d",
-        "title": "AI Data Associate - French - Artificial General Intelligence",
-        "active": false,
-        "date_updated": 1770892093,
-        "date_posted": 1764778449,
-        "url": "https://amazon.jobs/en/jobs/3136504/ai-data-associate-french-artificial-general-intelligence",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "8d5ea051-7365-4fc6-afc7-4ce059493592",
-        "title": "AI Data Associate - Artificial General Intelligence",
-        "active": false,
-        "date_updated": 1770892092,
-        "date_posted": 1764778454,
-        "url": "https://amazon.jobs/en/jobs/3136515/ai-data-associate-french-artificial-general-intelligence",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
         ]
     },
     {
