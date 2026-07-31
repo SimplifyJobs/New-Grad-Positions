@@ -1,134 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cloudera",
-        "id": "386c3981-ebfd-4e48-93bf-0d959103a3c6",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1764804185,
-        "date_posted": 1764804185,
-        "url": "https://cloudera.wd5.myworkdayjobs.com/external_career/job/US-Texas-Austin/Software-Engineer_251356-1",
-        "locations": [
-            "Austin, TX",
-            "Florida",
-            "Georgia"
-        ],
-        "company_url": "https://simplify.jobs/c/07fb1ce1-0bfb-478c-89b9-2a010130e807",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ramboll",
-        "id": "4bf89ccc-3758-4fc3-9d8a-bcbffd629e84",
-        "title": "Associate Air Quality Consultant",
-        "active": false,
-        "date_updated": 1764804172,
-        "date_posted": 1764804172,
-        "url": "https://jobs.smartrecruiters.com/Ramboll3/744000096857435",
-        "locations": [
-            "Dublin, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Ramboll",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citizen Health",
-        "id": "94c3db7a-db15-4d1c-8d8e-7425013a1448",
-        "title": "Early Career Software Engineer",
-        "active": false,
-        "date_updated": 1764803795,
-        "date_posted": 1764803795,
-        "url": "https://jobs.ashbyhq.com/Citizen%20Health/0ab1726b-a78b-482f-9946-fe3906977b8b/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Citizen-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3e25d03a-4c54-4adf-a0fa-bb5f6b2a5884",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764803745,
-        "date_posted": 1764803745,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041718",
-        "locations": [
-            "Gloucester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lawrence Berkeley National Laboratory",
-        "id": "6cbd4c2c-b5a9-4a72-8e9c-d22c38b160db",
-        "title": "Postdoc AI-Enhanced Soft X-ray Spectroscopy for Microelectronics",
-        "active": false,
-        "date_updated": 1764803316,
-        "date_posted": 1764803316,
-        "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=105624",
-        "locations": [
-            "Berkeley, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hologic",
-        "id": "5af3d58b-370b-4947-91a3-f2c7a3659522",
-        "title": "Software Development Engineer",
-        "active": false,
-        "date_updated": 1764803525,
-        "date_posted": 1764803525,
-        "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10516",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hologic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "2f4d97e6-6152-4a9d-a04d-f743174707e3",
-        "title": "Postdoctoral Researcher",
-        "active": false,
-        "date_updated": 1764803425,
-        "date_posted": 1764803425,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Researcher_REQ_0000073974-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Emerson Electric",
         "id": "aeb58247-a37a-45dd-9dde-d813d374f134",
@@ -141,43 +13,6 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "688180f5-ca02-43fc-91c0-b094193a5e6b",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764803751,
-        "date_posted": 1764803751,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041746",
-        "locations": [
-            "Bath, UK",
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9b3801a0-87ec-4b07-aecb-b0b1170f2f3a",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764803750,
-        "date_posted": 1764803750,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041771",
-        "locations": [
-            "Derby, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -217,24 +52,6 @@
             "Puyallup, WA"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "12e5f646-72a1-41f0-a2c6-078ce0938a04",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764803750,
-        "date_posted": 1764803750,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041753",
-        "locations": [
-            "Bath, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -372,60 +189,6 @@
             "Idaho"
         ],
         "company_url": "https://simplify.jobs/c/Highmark-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "85c9aa6b-1ad6-4903-a7be-be532e074459",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764803747,
-        "date_posted": 1764803747,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041723",
-        "locations": [
-            "Gloucester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "563a67a4-9d21-4046-b7fc-4e7fee75aa32",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764803747,
-        "date_posted": 1764803747,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041783",
-        "locations": [
-            "Derby, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Princeton University",
-        "id": "2b928a3d-6329-442b-a209-f87b3326f791",
-        "title": "Data Management Support 2",
-        "active": false,
-        "date_updated": 1764803773,
-        "date_posted": 1764803773,
-        "url": "https://main-princeton.icims.com/jobs/21391/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Princeton, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Princeton-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -36686,24 +36449,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Ideogram",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Autism Spectrum Therapies",
-        "id": "80d8be53-1672-4d85-bced-5ce1f920a4e0",
-        "title": "Behavior Technician",
-        "active": false,
-        "date_updated": 1768179048,
-        "date_posted": 1764804126,
-        "url": "https://autismspectrum-learnbehavioral.icims.com/jobs/41010/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Autism-Spectrum-Therapies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -351115,7 +350860,7 @@
         "company_name": "Advanced Technology Services",
         "id": "1f77b613-c5a5-4a28-9d44-e43f4b43e7be",
         "title": "Calibration Metrology Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785450945,
         "date_posted": 1785364141,
         "url": "https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4700158006",
@@ -352668,6 +352413,443 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Charter Manufacturing",
+        "id": "9ac9294a-199f-42d5-857f-6a149669840e",
+        "title": "Digital Rotational Analyst",
+        "active": true,
+        "date_updated": 1785540565,
+        "date_posted": 1785456000,
+        "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Rotational-Analyst---December-2026-Grads_R07950-1",
+        "locations": [
+            "Mequon, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Charter-Manufacturing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "8c2d8b3a-a4af-4b81-bb1a-427981e07d6d",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1785540544,
+        "date_posted": 1785456000,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00188494",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "State Street",
+        "id": "a1b78398-f928-4540-906d-107312019bc7",
+        "title": "Junior SIEM Data Engineer",
+        "active": true,
+        "date_updated": 1785540241,
+        "date_posted": 1785456000,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Junior-SIEM-Data-Engineer_R-794329",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "745020fb-0f10-41b5-8232-0944a1665d20",
+        "title": "Business Data Analyst 1 - Military Engines",
+        "active": true,
+        "date_updated": 1785540475,
+        "date_posted": 1785456000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Military-Engines--Business-Data-Analyst-I_01862771",
+        "locations": [
+            "East Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "DaVita",
+        "id": "463646fb-c12b-46c0-abf5-365b2687ac52",
+        "title": "Marketing and Communications Senior Analyst",
+        "active": true,
+        "date_updated": 1785540332,
+        "date_posted": 1785456000,
+        "url": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/01550---Illinois-Remote/Marketing-and-Communications-Sr-Analyst_R0470966",
+        "locations": [
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/DaVita",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Omnicom Group",
+        "id": "1c15e2c0-6a6b-4017-917d-c2bfcab04627",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1785540088,
+        "date_posted": 1785283200,
+        "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/Salt-Lake-City-Utah-United-States-of-America/Data-Analyst_6764-AM-1",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/6f106b8c-5b9c-4b77-9a62-a180f1623bc8",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Omnicom Group",
+        "id": "54daeca2-08d8-4662-8330-1d4b48be0efa",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1785540079,
+        "date_posted": 1785283200,
+        "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Data-Analyst_6763-KP-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/6f106b8c-5b9c-4b77-9a62-a180f1623bc8",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "cfeb11b9-ce3a-4296-9dba-69307b8df18d",
+        "title": "Application Software Developer New Grad",
+        "active": true,
+        "date_updated": 1785540039,
+        "date_posted": 1785456000,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-3",
+        "locations": [
+            "Livonia, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Comcast",
+        "id": "378306e7-680e-4b6d-9276-d72a4e8f006b",
+        "title": "Hardware Engineer 1",
+        "active": true,
+        "date_updated": 1785540036,
+        "date_posted": 1785456000,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Hardware-Engineering_R441646",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "ab74ecca-af20-483d-9d93-2db6d26feb93",
+        "title": "Multibody Dynamics Application Software Developer New Grad - Adams",
+        "active": true,
+        "date_updated": 1785540052,
+        "date_posted": 1785456000,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788",
+        "locations": [
+            "Livonia, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "741404cf-64f4-4cc1-bc84-cfeae5bf2552",
+        "title": "Multibody Dynamics Application Software Developer New Grad - Adams",
+        "active": true,
+        "date_updated": 1785539964,
+        "date_posted": 1785456000,
+        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2",
+        "locations": [
+            "Livonia, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "7625e8e7-c2d7-45f5-b371-6e0940672f53",
+        "title": "Application Software Developer New Grad",
+        "active": true,
+        "date_updated": 1785539951,
+        "date_posted": 1785456000,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2",
+        "locations": [
+            "Livonia, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "98aabb98-548b-40b7-9318-4c51f6f1c399",
+        "title": "Application Software Developer New Grad",
+        "active": true,
+        "date_updated": 1785539935,
+        "date_posted": 1785456000,
+        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-1",
+        "locations": [
+            "Livonia, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "92ee85c1-b699-4161-842a-55df186233f2",
+        "title": "Multibody Dynamics Application Software Developer New Grad - Adams",
+        "active": true,
+        "date_updated": 1785539933,
+        "date_posted": 1785456000,
+        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3",
+        "locations": [
+            "Livonia, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "2a9715ce-fc4b-4245-9f7d-dd33ae0f0bd1",
+        "title": "Application Software Developer New Grad",
+        "active": true,
+        "date_updated": 1785539911,
+        "date_posted": 1785456000,
+        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736",
+        "locations": [
+            "Livonia, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "ecab9a56-cf2b-430c-9d07-b9560e7b3fe2",
+        "title": "Quantitative Trader New Grad",
+        "active": true,
+        "date_updated": 1785539679,
+        "date_posted": 1785536810,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-europe/",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "3ad4bb50-2cc1-4e5e-b9d9-f5f00800b5eb",
+        "title": "AI Innovation Analyst",
+        "active": true,
+        "date_updated": 1785539643,
+        "date_posted": 1785536781,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Analyst-AI-Innovation/361321",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Deloitte",
+        "id": "247fd114-6046-4c46-853c-a15c455a2486",
+        "title": "Software Engineering Analyst - Consultative Offerings",
+        "active": true,
+        "date_updated": 1785539638,
+        "date_posted": 1785536783,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Analyst-Software-Engineering/350472",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "2a2b2e77-2824-45c5-b035-0e167fc11fa7",
+        "title": "Forensic Analytics Analyst - Consultative Offerings",
+        "active": true,
+        "date_updated": 1785539644,
+        "date_posted": 1785536783,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Analyst-Forensic-Analytics/361315",
+        "locations": [
+            "California",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA Corporation",
+        "id": "2bcbe3ed-6b30-4190-b38f-7ca1bbad31a1",
+        "title": "Product Installation Engineer",
+        "active": true,
+        "date_updated": 1785539579,
+        "date_posted": 1785456000,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/USA-AZ-Chandler-KLA/Product-Install-Engineer---OMD---Extensive-90----Travel-Required_2639056",
+        "locations": [
+            "Hillsboro, OR",
+            "Boise, ID",
+            "Chandler, AZ",
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "PAR Tech",
+        "id": "ef8d130b-1326-4187-8092-6cc5136573e9",
+        "title": "Electronic Technician 1",
+        "active": true,
+        "date_updated": 1785539536,
+        "date_posted": 1785536717,
+        "url": "https://jobs.ashbyhq.com/PAR%20Technology/f3f29cb3-42ce-4836-a616-08d693e4b88b/application?embed=true",
+        "locations": [
+            "New Hartford, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/PAR-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
