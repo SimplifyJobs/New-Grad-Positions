@@ -1,41 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Huntington Bancshares",
-        "id": "cedb6765-c3de-44d9-bc82-ca7174bc1d09",
-        "title": "Technology Delivery Analyst - Elevate",
-        "active": false,
-        "date_updated": 1764744522,
-        "date_posted": 1764744522,
-        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0067580",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Huntington Bancshares",
-        "id": "14dc6646-b0f5-4e45-a4e1-09f138726af3",
-        "title": "Technology Delivery Analyst - Elevate",
-        "active": false,
-        "date_updated": 1764744523,
-        "date_posted": 1764744523,
-        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0067577",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1771250796,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -296003,7 +295967,7 @@
         "company_name": "U.S. Bank",
         "id": "ef94e327-12f8-4e9e-a0b0-5cd804b92e09",
         "title": "Software Engineer 1 - Mainframe - Cobol",
-        "active": true,
+        "active": false,
         "date_updated": 1782962023,
         "date_posted": 1782956501,
         "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brookfield-WI/Software-Engineer-I---Mainframe--Cobol-_2026-0018566",
@@ -344691,7 +344655,7 @@
         "company_name": "Deloitte",
         "id": "ed5def5c-1270-4eb3-ad4f-5f05a837ae54",
         "title": "Tax \u2013 Tax Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1785194281,
         "date_posted": 1785191054,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Tax-Tax-Consultant-LLM-Summer-2027/360636",
