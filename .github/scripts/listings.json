@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "mthree",
-        "id": "e71ba1ca-1f1f-4807-b23b-d6e3f651a1a2",
-        "title": "Java Developer",
-        "active": false,
-        "date_updated": 1764725727,
-        "date_posted": 1764725727,
-        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4622541006",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Emerson Electric",
         "id": "eb518bb3-6760-4a5c-8b60-913d726a330c",
         "title": "Software Engineer - C# - TypeScript",
@@ -166776,7 +166758,7 @@
         "company_name": "SA Technologies",
         "id": "ba18bed8-4c58-492b-9fe2-23a2145c4bd0",
         "title": "Support Engineer - Python",
-        "active": true,
+        "active": false,
         "date_updated": 1774981261,
         "date_posted": 1772090306,
         "url": "https://jobs.smartrecruiters.com/SATechnologiesInc4/85774799",
@@ -352603,7 +352585,7 @@
         "company_name": "Advanced Technology Services",
         "id": "1f77b613-c5a5-4a28-9d44-e43f4b43e7be",
         "title": "Calibration Metrology Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785450945,
         "date_posted": 1785364141,
         "url": "https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4700158006",
@@ -352712,5 +352694,46 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Neros Technologies",
+        "id": "74abffee-5a51-49aa-b6fb-46cd2b666835",
+        "title": "FPV Technician",
+        "active": true,
+        "date_updated": 1785461941,
+        "date_posted": 1785461341,
+        "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5200041007",
+        "locations": [
+            "Carson, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Neros-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "950f53eb-f578-4031-8d81-ac822b56d643",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1785461641,
+        "date_posted": 1785461045,
+        "url": "https://careers.cisco.com/global/en/job/1449197",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Bootcamp",
+            "Certificate"
+        ]
     }
 ]
