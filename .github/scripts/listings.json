@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Teamworks",
-        "id": "29f8d745-1f9e-430a-9a1e-b294532ab0ce",
-        "title": "Product Manager 1 (Wallet) - Wallet",
-        "active": false,
-        "date_updated": 1764756560,
-        "date_posted": 1764756560,
-        "url": "https://ats.rippling.com/teamworks-careers/jobs/fec90307-1bf7-4996-9551-2aaa485de6cc",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Teamworks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "0215072c-31e0-48e5-a79f-304c18beb935",
@@ -31,24 +13,6 @@
             "York, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Halliburton",
-        "id": "f08c4ef0-f61a-4807-9d3f-64b0dc61e90e",
-        "title": "Mineral / Hydrogen Geoscientist",
-        "active": false,
-        "date_updated": 1764756600,
-        "date_posted": 1764756600,
-        "url": "https://jobs.halliburton.com/job/Abingdon-Mineral-Hydrogen-Geoscientist-OXF-OX14-4RW/1346932000/?ats=successfactors",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Halliburton",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -216132,7 +216096,7 @@
         "company_name": "Salesforce",
         "id": "f72e4f9c-46ba-4a77-aa67-a10faac92de9",
         "title": "AI Builder - Emerging Talent",
-        "active": true,
+        "active": false,
         "date_updated": 1778047795,
         "date_posted": 1778047509,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR341276-1",
@@ -252177,7 +252141,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -252657,7 +252621,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -277915,7 +277879,7 @@
         "company_name": "Data Intellect",
         "id": "ec031b29-4e12-40b8-b3e6-99b5b95a4b6e",
         "title": "Graduate STEM Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1781707150,
         "date_posted": 1781705048,
         "url": "https://jobs.smartrecruiters.com/DataIntellect/744000132642599",
@@ -278528,7 +278492,7 @@
         "company_name": "Goldman Sachs",
         "id": "77482a4b-c4db-430c-9e57-1a5071d06e6b",
         "title": "Global Banking & Markets - Loan Management - SF Trade Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1781735941,
         "date_posted": 1781734087,
         "url": "https://higher.gs.com/roles/176868",
@@ -285081,7 +285045,7 @@
         "company_name": "EOS IT Solutions",
         "id": "8f953f48-f630-4a12-a1bf-80cfc39736bf",
         "title": "Data Center Repair Technician 1 - Mal",
-        "active": false,
+        "active": true,
         "date_updated": 1782426875,
         "date_posted": 1782426483,
         "url": "https://eosits.com/company/careers/?gh_jid=8609192002",
@@ -286048,27 +286012,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qualcomm",
-        "id": "acf957e2-2c86-4d2a-aa7f-70355baafefb",
-        "title": "Engineering Technician - Engineering Technician",
-        "active": true,
-        "date_updated": 1764756635,
-        "date_posted": 1764756635,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446707211359",
-        "locations": [
-            "Boxborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
         ]
     },
     {
@@ -290797,7 +290740,7 @@
         "company_name": "Kraken Robotics",
         "id": "89944c94-ff67-41ed-bf27-39dd8c7741d7",
         "title": "Electrical/Electronics Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1782811055,
         "date_posted": 1782742077,
         "url": "https://ats.rippling.com/kraken-robotics-inc/jobs/2aeebe9a-29dd-467a-854f-002f08e69f1a",
@@ -308253,7 +308196,7 @@
         "company_name": "Keysight Technologies",
         "id": "95bc4c80-b05c-4a02-a834-0fd608db40be",
         "title": "Service Technician Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1783590510,
         "date_posted": 1782511581,
         "url": "https://jobs.keysight.com/jobs/52777?icims=1",
@@ -336454,7 +336397,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "5d023457-583e-4d96-a658-1530450d2382",
         "title": "Therapist \u2013 PHP/Iop",
-        "active": true,
+        "active": false,
         "date_updated": 1784802993,
         "date_posted": 1783490764,
         "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Sun-Prairie-Clinic/Therapist---PHP-IOP_R8003",
@@ -336876,7 +336819,7 @@
         "company_name": "Harvey",
         "id": "c4ff30bf-4501-46af-832e-cbe45a12f9f9",
         "title": "Software Engineer - Agents",
-        "active": true,
+        "active": false,
         "date_updated": 1784805301,
         "date_posted": 1777673281,
         "url": "https://jobs.ashbyhq.com/harvey/2bd5b22c-d873-45da-a6d3-89944edb701c/application?embed=true",
@@ -348014,7 +347957,7 @@
         "company_name": "Walmart",
         "id": "35fd0ab8-45a8-44c2-93b6-be8ecf688597",
         "title": "Software Engineer 3",
-        "active": true,
+        "active": false,
         "date_updated": 1785317611,
         "date_posted": 1784160000,
         "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2559900-1",
@@ -348322,7 +348265,7 @@
         "company_name": "Pennsylvania State University",
         "id": "62275a71-15f7-4a8f-93fe-2a0a10761aa4",
         "title": "Postdoctoral Scholar",
-        "active": true,
+        "active": false,
         "date_updated": 1785325665,
         "date_posted": 1781952422,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-Erie-The-Behrend-College/Postdoctoral-Scholar-Position---Autonomous-Polymer-Processing-and-Interface-Engineering_REQ_0000078902-1",
@@ -352019,6 +351962,46 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Nesto Cloud",
+        "id": "4a5872d9-5bf5-4076-82cc-8b39cf11709b",
+        "title": "Product Owner",
+        "active": true,
+        "date_updated": 1785493046,
+        "date_posted": 1784596585,
+        "url": "https://ats.rippling.com/nestocloud/jobs/f43ace98-105e-4c62-b219-2a7c103ae04e",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/3a587d58-c770-46ec-9223-1fb7d58c54ae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "b3f1d4e0-dd2c-42b1-b5e9-3075cb96e6ea",
+        "title": "Application Software Engineer",
+        "active": true,
+        "date_updated": 1785492721,
+        "date_posted": 1780016826,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334471",
+        "locations": [
+            "Orlando, FL",
+            "Nashville, TN",
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
