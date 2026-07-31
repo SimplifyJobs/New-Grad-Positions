@@ -352581,5 +352581,122 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "KLA Corporation",
+        "id": "c901668e-e666-4a15-8b45-9e6d79ac332a",
+        "title": "Product Development Engineer",
+        "active": true,
+        "date_updated": 1785511261,
+        "date_posted": 1785456000,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Product-Development-Engineer_2638788",
+        "locations": [
+            "Paterson, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "dc6217c1-230d-4b6d-9ec6-781741754f2e",
+        "title": "Software Engineering Associate",
+        "active": true,
+        "date_updated": 1785511140,
+        "date_posted": 1785506595,
+        "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineeriing-FL-32905/1414475800/?ats=successfactors",
+        "locations": [
+            "Palm Bay, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Howden",
+        "id": "b505b48b-e77b-457e-b978-12bd26fa4506",
+        "title": "AI Operations Engineer",
+        "active": true,
+        "date_updated": 1785511092,
+        "date_posted": 1785456000,
+        "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Home---UK--England/AI-Operations-Engineer_R0018646-1",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Howden",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "aace2232-33d7-49fa-b4df-a41d5a5813c1",
+        "title": "Generative AI Analyst - Simplified Chinese",
+        "active": true,
+        "date_updated": 1785510901,
+        "date_posted": 1785506637,
+        "url": "https://jobs.lever.co/weloglobal/c169172d-6b2e-45a8-885d-78723b1a7a1c/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Rochester",
+        "id": "10cdddd4-54a2-4f7c-a86b-b0b8b5a32afa",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1785510394,
+        "date_posted": 1785456000,
+        "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Saunders-Research-Building/Data-Analyst-I_R273457",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Rochester",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "fd97ae60-01a8-4cee-a8c2-95b9ecdd70cf",
+        "title": "Software Engineer New Grad - Infrastructure",
+        "active": true,
+        "date_updated": 1785510053,
+        "date_posted": 1785507002,
+        "url": "https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
