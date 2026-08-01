@@ -23066,24 +23066,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GEHA",
-        "id": "1b8d3153-c344-40e0-ab93-4d3beecd3b4e",
-        "title": "Associate Analytics Engineer",
-        "active": false,
-        "date_updated": 1767271205,
-        "date_posted": 1764839513,
-        "url": "https://geha.wd5.myworkdayjobs.com/en-US/GEHACareers/job/Missouri-Remote/Associate-Analytics-Engineer_R-005112-1",
-        "locations": [
-            "Missouri"
-        ],
-        "company_url": "https://simplify.jobs/c/b41d30d5-14c9-4328-9741-f8a45e378976",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Snap",
         "id": "bf4b96f6-f64a-4fe4-9759-d784853d0e60",
@@ -71678,7 +71660,7 @@
         "company_name": "University of Texas - Austin",
         "id": "0a9be08c-daa1-47fd-aa7a-7fe64c9ec828",
         "title": "Postdoctoral Research Fellow - Department of Information - Risk and Operations Management",
-        "active": true,
+        "active": false,
         "date_updated": 1770246201,
         "date_posted": 1770246201,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Research-Fellow--Department-of-Information--Risk--and-Operations-Management_R_00044413",
@@ -83580,7 +83562,7 @@
         "company_name": "Giga AI",
         "id": "38218558-17c2-4539-98bd-c9a69e00303e",
         "title": "Software Engineer 1/2",
-        "active": true,
+        "active": false,
         "date_updated": 1770793812,
         "date_posted": 1770793812,
         "url": "https://jobs.ashbyhq.com/gigaml/96f0c2f8-3d97-4763-ab46-b6af6ad8b2e7/application",
@@ -135967,7 +135949,7 @@
         "company_name": "University of Rochester",
         "id": "1dc48271-a8ed-4c36-9206-c1ce7171c031",
         "title": "Research Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773412283,
         "date_posted": 1773412283,
         "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Rochester---NY/Research-Data-Engineer-I_R269057",
@@ -170537,7 +170519,7 @@
         "company_name": "Observable Space",
         "id": "2b06a568-e62e-4895-be8b-8eb922cb5288",
         "title": "Junior Optical Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1775257381,
         "date_posted": 1775254164,
         "url": "https://jobs.ashbyhq.com/observable-space/5c3952b2-9533-46d7-97c2-a0c4fa1a90b1/application",
@@ -194247,7 +194229,7 @@
         "company_name": "Bank of America",
         "id": "1c4bc99c-d937-4187-ab9e-8a62416e959b",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1776525121,
         "date_posted": 1776525074,
         "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/New-York/Data-Scientist_23022413",
@@ -207229,7 +207211,7 @@
         "company_name": "Welocalize",
         "id": "0f13303e-f2f1-4e7f-b71c-15603aa14803",
         "title": "Data Labeling Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777453921,
         "date_posted": 1777453889,
         "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/CA-Client-Field-Office-San-Fran-Bay-Area/Data-Labeling-Associate_R0007638",
@@ -214920,7 +214902,7 @@
         "company_name": "Apple",
         "id": "1349cd18-f708-4feb-adeb-517cacc5b19e",
         "title": "Graphics Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778078161,
         "date_posted": 1778076652,
         "url": "https://jobs.apple.com/en-us/details/200657664",
@@ -215382,7 +215364,7 @@
         "company_name": "Apple",
         "id": "3d85d453-a4c2-40ea-a88b-0ed6c7e0682c",
         "title": "SoC DFT DV Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778078161,
         "date_posted": 1778076692,
         "url": "https://jobs.apple.com/en-us/details/200657230",
@@ -215561,7 +215543,7 @@
         "company_name": "Apple",
         "id": "30dd04bf-43de-4369-be6d-23e4caf9a29b",
         "title": "Graphics Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778078341,
         "date_posted": 1778076873,
         "url": "https://jobs.apple.com/en-us/details/200642848",
@@ -237801,7 +237783,7 @@
         "company_name": "Apple",
         "id": "409f3b41-73fc-44ac-959e-25cf58f5fc95",
         "title": "Wireless RTL Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779821101,
         "date_posted": 1778076624,
         "url": "https://jobs.apple.com/en-us/details/200658410",
@@ -269332,7 +269314,7 @@
         "company_name": "Talos",
         "id": "396814b5-12ff-4fe3-9b91-e67fd53aa047",
         "title": "Software Engineer - Trading Connectivity",
-        "active": true,
+        "active": false,
         "date_updated": 1781253181,
         "date_posted": 1768234258,
         "url": "https://jobs.ashbyhq.com/Talos-Trading/c743ff13-4a80-4907-adf4-922a3bfbd30b/application",
@@ -288070,7 +288052,7 @@
         "company_name": "Peraton",
         "id": "3e18b0f3-e8d6-4b60-b92d-963abebca45b",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782378938,
         "date_posted": 1780092557,
         "url": "https://careers-peraton.icims.com/jobs/147065/job?mobile=true&needsRedirect=false",
@@ -290998,7 +290980,7 @@
         "company_name": "General Dynamics",
         "id": "2eb8ab4a-239c-4280-aaa3-59dca672ffde",
         "title": "NDT Technician Level 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782276301,
         "date_posted": 1780006178,
         "url": "https://careers-gd-ots.icims.com/jobs/35751/job?mobile=true&needsRedirect=false",
@@ -318838,7 +318820,7 @@
         "company_name": "Thumbtack",
         "id": "189eff7a-f39b-41a6-a72c-d9e37cd08a5b",
         "title": "Software Engineer - AI/ML Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1784276281,
         "date_posted": 1777943287,
         "url": "https://jobs.ashbyhq.com/thumbtack/fc9f96bc-bd4e-4883-95a8-91d25833fa35/application?embed=true",
@@ -320643,7 +320625,7 @@
         "company_name": "Veeva Systems",
         "id": "22fee02b-5498-486c-ab37-238c4f4c7ec1",
         "title": "Associate Technical Consultant - Entry-Level Consulting - Life Sciences",
-        "active": true,
+        "active": false,
         "date_updated": 1784363971,
         "date_posted": 1774391444,
         "url": "https://jobs.lever.co/veeva/7accd619-65f9-45c2-9ee3-e258081e1ee9/apply",
@@ -325191,7 +325173,7 @@
         "company_name": "University of Rochester",
         "id": "0aa38daa-c671-4c66-9208-c25dae5f09cb",
         "title": "Opto-Mechanical Technician 2",
-        "active": true,
+        "active": false,
         "date_updated": 1784613282,
         "date_posted": 1781345416,
         "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Opto-Mechanical-Technician-II_R267398",
@@ -352333,6 +352315,178 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/MatX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "1dcc863f-1171-49ac-a22d-a2261e9a29fa",
+        "title": "Computer Vision/Machine Learning/Deep Learning Algorithm Developer",
+        "active": true,
+        "date_updated": 1785576110,
+        "date_posted": 1783030156,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/CV-ML-DL-Algorithm-Developer_R2612906",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Air Liquide",
+        "id": "0ff6a28b-0c9e-4962-867c-73a635ac4f7a",
+        "title": "Modelling & Simulation Engineer",
+        "active": true,
+        "date_updated": 1785574956,
+        "date_posted": 1782957114,
+        "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Houston-TX-HO/VIE---Modelling---Simulation-Engineer-M-F-D-_R10080193",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Air-Liquide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "42f27fb0-baca-4b45-91dc-60dd9dd9c5e6",
+        "title": "Quantitative Sports Researcher",
+        "active": true,
+        "date_updated": 1785575982,
+        "date_posted": 1768956296,
+        "url": "https://careers-sig.icims.com/jobs/4454/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "12aa2c6b-b760-419c-820f-79b597d212da",
+        "title": "CAD Engineer - Signoff Infrastructure",
+        "active": true,
+        "date_updated": 1785575702,
+        "date_posted": 1778076549,
+        "url": "https://jobs.apple.com/en-us/details/200660225",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Canon",
+        "id": "4217d3f7-deb8-4b5c-b45a-c31f2036e51e",
+        "title": "Field Service Engineer 1 - Semiconductor",
+        "active": true,
+        "date_updated": 1785576428,
+        "date_posted": 1776377184,
+        "url": "https://external-canoncareers.icims.com/jobs/34301/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Canon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "339d95bb-c9b2-4376-9613-4e3f90631143",
+        "title": "Software Development Engineer - Prime Video Personalization & Discovery",
+        "active": true,
+        "date_updated": 1785576350,
+        "date_posted": 1775743775,
+        "url": "https://amazon.jobs/en/jobs/10374689/software-dev-engineer-prime-video-personalization-discovery",
+        "locations": [
+            "Seattle, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Prelim",
+        "id": "222309af-4985-4525-a1f9-8a183a6c64b0",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1785574442,
+        "date_posted": 1774591742,
+        "url": "https://jobs.ashbyhq.com/prelim/62449307-e366-4c92-8d22-9a9f8ec11afa/application?embed=true",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "SF",
+            "Austin, TX",
+            "Chicago, IL",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Prelim",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Glide",
+        "id": "21b6e94b-4f91-465d-bc30-69fd58f8dbe5",
+        "title": "Full Stack Engineer Mid Level",
+        "active": true,
+        "date_updated": 1785574963,
+        "date_posted": 1770074062,
+        "url": "https://jobs.ashbyhq.com/glide/7954a0ba-27ef-4e8b-90c7-337001f1ce98/application?embed=true",
+        "locations": [
+            "NYC",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Glide",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
