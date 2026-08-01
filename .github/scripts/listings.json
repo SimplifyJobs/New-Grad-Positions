@@ -81549,7 +81549,7 @@
         "company_name": "Fuse Energy",
         "id": "e9cd071d-84ea-4f4f-8544-16b8883f5be0",
         "title": "Tech Team Alpha Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770794062,
         "date_posted": 1770794062,
         "url": "https://jobs.ashbyhq.com/Fuse/4172e615-802b-4af2-bc94-18018b5b40e7/application",
@@ -114326,7 +114326,7 @@
         "company_name": "Socket",
         "id": "dcb71779-4117-4c15-955f-cc07635fabe4",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772435568,
         "date_posted": 1772435568,
         "url": "https://jobs.ashbyhq.com/socket/a1be82e9-bbe4-44ad-b05a-c03075e47af1/application",
@@ -115767,7 +115767,7 @@
         "company_name": "University of Chicago",
         "id": "9d91d8c8-1704-430a-85a8-50d631d5887c",
         "title": "Data Science Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1772494566,
         "date_posted": 1772494566,
         "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst--TCOM_JR32831",
@@ -127517,7 +127517,7 @@
         "company_name": "University of Texas - Austin",
         "id": "ab2b0d5d-9913-4a6a-af9b-f7cd5227b371",
         "title": "System Software Engineering Scientist Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1773097587,
         "date_posted": 1773097587,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/System-Software-Engineering-Scientist-Associate_R_00044920",
@@ -140166,7 +140166,7 @@
         "company_name": "BRINC Drones",
         "id": "cb00808b-b54b-467a-9a23-5e5a48c1af38",
         "title": "Production Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1773699096,
         "date_posted": 1773699096,
         "url": "https://jobs.ashbyhq.com/brinc/35c1686d-5066-4600-a7e9-0e9966fb5ee8/application",
@@ -140891,7 +140891,7 @@
         "company_name": "Texas A&M University System",
         "id": "c681a87c-690e-4631-88c3-f061ef750ddb",
         "title": "Postdoctoral Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1773729184,
         "date_posted": 1773729184,
         "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Dallas-TX/Postdoctoral-Research-Associate_R-090331",
@@ -153954,7 +153954,7 @@
         "company_name": "Varian",
         "id": "928db489-f3fc-4310-95d0-24f58d1d07b8",
         "title": "Software Engineer - DevOps/.NET/Azure",
-        "active": false,
+        "active": true,
         "date_updated": 1774479163,
         "date_posted": 1774479163,
         "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HES/DevOps-Engineer_R-26937-1",
@@ -187644,7 +187644,7 @@
         "company_name": "Applied Materials",
         "id": "91c6469e-874d-43c0-8e4b-3d048400dac0",
         "title": "TPS Engineer - Early In Career",
-        "active": false,
+        "active": true,
         "date_updated": 1776294739,
         "date_posted": 1776290958,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/TPS-Engineer--Early-In-Career-_R2615689",
@@ -202708,7 +202708,7 @@
         "company_name": "AT&T",
         "id": "66f5c919-4f16-4374-a401-b9a26aacb171",
         "title": "Systems Integration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776992941,
         "date_posted": 1776992892,
         "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Reston-Virginia/Systems-Integration-Engineer--Government-_R-107706",
@@ -271846,7 +271846,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "aca2cbca-71c0-435f-83b5-d07623be4c1a",
         "title": "ARLIS Artificial Intelligence Research Professional",
-        "active": true,
+        "active": false,
         "date_updated": 1781430742,
         "date_posted": 1781360162,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/ARLIS-Artificial-Intelligence-Research-Professional_JR101775",
@@ -277683,7 +277683,7 @@
         "company_name": "Nightwing Intelligence Solutions",
         "id": "9b41dc89-278f-49b2-9445-208d05b10583",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781775901,
         "date_posted": 1778943692,
         "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software-Engineer-1_JR100150",
@@ -286020,7 +286020,7 @@
         "company_name": "Bits",
         "id": "f434b0dc-d10e-493d-a188-808610d33901",
         "title": "Founders Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1782799742,
         "date_posted": 1782799725,
         "url": "https://apply.workable.com/getbits/j/C1E552FAB5/apply",
@@ -324857,7 +324857,7 @@
         "company_name": "University of Texas at Austin",
         "id": "c858f1f9-a733-4d3f-91c8-9ca0ab53220d",
         "title": "Postdoctoral Researcher - Aerosols and hydroclimate risk",
-        "active": true,
+        "active": false,
         "date_updated": 1784607662,
         "date_posted": 1783161404,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Researcher---Aerosols-and-hydroclimate-risk_R_00041495",
@@ -325634,7 +325634,7 @@
         "company_name": "University of Nevada, Reno",
         "id": "6731f217-2663-4905-a34f-077fa361c987",
         "title": "Student Worker Media Webmaster",
-        "active": true,
+        "active": false,
         "date_updated": 1784616369,
         "date_posted": 1781360360,
         "url": "https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Student-Worker--Media-Webmaster_R0151457-1",
@@ -330099,7 +330099,7 @@
         "company_name": "Wells Fargo",
         "id": "e1ad5c14-e8ab-4797-95ce-3508ef2c3839",
         "title": "Engineering Associate - Mainframe Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1784681119,
         "date_posted": 1783900800,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/IRVING-TX/Engineering-Associate---Mainframe-Systems_R-559987",
@@ -352595,6 +352595,105 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Axalta",
+        "id": "6456214b-742c-4d65-91a5-cfa6764ee965",
+        "title": "Mobility Operations Rotational Program",
+        "active": true,
+        "date_updated": 1785585525,
+        "date_posted": 1784844884,
+        "url": "https://axalta.wd1.myworkdayjobs.com/axalta/job/Greater-Detroit/Mobility-Rotation-Program_2026-17236",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Axalta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "IMEG",
+        "id": "9e6ec2b9-947d-4984-a02e-67a2f3e74813",
+        "title": "Survey Technician",
+        "active": true,
+        "date_updated": 1785584161,
+        "date_posted": 1781951714,
+        "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Survey-Technician_R-15917",
+        "locations": [
+            "Rock Island, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMEG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University System",
+        "id": "b284d91c-3b2a-4ee2-b71a-8f14bb1b3c7d",
+        "title": "Graduate Research Assistant",
+        "active": true,
+        "date_updated": 1785584884,
+        "date_posted": 1783161586,
+        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/RSSI-Graduate-Research-Assistant_R-089229",
+        "locations": [
+            "College Station, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Apogee Engineering",
+        "id": "d6420a69-38d8-421d-b2d7-736548a8feae",
+        "title": "Junior Intelligence Program Analyst",
+        "active": true,
+        "date_updated": 1785583847,
+        "date_posted": 1780005933,
+        "url": "https://careers-apogeeusa.icims.com/jobs/1432/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Wright-Patterson AFB, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Apogee-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Google",
+        "id": "e5fefe74-80dc-41e2-a377-4a0eefbf050e",
+        "title": "Software Engineer - TPU Compiler",
+        "active": true,
+        "date_updated": 1785584161,
+        "date_posted": 1769699484,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/130170340289454790",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
