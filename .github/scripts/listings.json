@@ -318482,7 +318482,7 @@
         "company_name": "Jabil",
         "id": "f297b782-580b-42a1-afa6-b42f1d1f8d80",
         "title": "Conversions Diagnostic Technician 2",
-        "active": true,
+        "active": false,
         "date_updated": 1784251266,
         "date_posted": 1784160000,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/CVG100-Conversions-Diagnostic-Technician-II---403_J2454651",
@@ -318540,7 +318540,7 @@
         "company_name": "Acrisure",
         "id": "5922f002-13a5-421a-835f-d69782f4f801",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784269283,
         "date_posted": 1784160000,
         "url": "https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/333-Earle-Ovington-Blvd---Uniondale-NY/Software-Engineer-I_JR113871",
@@ -318561,7 +318561,7 @@
         "company_name": "USAA",
         "id": "e01e5ee4-a95e-4242-9df8-ccb66621a279",
         "title": "Information Management Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784269007,
         "date_posted": 1784246400,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Information-Management-Analyst-I_R0119307",
@@ -319117,7 +319117,7 @@
         "company_name": "Pennsylvania State University",
         "id": "35b9522d-17e0-488f-ae8b-d1b88467b762",
         "title": "Research Assistant in Meteorology",
-        "active": true,
+        "active": false,
         "date_updated": 1784297739,
         "date_posted": 1784246400,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-time-Research-Assistant-in-Meteorology---Tropical-Cyclone-Modeling-and-Data-Analysis_REQ_0000080359-1",
@@ -319450,7 +319450,7 @@
         "company_name": "Transcat",
         "id": "084b11d5-ff0b-44b0-a9a1-d9a997dd4488",
         "title": "Calibration Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784326998,
         "date_posted": 1784326112,
         "url": "https://careers-transcat.icims.com/jobs/5611/job?mobile=true&needsRedirect=false",
@@ -319742,7 +319742,7 @@
         "company_name": "Chickasaw Nation Industries",
         "id": "ad5187de-1dbd-418c-af16-3bf5fc505f35",
         "title": "Technical Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1784325961,
         "date_posted": 1784246400,
         "url": "https://cni.wd503.myworkdayjobs.com/CNI/job/Egg-Harbor-Twp-NJ/Technical-Specialist_R9054",
@@ -319809,7 +319809,7 @@
         "company_name": "Canon",
         "id": "960018c2-ac2e-4a9a-a6e9-567979e0f625",
         "title": "Field Service Technician - Field Service 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784325908,
         "date_posted": 1784325730,
         "url": "https://external-canoncareers.icims.com/jobs/34631/job?mobile=true&needsRedirect=false",
@@ -320055,7 +320055,7 @@
         "company_name": "Kyndryl",
         "id": "ed574e73-0517-44d6-84bc-7a18f71ad71e",
         "title": "Deployment Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784327045,
         "date_posted": 1784246400,
         "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/CIO-KPop-Dallas-US152527/Deployment-Technician_R-65465-1",
@@ -320387,7 +320387,7 @@
         "company_name": "Walmart",
         "id": "bbcbe0b3-c9ab-4ade-a616-f25dc9e7f7f7",
         "title": "Software Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1784355722,
         "date_posted": 1784246400,
         "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Denver-CO/Software-Engineer-II_R-2510887-1",
@@ -320685,7 +320685,7 @@
         "company_name": "FHLBank Topeka",
         "id": "a8969c6b-0534-4d5e-908a-45a01eb2a01c",
         "title": "Model Validation and Assurance Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784401711,
         "date_posted": 1784246400,
         "url": "https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Model-Validation-and-Assurance-Analyst-I_JR100369",
@@ -320707,7 +320707,7 @@
         "company_name": "Pennsylvania State University",
         "id": "fd9a88c9-8881-489c-a877-8a7c60b0a055",
         "title": "Research Assistant in Meteorology-Tropical Cyclones and Climate Dynamics",
-        "active": true,
+        "active": false,
         "date_updated": 1784401555,
         "date_posted": 1784246400,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-in-MeteorolTropical-Cyclones-and-Climate-Dynamics_REQ_0000080385-1",
@@ -321437,7 +321437,7 @@
         "company_name": "KAYAK",
         "id": "393dc727-3264-4ec8-a08c-8633b621b07f",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784557442,
         "date_posted": 1784556701,
         "url": "https://jobs.ashbyhq.com/KAYAK/1cd42283-0b84-448f-9aac-ca94b72db320/application?embed=true",
@@ -321560,7 +321560,7 @@
         "company_name": "Cable One",
         "id": "6eac1682-72b7-41a5-95ae-16c2b0dd486c",
         "title": "Field Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784586489,
         "date_posted": 1784505600,
         "url": "https://cableone.wd1.myworkdayjobs.com/Cable_One_External_Careers/job/St-Robert-MO-Technical/Field-Tech_R-107076",
@@ -322030,7 +322030,7 @@
         "company_name": "Micron Technology",
         "id": "a8e23fc2-d5d9-4f9f-87f7-eb153383f7df",
         "title": "ASIC Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784587141,
         "date_posted": 1784505600,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/ASIC-Design-Verification-Engineer_JR106280",
@@ -322051,7 +322051,7 @@
         "company_name": "Kemper",
         "id": "a81d28a3-0f2b-4a18-b4aa-6ad1b1709423",
         "title": "Audit Data Analyst Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1784587657,
         "date_posted": 1784505600,
         "url": "https://kemper.wd5.myworkdayjobs.com/kemper_careers/job/Chicago-Illinois/Associate--Audit-Data-Analyst_R-26-0036275",
@@ -322091,7 +322091,7 @@
         "company_name": "iHeartMedia",
         "id": "5f643013-be9d-4df2-88d1-07c7708d410f",
         "title": "Part Time Board Operator/Producer",
-        "active": true,
+        "active": false,
         "date_updated": 1784587636,
         "date_posted": 1784505600,
         "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Madison-WI/PT-Board-Op-Producer_Req38909-3",
@@ -322274,7 +322274,7 @@
         "company_name": "Mastercard",
         "id": "6fc2b307-1b8e-46f9-aa14-0d528e6fd4a9",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1784587377,
         "date_posted": 1784505600,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Development-Engineer_R-284431",
@@ -322373,7 +322373,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "a331d530-9dc8-459c-9888-bec197bbe968",
         "title": "Postdoctoral Research Associate - College of Engineering - Civil and Environmental Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1784587141,
         "date_posted": 1784505600,
         "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Postdoctoral-Research-Associate---College-of-Engineering---Civil-and-Environmental-Engineering_2024856",
@@ -327223,7 +327223,7 @@
         "company_name": "Capital One",
         "id": "10a88ab0-8841-4314-a5c8-e89481716a62",
         "title": "Senior Product Manager - Audit Insights & Innovation - AI and Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1784644347,
         "date_posted": 1784246400,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Associate--Product-Manager--Audit-Insights---Innovation--AI-and-Data-Engineering_R247257-2",
@@ -328083,7 +328083,7 @@
         "company_name": "Microchip Technology",
         "id": "ff8163af-703b-4d99-adec-a16c25c62dac",
         "title": "Electronic Tester",
-        "active": true,
+        "active": false,
         "date_updated": 1784653022,
         "date_posted": 1784246400,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Electronic-Tester_R2738-26",
@@ -338465,7 +338465,7 @@
         "company_name": "Odyssey",
         "id": "ee90ddfd-4df3-43fb-a192-330a49accc6c",
         "title": "AI Resident",
-        "active": true,
+        "active": false,
         "date_updated": 1784889721,
         "date_posted": 1784326326,
         "url": "https://jobs.ashbyhq.com/odysseyml/1af903b4-3cab-4d3b-8d8b-ce918fdf6a3d/application?embed=true",
@@ -346806,7 +346806,7 @@
         "company_name": "RTX",
         "id": "c7546bb5-49ec-469b-8a16-49691bdd40dc",
         "title": "Program/Product Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1785330345,
         "date_posted": 1784246400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-PUEBLO-050--50-William-White-Blvd--BLDG-50/Program-Product-Engineer-II--Onsite-_01860288",
@@ -353694,6 +353694,172 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KBR",
+        "id": "e9b82842-eb2e-41f4-bfce-c4dd1a68c70d",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1785612961,
+        "date_posted": 1784246400,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Junior-Software-Engineer_R2126608",
+        "locations": [
+            "Colorado Springs, CO",
+            "Beavercreek, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TRIMEDX",
+        "id": "6cacfd31-0d85-4040-9e38-d29125f75b63",
+        "title": "Entry-level Imaging Engineer",
+        "active": true,
+        "date_updated": 1785613224,
+        "date_posted": 1784246400,
+        "url": "https://trimedx.wd1.myworkdayjobs.com/TMX/job/Winchester-VA/Career-growth-opportunity---entry-level-Imaging-Engineer_R14541",
+        "locations": [
+            "Winchester, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/TRIMEDX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "S&P Global ",
+        "id": "361da572-a8a1-40e0-aeff-6a4b45127370",
+        "title": "Custom Index Manager",
+        "active": true,
+        "date_updated": 1785613861,
+        "date_posted": 1784505600,
+        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Custom-Index-Manager_330057-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SP-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AeroVironment",
+        "id": "a7f54a23-a8c2-42f7-831b-e284e5b90d19",
+        "title": "Software Engineer 2 - Applications",
+        "active": true,
+        "date_updated": 1785614135,
+        "date_posted": 1784505600,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/7540-Metropolitan-Dr-San-Diego-CA/Software-Engineer-II--Applications-_8150-1",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Comcast",
+        "id": "1ad5714c-c82f-4193-b4bf-bed8c13b93bd",
+        "title": "Freelancer",
+        "active": true,
+        "date_updated": 1785613861,
+        "date_posted": 1784505600,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Freelancer_R441378",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "PGIM",
+        "id": "ae61434b-9142-44d7-96d5-7e8a5731372f",
+        "title": "Real Estate Equity Investment Analyst - Equity Investment Analyst Program",
+        "active": true,
+        "date_updated": 1785613495,
+        "date_posted": 1784419200,
+        "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Investment-Analyst-Program_R-124631",
+        "locations": [
+            "SF",
+            "Newark, NJ",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/PGIM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Prudential Financial",
+        "id": "9f4e4614-b132-4a36-8ec6-51a051c0ef58",
+        "title": "Real Estate Equity Investment Analyst - Equity Investment Analyst Program",
+        "active": true,
+        "date_updated": 1785613507,
+        "date_posted": 1784419200,
+        "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Equity-Investment-Analyst-Program_R-124631-2",
+        "locations": [
+            "SF",
+            "Newark, NJ",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Prudential-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prairie View A&M University",
+        "id": "86e1ea97-f6c4-47dc-a25c-a52e3f85a186",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1785612061,
+        "date_posted": 1784246400,
+        "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Research-Assistant--Energy---Environmental-Sustainability-_R-095226-1",
+        "locations": [
+            "Prairie View, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Prairie-View-AM-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
