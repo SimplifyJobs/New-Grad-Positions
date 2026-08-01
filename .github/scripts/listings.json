@@ -345872,7 +345872,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
@@ -352037,7 +352037,7 @@
         "company_name": "MatX",
         "id": "06710278-be3c-4322-8d77-9e54c5450777",
         "title": "Rust Software-Silicon Co-verification Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785574032,
         "date_posted": 1776129356,
         "url": "https://job-boards.greenhouse.io/matx/jobs/5187495008",
@@ -354806,6 +354806,429 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Togetherwork",
+        "id": "4dc77383-d8c8-4abc-97de-07e3624852fa",
+        "title": "Hardware Operations Associate",
+        "active": true,
+        "date_updated": 1785623942,
+        "date_posted": 1785622021,
+        "url": "https://togetherwork.com/application/?gh_jid=8669689002",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Togetherwork",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sirius XM Radio",
+        "id": "ae662741-7bc6-48f5-8854-46f8f04af661",
+        "title": "Analyst \u2013 Commercial Analytics and Data Science",
+        "active": true,
+        "date_updated": 1785624299,
+        "date_posted": 1785579943,
+        "url": "https://careers.siriusxm.com/jobs/17444?icims=1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sirius-XM-Radio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Garmin",
+        "id": "0a0493c3-6930-4513-9133-44efe6284bea",
+        "title": "Software Engineer 1 - Real Time Aviation Data",
+        "active": true,
+        "date_updated": 1785623401,
+        "date_posted": 1785579910,
+        "url": "https://careers.garmin.com/jobs/18762?icims=1",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Garmin",
+        "id": "1cddc54d-3595-46cd-a0bb-71ac834c8f35",
+        "title": "Cartography Technician 1",
+        "active": true,
+        "date_updated": 1785623401,
+        "date_posted": 1785579906,
+        "url": "https://careers.garmin.com/jobs/18402?icims=1",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Garmin",
+        "id": "37e9304d-c9f9-4c44-9070-e0d2a90a8b4a",
+        "title": "Software Engineer 1 - Connect IQ Applications",
+        "active": true,
+        "date_updated": 1785623401,
+        "date_posted": 1785579906,
+        "url": "https://careers.garmin.com/jobs/18475?icims=1",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Garmin",
+        "id": "3820859c-1347-4e9f-a761-9a41fca84a52",
+        "title": "Sensor Algorithms Software Engineer 1 - Core Platform Technology - Sensor Algorithms Team",
+        "active": true,
+        "date_updated": 1785623401,
+        "date_posted": 1785579904,
+        "url": "https://careers.garmin.com/jobs/18193?icims=1",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Garmin",
+        "id": "1c28b865-0988-459d-9496-f8542646ca4e",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1785623401,
+        "date_posted": 1785579902,
+        "url": "https://careers.garmin.com/jobs/18511?icims=1",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Garmin",
+        "id": "d9e8b718-9447-4870-8009-8d4514f5eef8",
+        "title": "Software Engineer 1 - Web Development/Applications",
+        "active": true,
+        "date_updated": 1785623401,
+        "date_posted": 1785579903,
+        "url": "https://careers.garmin.com/jobs/18510?icims=1",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Garmin",
+        "id": "f124dd9a-d9b4-4986-81d0-72e9a02879b5",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1785623401,
+        "date_posted": 1785579901,
+        "url": "https://careers.garmin.com/jobs/19098?icims=1",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Noblis",
+        "id": "5836e123-acb1-49d2-abde-395cef4328dd",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1785623401,
+        "date_posted": 1785577442,
+        "url": "https://careers.noblis.org/jobs/26643?icims=1",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Noblis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Noblis",
+        "id": "000e3171-0168-4592-b285-67bb8e84a6a9",
+        "title": "Data Analyst - Network Security",
+        "active": true,
+        "date_updated": 1785623401,
+        "date_posted": 1785577443,
+        "url": "https://careers.noblis.org/jobs/27318?icims=1",
+        "locations": [
+            "Washington, DC",
+            "Atlantic City, NJ",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Noblis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bowman Consulting Group",
+        "id": "9725f0bf-d421-4bc0-867e-c7b9edbf833c",
+        "title": "Survey Instrument Operator",
+        "active": true,
+        "date_updated": 1785623401,
+        "date_posted": 1785577420,
+        "url": "https://careers.bowman.com/jobs/11691?icims=1",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Bowman-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Noblis",
+        "id": "a5a4c27f-4bc4-46d6-9141-f486732574b8",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1785623401,
+        "date_posted": 1785577439,
+        "url": "https://careers.noblis.org/jobs/27467?icims=1",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Noblis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Noblis",
+        "id": "2efe7383-c35c-499a-8d3e-e914016e2ce0",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1785623401,
+        "date_posted": 1785577438,
+        "url": "https://careers.noblis.org/jobs/27515?icims=1",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Noblis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bowman Consulting Group",
+        "id": "543a202a-fc96-4ffa-9ea6-6d489f78c581",
+        "title": "LiDAR Technician 1",
+        "active": true,
+        "date_updated": 1785623887,
+        "date_posted": 1785575481,
+        "url": "https://careers.bowman.com/jobs/11556?icims=1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Bowman-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Incomplete"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bowman Consulting Group",
+        "id": "ddd71bb6-fb98-4faa-a7d0-2014e086dd68",
+        "title": "Survey Instrument Operator",
+        "active": true,
+        "date_updated": 1785623401,
+        "date_posted": 1785575430,
+        "url": "https://careers.bowman.com/jobs/10738?icims=1",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Bowman-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Systems Planning and Analysis (SPA)",
+        "id": "5b6d9f66-139a-4c9b-a2b8-907b24de2681",
+        "title": "Risk Assessment Specialist",
+        "active": true,
+        "date_updated": 1785623401,
+        "date_posted": 1785575352,
+        "url": "https://spa.jibeapply.com/jobs/22615?icims=1",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/System-Planning-And-Analysis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Universal Health Services",
+        "id": "6543f42c-7d9e-42f2-8ed5-5778e092ad0b",
+        "title": "Adolescent PHP Clinician",
+        "active": true,
+        "date_updated": 1785623401,
+        "date_posted": 1785575309,
+        "url": "https://jobs.uhsinc.com/jobs/361863?icims=1",
+        "locations": [
+            "Jamaica Plain, Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Universal-Health-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Universal Health Services",
+        "id": "c04f1768-6376-4a58-805c-12a32cdfeff0",
+        "title": "Partial Hospitalization Program Clinician",
+        "active": true,
+        "date_updated": 1785623565,
+        "date_posted": 1785575233,
+        "url": "https://jobs.uhsinc.com/jobs/357981?icims=1",
+        "locations": [
+            "Jamaica Plain, Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Universal-Health-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Universal Health Services",
+        "id": "6edabdbc-0607-4235-af79-1da88b70be62",
+        "title": "Registered Nurse \u2013 Partial Hospitalization Program",
+        "active": true,
+        "date_updated": 1785623430,
+        "date_posted": 1785575156,
+        "url": "https://jobs.uhsinc.com/jobs/358390?icims=1",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Universal-Health-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dollar General",
+        "id": "e44a1d4a-492d-4e5e-b2db-c1f5806d53dc",
+        "title": "Asst Store MGR in Hamilton - NY S06958",
+        "active": true,
+        "date_updated": 1785622681,
+        "date_posted": 1784021671,
+        "url": "https://careers.dollargeneral.com/jobs/85806?icims=1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dollar-General",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
