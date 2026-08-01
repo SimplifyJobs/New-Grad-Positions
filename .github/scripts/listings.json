@@ -1,224 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Manulife Financial",
-        "id": "4ae39b63-5b51-4868-a1c5-e3766174348f",
-        "title": "Associate ML Engineer",
-        "active": false,
-        "date_updated": 1764813281,
-        "date_posted": 1764813281,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Associate-ML-Engineer_JR25050903",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Huntington Bancshares",
-        "id": "d017eebe-7591-422f-81b4-eebe123cc203",
-        "title": "Technology Delivery Analyst - Elevate",
-        "active": false,
-        "date_updated": 1764812783,
-        "date_posted": 1764812783,
-        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0067646",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Huntington Bancshares",
-        "id": "663d368c-1539-4117-b320-45b6d6e36d83",
-        "title": "Technology Delivery Analyst",
-        "active": false,
-        "date_updated": 1764812781,
-        "date_posted": 1764812781,
-        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst_R0067556",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Huntington Bancshares",
-        "id": "5a57ee94-13a3-4108-8be8-4e020541f60d",
-        "title": "Technology Delivery Analyst - Elevate",
-        "active": false,
-        "date_updated": 1764812784,
-        "date_posted": 1764812784,
-        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0067623",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vanderlande Industries",
-        "id": "584e4aaa-a661-48aa-9634-9dd80a7a36bc",
-        "title": "Integration Engineer",
-        "active": false,
-        "date_updated": 1764812664,
-        "date_posted": 1764812664,
-        "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-Atlanta/Integration-Engineer_JR34734-1",
-        "locations": [
-            "Marietta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/7ab55595-a241-4468-bf77-178371480131",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Huntington Bancshares",
-        "id": "48faaa86-1729-4377-bc8b-2cd5981dc4bf",
-        "title": "Technology Delivery Analyst - Elevate",
-        "active": false,
-        "date_updated": 1764812780,
-        "date_posted": 1764812780,
-        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0067645",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Huntington Bancshares",
-        "id": "19e2fa90-c7d2-4246-91c3-1d0caf487005",
-        "title": "Technology Delivery Analyst - Elevate",
-        "active": false,
-        "date_updated": 1764812783,
-        "date_posted": 1764812783,
-        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0067622",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Northern Trust",
-        "id": "94f68696-376e-42a9-ac9b-9fa5b1fcc5bb",
-        "title": "Artificial Intelligence Enterprise Engineer",
-        "active": false,
-        "date_updated": 1764812418,
-        "date_posted": 1764812418,
-        "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Artificial-Intelligence-Enterprise-Engineer_R148473",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Northern-Trust",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sanofi",
-        "id": "e15c5975-feb2-4849-bcd3-c4a03508711b",
-        "title": "Data and ML Engineer Catalyst",
-        "active": false,
-        "date_updated": 1764812287,
-        "date_posted": 1764812287,
-        "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Data-and-ML-Engineer-Catalyst_R2830082",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sanofi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sanofi",
-        "id": "77cef7ef-98fd-4c5c-a6b1-5efc1b413da6",
-        "title": "Data and ML Engineer Catalyst",
-        "active": false,
-        "date_updated": 1764812292,
-        "date_posted": 1764812292,
-        "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Data-and-ML-Engineer-Catalyst_R2830787",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sanofi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Comcast",
-        "id": "86b2c550-9210-4855-9ff2-add6d6831e42",
-        "title": "Analyst \u2013 Enterprise Business Intelligence & AI/ML Engineering",
-        "active": false,
-        "date_updated": 1764812110,
-        "date_posted": 1764812110,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Analyst--Enterprise-BI---AI-ML-Engineering_R424523-1",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Tokyo Electron",
-        "id": "4f9b0f6b-e8a9-4eb3-a991-8b9e76266460",
-        "title": "Software Development Engineer 1",
-        "active": false,
-        "date_updated": 1764812162,
-        "date_posted": 1764812162,
-        "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/North-Chelmsford/Software-Development-Engineer-I_R25-01520-1",
-        "locations": [
-            "Lowell, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tokyo-Electron",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "pony.ai",
         "id": "b8b36f02-80d0-42d0-85c2-b1172504f9c5",
@@ -1797,24 +1579,6 @@
             "Markham, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "SageSure",
-        "id": "7de0062a-266a-47d2-973e-94b489bacdb8",
-        "title": "Claims Technical Solutions Specialist 1",
-        "active": false,
-        "date_updated": 1764953507,
-        "date_posted": 1764812478,
-        "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4611555006",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/SageSure-Insurance-Managers",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -17342,24 +17106,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "3c26b5b3-3449-4b20-a1ae-00ef587ffddf",
-        "title": "Research Scientist",
-        "active": false,
-        "date_updated": 1766246221,
-        "date_posted": 1764813403,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist_R163076",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "0e36f8e3-b89a-4b0c-b49e-f206eaf0c328",
@@ -23808,24 +23554,6 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/GlobalFoundries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Horizon Surgical Systems",
-        "id": "17c9c836-b0e4-4256-bc03-a6822df4a9bd",
-        "title": "Optical Systems Technician",
-        "active": false,
-        "date_updated": 1764812374,
-        "date_posted": 1764812374,
-        "url": "https://job-boards.greenhouse.io/horizonsurgicalsystems/jobs/4997423007",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Horizon-Surgical-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -258056,7 +257784,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
