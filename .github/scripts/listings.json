@@ -1,200 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Emerson Electric",
-        "id": "aeb58247-a37a-45dd-9dde-d813d374f134",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1764804730,
-        "date_posted": 1764804730,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25029713",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "85f0de2c-5128-43b3-83f7-228b9533e079",
-        "title": "Entry-Level Missions Systems Software Engineer-Embedded",
-        "active": false,
-        "date_updated": 1764805520,
-        "date_posted": 1764805520,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Missions-Systems-Software-Engineer-Embedded_JR2025487287-1",
-        "locations": [
-            "Hazelwood, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "5d6afc9f-624d-432e-a5ba-cc9a7ca8bff5",
-        "title": "Equipment Engineer - Asset Integration & Systems - Fabrication Division",
-        "active": false,
-        "date_updated": 1764805527,
-        "date_posted": 1764805527,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Auburn-WA/Equipment-Engineer--Asset-Integration---Systems----Fabrication-Division_JR2025484520-1",
-        "locations": [
-            "Auburn, WA",
-            "Puyallup, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "TDS",
-        "id": "08b74843-aeb4-485f-bd0c-7592daa59b9d",
-        "title": "Broadband Technician 1",
-        "active": false,
-        "date_updated": 1764804838,
-        "date_posted": 1764804838,
-        "url": "https://external-telecom-teldta.icims.com/jobs/28351/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Fort Carson, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/TDS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Draper",
-        "id": "5f892575-4f59-41c6-8cc2-03f23770f58a",
-        "title": "Microsystems Integration Engineer",
-        "active": false,
-        "date_updated": 1764804721,
-        "date_posted": 1764804721,
-        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Engineer_JR000898-1",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Draper",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Transamerica",
-        "id": "ebdc10cd-da59-480e-bd8e-cd4acca80290",
-        "title": "Appian Application Developer",
-        "active": false,
-        "date_updated": 1764804818,
-        "date_posted": 1764804818,
-        "url": "https://transamerica.wd5.myworkdayjobs.com/US/job/Philadelphia-Pennsylvania/Appian-Application-Developer_R20060158",
-        "locations": [
-            "Philadelphia, PA",
-            "Denver, CO",
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Transamerica",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ba10d9f2-0808-46f7-b9e4-744e3ab75ff1",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764804717,
-        "date_posted": 1764804717,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041813",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Highmark Health",
-        "id": "63e9c5a6-af77-452a-a30b-fdf85c63c13d",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1764804711,
-        "date_posted": 1764804711,
-        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Software-Engineer_J273354",
-        "locations": [
-            "New Mexico",
-            "Washington",
-            "Kansas",
-            "Pennsylvania",
-            "North Dakota",
-            "Oregon",
-            "Delaware",
-            "Iowa",
-            "California",
-            "Washington, DC",
-            "Vermont",
-            "Wyoming",
-            "Texas",
-            "Jackson Township, NJ",
-            "Florida",
-            "Waterbury, CT",
-            "Nevada",
-            "South Carolina",
-            "South Dakota",
-            "Georgia",
-            "Arizona",
-            "Concord, NH",
-            "Mississippi",
-            "Tennessee",
-            "Virginia",
-            "Arkansas",
-            "Colorado",
-            "Rhode Island",
-            "Utah",
-            "Kentucky",
-            "West Virginia",
-            "NYC",
-            "Maryland",
-            "Hawaii",
-            "Maine",
-            "Massachusetts",
-            "North Carolina",
-            "Oklahoma",
-            "Missouri",
-            "Ohio",
-            "Indiana",
-            "Louisiana",
-            "Alaska",
-            "Illinois",
-            "Alabama",
-            "Idaho"
-        ],
-        "company_url": "https://simplify.jobs/c/Highmark-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "95df8ab0-d0ce-45b4-8e86-97966e9b28ee",
@@ -3432,24 +3238,6 @@
             "Gloucester, UK"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Nasdaq",
-        "id": "a08af358-ef56-4ab7-bfa5-49601bce1657",
-        "title": "Quantitative Analyst",
-        "active": false,
-        "date_updated": 1765139057,
-        "date_posted": 1764805550,
-        "url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/USA---Philadelphia---Pennsylvania/Quantitative-Analyst_R0024263",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nasdaq",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -257903,7 +257691,7 @@
         "company_name": "Caesars Entertainment",
         "id": "7f5bbf4d-2ebf-4b2a-b880-21a32411365a",
         "title": "Snack Bar Attendant",
-        "active": true,
+        "active": false,
         "date_updated": 1780611664,
         "date_posted": 1780610773,
         "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/84113",
@@ -350555,7 +350343,7 @@
         "company_name": "RTX",
         "id": "472125a8-9314-47f2-9392-39ed62ab2b3c",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785451233,
         "date_posted": 1785369600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01856767-1",
@@ -352359,7 +352147,7 @@
         "company_name": "T. Rowe Price",
         "id": "6984e358-75b6-4010-8ad3-615fd8c25bf1",
         "title": "Investment Product Analysis & Communications",
-        "active": true,
+        "active": false,
         "date_updated": 1785538052,
         "date_posted": 1784764800,
         "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Investment-Product-Analysis---Communications--INPAC--Program_82750",
@@ -352850,6 +352638,47 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "e3fe90a7-fe30-4b70-bbde-b5efda508664",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1785540658,
+        "date_posted": 1785456000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-I--Onsite-_01863436",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Motorola",
+        "id": "f1f77695-7602-440a-a772-5d02d3d6da68",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1785540241,
+        "date_posted": 1785456000,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Embedded-Software-Engineer_R67073",
+        "locations": [
+            "Schaumburg, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
