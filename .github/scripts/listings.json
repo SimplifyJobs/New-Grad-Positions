@@ -1,45 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "95df8ab0-d0ce-45b4-8e86-97966e9b28ee",
-        "title": "Software Engineer / Principal Software Engineer - Aht",
-        "active": false,
-        "date_updated": 1764810315,
-        "date_posted": 1764810315,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Software-Engineer---Principal-Software-Engineer--AHT-_R10216147",
-        "locations": [
-            "Offutt AFB, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "71cad186-5c05-4d47-bb11-08461b2c638c",
-        "title": "Software Engineer - Level 1 or 2",
-        "active": false,
-        "date_updated": 1764810244,
-        "date_posted": 1764810244,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---Level-1-or-2_R10215885",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Manulife Financial",
         "id": "4ae39b63-5b51-4868-a1c5-e3766174348f",
@@ -23516,24 +23477,6 @@
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Draper",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "White Cap Supply Holdings",
-        "id": "41746a55-0833-44b9-a7e6-20cec7535830",
-        "title": "Repair Technician",
-        "active": false,
-        "date_updated": 1764811819,
-        "date_posted": 1764811819,
-        "url": "https://whitecap.wd1.myworkdayjobs.com/careers/job/Surrey_V4N-4C1/Repair-Technician_WCJR-028958-1",
-        "locations": [
-            "Surrey, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/White-Cap-Supply-Holdings",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -145879,7 +145822,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -145899,7 +145842,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -251216,7 +251159,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -251696,7 +251639,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -333052,7 +332995,7 @@
         "company_name": "Marsh & McLennan",
         "id": "f9fe7e9f-de7d-47c2-875e-a933cee69ede",
         "title": "Analyst \u2013 Data and Analytics (DNA) - Analyst - Data and Analytics Team",
-        "active": false,
+        "active": true,
         "date_updated": 1784758629,
         "date_posted": 1784678400,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Toronto---Bremner/Oliver-Wyman---Analyst---Data-and-Analytics-Team---Toronto_R_354529",
@@ -346725,7 +346668,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
@@ -352674,6 +352617,130 @@
             "Schaumburg, IL"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Quora",
+        "id": "59aaa50c-6f7f-427b-950f-8b772440e208",
+        "title": "Software Engineer New Grad - Machine Learning Platform",
+        "active": true,
+        "date_updated": 1785547666,
+        "date_posted": 1785547469,
+        "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Quora",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wolverine Trading",
+        "id": "f6bb2b02-e42b-41a6-9f90-35a28fcb0708",
+        "title": "Entry-Level C++ Software Engineer",
+        "active": true,
+        "date_updated": 1785547441,
+        "date_posted": 1785547327,
+        "url": "https://wolve.pinpointhq.com/en/postings/71814bfd-b9a3-4e7a-8c32-ef0ed6f3f7aa?ats=pinpointhq",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/wolverine-trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Asure",
+        "id": "15b8e425-7774-43c9-9a6b-93b969bef2a3",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1785547466,
+        "date_posted": 1785547422,
+        "url": "https://asuresoftware.bamboohr.com/careers/1020/",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Asure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ema",
+        "id": "a95d2993-b768-44d8-8bb1-bebd2b211638",
+        "title": "AI Resident",
+        "active": true,
+        "date_updated": 1785547441,
+        "date_posted": 1785547391,
+        "url": "https://jobs.ashbyhq.com/ema/0b289403-c2a2-4544-b244-5e9e042af883/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Ema",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Mini-Circuits",
+        "id": "c4e32b45-5217-4bff-ba67-ab2e1f53d43d",
+        "title": "Reliability Technician",
+        "active": true,
+        "date_updated": 1785547262,
+        "date_posted": 1785547000,
+        "url": "https://jobs.jobvite.com/mini-circuits-review/job/oZrrAfwb?nl=1&nl=1&fr=false",
+        "locations": [
+            "Brooklyn, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Mini-Circuits",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Upscale AI",
+        "id": "3bbed165-7647-43f2-858a-21ae2d7123f0",
+        "title": "Signal Integrity Engineer 1",
+        "active": true,
+        "date_updated": 1785547173,
+        "date_posted": 1785546640,
+        "url": "https://jobs.lever.co/upscale-ai/33ce81c4-8eb7-4170-b7ec-0f86e209e7d8/apply",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/75b9d47e-dfb9-4cab-86c2-7ee4fdf12bf2",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
