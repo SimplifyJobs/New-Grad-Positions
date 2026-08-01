@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CVS Health",
-        "id": "8ee2232c-f51c-4589-99ee-f83df4ad6130",
-        "title": "Associate Cloud Data Engineer",
-        "active": false,
-        "date_updated": 1764823842,
-        "date_posted": 1764823842,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Associate-Cloud-Data-Engineer_R0781617",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Accenture",
-        "id": "d1eaffd8-7c97-4d5f-aadd-6ffca3792d67",
-        "title": "ATC Salesforce Analyst - Nashville",
-        "active": false,
-        "date_updated": 1764822982,
-        "date_posted": 1764822982,
-        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nashville-4101-Charlotte-Ave-Corp/ATC-Salesforce-Analyst---Nashville---NAELFY26_R00300075",
-        "locations": [
-            "Nashville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Accenture-FS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Esri",
         "id": "f5d0496c-4d41-40e7-96d7-13f1e767ef50",
@@ -342085,7 +342049,7 @@
         "company_name": "L3Harris Technologies",
         "id": "fd6473b0-7a1c-4530-ab03-c0f933e9da91",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785114689,
         "date_posted": 1785114246,
         "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineer-TX-75402/1412683600/?ats=successfactors",
@@ -342125,7 +342089,7 @@
         "company_name": "L3Harris Technologies",
         "id": "f538d252-f546-429f-b5b3-ef9b418f0962",
         "title": "Software Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1785114665,
         "date_posted": 1785114248,
         "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineer-TX-75402/1412683700/?ats=successfactors",
