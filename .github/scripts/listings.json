@@ -37,42 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d97f6e12-f417-4046-a628-3c008d5192d3",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764872613,
-        "date_posted": 1764872613,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041918",
-        "locations": [
-            "Northamptonshire, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "47e56d16-5acb-42c2-aaa0-17af047c4f32",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764872628,
-        "date_posted": 1764872628,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041921",
-        "locations": [
-            "Northamptonshire, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Macy's",
         "id": "4f96efef-863e-43fa-8c3c-38d508e3fc6a",
