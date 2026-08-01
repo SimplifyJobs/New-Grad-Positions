@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Esri",
-        "id": "f5d0496c-4d41-40e7-96d7-13f1e767ef50",
-        "title": "Java Software Engineer 1",
-        "active": false,
-        "date_updated": 1764831016,
-        "date_posted": 1764831016,
-        "url": "https://www.esri.com/careers/4997266007?gh_jid=4997266007",
-        "locations": [
-            "West Redlands, Redlands, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Astranis",
-        "id": "afd58e1f-48b3-4ec8-9f26-6d6662197729",
-        "title": "Software Engineer - Backend - Platform",
-        "active": false,
-        "date_updated": 1764830986,
-        "date_posted": 1764830986,
-        "url": "https://job-boards.greenhouse.io/astranis/jobs/4622097006",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Astranis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Jabil",
         "id": "3257bf0a-8e7b-4e83-9018-6a5782678f1d",
@@ -257603,7 +257567,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -292797,7 +292761,7 @@
         "company_name": "Toyota",
         "id": "cb3cc844-e743-4ff9-b173-f83f0dd66831",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782943923,
         "date_posted": 1782943654,
         "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10319691-2",
