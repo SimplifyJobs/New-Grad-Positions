@@ -1,25 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Jabil",
-        "id": "3257bf0a-8e7b-4e83-9018-6a5782678f1d",
-        "title": "Rework Operator",
-        "active": false,
-        "date_updated": 1764831921,
-        "date_posted": 1764831921,
-        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Salt-Lake-CityGrantsville-UT/Rework-Operator_J2432567-1",
-        "locations": [
-            "Salt Lake City, UT",
-            "Tooele, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Mechanize",
         "id": "20fe605e-9125-4857-b077-cf256888994c",
