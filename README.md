@@ -1533,7 +1533,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1154)</summary>
+<summary>🗃️ Inactive roles (1153)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -9614,13 +9614,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/4b9634f9-1c18-4665-9cc5-f9120d189673?utm_source=GHList&utm_medium=company">GumGum</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Santa Monica, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Esri?utm_source=GHList&utm_medium=company">Esri</a></strong></td>
-<td>Java Software Engineer 1</td>
-<td>West Redlands, Redlands, CA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
