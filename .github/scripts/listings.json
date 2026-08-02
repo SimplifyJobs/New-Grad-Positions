@@ -37,65 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Peraton",
-        "id": "7e2f770f-2bc7-43e2-baf9-584aca080954",
-        "title": "Assembly Screening Technician",
-        "active": false,
-        "date_updated": 1764904867,
-        "date_posted": 1764904867,
-        "url": "https://careers-peraton.icims.com/jobs/161889/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Topeka, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Peraton",
-        "id": "73324729-9908-4012-b7e9-3f04f6aac17e",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1764904945,
-        "date_posted": 1764904945,
-        "url": "https://careers-peraton.icims.com/jobs/161341/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Aurora, CO",
-            "Tacoma, WA",
-            "San Antonio, TX",
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CVS Health",
-        "id": "4a06dafe-9ac1-4818-aeb0-40e68e4b9fb7",
-        "title": "Data Science Analyst - Consumer Engagement",
-        "active": false,
-        "date_updated": 1764904007,
-        "date_posted": 1764904007,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Science-Analyst---Consumer-Engagement_R0782175",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "765e341b-9747-4e92-8ccd-e8116ac94e33",
