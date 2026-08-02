@@ -240078,7 +240078,7 @@
         "company_name": "The Federal Reserve System",
         "id": "d05c2b68-917e-4f4e-a813-a4ce97be4c5b",
         "title": "Senior Research Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1779875512,
         "date_posted": 1779528352,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Philadelphia-PA/Research-Assistant-Sr-Research-Assistant_R-0000030430",
@@ -246239,7 +246239,7 @@
         "company_name": "University of Arkansas",
         "id": "b9bcf351-5da5-411a-9194-d85ff25786a8",
         "title": "Graduate Assistant - Information Science",
-        "active": false,
+        "active": true,
         "date_updated": 1779961464,
         "date_posted": 1779527543,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/Graduate-Assistant---Information-Science_R0062021",
@@ -249267,7 +249267,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -249747,7 +249747,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -302556,7 +302556,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "86485467-5c53-4759-8039-a301b9ce2207",
         "title": "Associate Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783520844,
         "date_posted": 1783519810,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Associate-Product-Mgr_R114877-1",
@@ -334182,7 +334182,7 @@
         "company_name": "RTX",
         "id": "c59f71b0-614c-493e-909b-978a9b21eb58",
         "title": "Software Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1784810396,
         "date_posted": 1784592000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/XMLNAME-2027-Conversion---Software-Engineer-II---St-Petersburg--FL--Onsite-_01860305",
@@ -337436,7 +337436,7 @@
         "company_name": "Pennsylvania State University",
         "id": "f5128a8e-8b27-4d14-823e-e3291bca22f2",
         "title": "Systems Administrator - Linux/Cloud",
-        "active": true,
+        "active": false,
         "date_updated": 1784895614,
         "date_posted": 1784678400,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/Systems-Administrator--Linux-Cloud-_REQ_0000079324-2",
@@ -349302,7 +349302,7 @@
         "company_name": "Pennsylvania State University",
         "id": "d49d4a3f-dcd1-4699-9cad-00b2bbc628dc",
         "title": "Simulation Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785498009,
         "date_posted": 1783163790,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Simulation-Software-Engineer_REQ_0000076942-2",
@@ -354904,6 +354904,49 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "e75c8911-e320-4bc9-9ee7-a71bf0a74473",
+        "title": "DevSecOps Research Computing Software Engineer",
+        "active": true,
+        "date_updated": 1785671348,
+        "date_posted": 1784678400,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/DevSecOps-Research-Computing-Software--Engineer_REQ_0000079293-2",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "6e5cee30-3f8a-404e-961c-556ec227c185",
+        "title": "Artificial Intelligence and Geoscience Co-op",
+        "active": true,
+        "date_updated": 1785671021,
+        "date_posted": 1781952219,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/RESA-I---TExUS_R_00044060",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
