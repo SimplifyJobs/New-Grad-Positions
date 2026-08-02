@@ -102179,7 +102179,7 @@
         "company_name": "Kanshe Infotech",
         "id": "deed4f00-40b1-4e15-a318-5e848adf52e6",
         "title": "Dot Net Developer Training",
-        "active": false,
+        "active": true,
         "date_updated": 1771916877,
         "date_posted": 1771916877,
         "url": "https://jobs.smartrecruiters.com/Learnkwikcom/743999660833307",
@@ -137183,7 +137183,7 @@
         "company_name": "The Information Lab",
         "id": "ca0e46bd-3d87-4ea3-ae5c-3f8c475e3706",
         "title": "The Data School",
-        "active": false,
+        "active": true,
         "date_updated": 1773477735,
         "date_posted": 1772781089,
         "url": "https://jobs.lever.co/theinformationlab/eaa64bb6-30b9-44bf-a490-3a2ea9754c13/apply",
@@ -142478,7 +142478,7 @@
         "company_name": "Toyota Research Institute",
         "id": "2b494321-fbc0-4139-834b-d582eac6bb57",
         "title": "AI Resident - Learning From Videos - Lfv",
-        "active": false,
+        "active": true,
         "date_updated": 1773883254,
         "date_posted": 1773883254,
         "url": "https://jobs.lever.co/tri/07910a65-9ab3-4d48-85a8-44cd187afafd/apply",
@@ -183105,7 +183105,7 @@
         "company_name": "Anthropic",
         "id": "8a17a8bb-179e-4026-be78-6324749ad898",
         "title": "Anthropic Fellows Program - AI Security",
-        "active": false,
+        "active": true,
         "date_updated": 1776119591,
         "date_posted": 1765506812,
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5030244008",
@@ -217739,7 +217739,7 @@
         "company_name": "Northrop Grumman",
         "id": "57188420-86bc-4aa9-97c2-9a1eea64ec7d",
         "title": "Electromechanical Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778202549,
         "date_posted": 1778202479,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Electromechanical-Engineer--Level-1-OR-2-_R10232218",
@@ -244545,7 +244545,7 @@
         "company_name": "Marsh & McLennan",
         "id": "2b75b805-1f1c-4167-ba95-493ef3e81786",
         "title": "AI Analyst - Architecture",
-        "active": false,
+        "active": true,
         "date_updated": 1779930529,
         "date_posted": 1778940306,
         "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Dublin---Charlotte/AI-Analyst---Architecture_R_347311",
@@ -256282,7 +256282,7 @@
         "company_name": "Paramount Global",
         "id": "6553d92a-bb9f-42ef-bed7-3d6dd38f4273",
         "title": "Machine Learning Engineer - Entry",
-        "active": true,
+        "active": false,
         "date_updated": 1780649461,
         "date_posted": 1778922324,
         "url": "https://careers.paramount.com/job/New-York-Machine-Learning-Engineer,-Entry-NY-10036/1389620800/?ats=successfactors",
@@ -311428,7 +311428,7 @@
         "company_name": "Hello Fresh",
         "id": "510f6bf4-86ad-45e5-a051-b95b70df4a88",
         "title": "WMS Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784019714,
         "date_posted": 1783980741,
         "url": "https://careers.hellofresh.com/global/en/job/8029057",
@@ -330078,7 +330078,7 @@
         "company_name": "Veeva Systems",
         "id": "697e78cc-e93b-4914-add6-a845bb8ae6bc",
         "title": "Technical Consultant Associate - Entry-Level Consulting - Life Sciences",
-        "active": true,
+        "active": false,
         "date_updated": 1784686056,
         "date_posted": 1774391442,
         "url": "https://jobs.lever.co/veeva/eed4b1a3-13ae-4cf4-9bd9-5bc6a0d214a6/apply",
@@ -344791,7 +344791,7 @@
         "company_name": "The Boeing Company",
         "id": "89283851-fad6-414b-8dc2-c90c3537d123",
         "title": "Entry-Level Software Engineer-Developers",
-        "active": true,
+        "active": false,
         "date_updated": 1785288676,
         "date_posted": 1785196800,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-level-Software-Engineer-Developers_JR2026518452-1",
@@ -344812,7 +344812,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
@@ -354418,6 +354418,467 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bespoke Technologies, Inc.",
+        "id": "6db3dedb-6d02-4025-82ce-507796ab97fd",
+        "title": "R&D Computer Engineer",
+        "active": true,
+        "date_updated": 1785662101,
+        "date_posted": 1784788080,
+        "url": "https://bespoketechinc.applytojob.com/apply/6elfOe74I1/RD-Computer-Engineer",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/b318f405-2413-4f07-a506-d44b6b4a9c0c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Deloitte",
+        "id": "7599b00f-543d-45cf-ad21-d80fa58b6d90",
+        "title": "Software Engineering Analyst - Government & Public Services - Software Engineering",
+        "active": true,
+        "date_updated": 1785662101,
+        "date_posted": 1784758495,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering-Fall-2026-Hire/360282",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "15e2628c-9ea6-46b7-b10b-1c4aae03e7df",
+        "title": "Consultative Offerings Analyst - Government & Public Services - AI & Data Engineering",
+        "active": true,
+        "date_updated": 1785662101,
+        "date_posted": 1784758494,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-AI-Data-Engineering-Fall-2026-Hire/360284",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "523819c3-69f8-43ab-9ed1-81e28aea88f6",
+        "title": "Junior Layout Design Engineer - Trainee",
+        "active": true,
+        "date_updated": 1785662101,
+        "date_posted": 1784592000,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-AZ-Chandler-East-Elliot/Junior-Layout-Design-Engineer--Trainee-_R263726",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Unisys",
+        "id": "d70d4c4f-f216-471e-a37d-152ffd6f18cb",
+        "title": "Banco de Talentos J\u00f3venes",
+        "active": true,
+        "date_updated": 1785662101,
+        "date_posted": 1783167546,
+        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Bogota-DC-Colombia/Banco-de-Talentos-Jvenes---UIS-Colombia_REQ563731",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Unisys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AT&T",
+        "id": "40902065-19b4-4131-a998-cfd08efb4308",
+        "title": "Specialist Member of Technical Staff - Process Automation & AI Solutions",
+        "active": true,
+        "date_updated": 1785662922,
+        "date_posted": 1784505600,
+        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATXPlano--W-Plano-Pkwy---Adm--Dat2900-W-Plano-Pkwy/Sr-Specialist-Member-of-Technical-Staff---Process-Automation---AI-Solutions_R-116042",
+        "locations": [
+            "Bothell, WA",
+            "Plano, TX",
+            "Alpharetta, GA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/ATT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Zurich Insurance",
+        "id": "389af113-9575-45fb-9bbf-493e37f9ef0d",
+        "title": "Digital Trading Underwriter Trainee",
+        "active": true,
+        "date_updated": 1785662101,
+        "date_posted": 1783548305,
+        "url": "https://www.careers.zurich.com/job/Chichester-Digital-Trading-Trainee-Underwriter-GB-W/1366042957/?ats=successfactors",
+        "locations": [
+            "Portsmouth, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Zurich-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "e766517d-2d35-42da-a646-5d0b5173939c",
+        "title": "Research Scientist in Speech Foundation Model - Seed",
+        "active": true,
+        "date_updated": 1785662101,
+        "date_posted": 1780610909,
+        "url": "https://jobs.bytedance.com/en/position/7623545981743286533/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "95aa47dc-146b-4b77-b4bf-c6e32f6d99ad",
+        "title": "Research Scientist in AI Foundation Model Infrastructure - Seed - PhD",
+        "active": true,
+        "date_updated": 1785662101,
+        "date_posted": 1780610914,
+        "url": "https://jobs.bytedance.com/en/position/7623550778255165701/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "093acc82-ac5e-463e-8739-43de0fe8a38d",
+        "title": "Graduate Software Development Engineer",
+        "active": true,
+        "date_updated": 1785662101,
+        "date_posted": 1780466900,
+        "url": "https://jobs.bytedance.com/en/position/7509266973236152583/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Point72",
+        "id": "8aac7553-4bc1-4d00-a652-6a72002cf6b0",
+        "title": "Point72 Academy Investment Analyst Program for Upcoming Graduates",
+        "active": true,
+        "date_updated": 1785662101,
+        "date_posted": 1778797293,
+        "url": "https://boards.greenhouse.io/point72/jobs/8549734002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Point72",
+        "id": "58c8f46c-bf1a-4a14-9267-45732c023d32",
+        "title": "Point72 Academy Investment Analyst Program for Upcoming Graduates",
+        "active": true,
+        "date_updated": 1785662101,
+        "date_posted": 1778278880,
+        "url": "https://boards.greenhouse.io/point72/jobs/8541241002",
+        "locations": [
+            "SF",
+            "Florida",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RoboForce",
+        "id": "cb8969ea-a048-45c2-8ba6-f00ae4e5743a",
+        "title": "AI Resident",
+        "active": true,
+        "date_updated": 1785662101,
+        "date_posted": 1776838561,
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/5196164008",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RoboForce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Point72",
+        "id": "246a1421-484f-4ff3-bc4a-36fdd73a9268",
+        "title": "Investment Analyst Program",
+        "active": true,
+        "date_updated": 1785662257,
+        "date_posted": 1775772851,
+        "url": "https://boards.greenhouse.io/point72/jobs/8500397002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kanshe Infotech",
+        "id": "b075f87f-70d6-4067-8b91-9fd15fa20351",
+        "title": "Python Fullstack Training",
+        "active": true,
+        "date_updated": 1785662101,
+        "date_posted": 1774573508,
+        "url": "https://jobs.smartrecruiters.com/Learnkwikcom/744000065800616",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Kanshe-Infotech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sajix",
+        "id": "ddf53d2b-54a9-409e-a0c4-16b535b95685",
+        "title": "Python Developer",
+        "active": true,
+        "date_updated": 1785662101,
+        "date_posted": 1772089448,
+        "url": "https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058603750",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sajix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sajix",
+        "id": "89b5d725-a59f-4eb3-9e08-476905ff182c",
+        "title": "Machine Learning Engineer Trainee",
+        "active": true,
+        "date_updated": 1785662199,
+        "date_posted": 1772089462,
+        "url": "https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058603021",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sajix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sajix",
+        "id": "76576561-4ea2-4ced-8208-659e9c8d5c16",
+        "title": "Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1785662101,
+        "date_posted": 1772089443,
+        "url": "https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058602446",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sajix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sajix",
+        "id": "65ccd1b8-214b-4942-a9c7-6247cea6feb2",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1785662101,
+        "date_posted": 1772089446,
+        "url": "https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058603050",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sajix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sajix",
+        "id": "2ee71f7d-72b1-4059-8bac-ab051417fc0f",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1785662101,
+        "date_posted": 1772089448,
+        "url": "https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058603525",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sajix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Proximate Technologies",
+        "id": "5c8636dd-9a87-4f4e-b8d5-4feb37823af0",
+        "title": ".NET",
+        "active": true,
+        "date_updated": 1785662172,
+        "date_posted": 1772003094,
+        "url": "https://jobs.smartrecruiters.com/ProximateTechnologiesInc1/743999661729966",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Proximate-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "3S Business Corporation",
+        "id": "f6cba027-4f6a-4213-adf2-a739bf808dde",
+        "title": "Training - Multiple Teams",
+        "active": true,
+        "date_updated": 1785662155,
+        "date_posted": 1771398456,
+        "url": "https://jobs.smartrecruiters.com/3SBusinessCorporationInc1/81011575",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/3S-Business-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "3S Business Corporation",
+        "id": "6fefbc10-1d16-4a4a-ba97-4beb6effc11c",
+        "title": "iOS Training",
+        "active": true,
+        "date_updated": 1785662177,
+        "date_posted": 1771398466,
+        "url": "https://jobs.smartrecruiters.com/3SBusinessCorporationInc1/84341200",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/3S-Business-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
