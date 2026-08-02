@@ -37,24 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Datadog",
-        "id": "19f9c8b9-e662-47cb-a14f-4d4b9570f3f2",
-        "title": "Enablement Operations Data Analyst - NYC",
-        "active": false,
-        "date_updated": 1764944875,
-        "date_posted": 1764944875,
-        "url": "https://careers.datadoghq.com/detail/7378476/?gh_jid=7378476",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Datadog",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Qualcomm",
         "id": "0f86bd4d-020c-4751-ae1e-8ec690ead6a8",
@@ -143893,7 +143875,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -143913,7 +143895,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -160850,7 +160832,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "5a03e922-9be2-4e12-9821-b01d8c92b5e6",
         "title": "Uncertainty Quantification for Surrogate Models Postdoctoral Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1774972621,
         "date_posted": 1774256481,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990012255036",
@@ -199728,7 +199710,7 @@
         "company_name": "TikTok",
         "id": "dbc1b4ce-18c5-46c3-a223-dde10ddb51f0",
         "title": "Research Scientist Graduate - Compute Platform - Database Acceleration",
-        "active": false,
+        "active": true,
         "date_updated": 1776906721,
         "date_posted": 1776906613,
         "url": "https://lifeattiktok.com/search/7631070662808160565",
@@ -244472,7 +244454,7 @@
         "company_name": "Marsh & McLennan",
         "id": "2b75b805-1f1c-4167-ba95-493ef3e81786",
         "title": "AI Analyst - Architecture",
-        "active": true,
+        "active": false,
         "date_updated": 1779930529,
         "date_posted": 1778940306,
         "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Dublin---Charlotte/AI-Analyst---Architecture_R_347311",
@@ -249230,7 +249212,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -249710,7 +249692,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -262607,7 +262589,7 @@
         "company_name": "KLA Corporation",
         "id": "e62d8263-f7ca-4282-bde5-d5ec594f3c56",
         "title": "HPC Hardware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781083501,
         "date_posted": 1781082930,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/HPC-Hardware-Engineer_2637260-1",
@@ -281134,7 +281116,7 @@
         "company_name": "Marsh & McLennan",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-        "active": true,
+        "active": false,
         "date_updated": 1782108733,
         "date_posted": 1781359468,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Research-Fellowship---Newcastle-upon-Tyne_R_327852-1",
@@ -354946,6 +354928,46 @@
             "Jersey City, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ABEC",
+        "id": "19e4f3e2-8068-46e5-b5f9-879b2594bd38",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1785680461,
+        "date_posted": 1785517785,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4372257",
+        "locations": [
+            "Bethlehem, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/f4a9cd76-ddc6-4774-a99c-4226f443f7b0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Storage Solutions",
+        "id": "f10c1379-0b00-4d27-9fac-9387dafbd7df",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1785680282,
+        "date_posted": 1777339946,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4078621",
+        "locations": [
+            "Erlanger, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Storage-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
