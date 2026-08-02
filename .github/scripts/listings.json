@@ -37,60 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "d8045f85-ca05-4b6e-813e-775127be0373",
-        "title": "Verification Application Engineer",
-        "active": false,
-        "date_updated": 1764922336,
-        "date_posted": 1764922336,
-        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Verification-Application-Engineer_R51964",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Warner Bros.",
-        "id": "6536604b-afe1-43af-96f0-d9ca89112d90",
-        "title": "Concepteur.trice technique associ\u00e9.e / Associate Technical Designer",
-        "active": false,
-        "date_updated": 1764922347,
-        "date_posted": 1764922347,
-        "url": "https://warnerbros.wd5.myworkdayjobs.com/francais/job/Montreal-888-boul-De-Maisonneuve-Est/Concepteurtrice-technique-associe---Associate-Technical-Designer_R000101064",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Warner-Bros",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Caterpillar Inc.",
-        "id": "8ce40e7a-a8d0-4b50-9a02-47ad995ba5a2",
-        "title": "Mining Application Specialist",
-        "active": false,
-        "date_updated": 1764922110,
-        "date_posted": 1764922110,
-        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Home-in-Ontario/Mining-Application-Specialist---Early-Career_R0000338800",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Micron Technology",
         "id": "01636a45-622b-490a-8679-adafcb9f0e34",
@@ -256272,7 +256218,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -344758,7 +344704,7 @@
         "company_name": "The Boeing Company",
         "id": "01a98038-5e8b-421a-9505-1e936c4c1648",
         "title": "Entry-Level Software Engineer-Developers",
-        "active": true,
+        "active": false,
         "date_updated": 1785288576,
         "date_posted": 1785196800,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-level-Software-Engineer-Developers_JR2026518452",
