@@ -256109,7 +256109,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -339595,7 +339595,7 @@
         "company_name": "Unlimited Technology",
         "id": "32f21e48-1321-43c2-92dc-dcff125c923a",
         "title": "Security Installation Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784962879,
         "date_posted": 1784817608,
         "url": "https://job-boards.greenhouse.io/unlimitedtechnology/jobs/5366016008",
@@ -354972,6 +354972,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Block Imaging",
+        "id": "fb6b7b5f-f1d7-4180-953e-398b004659b3",
+        "title": "Field Service Engineer 1 - X-Ray",
+        "active": true,
+        "date_updated": 1785681338,
+        "date_posted": 1772750945,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3905555",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/9627faa4-4c5f-4914-b567-28b6b90b32f0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
