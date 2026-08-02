@@ -37,100 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PredictX",
-        "id": "69d59049-3a20-4fac-9777-15ed9d265e10",
-        "title": "UK Business Intelligence Analyst-Travel & Expense",
-        "active": true,
-        "date_updated": 1764901051,
-        "date_posted": 1764901051,
-        "url": "https://jobs.lever.co/pibenchmark/67c5bdb8-d019-43ff-a6de-cca1917058d8/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/PredictX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "JP Morgan Chase",
-        "id": "6b5999a7-7351-4ec2-8d4f-7b5244f23c0b",
-        "title": "Quant Analytics Associate-Regulatory Operations",
-        "active": false,
-        "date_updated": 1764900464,
-        "date_posted": 1764900464,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210689130",
-        "locations": [
-            "Plano, TX",
-            "Columbus, OH",
-            "Wilmington, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "CVS Health",
-        "id": "079255b0-a4ee-4676-8be8-254bd15a9195",
-        "title": "Senior Analyst - Digital Product",
-        "active": false,
-        "date_updated": 1764901330,
-        "date_posted": 1764901330,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Sr-Analyst-Digital-Product_R0633593",
-        "locations": [
-            "Texas"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qualcomm",
-        "id": "ecb90437-b2b5-4046-b904-8be4d9b7ae95",
-        "title": "Software Engineer - Software Engineering",
-        "active": false,
-        "date_updated": 1764901112,
-        "date_posted": 1764901112,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446715747376",
-        "locations": [
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Certara",
-        "id": "343d3f17-456f-4741-9ad5-1696c7fae3d3",
-        "title": "Scientific Documentation & Clinical Data Management Assistant",
-        "active": false,
-        "date_updated": 1764900621,
-        "date_posted": 1764900621,
-        "url": "https://careers.certara.com/jobs/2352?lang=en-us&icims=1",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Certara",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Peraton",
         "id": "7e2f770f-2bc7-43e2-baf9-584aca080954",
@@ -36728,24 +36634,6 @@
         "url": "https://jobs.lever.co/appen/425ffbbf-f35f-4295-8bb7-78ddb8696ffe/apply",
         "locations": [
             "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/CrowdGen-By-Appen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CrowdGen by Appen",
-        "id": "f676a220-8ba5-4c08-a8f6-7bb00f3a0645",
-        "title": "Project Jigglypuff Transcription - English-United States",
-        "active": false,
-        "date_updated": 1768296511,
-        "date_posted": 1764901408,
-        "url": "https://jobs.lever.co/appen/88569e5a-56e4-4acc-bbd9-32d936ee8142/apply",
-        "locations": [
-            "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/CrowdGen-By-Appen",
         "is_visible": true,
@@ -340353,7 +340241,7 @@
         "company_name": "Unlimited Technology",
         "id": "32f21e48-1321-43c2-92dc-dcff125c923a",
         "title": "Security Installation Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784962879,
         "date_posted": 1784817608,
         "url": "https://job-boards.greenhouse.io/unlimitedtechnology/jobs/5366016008",
