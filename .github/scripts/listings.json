@@ -144425,7 +144425,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -144445,7 +144445,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -249762,7 +249762,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -250242,7 +250242,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -331598,7 +331598,7 @@
         "company_name": "Marsh & McLennan",
         "id": "f9fe7e9f-de7d-47c2-875e-a933cee69ede",
         "title": "Analyst \u2013 Data and Analytics (DNA) - Analyst - Data and Analytics Team",
-        "active": true,
+        "active": false,
         "date_updated": 1784758629,
         "date_posted": 1784678400,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Toronto---Bremner/Oliver-Wyman---Analyst---Data-and-Analytics-Team---Toronto_R_354529",
@@ -345271,7 +345271,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
@@ -354552,9 +354552,9 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Universal Health Services",
-        "id": "6543f42c-7d9e-42f2-8ed5-5778e092ad0b",
+        "id": "625cc8ab-2104-4b98-bc4a-9013b0f4ce95",
         "title": "Adolescent PHP Clinician",
-        "active": false,
+        "active": true,
         "date_updated": 1785623401,
         "date_posted": 1785575309,
         "url": "https://jobs.uhsinc.com/jobs/361863?icims=1",
@@ -354797,6 +354797,86 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Garmin",
+        "id": "433aa804-4bc6-4ed8-8563-f67816b6cbec",
+        "title": "Field Application Engineer 1",
+        "active": true,
+        "date_updated": 1785650941,
+        "date_posted": 1785650884,
+        "url": "https://careers.garmin.com/jobs/18918?icims=1",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Garmin",
+        "id": "ddbdb2c2-0122-4e73-aa04-2639e357ce2d",
+        "title": "Aviation Test Hardware Design Engineer 1",
+        "active": true,
+        "date_updated": 1785651245,
+        "date_posted": 1785650883,
+        "url": "https://careers.garmin.com/jobs/18890?icims=1",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Garmin",
+        "id": "ca87499f-3b59-4c0c-b128-796a93a500ac",
+        "title": "Software Engineer 1 - Embedded Aviation",
+        "active": true,
+        "date_updated": 1785650941,
+        "date_posted": 1785650888,
+        "url": "https://careers.garmin.com/jobs/18513?icims=1",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Garmin",
+        "id": "8c77e71c-c994-482b-8f7f-90534f7dfdba",
+        "title": "Embedded Software Engineer 1",
+        "active": true,
+        "date_updated": 1785650941,
+        "date_posted": 1785650881,
+        "url": "https://careers.garmin.com/jobs/18602?icims=1",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
