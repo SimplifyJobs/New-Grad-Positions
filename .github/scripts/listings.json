@@ -38,24 +38,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Ramboll",
-        "id": "dda4ae1c-8ab7-4a79-a938-9b4472882528",
-        "title": "Graduate Building Physics - 2026 intake - Buildings",
-        "active": false,
-        "date_updated": 1764932195,
-        "date_posted": 1764932195,
-        "url": "https://jobs.smartrecruiters.com/Ramboll3/744000097020425",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Ramboll",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "The Travelers Companies",
         "id": "d1177a75-827c-4620-b790-4f7fde1e5f56",
         "title": "Data Science Leadership Development Program - Dsldp - Associate Data Scientist",
@@ -140402,7 +140384,7 @@
         "company_name": "University of Arkansas",
         "id": "d004a30f-6408-4997-bf70-b4e49e9e1520",
         "title": "Cosmos Extra Help Assistant 2",
-        "active": true,
+        "active": false,
         "date_updated": 1773786842,
         "date_posted": 1773786842,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Extra-Help-Assistant-II_R0082222",
@@ -151276,7 +151258,7 @@
         "company_name": "University of Arkansas",
         "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
         "title": "Cosmos Graduate Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773813920,
         "date_posted": 1773813920,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2",
@@ -270277,7 +270259,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "c16de5ad-b2cf-4941-95e0-0eef613b642b",
         "title": "Faculty Assistant-3",
-        "active": false,
+        "active": true,
         "date_updated": 1781430733,
         "date_posted": 1781360173,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Faculty-Assistant-3_JR101888-1",
@@ -270588,7 +270570,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "aca2cbca-71c0-435f-83b5-d07623be4c1a",
         "title": "ARLIS Artificial Intelligence Research Professional",
-        "active": false,
+        "active": true,
         "date_updated": 1781430742,
         "date_posted": 1781360162,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/ARLIS-Artificial-Intelligence-Research-Professional_JR101775",
@@ -308816,7 +308798,7 @@
         "company_name": "RTX",
         "id": "aab64ef6-9ec0-4144-b49c-b26ff662a042",
         "title": "Field Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783780655,
         "date_posted": 1783555200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-PHOENIX-3405--3405-S-5th-St--BLDG-3405/Field-Service-Engineer--Onsite-_01858612",
@@ -334572,7 +334554,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "d53d5cd4-a2bf-462f-afe0-48220fa5561f",
         "title": "Critical and Emerging Technology Research Professional",
-        "active": false,
+        "active": true,
         "date_updated": 1784814454,
         "date_posted": 1783159219,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Critical-and-Emerging-Technology-Research-Professional_JR104086",
@@ -345555,7 +345537,7 @@
         "company_name": "Pennsylvania State University",
         "id": "bea57c4a-be73-42eb-b6da-e93a1735c880",
         "title": "Software Research and Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785329271,
         "date_posted": 1783168662,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Software-Research-and-Development-Engineer_REQ_0000073411-2",
@@ -345723,7 +345705,7 @@
         "company_name": "RTX",
         "id": "cb10960c-cbb5-4773-a7da-082249e6b4bc",
         "title": "Teamcenter System Administrator/Support",
-        "active": false,
+        "active": true,
         "date_updated": 1785331885,
         "date_posted": 1784764800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Teamcenter-System-Administrator-Support--Hybrid-_01860884",
@@ -349360,7 +349342,7 @@
         "company_name": "POET",
         "id": "b7d89584-5255-481b-839d-d772ddca1830",
         "title": "Developer 1 - I",
-        "active": false,
+        "active": true,
         "date_updated": 1785500409,
         "date_posted": 1783987200,
         "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Developer-I_R101525",
@@ -352306,7 +352288,7 @@
         "company_name": "Visa",
         "id": "b9ebe0ba-87b7-4311-b4f1-24c6d21285ca",
         "title": "Systems Engineer - Linux - AI",
-        "active": true,
+        "active": false,
         "date_updated": 1785602271,
         "date_posted": 1783162157,
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Systems-Engineer--Linux-and-AI_REF077273W",
@@ -354882,6 +354864,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "thyssenkrupp",
+        "id": "bd01268d-018b-42de-992a-fbdb6d74c2c0",
+        "title": "Trader Trainee",
+        "active": true,
+        "date_updated": 1785667174,
+        "date_posted": 1782511752,
+        "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Houston-Texas-USA/Trader-Trainee---Steel-USA_JR105060",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Thyssenkrupp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
