@@ -246136,7 +246136,7 @@
         "company_name": "Pennsylvania State University",
         "id": "f3ff741f-77be-4b2a-b009-89ebdaa0cbec",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779963040,
         "date_posted": 1778946351,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Embedded-Software-Engineer_REQ_0000078042-1",
@@ -331084,7 +331084,7 @@
         "company_name": "Marsh & McLennan",
         "id": "f9fe7e9f-de7d-47c2-875e-a933cee69ede",
         "title": "Analyst \u2013 Data and Analytics (DNA) - Analyst - Data and Analytics Team",
-        "active": false,
+        "active": true,
         "date_updated": 1784758629,
         "date_posted": 1784678400,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Toronto---Bremner/Oliver-Wyman---Analyst---Data-and-Analytics-Team---Toronto_R_354529",
@@ -344152,7 +344152,7 @@
         "company_name": "RTX",
         "id": "8cf416d2-c4e8-4bbd-800d-6b10b4b953e3",
         "title": "Associate Software Engineer - Simulation",
-        "active": true,
+        "active": false,
         "date_updated": 1785280581,
         "date_posted": 1785196800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Assoc-Software-Engineer---Simulation_01853132",
@@ -345134,7 +345134,7 @@
         "company_name": "Fidelity Investments",
         "id": "405b9ad2-32a7-4811-9fc5-d6d4c4992b8c",
         "title": "Leap Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785318231,
         "date_posted": 1783029971,
         "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Systems-Analyst_2132117",
@@ -354928,6 +354928,46 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "76fd2c40-9ab2-4c91-bf0d-bc8695bca524",
+        "title": "Signal Processing Research and Development Engineer",
+        "active": true,
+        "date_updated": 1785673993,
+        "date_posted": 1782955988,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Signal-Processing-Research-and-Development-Engineer_REQ_0000071090-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fidelity Investments",
+        "id": "8ec64e5f-4755-45a9-ae9e-abd13cd712b0",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1785674909,
+        "date_posted": 1782560905,
+        "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/XMLNAME-2026-Undergraduate---Leap--Software-Engineer--Jersey-City--NJ_2130181",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
