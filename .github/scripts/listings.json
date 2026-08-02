@@ -37,43 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "765e341b-9747-4e92-8ccd-e8116ac94e33",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764906099,
-        "date_posted": 1764906099,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042023",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Oracle",
-        "id": "b763482b-4ab0-4924-9a07-daaf263b2d14",
-        "title": "Undergrad Software Engineer - C/C++ - Oracle Cloud Infrastructure",
-        "active": false,
-        "date_updated": 1764905947,
-        "date_posted": 1764905947,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/318307",
-        "locations": [
-            "Santa Clara, CA",
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "AeroVironment",
         "id": "bdccbe05-12c2-49b7-bcd7-46da93417c7d",
