@@ -140786,7 +140786,7 @@
         "company_name": "University of Arkansas",
         "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
         "title": "Graduate Research Assistant - Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1773814930,
         "date_posted": 1773814930,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891",
@@ -262644,7 +262644,7 @@
         "company_name": "KLA Corporation",
         "id": "e62d8263-f7ca-4282-bde5-d5ec594f3c56",
         "title": "HPC Hardware Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1781083501,
         "date_posted": 1781082930,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/HPC-Hardware-Engineer_2637260-1",
@@ -281171,7 +281171,7 @@
         "company_name": "Marsh & McLennan",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-        "active": false,
+        "active": true,
         "date_updated": 1782108733,
         "date_posted": 1781359468,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Research-Fellowship---Newcastle-upon-Tyne_R_327852-1",
@@ -308734,7 +308734,7 @@
         "company_name": "Viridien",
         "id": "dc805aeb-d84a-48fc-a4e3-5b3fb59db09c",
         "title": "Instrumentation & Monitoring Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1783778285,
         "date_posted": 1783641600,
         "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/New-York-United-States-of-America/Instrumentation---Monitoring-Technician--Baltimore-Washington--DC-_JR101389-2",
@@ -351864,7 +351864,7 @@
         "company_name": "Intel",
         "id": "e20aacdb-9613-4b2d-b0b5-dbfcb38aca81",
         "title": "CAD/EDA Tools Automation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785596055,
         "date_posted": 1783161292,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0284432-1",
@@ -354880,6 +354880,26 @@
             "Houston, TX"
         ],
         "company_url": "https://simplify.jobs/c/Thyssenkrupp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lumentum",
+        "id": "74e6c19f-122e-4e8b-b786-fba73836f2ca",
+        "title": "Laser Laboratory Engineer - Chip Verification",
+        "active": true,
+        "date_updated": 1785669778,
+        "date_posted": 1785369600,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/United-Kingdom---Towcester-Northamptonshire/Senior-Laser-Laboratory-Engineer_2026960",
+        "locations": [
+            "Towcester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lumentum",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
