@@ -37,24 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Micron Technology",
-        "id": "01636a45-622b-490a-8679-adafcb9f0e34",
-        "title": "New College Grad - Yield Analysis Engineer",
-        "active": false,
-        "date_updated": 1764924212,
-        "date_posted": 1764924212,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-College-Grad---Yield-Analysis-Engineer_JR86340",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Obsidian Security",
         "id": "112f1e50-0f97-45ca-915c-62b3c57c84cd",
@@ -314487,7 +314469,7 @@
         "company_name": "GE Healthcare",
         "id": "0e92bb3d-c986-47f9-90d0-4f78d7789bd9",
         "title": "Imaging Field Service Engineer X-ray - CT - SC",
-        "active": false,
+        "active": true,
         "date_updated": 1784153985,
         "date_posted": 1784073600,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Imaging-Field-Service-Engineer-X-ray--CT---SC_R4043595-1",
@@ -345919,7 +345901,7 @@
         "company_name": "GE Healthcare",
         "id": "0ea4d18f-2790-404b-a61e-8a07c46a5523",
         "title": "Engineering Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1785364136,
         "date_posted": 1784505600,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program_R4043922-1",
