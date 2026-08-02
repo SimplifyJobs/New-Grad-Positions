@@ -37,24 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qualcomm",
-        "id": "0f86bd4d-020c-4751-ae1e-8ec690ead6a8",
-        "title": "AI/ML Software Engineer - Machine Learning Engineering",
-        "active": false,
-        "date_updated": 1764953068,
-        "date_posted": 1764953068,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446715745363",
-        "locations": [
-            "Markham, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ONYX Insight",
         "id": "68b629ea-0b83-47ce-8cbb-cc425b323320",
