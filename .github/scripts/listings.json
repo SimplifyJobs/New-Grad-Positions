@@ -354776,5 +354776,27 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AMD",
+        "id": "7b44f44b-443f-4b5b-a132-f5f1622f232e",
+        "title": "RTL Tools & Methodology Engineer",
+        "active": true,
+        "date_updated": 1785645181,
+        "date_posted": 1785645157,
+        "url": "https://careers.amd.com/jobs/85806?icims=1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
