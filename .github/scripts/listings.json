@@ -37,42 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8b68923d-2c62-4146-b727-80388d5808fb",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764892910,
-        "date_posted": 1764892910,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042014",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "269cde80-ab21-49c1-83d7-3ecc61b8854f",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764892904,
-        "date_posted": 1764892904,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041847",
-        "locations": [
-            "Cardiff, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Honeywell",
         "id": "b168f0fc-6dcf-4196-845e-0f252db359df",
