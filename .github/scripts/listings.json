@@ -37,115 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citizen Health",
-        "id": "c50db96a-c29f-42e2-a3d1-0e36a05469bf",
-        "title": "Early Career Software Engineer",
-        "active": false,
-        "date_updated": 1764977062,
-        "date_posted": 1764977062,
-        "url": "https://jobs.ashbyhq.com/Citizen%20Health/cf869c73-dd9e-4084-a721-400f5a0c8b9b/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Citizen-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "3a35095c-849d-406a-a6c7-315ca4200229",
-        "title": "Software Engineer - Entry",
-        "active": false,
-        "date_updated": 1764976975,
-        "date_posted": 1764976975,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/f5ec8417-6fec-4630-a138-30e7670a8993/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Computershare",
-        "id": "1c00b706-c71c-4bcf-9a9f-9a9f1c7cbfad",
-        "title": "Reporting Analyst",
-        "active": false,
-        "date_updated": 1764976849,
-        "date_posted": 1764976849,
-        "url": "https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10170",
-        "locations": [
-            "Edinburgh, UK",
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Computershare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "759341bd-8a33-411c-9996-f7ac46dbb8d5",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764976422,
-        "date_posted": 1764976422,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042035",
-        "locations": [
-            "Warrington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "6ef62f7f-4c40-43ad-b4a6-bf1e5bfc86a4",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1764976425,
-        "date_posted": 1764976425,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042057",
-        "locations": [
-            "Harrogate, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Netflix",
-        "id": "cfe1aee7-be71-4f8f-a1f9-6f80e1122805",
-        "title": "New Grad Software Engineer - 2026",
-        "active": false,
-        "date_updated": 1764976105,
-        "date_posted": 1764976105,
-        "url": "https://explore.jobs.netflix.net/careers/job/790313102199",
-        "locations": [
-            "Los Gatos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Netflix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "University of Chicago",
         "id": "81b739db-3bac-497a-a62b-30201d5102f5",
@@ -282,42 +173,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Centene",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "fde9aa29-a0ce-4355-8bc8-0a445905aa4a",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1764976975,
-        "date_posted": 1764976975,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/10e5448e-4fcc-4981-a598-44437a96b58d/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nutanix",
-        "id": "fa0aa67d-e954-4438-abe5-52f646513377",
-        "title": "Software Engineer - Performance and Observability",
-        "active": false,
-        "date_updated": 1764977087,
-        "date_posted": 1764977087,
-        "url": "https://jobs.jobvite.com/nutanix/job/o7NWyfw8?nl=1&nl=1&fr=false",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nutanix",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -32624,29 +32479,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Google",
-        "id": "2108441f-f893-44c7-8037-1ea64188d866",
-        "title": "Software Engineer 3 - Security/Privacy - Google Cloud Security and Privacy",
-        "active": false,
-        "date_updated": 1767951415,
-        "date_posted": 1764975956,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/91697964845540038",
-        "locations": [
-            "SF",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
