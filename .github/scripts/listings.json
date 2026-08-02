@@ -37,24 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ONYX Insight",
-        "id": "68b629ea-0b83-47ce-8cbb-cc425b323320",
-        "title": "Condition Monitoring Engineer",
-        "active": false,
-        "date_updated": 1764955568,
-        "date_posted": 1764955568,
-        "url": "https://onyx-insight.breezy.hr/p/c5b7ac562f7301/apply",
-        "locations": [
-            "Broomfield, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/ONYX-Insight",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Citizen Health",
         "id": "c50db96a-c29f-42e2-a3d1-0e36a05469bf",
@@ -264461,7 +264443,7 @@
         "company_name": "Nokia",
         "id": "305c4174-ed7c-450d-8c1b-dd4e77efeb53",
         "title": "Photonic Integrated Circuit - Photonic Integrated Circuit - Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781166602,
         "date_posted": 1766507157,
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29074",
@@ -333567,7 +333549,7 @@
         "company_name": "CommerceIQ",
         "id": "0ac792eb-ee45-477f-863f-d896897e6c8d",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784804582,
         "date_posted": 1784626059,
         "url": "https://job-boards.greenhouse.io/commerceiq/jobs/7803169003",
