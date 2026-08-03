@@ -37,78 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "ServiceNow",
-        "id": "91f1caab-c43e-464f-ab06-81a9a9760b86",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1765022140,
-        "date_posted": 1765022140,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000097350765",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "b442efab-e36b-4545-9f22-b0da45dc8690",
-        "title": "2026 Fulltime Raytheon Hardware Requirements Verification Engineer 1",
-        "active": false,
-        "date_updated": 1765021199,
-        "date_posted": 1765021199,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA131-Tewksbury-MA-Bldg--1-Assabet-50-Apple-Hill-Drive-Assabet---Building-1-Tewksbury-MA-01876-USA/XMLNAME-2026-Fulltime-Raytheon-Hardware-Requirements-Verification-Engineer-I---Onsite_01810696",
-        "locations": [
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "2208d6ea-1cb7-4556-aba0-1694a7f98a3d",
-        "title": "Electrical ASIC/FPGA Engineer 2",
-        "active": false,
-        "date_updated": 1765021241,
-        "date_posted": 1765021241,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Electrical-ASIC-FPGA-Engineer-II--Onsite-_01810291-1",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Adobe",
-        "id": "53b58b2d-a425-4b02-a73e-ecc7d83c5bd3",
-        "title": "Graduate Software Engineer - Software Development Engineer",
-        "active": false,
-        "date_updated": 1765020781,
-        "date_posted": 1765020781,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Edinburgh/XMLNAME-2026-University-Graduate---Software-Development-Engineer_R159911",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "c15fd201-e321-40a9-a6b6-c3f388fad419",
@@ -233076,7 +233004,7 @@
         "company_name": "Insulet Corporation",
         "id": "b833042a-574e-43ae-af93-74aff9d41295",
         "title": "Sustainability Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779819667,
         "date_posted": 1779528738,
         "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Sustainability-Analyst--Hybrid---Acton--MA-_REQ-2026-16123-1",
@@ -248008,7 +247936,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -248488,7 +248416,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -342912,7 +342840,7 @@
         "company_name": "RTX",
         "id": "8cf416d2-c4e8-4bbd-800d-6b10b4b953e3",
         "title": "Associate Software Engineer - Simulation",
-        "active": false,
+        "active": true,
         "date_updated": 1785280581,
         "date_posted": 1785196800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Assoc-Software-Engineer---Simulation_01853132",
@@ -356694,6 +356622,28 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "St. Jude Children's Research Hospital",
+        "id": "9dba1501-f557-4ced-94f8-b7f2f12bb122",
+        "title": "Agentic AI Scientist - Office of Data Science",
+        "active": true,
+        "date_updated": 1785756826,
+        "date_posted": 1783900800,
+        "url": "https://stjude.wd1.myworkdayjobs.com/stjude/job/Memphis-TN/Agentic-AI-Scientist---Office-of-Data-Science_JR7117-1",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/St-Jude-Childrens-Research-Hospital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
