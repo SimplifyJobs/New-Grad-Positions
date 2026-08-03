@@ -38,60 +38,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Applied Materials",
-        "id": "818ef91d-9069-4607-b7c1-bbccfb14b6a5",
-        "title": "Product Line Management Data Science",
-        "active": false,
-        "date_updated": 1764989476,
-        "date_posted": 1764989476,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-Data-Science--New-College-Grad--Bachelor-s-Master-s--Santa-Clara--CA-_R2519079-1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Dick's Sporting Goods",
-        "id": "8113ff51-8dbb-41e3-80a6-c2093d129aa1",
-        "title": "Technology Development Program - Data Scientist",
-        "active": false,
-        "date_updated": 1764989302,
-        "date_posted": 1764989302,
-        "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Remote---US/TDP---Data-Science--2026-_202509964",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dicks-Sporting-Goods",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "MetroStar",
-        "id": "d4e9e4a3-9ecc-414a-a401-3cf3ad462dc7",
-        "title": "Associate Full Stack Developer",
-        "active": false,
-        "date_updated": 1764988454,
-        "date_posted": 1764988454,
-        "url": "https://metrostar.com/job-post/?gh_jid=7548802003",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/MetroStarSystems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Walmart",
         "id": "0dd237e7-4fdf-44d3-a12f-b66cc7a18a4b",
         "title": "Senior \u2013 Data Scientist",
@@ -9841,24 +9787,6 @@
             "Aldershot, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Jensen Hughes",
-        "id": "394846bb-97bb-4df7-8cc3-f8902f7b9f0c",
-        "title": "Consultant/Engineer",
-        "active": false,
-        "date_updated": 1765902366,
-        "date_posted": 1764990008,
-        "url": "https://job-boards.greenhouse.io/jensenhughes/jobs/4892742008",
-        "locations": [
-            "West Chester, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jensen-Hughes",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
