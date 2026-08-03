@@ -342841,7 +342841,7 @@
         "company_name": "RTX",
         "id": "b2fa0f21-04d7-441c-90f2-b38ee22120fb",
         "title": "Systems Engineer 1 - Tactical Missile System Simulation - Unreal Engine",
-        "active": true,
+        "active": false,
         "date_updated": 1785280559,
         "date_posted": 1785196800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer-I---Tactical-Missile-System-Simulation--Unreal-Engine-_01862202",
@@ -346309,7 +346309,7 @@
         "company_name": "St. Luke's University Health Network",
         "id": "d75cb861-c6a9-4180-aed7-703917091f17",
         "title": "Epic Analyst/Builder 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785423991,
         "date_posted": 1784764800,
         "url": "https://sluhn.wd1.myworkdayjobs.com/SLUHN/job/Allentown-PA---1110-American-Parkway/Epic-Analyst-Builder-I_R143531-1",
@@ -348421,7 +348421,7 @@
         "company_name": "Welo Global",
         "id": "aace2232-33d7-49fa-b4df-a41d5a5813c1",
         "title": "Generative AI Analyst - Simplified Chinese",
-        "active": true,
+        "active": false,
         "date_updated": 1785510901,
         "date_posted": 1785506637,
         "url": "https://jobs.lever.co/weloglobal/c169172d-6b2e-45a8-885d-78723b1a7a1c/apply",
@@ -356921,6 +356921,403 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Autostore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Voyager Technologies",
+        "id": "0e8a5b2c-b74c-4698-9f5d-00348584454a",
+        "title": "Accelerated Physics Simulation Engineer - Agentic Computational Engineering",
+        "active": true,
+        "date_updated": 1785767761,
+        "date_posted": 1785767648,
+        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4079284009",
+        "locations": [
+            "Seattle, WA",
+            "Washington, DC",
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Voyager-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Maven Securities",
+        "id": "c2d09bc0-e3e6-422d-a6a3-681f32d66bd9",
+        "title": "Quantitative Researcher New Grad",
+        "active": true,
+        "date_updated": 1785767636,
+        "date_posted": 1785767388,
+        "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048830",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "7f68f7a5-a5b3-40e6-bd0d-3fbf7b677c24",
+        "title": "Research Engineer Graduate - Monetization Technology - Business Integrity",
+        "active": true,
+        "date_updated": 1785767221,
+        "date_posted": 1785766816,
+        "url": "https://lifeattiktok.com/search/7667769079948347701",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "e8282411-d4f1-48ee-a297-221c7660b61d",
+        "title": "Research Scientist New Grad - Trust and Safety",
+        "active": true,
+        "date_updated": 1785767591,
+        "date_posted": 1785766820,
+        "url": "https://lifeattiktok.com/search/7665973724622342453",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hastings Direct",
+        "id": "b56d3cc0-8ad4-418c-a1d9-5a655e224030",
+        "title": "Pricing Data & Analytics",
+        "active": true,
+        "date_updated": 1785767559,
+        "date_posted": 1785715200,
+        "url": "https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/Leicester/Pricing--Data---Analytics-Cohort_60013843-1",
+        "locations": [
+            "Leicester, UK",
+            "Bexhill, Bexhill-on-Sea, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hastings-Direct",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "80a6fe19-0d74-4dcf-82d0-0833ae58fd78",
+        "title": "Machine Learning Engineer Graduate - Trust and Safety",
+        "active": true,
+        "date_updated": 1785767221,
+        "date_posted": 1785766818,
+        "url": "https://lifeattiktok.com/search/7665994926854555909",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "3ff95d68-7985-49f9-9cd5-08275666f3d9",
+        "title": "Machine Learning Scientist New Grad - Trust and Safety",
+        "active": true,
+        "date_updated": 1785767577,
+        "date_posted": 1785766820,
+        "url": "https://lifeattiktok.com/search/7665989163791403269",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "1e93d3f9-f99a-4fad-89d9-68c176cd5b89",
+        "title": "Machine Learning Scientist New Grad - Recommendation",
+        "active": true,
+        "date_updated": 1785767572,
+        "date_posted": 1785766820,
+        "url": "https://lifeattiktok.com/search/7663389363824773381",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "ca05adf8-dbe1-4919-a408-6992779b1c0a",
+        "title": "Research Scientist - Monetization Technology - Business Integrity",
+        "active": true,
+        "date_updated": 1785767582,
+        "date_posted": 1785766815,
+        "url": "https://lifeattiktok.com/search/7667770207780194613",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "a361534e-bae9-48ea-971f-acc6566fbb47",
+        "title": "Research Engineer New Grad - Multiple Teams",
+        "active": true,
+        "date_updated": 1785767583,
+        "date_posted": 1785766816,
+        "url": "https://lifeattiktok.com/search/7667767820142643461",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "a7b87475-1141-4285-a578-2143729a4704",
+        "title": "Research Scientist New Grad - Recommendation",
+        "active": true,
+        "date_updated": 1785767586,
+        "date_posted": 1785766820,
+        "url": "https://lifeattiktok.com/search/7663388039600883973",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hastings Direct",
+        "id": "f1b81465-8659-4aa0-97ff-fd1ceb1e11a6",
+        "title": "Pricing Analyst - Data & Analytics",
+        "active": true,
+        "date_updated": 1785767544,
+        "date_posted": 1785715200,
+        "url": "https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/Bexhill/Pricing--Data---Analytics-Cohort_60013849-1",
+        "locations": [
+            "Leicester, UK",
+            "Bexhill, Bexhill-on-Sea, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hastings-Direct",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "e5443b5b-331f-470e-b03e-f8cb378f467a",
+        "title": "Machine Learning Engineer New Grad - Trust and Safety",
+        "active": true,
+        "date_updated": 1785767582,
+        "date_posted": 1785766819,
+        "url": "https://lifeattiktok.com/search/7665991852209932597",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "c6c812c9-3a93-463d-b69d-ca06233a2c82",
+        "title": "Research Scientist New Grad - Trust and Safety",
+        "active": true,
+        "date_updated": 1785767582,
+        "date_posted": 1785766819,
+        "url": "https://lifeattiktok.com/search/7665977123255896325",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "6877141a-26a2-42c6-affa-8795287920b8",
+        "title": "Machine Learning Engineer New Grad - Recommendation",
+        "active": true,
+        "date_updated": 1785767571,
+        "date_posted": 1785766821,
+        "url": "https://lifeattiktok.com/search/7663389745178757429",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CoxHealth",
+        "id": "8490582c-bd48-42a8-a07c-ba525cec17a2",
+        "title": "Analytics Engineer 1",
+        "active": true,
+        "date_updated": 1785767469,
+        "date_posted": 1785715200,
+        "url": "https://coxhealth.wd5.myworkdayjobs.com/CoxHealth_External/job/Springfield-MO/Analytics-Engineer-I_R17671",
+        "locations": [
+            "Springfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/CoxHealth",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cambridge Associates",
+        "id": "bf259c4c-8905-4bd7-811d-936ff206dc27",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1785767407,
+        "date_posted": 1785715200,
+        "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/Investment-Analyst-Program---January-2027-Class_JR0000361",
+        "locations": [
+            "Boston, MA",
+            "SF",
+            "Dallas, TX",
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cambridge Associates",
+        "id": "ca326a25-11f4-4169-9685-a2b207ec1c67",
+        "title": "Investment Analyst Program",
+        "active": true,
+        "date_updated": 1785766681,
+        "date_posted": 1785715200,
+        "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/Investment-Analyst-Program---July-2027-Class_JR0000362-1",
+        "locations": [
+            "Boston, MA",
+            "SF",
+            "Dallas, TX",
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Texas Sports Academy",
+        "id": "9ee25097-f93f-4cf5-94fc-b8071589bf17",
+        "title": "Junior AI Software Engineer",
+        "active": true,
+        "date_updated": 1785766681,
+        "date_posted": 1785766493,
+        "url": "https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Sports-Academy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
