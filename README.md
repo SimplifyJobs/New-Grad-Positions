@@ -1456,7 +1456,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1173)</summary>
+<summary>🗃️ Inactive roles (1172)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -9673,13 +9673,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
-<td>Entry Level Graphics Software Developer</td>
-<td>Bethesda, MD</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -12791,7 +12784,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (311)</summary>
+<summary>🗃️ Inactive roles (310)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -14971,13 +14964,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Honeywell?utm_source=GHList&utm_medium=company">Honeywell</a></strong></td>
 <td>Hardware Engineer 1 - Radar Team</td>
 <td>Phoenix, AZ</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>2026 Full-Time - Software Engineer I - Onsite','MA</td>
-<td>Tewksbury, MA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
