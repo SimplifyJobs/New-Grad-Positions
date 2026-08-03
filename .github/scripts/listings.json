@@ -37,24 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "c45614b9-e67f-42ce-9adc-f9cef0c97f1e",
-        "title": "Field Service Engineer 1 PCS/Anesthesia - Santa Barbara - CA",
-        "active": false,
-        "date_updated": 1765047332,
-        "date_posted": 1765047332,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1-PCS-Anesthesia---Santa-Barbara--CA_R4029815-1",
-        "locations": [
-            "Santa Barbara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "fa56de72-1d45-437f-b6d3-80ee52a1199e",
@@ -22514,24 +22496,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fermilab",
-        "id": "cbbcc26b-441f-43a3-9ed8-fb8d540730af",
-        "title": "Lederman Fellow",
-        "active": false,
-        "date_updated": 1765047186,
-        "date_posted": 1765047186,
-        "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Lederman-Fellow_R_008876",
-        "locations": [
-            "Batavia, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Fermilab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "7a603273-9b90-4097-924a-cd9faccbe8a9",
@@ -22798,24 +22762,6 @@
             "Quebec City, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/ABB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DXC Technology",
-        "id": "d8806fe8-ec39-4641-8b00-fe3a2d30c5db",
-        "title": "DXC Graduate Programme",
-        "active": false,
-        "date_updated": 1765047237,
-        "date_posted": 1765047237,
-        "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/DXC-Graduate-Programme-2026_51567289",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DXC-Technology",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -288872,7 +288818,7 @@
         "company_name": "Graphcore",
         "id": "d1bb777d-0248-4566-a4b4-60217f1a5866",
         "title": "Graduate Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782916089,
         "date_posted": 1782914894,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8615313002",
@@ -300472,7 +300418,7 @@
         "company_name": "EquipmentShare",
         "id": "bf2190c7-5e13-41d5-907e-45c3a6b86f0c",
         "title": "Telematics Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1783473841,
         "date_posted": 1783473745,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8049925",
@@ -309924,7 +309870,7 @@
         "company_name": "NVIDIA",
         "id": "e705fffd-6c2f-4555-b991-f5808e23542c",
         "title": "System Software Engineer New Grad - Dynamo-Triton Inference Server",
-        "active": true,
+        "active": false,
         "date_updated": 1784011765,
         "date_posted": 1783900800,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767",
@@ -326010,7 +325956,7 @@
         "company_name": "Motorola",
         "id": "d470b711-b340-45ef-9154-f9b92c2c82ca",
         "title": "Junior Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784666909,
         "date_posted": 1783162171,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Demo-Site-Junior-Engineer_R66335",
@@ -338703,7 +338649,7 @@
         "company_name": "Jefferson Health",
         "id": "cceed962-356a-4bac-ae56-cb8f24fcd262",
         "title": "Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785016981,
         "date_posted": 1784937600,
         "url": "https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Philadelphia-PA/Investment-Analyst_REQ-0033111",
@@ -351875,7 +351821,7 @@
         "company_name": "Pennsylvania State University",
         "id": "f3b7a1a3-5bd5-4370-87cd-0c469759e19f",
         "title": "Graduate Researcher - Materials Science and Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785617101,
         "date_posted": 1784764800,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Graduate-Researcher---Redwing-Group----Materials-Science-and-Engineering_REQ_0000080560-1",
