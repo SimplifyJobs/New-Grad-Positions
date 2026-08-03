@@ -37,114 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Walmart",
-        "id": "0dd237e7-4fdf-44d3-a12f-b66cc7a18a4b",
-        "title": "Senior \u2013 Data Scientist",
-        "active": false,
-        "date_updated": 1764992812,
-        "date_posted": 1764992812,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist_R-2367375-1",
-        "locations": [
-            "Bentonville, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "a9312828-3202-4ff5-8fbf-6afd31be48c7",
-        "title": "Engineering Support Technician",
-        "active": false,
-        "date_updated": 1764992352,
-        "date_posted": 1764992352,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA112-Andover-MA-358-Lowell-St-Dukes-358-Lowell-Street-Dukes-Andover-MA-01810-USA/Engineering-Support-Technician_01811081",
-        "locations": [
-            "Andover, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "38ee8b38-d6cb-499b-9ec7-d9c6bbdab17d",
-        "title": "Systems Engineer 2",
-        "active": false,
-        "date_updated": 1764992383,
-        "date_posted": 1764992383,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ805-RMS-AP-Bldg-805-1151-East-Hermans-Road-Building-805-Tucson-AZ-85756-USA/XMLNAME-2026-Systems-Engineer-II---Onsite_01811006",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "29eb4cfe-654f-4435-8ad2-67674fbe1010",
-        "title": "Assembly/Test 1",
-        "active": false,
-        "date_updated": 1764992379,
-        "date_posted": 1764992379,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HKS31-US041-Lenexa-KS-15701-W-95th-Street---Lenexa-KS-66219-USA/Assembly-Test-1_01803519",
-        "locations": [
-            "Lenexa, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "b76c5ac8-32db-4ee1-9674-9dc259f29920",
-        "title": "2026 Full-Time - Software Engineer I - Onsite','MA",
-        "active": false,
-        "date_updated": 1764991989,
-        "date_posted": 1764991989,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/Software-Engineer-I_01809792",
-        "locations": [
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "7735f94a-cee7-409d-8e93-ba8835c71acf",
-        "title": "Entry Level Graphics Software Developer",
-        "active": false,
-        "date_updated": 1764991918,
-        "date_posted": 1764991918,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Graphics-Software-Developer_R-00171511",
-        "locations": [
-            "Bethesda, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "JP Morgan Chase",
         "id": "ad81ea58-79f1-4194-bc9f-49011f4e799e",
@@ -249957,7 +249849,7 @@
         "company_name": "ByteDance",
         "id": "788a250d-5057-4584-ba08-4aece01fb4c1",
         "title": "Software Engineer Graduate - Cloud Native Infrastructure - BS/MS",
-        "active": true,
+        "active": false,
         "date_updated": 1780438697,
         "date_posted": 1780438067,
         "url": "https://jobs.bytedance.com/en/position/7540437283565848850/detail",
@@ -251327,7 +251219,7 @@
         "company_name": "ByteDance",
         "id": "7dc64487-f056-4398-92c1-882600b6b151",
         "title": "Machine Learning Graduate - E-Commerce Governance - BS/MS",
-        "active": true,
+        "active": false,
         "date_updated": 1780466950,
         "date_posted": 1780466889,
         "url": "https://jobs.bytedance.com/en/position/7538929248565381383/detail",
