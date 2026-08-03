@@ -37,24 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intel",
-        "id": "91dabd9c-d12b-4af8-b041-9f654de48391",
-        "title": "SOC Logic Design Engineer",
-        "active": false,
-        "date_updated": 1764980156,
-        "date_posted": 1764980156,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/SOC-Logic-Design-Engineer_JR0278603-1",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "RadiantSecurity",
         "id": "1599c1f1-93b3-413d-8788-3570fce7c363",
