@@ -20301,24 +20301,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Jabil",
-        "id": "a2dfd37d-97de-4e4b-b3f6-3e4cb88e2420",
-        "title": "Conversions Tester 1",
-        "active": false,
-        "date_updated": 1765058824,
-        "date_posted": 1765058824,
-        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/CVG300-Conversions-Tester-I---403-Shift--Wed-Thurs--Saturday-_J2414346",
-        "locations": [
-            "Florence, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Draper",
         "id": "bab42108-d853-4f28-83d4-36e4e3bec9dd",
         "title": "Systems Engineer for GNC Requirements and Interfaces",
@@ -230628,7 +230610,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -277361,7 +277343,7 @@
         "company_name": "Mendix",
         "id": "25232394-29df-44cb-b46f-e0a78b9da897",
         "title": "Application Support Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1781907841,
         "date_posted": 1781906786,
         "url": "https://jobs.lever.co/mendix/acd9f6de-8c4a-4226-b5fc-c164ebe39760/apply",
@@ -338671,7 +338653,7 @@
         "company_name": "Vanderbilt Health",
         "id": "654f8583-841f-42d1-9ffa-4687d0d8bcd1",
         "title": "C# / Angular Associate Application Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1785045961,
         "date_posted": 1785024000,
         "url": "https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/C----Angular-Associate-Application-Developer--Local---Hybrid-_R-63031-1",
@@ -346489,7 +346471,7 @@
         "company_name": "Duke University",
         "id": "7f58512b-7c72-4449-b08a-f9bb3ba87acc",
         "title": "Analytics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785449343,
         "date_posted": 1785449311,
         "url": "https://careers.duke.edu/job/Durham-Analytics-Engineer-NC-27710/1414289400/?ats=successfactors",
@@ -357176,6 +357158,271 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Constellation Energy",
+        "id": "14835951-3570-43d1-803c-25fe2d7fa63f",
+        "title": "Business Data Analyst 1/2/Senior",
+        "active": true,
+        "date_updated": 1785796151,
+        "date_posted": 1785795181,
+        "url": "https://jobs.constellationenergy.com/jobs/137758?icims=1",
+        "locations": [
+            "Hurstbourne Acres, KY",
+            "De Pere, WI",
+            "Houston, TX",
+            "Chicago, IL",
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Constellation-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Half",
+        "id": "57ea888e-d788-422a-8b4e-b797d7a8cccb",
+        "title": "Software Engineer 1 - Generative AI Applications",
+        "active": true,
+        "date_updated": 1785796111,
+        "date_posted": 1785715200,
+        "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/NEW-YORK-MIDTOWN/Software-Engineer-I--Generative-AI-Applications_JR-261077",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Robert-Half",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kimley-Horn",
+        "id": "e3d65eb1-2153-452b-8581-21a4d459ae0f",
+        "title": "GIS Analyst",
+        "active": true,
+        "date_updated": 1785795309,
+        "date_posted": 1785795141,
+        "url": "https://careers-kimley-horn.icims.com/jobs/25312/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Virginia Beach, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kimley-Horn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kimley-Horn",
+        "id": "94f9ca61-30e8-444e-810c-7237f7ac2656",
+        "title": "GIS Analyst",
+        "active": true,
+        "date_updated": 1785795309,
+        "date_posted": 1785795138,
+        "url": "https://careers-kimley-horn.icims.com/jobs/25247/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Fort Lauderdale, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Kimley-Horn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Garmin",
+        "id": "cbda4ba8-04b8-4e0a-8487-d1660cfdc9f9",
+        "title": "Data Scientist 1",
+        "active": true,
+        "date_updated": 1785795309,
+        "date_posted": 1785795029,
+        "url": "https://careers.garmin.com/jobs/19526?icims=1",
+        "locations": [
+            "Louisville, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Florida Institute of Technology",
+        "id": "8ae21223-ed14-4f67-865b-ba5a60dcd8bb",
+        "title": "Research Staff 1",
+        "active": true,
+        "date_updated": 1785795912,
+        "date_posted": 1785715200,
+        "url": "https://floridatech.wd5.myworkdayjobs.com/FloridaTechCareers/job/Florida-Tech-Main-Campus-Melbourne/Research-Staff-1_R8789-1",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Florida-Institute-Of-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Florida Institute of Technology",
+        "id": "43e4f4c9-3919-40fb-8a58-243799f29ac0",
+        "title": "Research Staff 2",
+        "active": true,
+        "date_updated": 1785795899,
+        "date_posted": 1785715200,
+        "url": "https://floridatech.wd5.myworkdayjobs.com/FloridaTechCareers/job/Florida-Tech-Main-Campus-Melbourne/Research-Staff-2_R8790-1",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Florida-Institute-Of-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "TransMarket Group",
+        "id": "4c0c6fbe-ba82-4d6c-a12f-cc982bfc6da5",
+        "title": "Junior Algorithmic Trader",
+        "active": true,
+        "date_updated": 1785794953,
+        "date_posted": 1785794890,
+        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151575007?gh_jid=5151575007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/TransMarket-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SOCOTEC Global",
+        "id": "0cd03db8-9364-4a6d-803e-c1c724f5f289",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1785794953,
+        "date_posted": 1785794787,
+        "url": "https://jobs.smartrecruiters.com/Socotec/744000141326319",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SOCOTEC-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Analytical Mechanics Associates",
+        "id": "dc53bf27-8562-4b15-bb8a-5c712b61d498",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1785794953,
+        "date_posted": 1785715200,
+        "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Mountain-View-CA/Software-Engineer_R-100728",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Analytical-Mechanics-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Caterpillar Inc.",
+        "id": "9db12d31-f113-44c7-bd1c-cbb2d46ae2e6",
+        "title": "Junior Product Owner",
+        "active": true,
+        "date_updated": 1785795382,
+        "date_posted": 1784592000,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Digital-Content-Author_R0000376794",
+        "locations": [
+            "Peoria, IL",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Waystar",
+        "id": "5b4a19fe-7e31-4e2e-9669-38716112bf76",
+        "title": "Junior Data Engineer",
+        "active": true,
+        "date_updated": 1785795139,
+        "date_posted": 1785715200,
+        "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Data-Engineer_R3322",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waystar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Raymond James Financial",
+        "id": "f4f51d3d-db45-4cdb-aa7f-958d68710a37",
+        "title": "Analyst Data Analytics",
+        "active": true,
+        "date_updated": 1785795122,
+        "date_posted": 1785715200,
+        "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Senior-Advisor--Associate-Experience_R-0011925",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Raymond-James-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
