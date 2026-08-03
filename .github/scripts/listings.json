@@ -37,148 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Chicago",
-        "id": "81b739db-3bac-497a-a62b-30201d5102f5",
-        "title": "Business Intelligence & Analytics Senior Analyst",
-        "active": false,
-        "date_updated": 1764977937,
-        "date_posted": 1764977937,
-        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Business-Intelligence---Analytics--Sr-Analyst_JR32249",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "775bb551-6884-453a-af1b-9efc06585963",
-        "title": "Linux System Administrator",
-        "active": false,
-        "date_updated": 1764978180,
-        "date_posted": 1764978180,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Linux-System-Administrator_JR2025487641",
-        "locations": [
-            "Seal Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Geico",
-        "id": "7e01ffc3-c95c-4c99-9f29-b2cb53585222",
-        "title": "Process Analyst 1",
-        "active": false,
-        "date_updated": 1764978369,
-        "date_posted": 1764978369,
-        "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Fredericksburg-VA/Process-Analyst-I_R0061299",
-        "locations": [
-            "Cheektowaga, NY",
-            "Lakeland, FL",
-            "Tampa, FL",
-            "Fredericksburg, VA",
-            "Virginia Beach, VA",
-            "Plainview, NY",
-            "Sorrento Valley, San Diego, CA",
-            "Richardson, TX",
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Geico",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CAE",
-        "id": "43024f80-acac-4a96-bd62-dde45e459bb6",
-        "title": "Simulator Technicians 1-4",
-        "active": false,
-        "date_updated": 1764978246,
-        "date_posted": 1764978246,
-        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Dallas/Pipelining-Project-Simulator-Technician_109574-1",
-        "locations": [
-            "Montreal, QC, Canada",
-            "Las Vegas, NV",
-            "Orlando, FL",
-            "Eagan, MN",
-            "Dallas, TX",
-            "Canada",
-            "Sanford, FL",
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Boeing Company",
-        "id": "531cdbf9-b5ba-41d2-b278-3f94a2c297a3",
-        "title": "Atmospheric Scientist \u2013 Associate or Mid-Level",
-        "active": false,
-        "date_updated": 1764978179,
-        "date_posted": 1764978179,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Atmospheric-Scientist--Associate-or-Mid-Level-_JR2025487659-1",
-        "locations": [
-            "Albuquerque, NM"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "31540fb0-96d1-4ea9-b3f6-fe180e554bdb",
-        "title": "Software Engineer-Associate/Experienced",
-        "active": false,
-        "date_updated": 1764978187,
-        "date_posted": 1764978187,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Software-Engineer-Mid-Junior_JR2025484122-1",
-        "locations": [
-            "Kent, WA",
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Centene",
-        "id": "8b47960b-ca75-4609-b865-5fd694c198ba",
-        "title": "Provider Data Management Analyst 1",
-        "active": false,
-        "date_updated": 1764977638,
-        "date_posted": 1764977638,
-        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Provider-Data-Management-Analyst-I_1621782",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Centene",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Intel",
         "id": "91dabd9c-d12b-4af8-b041-9f654de48391",
@@ -194,26 +52,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "b20f18e5-4561-4269-ba7c-9790929a70ef",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1764977663,
-        "date_posted": 1764977663,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/6c80fb6e-7e35-42df-ad27-ed4cdb92cc27/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -5670,24 +5508,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Welocalize",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Athena Health",
-        "id": "21113b0b-fe53-4ddd-9b01-113924083018",
-        "title": "Senior Associate - Product Management",
-        "active": false,
-        "date_updated": 1765453597,
-        "date_posted": 1764977922,
-        "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Senior-Associate--Product-Management_R14016",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/e955406a-7989-4ed8-aff1-01032b96e141",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
