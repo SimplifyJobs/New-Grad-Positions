@@ -37,24 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "c15fd201-e321-40a9-a6b6-c3f388fad419",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1765022511,
-        "date_posted": 1765022511,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039564",
-        "locations": [
-            "Southampton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "GE Healthcare",
         "id": "c45614b9-e67f-42ce-9adc-f9cef0c97f1e",
@@ -230394,7 +230376,7 @@
         "company_name": "RELX",
         "id": "591656dc-6caf-4f26-a98b-c216c2624560",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779403256,
         "date_posted": 1779401463,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429-1",
@@ -356644,6 +356626,47 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "acab3458-c681-419e-821c-031f7b12b082",
+        "title": "Cyberspace Research Developer",
+        "active": true,
+        "date_updated": 1785759728,
+        "date_posted": 1785369600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-COLUMBIA-720--9861-Broken-Land-Pkwy--BBN-COLUMBIA-Ste-400/Cyberspace-Research-Developer--Onsite-_01862901",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "55995442-1a15-417c-831c-3d825179076e",
+        "title": "Field Engineer 1",
+        "active": true,
+        "date_updated": 1785759921,
+        "date_posted": 1785283200,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1---Central-IL_R4043624-2",
+        "locations": [
+            "Central Illinois, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
