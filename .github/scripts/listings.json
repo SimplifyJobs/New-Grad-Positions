@@ -139455,7 +139455,7 @@
         "company_name": "University of Arkansas",
         "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
         "title": "Graduate Research Assistant - Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1773814930,
         "date_posted": 1773814930,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891",
@@ -142599,7 +142599,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -142619,7 +142619,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -347330,7 +347330,7 @@
         "company_name": "Mass General Brigham",
         "id": "11dd6d55-4868-4e2f-b8be-3b1001c12ed8",
         "title": "Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785450653,
         "date_posted": 1785369600,
         "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Charlestown-MA/Data-Analyst-I_RQ4073540",
@@ -350515,7 +350515,7 @@
         "company_name": "Intel",
         "id": "e20aacdb-9613-4b2d-b0b5-dbfcb38aca81",
         "title": "CAD/EDA Tools Automation Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785596055,
         "date_posted": 1783161292,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0284432-1",
@@ -356688,6 +356688,26 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flex",
+        "id": "848e3b57-00ff-482b-8861-3277b38d7a16",
+        "title": "Panel Wire Prep",
+        "active": true,
+        "date_updated": 1785762167,
+        "date_posted": 1785456000,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-CA-Fontana/Panel-Wire-Prep_WD226621-2",
+        "locations": [
+            "Fontana, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Flex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
