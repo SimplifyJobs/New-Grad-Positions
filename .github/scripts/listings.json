@@ -37,42 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "b4068a90-bc50-49d7-b173-b618e74f87e9",
-        "title": "R&D Technician",
-        "active": false,
-        "date_updated": 1765002248,
-        "date_posted": 1765002248,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20259453",
-        "locations": [
-            "Londonderry, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "6d388fb5-d63b-4a81-8d8a-d7d8b9367997",
-        "title": "Full-Time",
-        "active": false,
-        "date_updated": 1765001286,
-        "date_posted": 1765001286,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO106-16470-East-Hughes-DriveAurora-16470-East-Hughes-Drive-Building-S77-Aurora-CO-80011-USA/XMLNAME-2026-Full-Time---Software-Engineer-I---Onsite--CO-_01810831",
-        "locations": [
-            "Aurora, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "6e40b92d-95d0-4217-b1d4-75085731e49b",
@@ -16656,24 +16620,6 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "MatX",
-        "id": "5ee92fd5-4f65-4605-a36d-f12ee6220235",
-        "title": "Software Engineer - Simulators",
-        "active": false,
-        "date_updated": 1766532414,
-        "date_posted": 1765001965,
-        "url": "https://job-boards.greenhouse.io/matx/jobs/4102858008",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/MatX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -142833,7 +142779,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -142853,7 +142799,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -248152,7 +248098,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -248632,7 +248578,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -269290,7 +269236,7 @@
         "company_name": "TikTok",
         "id": "d19126c7-186e-4d14-ae4d-756c4d86041d",
         "title": "CV/NLP/Multimodal Large Language Model Engineer Graduate - TikTok Trust and Safety - BS/MS",
-        "active": true,
+        "active": false,
         "date_updated": 1781504993,
         "date_posted": 1781503889,
         "url": "https://lifeattiktok.com/search/7517099008936397064",
@@ -354030,6 +353976,448 @@
             "Deerfield, IL"
         ],
         "company_url": "https://simplify.jobs/c/Walgreens",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TRUCKING PEOPLE",
+        "id": "30103acf-6e57-4258-94a3-8fb95e0c2588",
+        "title": "Video Data Capture Technician",
+        "active": true,
+        "date_updated": 1785737701,
+        "date_posted": 1785737559,
+        "url": "https://truckingpeople.applytojob.com/apply/M0lG7VWUyV/Video-Data-Capture-Technician",
+        "locations": [
+            "Abilene, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/7b12ec2f-5f2f-4c04-8893-db9b0d0dccda",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GABLETEK",
+        "id": "93572b64-6a28-439a-89d6-02456d96879f",
+        "title": "PLM Analyst / Spare Parts Coordinator",
+        "active": true,
+        "date_updated": 1785737701,
+        "date_posted": 1785737560,
+        "url": "https://gabletek.applytojob.com/apply/DkUkUZXQUS/PLM-Analyst-Spare-Parts-Coordinator",
+        "locations": [
+            "Novi, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/1d6c9040-5cca-4298-a12e-467e9a31b240",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "CWP Energy",
+        "id": "8f43064f-52b2-499d-b908-003f3f6e989e",
+        "title": "Junior Power Trader",
+        "active": true,
+        "date_updated": 1785737701,
+        "date_posted": 1785737513,
+        "url": "https://mcgillstlaurent.applytojob.com/apply/WVsPWyR55T/Junior-Power-Trader-Cohorte-2027",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/da519680-f988-4fc1-92c7-0ffb90565c6f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Independent Software",
+        "id": "c9a5b195-2b20-4bf0-9c3d-574667e66bd4",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1785738354,
+        "date_posted": 1785737511,
+        "url": "https://independentsoftware.applytojob.com/apply/1zxyOvNOGu/Software-Engineer-Level-1-FORECASTED",
+        "locations": [
+            "Fort Meade, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/101f581f-1c39-4be7-8efe-0edbbf675e1d",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Independent Software",
+        "id": "c6f4e0f0-e734-4061-a5fc-9a5c209b86eb",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1785737701,
+        "date_posted": 1785737510,
+        "url": "https://independentsoftware.applytojob.com/apply/fCGbXaNPRL/Software-Engineer-Level-0-FORECASTED",
+        "locations": [
+            "Fort Meade, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/101f581f-1c39-4be7-8efe-0edbbf675e1d",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peterson Technologies",
+        "id": "4f002917-8cdb-4ef9-a66c-02d05d0d220e",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1785737701,
+        "date_posted": 1785737523,
+        "url": "https://petersontechnologies.applytojob.com/apply/ma86Yof82u/Junior-Software-Engineer",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/9340e512-87bf-43da-bc7a-ef31231e3372",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GliaCell Technologies",
+        "id": "d7bc6b7e-6c64-4de0-ba0c-fbcda2ebeb79",
+        "title": "Junior Java Software Engineer",
+        "active": true,
+        "date_updated": 1785737701,
+        "date_posted": 1785737497,
+        "url": "https://gliacelltechnologies.applytojob.com/apply/5LJjRwD5B9/Junior-Java-Software-Engineer",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/ed030ded-b77e-4139-a259-083172339bb3",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GliaCell Technologies",
+        "id": "2885ff59-1385-48a3-8b0d-ae0a20235b78",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1785737701,
+        "date_posted": 1785737493,
+        "url": "https://gliacelltechnologies.applytojob.com/apply/Zet89PpNoU/Junior-Software-Engineer",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/ed030ded-b77e-4139-a259-083172339bb3",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DT Professional Services",
+        "id": "13ba9538-d595-496a-9fcc-ec5f479bbf22",
+        "title": "Data Collection Technician",
+        "active": true,
+        "date_updated": 1785737701,
+        "date_posted": 1785737502,
+        "url": "https://dtprosusa.applytojob.com/apply/ncwJfBK8Dl/Data-Collection-Technician",
+        "locations": [
+            "Norco, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/35a28d8d-2cdf-495d-8a71-32c475706bef",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Black Cape",
+        "id": "467bb962-7ff9-480a-b4ce-fea726704dee",
+        "title": "Python Data Engineer",
+        "active": true,
+        "date_updated": 1785737701,
+        "date_posted": 1785737492,
+        "url": "https://blackcape.applytojob.com/apply/AxU2pDbq3P/Python-Data-Engineer",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Black-Cape",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capgemini",
+        "id": "2575ff4b-5836-4c01-9129-cca37c295608",
+        "title": "Junior Data Engineer/Junior Data Scientist",
+        "active": true,
+        "date_updated": 1785737341,
+        "date_posted": 1785737297,
+        "url": "https://careers.capgemini.com/job/New-York,-NY-Junior-Data-EngineerJunior-Data-Scientist-NY-10001/1418866433/?ats=successfactors",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/3a409231-54ff-44e0-aba5-007a495af880",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capgemini",
+        "id": "5da5d91c-78a7-406f-a127-8b23189ab015",
+        "title": "Junior Data Engineer/Junior Data Scientist",
+        "active": true,
+        "date_updated": 1785737341,
+        "date_posted": 1785737293,
+        "url": "https://careers.capgemini.com/job/Atlanta,-GA-Junior-Data-EngineerJunior-Data-Scientist-GA-30301/1418864933/?ats=successfactors",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/3a409231-54ff-44e0-aba5-007a495af880",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capgemini",
+        "id": "e069ff5e-614f-4167-aebe-d4a2587e393d",
+        "title": "Engineering Science Graduate - Utilities",
+        "active": true,
+        "date_updated": 1785737773,
+        "date_posted": 1785737273,
+        "url": "https://careers.capgemini.com/job/Abingdon-Engineering-Science-Consultant-Utilities-(Graduate)/1420277533/?ats=successfactors",
+        "locations": [
+            "London, UK",
+            "Abingdon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/3a409231-54ff-44e0-aba5-007a495af880",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "a7fb4c3c-2bdf-4ddb-86d6-d8046da13ffd",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1785737556,
+        "date_posted": 1785736988,
+        "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-CO-80916/1415119700/?ats=successfactors",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "9068b9f9-f2fd-47d2-951a-2439d7e121a5",
+        "title": "Systems Engineering Associate",
+        "active": true,
+        "date_updated": 1785737542,
+        "date_posted": 1785736982,
+        "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Systems-Engineering-FL-32905/1415115100/?ats=successfactors",
+        "locations": [
+            "Palm Bay, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "6e997471-31b7-45d4-a693-6b704b7781df",
+        "title": "Associate Software Engineering",
+        "active": true,
+        "date_updated": 1785737493,
+        "date_posted": 1785736985,
+        "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-CO-80916/1415119100/?ats=successfactors",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "94ff4390-a797-42d4-a1f1-fa12703a459e",
+        "title": "Software Engineering Associate",
+        "active": true,
+        "date_updated": 1785737504,
+        "date_posted": 1785736995,
+        "url": "https://jobs.l3harris.com/job/Wilmington-Associate,-Software-Engineering-MA-01887/1415117800/?ats=successfactors",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "8febfbb4-d285-4402-b2a4-e2b3cb902e20",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1785737499,
+        "date_posted": 1785736996,
+        "url": "https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1415118100/?ats=successfactors",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "1b62de55-253b-4ee8-8381-54120f90d0da",
+        "title": "Associate Software Engineering",
+        "active": true,
+        "date_updated": 1785737488,
+        "date_posted": 1785736983,
+        "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905/1415116300/?ats=successfactors",
+        "locations": [
+            "Palm Bay, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "32454ba7-65f7-4f9e-bf73-84e8b10d5a50",
+        "title": "Software Engineering Associate",
+        "active": true,
+        "date_updated": 1785737498,
+        "date_posted": 1785736991,
+        "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905/1415121000/?ats=successfactors",
+        "locations": [
+            "Palm Bay, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "3ca79f3e-a9c5-4b1f-82b5-1d1b001d5a97",
+        "title": "Associate Software Engineering",
+        "active": true,
+        "date_updated": 1785737485,
+        "date_posted": 1785736984,
+        "url": "https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1415119000/?ats=successfactors",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "cb86a848-6927-4e34-a478-e73d43efee8c",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1785737498,
+        "date_posted": 1785736986,
+        "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1415120300/?ats=successfactors",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
