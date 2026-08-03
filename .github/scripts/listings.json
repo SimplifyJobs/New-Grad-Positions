@@ -38,24 +38,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Intuit",
-        "id": "deeed02e-607f-42d1-966c-f4bb0b272d06",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1765007255,
-        "date_posted": 1765007255,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89210463680",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Applied Materials",
         "id": "2c02bf48-4ead-45d3-b6b7-58378725f4b4",
         "title": "Automation Software Engineer",
