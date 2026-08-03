@@ -37,174 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RadiantSecurity",
-        "id": "1599c1f1-93b3-413d-8788-3570fce7c363",
-        "title": "AI Security Context Engineer",
-        "active": false,
-        "date_updated": 1764984472,
-        "date_posted": 1764984472,
-        "url": "https://job-boards.greenhouse.io/radiantsecurity/jobs/5711597004",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/RadiantSecurity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Becton Dickinson",
-        "id": "6c573453-6c0b-44f7-82c4-b9eb3ae4c140",
-        "title": "Data Analyst 1",
-        "active": false,
-        "date_updated": 1764984073,
-        "date_posted": 1764984073,
-        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-Bldg-AB/Data-Analyst-1_R-532428-1",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Best Friends",
-        "id": "3109a7b3-fb69-440b-9a79-e769786ce89c",
-        "title": "Data Research Specialist",
-        "active": false,
-        "date_updated": 1764984081,
-        "date_posted": 1764984081,
-        "url": "https://bestfriends.wd1.myworkdayjobs.com/bestfriendscareers/job/Remote/Data-Research-Specialist_JR100985",
-        "locations": [
-            "Remote in USA",
-            "Colorado City, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Best-Friends",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Richardson",
-        "id": "0898e89c-d87e-482d-a9c7-0357f761d5b2",
-        "title": "Software Developer 1",
-        "active": false,
-        "date_updated": 1764984114,
-        "date_posted": 1764984114,
-        "url": "https://richardson.wd3.myworkdayjobs.com/richardson_our_careers/job/Winnipeg/Software-Developer-I_R15355",
-        "locations": [
-            "Winnipeg, MB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Richardson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SpaceX",
-        "id": "6daa48d5-1479-497f-b687-e1447ce34ff4",
-        "title": "Software Engineer - Starlink Network",
-        "active": false,
-        "date_updated": 1764983997,
-        "date_posted": 1764983997,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8324397002",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SpaceX",
-        "id": "498cafe4-ecd9-45c3-98ef-d352b20422f5",
-        "title": "Mission Integration Engineer - Applied Computing - Starshield",
-        "active": false,
-        "date_updated": 1764983951,
-        "date_posted": 1764983951,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8320099002",
-        "locations": [
-            "West Athens, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tempus",
-        "id": "8a60a9b6-0a69-4e27-94e8-6967796f1ae9",
-        "title": "Data Scientist 1 - Real World Data Science",
-        "active": false,
-        "date_updated": 1764983172,
-        "date_posted": 1764983172,
-        "url": "https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/Data-Scientist-I--Real-World-Data-Science_JR202500985",
-        "locations": [
-            "Boston, MA",
-            "San Carlos, CA",
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Tempus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Daxko Nation",
-        "id": "c37c82b6-fb64-49d3-85ed-5be87ab57804",
-        "title": "AI Software Engineer 1",
-        "active": false,
-        "date_updated": 1764983041,
-        "date_posted": 1764983041,
-        "url": "https://jobs.smartrecruiters.com/Daxko1/744000097335935",
-        "locations": [
-            "Birmingham, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Daxko-Nation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "QBE Insurance",
-        "id": "b6ad7a19-507e-4d11-95e6-4c5cf1ed81df",
-        "title": "E-Trade Trading Underwriter - Property",
-        "active": false,
-        "date_updated": 1764983092,
-        "date_posted": 1764983092,
-        "url": "https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Stafford-United-Kingdom/E-Trade-Trading-Underwriter---Property_347269",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/QBE-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "VF",
         "id": "f28dc421-9666-41e7-a58e-bab885065d97",
@@ -815,24 +647,6 @@
             "Southampton, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SpaceX",
-        "id": "fd638e66-0ec2-46d9-8099-b38fe0b63c78",
-        "title": "Software Engineer - C++ - Starlink",
-        "active": false,
-        "date_updated": 1764983986,
-        "date_posted": 1764983986,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8324395002",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -143455,7 +143269,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -143475,7 +143289,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -231652,7 +231466,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -248774,7 +248588,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -249254,7 +249068,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -354610,6 +354424,26 @@
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineering-FL-32904/1415099300/?ats=successfactors",
         "locations": [
             "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "57dfa07e-fba9-4ab6-8330-05fefd483da5",
+        "title": "Software Engineering Associate",
+        "active": true,
+        "date_updated": 1785719328,
+        "date_posted": 1785719057,
+        "url": "https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1415110900/?ats=successfactors",
+        "locations": [
+            "Chantilly, VA"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
         "is_visible": true,
