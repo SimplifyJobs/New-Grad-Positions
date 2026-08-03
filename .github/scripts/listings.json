@@ -80998,24 +80998,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Major League Baseball",
-        "id": "c5231ba7-e5af-41b7-842f-1a421492c8bb",
-        "title": "SABR Analytics Conference Attendee",
-        "active": true,
-        "date_updated": 1770889592,
-        "date_posted": 1765042583,
-        "url": "https://www.mlb.com/careers/opportunities?gh_jid=7449587",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/MLB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "d0566368-18ed-4ef2-9151-c6deddfc97ce",
@@ -312226,7 +312208,7 @@
         "company_name": "Vertiv",
         "id": "4ed5b887-1434-417b-9db8-7394d20e3fb3",
         "title": "Sales Data Analytics Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784106541,
         "date_posted": 1784037902,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276502",
@@ -326638,7 +326620,7 @@
         "company_name": "Morgan Stanley",
         "id": "5037b240-5ea1-4163-8aa3-74576522a592",
         "title": "Equities \u2013 Derivatives Clearing Strategy & Product Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1784673850,
         "date_posted": 1781215775,
         "url": "https://ms.wd5.myworkdayjobs.com/private/job/New-York-New-York-United-States-of-America/Equities---Derivatives-Clearing-Strategy---Product---Associate_JR038698",
