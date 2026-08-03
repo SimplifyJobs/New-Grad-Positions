@@ -321932,7 +321932,7 @@
         "company_name": "Pennsylvania State University",
         "id": "a3c3cb21-a6e5-4873-9acb-8eb782662fd7",
         "title": "Research Assistant for a Chart Understanding Project",
-        "active": true,
+        "active": false,
         "date_updated": 1784608383,
         "date_posted": 1782956043,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-for-a-Chart-Understanding-Project_REQ_0000072333-1",
@@ -357746,6 +357746,422 @@
         "sponsorship": "Other",
         "degrees": [
             "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Samsara",
+        "id": "a10690dd-586c-41d0-9609-4b55fa5eba3a",
+        "title": "Software Engineer 1 New Grad",
+        "active": true,
+        "date_updated": 1785799092,
+        "date_posted": 1785796359,
+        "url": "https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsara",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SimpliSafe",
+        "id": "a10ca49c-25c2-42e5-971a-9e76f1b60fdb",
+        "title": "Software Engineer 1 - User Systems",
+        "active": true,
+        "date_updated": 1785799076,
+        "date_posted": 1785796952,
+        "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8095181",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/SimpliSafe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "51209c2a-1386-4eea-aa73-cd13c66ca8c0",
+        "title": "Associate Software Systems Engineer - Sentinel",
+        "active": true,
+        "date_updated": 1785798943,
+        "date_posted": 1785715200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Associate-Software-Systems-Engineer---19148_R10243153",
+        "locations": [
+            "Roy, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "d477274f-b6e9-4cd5-a6d6-1bc88d730ff9",
+        "title": "Associate Cyber Software Engineer",
+        "active": true,
+        "date_updated": 1785798960,
+        "date_posted": 1785715200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/XMLNAME-2026----Associate-Cyber-Software-Engineer---Annapolis-Junction-MD_R10243399",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Netsmart",
+        "id": "db9c57de-0338-484f-acbc-6ea1db0e12ed",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1785798861,
+        "date_posted": 1785715200,
+        "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer----Dec26-May-27-Grads-_R015658",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Netsmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Analog Devices",
+        "id": "e060f699-0319-4af1-86fe-3235c0e032c1",
+        "title": "Product Engineer - Design Evaluation",
+        "active": true,
+        "date_updated": 1785798814,
+        "date_posted": 1785715200,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer---RF-System_R263805",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Salesforce",
+        "id": "80d83f90-c434-4eab-8ea5-32fc7be8043c",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1785798792,
+        "date_posted": 1785715200,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "58d91da1-53ad-4b2c-b6f0-34bc216529b9",
+        "title": "Software Engineer - C++",
+        "active": true,
+        "date_updated": 1785798827,
+        "date_posted": 1785715200,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tewksbury-MA/Software-Engineer--C--_R-00188633",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Salesforce",
+        "id": "8bbd4bc6-86dc-4f2b-bda0-2ce45a987a78",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1785798759,
+        "date_posted": 1785715200,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cisco",
+        "id": "1678c568-32eb-4d90-aba8-bd3ed3dd0681",
+        "title": "Software Developer - CICD Pipeline and Automation 2",
+        "active": true,
+        "date_updated": 1785798181,
+        "date_posted": 1785715200,
+        "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Ottawa-Ontario-Canada/Software-Developer---CICD-Pipeline-and-Automation-II--Full-Time----Canada_2019864",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Omnicom Group",
+        "id": "0067b53f-8c1d-4cf6-b861-6cf48ef9198a",
+        "title": "Analytics Analyst",
+        "active": true,
+        "date_updated": 1785798746,
+        "date_posted": 1785715200,
+        "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/Washington-District-of-Columbia-United-States-of-America/Analyst--Analytics_R10081",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/6f106b8c-5b9c-4b77-9a62-a180f1623bc8",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Materials",
+        "id": "01962f7a-42a4-45ab-97e2-65d2c97ee12c",
+        "title": "Application Engineer 3",
+        "active": true,
+        "date_updated": 1785798681,
+        "date_posted": 1785715200,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Application-Engineer-III-New-College-Grad_R2622545",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Kenco Management Services",
+        "id": "992ad694-6785-4e6c-a2b2-580ed9407998",
+        "title": "Automation Technician 1",
+        "active": true,
+        "date_updated": 1785798665,
+        "date_posted": 1785715200,
+        "url": "https://kencogroup.wd12.myworkdayjobs.com/kenco/job/USA-IL-Joliet-650-Emerald-Dr/Automation-Technician_JR105908",
+        "locations": [
+            "Joliet, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Kenco-Management-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intel",
+        "id": "6fd3ef51-26eb-4f6e-a368-592b0f49f210",
+        "title": "Input/Output Shift Engineer 6 - Technology Development Engineer",
+        "active": true,
+        "date_updated": 1785798613,
+        "date_posted": 1785715200,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/On-Shift--IOS--Technology-Development-Engineer---Night-Shift-6_JR0286100",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Procter & Gamble (P&G)",
+        "id": "e643937d-01bb-4808-a2f7-d2a1773f92c5",
+        "title": "Materials Development Scientist",
+        "active": true,
+        "date_updated": 1785798547,
+        "date_posted": 1785715200,
+        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/WHBC---WINTON-HILL-BUS-CENTER/Materials-Development-Scientist-PhD_R000155533",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "df570e4a-f00e-490b-88e0-f9d73812ff19",
+        "title": "Digital ASIC/FPGA Design Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1785798505,
+        "date_posted": 1785715200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Full-Time-Raytheon-2026---Digital-ASIC-FPGA-Design-Electrical-Engineer-I_01861569",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CAI",
+        "id": "8d63e5dd-4357-4bde-9b49-d5536f5aef38",
+        "title": "Systems Analyst - Entry-Level",
+        "active": true,
+        "date_updated": 1785798442,
+        "date_posted": 1785715200,
+        "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/FL-CLIENT-STATE/Entry-Level-Systems-Analyst_R8248",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/CAI-Io",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Spin Master Corp.",
+        "id": "f0aeb2a8-4c87-49bb-bcd1-f943ac6cd071",
+        "title": "Product Development Engineer",
+        "active": true,
+        "date_updated": 1785798319,
+        "date_posted": 1779926400,
+        "url": "https://spinmaster.wd3.myworkdayjobs.com/SpinMaster_Careers/job/Los-Angeles/Product-Development-Engineer_R4865",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/81997065-ac5b-465a-ae63-1e08318e1f8b",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The New School",
+        "id": "e27a1299-105b-46ac-b8a2-2db48c0c9d62",
+        "title": "Student Lab Assistant",
+        "active": true,
+        "date_updated": 1785797102,
+        "date_posted": 1785715200,
+        "url": "https://newschool.wd1.myworkdayjobs.com/external/job/B---65-West-11th-Street/Student-Lab-Assistant---Lang_JR109208",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/The-New-School",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tulsa County",
+        "id": "64fb6933-f58d-4ce2-b642-ad6f4f8d21b4",
+        "title": "Election Board Technician",
+        "active": true,
+        "date_updated": 1785798246,
+        "date_posted": 1785196800,
+        "url": "https://tulsacounty.wd1.myworkdayjobs.com/tc/job/TC-Election-Board---Skelly-Drive/Occasional-Election-Board-Tech_JR103705",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/7cf9fe1d-91ae-4e8f-b091-79ebc7f692e2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Parcel Service (UPS)",
+        "id": "0220ac35-84f4-465d-bad7-ca2010e5d11a",
+        "title": "Sustainability Fellow",
+        "active": true,
+        "date_updated": 1785798213,
+        "date_posted": 1785715200,
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Masters-Degree---Sustainability-Reporting-Fellow_R26024711",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
