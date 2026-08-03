@@ -38,24 +38,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Applied Materials",
-        "id": "2c02bf48-4ead-45d3-b6b7-58378725f4b4",
-        "title": "Automation Software Engineer",
-        "active": false,
-        "date_updated": 1765015508,
-        "date_posted": 1765015508,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Automation-Software-Engineer--New-College-Grad--Bachelor-s--Austin--TX-_R2519059",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "ServiceNow",
         "id": "91f1caab-c43e-464f-ab06-81a9a9760b86",
         "title": "Software Engineer",
@@ -190491,7 +190473,7 @@
         "company_name": "Intel",
         "id": "6a9037a8-cfc4-43f5-841f-202346e3bfb4",
         "title": "Image Processing Engineer - C++/Linux",
-        "active": true,
+        "active": false,
         "date_updated": 1776474773,
         "date_posted": 1776474487,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Image-Processing-Engineer--C---Linux-_JR0282835",
@@ -312432,7 +312414,7 @@
         "company_name": "Ferrovial",
         "id": "5164ca1e-9a08-4913-8e3c-322ddd5352b6",
         "title": "Traffic and Revenue Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784110111,
         "date_posted": 1783987200,
         "url": "https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Dallas/Traffic---Revenue-Engineer_JR18294",
@@ -314555,7 +314537,7 @@
         "company_name": "Becton Dickinson",
         "id": "4567b973-6e0b-4ea2-a3bd-676bcc5ef747",
         "title": "Automation Service Technician \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1784203753,
         "date_posted": 1783814400,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA---Wisconsin---Milwaukee/Automation-Service-Technician--Milwaukee-Chicago-Area_R-550373",
@@ -331071,7 +331053,7 @@
         "company_name": "The Archetype Strategy",
         "id": "a2780050-63a0-49db-aabf-8cca3fbcfa1e",
         "title": "Data Center Technician - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1784788465,
         "date_posted": 1784787359,
         "url": "https://archetypestrategy.applytojob.com/apply/vFBboTquIW/Datacenter-Technician",
@@ -331335,7 +331317,7 @@
         "company_name": "Sunbird Software Inc.",
         "id": "6c2d559a-c15a-44a8-83ca-b2334187426b",
         "title": "Sunbird Software Inc Product Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784791535,
         "date_posted": 1784788202,
         "url": "https://sunbirdsoftwareinc.applytojob.com/apply/wsB1TcU0Gf/Product-Support-Engineer",
@@ -331494,7 +331476,7 @@
         "company_name": "The Archetype Strategy",
         "id": "85b0fc42-9066-4ad0-b948-a47851825f6a",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784790075,
         "date_posted": 1784787357,
         "url": "https://archetypestrategy.applytojob.com/apply/rvyxBfRidr/Datacenter-Technician",
@@ -342775,7 +342757,7 @@
         "company_name": "RTX",
         "id": "eade91a6-60d5-49dd-8a45-35003ed22533",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785281003,
         "date_posted": 1785196800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site--_01862276",
@@ -343228,7 +343210,7 @@
         "company_name": "RTX",
         "id": "d8f84d42-30b7-4a74-b193-a2adde5bac7e",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785280253,
         "date_posted": 1785196800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I--On-Site-_01862626",
@@ -356591,5 +356573,65 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Trofholz Technologies",
+        "id": "7bc175ad-5c87-4be7-95ef-a1925b2036dc",
+        "title": "Electronic Security Technician",
+        "active": true,
+        "date_updated": 1785751971,
+        "date_posted": 1785277371,
+        "url": "https://trofholztechnologies.applytojob.com/apply/JyYpd2PZZZ/Electronic-Security-ESS-Installation-Technician",
+        "locations": [
+            "Lexington, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/2633bcfb-8705-49a9-9ece-c3df12185316",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pegatron Technologies LLC",
+        "id": "83f09b87-84af-401b-9993-d309c59fce8e",
+        "title": "Field Application Engineer",
+        "active": true,
+        "date_updated": 1785751386,
+        "date_posted": 1784787714,
+        "url": "https://pegatrontechnologiesllc.applytojob.com/apply/a6BrFwMUss/Field-Application-Engineer",
+        "locations": [
+            "Georgetown, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/75f77020-12dc-4b27-9c4b-5988bb07af9d",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Southern States, LLC",
+        "id": "9d908eec-cb2d-4437-9cb1-47aea6e0c308",
+        "title": "Application Engineer 1 - Psd",
+        "active": true,
+        "date_updated": 1785752907,
+        "date_posted": 1784787274,
+        "url": "https://southernstatesllc.applytojob.com/apply/VJCWCfg1U0/Application-Engineer-I-PSD",
+        "locations": [
+            "Hampton, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/79cecfd5-09ee-419a-a1c6-83f25d94163a",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
     }
 ]
