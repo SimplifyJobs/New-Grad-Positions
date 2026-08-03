@@ -245599,7 +245599,7 @@
         "company_name": "NatWest Group",
         "id": "d9d98718-3266-4066-a180-d6d84556794c",
         "title": "Tech Insight Experience for Women - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1780272183,
         "date_posted": 1780132193,
         "url": "https://rbs.wd3.myworkdayjobs.com/rbs/job/Edinburgh/Tech-Insight-Experience-for-Women---Engineering_R-00276058",
@@ -269000,7 +269000,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "c16de5ad-b2cf-4941-95e0-0eef613b642b",
         "title": "Faculty Assistant-3",
-        "active": true,
+        "active": false,
         "date_updated": 1781430733,
         "date_posted": 1781360173,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Faculty-Assistant-3_JR101888-1",
@@ -306842,7 +306842,7 @@
         "company_name": "Johnson Controls",
         "id": "bc16e04e-483c-4b33-9153-1620809d551e",
         "title": "HVAC Equipment Systems Application Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783723202,
         "date_posted": 1783641600,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Linthicum-Maryland-United-States-of-America/HVAC-Equipment-Systems-Application-Engineer-I_WD30273247",
@@ -307539,7 +307539,7 @@
         "company_name": "RTX",
         "id": "aab64ef6-9ec0-4144-b49c-b26ff662a042",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783780655,
         "date_posted": 1783555200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-PHOENIX-3405--3405-S-5th-St--BLDG-3405/Field-Service-Engineer--Onsite-_01858612",
@@ -328601,7 +328601,7 @@
         "company_name": "GE Healthcare",
         "id": "9bcfa28e-365a-46d9-84da-0dea36c7276e",
         "title": "Field Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784686723,
         "date_posted": 1784592000,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer_R4043729-1",
@@ -335135,7 +335135,7 @@
         "company_name": "WGNSTAR",
         "id": "f18cead9-70a4-42c4-91bf-39c16dd5b1e2",
         "title": "Field Service Technician - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1784847813,
         "date_posted": 1784844927,
         "url": "https://wgnstar.applytojob.com/apply/FLPgC6bOxN/Field-Service-Engineer-Semiconductor-Equipment",
@@ -344446,7 +344446,7 @@
         "company_name": "RTX",
         "id": "cb10960c-cbb5-4773-a7da-082249e6b4bc",
         "title": "Teamcenter System Administrator/Support",
-        "active": true,
+        "active": false,
         "date_updated": 1785331885,
         "date_posted": 1784764800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Teamcenter-System-Administrator-Support--Hybrid-_01860884",
@@ -356673,6 +356673,27 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Xcellent Technology Solutions",
+        "id": "f9623735-52b0-4633-a58e-f6eaacdc6c33",
+        "title": "Operational GEOINT Analyst - Imagery - OPIR",
+        "active": true,
+        "date_updated": 1785754621,
+        "date_posted": 1785737810,
+        "url": "https://xtscareers.applytojob.com/apply/u1yXswwTvu/Operational-GEOINT-Analyst-Imagery-OPIR-TSSCI-With-CI-Poly",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/8cef3037-4d3d-4409-8d44-1f8cc1d2dfa7",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
