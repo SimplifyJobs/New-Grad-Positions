@@ -37,42 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "6e40b92d-95d0-4217-b1d4-75085731e49b",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1765005824,
-        "date_posted": 1765005824,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042192",
-        "locations": [
-            "Basingstoke, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "35dad45a-30f2-4f75-9a81-dda3c4eca60f",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1765005816,
-        "date_posted": 1765005816,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89210463728",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Intuit",
         "id": "deeed02e-607f-42d1-966c-f4bb0b272d06",
@@ -355484,6 +355448,538 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JP Morgan Chase",
+        "id": "ea2571ea-f9cf-436b-92e7-7e6f41f93efb",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1785740953,
+        "date_posted": 1785738262,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774102",
+        "locations": [
+            "Palo Alto, CA",
+            "Houston, TX",
+            "Tampa, FL",
+            "Plano, TX",
+            "Chicago, IL",
+            "Jersey City, NJ",
+            "Columbus, OH",
+            "NYC",
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Evertz Microsystems Limited",
+        "id": "b9187dd7-8b82-42de-bd2c-af311aa3c22b",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1785740221,
+        "date_posted": 1785738173,
+        "url": "https://evertz.applytojob.com/apply/2EPc2HfSPN/Field-Service-Engineer-AV-USA",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/855efa19-c1fd-4e55-ae24-a0a9a6b9908f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Retell AI",
+        "id": "77e7783f-e6da-4352-a869-b3840c8dbfb9",
+        "title": "Software Engineer New Grad - Founders Initiatives",
+        "active": true,
+        "date_updated": 1785740978,
+        "date_posted": 1785738227,
+        "url": "https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463/application?embed=true",
+        "locations": [
+            "SF",
+            "Redwood City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Retell-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JP Morgan Chase",
+        "id": "3d5a1762-f363-481e-8f1a-fe8b490d1e8e",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1785740950,
+        "date_posted": 1785738266,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774111",
+        "locations": [
+            "Palo Alto, CA",
+            "Houston, TX",
+            "Tampa, FL",
+            "Plano, TX",
+            "Chicago, IL",
+            "Jersey City, NJ",
+            "Columbus, OH",
+            "NYC",
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Retell AI",
+        "id": "8c11caf7-066b-4d00-9145-8f92263ae8bb",
+        "title": "Software Engineer - Founders Initiatives",
+        "active": true,
+        "date_updated": 1785740221,
+        "date_posted": 1785738229,
+        "url": "https://jobs.ashbyhq.com/retell-ai/46400d61-feca-45f9-9000-563b8994f60f/application?embed=true",
+        "locations": [
+            "SF",
+            "Redwood City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Retell-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "6149d244-f4fa-43d4-99a5-aa945c8ef1ef",
+        "title": "Innovation Development Analyst - Commercial & Investment Bank",
+        "active": true,
+        "date_updated": 1785740949,
+        "date_posted": 1785738253,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770316",
+        "locations": [
+            "Palo Alto, CA",
+            "Plano, TX",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "2f5f6d1a-1591-4d2b-9eea-c4a0fbe02433",
+        "title": "Data and Artificial Intelligence Analyst",
+        "active": true,
+        "date_updated": 1785740979,
+        "date_posted": 1785738263,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773954",
+        "locations": [
+            "Palo Alto, CA",
+            "Newark, DE",
+            "Plano, TX",
+            "Chicago, IL",
+            "Jersey City, NJ",
+            "Columbus, OH",
+            "NYC",
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Evertz Microsystems Limited",
+        "id": "92c95f28-08af-43d5-babf-e66451900ba2",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1785740221,
+        "date_posted": 1785738174,
+        "url": "https://evertz.applytojob.com/apply/vvVIJGd86H/Field-Service-Engineer-AV-USA",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/855efa19-c1fd-4e55-ae24-a0a9a6b9908f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Evertz Microsystems Limited",
+        "id": "62463fa8-e944-4539-b540-66b935ef30fa",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1785740221,
+        "date_posted": 1785738173,
+        "url": "https://evertz.applytojob.com/apply/fzu6Qi3s1d/Field-Service-Engineer-AV-USA",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/855efa19-c1fd-4e55-ae24-a0a9a6b9908f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Evertz Microsystems Limited",
+        "id": "cf548ac1-bd81-4650-99df-105f24d8c9a6",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1785740221,
+        "date_posted": 1785738174,
+        "url": "https://evertz.applytojob.com/apply/0uj13l1Prv/Field-Service-Engineer-AV-USA",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/855efa19-c1fd-4e55-ae24-a0a9a6b9908f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Evertz Microsystems Limited",
+        "id": "bbc7729d-0a13-4a0d-b62d-8bb62a082b11",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1785740221,
+        "date_posted": 1785738173,
+        "url": "https://evertz.applytojob.com/apply/NDfXg56wfo/Field-Service-Engineer-AV-USA",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/855efa19-c1fd-4e55-ae24-a0a9a6b9908f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Evertz Microsystems Limited",
+        "id": "afe1e729-4d14-490f-a02b-0a876a1dafd8",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1785740221,
+        "date_posted": 1785738173,
+        "url": "https://evertz.applytojob.com/apply/hP9PEfLHTK/Field-Service-Engineer-AV-USA",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/855efa19-c1fd-4e55-ae24-a0a9a6b9908f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Evertz Microsystems Limited",
+        "id": "9e35bafc-8778-4bea-bbdc-0798dee5923f",
+        "title": "Junior Radio Frequency Engineer",
+        "active": true,
+        "date_updated": 1785740861,
+        "date_posted": 1785738171,
+        "url": "https://evertz.applytojob.com/apply/VqiaJgc6yS/Junior-RF-Engineer",
+        "locations": [
+            "Burlington, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/855efa19-c1fd-4e55-ae24-a0a9a6b9908f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Evertz Microsystems Limited",
+        "id": "35ca9bf2-641e-4732-a82e-f56320d1e245",
+        "title": "Junior Field Service Engineer - AV",
+        "active": true,
+        "date_updated": 1785740221,
+        "date_posted": 1785738175,
+        "url": "https://evertz.applytojob.com/apply/Wfa2JBkGnW/Junior-Field-Service-Engineer-AV",
+        "locations": [
+            "Burlington, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/855efa19-c1fd-4e55-ae24-a0a9a6b9908f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Evertz Microsystems Limited",
+        "id": "23d3f141-2b19-4c5b-89a0-947b621f4e64",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1785740221,
+        "date_posted": 1785738174,
+        "url": "https://evertz.applytojob.com/apply/soDx2WbNSU/Field-Service-Engineer-AV-USA",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/855efa19-c1fd-4e55-ae24-a0a9a6b9908f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Evertz Microsystems Limited",
+        "id": "f8da3600-488a-4848-a44f-16e577cc2499",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1785740221,
+        "date_posted": 1785738173,
+        "url": "https://evertz.applytojob.com/apply/nwepuTNXgE/Field-Service-Engineer-AV-USA",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/855efa19-c1fd-4e55-ae24-a0a9a6b9908f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Evertz Microsystems Limited",
+        "id": "c4e3d990-0c47-4ffa-9538-1ac93e488688",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1785740221,
+        "date_posted": 1785738174,
+        "url": "https://evertz.applytojob.com/apply/PrU51JaoKt/Field-Service-Engineer-AV-USA",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/855efa19-c1fd-4e55-ae24-a0a9a6b9908f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Evertz Microsystems Limited",
+        "id": "70102cd0-6897-4126-bb0e-ab346d3b259f",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1785740221,
+        "date_posted": 1785738174,
+        "url": "https://evertz.applytojob.com/apply/YF24TTqx7T/Field-Service-Engineer-AV",
+        "locations": [
+            "Burlington, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/855efa19-c1fd-4e55-ae24-a0a9a6b9908f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Evertz Microsystems Limited",
+        "id": "50bc7382-e96e-4a68-83ab-bc53763b3170",
+        "title": "Field Service Engineer - AV",
+        "active": true,
+        "date_updated": 1785740221,
+        "date_posted": 1785738173,
+        "url": "https://evertz.applytojob.com/apply/MpEY0wxoPU/Field-Service-Engineer-AV-USA",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/855efa19-c1fd-4e55-ae24-a0a9a6b9908f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Evertz Microsystems Limited",
+        "id": "4842452e-1213-49c0-a3bb-a02566f328f4",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1785740221,
+        "date_posted": 1785738174,
+        "url": "https://evertz.applytojob.com/apply/YzoJVY1OHj/Field-Service-Engineer-AV-USA",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/855efa19-c1fd-4e55-ae24-a0a9a6b9908f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "SHOPLINE",
+        "id": "57478bde-e358-48a6-a5d7-807b79a4f792",
+        "title": "Product Manager Trainee",
+        "active": true,
+        "date_updated": 1785740733,
+        "date_posted": 1785738137,
+        "url": "https://shopline.applytojob.com/apply/Okz1MCNfbB/Global-Product-Manager-Trainee",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ea45ad21-167b-47ef-87a4-9f41cbb201a4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IntelliGenesis",
+        "id": "74c5b938-b6a5-4b8b-897c-83c285a86481",
+        "title": "Software Engineer 0",
+        "active": true,
+        "date_updated": 1785740477,
+        "date_posted": 1785738058,
+        "url": "http://intelligenesis.applytojob.com/apply/JgkJsYNePv/Software-Engineer-Level-0",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/f2b582d3-89aa-4aef-a868-41fc4dca823d",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WonderBotz",
+        "id": "c7fb8916-9630-411f-b870-1670488e15f4",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1785740221,
+        "date_posted": 1785738047,
+        "url": "https://wonderbotz.applytojob.com/apply/RrI9QanYDY/Junior-Software-Engineer",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/2059c151-0187-4c99-9982-c4a5ba9f2918",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Engineers and Geoscientists BC",
+        "id": "b11e7d78-8c61-41eb-b71c-8483802fa506",
+        "title": "Junior Developer 1",
+        "active": true,
+        "date_updated": 1785740435,
+        "date_posted": 1785738030,
+        "url": "https://egbc.applytojob.com/apply/7aUKZK87tT/Junior-Developer-I",
+        "locations": [
+            "Burnaby, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/e5229801-1660-415c-9e9d-a484a9828cf3",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Aramco Americas Company",
+        "id": "44904220-a1e4-4e1b-b7a4-853f43ccd45d",
+        "title": "Trade Analyst - Chemicals & Specialty Products Trading",
+        "active": true,
+        "date_updated": 1785740221,
+        "date_posted": 1785738049,
+        "url": "https://aramcoservices.applytojob.com/apply/KNLnPBcrL8/Trade-Analyst-Chemicals-Specialty-Products-Trading-1989",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/20c47c16-1ccd-4999-9604-4665d4d02675",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
