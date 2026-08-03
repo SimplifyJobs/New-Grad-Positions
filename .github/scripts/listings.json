@@ -187277,7 +187277,7 @@
         "company_name": "Illumina",
         "id": "77be5914-87b0-4f12-a256-1f3cb47aedbf",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776348601,
         "date_posted": 1776348304,
         "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/England---Cambridge/Software-Engineer-1_42598-JOB-1",
@@ -253258,7 +253258,7 @@
         "company_name": "EOS IT Solutions",
         "id": "855cf417-5df9-460c-b32b-283c5e2350b6",
         "title": "Graduate Data Centre Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780564254,
         "date_posted": 1780564005,
         "url": "https://eosits.com/company/careers/?gh_jid=8578282002",
@@ -291147,7 +291147,7 @@
         "company_name": "Trane Technologies",
         "id": "4126dfc9-f400-4a64-a3e7-1373338d3289",
         "title": "Application Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1782960522,
         "date_posted": 1782956029,
         "url": "https://careers.tranetechnologies.com/global/en/job/JR-8943",
@@ -301115,7 +301115,7 @@
         "company_name": "BNY",
         "id": "8b288ebd-9f41-4a86-85d7-7220a98e4bb8",
         "title": "Specialist 2 - Client Processing - Loans Administrator and Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783503042,
         "date_posted": 1783346729,
         "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/74771",
@@ -301990,7 +301990,7 @@
         "company_name": "Intel",
         "id": "2806a6de-285b-409b-a826-2addd6b3abf3",
         "title": "Physical Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783549692,
         "date_posted": 1783548665,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Massachusetts-Beaver-Brook/Physical-Design-Engineer_JR0285374",
@@ -307370,7 +307370,7 @@
         "company_name": "GE Healthcare",
         "id": "211d5160-dd5b-403d-aa71-3b6dd6378ee9",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783762313,
         "date_posted": 1783555200,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1_R4042917-1",
@@ -310491,7 +310491,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -327028,7 +327028,7 @@
         "company_name": "Markel Group",
         "id": "163dc031-ef89-45df-ac7b-23c2a0d3af34",
         "title": "Data Processor",
-        "active": true,
+        "active": false,
         "date_updated": 1784677753,
         "date_posted": 1784592000,
         "url": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Bedford-TX/Data-Processor---State-National_R0023382",
@@ -331015,7 +331015,7 @@
         "company_name": "Pegatron Technologies LLC",
         "id": "42adbeae-5304-418d-aa90-6022836e2020",
         "title": "Test Engineer - AI Infrastructure and Server Testing - Hardware Validation & Performance Testing",
-        "active": true,
+        "active": false,
         "date_updated": 1784789562,
         "date_posted": 1784787714,
         "url": "https://pegatrontechnologiesllc.applytojob.com/apply/PGNGTgapVq/Test-Engineer",
@@ -331530,7 +331530,7 @@
         "company_name": "The Archetype Strategy",
         "id": "352e138a-5a5d-4dda-9d78-462813cb2518",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784790102,
         "date_posted": 1784787357,
         "url": "https://archetypestrategy.applytojob.com/apply/M0qi5JEVWO/Datacenter-Technician",
@@ -351618,7 +351618,7 @@
         "company_name": "Simile",
         "id": "3a60192e-943e-4660-ab0f-76da14e6542b",
         "title": "Evaluations - Member of Technical Staff",
-        "active": true,
+        "active": false,
         "date_updated": 1785614952,
         "date_posted": 1784596483,
         "url": "https://jobs.ashbyhq.com/simile/33d75074-c23b-4a1f-bfdb-129bcc5be662/application?embed=true",
@@ -355983,5 +355983,453 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "53efd4af-54a6-411e-a939-031cead7e3c1",
+        "title": "Security Engineer New Grad - Threat Detection and Response",
+        "active": true,
+        "date_updated": 1785748932,
+        "date_posted": 1785748598,
+        "url": "https://jobs.bytedance.com/en/position/7668614787018393909/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "906a54ba-479e-4593-8fae-3ac47867717b",
+        "title": "Software Engineer AI Agent Infrastructure - Security Engineering",
+        "active": true,
+        "date_updated": 1785748926,
+        "date_posted": 1785748596,
+        "url": "https://jobs.bytedance.com/en/position/7667976924430633269/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "e568e4b0-521c-46fd-9755-b2d6ee6b85f3",
+        "title": "Backend Software Engineer Graduate - Platform",
+        "active": true,
+        "date_updated": 1785748681,
+        "date_posted": 1785748598,
+        "url": "https://jobs.bytedance.com/en/position/7667269919588321541/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "d7b7af97-f9b0-4faf-84d3-6c33874a3f86",
+        "title": "Software Engineer New Grad - Traffic Infrastructure",
+        "active": true,
+        "date_updated": 1785748910,
+        "date_posted": 1785748599,
+        "url": "https://jobs.bytedance.com/en/position/7665849950984194309/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "8cad0fcf-e891-4637-91ed-259c291121f3",
+        "title": "Software Engineer New Grad - AI Infrastructure-Compute Efficiency & Scheduling",
+        "active": true,
+        "date_updated": 1785748906,
+        "date_posted": 1785748605,
+        "url": "https://jobs.bytedance.com/en/position/7668799020705679669/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "eeae9e48-e67c-41d3-9962-8fc290fdc2a8",
+        "title": "Computer Vision Research Engineer Graduate",
+        "active": true,
+        "date_updated": 1785748891,
+        "date_posted": 1785748596,
+        "url": "https://jobs.bytedance.com/en/position/7668433722454935861/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "b2ed4463-96d0-44cd-b1c5-604bcce870ad",
+        "title": "Research Scientist New Grad - Distributed NoSQL Database Systems",
+        "active": true,
+        "date_updated": 1785748888,
+        "date_posted": 1785748595,
+        "url": "https://jobs.bytedance.com/en/position/7668365143156721973/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "b88a3852-64cb-44cf-ad65-71ede8a595e4",
+        "title": "Research Scientist New Grad - Infrastructure System Lab",
+        "active": true,
+        "date_updated": 1785748880,
+        "date_posted": 1785748598,
+        "url": "https://jobs.bytedance.com/en/position/7665108869591140613/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "85fa984a-bc83-4a85-867c-8fec70ac00f1",
+        "title": "Research Scientist New Grad - Multi-modal Agentic Databases",
+        "active": true,
+        "date_updated": 1785748881,
+        "date_posted": 1785748599,
+        "url": "https://jobs.bytedance.com/en/position/7665104241446652213/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "566a98e3-cad9-4eb0-b7a7-ee9879c926e5",
+        "title": "Software Engineer Graduate - AI Infrastructure - Compute Efficiency & Scheduling",
+        "active": true,
+        "date_updated": 1785748681,
+        "date_posted": 1785748594,
+        "url": "https://jobs.bytedance.com/en/position/7668799019359357237/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "1b859931-1544-478a-bc10-f4d7d0521089",
+        "title": "Software Engineer Graduate - AI Infrastructure Compute",
+        "active": true,
+        "date_updated": 1785748681,
+        "date_posted": 1785748598,
+        "url": "https://jobs.bytedance.com/en/position/7667334059728341253/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "369c0634-aaf9-46d8-b511-63b4e92cba0a",
+        "title": "Research Scientist New Grad - Computational Imaging",
+        "active": true,
+        "date_updated": 1785748878,
+        "date_posted": 1785748599,
+        "url": "https://jobs.bytedance.com/en/position/7665836153219959093/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "4ae93ef5-d293-43c9-8bb7-53f4c2e97749",
+        "title": "Software Engineer New Grad - AI Infra Compute",
+        "active": true,
+        "date_updated": 1785748875,
+        "date_posted": 1785748598,
+        "url": "https://jobs.bytedance.com/en/position/7667303429264115973/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "3b526ad3-6e20-4a4a-8cba-275f04112f47",
+        "title": "Research Scientist Graduate - AI Infra Compute",
+        "active": true,
+        "date_updated": 1785748681,
+        "date_posted": 1785748597,
+        "url": "https://jobs.bytedance.com/en/position/7667334521286035765/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "c1f8fe81-6b8b-4d12-b133-c8b19cbe336d",
+        "title": "Artificial Intelligence Software Engineer - Development Infrastructure",
+        "active": true,
+        "date_updated": 1785748872,
+        "date_posted": 1785748596,
+        "url": "https://jobs.bytedance.com/en/position/7667901772678302005/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "7ffeb3ff-36cb-4a84-be96-de9c169871f8",
+        "title": "Backend Software Engineer Graduate - Platform",
+        "active": true,
+        "date_updated": 1785748681,
+        "date_posted": 1785748597,
+        "url": "https://jobs.bytedance.com/en/position/7667267464923171077/detail",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "89cf07d7-dea8-45c0-bd63-f03870bf2088",
+        "title": "Backend and Infrastructure Software Engineer New Grad - Dev Infra",
+        "active": true,
+        "date_updated": 1785748871,
+        "date_posted": 1785748596,
+        "url": "https://jobs.bytedance.com/en/position/7667894766036322565/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "7c78b644-a242-4bdb-b125-4624e558f892",
+        "title": "Research Graduate - AI Infra Compute",
+        "active": true,
+        "date_updated": 1785748681,
+        "date_posted": 1785748597,
+        "url": "https://jobs.bytedance.com/en/position/7667304540048787765/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "03ff98d0-9bb1-4b91-a11f-1ed8b3777519",
+        "title": "Test Software Engineer Graduate - Research and Development Middle Platform",
+        "active": true,
+        "date_updated": 1785748681,
+        "date_posted": 1785748599,
+        "url": "https://jobs.bytedance.com/en/position/7664894974764828981/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "191c8efe-2180-4233-88f6-7be916d9f4cf",
+        "title": "Research Scientist New Grad - AI for Infrastructure",
+        "active": true,
+        "date_updated": 1785748865,
+        "date_posted": 1785748599,
+        "url": "https://jobs.bytedance.com/en/position/7667291055662811445/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "eb8b9ba6-d180-4ed1-9bcc-b814710b5758",
+        "title": "Research Scientist Graduate - Distributed NoSQL Database Systems",
+        "active": true,
+        "date_updated": 1785748681,
+        "date_posted": 1785748596,
+        "url": "https://jobs.bytedance.com/en/position/7668365756950137141/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "McGill St Laurent",
+        "id": "2a331c9f-173e-4872-adff-409655fc1097",
+        "title": "Sales & Trading Analyst - Carbon Derivatives",
+        "active": true,
+        "date_updated": 1785747429,
+        "date_posted": 1785737516,
+        "url": "https://mcgillstlaurentb8.applytojob.com/apply/RsDWUtPDnx/Sales-Trading-Analyst-Carbon-Derivatives",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/e63b3590-66b6-4bcf-9beb-5f23191fb348",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
