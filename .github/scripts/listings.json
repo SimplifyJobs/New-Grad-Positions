@@ -20387,24 +20387,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "f8a9e971-75d1-4426-9f0f-ba82b37124e4",
-        "title": "Dimension Control Technician Level",
-        "active": false,
-        "date_updated": 1765003326,
-        "date_posted": 1765003326,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/Dimension-Control-Technician-Level-2-3_R10216375",
-        "locations": [
-            "Hackleburg, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "The Boeing Company",
         "id": "3616f8b2-17da-4478-b31d-35503346b871",
         "title": "Systems Engineer",
@@ -263193,7 +263175,7 @@
         "company_name": "TikTok",
         "id": "98d9b4b0-6fc1-4d5a-bc87-f9fa53c75a5c",
         "title": "Data Scientist Graduate - TikTok Shop DS",
-        "active": true,
+        "active": false,
         "date_updated": 1773093233,
         "date_posted": 1773093233,
         "url": "https://lifeattiktok.com/search/7535381998677739784",
@@ -269360,7 +269342,7 @@
         "company_name": "TikTok",
         "id": "cba3f10a-54b4-46e8-b274-6000b2fccc5a",
         "title": "Machine Learning Engineer Graduate - TikTok Recommendation",
-        "active": true,
+        "active": false,
         "date_updated": 1781505006,
         "date_posted": 1781503935,
         "url": "https://lifeattiktok.com/search/7518139910798215442",
@@ -310563,7 +310545,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -343607,7 +343589,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
@@ -354418,6 +354400,1086 @@
             "Fort Wayne, IN"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Validity",
+        "id": "a479ff94-1a7a-4fd1-86d9-36386d78ef32",
+        "title": "Full Stack AI Software Engineer",
+        "active": true,
+        "date_updated": 1785740175,
+        "date_posted": 1785737969,
+        "url": "https://validity.applytojob.com/apply/BmbSlUDxj6/Full-Stack-AI-Software-Engineer-I",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/d8397d7b-eb89-46e8-85e2-e229fcd506df",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amsive",
+        "id": "8a481e6a-db2a-4dc1-9a20-f2b9ee132929",
+        "title": "Programmer",
+        "active": true,
+        "date_updated": 1785739323,
+        "date_posted": 1785737969,
+        "url": "https://amsive.applytojob.com/apply/OiAV4aB3HJ/Programmer",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/2c10aac2-0639-4398-a97b-2ed2e8b02eb5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stellar Science",
+        "id": "8164a1a2-c8ee-4c4f-b296-1c29817a193e",
+        "title": "Emerging Modern C++ Software Developer",
+        "active": true,
+        "date_updated": 1785739323,
+        "date_posted": 1785737947,
+        "url": "https://stellarscience.applytojob.com/apply/7gp90TxJAT/Emerging-Modern-C-Software-Developer-ABQ",
+        "locations": [
+            "Tysons, VA",
+            "Albuquerque, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/a11ea02e-ee6c-48f0-8168-d5b94e36bcec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Southern States, LLC",
+        "id": "61d8dbf2-2c1b-470c-bef4-1a13de37e583",
+        "title": "Designer 1 - Application Engineering",
+        "active": true,
+        "date_updated": 1785740028,
+        "date_posted": 1785737937,
+        "url": "https://southernstatesllc.applytojob.com/apply/yENuBBzHLr/Designer-I-Application-Engineering",
+        "locations": [
+            "Hampton, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/79cecfd5-09ee-419a-a1c6-83f25d94163a",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Axtria",
+        "id": "12bbec21-b70d-44c9-886d-d69d31f25a1a",
+        "title": "Decision Intelligence Associate",
+        "active": true,
+        "date_updated": 1785739950,
+        "date_posted": 1785737915,
+        "url": "https://axtriainc.applytojob.com/apply/Yl93oH0UNw/Early-Career-Associate-Thousand-Oaks-CA",
+        "locations": [
+            "Thousand Oaks, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/83c63f62-a157-4573-864c-3ee926455984",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HarmonyTech",
+        "id": "c8522e95-f6e1-419a-b503-80a942a4ce72",
+        "title": "Junior Software Developer - .NET",
+        "active": true,
+        "date_updated": 1785739323,
+        "date_posted": 1785737885,
+        "url": "https://harmonytech.applytojob.com/apply/uhDb8hMR9P/Junior-Software-Developer-NET",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/69a5d24e-a598-4a3b-9b70-09bff1aedc78",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ITC Defense Corp.",
+        "id": "8099b035-680b-404a-b74f-bd92b979b063",
+        "title": "Software Developer - .NET/C# - NAVSUP Programs",
+        "active": true,
+        "date_updated": 1785739323,
+        "date_posted": 1785737839,
+        "url": "https://itcdefense.applytojob.com/apply/Zlhmseroea/Software-Developer-NETC-NAVSUP-Programs",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/0117b254-c9d7-42fc-9663-3643f6bba7df",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booker DiMaio, LLC",
+        "id": "05bd45cb-da24-4b7e-8939-30ee09ff4c4f",
+        "title": "Full Stack Java Developer",
+        "active": true,
+        "date_updated": 1785739657,
+        "date_posted": 1785737841,
+        "url": "https://bookerdimaio.applytojob.com/apply/jPoQXED5J3/Full-Stack-Java-Developer-With-TSSCI-Clearance-Full-Scope-PolygraphOnsite-In-Annapolis-Jct-MD",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/8c933a95-dbac-45e1-94a7-6a20147d6ffb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EAi Technologies",
+        "id": "fa5f9365-4100-48b9-a209-20b0abd1211d",
+        "title": "Physics/Math Graduate Software Developer",
+        "active": true,
+        "date_updated": 1785739586,
+        "date_posted": 1785737816,
+        "url": "https://eaiti.applytojob.com/apply/04bnB7a43f/PhysicsMath-Graduate-Entry-Level-Software-Developer",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/b8898efd-695b-43b7-8bda-03e510c614d7",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "METECS",
+        "id": "1661ac6f-3138-4aac-8219-cd2fefdde9f7",
+        "title": "Simulation Software Engineer",
+        "active": true,
+        "date_updated": 1785739588,
+        "date_posted": 1785737820,
+        "url": "https://metecs.applytojob.com/apply/WykvenszhG/Junior-Simulation-Software-Engineer",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/METECS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Analytica",
+        "id": "147cf476-9156-4387-9b97-bca152ce1461",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1785739323,
+        "date_posted": 1785737826,
+        "url": "https://analyticallc.applytojob.com/apply/3QMztCSYzt/Data-Engineer",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/9dc22714-d347-4eb5-91bb-f99f1de42568",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EAi Technologies",
+        "id": "682f9b47-5081-4f77-85e3-da6ba3076369",
+        "title": "Entry Level Software Developer",
+        "active": true,
+        "date_updated": 1785739323,
+        "date_posted": 1785737816,
+        "url": "https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/b8898efd-695b-43b7-8bda-03e510c614d7",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EAi Technologies",
+        "id": "165def57-d2b8-4820-944f-203575dd7b00",
+        "title": "Entry Level .NET Software Developer",
+        "active": true,
+        "date_updated": 1785739323,
+        "date_posted": 1785737816,
+        "url": "https://eaiti.applytojob.com/apply/9RStfnAuq4/Entry-Level-NET-Software-Developer",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/b8898efd-695b-43b7-8bda-03e510c614d7",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Xcellent Technology Solutions",
+        "id": "e9ad7bd0-9547-45c3-a80f-b82b07082183",
+        "title": "GIS Specialist",
+        "active": true,
+        "date_updated": 1785739562,
+        "date_posted": 1785737810,
+        "url": "https://xtscareers.applytojob.com/apply/zXuVgWExgU/GIS-Specialist-Entry-Level",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/8cef3037-4d3d-4409-8d44-1f8cc1d2dfa7",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ludlum Measurement, Inc (VPI Technology, ADIT, Eljen, WTM, Protean Instr)",
+        "id": "74cd9509-accc-467b-8bda-e05f70b0b588",
+        "title": "Calibrator",
+        "active": true,
+        "date_updated": 1785738601,
+        "date_posted": 1785737786,
+        "url": "https://vpitechnology.applytojob.com/apply/h864JPWnOQ/Calibrator",
+        "locations": [
+            "Sweetwater, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/6e792106-fb79-4c95-bb6f-855574f11aaf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Advyzon",
+        "id": "378bbb07-4e77-4d88-9d21-bce19067b54c",
+        "title": "Associate Trader",
+        "active": true,
+        "date_updated": 1785738601,
+        "date_posted": 1785737775,
+        "url": "https://advyzon.applytojob.com/apply/IMj5H8Fa0v/Associate-Trader",
+        "locations": [
+            "Lisle, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/b98a5fca-0699-4922-9512-ceb308302dcc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Circuit Board Medics",
+        "id": "a043e248-43c4-43f1-b7d7-ce01baf1b7d2",
+        "title": "Electronics Technician",
+        "active": true,
+        "date_updated": 1785738601,
+        "date_posted": 1785737745,
+        "url": "https://circuitboardmedics.applytojob.com/apply/XwoumTc3XN/Electronics-Technician",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/4dd912b7-847c-4c7d-8abe-a67644a731ef",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "79b491ab-bce0-4dfc-8c6b-bf158961339b",
+        "title": "Design Engineering Graduate",
+        "active": true,
+        "date_updated": 1785738601,
+        "date_posted": 1785737705,
+        "url": "https://lifeattiktok.com/search/7667837906192877829",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "492953a8-9863-41ff-b149-9e8fa3081af9",
+        "title": "Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration",
+        "active": true,
+        "date_updated": 1785739209,
+        "date_posted": 1785737699,
+        "url": "https://lifeattiktok.com/search/7668701834807101749",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Set of X",
+        "id": "17be086b-1987-4060-8151-25af9f96e55f",
+        "title": "Software Engineer 0",
+        "active": true,
+        "date_updated": 1785738601,
+        "date_posted": 1785737717,
+        "url": "https://setofx.applytojob.com/apply/slG3BGozXj/Software-Engineer-0",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/c3355b2d-4e4f-4055-b593-9c2cc320d6f0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "f9add744-8aa3-4ddc-ac2b-b7469ddaf7d5",
+        "title": "Backend Software Engineer Graduate - Risk & Response",
+        "active": true,
+        "date_updated": 1785738601,
+        "date_posted": 1785737712,
+        "url": "https://lifeattiktok.com/search/7663032057264244997",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "e4f90f60-0ef3-4d02-97a2-ee3aa0c21d26",
+        "title": "Machine Learning Engineer Graduate",
+        "active": true,
+        "date_updated": 1785738601,
+        "date_posted": 1785737710,
+        "url": "https://lifeattiktok.com/search/7665797203155896581",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "de1b7df6-c4f8-41ea-bdff-5598ed16df6d",
+        "title": "Backend Software Engineer New Grad - Trust & Safety",
+        "active": true,
+        "date_updated": 1785739185,
+        "date_posted": 1785737710,
+        "url": "https://lifeattiktok.com/search/7665994926887291189",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "d8f41f3f-586c-4f20-8868-e9832e690e61",
+        "title": "Machine Learning Engineer New Grad - Search Quality",
+        "active": true,
+        "date_updated": 1785739173,
+        "date_posted": 1785737709,
+        "url": "https://lifeattiktok.com/search/7665793152026740997",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "d6849abb-e865-4cce-a9b9-a23021fc49f7",
+        "title": "Software Engineer New Grad - Ads Measurement Signal Technology",
+        "active": true,
+        "date_updated": 1785739200,
+        "date_posted": 1785737698,
+        "url": "https://lifeattiktok.com/search/7668717356843977013",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "bf2f405c-0408-4c38-9e0c-74452b23f46e",
+        "title": "Machine Learning Engineer Graduate",
+        "active": true,
+        "date_updated": 1785738601,
+        "date_posted": 1785737709,
+        "url": "https://lifeattiktok.com/search/7667344113001384197",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "9fc08ecc-c555-4f84-aeef-984cfa3686f1",
+        "title": "Backend Software Engineer - Machine Moderation Platform",
+        "active": true,
+        "date_updated": 1785739179,
+        "date_posted": 1785737711,
+        "url": "https://lifeattiktok.com/search/7663036950303050037",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "78f040d4-9950-46c8-93de-a0a189144450",
+        "title": "Machine Learning Engineer New Grad - Data Search Visual Search",
+        "active": true,
+        "date_updated": 1785739171,
+        "date_posted": 1785737708,
+        "url": "https://lifeattiktok.com/search/7667349591747758341",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "5ae7b62f-063f-4d13-b197-9798beafa475",
+        "title": "Backend Software Engineer New Grad - Emerging Products & AI Safety",
+        "active": true,
+        "date_updated": 1785739176,
+        "date_posted": 1785737710,
+        "url": "https://lifeattiktok.com/search/7663036952090347829",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "50d9a250-7c25-4fe5-861d-0c8ad7f9299a",
+        "title": "Backend Software Engineer New Grad - Feed Safety",
+        "active": true,
+        "date_updated": 1785739181,
+        "date_posted": 1785737711,
+        "url": "https://lifeattiktok.com/search/7663028952600807733",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "3bf4faa5-c7e0-48ae-bb7e-3da108f4ae3d",
+        "title": "Backend Software Engineer New Grad - Trust & Safety",
+        "active": true,
+        "date_updated": 1785739175,
+        "date_posted": 1785737710,
+        "url": "https://lifeattiktok.com/search/7664533229944178949",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "1d7d6985-791b-4b60-be34-7ca3806aacba",
+        "title": "Backend Software Engineer Graduate - Business Governance",
+        "active": true,
+        "date_updated": 1785738601,
+        "date_posted": 1785737711,
+        "url": "https://lifeattiktok.com/search/7663042453461600517",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "14c4e2a5-5770-4049-a3a3-c771ff4b31f4",
+        "title": "Product Owner Graduate - TikTok Local Services",
+        "active": true,
+        "date_updated": 1785739171,
+        "date_posted": 1785737707,
+        "url": "https://lifeattiktok.com/search/7667573398700165429",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "d0810d61-6cb0-4d20-af9e-d0029df899fa",
+        "title": "Content Product New Grad - TikTok Local Services",
+        "active": true,
+        "date_updated": 1785739170,
+        "date_posted": 1785737707,
+        "url": "https://lifeattiktok.com/search/7667573235673073925",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "06426b56-1656-40d9-af47-7df0807a5b02",
+        "title": "Machine Learning Engineer Graduate - Data Search Basic Ranking",
+        "active": true,
+        "date_updated": 1785738601,
+        "date_posted": 1785737708,
+        "url": "https://lifeattiktok.com/search/7667344111675246901",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "7e9606aa-9929-4fef-ac09-5b2a857dca9c",
+        "title": "Machine Learning Engineer Graduate",
+        "active": true,
+        "date_updated": 1785738601,
+        "date_posted": 1785737707,
+        "url": "https://lifeattiktok.com/search/7667346543553710389",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "18aa6242-cd69-4aa2-999b-e8a7f5daa34f",
+        "title": "Machine Learning Engineer New Grad - Data Search - Visual Search",
+        "active": true,
+        "date_updated": 1785739163,
+        "date_posted": 1785737707,
+        "url": "https://lifeattiktok.com/search/7667346535273007413",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "dfb14959-39c2-4aaa-8ea0-a7f75c6dd02e",
+        "title": "Software Engineer New Grad - Quality and Efficiency Technology",
+        "active": true,
+        "date_updated": 1785739137,
+        "date_posted": 1785737699,
+        "url": "https://lifeattiktok.com/search/7668680253677504821",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "db70cc78-6903-4f3e-98df-d5eef1dabd84",
+        "title": "Machine Learning Engineer New Grad - Data-Global E-Commerce-Search",
+        "active": true,
+        "date_updated": 1785739137,
+        "date_posted": 1785737702,
+        "url": "https://lifeattiktok.com/search/7668389759463393589",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "cdbfa910-357e-4c17-bf09-f7bb3cd80d34",
+        "title": "Research Scientist/Engineer \u2013 Neural Graphics and World Models Graduate - Engine & Tools",
+        "active": true,
+        "date_updated": 1785738601,
+        "date_posted": 1785737698,
+        "url": "https://lifeattiktok.com/search/7668831188103481605",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "b027e384-ef72-4db9-8ff3-c63ea36f4583",
+        "title": "Machine Learning Engineer New Grad",
+        "active": true,
+        "date_updated": 1785739136,
+        "date_posted": 1785737702,
+        "url": "https://lifeattiktok.com/search/7668376903708281141",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "74e63cee-7e63-4b47-9dcd-f6b3b72a68f7",
+        "title": "Machine Learning Engineer Graduate - Ads Delivery",
+        "active": true,
+        "date_updated": 1785738601,
+        "date_posted": 1785737700,
+        "url": "https://lifeattiktok.com/search/7668660365135808821",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "972a395a-4b76-444b-8f8a-9ce1e1a55d22",
+        "title": "Machine Learning Engineer Graduate - Monetization Technology - Ads Core Global",
+        "active": true,
+        "date_updated": 1785738601,
+        "date_posted": 1785737700,
+        "url": "https://lifeattiktok.com/search/7668592348941273349",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "93395aed-f45b-4289-ad27-7ae05d2558c0",
+        "title": "Machine Learning Engineer Graduate - Monetization Technology - Ads Core Global",
+        "active": true,
+        "date_updated": 1785738601,
+        "date_posted": 1785737699,
+        "url": "https://lifeattiktok.com/search/7668675484492597557",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "7656aad8-a423-4e16-bb7e-5b487532457f",
+        "title": "Software Engineer New Grad - Ads Signal & Measurement",
+        "active": true,
+        "date_updated": 1785739129,
+        "date_posted": 1785737698,
+        "url": "https://lifeattiktok.com/search/7668724383120804149",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "2e854092-b1ff-4691-a581-23d94da76a5b",
+        "title": "Machine Learning Engineer Graduate - Brand Ads",
+        "active": true,
+        "date_updated": 1785738601,
+        "date_posted": 1785737699,
+        "url": "https://lifeattiktok.com/search/7668698260232702261",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "234d00c7-54f5-4ec4-b8c2-ad6ae52fd01e",
+        "title": "Machine Learning Engineer Graduate - Ads Targeting",
+        "active": true,
+        "date_updated": 1785738601,
+        "date_posted": 1785737699,
+        "url": "https://lifeattiktok.com/search/7668629846058223877",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "0327292f-07c4-467b-83c8-867fbee19266",
+        "title": "Software Engineer New Grad - Business Integrity",
+        "active": true,
+        "date_updated": 1785739131,
+        "date_posted": 1785737700,
+        "url": "https://lifeattiktok.com/search/7668592494649690421",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "6908222c-e936-4f53-9279-78f6f59e507d",
+        "title": "Software Engineer Graduate - MLOps",
+        "active": true,
+        "date_updated": 1785738601,
+        "date_posted": 1785737699,
+        "url": "https://lifeattiktok.com/search/7668700671828707589",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "5ec4eb06-b685-4987-acef-eb1358008f6b",
+        "title": "Software Engineer Graduate - Ads Delivery",
+        "active": true,
+        "date_updated": 1785738601,
+        "date_posted": 1785737699,
+        "url": "https://lifeattiktok.com/search/7668662545059023157",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "5352619a-3d75-4bd9-b7af-098751f77cad",
+        "title": "Machine Learning Engineer New Grad - E-Commerce Search",
+        "active": true,
+        "date_updated": 1785739136,
+        "date_posted": 1785737701,
+        "url": "https://lifeattiktok.com/search/7668390999147776309",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "2e5c1d58-b0ed-49e8-9544-80f758fb517a",
+        "title": "Machine Learning Engineer Graduate - Ads Creative",
+        "active": true,
+        "date_updated": 1785738601,
+        "date_posted": 1785737699,
+        "url": "https://lifeattiktok.com/search/7668669015051405573",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flyspace Productions LLC",
+        "id": "e3c1d79e-0ea5-48d6-bce9-ff1faba319e3",
+        "title": "Video 2 Technician",
+        "active": true,
+        "date_updated": 1785739072,
+        "date_posted": 1785737659,
+        "url": "https://flyspaceprod.applytojob.com/apply/oMfFMT5p1m/V2-Technician",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/4d9342ed-0fc4-4395-8a12-ad2a57cbb6e6",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
