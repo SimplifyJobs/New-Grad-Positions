@@ -37,44 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ASM International",
-        "id": "08b790c3-b1ed-4ca8-ac18-4e3fe1927f47",
-        "title": "Software Engineer \u2013 Early Career - Spring 2026",
-        "active": false,
-        "date_updated": 1764987195,
-        "date_posted": 1764987195,
-        "url": "https://www.asm.com/open-vacancies/?gh_jid=4677615101",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/ASM-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nexthop.ai",
-        "id": "36340c4d-5f81-4c62-876c-3159e88b62c3",
-        "title": "Software Engineer New Grad",
-        "active": false,
-        "date_updated": 1764986957,
-        "date_posted": 1764986957,
-        "url": "https://nexthopai.bamboohr.com/careers/62/",
-        "locations": [
-            "Burnaby, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nexthopai",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Applied Materials",
         "id": "818ef91d-9069-4607-b7c1-bbccfb14b6a5",
@@ -354318,6 +354280,26 @@
             "Chantilly, VA"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walgreens",
+        "id": "59d36e2a-3413-468e-a72e-8c350b5dad94",
+        "title": "Software Engineer 1 - Java",
+        "active": true,
+        "date_updated": 1785723375,
+        "date_posted": 1785722615,
+        "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1855141",
+        "locations": [
+            "Deerfield, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Walgreens",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
