@@ -37,25 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0d3eac40-8a94-4556-b1c6-e4f84688dc0d",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1765053095,
-        "date_posted": 1765053095,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042186",
-        "locations": [
-            "Edinburgh, UK",
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Applied Materials",
         "id": "47fc687b-6741-4fa8-9a46-447a520ded58",
