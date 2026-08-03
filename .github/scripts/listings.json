@@ -140264,7 +140264,7 @@
         "company_name": "PingWind",
         "id": "bc31c6d4-144c-4b06-a3c8-46e2334e35a7",
         "title": "BI Dashboard Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773872184,
         "date_posted": 1773872184,
         "url": "https://jobs.lever.co/pingwind/c75277f4-3030-4c48-a155-fc45726a52ee/apply",
@@ -238729,7 +238729,7 @@
         "company_name": "The Federal Reserve System",
         "id": "d05c2b68-917e-4f4e-a813-a4ce97be4c5b",
         "title": "Senior Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1779875512,
         "date_posted": 1779528352,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Philadelphia-PA/Research-Assistant-Sr-Research-Assistant_R-0000030430",
@@ -244890,7 +244890,7 @@
         "company_name": "University of Arkansas",
         "id": "b9bcf351-5da5-411a-9194-d85ff25786a8",
         "title": "Graduate Assistant - Information Science",
-        "active": true,
+        "active": false,
         "date_updated": 1779961464,
         "date_posted": 1779527543,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/Graduate-Assistant---Information-Science_R0062021",
@@ -307385,7 +307385,7 @@
         "company_name": "Viridien",
         "id": "dc805aeb-d84a-48fc-a4e3-5b3fb59db09c",
         "title": "Instrumentation & Monitoring Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1783778285,
         "date_posted": 1783641600,
         "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/New-York-United-States-of-America/Instrumentation---Monitoring-Technician--Baltimore-Washington--DC-_JR101389-2",
@@ -346579,7 +346579,7 @@
         "company_name": "BP",
         "id": "ad30a281-d114-4faa-9791-373a3fa5be68",
         "title": "Environmental Engineer Low Carbon",
-        "active": true,
+        "active": false,
         "date_updated": 1785450072,
         "date_posted": 1785369600,
         "url": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-States-of-America---Colorado---Denver/Environmental-Engineer_RQ113835",
@@ -356660,6 +356660,27 @@
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1---Central-IL_R4043624-2",
         "locations": [
             "Central Illinois, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "8e3cd62e-83f6-4692-ad10-d6cd75f04139",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1785760993,
+        "date_posted": 1785456000,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4044396",
+        "locations": [
+            "Dallas-Fort Worth Metropolitan Area, TX"
         ],
         "company_url": "https://simplify.jobs/c/GE-Healthcare",
         "is_visible": true,
