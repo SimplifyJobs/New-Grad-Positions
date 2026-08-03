@@ -142707,7 +142707,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -142727,7 +142727,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -230904,7 +230904,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -248026,7 +248026,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -248506,7 +248506,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -318769,7 +318769,7 @@
         "company_name": "Primetals Technologies",
         "id": "5b9a3bf3-98a4-4993-9d9b-54fcaca9802a",
         "title": "Operations Specialist - Monitoring Center",
-        "active": false,
+        "active": true,
         "date_updated": 1784537500,
         "date_posted": 1784153421,
         "url": "https://mhicareers.com/job/Orlando-Operations-Specialist,-Monitoring-Center-FL-32809/1415503233/?ats=successfactors",
@@ -330857,7 +330857,7 @@
         "company_name": "Busek",
         "id": "6d2e947c-c257-4536-9690-f3d6e22371f5",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784788110,
         "date_posted": 1784787204,
         "url": "https://busek.applytojob.com/apply/lwufjJR4I4/Data-Analyst",
@@ -330897,7 +330897,7 @@
         "company_name": "CrackaJack Digital Solutions LLC",
         "id": "511d9576-3972-49cf-a949-a84c117895f1",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1784788066,
         "date_posted": 1784787181,
         "url": "https://crackajackdigitalsolutionsllc.applytojob.com/apply/KpZktL66FY/Software-Developer-Multiple-Openings",
@@ -331053,7 +331053,7 @@
         "company_name": "WME Express",
         "id": "509444c8-4bb2-4288-a37f-73d890160eed",
         "title": "Video Data Capture Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1784789171,
         "date_posted": 1784787572,
         "url": "https://wmeexpress.applytojob.com/apply/Ezjwk7IKyx/Vehicle-Field-Data-Collection-Technician",
@@ -331189,7 +331189,7 @@
         "company_name": "Digital Foundry, Inc.",
         "id": "58675663-1619-413f-b473-3a52d0da40bb",
         "title": "Software Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1784788219,
         "date_posted": 1784787250,
         "url": "https://digitalfoundry.applytojob.com/apply/AImbCdvOV4/Software-Engineer-Associate",
@@ -331356,7 +331356,7 @@
         "company_name": "Sunbird Software Inc.",
         "id": "5ffc89cf-42df-49a7-bd5c-59a9a9d50f7c",
         "title": "Software Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784791549,
         "date_posted": 1784788205,
         "url": "https://sunbirdsoftwareinc.applytojob.com/apply/YEyTkwbnWT/Software-Support-Engineer",
@@ -331377,7 +331377,7 @@
         "company_name": "Pegatron Technologies LLC",
         "id": "4f97919a-e2f3-42e7-a1e7-6b964079b369",
         "title": "Electronic Engineer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1784791323,
         "date_posted": 1784787714,
         "url": "https://pegatrontechnologiesllc.applytojob.com/apply/Kz0NqBOqy0/Electronic-Engineer",
@@ -331418,7 +331418,7 @@
         "company_name": "Ponca City Development Authority",
         "id": "3f58a799-897f-4638-ad3e-aeeec9ddcea8",
         "title": "Lab Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784791015,
         "date_posted": 1784788123,
         "url": "https://poncaworks.applytojob.com/apply/p30S8cjBIG/Lab-Technician",
@@ -331476,7 +331476,7 @@
         "company_name": "AtomTech Inc.",
         "id": "4b95aaff-dff0-4304-8d95-74f9709a2146",
         "title": "Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784790179,
         "date_posted": 1784787866,
         "url": "https://atomdesignservicesllc.applytojob.com/apply/ZDWb4OCmES/Service-Technician",
@@ -331512,7 +331512,7 @@
         "company_name": "The Archetype Strategy",
         "id": "68c4dd88-c8d3-4396-b1e3-e303dc3177c4",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784790096,
         "date_posted": 1784787359,
         "url": "https://archetypestrategy.applytojob.com/apply/zlLqwP22fD/Datacenter-Technician",
@@ -339649,7 +339649,7 @@
         "company_name": "RTX",
         "id": "c29f5fe7-d092-4635-aa51-5160b768cd11",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785163978,
         "date_posted": 1785110400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site-_01860803",
@@ -343912,7 +343912,7 @@
         "company_name": "Fidelity Investments",
         "id": "405b9ad2-32a7-4811-9fc5-d6d4c4992b8c",
         "title": "Leap Systems Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1785318231,
         "date_posted": 1783029971,
         "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Systems-Analyst_2132117",
@@ -345335,7 +345335,7 @@
         "company_name": "Charles Schwab",
         "id": "7f3bad1a-4bcb-4ea0-a626-5c2e1358b0d8",
         "title": "Trading Operations Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1785363482,
         "date_posted": 1785363012,
         "url": "https://career-schwab.icims.com/jobs/124553/job?mobile=true&needsRedirect=false",
@@ -356428,6 +356428,166 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/e63b3590-66b6-4bcf-9beb-5f23191fb348",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Maven Securities",
+        "id": "107894e4-62fe-4224-9de7-48fddd445c6c",
+        "title": "Quantitative Researcher New Grad",
+        "active": true,
+        "date_updated": 1785749957,
+        "date_posted": 1785749241,
+        "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8048830",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Maven Securities",
+        "id": "830d601a-f246-424f-8b08-23956510de08",
+        "title": "Developer New Grad",
+        "active": true,
+        "date_updated": 1785749956,
+        "date_posted": 1785749241,
+        "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8048802",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "1d8ef6ff-9176-44e2-bc80-a46b75516ff9",
+        "title": "Machine Learning Engineer Graduate - Ads Creative",
+        "active": true,
+        "date_updated": 1785749042,
+        "date_posted": 1785748882,
+        "url": "https://lifeattiktok.com/search/7668681119759616309",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PureFacts Financial Solutions",
+        "id": "44f16e23-7fb5-499d-9635-1f61b6ef7662",
+        "title": "Lead Data Engineer",
+        "active": true,
+        "date_updated": 1785749642,
+        "date_posted": 1785277253,
+        "url": "https://ats.rippling.com/purefacts_jobs/jobs/139cf84b-50cd-48b6-8202-bc2a6a55abe2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/a41fe9b2-a425-413a-9ae1-9eb62c5770c4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Artera Technologies",
+        "id": "43282669-26b4-424d-a58e-152780651ad6",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1785749402,
+        "date_posted": 1784845360,
+        "url": "https://arteratechnologies.applytojob.com/apply/CrjaEaiAxp/Software-Engineers",
+        "locations": [
+            "Annapolis Junction, MD",
+            "Fort Meade, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/45101013-b9cb-4cd6-97ac-ec48b48a416e",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WebFX",
+        "id": "574e852e-989d-48b9-8021-918f8c60736c",
+        "title": "Junior Business Data Analyst",
+        "active": true,
+        "date_updated": 1785750073,
+        "date_posted": 1784788084,
+        "url": "https://fxcareers.applytojob.com/apply/7BQ85Q56Ap/Jr-Business-Data-Analyst-Top-5-Employer-In-PA",
+        "locations": [
+            "Harrisburg, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/952645e9-bb1d-4691-b9ba-639f5c2c6bec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "CornerStone Partners",
+        "id": "6cd649ed-1841-4c85-a1ae-1f2c5e2d51cb",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1785750662,
+        "date_posted": 1784787438,
+        "url": "https://csptest2025.applytojob.com/apply/aG9Ig6dqgR/Investment-Analyst-2027-Start",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/9187fd37-56b5-4aff-abec-684f54a10add",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Geo Owl",
+        "id": "476e726d-bfa3-4da0-bdb9-b2bd233304dc",
+        "title": "Full Motion Video Analyst - Intelligence Analyst",
+        "active": true,
+        "date_updated": 1785749648,
+        "date_posted": 1784787201,
+        "url": "https://geoowl.applytojob.com/apply/Hte2eg8GXu/EntryLevel-Full-Motion-Video-FMV-Intelligence-Analyst",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/625f0005-141f-4191-89d4-7f86f6446231",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
