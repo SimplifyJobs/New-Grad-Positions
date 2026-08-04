@@ -168926,7 +168926,7 @@
         "company_name": "Pennsylvania State University",
         "id": "511d6f5f-2c89-4282-b5ab-da8d188ff120",
         "title": "Engineering Designer",
-        "active": false,
+        "active": true,
         "date_updated": 1775303196,
         "date_posted": 1775300138,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Designer_REQ_0000076206-2",
@@ -259844,7 +259844,7 @@
         "company_name": "Bose",
         "id": "b9fe86b3-9c62-49fa-8137-0d4b93673399",
         "title": "PCB Solder Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781044607,
         "date_posted": 1781042840,
         "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-NY---Binghamton/Solder-Technician-I_R29023",
@@ -268815,7 +268815,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "aca2cbca-71c0-435f-83b5-d07623be4c1a",
         "title": "ARLIS Artificial Intelligence Research Professional",
-        "active": true,
+        "active": false,
         "date_updated": 1781430742,
         "date_posted": 1781360162,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/ARLIS-Artificial-Intelligence-Research-Professional_JR101775",
@@ -307278,7 +307278,7 @@
         "company_name": "Micron Technology",
         "id": "9e081b4b-dc90-4c5c-8b6f-41f7f8e08c31",
         "title": "New College Grad - Product Yield Enhancement Engineer - High Bandwidth Memory",
-        "active": false,
+        "active": true,
         "date_updated": 1783937451,
         "date_posted": 1782956886,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Yield-Enhancement-Engineer--HBM_JR104804",
@@ -359195,6 +359195,49 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "e7be092f-49c3-429c-a396-1bdbff4a3e79",
+        "title": "Software Engineer - Corporate GenAI",
+        "active": true,
+        "date_updated": 1785843541,
+        "date_posted": 1784764800,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Software-Engineer---Corporate-GenAI_REF085070W",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "a2143740-4000-4433-9bea-36d3ecb4ca95",
+        "title": "Secure Systems Research and Development Engineer",
+        "active": true,
+        "date_updated": 1785843784,
+        "date_posted": 1782955984,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/Secure-Systems-Research-and-Development-Engineer_REQ_0000077943-2",
+        "locations": [
+            "State College, PA",
+            "Annapolis Junction, MD",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
