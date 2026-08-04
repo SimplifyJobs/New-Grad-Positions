@@ -38,24 +38,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "6cca37db-3534-43fc-916d-d725b6e73dfd",
-        "title": "Postdoctoral Appointee - Energy Systems",
-        "active": false,
-        "date_updated": 1765086472,
-        "date_posted": 1765086472,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Energy-Systems_420958",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Truist Bank",
         "id": "cb88afc8-f6d2-4739-917f-2e6ad16b9a64",
         "title": "Business Data Steward - Consumer and Small Business Banking",
@@ -344526,7 +344508,7 @@
         "company_name": "L3Harris Technologies",
         "id": "5d35800b-9fca-4156-9d67-70f8d39e613b",
         "title": "Software Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1785363094,
         "date_posted": 1785362663,
         "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1413760300/?ats=successfactors",
@@ -348391,7 +348373,7 @@
         "company_name": "USAA",
         "id": "770f4386-9081-4ed3-a924-c126e206ba3a",
         "title": "Audit Data Analyst - Staff Auditor II",
-        "active": true,
+        "active": false,
         "date_updated": 1785535932,
         "date_posted": 1785456000,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Charlotte-NC---CENTS/Audit-Data-Analyst---Staff-Auditor-II--Entry-Level-_R0119714",
