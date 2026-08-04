@@ -357927,7 +357927,7 @@
         "company_name": "Spin Master Corp.",
         "id": "f0aeb2a8-4c87-49bb-bcd1-f943ac6cd071",
         "title": "Product Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785798319,
         "date_posted": 1779926400,
         "url": "https://spinmaster.wd3.myworkdayjobs.com/SpinMaster_Careers/job/Los-Angeles/Product-Development-Engineer_R4865",
@@ -359239,5 +359239,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "c864c7db-d0d9-4055-a0b9-080bcf0b2d7f",
+        "title": "Course Support - Rhetoric",
+        "active": true,
+        "date_updated": 1785845777,
+        "date_posted": 1783161762,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/Course-Support---Rhetoric--Open-to-Work-Study-and-Non-Work-Study-_R_00046798",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
