@@ -142267,7 +142267,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -142287,7 +142287,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -212701,7 +212701,7 @@
         "company_name": "Apple",
         "id": "cc07e63b-ac37-458d-83b1-c40ed9af146f",
         "title": "ASIC Design and Integration Engineer \u2013 Silicon Security",
-        "active": false,
+        "active": true,
         "date_updated": 1778078632,
         "date_posted": 1778076753,
         "url": "https://jobs.apple.com/en-us/details/200652710",
@@ -230464,7 +230464,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -247586,7 +247586,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -248066,7 +248066,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -294231,7 +294231,7 @@
         "company_name": "Mintlify",
         "id": "a4ff3019-8218-4bc7-bf68-a9b2cd09edae",
         "title": "Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783031221,
         "date_posted": 1783030251,
         "url": "https://jobs.ashbyhq.com/Mintlify/b9ce48c2-a5f0-4825-982e-f49dcded533c/application",
@@ -308233,7 +308233,7 @@
         "company_name": "Zensar",
         "id": "96809a08-2d02-4599-bb4b-928e75b6d4b5",
         "title": "Java / Kotlin Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783980559,
         "date_posted": 1783980192,
         "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/148095",
@@ -333663,7 +333663,7 @@
         "company_name": "Citi",
         "id": "c8b1494a-3262-4b95-a356-612e9c1e1dd9",
         "title": "Junior Generative AI Application Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1784845081,
         "date_posted": 1784844835,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Junior-Generative-AI-Application-Developer_26962476",
@@ -358168,6 +358168,143 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "e-Careers",
+        "id": "ccd120be-2e26-4630-8f25-52b5259f3e00",
+        "title": "Software Developer Trainee",
+        "active": true,
+        "date_updated": 1785824282,
+        "date_posted": 1785824199,
+        "url": "https://apply.workable.com/ecareers/j/5049C7B338/apply",
+        "locations": [
+            "Glazebury, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/3cbf1146-76cb-4990-bcb3-dfbd25070a72",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Perry Homes",
+        "id": "467851ae-af4e-4819-ae09-1cdbd0290f82",
+        "title": "Data and Reporting Intern",
+        "active": true,
+        "date_updated": 1785824943,
+        "date_posted": 1785824197,
+        "url": "https://apply.workable.com/perryhomes/j/65C2ED2361/apply",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ec1814c1-21bc-4052-8f9b-0a316b7ab645",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Genetec",
+        "id": "c1b49562-5383-4d86-a6bf-70fa57007c01",
+        "title": ".NET Software Developer - Multiple Teams",
+        "active": true,
+        "date_updated": 1785824830,
+        "date_posted": 1785824167,
+        "url": "https://apply.workable.com/genetec-inc/j/145492924C/apply",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/384c9f1f-4336-4a72-b615-0d94e4f48ad1",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Four Seasons",
+        "id": "852930fc-18a5-4109-bc93-5401cf141ad5",
+        "title": "Retail Attendant",
+        "active": true,
+        "date_updated": 1785824533,
+        "date_posted": 1785715200,
+        "url": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Hualalai/Trading-Company---Retail-Attendant---Full-Time_REQ10386926",
+        "locations": [
+            "Kailua-Kona, HI"
+        ],
+        "company_url": "https://simplify.jobs/c/Four-Seasons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SynQor",
+        "id": "8c4b3913-d07d-4778-9227-405aec81c720",
+        "title": "Electrical Product Engineer",
+        "active": true,
+        "date_updated": 1785824282,
+        "date_posted": 1785824082,
+        "url": "https://jobs.jobvite.com/synqor-careers/job/o2EKxfwH?nl=1&nl=1&fr=false",
+        "locations": [
+            "Salem, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/e2f40bbc-18e3-4d17-b1b5-36eaaaa03181",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Franklin Electric",
+        "id": "76cd9256-6eb4-4068-9e07-6f5930966519",
+        "title": "Product Specialist - Energy Systems",
+        "active": true,
+        "date_updated": 1785824282,
+        "date_posted": 1785824043,
+        "url": "https://franklin-electric.pinpointhq.com/en/postings/f3239526-4e5f-4608-bf65-f5d00b83b4bd?ats=pinpointhq",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Franklin-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "d7cdec21-1d63-46c8-8dee-3c6968019ca3",
+        "title": "Software Engineer - Front-end",
+        "active": true,
+        "date_updated": 1785824368,
+        "date_posted": 1785823963,
+        "url": "https://jobs.apple.com/en-us/details/200660851",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
