@@ -38,42 +38,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Intuit",
-        "id": "a2a9d6fe-5030-4062-b351-1ec3f035c64c",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1765064303,
-        "date_posted": 1765064303,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89231681536",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nimble Robotics",
-        "id": "de005e0e-f17e-4527-87e8-09ac69e831c8",
-        "title": "Software Engineer - Robotics",
-        "active": false,
-        "date_updated": 1765063925,
-        "date_posted": 1765063925,
-        "url": "https://jobs.lever.co/NimbleAI/2a9d9e52-9b84-4653-a423-ba62f1ef7f57/apply",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Nimble-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "The Walt Disney Company",
         "id": "190f19cd-f102-44fd-98c7-85f5f2f19403",
         "title": "Software Engineer 1",
@@ -22597,24 +22561,6 @@
         "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Ontario-CA-United-States/Service-Technician-I_REQ-1000044288",
         "locations": [
             "Ontario, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Stanley Black & Decker",
-        "id": "38264953-8f78-4dde-9065-e0b08e751811",
-        "title": "Service Technician 1",
-        "active": false,
-        "date_updated": 1765064338,
-        "date_posted": 1765064338,
-        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Denver-CO-United-States/Service-Technician-I_REQ-1000042994",
-        "locations": [
-            "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
         "is_visible": true,
