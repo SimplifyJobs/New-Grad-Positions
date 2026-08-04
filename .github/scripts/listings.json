@@ -37,26 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Walt Disney Company",
-        "id": "190f19cd-f102-44fd-98c7-85f5f2f19403",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1765079461,
-        "date_posted": 1765079461,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-CA-USA/Software-Engineer-I_10121013",
-        "locations": [
-            "Santa Monica, CA",
-            "Glendale, CA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Argonne National Laboratory",
         "id": "6cca37db-3534-43fc-916d-d725b6e73dfd",
