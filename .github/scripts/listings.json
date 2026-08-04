@@ -42568,7 +42568,7 @@
         "company_name": "RWS",
         "id": "5e7b096b-b37a-4ff2-af4b-1649181356db",
         "title": "AI Data Specialist - Wisconsin - US",
-        "active": false,
+        "active": true,
         "date_updated": 1768864169,
         "date_posted": 1768864169,
         "url": "https://jobs.lever.co/rws/c4f5986d-789a-4a53-972b-957278e844cd/apply",
@@ -91690,7 +91690,7 @@
         "company_name": "NVIDIA",
         "id": "7fb2f96e-3662-4a02-a0c2-e7bbd2663ce9",
         "title": "System Design Engineer \u2013 New College Grad 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1771543465,
         "date_posted": 1771543465,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Design-Engineer---New-College-Grad-2026_JR2011879",
@@ -142157,7 +142157,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -142177,7 +142177,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -189661,7 +189661,7 @@
         "company_name": "Databricks",
         "id": "62f45c67-643d-4e40-9359-294bc5ae7ec5",
         "title": "Staff Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776464462,
         "date_posted": 1770074810,
         "url": "https://boards.greenhouse.io/embed/job_app?token=8401114002",
@@ -226824,7 +226824,7 @@
         "company_name": "Halliburton",
         "id": "3d99af9d-83d1-4c89-bb7b-98590e3a16fa",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779200036,
         "date_posted": 1779199567,
         "url": "https://jobs.halliburton.com/job/Calgary-Software-Engineer-Early-Career-Landmark-AB-T2P-3V4/1392093600/?ats=successfactors",
@@ -237927,7 +237927,7 @@
         "company_name": "The Walt Disney Company",
         "id": "8c64de40-674c-4820-ae34-c4849de7a0a2",
         "title": "Viewer Insights Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779825065,
         "date_posted": 1779529887,
         "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Viewer-Insights-Analyst_10151429",
@@ -247476,7 +247476,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -247956,7 +247956,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -307069,7 +307069,7 @@
         "company_name": "Fujifilm",
         "id": "101ca310-bb14-4bc9-993b-7225e184fccf",
         "title": "Engineering Technician - Level depends on Skills Match",
-        "active": false,
+        "active": true,
         "date_updated": 1783845001,
         "date_posted": 1782914795,
         "url": "https://uscareers-fujifilm.icims.com/jobs/37311/job?mobile=true&needsRedirect=false",
@@ -313830,7 +313830,7 @@
         "company_name": "WSP",
         "id": "8f31dd1a-a62a-483b-9393-78256ee8726c",
         "title": "Transportation Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784193796,
         "date_posted": 1782956037,
         "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90168",
@@ -344683,7 +344683,7 @@
         "company_name": "Everfox",
         "id": "e477c19e-0543-43fc-af92-9a394bca77e5",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1785365182,
         "date_posted": 1785283200,
         "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500749-1",
@@ -359404,6 +359404,381 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Ancestry",
+        "id": "9ec88787-f27d-4307-8f9f-8fa3641458b3",
+        "title": "Associate Technical Product Manager",
+        "active": true,
+        "date_updated": 1785881702,
+        "date_posted": 1785801600,
+        "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Associate-Technical-Product-Manager_R003418",
+        "locations": [
+            "Draper, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Ancestry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Ancestry",
+        "id": "c1512933-dc69-4ee9-a297-0ac95dde5f8f",
+        "title": "Associate Technical Product Manager - Data, AI & Analytics Platforms",
+        "active": true,
+        "date_updated": 1785881702,
+        "date_posted": 1785801600,
+        "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Draper-UT/Associate-Technical-Product-Manager_R003422-1",
+        "locations": [
+            "Draper, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Ancestry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "44333172-8ff8-46c6-8d01-e7bf985a6611",
+        "title": "Microelectronics Packaging Engineer 1",
+        "active": true,
+        "date_updated": 1785882524,
+        "date_posted": 1785801600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-ANDOVER-AR1--358-Lowell-St--AR1-DUKES-BLDG/Microelectronics-Packaging-Engineer-I_01862732",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bowhead",
+        "id": "f69ff1dc-2bc4-4548-871c-639fcfc55ca2",
+        "title": "Electrical/Hardware Engineer",
+        "active": true,
+        "date_updated": 1785881702,
+        "date_posted": 1785881494,
+        "url": "https://bowheadcareers-uicalaska.icims.com/jobs/25876/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "North Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bowhead",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kimley-Horn",
+        "id": "d7db9bcb-09a6-4fff-a393-b83f4c24650a",
+        "title": "Software Analyst",
+        "active": true,
+        "date_updated": 1785881702,
+        "date_posted": 1785881486,
+        "url": "https://careers-kimley-horn.icims.com/jobs/25695/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Peachtree Corners, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kimley-Horn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Brown Brothers Harriman",
+        "id": "cb8efd96-2459-4a2f-aa8f-831952893e1b",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1785881702,
+        "date_posted": 1785801600,
+        "url": "https://bbh.wd5.myworkdayjobs.com/en-US/BBH/job/New-York/Investment-Analyst_72220",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/8daaaedd-ec77-45a3-ab9c-dc153ae865ed",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kimley-Horn",
+        "id": "dce3f078-93bf-4cc2-b767-e6decb79a399",
+        "title": "Software Analyst",
+        "active": true,
+        "date_updated": 1785881702,
+        "date_posted": 1785881486,
+        "url": "https://careers-kimley-horn.icims.com/jobs/25698/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Kimley-Horn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ingram Micro",
+        "id": "db61bea6-a0df-4ed6-80fd-f52b8ec1be81",
+        "title": "Associate Marketing Data Analyst",
+        "active": true,
+        "date_updated": 1785881702,
+        "date_posted": 1785801600,
+        "url": "https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro/job/Irvine-CA-United-States-of-America/Associate-Marketing-Data-Analyst_R-116757",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ingram-Micro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blackberry",
+        "id": "8f56368c-0cca-42de-9b8c-7bb926b102eb",
+        "title": "Systems Software Developer 2 - Middleware",
+        "active": true,
+        "date_updated": 1785882319,
+        "date_posted": 1785801600,
+        "url": "https://bb.wd3.myworkdayjobs.com/blackberry/job/Ottawa-Ontario/QNX-Systems-Software-Developer-II_20260265-1",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackBerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blackberry",
+        "id": "301d19ec-2eb4-48da-ae5e-487daaef2c74",
+        "title": "Systems Software Developer 2 - Middleware",
+        "active": true,
+        "date_updated": 1785882276,
+        "date_posted": 1785801600,
+        "url": "https://bb.wd3.myworkdayjobs.com/QNX/job/Ottawa-Ontario/QNX-Systems-Software-Developer-II_20260265",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackBerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RWS",
+        "id": "ce4e6045-22a5-4992-800d-786c7415271c",
+        "title": "AI Data Specialist - Florida - US",
+        "active": true,
+        "date_updated": 1785881702,
+        "date_posted": 1785881640,
+        "url": "https://jobs.lever.co/rws/191a1010-b228-4141-92e0-9349cbca3a79/apply",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/RWS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RWS",
+        "id": "1c4d8d25-46e8-4ab2-9cf7-6dc05d6ec04a",
+        "title": "AI Data Specialist - Georgia - US",
+        "active": true,
+        "date_updated": 1785881702,
+        "date_posted": 1785881640,
+        "url": "https://jobs.lever.co/rws/d5edfc8c-508f-496b-964e-66077dfcb995/apply",
+        "locations": [
+            "Georgia"
+        ],
+        "company_url": "https://simplify.jobs/c/RWS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Xcel Energy",
+        "id": "44751041-dede-4798-8b1d-f7ee3294db86",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1785881343,
+        "date_posted": 1785801600,
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Data-Scientist---Associate-or-Experienced-Level_JR115120-1",
+        "locations": [
+            "Minneapolis, MN",
+            "Denver, CO",
+            "Amarillo, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Xcel-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Panasonic Holdings",
+        "id": "f5c3435d-7aa5-4b5f-b59b-42a123b2dbcd",
+        "title": "Electronics Warehouse Technician",
+        "active": true,
+        "date_updated": 1785881343,
+        "date_posted": 1785881214,
+        "url": "https://careers.na.panasonic.com/jobs/50309?icims=1",
+        "locations": [
+            "Leawood, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Panasonic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Wonderful Company",
+        "id": "168fc2aa-d320-4a77-b7fd-7149efce52c5",
+        "title": "POS Support Technician",
+        "active": true,
+        "date_updated": 1785881163,
+        "date_posted": 1785881113,
+        "url": "https://jobs.smartrecruiters.com/TheWonderfulCompany/744000141544080",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Wonderful-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "3b69ab54-e860-4134-941e-ae5a193715ce",
+        "title": "Senior Associate - Systems Engineer",
+        "active": true,
+        "date_updated": 1785881428,
+        "date_posted": 1785881086,
+        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Systems-Engineer-UT-84116/1415960000/?ats=successfactors",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "ad96312f-ea97-46fb-b4c0-df2023e38130",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1785881418,
+        "date_posted": 1785881083,
+        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1415821000/?ats=successfactors",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "EVERSANA",
+        "id": "621a975a-6600-4d67-9c89-be747bcd93ed",
+        "title": "Associate Programmatic Trader",
+        "active": true,
+        "date_updated": 1785881163,
+        "date_posted": 1785880994,
+        "url": "https://jobs.smartrecruiters.com/EVERSANA1/744000141580017",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/EVERSANA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Advanced Energy",
+        "id": "cf26a438-849a-4994-b37e-ab1fdb0e3dc1",
+        "title": "Rotational Field Application Engineer",
+        "active": true,
+        "date_updated": 1785881163,
+        "date_posted": 1783029806,
+        "url": "https://jobs.advanced-energy.com/job/Milpitas-Rotational-Field-Application-Engineer-CA-95035/1331850100/?ats=successfactors",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Advanced-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Master's"
         ]
     }
