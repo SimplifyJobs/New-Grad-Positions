@@ -37,24 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "47c75801-7fb1-4c25-94f9-7dba7542c990",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1765221569,
-        "date_posted": 1765221569,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042423",
-        "locations": [
-            "Gloucester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Alliant Energy",
         "id": "d99b42ef-ee09-4a5a-b424-c133bd85f5ec",
@@ -68,24 +50,6 @@
             "Cedar Rapids, IA"
         ],
         "company_url": "https://simplify.jobs/c/Alliant-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The University of Edinburgh",
-        "id": "c9f6b4da-3107-4bb3-943e-7c8ddd079368",
-        "title": "Data Analyst Programmer",
-        "active": false,
-        "date_updated": 1765222254,
-        "date_posted": 1765222254,
-        "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13439",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -21861,27 +21825,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ENFRA",
-        "id": "e2f4f477-3c22-4f58-854f-e56b5a336511",
-        "title": "Metering Specialist 1",
-        "active": false,
-        "date_updated": 1765221860,
-        "date_posted": 1765221860,
-        "url": "https://careers-enfra.icims.com/jobs/8425/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Sharon Hill, PA",
-            "Raleigh, NC",
-            "Durham, NC",
-            "Newark, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/ENFRA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Uhaul",
         "id": "e4baf1da-64b3-485e-a152-f26a0d801bb5",
@@ -41534,24 +41477,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Wisconsin Early Autism Project",
-        "id": "583262ba-8c51-4223-b773-d32dec44fa0f",
-        "title": "Behavior Technician",
-        "active": false,
-        "date_updated": 1768616712,
-        "date_posted": 1765221852,
-        "url": "https://wisconsinearlyautismproject-learnbehavioral.icims.com/jobs/41056/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Florida"
-        ],
-        "company_url": "https://simplify.jobs/c/Wisconsin-Early-Autism-Project",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -292110,7 +292035,7 @@
         "company_name": "Northrop Grumman",
         "id": "9b850e39-fac4-4e57-9d9b-1bbb22bf69de",
         "title": "Associate Configuration Analyst/ Configuration Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782966781,
         "date_posted": 1782957154,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/Associate-Configuration-Analyst--Configuration-Analyst_R10238321",
@@ -309442,7 +309367,7 @@
         "company_name": "SambaNova Systems",
         "id": "94b5c207-eda9-41bc-b43a-082ff957f285",
         "title": "AI Systems Performance Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1783993012,
         "date_posted": 1783992816,
         "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6115124004",
