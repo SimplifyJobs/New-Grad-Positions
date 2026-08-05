@@ -38,42 +38,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jerry",
-        "id": "f6ecda83-bc4c-4dad-9641-7435e6816016",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1765224277,
-        "date_posted": 1765224277,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/8b017802-2854-42e8-bdf2-42e44bf148b1/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citizen Health",
-        "id": "3c85c8fb-ba8c-4bbf-a0f1-e67d58dbb10e",
-        "title": "Early Career Software Engineer",
-        "active": false,
-        "date_updated": 1765225692,
-        "date_posted": 1765225692,
-        "url": "https://jobs.ashbyhq.com/Citizen%20Health/ebc4c080-319d-4348-ada1-6ded3c803ec7/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Citizen-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Intuit",
         "id": "db6d881d-d68c-4716-ba2a-3594bb759346",
         "title": "Software Developer 1",
@@ -39157,27 +39121,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Appian",
-        "id": "ef30549f-2578-410c-ad3b-fe06d4d781cd",
-        "title": "Associate Consultant",
-        "active": false,
-        "date_updated": 1768519649,
-        "date_posted": 1765224632,
-        "url": "https://job-boards.greenhouse.io/appian/jobs/6299534",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Appian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
