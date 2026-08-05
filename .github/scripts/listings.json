@@ -142157,7 +142157,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -142177,7 +142177,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -247476,7 +247476,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -247956,7 +247956,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -311049,7 +311049,7 @@
         "company_name": "Guidewire",
         "id": "0d1fdb68-7acd-47a6-9000-85bad53536d8",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784071157,
         "date_posted": 1783987200,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/Canada---Toronto/Software-Engineer_JR_15001-1",
@@ -311071,7 +311071,7 @@
         "company_name": "Guidewire",
         "id": "17734f9e-611b-4c99-b1f8-b1434eebd5ed",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784071157,
         "date_posted": 1783987200,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/Canada---Toronto/Software-Engineer_JR_15002",
@@ -342985,7 +342985,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
@@ -360366,6 +360366,215 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "8424cf57-59e0-4e01-ba2f-a6ee0275c999",
+        "title": "Research Engineer Graduate - Agentic Arch - PhD",
+        "active": true,
+        "date_updated": 1785893230,
+        "date_posted": 1785893051,
+        "url": "https://lifeattiktok.com/search/7669824148794575109",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "3061f63a-c31f-410b-ac47-d6eb5e6299b1",
+        "title": "Data Scientist Graduate - UG-Mid Platform",
+        "active": true,
+        "date_updated": 1785893230,
+        "date_posted": 1785893058,
+        "url": "https://lifeattiktok.com/search/7668512600592812293",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Asure",
+        "id": "781e8e77-26da-4d7b-8867-d164b82a48ef",
+        "title": "Associate AI Software Engineer",
+        "active": true,
+        "date_updated": 1785892682,
+        "date_posted": 1785892547,
+        "url": "https://asuresoftware.bamboohr.com/careers/1059/",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Asure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Asure",
+        "id": "e9b0ed4c-d026-479a-9d2d-089a2b9d0bcd",
+        "title": "Associate AI Software Engineer",
+        "active": true,
+        "date_updated": 1785892682,
+        "date_posted": 1785892546,
+        "url": "https://asuresoftware.bamboohr.com/careers/1058/",
+        "locations": [
+            "Addison, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Asure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Constellation Energy",
+        "id": "da97cafd-77ea-4483-9906-531f63569fb1",
+        "title": "Engineer \u2013 Risk Assessment",
+        "active": true,
+        "date_updated": 1785892510,
+        "date_posted": 1785892355,
+        "url": "https://jobs.constellationenergy.com/jobs/136246?icims=1",
+        "locations": [
+            "Lusby, MD",
+            "Delta, PA",
+            "Pottstown, PA",
+            "Kennett Square, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Constellation-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gladstone Institutes",
+        "id": "6d58c98b-b1b5-4c15-bba5-8453940c86ab",
+        "title": "Research Engineer 1 - AI / Machine Learning - Jain Lab",
+        "active": true,
+        "date_updated": 1785892804,
+        "date_posted": 1785196800,
+        "url": "https://gladstone.wd503.myworkdayjobs.com/careers/job/San-Francisco/Research-Engineer--ai--I-II-or-III---Jain-Lab_REQ-3845",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/977f837a-42a0-4582-81e3-2e6dd499a0cc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TRIUMF",
+        "id": "9b5d3765-5135-4454-9f52-728f9a6d07c9",
+        "title": "Postdoctoral Researcher - XLZD experiment",
+        "active": true,
+        "date_updated": 1785892323,
+        "date_posted": 1785283200,
+        "url": "https://triumf.wd10.myworkdayjobs.com/careers-at-triumf-job-postings/job/TRIUMF--Vancouver-BC/Postdoctoral-Researcher----XLZD-experiment_JR102139",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/84dc1cfd-6dcc-4d30-afb1-a56b69185025",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Eastern Shipbuilding Group",
+        "id": "130fdccd-a8f5-4ed4-bdc4-f489a3d3553e",
+        "title": "Software and Database Engineer 1",
+        "active": true,
+        "date_updated": 1785892595,
+        "date_posted": 1785715200,
+        "url": "https://easternshipbuilding.wd12.myworkdayjobs.com/EasternShipbuildingGroupsystem/job/Panama-City-FL/Software---Database-Engineer-I_JR101186",
+        "locations": [
+            "Panama City, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/5d36ba9d-e09e-459d-b784-315277badee6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hunt Electric",
+        "id": "ea802313-9eb0-4ade-b79e-7384c8d00ede",
+        "title": "BI Developer",
+        "active": true,
+        "date_updated": 1785892543,
+        "date_posted": 1785801600,
+        "url": "https://huntelec.wd501.myworkdayjobs.com/HuntElectric_Careers/job/Eagan-Office-MN/BI-DEVELOPER_R-100576",
+        "locations": [
+            "Eagan, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/aa145cc0-a318-4e71-a89c-8c6b040e070f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA Corporation",
+        "id": "cbfac5cf-4ed7-4ec6-b9b8-84d173ce233a",
+        "title": "Research Scientist - Plasma Light Source Development",
+        "active": true,
+        "date_updated": 1785892697,
+        "date_posted": 1778941915,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Research-Scientist---Plasma-Light-Source-Development_2635441",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
