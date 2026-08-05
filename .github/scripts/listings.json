@@ -42069,7 +42069,7 @@
         "company_name": "Qualcomm",
         "id": "0d26968d-9eb7-4cd0-bb5d-cb6ee2933e60",
         "title": "Graduate Software Engineer - Virtual Platforms - Software Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1768835858,
         "date_posted": 1768835858,
         "url": "https://qualcomm.eightfold.ai/careers/job/446716260960",
@@ -142139,7 +142139,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -142159,7 +142159,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -247458,7 +247458,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -247938,7 +247938,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -279362,7 +279362,7 @@
         "company_name": "Marsh & McLennan",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-        "active": true,
+        "active": false,
         "date_updated": 1782108733,
         "date_posted": 1781359468,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Research-Fellowship---Newcastle-upon-Tyne_R_327852-1",
@@ -311031,7 +311031,7 @@
         "company_name": "Guidewire",
         "id": "0d1fdb68-7acd-47a6-9000-85bad53536d8",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784071157,
         "date_posted": 1783987200,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/Canada---Toronto/Software-Engineer_JR_15001-1",
@@ -311053,7 +311053,7 @@
         "company_name": "Guidewire",
         "id": "17734f9e-611b-4c99-b1f8-b1434eebd5ed",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784071157,
         "date_posted": 1783987200,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/Canada---Toronto/Software-Engineer_JR_15002",
@@ -342967,7 +342967,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
@@ -348285,7 +348285,7 @@
         "company_name": "General Motors",
         "id": "448885da-fdf1-4759-b904-870c29e0369e",
         "title": "Software Developer - Virtualization and SIL Integration",
-        "active": true,
+        "active": false,
         "date_updated": 1785536235,
         "date_posted": 1784505600,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Developer---Virtualization-and-SIL-Integration_JR-202610792",
@@ -360557,6 +360557,488 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eaton Corporation",
+        "id": "556e7352-a6cf-47e4-a289-761088213bf8",
+        "title": "Electro Mechanical Assembler B - Manufacturing",
+        "active": true,
+        "date_updated": 1785910681,
+        "date_posted": 1785910633,
+        "url": "https://eaton.eightfold.ai/careers/job/687237030365",
+        "locations": [
+            "Glenolden, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eaton-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Incomplete"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eaton Corporation",
+        "id": "12123a97-3eff-4366-ba05-a133f3ff3553",
+        "title": "Electrical Pre-Tester - Manufacturing",
+        "active": true,
+        "date_updated": 1785910681,
+        "date_posted": 1785910629,
+        "url": "https://eaton.eightfold.ai/careers/job/687237346739",
+        "locations": [
+            "Sumter, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Eaton-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eaton Corporation",
+        "id": "d6676dfd-57fd-4ccd-b1ce-43589af13b82",
+        "title": "Software Engineer - Research & Development Engineering",
+        "active": true,
+        "date_updated": 1785910681,
+        "date_posted": 1785910640,
+        "url": "https://eaton.eightfold.ai/careers/job/687236827500",
+        "locations": [
+            "Wimborne Minster, Wimborne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Eaton-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eaton Corporation",
+        "id": "0d297414-2fd2-4f5b-92f2-1dbeef103836",
+        "title": "Technician 2 - Manufacturing",
+        "active": true,
+        "date_updated": 1785911065,
+        "date_posted": 1785910604,
+        "url": "https://eaton.eightfold.ai/careers/job/687238416152",
+        "locations": [
+            "Greenwood, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Eaton-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "aa42f975-1356-4e81-b1b7-ba3bc8cbc546",
+        "title": "System Level Test Engineer - Hardware Engineering",
+        "active": true,
+        "date_updated": 1785910681,
+        "date_posted": 1785910567,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446718848199",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Qualcomm",
+        "id": "1356bccf-812b-4aec-bc0e-77f74393868f",
+        "title": "Machine Learning Engineer - Machine Learning Engineering",
+        "active": true,
+        "date_updated": 1785910961,
+        "date_posted": 1785910583,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446717859953",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "f68322f9-2ad9-48c4-9fcb-785a29ddd474",
+        "title": "Physical Synthesis Implementation Engineer - ASICS Engineering",
+        "active": true,
+        "date_updated": 1785910681,
+        "date_posted": 1785910549,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446719767153",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "d4c0487b-6fd5-415f-aa90-67e231bd1a5f",
+        "title": "System Level Test Engineer - Hardware Engineering",
+        "active": true,
+        "date_updated": 1785910681,
+        "date_posted": 1785910569,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446718848189",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "b90d0e96-8ea2-42f6-8276-dbf324c80154",
+        "title": "Engineering Technician - Intermediate",
+        "active": true,
+        "date_updated": 1785910681,
+        "date_posted": 1785910546,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446719764029",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "2da5bc24-e216-4957-b76d-4e747a6795ef",
+        "title": "System AI Engineer New Grad - Display - ASICS Engineering",
+        "active": true,
+        "date_updated": 1785910882,
+        "date_posted": 1785910549,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446718599884",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "1424931e-e581-4d7e-aac0-fb96ea927c1c",
+        "title": "SoC Performance Architect - Server CPU - SoC Architecture",
+        "active": true,
+        "date_updated": 1785910681,
+        "date_posted": 1785910544,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446719899553",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "096cb8e8-ec6c-49e2-85b5-11f2f1c5c489",
+        "title": "Camera Firmware Engineer - Camera Engineering",
+        "active": true,
+        "date_updated": 1785910681,
+        "date_posted": 1785910562,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446719364433",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "75ed4c32-1473-436a-92cb-2ef53683d3e1",
+        "title": "Software Engineer - Kernel Services - Software Engineering",
+        "active": true,
+        "date_updated": 1785910923,
+        "date_posted": 1785910565,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446719058286",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "d4999f6f-b6dc-41ef-b7ee-8ec0c83e90bd",
+        "title": "Camera Low Power Engineer - Camera Engineering",
+        "active": true,
+        "date_updated": 1785910681,
+        "date_posted": 1785910531,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446718440313",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Serve Robotics",
+        "id": "bf6edc85-9e93-4c7d-9432-acf222e05f2e",
+        "title": "Robotics Field Development Test Associate",
+        "active": true,
+        "date_updated": 1785910844,
+        "date_posted": 1785910526,
+        "url": "https://jobs.ashbyhq.com/serverobotics/28bbd767-93f5-4df1-8917-ca3cc339041b/application?embed=true",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Serve-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "9bcddcb5-7dfc-4804-9f8f-af292c00da3f",
+        "title": "Senior ASIC Design Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1785910681,
+        "date_posted": 1785910529,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446720188752",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qualcomm",
+        "id": "77fe5b68-ffda-4a79-b56d-caddb2246641",
+        "title": "Data Networking Software Engineer - Modem Software Engineering",
+        "active": true,
+        "date_updated": 1785910681,
+        "date_posted": 1785910543,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446719871565",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "57fe8e77-4219-408c-9f50-6d3392d2bdf6",
+        "title": "Senior ASIC Design Verification Engineer - Compute DSP/AI Processors - ASICS Engineering",
+        "active": true,
+        "date_updated": 1785910681,
+        "date_posted": 1785910529,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446720188585",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "34f52f69-5cba-4c0a-ba8f-8510ff445acf",
+        "title": "System Performance Modeling Engineer - ASICS Engineering",
+        "active": true,
+        "date_updated": 1785910681,
+        "date_posted": 1785910551,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446715371689",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "3bc207c2-01af-4364-899b-7d1a0f58630a",
+        "title": "GPU Compiler Performance - GPU ASICS Engineering",
+        "active": true,
+        "date_updated": 1785910681,
+        "date_posted": 1785910593,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446716514304",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dexcom",
+        "id": "a9e5ba6b-2800-495b-8c9f-777e43f4c7b6",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1785910679,
+        "date_posted": 1785801600,
+        "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/SW-Development-Engineer-1_JR120131",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dexcoma",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "6ddb8adb-ad8e-4cb9-9c50-bb88be88f2a6",
+        "title": "Associate Software Engineer 1",
+        "active": true,
+        "date_updated": 1785910226,
+        "date_posted": 1785909859,
+        "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-1-FL-32919/1416023200/?ats=successfactors",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "e6b322bf-6ccd-43f3-a987-0d4f72440458",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1785910194,
+        "date_posted": 1785909862,
+        "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-FL-32919/1416023100/?ats=successfactors",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
