@@ -5,13 +5,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 355 New Grad Roles by Category
+### Browse 354 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (220)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (221)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (6)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (73)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (71)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (12)
 
@@ -602,6 +602,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Software Engineer - AI-Forward</td>
 <td>Austin, TX</td>
 <td><div align="center"><a href="https://apply.workable.com/texas-sports-academy-main/j/009164EC9C/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/347c86f7-de69-4c24-80ba-3330d30638f0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Java Software Engineer 1</td>
+<td>State College, PA</td>
+<td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Java-Software-Engineer-I--On-Site-_01860806?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/fa0ebc2b-c763-4683-926b-c4befa25a42e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>9d</td>
 </tr>
 <tr>
@@ -1624,7 +1631,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1181)</summary>
+<summary>🗃️ Inactive roles (1180)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1767,13 +1774,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Dulles, VA</td>
-<td>🔒</td>
-<td>9d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Java Software Engineer 1</td>
-<td>State College, PA</td>
 <td>🔒</td>
 <td>9d</td>
 </tr>
@@ -10416,13 +10416,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Robert-Half?utm_source=GHList&utm_medium=company">Robert Half</a></strong></td>
-<td>Software Engineer 1 - Generative AI Applications</td>
-<td>NYC</td>
-<td><div align="center"><a href="https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/NEW-YORK-MIDTOWN/Software-Engineer-I--Generative-AI-Applications_JR-261077?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/57ea888e-d788-422a-8b4e-b797d7a8cccb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/ManTech?utm_source=GHList&utm_medium=company">ManTech</a></strong></td>
 <td>Junior Artificial Intelligence/Machine Learning Strategist</td>
 <td>Arlington County, Arlington, VA</td>
@@ -10675,13 +10668,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0?utm_source=GHList&utm_medium=company">University of Arkansas</a></strong></td>
-<td>Cosmos - Data Engineer 1</td>
-<td>Little Rock, AR</td>
-<td><div align="center"><a href="https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Data-Engineer-I_R0070783?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/56a118f2-c47a-4abb-804e-0f934bbe2731?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>4mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/SentiLink?utm_source=GHList&utm_medium=company">SentiLink</a></strong></td>
 <td>Data Scientist – New Grad</td>
 <td>Remote in USA</td>
@@ -10742,7 +10728,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (274)</summary>
+<summary>🗃️ Inactive roles (276)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -10759,6 +10745,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Waystar?utm_source=GHList&utm_medium=company">Waystar</a></strong></td>
 <td>Junior Data Engineer</td>
 <td>Atlanta, GA</td>
+<td>🔒</td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Robert-Half?utm_source=GHList&utm_medium=company">Robert Half</a></strong></td>
+<td>Software Engineer 1 - Generative AI Applications</td>
+<td>NYC</td>
 <td>🔒</td>
 <td>2d</td>
 </tr>
@@ -11844,6 +11837,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/TransPerfect?utm_source=GHList&utm_medium=company">TransPerfect</a></strong></td>
 <td>Junior ESI Analyst</td>
 <td>Washington, DC</td>
+<td>🔒</td>
+<td>4mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0?utm_source=GHList&utm_medium=company">University of Arkansas</a></strong></td>
+<td>Cosmos - Data Engineer 1</td>
+<td>Little Rock, AR</td>
 <td>🔒</td>
 <td>4mo</td>
 </tr>
