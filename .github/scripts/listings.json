@@ -168872,7 +168872,7 @@
         "company_name": "Pennsylvania State University",
         "id": "511d6f5f-2c89-4282-b5ab-da8d188ff120",
         "title": "Engineering Designer",
-        "active": true,
+        "active": false,
         "date_updated": 1775303196,
         "date_posted": 1775300138,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Designer_REQ_0000076206-2",
@@ -174442,7 +174442,7 @@
         "company_name": "RTX",
         "id": "4d8ade89-7d74-491e-a5cb-4fe36798e3d5",
         "title": "Software Engineer 1 - Test Solutions",
-        "active": false,
+        "active": true,
         "date_updated": 1775689534,
         "date_posted": 1775686138,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492",
@@ -243159,7 +243159,7 @@
         "company_name": "The Federal Reserve System",
         "id": "51d86047-3833-40ac-a217-4b2018b3a9a5",
         "title": "Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779958057,
         "date_posted": 1779919608,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Omaha-NE/Research-Associate_R-0000032383-1",
@@ -329880,7 +329880,7 @@
         "company_name": "Sportradar",
         "id": "defe83a4-bb2c-4b43-9bfd-c098642ad3b2",
         "title": "Intelligence Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1784761038,
         "date_posted": 1784758030,
         "url": "https://jobs.smartrecruiters.com/Sportradar/744000139130590",
@@ -343708,7 +343708,7 @@
         "company_name": "Praos Smart Security",
         "id": "93d05bc1-5a4c-40bd-bd8b-b5b957054d13",
         "title": "Smart Home Automation Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1785328588,
         "date_posted": 1784596307,
         "url": "https://ats.rippling.com/praos-smart-security/jobs/0db36291-d8d4-44d9-af90-049089c91130",
@@ -344709,7 +344709,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "70bc621d-eca4-4bc2-9cca-cbf883a2a5b4",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1785364830,
         "date_posted": 1785283200,
         "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager_REQ-1000050213",
@@ -344846,7 +344846,7 @@
         "company_name": "RTX",
         "id": "b67a0730-34e8-4228-aacb-2f0929eda590",
         "title": "Electrical Engineer - Hardware - Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785366848,
         "date_posted": 1785283200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Electrical--Hardware--Engineer-1--Onsite-_01861828",
@@ -351645,7 +351645,7 @@
         "company_name": "Kearney",
         "id": "9e130b58-5f39-4a5b-b464-85ddbc71940d",
         "title": "Full Stack Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1785620101,
         "date_posted": 1785277454,
         "url": "https://kearney.taleo.net/careersection/01/jobdetail.ftl?job=006JX",
@@ -361314,6 +361314,103 @@
             "Arcata, CA"
         ],
         "company_url": "https://simplify.jobs/c/ae49875c-2c6a-4a5f-b429-8b06a3fef24c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Astreya",
+        "id": "60d7e660-cdca-4112-ade4-ca8dd46743c1",
+        "title": "Fiber Network Mapping Specialist 3",
+        "active": true,
+        "date_updated": 1785924010,
+        "date_posted": 1785888000,
+        "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/London-United-Kingdom/Fiber-Network-Mapping-Specialist-III_R0016616",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Astreya",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "5f124482-70eb-4f67-9cd3-139369ce9d22",
+        "title": "Field Engineer 1",
+        "active": true,
+        "date_updated": 1785925058,
+        "date_posted": 1784505600,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1---Dallas-TX_R4043560",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "American University",
+        "id": "6e1d88dd-30e6-454a-935b-beb34fbb9077",
+        "title": "Quantitative Research Methodology Assistant - Student",
+        "active": true,
+        "date_updated": 1785925508,
+        "date_posted": 1783375586,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Quantitative-Research-Methodology-Assistant--Student-_R4423",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GHD",
+        "id": "974af581-a95b-4035-b535-409728f092ae",
+        "title": "Graduate Scientist - Data Analytics & Insights",
+        "active": true,
+        "date_updated": 1785924904,
+        "date_posted": 1783980651,
+        "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27477",
+        "locations": [
+            "Farmington Hills, MI",
+            "Houston, TX",
+            "Dallas, TX",
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/GHD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dyson",
+        "id": "592c0e7e-bacc-425b-97fc-cb52442a2cc8",
+        "title": "Sales and Service Technician",
+        "active": true,
+        "date_updated": 1785924683,
+        "date_posted": 1781341055,
+        "url": "https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/United-States---King-of-Prussia-Service-Center/Sales-and-Service-Technician_JR36820",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dyson",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
