@@ -37,25 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Alliant Energy",
-        "id": "d99b42ef-ee09-4a5a-b424-c133bd85f5ec",
-        "title": "Meter Data Analyst 1",
-        "active": false,
-        "date_updated": 1765223225,
-        "date_posted": 1765223225,
-        "url": "https://alliantenergy.wd1.myworkdayjobs.com/alliant/job/Madison-WI/Meter-Data-Analyst-I_JR-9238",
-        "locations": [
-            "Madison, WI",
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Alliant-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Jerry",
         "id": "f6ecda83-bc4c-4dad-9641-7435e6816016",
@@ -68,24 +49,6 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SpaceX",
-        "id": "e53ca27e-ffff-4737-81ca-25899efe102f",
-        "title": "Software Engineer - Flight Software C++ - Starshield",
-        "active": false,
-        "date_updated": 1765223932,
-        "date_posted": 1765223932,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8322723002",
-        "locations": [
-            "West Athens, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -2027,26 +1990,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Colorado School of Mines",
-        "id": "e66f8b81-c7b4-4385-8d53-5dedd89aaeaa",
-        "title": "Post-Doctoral Fellow - Metallurgical and Materials Engineering",
-        "active": false,
-        "date_updated": 1765363961,
-        "date_posted": 1765222792,
-        "url": "https://mines.wd1.myworkdayjobs.com/mines_careers/job/Colorado/Post-Doctoral-Fellow--Physics_JR107789",
-        "locations": [
-            "Golden, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Colorado-School-Of-Mines",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
