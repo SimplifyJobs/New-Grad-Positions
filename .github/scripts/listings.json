@@ -142139,7 +142139,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -142159,7 +142159,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -174581,7 +174581,7 @@
         "company_name": "Deluxe",
         "id": "49105cce-b020-4594-a4d1-ab0441eea186",
         "title": "Data Scientist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775687950,
         "date_posted": 1775685876,
         "url": "https://deluxe.wd5.myworkdayjobs.com/en-US/USA_CAN/job/New-York-NY-USA/Data-Scientist-1_260475WD-1",
@@ -247458,7 +247458,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -247938,7 +247938,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -293373,7 +293373,7 @@
         "company_name": "AssetMark",
         "id": "90672a8d-95cf-4199-8797-6a09a0e1f4a7",
         "title": "Data Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1783030297,
         "date_posted": 1783029885,
         "url": "https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Associate-Data-Engineer_Req-003889",
@@ -309923,7 +309923,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -342967,7 +342967,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
@@ -358144,7 +358144,7 @@
         "company_name": "Franklin Electric",
         "id": "76cd9256-6eb4-4068-9e07-6f5930966519",
         "title": "Product Specialist - Energy Systems",
-        "active": false,
+        "active": true,
         "date_updated": 1785824282,
         "date_posted": 1785824043,
         "url": "https://franklin-electric.pinpointhq.com/en/postings/f3239526-4e5f-4608-bf65-f5d00b83b4bd?ats=pinpointhq",
@@ -361469,6 +361469,165 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Nordstrom",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics",
+        "id": "82eb1b9d-e290-4a82-b5c5-b4a816d3cb60",
+        "title": "Engineer 1/2 - Software",
+        "active": true,
+        "date_updated": 1785939918,
+        "date_posted": 1785939253,
+        "url": "https://careers-gdeb.icims.com/jobs/20087/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Groton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Atominvest",
+        "id": "22db1e76-3f50-4552-ba37-147da57c3ac2",
+        "title": "Implementation Analyst",
+        "active": true,
+        "date_updated": 1785939301,
+        "date_posted": 1785939283,
+        "url": "https://jobs.ashbyhq.com/atominvest/c7469459-426c-405c-a178-db8421c8b3ec/application?embed=true",
+        "locations": [
+            "Boston, MA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/8da8d32e-7f45-49d9-89b6-2135da557028",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "1293956c-e2b6-4ab2-865b-a627ed10e56d",
+        "title": "Application Software Engineer 2 - CDeX",
+        "active": true,
+        "date_updated": 1785939301,
+        "date_posted": 1785939185,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340958",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "39d0cc56-bb3b-4cdd-98d2-bc30149309ff",
+        "title": "Software Engineer 1 - Air Traffic Solutions",
+        "active": true,
+        "date_updated": 1785939572,
+        "date_posted": 1785888000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "e50fbe33-5a1a-4146-a62b-6cc71745b602",
+        "title": "Software Engineer 2 - Air Traffic Solutions",
+        "active": true,
+        "date_updated": 1785939556,
+        "date_posted": 1785888000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-II--01864082-Software-Engineer-II---Air-Traffic-Solutions--Onsite-_01864082",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dalcour Maclaren",
+        "id": "70ae6f62-eb90-4f48-a34b-f89178f5eff7",
+        "title": "Graduate GIS Specialist",
+        "active": true,
+        "date_updated": 1785939123,
+        "date_posted": 1785888000,
+        "url": "https://dalcourmaclaren.wd3.myworkdayjobs.com/Dalcour-Maclaren-Careers/job/Bicester/Graduate-GIS-Specialist_JR1592",
+        "locations": [
+            "Bicester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/9f9b6c1c-7052-45c1-a132-56c87d9c72e2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Astreya",
+        "id": "83907457-e675-4d33-872b-2a303a69e05f",
+        "title": "Fiber Network Mapping Specialist 3",
+        "active": true,
+        "date_updated": 1785938990,
+        "date_posted": 1785888000,
+        "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/London-United-Kingdom/Fiber-Network-Mapping-Specialist-III_R0016614",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Astreya",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Astreya",
+        "id": "cc2206be-95ef-48b1-9bc1-902a0346a077",
+        "title": "Fiber Network Mapping Specialist 3",
+        "active": true,
+        "date_updated": 1785938989,
+        "date_posted": 1785888000,
+        "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/London-United-Kingdom/Fiber-Network-Mapping-Specialist-III_R0016615",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Astreya",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
