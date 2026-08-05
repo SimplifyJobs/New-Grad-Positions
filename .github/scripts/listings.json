@@ -227689,7 +227689,7 @@
         "company_name": "RTX",
         "id": "a8a6d6cf-eca6-463c-aa6a-c75476440d15",
         "title": "FPGA Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1779229882,
         "date_posted": 1779228559,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Full-Time-Raytheon-2026---Multi-Product-Power---Digital-FPGA-Engineer-II_01845082",
@@ -325734,7 +325734,7 @@
         "company_name": "Northrop Grumman",
         "id": "aed12709-b072-4233-a4fe-23389392a6aa",
         "title": "Electrical Engineer - Level",
-        "active": true,
+        "active": false,
         "date_updated": 1784667773,
         "date_posted": 1783158903,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Engineer-Electrical-Principal-Engineer-Electrical--Level-2-3-_R10238716",
@@ -340397,7 +340397,7 @@
         "company_name": "Xylem",
         "id": "9c3fc447-fdbf-41b3-ae09-b5bf11332501",
         "title": "Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785193381,
         "date_posted": 1785110400,
         "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Waukesha-Ridgeview-Wisconsin/Application-Engineer_R48350",
@@ -361631,5 +361631,67 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "InterSystems",
+        "id": "5337603b-0f1a-4a67-afa8-9fbf72830c5a",
+        "title": "Product Support Graduate",
+        "active": true,
+        "date_updated": 1785940741,
+        "date_posted": 1785940628,
+        "url": "https://job-boards.greenhouse.io/intersystems/jobs/7777344003",
+        "locations": [
+            "Windsor, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/InterSystems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Maven Securities",
+        "id": "a006991e-2711-489c-9bb2-ca6c253295c8",
+        "title": "Graduate Trader",
+        "active": true,
+        "date_updated": 1785940225,
+        "date_posted": 1785940169,
+        "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8051636",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Maven Securities",
+        "id": "57c83113-9554-4879-ad62-85a577ee5616",
+        "title": "Graduate Trader",
+        "active": true,
+        "date_updated": 1785940255,
+        "date_posted": 1785940173,
+        "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051635",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
