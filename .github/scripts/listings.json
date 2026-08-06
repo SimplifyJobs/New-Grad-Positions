@@ -1225,24 +1225,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lucid Motors",
-        "id": "114c3bfa-3cb4-4fc3-9236-cdbbb804d74f",
-        "title": "Perception Software Engineer - Adas",
-        "active": false,
-        "date_updated": 1765365376,
-        "date_posted": 1765261674,
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4873959007",
-        "locations": [
-            "Southfield, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Lucid-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "10a Labs",
         "id": "ed300a7c-e2ed-47cc-b31e-30a29b54082a",
@@ -141107,7 +141089,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -141127,7 +141109,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -295286,7 +295268,7 @@
         "company_name": "Citadel",
         "id": "d724f264-a5fb-4740-bde3-38ab45368cba",
         "title": "Quantitative Research Analyst University Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1783318522,
         "date_posted": 1783318148,
         "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/",
@@ -297459,7 +297441,7 @@
         "company_name": "Citadel",
         "id": "66cb9e6f-2e5e-4fab-be1b-bf612ad91a02",
         "title": "Quantitative Trader: Equity Quantitative Research \u2013 University Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1783433881,
         "date_posted": 1783433322,
         "url": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/",
@@ -308891,7 +308873,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -309171,7 +309153,7 @@
         "company_name": "Citadel",
         "id": "703ca800-7739-4af0-ac22-fe5aa240bd03",
         "title": "Graduate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784067337,
         "date_posted": 1784066985,
         "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/",
@@ -316272,7 +316254,7 @@
         "company_name": "Citadel",
         "id": "1d1d2782-d1f8-47e7-980c-9f71c9a591cf",
         "title": "Machine Learning Researcher \u2013 PhD Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1784337481,
         "date_posted": 1784336953,
         "url": "https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-us/",
@@ -339497,7 +339479,7 @@
         "company_name": "Zipline",
         "id": "9f29d6c1-05fc-4b2c-a664-0b8530097645",
         "title": "Failure Analysis Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785193381,
         "date_posted": 1785190517,
         "url": "https://www.zipline.com/open-roles?gh_jid=7817824003",
@@ -341935,7 +341917,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
@@ -343086,7 +343068,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "7d4dd12e-7713-4904-8820-c93cae3efb39",
         "title": "Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785362944,
         "date_posted": 1785283200,
         "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Business-Intelligence-Analyst_R0000385600-1",
@@ -343773,7 +343755,7 @@
         "company_name": "AbbVie",
         "id": "f40a37c8-77b2-4062-8e57-b644127a95ea",
         "title": "Associate Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785364203,
         "date_posted": 1785362752,
         "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014350476",
@@ -347213,7 +347195,7 @@
         "company_name": "USAA",
         "id": "770f4386-9081-4ed3-a924-c126e206ba3a",
         "title": "Audit Data Analyst - Staff Auditor II",
-        "active": true,
+        "active": false,
         "date_updated": 1785535932,
         "date_posted": 1785456000,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Charlotte-NC---CENTS/Audit-Data-Analyst---Staff-Auditor-II--Entry-Level-_R0119714",
@@ -362504,6 +362486,185 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "a449ff56-af7b-46d9-9c1b-73ccb36515e8",
+        "title": "Data Collection Operator - Optimus",
+        "active": true,
+        "date_updated": 1785997154,
+        "date_posted": 1785996964,
+        "url": "https://www.tesla.com/careers/search/job/279362",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "cfe4e5c9-9477-44a4-80c5-eaeebe0656f1",
+        "title": "Data Collection Operator",
+        "active": true,
+        "date_updated": 1785997138,
+        "date_posted": 1785996960,
+        "url": "https://www.tesla.com/careers/search/job/279363",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "5a8a7ba1-2464-4dc8-995e-4cd08627650e",
+        "title": "Data Collection Operator - Optimus",
+        "active": true,
+        "date_updated": 1785997127,
+        "date_posted": 1785996969,
+        "url": "https://www.tesla.com/careers/search/job/279361",
+        "locations": [
+            "Doral, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "ea9a3407-4535-40e5-900c-45b263afa69c",
+        "title": "Backend Inference Framework Engineer - AML Inference",
+        "active": true,
+        "date_updated": 1785996992,
+        "date_posted": 1785996824,
+        "url": "https://jobs.bytedance.com/en/position/7669670735275526453/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "da8a18fa-889f-40b2-aed8-e47cf70f8f15",
+        "title": "Graduate Software Engineer - Data-Intelligent Creation-AI Platform-Global Vision Engineering",
+        "active": true,
+        "date_updated": 1785996985,
+        "date_posted": 1785996824,
+        "url": "https://jobs.bytedance.com/en/position/7669859743775000885/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "5cb3ada5-c00c-41c3-b649-06b652453d46",
+        "title": "Machine Learning Backend Engineer Graduate - AML MLDev",
+        "active": true,
+        "date_updated": 1785996901,
+        "date_posted": 1785996825,
+        "url": "https://jobs.bytedance.com/en/position/7669791940490168629/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "50e97511-4f52-43a6-985d-3fc9ce92d6bb",
+        "title": "Backend Inference Runtime Engineer New Grad - AML Inference",
+        "active": true,
+        "date_updated": 1785997004,
+        "date_posted": 1785996826,
+        "url": "https://jobs.bytedance.com/en/position/7669789046777940229/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "4252bc22-2ea1-451c-aaa7-bb7ec84abf57",
+        "title": "Research Scientist Graduate - Data-Intelligent Creation-Vision and Graphics-Global GenAI",
+        "active": true,
+        "date_updated": 1785996901,
+        "date_posted": 1785996829,
+        "url": "https://jobs.bytedance.com/en/position/7668208806895831349/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "1ffbd441-9fea-43f5-819f-f097b8702aaf",
+        "title": "Applied Machine Learning Production Engineer Graduate - AML Production Engineer",
+        "active": true,
+        "date_updated": 1785996901,
+        "date_posted": 1785996825,
+        "url": "https://jobs.bytedance.com/en/position/7670004502598060341/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
