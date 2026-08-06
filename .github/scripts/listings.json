@@ -37,44 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "fb26dd40-8917-45b8-b4b8-7d1f3398c046",
-        "title": "Software Development Engineer",
-        "active": false,
-        "date_updated": 1765275811,
-        "date_posted": 1765275811,
-        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/Burlington-MA/Software-Development-Engineer--SDA--New-College-Grad-2026-_R52042",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "QBE Insurance",
-        "id": "acb7fcc3-5228-4b54-9433-49cc2bfd8b8c",
-        "title": "Software Engineering Associate",
-        "active": false,
-        "date_updated": 1765275415,
-        "date_posted": 1765275415,
-        "url": "https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/PHL---ThreeNEO/Software-Engineering-Associate_347265",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/QBE-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Freeform",
         "id": "b9b45c23-1024-4631-b390-9c8aeb92814f",
@@ -349215,7 +349177,7 @@
         "company_name": "Avoca AI",
         "id": "ab74e0cc-190b-478a-989a-8a787c93a3d3",
         "title": "Staff Software Engineer - Product",
-        "active": true,
+        "active": false,
         "date_updated": 1785598741,
         "date_posted": 1782482875,
         "url": "https://jobs.ashbyhq.com/avoca/4623d891-0c58-45e6-b20a-6d16cf5606ec/application?embed=true",
@@ -355052,7 +355014,7 @@
         "company_name": "Flex",
         "id": "848e3b57-00ff-482b-8861-3277b38d7a16",
         "title": "Panel Wire Prep",
-        "active": false,
+        "active": true,
         "date_updated": 1785762167,
         "date_posted": 1785456000,
         "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-CA-Fontana/Panel-Wire-Prep_WD226621-2",
@@ -361490,7 +361452,7 @@
         "company_name": "Cardamom Health",
         "id": "bd4c053d-d33c-4640-9df6-f7d7eeda0c1a",
         "title": "Epic Analyst - Entry-Level",
-        "active": true,
+        "active": false,
         "date_updated": 1785969549,
         "date_posted": 1785968285,
         "url": "https://ats.rippling.com/cardamom/jobs/88a6a9c8-c775-4ea4-bb4c-667d4a535359",
@@ -362648,5 +362610,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "61b9c823-c168-4748-9d94-8ae5a407a3da",
+        "title": "AI Native Software Engineer",
+        "active": true,
+        "date_updated": 1786010822,
+        "date_posted": 1784160000,
+        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Native-Software-Engineering_R00343768-1",
+        "locations": [
+            "London, UK",
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
