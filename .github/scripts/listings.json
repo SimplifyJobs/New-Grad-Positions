@@ -37,42 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Space Dynamics Laboratory",
-        "id": "71648b3d-e9d9-45a6-a608-6b3cb9002792",
-        "title": "Entry-Level AI&T Multidisciplinary Systems Engineer",
-        "active": false,
-        "date_updated": 1765321893,
-        "date_posted": 1765321893,
-        "url": "https://spacedynamicslaboratory.applytojob.com/apply/3jr6524YhM/EntryLevel-AIT-Multidisciplinary-Systems-Engineer",
-        "locations": [
-            "Logan, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Space-Dynamics-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "da125702-3afb-4492-9623-de56591f2b8d",
-        "title": "Associate \u2013 Systems Engineer - Rochester - NY",
-        "active": false,
-        "date_updated": 1765321647,
-        "date_posted": 1765321647,
-        "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Systems-Engineer-(Rochester,-NY)-NY-14610/1348562900/?ats=successfactors",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ServiceNow",
         "id": "843e165a-f7bf-4702-9673-58a73d16094a",
@@ -18453,24 +18417,6 @@
             "Texas"
         ],
         "company_url": "https://simplify.jobs/c/Molina-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ExxonMobil",
-        "id": "259ab1e0-6a07-4b54-9ec2-9b3871cac52a",
-        "title": "Fluid Properties Technologist",
-        "active": false,
-        "date_updated": 1765322091,
-        "date_posted": 1765322091,
-        "url": "https://jobs.exxonmobil.com/ExxonMobil/job/Spring-Fluid-Properties-Technologist-TX-77024/1348491100/?ats=successfactors",
-        "locations": [
-            "Spring, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/ExxonMobil",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -130645,7 +130591,7 @@
         "company_name": "ByteDance",
         "id": "e920c61c-4e36-466e-91fb-f7e56b5192c2",
         "title": "Graduate Research Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1773392941,
         "date_posted": 1773392941,
         "url": "https://jobs.bytedance.com/en/position/7397590567570426162/detail",
@@ -259090,7 +259036,7 @@
         "company_name": "Walleye Capital",
         "id": "e03e4fce-69ff-4c7c-9d31-8e33a590167d",
         "title": "Volatility Quantitative Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1781083275,
         "date_posted": 1781083266,
         "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4586185006",
@@ -274064,7 +274010,7 @@
         "company_name": "Nutanix",
         "id": "f946c1fe-f878-4d37-9287-b08b55acbcb6",
         "title": "Member of Technical Staff 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781831701,
         "date_posted": 1781773829,
         "url": "https://jobs.jobvite.com/nutanix/job/o1pjAfw3?nl=1&nl=1&fr=false",
@@ -355989,7 +355935,7 @@
         "company_name": "RTX",
         "id": "df570e4a-f00e-490b-88e0-f9d73812ff19",
         "title": "Digital ASIC/FPGA Design Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785798505,
         "date_posted": 1785715200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Full-Time-Raytheon-2026---Digital-ASIC-FPGA-Design-Electrical-Engineer-I_01861569",
