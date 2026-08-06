@@ -36,79 +36,6 @@
         "degrees": []
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Baselayer",
-        "id": "d3c8c2b7-4f6e-4828-a985-358b1b469a10",
-        "title": "Senior Backend Engineer",
-        "active": false,
-        "date_updated": 1765286266,
-        "date_posted": 1765286266,
-        "url": "https://job-boards.greenhouse.io/baselayer/jobs/5023887008",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Baselayer",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "date_updated": 1765288345,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/magical/2c4734af-1ca2-423a-bb4e-29a7da894249",
-        "company_name": "Magical",
-        "title": "Junior Software Engineer, AI",
-        "locations": [
-            "San Francisco, CA",
-            "Toronto, CAN"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "08c22cc2-d67f-4ac6-afb8-504cc4330813",
-        "date_posted": 1765288345,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1765306648,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Bedford-Massachusetts/Software-Developer-I_R8120",
-        "company_name": "AspenTech",
-        "title": "Software Developer I",
-        "locations": [
-            "Bedford, MA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "4345d844-ab01-4a85-9dbc-6ff5aab9c8e4",
-        "date_posted": 1765288786,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1765375322,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://lingatech.applytojob.com/apply/USLc4Enc43/Junior-FullStack-Engineer",
-        "company_name": "LingaTech",
-        "title": "Junior Full-Stack Engineer",
-        "locations": [
-            "Harrisburg, PA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "067646f5-3cf7-4167-99b4-758528c63648",
-        "date_posted": 1765288850,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1765306321,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -304817,7 +304744,7 @@
         "company_name": "Johnson Controls",
         "id": "bc16e04e-483c-4b33-9153-1620809d551e",
         "title": "HVAC Equipment Systems Application Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783723202,
         "date_posted": 1783641600,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Linthicum-Maryland-United-States-of-America/HVAC-Equipment-Systems-Application-Engineer-I_WD30273247",
@@ -326307,7 +326234,7 @@
         "company_name": "Northrop Grumman",
         "id": "fefd49e7-65d2-4e08-8a70-aa7e24525221",
         "title": "Software Engineer / Principal Software Engineer - C++",
-        "active": true,
+        "active": false,
         "date_updated": 1784684451,
         "date_posted": 1784592000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Software-Engineer-Principal-Software-Engineer-C----TS-SCI-CI-Poly---AHT-_R10241346",
@@ -341071,7 +340998,7 @@
         "company_name": "Mimecast",
         "id": "c633b20f-e6ca-4739-8d14-9a68718e74f2",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785279241,
         "date_posted": 1785196800,
         "url": "https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/Great-Britain---London/Associate-Software-Engineer_R6594-1",
@@ -362492,6 +362419,62 @@
             "Leeds, UK"
         ],
         "company_url": "https://simplify.jobs/c/Flutter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "a0f06fc3-af94-489d-a5e7-ccd8016556d3",
+        "title": "Electronics Assembler 1",
+        "active": true,
+        "date_updated": 1786022154,
+        "date_posted": 1784246400,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rostraver/Electronics-Assembler-1_R5047282-3",
+        "locations": [
+            "Rostraver Township, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University Corporation for Atmospheric Research",
+        "id": "c54b5f31-14c1-42a3-953a-75c4383e6112",
+        "title": "Postdoctoral Fellow - Mesoscale and Microscale Meteorology",
+        "active": true,
+        "date_updated": 1786022694,
+        "date_posted": 1785196800,
+        "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/MMM-Postdoctoral-Fellow-I_REQ-2026-123",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Center-For-Atmospheric-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ultra",
+        "id": "fea36255-a41d-4d5b-9c9a-040a21ed7e20",
+        "title": "Repairs Technician",
+        "active": true,
+        "date_updated": 1786022835,
+        "date_posted": 1783157982,
+        "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Weymouth-Dorset-England-UK/Repairs-Technician_REQ-11341",
+        "locations": [
+            "Weymouth, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ultra",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
