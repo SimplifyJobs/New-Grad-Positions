@@ -12133,25 +12133,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "True Anomaly",
-        "id": "d59ca999-848f-4bc8-92f4-471a30bbfe1e",
-        "title": "Software Engineer 2 - Elixir",
-        "active": false,
-        "date_updated": 1766186909,
-        "date_posted": 1765309895,
-        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5000513007",
-        "locations": [
-            "Long Beach, CA",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/TrueAnomaly",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "L3Harris Technologies",
         "id": "da1a3574-079a-404e-9839-64cf1ce5afd1",
