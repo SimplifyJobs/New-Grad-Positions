@@ -37,24 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "SpotOn",
-        "id": "4866aaea-e156-4428-93c0-80ea1e8467f2",
-        "title": "Product Partnerships Manager",
-        "active": false,
-        "date_updated": 1765246070,
-        "date_posted": 1765246070,
-        "url": "https://job-boards.greenhouse.io/spotonproduct/jobs/7546092003",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/SpotOn",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "SailPoint",
         "id": "15180025-a2a6-4d79-ac32-8fc644b0195a",
@@ -361906,7 +361888,7 @@
         "company_name": "Waste Management",
         "id": "8de64efb-00a8-41f3-85aa-9e5832e90ffc",
         "title": "Data Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785969014,
         "date_posted": 1785968077,
         "url": "https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2351633",
