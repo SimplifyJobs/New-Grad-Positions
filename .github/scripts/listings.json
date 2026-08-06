@@ -55,60 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Leidos",
-        "id": "dfcb4de4-43e3-4358-9b43-736132a4af55",
-        "title": "Software Engineer C++",
-        "active": false,
-        "date_updated": 1765245494,
-        "date_posted": 1765245494,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tewksbury-MA/Software-Engineer-C--_R-00171680",
-        "locations": [
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Uhaul",
-        "id": "d0a946e0-7d84-4553-a15a-484f79bd207a",
-        "title": "Hitch Service Technician",
-        "active": false,
-        "date_updated": 1765245475,
-        "date_posted": 1765245475,
-        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Albany-New-York/Hitch-Professional_R230384",
-        "locations": [
-            "Albany, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Uhaul",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "c5f177db-b8b9-4b28-b489-86bf59cc91a9",
-        "title": "Software Engineer - Software Engineer",
-        "active": false,
-        "date_updated": 1765245469,
-        "date_posted": 1765245469,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI101-1847-W-Main-Rd-1847-W-Main-Road-Nimitz-Building-Portsmouth-RI-02871-USA/XMLNAME-2026-Full-Time---Software-Engineer---Onsite--RI-_01810896",
-        "locations": [
-            "Bristol, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "SailPoint",
         "id": "15180025-a2a6-4d79-ac32-8fc644b0195a",
@@ -219277,7 +219223,7 @@
         "company_name": "ServiceNow",
         "id": "ce260f13-eca8-4ce4-b243-d56296546ce9",
         "title": "Software Engineer - Agentic AI Systems - Moveworks",
-        "active": true,
+        "active": false,
         "date_updated": 1778720941,
         "date_posted": 1778720777,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000126417779",
@@ -357731,7 +357677,7 @@
         "company_name": "TikTok",
         "id": "2d1d84a0-ff46-441d-b4b8-e580fd19fa16",
         "title": "AI Effects Workflow Software Engineer Graduate - Agentic Creation Effect House",
-        "active": true,
+        "active": false,
         "date_updated": 1785835263,
         "date_posted": 1785835208,
         "url": "https://lifeattiktok.com/search/7669905277419948293",
@@ -362466,6 +362412,166 @@
             "Tennessee"
         ],
         "company_url": "https://simplify.jobs/c/Harris-Computer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "ef652a5e-7a67-4ca7-befb-a5d65d0df79d",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance",
+        "active": true,
+        "date_updated": 1785981421,
+        "date_posted": 1785981295,
+        "url": "https://lifeattiktok.com/search/7669908897587824949",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "d4f9343e-d33a-4784-9ce5-bd26b3b3bd28",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance",
+        "active": true,
+        "date_updated": 1785981421,
+        "date_posted": 1785981291,
+        "url": "https://lifeattiktok.com/search/7669910326745434421",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "af52521c-5483-4db1-958c-7dd4c6f19cd8",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Live",
+        "active": true,
+        "date_updated": 1785981421,
+        "date_posted": 1785981286,
+        "url": "https://lifeattiktok.com/search/7670285949553707317",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "84fc32d6-d50b-46b2-9fe0-77906705c6bf",
+        "title": "Research Scientist Graduate - Intelligent Creation - Global Frontier Tech Recruitment Program",
+        "active": true,
+        "date_updated": 1785981442,
+        "date_posted": 1785981297,
+        "url": "https://lifeattiktok.com/search/7668206301950642437",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "81c1dd03-9747-4d9a-9a78-f0cc2bfea6fc",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance",
+        "active": true,
+        "date_updated": 1785981421,
+        "date_posted": 1785981292,
+        "url": "https://lifeattiktok.com/search/7669909088788138245",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "4bc2293c-769e-4f73-8731-8af77dfbbea0",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Live",
+        "active": true,
+        "date_updated": 1785981421,
+        "date_posted": 1785981289,
+        "url": "https://lifeattiktok.com/search/7670285495593273605",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "2141f545-fe59-4209-aed0-1daffb5bd686",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Live",
+        "active": true,
+        "date_updated": 1785981421,
+        "date_posted": 1785981290,
+        "url": "https://lifeattiktok.com/search/7670283981954746677",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "0d2513a2-ea9b-4155-abcf-6cdc50cdb325",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance",
+        "active": true,
+        "date_updated": 1785981421,
+        "date_posted": 1785981294,
+        "url": "https://lifeattiktok.com/search/7669913085331409205",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
