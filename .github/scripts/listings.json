@@ -37,24 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fermilab",
-        "id": "fe378e10-306c-4e88-b331-ddee2b81add2",
-        "title": "Compact Muon Solenoid Postdoctoral Research Associate",
-        "active": false,
-        "date_updated": 1765271288,
-        "date_posted": 1765271288,
-        "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/CMS-Postdoc--2026-number-1-of-2-_R_009151",
-        "locations": [
-            "Batavia, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Fermilab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Deutsche Bank",
         "id": "6f6db197-c4a0-4105-af58-973c3e5c434e",
@@ -308793,7 +308775,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -360043,7 +360025,7 @@
         "company_name": "Leidos",
         "id": "282184ef-e3f4-409a-acca-effa7c167079",
         "title": "Geospatial Linguist - Korean Toponymist",
-        "active": true,
+        "active": false,
         "date_updated": 1785921380,
         "date_posted": 1782956493,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Korean-Toponymist---TS-SCI-Required_R-00185905-1",
@@ -362619,6 +362601,45 @@
             "Little Rock, AR"
         ],
         "company_url": "https://simplify.jobs/c/Arkansas-Blue-Cross",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "83f74b03-7867-438c-a96c-7e8670b1ddae",
+        "title": "Data Center Technician - DCC Communities",
+        "active": true,
+        "date_updated": 1786007701,
+        "date_posted": 1786007522,
+        "url": "https://amazon.jobs/en/jobs/10485823/data-center-technician-dcc-communities",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Talan",
+        "id": "2e27f110-f834-46ae-86da-ce17d2c202d2",
+        "title": "Economic and Data Analyst",
+        "active": true,
+        "date_updated": 1786007341,
+        "date_posted": 1786007230,
+        "url": "https://jobs.smartrecruiters.com/Talan/744000141860370",
+        "locations": [
+            "London, UK",
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Talan",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
