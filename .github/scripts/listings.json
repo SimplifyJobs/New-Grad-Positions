@@ -354762,7 +354762,7 @@
         "company_name": "Maven Securities",
         "id": "830d601a-f246-424f-8b08-23956510de08",
         "title": "Developer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1785749956,
         "date_posted": 1785749241,
         "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8048802",
@@ -361580,7 +361580,7 @@
         "company_name": "Door Controls",
         "id": "30f8efbb-8d56-49e3-8b93-35ef5df04f35",
         "title": "Electronics Teardown",
-        "active": true,
+        "active": false,
         "date_updated": 1785969472,
         "date_posted": 1785968213,
         "url": "https://ats.rippling.com/door-controls-usa/jobs/aa1293ff-6822-4684-8ae5-51395ce3ba13",
@@ -362585,6 +362585,44 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "0ed83585-c104-4ffe-abad-5000136c591a",
+        "title": "Electronics Assembler 1",
+        "active": true,
+        "date_updated": 1786005602,
+        "date_posted": 1784246400,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rostraver/Electronics-Assembler-1_R5047282",
+        "locations": [
+            "Rostraver Township, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arkansas Blue Cross",
+        "id": "164a182a-c72d-4bec-9ef1-f395166dc411",
+        "title": "Business Systems Analyst Associate",
+        "active": true,
+        "date_updated": 1786006200,
+        "date_posted": 1785888000,
+        "url": "https://arkbluecross.wd1.myworkdayjobs.com/abcbs_external_careers/job/Little-Rock-AR/Business-Systems-Analyst-Associate_R0013670",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Arkansas-Blue-Cross",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
