@@ -37,24 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "277e7fa0-14c8-471d-86fa-5f37771ae349",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1765306466,
-        "date_posted": 1765306466,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042645",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "eBay",
         "id": "e4c18e61-5dfa-43f2-a7e8-6a4a903dfee0",
@@ -329982,7 +329964,7 @@
         "company_name": "EquipmentShare",
         "id": "986ea611-ea1c-4d67-92f0-e24ab83289b5",
         "title": "Low Voltage Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784803141,
         "date_posted": 1783464224,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7993532",
@@ -341048,7 +341030,7 @@
         "company_name": "Reltio",
         "id": "939a6215-c585-4039-ae27-5bd6c2def8cc",
         "title": "Customer Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1785279669,
         "date_posted": 1777331009,
         "url": "https://job-boards.greenhouse.io/reltio/jobs/5576245004",
