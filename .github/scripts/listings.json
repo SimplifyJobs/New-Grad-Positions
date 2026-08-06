@@ -36,118 +36,6 @@
         "degrees": []
     },
     {
-        "date_updated": 1765306321,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Staff-Engineer-I--Software-Process-Engineering_R112003",
-        "company_name": "Samsung",
-        "title": "Staff Engineer I, Software Process Engineering",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "7379cf63-4a92-45c4-be55-7dee6a1f686c",
-        "date_posted": 1765288939,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1765306299,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Software-Quality-Assurance-Associate_R111947",
-        "company_name": "Samsung",
-        "title": "Software Quality Assurance Associate",
-        "locations": [
-            "Plano, TX"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "f9f11ea1-225d-4bf0-9400-591d6e02eb0c",
-        "date_posted": 1765288996,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1765306246,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.lever.co/wyetechllc/c1b8f940-b5ab-4647-832f-f8cdb3c360fa",
-        "company_name": "Wyetech",
-        "title": "Software Engineer 1",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "ad8e8528-09af-42f6-99da-800982f3277d",
-        "date_posted": 1765289063,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1774531713,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Embodied-and-Agentic-AI---New-College-Grad-2026_JR2009464",
-        "company_name": "NVIDIA",
-        "title": "Research Scientist, Embodied and Agentic AI",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "a4b0b7fd-5550-42a5-af6d-8f7270f65929",
-        "date_posted": 1765289113,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1767713003,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://bnl.wd1.myworkdayjobs.com/en-US/externa/job/Upton-NY/Machine-Learning-X-Ray-Spectroscopy_JR102174",
-        "company_name": "Brookhaven Lab",
-        "title": "Postdoctoral Research Associate - Machine Learning X-Ray Spectroscopy",
-        "locations": [
-            "Upton, NY"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "5de63f02-a48b-47e8-a16f-3d417b1c7a3d",
-        "date_posted": 1765289185,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "CVS Health",
-        "id": "e3116824-628a-44e5-a828-50d9aa4fbc72",
-        "title": "Pharmacy Product Management - Analyst",
-        "active": false,
-        "date_updated": 1765289494,
-        "date_posted": 1765289494,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Cumberland/Pharmacy-Product-Management---Analyst_R0782277-1",
-        "locations": [
-            "Central Falls, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Peraton",
@@ -140591,7 +140479,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -140611,7 +140499,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -197287,7 +197175,7 @@
         "company_name": "The Walt Disney Company",
         "id": "575ade45-4fc1-418d-bf8b-a4907a98c6c4",
         "title": "Data Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1776982819,
         "date_posted": 1776982009,
         "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Data-Engineer-I_10147074",
@@ -308375,7 +308263,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -334840,7 +334728,7 @@
         "company_name": "Microsoft",
         "id": "57bebdd5-d767-48d4-b65a-21dc1d79e491",
         "title": "Senior Silicon Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784931672,
         "date_posted": 1784930843,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556940514",
@@ -341419,7 +341307,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
@@ -362478,5 +362366,83 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "45787753-974b-45ac-8b08-a2fd6962db6d",
+        "title": "Data Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1786026569,
+        "date_posted": 1786025571,
+        "url": "https://amazon.jobs/en/jobs/10494000/data-engineer-data-science-focus-ads-science-analysis-tech-asat",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Garmin",
+        "id": "6ade9cd5-ab20-498c-8c37-b961d5cb92c1",
+        "title": "Embedded Software Engineer 1",
+        "active": true,
+        "date_updated": 1786025529,
+        "date_posted": 1786025395,
+        "url": "https://careers.garmin.com/jobs/19134?icims=1",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bigbear.ai",
+        "id": "422cb5fc-a7e9-47c9-a6c3-82c503d12822",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1786025341,
+        "date_posted": 1786025252,
+        "url": "https://careers.bigbear.ai/jobs/4497?icims=1",
+        "locations": [
+            "Honolulu, HI"
+        ],
+        "company_url": "https://simplify.jobs/c/Bigbear-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "ad581fca-372e-476f-b86a-cfaea80bb8e6",
+        "title": "Systems Engineer Senior Associate",
+        "active": true,
+        "date_updated": 1786025449,
+        "date_posted": 1786025135,
+        "url": "https://jobs.l3harris.com/job/Rockwall-Senior-Associate,-Systems-Engineer-TX-75032/1416517000/?ats=successfactors",
+        "locations": [
+            "Rockwall, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
