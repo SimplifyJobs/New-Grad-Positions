@@ -37,100 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Peraton",
-        "id": "d863224e-d5ca-4d52-b7eb-4cf76c1f91b4",
-        "title": "Software Engineer / Space Communications Program",
-        "active": false,
-        "date_updated": 1765241074,
-        "date_posted": 1765241074,
-        "url": "https://careers-peraton.icims.com/jobs/161917/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Las Cruces, NM"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CHA Consulting",
-        "id": "99cfc8cf-42f0-4818-b1cd-2e6675dc0f65",
-        "title": "AI Developer",
-        "active": false,
-        "date_updated": 1765241048,
-        "date_posted": 1765241048,
-        "url": "https://jobs-challp.icims.com/jobs/7422/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Boston, MA",
-            "Indianapolis, IN",
-            "Miami, FL",
-            "Albany, NY",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/CHA-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "e7311532-3cff-46e1-a23b-4a5433042352",
-        "title": "Systems Engineer 1",
-        "active": false,
-        "date_updated": 1765240860,
-        "date_posted": 1765240860,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/130307",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "7becbd09-f982-4159-bfe0-fa59192ce149",
-        "title": "Hardware Engineer 1 - Radar Team",
-        "active": false,
-        "date_updated": 1765240838,
-        "date_posted": 1765240838,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/129850",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Honeywell",
-        "id": "3d80156f-1f64-4bce-b6e2-ffc49fc91c9d",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1765240852,
-        "date_posted": 1765240852,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/130270",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Thermo Fisher Scientific",
         "id": "06f02892-1a80-40a5-99b5-3b9f32a36417",
@@ -143,24 +49,6 @@
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Abbott",
-        "id": "65be1a52-2afd-4880-ac68-f082057dadad",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1765242052,
-        "date_posted": 1765242052,
-        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Diego/Software-Engineer_31134512-1",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Abbott",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -3733,24 +3621,6 @@
             "Shreveport, LA"
         ],
         "company_url": "https://simplify.jobs/c/GDIT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Marriott International",
-        "id": "7fff6e2c-7422-4713-8aab-70eeb5db55ed",
-        "title": "Senior Systems Engineer - Corporate Systems",
-        "active": false,
-        "date_updated": 1765241649,
-        "date_posted": 1765241649,
-        "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25195783",
-        "locations": [
-            "Bethesda, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Marriott-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
