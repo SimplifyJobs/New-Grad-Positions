@@ -38,24 +38,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "RTX",
-        "id": "95994a77-fbf7-4281-9204-e86c6333010c",
-        "title": "2026 Full-time - Software Engineer I - Onsite/CO",
-        "active": false,
-        "date_updated": 1765284841,
-        "date_posted": 1765284841,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--CO-_01810840",
-        "locations": [
-            "Aurora, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Baselayer",
         "id": "d3c8c2b7-4f6e-4828-a985-358b1b469a10",
         "title": "Senior Backend Engineer",
@@ -67,24 +49,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Baselayer",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Four Seasons",
-        "id": "5e48bf0d-ce01-49f5-a717-6510b84c7ec9",
-        "title": "Trading Company Attendant",
-        "active": false,
-        "date_updated": 1765285234,
-        "date_posted": 1765285234,
-        "url": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Naples/Trading-Company-Attendant_REQ10365525",
-        "locations": [
-            "Naples, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Four-Seasons",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -343270,7 +343234,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "70bc621d-eca4-4bc2-9cca-cbf883a2a5b4",
         "title": "Associate Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1785364830,
         "date_posted": 1785283200,
         "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager_REQ-1000050213",
