@@ -122033,7 +122033,7 @@
         "company_name": "Chamberlain Group",
         "id": "d0fb464f-b9d2-40c2-95ee-8860876c1d6e",
         "title": "Software Engineer 1 - AI",
-        "active": false,
+        "active": true,
         "date_updated": 1773095934,
         "date_posted": 1773095934,
         "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-I---AI_JR30291",
@@ -140312,7 +140312,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -140332,7 +140332,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -168572,7 +168572,7 @@
         "company_name": "Centene",
         "id": "1293d336-09f5-460a-9b86-f3ba141880fd",
         "title": "Data Analyst 1 Healthcare Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1775515201,
         "date_posted": 1775513035,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MI/Data-Analyst-I-Healthcare-Analytics_1636195",
@@ -294875,7 +294875,7 @@
         "company_name": "Everfox",
         "id": "5b51e676-8b92-4a35-a771-c5e6ce70e43c",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783348324,
         "date_posted": 1783347131,
         "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/GBR_WS_Malvern/Software-Engineer-I_JR500693-1",
@@ -344370,7 +344370,7 @@
         "company_name": "Duke University",
         "id": "7f58512b-7c72-4449-b08a-f9bb3ba87acc",
         "title": "Analytics Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785449343,
         "date_posted": 1785449311,
         "url": "https://careers.duke.edu/job/Durham-Analytics-Engineer-NC-27710/1414289400/?ats=successfactors",
@@ -362478,6 +362478,452 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/DaVita",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bluesight",
+        "id": "8d516c44-1ed3-45b1-ad5b-eaadc09b513f",
+        "title": "Firmware Engineer",
+        "active": true,
+        "date_updated": 1786055356,
+        "date_posted": 1786054494,
+        "url": "https://jobs.lever.co/bluesight/e51efb52-0290-4cb7-80fe-4c786e0e3e7b/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Bluesight",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Halliburton",
+        "id": "085ae734-e5c2-4ef1-b527-667a60cf97be",
+        "title": "Electrical Technician 1 - Sperry Drilling",
+        "active": true,
+        "date_updated": 1786055325,
+        "date_posted": 1786054472,
+        "url": "https://jobs.halliburton.com/job/Houston-R&M-Electrical-Technician-(I-II-III)-Sperry-Drilling-TX-77032/1416643700/?ats=successfactors",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Halliburton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "PNC Financial Services",
+        "id": "b530ef83-4016-4b1c-af8b-7d56eb556620",
+        "title": "Quantitative Analytics & Model Associate - Data, Modeling, & Analytics",
+        "active": true,
+        "date_updated": 1786055245,
+        "date_posted": 1785974400,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Quantitative-Analytics---Model-Associate---Data--Modeling----Analytics_R231921-1",
+        "locations": [
+            "Philadelphia, PA",
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ralliant",
+        "id": "0bd0793a-d011-488a-8355-414f33a7ceca",
+        "title": "Hardware Design Engineer",
+        "active": true,
+        "date_updated": 1786054501,
+        "date_posted": 1786054367,
+        "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10183",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Ralliant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Entegris",
+        "id": "04dde68e-0670-48ff-928c-22569068305f",
+        "title": "Junior AI Engineer",
+        "active": true,
+        "date_updated": 1786055215,
+        "date_posted": 1785974400,
+        "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Specialist--AI-Engineer_REQ-13744",
+        "locations": [
+            "Bedford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Entegris",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Greenwood Village South",
+        "id": "0c44aff1-fe50-499e-ae25-491625161220",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1786054501,
+        "date_posted": 1786054285,
+        "url": "https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/job/38774",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Greenwood-Village-South",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capgemini",
+        "id": "94b406e2-f31b-4303-b276-e99f3781da36",
+        "title": "Frontend Developer - Mobile",
+        "active": true,
+        "date_updated": 1786055094,
+        "date_posted": 1786054286,
+        "url": "https://careers.capgemini.com/job/Dallas,-TX-Mobile-Front-end-developer-TX-75201/1424082933/?ats=successfactors",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/3a409231-54ff-44e0-aba5-007a495af880",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Atoms",
+        "id": "5b58ae21-c56b-47a7-92cd-cfae937732a1",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1786055071,
+        "date_posted": 1786054249,
+        "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687930002",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "LA",
+            "NYC",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Atoms",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AAA Club Alliance",
+        "id": "92da9261-d96e-4a23-bc2f-d44747ae7076",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1786055044,
+        "date_posted": 1785974400,
+        "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX/Entry-Level-Data-Scientist_JR202638253",
+        "locations": [
+            "Coppell, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AAA-Club-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "963773db-5832-45f9-a6d4-23d5cfe8c0fb",
+        "title": "Test Engineering Associate - Integration and Test Engineering",
+        "active": true,
+        "date_updated": 1786054976,
+        "date_posted": 1786053899,
+        "url": "https://jobs.l3harris.com/job/Fort-Wayne-Sr_-Associate,-Integration-and-Test-Engineering-(Fort-Wayne,-IN)-IN-46818/1416712300/?ats=successfactors",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Veeva Systems",
+        "id": "4f0ce480-21ee-4bdb-a42b-efac41ad8e1a",
+        "title": "Associate Software Engineer - Engineering Development Program",
+        "active": true,
+        "date_updated": 1786054755,
+        "date_posted": 1786054008,
+        "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9/apply",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Visa",
+        "id": "357a59fd-4201-427c-9161-45e5a391d400",
+        "title": "Data Scientist Graduate - Multiple Teams",
+        "active": true,
+        "date_updated": 1786054637,
+        "date_posted": 1785974400,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/Data-Science-Graduate_REF93870J-3",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Veeva Systems",
+        "id": "221f4f27-c95d-4fa4-98c1-bbb7b8aa79aa",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1786054357,
+        "date_posted": 1786054015,
+        "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6/apply",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Veeva Systems",
+        "id": "d3bdb070-74f3-4fe0-ad6a-508f9dc3d75a",
+        "title": "Associate Software Engineer - Engineering Development Program",
+        "active": true,
+        "date_updated": 1786054340,
+        "date_posted": 1786054010,
+        "url": "https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Veeva Systems",
+        "id": "ff10df50-35b8-47c4-8138-ff9083746abf",
+        "title": "Associate Software Engineer - Engineering Development Program",
+        "active": true,
+        "date_updated": 1786054321,
+        "date_posted": 1786054014,
+        "url": "https://jobs.lever.co/veeva/54f473e7-f225-44b3-beb7-b5d50403fe02/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "d4fdab49-1570-4082-8697-7a9ae04f1d31",
+        "title": "Electrical Assembly B",
+        "active": true,
+        "date_updated": 1786054303,
+        "date_posted": 1786053916,
+        "url": "https://jobs.l3harris.com/job/Cincinnati-Assembly-B-OH-45245/1416843300/?ats=successfactors",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "8e628ef5-914a-48c1-b704-c391c1ddd73f",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1786054501,
+        "date_posted": 1786053910,
+        "url": "https://jobs.l3harris.com/job/Sunrise-Associate,-Software-Engineering-FL-33323/1416798700/?ats=successfactors",
+        "locations": [
+            "Sunrise, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "7a9a8488-ebdf-443f-be57-b5d15352b5ab",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1786054284,
+        "date_posted": 1786053911,
+        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1416808900/?ats=successfactors",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "278a72fd-deee-499f-95a7-ca3784540a5b",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1786054281,
+        "date_posted": 1786053913,
+        "url": "https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineer-NJ-07014/1416820000/?ats=successfactors",
+        "locations": [
+            "Clinton, MD",
+            "Clifton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "223fbdf3-1b1a-4d1e-b9c7-de2234eec1d6",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1786054277,
+        "date_posted": 1786053911,
+        "url": "https://jobs.l3harris.com/job/Lynchburg-Associate,-Software-Engineering-VA-24501-6952/1416807700/?ats=successfactors",
+        "locations": [
+            "Lynchburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "dbb7bfc6-dec7-4bee-a3d7-35a59742fb45",
+        "title": "Software Engineering Senior Associate",
+        "active": true,
+        "date_updated": 1786054255,
+        "date_posted": 1786053882,
+        "url": "https://jobs.l3harris.com/job/Lynchburg-Senior-Associate,-Software-Engineering-VA-24501-6952/1416687100/?ats=successfactors",
+        "locations": [
+            "Lynchburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CIBC",
+        "id": "a5a6ee19-492e-43ba-962c-3419db370ade",
+        "title": "Technology Graduate Rotational Program Associate - TGRP",
+        "active": true,
+        "date_updated": 1786054260,
+        "date_posted": 1785974400,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Associate--Technology-Graduate-Rotational-Program--TGRP-_2511828",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
