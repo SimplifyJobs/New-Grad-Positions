@@ -39,79 +39,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "1aee91fe-64b6-498e-bd28-c03538e2f326",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1765301773,
-        "date_posted": 1765301773,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042653",
-        "locations": [
-            "Warrington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "71033aec-f2ec-4c34-8668-a731a8a6518a",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1765301774,
-        "date_posted": 1765301774,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042650",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Corning",
-        "id": "c1b875ad-a151-4291-9a22-0cfac83b1842",
-        "title": "Measurement Technician",
-        "active": false,
-        "date_updated": 1765302062,
-        "date_posted": 1765302062,
-        "url": "https://corningjobs.corning.com/job/Wilmington-Measurement-Technician-NC-28405/1304713600/?ats=successfactors",
-        "locations": [
-            "Elmira, NY",
-            "Wilmington, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Corning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics",
-        "id": "b9cdce49-691d-4644-ae87-8aa3c4cac069",
-        "title": "Web Application Developer",
-        "active": false,
-        "date_updated": 1765302018,
-        "date_posted": 1765302018,
-        "url": "https://careers-gdeb.icims.com/jobs/17081/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Groton, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "277e7fa0-14c8-471d-86fa-5f37771ae349",
         "title": "Trading Assistant - Local",
         "active": false,
@@ -27444,27 +27371,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Infleqtion",
-        "id": "6e04e378-3834-47ef-8725-b4ac6dd92fd4",
-        "title": "Quantum Software Engineer",
-        "active": false,
-        "date_updated": 1767866256,
-        "date_posted": 1765301769,
-        "url": "https://apply.workable.com/coldquanta/j/00EC28A7E5/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Infleqtion",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -168741,7 +168647,7 @@
         "company_name": "Simulmedia",
         "id": "5a52cd5a-c29d-4511-b49c-a7d5b3bca766",
         "title": "Generative AI Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775514601,
         "date_posted": 1775513036,
         "url": "https://jobs.lever.co/simulmedia/52c56404-78f4-41be-a1a0-ef3ecd84993c/apply",
@@ -251594,7 +251500,7 @@
         "company_name": "Veolia",
         "id": "758a3608-344b-4124-845e-d55872951358",
         "title": "Data Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1780611664,
         "date_posted": 1780610796,
         "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000130248314",
@@ -362579,7 +362485,7 @@
         "company_name": "AssetMark",
         "id": "53674862-c0d4-4b5c-8529-59e8bfba387d",
         "title": "Associate Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786025881,
         "date_posted": 1785974400,
         "url": "https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Associate-Engineer_Req-003922-1",
