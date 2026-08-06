@@ -38,24 +38,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Deutsche Bank",
-        "id": "6f6db197-c4a0-4105-af58-973c3e5c434e",
-        "title": "Corporate Bank Technology - Payments Initiation - Java Engineer",
-        "active": false,
-        "date_updated": 1765273656,
-        "date_posted": 1765273656,
-        "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Cary-3000-CentreGreen-Way/Corporate-Bank-Technology---Payments-Initiation---Java-Engineer---Associate_R0414615-3",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Deutsche-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Cadence Design Systems",
         "id": "fb26dd40-8917-45b8-b4b8-7d1f3398c046",
         "title": "Software Development Engineer",
@@ -21052,24 +21034,6 @@
             "San Antonio, TX"
         ],
         "company_url": "https://simplify.jobs/c/NCR-Atleos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Loft",
-        "id": "6db76919-8a6e-4e69-b533-376cafce6a0c",
-        "title": "Analyst \u2013 Customer Insights",
-        "active": false,
-        "date_updated": 1765462273,
-        "date_posted": 1765273534,
-        "url": "https://knitwellgroup.wd1.myworkdayjobs.com/US_Corporate_Jobs/job/Times-Square-Tower-ANN-New-York-NY-10036/Analyst--Customer-Insights_R-2019782",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Loft",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -140991,7 +140955,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -141011,7 +140975,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -293179,7 +293143,7 @@
         "company_name": "Visa",
         "id": "3bd0ee22-015a-46b2-bd09-a7d1297b6963",
         "title": "Software Engineer / Site Reliability Engineer - Linux",
-        "active": false,
+        "active": true,
         "date_updated": 1783041317,
         "date_posted": 1783041100,
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Basingstoke-United-Kingdom/Software-Engineer_REF076350W",
@@ -299119,7 +299083,7 @@
         "company_name": "Hilbert",
         "id": "786414d8-5fda-439b-81fc-9534536d2589",
         "title": "Mathematician - Foundation Team",
-        "active": false,
+        "active": true,
         "date_updated": 1783473121,
         "date_posted": 1783472997,
         "url": "https://jobs.ashbyhq.com/hilberts/adbe0102-fa3e-484f-98c8-bf02dd478945/application",
@@ -350164,7 +350128,7 @@
         "company_name": "Cruise Planners",
         "id": "8e39caee-5981-4592-85be-242f01506e38",
         "title": "Data & AI Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785619455,
         "date_posted": 1785191052,
         "url": "https://ats.rippling.com/cruiseplanners/jobs/e6ae477d-6a3c-45aa-ade1-21414fe119f9",
@@ -352920,7 +352884,7 @@
         "company_name": "Ludlum Measurement, Inc (VPI Technology, ADIT, Eljen, WTM, Protean Instr)",
         "id": "74cd9509-accc-467b-8bda-e05f70b0b588",
         "title": "Calibrator",
-        "active": false,
+        "active": true,
         "date_updated": 1785738601,
         "date_posted": 1785737786,
         "url": "https://vpitechnology.applytojob.com/apply/h864JPWnOQ/Calibrator",
@@ -360158,7 +360122,7 @@
         "company_name": "National Water Services",
         "id": "6454e048-65b8-4604-91ff-93abbdf12ae0",
         "title": "Field Technician - Quick Side Hustle",
-        "active": true,
+        "active": false,
         "date_updated": 1785923434,
         "date_posted": 1784596629,
         "url": "https://ats.rippling.com/nws/jobs/965be1de-09f6-4ddd-a826-e08e31537862",
@@ -362645,5 +362609,44 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Barclays",
+        "id": "8a717ae4-e44a-4ade-ae84-abbc3d27e232",
+        "title": "AI Engineer - Private Bank and Wealth Management",
+        "active": true,
+        "date_updated": 1786009681,
+        "date_posted": 1785974400,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/AI-Engineer_JR-0000113698-1",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Barclays",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cohere",
+        "id": "84c60471-c6d0-43de-9f00-63407856c63e",
+        "title": "Data Annotation Specialist - Simplified Chinese / Mandarin",
+        "active": true,
+        "date_updated": 1786009681,
+        "date_posted": 1772579859,
+        "url": "https://jobs.ashbyhq.com/cohere/34533921-d731-4529-89e7-cf4939055a20/application?embed=true",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada",
+            "Calgary, AB, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cohere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
