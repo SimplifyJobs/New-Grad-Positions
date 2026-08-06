@@ -37,24 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Peraton",
-        "id": "3880f0c5-47ce-4a28-bb0b-70d115a8ca91",
-        "title": "Software Engineer - Junior",
-        "active": false,
-        "date_updated": 1765292277,
-        "date_posted": 1765292277,
-        "url": "https://careers-peraton.icims.com/jobs/161942/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "1aee91fe-64b6-498e-bd28-c03538e2f326",
@@ -69029,7 +69011,7 @@
         "company_name": "The New York Times",
         "id": "68674c8e-c435-47e4-b0cb-9625d7e71081",
         "title": "Associate Android Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770333876,
         "date_posted": 1770333876,
         "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4636765005",
@@ -270885,7 +270867,7 @@
         "company_name": "Zebra Technologies",
         "id": "e197577b-0c72-45ea-aa10-ee6e30c93095",
         "title": "Radio Frequency Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781677197,
         "date_posted": 1781676473,
         "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/RF-Engineer-I_JR101837",
@@ -331813,7 +331795,7 @@
         "company_name": "Mastercard",
         "id": "c218131b-b198-483e-94bc-03192688c34b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784845680,
         "date_posted": 1784246400,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Development-Engineer_R-284435",
@@ -335915,7 +335897,7 @@
         "company_name": "The New York Times",
         "id": "2c2f7b9c-6f6f-4643-a30f-92a1b7dfb06e",
         "title": "iOS Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784932797,
         "date_posted": 1776895626,
         "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4680153005",
@@ -335933,7 +335915,7 @@
         "company_name": "The New York Times",
         "id": "69b7b703-e167-4495-ae38-dcca814d757f",
         "title": "Software Engineer - Scoop Core",
-        "active": true,
+        "active": false,
         "date_updated": 1784932562,
         "date_posted": 1773930030,
         "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4673616005",
@@ -350901,7 +350883,7 @@
         "company_name": "Garmin",
         "id": "8c77e71c-c994-482b-8f7f-90534f7dfdba",
         "title": "Embedded Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785650941,
         "date_posted": 1785650881,
         "url": "https://careers.garmin.com/jobs/18602?icims=1",
@@ -362443,6 +362425,212 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LiveScore Group",
+        "id": "2446865e-7ba5-4adc-9e7b-8d0a9a5fc6ed",
+        "title": "Junior Data Scientist - Marketing Analytics",
+        "active": true,
+        "date_updated": 1786027501,
+        "date_posted": 1786027382,
+        "url": "https://job-boards.greenhouse.io/livescore9/jobs/8683687002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/LiveScore-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bass Pro Shops",
+        "id": "a531cd4d-7bc9-44db-99b9-2078d95dea13",
+        "title": "Product Specialist - Apparel",
+        "active": true,
+        "date_updated": 1786027212,
+        "date_posted": 1785974400,
+        "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Product-Specialist-Apparel_R262420-1",
+        "locations": [
+            "Springfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Bass-Pro-Shops",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "ee07e080-9a86-42c4-ba6c-ccfde60a22ac",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786027110,
+        "date_posted": 1785974400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Program-Protection-Software-Engineer-I--Onsite-_01864768",
+        "locations": [
+            "Woburn, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KBR",
+        "id": "1f1dde48-a701-40c2-b7e9-f7306c5fb5ef",
+        "title": "Junior Software Engineer Intern - Software Integration",
+        "active": true,
+        "date_updated": 1786027051,
+        "date_posted": 1785974400,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Integration-Engineer_R2127834",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salesforce",
+        "id": "90326487-43c7-4181-ac71-44e331484bf4",
+        "title": "Software Engineer College Grad",
+        "active": true,
+        "date_updated": 1786026966,
+        "date_posted": 1785974400,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "Indianapolis, IN",
+            "SF",
+            "Dallas, TX",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Amplify",
+        "id": "d083e91c-c1b4-48f7-b678-f532b96cf705",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1786025881,
+        "date_posted": 1786025747,
+        "url": "https://jobs.ashbyhq.com/amplify/cbe758ef-1a66-4513-a263-e83b0d445c82/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amplify",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salesforce",
+        "id": "c92fc7de-e326-4327-8f9c-5195b90591e9",
+        "title": "Software Engineer College Grad",
+        "active": true,
+        "date_updated": 1786026841,
+        "date_posted": 1785974400,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "Indianapolis, IN",
+            "SF",
+            "Dallas, TX",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AssetMark",
+        "id": "53674862-c0d4-4b5c-8529-59e8bfba387d",
+        "title": "Associate Engineer",
+        "active": true,
+        "date_updated": 1786025881,
+        "date_posted": 1785974400,
+        "url": "https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Associate-Engineer_Req-003922-1",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/AssetMark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "2952c868-196f-449a-a019-79a5ddd2a514",
+        "title": "Equities Trading Analyst - Cash Equities Trading",
+        "active": true,
+        "date_updated": 1786026624,
+        "date_posted": 1786025604,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778146",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DaVita",
+        "id": "9d731ae5-fb1f-4c2f-8c67-8627ba75d49c",
+        "title": "Patient Experience Analyst - Multiple Teams",
+        "active": true,
+        "date_updated": 1786025881,
+        "date_posted": 1785974400,
+        "url": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Patient-Experience-Analyst_R0470908",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/DaVita",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
