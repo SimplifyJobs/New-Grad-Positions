@@ -38,24 +38,6 @@
     {
         "source": "Simplify",
         "category": "Product",
-        "company_name": "Thermo Fisher Scientific",
-        "id": "06f02892-1a80-40a5-99b5-3b9f32a36417",
-        "title": "Product Management Specialist 1",
-        "active": false,
-        "date_updated": 1765242705,
-        "date_posted": 1765242705,
-        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Product-Management-Specialist-I_R-01336588",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
         "company_name": "SpotOn",
         "id": "4866aaea-e156-4428-93c0-80ea1e8467f2",
         "title": "Product Partnerships Manager",
@@ -15982,24 +15964,6 @@
             "Charlotte, NC"
         ],
         "company_url": "https://simplify.jobs/c/ERM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Covenant Health",
-        "id": "a0007d61-e7d4-4c16-8442-a81fbe50f041",
-        "title": "Certified Nursing Assistant",
-        "active": false,
-        "date_updated": 1766744505,
-        "date_posted": 1765242588,
-        "url": "https://careers-covenanthealth.icims.com/jobs/69607/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Kitsap County, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Covenant-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -141269,7 +141233,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -141289,7 +141253,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -255582,7 +255546,7 @@
         "company_name": "Tesla",
         "id": "5b67def9-a0ed-4081-8704-cad041d68197",
         "title": "AI Safety Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1780844470,
         "date_posted": 1780844293,
         "url": "https://www.tesla.com/careers/search/job/247016",
@@ -309053,7 +309017,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -342097,7 +342061,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
@@ -358981,7 +358945,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "fb262cfb-af24-408e-8846-460fd50a2727",
         "title": "Insurance Product Management Consultant 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785883667,
         "date_posted": 1785801600,
         "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Remote---Remote/Insurance-Product-Management-Consultant-I_R33266",
@@ -362072,6 +362036,440 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Varsity Brands",
+        "id": "f6146660-41bf-4fcd-ba7b-24a1c19c1176",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1785979431,
+        "date_posted": 1785979142,
+        "url": "https://careers.varsitybrands.com/global/en/job/JR114562",
+        "locations": [
+            "Farmers Branch, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Varsity-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "bb606683-d0a7-4560-b7cd-e9d06048c78a",
+        "title": "Software Engineer Graduate - Multiple Teams",
+        "active": true,
+        "date_updated": 1785979261,
+        "date_posted": 1785979109,
+        "url": "https://lifeattiktok.com/search/7668582086900680965",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "ea160ce8-8221-40f5-a5bb-ca66c1ca3e01",
+        "title": "Software Engineer Graduate - Global E-commerce-Search - 2027 Start",
+        "active": true,
+        "date_updated": 1785979261,
+        "date_posted": 1785979105,
+        "url": "https://lifeattiktok.com/search/7670558992960358661",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "fa32f7e9-199a-4ce4-999a-6b08b2e3b8fb",
+        "title": "Software Engineer Graduate - Data Arch - E-commerce",
+        "active": true,
+        "date_updated": 1785979261,
+        "date_posted": 1785979109,
+        "url": "https://lifeattiktok.com/search/7668582542044072245",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Saalex",
+        "id": "ab6271d3-69f2-4193-a73d-f54d3c10b611",
+        "title": "Automation Developer",
+        "active": true,
+        "date_updated": 1785979082,
+        "date_posted": 1785979071,
+        "url": "https://apply.workable.com/saalex/j/B9CC90B5BA/apply",
+        "locations": [
+            "Remote in USA",
+            "Lexington Park, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/6d9de29e-f9f7-4c9e-a5d7-84fbde42a896",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "b5c1fef0-1b4d-45d7-aebe-2baa0c94063b",
+        "title": "Associate Software Engineer / Software Engineer - Software Engineering",
+        "active": true,
+        "date_updated": 1785979254,
+        "date_posted": 1785888000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10243561",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "011706fb-50bf-4f4a-83bc-889e91793224",
+        "title": "AI/ML-driven ASIC Design and Implementation Automation Engineer - Advanced Chip Engineering - Design Methodologies and Automation",
+        "active": true,
+        "date_updated": 1785979213,
+        "date_posted": 1785888000,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Diego-Treena-St/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10065564",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Civica",
+        "id": "a7af55a1-d408-4bb0-9eb1-fead3468a5b5",
+        "title": "AI Strategy & Innovation Associate",
+        "active": true,
+        "date_updated": 1785979082,
+        "date_posted": 1785979050,
+        "url": "https://apply.workable.com/civica-uk-ltd-1/j/B7064442D1/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/cc123d53-620c-4f9d-b6e3-c68e855962f3",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "54b0972d-66aa-4933-b3cb-6910d796d1ab",
+        "title": "Electrical Assembler",
+        "active": true,
+        "date_updated": 1785979082,
+        "date_posted": 1785888000,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Byhalia-MS/Electrical-Assembler_J2456822",
+        "locations": [
+            "Byhalia, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thales",
+        "id": "1f809472-fb1e-45c5-a6d3-5518981f4daa",
+        "title": "Digital Electronics Technician - Intelligence, Surveillance and Reconnaissance",
+        "active": true,
+        "date_updated": 1785979082,
+        "date_posted": 1785974400,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/Digital-Electronics-Technician_R0332087",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "bfd1c427-89d3-4f8c-bbf9-9989c11db135",
+        "title": "Graduate Software Engineer - Global CRM",
+        "active": true,
+        "date_updated": 1785979263,
+        "date_posted": 1785979053,
+        "url": "https://lifeattiktok.com/search/7668554579301124357",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "d8645530-b37c-478e-a169-f696a1f1e2b8",
+        "title": "Electrical Assembler",
+        "active": true,
+        "date_updated": 1785979082,
+        "date_posted": 1785888000,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Electrical-Assembler_J2456848",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Baxter International",
+        "id": "8aed0ba0-9554-4612-857e-0a9fa3abce88",
+        "title": "Field Service Technician 1",
+        "active": true,
+        "date_updated": 1785979203,
+        "date_posted": 1785888000,
+        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Omaha-Nebraska/Field-Service-Technician-I---Omaha--NE_JR-206611-2",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Baxter-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Baxter International",
+        "id": "0c481cca-dbb2-4610-8ece-c257677c6f6b",
+        "title": "Field Service Technician 1",
+        "active": true,
+        "date_updated": 1785979198,
+        "date_posted": 1785888000,
+        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/New-Orleans-Louisiana/Field-Service-Technician-I---New-Orleans--LA_JR-206314-1",
+        "locations": [
+            "New Orleans, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Baxter-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Baxter International",
+        "id": "1064fb38-4da3-43bd-b773-5337814aef09",
+        "title": "Field Service Technician 2",
+        "active": true,
+        "date_updated": 1785979184,
+        "date_posted": 1783987200,
+        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Parsippany-Troy-Hills-New-Jersey/Field-Service-Technician-II_JR-204608-1",
+        "locations": [
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Baxter-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "876763a8-d126-487c-a934-12d38e4ef19a",
+        "title": "Operating System Engineer Graduate - Operating System-System Technologies and Engineering",
+        "active": true,
+        "date_updated": 1785979165,
+        "date_posted": 1785978868,
+        "url": "https://jobs.bytedance.com/en/position/7668461589331642677/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "f8f5f407-91e8-40cc-8d8c-d2985c26df70",
+        "title": "AI/LLM Network Software Development Engineer Graduate - High Speed Network - PhD",
+        "active": true,
+        "date_updated": 1785978903,
+        "date_posted": 1785978870,
+        "url": "https://jobs.bytedance.com/en/position/7668862426676775173/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "98a4a0b5-63ae-4794-a5ca-2c7e290d1bce",
+        "title": "Entry-Level Software Engineer",
+        "active": true,
+        "date_updated": 1785978724,
+        "date_posted": 1785888000,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026516694-1",
+        "locations": [
+            "Maryland Heights, MO",
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "ce9280c2-f942-4e08-8be0-a8640eee129b",
+        "title": "Entry-Level Software Engineer",
+        "active": true,
+        "date_updated": 1785978724,
+        "date_posted": 1785888000,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026516694",
+        "locations": [
+            "Maryland Heights, MO",
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ServiceNow",
+        "id": "9ed7b461-c9c3-4d18-9e17-4bbc1ad3e3c9",
+        "title": "Software Engineer - Agentic AI Harness & Quality",
+        "active": true,
+        "date_updated": 1785978549,
+        "date_posted": 1785978443,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000141814009",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hyve Solutions",
+        "id": "39b43ccf-1246-4560-bf75-911a56f3439e",
+        "title": "Production Test Technician 2",
+        "active": true,
+        "date_updated": 1785978966,
+        "date_posted": 1785888000,
+        "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/MFG-Tech-II_R54836",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/100a87e3-2540-44fd-9de7-caea9e8b2cfa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Harris Computer",
+        "id": "56950869-0fbf-431b-b2ed-b5d9d2a76efe",
+        "title": "Associate Software Engineer - RPG",
+        "active": true,
+        "date_updated": 1785978549,
+        "date_posted": 1785888000,
+        "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Tennessee-United-States/Associate-Software-Engineer--RPG_R0045601-1",
+        "locations": [
+            "Tennessee"
+        ],
+        "company_url": "https://simplify.jobs/c/Harris-Computer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
