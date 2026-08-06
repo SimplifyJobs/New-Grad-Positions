@@ -37,45 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "The Walt Disney Company",
-        "id": "6a06c9a9-3be2-4015-9268-9ba044779623",
-        "title": "Product Manager 1 - Associate Product Manager Program",
-        "active": false,
-        "date_updated": 1765267953,
-        "date_posted": 1765267953,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Disney-Entertainment-and-ESPN-Product---Technology--Associate-Product-Manager-Program_10138098",
-        "locations": [
-            "Glendale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Carnegie Mellon University",
-        "id": "82879d5a-4808-4cf4-af55-6112aa95c9aa",
-        "title": "Data Analyst and AI Specialist",
-        "active": false,
-        "date_updated": 1765267642,
-        "date_posted": 1765267642,
-        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Data-Analyst-and-AI-Specialist---Institutional-Effectiveness-and-Planning---Office-of-the-Provost_2023933-1",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Fermilab",
         "id": "fe378e10-306c-4e88-b331-ddee2b81add2",
@@ -316718,7 +316679,7 @@
         "company_name": "Northrop Grumman",
         "id": "0c79b2fa-a7cb-4534-8dd3-5d6e79a3980c",
         "title": "Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784413082,
         "date_posted": 1784332800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Engineering-Technician--Level-2-3-_R10241027",
@@ -330051,7 +330012,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "03a80408-3fdc-4795-a4b5-eae66d9d2956",
         "title": "Junior Data Engineer - Faculty Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1784796827,
         "date_posted": 1781360155,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Junior-Data-Engineer--Faculty-Specialist-_JR104102",
