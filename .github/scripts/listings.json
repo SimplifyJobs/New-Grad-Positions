@@ -37,24 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Athena Health",
-        "id": "83b6d713-b228-464b-9534-09830fda36bb",
-        "title": "Analyst-Trading Partner Operations",
-        "active": false,
-        "date_updated": 1765257281,
-        "date_posted": 1765257281,
-        "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Belfast-ME/Analyst--Trading-Partner-Operations_R13961",
-        "locations": [
-            "Bangor, ME"
-        ],
-        "company_url": "https://simplify.jobs/c/e955406a-7989-4ed8-aff1-01032b96e141",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Rakuten International",
         "id": "424445f2-1113-4bbd-85f3-15f739dbb980",
@@ -274060,7 +274042,7 @@
         "company_name": "Tesla",
         "id": "1941cf58-d377-4f13-8d66-ee6d978d4f5a",
         "title": "Frontend Software Engineer - Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1781822385,
         "date_posted": 1781820624,
         "url": "https://www.tesla.com/careers/search/job/274330",
@@ -316290,7 +316272,7 @@
         "company_name": "Citadel",
         "id": "1d1d2782-d1f8-47e7-980c-9f71c9a591cf",
         "title": "Machine Learning Researcher \u2013 PhD Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1784337481,
         "date_posted": 1784336953,
         "url": "https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-us/",
