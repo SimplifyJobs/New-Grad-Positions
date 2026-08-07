@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Liberis",
-        "id": "24e9fec6-f41c-43f4-b955-7874d3cb1f74",
-        "title": "Product Operations Associate",
-        "active": false,
-        "date_updated": 1765374562,
-        "date_posted": 1765374562,
-        "url": "https://job-boards.greenhouse.io/liberis/jobs/7454679",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Liberis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Motorola",
         "id": "ea6e4bf2-a995-408c-8c0d-9080bfdc5b54",
@@ -142,42 +124,6 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Samsung",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Huntington Bancshares",
-        "id": "e9521723-a8b4-4add-97bf-a939f408a05b",
-        "title": "Technology Delivery Analyst - Elevate",
-        "active": false,
-        "date_updated": 1765374524,
-        "date_posted": 1765374524,
-        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Minnetonka-MN/Technology-Delivery-Analyst--Elevate-_R0067569",
-        "locations": [
-            "Hopkins, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "75876bc9-7218-4153-8ed2-b1270d05c522",
-        "title": "System Engineer 2",
-        "active": false,
-        "date_updated": 1765375087,
-        "date_posted": 1765375087,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO210-9970-Federal-Drive-Colo-Spr-9970-Federal-Drive---Colorado-Springs-CO-80921-USA/System-Engineer-II--Onsite-_01811453",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -18693,24 +18639,6 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Asurion",
-        "id": "a56d3cb1-9ddb-433d-8feb-d0624eb06b47",
-        "title": "Cell Phone Repair Technician-Partnership Store - Google",
-        "active": false,
-        "date_updated": 1765374499,
-        "date_posted": 1765374499,
-        "url": "https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/UBIF-IL---Oakbrook---63-Oakbrook-Ctr/Cell-Phone-Repair-Technician--Partnership-Store--Google-_ASU0018168",
-        "locations": [
-            "Western Springs, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Asurion",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -139625,7 +139553,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -139645,7 +139573,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -155601,7 +155529,7 @@
         "company_name": "TikTok",
         "id": "714f26ab-28dd-4f39-8b84-f3869099f68f",
         "title": "Vision Language Models/Vision Language Models Research Scientist Graduate - Trust and Safety - PhD",
-        "active": true,
+        "active": false,
         "date_updated": 1774919992,
         "date_posted": 1774919590,
         "url": "https://lifeattiktok.com/search/7594895259798325557",
@@ -342414,7 +342342,7 @@
         "company_name": "ISS | Institutional Shareholder Services",
         "id": "1e5f9a38-8a28-4174-869e-7827504c5497",
         "title": "Enterprise Data and Operations Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785366362,
         "date_posted": 1785283200,
         "url": "https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/Norman-OK-US/Enterprise-Data-and-Operations-Analyst_JR_10203",
@@ -348819,7 +348747,7 @@
         "company_name": "Oklahoma State Government",
         "id": "cd501903-dd87-4ebc-9477-14b64f06f388",
         "title": "Oil and Gas Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785619364,
         "date_posted": 1785110400,
         "url": "https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/Oil-and-Gas-Specialist-I_JR63061",
@@ -357337,7 +357265,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "fb262cfb-af24-408e-8846-460fd50a2727",
         "title": "Insurance Product Management Consultant 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785883667,
         "date_posted": 1785801600,
         "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Remote---Remote/Insurance-Product-Management-Consultant-I_R33266",
