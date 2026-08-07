@@ -297901,7 +297901,7 @@
         "company_name": "Hilbert",
         "id": "786414d8-5fda-439b-81fc-9534536d2589",
         "title": "Mathematician - Foundation Team",
-        "active": true,
+        "active": false,
         "date_updated": 1783473121,
         "date_posted": 1783472997,
         "url": "https://jobs.ashbyhq.com/hilberts/adbe0102-fa3e-484f-98c8-bf02dd478945/application",
@@ -309105,7 +309105,7 @@
         "company_name": "Kantar",
         "id": "565ebd9c-eba4-4093-a5c3-0465aa0ae021",
         "title": "Product Manager Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1784078433,
         "date_posted": 1783987200,
         "url": "https://kantar.wd3.myworkdayjobs.com/kantar/job/New-York-World-Trade-Center/Associate-Product-Manager_R101614",
@@ -348946,7 +348946,7 @@
         "company_name": "Cruise Planners",
         "id": "8e39caee-5981-4592-85be-242f01506e38",
         "title": "Data & AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785619455,
         "date_posted": 1785191052,
         "url": "https://ats.rippling.com/cruiseplanners/jobs/e6ae477d-6a3c-45aa-ade1-21414fe119f9",
@@ -364008,6 +364008,24 @@
             "Groton, CT"
         ],
         "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Systems Planning and Analysis (SPA)",
+        "id": "91670e9d-aa18-421c-ade0-3c2518a800c5",
+        "title": "AV Specialist",
+        "active": true,
+        "date_updated": 1786098061,
+        "date_posted": 1785575349,
+        "url": "https://spa.jibeapply.com/jobs/22911?icims=1",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/System-Planning-And-Analysis",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
