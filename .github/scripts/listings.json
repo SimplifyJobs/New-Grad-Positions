@@ -54,83 +54,6 @@
         "degrees": []
     },
     {
-        "date_updated": 1765891977,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Junior-Transportation-Data-Scientist_R-00171849",
-        "company_name": "Leidos",
-        "title": "Junior Transportation Data Scientist",
-        "locations": [
-            "McLean, VA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "5d66c3d9-bdb2-4ce5-8a4d-b4aa93357bf8",
-        "date_posted": 1765391510,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1771250796,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://ms.wd5.myworkdayjobs.com/en-US/external/job/New-York-New-York-United-States-of-America/Market-Risk-Analytics-Associate--Stress-Testing-and-AI-Integration_PT-JR025318",
-        "company_name": "Morgan Stanley",
-        "title": "Market Risk Analytics Associate, Stress Testing and AI Integration",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "f79aafda-9e50-4377-8305-c04b4f824cf0",
-        "date_posted": 1765391603,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1765980595,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Quantitative-Model-Validation-Officer-I_R0108804",
-        "company_name": "Truist",
-        "title": "Quantitative Model Validation Officer I",
-        "locations": [
-            "Charlotte, NC",
-            "Atlanta, GA"
-        ],
-        "category": "Quantitative Finance",
-        "source": "AlmondCroffle",
-        "id": "d7f88680-2fb6-4d69-aac6-507d0607141e",
-        "date_posted": 1765391665,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Huntington Bancshares",
-        "id": "a85d698d-dc46-428e-9578-c457f230b321",
-        "title": "Technology Delivery Analyst",
-        "active": false,
-        "date_updated": 1765392440,
-        "date_posted": 1765392440,
-        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst_R0067678",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "ServiceNow",
@@ -259947,7 +259870,7 @@
         "company_name": "FinQuery",
         "id": "97108d56-7eab-4ad6-9e63-adccea714e91",
         "title": "Database Engineer / Database Administrator",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1779228184,
         "url": "https://jobs.lever.co/finquery/8d49690f-a2fe-4f7b-8af2-434d0dbeb0e9/apply",
@@ -356230,7 +356153,7 @@
         "company_name": "CAE",
         "id": "6fa17c31-6066-4688-a168-04d1fec5ee35",
         "title": "Simulator Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1785881702,
         "date_posted": 1785801600,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Eagan/Simulator-Technician_122751",
