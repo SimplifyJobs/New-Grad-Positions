@@ -56,81 +56,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "fe5e3857-fc21-4876-8d6f-5f2bd1fccf2f",
-        "title": "Engineer 1 - Design",
-        "active": false,
-        "date_updated": 1765384690,
-        "date_posted": 1765384690,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Canada---Burnaby/Engineer-I---Design_R2483-25",
-        "locations": [
-            "Burnaby, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "mthree",
-        "id": "6ce4c517-ed15-4308-b1b3-db9ed7be5a53",
-        "title": "Technology Talent Programme",
-        "active": false,
-        "date_updated": 1765385275,
-        "date_posted": 1765385275,
-        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4597297006",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Axos Bank",
-        "id": "097eb5ad-3942-43b7-8581-1190a5cc1c79",
-        "title": "Junior Business & Technology Analyst",
-        "active": false,
-        "date_updated": 1765385378,
-        "date_posted": 1765385378,
-        "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Jr-Business---Technology-Analyst---Data-Scientist---Machine-Learning-Engineer_JR3704",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Axos-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "bf57d499-c530-4912-ac5e-65f02063a5c5",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1765384527,
-        "date_posted": 1765384527,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA826-200-Holger-WaySan-Jose-200-Holger-Way---San-Jose-CA-95134-USA/Software-Engineer-I--Onsite-_01811717",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "KBR",
         "id": "23f16a16-62fd-48a0-8c00-7e597fbd8d50",
         "title": "Associate Tool & Gage Technician",
@@ -142,24 +67,6 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Elanco",
-        "id": "efb927fd-06e1-4f86-b22c-e3129b70df41",
-        "title": "Associate-Data Strategy & Standards",
-        "active": false,
-        "date_updated": 1765385386,
-        "date_posted": 1765385386,
-        "url": "https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/Associate--Data-Strategy---Standards_R0024043",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Elanco",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -178,206 +85,6 @@
             "Fort Wayne, IN"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Caterpillar Inc.",
-        "id": "36db5e0d-0a78-4ad8-96fd-853e7a80d14f",
-        "title": "Test Operator",
-        "active": false,
-        "date_updated": 1765385037,
-        "date_posted": 1765385037,
-        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Shrewsbury-United-Kingdom/Test-Operator_R0000315469",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intel",
-        "id": "c6e52bfb-f728-4fc9-9557-777d8e57e9ea",
-        "title": "SOC Performance Architect",
-        "active": false,
-        "date_updated": 1765384609,
-        "date_posted": 1765384609,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/SOC-Performance-Architect_JR0277334",
-        "locations": [
-            "Austin, TX",
-            "Santa Clara, CA",
-            "Hillsboro, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Brink",
-        "id": "ff063209-c73a-4045-b980-9f8cb3ec723e",
-        "title": "ATM Technician",
-        "active": false,
-        "date_updated": 1765386026,
-        "date_posted": 1765386026,
-        "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Columbus-OH/ATM-Technician_R67491",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Brink",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Wash U",
-        "id": "f11c6fce-c6c2-4f67-8afa-564c26f8fdc4",
-        "title": "Postdoctoral Research Associate - Physics",
-        "active": false,
-        "date_updated": 1765385901,
-        "date_posted": 1765385901,
-        "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/Postdoctoral-Research-Associate---Physics_JR91660",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Wash-U",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "b379f264-174d-4e2a-9dbd-8500a1acfa76",
-        "title": "Lab Design Engineer / Principal Lab Design Engineer - Multiple Teams",
-        "active": false,
-        "date_updated": 1765385958,
-        "date_posted": 1765385958,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Lab-Design-Engineer---Principal-Lab-Design-Engineer_R10215095",
-        "locations": [
-            "Melbourne, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Synthomer",
-        "id": "8aec4244-673e-43c3-8f95-915e9d869dac",
-        "title": "Scientist \u2013 Akron Technical Center",
-        "active": false,
-        "date_updated": 1765384734,
-        "date_posted": 1765384734,
-        "url": "https://synthomer.wd3.myworkdayjobs.com/synthomercareers/job/US-OH-Akron-ATC/Scientist---Akron-Technical-Center---Onsite_R6616",
-        "locations": [
-            "Akron, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Synthomer",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "LabCorp",
-        "id": "02d310b8-85a2-4be3-b22d-10d09ae55842",
-        "title": "Associate Salesforce Developer",
-        "active": false,
-        "date_updated": 1765384411,
-        "date_posted": 1765384411,
-        "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Associate-Salesforce-Developer_2530652",
-        "locations": [
-            "Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/LabCorp",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "McGill University",
-        "id": "00c1f21e-ac56-45dd-aa2b-77804e7cb7b8",
-        "title": "Research Assistant 2",
-        "active": false,
-        "date_updated": 1765385988,
-        "date_posted": 1765385988,
-        "url": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Burnside-Hall/Research-Assistant-2_JR0000072299",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/McGill-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Astreya",
-        "id": "ead16535-3d10-4d3c-b327-d886eff6a6e6",
-        "title": "Fiber Network Mapping Specialist 3",
-        "active": false,
-        "date_updated": 1765384434,
-        "date_posted": 1765384434,
-        "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-III_R0014036",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Astreya",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "7498d8ad-46a2-4724-b563-c6cbe1e328be",
-        "title": "Systems Engineer 1",
-        "active": false,
-        "date_updated": 1765385074,
-        "date_posted": 1765385074,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/Systems-Engineer-I---SETC---Onsite---Tewksbury--MA_01811752",
-        "locations": [
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "iHeartMedia",
-        "id": "f01875c0-d5f0-4455-801f-f540170ded1c",
-        "title": "Talk Radio Producer",
-        "active": false,
-        "date_updated": 1765385976,
-        "date_posted": 1765385976,
-        "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Omaha-NE/Part-Time-Talk-Radio-Producer_Req37363-4",
-        "locations": [
-            "Omaha, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/IHeartMedia",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -7275,24 +6982,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Astreya",
-        "id": "e378382f-8a37-49be-8494-ed2fc91e6eb6",
-        "title": "Fiber Network Mapping Specialist 3",
-        "active": false,
-        "date_updated": 1765978947,
-        "date_posted": 1765385082,
-        "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-III_R0014033",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Astreya",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -15317,25 +15006,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Interdigital",
-        "id": "1f1f5049-70b7-4289-a3e4-0bc3e7724d82",
-        "title": "Wireless Research Software Engineer 2026",
-        "active": false,
-        "date_updated": 1767086647,
-        "date_posted": 1765385934,
-        "url": "https://interdigital.wd5.myworkdayjobs.com/InterDigital_Career/job/Montreal-CAD/XMLNAME-6G-Wireless-Software-Engineer_REQ24-959",
-        "locations": [
-            "Montreal, QC, Canada",
-            "Conshohocken, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Interdigital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "6fb64a4f-2701-4e81-bd38-9350990cafe7",
@@ -18974,24 +18644,6 @@
             "Bozrah, CT"
         ],
         "company_url": "https://simplify.jobs/c/de2a7df6-c0fa-4813-9fba-f1d7a2fb0149",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NCR Atleos",
-        "id": "a818c50f-80ad-44f1-b284-5f71ca947341",
-        "title": "Service Technician 1 - San Antonio TX",
-        "active": false,
-        "date_updated": 1765384765,
-        "date_posted": 1765384765,
-        "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_atleos_us/job/TEXAS-VIRTUAL-USA/Service-Technician-I--San-Antonio-TX_R1150443",
-        "locations": [
-            "San Antonio, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/NCR-Atleos",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -342778,7 +342430,7 @@
         "company_name": "UMC Health System",
         "id": "ad81f1a7-6557-4e78-8f50-eca834b17a15",
         "title": "IT Application Analyst-Entry - Epic Mychart",
-        "active": true,
+        "active": false,
         "date_updated": 1785449882,
         "date_posted": 1785449616,
         "url": "https://umchealthsystem.wd1.myworkdayjobs.com/External/job/Business-and-Technology-Center/IT-Application-Analyst--Entry--Epic-MyChart-_R20410",
