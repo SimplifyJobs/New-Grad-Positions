@@ -113,24 +113,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Cintas",
-        "id": "26eccba9-0270-43c3-b777-fdc458fbff94",
-        "title": "SAP Developer - Level 1",
-        "active": false,
-        "date_updated": 1765383999,
-        "date_posted": 1765383999,
-        "url": "https://careers.cintas.com/job/Mason-SAP-Developer-Level-1-OH-45040/1348727800/?ats=successfactors",
-        "locations": [
-            "Mason, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Cintas",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "RTX",
         "id": "bf57d499-c530-4912-ac5e-65f02063a5c5",
         "title": "Software Engineer 1",
@@ -142,78 +124,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b7787cb7-6935-458a-bf19-1bd887d79a4a",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1765383783,
-        "date_posted": 1765383783,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042822",
-        "locations": [
-            "Stratford-upon-Avon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The University of Edinburgh",
-        "id": "9a0d451f-53ca-4a30-99e2-690465435126",
-        "title": "CDT Administrator for Designing Responsible Natural Language Processing CDT",
-        "active": false,
-        "date_updated": 1765383930,
-        "date_posted": 1765383930,
-        "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13482",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "South West Water",
-        "id": "55903b12-b0f1-45ed-80fb-41dbc8059915",
-        "title": "Alarm Optimisation Technical Assistant",
-        "active": false,
-        "date_updated": 1765383767,
-        "date_posted": 1765383767,
-        "url": "https://jobs.lever.co/southwestwater/0a25ce82-a8fe-4332-8c97-9bb55fd0ab65/apply",
-        "locations": [
-            "Exeter, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/South-West-Water",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "fbb68bfd-2c56-4821-9f36-3503118b3a59",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1765383811,
-        "date_posted": 1765383811,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042794",
-        "locations": [
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -385,24 +295,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Cintas",
-        "id": "4f953f1a-13d4-477c-aeb0-edb57e802b74",
-        "title": "SAP Developer - Level 1",
-        "active": false,
-        "date_updated": 1765384006,
-        "date_posted": 1765384006,
-        "url": "https://careers.cintas.com/job/Mason-SAP-Developer-Level-1-OH-45040/1348730900/?ats=successfactors",
-        "locations": [
-            "Mason, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Cintas",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "LabCorp",
         "id": "02d310b8-85a2-4be3-b22d-10d09ae55842",
         "title": "Associate Salesforce Developer",
@@ -456,42 +348,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Data Intellect",
-        "id": "e8cfbb91-5ad8-4e52-b34d-db58be6a8a8c",
-        "title": "Graduate STEM Developer",
-        "active": false,
-        "date_updated": 1765384055,
-        "date_posted": 1765384055,
-        "url": "https://jobs.smartrecruiters.com/DataIntellect/744000098059311",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Data-Intellect",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Huntington Bancshares",
-        "id": "5c70080c-145b-4017-9a31-b2ff0e777545",
-        "title": "Technology Delivery Analyst - Elevate",
-        "active": false,
-        "date_updated": 1765384291,
-        "date_posted": 1765384291,
-        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0067581",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "7498d8ad-46a2-4724-b563-c6cbe1e328be",
@@ -504,24 +360,6 @@
             "Tewksbury, MA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Intercontinental Exchange",
-        "id": "f60c6b0b-2bba-4a6e-8542-ed47f33a9d33",
-        "title": "Analyst \u2013 Quantitative Research",
-        "active": false,
-        "date_updated": 1765384101,
-        "date_posted": 1765384101,
-        "url": "https://careers-ice.icims.com/jobs/11201/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/ICEMarkets",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -4436,24 +4274,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Optimove",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Emerson Electric",
-        "id": "f193552b-8f82-494d-9d73-a318618d8bd0",
-        "title": "Repair Technician",
-        "active": false,
-        "date_updated": 1765383822,
-        "date_posted": 1765383822,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25029704",
-        "locations": [
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -15510,24 +15330,6 @@
             "Conshohocken, PA"
         ],
         "company_url": "https://simplify.jobs/c/Interdigital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Qualtrics",
-        "id": "47f440b0-3fe8-4f10-a730-29481356d643",
-        "title": "Data Scientist - People Analytics",
-        "active": false,
-        "date_updated": 1767093186,
-        "date_posted": 1765384024,
-        "url": "https://www.qualtrics.com/careers/us/en/job/7445366?gh_jid=7445366",
-        "locations": [
-            "Provo, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualtrics",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -156310,24 +156112,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Boom Supersonic",
-        "id": "8a6a8f0f-3858-439a-8ca5-3cc37ccd8351",
-        "title": "Embedded Software Engineer",
-        "active": false,
-        "date_updated": 1774955327,
-        "date_posted": 1765383487,
-        "url": "https://ats.rippling.com/boom-supersonic/jobs/9a05cb9a-ff1c-4d34-916e-bdf752658276",
-        "locations": [
-            "Centennial, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boom-Supersonic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
