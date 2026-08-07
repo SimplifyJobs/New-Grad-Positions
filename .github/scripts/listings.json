@@ -55,42 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "10a Labs",
-        "id": "ed300a7c-e2ed-47cc-b31e-30a29b54082a",
-        "title": "Data Assistant",
-        "active": false,
-        "date_updated": 1765371906,
-        "date_posted": 1765371906,
-        "url": "https://job-boards.greenhouse.io/10alabs/jobs/4075498009",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/10a-Labs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "The Pok\u00e9mon Company",
-        "id": "5118fe87-b0c9-4ea1-ae38-d14424d00636",
-        "title": "Associate Game Producer",
-        "active": false,
-        "date_updated": 1765372892,
-        "date_posted": 1765372892,
-        "url": "https://job-boards.greenhouse.io/pokemoncareers/jobs/7519801003",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pokemon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Liberis",
         "id": "24e9fec6-f41c-43f4-b955-7874d3cb1f74",
@@ -103,24 +67,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Liberis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Microsoft",
-        "id": "d925fe35-58b3-4aa8-97dc-e0d2878cf8e3",
-        "title": "Applied Scientist",
-        "active": false,
-        "date_updated": 1765371885,
-        "date_posted": 1765371885,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556619598",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -419,24 +365,6 @@
             "Hazelwood, MO"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Chewy",
-        "id": "055558e5-8970-4dcf-ac2c-8253714258dd",
-        "title": "Data Engineer 1",
-        "active": false,
-        "date_updated": 1765371928,
-        "date_posted": 1765371928,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7439025",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Chewy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -17112,25 +17040,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GHD",
-        "id": "438a1168-f84c-43fc-86f1-f2bb9caad346",
-        "title": "Graduate Geoscientist",
-        "active": false,
-        "date_updated": 1765372510,
-        "date_posted": 1765372510,
-        "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24512",
-        "locations": [
-            "London, UK",
-            "Guildford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GHD",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -301559,7 +301468,7 @@
         "company_name": "Mass General Brigham",
         "id": "8af2a66d-e6c4-426c-958e-e788e846a006",
         "title": "Clinical Research Coordinator Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783636196,
         "date_posted": 1782957200,
         "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Clinical-Research-Coordinator-Data-Analyst_RQ4070230",
