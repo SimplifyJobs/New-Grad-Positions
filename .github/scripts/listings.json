@@ -75,45 +75,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Liberty Mutual",
-        "id": "451d2bfc-0e94-4f70-89bb-a014fa685008",
-        "title": "Analyst 1 - Data Science",
-        "active": false,
-        "date_updated": 1765328500,
-        "date_posted": 1765328500,
-        "url": "https://careers-libertymutual.icims.com/jobs/73511/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Boston, MA",
-            "Seattle, WA",
-            "Plano, TX",
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Liberty-Mutual",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intuit",
-        "id": "efc0dbf7-31a4-4029-a359-c618fda541ae",
-        "title": "SWE1 \u2013 Data",
-        "active": false,
-        "date_updated": 1765328311,
-        "date_posted": 1765328311,
-        "url": "https://jobs.intuit.com/job/mountain-view/swe1-data/27595/89339344192",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ServiceNow",
         "id": "c542787b-6af7-42d4-ad4e-4d22e0b3ac20",
@@ -184012,7 +183973,7 @@
         "company_name": "NVIDIA",
         "id": "d0e06f19-99c0-4b3a-b8eb-f4b89a83b0a8",
         "title": "ASIC Verification Engineer \u2013 New College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1776302616,
         "date_posted": 1776301730,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Durham/ASIC-Verification-Engineer---New-College-Grad-2026_JR2016248",
@@ -297668,7 +297629,7 @@
         "company_name": "Nationwide",
         "id": "a04ee426-9fd1-457a-8119-adc9150dacd9",
         "title": "Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783463761,
         "date_posted": 1783462529,
         "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Investment-Analyst---Real-Estate-Investments-Commercial-Mortgage-Loan-Servicing_098852",
