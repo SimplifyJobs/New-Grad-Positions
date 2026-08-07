@@ -55,150 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "ServiceNow",
-        "id": "b0436c96-a5c1-481d-b6c1-0100a1413f3b",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1765408919,
-        "date_posted": 1765408919,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000098164914",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "7561401d-8b4c-456a-aac0-cabf04f40548",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1765408660,
-        "date_posted": 1765408660,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042861",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Westinghouse Electric Company",
-        "id": "db2e1eec-779b-4b84-8f03-c1ecb6eeb3d2",
-        "title": "Nuclear Analysis Technician C / Engineering Technicians",
-        "active": false,
-        "date_updated": 1765408388,
-        "date_posted": 1765408388,
-        "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Nuclear-Analysis-Tech-C-Engineering-Technicians-NC/1337431200/?ats=successfactors",
-        "locations": [
-            "Grove City, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Westinghouse Electric Company",
-        "id": "3fa4b317-1e2a-4d01-8b33-abef803de589",
-        "title": "Shop Tech 1 - Electrical Test",
-        "active": false,
-        "date_updated": 1765408387,
-        "date_posted": 1765408387,
-        "url": "https://careers.westinghousenuclear.com/job/New-Stanton-Shop-Tech-I-Electrical-Test-PA-15672/1327674600/?ats=successfactors",
-        "locations": [
-            "New Stanton, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Westinghouse Electric Company",
-        "id": "0879a0f7-f900-4c5a-960b-703449a0c206",
-        "title": "Engineer 1",
-        "active": false,
-        "date_updated": 1765408387,
-        "date_posted": 1765408387,
-        "url": "https://careers.westinghousenuclear.com/job/Warrendale-Engineer-I-OR/1248858200/?ats=successfactors",
-        "locations": [
-            "Cranberry Twp, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ensora Health",
-        "id": "f6bbfb2d-0fb5-4ba9-99b6-fbc43765bafe",
-        "title": "Associate Mobile App Developer",
-        "active": false,
-        "date_updated": 1765408071,
-        "date_posted": 1765408071,
-        "url": "https://therapybrands.wd1.myworkdayjobs.com/EnsoraHealth/job/Remote---North-Carolina/Associate-Mobile-App-Developer_R402",
-        "locations": [
-            "North Carolina"
-        ],
-        "company_url": "https://simplify.jobs/c/Ensora-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CommScope",
-        "id": "d9222782-cc94-4016-b09f-5bcb3ad80b01",
-        "title": "Engineering Technician",
-        "active": false,
-        "date_updated": 1765407895,
-        "date_posted": 1765407895,
-        "url": "https://jobs.commscope.com/job/Lowell-Engineering-Technician-Mass-01854/1344576900/?ats=successfactors",
-        "locations": [
-            "Lowell, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/CommScope",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Whoop",
-        "id": "acd8252f-d339-4122-aef7-4c65e5952c6f",
-        "title": "Software Engineer 1 - Backend - Healthcare",
-        "active": false,
-        "date_updated": 1765407988,
-        "date_posted": 1765407988,
-        "url": "https://jobs.lever.co/whoop/02b3ba78-ccb4-40a4-94b3-6b14c71eed9e/apply",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Whoop",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "CAI",
         "id": "e3096161-db84-4e80-b8fe-1dd9b38f7feb",
@@ -218,26 +74,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "5502a214-9623-4986-a588-ab26ec1694a0",
-        "title": "Systems Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1765409457,
-        "date_posted": 1765409457,
-        "url": "https://careers-gdms.icims.com/jobs/69695/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Encore Capital Group",
         "id": "3b09f840-2f0d-4af3-9574-18cd5a783090",
         "title": "Associate Software Engineer",
@@ -249,24 +85,6 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/f8040e25-6729-4295-8e39-d5a4fb1ae51c",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Westinghouse Electric Company",
-        "id": "26e526ab-9eb0-4e22-acff-67d66c1e52ca",
-        "title": "Criticality Safety Engineer",
-        "active": false,
-        "date_updated": 1765409391,
-        "date_posted": 1765409391,
-        "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Criticality-Safety-Engineer-NC/1335458000/?ats=successfactors",
-        "locations": [
-            "Cranberry Twp, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -424,116 +242,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Lumen Technologies",
-        "id": "b8e85874-bee9-49fc-856c-5baaa722a0ec",
-        "title": "Enhanced Premise Technician",
-        "active": false,
-        "date_updated": 1765408730,
-        "date_posted": 1765408730,
-        "url": "https://jobs.lumen.com/global/en/job/340285",
-        "locations": [
-            "Thornton, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SpaceX",
-        "id": "1e25cb07-378a-4b10-83a9-5df03df09866",
-        "title": "Software Engineer - Simulations - Application Software",
-        "active": false,
-        "date_updated": 1765408969,
-        "date_posted": 1765408969,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8330100002",
-        "locations": [
-            "West Athens, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "LexisNexis Risk Solutions",
-        "id": "05b8055f-2b73-44ec-bf44-d01f874281d4",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1765408831,
-        "date_posted": 1765408831,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Oklahoma-City-OK/Data-Analyst_R104140",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "JP Morgan Chase",
-        "id": "2f23cc1b-2e04-46ee-9956-d1a7e64134f3",
-        "title": "Trading Services Middle Office - Trading Services Associate I",
-        "active": false,
-        "date_updated": 1765408677,
-        "date_posted": 1765408677,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210684847",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CenturyLink",
-        "id": "032e78f8-c285-48ec-ad0f-c4e0d9d4af22",
-        "title": "Telecommunications Technician",
-        "active": false,
-        "date_updated": 1765408598,
-        "date_posted": 1765408598,
-        "url": "https://internaljobs.centurylink.com/job/THORNTON-Telecommunications-Technician-CO-80241/1336963400/?ats=successfactors",
-        "locations": [
-            "Thornton, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ohio State University",
-        "id": "c205be8e-d3ac-4846-a947-960da8fbfa98",
-        "title": "Applied Research Engineer 1",
-        "active": false,
-        "date_updated": 1765409059,
-        "date_posted": 1765409059,
-        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Applied-Research-Engineer-1_R141828",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Ohio-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "RTX",
         "id": "18f692e0-ef9a-48fc-83fa-1768e8260e7b",
         "title": "Systems Engineer 2",
@@ -583,62 +291,6 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Truist-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "True Anomaly",
-        "id": "7fbb86cb-9fdb-4571-a763-bf158bba95a4",
-        "title": "Engineer 1 - Harness",
-        "active": false,
-        "date_updated": 1765409346,
-        "date_posted": 1765409346,
-        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5001930007",
-        "locations": [
-            "Long Beach, CA",
-            "Centennial, CO",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/TrueAnomaly",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "FlexGen",
-        "id": "e30a4030-0bfe-4797-ad78-5fcfa6d57515",
-        "title": "Energy Storage Application Engineer",
-        "active": false,
-        "date_updated": 1765408970,
-        "date_posted": 1765408970,
-        "url": "https://ats.rippling.com/external-job-board/jobs/6b82e45d-7f0f-4a99-b5a6-9a9186fc5c50",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/FlexGen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "JetBlue",
-        "id": "a612ff1d-3354-4e4c-93cb-177544d010c4",
-        "title": "Associate Product Manager Digital Prod",
-        "active": false,
-        "date_updated": 1765408981,
-        "date_posted": 1765408981,
-        "url": "https://careers.jetblue.com/job/Long-Island-City-Associate-Product-Manager-Digital-Prod-NY-11101/1267416300/?ats=successfactors",
-        "locations": [
-            "Long Island City, Queens, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/JetBlue",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -711,24 +363,6 @@
             "St. Petersburg, FL"
         ],
         "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CompassX Group",
-        "id": "e68e1e4a-c341-4c22-8070-bca60715535f",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1765408580,
-        "date_posted": 1765408580,
-        "url": "https://jobs.lever.co/compassx/a37f62e9-f2fc-4d1a-9d67-5b7778abefdb/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/CompassX-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -13428,24 +13062,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vetcor",
-        "id": "94480067-6f31-409c-a63a-2026a195873a",
-        "title": "Veterinarian - Loves Park - IL",
-        "active": false,
-        "date_updated": 1766830892,
-        "date_posted": 1765408576,
-        "url": "https://careers-vet.icims.com/jobs/10490/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "North Charleston, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Vetcor",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "f802b764-cd70-4607-8b4d-f3f88741207b",
@@ -15738,60 +15354,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Westinghouse Electric Company",
-        "id": "8d08e9af-aef2-46b0-8f49-7de4fdc6adf4",
-        "title": "Electrical/Mechanical Technician 1",
-        "active": false,
-        "date_updated": 1765408393,
-        "date_posted": 1765408393,
-        "url": "https://careers.westinghousenuclear.com/job/Madison-ElectricalMechanical-Technician-I-PA-15663/1300805500/?ats=successfactors",
-        "locations": [
-            "New Stanton, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Westinghouse Electric Company",
-        "id": "780d2df4-b19f-4453-9f51-51b9a1217f45",
-        "title": "Field Services Engineer",
-        "active": false,
-        "date_updated": 1765408349,
-        "date_posted": 1765408349,
-        "url": "https://careers.westinghousenuclear.com/job/Madison-Field-Services-Engineer-PA-15663/1140218100/?ats=successfactors",
-        "locations": [
-            "New Stanton, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Westinghouse Electric Company",
-        "id": "cefe8378-91c8-4b48-9e7d-ada908b8d910",
-        "title": "NDE Specialist",
-        "active": false,
-        "date_updated": 1765408322,
-        "date_posted": 1765408322,
-        "url": "https://careers.westinghousenuclear.com/job/Ogden-NDE-Specialist-UT-84404/1341057100/?ats=successfactors",
-        "locations": [
-            "Ogden, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Bridgestone",
         "id": "5e82a6b1-7ef0-47c4-8466-e59c7fb6a087",
         "title": "Associate Field Service Engineer",
@@ -16353,24 +15915,6 @@
         "degrees": [
             "Associate's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Draper",
-        "id": "bf82505b-5d98-4a2c-9d0c-3960197ab5ef",
-        "title": "Microfabrication Equipment Process Technician",
-        "active": false,
-        "date_updated": 1765409103,
-        "date_posted": 1765409103,
-        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Equipment-Specialist_JR000744",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Draper",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -17240,25 +16784,6 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Westinghouse Electric Company",
-        "id": "092dca9d-0438-419a-82d3-be0bc0018949",
-        "title": "Probabilistic Risk Assessment Engineer 1",
-        "active": false,
-        "date_updated": 1765409383,
-        "date_posted": 1765409383,
-        "url": "https://careers.westinghousenuclear.com/job/Dallas-Probabilistic-Risk-Assessment-Engineer-1-TX-75201/1320348400/?ats=successfactors",
-        "locations": [
-            "Dallas, TX",
-            "Cranberry Twp, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -36015,24 +35540,6 @@
         "degrees": [
             "Certificate"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dayton Freight Lines",
-        "id": "107dd04a-a89a-4e2a-85da-41991fe55f39",
-        "title": "Maintenance Support",
-        "active": false,
-        "date_updated": 1768558854,
-        "date_posted": 1765409310,
-        "url": "https://careers-daytonfreight.icims.com/jobs/17192/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Kentucky"
-        ],
-        "company_url": "https://simplify.jobs/c/Dayton-Freight-Lines",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -224450,7 +223957,7 @@
         "company_name": "Quadric",
         "id": "b6597368-7e03-414a-afc4-e66587a86cdd",
         "title": "Data Scientist New Grad - Model Optimization",
-        "active": true,
+        "active": false,
         "date_updated": 1779315777,
         "date_posted": 1779314906,
         "url": "https://apply.workable.com/quadric-dot-i-o-inc/j/5A15DE8CCE/apply",
@@ -268280,7 +267787,7 @@
         "company_name": "Collective",
         "id": "77e7808f-4911-4b76-a14a-520cafb5daf8",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1781677293,
         "date_posted": 1781676499,
         "url": "https://jobs.ashbyhq.com/collective/40516856-b29c-4b38-b434-68be5241bacf/application",
@@ -330846,7 +330353,7 @@
         "company_name": "Northwestern Medicine",
         "id": "56b7812f-ca56-436a-8f33-ff0021349237",
         "title": "Access Program Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784855547,
         "date_posted": 1784855216,
         "url": "https://jobs.smartrecruiters.com/NorthwesternMedicine/744000139381159",
@@ -337241,7 +336748,7 @@
         "company_name": "Peraton",
         "id": "553369f5-663d-4019-8901-6134f7102b4d",
         "title": "Software Development Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1785248764,
         "date_posted": 1785247869,
         "url": "https://careers-peraton.icims.com/jobs/168949/job?mobile=true&needsRedirect=false",
@@ -360845,7 +360352,7 @@
         "company_name": "Fifth Third Bank",
         "id": "f0980b55-82fb-409b-8df2-12edd630a08f",
         "title": "Data Science Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786055941,
         "date_posted": 1785974400,
         "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Data-Science-Analyst_R71447",
