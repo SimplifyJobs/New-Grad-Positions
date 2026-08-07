@@ -140018,7 +140018,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -140038,7 +140038,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -307802,7 +307802,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -311532,7 +311532,7 @@
         "company_name": "MerQube",
         "id": "70747951-ce07-4426-96b1-d890685d2873",
         "title": "Research Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784164501,
         "date_posted": 1783375911,
         "url": "https://job-boards.greenhouse.io/merqube/jobs/4693886006",
@@ -315895,7 +315895,7 @@
         "company_name": "Prudential Financial",
         "id": "f830b682-fcca-49ff-9b26-b7b199fde950",
         "title": "Real Estate - Agency Investment Analyst Program",
-        "active": true,
+        "active": false,
         "date_updated": 1784499103,
         "date_posted": 1784419200,
         "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/3901-N-Fairfax-Drive/PGIM--2027-Real-Estate--Agency-Investment-Analyst-Program_R-124633-2",
@@ -325395,7 +325395,7 @@
         "company_name": "Deloitte",
         "id": "8aa24bd6-8bc7-4e6c-a4aa-06fbaea2d494",
         "title": "Data Management Solutions Analyst - Government & Public Services - Data Management Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1784682816,
         "date_posted": 1784672078,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Data-Management-Solutions/350301",
@@ -363453,6 +363453,458 @@
         "url": "https://equinor.wd3.myworkdayjobs.com/EQNR/job/London-Great-Britain/Graduate-Programme-2027-UK---Market-Analysis-and-Trading_JR107223",
         "locations": [
             "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Equinor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Enovation Controls LLC",
+        "id": "847d42b3-a0ec-4b57-95c8-7558f4a3cb8d",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1786083841,
+        "date_posted": 1778720124,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4168933",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/9b3cc3ca-7906-4b78-9e2a-128fdb952e0e",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Solerity",
+        "id": "0d08870e-e904-49a6-acf8-7dce45403ba0",
+        "title": "JavaScript Software Engineer 1 - TS/SCI with Poly",
+        "active": true,
+        "date_updated": 1786084066,
+        "date_posted": 1782166646,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4272523",
+        "locations": [
+            "Fort Meade, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/ba889f49-b6d4-4d32-a5f6-f081a43d8c01",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CONEXON",
+        "id": "4f98a5a0-f900-434e-9015-2ce4cbc87417",
+        "title": "Fiber Optic Technician",
+        "active": true,
+        "date_updated": 1786083841,
+        "date_posted": 1778543778,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4160617",
+        "locations": [
+            "McComb, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/4d38d3b0-9ed5-49e0-bb79-1af49e01df41",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hyper",
+        "id": "f525cc4e-32b7-4cfb-8bdd-39a8109ef8d6",
+        "title": "AI & Technology Analyst - Rotational Program",
+        "active": true,
+        "date_updated": 1786083841,
+        "date_posted": 1785362393,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4248567",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/fc71a3d3-486a-4418-9f17-d7aed69c19db",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Avalore",
+        "id": "d70d2957-012d-4805-b794-0d5527276f27",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1786083841,
+        "date_posted": 1786083522,
+        "url": "https://apply.workable.com/avalore/j/F157AC3B65/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/8c6cf6cd-0972-4843-97ae-e448bd257733",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Luminance",
+        "id": "acf611ac-2d78-4818-8fa6-d72f92d4cb99",
+        "title": "Applications Engineer",
+        "active": true,
+        "date_updated": 1786083481,
+        "date_posted": 1786083473,
+        "url": "https://apply.workable.com/luminance-1/j/6415D21465/apply",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/a1a624bf-dd42-4ffd-8502-462a419631e8",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Luminance",
+        "id": "7585e74f-2916-4691-b493-97166fd23c38",
+        "title": "Machine Learning Research Engineer",
+        "active": true,
+        "date_updated": 1786083481,
+        "date_posted": 1786083472,
+        "url": "https://apply.workable.com/luminance-1/j/9C39B34AB3/apply",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/a1a624bf-dd42-4ffd-8502-462a419631e8",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Indra Group UK & Ireland",
+        "id": "18b8daf1-9e8d-49a4-a43d-8c158de41c53",
+        "title": "Service Desk Technician",
+        "active": true,
+        "date_updated": 1786083841,
+        "date_posted": 1786083482,
+        "url": "https://apply.workable.com/indra-uk/j/8D40F8C576/apply",
+        "locations": [
+            "Middlesbrough, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/04617ac0-7cf2-4a5d-abdf-ee657f20c452",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Luminance",
+        "id": "7ff9f7b2-95bd-4072-9820-71d4fadbe34e",
+        "title": "R&D Engineer",
+        "active": true,
+        "date_updated": 1786083481,
+        "date_posted": 1786083476,
+        "url": "https://apply.workable.com/luminance-1/j/A1D847B654/apply",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/a1a624bf-dd42-4ffd-8502-462a419631e8",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AlphaHire",
+        "id": "23aa499c-a450-46f0-8a0d-32d87555cdbc",
+        "title": "Research Fellow - Workforce Intelligence",
+        "active": true,
+        "date_updated": 1786083481,
+        "date_posted": 1786083466,
+        "url": "https://apply.workable.com/alphax/j/E8CAD15968/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/51c98820-9062-44cb-83f7-502b4445a340",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Luminance",
+        "id": "b6a17dea-ea0a-43a0-a561-426230159562",
+        "title": "Product Specialist Associate",
+        "active": true,
+        "date_updated": 1786083481,
+        "date_posted": 1786083465,
+        "url": "https://apply.workable.com/luminance-1/j/CA147DC61C/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/a1a624bf-dd42-4ffd-8502-462a419631e8",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AlphaHire",
+        "id": "765a3599-3681-424b-acb8-7c0f9e80a287",
+        "title": "Predictive Analytics Fellow - Workforce Intelligence",
+        "active": true,
+        "date_updated": 1786083481,
+        "date_posted": 1786083466,
+        "url": "https://apply.workable.com/alphax/j/0ABEFABB05/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/51c98820-9062-44cb-83f7-502b4445a340",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "InterImage",
+        "id": "b0e4f405-60ec-4f76-bad9-511dd698c08d",
+        "title": "Software Engineer 0",
+        "active": true,
+        "date_updated": 1786083481,
+        "date_posted": 1786083416,
+        "url": "https://apply.workable.com/interimage/j/35ED59E021/apply",
+        "locations": [
+            "Fort Meade, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/28d1fd6f-5d97-4fe8-ae08-a1451c5e128c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "InterImage",
+        "id": "0483a44f-f140-427e-a301-9d87c2344515",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1786083481,
+        "date_posted": 1786083399,
+        "url": "https://apply.workable.com/interimage/j/50AEE969C4/apply",
+        "locations": [
+            "Remote in USA",
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/28d1fd6f-5d97-4fe8-ae08-a1451c5e128c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "InterImage",
+        "id": "26f3c78f-dda8-42c5-95af-0b4294303214",
+        "title": "Full Stack Developer - Entry/Associate Level",
+        "active": true,
+        "date_updated": 1786083481,
+        "date_posted": 1786083395,
+        "url": "https://apply.workable.com/interimage/j/8DBD237A8E/apply",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/28d1fd6f-5d97-4fe8-ae08-a1451c5e128c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sword Group",
+        "id": "c8dd07e6-d484-4c5d-9e31-6d456cfbbbdd",
+        "title": "Junior Data Manager - Geoscience - Early Careers",
+        "active": true,
+        "date_updated": 1786083481,
+        "date_posted": 1786083365,
+        "url": "https://apply.workable.com/sword-group/j/56CE66F081/apply",
+        "locations": [
+            "Aberdeen, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/7d07ba31-fc75-4c55-931f-964610b74363",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MSR-FSR",
+        "id": "3b997bd2-56ff-4dfa-9687-f43559333c6a",
+        "title": "Entry Level Semiconductor Install Technician",
+        "active": true,
+        "date_updated": 1786083481,
+        "date_posted": 1786083362,
+        "url": "https://apply.workable.com/msr-fsr/j/F32B7FDBB7/apply",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/f496e836-9715-4867-85cd-89abdad51d22",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TP-Link Systems",
+        "id": "ac518a9b-a4b2-4258-bae8-096b9d9fe442",
+        "title": "System Hardware Design Engineer - Early Career",
+        "active": true,
+        "date_updated": 1786083590,
+        "date_posted": 1786083344,
+        "url": "https://apply.workable.com/tp-link-usa-corp/j/428D85D8DC/apply",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/8000e99c-f04f-486e-8eb8-c32414659697",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TP-Link Systems",
+        "id": "d60c9a21-d5a4-40cc-a715-3cce325539a0",
+        "title": "Early Career Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1786083579,
+        "date_posted": 1786083344,
+        "url": "https://apply.workable.com/tp-link-usa-corp/j/F943A617EC/apply",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/8000e99c-f04f-486e-8eb8-c32414659697",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MSR-FSR",
+        "id": "e0e22a0b-fefa-45a7-aab1-47d11ca3dcd6",
+        "title": "Entry Level Semiconductor Install Technician",
+        "active": true,
+        "date_updated": 1786083578,
+        "date_posted": 1786083336,
+        "url": "https://apply.workable.com/msr-fsr/j/FE25406113/apply",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/f496e836-9715-4867-85cd-89abdad51d22",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sigma Defense",
+        "id": "918307aa-7cf3-4fc6-806c-b55b2056dfc4",
+        "title": "Electronics Technician Maintenance 1",
+        "active": true,
+        "date_updated": 1786083531,
+        "date_posted": 1786083315,
+        "url": "https://apply.workable.com/sigmadefense/j/73FEA914E0/apply",
+        "locations": [
+            "Fort Irwin, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ebfe44ca-3272-4cb3-9ca3-620cf65ab517",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "New Flyer",
+        "id": "b755c170-360e-4686-82d7-179f09485302",
+        "title": "Electrical Assembler",
+        "active": true,
+        "date_updated": 1786083302,
+        "date_posted": 1786083300,
+        "url": "https://apply.workable.com/new-flyer/j/1FFE254239/apply",
+        "locations": [
+            "Shepherdsville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/b637501c-72fa-471f-b820-88733df00863",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Equinor",
+        "id": "77a50134-4a9e-4791-8994-85059d45fee5",
+        "title": "Market Analysis and Trading Graduate",
+        "active": true,
+        "date_updated": 1786083205,
+        "date_posted": 1786060800,
+        "url": "https://equinor.wd3.myworkdayjobs.com/EQNR/job/Houston-Texas/Graduate-Programme-2027-US---Market-Analysis-and-Trading_JR107225",
+        "locations": [
+            "Houston, TX",
+            "Stamford, CT"
         ],
         "company_url": "https://simplify.jobs/c/Equinor",
         "is_visible": true,
