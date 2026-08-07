@@ -73,24 +73,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Microsoft",
-        "id": "7d745b87-8bdf-4e77-a908-0673dc743c31",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1765371435,
-        "date_posted": 1765371435,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556629509",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "The Pok\u00e9mon Company",
         "id": "5118fe87-b0c9-4ea1-ae38-d14424d00636",
@@ -172037,7 +172019,7 @@
         "company_name": "RTX",
         "id": "4d8ade89-7d74-491e-a5cb-4fe36798e3d5",
         "title": "Software Engineer 1 - Test Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1775689534,
         "date_posted": 1775686138,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492",
@@ -315525,7 +315507,7 @@
         "company_name": "GE Healthcare",
         "id": "f2d5c1c7-8ded-4ba4-bc2e-c84e4c257373",
         "title": "X-Ray/Mammography Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784461987,
         "date_posted": 1784073600,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/CA19-01-San-Francisco-44-Montgomery/X-Ray-Mammography-Field-Engineer-I_R4043363-1",
@@ -364051,6 +364033,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Light & Wonder",
+        "id": "a3eb6028-111a-497b-893e-b338df792318",
+        "title": "Field Service Technician 2 - Gaming",
+        "active": true,
+        "date_updated": 1786106909,
+        "date_posted": 1781950246,
+        "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Indiana-US/Field-Service-Tech-II_R321726",
+        "locations": [
+            "Indiana"
+        ],
+        "company_url": "https://simplify.jobs/c/Light-And-Wonder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
