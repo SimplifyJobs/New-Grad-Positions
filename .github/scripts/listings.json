@@ -38,24 +38,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "ServiceNow",
-        "id": "c542787b-6af7-42d4-ad4e-4d22e0b3ac20",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1765332936,
-        "date_posted": 1765332936,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000097842868",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Oracle",
         "id": "8a954158-5532-466f-b442-458ae11a6150",
         "title": "Software Developer 1",
@@ -32321,24 +32303,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CrowdGen by Appen",
-        "id": "6bc8d228-cbfb-4a81-843d-d4b5fb78a967",
-        "title": "Project Jigglypuff Transcription - English-United Kingdom",
-        "active": false,
-        "date_updated": 1768296524,
-        "date_posted": 1765333166,
-        "url": "https://jobs.lever.co/appen/425ffbbf-f35f-4295-8bb7-78ddb8696ffe/apply",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/CrowdGen-By-Appen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
