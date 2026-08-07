@@ -38,83 +38,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "a9d02b6a-d453-49e8-9bd5-b811d7a57d8f",
-        "title": "ASIC Clocks Design Engineer \u2013 New College Grad 2025",
-        "active": false,
-        "date_updated": 1765356525,
-        "date_posted": 1765356525,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Design-Engineer---New-College-Grad-2025_JR2004939",
-        "locations": [
-            "Austin, TX",
-            "Santa Clara, CA",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "8657ccb9-ad7b-4d2b-b96b-b309c1dee25a",
-        "title": "Research Scientist \u2013 New College Grad 2026 - Embodied and Agentic AI",
-        "active": false,
-        "date_updated": 1765356533,
-        "date_posted": 1765356533,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Embodied-and-Agentic-AI---New-College-Grad-2026_JR2009464",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sierra Nevada Corporation",
-        "id": "5c5e4083-324c-4c0a-8e02-6b95c8a27a1d",
-        "title": "Business Intelligence Developer 1",
-        "active": false,
-        "date_updated": 1765356515,
-        "date_posted": 1765356515,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Business-Intelligence-Developer-I_R0028996-1",
-        "locations": [
-            "Hagerstown, MD",
-            "Sparks, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "27cfd8f1-5567-4d58-a5d0-c70682b6ce19",
-        "title": "ASIC Hardware Design Engineer",
-        "active": false,
-        "date_updated": 1765356520,
-        "date_posted": 1765356520,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Hardware-Design-Engineer---New-College-Grad-2025_JR1999119",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "The Pharmacy Hub",
         "id": "04984ace-606d-4c4b-9a46-8c8fd572d60c",
         "title": "Machine Builder",
@@ -346937,7 +346860,7 @@
         "company_name": "Sciforium",
         "id": "0af074b1-0e28-48af-8173-84d52e16ecfa",
         "title": "Senior Research Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1785573361,
         "date_posted": 1782770903,
         "url": "https://jobs.ashbyhq.com/Sciforium/8e98f285-a466-46e8-9fc7-502922c27249/application?embed=true",
@@ -354299,7 +354222,7 @@
         "company_name": "Autostore",
         "id": "0c5577ea-da23-4f9c-b54f-70bc34fee45d",
         "title": "AI Engineer - HW Development",
-        "active": true,
+        "active": false,
         "date_updated": 1785766681,
         "date_posted": 1785369600,
         "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/AI-Engineer---HW-Development_JR102615",
@@ -357496,7 +357419,7 @@
         "company_name": "The Wonderful Company",
         "id": "168fc2aa-d320-4a77-b7fd-7149efce52c5",
         "title": "POS Support Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1785881163,
         "date_posted": 1785881113,
         "url": "https://jobs.smartrecruiters.com/TheWonderfulCompany/744000141544080",
@@ -363946,6 +363869,24 @@
             "Greenville, VA"
         ],
         "company_url": "https://simplify.jobs/c/c5dbe17d-3186-46b6-90bd-c8ba92fa6798",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NCR Voyix",
+        "id": "0a42e25d-aeb9-46a5-9a7b-d00ed79556dd",
+        "title": "Field Service Technician 1",
+        "active": true,
+        "date_updated": 1786092509,
+        "date_posted": 1781361773,
+        "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/WORCESTER-MA-USA/Field-Service-Technician--Bellingham-city--MA_JR2604160",
+        "locations": [
+            "Worcester, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/NCR-Voyix",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
