@@ -38,42 +38,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Oracle",
-        "id": "8a954158-5532-466f-b442-458ae11a6150",
-        "title": "Software Developer 1",
-        "active": false,
-        "date_updated": 1765339223,
-        "date_posted": 1765339223,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/318639",
-        "locations": [
-            "Nashville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oracle",
-        "id": "02e3e27a-0b1a-4d44-aea0-41467c50e235",
-        "title": "Member of Technical Staff",
-        "active": false,
-        "date_updated": 1765339239,
-        "date_posted": 1765339239,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/317794",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Palo Alto Networks",
         "id": "5d1c78fd-b791-4511-bc48-46cd4aeae96b",
         "title": "Senior Software Engineer in Test Prisma Access - AI Automation Engineer",
