@@ -1589,7 +1589,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1189)</summary>
+<summary>🗃️ Inactive roles (1188)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -9915,13 +9915,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Infrastructure Engineer I 🇺🇸</td>
 <td>Marlborough, MA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>2026 Full-time - Software Engineer I</td>
-<td>Fort Wayne, IN</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
