@@ -363913,5 +363913,95 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CloudFactory",
+        "id": "3b770c4c-dd8c-43b4-9025-9b6df53c193c",
+        "title": "Data Capture Technician - Construction",
+        "active": true,
+        "date_updated": 1786084314,
+        "date_posted": 1786083746,
+        "url": "https://apply.workable.com/cloudfactory/j/25D2609FDB/apply",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/86fa2017-8b95-4ca8-929d-6c3c83ef1d55",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CloudFactory",
+        "id": "fee724d7-453f-4f2a-b5c1-0eed711f4b58",
+        "title": "Data Capture Technician - 1 Day/Week",
+        "active": true,
+        "date_updated": 1786084307,
+        "date_posted": 1786083746,
+        "url": "https://apply.workable.com/cloudfactory/j/C65A66061E/apply",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/86fa2017-8b95-4ca8-929d-6c3c83ef1d55",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CloudFactory",
+        "id": "41be3fea-fca7-473e-8963-c15048e19cb2",
+        "title": "Data Capture Technician",
+        "active": true,
+        "date_updated": 1786084305,
+        "date_posted": 1786083744,
+        "url": "https://apply.workable.com/cloudfactory/j/CC8EC9F326/apply",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/86fa2017-8b95-4ca8-929d-6c3c83ef1d55",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CloudFactory",
+        "id": "16fb74ed-3557-4ee3-b54b-6ee6fc819bc6",
+        "title": "Data Capture Technician",
+        "active": true,
+        "date_updated": 1786084305,
+        "date_posted": 1786083746,
+        "url": "https://apply.workable.com/cloudfactory/j/8354CC2447/apply",
+        "locations": [
+            "Boyce, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/86fa2017-8b95-4ca8-929d-6c3c83ef1d55",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "JF Group",
+        "id": "00bd5c95-0add-4621-b02d-f4904e861e3d",
+        "title": "Service Technician",
+        "active": true,
+        "date_updated": 1786083841,
+        "date_posted": 1785536939,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4381597",
+        "locations": [
+            "Greenville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/c5dbe17d-3186-46b6-90bd-c8ba92fa6798",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
