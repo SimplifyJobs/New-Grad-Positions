@@ -55,44 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "20343fac-1cbf-41bd-8e1f-99543bd3e649",
-        "title": "Software Engineer - Level 2 or 3",
-        "active": false,
-        "date_updated": 1765381642,
-        "date_posted": 1765381642,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Software-Engineer---Level-2-or-3_R10216455-1",
-        "locations": [
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Bank of Montreal",
-        "id": "fb99e53e-97f7-4412-a86f-92f0ad8f8870",
-        "title": "Associate Full Stack Engineer",
-        "active": false,
-        "date_updated": 1765382273,
-        "date_posted": 1765382273,
-        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--Full-Stack-Engineer_R250030896",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Microchip Technology",
         "id": "fe5e3857-fc21-4876-8d6f-5f2bd1fccf2f",
@@ -209849,7 +209811,7 @@
         "company_name": "Autodesk",
         "id": "5c8a98c5-fd71-49a1-a18e-0288492a5163",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1778106241,
         "date_posted": 1778105388,
         "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_25WD91160-1",
