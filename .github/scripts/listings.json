@@ -38,24 +38,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "The Pharmacy Hub",
-        "id": "04984ace-606d-4c4b-9a46-8c8fd572d60c",
-        "title": "Machine Builder",
-        "active": false,
-        "date_updated": 1765358315,
-        "date_posted": 1765358315,
-        "url": "https://job-boards.greenhouse.io/thepharmacyhub/jobs/5015938008",
-        "locations": [
-            "Fort Lauderdale, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Pharmacy-Hub",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "EquipmentShare",
         "id": "89d7f2d3-acfd-4e4a-9d0c-a2ca53f9fcfc",
         "title": "Telematics Installer",
@@ -307671,7 +307653,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -340779,7 +340761,7 @@
         "company_name": "Procore Technologies",
         "id": "20cece1a-cb67-4ab4-985c-df29bfb30538",
         "title": "Product Manager - Notifications",
-        "active": true,
+        "active": false,
         "date_updated": 1785305521,
         "date_posted": 1784678400,
         "url": "https://procore.wd12.myworkdayjobs.com/Procore_External_Careers/job/US---Texas---Austin/Product-Manager--Notifications_R0018309",
@@ -358921,7 +358903,7 @@
         "company_name": "Leidos",
         "id": "282184ef-e3f4-409a-acca-effa7c167079",
         "title": "Geospatial Linguist - Korean Toponymist",
-        "active": false,
+        "active": true,
         "date_updated": 1785921380,
         "date_posted": 1782956493,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Korean-Toponymist---TS-SCI-Required_R-00185905-1",
@@ -360458,7 +360440,7 @@
         "company_name": "Door Controls",
         "id": "30f8efbb-8d56-49e3-8b93-35ef5df04f35",
         "title": "Electronics Teardown",
-        "active": false,
+        "active": true,
         "date_updated": 1785969472,
         "date_posted": 1785968213,
         "url": "https://ats.rippling.com/door-controls-usa/jobs/aa1293ff-6822-4684-8ae5-51395ce3ba13",
@@ -363890,5 +363872,222 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "74391b84-c863-477a-a54b-f52e947e9724",
+        "title": "Research Scientist Graduate - ML Recommendation Systems",
+        "active": true,
+        "date_updated": 1786094822,
+        "date_posted": 1786094688,
+        "url": "https://jobs.bytedance.com/en/position/7670850283815160069/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "37eb8005-8ed0-4c9c-9441-4833520687dc",
+        "title": "Large Language Model Inference System Engineer New Grad - Applied Machine Learning",
+        "active": true,
+        "date_updated": 1786094900,
+        "date_posted": 1786094696,
+        "url": "https://jobs.bytedance.com/en/position/7667726338627356933/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "39ac8ee1-4714-4c09-984d-d8ca05fca666",
+        "title": "Large Language Model Training System Engineer Graduate - Applied Machine Learning",
+        "active": true,
+        "date_updated": 1786094822,
+        "date_posted": 1786094699,
+        "url": "https://jobs.bytedance.com/en/position/7667685712993650997/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "3c510880-5a95-4889-b975-ff4cbcea4877",
+        "title": "Machine Learning Systems Scheduling Engineer Graduate - Applied Machine Learning",
+        "active": true,
+        "date_updated": 1786094898,
+        "date_posted": 1786094688,
+        "url": "https://jobs.bytedance.com/en/position/7667727006294214965/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "e0c8a83a-ab36-4f9d-8587-275d4d7007db",
+        "title": "LLM Backend Engineer Graduate - Applied Machine Learning",
+        "active": true,
+        "date_updated": 1786094822,
+        "date_posted": 1786094695,
+        "url": "https://jobs.bytedance.com/en/position/7667730992538585349/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "4d438c3b-47f9-456f-af8e-c67ed0178519",
+        "title": "Machine Learning Engineer Graduate - Agent Evaluation & Evolution",
+        "active": true,
+        "date_updated": 1786094822,
+        "date_posted": 1786094690,
+        "url": "https://jobs.bytedance.com/en/position/7670932427485186309/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "1fa68e98-48a1-464f-8d59-590a0c5a8dae",
+        "title": "Data Labeling Analyst - Speech & Voice AI",
+        "active": true,
+        "date_updated": 1786094156,
+        "date_posted": 1786093927,
+        "url": "https://jobs.lever.co/weloglobal/2e144d33-40eb-4748-a53f-425a5e2b6ddb/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Google",
+        "id": "089391ad-ee52-4c4f-993a-e79f42219682",
+        "title": "Software Engineer - Campus",
+        "active": true,
+        "date_updated": 1786093639,
+        "date_posted": 1786093497,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750",
+        "locations": [
+            "Cambridge, MA",
+            "Seattle, WA",
+            "LA",
+            "San Jose, CA",
+            "San Bruno, CA",
+            "Pittsburgh, PA",
+            "Kirkland, WA",
+            "NYC",
+            "Sunnyvale, CA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Google",
+        "id": "3c96cb52-6ca7-4957-b80b-22918761f688",
+        "title": "Software Developer - Campus",
+        "active": true,
+        "date_updated": 1786093635,
+        "date_posted": 1786093523,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/120686451305128646",
+        "locations": [
+            "Waterloo, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tau",
+        "id": "30ff51d4-aaae-4ded-aaa6-a5669fc1367c",
+        "title": "Development Technician",
+        "active": true,
+        "date_updated": 1786093381,
+        "date_posted": 1785535455,
+        "url": "https://www.taumotors.com/careers?gh_jid=4701649006",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tau-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
