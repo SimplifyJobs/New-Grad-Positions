@@ -54,42 +54,6 @@
         "degrees": []
     },
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "KBR",
-        "id": "23f16a16-62fd-48a0-8c00-7e597fbd8d50",
-        "title": "Associate Tool & Gage Technician",
-        "active": false,
-        "date_updated": 1765387160,
-        "date_posted": 1765387160,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Phoenix-Arizona/Associate-Tool---Gage-Technician_R2116317",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "739cd483-72d4-4c0f-b0bc-f9985ed6e19b",
-        "title": "2026 Full-time - Software Engineer I",
-        "active": false,
-        "date_updated": 1765386419,
-        "date_posted": 1765386419,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--IN-_01811827",
-        "locations": [
-            "Fort Wayne, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1765398188,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -249661,7 +249625,7 @@
         "company_name": "Northrop Grumman",
         "id": "126c2509-0c6a-4576-ac89-b4cbbc3ae2e1",
         "title": "Electronics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780612372,
         "date_posted": 1780610903,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Tinker-AFB/Engineer-Electronics_R10234542",
@@ -337991,7 +337955,7 @@
         "company_name": "ADT",
         "id": "e62bf7e2-c0f5-40ee-baa5-1c40d76e65ab",
         "title": "Installation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1785276542,
         "date_posted": 1785276492,
         "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021543",
@@ -341484,7 +341448,7 @@
         "company_name": "Danaher Corporation",
         "id": "116b2bd5-56b6-455d-a6a8-dde6d9a1ec7e",
         "title": "Associate Internal Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785374101,
         "date_posted": 1785283200,
         "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Chaska-Minnesota-United-States/Associate-Internal-Service-Engineer---ONSITE_R1310917",
@@ -360971,7 +360935,7 @@
         "company_name": "Veeva Systems",
         "id": "ff10df50-35b8-47c4-8138-ff9083746abf",
         "title": "Associate Software Engineer - Engineering Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1786054321,
         "date_posted": 1786054014,
         "url": "https://jobs.lever.co/veeva/54f473e7-f225-44b3-beb7-b5d50403fe02/apply",
