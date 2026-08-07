@@ -37,44 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "General Dynamics",
-        "id": "bcd1bd1f-d5ee-42ab-b92f-29e3007cbd3e",
-        "title": "Engineer - Obsolescence",
-        "active": false,
-        "date_updated": 1765328886,
-        "date_posted": 1765328886,
-        "url": "https://careers-gdeb.icims.com/jobs/15327/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Groton, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "JP Morgan Chase",
-        "id": "27dda11d-5c70-4b20-a5a5-8b786a272bcc",
-        "title": "Product Implementation Specialist - Foundations",
-        "active": false,
-        "date_updated": 1765329279,
-        "date_posted": 1765329279,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210666016",
-        "locations": [
-            "Plano, TX",
-            "Chicago, IL",
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ServiceNow",
         "id": "c542787b-6af7-42d4-ad4e-4d22e0b3ac20",
@@ -18640,24 +18602,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "57519c4d-0d0f-497b-b863-a78676df3e11",
-        "title": "Electronic Machine Builder",
-        "active": false,
-        "date_updated": 1765329305,
-        "date_posted": 1765329305,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/130796",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "AES",
         "id": "61d07f6e-8ac4-4fce-ba3a-ea4d23f5cd79",
@@ -19106,24 +19050,6 @@
             "Richmond, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/TD-Synnex",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ASSA ABLOY",
-        "id": "e752a412-8939-4c5a-90e7-8474e9c32c2d",
-        "title": "PM Service Technician",
-        "active": false,
-        "date_updated": 1765329158,
-        "date_posted": 1765329158,
-        "url": "https://assaabloy.jobs2web.com/job/Columbia-PM-Service-Technician-MD-21046/1258316801/?ats=successfactors",
-        "locations": [
-            "Columbia, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -140182,7 +140108,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -140202,7 +140128,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -307966,7 +307892,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -337319,7 +337245,7 @@
         "company_name": "Eastern Bank",
         "id": "1280f9d0-72a0-4d5b-b86f-5e6e74d610f5",
         "title": "AI Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785190141,
         "date_posted": 1785190128,
         "url": "https://gka.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4317",
@@ -363398,6 +363324,232 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "f555debe-b0d3-424f-b231-329a6d2df96a",
+        "title": "Backend Software Engineer Graduate - Data Lifecycle Management",
+        "active": true,
+        "date_updated": 1786065661,
+        "date_posted": 1786065503,
+        "url": "https://lifeattiktok.com/search/7670391173613160757",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "c3d0d3f7-cc27-4cc2-9950-e1a94f3abf4d",
+        "title": "Multimodal Generative AI Research Scientist - Intelligent Creation",
+        "active": true,
+        "date_updated": 1786065661,
+        "date_posted": 1786065508,
+        "url": "https://lifeattiktok.com/search/7668206857737455877",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "65374907-a79c-4477-928a-78fd06e99828",
+        "title": "Backend Software Engineer Graduate - Privacy and Security - Product",
+        "active": true,
+        "date_updated": 1786065661,
+        "date_posted": 1786065502,
+        "url": "https://lifeattiktok.com/search/7670387719826786565",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Boston Scientific",
+        "id": "836903b7-30b3-431a-b165-7fea351d4274",
+        "title": "Data Scientist 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1786065557,
+        "date_posted": 1786065415,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813345805",
+        "locations": [
+            "Arden Hills, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Agilent Technologies",
+        "id": "388f348c-db23-47db-9a4e-1a0ad19b9675",
+        "title": "Field Service Engineer - HPLC/GC",
+        "active": true,
+        "date_updated": 1786065545,
+        "date_posted": 1785974400,
+        "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-OH-Cleveland/Field-Service-Engineer---HPLC-GC_4038818-2",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Agilent-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Aramark",
+        "id": "eeaab550-423d-49e4-a1d6-541a943cd0c5",
+        "title": "Food Service Worker",
+        "active": true,
+        "date_updated": 1786065301,
+        "date_posted": 1786065236,
+        "url": "https://aramarkcareers.com/UnitedStates/job/Overland-Park-Food-Service-Worker-Shamrock-Trading-Corporation-KS-66212/1416888300/?ats=successfactors",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Aramark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "e4ec4b12-71e5-44a2-9874-b52d28e6006a",
+        "title": "LLM/AI Operations Development Engineer Graduate - Data Center Networking",
+        "active": true,
+        "date_updated": 1786065404,
+        "date_posted": 1786065256,
+        "url": "https://jobs.bytedance.com/en/position/7670773781477394741/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "e64e6761-68e9-4cde-a920-a1e6b0d3ea81",
+        "title": "Research Scientist Graduate - Multimodal Interaction and World Model",
+        "active": true,
+        "date_updated": 1786065301,
+        "date_posted": 1786065255,
+        "url": "https://jobs.bytedance.com/en/position/7671026650366183685/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Merck",
+        "id": "25f1d732-78f0-476f-9d25-b0f357ab023f",
+        "title": "Software Engineer - AI Development",
+        "active": true,
+        "date_updated": 1786065301,
+        "date_posted": 1785974400,
+        "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Software-Engineer---AI-Development_R408724-1",
+        "locations": [
+            "North Wales, PA",
+            "West Point, PA",
+            "Rahway, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Merck",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Charles Schwab",
+        "id": "be69266d-de7c-4e87-a808-b1fe8fbb5cf7",
+        "title": "Mutual Funds Trading Operations Specialist",
+        "active": true,
+        "date_updated": 1786065287,
+        "date_posted": 1786065096,
+        "url": "https://career-schwab.icims.com/jobs/124846/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Westlake, TX",
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-Schwab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Equinor",
+        "id": "4f13671d-ac3d-44b0-90ac-bffd5406ffdd",
+        "title": "Market Analysis & Trading Graduate",
+        "active": true,
+        "date_updated": 1786065201,
+        "date_posted": 1786060800,
+        "url": "https://equinor.wd3.myworkdayjobs.com/EQNR/job/London-Great-Britain/Graduate-Programme-2027-UK---Market-Analysis-and-Trading_JR107223",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Equinor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
