@@ -55,171 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "GE Vernova",
-        "id": "ffa39179-2143-44bb-91ef-a46927c4950b",
-        "title": "Software Engineering Specialist",
-        "active": false,
-        "date_updated": 1765377814,
-        "date_posted": 1765377814,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue-WA-US/Software-Engineering-Specialist_R5024513-1",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nike",
-        "id": "ce03a1b8-163c-4fb2-aa35-28f82a8b6d3f",
-        "title": "Software Engineer 1 - Nsrl",
-        "active": false,
-        "date_updated": 1765377771,
-        "date_posted": 1765377771,
-        "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Software-Engineer-I---NSRL_R-75893",
-        "locations": [
-            "Beaverton, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Nike",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "170194e2-8f49-42b2-8339-95e7d19a567a",
-        "title": "Engineer 1 - Design",
-        "active": false,
-        "date_updated": 1765378282,
-        "date_posted": 1765378282,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Canada---Burnaby/Engineer-I---Design_R2484-25",
-        "locations": [
-            "Burnaby, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Manulife Financial",
-        "id": "11ae67cb-402c-4741-b4b5-e27aa1330bb9",
-        "title": "Associate Data Scientist - GenAI",
-        "active": false,
-        "date_updated": 1765377770,
-        "date_posted": 1765377770,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Associate-Data-Scientist---GenAI_JR25120038-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "8810576f-b428-42bd-ab6c-fdb329728fb6",
-        "title": "Audiovisual Engineer",
-        "active": false,
-        "date_updated": 1765378024,
-        "date_posted": 1765378024,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Audiovisual-Engineer_JR2025488037-1",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Uhaul",
-        "id": "4a96e4d2-c0e7-4234-bbc5-a7a09657cf00",
-        "title": "Business Intelligence Analyst",
-        "active": false,
-        "date_updated": 1765378214,
-        "date_posted": 1765378214,
-        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Business-Intelligence-Analyst_R233902",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Uhaul",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Manulife Financial",
-        "id": "245b74c0-fa2d-4b6f-8613-61cbd94722c3",
-        "title": "Associate Full Stack Engineer",
-        "active": false,
-        "date_updated": 1765377768,
-        "date_posted": 1765377768,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Associate-Full-Stack-Engineer_JR25111609-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CACI",
-        "id": "24aab221-d10a-43e8-8c31-b7d270bf4a74",
-        "title": "Entry-Level AI/ML Software Engineer",
-        "active": false,
-        "date_updated": 1765377597,
-        "date_posted": 1765377597,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Entry-Level-AI-ML-Software-Engineer_320317",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Marvell",
-        "id": "17fc1f39-e2cd-4ac5-88ce-a1d879ae9648",
-        "title": "Analog Layout \u2013 Entry Level Professional - Elp - Bachelor's Degree",
-        "active": false,
-        "date_updated": 1765377761,
-        "date_posted": 1765377761,
-        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Layout---Entry-Level-Professional---ELP----Bachelor-s-Degree_2503795-2",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Marvell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Genuine Parts Company",
         "id": "eb7e5b91-70e4-4d19-8765-c48f4cc75dcf",
@@ -274,24 +109,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Aerospace",
-        "id": "669f42bb-9a0f-4432-a13c-bb4a4c7ed3b2",
-        "title": "Assembly Technician",
-        "active": false,
-        "date_updated": 1765377678,
-        "date_posted": 1765377678,
-        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Gloucester/Assembly-Technician_R5024469-1",
-        "locations": [
-            "Gloucester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Aerospace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "O'Reilly Auto Parts",
         "id": "0e71a04c-a5b5-403e-9fb1-565a492f217a",
@@ -304,42 +121,6 @@
             "Missouri"
         ],
         "company_url": "https://simplify.jobs/c/OReilly-Auto-Parts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "f18eacf5-c945-4376-ba11-5376a98b90fa",
-        "title": "Application Engineer",
-        "active": false,
-        "date_updated": 1765377631,
-        "date_posted": 1765377631,
-        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Application-Engineer_R52105",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Acelero",
-        "id": "69a948d0-8b45-4033-99f9-1e9ed2d76f3e",
-        "title": "Data Analysis Coordinator",
-        "active": false,
-        "date_updated": 1765377675,
-        "date_posted": 1765377675,
-        "url": "https://acelero.wd1.myworkdayjobs.com/acelerolearningcareers/job/DE---Milton---Prime-Hook-Road/Data-Services-Coordinator_JR7544",
-        "locations": [
-            "Georgetown, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/Acelero",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -121140,7 +120921,7 @@
         "company_name": "Chamberlain Group",
         "id": "d0fb464f-b9d2-40c2-95ee-8860876c1d6e",
         "title": "Software Engineer 1 - AI",
-        "active": true,
+        "active": false,
         "date_updated": 1773095934,
         "date_posted": 1773095934,
         "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-I---AI_JR30291",
@@ -351194,7 +350975,7 @@
         "company_name": "ITC Defense Corp.",
         "id": "8099b035-680b-404a-b74f-bd92b979b063",
         "title": "Software Developer - .NET/C# - NAVSUP Programs",
-        "active": true,
+        "active": false,
         "date_updated": 1785739323,
         "date_posted": 1785737839,
         "url": "https://itcdefense.applytojob.com/apply/Zlhmseroea/Software-Developer-NETC-NAVSUP-Programs",
