@@ -55,78 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genuine Parts Company",
-        "id": "eb7e5b91-70e4-4d19-8765-c48f4cc75dcf",
-        "title": "PIM Data Analyst - Enrichment",
-        "active": false,
-        "date_updated": 1765379273,
-        "date_posted": 1765379273,
-        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/PIM-Data-Analyst---Enrichment_R25_0000043059",
-        "locations": [
-            "Birmingham, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Global Payments",
-        "id": "d7d2aa78-ff21-470f-83fc-29fb786e7adf",
-        "title": "Mainframe Software Engineer 1 or 2",
-        "active": false,
-        "date_updated": 1765379257,
-        "date_posted": 1765379257,
-        "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I-or-II_R0067829",
-        "locations": [
-            "Columbus, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Global-Payments",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Walmart",
-        "id": "998790ec-8065-43f8-a5ee-f58593598e8a",
-        "title": "Senior Analyst - Business Support",
-        "active": false,
-        "date_updated": 1765379510,
-        "date_posted": 1765379510,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Bentonville-Global-Tech-AR-BENTONVILLE-Home-Office/Senior-Analyst--Business-Support_R-2364373",
-        "locations": [
-            "Bentonville, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "O'Reilly Auto Parts",
-        "id": "0e71a04c-a5b5-403e-9fb1-565a492f217a",
-        "title": "Product Analyst - Data Analytics",
-        "active": false,
-        "date_updated": 1765379019,
-        "date_posted": 1765379019,
-        "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Remote-Missouri/Product-Analyst---Data-Analytics_R146913",
-        "locations": [
-            "Missouri"
-        ],
-        "company_url": "https://simplify.jobs/c/OReilly-Auto-Parts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "20343fac-1cbf-41bd-8e1f-99543bd3e649",
@@ -16813,24 +16741,6 @@
             "Ogden, UT"
         ],
         "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Alcon",
-        "id": "b024e243-d3ce-462e-879f-74c9372ea72c",
-        "title": "Laser & Optics Technician - Manufacturing",
-        "active": false,
-        "date_updated": 1765379320,
-        "date_posted": 1765379320,
-        "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Irvine-California/Laser---Optics-Technician---Manufacturing_R-2025-37895_v2",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/alcon",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -313059,7 +312969,7 @@
         "company_name": "Motorola",
         "id": "177af578-19a1-428a-8acb-184beaa3cf9e",
         "title": "Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1784298241,
         "date_posted": 1784246400,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering_R66217",
@@ -354739,7 +354649,7 @@
         "company_name": "Leidos",
         "id": "58d91da1-53ad-4b2c-b6f0-34bc216529b9",
         "title": "Software Engineer - C++",
-        "active": true,
+        "active": false,
         "date_updated": 1785798827,
         "date_posted": 1785715200,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tewksbury-MA/Software-Engineer--C--_R-00188633",
@@ -356849,7 +356759,7 @@
         "company_name": "Northrop Grumman",
         "id": "6203f891-9874-4b06-9079-4a95178007dc",
         "title": "Associate Software Engineer / Software Engineer - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785883508,
         "date_posted": 1785801600,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Software-Engineer---Software-Engineer_R10243047",
@@ -359695,7 +359605,7 @@
         "company_name": "Deutsche Bank",
         "id": "44daf0bc-d51d-4b39-8abf-2d54f3241b8d",
         "title": "Quantitative Analyst - Group Strategic Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1785969632,
         "date_posted": 1785888000,
         "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/New-York-1-Columbus-Circle/Group-Strategic-Analytics--GSA--Quantitative-Strat---Analyst_R0446584",
