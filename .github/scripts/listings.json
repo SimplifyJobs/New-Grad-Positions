@@ -225241,7 +225241,7 @@
         "company_name": "Nextdoor",
         "id": "e03e0a85-11c0-4948-b546-b88e158be2b5",
         "title": "Machine Learning Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1778579507,
         "date_posted": 1776896028,
         "url": "https://about.nextdoor.com/careers-list/?gh_jid=7264954",
@@ -305066,7 +305066,7 @@
         "company_name": "Abridge",
         "id": "ccc30a08-187b-428e-a4e2-333c838dadaa",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783981876,
         "date_posted": 1783980751,
         "url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace/application",
@@ -305422,7 +305422,7 @@
         "company_name": "xAI",
         "id": "8356b429-a6dd-461c-8902-4a9d9678ca19",
         "title": "AI Tutor Punjabi",
-        "active": true,
+        "active": false,
         "date_updated": 1783992813,
         "date_posted": 1775023510,
         "url": "https://job-boards.greenhouse.io/xai/jobs/5090246007",
@@ -332392,7 +332392,7 @@
         "company_name": "Duke University",
         "id": "b225f054-b888-4629-a5c2-704aa2f3422a",
         "title": "Research Data Tech 2 - Sanford School of Public Policy",
-        "active": true,
+        "active": false,
         "date_updated": 1784931629,
         "date_posted": 1784930822,
         "url": "https://careers.duke.edu/job/Durham-RESEARCH-DATA-TECH-II,-Sanford-School-of-Public-Policy-NC-27710/1412487900/?ats=successfactors",
@@ -340887,7 +340887,7 @@
         "company_name": "ISS | Institutional Shareholder Services",
         "id": "1e5f9a38-8a28-4174-869e-7827504c5497",
         "title": "Enterprise Data and Operations Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1785366362,
         "date_posted": 1785283200,
         "url": "https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/Norman-OK-US/Enterprise-Data-and-Operations-Analyst_JR_10203",
@@ -341096,7 +341096,7 @@
         "company_name": "Arevon",
         "id": "a71991a1-93d6-489a-acf9-092e6afe5759",
         "title": "Software Engineer - Business Systems & Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1785373921,
         "date_posted": 1785373839,
         "url": "https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5027450007",
@@ -358613,7 +358613,7 @@
         "company_name": "RBI",
         "id": "1396eb39-3e96-4ac9-a060-7577d4308d5f",
         "title": "Data Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1785969601,
         "date_posted": 1785888000,
         "url": "https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Miami-Corporate-Office/Data-Engineer-I--Burger-King_R3622",
@@ -363047,5 +363047,791 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "HARMAN International",
+        "id": "821b07ac-500a-4806-b0c7-aaefb49a05c7",
+        "title": "Test Engineer",
+        "active": true,
+        "date_updated": 1786143330,
+        "date_posted": 1786142388,
+        "url": "https://harmanglobal.avature.net/en_US/careers/JobDetail/32194",
+        "locations": [
+            "Holland, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/HARMAN-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cortica",
+        "id": "44d659f8-4edf-405b-b579-79593f6180a1",
+        "title": "Junior AI Data Engineer",
+        "active": true,
+        "date_updated": 1786142881,
+        "date_posted": 1786142679,
+        "url": "https://job-boards.greenhouse.io/allcareers/jobs/8692383002",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cortica",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Freeform",
+        "id": "290bfc2a-b8a3-46eb-b815-fa0296cb7b4d",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1786143340,
+        "date_posted": 1786142740,
+        "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/FreeformFuture",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "DRW",
+        "id": "8409f053-0a2e-4db0-a442-df2b158519eb",
+        "title": "Quantitative Trading Analyst",
+        "active": true,
+        "date_updated": 1786142341,
+        "date_posted": 1786141839,
+        "url": "https://job-boards.greenhouse.io/drweng/jobs/7957241",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DRW",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Verifone",
+        "id": "a816fc22-5a40-4e12-bbe3-256e268684c6",
+        "title": "People Analytics Analyst",
+        "active": true,
+        "date_updated": 1786143007,
+        "date_posted": 1786141340,
+        "url": "https://job-boards.greenhouse.io/verifone/jobs/7812087003",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verifone",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "09fc1b0f-a4c0-424d-b613-2ea9a8bc5994",
+        "title": "Associate RF Engineer",
+        "active": true,
+        "date_updated": 1786142972,
+        "date_posted": 1786060800,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2026-Associate-I-T-RF-Engineer---Dulles-VA_R10244551",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Torch Technologies",
+        "id": "f0d91c80-6a29-46d4-bfb7-ad3fb4918547",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786142859,
+        "date_posted": 1786060800,
+        "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-I_R1480",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Torch-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Auto-Owners Insurance",
+        "id": "219eb184-29fc-49a1-821e-93c62b472925",
+        "title": "Business Intelligence Developer",
+        "active": true,
+        "date_updated": 1786142341,
+        "date_posted": 1786060800,
+        "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_13789-1",
+        "locations": [
+            "Lansing, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Auto-Owners-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "34e8252a-5780-4198-ae6b-5c5a32bab687",
+        "title": "Data Labeler - Tesla AI",
+        "active": true,
+        "date_updated": 1786142813,
+        "date_posted": 1786141267,
+        "url": "https://www.tesla.com/careers/search/job/279543",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WelbeHealth",
+        "id": "58d9d263-e25e-491b-9e3e-42e08454509c",
+        "title": "AI Engineer 1",
+        "active": true,
+        "date_updated": 1786142685,
+        "date_posted": 1786141981,
+        "url": "https://job-boards.greenhouse.io/welbehealth/jobs/8599687002",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Welbe-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Netsmart",
+        "id": "dbc8423a-e279-4fee-97ce-cc3f8a124aa5",
+        "title": "Software Engineer - EVV",
+        "active": true,
+        "date_updated": 1786142626,
+        "date_posted": 1786060800,
+        "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer--Java-Experience-Onsite--Overland-Park--KS-_R015567",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Netsmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "37a1894e-f216-436f-8f54-98b6d75622b0",
+        "title": "Software Engineer - University",
+        "active": true,
+        "date_updated": 1786142568,
+        "date_posted": 1786060800,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246656",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "NXP Semiconductors",
+        "id": "4b329106-7709-439b-8b09-9f5a8ee16c80",
+        "title": "Software Product Manager",
+        "active": true,
+        "date_updated": 1786142549,
+        "date_posted": 1786060800,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Software-Product-Manager_R-10064599",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "58bdb1db-93cc-41bf-9056-473f0d4e405c",
+        "title": "Software Engineer - University",
+        "active": true,
+        "date_updated": 1786142543,
+        "date_posted": 1786060800,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246655",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "00912e53-abce-46c1-84a0-f14dc8684f13",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1786142539,
+        "date_posted": 1786060800,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246663",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "329ae872-f7a6-4cd2-b63f-28ec9e81bbe8",
+        "title": "Software Engineer - University",
+        "active": true,
+        "date_updated": 1786142537,
+        "date_posted": 1786060800,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246664",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "633c307a-f33c-4a4e-93c8-dac14e32210a",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1786142537,
+        "date_posted": 1786060800,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246658",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "fb32d8c1-90d9-4e21-85fa-e0b10b5d15a5",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1786142536,
+        "date_posted": 1786060800,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246665",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "045f4a24-d094-4e92-8d9b-f185bc17e03c",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1786142531,
+        "date_posted": 1786060800,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246362",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "3bc55052-c86c-4d0e-bb1d-1bb08f54297f",
+        "title": "Software Engineer - University",
+        "active": true,
+        "date_updated": 1786142530,
+        "date_posted": 1786060800,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246660",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "62db8501-50e1-4e15-b869-1d6c53c8f3fb",
+        "title": "Software Engineer - University",
+        "active": true,
+        "date_updated": 1786142529,
+        "date_posted": 1786060800,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246666",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "aff27bcc-4c0d-4249-89b5-1e898f2c9726",
+        "title": "Software Engineer - University",
+        "active": true,
+        "date_updated": 1786142526,
+        "date_posted": 1786060800,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246653",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Berkeley National Laboratory",
+        "id": "39d9b269-0240-45be-82e9-74737c54d8fb",
+        "title": "Postdoctoral Scholar",
+        "active": true,
+        "date_updated": 1786142370,
+        "date_posted": 1786141076,
+        "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=107271",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Royal Bank of Canada",
+        "id": "4cd3026b-bd03-4f1d-8000-102b2f3f2ace",
+        "title": "Quantitative Technology Services Analyst",
+        "active": true,
+        "date_updated": 1786142330,
+        "date_posted": 1786060800,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Jersey-City-New-Jersey-United-States-of-America/XMLNAME-2027-Analyst--Quantitative-Technology-Services_R-0000183397",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citi",
+        "id": "98bdf016-edff-4961-a34a-67a898eda0ab",
+        "title": "Cross Asset XVA Quantitative Analyst - Assistant Vice President",
+        "active": true,
+        "date_updated": 1786141261,
+        "date_posted": 1786060800,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Cross-Asset-XVA-Quantitative-Analyst---Assistant-Vice-President_26983067",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SPARTRONICS LLC",
+        "id": "5528242c-b9a0-420f-abfa-d1e637954990",
+        "title": "Production Specialist - Test Operator",
+        "active": true,
+        "date_updated": 1786141261,
+        "date_posted": 1786141073,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4402088",
+        "locations": [
+            "Watertown, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/dc19facd-8ffb-4e24-8c76-968a9ca9403f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Curtiss-Wright Corporation",
+        "id": "b62812e2-241d-4fc7-810e-2726318274e3",
+        "title": "Graduate Engineer",
+        "active": true,
+        "date_updated": 1786141261,
+        "date_posted": 1786060800,
+        "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MD-Frederick-Nuclear/Graduate-Engineer_JR13134",
+        "locations": [
+            "Frederick, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Curtiss-Wright",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Procter & Gamble (P&G)",
+        "id": "29a34463-45df-45c6-b3f9-eeac1d2b55c1",
+        "title": "Materials Development Associate Researcher - Feminine Care",
+        "active": true,
+        "date_updated": 1786141261,
+        "date_posted": 1786060800,
+        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Cincinnati/Materials-Development-Associate-Researcher_R000156706",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ibotta",
+        "id": "bee2567d-0e15-453a-b27d-35f0cb478489",
+        "title": "Associate Decision Scientist",
+        "active": true,
+        "date_updated": 1786141261,
+        "date_posted": 1786141022,
+        "url": "https://jobs.ashbyhq.com/ibotta/783515d0-f5d4-44d3-a3b3-58c99942403f/application?embed=true",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Ibotta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "LMI ",
+        "id": "d744664b-48c0-4d62-bc42-1881b5fcaec3",
+        "title": "Integrating Firmware Engineer - Mesh",
+        "active": true,
+        "date_updated": 1786142054,
+        "date_posted": 1786140974,
+        "url": "https://careers-lmi.icims.com/jobs/14396/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/LMI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trovy",
+        "id": "4e253679-7e15-4e91-b4f3-c685ab851e82",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1786141261,
+        "date_posted": 1786141003,
+        "url": "https://jobs.ashbyhq.com/trovy/952381a5-607c-4470-8a97-1c7a8c48c2f0/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/14f1bfcd-6cb4-4292-a312-b97d7caf682b",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "983f8874-b9ed-43ca-9910-718e20bcac70",
+        "title": "Software Development Engineer Graduate - Intent-Based Networking",
+        "active": true,
+        "date_updated": 1786141261,
+        "date_posted": 1786140955,
+        "url": "https://jobs.bytedance.com/en/position/7671145911004842245/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WSP",
+        "id": "1298b443-28f2-4d31-9110-7a09d55bb4a9",
+        "title": "Environmental Data Analytics Specialist - Environment, Remediation, and Water Team",
+        "active": true,
+        "date_updated": 1786141261,
+        "date_posted": 1786140937,
+        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92807",
+        "locations": [
+            "Seattle, WA",
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/WSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "xAI",
+        "id": "8035433a-5a4c-497b-92a1-2440c1b386d6",
+        "title": "Software Engineer - Evals",
+        "active": true,
+        "date_updated": 1786142341,
+        "date_posted": 1784759779,
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5188230007",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/XAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
