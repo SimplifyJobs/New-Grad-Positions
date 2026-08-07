@@ -56,81 +56,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Motorola",
-        "id": "ea6e4bf2-a995-408c-8c0d-9080bfdc5b54",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1765376782,
-        "date_posted": 1765376782,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer_R58789",
-        "locations": [
-            "Chicago, IL",
-            "Hoffman Estates, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "T-Mobile",
-        "id": "13dcf8d2-7a29-4347-8364-c6f4f28fe982",
-        "title": "Associate Engineer - Software",
-        "active": false,
-        "date_updated": 1765376221,
-        "date_posted": 1765376221,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Assoc-Engineer--Software_REQ338019",
-        "locations": [
-            "Frisco, TX",
-            "Bellevue, WA",
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "TD Synnex",
-        "id": "d0a762e4-086c-40b5-8641-67cbce3a61c0",
-        "title": "Intergration Technician 1 Technicien - Ne - En int\u00e9gration I - Conv",
-        "active": false,
-        "date_updated": 1765375805,
-        "date_posted": 1765375805,
-        "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/Intergration-Technician-I-Technicien--ne--en-intgration-I--CONV-_R45672",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Synnex",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Samsung",
-        "id": "3ceb09d4-f2d3-4df9-8c90-f70f76668048",
-        "title": "CVD Equipment Technician - Days",
-        "active": false,
-        "date_updated": 1765375994,
-        "date_posted": 1765375994,
-        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/CVD-Equipment-Technician---Days_R110094-1",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "GE Vernova",
         "id": "ffa39179-2143-44bb-91ef-a46927c4950b",
         "title": "Software Engineering Specialist",
@@ -296,28 +221,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "The Boeing Company",
-        "id": "41ae0faa-8da0-4f9f-9618-d34ee4f8bba9",
-        "title": "Product Data Management Specialist \u2013 Associate or Mid-Level",
-        "active": false,
-        "date_updated": 1765376695,
-        "date_posted": 1765376695,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Product-Data-Management-Specialist--Associate-or-Mid-Level-_JR2025485608-1",
-        "locations": [
-            "Long Beach, CA",
-            "Mesa, AZ",
-            "Everett, WA",
-            "Huntsville, AL",
-            "Hazelwood, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Genuine Parts Company",
         "id": "eb7e5b91-70e4-4d19-8765-c48f4cc75dcf",
         "title": "PIM Data Analyst - Enrichment",
@@ -383,25 +286,6 @@
             "Gloucester, UK"
         ],
         "company_url": "https://simplify.jobs/c/GE-Aerospace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NiSource",
-        "id": "5ff557ac-fedb-421e-a5b7-46562188c726",
-        "title": "GIS Technician",
-        "active": false,
-        "date_updated": 1765376006,
-        "date_posted": 1765376006,
-        "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Chester-VA-Op-Ctr/GIS-Technician_R00941372-1",
-        "locations": [
-            "Petersburg, VA",
-            "Suffolk, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/NiSource",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -479,24 +363,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "VCU Health",
-        "id": "f67e3a1d-6d50-4efb-81ff-86611c63798a",
-        "title": "AI Engineer 2",
-        "active": false,
-        "date_updated": 1765376955,
-        "date_posted": 1765376955,
-        "url": "https://vcuhealth.wd1.myworkdayjobs.com/vcuhealth_careers/job/Remote/AI-Engineer-II_R40510",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/VCU-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -139553,7 +139419,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -139573,7 +139439,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -247606,7 +247472,7 @@
         "company_name": "Silicon Laboratories",
         "id": "c7142e93-997d-4cb6-a4e3-6cd5fac970ad",
         "title": "Digital Design Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780449095,
         "date_posted": 1780448873,
         "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Digital-Design-Engineer-I_20658-1",
@@ -255213,7 +255079,7 @@
         "company_name": "Flutter",
         "id": "134aba7d-b76f-451f-89b8-338bbe9203b3",
         "title": "Graduate Researcher - Frontier Research and Development",
-        "active": false,
+        "active": true,
         "date_updated": 1780960305,
         "date_posted": 1780956613,
         "url": "https://flutterbe.wd3.myworkdayjobs.com/FlutterUKI_External/job/London-UK/Research-Graduate---Frontier-R-D_JR137091",
@@ -307337,7 +307203,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -348963,7 +348829,7 @@
         "company_name": "CVS Health",
         "id": "3ebe96ab-b5a9-4ddf-99f0-9583e2226fb6",
         "title": "Analytics & Behavior Change Engineering New Grad - Conversion",
-        "active": false,
+        "active": true,
         "date_updated": 1785620781,
         "date_posted": 1785283200,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Analytics---Behavior-Change---Engineering-Grad--Conversion-_R0991701",
@@ -357385,7 +357251,7 @@
         "company_name": "Omnicom Group",
         "id": "31b34b6e-9d6d-4767-9f1b-9c4c928075bb",
         "title": "Graduate Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785883460,
         "date_posted": 1785801600,
         "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/London-London-United-Kingdom/Graduate-Analyst_R11789",
@@ -361935,7 +361801,7 @@
         "company_name": "Veeva Systems",
         "id": "4f0ce480-21ee-4bdb-a42b-efac41ad8e1a",
         "title": "Associate Software Engineer - Engineering Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1786054755,
         "date_posted": 1786054008,
         "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9/apply",
@@ -361976,7 +361842,7 @@
         "company_name": "Veeva Systems",
         "id": "221f4f27-c95d-4fa4-98c1-bbb7b8aa79aa",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786054357,
         "date_posted": 1786054015,
         "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6/apply",
@@ -363891,5 +363757,144 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Fifth Third Bank",
+        "id": "85be705c-00c7-4d6a-a49a-719d8a738905",
+        "title": "Sales and Trading Analyst 1 - FRM",
+        "active": true,
+        "date_updated": 1786112590,
+        "date_posted": 1786060800,
+        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Sales-and-Trading-Analyst-I_R71405",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Publicis Groupe",
+        "id": "16e57b96-cb86-4910-aed2-5b6ffb2dd33d",
+        "title": "Data Analytics Executive",
+        "active": true,
+        "date_updated": 1786112281,
+        "date_posted": 1786112212,
+        "url": "https://careers.publicisgroupe.com/jobs/155568?icims=1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tyson Foods",
+        "id": "de7466cc-1557-459d-8035-37be599c14d0",
+        "title": "Data Engineer 1 - Inventory Optimization",
+        "active": true,
+        "date_updated": 1786112419,
+        "date_posted": 1786060800,
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-on-Thompson---Springdale-Arkansas/Data-Engineer-I_R0475407-1",
+        "locations": [
+            "Springdale, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Tyson-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "SS&C",
+        "id": "b319f80b-90f2-4a74-b8c7-bb2b5d8bbcd4",
+        "title": "Graduate Product Delivery Associate",
+        "active": true,
+        "date_updated": 1786111921,
+        "date_posted": 1786060800,
+        "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/London---1-Ropemaker-Street/Graduate-Product-Delivery-Associate---PA26Q3GRPDJH87_R45352-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BP",
+        "id": "5cf9266d-f211-4021-9882-d655a2fcd104",
+        "title": "Petrophysicist Graduate - Subsurface Group",
+        "active": true,
+        "date_updated": 1786112059,
+        "date_posted": 1786060800,
+        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/One-subsurface-Petrophysics-Graduate---Houston--TX_RQ114356",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/BP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "648c9765-3c64-46ee-8d68-1c311cb81a3b",
+        "title": "Digital Technology Development Program - US 2027",
+        "active": true,
+        "date_updated": 1786111857,
+        "date_posted": 1786060800,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Atlanta/GE-Vernova-Digital-Technology-Development-Program---US-2027_R5049179-1",
+        "locations": [
+            "Greenville, SC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NCR Voyix",
+        "id": "237a3e86-5679-4b36-ad21-c34572c07d94",
+        "title": "Field Service Technician 1",
+        "active": true,
+        "date_updated": 1786111600,
+        "date_posted": 1781362684,
+        "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ORANGE-COUNTY-NY-USA/Field-Service-Technician---Miami--FL_JR2604072",
+        "locations": [
+            "Orange County, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/NCR-Voyix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
