@@ -37,60 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "89d7f2d3-acfd-4e4a-9d0c-a2ca53f9fcfc",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1765360042,
-        "date_posted": 1765360042,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7453450",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "EquipmentShare",
-        "id": "1a7c227d-712c-445a-b5d5-0697eeec1ffc",
-        "title": "MDM \u2013 Master Data Management - Parts Specialist",
-        "active": false,
-        "date_updated": 1765360030,
-        "date_posted": 1765360030,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7426308",
-        "locations": [
-            "Columbia, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Quest Global",
-        "id": "f39d990f-860a-4e96-bb81-459b2aa38db4",
-        "title": "Data Analyst - Python/SQL + Finance knowledge",
-        "active": false,
-        "date_updated": 1765359356,
-        "date_posted": 1765359356,
-        "url": "https://careers.quest-global.com/global/en/job/P-113946",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Quest-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Mechanize",
         "id": "95cfcae1-13a4-46ee-998d-53e2d76bbe2f",
@@ -103,29 +49,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Mechanize",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Pathward",
-        "id": "775172f8-8baa-46d6-adb1-ebee221807cf",
-        "title": "Data Scientist 1",
-        "active": false,
-        "date_updated": 1765360778,
-        "date_posted": 1765360778,
-        "url": "https://job-boards.greenhouse.io/pathward/jobs/5722623004",
-        "locations": [
-            "Louisville, KY",
-            "Easton, PA",
-            "Sioux Falls, SD",
-            "Franklin, TN",
-            "Troy, MI",
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Pathward",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -17061,25 +16984,6 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/DaVita",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Scale AI",
-        "id": "d141e3c3-993b-4c91-8814-a556ef92e775",
-        "title": "Vibe Marketer",
-        "active": false,
-        "date_updated": 1765359624,
-        "date_posted": 1765359624,
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4638305005",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Scale-AI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -139869,7 +139773,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -139889,7 +139793,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -292057,7 +291961,7 @@
         "company_name": "Visa",
         "id": "3bd0ee22-015a-46b2-bd09-a7d1297b6963",
         "title": "Software Engineer / Site Reliability Engineer - Linux",
-        "active": true,
+        "active": false,
         "date_updated": 1783041317,
         "date_posted": 1783041100,
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Basingstoke-United-Kingdom/Software-Engineer_REF076350W",
@@ -358295,7 +358199,7 @@
         "company_name": "Eaton Corporation",
         "id": "556e7352-a6cf-47e4-a289-761088213bf8",
         "title": "Electro Mechanical Assembler B - Manufacturing",
-        "active": true,
+        "active": false,
         "date_updated": 1785910681,
         "date_posted": 1785910633,
         "url": "https://eaton.eightfold.ai/careers/job/687237030365",
@@ -364089,5 +363993,23 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics",
+        "id": "5466ce88-7ac4-4a48-ba95-8d9ec9c4d85a",
+        "title": "Electrical Test - Virginia and Columbia Programs",
+        "active": true,
+        "date_updated": 1786095039,
+        "date_posted": 1783491094,
+        "url": "https://careers-gdeb.icims.com/jobs/19267/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Groton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
