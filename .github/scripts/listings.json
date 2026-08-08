@@ -55,78 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "University of Southern California",
-        "id": "1d79933e-adab-49dc-9389-e55a03941dfd",
-        "title": "WordPress Website Administrator & Designer",
-        "active": false,
-        "date_updated": 1765418597,
-        "date_posted": 1765418597,
-        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/San-Diego-CA/WordPress-Website-Administrator---Designer_REQ20168294",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Internet Brands",
-        "id": "704e611d-80d2-43c7-b9dd-e5a0eb1932c4",
-        "title": "Associate AI Engineer",
-        "active": false,
-        "date_updated": 1765418968,
-        "date_posted": 1765418968,
-        "url": "https://jobs.jobvite.com/internetbrands/job/o33Oyfwc?nl=1&nl=1&fr=false",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Internet-Brands",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "a3b641f3-6486-42dd-a04a-d1469da9cba5",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1765419318,
-        "date_posted": 1765419318,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89386696112",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "b2a2603f-00a5-45b8-bd47-5078aaa42cf9",
-        "title": "Associate Programmer Analyst",
-        "active": false,
-        "date_updated": 1765419952,
-        "date_posted": 1765419952,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Programmer-Analyst_JR2025487618-1",
-        "locations": [
-            "Hazelwood, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "4642e4f4-9049-4282-bf85-401b8985b740",
@@ -12982,26 +12910,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Qualcomm",
-        "id": "fcd572b0-df12-4d6c-bb70-90664e33d004",
-        "title": "Machine Learning Researcher - Deep Reinforcement Learning and Optimization - Machine Learning Researcher",
-        "active": false,
-        "date_updated": 1767003976,
-        "date_posted": 1765419348,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446715744852",
-        "locations": [
-            "Markham, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "5a132526-b2c0-4178-adc2-5438e8099f00",
@@ -16326,24 +16234,6 @@
             "Remote in UK"
         ],
         "company_url": "https://simplify.jobs/c/Clairo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "TD Synnex",
-        "id": "2e66b203-ef50-4289-9143-d41705bb7e37",
-        "title": "Integration Service Technician 1 - Technicien",
-        "active": false,
-        "date_updated": 1765419697,
-        "date_posted": 1765419697,
-        "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Richmond-British-Colombia-Canada/Integration-Service-Technician-I---Technicien-ne--de-service-en-intgration-I_R45568",
-        "locations": [
-            "Richmond, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Synnex",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -251076,34 +250966,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Google",
-        "id": "69a569db-0492-4d86-9612-4eda81524c70",
-        "title": "Software Engineer \u2013 Early Career - Embedded Systems and Firmware",
-        "active": false,
-        "date_updated": 1780736041,
-        "date_posted": 1765419559,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158",
-        "locations": [
-            "Seattle, WA",
-            "LA",
-            "Raleigh, NC",
-            "Durham, NC",
-            "Kirkland, WA",
-            "NYC",
-            "Sunnyvale, CA",
-            "Mountain View, CA",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
