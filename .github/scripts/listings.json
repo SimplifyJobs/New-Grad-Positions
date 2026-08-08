@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "4642e4f4-9049-4282-bf85-401b8985b740",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1765437261,
-        "date_posted": 1765437261,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042882",
-        "locations": [
-            "Cornwall, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "General Dynamics Information Technology",
         "id": "0631a258-1e46-41a5-91dd-d20c3cc151b8",
@@ -43669,30 +43651,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Google",
-        "id": "233305db-fc9d-4133-9978-a3be835c4823",
-        "title": "Software Engineer 3 - Infrastructure - Google Cloud Platforms",
-        "active": false,
-        "date_updated": 1769159586,
-        "date_posted": 1765436814,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/79605303951139526",
-        "locations": [
-            "Cambridge, MA",
-            "SF",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -108747,29 +108705,6 @@
         "locations": [
             "Mountain View, CA",
             "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Google",
-        "id": "18a890c1-4548-4bd2-ad55-f7e977fa0b2e",
-        "title": "Software Engineer 3 - Infrastructure - Google Cloud Networking",
-        "active": false,
-        "date_updated": 1772530370,
-        "date_posted": 1765436869,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/115140583005004486",
-        "locations": [
-            "Sunnyvale, CA",
-            "SF"
         ],
         "company_url": "https://simplify.jobs/c/Google",
         "is_visible": true,
@@ -348230,7 +348165,7 @@
         "company_name": "L3Harris Technologies",
         "id": "8129e32b-6df4-4f6e-8dab-93908310b67a",
         "title": "Associate Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785708616,
         "date_posted": 1785708232,
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineering-FL-32904/1415099300/?ats=successfactors",
