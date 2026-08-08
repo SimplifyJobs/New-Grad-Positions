@@ -237515,7 +237515,7 @@
         "company_name": "Amazon",
         "id": "e3155c50-29ce-48b3-a6f0-47903713b81b",
         "title": "ITS Support Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779931054,
         "date_posted": 1779930364,
         "url": "https://amazon.jobs/en/jobs/10432510/its-support-engineer-i",
@@ -334426,7 +334426,7 @@
         "company_name": "Abbott",
         "id": "afd382d0-925a-4928-9ef0-6ac886b0a11e",
         "title": "Field Service Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1785192111,
         "date_posted": 1785110400,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Florida---Miami/Field-Service-Engineer-II--South-Ft-Laurderdale-Miami-area_31157347-2",
@@ -363370,6 +363370,26 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intellisense Systems Inc",
+        "id": "ed19e84f-a8ce-4202-9bf1-31d95e4feab1",
+        "title": "Electronics Assembler 1",
+        "active": true,
+        "date_updated": 1786193323,
+        "date_posted": 1785737956,
+        "url": "http://intellisensesystemsinc.applytojob.com/apply/dISFLJ5OCK/Electronics-Assembler-I",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/b4ee15b4-8e8c-4442-86b7-27183e96f4af",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
