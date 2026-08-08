@@ -137044,7 +137044,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -137064,7 +137064,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -363316,6 +363316,50 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Polaris",
+        "id": "8caf8a32-6383-404c-8f0e-49c55ec304a7",
+        "title": "Digital & IT Leadership Development Program Associate - Digital Product Development",
+        "active": true,
+        "date_updated": 1786180501,
+        "date_posted": 1786147200,
+        "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Digital-Product-Development_R30565",
+        "locations": [
+            "Medina, MN",
+            "Plymouth, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Polaris",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Polaris",
+        "id": "601c9bc9-49e0-4394-be4f-8a40c9b2ffba",
+        "title": "Digital & IT Leadership Development Program Associate - Predictive Data Science",
+        "active": true,
+        "date_updated": 1786180501,
+        "date_posted": 1786147200,
+        "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Predictive-Data-Science_R30564",
+        "locations": [
+            "Medina, MN",
+            "Plymouth, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Polaris",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
