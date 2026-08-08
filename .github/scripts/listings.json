@@ -55,30 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Uline",
-        "id": "30a1b10d-c5f7-4999-a608-832e239aeecc",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1765464733,
-        "date_posted": 1765464733,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-Product-Manager_R259807-1",
-        "locations": [
-            "Waukegan, IL",
-            "Milwaukee, WI",
-            "Pleasant Prairie, WI",
-            "Morton Grove, IL",
-            "Kenosha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "JP Morgan Chase",
         "id": "ffe19e42-c866-4d26-ac16-c3be14e91487",
@@ -127048,7 +127024,7 @@
         "company_name": "SentiLink",
         "id": "5486f8fc-e958-437b-934e-ad3295e9a178",
         "title": "Data Scientist \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1773382532,
         "date_posted": 1773382532,
         "url": "https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408/application",
@@ -136990,7 +136966,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -137010,7 +136986,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -363391,5 +363367,43 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Chicago",
+        "id": "553c6727-2707-4c4c-8dc1-507b8740d4fb",
+        "title": "Research Professional - Booth Faculty Research",
+        "active": true,
+        "date_updated": 1786200481,
+        "date_posted": 1786147200,
+        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Professional_JR34816",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "55ef751e-9c46-4324-8c9f-d5e7edf63742",
+        "title": "Manufacturing Technician 2 - DFAB",
+        "active": true,
+        "date_updated": 1786200353,
+        "date_posted": 1782165946,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37840",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
