@@ -56,192 +56,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "CAI",
-        "id": "e3096161-db84-4e80-b8fe-1dd9b38f7feb",
-        "title": "Assembly Technician",
-        "active": false,
-        "date_updated": 1765409496,
-        "date_posted": 1765409496,
-        "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/TN-CLIENT-STATE/Assembly-Technician_R6775",
-        "locations": [
-            "Tullahoma, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/CAI-Io",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Encore Capital Group",
-        "id": "3b09f840-2f0d-4af3-9574-18cd5a783090",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1765409613,
-        "date_posted": 1765409613,
-        "url": "https://encore.wd1.myworkdayjobs.com/externalnew/job/CA---San-Diego/Software-Engineer_HR-19575",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/f8040e25-6729-4295-8e39-d5a4fb1ae51c",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Silvus Technologies",
-        "id": "9e0f3ab5-b445-4d3c-aa61-a7cb577f71ba",
-        "title": "Electronics Technician - Entry Level",
-        "active": false,
-        "date_updated": 1765410189,
-        "date_posted": 1765410189,
-        "url": "https://job-boards.greenhouse.io/silvus/jobs/5025451008",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Silvus-Tech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "761df35b-cd0a-4656-a6f6-ecb22be9411e",
-        "title": "Experimental Test Physicist",
-        "active": false,
-        "date_updated": 1765410073,
-        "date_posted": 1765410073,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Experimental-Test-Physicist_R10216835",
-        "locations": [
-            "Halethorpe, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GIPathfinder",
-        "id": "5821e8e0-19a9-4cb9-bb0b-1795472d2fb1",
-        "title": "Financial Data Analyst",
-        "active": false,
-        "date_updated": 1765410205,
-        "date_posted": 1765410205,
-        "url": "https://job-boards.greenhouse.io/gipathfinder/jobs/4638638005",
-        "locations": [
-            "Burlingame, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/GIPathfinder",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ShipBob",
-        "id": "579fd96a-2def-4909-8c81-e0dd82699d2e",
-        "title": "Forward Deployed Engineer",
-        "active": false,
-        "date_updated": 1765410196,
-        "date_posted": 1765410196,
-        "url": "https://job-boards.greenhouse.io/shipbobinc/jobs/4638574005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/ShipBob",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Athena Health",
-        "id": "4cbf3236-5f5f-4476-a60a-59d93955e291",
-        "title": "Software Developer - Amts",
-        "active": false,
-        "date_updated": 1765410171,
-        "date_posted": 1765410171,
-        "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Software-Development--AMTS_R14043",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/e955406a-7989-4ed8-aff1-01032b96e141",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "419d63d3-1323-421b-9507-e29b5aac4a58",
-        "title": "Software Developer",
-        "active": false,
-        "date_updated": 1765410112,
-        "date_posted": 1765410112,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Canada---Montreal/Dveloppeur-logiciel---Software-Developer_R2491-25",
-        "locations": [
-            "Montreal, QC, Canada",
-            "Saskatoon, SK, Canada",
-            "Burnaby, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CAE",
-        "id": "bc4c048d-7529-4d9f-b644-3b0ee309a4e5",
-        "title": "Simulator Technician",
-        "active": false,
-        "date_updated": 1765409652,
-        "date_posted": 1765409652,
-        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Richmond-BC/Simulator-Technician_119077",
-        "locations": [
-            "Richmond, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Boeing Company",
-        "id": "74271276-bf8c-4bfa-b047-37fb7219ea12",
-        "title": "Technical Orders Product Data Management Specialist",
-        "active": false,
-        "date_updated": 1765409633,
-        "date_posted": 1765409633,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Technical-Orders-Product-Data-Management-Specialist_JR2025486739-1",
-        "locations": [
-            "Long Beach, CA",
-            "Mesa, AZ",
-            "Everett, WA",
-            "Huntsville, AL",
-            "Hazelwood, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "RTX",
         "id": "18f692e0-ef9a-48fc-83fa-1768e8260e7b",
         "title": "Systems Engineer 2",
@@ -291,78 +105,6 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Truist-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AspenTech",
-        "id": "b965d7f9-d6c4-4c04-8ffc-be7be5187104",
-        "title": "Software Developer",
-        "active": false,
-        "date_updated": 1765410508,
-        "date_posted": 1765410508,
-        "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Software-Developer_R8219",
-        "locations": [
-            "Wayzata, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/AspenTech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Auto-Owners Insurance",
-        "id": "10dfa180-ce2a-4371-b388-ad2f94af199f",
-        "title": "Investment Analyst",
-        "active": false,
-        "date_updated": 1765410368,
-        "date_posted": 1765410368,
-        "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Investment-Analyst_R_12858-1",
-        "locations": [
-            "East Lansing, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Auto-Owners-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Applied Materials",
-        "id": "82d1fc17-d60c-4350-917d-51cf5db8c062",
-        "title": "Supplier Engineering - New College Grad-Bachelor's - Santa Clara, CA",
-        "active": false,
-        "date_updated": 1765410782,
-        "date_posted": 1765410782,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Supplier-Engineering--New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2519061",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Jabil",
-        "id": "2b80d819-0535-41d5-87d6-bf027b969848",
-        "title": "Rework Operator",
-        "active": false,
-        "date_updated": 1765410460,
-        "date_posted": 1765410460,
-        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Rework-Operator_J2434311-1",
-        "locations": [
-            "St. Petersburg, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -15043,24 +14785,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Redwood Materials",
-        "id": "eee0aaa0-7232-4960-b815-63940b4fa9f9",
-        "title": "Development Engineering Technician - Electrochemistry",
-        "active": false,
-        "date_updated": 1765496964,
-        "date_posted": 1765410204,
-        "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5734480004",
-        "locations": [
-            "McCarran, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Redwood-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "GXO Logistics",
         "id": "89c254ef-0627-45c6-bef3-5f7b5eab4ea4",
         "title": "Automation Engineering Assistant",
@@ -17519,24 +17243,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Vantage Point Solutions",
-        "id": "f761fda5-fd0c-4f96-9251-563e2d82e9fe",
-        "title": "Field Services Technician",
-        "active": false,
-        "date_updated": 1765409493,
-        "date_posted": 1765409493,
-        "url": "https://vantage-point-solutions-inc.breezy.hr/p/d0c16589951a/apply",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Vantage-Point-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Uhaul",
         "id": "e4baf1da-64b3-485e-a152-f26a0d801bb5",
         "title": "Hitch Installer-1",
@@ -17548,24 +17254,6 @@
             "Cherry Hills Village, CO"
         ],
         "company_url": "https://simplify.jobs/c/Uhaul",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Wisk",
-        "id": "d038a86f-0691-4354-9021-521e870d6541",
-        "title": "Ultrasonic Inspector - Non-Destructive Test - NDT",
-        "active": false,
-        "date_updated": 1765409516,
-        "date_posted": 1765409516,
-        "url": "https://wisk.wd108.myworkdayjobs.com/Wisk_Careers/job/Mountain-View-CA/Ultrasonic--level-2--Non-Destructive-Test--NDT--Inspector_JR100405",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wisk-Aero",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -17746,24 +17434,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Teledyne",
-        "id": "5000a4a9-eaa3-4627-b03b-9e4984da50ba",
-        "title": "Optical Technician",
-        "active": false,
-        "date_updated": 1765410250,
-        "date_posted": 1765410250,
-        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Freeport-PA/Optical-Technician_REQ31945",
-        "locations": [
-            "Tarentum, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
