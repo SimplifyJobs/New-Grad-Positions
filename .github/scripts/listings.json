@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Huntington Ingalls Industries",
-        "id": "1f70554a-6800-4d25-8c6e-5b23fb2568b9",
-        "title": "Database Administrator 1",
-        "active": false,
-        "date_updated": 1765449515,
-        "date_posted": 1765449515,
-        "url": "https://careers.huntingtoningalls.com/job/Newport-News-DATABASE-ADMINISTRATOR-1-Virg/1349037400/?ats=successfactors",
-        "locations": [
-            "Newport News, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "4769b150-036b-4652-8323-8e5e7282b48a",
@@ -85,24 +67,6 @@
             "Belfast, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Welocalize",
-        "id": "7d423055-a6c5-4792-802e-a6973ab34caa",
-        "title": "Multilingual Audio Personalization Evaluator - English - United States",
-        "active": false,
-        "date_updated": 1765450719,
-        "date_posted": 1765450719,
-        "url": "https://jobs.lever.co/welocalize/907a2767-8d04-4a7a-9b61-9d8e373fe695/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Welocalize",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -244602,7 +244566,7 @@
         "company_name": "Clarium",
         "id": "5b55074b-c1c4-4d84-93b1-7ba097cadbba",
         "title": "AI Engineer - Data Intelligence",
-        "active": true,
+        "active": false,
         "date_updated": 1780439406,
         "date_posted": 1780438149,
         "url": "https://jobs.ashbyhq.com/clarium/83332693-7e11-41db-8b62-8225cb818abf/application",
