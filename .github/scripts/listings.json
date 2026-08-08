@@ -136438,7 +136438,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -136458,7 +136458,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -304176,7 +304176,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -354162,7 +354162,7 @@
         "company_name": "Deloitte",
         "id": "c3a87290-4f6d-4d31-8576-4c7f518fd46b",
         "title": "Tax Consultant - LLM",
-        "active": true,
+        "active": false,
         "date_updated": 1785883617,
         "date_posted": 1785882017,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Tax-Tax-Consultant-LLM-Summer-2027/361373",
@@ -362892,6 +362892,114 @@
             "Nashville, TN"
         ],
         "company_url": "https://simplify.jobs/c/Starbucks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SentiLink",
+        "id": "e5423846-60f1-41d6-a26a-f21c73bf39c1",
+        "title": "Research Scientist New Grad",
+        "active": true,
+        "date_updated": 1786227441,
+        "date_posted": 1786227202,
+        "url": "https://jobs.ashbyhq.com/sentilink/f9a47314-c48a-4053-a113-6974b211559f/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SentiLink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SentiLink",
+        "id": "6dd7314e-401a-4dcc-9e85-8edf326cdbe1",
+        "title": "Applied Scientist New Grad - Multiple Teams",
+        "active": true,
+        "date_updated": 1786227441,
+        "date_posted": 1786227201,
+        "url": "https://jobs.ashbyhq.com/sentilink/cbe2397c-5e7a-4649-a8c0-07e5d1204e82/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SentiLink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SentiLink",
+        "id": "54ed1437-cf0b-48cb-a3d9-def5e71badd3",
+        "title": "Quantitative Scientist New Grad - Multiple Teams",
+        "active": true,
+        "date_updated": 1786227440,
+        "date_posted": 1786227201,
+        "url": "https://jobs.ashbyhq.com/sentilink/a4a5f890-4ecd-4e76-86db-e7b3e18eb6b2/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SentiLink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "SentiLink",
+        "id": "5526d232-bcb1-4da8-8ea8-a1119c798659",
+        "title": "Quantitative Researcher New Grad - Emerging Products - Application Fraud",
+        "active": true,
+        "date_updated": 1786227445,
+        "date_posted": 1786227232,
+        "url": "https://jobs.ashbyhq.com/sentilink/4e28d1a3-75a8-4031-85eb-82b7847d365a/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SentiLink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "8bebde66-32b0-43c4-93ea-9c10bd8e3aaf",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1786227266,
+        "date_posted": 1786226944,
+        "url": "https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineering-TX-76705/1417325100/?ats=successfactors",
+        "locations": [
+            "Waco, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
