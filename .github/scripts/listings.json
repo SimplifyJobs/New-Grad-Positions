@@ -137044,7 +137044,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -137064,7 +137064,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -335408,7 +335408,7 @@
         "company_name": "Cisco",
         "id": "09747fec-195a-49d6-8a70-a6377773a9bb",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785193381,
         "date_posted": 1785110400,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Seattle-Washington-US/Software-Engineer_2019587",
@@ -348569,7 +348569,7 @@
         "company_name": "L3Harris Technologies",
         "id": "1b62de55-253b-4ee8-8381-54120f90d0da",
         "title": "Associate Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785737488,
         "date_posted": 1785736983,
         "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905/1415116300/?ats=successfactors",
@@ -351751,7 +351751,7 @@
         "company_name": "Constellation Energy",
         "id": "14835951-3570-43d1-803c-25fe2d7fa63f",
         "title": "Business Data Analyst 1/2/Senior",
-        "active": true,
+        "active": false,
         "date_updated": 1785796151,
         "date_posted": 1785795181,
         "url": "https://jobs.constellationenergy.com/jobs/137758?icims=1",
@@ -352475,7 +352475,7 @@
         "company_name": "Netsmart",
         "id": "db9c57de-0338-484f-acbc-6ea1db0e12ed",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785798861,
         "date_posted": 1785715200,
         "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer----Dec26-May-27-Grads-_R015658",
@@ -363360,6 +363360,48 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hitachi",
+        "id": "1596887a-ba5a-46e4-a4b7-8f2310481a83",
+        "title": "Junior Condition Monitoring and Analytics Engineer",
+        "active": true,
+        "date_updated": 1786182867,
+        "date_posted": 1784800316,
+        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HRERSU-London-Ludgate/Maintenance-Analytics-Engineer_R0108106",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hitachi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stryker",
+        "id": "015d5714-5f97-473f-8ea4-25e2d645023d",
+        "title": "Associate Installation Technician",
+        "active": true,
+        "date_updated": 1786181401,
+        "date_posted": 1783900800,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cincinnati-Ohio/Associate-Installation-Technician--Ohio_R568442",
+        "locations": [
+            "Dayton, OH",
+            "Columbus, OH",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
