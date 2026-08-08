@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "4769b150-036b-4652-8323-8e5e7282b48a",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1765451226,
-        "date_posted": 1765451226,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041832",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Uline",
         "id": "30a1b10d-c5f7-4999-a608-832e239aeecc",
@@ -363366,6 +363348,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Two Sigma",
+        "id": "701b131c-8006-40ac-a07c-5d5d37bd080e",
+        "title": "Quantitative Researcher - Full-Time Campus Hire",
+        "active": true,
+        "date_updated": 1786186801,
+        "date_posted": 1785633717,
+        "url": "https://twosigma.avature.net/careers/JobDetail/13946",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/0e04910d-c55c-49e9-b2c6-5f391cf32384",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
