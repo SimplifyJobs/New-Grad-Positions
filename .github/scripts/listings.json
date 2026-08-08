@@ -137237,7 +137237,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -137257,7 +137257,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -152948,7 +152948,7 @@
         "company_name": "PlayStation",
         "id": "5b657cc4-20ce-4094-a37e-f219f0ce9265",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774912002,
         "date_posted": 1774908806,
         "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5840958004",
@@ -305003,7 +305003,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -305104,7 +305104,7 @@
         "company_name": "Waste Management",
         "id": "809acc19-3767-41d5-8973-d163d976ebe7",
         "title": "Analyst 1 - Customer Digital Engagement",
-        "active": true,
+        "active": false,
         "date_updated": 1784067976,
         "date_posted": 1784066925,
         "url": "https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2350394",
@@ -362954,5 +362954,549 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Montreal Institute for Learning Algorithms",
+        "id": "3306d8fb-6c29-4d88-94cb-972dc1945579",
+        "title": "AI Applications Developer Junior - AI Applications Development",
+        "active": true,
+        "date_updated": 1786152533,
+        "date_posted": 1786151995,
+        "url": "https://apply.workable.com/mila-2/j/F73F31C5FD/apply",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/c6be6724-3e50-4da9-bd92-d107d74e00b7",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kanbrick",
+        "id": "fc0ba9c7-8038-43b5-ae74-d319237d1147",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1786152061,
+        "date_posted": 1786151987,
+        "url": "https://apply.workable.com/kanbrick/j/CA9D01A008/apply",
+        "locations": [
+            "Nashville, TN",
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/2b73d1dc-e4cc-4545-bff0-e7066c3cb41c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "interface.ai",
+        "id": "41280a36-4216-449a-9315-6144bfec8a2b",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1786152061,
+        "date_posted": 1786152029,
+        "url": "https://jobs.ashbyhq.com/interface-ai/abbcf39d-cac3-49ee-9279-82a59821c300/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Interface-Ai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Arondite",
+        "id": "1d3e2472-9db6-4a89-bd75-41e4897d497d",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1786152061,
+        "date_posted": 1786151974,
+        "url": "https://apply.workable.com/arondite/j/4DB1A60B2B/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/f72eb6a5-63d8-43f1-8663-2b2821df9703",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Arondite",
+        "id": "02f2beb7-58e8-4aea-9598-45728f820599",
+        "title": "Deployed Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1786152461,
+        "date_posted": 1786151974,
+        "url": "https://apply.workable.com/arondite/j/5C5C551ADA/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/f72eb6a5-63d8-43f1-8663-2b2821df9703",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Homey",
+        "id": "6afc654a-5326-48ff-a97e-39f9353340da",
+        "title": "Junior Software Engineer - AI-Native",
+        "active": true,
+        "date_updated": 1786152061,
+        "date_posted": 1786151956,
+        "url": "https://apply.workable.com/homey/j/50DF9B3D53/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/485f0091-e368-4fec-88b5-ef728b653aea",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Capula",
+        "id": "d6debf76-4ef7-44a8-9332-487d370d73c9",
+        "title": "Quantitative Strategist",
+        "active": true,
+        "date_updated": 1786152061,
+        "date_posted": 1786151944,
+        "url": "https://apply.workable.com/capula-investment-management-ltd/j/9582487D5F/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/c07ede24-ea28-4d89-8547-8f65381007b4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capula",
+        "id": "b086381d-4ccc-4726-abc2-f3012a2ce678",
+        "title": "Technology Graduate Analyst",
+        "active": true,
+        "date_updated": 1786152061,
+        "date_posted": 1786151943,
+        "url": "https://apply.workable.com/capula-investment-management-ltd/j/88F2A24444/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/c07ede24-ea28-4d89-8547-8f65381007b4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teguar",
+        "id": "3bfbb235-198a-418b-9666-20a752afb4c3",
+        "title": "Computer Assembly Technician",
+        "active": true,
+        "date_updated": 1786152061,
+        "date_posted": 1786151945,
+        "url": "https://apply.workable.com/teguar-corporation/j/6B5F9ADBF1/apply",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/c2df32de-cd0b-496b-9828-e1d111711d06",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vanguard EMS",
+        "id": "6d9c521b-4981-4ab1-83b7-6b548f71bd40",
+        "title": "Soldering Rework / Repair Technician",
+        "active": true,
+        "date_updated": 1786152340,
+        "date_posted": 1786151922,
+        "url": "https://apply.workable.com/vanguard-ems-inc/j/3B58F227C1/apply",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/4283d41b-92c9-4582-8b13-a6d465823c07",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Christie",
+        "id": "72d71f3c-7e47-4d52-aaf3-407c1f8bea58",
+        "title": "Motor Repair Technician",
+        "active": true,
+        "date_updated": 1786152061,
+        "date_posted": 1786151903,
+        "url": "https://apply.workable.com/christie-lites-3/j/25F36FBEF7/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/3f9f1531-ea6c-44e5-b27a-3ff984f311df",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zaizi",
+        "id": "4de68cbe-0993-4762-a0d2-c73cf82179a7",
+        "title": "Graduate Machine Learning Engineer - AI",
+        "active": true,
+        "date_updated": 1786152061,
+        "date_posted": 1786151903,
+        "url": "https://apply.workable.com/zaizi/j/5DBB38B542/apply",
+        "locations": [
+            "Cheltenham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/5c86547e-18cc-4ce7-b5ff-759d997e77f6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "WallStreetQuants",
+        "id": "81283453-036b-4d9b-bd42-859e788f6308",
+        "title": "Quantitative Developer",
+        "active": true,
+        "date_updated": 1786152236,
+        "date_posted": 1786151882,
+        "url": "https://apply.workable.com/wallstreetquants/j/AA3FB20456/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/46e5dfcd-8bf9-4bd1-b33f-1ccfcb129872",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "WallStreetQuants",
+        "id": "40aa0190-c45b-4a2d-a809-42427db7b79a",
+        "title": "Quantitative Trader New Grad",
+        "active": true,
+        "date_updated": 1786152230,
+        "date_posted": 1786151883,
+        "url": "https://apply.workable.com/wallstreetquants/j/615D982644/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/46e5dfcd-8bf9-4bd1-b33f-1ccfcb129872",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AVK",
+        "id": "c3e573a8-0146-4cc2-b742-83734b0e097e",
+        "title": "Panel Wirer",
+        "active": true,
+        "date_updated": 1786152061,
+        "date_posted": 1786151885,
+        "url": "https://apply.workable.com/avk-seg-uk-ltd/j/B138C6B09D/apply",
+        "locations": [
+            "Lenham, Maidstone, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/73d139ab-909c-487a-b844-50e5c835db90",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "WallStreetQuants",
+        "id": "0b97fdf6-a3a1-4d8e-9058-100f1745c966",
+        "title": "Quantitative Researcher New Grad",
+        "active": true,
+        "date_updated": 1786152223,
+        "date_posted": 1786151885,
+        "url": "https://apply.workable.com/wallstreetquants/j/62537809CA/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/46e5dfcd-8bf9-4bd1-b33f-1ccfcb129872",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "WallStreetQuants",
+        "id": "51f21a70-c93d-450b-8650-0e6409df2aee",
+        "title": "Quantitative Trader New Grad",
+        "active": true,
+        "date_updated": 1786152218,
+        "date_posted": 1786151882,
+        "url": "https://apply.workable.com/wallstreetquants/j/C611D9282B/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/46e5dfcd-8bf9-4bd1-b33f-1ccfcb129872",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Flexcompute",
+        "id": "78eb2dca-9b33-4b7e-a27e-6ac21fe1b6ff",
+        "title": "Software Engineer - Infrastructure",
+        "active": true,
+        "date_updated": 1786151881,
+        "date_posted": 1786151872,
+        "url": "https://apply.workable.com/flexcompute/j/143ECD1848/apply",
+        "locations": [
+            "Watertown, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/b13d0133-06f8-4307-af57-078b72c2da50",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Flexcompute",
+        "id": "ee1a3b7b-ed9d-4664-8291-c30e79a97e63",
+        "title": "Scientific Computing New Grad - Rising Stars",
+        "active": true,
+        "date_updated": 1786152197,
+        "date_posted": 1786151875,
+        "url": "https://apply.workable.com/flexcompute/j/75BA5AB5DC/apply",
+        "locations": [
+            "Watertown, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/b13d0133-06f8-4307-af57-078b72c2da50",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Flexcompute",
+        "id": "75af4966-3c71-447e-9622-da5d0c139e79",
+        "title": "CFD Solver Developer",
+        "active": true,
+        "date_updated": 1786151881,
+        "date_posted": 1786151872,
+        "url": "https://apply.workable.com/flexcompute/j/EF3D90A736/apply",
+        "locations": [
+            "Watertown, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/b13d0133-06f8-4307-af57-078b72c2da50",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fuse Integration",
+        "id": "63403c85-fbe7-476d-be6a-aa1a080ff05c",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786152148,
+        "date_posted": 1786151857,
+        "url": "https://apply.workable.com/fuse-integration/j/6B54E80594/apply",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/a3e82ba4-402c-4104-9002-6c86941f6bf0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Slip Robotics",
+        "id": "09ac72aa-0f43-481a-96de-e6ced6efa7f5",
+        "title": "Field Technician",
+        "active": true,
+        "date_updated": 1786151881,
+        "date_posted": 1786151866,
+        "url": "https://apply.workable.com/slip-robotics/j/377166CD3F/apply",
+        "locations": [
+            "Denton, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/d630f5e3-50d9-4c20-b12d-a1efa45af24e",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fifty-Five",
+        "id": "171df98e-6146-40e8-a69b-36b0da737aef",
+        "title": "Digital Analytics Associate Consultant",
+        "active": true,
+        "date_updated": 1786151881,
+        "date_posted": 1786151854,
+        "url": "https://apply.workable.com/fifty-five/j/F21A38FE9E/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/59cf45b0-3437-40c8-b70b-4d17b627b769",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UBDS Group",
+        "id": "4f68b635-7be5-445f-aaac-a9387cb64385",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1786151881,
+        "date_posted": 1786151821,
+        "url": "https://apply.workable.com/ubds/j/3E4DD87355/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/40d89e58-d548-491f-9c90-a28907571789",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AMAX",
+        "id": "ddacec5d-fc6c-4021-afc2-ec6d2ebf5046",
+        "title": "Rack and Stack Assembler",
+        "active": true,
+        "date_updated": 1786151881,
+        "date_posted": 1786151810,
+        "url": "https://apply.workable.com/amax-1/j/4C6F9441A2/apply",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/e6f2eae9-82a3-4da7-8f5e-d385415b35c5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AMAX",
+        "id": "aec682d0-cef7-4fab-b024-14111b89bd50",
+        "title": "Junior Systems Engineer",
+        "active": true,
+        "date_updated": 1786151994,
+        "date_posted": 1786151811,
+        "url": "https://apply.workable.com/amax-1/j/FE4BA3799A/apply",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/e6f2eae9-82a3-4da7-8f5e-d385415b35c5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PlusAI",
+        "id": "5b6fcb51-769c-47bd-b2d0-4569cca29535",
+        "title": "Senior Machine Learning Engineer - Perception",
+        "active": true,
+        "date_updated": 1786151701,
+        "date_posted": 1786151531,
+        "url": "https://jobs.lever.co/plus-2/d1b8ecc2-dfc2-4613-81ca-02d90776c618/apply",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Plus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "BP",
+        "id": "c6628942-b621-4a26-9578-7061a45823f4",
+        "title": "Supply and Shipping Graduate Program - Trading",
+        "active": true,
+        "date_updated": 1786151474,
+        "date_posted": 1786060800,
+        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/XMLNAME-2027-Supply--Trading--and-Shipping-Graduate-Program_RQ114574",
+        "locations": [
+            "Houston, TX",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/BP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
