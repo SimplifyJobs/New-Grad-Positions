@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Information Technology",
-        "id": "0631a258-1e46-41a5-91dd-d20c3cc151b8",
-        "title": "UiPath Robotic Process Automation Developer Associate",
-        "active": false,
-        "date_updated": 1765438688,
-        "date_posted": 1765438688,
-        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/UiPath-Robotic-Process-Automation-Developer-Associate_RQ211136",
-        "locations": [
-            "Shreveport, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/GDIT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Huntington Ingalls Industries",
         "id": "1f70554a-6800-4d25-8c6e-5b23fb2568b9",
@@ -348487,7 +348469,7 @@
         "company_name": "L3Harris Technologies",
         "id": "a7fb4c3c-2bdf-4ddb-86d6-d8046da13ffd",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785737556,
         "date_posted": 1785736988,
         "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-CO-80916/1415119700/?ats=successfactors",
