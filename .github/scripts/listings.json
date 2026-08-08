@@ -55,78 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "JP Morgan Chase",
-        "id": "ffe19e42-c866-4d26-ac16-c3be14e91487",
-        "title": "Trading Services Associate",
-        "active": false,
-        "date_updated": 1765469811,
-        "date_posted": 1765469811,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210692709",
-        "locations": [
-            "Christchurch, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ION Group",
-        "id": "a32d8e14-2e43-42c1-accf-75de3b3a7232",
-        "title": "Software Developer - 2026 Leadership Development Program - Houston",
-        "active": false,
-        "date_updated": 1765469543,
-        "date_posted": 1765469543,
-        "url": "https://jobs.lever.co/ion/beb910e6-7ad4-4c72-9b6d-f2666a7ed4aa/apply",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/ION-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "90cd493d-a475-4b47-aa16-7c44a4d93177",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1765469607,
-        "date_posted": 1765469607,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042916",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "16c99725-e38f-40cd-bd84-6618e85ca9dc",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1765469606,
-        "date_posted": 1765469606,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042919",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "The Boeing Company",
         "id": "f64d8289-ecab-40ed-a5ad-49eb6e1c6677",
@@ -235,24 +163,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "3fd7cda1-c69d-4507-9ead-eb3f5afd6f8a",
-        "title": "Capacity Installation Technician-West London - Infrastructure Delivery - Infrastructure Delivery",
-        "active": false,
-        "date_updated": 1765469659,
-        "date_posted": 1765469659,
-        "url": "https://amazon.jobs/en/jobs/3131385/capacity-installation-technician-west-london-infrastructure-delivery-infrastructure-delivery",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Wells Fargo",
         "id": "107cc24a-f645-47f7-ae02-f38c8341b0f7",
@@ -289,24 +199,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "4bc6ce86-dfad-4b1e-a910-59037bf50565",
-        "title": "Capacity Installation Technician-West London - Infrastructure Delivery - Infrastructure Delivery",
-        "active": false,
-        "date_updated": 1765469663,
-        "date_posted": 1765469663,
-        "url": "https://amazon.jobs/en/jobs/3131383/capacity-installation-technician-west-london-infrastructure-delivery-infrastructure-delivery",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Guidehouse",
         "id": "4bb38068-f1e3-42ab-8ad4-a0c7f49b4f28",
@@ -326,24 +218,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a70d29a1-97ce-4442-9a66-ed9882b14d15",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1765469607,
-        "date_posted": 1765469607,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042803",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -31006,26 +30880,6 @@
         "degrees": [
             "Bachelor's",
             "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Walter P Moore",
-        "id": "a31b7619-b084-4b58-aca8-efa0bd4e54e3",
-        "title": "Graduate Engineer - Construction Engineering",
-        "active": false,
-        "date_updated": 1768357592,
-        "date_posted": 1765469245,
-        "url": "https://careers-walterpmoore.icims.com/jobs/3185/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Reno, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Walter-P-Moore",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
         ]
     },
     {
