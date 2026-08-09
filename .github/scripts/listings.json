@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "817c64ed-8b2b-4834-8932-b222ea2eb293",
-        "title": "Senior Engineering Technician",
-        "active": false,
-        "date_updated": 1765557230,
-        "date_posted": 1765557230,
-        "url": "https://careers-gdms.icims.com/jobs/69772/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Bloomington, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sanofi",
         "id": "ff589c6a-b279-42c7-8b1a-97ccc2b44348",
@@ -85,42 +67,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Sanofi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "85b0c252-9d95-4530-b157-79e888c2a917",
-        "title": "Simulation Software Engineer \u2013 Experienced or Senior level - Associate",
-        "active": false,
-        "date_updated": 1765557471,
-        "date_posted": 1765557471,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Crawley-UK/Simulation-Software-Engineer--Associate--Experienced-or-Senior-level-_JR2025488376-1",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Nasdaq",
-        "id": "72fc318f-98b1-47e7-90dc-ee6f553237e9",
-        "title": "ETP Product Analyst",
-        "active": false,
-        "date_updated": 1765557436,
-        "date_posted": 1765557436,
-        "url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/USA---New-York-City---New-York/ETP-Product-Analyst_R0024268-1",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Nasdaq",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -21420,26 +21366,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CharterUP",
-        "id": "3c081c26-6aac-4123-95f9-3184a9fba5df",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1767828133,
-        "date_posted": 1765557424,
-        "url": "https://job-boards.greenhouse.io/charterup/jobs/5031834008",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/CharterUP",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -361500,6 +361426,26 @@
             "Miami, FL"
         ],
         "company_url": "https://simplify.jobs/c/f67b269f-6a34-493c-b7bd-6f3feaf76a70",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "9176ab13-a88c-4083-a4e2-72bf78318423",
+        "title": "Power Analyst",
+        "active": true,
+        "date_updated": 1785580922,
+        "date_posted": 1779113165,
+        "url": "https://careers-sig.icims.com/jobs/10365/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
