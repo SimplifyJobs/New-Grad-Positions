@@ -55,42 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Analog Devices",
-        "id": "b52b2710-2ebe-44cd-92d7-7566e847df26",
-        "title": "Embedded Firmware Engineer",
-        "active": false,
-        "date_updated": 1765525012,
-        "date_posted": 1765525012,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Vancouver/Embedded-Firmware-Engineer_R257194",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Analog Devices",
-        "id": "634f1e03-a54f-4408-bd23-6d7c5c81ab55",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1765525017,
-        "date_posted": 1765525017,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Vancouver/Software-Engineer_R257212",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "S&P Global ",
         "id": "09f81768-1c4a-4137-94da-e3c64c97d3f0",
