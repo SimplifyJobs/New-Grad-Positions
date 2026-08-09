@@ -55,44 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "70043114-161e-424c-8742-20f8636e4009",
-        "title": "Engineer 1 - Analog Product - Test",
-        "active": false,
-        "date_updated": 1765507389,
-        "date_posted": 1765507389,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Engineer-I---Analog-Product--Test-_R2661-25",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Applied Materials",
-        "id": "7fa00cba-1f61-432a-b7aa-18332c9d722e",
-        "title": "Data Science Engineer - New College Grad-Master's/PhD",
-        "active": false,
-        "date_updated": 1765508371,
-        "date_posted": 1765508371,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Science-Engineer--New-College-Grad--Master-s-PhD--Santa-Clara--CA-_R2519402",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Amazon",
         "id": "2ec0e060-61ca-44df-9c0f-7144e8d3ce86",
@@ -174604,27 +174566,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Anthropic",
-        "id": "8a17a8bb-179e-4026-be78-6324749ad898",
-        "title": "Anthropic Fellows Program - AI Security",
-        "active": true,
-        "date_updated": 1776119591,
-        "date_posted": 1765506812,
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5030244008",
-        "locations": [
-            "London, UK",
-            "SF",
-            "Canada",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anthropic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
