@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e3fbf3b1-b0d8-4a93-98c0-55cf49fdb18d",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1765535303,
-        "date_posted": 1765535303,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043019",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Turner & Townsend",
         "id": "82ea7f43-65c7-475e-8a2c-9d6ffbffcb4d",
@@ -245762,7 +245744,7 @@
         "company_name": "Gensyn",
         "id": "60a58809-88a6-40a5-944b-b6ff6dc0423e",
         "title": "Technical Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1780562701,
         "date_posted": 1774574220,
         "url": "https://job-boards.eu.greenhouse.io/gensyn/jobs/4660248101",
