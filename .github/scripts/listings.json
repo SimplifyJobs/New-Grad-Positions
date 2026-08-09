@@ -55,97 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brookhaven Lab",
-        "id": "6a45ed82-c890-4691-a8fe-91c3746fbf19",
-        "title": "Postdoctoral Research Associate",
-        "active": false,
-        "date_updated": 1765497242,
-        "date_posted": 1765497242,
-        "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Postdoctoral-Research-Associate_JR102131",
-        "locations": [
-            "Shirley, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Olsson",
-        "id": "cd99cec9-7d87-4279-93e1-bbc4050f507d",
-        "title": "Entry-Level Field Geologist",
-        "active": false,
-        "date_updated": 1765497162,
-        "date_posted": 1765497162,
-        "url": "https://job-boards.greenhouse.io/olsson/jobs/5031025008",
-        "locations": [
-            "Oklahoma City, OK",
-            "Olathe, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Olsson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "55cbbcc3-4b48-4826-9738-39a9cbab8d8c",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1765496222,
-        "date_posted": 1765496222,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7459832",
-        "locations": [
-            "Fort Worth, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Keysight Technologies",
-        "id": "84706e6a-2cb6-4de7-a35a-20bb41c8f4b0",
-        "title": "Service Engineer Support",
-        "active": false,
-        "date_updated": 1765495933,
-        "date_posted": 1765495933,
-        "url": "https://jobs.keysight.com/jobs/49255?lang=en-us&icims=1",
-        "locations": [
-            "Bracknell, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "83b781e8-1ce0-443e-abb8-e89e166c795c",
-        "title": "Manufacturing Technician A",
-        "active": false,
-        "date_updated": 1765495976,
-        "date_posted": 1765495976,
-        "url": "https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-A-NY-14623/1349150400/?ats=successfactors",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Mastercard",
         "id": "3dfd6040-8f19-44cd-9287-363baf94d206",
@@ -236,42 +145,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "AtkinsR\u00e9alis",
-        "id": "c378b13f-79ff-403e-8e48-d170685ca977",
-        "title": "Software Developer",
-        "active": false,
-        "date_updated": 1765496354,
-        "date_posted": 1765496354,
-        "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Software-Developer_R-136762-1",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/AtkinsRealis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Geneva Trading",
-        "id": "9331701e-7352-4d7d-b532-1dea2f75bc7c",
-        "title": "Graduate Discretionary Trader",
-        "active": false,
-        "date_updated": 1765496166,
-        "date_posted": 1765496166,
-        "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5002224007",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Geneva-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Michael Kors",
         "id": "dff24fde-9675-4c5a-b8fb-d2e287c6c48c",
@@ -284,24 +157,6 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Michael-Kors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "0bc34375-4718-4e7c-9fe2-d498ee6e878a",
-        "title": "Software Engineer - Ent",
-        "active": false,
-        "date_updated": 1765496698,
-        "date_posted": 1765496698,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---ENT--25-585-_R10216983",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -339,24 +194,6 @@
             "Wayzata, MN"
         ],
         "company_url": "https://simplify.jobs/c/AspenTech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ryan Specialty",
-        "id": "8c438439-d10a-4aa5-a416-161f0cd1baf0",
-        "title": "Business Intelligence Analyst",
-        "active": false,
-        "date_updated": 1765496881,
-        "date_posted": 1765496881,
-        "url": "https://ryansg.wd5.myworkdayjobs.com/en-US/Ryan_Specialty_Career_Site/job/Nashville---Tennessee---Burton/Business-Intelligence-Analyst_JR25-3719",
-        "locations": [
-            "Nashville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/08d94549-6f90-4b80-b697-5cd7d8f77ec9",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -8734,24 +8571,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Zep",
-        "id": "cf599441-44b1-47e2-8f11-f6d6ad0771d1",
-        "title": "Associate Product Manager - Consumer Packaged Goods",
-        "active": false,
-        "date_updated": 1766232344,
-        "date_posted": 1765496160,
-        "url": "https://zepinc.wd503.myworkdayjobs.com/zepinccareers/job/Atlanta-HQ--Galleria-Regular/Associate-Product-Manager_J108907",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zep",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "0e36f8e3-b89a-4b0c-b49e-f206eaf0c328",
@@ -14491,26 +14310,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "27352c92-5a36-4129-a177-bb4d0b88bf8e",
-        "title": "Systems Engineer Technician - Entry",
-        "active": false,
-        "date_updated": 1765496253,
-        "date_posted": 1765496253,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Systems-Engineer-Technician--Entry--Associate--or-Experienced-Level_JR2025488396",
-        "locations": [
-            "St Charles, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Draper",
         "id": "bab42108-d853-4f28-83d4-36e4e3bec9dd",
         "title": "Systems Engineer for GNC Requirements and Interfaces",
@@ -15978,24 +15777,6 @@
             "Coconut Creek, FL"
         ],
         "company_url": "https://simplify.jobs/c/Seminole-Hard-Rock",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "e742675a-b614-4296-acf2-1b7a6541204f",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1765496222,
-        "date_posted": 1765496222,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7458028",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -63364,24 +63145,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Coinbase",
-        "id": "8acbdd21-d674-4ac7-8d56-3cc1f17fc8fa",
-        "title": "Product Manager 1 - Institutional Staking",
-        "active": false,
-        "date_updated": 1770248898,
-        "date_posted": 1765497006,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7463201",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Coinbase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -192967,27 +192730,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Anthropic",
-        "id": "cae148c6-4ac9-4ecd-b929-2dea3f0fe173",
-        "title": "Anthropic Fellows Program",
-        "active": false,
-        "date_updated": 1776981961,
-        "date_posted": 1765497408,
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5023394008",
-        "locations": [
-            "London, UK",
-            "SF",
-            "Ontario, Canada",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anthropic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
