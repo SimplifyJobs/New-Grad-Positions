@@ -55,42 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hastings Direct",
-        "id": "945070a7-12e0-46bd-b4cf-0adb40456db2",
-        "title": "Data Science Graduate",
-        "active": false,
-        "date_updated": 1765563450,
-        "date_posted": 1765563450,
-        "url": "https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/Bexhill/Data-Science-Graduate_60012753",
-        "locations": [
-            "Tunbridge Wells, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hastings-Direct",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ciena",
-        "id": "ebf4dd80-0c60-4d70-9930-09014c172d85",
-        "title": "Junior Software Developer - Ottawa",
-        "active": false,
-        "date_updated": 1765563352,
-        "date_posted": 1765563352,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Junior-Software-Developer--Hybrid---Ottawa--ON_R029610",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "JP Morgan Chase",
         "id": "d3fdbe18-b1c2-4db7-a8b1-02e9319e5850",
