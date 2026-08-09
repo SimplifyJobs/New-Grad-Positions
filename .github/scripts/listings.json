@@ -55,96 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mastercard",
-        "id": "3dfd6040-8f19-44cd-9287-363baf94d206",
-        "title": "Software Engineer 1 - 2",
-        "active": false,
-        "date_updated": 1765499018,
-        "date_posted": 1765499018,
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I-2_R-266544",
-        "locations": [
-            "O'Fallon, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Mastercard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Curtiss-Wright Corporation",
-        "id": "ce85a75f-e278-478c-9081-80676142628e",
-        "title": "Electronic Engineering Technologist - Onsite Position",
-        "active": false,
-        "date_updated": 1765498414,
-        "date_posted": 1765498414,
-        "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/Canada-Ottawa/Electronic-Engineering-Technologist---Onsite-Position_JR10454",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Curtiss-Wright",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amentum",
-        "id": "c178678e-c427-4768-81b6-20bdaa3fa8ca",
-        "title": "Electronic Technician 1",
-        "active": false,
-        "date_updated": 1765498653,
-        "date_posted": 1765498653,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AK-Eielson-AFB/Electronic-Technician-I_R0150414",
-        "locations": [
-            "Alaska"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Northern Trust",
-        "id": "4e86eae8-afac-46aa-bcc3-bd57bab97eef",
-        "title": "AI Software Engineer-Enterprise AI",
-        "active": false,
-        "date_updated": 1765498449,
-        "date_posted": 1765498449,
-        "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/AI-SW-Engineer--Enterprise-AI_R148468",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Northern-Trust",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Blue Cross and Blue Shield of Minnesota",
-        "id": "eeea4f41-7e4c-4201-a9a8-88d4f3b7efc1",
-        "title": "Associate Enterprise Data Analyst",
-        "active": false,
-        "date_updated": 1765498228,
-        "date_posted": 1765498228,
-        "url": "https://bcbsmn.wd5.myworkdayjobs.com/bluecrossmn/job/Eagan-MN/Associate-Enterprise-Data-Analyst_R0006011-1",
-        "locations": [
-            "Eagan, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Cross-And-Blue-Shield-Of-Minnesota",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Michael Kors",
         "id": "dff24fde-9675-4c5a-b8fb-d2e287c6c48c",
@@ -176,60 +86,6 @@
             "Lehi, UT"
         ],
         "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AspenTech",
-        "id": "784b70e4-83c6-47b6-9465-45e2dfc34e16",
-        "title": "Associate GIS Model Engineer",
-        "active": false,
-        "date_updated": 1765498134,
-        "date_posted": 1765498134,
-        "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Associate-GIS-Model-Engineer_R8192",
-        "locations": [
-            "Wayzata, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/AspenTech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mastercard",
-        "id": "6fdd1f3d-eebd-4659-8521-c6b369818c38",
-        "title": "Software Engineer 1 - 1",
-        "active": false,
-        "date_updated": 1765499005,
-        "date_posted": 1765499005,
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I-1_R-266543-1",
-        "locations": [
-            "O'Fallon, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Mastercard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Danaher Corporation",
-        "id": "66ee1e04-b621-4bc2-b6c2-67020175a728",
-        "title": "Machine Assembly Technician 1",
-        "active": false,
-        "date_updated": 1765499148,
-        "date_posted": 1765499148,
-        "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Coralville---Integrated-DNA-Technologies-Inc/Machine-Assembly-Technician-I_R1297686-1",
-        "locations": [
-            "Coralville, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -14046,24 +13902,6 @@
         "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Ontario-CA-United-States/Service-Technician_REQ-1000044669",
         "locations": [
             "Ontario, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Stanley Black & Decker",
-        "id": "453c6d6e-896b-433f-918d-352b3d07445d",
-        "title": "Dewalt Service Technician",
-        "active": false,
-        "date_updated": 1765498858,
-        "date_posted": 1765498858,
-        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Ottawa-Ontario-Canada/DeWalt-Service-Technician-Part-time--M-F-_REQ-1000044311",
-        "locations": [
-            "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
         "is_visible": true,
