@@ -361811,5 +361811,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "We Are Social",
+        "id": "65aab0bc-d783-43fb-92d4-a0ada8cab402",
+        "title": "Analyst",
+        "active": true,
+        "date_updated": 1786271401,
+        "date_posted": 1786083307,
+        "url": "https://apply.workable.com/we-are-social-1/j/C5F997C3E9/apply",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/f67b269f-6a34-493c-b7bd-6f3feaf76a70",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
