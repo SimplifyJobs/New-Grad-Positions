@@ -56,42 +56,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Sanofi",
-        "id": "ff589c6a-b279-42c7-8b1a-97ccc2b44348",
-        "title": "Data Engineer - VIE Contract",
-        "active": false,
-        "date_updated": 1765558990,
-        "date_posted": 1765558990,
-        "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Data-Engineer---VIE-Contract_R2831174",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sanofi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "State Street",
-        "id": "2ba3037f-21d0-4083-8af5-9c2c3f5d53d6",
-        "title": "Software Engineer 1 - Web Frameworks - Officer",
-        "active": false,
-        "date_updated": 1765559476,
-        "date_posted": 1765559476,
-        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-I---Web-Frameworks--Officer_R-779734-1",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Hastings Direct",
         "id": "945070a7-12e0-46bd-b4cf-0adb40456db2",
         "title": "Data Science Graduate",
