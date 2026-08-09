@@ -55,45 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Masimo",
-        "id": "01787301-065c-4294-86d1-3e878401aa19",
-        "title": "Data Analytics Engineer",
-        "active": false,
-        "date_updated": 1765505835,
-        "date_posted": 1765505835,
-        "url": "https://egcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3539",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Masimo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Matic",
-        "id": "bf1be2c5-3e07-48b2-8d3b-373aeffdfde5",
-        "title": "Backend Software Engineer",
-        "active": false,
-        "date_updated": 1765505888,
-        "date_posted": 1765505888,
-        "url": "https://jobs.ashbyhq.com/MaticRobots/230e365c-de86-4f7b-b971-2d25a021b0d4/application",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/MaticRobots",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Microchip Technology",
         "id": "70043114-161e-424c-8742-20f8636e4009",
@@ -129,42 +90,6 @@
         "degrees": [
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hitachi",
-        "id": "9b51653f-eb79-423a-8e78-17f997dc51c0",
-        "title": "Software Analyst - Tools and Simulators",
-        "active": false,
-        "date_updated": 1765505454,
-        "date_posted": 1765505454,
-        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst---Tools-and-Simulators_R1011276",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Hitachi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "84b7791e-6cdd-4dfb-a104-a50b153e9b64",
-        "title": "GPU and SoC Modelling Architect \u2013 New College Grad",
-        "active": false,
-        "date_updated": 1765505934,
-        "date_posted": 1765505934,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-and-SoC-Modelling-Architect---New-College-Grad-2026_JR2009934",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
