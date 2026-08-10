@@ -57,42 +57,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "17fdf2bc-9646-4c21-8ff9-937c38ab536d",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1765642372,
-        "date_posted": 1765642372,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043151",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "blend360",
-        "id": "bda3c7a5-122a-4370-b324-b42acce48864",
-        "title": "Junior Data Scientist",
-        "active": false,
-        "date_updated": 1765642015,
-        "date_posted": 1765642015,
-        "url": "https://jobs.smartrecruiters.com/Blend360/744000098779875",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/ca86fdf5-6866-42d6-ab98-efbef6cf7861",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "cc472a6b-34f0-4cd5-b992-1f41dc7b19a6",
         "title": "Trading Assistant",
         "active": false,
@@ -11835,26 +11799,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "PennState University",
-        "id": "45a31df6-b9dd-4a07-bd12-0ea40d5ad34c",
-        "title": "Electrical / Computer Engineering Research & Development Engineer",
-        "active": false,
-        "date_updated": 1765642299,
-        "date_posted": 1765642299,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Electrical---Computer-Engineering--Research---Development-Engineer_REQ_0000072093-2",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -299763,7 +299707,7 @@
         "company_name": "Airtable",
         "id": "d749acf3-cb33-4d12-9e83-8a25445497c3",
         "title": "Demo Engineer - Pre-Sales Solutions Consulting",
-        "active": true,
+        "active": false,
         "date_updated": 1783983422,
         "date_posted": 1780093318,
         "url": "https://job-boards.greenhouse.io/airtable/jobs/8423374002",
@@ -354715,7 +354659,7 @@
         "company_name": "RTX",
         "id": "ee07e080-9a86-42c4-ba6c-ccfde60a22ac",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786027110,
         "date_posted": 1785974400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Program-Protection-Software-Engineer-I--Onsite-_01864768",
