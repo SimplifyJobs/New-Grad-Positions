@@ -9423,24 +9423,6 @@
     {
         "source": "Simplify",
         "category": "Quant",
-        "company_name": "UBS",
-        "id": "82f17a36-38b0-4a90-80a7-5ac025f7c75c",
-        "title": "QIS Quantitative Analyst",
-        "active": false,
-        "date_updated": 1766569199,
-        "date_posted": 1765610297,
-        "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=334026",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/UBS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "b5a5e520-a750-45f4-8fd5-d0c54405a502",
         "title": "Trading Assistant",
@@ -358501,7 +358483,7 @@
         "company_name": "Charles Schwab",
         "id": "952bbac0-18af-4767-b6a2-6d9e3639a5af",
         "title": "Software Development and Engineering Associate - Wealth and Advice Solutions Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1786141448,
         "date_posted": 1786140812,
         "url": "https://career-schwab.icims.com/jobs/124804/job?mobile=true&needsRedirect=false",
