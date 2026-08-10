@@ -214050,7 +214050,7 @@
         "company_name": "Western Digital",
         "id": "d3dfea1b-c649-4bb7-a956-377922e3f9be",
         "title": "Software Engineer - Apps & Firmware",
-        "active": true,
+        "active": false,
         "date_updated": 1778807168,
         "date_posted": 1778807100,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126593979",
@@ -316952,7 +316952,7 @@
         "company_name": "Parsons",
         "id": "dd55eb30-c673-4e05-9c5a-d9ff68c64c58",
         "title": "Field Installation Support Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784663102,
         "date_posted": 1784246400,
         "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Field-Installation-Support-Technician_R183439",
@@ -354971,7 +354971,7 @@
         "company_name": "Flutter",
         "id": "579b5284-bb6f-4e64-815d-a31a801321e3",
         "title": "Sports Trading Operations Executive - Trading Executive",
-        "active": true,
+        "active": false,
         "date_updated": 1786017675,
         "date_posted": 1785801600,
         "url": "https://flutterbe.wd3.myworkdayjobs.com/FlutterUKI_External/job/Leeds-UK/Sports-trading-operations-executive_JR140592-1",
@@ -360178,5 +360178,72 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Latitude AI",
+        "id": "b5fe4c52-21e7-4dc3-84c5-8ac04e30282b",
+        "title": "Prototyping Service Technician",
+        "active": true,
+        "date_updated": 1786371661,
+        "date_posted": 1786371626,
+        "url": "https://job-boards.greenhouse.io/latitude/jobs/8114128",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Latitude AI",
+        "id": "5f8b5dc8-9249-4335-8b58-02805752d3d3",
+        "title": "Triage Associate 1",
+        "active": true,
+        "date_updated": 1786371698,
+        "date_posted": 1786371628,
+        "url": "https://job-boards.greenhouse.io/latitude/jobs/8119200",
+        "locations": [
+            "Palo Alto, CA",
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vanasse Hangen Brustlin (VHB)",
+        "id": "9a619b68-d20f-4079-8141-a119b2b79dcb",
+        "title": "Entry Level Data Architect",
+        "active": true,
+        "date_updated": 1786371121,
+        "date_posted": 1786370978,
+        "url": "https://careers-vhb.icims.com/jobs/6218/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Orlando, FL",
+            "Washington, DC",
+            "Watertown, MA",
+            "Charlotte, NC",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanasse-Hangen-Brustlin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
