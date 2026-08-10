@@ -301662,7 +301662,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -352746,7 +352746,7 @@
         "company_name": "L3Harris Technologies",
         "id": "6ddb8adb-ad8e-4cb9-9c50-bb88be88f2a6",
         "title": "Associate Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785910226,
         "date_posted": 1785909859,
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-1-FL-32919/1416023200/?ats=successfactors",
@@ -354874,7 +354874,7 @@
         "company_name": "Thales",
         "id": "1f809472-fb1e-45c5-a6d3-5518981f4daa",
         "title": "Digital Electronics Technician - Intelligence, Surveillance and Reconnaissance",
-        "active": true,
+        "active": false,
         "date_updated": 1785979082,
         "date_posted": 1785974400,
         "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/Digital-Electronics-Technician_R0332087",
@@ -360844,6 +360844,26 @@
             "Rochester, NY"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "SharkNinja",
+        "id": "a54b79b0-c2c0-419f-bcdd-15f9b8a33ec7",
+        "title": "Product Management Associate - Digital - Early Careers",
+        "active": true,
+        "date_updated": 1786355154,
+        "date_posted": 1786354932,
+        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703013006",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
