@@ -55,44 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "American Electric Power",
-        "id": "4bceff24-e47d-47d8-8012-a6d1cca898ab",
-        "title": "Data Scientist \u2013 Sr - Mid - TRANSMISSION Systems & Asset Health",
-        "active": false,
-        "date_updated": 1765591658,
-        "date_posted": 1765591658,
-        "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Data-Scientist--Mid---Sr----TRANSMISSION-Systems---Asset-Health_R12729",
-        "locations": [
-            "New Albany, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Electric-Power",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uber",
-        "id": "ff3df5a7-ffb3-467e-b673-25426c4cbbf2",
-        "title": "2026 Software Engineering Boost Fellowship - Arizona State University",
-        "active": false,
-        "date_updated": 1765592670,
-        "date_posted": 1765592670,
-        "url": "https://university-uber.icims.com/jobs/150146/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Medtronic",
         "id": "ceb5cccb-dbb4-4c6e-868b-00b34810ada7",
@@ -105,24 +67,6 @@
             "Northridge, LA"
         ],
         "company_url": "https://simplify.jobs/c/Medtronic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Crusoe",
-        "id": "034f709b-58af-4008-baa6-119592d3a24a",
-        "title": "Software Engineer \u2013 New College Graduate 2026",
-        "active": false,
-        "date_updated": 1765592123,
-        "date_posted": 1765592123,
-        "url": "https://jobs.ashbyhq.com/Crusoe/f79eed01-9e4a-4b43-bcdf-5e8649ccfefa/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Crusoe",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
