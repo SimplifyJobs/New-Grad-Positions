@@ -13126,24 +13126,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Danaher Corporation",
-        "id": "ca0ee9ba-480e-438f-aae8-325ad589d017",
-        "title": "Field Service Engineer - South West England",
-        "active": false,
-        "date_updated": 1765641077,
-        "date_posted": 1765641077,
-        "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/GBR---Remote/Field-Service-Engineer--South-West-England-_R1298400-1",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Dave & Busters",
         "id": "de07b231-7cfb-49cd-8fe0-38bf80b567cd",
         "title": "Gaming Support Technician",
@@ -13173,25 +13155,6 @@
             "Rogers, AR"
         ],
         "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Danaher Corporation",
-        "id": "b5e20414-e403-4fe8-a878-6dce2d86a34f",
-        "title": "Field Service Engineer",
-        "active": false,
-        "date_updated": 1765641054,
-        "date_posted": 1765641054,
-        "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Pittsburgh-Pennsylvania-United-States/Field-Service-Engineer----Pittsburgh--PA_R1298173-1",
-        "locations": [
-            "Altoona, PA",
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -20388,24 +20351,6 @@
             "Blackpool, UK"
         ],
         "company_url": "https://simplify.jobs/c/BAE-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "98487eb4-6510-4c78-b022-4d922c6bca6b",
-        "title": "Support Technician",
-        "active": false,
-        "date_updated": 1767870554,
-        "date_posted": 1765640842,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Carlsbad-CA/Support-Technician_R-1006185",
-        "locations": [
-            "Carlsbad, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -198721,7 +198666,7 @@
         "company_name": "BNY",
         "id": "94714193-6436-4a4a-966c-ed4cf626d1d2",
         "title": "Associate 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777674113,
         "date_posted": 1777673210,
         "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/72160",
@@ -354975,7 +354920,7 @@
         "company_name": "PNC Financial Services",
         "id": "b530ef83-4016-4b1c-af8b-7d56eb556620",
         "title": "Quantitative Analytics & Model Associate - Data, Modeling, & Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1786055245,
         "date_posted": 1785974400,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Quantitative-Analytics---Model-Associate---Data--Modeling----Analytics_R231921-1",
@@ -355058,7 +355003,7 @@
         "company_name": "Capgemini",
         "id": "94b406e2-f31b-4303-b276-e99f3781da36",
         "title": "Frontend Developer - Mobile",
-        "active": true,
+        "active": false,
         "date_updated": 1786055094,
         "date_posted": 1786054286,
         "url": "https://careers.capgemini.com/job/Dallas,-TX-Mobile-Front-end-developer-TX-75201/1424082933/?ats=successfactors",
