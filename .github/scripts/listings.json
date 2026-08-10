@@ -216754,7 +216754,7 @@
         "company_name": "Lila Sciences",
         "id": "7d0e569e-2131-4b13-bcc4-2f9f519e79ed",
         "title": "Software Engineer 1 - Instrument Software",
-        "active": false,
+        "active": true,
         "date_updated": 1779153752,
         "date_posted": 1779153321,
         "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4186444009",
@@ -300300,7 +300300,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -312574,7 +312574,7 @@
         "company_name": "Micron Technology",
         "id": "3f3d8829-12d0-48c8-9194-297c145e76eb",
         "title": "New College Grad - Dry Etch Equipment Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784611983,
         "date_posted": 1782957101,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-College-Grad---Dry-Etch-Equipment-Engineer_JR97628",
@@ -318180,7 +318180,7 @@
         "company_name": "Deloitte",
         "id": "72fd847a-566b-4ec7-b217-98f661e00a6d",
         "title": "Risk Analytics Analyst - Government & Public Services - Risk Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1784684460,
         "date_posted": 1784672055,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Risk-Analytics/360120",
@@ -330673,7 +330673,7 @@
         "company_name": "Citadel",
         "id": "202582b8-f2ba-49d1-a082-3974fba7627a",
         "title": "Sector Data Scientist - Central Team",
-        "active": false,
+        "active": true,
         "date_updated": 1785194281,
         "date_posted": 1785190044,
         "url": "https://www.citadel.com/careers/details/sector-data-scientist-central-team/",
@@ -353605,7 +353605,7 @@
         "company_name": "Baxter International",
         "id": "1064fb38-4da3-43bd-b773-5337814aef09",
         "title": "Field Service Technician 2",
-        "active": true,
+        "active": false,
         "date_updated": 1785979184,
         "date_posted": 1783987200,
         "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Parsippany-Troy-Hills-New-Jersey/Field-Service-Technician-II_JR-204608-1",
@@ -357695,7 +357695,7 @@
         "company_name": "Booz Allen",
         "id": "37a1894e-f216-436f-8f54-98b6d75622b0",
         "title": "Software Engineer - University",
-        "active": true,
+        "active": false,
         "date_updated": 1786142568,
         "date_posted": 1786060800,
         "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246656",
@@ -361089,5 +361089,242 @@
             "Associate's",
             "Incomplete"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Babel Street",
+        "id": "01fb5702-b0a0-461a-8f55-9947b864709a",
+        "title": "Data Warehouse Software Engineer",
+        "active": true,
+        "date_updated": 1786402081,
+        "date_posted": 1786402031,
+        "url": "https://job-boards.greenhouse.io/babelstreet/jobs/8120325",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Babel-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "f1be554a-8058-43b0-9e9f-a72f39eebf4b",
+        "title": "Software Engineer Graduate - AML-Engine-Orchestration - PhD",
+        "active": true,
+        "date_updated": 1786401541,
+        "date_posted": 1786401393,
+        "url": "https://jobs.bytedance.com/en/position/7671160649137588485/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "db040850-9b1f-4c19-93d8-de0c16003f79",
+        "title": "Delivery Analyst - Government & Public Services - AI & Data Engineering Solutions",
+        "active": true,
+        "date_updated": 1786401575,
+        "date_posted": 1786401422,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-AI-Data-Engineering-Solutions/357022",
+        "locations": [
+            "Gilbert, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "9b88d838-aaa3-44f6-ac6c-2f34e6d2a513",
+        "title": "Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark",
+        "active": true,
+        "date_updated": 1786401541,
+        "date_posted": 1786401396,
+        "url": "https://jobs.bytedance.com/en/position/7671108456554432773/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "42eb9963-840a-46d6-96fd-975e596c839f",
+        "title": "Software Engineer Graduate - AML Engine Orchestration - 2027 Start",
+        "active": true,
+        "date_updated": 1786401541,
+        "date_posted": 1786401397,
+        "url": "https://jobs.bytedance.com/en/position/7671148355447343365/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "3d08df51-8a0b-4720-9b48-2fde50c1cfb3",
+        "title": "Machine Learning Engineer Graduate - AML-Engine-Orchestration - PhD",
+        "active": true,
+        "date_updated": 1786401541,
+        "date_posted": 1786401394,
+        "url": "https://jobs.bytedance.com/en/position/7671158113903937797/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Argonne National Laboratory",
+        "id": "0046503a-04e6-45ca-91cc-0fe0bd88f23e",
+        "title": "Postbaccalaureate Appointee",
+        "active": true,
+        "date_updated": 1786401541,
+        "date_posted": 1786320000,
+        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postbaccalaureate-Appointee----Machine-Learning-for-Viral-Glycosylation-Prediction_423245",
+        "locations": [
+            "Lemont, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "bf43a447-72a6-4c3d-a02f-6c1f20c138ea",
+        "title": "Design Verification Engineer - ASICS Engineering",
+        "active": true,
+        "date_updated": 1786401280,
+        "date_posted": 1786401123,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446720352855",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hard Rock Digital",
+        "id": "dd30ef8d-9146-4940-b820-e99bc7e4f0b7",
+        "title": "Associate AI Agent Analyst",
+        "active": true,
+        "date_updated": 1786401181,
+        "date_posted": 1786401107,
+        "url": "https://hardrockdigital.recruitee.com/o/associate-ai-agent-analyst",
+        "locations": [
+            "Hollywood, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Hard-Rock-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FSH Technologies",
+        "id": "06753993-8ac8-46f8-95a2-773c488a8d07",
+        "title": "Engineer New Grad",
+        "active": true,
+        "date_updated": 1786401245,
+        "date_posted": 1786401072,
+        "url": "https://jobs.ashbyhq.com/FSH/71b6506a-10c2-4498-9cff-1009e0582bda/application?embed=true",
+        "locations": [
+            "Philadelphia, PA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/FSH-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nova Talent",
+        "id": "fad9be14-9d62-46ad-bf50-c787ed3b48d5",
+        "title": "Software Engineer - Early Stage",
+        "active": true,
+        "date_updated": 1786401217,
+        "date_posted": 1786401011,
+        "url": "https://jobs.ashbyhq.com/nova-talent/14c18114-f371-4ef2-8caa-6c0341777850/application?embed=true",
+        "locations": [
+            "SF",
+            "LA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/d74f9cc0-61b8-4bc4-b0b5-4b1b1f2d8302",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fragile",
+        "id": "f11cd922-73c8-483a-a055-7001170ab039",
+        "title": "Computer Repair Associate",
+        "active": true,
+        "date_updated": 1786401207,
+        "date_posted": 1786400947,
+        "url": "https://ats.rippling.com/fragile/jobs/4b9fc33a-d7ba-4600-9d1e-8f889a325f4f",
+        "locations": [
+            "Greenfield, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Fragile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
