@@ -11930,24 +11930,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CAE",
-        "id": "35b10be9-bc0c-465f-b57e-58d4e31af496",
-        "title": "Simulator Technician",
-        "active": false,
-        "date_updated": 1765638307,
-        "date_posted": 1765638307,
-        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Eagan/Simulator-Technician_119074",
-        "locations": [
-            "Eagan, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "The Boyd Group",
         "id": "61c3df21-77a5-4ff1-9431-fc8bde996e00",
@@ -12149,24 +12131,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "db445b4c-7bbc-4315-af10-7b63346a0df0",
-        "title": "Photonic Technologist",
-        "active": false,
-        "date_updated": 1765638371,
-        "date_posted": 1765638371,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Technologue-en-Photonique_R029151",
-        "locations": [
-            "Quebec City, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Stanley Black & Decker",
         "id": "040fa9f6-5e38-4f0e-aadd-f18d1849e60d",
         "title": "Service Technician",
@@ -12250,24 +12214,6 @@
             "Mobile, AL"
         ],
         "company_url": "https://simplify.jobs/c/Airbus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "The North Face",
-        "id": "86e95dc5-744d-4e51-bc6f-4eda7b5ff003",
-        "title": "The North Face: Associate Designer - Technical Equipment",
-        "active": false,
-        "date_updated": 1765638377,
-        "date_posted": 1765638377,
-        "url": "https://vfc.wd5.myworkdayjobs.com/northface_careers/job/USCA--USA--Colorado--Denver-HQ---VFC/Associate-Designer--Technical-Equipment_R-20251021-0033-1",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/The-North-Face",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -12765,24 +12711,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Welocalize",
-        "id": "55a2ba3b-f98b-4902-ba6e-152f987f4d63",
-        "title": "Search Quality Rater",
-        "active": false,
-        "date_updated": 1765638813,
-        "date_posted": 1765638813,
-        "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Austin-Texas/Search-Quality-Rater_R0007198",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Welocalize",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Luxury Presence",
         "id": "8cfd0abd-9671-403a-a5b0-a11e61332935",
@@ -12927,24 +12855,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "DXC Technology",
-        "id": "b51b8b67-4500-4c7d-b8c3-d79c4fca34bf",
-        "title": "DXC Graduate Programme 2026",
-        "active": false,
-        "date_updated": 1765639032,
-        "date_posted": 1765639032,
-        "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---NBL---NEWCASTLE-UPON-TYNE/DXC-Graduate-Programme-2026_51567272",
-        "locations": [
-            "Newcastle upon Tyne, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DXC-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Flock Safety",
         "id": "9392410f-c01e-4fe5-b1ae-47886455bb57",
@@ -12993,45 +12903,6 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics Information Technology",
-        "id": "671a0e3c-555f-413a-90d1-470e9e3a7f1f",
-        "title": "Capabilities Development Engineer",
-        "active": false,
-        "date_updated": 1765639362,
-        "date_posted": 1765639362,
-        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Hanover/Capabilities-Development-Engineer_RQ207029",
-        "locations": [
-            "Hanover, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/GDIT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Chicago",
-        "id": "2f74f145-c5f1-48cd-9813-71d4f57af0ec",
-        "title": "Research Specialist",
-        "active": false,
-        "date_updated": 1765638868,
-        "date_posted": 1765638868,
-        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Specialist_JR31936",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -13391,25 +13262,6 @@
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Chicago--IL_R4033664-1",
         "locations": [
             "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "d34312f2-2212-4b26-b187-1760628a0952",
-        "title": "Field Service Engineer 1 - Bradenton or Lakeland FL",
-        "active": false,
-        "date_updated": 1765638790,
-        "date_posted": 1765638790,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Bradenton-or-Lakeland-FL_R4029753-1",
-        "locations": [
-            "Lakeland, FL",
-            "Ellenton, FL"
         ],
         "company_url": "https://simplify.jobs/c/GE-Healthcare",
         "is_visible": true,
@@ -18806,26 +18658,6 @@
             "Indiana"
         ],
         "company_url": "https://simplify.jobs/c/United-Parcel-Service",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Brookfield Properties",
-        "id": "8f83611e-03f3-4f9d-a7fe-7ad02d52dcdf",
-        "title": "Martech Software Engineer",
-        "active": false,
-        "date_updated": 1767796272,
-        "date_posted": 1765638992,
-        "url": "https://brookfield.wd5.myworkdayjobs.com/brookfieldproperties/job/Charleston-South-Carolina/Software-Engineer_R2045781",
-        "locations": [
-            "Charleston, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Brookfield-Properties",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -253119,7 +252951,7 @@
         "company_name": "iCapital Network",
         "id": "8bc6b735-2c2e-4433-8242-a5cc3b0406b6",
         "title": "Alternative Data Management Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781130939,
         "date_posted": 1781129577,
         "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8586138002",
@@ -298567,7 +298399,7 @@
         "company_name": "Rhoda AI",
         "id": "774ac260-ffd1-4911-a1dc-51cc4512de83",
         "title": "Electrical Hardware Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1783981500,
         "date_posted": 1783980718,
         "url": "https://jobs.ashbyhq.com/rhoda-ai/70677a34-7232-45c1-bdcc-e12801ccfef3/application",
@@ -330430,7 +330262,7 @@
         "company_name": "WSP",
         "id": "5fc1c31e-f0f0-4c36-b34b-f334a3295a11",
         "title": "Early Career Project Controls Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785190681,
         "date_posted": 1785190290,
         "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91898",
@@ -352529,7 +352361,7 @@
         "company_name": "EquipmentShare",
         "id": "6ed4f0ad-a08f-42a9-994e-7295978a27bc",
         "title": "Telematics Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1785968103,
         "date_posted": 1785968068,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8109036",
