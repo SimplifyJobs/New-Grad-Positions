@@ -11766,24 +11766,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AtkinsR\u00e9alis",
-        "id": "a8a00bd4-91f9-4cbd-983d-6bc22d916562",
-        "title": "Assistant Water Engineer",
-        "active": false,
-        "date_updated": 1765652280,
-        "date_posted": 1765652280,
-        "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/GBEdinburgh---Stamp-Office/Assistant-Water-Engineer_R-133534",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/AtkinsRealis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "CAE",
         "id": "4211bbe4-e66c-494a-97e8-6dcaee4d9e23",
@@ -11832,24 +11814,6 @@
             "Shreveport, LA"
         ],
         "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vanderlande Industries",
-        "id": "08fe0108-adae-4ad5-89d5-ca7bdcb18287",
-        "title": "Service Technician 1",
-        "active": false,
-        "date_updated": 1765651273,
-        "date_posted": 1765651273,
-        "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/TorontoOntario/Service-Technician-I_JR34457",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/7ab55595-a241-4468-bf77-178371480131",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -13099,24 +13063,6 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Accenture-FS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vanderlande Industries",
-        "id": "ccdde9e1-34c1-4d9c-bba7-22fcda883eaf",
-        "title": "Engineering Support Operative",
-        "active": false,
-        "date_updated": 1765651271,
-        "date_posted": 1765651271,
-        "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Daventry/Engineering-Support-Operative_JR35098",
-        "locations": [
-            "Daventry, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/7ab55595-a241-4468-bf77-178371480131",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -32522,27 +32468,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ASML",
-        "id": "a364a537-ed87-4c00-af30-8a2964b292b4",
-        "title": "Senior Algorithm Application Engineer",
-        "active": false,
-        "date_updated": 1768648822,
-        "date_posted": 1765652291,
-        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Senior-Algorithm-Application-Engineer_J-00329367",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASML",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -302060,7 +301985,7 @@
         "company_name": "BGE",
         "id": "b984c7ab-c8db-4daa-a1c4-5fa90988eed1",
         "title": "Rod/Instrument Tech",
-        "active": true,
+        "active": false,
         "date_updated": 1784081161,
         "date_posted": 1784079488,
         "url": "https://job-boards.greenhouse.io/bgeinc/jobs/5351606008",
@@ -356974,7 +356899,7 @@
         "company_name": "Fifth Third Bank",
         "id": "85be705c-00c7-4d6a-a49a-719d8a738905",
         "title": "Sales and Trading Analyst 1 - FRM",
-        "active": true,
+        "active": false,
         "date_updated": 1786112590,
         "date_posted": 1786060800,
         "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Sales-and-Trading-Analyst-I_R71405",
@@ -357859,7 +357784,7 @@
         "company_name": "Booz Allen",
         "id": "58bdb1db-93cc-41bf-9056-473f0d4e405c",
         "title": "Software Engineer - University",
-        "active": true,
+        "active": false,
         "date_updated": 1786142543,
         "date_posted": 1786060800,
         "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246655",
@@ -358099,7 +358024,7 @@
         "company_name": "Booz Allen",
         "id": "aff27bcc-4c0d-4249-89b5-1e898f2c9726",
         "title": "Software Engineer - University",
-        "active": true,
+        "active": false,
         "date_updated": 1786142526,
         "date_posted": 1786060800,
         "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246653",
@@ -359800,6 +359725,51 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Teledyne",
+        "id": "6a24eac0-34c2-46a9-816e-f6a3e716a259",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1786388327,
+        "date_posted": 1786320000,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Capital One",
+        "id": "3fd7c27a-a027-4f40-9a9f-b819aee35931",
+        "title": "Product Manager - MBA",
+        "active": true,
+        "date_updated": 1786388346,
+        "date_posted": 1786320000,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA-Product-Manager---2027_R244814-2",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
         ]
     }
 ]
