@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brandes Associates",
-        "id": "f50e27a9-62a5-4794-9149-451108af754c",
-        "title": "Program/Project/Management Analyst - Junior",
-        "active": false,
-        "date_updated": 1765623414,
-        "date_posted": 1765622714,
-        "url": "https://careers-brandesassociates.icims.com/jobs/1942/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Long Island City, Queens, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Brandes-Associates",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "17fdf2bc-9646-4c21-8ff9-937c38ab536d",
@@ -11618,28 +11600,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Uline",
-        "id": "f61dadfe-77b5-4ea3-a36a-3c15493e5af3",
-        "title": "Associate Business Systems Analyst",
-        "active": false,
-        "date_updated": 1767194784,
-        "date_posted": 1765623413,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-Business-Systems-Analyst_R259808-1",
-        "locations": [
-            "Waukegan, IL",
-            "Milwaukee, WI",
-            "Pleasant Prairie, WI",
-            "Morton Grove, IL",
-            "Kenosha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Dave & Busters",
         "id": "59a1ded0-e8e8-4cc0-b099-88e799ec2e85",
@@ -13861,24 +13821,6 @@
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/Danaher-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "273fa0e0-8f26-4678-8dc0-91de29ea57ab",
-        "title": "Support Technician",
-        "active": false,
-        "date_updated": 1765622629,
-        "date_posted": 1765622629,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Glendale-AZ/Support-Technician_R-1006078",
-        "locations": [
-            "Glendale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -85821,24 +85763,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "d09428af-2607-45a7-a1f6-2e888d4306a0",
-        "title": "Support Technician",
-        "active": false,
-        "date_updated": 1771497909,
-        "date_posted": 1765623621,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Wichita-KS/Support-Technician_R-1006562",
-        "locations": [
-            "Wichita, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -282140,7 +282064,7 @@
         "company_name": "JP Morgan Chase",
         "id": "d3a1c883-793a-46ea-ae31-39510f2442e6",
         "title": "Structured Investments Operations - Trading Services Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782961023,
         "date_posted": 1782956146,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761791",
@@ -351313,7 +351237,7 @@
         "company_name": "Xcel Energy",
         "id": "44751041-dede-4798-8b1d-f7ee3294db86",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1785881343,
         "date_posted": 1785801600,
         "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Data-Scientist---Associate-or-Experienced-Level_JR115120-1",
