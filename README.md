@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 366 New Grad Roles by Category
+### Browse 365 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (215)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (214)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (7)
 
@@ -217,13 +217,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Software Engineer</td>
 <td>Annapolis Junction, MD</td>
 <td><div align="center"><a href="https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Engineer--Clearance-Sponsorship-_RQ225644?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9d7c3bb8-199b-4cd3-bd7d-e65db8c1251c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Junior Software Engineer - Clearance Sponsorship</td>
-<td>Annapolis Junction, MD</td>
-<td><div align="center"><a href="https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Engineer--Clearance-Sponsorship-_RQ225594?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/58d49c3c-b8dd-49bc-b690-242735f878c7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>4d</td>
 </tr>
 <tr>
@@ -1589,7 +1582,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1172)</summary>
+<summary>🗃️ Inactive roles (1173)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1602,6 +1595,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/GDIT?utm_source=GHList&utm_medium=company">General Dynamics Information Technology</a></strong></td>
+<td>Junior Software Engineer - Clearance Sponsorship</td>
+<td>Annapolis Junction, MD</td>
+<td>🔒</td>
+<td>4d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Peraton?utm_source=GHList&utm_medium=company">Peraton</a></strong></td>
 <td>Junior Software Engineer - Developer - Space Communications Program</td>
@@ -12450,7 +12450,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Elsevier?utm_source=GHList&utm_medium=company">Elsevier</a></strong></td>
 <td>Data Engineer 1</td>
 <td>London, UK</td>
 <td>🔒</td>
