@@ -5908,26 +5908,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "78eea7c3-07fe-4d33-8010-414f29b7e9bf",
-        "title": "Research Scientist \u2013 PhD New College Grad 2026 - Autonomous Vehicles",
-        "active": false,
-        "date_updated": 1766141346,
-        "date_posted": 1765637818,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Vehicles---New-College-Grad-2026_JR2008395",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "McGill University",
         "id": "1039cc47-4a3e-4aba-a172-590ea46f97e5",
         "title": "Assistant Professor Applications of Artificial Intelligence in Engineering",
@@ -11804,24 +11784,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Micron Technology",
-        "id": "ea074d38-ffde-4523-a7c0-08417599de88",
-        "title": "FE Materials Business Intelligence Analyst",
-        "active": false,
-        "date_updated": 1766571482,
-        "date_posted": 1765637917,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---North-Office/New-College-Grad---FE-Materials-Business-Intelligence-Analyst_JR85030",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Freudenberg Group",
         "id": "4531b2b3-7525-4f2b-93fd-7f98054ea9b4",
@@ -11965,45 +11927,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "95e9e982-6c3e-42ae-9a50-957c1322eab8",
-        "title": "Engineering Technician 1",
-        "active": false,
-        "date_updated": 1765637814,
-        "date_posted": 1765637814,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Engineering-Technician-1_R10215816",
-        "locations": [
-            "West Virginia"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CSA Group",
-        "id": "568d2c11-1194-4cb5-a3d5-051ec020bbbe",
-        "title": "Product Safety Certifier - Electrical and Electronic",
-        "active": false,
-        "date_updated": 1765637226,
-        "date_posted": 1765637226,
-        "url": "https://csagroup.wd3.myworkdayjobs.com/csagroup/job/Toronto/Product-Safety-Certifier---Signal-Sensing-and-Functional-Safety_R004324",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/CSA-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Certificate"
-        ]
     },
     {
         "source": "Simplify",
@@ -12407,25 +12330,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Sartorius",
-        "id": "4d6838fa-658b-4bd9-b2f9-e8c2c8fbc659",
-        "title": "Field Service Engineer - Lab Instruments",
-        "active": false,
-        "date_updated": 1765636964,
-        "date_posted": 1765636964,
-        "url": "https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Home-Office-United-Kingdom/Field-Service-Engineer---Lab-Instruments---Gloucestershire_R38449",
-        "locations": [
-            "Gloucester, UK",
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sartorius",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Jabil",
         "id": "9dfb6291-cb8d-4ec6-9d57-c142e73c7d0e",
         "title": "Test Engineering Technician",
@@ -12480,25 +12384,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ERM",
-        "id": "e72753a1-a211-4f5e-a4f9-45d2cc82cf31",
-        "title": "Consulting Associate - EHS Management Information Systems",
-        "active": false,
-        "date_updated": 1765636772,
-        "date_posted": 1765636772,
-        "url": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Atlanta-Georgia/Consulting-Associate--EHS-Management-Information-Systems--Entry-Level-_R00025970",
-        "locations": [
-            "Houston, TX",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/ERM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Snap",
         "id": "bf4b96f6-f64a-4fe4-9759-d784853d0e60",
@@ -12529,24 +12414,6 @@
             "Arden, NC"
         ],
         "company_url": "https://simplify.jobs/c/Aramark",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "KION Group",
-        "id": "8f79fe77-f66f-4238-b7ef-30650d47cfef",
-        "title": "Mech Pre-Comm Tech 1",
-        "active": false,
-        "date_updated": 1765636811,
-        "date_posted": 1765636811,
-        "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Mech-Pre-Comm-Tech-1_JR-0082526-1",
-        "locations": [
-            "Grand Rapids, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/KION-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -12916,24 +12783,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Welocalize",
-        "id": "d860de5b-0c75-480d-b23e-b3164a9c5134",
-        "title": "Search Quality Rater",
-        "active": false,
-        "date_updated": 1765637838,
-        "date_posted": 1765637838,
-        "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Austin-Texas/Search-Quality-Rater_R0007102",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Welocalize",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Luxury Presence",
         "id": "8cfd0abd-9671-403a-a5b0-a11e61332935",
@@ -13018,24 +12867,6 @@
             "Leicester, UK"
         ],
         "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ohio State University",
-        "id": "3e73f383-3138-4b24-86a0-4a5419b14c39",
-        "title": "Production Tech",
-        "active": false,
-        "date_updated": 1765637985,
-        "date_posted": 1765637985,
-        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Production-Tech_R141210-1",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Ohio-State-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -13818,24 +13649,6 @@
             "Harlow, UK"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Appliances",
-        "id": "2b34afae-51c1-455e-a5b2-cafd34b82b4a",
-        "title": "Edison Engineering Development Program - Eedp - Software",
-        "active": false,
-        "date_updated": 1765637540,
-        "date_posted": 1765637540,
-        "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---2026_REQ-23079",
-        "locations": [
-            "Louisville, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Appliances",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -20764,26 +20577,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brookhaven Lab",
-        "id": "eb9cbf14-5636-4659-9233-694d46d84c01",
-        "title": "Postdoctoral Research Associate - Computational Imaging and Data Science",
-        "active": false,
-        "date_updated": 1767882389,
-        "date_posted": 1765637996,
-        "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Postdoctoral-Research-Associate---Computational-Imaging-and-Data-Science-_JR102004-1",
-        "locations": [
-            "Shirley, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -37562,24 +37355,6 @@
             "Billerica, MA"
         ],
         "company_url": "https://simplify.jobs/c/Formlabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "KION Group",
-        "id": "b3926380-dfd6-4b40-87e2-1307072f6ad5",
-        "title": "Mech Pre-Comm Tech 1",
-        "active": false,
-        "date_updated": 1765636811,
-        "date_posted": 1765636811,
-        "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Mech-Pre-Comm-Tech-1_JR-0082526",
-        "locations": [
-            "Grand Rapids, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/KION-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -133315,7 +133090,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -133335,7 +133110,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -223767,7 +223542,7 @@
         "company_name": "Northrop Grumman",
         "id": "12cb10ee-717a-4836-b668-4342034c0313",
         "title": "Hardware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779831181,
         "date_posted": 1779142111,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Hardware-Engineer-Level-2-3_R10233253-1",
@@ -335068,7 +334843,7 @@
         "company_name": "GE Healthcare",
         "id": "0ea4d18f-2790-404b-a61e-8a07c46a5523",
         "title": "Engineering Development Program",
-        "active": false,
+        "active": true,
         "date_updated": 1785364136,
         "date_posted": 1784505600,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program_R4043922-1",
@@ -356738,7 +356513,7 @@
         "company_name": "Indra Group UK & Ireland",
         "id": "18b8daf1-9e8d-49a4-a43d-8c158de41c53",
         "title": "Service Desk Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786083841,
         "date_posted": 1786083482,
         "url": "https://apply.workable.com/indra-uk/j/8D40F8C576/apply",
@@ -357534,7 +357309,7 @@
         "company_name": "Tyson Foods",
         "id": "de7466cc-1557-459d-8035-37be599c14d0",
         "title": "Data Engineer 1 - Inventory Optimization",
-        "active": true,
+        "active": false,
         "date_updated": 1786112419,
         "date_posted": 1786060800,
         "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-on-Thompson---Springdale-Arkansas/Data-Engineer-I_R0475407-1",
@@ -360240,6 +360015,84 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Vanasse-Hangen-Brustlin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "6dc9143c-6c06-4df4-b661-bc4df745d399",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786373372,
+        "date_posted": 1786320000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01865154",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Miele",
+        "id": "5a152a2e-e24c-436f-956f-af3bbe77d37f",
+        "title": "Field Service Technician",
+        "active": true,
+        "date_updated": 1786373281,
+        "date_posted": 1786373102,
+        "url": "https://miele.wd3.myworkdayjobs.com/en-US/miele-jobs/job/Abingdon/Domestic-Field-Service-Technician_R2782-1",
+        "locations": [
+            "Abingdon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Miele",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Marsh",
+        "id": "342f7097-0268-4450-804f-12dc945e691d",
+        "title": "Entry-level Data Analyst - Excel - Power BI",
+        "active": true,
+        "date_updated": 1786373337,
+        "date_posted": 1786320000,
+        "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Norwich---Willow/Entry-level-Data-Analyst--Excel--PowerBI-_R_357855",
+        "locations": [
+            "Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/55341c12-8fd6-4cce-8472-d15c4a3ab583",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Prudential Financial",
+        "id": "3efdc7b2-1860-4b97-9063-442a5ddeea64",
+        "title": "Investment Analyst - Corporate Finance",
+        "active": true,
+        "date_updated": 1786373205,
+        "date_posted": 1786320000,
+        "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/150-North-Riverside-Chicago-IL/PGIM---Investment-Analyst--Private-Credit-_R-124727-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Prudential-Financial",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
