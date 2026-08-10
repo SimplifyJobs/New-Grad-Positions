@@ -12230,24 +12230,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Bridgestone",
-        "id": "5e82a6b1-7ef0-47c4-8466-e59c7fb6a087",
-        "title": "Associate Field Service Engineer",
-        "active": false,
-        "date_updated": 1765620492,
-        "date_posted": 1765620492,
-        "url": "https://bridgestone.wd5.myworkdayjobs.com/External/job/Remote---Pennsylvania/Associate-Field-Service-Engineer_2025_21577-1",
-        "locations": [
-            "Pennsylvania"
-        ],
-        "company_url": "https://simplify.jobs/c/Bridgestone",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ARRAY Technologies",
         "id": "e43b19e9-b13d-4407-b399-303500703d50",
@@ -14509,24 +14491,6 @@
             "Ridgeland, MS"
         ],
         "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Chicago",
-        "id": "44b34929-d2dd-41df-b655-e23892f2149f",
-        "title": "Research Specialist",
-        "active": false,
-        "date_updated": 1765621235,
-        "date_posted": 1765621235,
-        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Specialist_JR31878",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -17885,27 +17849,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "5757b7cc-4df6-4595-bc11-45192df69b3b",
-        "title": "Engineer 2 - Applications",
-        "active": false,
-        "date_updated": 1767694720,
-        "date_posted": 1765620864,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer------Applications_R2591-25",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -317818,7 +317761,7 @@
         "company_name": "Palo Alto Networks",
         "id": "348e8842-fc0c-473c-b9fa-175e01026803",
         "title": "Attribution Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784666701,
         "date_posted": 1782943801,
         "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Santa-Clara-United-States-of-America/Attribution-Analyst--Bay-Area-Only-_JR-016645",
@@ -332481,7 +332424,7 @@
         "company_name": "Blackstone",
         "id": "30449270-0ee8-4586-b5b9-29857620bc5e",
         "title": "Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785193588,
         "date_posted": 1785110400,
         "url": "https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/New-York/XMLNAME-2027-Blackstone-Infrastructure-Partners-Investment-Analyst_44143-1",
@@ -360869,5 +360812,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "dbd2c373-450e-436d-811b-1ecbca783825",
+        "title": "Electronics Technician",
+        "active": true,
+        "date_updated": 1786356027,
+        "date_posted": 1786233600,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-New-York-Buffalo/Electronics-Technician_R10244659",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
