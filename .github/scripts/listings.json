@@ -132626,7 +132626,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -132646,7 +132646,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -282475,7 +282475,7 @@
         "company_name": "Northrop Grumman",
         "id": "828829f4-5b73-4aaf-83ff-1bee3a35cd8a",
         "title": "Associate Configuration Analyst/Configuration Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782966781,
         "date_posted": 1782957277,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Configuration-Analyst-Configuration-Analyst_R10237580",
@@ -319037,7 +319037,7 @@
         "company_name": "ASOS plc",
         "id": "3e62dd56-bc95-48d1-9bbf-3902279e2bb6",
         "title": "Associate Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784730079,
         "date_posted": 1784729072,
         "url": "https://jobs.smartrecruiters.com/ASOS/744000139029609",
@@ -360542,7 +360542,7 @@
         "company_name": "Leidos",
         "id": "4f36d9cc-57c7-4998-8bf2-5b00e4b7efcc",
         "title": "Electro-Mechanical Assembly Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786400494,
         "date_posted": 1786320000,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electro-Mechanical-Assembly-Technician_R-00189222",
@@ -362143,5 +362143,139 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "US Conec",
+        "id": "e44a3eb5-f173-481f-b91f-cd3ace4d2b63",
+        "title": "Data Scientist - Metrology",
+        "active": true,
+        "date_updated": 1786458078,
+        "date_posted": 1786458014,
+        "url": "https://job-boards.greenhouse.io/usconec/jobs/4308970009",
+        "locations": [
+            "Hickory, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/US-Conec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Aramark",
+        "id": "c09269bd-7f4d-44aa-9eff-3f8798eb3342",
+        "title": "General Utility Worker",
+        "active": true,
+        "date_updated": 1786457882,
+        "date_posted": 1786457839,
+        "url": "https://aramarkcareers.com/UnitedStates/job/Overland-Park-General-Utility-Worker-Shamrock-Trading-Corporation-KS-66212/1418124200/?ats=successfactors",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Aramark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astreya",
+        "id": "48a0ce33-6322-4a3a-b92a-e1218c2218a6",
+        "title": "AV Technician 1",
+        "active": true,
+        "date_updated": 1786457623,
+        "date_posted": 1786406400,
+        "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/San-Francisco-CA/AV-Technician-I_R0016259",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astreya",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gulfstream",
+        "id": "aa9feb49-b586-4dba-80ab-d35720db8230",
+        "title": "IT Applications Developer",
+        "active": true,
+        "date_updated": 1786457600,
+        "date_posted": 1786457347,
+        "url": "https://careers.gulfstream.com/job/Savannah-IT-Apps-Developer-GA-31401/1418077600/?ats=successfactors",
+        "locations": [
+            "Savannah, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gulfstream",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Western Digital",
+        "id": "a7ad89c3-bfca-4132-bafe-f790f3d25000",
+        "title": "Software Engineer - Apps",
+        "active": true,
+        "date_updated": 1786457521,
+        "date_posted": 1786457302,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000142878952",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Prudential Financial",
+        "id": "5647d931-da20-4d72-bcf4-871ce560d3b7",
+        "title": "Investment Analyst - Credit",
+        "active": true,
+        "date_updated": 1786457438,
+        "date_posted": 1786406400,
+        "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/London-United-Kingdom/PGIM-Credit---Investment-Analyst_R-124757-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Prudential-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bausch Lomb",
+        "id": "216c4819-143c-4b42-9f63-fd3bbfe79a89",
+        "title": "Operator 3",
+        "active": true,
+        "date_updated": 1786457184,
+        "date_posted": 1786457071,
+        "url": "https://careers.bauschlomb.com/job/US-FL-Tampa-Operator-III-3rd-Shift-(Sunday-Thursday)-CA/1369190357/?ats=successfactors",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Bausch-Lomb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
