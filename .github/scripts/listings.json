@@ -128982,7 +128982,7 @@
         "company_name": "PathAI",
         "id": "af012315-2329-4907-89be-072d879f2916",
         "title": "Software Engineer 1 - Fullstack",
-        "active": true,
+        "active": false,
         "date_updated": 1773786170,
         "date_posted": 1773786170,
         "url": "https://www.pathai.com/careers/8466724002?gh_jid=8466724002",
@@ -132589,7 +132589,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -132609,7 +132609,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -277701,7 +277701,7 @@
         "company_name": "Sportradar",
         "id": "0d1a89c8-7123-49f0-9b89-8104bed8fd88",
         "title": "Senior Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782812521,
         "date_posted": 1782812128,
         "url": "https://jobs.smartrecruiters.com/Sportradar/744000134957389",
@@ -292441,7 +292441,7 @@
         "company_name": "RTX",
         "id": "e0091951-b28a-4c4f-bad1-73a0ad757198",
         "title": "FPGA Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783550625,
         "date_posted": 1783548790,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineer-I_01857935",
@@ -300209,7 +300209,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -309916,7 +309916,7 @@
         "company_name": "Cisco",
         "id": "12dd10fa-f03d-4a52-a087-77079f0680c4",
         "title": "Failure Analysis Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784586424,
         "date_posted": 1784073600,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Failure-Analysis-Engineer_2018947",
@@ -322020,7 +322020,7 @@
         "company_name": "EquipmentShare",
         "id": "7eec2888-63cc-4069-b5ab-c00832f56cc7",
         "title": "Low Voltage Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784800261,
         "date_posted": 1783693186,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8055123",
@@ -329524,7 +329524,7 @@
         "company_name": "RTX",
         "id": "fa0ebc2b-c763-4683-926b-c4befa25a42e",
         "title": "Java Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785162723,
         "date_posted": 1785110400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Java-Software-Engineer-I--On-Site-_01860806",
@@ -362279,6 +362279,605 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Philips",
+        "id": "8338439d-fe8e-4182-845a-a2718efed066",
+        "title": "AI & Analytics Associate - Graduate Development Program",
+        "active": true,
+        "date_updated": 1786469401,
+        "date_posted": 1786406400,
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Full-Time--Graduate-Development-Program-AI---Analytics-Associate-Nashville--TN-or-Cambridge--MA-2026_587083",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Philips",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AeroVironment",
+        "id": "01a849bc-7555-48e8-b383-fdcdc0c18afc",
+        "title": "Software Engineer 1-2 - Embedded",
+        "active": true,
+        "date_updated": 1786469323,
+        "date_posted": 1786406400,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-2_8367",
+        "locations": [
+            "Sunrise, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AeroVironment",
+        "id": "05e9424f-87b6-46d1-aa6f-b361e8502f05",
+        "title": "Software Engineer 1 - Embedded",
+        "active": true,
+        "date_updated": 1786469324,
+        "date_posted": 1786406400,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-1_8366",
+        "locations": [
+            "Sunrise, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AeroVironment",
+        "id": "b149ffe7-5cf9-4e18-8175-052fb98c6c6b",
+        "title": "Software Engineer 1 - Embedded",
+        "active": true,
+        "date_updated": 1786469323,
+        "date_posted": 1786406400,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-3_8368",
+        "locations": [
+            "Sunrise, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "1fee781e-3297-48d6-bbf1-a6d0eb4dadbd",
+        "title": "Business Technology Programmer 1 - VCS Scheduling",
+        "active": true,
+        "date_updated": 1786469321,
+        "date_posted": 1786468961,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-BUS-TECH-PROGRAMMER-1-Virg/1418109900/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "16ec52d6-22ea-499e-94f2-28744df9e6ff",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786469322,
+        "date_posted": 1786406400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I---Onsite-_01865303",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sony",
+        "id": "828f23ac-04c2-4f31-81b7-312abea078e5",
+        "title": "Associate Field Service Engineer - Fixed Term",
+        "active": true,
+        "date_updated": 1786469042,
+        "date_posted": 1786406400,
+        "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Massachusetts/Associate-Field-Service-Engineer--Fixed-Term---12-month-assignment-_JR-119451",
+        "locations": [
+            "Connecticut",
+            "NYC",
+            "Massachusetts",
+            "New Jersey"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Insitu",
+        "id": "1c48a615-424d-40fa-89b5-62e31990980c",
+        "title": "Software Engineer - Simulation",
+        "active": true,
+        "date_updated": 1786469042,
+        "date_posted": 1786406400,
+        "url": "https://insitu.wd1.myworkdayjobs.com/careers/job/Bingen-WA/Software-Engineer---Simulation---Hybrid---Relocation-Assistance-Available_R0003743-1",
+        "locations": [
+            "Bingen, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Insitu",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "e84dfbb5-aeba-4d6f-a175-1c26a3495451",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786469315,
+        "date_posted": 1786406400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01858008",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "ee9895ec-9487-45e6-bc29-cad094e59644",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786469314,
+        "date_posted": 1786406400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01865828",
+        "locations": [
+            "Fulton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "da689305-82de-4694-a5c2-02d84c986f13",
+        "title": "Soldering Technician",
+        "active": true,
+        "date_updated": 1786469309,
+        "date_posted": 1786406400,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/XMLNAME-2nd-shift-Soldering-Technician_R-00189283",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "a99ffc73-8763-4197-a6cb-f51fb7a25acc",
+        "title": "PCBA Soldering Technician",
+        "active": true,
+        "date_updated": 1786469298,
+        "date_posted": 1786406400,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/XMLNAME-2nd-shift-Doldering-Technician_R-00189288",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "onsemi",
+        "id": "526a9d18-c0cf-4029-872b-3efa99c0b4c2",
+        "title": "Lithography Maintenance Technician",
+        "active": true,
+        "date_updated": 1786469204,
+        "date_posted": 1786468822,
+        "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506077",
+        "locations": [
+            "Hopewell Junction, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Onsemi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SharkNinja",
+        "id": "416c013d-c97d-436f-a454-ff8f42afdadc",
+        "title": "Applied AI & Analytics - Early Careers",
+        "active": true,
+        "date_updated": 1786469168,
+        "date_posted": 1786468793,
+        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703237006",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M International University",
+        "id": "b561ddb9-7d0a-4783-9f93-b72990af9922",
+        "title": "Undergraduate Research Assistant - NASA",
+        "active": true,
+        "date_updated": 1786468863,
+        "date_posted": 1786406400,
+        "url": "https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Undergraduate-Research-Assistant--NASA-_R-096046",
+        "locations": [
+            "Laredo, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-International-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "State Street",
+        "id": "407e1e4c-8d82-4e4c-b3ff-9482dc645fb7",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1786469130,
+        "date_posted": 1786406400,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "34511b41-e6df-4327-b844-adf04f6f221f",
+        "title": "Agent Evaluation & Evolution Researcher Graduate - Applied Machine Learning Ark",
+        "active": true,
+        "date_updated": 1786468863,
+        "date_posted": 1786468730,
+        "url": "https://jobs.bytedance.com/en/position/7672391176102676741/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "746bd20a-a89e-48fb-a0d0-7ab6c3a03990",
+        "title": "Visual Generation & Multimodal Evaluation Researcher Graduate - PhD",
+        "active": true,
+        "date_updated": 1786468863,
+        "date_posted": 1786468732,
+        "url": "https://jobs.bytedance.com/en/position/7672392998192154885/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "73cef19e-ced7-497b-bf62-388cb64b1801",
+        "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate",
+        "active": true,
+        "date_updated": 1786468863,
+        "date_posted": 1786468730,
+        "url": "https://jobs.bytedance.com/en/position/7672392998189959429/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "ac3c84f7-ffa2-4c6a-b6da-42c58ae40a7c",
+        "title": "Software Engineer Graduate - AML-Engine-Orchestration - PhD",
+        "active": true,
+        "date_updated": 1786468863,
+        "date_posted": 1786468732,
+        "url": "https://jobs.bytedance.com/en/position/7672389696568510773/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "7f2aef69-8f56-49be-8f29-f9b37419bd0e",
+        "title": "Research Engineer",
+        "active": true,
+        "date_updated": 1786469095,
+        "date_posted": 1786468730,
+        "url": "https://jobs.bytedance.com/en/position/7672398686110910773/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "3d753fc3-2bd4-4933-88e0-f2500926ed8b",
+        "title": "Data Lake Infrastructure & Data Analytics Research Engineer Graduate - AML-ARK",
+        "active": true,
+        "date_updated": 1786468863,
+        "date_posted": 1786468730,
+        "url": "https://jobs.bytedance.com/en/position/7672395094280063285/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "529d15e9-12f4-479e-a380-8ae9a1709134",
+        "title": "Machine Learning Engineer Graduate - AML-Engine-Orchestration",
+        "active": true,
+        "date_updated": 1786468863,
+        "date_posted": 1786468732,
+        "url": "https://jobs.bytedance.com/en/position/7672383576726276405/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "22f7250b-258e-431c-af1b-a4fec83d9665",
+        "title": "Software Engineer Graduate - AML-Engine-Orchestration",
+        "active": true,
+        "date_updated": 1786468863,
+        "date_posted": 1786468730,
+        "url": "https://jobs.bytedance.com/en/position/7672389697767377205/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "1bf4a67e-16ac-4465-bb86-b325834f6ac1",
+        "title": "Agent Evaluation and Evolution Machine Learning Engineer Graduate - Applied Machine Learning Ark",
+        "active": true,
+        "date_updated": 1786469091,
+        "date_posted": 1786468731,
+        "url": "https://jobs.bytedance.com/en/position/7672391016194066693/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "ced4373d-cfff-43ad-8889-2b5ce1540a63",
+        "title": "Research Assistant in Economics",
+        "active": true,
+        "date_updated": 1786468681,
+        "date_posted": 1786406400,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-in-Economics_REQ_0000081256-1",
+        "locations": [
+            "University Park, State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "PGIM",
+        "id": "e19fe3b7-632c-42e1-8b02-da2de0de9cf4",
+        "title": "Investment Analyst - Credit",
+        "active": true,
+        "date_updated": 1786468934,
+        "date_posted": 1786406400,
+        "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/London-United-Kingdom/PGIM-Credit---Investment-Analyst_R-124757",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PGIM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centene",
+        "id": "9225fd35-93df-4625-a758-56df06538350",
+        "title": "Automation Engineer - Financial Systems AI",
+        "active": true,
+        "date_updated": 1786468681,
+        "date_posted": 1786406400,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Automation-Engineer---Financial-Systems-AI_1641955-1",
+        "locations": [
+            "Washington",
+            "Pennsylvania",
+            "California",
+            "Texas",
+            "Florida",
+            "South Carolina",
+            "Georgia",
+            "Virginia",
+            "Nebraska",
+            "NYC",
+            "Maryland",
+            "Massachusetts",
+            "North Carolina",
+            "Missouri",
+            "New Jersey",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Centene",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics",
+        "id": "a40a2958-e1de-4925-98c9-c69e24cb567e",
+        "title": "Engineer 1/2",
+        "active": true,
+        "date_updated": 1786468734,
+        "date_posted": 1786468675,
+        "url": "https://careers-gdeb.icims.com/jobs/19027/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Groton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
