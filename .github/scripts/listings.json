@@ -276585,7 +276585,7 @@
         "company_name": "StepStone Group",
         "id": "2bfd2c42-df8c-4a58-b251-765aeecf670a",
         "title": "Analyst \u2013 SPAR Client Service - Reporting",
-        "active": true,
+        "active": false,
         "date_updated": 1782253621,
         "date_posted": 1782252939,
         "url": "https://boards.greenhouse.io/embed/job_app?token=8024388",
@@ -294265,7 +294265,7 @@
         "company_name": "Elwood Technologies",
         "id": "6233ea9e-7cb1-4aa3-9f4e-bdaa6e88fcfd",
         "title": "Graduate/Junior Software Engineer - Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1783607515,
         "date_posted": 1783606517,
         "url": "https://job-boards.greenhouse.io/elwoodtechnologies/jobs/6112395004",
@@ -300246,7 +300246,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -317839,7 +317839,7 @@
         "company_name": "Deloitte",
         "id": "8aa24bd6-8bc7-4e6c-a4aa-06fbaea2d494",
         "title": "Data Management Solutions Analyst - Government & Public Services - Data Management Solutions",
-        "active": false,
+        "active": true,
         "date_updated": 1784682816,
         "date_posted": 1784672078,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Data-Management-Solutions/350301",
@@ -361482,6 +361482,485 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/Alarm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arch Aerial",
+        "id": "b6d3d4b8-3f64-48cc-8eaf-ba6c2cdc2c20",
+        "title": "Junior GIS Technician",
+        "active": true,
+        "date_updated": 1786412161,
+        "date_posted": 1786412047,
+        "url": "https://apply.workable.com/arch-aerial-llc/j/28C1BA8804/apply",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/327ec74f-89ae-40d2-99d3-8e9155400b4c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NORY",
+        "id": "0f9c77ed-f654-499d-9764-6f6986f8ab2c",
+        "title": "Maker Education Fabricator",
+        "active": true,
+        "date_updated": 1786412258,
+        "date_posted": 1786412017,
+        "url": "https://jobs.ashbyhq.com/nory-co/ca681a52-974c-4a41-bc0f-f9035d304276/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/NORY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DV Trading",
+        "id": "eebcbb4d-2fc1-4f3f-a75a-c138fb2fc425",
+        "title": "Graduate Software Engineer - DV Commodities",
+        "active": true,
+        "date_updated": 1786412271,
+        "date_posted": 1786412054,
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DV-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Deloitte",
+        "id": "071ed622-765f-4844-a5d5-2482916aec1e",
+        "title": "Cyber Software Engineering Analyst - Government & Public Services - Cyber Software Engineering",
+        "active": true,
+        "date_updated": 1786412257,
+        "date_posted": 1786412033,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Cyber-Software-Engineering/362393",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Swoon Editions",
+        "id": "a90a9eab-2228-4385-846a-4a3c30dc543f",
+        "title": "Partner Trading and AI Merchandising Executive",
+        "active": true,
+        "date_updated": 1786412226,
+        "date_posted": 1786411978,
+        "url": "https://apply.workable.com/swoon-editions/j/3438545340/apply",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ae679bd7-ac82-4800-bf80-def09d9e0add",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stockholm Environment Institute - U.S.",
+        "id": "fee8fc8f-9472-4328-aa55-23f410a90d17",
+        "title": "Energy and Environment Analyst",
+        "active": true,
+        "date_updated": 1786411981,
+        "date_posted": 1786411978,
+        "url": "https://apply.workable.com/sei/j/32B312B16E/apply",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/dfcb3615-fa23-424f-8c70-e7bf8e5bbb8f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Teserac",
+        "id": "6559e446-af35-47e2-9ceb-23d2f30345a1",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1786411981,
+        "date_posted": 1786411978,
+        "url": "https://apply.workable.com/teserac-inc/j/6DB18627C3/apply",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/35a837c3-6704-450e-a0c8-1b22d93191ff",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mustard Systems",
+        "id": "c412c1d4-e3f7-44d9-95a4-e800903aad89",
+        "title": "Graduate Quantitative Trading Programme - US Sports",
+        "active": true,
+        "date_updated": 1786412201,
+        "date_posted": 1786411960,
+        "url": "https://apply.workable.com/mustard-systems/j/20D6183BEC/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/c3a6d458-6726-4adc-b3ae-ae4825a4fe07",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Anywhere",
+        "id": "60d005ff-fe23-4fdd-9573-6188bca2a95f",
+        "title": "Full Stack Developer",
+        "active": true,
+        "date_updated": 1786411981,
+        "date_posted": 1786411964,
+        "url": "https://apply.workable.com/the-anywhere-company/j/523D858ED1/apply",
+        "locations": [
+            "Hilton Head Island, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/e0cc48f6-9928-4556-b7eb-bfac74a4e44a",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Eagle Seven",
+        "id": "33a16e34-5d7a-424b-92c0-004469c7970a",
+        "title": "Junior Trader",
+        "active": true,
+        "date_updated": 1786411981,
+        "date_posted": 1786411959,
+        "url": "https://apply.workable.com/eagle-seven/j/787BE44E7A/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/6429e823-818a-4138-91ec-be0e8e61bcf9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Mustard Systems",
+        "id": "861c3eea-4602-4f17-8d82-542a456c841a",
+        "title": "Sports Quantitative Analyst",
+        "active": true,
+        "date_updated": 1786412193,
+        "date_posted": 1786411960,
+        "url": "https://apply.workable.com/mustard-systems/j/AA720E4DF6/apply",
+        "locations": [
+            "Hammersmith, London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/c3a6d458-6726-4adc-b3ae-ae4825a4fe07",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ESG - USA",
+        "id": "0be25d20-17eb-4a94-a786-c0d1df70a22e",
+        "title": "GIS Technician 1",
+        "active": true,
+        "date_updated": 1786412171,
+        "date_posted": 1786411944,
+        "url": "https://apply.workable.com/esgusa/j/B8DF295750/apply",
+        "locations": [
+            "Lakewood, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/89e400ea-e4ae-4067-a07d-ef471074321f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Longshot Systems",
+        "id": "5e775d03-2974-4788-a51e-41896502a1c2",
+        "title": "Machine Learning Researcher",
+        "active": true,
+        "date_updated": 1786412153,
+        "date_posted": 1786411936,
+        "url": "https://apply.workable.com/longshot-systems-ltd/j/EA27D81554/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/69205cda-66c9-4b17-921d-5bc49216b771",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CWILL",
+        "id": "d5c21e08-73a2-4aa6-a0fb-2f50d36ad3a0",
+        "title": "Product Management Trainee - Bilingual Mandarin Required",
+        "active": true,
+        "date_updated": 1786411981,
+        "date_posted": 1786411922,
+        "url": "https://apply.workable.com/cwill-us/j/0AF59B8964/apply",
+        "locations": [
+            "Remote in USA",
+            "Cary, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/b9ab5f58-e068-4e85-b58f-ab64efb3cc07",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CWILL",
+        "id": "a793a502-be13-4c61-a978-d990f3122ad0",
+        "title": "R&D Trainee - Full-Stack Engineer - Backend",
+        "active": true,
+        "date_updated": 1786412125,
+        "date_posted": 1786411923,
+        "url": "https://apply.workable.com/cwill-us/j/1D51B4DDFC/apply",
+        "locations": [
+            "Remote in USA",
+            "Cary, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/b9ab5f58-e068-4e85-b58f-ab64efb3cc07",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lovey",
+        "id": "8212bd54-76b0-4aae-a50e-3f286c780262",
+        "title": "Graduate Full Stack Software Engineer",
+        "active": true,
+        "date_updated": 1786411981,
+        "date_posted": 1786411918,
+        "url": "https://apply.workable.com/lovey/j/505FC72D9B/apply",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/917bf991-4d7f-4b26-90a3-2068292e3fe8",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Onyx Capital Group",
+        "id": "98593eb9-d316-46ef-8a11-c89e895db9ad",
+        "title": "Graduate Trader",
+        "active": true,
+        "date_updated": 1786411981,
+        "date_posted": 1786411915,
+        "url": "https://apply.workable.com/onyx-capital-group/j/0AD579CC5A/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/44bfbbbc-1384-48c4-9ee9-f47323215193",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Murphy Research",
+        "id": "b8ab4b18-92ce-4923-8397-0b48215af2fa",
+        "title": "Research Associate",
+        "active": true,
+        "date_updated": 1786411981,
+        "date_posted": 1786411911,
+        "url": "https://apply.workable.com/murphy-research/j/EFAC9AC8E1/apply",
+        "locations": [
+            "LA",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/dcd20f12-277f-4134-b7d1-23f27d4c4a4c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lovingly",
+        "id": "9214f3c7-4f3c-4ef4-928e-dc33ef5431a3",
+        "title": "AI-First Multipotentialite",
+        "active": true,
+        "date_updated": 1786412095,
+        "date_posted": 1786411910,
+        "url": "https://apply.workable.com/lovingly/j/075ADF9303/apply",
+        "locations": [
+            "Hopewell Junction, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/0909dcdc-ed97-47b6-b03d-160edb4771cc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SZNS Solutions",
+        "id": "49a6eea9-f3b2-4c8a-bcb9-73f0f684a0af",
+        "title": "Entry-Level Software Engineer",
+        "active": true,
+        "date_updated": 1786412086,
+        "date_posted": 1786411902,
+        "url": "https://apply.workable.com/szns/j/D24DE0E111/apply",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/68c8e5b2-248c-4b3c-bd28-e2b33ceefc33",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Viewline Ventures",
+        "id": "fadb67af-8a6d-4549-aef5-9d8fe6193127",
+        "title": "Implementation Specialist - Quantitative Trading and Operations",
+        "active": true,
+        "date_updated": 1786412081,
+        "date_posted": 1786411905,
+        "url": "https://apply.workable.com/viewline-ventures/j/ED14AF5839/apply",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/4fa4f030-0499-4494-b05b-566824e7fff4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Ripjar",
+        "id": "6dba81b2-f187-4a15-9243-ad43137e6a70",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1786411981,
+        "date_posted": 1786411901,
+        "url": "https://apply.workable.com/ripjar/j/6BCF4824FE/apply",
+        "locations": [
+            "Remote in UK",
+            "Cheltenham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/9a9cf9e5-6fe1-4fe2-9647-02a24a077aa8",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Generation West Virginia",
+        "id": "0a6daaf2-03eb-4778-aff9-a1df96462988",
+        "title": "Junior Data Analyst",
+        "active": true,
+        "date_updated": 1786412069,
+        "date_posted": 1786411901,
+        "url": "https://apply.workable.com/generation-west-virginia-1/j/CBFA85E3A4/apply",
+        "locations": [
+            "Charleston, WV"
+        ],
+        "company_url": "https://simplify.jobs/c/da1abb13-2a62-44c8-8a2e-f0480d9146c2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "894c7f1f-c007-422d-bba7-f415967f29c3",
+        "title": "Forensic Investigations Analyst - Government & Public Services",
+        "active": true,
+        "date_updated": 1786412253,
+        "date_posted": 1786401433,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Forensic-Investigations/350571",
+        "locations": [
+            "Rosslyn, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
