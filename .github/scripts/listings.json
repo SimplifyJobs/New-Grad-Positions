@@ -352523,7 +352523,7 @@
         "company_name": "L3Harris Technologies",
         "id": "e13da8b1-0ac8-405e-a232-ddfbc345a515",
         "title": "Associate Field Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785967846,
         "date_posted": 1785967470,
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Field-Engineering-FL-32934/1416282100/?ats=successfactors",
@@ -354945,7 +354945,7 @@
         "company_name": "L3Harris Technologies",
         "id": "d4fdab49-1570-4082-8697-7a9ae04f1d31",
         "title": "Electrical Assembly B",
-        "active": true,
+        "active": false,
         "date_updated": 1786054303,
         "date_posted": 1786053916,
         "url": "https://jobs.l3harris.com/job/Cincinnati-Assembly-B-OH-45245/1416843300/?ats=successfactors",
@@ -362120,6 +362120,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "cf283921-fd0f-468c-8dbe-cb149e939a14",
+        "title": "Field Technician C",
+        "active": true,
+        "date_updated": 1786447981,
+        "date_posted": 1784757899,
+        "url": "https://jobs.l3harris.com/job/Anchorage-Field-Technician-C-(Anchorage,-AK)-AK-99506/1411716800/?ats=successfactors",
+        "locations": [
+            "Fairbanks, AK",
+            "Palmer, AK",
+            "Anchorage, AK"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
