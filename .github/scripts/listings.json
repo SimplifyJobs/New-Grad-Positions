@@ -334011,7 +334011,7 @@
         "company_name": "Sensata",
         "id": "88bb7920-8c58-4e3f-9b86-5d6ddfef0e5b",
         "title": "Graduate Electronics/Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785326581,
         "date_posted": 1784764800,
         "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Antrim-United-Kingdom/Electronics-Software-Engineer_IRC97935-1",
@@ -335994,7 +335994,7 @@
         "company_name": "Cadwell",
         "id": "1d1f9e00-38d3-4137-8aa8-47dd0b6c83a5",
         "title": "Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1785420721,
         "date_posted": 1785420576,
         "url": "https://job-boards.greenhouse.io/cadwell/jobs/4317391009",
@@ -360220,28 +360220,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Atomic Machines",
-        "id": "392ad0f4-3ce5-4463-83c1-daf88a09a710",
-        "title": "Generative AI CAD Engineer",
-        "active": true,
-        "date_updated": 1786388761,
-        "date_posted": 1765669964,
-        "url": "https://job-boards.greenhouse.io/atomicmachines/jobs/4038127009",
-        "locations": [
-            "Emeryville, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Atomic-Machines",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
