@@ -54,114 +54,6 @@
         "degrees": []
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palo Alto Networks",
-        "id": "d697b1da-2306-4b4e-8fe8-a6df68607340",
-        "title": "Senior Software Engineer in Test Prisma Access - AI Automation Engineer",
-        "active": false,
-        "date_updated": 1765754259,
-        "date_posted": 1765754259,
-        "url": "https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000098830255",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "aa54b15c-d1ef-412d-8211-6a6d2c656ad1",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1765754035,
-        "date_posted": 1765754035,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043236",
-        "locations": [
-            "Highland Council, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "16c6bc7c-0c29-4960-81a9-b7d0a54b962f",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1765754035,
-        "date_posted": 1765754035,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043230",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "04b4bfaf-342e-404d-95de-e8b4511ceec5",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1765754034,
-        "date_posted": 1765754034,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043235",
-        "locations": [
-            "Highland Council, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Clerkie",
-        "id": "123e8c6b-d651-4788-8e76-3051f3e136d4",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1765754034,
-        "date_posted": 1765754034,
-        "url": "http://getfiber.ai/careers?gh_jid=5004501007",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Clerkie",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Seminole Hard Rock",
-        "id": "1f1b66bc-d224-42ec-b83d-43d28e063bfc",
-        "title": "Slot Technician 1",
-        "active": false,
-        "date_updated": 1765754839,
-        "date_posted": 1765754839,
-        "url": "https://careers-seminole.icims.com/jobs/63225/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Seminole-Hard-Rock",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1773155039,
         "sponsorship": "U.S. Citizenship is Required",
         "active": false,
@@ -270212,7 +270104,7 @@
         "company_name": "Sev1Tech",
         "id": "008560fd-17a6-4700-89cd-a750b96ec209",
         "title": "Engineering Technician 1/2",
-        "active": true,
+        "active": false,
         "date_updated": 1782276352,
         "date_posted": 1780005909,
         "url": "https://careers-sev1tech.icims.com/jobs/9520/job?mobile=true&needsRedirect=false",
@@ -272905,7 +272797,7 @@
         "company_name": "Internet Brands",
         "id": "326959cb-4de4-4551-9cd0-496854f51f13",
         "title": "Associate AI Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782868404,
         "date_posted": 1782868155,
         "url": "https://jobs.jobvite.com/internetbrands/job/oSkoAfwU?nl=1&nl=1&fr=false",
@@ -334302,7 +334194,7 @@
         "company_name": "Farmers Insurance",
         "id": "0456663c-5f85-4ba5-a2d6-105f82049709",
         "title": "Product Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785364158,
         "date_posted": 1785362654,
         "url": "https://jobs.farmersinsurance.com/job/Product-Analyst-I-Bristol-West-Commercial-Auto/1368062257/?ats=successfactors",
@@ -341577,7 +341469,7 @@
         "company_name": "ICF International",
         "id": "e2bd7ed1-a27b-4384-a7da-c38d38874802",
         "title": "Chemical and Environmental Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1785619441,
         "date_posted": 1785196800,
         "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Arlington-VA-VA31/Chemical-and-Environmental-Researcher--Arlington--VA-or-New-York--NY-_R2602483",
@@ -359950,7 +359842,7 @@
         "company_name": "Regions Bank",
         "id": "f6b8d12a-cf43-489d-bc8a-0f256ee904e4",
         "title": "Technology Analyst - Operations, Digital, And Data",
-        "active": true,
+        "active": false,
         "date_updated": 1786388733,
         "date_posted": 1786320000,
         "url": "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Analyst--Technology--Operations--Digital--and-Data_R105087",
