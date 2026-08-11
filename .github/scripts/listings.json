@@ -132626,7 +132626,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -132646,7 +132646,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -252793,7 +252793,7 @@
         "company_name": "Stripe",
         "id": "a55aca04-011d-41fa-949e-be14c4e3956f",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1781140735,
         "date_posted": 1781140488,
         "url": "https://stripe.com/jobs/search?gh_jid=7991718",
@@ -300246,7 +300246,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -361961,6 +361961,85 @@
             "Rosslyn, Arlington, VA"
         ],
         "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nemean Solutions",
+        "id": "8989abf1-744a-4e45-8430-6f9d1c06256c",
+        "title": "Computer Operator 1 / Data Collector - Teas",
+        "active": true,
+        "date_updated": 1786429158,
+        "date_posted": 1778285312,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4151570",
+        "locations": [
+            "Las Cruces, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/22d35d11-80d6-4af9-afef-00c1fe9e80fc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Meyer Distributing",
+        "id": "be884771-8768-4d4e-8fe8-545efc9a2cb0",
+        "title": "Junior Full Stack Developer",
+        "active": true,
+        "date_updated": 1786429081,
+        "date_posted": 1777349715,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4121413",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/9198a995-68a3-40b6-ae05-04cbdc95060e",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PlusAI",
+        "id": "1cc58798-4a64-45ce-a9b1-f7225d6d1a68",
+        "title": "Senior Simulation Software Engineer",
+        "active": true,
+        "date_updated": 1786428901,
+        "date_posted": 1786428750,
+        "url": "https://jobs.lever.co/plus-2/4572f534-2f3c-4d4c-9fb0-55838bf7795f/apply",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Plus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Louisville",
+        "id": "71af9986-8df8-4387-9aca-59fac1fe3dcb",
+        "title": "Institutional Research Analyst 1",
+        "active": true,
+        "date_updated": 1786428539,
+        "date_posted": 1786406400,
+        "url": "https://uofl.wd1.myworkdayjobs.com/UofLCareerSite/job/Belknap-Campus/Institutional-Research-Analyst-I_R109041",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Louisville",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
