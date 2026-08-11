@@ -227404,7 +227404,7 @@
         "company_name": "Worldwide TechServices",
         "id": "b1c64112-c23a-4e62-a783-274edfdc3506",
         "title": "Dynamic Server Support",
-        "active": true,
+        "active": false,
         "date_updated": 1779822183,
         "date_posted": 1778796281,
         "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000126569996",
@@ -254037,7 +254037,7 @@
         "company_name": "Innodata",
         "id": "c62908a1-dbf8-411d-953d-5b7cd882c7f1",
         "title": "Generative AI Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1781170202,
         "date_posted": 1781169538,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4224824009",
@@ -319314,7 +319314,7 @@
         "company_name": "Worldwide TechServices",
         "id": "a930e99b-11a7-4c4c-9117-1732331af6ba",
         "title": "Dynamic PC Support",
-        "active": true,
+        "active": false,
         "date_updated": 1784730798,
         "date_posted": 1784729395,
         "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000139081829",
@@ -361180,7 +361180,7 @@
         "company_name": "Hard Rock Digital",
         "id": "dd30ef8d-9146-4940-b820-e99bc7e4f0b7",
         "title": "Associate AI Agent Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786401181,
         "date_posted": 1786401107,
         "url": "https://hardrockdigital.recruitee.com/o/associate-ai-agent-analyst",
@@ -362277,5 +362277,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "d5772952-0a23-4d22-8064-4a62a28bedf6",
+        "title": "Associate Systems Engineer - Integrated Communication System",
+        "active": true,
+        "date_updated": 1786458831,
+        "date_posted": 1786458676,
+        "url": "https://jobs.l3harris.com/job/Camden-Associate,-Systems-Engineering-NJ-08103/1418083600/?ats=successfactors",
+        "locations": [
+            "Camden, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "2809c412-027a-46b1-83e3-20ca7d2532eb",
+        "title": "Field Engineer Associate",
+        "active": true,
+        "date_updated": 1786458827,
+        "date_posted": 1786458679,
+        "url": "https://jobs.l3harris.com/job/Fall-River-Associate,-Field-Engineering-MA-02723/1418079500/?ats=successfactors",
+        "locations": [
+            "Fall River, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
