@@ -132626,7 +132626,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -132646,7 +132646,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -325373,7 +325373,7 @@
         "company_name": "RTX",
         "id": "d0681f2b-f504-42de-870b-d512b86b6c9b",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1784874022,
         "date_posted": 1784764800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01861300",
@@ -325473,7 +325473,7 @@
         "company_name": "Computershare",
         "id": "406fcab2-46ad-41b7-97c8-c2f3ba20f7da",
         "title": "Research Administrator - Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1784883961,
         "date_posted": 1782896694,
         "url": "https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/11204",
@@ -361250,5 +361250,242 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "88f8ac40-cff8-45a1-97c8-5f968f94bfed",
+        "title": "Applications Development Engineer - Broadband Plasma Division",
+        "active": true,
+        "date_updated": 1786410721,
+        "date_posted": 1786320000,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Applications-Development-Engineer---Broadband-Plasma-Division-_2639355-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fidelity Investments",
+        "id": "12f41653-efd9-400f-b588-f28d7d390aaf",
+        "title": "Associate Analyst - Defined Benefit",
+        "active": true,
+        "date_updated": 1786410941,
+        "date_posted": 1786320000,
+        "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Covington-KY/Associate-Analyst--Defined-Benefit---Early-Career_2133744",
+        "locations": [
+            "Covington, KY",
+            "Greenwood Village, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Major League Baseball",
+        "id": "5fed2e8f-c869-4ed1-93c0-10e1b7c0128a",
+        "title": "Quantitative Analyst Associate",
+        "active": true,
+        "date_updated": 1786411081,
+        "date_posted": 1786411010,
+        "url": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7850879003",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/MLB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microsoft",
+        "id": "4f971efb-9f44-4d59-b6d4-1beacb6b5136",
+        "title": "Data Center Technician",
+        "active": true,
+        "date_updated": 1786410819,
+        "date_posted": 1786410631,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556937952",
+        "locations": [
+            "Newport, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "427bfbbf-185d-48ab-9e67-639926394fe2",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1786410814,
+        "date_posted": 1786410585,
+        "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineer-TX-75402/1418012400/?ats=successfactors",
+        "locations": [
+            "Greenville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Aerospace",
+        "id": "222c05a3-4911-43dd-8d60-fd095881b980",
+        "title": "Electronic Device Fabricator",
+        "active": true,
+        "date_updated": 1786410799,
+        "date_posted": 1786320000,
+        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Niskayuna/Union-Electronic-Device-Fabricator--EDF----1st-Shift_R5038505",
+        "locations": [
+            "Niskayuna, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Home Depot",
+        "id": "7883a2d8-9e15-4997-a44e-14d388ecf5c3",
+        "title": "Associate Data Scientist - Tools & Automation",
+        "active": true,
+        "date_updated": 1786410721,
+        "date_posted": 1786320000,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist--Tools---Automation_Req189666",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Home-Depot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Canon",
+        "id": "348e3141-99ca-463b-9f0c-94a49a610861",
+        "title": "Field Service Technician 1",
+        "active": true,
+        "date_updated": 1786410647,
+        "date_posted": 1786410492,
+        "url": "https://external-canoncareers.icims.com/jobs/34722/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Canon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Radiance Technologies",
+        "id": "4d33364c-c685-48f1-bdaf-675e93d5a63b",
+        "title": "Entry-level Microelectronics R&D Engineer",
+        "active": true,
+        "date_updated": 1786410361,
+        "date_posted": 1786320000,
+        "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Ruston-LA/Entry-level-Microelectronics-R-D-Engineer_HR102341",
+        "locations": [
+            "Ruston, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Radiance-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ADT",
+        "id": "4a606d45-9ac9-4c81-977f-bf4328aaf543",
+        "title": "Service Technician",
+        "active": true,
+        "date_updated": 1786410361,
+        "date_posted": 1786410309,
+        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021652",
+        "locations": [
+            "Springfield, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ADT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "2020 Companies",
+        "id": "83d2c057-7fb7-4cb5-90cf-b296b13d21b7",
+        "title": "Android Sales Expert",
+        "active": true,
+        "date_updated": 1786410181,
+        "date_posted": 1786320000,
+        "url": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Bonita-CA/Android-Sales-Expert_REQ_110256",
+        "locations": [
+            "Bonita, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/2020-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Alarm.com",
+        "id": "c3ba5f08-fd92-47f8-b181-e28aba2fabdd",
+        "title": "Device Engineer 1 - Device Engineering",
+        "active": true,
+        "date_updated": 1786410918,
+        "date_posted": 1776982586,
+        "url": "https://job-boards.greenhouse.io/alarmcom/jobs/8485073002",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alarm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
