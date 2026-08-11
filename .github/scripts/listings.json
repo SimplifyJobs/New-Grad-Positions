@@ -55,43 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "08505f1d-f204-49a4-93c6-8ce72fa7b554",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1765728686,
-        "date_posted": 1765728686,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043206",
-        "locations": [
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Optimove",
-        "id": "1ff68951-d491-48ca-8c2a-ea5043fcc859",
-        "title": "ETL Developer",
-        "active": false,
-        "date_updated": 1765729724,
-        "date_posted": 1765729724,
-        "url": "https://job-boards.eu.greenhouse.io/optimove/jobs/4737242101",
-        "locations": [
-            "London, UK",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Optimove",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Palo Alto Networks",
         "id": "d697b1da-2306-4b4e-8fe8-a6df68607340",
@@ -341990,7 +341953,7 @@
         "company_name": "RTX",
         "id": "513036c6-8bdd-44bf-8c57-e5d73bf66998",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785620001,
         "date_posted": 1785196800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Software-Engineer-I--Onsite-_01861373",
