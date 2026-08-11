@@ -330327,7 +330327,7 @@
         "company_name": "Textron",
         "id": "57383e43-6f9c-4c5d-b9c8-cb3b69e64fd2",
         "title": "Software Engineer 1 - Sea Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1785194938,
         "date_posted": 1785191051,
         "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=341975",
@@ -350232,7 +350232,7 @@
         "company_name": "Deloitte",
         "id": "c3a87290-4f6d-4d31-8576-4c7f518fd46b",
         "title": "Tax Consultant - LLM",
-        "active": true,
+        "active": false,
         "date_updated": 1785883617,
         "date_posted": 1785882017,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Tax-Tax-Consultant-LLM-Summer-2027/361373",
@@ -357148,7 +357148,7 @@
         "company_name": "Riverside Research",
         "id": "c9372099-ac31-46fe-82ad-547ac87f1e6f",
         "title": "Software Developer - Sensor and Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1786140725,
         "date_posted": 1786140654,
         "url": "https://careers-riversideresearch.icims.com/jobs/4331/job?mobile=true&needsRedirect=false",
@@ -362060,6 +362060,62 @@
             "Glasgow, UK"
         ],
         "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Mind Robotics",
+        "id": "59166d0c-d2aa-47f4-baa7-2fad7c498668",
+        "title": "Field Technician",
+        "active": true,
+        "date_updated": 1786441681,
+        "date_posted": 1782770930,
+        "url": "https://jobs.ashbyhq.com/mindrobotics/e8477320-9214-45b9-8d3e-cf010f0393ef/application?embed=true",
+        "locations": [
+            "Normal, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Mind-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bose",
+        "id": "34b81f66-3d8a-4fa4-910f-eac9ec32d5c8",
+        "title": "Electronics Assembler",
+        "active": true,
+        "date_updated": 1786441349,
+        "date_posted": 1781042839,
+        "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-NY---Binghamton/Electronics-Assembler--Glass-Panel-Assembly_R29018",
+        "locations": [
+            "Binghamton, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Bose",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Alexander Dennis",
+        "id": "ddf9f735-09a7-4d04-b10f-07be753e0d4f",
+        "title": "Reliability Data Analyst",
+        "active": true,
+        "date_updated": 1786440601,
+        "date_posted": 1786440559,
+        "url": "https://apply.workable.com/alexander-dennis/j/3E21DB70EB/apply",
+        "locations": [
+            "Larbert, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/14e72628-66bf-46ca-be3c-2a08427ffa2e",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
