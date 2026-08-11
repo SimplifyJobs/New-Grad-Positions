@@ -4225,7 +4225,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Security Engineer (Entry-Level) 🇺🇸</td>
 <td>Beaverton, OR</br>Solon, OH</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Remitly?utm_source=GHList&utm_medium=company">Remitly</a></strong></td>
