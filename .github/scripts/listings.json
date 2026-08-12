@@ -55,354 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "BMO ",
-        "id": "605316e2-f1f7-4f2b-8ea1-4563e5c44904",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1765840616,
-        "date_posted": 1765840616,
-        "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Software-Engineer_R250030923-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Colorado School of Mines",
-        "id": "15af2d5c-8b17-4487-ac84-ef7f7f47a1d0",
-        "title": "Postdoctoral Fellow - Civil and Environmental Engineering",
-        "active": false,
-        "date_updated": 1765840892,
-        "date_posted": 1765840892,
-        "url": "https://mines.wd1.myworkdayjobs.com/mines_careers/job/Colorado/Post-Doctoral-Fellow--Civil-and-Environmental-Engineering_JR107955",
-        "locations": [
-            "Colorado"
-        ],
-        "company_url": "https://simplify.jobs/c/Colorado-School-Of-Mines",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cisco",
-        "id": "b12ba92c-3187-462f-bec0-4fcd968392d3",
-        "title": "ASIC Design Verification Engineer 1",
-        "active": false,
-        "date_updated": 1765840332,
-        "date_posted": 1765840332,
-        "url": "https://careers.cisco.com/global/en/job/2004980",
-        "locations": [
-            "Carlsbad, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cisco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "5dd6a22b-55f2-425a-a943-c5a085eacec0",
-        "title": "EA Sports Academy Software Engineer",
-        "active": false,
-        "date_updated": 1765840511,
-        "date_posted": 1765840511,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/EA-Sports-Academy-Software-Engineer/211903",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Monterey Technologies",
-        "id": "258c0966-8116-42e2-bdc7-91e90606e6e5",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1765840235,
-        "date_posted": 1765840235,
-        "url": "https://jobs.lever.co/mti-inc/6b5e1aff-24f6-42e0-b858-6ffe6071b126/apply",
-        "locations": [
-            "Park City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Monterey-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Wyetech",
-        "id": "f98b41ea-7f13-40df-9d6f-f58edcf14013",
-        "title": "Software Engineer 2",
-        "active": false,
-        "date_updated": 1765840162,
-        "date_posted": 1765840162,
-        "url": "https://jobs.lever.co/wyetechllc/a1ca17f8-bbf2-48d0-ba3a-e80f121e4f8d/apply",
-        "locations": [
-            "Laurel, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Microsoft",
-        "id": "b95cf25c-30e2-452c-bf5b-427d4cd9127e",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1765840182,
-        "date_posted": 1765840182,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556631977",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Microsoft",
-        "id": "2340b871-788a-498a-94e9-d7f8f7bb0b1b",
-        "title": "Software Engineer - Windows Servicing and Delivery",
-        "active": false,
-        "date_updated": 1765840194,
-        "date_posted": 1765840194,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556631972",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "6433928c-553c-4393-9b86-db1b03e1afbe",
-        "title": "Wavelogic Firmware Developer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1765839901,
-        "date_posted": 1765839901,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Wavelogic-Firmware-Developer---New-Grad_R029612",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "638c2c55-3962-4160-a2c1-91c0a6ba1d52",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1765840546,
-        "date_posted": 1765840546,
-        "url": "https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/89559041648",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Etched.ai",
-        "id": "4f3206d7-a574-4cf3-a2eb-c0252914e0dc",
-        "title": "Systems Bringup Technician",
-        "active": false,
-        "date_updated": 1765840694,
-        "date_posted": 1765840694,
-        "url": "https://jobs.ashbyhq.com/Etched/b2dd5cb3-58a2-412e-ab5c-ec239580e69f/application",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Etched-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "1a42b0d2-ecbc-4746-8854-96a7045799e5",
-        "title": "EA SPORTS Academy Software Engineer",
-        "active": false,
-        "date_updated": 1765840497,
-        "date_posted": 1765840497,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/EA-SPORTS-Academy-Software-Engineer-Vancouver-Canada/211811",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Salesforce",
-        "id": "0166c457-0ee2-47e7-9821-f2105d616fa1",
-        "title": "Product Manager - Agentforce for Supply Chain - App Gen",
-        "active": false,
-        "date_updated": 1765840962,
-        "date_posted": 1765840962,
-        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Product-Manager--Agentforce-for-Supply-Chain--App-Gen_JR322196",
-        "locations": [
-            "Seattle, WA",
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Salesforce",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Goldman Sachs",
-        "id": "3988172b-5d60-465a-bdb7-9b87cd53a577",
-        "title": "GBM Public - Mortgages & CLO Trading",
-        "active": false,
-        "date_updated": 1765840285,
-        "date_posted": 1765840285,
-        "url": "https://higher.gs.com/roles/151726",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "2nd Order Solutions",
-        "id": "2495c4b7-848d-4a9a-a2a2-b7f34d29fd1f",
-        "title": "Data Scientist - Campus",
-        "active": false,
-        "date_updated": 1765840246,
-        "date_posted": 1765840246,
-        "url": "https://jobs.lever.co/2os/3c19948d-2c5b-4490-9039-1de7e6374525/apply",
-        "locations": [
-            "Richmond, VA",
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/2nd-Order-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Franklin Templeton",
-        "id": "5a1cfaa8-4c9a-4c5b-8d37-ac2f2a45a0b0",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1765841109,
-        "date_posted": 1765841109,
-        "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/USA-CT100-Stamford/Associate-Software-Engineer_865347",
-        "locations": [
-            "Stamford, CT",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Franklin-Templeton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palo Alto Networks",
-        "id": "069d881a-6e5c-46ec-914e-02a886672de6",
-        "title": "Senior Software Engineer in Test Prisma Access - AI Automation Engineer",
-        "active": false,
-        "date_updated": 1765841309,
-        "date_posted": 1765841309,
-        "url": "https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000099039370",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "AeroVironment",
-        "id": "cc6b27a6-6aae-42c5-b7e0-8cd585e38f2c",
-        "title": "Platform Software Engineer",
-        "active": false,
-        "date_updated": 1765841358,
-        "date_posted": 1765841358,
-        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/1613-NW-136th-Avenue-Sunrise-FL/Platform-Software-Engineer_7061",
-        "locations": [
-            "Plantation, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/AeroVironment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Rivian",
-        "id": "990820c9-2507-445a-86e7-1f5c1770e967",
-        "title": "Software Engineer - Engineering Productivity - Infotainment Platform",
-        "active": false,
-        "date_updated": 1765841308,
-        "date_posted": 1765841308,
-        "url": "https://careers.rivian.com/jobs/28106?lang=en-us&icims=1",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Rockwell Automation",
         "id": "8d72bcba-b38e-4731-bad8-b4c9943c6f02",
@@ -456,119 +108,6 @@
             "Ogden, UT"
         ],
         "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "73c094e4-a9ee-45b9-92c5-568e8184e852",
-        "title": "2026 Fulltime - Raytheon Software Integration Engineer I",
-        "active": false,
-        "date_updated": 1765840801,
-        "date_posted": 1765840801,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Integration-Engineer-I--Onsite-_01812392",
-        "locations": [
-            "Marlborough, MA",
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "4bf08542-80af-414e-9bba-24b86005402d",
-        "title": "Research Scientist - AI-Mediated Reality and Interaction Research",
-        "active": false,
-        "date_updated": 1765841104,
-        "date_posted": 1765841104,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-Mediated-Reality-and-Interaction-Research---New-College-Grad-2026_JR2009485",
-        "locations": [
-            "Santa Clara, CA",
-            "NYC",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Halliburton",
-        "id": "efa36c46-716c-4b5b-893f-874e03088ca7",
-        "title": "Tool Tech 2 - Completion Tools",
-        "active": false,
-        "date_updated": 1765840615,
-        "date_posted": 1765840615,
-        "url": "https://jobs.halliburton.com/job/New-Iberia-Tool-Tech-II-Completion-Tools-204832-LA-70560/1349782300/?ats=successfactors",
-        "locations": [
-            "Lafayette, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Halliburton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "20f57f48-9ac7-456c-9663-ce27d228ffd1",
-        "title": "Physical Design Engineer",
-        "active": false,
-        "date_updated": 1765841097,
-        "date_posted": 1765841097,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-Engineer---New-College-Grad-2026_JR2009983",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Anything",
-        "id": "d22fdf10-42c6-4e27-9322-ee89a4ea3b3d",
-        "title": "Backend Engineer - AI",
-        "active": true,
-        "date_updated": 1765840442,
-        "date_posted": 1765840442,
-        "url": "https://jobs.ashbyhq.com/anything/f4123aa5-855a-4b82-b762-66fb4a77f493/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Anything",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Tandem PV",
-        "id": "b7dd35b2-4c38-4b4c-a382-ac4fe341a384",
-        "title": "R&D Solar Durability Technician",
-        "active": false,
-        "date_updated": 1765840669,
-        "date_posted": 1765840669,
-        "url": "https://jobs.ashbyhq.com/tandempv/8fa78c0f-5a81-43dc-a7fa-4c6d5ee43c90/application",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tandem-PV",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -988,42 +527,6 @@
             "Fort Worth, TX"
         ],
         "company_url": "https://simplify.jobs/c/Medtronic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Wyetech",
-        "id": "b831f444-2739-4c17-bbc4-71d0acfa10c2",
-        "title": "Software Engineer 2",
-        "active": false,
-        "date_updated": 1765840156,
-        "date_posted": 1765840156,
-        "url": "https://jobs.lever.co/wyetechllc/9585d817-be05-461c-bd89-7f55b469a64f/apply",
-        "locations": [
-            "Laurel, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazing Lash Studios",
-        "id": "ebee1357-430d-42c6-962c-ad664d4a332f",
-        "title": "Retail Sales Associate / Customer Service",
-        "active": false,
-        "date_updated": 1765880892,
-        "date_posted": 1765840339,
-        "url": "https://amazinglashstudio-wellbizbrands.icims.com/jobs/21376/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Princeton, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazing-Lash-Studios",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -2302,24 +1805,6 @@
             "Waterbury, CT"
         ],
         "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Whoop",
-        "id": "f3fb4b9e-2950-44a9-ab85-7ef46d4b5ec6",
-        "title": "Senior Embedded Engineer",
-        "active": false,
-        "date_updated": 1765963774,
-        "date_posted": 1765840159,
-        "url": "https://jobs.lever.co/whoop/964e7efb-5d8e-4043-a775-4dc9d589644a/apply",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Whoop",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -11176,26 +10661,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "89675d0d-20bf-45a0-8018-b735db3119fe",
-        "title": "Engineering Technician A - Fos",
-        "active": false,
-        "date_updated": 1765840451,
-        "date_posted": 1765840451,
-        "url": "https://jobs.l3harris.com/job/Cincinnati-Engineering-Technician-A-(FOS)-OH-45245/1349878800/?ats=successfactors",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
     },
     {
         "source": "Simplify",
@@ -36234,26 +35699,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Elf Beauty",
-        "id": "2887ae06-fd7e-44cf-b5c7-2da4ec11516d",
-        "title": "Coordinator - Product Development",
-        "active": false,
-        "date_updated": 1769075349,
-        "date_posted": 1765840336,
-        "url": "https://jobs.lever.co/elfbeauty/0cdb7075-0c54-4706-a4bb-3530be53523c/apply",
-        "locations": [
-            "Oakland, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Elf-Beauty",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -241676,7 +241121,7 @@
         "company_name": "Visionist",
         "id": "1fecff90-462a-4ac7-870f-56914da0438a",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780525451,
         "date_posted": 1780524621,
         "url": "https://jobs.jobvite.com/visionist/job/oEBdAfwM?nl=1&nl=1&fr=false",
@@ -355045,7 +354490,7 @@
         "company_name": "Merck",
         "id": "25f1d732-78f0-476f-9d25-b0f357ab023f",
         "title": "Software Engineer - AI Development",
-        "active": true,
+        "active": false,
         "date_updated": 1786065301,
         "date_posted": 1785974400,
         "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Software-Engineer---AI-Development_R408724-1",
@@ -359719,7 +359164,7 @@
         "company_name": "RTX",
         "id": "5ce3e395-c1b5-4649-a1d4-761338211517",
         "title": "Systems Engineer 1 - Radar Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786400515,
         "date_posted": 1786320000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineer-I--Radar-Analyst_01865798",
