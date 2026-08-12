@@ -300101,7 +300101,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -355289,7 +355289,7 @@
         "company_name": "Solace Health",
         "id": "486661c3-e797-48f7-baad-dcdb88e75608",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1786055836,
         "date_posted": 1786054660,
         "url": "https://jobs.ashbyhq.com/solace/ee8ee239-ad20-4c1e-868d-3357799589ea/application?embed=true",
@@ -364887,5 +364887,224 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Mach Industries",
+        "id": "f2a032d3-8549-4c56-895d-10d70eec9514",
+        "title": "Software Engineer New Grad - Software - GNC",
+        "active": true,
+        "date_updated": 1786505822,
+        "date_posted": 1786505629,
+        "url": "https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb/application?embed=true",
+        "locations": [
+            "Huntington Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mach-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Handshake",
+        "id": "5ddd9ecb-ced2-4c9d-8d98-a39b73f03884",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1786505761,
+        "date_posted": 1786505631,
+        "url": "https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Handshake",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Truveta",
+        "id": "fb0623ca-1ed7-4273-adcc-dda455705721",
+        "title": "Software Engineer - Live Link",
+        "active": true,
+        "date_updated": 1786505660,
+        "date_posted": 1786505534,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/6140479004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truveta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "65836b5e-2053-4c95-8748-b0029eb146c2",
+        "title": "Research Scientist - Multimedia Streaming",
+        "active": true,
+        "date_updated": 1786505654,
+        "date_posted": 1786505448,
+        "url": "https://jobs.bytedance.com/en/position/7670354696947009845/detail",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "dba5405f-12de-4a7e-a7b7-323dd31fc670",
+        "title": "Research Engineer Graduate - Seed Infra - PhD",
+        "active": true,
+        "date_updated": 1786505581,
+        "date_posted": 1786505447,
+        "url": "https://jobs.bytedance.com/en/position/7671034858089040181/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Axos Bank",
+        "id": "85abc859-5041-4b75-b40d-40befacf7a1e",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1786505648,
+        "date_posted": 1786406400,
+        "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA--Data-Engineer_JR5192-1",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Axos-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ByteDance",
+        "id": "09ed1754-b65e-4a83-a305-e5158633c52c",
+        "title": "Video/Image AI/ML Software Engineer Graduate - Multimedia",
+        "active": true,
+        "date_updated": 1786505581,
+        "date_posted": 1786505448,
+        "url": "https://jobs.bytedance.com/en/position/7670354624860703029/detail",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "64b41a7b-4a92-4d69-bc33-95786288e3cd",
+        "title": "AI/LLM Network Software Development Engineer Graduate - High Speed Network - PhD",
+        "active": true,
+        "date_updated": 1786505581,
+        "date_posted": 1786505444,
+        "url": "https://jobs.bytedance.com/en/position/7668855566150732037/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "efce5219-1cf8-43b3-8bf5-2c597a91a8dd",
+        "title": "Research Scientist - LLM",
+        "active": true,
+        "date_updated": 1786505581,
+        "date_posted": 1786505447,
+        "url": "https://jobs.bytedance.com/en/position/7671033602288912645/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "D.R. Horton",
+        "id": "66396035-7ef7-4576-a4e0-7487fd68616c",
+        "title": "Application Developer 1",
+        "active": true,
+        "date_updated": 1786505641,
+        "date_posted": 1786505432,
+        "url": "https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2603801",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/DR-Horton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "161eebf9-e3e8-494d-b2d2-2cf568885d77",
+        "title": "Research Scientist Graduate - Foundation Model - Generative AI",
+        "active": true,
+        "date_updated": 1786505581,
+        "date_posted": 1786505447,
+        "url": "https://jobs.bytedance.com/en/position/7671030761623177477/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
