@@ -132481,7 +132481,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -132501,7 +132501,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -300101,7 +300101,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -349450,7 +349450,7 @@
         "company_name": "Ohio State University",
         "id": "a34cd5b9-9bbf-4ec0-9485-89dac6af3581",
         "title": "Associate Applications Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1785852543,
         "date_posted": 1785801600,
         "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Associate-Applications-Developer_R156425-2",
@@ -365105,6 +365105,27 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AmNet Services",
+        "id": "ad10670d-56f5-4600-ab6f-5c48cbd8fb5c",
+        "title": "Software Systems Engineer 3",
+        "active": true,
+        "date_updated": 1786515006,
+        "date_posted": 1786514779,
+        "url": "https://jobs.smartrecruiters.com/AmNetServicesInc/743999652095708",
+        "locations": [
+            "Warren, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/10f7dc6d-303a-40c1-a317-f71f88d4a7b0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
