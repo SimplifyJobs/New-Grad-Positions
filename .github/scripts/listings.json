@@ -308759,7 +308759,7 @@
         "company_name": "EquipmentShare",
         "id": "a7443f83-839a-450e-9e64-6b80b7aae12a",
         "title": "Telematics Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1784587864,
         "date_posted": 1784586841,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8072035",
@@ -355398,7 +355398,7 @@
         "company_name": "Charles Schwab",
         "id": "be69266d-de7c-4e87-a808-b1fe8fbb5cf7",
         "title": "Mutual Funds Trading Operations Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1786065287,
         "date_posted": 1786065096,
         "url": "https://career-schwab.icims.com/jobs/124846/job?mobile=true&needsRedirect=false",
@@ -364921,5 +364921,24 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lilt",
+        "id": "454f3e0f-d45d-4812-8e2b-341136a7977f",
+        "title": "AI Training Contributor - French",
+        "active": true,
+        "date_updated": 1786533841,
+        "date_posted": 1783328911,
+        "url": "https://jobs.ashbyhq.com/lilt-production/1819d958-1eb4-4f5c-b5f2-eba8c1a9da55/application?embed=true",
+        "locations": [
+            "Remote in Canada",
+            "Qu\u00e9bec City, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lilt",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
