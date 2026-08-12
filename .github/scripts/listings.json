@@ -54,60 +54,6 @@
         "degrees": []
     },
     {
-        "date_updated": 1773155039,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.baesystems.com/global/en/job/BAE1US119164BREXTERNAL/Software-Test-Solutions-Engineer-I",
-        "company_name": "BAE Systems",
-        "title": "Software Test Solutions Engineer I",
-        "locations": [
-            "Nashua, N"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "71272fa5-341a-4a2c-b66e-187ebdb4bb0c",
-        "date_posted": 1765783788,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Qualcomm",
-        "id": "c37ecfb4-86ad-407e-9a4d-440a9f840c19",
-        "title": "GPU compiler Engineer - GPU ASICS Engineering",
-        "active": false,
-        "date_updated": 1765783022,
-        "date_posted": 1765783022,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446702921849",
-        "locations": [
-            "Markham, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GoodShip",
-        "id": "01d82d26-2648-4002-afe8-d9fbfbcf4156",
-        "title": "Platform Data Analyst",
-        "active": false,
-        "date_updated": 1765782968,
-        "date_posted": 1765782968,
-        "url": "https://jobs.ashbyhq.com/goodship/68c69cb3-a256-4292-86f5-e027619e0f66/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/GoodShip",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1771250796,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -321,43 +267,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Centene",
-        "id": "e1296237-180a-4687-a790-b6f3be7e78fe",
-        "title": "Data Engineer 1",
-        "active": false,
-        "date_updated": 1765783592,
-        "date_posted": 1765783592,
-        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-WI/Data-Engineer-I_1624077",
-        "locations": [
-            "New Mexico",
-            "Kansas",
-            "Pennsylvania",
-            "Iowa",
-            "Texas",
-            "Florida",
-            "South Carolina",
-            "Georgia",
-            "Tennessee",
-            "Arkansas",
-            "Minnesota",
-            "Utah",
-            "Wisconsin",
-            "North Carolina",
-            "Oklahoma",
-            "Missouri",
-            "Ohio",
-            "Michigan",
-            "Illinois",
-            "Alabama"
-        ],
-        "company_url": "https://simplify.jobs/c/Centene",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -354173,7 +354082,7 @@
         "company_name": "University Corporation for Atmospheric Research",
         "id": "c54b5f31-14c1-42a3-953a-75c4383e6112",
         "title": "Postdoctoral Fellow - Mesoscale and Microscale Meteorology",
-        "active": true,
+        "active": false,
         "date_updated": 1786022694,
         "date_posted": 1785196800,
         "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/MMM-Postdoctoral-Fellow-I_REQ-2026-123",
@@ -358582,7 +358491,7 @@
         "company_name": "BP",
         "id": "c6628942-b621-4a26-9578-7061a45823f4",
         "title": "Supply and Shipping Graduate Program - Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1786151474,
         "date_posted": 1786060800,
         "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/XMLNAME-2027-Supply--Trading--and-Shipping-Graduate-Program_RQ114574",
