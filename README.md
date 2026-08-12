@@ -5,13 +5,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 387 New Grad Roles by Category
+### Browse 385 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (220)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (219)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (6)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (83)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (82)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (18)
 
@@ -637,7 +637,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Software Developer</td>
 <td>Reston, VA</td>
 <td><div align="center"><a href="https://careers.noblis.org/jobs/27467?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a5a4c27f-4bc4-46d6-9141-f486732574b8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NewsBreak?utm_source=GHList&utm_medium=company">NewsBreak</a></strong></td>
@@ -1452,13 +1452,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
-<td>Junior C# Software Engineer 🇺🇸</td>
-<td>Bethesda, MD</td>
-<td><a href="https://caci.wd1.myworkdayjobs.com/en-US/external/job/US-MD-Bethesda/Junior-C--Software-Engineer_324627?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>4mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Berkshire-Hathaway-Energy?utm_source=GHList&utm_medium=company">Berkshire Hathaway Energy</a></strong></td>
 <td>Software Engineer 1 - Automation</td>
 <td><details><summary><strong>6 locations</strong></summary>Salt Lake City, UT</br>Las Vegas, NV</br>Des Moines, IA</br>Richmond, VA</br>Reno, NV</br>Portland, OR</details></td>
@@ -1624,7 +1617,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1180)</summary>
+<summary>🗃️ Inactive roles (1181)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -5421,6 +5414,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong>CAI</strong></td>
 <td>Junior Data Engineer 🛂</td>
 <td>FL</td>
+<td>🔒</td>
+<td>4mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
+<td>Junior C# Software Engineer 🇺🇸</td>
+<td>Bethesda, MD</td>
 <td>🔒</td>
 <td>4mo</td>
 </tr>
@@ -9987,7 +9987,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Product Management Associate - Digital - Early Careers</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Caterpillar-Inc?utm_source=GHList&utm_medium=company">Caterpillar Inc.</a></strong></td>
@@ -10332,13 +10332,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>7d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/M-And-G?utm_source=GHList&utm_medium=company">M&G</a></strong></td>
-<td>Junior Data Scientist - Fraud & AML Monitoring</td>
-<td>Edinburgh, UK</br>Stirling, UK</td>
-<td><div align="center"><a href="https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/Stirling/Fraud---AML-Monitoring-Data-Scientist_R18128?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2520b5bd-5baa-4948-bcfd-432efe07434e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
 <td>Machine Learning Engineer New Grad - Performance Monetization</td>
 <td>San Jose, CA</td>
@@ -10574,7 +10567,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Condition Monitoring and Analytics Engineer</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HRERSU-London-Ludgate/Maintenance-Analytics-Engineer_R0108106?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1596887a-ba5a-46e4-a4b7-8f2310481a83?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/952645e9-bb1d-4691-b9ba-639f5c2c6bec?utm_source=GHList&utm_medium=company">WebFX</a></strong></td>
@@ -10805,7 +10798,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (264)</summary>
+<summary>🗃️ Inactive roles (265)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -10836,6 +10829,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Elanco?utm_source=GHList&utm_medium=company">Elanco</a></strong></td>
 <td>Machine Learning & Computer Vision Scientist - R&D - Junior/Associate 🎓</td>
 <td>Indianapolis, IN</td>
+<td>🔒</td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/M-And-G?utm_source=GHList&utm_medium=company">M&G</a></strong></td>
+<td>Junior Data Scientist - Fraud & AML Monitoring</td>
+<td>Edinburgh, UK</br>Stirling, UK</td>
 <td>🔒</td>
 <td>7d</td>
 </tr>
