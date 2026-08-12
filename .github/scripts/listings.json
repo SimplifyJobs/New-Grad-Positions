@@ -56,43 +56,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "General Motors",
-        "id": "558bd207-685a-4290-b04b-79c1bf802fc9",
-        "title": "Entry Level Mainframe Systems Engineer",
-        "active": false,
-        "date_updated": 1765834013,
-        "date_posted": 1765834013,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Mainframe-Systems-Engineer_JR-202524087",
-        "locations": [
-            "Warren, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AT&T",
-        "id": "6f8d1b00-9b33-4fb4-831e-3da7305063fd",
-        "title": "Senior Member of Technical Staff",
-        "active": false,
-        "date_updated": 1765834204,
-        "date_posted": 1765834204,
-        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Middletown-New-Jersey/Senior-Member-of-Technical-Staff_R-92551",
-        "locations": [
-            "Plano, TX",
-            "Middletown Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/ATT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "BMO ",
         "id": "605316e2-f1f7-4f2b-8ea1-4563e5c44904",
         "title": "Software Engineer",
