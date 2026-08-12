@@ -177532,7 +177532,7 @@
         "company_name": "Rokt",
         "id": "acc77914-fec3-476d-9bcc-0804776e7465",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776378241,
         "date_posted": 1776377502,
         "url": "https://apply.workable.com/rokt/j/783A754DDB/apply",
@@ -217110,7 +217110,7 @@
         "company_name": "Symbotic",
         "id": "7b26d568-7721-45b7-ad28-66f8775408d4",
         "title": "Software Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1779229232,
         "date_posted": 1779228410,
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770",
@@ -265438,7 +265438,7 @@
         "company_name": "The Walt Disney Company",
         "id": "12b0c4cc-55d1-42fd-a6ad-d544d2b42999",
         "title": "Product Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781820801,
         "date_posted": 1781820331,
         "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599",
@@ -326304,7 +326304,7 @@
         "company_name": "AMERICAN SYSTEMS",
         "id": "a029e78c-7d72-46fc-b4a5-4a5168bf7c0d",
         "title": "Java Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784931655,
         "date_posted": 1784930849,
         "url": "https://careers-americansystems.icims.com/jobs/4751/job?mobile=true&needsRedirect=false",
@@ -329210,7 +329210,7 @@
         "company_name": "Turner & Townsend",
         "id": "4c1b6423-4ea3-4413-b34f-bd05d8be2dd3",
         "title": "Digital Construction Project Analyst \u2013 Graduate Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1785190141,
         "date_posted": 1785190091,
         "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000140036207",
@@ -349944,7 +349944,7 @@
         "company_name": "U.S. Bank",
         "id": "f1b2a6dc-bfe8-4dfd-b222-6dc4611dbe51",
         "title": "Cash Forecasting Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785882626,
         "date_posted": 1785801600,
         "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Cash-Forecasting-Data-Analyst---Minneapolis--MN_2026-0022500",
@@ -365194,6 +365194,86 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "16ebb56d-82f2-4cdf-ba74-53426224aac7",
+        "title": "FPGA Engineer 1 - Airborne RF Electronics Design",
+        "active": true,
+        "date_updated": 1786549543,
+        "date_posted": 1786492800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/FPGA-Engineer-I_01866334-1",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "776b2184-8dc2-4958-b964-94a1ee9c9454",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786549544,
+        "date_posted": 1786492800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01865680",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "fc8f90bf-1265-416f-a1d2-b93977214909",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786549175,
+        "date_posted": 1786492800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--Onsite-_01863042",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "6f101397-849a-4dbf-ab58-ae8ee1dd3ab2",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786549178,
+        "date_posted": 1786492800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Software-Engineer-I--Onsite-_01861811",
+        "locations": [
+            "Anaheim, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
