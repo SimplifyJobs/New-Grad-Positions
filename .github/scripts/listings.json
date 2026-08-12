@@ -55,102 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "c1390841-d93c-44d4-982b-0a679faf798f",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1765815392,
-        "date_posted": 1765815392,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7471729",
-        "locations": [
-            "Memphis, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Visa",
-        "id": "47230078-9a36-4f79-b960-71ddab02d312",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1765815582,
-        "date_posted": 1765815582,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000098974315",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "34695ff6-ed6d-404d-92e7-7929649187c8",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1765815447,
-        "date_posted": 1765815447,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043292",
-        "locations": [
-            "Guildford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Google",
-        "id": "641414b2-be58-43ec-9313-0c779f7b28d4",
-        "title": "Signal and Power Integrity Engineer",
-        "active": false,
-        "date_updated": 1765815207,
-        "date_posted": 1765815207,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/126168225606968006",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "991cab9a-2469-4110-828e-b1d0e9143712",
-        "title": "Software Engineer - Entry",
-        "active": false,
-        "date_updated": 1765815708,
-        "date_posted": 1765815708,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/fcf65235-533d-4db4-b9e3-95657145f018/application",
-        "locations": [
-            "Palo Alto, CA",
-            "Boston, MA",
-            "Toronto, ON, Canada",
-            "LA",
-            "Chicago, IL",
-            "NYC",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "WPP Media",
         "id": "279f4f43-0d98-492a-9fc5-853bfb2a5195",
@@ -169,78 +73,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e16d6341-ccc1-4679-944d-1379cdbf36ac",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1765815477,
-        "date_posted": 1765815477,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043300",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "c4e80c16-394e-4f0f-9bf3-74d35b8b8058",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1765815467,
-        "date_posted": 1765815467,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043303",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "37a26267-3f18-46b8-a81b-0abfa9a4fcce",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1765815446,
-        "date_posted": 1765815446,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042944",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "08462ab9-dd19-49be-8934-b2a9a71ace1d",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1765815450,
-        "date_posted": 1765815450,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041931",
-        "locations": [
-            "Brighton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "mthree",
         "id": "585063e9-9a66-4c9e-a73d-4e7c4a7d4934",
@@ -253,42 +85,6 @@
             "Christchurch, UK"
         ],
         "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "NBCUniversal",
-        "id": "4154a5c7-9935-4aac-abce-292d4b67a239",
-        "title": "Analyst \u2013 Data Product Management",
-        "active": false,
-        "date_updated": 1765816163,
-        "date_posted": 1765816163,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000098935120",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qualcomm",
-        "id": "15285081-a634-4f80-a6b3-e49ec2525305",
-        "title": "Software Engineer - Software Engineering",
-        "active": false,
-        "date_updated": 1765815754,
-        "date_posted": 1765815754,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446715747052",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -3876,24 +3672,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Atlas Copco Group",
-        "id": "964e6282-e7bb-4c52-b1d1-2bb90dd08009",
-        "title": "Bench Repair Technician",
-        "active": false,
-        "date_updated": 1766051592,
-        "date_posted": 1765816155,
-        "url": "https://www.careers.homeofindustrialideas.com/job/Louisville,-KY-Bench-Repair-Technician-Kent/1276330901/?ats=successfactors",
-        "locations": [
-            "Louisville, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Atlas-Copco-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "3cbf7709-470c-49e7-8747-4aa79edaf7b3",
@@ -4695,24 +4473,6 @@
             "Edinburgh, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cook Systems",
-        "id": "eca06b9d-5d74-45e1-80c3-7e2d647563f4",
-        "title": "Data Governance Analyst",
-        "active": false,
-        "date_updated": 1766101856,
-        "date_posted": 1765816213,
-        "url": "https://job-boards.greenhouse.io/cooksys/jobs/5034213008",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cook-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -362395,7 +362155,7 @@
         "company_name": "Centene",
         "id": "9225fd35-93df-4625-a758-56df06538350",
         "title": "Automation Engineer - Financial Systems AI",
-        "active": true,
+        "active": false,
         "date_updated": 1786468681,
         "date_posted": 1786406400,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Automation-Engineer---Financial-Systems-AI_1641955-1",
@@ -365274,6 +365034,26 @@
             "Anaheim, CA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HUB International",
+        "id": "b3fb8bfd-7ba5-44b0-bec5-eecb354ef0cc",
+        "title": "Business Intelligence Associate",
+        "active": true,
+        "date_updated": 1786550401,
+        "date_posted": 1786492800,
+        "url": "https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Norwell-MA/Business-Intelligence-Associate_R0038142",
+        "locations": [
+            "Norwell, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/HUB-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
