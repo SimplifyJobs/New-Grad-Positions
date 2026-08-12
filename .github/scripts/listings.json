@@ -56,24 +56,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "mthree",
-        "id": "585063e9-9a66-4c9e-a73d-4e7c4a7d4934",
-        "title": "Junior Software Developer - Bournemouth",
-        "active": false,
-        "date_updated": 1765819014,
-        "date_posted": 1765819014,
-        "url": "https://mthree.com/careers/job/?gh_jid=4625805006",
-        "locations": [
-            "Christchurch, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "General Motors",
         "id": "558bd207-685a-4290-b04b-79c1bf802fc9",
         "title": "Entry Level Mainframe Systems Engineer",
@@ -354875,7 +354857,7 @@
         "company_name": "Intuitive Research and Technology Corporation",
         "id": "3dc95cd5-e52a-45dc-a468-bcd190948f74",
         "title": "Software Engineer - Web Application Team",
-        "active": true,
+        "active": false,
         "date_updated": 1786055603,
         "date_posted": 1785974400,
         "url": "https://intuitive.wd1.myworkdayjobs.com/irtc_careers/job/Huntsville-AL/Entry-Level-Software-Engineer_2627-054",
