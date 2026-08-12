@@ -132481,7 +132481,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -132501,7 +132501,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -364194,5 +364194,495 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Indiana University Foundation",
+        "id": "d1453454-1557-4183-84a3-b86ff98886a6",
+        "title": "Data Services Specialist - Crimson",
+        "active": true,
+        "date_updated": 1786498153,
+        "date_posted": 1786497470,
+        "url": "https://jobs.smartrecruiters.com/IndianaUniversityFoundation/744000140550621",
+        "locations": [
+            "Bloomington, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/dd5d980e-06fc-4231-92d5-55c016ba6696",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "9to9 Software Solutions",
+        "id": "63848af9-c211-4b79-b264-401610b828f6",
+        "title": "Entry Level Java Developer",
+        "active": true,
+        "date_updated": 1786497842,
+        "date_posted": 1786497430,
+        "url": "https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999674047363",
+        "locations": [
+            "Silver Creek, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/8c97e56d-6c04-4843-a6ed-5c094c4d32bc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cohesity",
+        "id": "6ad93ce0-0fca-4ce7-a3be-52c11a1e1d93",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1786498138,
+        "date_posted": 1786406400,
+        "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cohesity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Valeo Foods",
+        "id": "fd61bf7a-2536-4242-9d48-42c4c11f5c44",
+        "title": "Enterprise Applications Developer - Enterprise Applications",
+        "active": true,
+        "date_updated": 1786497301,
+        "date_posted": 1786497227,
+        "url": "https://jobs.smartrecruiters.com/ValeoFoods/744000142617715",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/82c0ecba-c90a-4bd2-a120-d40d9ce857c7",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Valeo Foods",
+        "id": "a8a20ee3-a64f-4803-bb5e-5d77bfb50ff2",
+        "title": "Enterprise Applications Developer - Enterprise Applications",
+        "active": true,
+        "date_updated": 1786497301,
+        "date_posted": 1786497222,
+        "url": "https://jobs.smartrecruiters.com/ValeoFoods/744000142106764",
+        "locations": [
+            "Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/82c0ecba-c90a-4bd2-a120-d40d9ce857c7",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SOSi",
+        "id": "f2c37266-0aea-45bc-b19c-fff00c5e3490",
+        "title": "PeopleSoft Software Developer",
+        "active": true,
+        "date_updated": 1786497877,
+        "date_posted": 1786497207,
+        "url": "https://jobs.smartrecruiters.com/SOSi1/3743990012453536",
+        "locations": [
+            "Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/7fc152f6-8a19-4318-95d4-8225c6738c17",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Symphony",
+        "id": "e605eb24-fccd-40f1-ba50-1d8692ca8ee7",
+        "title": "Application Architect 1",
+        "active": true,
+        "date_updated": 1786497839,
+        "date_posted": 1786497173,
+        "url": "https://jobs.smartrecruiters.com/SymphonyCorp1/96481365",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/b13ac451-a988-492d-b803-45fc233f4d32",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AbbVie",
+        "id": "d77ab18e-96cd-4110-89ca-b38044f2e7d6",
+        "title": "Associate Software Engineer 1",
+        "active": true,
+        "date_updated": 1786497820,
+        "date_posted": 1786497124,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014551564",
+        "locations": [
+            "North Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PaperCut",
+        "id": "213bc9ef-3bbc-4045-9691-800365cf327e",
+        "title": "Associate Support Engineer",
+        "active": true,
+        "date_updated": 1786497301,
+        "date_posted": 1786497177,
+        "url": "https://jobs.smartrecruiters.com/PaperCutSoftware/744000138284139",
+        "locations": [
+            "Bracknell, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/5a3049ed-d867-4efe-add9-1095481ae548",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Ares Management",
+        "id": "ac3540c9-1d7d-4db5-8e5b-f7715040aa63",
+        "title": "Associate \u2013 Liquid Credit Quantitative Risk & Research - Quantitative Risk & Research",
+        "active": true,
+        "date_updated": 1786497301,
+        "date_posted": 1786406400,
+        "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Los-Angeles-CA---Century-City/Associate--Liquid-Credit-Quantitative-Risk---Research_R8318",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/ea25dd6c-f530-49ce-b6aa-60a42ba77d95",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cable One",
+        "id": "8dc4cc87-c1ce-45a8-98aa-3fe037565223",
+        "title": "Business Field Technician",
+        "active": true,
+        "date_updated": 1786497301,
+        "date_posted": 1786406400,
+        "url": "https://cableone.wd1.myworkdayjobs.com/Cable_One_External_Careers/job/Sherman-TX/Business-Field-Technician_R-107293",
+        "locations": [
+            "Sherman, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cable-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Retail Information Systems",
+        "id": "d44d7dc7-8912-4b2f-969c-4ea8f0ba6eab",
+        "title": "Website Designer/Front End Developer",
+        "active": true,
+        "date_updated": 1786496941,
+        "date_posted": 1786496937,
+        "url": "https://jobs.smartrecruiters.com/RetailInformationSystems/84362761",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/3a56153d-9404-4304-9323-bba437445154",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tenergy",
+        "id": "05fb4096-42bc-44ab-8513-7efe70f8585e",
+        "title": "Electronic Manufacturing Assembly Technician",
+        "active": true,
+        "date_updated": 1786497842,
+        "date_posted": 1786496892,
+        "url": "https://jobs.smartrecruiters.com/Tenergy/744000115015847",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/f3a704ce-5b6d-4112-8efd-fc0cb35aa786",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ERPA",
+        "id": "b93029bb-0502-4da5-9050-4b8933270db8",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1786497328,
+        "date_posted": 1786496876,
+        "url": "https://jobs.smartrecruiters.com/ERPAnalysts1/743999677352777",
+        "locations": [
+            "Franklin County, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/ec7489f4-11a8-43a4-bcbe-3c196bed8ff8",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SOCOTEC UK & Ireland",
+        "id": "8f38f561-0d24-49c7-bd14-bfc5f4584ec8",
+        "title": "Hydrographic Surveyor",
+        "active": true,
+        "date_updated": 1786497301,
+        "date_posted": 1786496861,
+        "url": "https://jobs.smartrecruiters.com/SOCOTECUKIreland/744000119193058",
+        "locations": [
+            "Irvine, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/b3808248-28e8-40c9-bcd4-3d442be74f49",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TOMRA",
+        "id": "373503da-6c2b-4f86-9593-05ea22db87af",
+        "title": "Field Service Engineer - London/South East",
+        "active": true,
+        "date_updated": 1786497169,
+        "date_posted": 1786496814,
+        "url": "https://jobs.smartrecruiters.com/Tomra/744000142128330",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/77ff7f71-f8c4-459e-b4ff-ba87c67b2b0d",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "9to9 Software Solutions",
+        "id": "9f3702b3-a0cf-4dc4-b67b-7435571d1648",
+        "title": "Entry Level .NET Developer",
+        "active": true,
+        "date_updated": 1786497164,
+        "date_posted": 1786496810,
+        "url": "https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999674047805",
+        "locations": [
+            "Louisville, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/8c97e56d-6c04-4843-a6ed-5c094c4d32bc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "9to9 Software Solutions",
+        "id": "e5b4ea41-d433-47b9-a9c8-0a104086edca",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1786497153,
+        "date_posted": 1786496807,
+        "url": "https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677209227",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/8c97e56d-6c04-4843-a6ed-5c094c4d32bc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "9to9 Software Solutions",
+        "id": "7c378aeb-7ed5-4825-a428-ffb19f70e2fe",
+        "title": "Entry Level Software Developer",
+        "active": true,
+        "date_updated": 1786497147,
+        "date_posted": 1786496809,
+        "url": "https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677188473",
+        "locations": [
+            "Copperhill, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/8c97e56d-6c04-4843-a6ed-5c094c4d32bc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "9to9 Software Solutions",
+        "id": "5ccab6b5-7969-43fe-9774-e707fa607b1b",
+        "title": "Entry Level Java Developer",
+        "active": true,
+        "date_updated": 1786496941,
+        "date_posted": 1786496808,
+        "url": "https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677209089",
+        "locations": [
+            "Elk Grove, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/8c97e56d-6c04-4843-a6ed-5c094c4d32bc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "9to9 Software Solutions",
+        "id": "59cc82e3-db3c-47e2-aabd-88480b1db02a",
+        "title": "Java Developer",
+        "active": true,
+        "date_updated": 1786497152,
+        "date_posted": 1786496810,
+        "url": "https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999674047567",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/8c97e56d-6c04-4843-a6ed-5c094c4d32bc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "9to9 Software Solutions",
+        "id": "13719d38-34eb-47e9-93f0-7b6571a6375e",
+        "title": "Entry Level Software Developer",
+        "active": true,
+        "date_updated": 1786497147,
+        "date_posted": 1786496809,
+        "url": "https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999674053935",
+        "locations": [
+            "Randolph AFB, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/8c97e56d-6c04-4843-a6ed-5c094c4d32bc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Mission Critical Group",
+        "id": "bc7ec67d-b90c-4476-80dd-7e357f83419d",
+        "title": "Electrical Tester",
+        "active": true,
+        "date_updated": 1786496941,
+        "date_posted": 1786496784,
+        "url": "https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990014519011",
+        "locations": [
+            "Brookston, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/ba276133-bc4b-45d6-9e8c-dc1898592417",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Mission Critical Group",
+        "id": "5a84d639-5972-4516-8cf1-b8acaa725ed9",
+        "title": "Production Technician - Integrated Solutions",
+        "active": true,
+        "date_updated": 1786496941,
+        "date_posted": 1786496785,
+        "url": "https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990014301486",
+        "locations": [
+            "West Chester, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/ba276133-bc4b-45d6-9e8c-dc1898592417",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ADGA Group Consultants",
+        "id": "2eef5f32-71a5-46ef-905c-f3f27a079722",
+        "title": "Electronics Technician - Archambault - Sadp",
+        "active": true,
+        "date_updated": 1786497118,
+        "date_posted": 1786496790,
+        "url": "https://jobs.smartrecruiters.com/ADGAGroupConsultantsInc1/744000130269637",
+        "locations": [
+            "Sainte-Anne-des-Plaines, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/69a6850d-3ee8-4af0-9d0d-be159f8e8609",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
