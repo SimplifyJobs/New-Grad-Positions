@@ -206835,7 +206835,7 @@
         "company_name": "Mastercard",
         "id": "c3250137-008d-4db4-9bef-fdf8b14174c8",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1778279273,
         "date_posted": 1778278172,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-277898",
@@ -313307,7 +313307,7 @@
         "company_name": "Northrop Grumman",
         "id": "e58e9be4-b693-4e36-809b-f4abf0d467c5",
         "title": "Principal Engineer Electronics",
-        "active": true,
+        "active": false,
         "date_updated": 1784616304,
         "date_posted": 1783166333,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Principal-Engineer-Electronics_R10234539",
@@ -364684,5 +364684,208 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "fd15571c-45e4-401e-a770-63dbf731403c",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Mall - PhD",
+        "active": true,
+        "date_updated": 1786498381,
+        "date_posted": 1786498237,
+        "url": "https://lifeattiktok.com/search/7672883737036654853",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "d97157b9-8f0c-4cfb-be47-a801be8548ae",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation",
+        "active": true,
+        "date_updated": 1786498381,
+        "date_posted": 1786498238,
+        "url": "https://lifeattiktok.com/search/7672882500030138629",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "cde17d88-b571-4ece-be7c-9bd87c212bce",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation - PhD",
+        "active": true,
+        "date_updated": 1786498381,
+        "date_posted": 1786498243,
+        "url": "https://lifeattiktok.com/search/7672877778696407301",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "b22a26e1-15a6-4e32-89fb-f2378da11dd1",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation - PhD",
+        "active": true,
+        "date_updated": 1786498381,
+        "date_posted": 1786498240,
+        "url": "https://lifeattiktok.com/search/7672879948538284341",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "511e7c10-e092-4a5a-8187-fe5563536b99",
+        "title": "AI Infrastructure Engineer Graduate - Recommendation & LLM",
+        "active": true,
+        "date_updated": 1786498397,
+        "date_posted": 1786498242,
+        "url": "https://lifeattiktok.com/search/7672654026594093317",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "408e20cf-c3dc-45af-b899-339fc8e2925a",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation",
+        "active": true,
+        "date_updated": 1786498381,
+        "date_posted": 1786498240,
+        "url": "https://lifeattiktok.com/search/7672880386574338309",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "07c10a29-94ab-4223-bb97-af5572d30bc6",
+        "title": "AI Infrastructure Engineer Graduate - Recommendation & LLM",
+        "active": true,
+        "date_updated": 1786498398,
+        "date_posted": 1786498243,
+        "url": "https://lifeattiktok.com/search/7672656091025066293",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adobe",
+        "id": "b62dcf53-f9ca-48c0-aeea-39de27c89b8f",
+        "title": "Photoshop Developer - GPU/Imaging",
+        "active": true,
+        "date_updated": 1786498222,
+        "date_posted": 1786406400,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Photoshop-Developer--GPU-Imaging_R171014",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "San Jose, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "9fbb930f-34ce-45eb-818b-c842d3a2f8c9",
+        "title": "Reliability Engineer 2",
+        "active": true,
+        "date_updated": 1786498224,
+        "date_posted": 1786406400,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-II-Reliability_R3501-26",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "4d3ab974-20ec-4bd2-b8a8-97cbce8f7cae",
+        "title": "Configuration Data Management Controller 1 - Scheduling",
+        "active": true,
+        "date_updated": 1786498225,
+        "date_posted": 1786497994,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-CONFIG-DATA-MGMT-CNTRLR-1-Virg/1418492800/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
