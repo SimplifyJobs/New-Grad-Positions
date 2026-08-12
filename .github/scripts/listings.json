@@ -217259,7 +217259,7 @@
         "company_name": "Topsort",
         "id": "bb22da28-39ba-49a3-8a1f-e68a24250bc1",
         "title": "Product Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779229441,
         "date_posted": 1773354630,
         "url": "https://job-boards.greenhouse.io/topsort/jobs/4829841008",
@@ -292041,7 +292041,7 @@
         "company_name": "Northrop Grumman",
         "id": "78a1a51e-7c5a-49ae-909c-fe53612553e2",
         "title": "Associate Cyber Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783550370,
         "date_posted": 1783549093,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/R10206390-22026-Associate-Cyber-Software-Engineer---Chantilly-VA_R10236425",
@@ -299443,7 +299443,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -323640,7 +323640,7 @@
         "company_name": "Verizon Communications",
         "id": "e6cfe600-230b-48b7-ba94-ac7e34e8e0cd",
         "title": "Engineer 1 - Systems Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1784846776,
         "date_posted": 1784764800,
         "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I---Systems-Engineering_R-1097946",
@@ -336330,7 +336330,7 @@
         "company_name": "Axos Bank",
         "id": "002edf7c-6a14-4eb5-ac0e-eea3094b22f4",
         "title": "AI Engineer - Consumer IT AI Team",
-        "active": true,
+        "active": false,
         "date_updated": 1785450998,
         "date_posted": 1785369600,
         "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA--AI-Engineer_JR5108-1",
@@ -366195,5 +366195,226 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Matter",
+        "id": "2b8eaba7-6f38-4420-a729-c5e420e4ae70",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1786575259,
+        "date_posted": 1786575205,
+        "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5375987008",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Matter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "5d07aedb-f343-4842-96e9-3e56d3f4586a",
+        "title": "Validation Engineer 1",
+        "active": true,
+        "date_updated": 1786575102,
+        "date_posted": 1786492800,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--Validation_R3512-26",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "d3c098a3-25fd-4752-926c-073c5ef98949",
+        "title": "AI Software Engineer - Aht",
+        "active": true,
+        "date_updated": 1786575093,
+        "date_posted": 1786492800,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Associate-AI-Software-Engineer--AI-Software-Engineer--AHT-_R10245469",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "47db7b74-b29c-4098-9e87-68af93ab3843",
+        "title": "Associate Software Engineer/Software Engineer - Associate Engineer Software (T01) - Engineer Software (T02)",
+        "active": true,
+        "date_updated": 1786575092,
+        "date_posted": 1786492800,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10245233",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "State Street",
+        "id": "b05649ee-4731-41d9-9b2a-2be57e93cab3",
+        "title": "Full Stack Software Engineer - Officer",
+        "active": true,
+        "date_updated": 1786574701,
+        "date_posted": 1786492800,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Full-Stack-Software-Engineer--Officer_R-792060",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uniswap",
+        "id": "ec8d7f8d-2154-4e58-bc3d-7413c3536d43",
+        "title": "Software Engineer - Early Career",
+        "active": true,
+        "date_updated": 1786574997,
+        "date_posted": 1786574694,
+        "url": "https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Uniswap",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Pikeville",
+        "id": "a2b9bd58-76d2-4518-8aa2-3328919a2073",
+        "title": "Admissions Data Communications Assistant",
+        "active": true,
+        "date_updated": 1786574984,
+        "date_posted": 1786574683,
+        "url": "https://upike.bamboohr.com/careers/464/",
+        "locations": [
+            "Pikeville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/3ff34a66-5376-4805-977f-32d0b7c61b05",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ByteDance",
+        "id": "c64805ee-9f23-4a5f-8ee4-84449bbe7334",
+        "title": "ASIC Design Engineer Graduate - Video Silicon IP",
+        "active": true,
+        "date_updated": 1786574701,
+        "date_posted": 1786574612,
+        "url": "https://jobs.bytedance.com/en/position/7670331401866692917/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "71404970-dab6-40df-a5ea-ecf213a2d44e",
+        "title": "Research Scientist Graduate - Foundation Model-Speech-Interaction & Learning",
+        "active": true,
+        "date_updated": 1786574701,
+        "date_posted": 1786574609,
+        "url": "https://jobs.bytedance.com/en/position/7671032227920431413/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Qualitest",
+        "id": "b33fa758-d4c8-4640-85da-da02274308ba",
+        "title": "Data Collection Associate 1 - Sector",
+        "active": true,
+        "date_updated": 1786574905,
+        "date_posted": 1786574614,
+        "url": "https://careers.quality-ai.com/job/Santa-Clara-SECTOR-DATA-COLLECTION-ASSOCIATE-I-CA-95054/58803144/?ats=successfactors",
+        "locations": [
+            "Burlingame, CA",
+            "Santa Clara, CA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualitest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rocket Lab USA",
+        "id": "9eeb571e-079e-492d-84f7-49d9ddf5a00d",
+        "title": "Flight Software Engineer 1",
+        "active": true,
+        "date_updated": 1786574199,
+        "date_posted": 1786574025,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7830196003",
+        "locations": [
+            "Littleton, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
