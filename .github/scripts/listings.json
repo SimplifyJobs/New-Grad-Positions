@@ -295205,7 +295205,7 @@
         "company_name": "Alkira",
         "id": "f5d0810b-8d0e-4bee-b85c-e93f19ab3aef",
         "title": "Software Engineer - Datapath",
-        "active": false,
+        "active": true,
         "date_updated": 1783678321,
         "date_posted": 1783548695,
         "url": "https://alkira.bamboohr.com/careers/232/",
@@ -299774,7 +299774,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -327188,7 +327188,7 @@
         "company_name": "AMERICAN SYSTEMS",
         "id": "e10bad19-fd9e-4db1-b106-ff3fc338a92b",
         "title": "Java Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784932275,
         "date_posted": 1784930848,
         "url": "https://careers-americansystems.icims.com/jobs/4686/job?mobile=true&needsRedirect=false",
@@ -343919,7 +343919,7 @@
         "company_name": "Ludlum Measurement, Inc (VPI Technology, ADIT, Eljen, WTM, Protean Instr)",
         "id": "74cd9509-accc-467b-8bda-e05f70b0b588",
         "title": "Calibrator",
-        "active": true,
+        "active": false,
         "date_updated": 1785738601,
         "date_posted": 1785737786,
         "url": "https://vpitechnology.applytojob.com/apply/h864JPWnOQ/Calibrator",
@@ -364980,5 +364980,44 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NCR Voyix",
+        "id": "e7d0aae9-2ca4-431b-b8e6-429e06f9ca43",
+        "title": "Field Service Technician",
+        "active": true,
+        "date_updated": 1786542841,
+        "date_posted": 1783158717,
+        "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/WISCONSIN-VIRTUAL-USA/Field-Service-Technician---Chicago-IL_JR2604086",
+        "locations": [
+            "Green Bay, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/NCR-Voyix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Abbott",
+        "id": "b6b3d7a4-ef99-4d90-b54e-4875edd95d12",
+        "title": "Associate Software Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1786543021,
+        "date_posted": 1786060800,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Texas---Irving/Associate-Software-Engineer_31158107",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
     }
 ]
