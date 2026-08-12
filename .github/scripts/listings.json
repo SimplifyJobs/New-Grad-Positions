@@ -302227,7 +302227,7 @@
         "company_name": "moo",
         "id": "6654bd72-f018-4dc9-b60f-bd2691289b7a",
         "title": "E-commerce Product Enablement Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1784125264,
         "date_posted": 1784124581,
         "url": "https://jobs.lever.co/moo/920ec01a-af4f-4ef3-86db-decf2ef52b7d/apply",
@@ -354572,7 +354572,7 @@
         "company_name": "L3Harris Technologies",
         "id": "223fbdf3-1b1a-4d1e-b9c7-de2234eec1d6",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786054277,
         "date_posted": 1786053911,
         "url": "https://jobs.l3harris.com/job/Lynchburg-Associate,-Software-Engineering-VA-24501-6952/1416807700/?ats=successfactors",
@@ -354940,7 +354940,7 @@
         "company_name": "Varian",
         "id": "13462fe8-303b-4665-a38c-530e0eaee368",
         "title": "Floor Assembly Technician - Electronic",
-        "active": true,
+        "active": false,
         "date_updated": 1786055943,
         "date_posted": 1785974400,
         "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/RKF-C/Floor-Assembly-Technician--Electronic_R-29888",
@@ -364817,6 +364817,106 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Radius Limited",
+        "id": "5c60a2fc-e21d-48d2-9b21-f326f7d56df9",
+        "title": "Graduate Mobile Developer - Vehicle Telematics",
+        "active": true,
+        "date_updated": 1786525742,
+        "date_posted": 1786525714,
+        "url": "https://jobs.smartrecruiters.com/RadiusLimited/744000143047509",
+        "locations": [
+            "Crewe, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Radius-Limited",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Egis Group",
+        "id": "200023b2-37a6-4db5-bc0b-5797ff5d057f",
+        "title": "Transportation Planning Analyst",
+        "active": true,
+        "date_updated": 1786526462,
+        "date_posted": 1786151241,
+        "url": "https://jobs.smartrecruiters.com/EgisGroup/744000142940909",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Egis-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Barrios",
+        "id": "248bd865-39b3-4dab-8ccf-6a8fed297dc7",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1786526641,
+        "date_posted": 1786140365,
+        "url": "https://careers-barrios.icims.com/jobs/2840/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Barrios",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "1eec26e4-90a7-468f-9d99-e40cacb9badd",
+        "title": "Data Knowledge System Research Scientist Graduate - Data Platform-Global Live",
+        "active": true,
+        "date_updated": 1786526462,
+        "date_posted": 1781503906,
+        "url": "https://lifeattiktok.com/search/7628363726332102965",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "0cbe5f0d-bc44-4b45-85bb-9272f05546e8",
+        "title": "Research Scientist - Seed AI Foundation Model Infrastructure",
+        "active": true,
+        "date_updated": 1786525401,
+        "date_posted": 1780610903,
+        "url": "https://jobs.bytedance.com/en/position/7623552015124154629/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
