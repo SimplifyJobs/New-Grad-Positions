@@ -11567,24 +11567,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "NBCUniversal",
-        "id": "2c7914b0-309a-4cf2-87e5-545923ec3781",
-        "title": "Associate Engineer - Ride & Show Engineering - AVP','UK Project",
-        "active": false,
-        "date_updated": 1765795840,
-        "date_posted": 1765795840,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000094177066",
-        "locations": [
-            "Bedford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "The Boeing Company",
         "id": "3616f8b2-17da-4478-b31d-35503346b871",
         "title": "Systems Engineer",
@@ -354531,7 +354513,7 @@
         "company_name": "L3Harris Technologies",
         "id": "7a9a8488-ebdf-443f-be57-b5d15352b5ab",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786054284,
         "date_posted": 1786053911,
         "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1416808900/?ats=successfactors",
@@ -364917,6 +364899,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Abbott",
+        "id": "656014ab-4409-4e99-a202-5cf3956fd828",
+        "title": "Associate Software Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1786532221,
+        "date_posted": 1786060800,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Irving/Associate-Software-Engineer_31158107-1",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
