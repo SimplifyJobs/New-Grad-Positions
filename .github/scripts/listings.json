@@ -131878,7 +131878,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -131898,7 +131898,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -152315,7 +152315,7 @@
         "company_name": "Fortinet",
         "id": "2cffa18e-22e5-404c-959e-db78d84ecbda",
         "title": "Applied AI Engineer - AI Agent",
-        "active": false,
+        "active": true,
         "date_updated": 1775038587,
         "date_posted": 1770851386,
         "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22125",
@@ -299498,7 +299498,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -302078,7 +302078,7 @@
         "company_name": "Cisco",
         "id": "7a41b37b-bd8a-4927-901d-15da9744cdcf",
         "title": "Failure Analysis Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784154435,
         "date_posted": 1784153503,
         "url": "https://careers.cisco.com/global/en/job/2018947",
@@ -347069,7 +347069,7 @@
         "company_name": "Dentsu",
         "id": "41dcbd2d-ff0f-4725-8209-42186f975167",
         "title": "Analyst Customer Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1785796285,
         "date_posted": 1785715200,
         "url": "https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/USA---Remote---Maryland/Analyst--Customer-Analytics_R1128737",
@@ -365023,5 +365023,336 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vector Atomic",
+        "id": "4b6397d8-4d17-49a1-b825-b676fb076798",
+        "title": "Associate Firmware Engineer - Firmware",
+        "active": true,
+        "date_updated": 1786566329,
+        "date_posted": 1786566116,
+        "url": "https://apply.workable.com/vectoratomic/j/00C9C6A8E4/apply",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/81b7347c-6f3c-4003-b760-6040a00dc293",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rivian",
+        "id": "822f1eb7-1954-46e9-9418-471fd96a9db7",
+        "title": "Field Service Technician - Night Shift - Mobile",
+        "active": true,
+        "date_updated": 1786566064,
+        "date_posted": 1786565956,
+        "url": "https://careers.rivian.com/jobs/32888?icims=1",
+        "locations": [
+            "Fort Myers, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Motors",
+        "id": "b9f974bd-1020-49a6-bb58-787fba5d9e9e",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1786566168,
+        "date_posted": 1786492800,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202616904",
+        "locations": [
+            "Warren, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Securian Financial Group",
+        "id": "61b8359d-6611-4e4e-af7f-469b630f576e",
+        "title": "Engineering Analyst",
+        "active": true,
+        "date_updated": 1786566064,
+        "date_posted": 1786492800,
+        "url": "https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Engineering-Analyst_R-010805",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Securian-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Seminole Hard Rock",
+        "id": "52261b01-fe13-4f5f-841f-237821728f26",
+        "title": "Slot Technician 1",
+        "active": true,
+        "date_updated": 1786566154,
+        "date_posted": 1786492800,
+        "url": "https://seminolehardrock.wd503.myworkdayjobs.com/seminolehardrockcareers/job/Seminole-Casino-Coconut-Creek/Slot-Technician---Slot-Operations_R9298",
+        "locations": [
+            "Coconut Creek, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Seminole-Hard-Rock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Seagate Technology ",
+        "id": "27f47499-66c7-4824-95ed-b65a16d3438a",
+        "title": "Firmware Engineer",
+        "active": true,
+        "date_updated": 1786566139,
+        "date_posted": 1786565899,
+        "url": "https://seagatecareers.com/job/Longmont-Firmware-Engineer-Early-Career-CO-80501/1418862200/?ats=successfactors",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Seagate-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hawk-Eye Innovations",
+        "id": "8920f306-23e6-4b89-8c63-10d1855d6a97",
+        "title": "Assistant Replay Operator / VARDict Graphics Operator",
+        "active": true,
+        "date_updated": 1786565988,
+        "date_posted": 1786565613,
+        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/560fbfd9-b4a4-45b1-bc0b-6551ba294043/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hawk-Eye Innovations",
+        "id": "4adedb1c-f646-45c1-873f-d94e442704be",
+        "title": "Football Tracking Systems Operator - Remote Operations Centre",
+        "active": true,
+        "date_updated": 1786565704,
+        "date_posted": 1786565615,
+        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/8dda0b7b-5e67-450b-b281-76aa9949f460/application?embed=true",
+        "locations": [
+            "Basingstoke, UK",
+            "Southampton, UK",
+            "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blue Cross Blue Shield of Michigan",
+        "id": "fdbb71b9-2bde-4620-96a8-cf21416b73f0",
+        "title": "Analyst Trainee - Analyst Development Program",
+        "active": true,
+        "date_updated": 1786565809,
+        "date_posted": 1786565480,
+        "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14581",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Cross-Blue-Shield-Of-Michigan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brookhaven Lab",
+        "id": "b3ec6c7c-0342-406c-93c4-b515bb2ac4a4",
+        "title": "Goldhaber Fellow",
+        "active": true,
+        "date_updated": 1786565524,
+        "date_posted": 1786492800,
+        "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Goldhaber-Fellow_JR102637",
+        "locations": [
+            "Upton, Brookhaven, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Mobile",
+        "id": "49a0cdeb-234c-424e-bf83-6b00a8e87119",
+        "title": "Associate Engineer - Software",
+        "active": true,
+        "date_updated": 1786565860,
+        "date_posted": 1786492800,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Assoc-Engineer--Software_REQ367425-1",
+        "locations": [
+            "Frisco, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vermeer",
+        "id": "511c058d-0063-4ff8-90ca-fcb6498715ee",
+        "title": "Welder",
+        "active": true,
+        "date_updated": 1786565654,
+        "date_posted": 1786565367,
+        "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Griswold-Iowa-USA/Welder--Day-shift-_REQ-21654",
+        "locations": [
+            "Griswold, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vermeer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adtheorant",
+        "id": "372f372c-0cb0-4da1-b114-ad5a3fcd5869",
+        "title": "Yield Analyst",
+        "active": true,
+        "date_updated": 1786565352,
+        "date_posted": 1786565317,
+        "url": "https://careers-cadent.icims.com/jobs/1405/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Adtheorant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hyster-Yale Materials Handling",
+        "id": "cc0e0d67-c2d5-49a9-92d7-2911fd78c22d",
+        "title": "Technical Specialist 1",
+        "active": true,
+        "date_updated": 1786565476,
+        "date_posted": 1786492800,
+        "url": "https://hysteryale.wd1.myworkdayjobs.com/hyster-yalecareers/job/HY-US-Berea-KY/Technical-Specialist-I_R8291",
+        "locations": [
+            "Berea, KY",
+            "Greenville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Hyster-Yale-Materials-Handling",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Integration Innovation (i3)",
+        "id": "97058eb6-70e5-40db-8c64-0391a99980ec",
+        "title": "Associate Software Developer - COMPASS",
+        "active": true,
+        "date_updated": 1786565231,
+        "date_posted": 1786565176,
+        "url": "https://careers-i3-corps.icims.com/jobs/5211/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/I3",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Avride",
+        "id": "222bc1be-86a8-4989-8020-76600d3c138b",
+        "title": "Robot Service Technician - Full Time/Contract",
+        "active": true,
+        "date_updated": 1786566064,
+        "date_posted": 1782772623,
+        "url": "https://job-boards.greenhouse.io/avride/jobs/4301492009",
+        "locations": [
+            "Bowling Green, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Avride",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Avride",
+        "id": "4e235a85-38e2-44d3-95ae-9085a3444a85",
+        "title": "Robot Service Technician",
+        "active": true,
+        "date_updated": 1786566064,
+        "date_posted": 1780438843,
+        "url": "https://job-boards.greenhouse.io/avride/jobs/4267526009",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Avride",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
