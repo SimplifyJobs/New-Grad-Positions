@@ -359497,7 +359497,7 @@
         "company_name": "Medtronic",
         "id": "a5b1d7a6-f70b-415f-ad22-5d9d5d254bdd",
         "title": "Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786388842,
         "date_posted": 1786320000,
         "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Technician-I_R74148",
@@ -365018,6 +365018,46 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Accor",
+        "id": "0851fc6b-1c4f-4253-ac73-ddfffddd4f69",
+        "title": "Revenue Management Product and Services Trainee",
+        "active": true,
+        "date_updated": 1786543630,
+        "date_posted": 1786543526,
+        "url": "https://jobs.smartrecruiters.com/AccorCorpo/744000143079294",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "a83af7c2-9a81-4585-acbf-ed85d2dc627d",
+        "title": "Software Engineer 2 - Wireless Platform",
+        "active": true,
+        "date_updated": 1786544502,
+        "date_posted": 1786487036,
+        "url": "https://careers.cisco.com/global/en/job/2022718",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
