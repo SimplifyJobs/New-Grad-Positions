@@ -5,7 +5,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 388 New Grad Roles by Category
+### Browse 389 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (222)
 
@@ -15,7 +15,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (18)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (59)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (60)
 
 💼 **[Other](#-other-new-grad-roles)** (0)
 
@@ -13045,6 +13045,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Mach-Industries?utm_source=GHList&utm_medium=company">Mach Industries</a></strong></td>
+<td>Software Engineer New Grad - Software - GNC</td>
+<td>Huntington Beach, CA</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f2a032d3-8549-4c56-895d-10d70eec9514?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Oracle?utm_source=GHList&utm_medium=company">🔥 Oracle</a></strong></td>
 <td>Systems Software Engineer 1 - Cloud Infrastructure</td>
