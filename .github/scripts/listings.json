@@ -221005,7 +221005,7 @@
         "company_name": "Mohawk",
         "id": "8e92cf55-3c25-413d-b10e-ac04e651a21e",
         "title": "Master Data Coordinator",
-        "active": false,
+        "active": true,
         "date_updated": 1779819667,
         "date_posted": 1778922340,
         "url": "https://careers.mohawkind.com/job/Dalton-Master-Data-Coordinator-Geor-30721/1385035600/?ats=successfactors",
@@ -336640,7 +336640,7 @@
         "company_name": "Chickasaw Nation Industries",
         "id": "2c650681-005d-4288-b77d-4e7670c5c27b",
         "title": "Electronics Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785535999,
         "date_posted": 1785456000,
         "url": "https://cni.wd503.myworkdayjobs.com/CNI/job/Charleston-SC/Electronics-Technician-I_R9304",
@@ -367000,6 +367000,109 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "87d3b674-66f6-4a43-b3c8-765da738bad1",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1786630904,
+        "date_posted": 1786630765,
+        "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1419017400/?ats=successfactors",
+        "locations": [
+            "Greenville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Renesas Electronics",
+        "id": "446febb4-b44b-4e23-bd24-9d5be19954c1",
+        "title": "Application Engineer - Performance Computing Power Application Engineering",
+        "active": true,
+        "date_updated": 1786630501,
+        "date_posted": 1786630390,
+        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143318619",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/f7c0d1a7-f01c-48a8-91e8-2a920da18607",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NV5 Global",
+        "id": "91681369-da1d-4342-b7a9-1067c212abe1",
+        "title": "GIS Specialist - Multiple Levels",
+        "active": true,
+        "date_updated": 1786630141,
+        "date_posted": 1786630065,
+        "url": "https://careers-nv5.icims.com/jobs/12490/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/NV5-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Renesas Electronics",
+        "id": "1f8e4468-cfb9-4773-8eff-5deb0dfd3370",
+        "title": "AI Compiler Engineer",
+        "active": true,
+        "date_updated": 1786630044,
+        "date_posted": 1786629875,
+        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143317369",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/f7c0d1a7-f01c-48a8-91e8-2a920da18607",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TRIMEDX",
+        "id": "be93461b-6a60-4a5d-b44b-bd7b5b06958a",
+        "title": "Imaging Engineer 1",
+        "active": true,
+        "date_updated": 1786629811,
+        "date_posted": 1785801600,
+        "url": "https://trimedx.wd1.myworkdayjobs.com/TMX/job/Norfolk-VA/Imaging-Engineer-I_R14640",
+        "locations": [
+            "Norfolk, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/TRIMEDX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
