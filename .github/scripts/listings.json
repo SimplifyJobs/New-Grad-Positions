@@ -111968,7 +111968,7 @@
         "company_name": "ByteDance",
         "id": "9ce90e03-8ea6-48e7-8d5d-82a2de684e34",
         "title": "Graduate Research Engineer - Seed Infra",
-        "active": true,
+        "active": false,
         "date_updated": 1773092290,
         "date_posted": 1773092290,
         "url": "https://jobs.bytedance.com/en/position/7610599648994265397/detail",
@@ -242982,7 +242982,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -298482,7 +298482,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -333000,7 +333000,7 @@
         "company_name": "The Boeing Company",
         "id": "ed847441-9d11-4dc7-aa8a-8a2e49fdbc90",
         "title": "Software Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785364561,
         "date_posted": 1785283200,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Colorado-Springs-CO/Software-Systems-Engineer--Associate-or-Experienced-_JR2026520215",
@@ -366125,5 +366125,708 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Domino's",
+        "id": "d6f1c4bc-48d4-4d20-83d8-238e6d7afed9",
+        "title": "Delivery Driver",
+        "active": true,
+        "date_updated": 1786603321,
+        "date_posted": 1786603245,
+        "url": "https://jobs.smartrecruiters.com/Dominos/744000141160129",
+        "locations": [
+            "Burlington, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/cebac501-53bb-47bc-870d-b9212c81436f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Domino's",
+        "id": "e38bc325-348a-4c2d-83db-ea52520367fc",
+        "title": "Assistant Manager",
+        "active": true,
+        "date_updated": 1786603321,
+        "date_posted": 1786602939,
+        "url": "https://jobs.smartrecruiters.com/Dominos/744000142338987",
+        "locations": [
+            "Burlington, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/cebac501-53bb-47bc-870d-b9212c81436f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Domino's",
+        "id": "9e297b16-0d19-47d0-8b0f-d0fe1e5b9ed0",
+        "title": "Customer Service Representative",
+        "active": true,
+        "date_updated": 1786603419,
+        "date_posted": 1786602820,
+        "url": "https://jobs.smartrecruiters.com/Dominos/744000142481704",
+        "locations": [
+            "Burlington, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/cebac501-53bb-47bc-870d-b9212c81436f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "United Smart Tech",
+        "id": "397206bf-1d9c-42ad-ab36-b7e8d541ad2b",
+        "title": "Smartphone Repair Technician",
+        "active": true,
+        "date_updated": 1786603373,
+        "date_posted": 1786602586,
+        "url": "https://unitedsmarttech.bamboohr.com/careers/37/",
+        "locations": [
+            "Victoria, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/307e83e6-c400-49a8-bd86-f9021ec6c1ee",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Selector Software",
+        "id": "ea47b81d-38b4-4c79-b7a8-d4b98cd222bc",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1786603129,
+        "date_posted": 1786602304,
+        "url": "https://selectorsoftware.bamboohr.com/careers/193/",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/aff9d645-8a81-4378-82e2-51422dbc7296",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Version 1",
+        "id": "ea544e9d-654b-4fd3-80f7-6c7cebe89cc1",
+        "title": "Oracle Cloud Consultant Trainee",
+        "active": true,
+        "date_updated": 1786603117,
+        "date_posted": 1786602298,
+        "url": "https://jobs.smartrecruiters.com/Version1/744000142863154",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/827e0522-cb41-4d21-9da5-6c0bbc400b56",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Options Technology",
+        "id": "03d4d191-5eff-4bbf-a18a-a070843036a0",
+        "title": "PHP/SQL Web Developer - Options Market Data Team",
+        "active": true,
+        "date_updated": 1786602781,
+        "date_posted": 1786602280,
+        "url": "https://optionsit.bamboohr.com/careers/121/",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/884ab7bd-6e92-46b4-8ddd-1a1b90e52bbf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "BinSentry",
+        "id": "b29cd866-dfcc-413e-ab93-0139e86d076f",
+        "title": "Electronic Assembler",
+        "active": true,
+        "date_updated": 1786602781,
+        "date_posted": 1786602270,
+        "url": "https://binsentry.bamboohr.com/careers/279/",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/e676ff94-2cda-4946-a9cd-b844095c6112",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "BinSentry",
+        "id": "0c0f9b3d-3595-41d8-ab66-e5a09f90b22d",
+        "title": "Field Technician",
+        "active": true,
+        "date_updated": 1786603063,
+        "date_posted": 1786602261,
+        "url": "https://binsentry.bamboohr.com/careers/273/",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/e676ff94-2cda-4946-a9cd-b844095c6112",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "BinSentry",
+        "id": "4d5d5c21-e1fa-400c-ac5f-1c51fb3a10cf",
+        "title": "Field Technician",
+        "active": true,
+        "date_updated": 1786603056,
+        "date_posted": 1786602256,
+        "url": "https://binsentry.bamboohr.com/careers/246/",
+        "locations": [
+            "Springfield, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/e676ff94-2cda-4946-a9cd-b844095c6112",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Picton Mahoney Asset Management",
+        "id": "626ecf45-a7a7-4ebc-aeb8-fe97ed05b66b",
+        "title": "Associate \u2013 Trading Strategy",
+        "active": true,
+        "date_updated": 1786602781,
+        "date_posted": 1786602216,
+        "url": "https://pictonmahoney.bamboohr.com/careers/371/",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/0b130d09-83d1-4945-9831-e3f64b0a608f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dubak Electrical",
+        "id": "439db226-5008-4056-b059-4050d7dd34ee",
+        "title": "Electrical Prefabrication Technician - Prefab Shop",
+        "active": true,
+        "date_updated": 1786602781,
+        "date_posted": 1786602208,
+        "url": "https://dubak.bamboohr.com/careers/300/",
+        "locations": [
+            "La Grange Park, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/5306c9e9-ca8c-42ad-9435-1b677b1c0966",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "dcbel Inc",
+        "id": "1a7c6a9c-0eb2-4e5b-b0a1-345fc1d5569d",
+        "title": "Electromechanical Assembler",
+        "active": true,
+        "date_updated": 1786602781,
+        "date_posted": 1786602181,
+        "url": "https://dcbel.bamboohr.com/careers/242/",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/54b6c844-ef07-45c2-b3aa-0455a20ceaa4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adidev Technologies Inc",
+        "id": "ddbc3338-08db-4c93-9c6d-d0a88e19b684",
+        "title": "iOS Developer",
+        "active": true,
+        "date_updated": 1786602944,
+        "date_posted": 1786602150,
+        "url": "https://adidev.bamboohr.com/careers/34/",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/e66083e1-642f-4541-a560-d257eee7e11d",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adidev Technologies Inc",
+        "id": "aa257799-08d3-405b-b906-58d61f43af09",
+        "title": "Mobile Developer - iOS/Android",
+        "active": true,
+        "date_updated": 1786602942,
+        "date_posted": 1786602153,
+        "url": "https://adidev.bamboohr.com/careers/44/",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/e66083e1-642f-4541-a560-d257eee7e11d",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adidev Technologies Inc",
+        "id": "2bba0fd8-a19f-4bc4-be98-e3237e625a1a",
+        "title": "Android Developer",
+        "active": true,
+        "date_updated": 1786602781,
+        "date_posted": 1786602153,
+        "url": "https://adidev.bamboohr.com/careers/27/",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/e66083e1-642f-4541-a560-d257eee7e11d",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apollo Mission Critical Engineering",
+        "id": "7fa184d8-1d6e-474e-afac-7571cf147fe7",
+        "title": "Software Engineering Associate - Software Development Associate",
+        "active": true,
+        "date_updated": 1786602781,
+        "date_posted": 1786602116,
+        "url": "https://apollomce.bamboohr.com/careers/96/",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/ab101a23-aaac-46e2-8608-2aa5cb4fb0ac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "PHIHONG USA",
+        "id": "53dd3daa-13cd-4e52-b973-fb3582e01fda",
+        "title": "Firmware Engineer",
+        "active": true,
+        "date_updated": 1786602781,
+        "date_posted": 1786602118,
+        "url": "https://phihong.bamboohr.com/careers/446/",
+        "locations": [
+            "Bohemia, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/c65ed994-e89d-426d-9f41-373ac5c1817e",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Apollo Mission Critical Engineering",
+        "id": "1c88f911-2f0f-4b1b-9b29-04f75ea42543",
+        "title": "Business & Data Analyst",
+        "active": true,
+        "date_updated": 1786602781,
+        "date_posted": 1786602110,
+        "url": "https://apollomce.bamboohr.com/careers/121/",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/ab101a23-aaac-46e2-8608-2aa5cb4fb0ac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Epos Now Group",
+        "id": "670d458a-456d-4e42-8032-bcf187bd3649",
+        "title": "Software Engineer 3",
+        "active": true,
+        "date_updated": 1786602832,
+        "date_posted": 1786602082,
+        "url": "https://eposnowgroup.bamboohr.com/careers/567/",
+        "locations": [
+            "Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/82c265ae-a8ed-4b97-99fb-21ec5570f7dc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "United Smart Tech",
+        "id": "d2d19916-92f8-4ebb-914e-9f19ac003896",
+        "title": "Field Technician - Mobile Repairs",
+        "active": true,
+        "date_updated": 1786602244,
+        "date_posted": 1786602084,
+        "url": "https://unitedsmarttech.bamboohr.com/careers/196/",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/307e83e6-c400-49a8-bd86-f9021ec6c1ee",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "United Smart Tech",
+        "id": "2fd8f741-3b7d-4a3e-a247-af84535dec8f",
+        "title": "Computer Repair Technician",
+        "active": true,
+        "date_updated": 1786602244,
+        "date_posted": 1786602057,
+        "url": "https://unitedsmarttech.bamboohr.com/careers/144/",
+        "locations": [
+            "Garland, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/307e83e6-c400-49a8-bd86-f9021ec6c1ee",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "United Smart Tech",
+        "id": "b474536e-7b80-4d89-b044-2ed89e89523e",
+        "title": "Field Technician - Mobile Repairs",
+        "active": true,
+        "date_updated": 1786602244,
+        "date_posted": 1786602071,
+        "url": "https://unitedsmarttech.bamboohr.com/careers/195/",
+        "locations": [
+            "Mishawaka, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/307e83e6-c400-49a8-bd86-f9021ec6c1ee",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "United Smart Tech",
+        "id": "6456cb00-c80b-4d75-9b58-cd6eb84efa2d",
+        "title": "Field Technician - Mobile Repairs",
+        "active": true,
+        "date_updated": 1786602244,
+        "date_posted": 1786602061,
+        "url": "https://unitedsmarttech.bamboohr.com/careers/38/",
+        "locations": [
+            "Flowood, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/307e83e6-c400-49a8-bd86-f9021ec6c1ee",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "United Smart Tech",
+        "id": "05af1047-7680-4628-b07a-4f46fee4e9d7",
+        "title": "Field Technician - Mobile Repairs",
+        "active": true,
+        "date_updated": 1786602244,
+        "date_posted": 1786602059,
+        "url": "https://unitedsmarttech.bamboohr.com/careers/156/",
+        "locations": [
+            "Midland, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/307e83e6-c400-49a8-bd86-f9021ec6c1ee",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Smart Tech",
+        "id": "5669b0ee-2c91-48c1-a10f-9014661b589c",
+        "title": "AI Engineer - Agents & Experimentation",
+        "active": true,
+        "date_updated": 1786602244,
+        "date_posted": 1786602065,
+        "url": "https://unitedsmarttech.bamboohr.com/careers/185/",
+        "locations": [
+            "Carrollton, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/307e83e6-c400-49a8-bd86-f9021ec6c1ee",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "United Smart Tech",
+        "id": "ce08b5c1-e516-4712-8628-9fdb658538b6",
+        "title": "Field Technician - Mobile Repairs",
+        "active": true,
+        "date_updated": 1786602244,
+        "date_posted": 1786602061,
+        "url": "https://unitedsmarttech.bamboohr.com/careers/175/",
+        "locations": [
+            "Spring Hill, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/307e83e6-c400-49a8-bd86-f9021ec6c1ee",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "United Smart Tech",
+        "id": "f37e4777-f679-47e0-aabd-74e9c9273ff9",
+        "title": "Field Technician - Mobile Repairs",
+        "active": true,
+        "date_updated": 1786602244,
+        "date_posted": 1786602052,
+        "url": "https://unitedsmarttech.bamboohr.com/careers/82/",
+        "locations": [
+            "Coppell, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/307e83e6-c400-49a8-bd86-f9021ec6c1ee",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "United Smart Tech",
+        "id": "fba06d69-bf35-4948-9299-c9e2d7ea5916",
+        "title": "Field Technician - Mobile Repairs",
+        "active": true,
+        "date_updated": 1786602244,
+        "date_posted": 1786602060,
+        "url": "https://unitedsmarttech.bamboohr.com/careers/101/",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/307e83e6-c400-49a8-bd86-f9021ec6c1ee",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "United Smart Tech",
+        "id": "d0fa3b7e-4cc7-46d0-a329-5a22938e3fa5",
+        "title": "Field Technician - Mobile Repairs",
+        "active": true,
+        "date_updated": 1786602244,
+        "date_posted": 1786602062,
+        "url": "https://unitedsmarttech.bamboohr.com/careers/176/",
+        "locations": [
+            "Tomball, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/307e83e6-c400-49a8-bd86-f9021ec6c1ee",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "United Smart Tech",
+        "id": "be5cf299-ca63-4bd1-bd3c-76e57f016b32",
+        "title": "Field Technician - Mobile Repairs",
+        "active": true,
+        "date_updated": 1786602244,
+        "date_posted": 1786602049,
+        "url": "https://unitedsmarttech.bamboohr.com/careers/35/",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/307e83e6-c400-49a8-bd86-f9021ec6c1ee",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ConeTec Group",
+        "id": "c28ceb25-26bc-4b87-a21a-1eee0450081b",
+        "title": "Field Engineer/Field Geologist",
+        "active": true,
+        "date_updated": 1786602244,
+        "date_posted": 1786602035,
+        "url": "https://conetec.bamboohr.com/careers/599/",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/7f8eb848-d85a-4e81-a868-71f51b1ea392",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ConeTec Group",
+        "id": "d08e06ee-dc58-4192-98ea-f189a88a6db2",
+        "title": "Field Geologist/Engineer",
+        "active": true,
+        "date_updated": 1786602244,
+        "date_posted": 1786602029,
+        "url": "https://conetec.bamboohr.com/careers/309/",
+        "locations": [
+            "Richmond, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/7f8eb848-d85a-4e81-a868-71f51b1ea392",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wells Fargo",
+        "id": "9c83300a-9501-4cca-badb-b4fc91213274",
+        "title": "Quantitative Analytics Program - Risk Analytics and Decision Science",
+        "active": true,
+        "date_updated": 1786602635,
+        "date_posted": 1786579200,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Program---Risk-Analytics-and-Decision-Science--PhD----Early-Careers_R-568247",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Wells Fargo",
+        "id": "8a6343a9-f416-4241-9451-0fabca5ffd7d",
+        "title": "Quantitative Analytics Program - Multiple Teams",
+        "active": true,
+        "date_updated": 1786602636,
+        "date_posted": 1786579200,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Program-Capital-Markets--Masters----Early-Careers_R-568263",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Wells Fargo",
+        "id": "2e43afe6-aa19-4f66-a85e-dfdfbe4c1b7a",
+        "title": "Quantitative Analytics Program - Multiple Teams",
+        "active": true,
+        "date_updated": 1786602642,
+        "date_posted": 1786579200,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Program-Capital-Markets--PhD----Early-Careers_R-568266",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wells Fargo",
+        "id": "19c23080-5f10-41a8-810d-f634d37307d6",
+        "title": "Quantitative Analytics Program - Multiple Teams",
+        "active": true,
+        "date_updated": 1786602636,
+        "date_posted": 1786579200,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Program---Risk-Analytics-and-Decision-Science--Masters----Early-Careers_R-568204",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
