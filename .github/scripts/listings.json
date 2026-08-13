@@ -152806,7 +152806,7 @@
         "company_name": "SpaceX",
         "id": "073680fb-3eed-416f-ae24-d456e0992130",
         "title": "Hardware Engineer - Gateways & Customer Hardware",
-        "active": true,
+        "active": false,
         "date_updated": 1775092501,
         "date_posted": 1775092349,
         "url": "https://boards.greenhouse.io/spacex/jobs/8490691002",
@@ -294661,7 +294661,7 @@
         "company_name": "Globus Medical",
         "id": "364449cf-2409-40fe-b5f2-16e3e661425c",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1783721524,
         "date_posted": 1783641600,
         "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/ASSOCIATE-PRODUCT-MANAGER_JR107245",
@@ -362249,7 +362249,7 @@
         "company_name": "Comcast",
         "id": "37ebdda5-8386-4e92-a6b2-867a679464ad",
         "title": "Software Engineer 1 - Software Development & Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786487723,
         "date_posted": 1786406400,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R442528",
@@ -365560,6 +365560,26 @@
             "Littleton, CO"
         ],
         "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CaseGuard",
+        "id": "13540a7a-3ab0-4bde-ae75-edcab7f4406f",
+        "title": "Data Annotation Specialist",
+        "active": true,
+        "date_updated": 1784816822,
+        "date_posted": 1784815939,
+        "url": "https://job-boards.greenhouse.io/caseguard/jobs/5037116008",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CaseGuard",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
