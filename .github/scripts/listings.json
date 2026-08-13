@@ -334332,7 +334332,7 @@
         "company_name": "SHI International ",
         "id": "77bd97ad-8146-4b4e-b9a6-89568b4953af",
         "title": "Pubsec Project Administrator",
-        "active": true,
+        "active": false,
         "date_updated": 1785449162,
         "date_posted": 1785369600,
         "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/Somerset-NJ-USA/PubSec-Project-Administrator_JR3464",
@@ -352474,7 +352474,7 @@
         "company_name": "Entegris",
         "id": "04dde68e-0670-48ff-928c-22569068305f",
         "title": "Junior AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786055215,
         "date_posted": 1785974400,
         "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Specialist--AI-Engineer_REQ-13744",
@@ -366864,6 +366864,26 @@
             "Goleta, CA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "8e8f913d-4263-4281-9cf3-3e083858cf58",
+        "title": "Software Research and Development Engineer - Applied Research Laboratory",
+        "active": true,
+        "date_updated": 1786652300,
+        "date_posted": 1786579200,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Software-Research-and-Development-Engineer_REQ_0000080402-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
