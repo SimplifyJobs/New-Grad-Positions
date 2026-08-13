@@ -130862,7 +130862,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -130882,7 +130882,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -361754,7 +361754,7 @@
         "company_name": "Reliance",
         "id": "46ef73eb-48ac-4b4f-b57e-f88f4c490e1d",
         "title": "AI Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786486332,
         "date_posted": 1786486148,
         "url": "https://careers.reliance.com/jobs/3330?icims=1",
@@ -365755,5 +365755,375 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "6052a761-2d5c-44a7-a666-f6975df25f03",
+        "title": "Entry Level Java Developer Associate",
+        "active": true,
+        "date_updated": 1786601701,
+        "date_posted": 1786601623,
+        "url": "https://jobs.smartrecruiters.com/AccentureFederalServices/78366121",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "44352150-beb1-4841-b767-18cd1d30802a",
+        "title": "Entry Level SAP Development Associate",
+        "active": true,
+        "date_updated": 1786601701,
+        "date_posted": 1786601623,
+        "url": "https://jobs.smartrecruiters.com/AccentureFederalServices/78366098",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "0e951ce4-39c4-46ef-ab06-3c7ed19fd9af",
+        "title": "Software Engineering Associate",
+        "active": true,
+        "date_updated": 1786601701,
+        "date_posted": 1786601620,
+        "url": "https://jobs.smartrecruiters.com/AccentureFederalServices/78253961",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Senior plc",
+        "id": "6816846d-7ef1-442a-917c-eb58c6465ccc",
+        "title": "Metal Fitter C",
+        "active": true,
+        "date_updated": 1786602065,
+        "date_posted": 1786601585,
+        "url": "https://jobs.smartrecruiters.com/SeniorPlc1/3743990013943237",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/c2b9dbf1-e767-4eeb-83d0-ca79d33eb4aa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mapjects",
+        "id": "d99737b4-325b-4453-aa8c-35b6468d5695",
+        "title": "MicroStrategy Developer",
+        "active": true,
+        "date_updated": 1786601985,
+        "date_posted": 1786601555,
+        "url": "https://jobs.smartrecruiters.com/Mapjectscom/79514410",
+        "locations": [
+            "Fairfax, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ce6999fa-8beb-4188-8597-dde954784ea9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bertelsmann",
+        "id": "a130e5be-c526-4b85-ae10-f74e89883404",
+        "title": "Data Center Installer",
+        "active": true,
+        "date_updated": 1786601701,
+        "date_posted": 1786601548,
+        "url": "https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000142896247",
+        "locations": [
+            "Cumming, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/d34adb0b-4154-4882-a9b9-34624d681042",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dunn Solutions Group",
+        "id": "919e3428-c805-4f21-9770-29a36d2ce524",
+        "title": "Java Developer",
+        "active": true,
+        "date_updated": 1786601701,
+        "date_posted": 1786601535,
+        "url": "https://jobs.smartrecruiters.com/DunnSolutionsGroup/88312248",
+        "locations": [
+            "Skokie, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/304ef95a-d14e-48ad-931c-49b4d1d2b3e9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dunn Solutions Group",
+        "id": "04471955-54a1-4da0-8036-fc2b9f5c143a",
+        "title": "Big Data BI Consultant",
+        "active": true,
+        "date_updated": 1786601701,
+        "date_posted": 1786601534,
+        "url": "https://jobs.smartrecruiters.com/DunnSolutionsGroup/88312432",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/304ef95a-d14e-48ad-931c-49b4d1d2b3e9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dunn Solutions Group",
+        "id": "a812bd9c-30db-4395-9348-62781c4a750d",
+        "title": "Java Developer",
+        "active": true,
+        "date_updated": 1786601701,
+        "date_posted": 1786601535,
+        "url": "https://jobs.smartrecruiters.com/DunnSolutionsGroup/88657218",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/304ef95a-d14e-48ad-931c-49b4d1d2b3e9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dunn Solutions Group",
+        "id": "067a35d4-40e1-4bbd-9e22-956a8a7ec3ad",
+        "title": "Java Developer",
+        "active": true,
+        "date_updated": 1786601701,
+        "date_posted": 1786601533,
+        "url": "https://jobs.smartrecruiters.com/DunnSolutionsGroup/88657168",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/304ef95a-d14e-48ad-931c-49b4d1d2b3e9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Caterpillar Inc.",
+        "id": "2e0a26da-0658-48f4-9f9c-de44b039d4e1",
+        "title": "Electrical Assembler 1 - Electric Power",
+        "active": true,
+        "date_updated": 1786601601,
+        "date_posted": 1786579200,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Griffin-Georgia/Electrical-Assembler-I---Electric-Power_R0000388260",
+        "locations": [
+            "Griffin, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gartner",
+        "id": "5c436bc1-72a2-4053-b21c-fed118fb02c9",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1786601594,
+        "date_posted": 1786579200,
+        "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Associate-Data-Scientist---Spring-2027-Master-s-level-graduates_113311",
+        "locations": [
+            "Stamford, CT",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Gartner",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gartner",
+        "id": "5494c5a6-9c5b-48aa-9cdf-859763fa973a",
+        "title": "Associate Data Analyst - Insights and Product Analytics",
+        "active": true,
+        "date_updated": 1786601591,
+        "date_posted": 1786579200,
+        "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Data-Analyst---2026-2027-graduates_112849",
+        "locations": [
+            "Stamford, CT",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Gartner",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citizens Financial Group",
+        "id": "85a7cdca-c4d0-43be-a530-3d9273287d69",
+        "title": "AI Software Engineer 1",
+        "active": true,
+        "date_updated": 1786601408,
+        "date_posted": 1786601290,
+        "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/48633",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Citizens-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "bet365",
+        "id": "f64c3bfd-2bbf-4ac1-a8a4-01cbc8c1d0fe",
+        "title": "Trading Assistant - Regulations",
+        "active": true,
+        "date_updated": 1786601161,
+        "date_posted": 1786601093,
+        "url": "https://jobs.smartrecruiters.com/Bet3651/744000142006139",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/013fef2a-3fd2-4005-9f42-ee739b5685ac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Software Management",
+        "id": "83e5f99f-6e49-4381-89a9-4fc236a7e536",
+        "title": "Business Analyst/Data Analyst",
+        "active": true,
+        "date_updated": 1786601325,
+        "date_posted": 1786601099,
+        "url": "https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000124033874",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/0be69685-1595-4ed1-96f8-06b66c33a032",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RRS Group",
+        "id": "805b92cc-0b70-4df6-8457-953d09c9aa22",
+        "title": "Associate Data Scientist New Grad",
+        "active": true,
+        "date_updated": 1786601338,
+        "date_posted": 1786601105,
+        "url": "https://jobs.smartrecruiters.com/RRSGroup/744000134688049",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/aef9724c-a5e1-43bf-ab08-dfeae35aff9b",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sigla",
+        "id": "2d60016e-8a05-4302-bd2c-db0a3f11fe99",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1786601161,
+        "date_posted": 1786601060,
+        "url": "https://jobs.smartrecruiters.com/SiglaLLC/743999662580203",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/9ba952e1-9fcb-4753-a4d6-9248d2f90159",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Presidency Solutions",
+        "id": "1e5ab0ea-1864-4dac-b3a0-480ec705e25b",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1786601221,
+        "date_posted": 1786601041,
+        "url": "https://jobs.smartrecruiters.com/PresidencySolutions1/82551703",
+        "locations": [
+            "Farmington Hills, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/95dc66b5-00e5-44db-b3df-1f7550d6ddbe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
