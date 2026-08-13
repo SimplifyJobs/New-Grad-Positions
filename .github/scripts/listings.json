@@ -54,78 +54,6 @@
         "degrees": []
     },
     {
-        "date_updated": 1765901414,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.baesystems.com/global/en/job/BAE1US119273BREXTERNAL/Entry-Level-Software-Engineer",
-        "company_name": "BAE Systems",
-        "title": "Entry Level Software Engineer",
-        "locations": [
-            "Greenlawn, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "9a86364c-b451-4519-90de-7aa43e7c9e18",
-        "date_posted": 1765901414,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1767713003,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://encore.wd1.myworkdayjobs.com/confidential/job/CA---San-Diego/Software-Engineer_HR-19575-2",
-        "company_name": "Encore Capital Group",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "2557817a-960e-4e25-b1ff-fc1a147d6d4c",
-        "date_posted": 1765902060,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1766399636,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://morningstar.wd5.myworkdayjobs.com/confidential/job/Chicago/Associate-Software-Engineer_REQ-054479-2",
-        "company_name": "Morningstar",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "0cb08fe2-e679-4a04-9a86-4cabde181ed8",
-        "date_posted": 1765902221,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ec55f686-fcfd-4f3d-9d21-8b0c3a9f478c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1765901730,
-        "date_posted": 1765901730,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043407",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Argonne National Laboratory",
@@ -139,44 +67,6 @@
             "Woodridge, IL"
         ],
         "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Warner Bros.",
-        "id": "3bd8b6d7-1be6-4213-93c1-6c986f572019",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1765901621,
-        "date_posted": 1765901621,
-        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Associate-Software-Engineer_R000101226",
-        "locations": [
-            "Burbank, CA",
-            "NYC",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Warner-Bros",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nidec",
-        "id": "2819130b-531f-4677-8d7a-4a9962eb4de6",
-        "title": "Sales & Pricing Analyst",
-        "active": false,
-        "date_updated": 1765901579,
-        "date_posted": 1765901579,
-        "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMinnesotaEden-Prairie-MN/Sales---Pricing-Analyst_R0013020",
-        "locations": [
-            "Eden Prairie, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Nidec",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -237,78 +127,6 @@
             "Bachelor's",
             "Certificate"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Google",
-        "id": "896cf800-a20e-4a61-83ee-2d37dfa000bf",
-        "title": "Product Manager 1 - Youtube Youth - Trust and Safety",
-        "active": false,
-        "date_updated": 1765901710,
-        "date_posted": 1765901710,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/124603036445090502",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "6551602c-9594-4ed3-99b0-e1bb29a27df8",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1765901731,
-        "date_posted": 1765901731,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043388",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "373c5c22-ba35-45a0-bf9b-19881dcad64e",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1765901729,
-        "date_posted": 1765901729,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043409",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2af0c5f8-e787-4c5e-b09b-1ee321792fd7",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1765901727,
-        "date_posted": 1765901727,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043410",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -3992,24 +3810,6 @@
             "Elmhurst, IL"
         ],
         "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "25260598-0034-4439-bf76-19d0773a8ce6",
-        "title": "Electronics Technician",
-        "active": false,
-        "date_updated": 1766141420,
-        "date_posted": 1765901553,
-        "url": "https://jobs.l3harris.com/job/Amityville-Electronics-Technician-NY-11701/1350028200/?ats=successfactors",
-        "locations": [
-            "Wantagh, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -19489,26 +19289,6 @@
             "St Paul, MN"
         ],
         "company_url": "https://simplify.jobs/c/Travelers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "931e69b1-127b-452e-a0f0-d05508cfc061",
-        "title": "ASIC FPGA Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1767915301,
-        "date_posted": 1765902081,
-        "url": "https://careers-gdms.icims.com/jobs/70009/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Bloomington, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -298331,7 +298111,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -346474,7 +346254,7 @@
         "company_name": "Perry Homes",
         "id": "467851ae-af4e-4819-ae09-1cdbd0290f82",
         "title": "Data and Reporting Intern",
-        "active": true,
+        "active": false,
         "date_updated": 1785824943,
         "date_posted": 1785824197,
         "url": "https://apply.workable.com/perryhomes/j/65C2ED2361/apply",
@@ -365922,7 +365702,7 @@
         "company_name": "RRS Group",
         "id": "805b92cc-0b70-4df6-8457-953d09c9aa22",
         "title": "Associate Data Scientist New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1786601338,
         "date_posted": 1786601105,
         "url": "https://jobs.smartrecruiters.com/RRSGroup/744000134688049",
