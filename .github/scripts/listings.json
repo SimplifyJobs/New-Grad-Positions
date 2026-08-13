@@ -54,24 +54,6 @@
         "degrees": []
     },
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Safelite",
-        "id": "3775dbc6-90f2-4798-b66d-2bd95e9efaf2",
-        "title": "Auto Glass Technician Trainee",
-        "active": false,
-        "date_updated": 1765891542,
-        "date_posted": 1765891542,
-        "url": "https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/SPRINGDALE-AR/Auto-Glass-Technician-Trainee_JR63270",
-        "locations": [
-            "Springdale, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/Safelite",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1771250796,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -130752,7 +130734,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -130772,7 +130754,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -268811,7 +268793,7 @@
         "company_name": "Four Hands",
         "id": "e2d23a33-2859-4e62-a5a1-9d2672ebeb4e",
         "title": "Software Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1782426622,
         "date_posted": 1782426326,
         "url": "https://job-boards.greenhouse.io/fourhands/jobs/4297618009",
@@ -322467,7 +322449,7 @@
         "company_name": "WSP",
         "id": "c2567c1b-f496-475c-89ca-09b9817084df",
         "title": "Early Professional - Geochemistry",
-        "active": true,
+        "active": false,
         "date_updated": 1784846702,
         "date_posted": 1784844738,
         "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91284",
@@ -328050,7 +328032,7 @@
         "company_name": "Stifel",
         "id": "f59ab29a-8362-482a-8cfb-4f96dd409f77",
         "title": "Advisory Trading Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785190681,
         "date_posted": 1785190343,
         "url": "https://careers-stifel.icims.com/jobs/9660/job?mobile=true&needsRedirect=false",
@@ -332849,7 +332831,7 @@
         "company_name": "The Boeing Company",
         "id": "bd7f525a-663f-495e-b1ab-c7120399fe97",
         "title": "Software Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785364561,
         "date_posted": 1785283200,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Software-Systems-Engineer--Associate-or-Experienced-_JR2026520215-1",
@@ -344580,7 +344562,7 @@
         "company_name": "Xcellent Technology Solutions",
         "id": "f9623735-52b0-4633-a58e-f6eaacdc6c33",
         "title": "Operational GEOINT Analyst - Imagery - OPIR",
-        "active": false,
+        "active": true,
         "date_updated": 1785754621,
         "date_posted": 1785737810,
         "url": "https://xtscareers.applytojob.com/apply/u1yXswwTvu/Operational-GEOINT-Analyst-Imagery-OPIR-TSSCI-With-CI-Poly",
@@ -362293,7 +362275,7 @@
         "company_name": "Deloitte",
         "id": "f8b7d1d3-92c0-4cb3-a9d7-9d11187c69cd",
         "title": "Delivery Analyst - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1786487569,
         "date_posted": 1786487049,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Tech-Package-Solutions/362522",
@@ -366954,6 +366936,66 @@
             "Monroe Township, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Canon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASML",
+        "id": "ac60519a-2ba3-4ffd-9d17-4549eb3809ae",
+        "title": "Upgrade Install and Relocation Engineer - Duv",
+        "active": true,
+        "date_updated": 1786626361,
+        "date_posted": 1785801600,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Upgrade-Install-and-Relocation-Engineer_J-00349541-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ASML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "fe92a675-1a53-4b88-a3e3-7e810871610d",
+        "title": "Research Scientist Graduate - Seed Vision Foundation Model",
+        "active": true,
+        "date_updated": 1786627261,
+        "date_posted": 1780610908,
+        "url": "https://jobs.bytedance.com/en/position/7623543228228536581/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "f1916feb-f156-4153-baa5-e26c75d5ae6f",
+        "title": "Research Scientist - Seed Large Language Model",
+        "active": true,
+        "date_updated": 1786626563,
+        "date_posted": 1780610920,
+        "url": "https://jobs.bytedance.com/en/position/7623536303630469381/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
