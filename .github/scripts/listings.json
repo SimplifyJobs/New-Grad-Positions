@@ -55,99 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "66c72c4f-5b11-475e-a1fd-37a11cb915e9",
-        "title": "Predoctoral Appointee - Machine Learning",
-        "active": false,
-        "date_updated": 1765903181,
-        "date_posted": 1765903181,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Predoctoral-Appointee---Machine-Learning_421538",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Genuine Parts Company",
-        "id": "eb325d35-a864-4728-9b25-c28c8d010218",
-        "title": "Motion Ai-Service Technician",
-        "active": false,
-        "date_updated": 1765903554,
-        "date_posted": 1765903554,
-        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Buffalo-NY-USA/Motion-Ai--Service-Technician_R25_0000044146",
-        "locations": [
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Accenture",
-        "id": "54c1733a-b7ef-4d8f-8abc-01ec20513a04",
-        "title": "Digital Content Management Analyst",
-        "active": false,
-        "date_updated": 1765904427,
-        "date_posted": 1765904427,
-        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belen/Digital-Marketing-Advisor_R00302637",
-        "locations": [
-            "Norfolk, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Accenture-FS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Philips",
-        "id": "854115e2-778e-4dbd-92d0-1214044bbc34",
-        "title": "Systems Engineer",
-        "active": false,
-        "date_updated": 1765903856,
-        "date_posted": 1765903856,
-        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Gainesville/Systems-Engineer_568730-1",
-        "locations": [
-            "Gainesville, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Aerospace",
-        "id": "d1817f16-d61b-4a7f-94f3-9df1685baab0",
-        "title": "Engineer \u2013 Software",
-        "active": false,
-        "date_updated": 1765903412,
-        "date_posted": 1765903412,
-        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Cheltenham/Engineer---Software_R5024861",
-        "locations": [
-            "Gloucester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Aerospace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "e6a74097-7991-4958-b004-45b6faeda382",
@@ -9928,24 +9835,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "CoreWeave",
-        "id": "ce129c00-0d5b-46c8-b9d3-b45c3f5ff297",
-        "title": "Data Center Technician - Hillsboro - OR",
-        "active": false,
-        "date_updated": 1765903392,
-        "date_posted": 1765903392,
-        "url": "https://coreweave.com/careers/job?4626180006&board=coreweave&gh_jid=4626180006",
-        "locations": [
-            "Hillsboro, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/CoreWeave",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Stanley Black & Decker",
         "id": "040fa9f6-5e38-4f0e-aadd-f18d1849e60d",
         "title": "Service Technician",
@@ -10890,7 +10779,7 @@
         "company_name": "Axis Automation",
         "id": "67694007-fa7e-43a8-85b0-7a3eae7efe01",
         "title": "Controls Electrician",
-        "active": true,
+        "active": false,
         "date_updated": 1765989964,
         "date_posted": 1765989964,
         "url": "https://job-boards.greenhouse.io/axiscompany/jobs/8343454002",
@@ -364734,7 +364623,7 @@
         "company_name": "RTX",
         "id": "658a13ea-b5ac-44e8-956b-e0b5c96e3d2d",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786572522,
         "date_posted": 1786492800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I_01865652",
