@@ -206106,7 +206106,7 @@
         "company_name": "RTX",
         "id": "9cf6befe-5806-49aa-aed1-c3765502fb5b",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778539071,
         "date_posted": 1778537443,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595",
@@ -270575,7 +270575,7 @@
         "company_name": "Verkada",
         "id": "1eb8fd7b-2d9d-4f3c-9937-ef5672811b54",
         "title": "Hardware Engineering Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1782426586,
         "date_posted": 1782425704,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/5174431007",
@@ -366884,6 +366884,148 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ManTech",
+        "id": "6753f099-9106-4840-b725-97e422c72cb4",
+        "title": "Associate BI Analytics Engineer",
+        "active": true,
+        "date_updated": 1786660046,
+        "date_posted": 1786659846,
+        "url": "https://mantech.avature.net/en_US/careers/JobDetail/64747",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ManTech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Loblaw Companies",
+        "id": "d6ec6bbc-1f36-4ef8-a6f4-b82799397768",
+        "title": "Front-End Developer",
+        "active": true,
+        "date_updated": 1786659841,
+        "date_posted": 1786579200,
+        "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Front-End-Developer--DX-Studio---18-Month-Contract_R2000692440",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Quantum",
+        "id": "cb243aa3-0969-4c76-a554-9495b06509f9",
+        "title": "Graduate Data Engineer",
+        "active": true,
+        "date_updated": 1786659481,
+        "date_posted": 1786659472,
+        "url": "https://jobs.ashbyhq.com/quantum/4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Quantum-Media",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AIR Control Concepts",
+        "id": "b82ebee3-b9ea-4a22-b498-9b803e53e092",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1786659481,
+        "date_posted": 1786659438,
+        "url": "https://aircontrolconcepts.applytojob.com/apply/0mgWNmp2sM/Application-Engineer",
+        "locations": [
+            "Elkridge, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/493f21e3-b1b8-44a5-b871-554dd2960398",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ChowBus",
+        "id": "a06fff13-7f57-418b-8a60-089543530e70",
+        "title": "Test Operator",
+        "active": true,
+        "date_updated": 1786659565,
+        "date_posted": 1786659415,
+        "url": "https://job-boards.greenhouse.io/chowbus/jobs/7865931003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/ChowBus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "WorldQuant",
+        "id": "203b29e3-691b-4bd0-b6b9-67ee0cd10daf",
+        "title": "Quantitative Developer - Portfolio Management Solutions",
+        "active": true,
+        "date_updated": 1786659481,
+        "date_posted": 1786659311,
+        "url": "https://job-boards.greenhouse.io/worldquant/jobs/4700347006",
+        "locations": [
+            "Connecticut",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/WorldQuant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Moder",
+        "id": "697a7a47-3323-4501-9dbf-6d8163142a26",
+        "title": "Deployment Associate - Fast Forward",
+        "active": true,
+        "date_updated": 1786659481,
+        "date_posted": 1786579200,
+        "url": "https://archwellessentials.wd1.myworkdayjobs.com/modercareers/job/Conshohocken-PA/Deployment-Associate--Fast-Forward_JR107239",
+        "locations": [
+            "Conshohocken, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Moder",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
