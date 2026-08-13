@@ -55,80 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "f0bab965-a781-406a-84ce-7a1af4db890b",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1765869376,
-        "date_posted": 1765869376,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89571716016",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "8c008053-8b6d-45dc-b343-934fa1783546",
-        "title": "Softare Engineer 1",
-        "active": false,
-        "date_updated": 1765869375,
-        "date_posted": 1765869375,
-        "url": "https://jobs.intuit.com/job/mountain-view/softare-engineer-1/27595/89568852704",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "1ac9cbab-38da-4a81-bcaa-1aba87f91ae2",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1765869363,
-        "date_posted": 1765869363,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89571715968",
-        "locations": [
-            "NYC",
-            "Mountain View, CA",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "dc50e619-dd10-4750-a395-bc387ab07362",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1765869372,
-        "date_posted": 1765869372,
-        "url": "https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/89571716080",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Medtronic",
         "id": "21ea3d17-9d33-4c2d-9a49-b6460fa89fa8",
@@ -337427,7 +337353,7 @@
         "company_name": "PAR Tech",
         "id": "ef8d130b-1326-4187-8092-6cc5136573e9",
         "title": "Electronic Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785539536,
         "date_posted": 1785536717,
         "url": "https://jobs.ashbyhq.com/PAR%20Technology/f3f29cb3-42ce-4836-a616-08d693e4b88b/application?embed=true",
@@ -353363,7 +353289,7 @@
         "company_name": "Northrop Grumman",
         "id": "ddc01ed7-cfd1-4e3a-916f-9cf150b54963",
         "title": "Associate Software Engineer - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786056330,
         "date_posted": 1785974400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer_R10244219",
