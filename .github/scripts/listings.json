@@ -189793,7 +189793,7 @@
         "company_name": "ByteDance",
         "id": "56c56225-9bfe-4b36-952b-d2b4a874a11e",
         "title": "Software Development Engineer - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1777280942,
         "date_posted": 1777280818,
         "url": "https://jobs.bytedance.com/en/position/7631372899367340293/detail",
@@ -335219,7 +335219,7 @@
         "company_name": "Bank of Montreal",
         "id": "2ef7a6e8-176c-4ebb-ad45-119ab4534b9f",
         "title": "Software Developer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1785451016,
         "date_posted": 1785369600,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222",
@@ -354094,7 +354094,7 @@
         "company_name": "CONEXON",
         "id": "4f98a5a0-f900-434e-9015-2ce4cbc87417",
         "title": "Fiber Optic Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786083841,
         "date_posted": 1778543778,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4160617",
@@ -356912,7 +356912,7 @@
         "company_name": "L3Harris Technologies",
         "id": "5758b587-5d39-4b73-8bb5-2d965c5e2d83",
         "title": "Associate Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786169177,
         "date_posted": 1786168995,
         "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1417294200/?ats=successfactors",
@@ -360729,7 +360729,7 @@
         "company_name": "SharkNinja",
         "id": "416c013d-c97d-436f-a454-ff8f42afdadc",
         "title": "Applied AI & Analytics - Early Careers",
-        "active": true,
+        "active": false,
         "date_updated": 1786469168,
         "date_posted": 1786468793,
         "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703237006",
@@ -364409,7 +364409,7 @@
         "company_name": "Anglian Water",
         "id": "2df64261-e4cf-4a9d-aa4a-7936d0700f3a",
         "title": "Service Improvement Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786572724,
         "date_posted": 1784764800,
         "url": "https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Chatterton-Tower/Restoration-Targeting-Analyst_R38729",
@@ -366878,5 +366878,23 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Canon",
+        "id": "45783cfa-89f9-43b9-9c32-1c0bc40c7a87",
+        "title": "Field Service Technician 1 - Area",
+        "active": true,
+        "date_updated": 1786617740,
+        "date_posted": 1778537134,
+        "url": "https://external-canoncareers.icims.com/jobs/34394/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Starkville, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Canon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
