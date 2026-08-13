@@ -121008,7 +121008,7 @@
         "company_name": "SentiLink",
         "id": "63fc30c3-4d13-40bc-8488-b39b2dc59b9e",
         "title": "Applied ML Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1773382522,
         "date_posted": 1773382522,
         "url": "https://jobs.ashbyhq.com/sentilink/5217d6c6-2140-4956-89c3-640088c29ffe/application",
@@ -365840,6 +365840,26 @@
             "Miami, FL"
         ],
         "company_url": "https://simplify.jobs/c/Lennar-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Consumer Direct Care Network",
+        "id": "d1775023-8318-4c20-8b84-7725fb52c8a3",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786584690,
+        "date_posted": 1786584511,
+        "url": "https://cdcn.avature.net/careers/JobDetail/8611",
+        "locations": [
+            "Missoula, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/0722c194-8dc3-42ad-a715-1348bab27975",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
