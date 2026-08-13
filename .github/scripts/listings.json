@@ -56,96 +56,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "f1e7332e-f22a-4c9b-9784-9eeca5ea727c",
-        "title": "Datacenter Resiliency Architect \u2013 New College Grad 2025",
-        "active": false,
-        "date_updated": 1765852138,
-        "date_posted": 1765852138,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Datacenter-Resiliency-Architect---New-College-Grad-2025_JR1997786",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "6ef61872-f11f-4cb1-9d04-2195b37cd5d5",
-        "title": "Software Engineer 1 - AI Foundation",
-        "active": false,
-        "date_updated": 1765851423,
-        "date_posted": 1765851423,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1-ai-foundation/27595/89565714176",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "1a168743-f85e-46dd-ba57-077c21be8b3e",
-        "title": "Java Software Engineer 1",
-        "active": false,
-        "date_updated": 1765851810,
-        "date_posted": 1765851810,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Fulltime---Raytheon-Java-Software-Engineer-I--Onsite-_01812452",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "63371e90-5343-4df1-9daa-3c82937d7467",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1765851426,
-        "date_posted": 1765851426,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89565714160",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WSP",
-        "id": "84331b99-748e-41d8-ae96-ad480a053962",
-        "title": "Assistant Consultant / Consultant - Air Quality - Cardiff",
-        "active": false,
-        "date_updated": 1765851634,
-        "date_posted": 1765851634,
-        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/76989",
-        "locations": [
-            "Cardiff, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/WSP",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Intuit",
         "id": "f0bab965-a781-406a-84ce-7a1af4db890b",
         "title": "Software Engineer 1",
@@ -54415,26 +54325,6 @@
         "degrees": [
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Netskope",
-        "id": "0727a01f-9d4e-4059-8844-4cf540e43bbe",
-        "title": "Platform Growth Engineer - Data Analyst",
-        "active": false,
-        "date_updated": 1770114704,
-        "date_posted": 1765851251,
-        "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7377078",
-        "locations": [
-            "Virginia"
-        ],
-        "company_url": "https://simplify.jobs/c/Netskope",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -313710,7 +313600,7 @@
         "company_name": "Northrop Grumman",
         "id": "08668cc0-a602-48d6-b0d2-edd70ea645c7",
         "title": "Principal Industrial Engineer Data Analytics and Estimation",
-        "active": true,
+        "active": false,
         "date_updated": 1784659006,
         "date_posted": 1783900800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Principal-Industrial-Engineer-Data-Analytics-and-Estimation-14941-1_R10240166",
