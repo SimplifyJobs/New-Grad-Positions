@@ -343606,7 +343606,7 @@
         "company_name": "Evertz Microsystems Limited",
         "id": "9e35bafc-8778-4bea-bbdc-0798dee5923f",
         "title": "Junior Radio Frequency Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785740861,
         "date_posted": 1785738171,
         "url": "https://evertz.applytojob.com/apply/VqiaJgc6yS/Junior-RF-Engineer",
@@ -349697,7 +349697,7 @@
         "company_name": "Starbucks",
         "id": "924b8ac7-f08b-4620-9762-01deab61c794",
         "title": "Application Developer - Application Development",
-        "active": true,
+        "active": false,
         "date_updated": 1785922656,
         "date_posted": 1785922136,
         "url": "https://starbucks.eightfold.ai/careers/job/481078166376",
@@ -362270,7 +362270,7 @@
         "company_name": "Deloitte",
         "id": "a1f5f63a-0971-4a61-969b-c3d1f0a264e3",
         "title": "Delivery Analyst - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1786487529,
         "date_posted": 1786487047,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Risk-Analytics-Solutions/362509",
@@ -366896,5 +366896,86 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "9f472a68-b131-41db-abf0-48a1bbdcff63",
+        "title": "Delivery Analyst - Discovery Solutions - Government & Public Services",
+        "active": true,
+        "date_updated": 1786623344,
+        "date_posted": 1786487058,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Discovery-Solutions/362504",
+        "locations": [
+            "Mechanicsburg, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASML",
+        "id": "8461a046-ce00-42ec-917b-1c53720bba42",
+        "title": "Upgrade Install and Relocation Engineer - Duv",
+        "active": true,
+        "date_updated": 1786624021,
+        "date_posted": 1786406400,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Dallas-TX-USA/Upgrade-Install-and-Relocation-Engineer---DUV_J-00349320",
+        "locations": [
+            "Austin, TX",
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ASML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Matternet",
+        "id": "b0898954-3d42-4f9a-bfbe-e5dcd7a97ba3",
+        "title": "UAV Ground Support Crew Member",
+        "active": true,
+        "date_updated": 1786624021,
+        "date_posted": 1785191013,
+        "url": "https://apply.workable.com/matternet/j/36D1691A78/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Matternet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Canon",
+        "id": "9fcf1b07-801d-444c-9198-74f2b5786eaa",
+        "title": "Pre-Install Copier Technician 1",
+        "active": true,
+        "date_updated": 1786623322,
+        "date_posted": 1779113056,
+        "url": "https://external-canoncareers.icims.com/jobs/34076/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Monroe Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Canon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
