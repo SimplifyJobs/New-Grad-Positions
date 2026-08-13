@@ -11472,24 +11472,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Plexus",
-        "id": "d4f5fb26-4ac9-4889-bc3e-2df68380884f",
-        "title": "Systems Integration Technician",
-        "active": false,
-        "date_updated": 1765889803,
-        "date_posted": 1765889803,
-        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Nampa-ID/Systems-Integration-Technician---A-Shift_R035452",
-        "locations": [
-            "Nampa, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Plexus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "The Federal Reserve System",
         "id": "9b1001b2-dacd-4394-bbce-cadf13321dd1",
@@ -213232,7 +213214,7 @@
         "company_name": "Halliburton",
         "id": "d07ebb8a-bb7e-4622-bdd5-a128634c176d",
         "title": "Data Integration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778922373,
         "date_posted": 1778922346,
         "url": "https://jobs.halliburton.com/job/Abingdon-Data-Integration-Engineer-OXF-OX14-4RW/1347981000/?ats=successfactors",
