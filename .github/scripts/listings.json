@@ -242890,7 +242890,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -329105,7 +329105,7 @@
         "company_name": "Intertek",
         "id": "13d2ff87-84b1-43fb-8824-edb2aae79d4f",
         "title": "Associate Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1785193381,
         "date_posted": 1785190233,
         "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15326",
@@ -366836,6 +366836,47 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "19c93f10-36d5-4aa0-8c14-983828340ee3",
+        "title": "Tech Packages Analyst - Government & Public Services",
+        "active": true,
+        "date_updated": 1786615059,
+        "date_posted": 1784672055,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Tech-Packages/360123",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Two Sigma",
+        "id": "0f38cb8f-9548-4161-b1d2-a6734d216f12",
+        "title": "AI Research Scientist - Campus Full-Time",
+        "active": true,
+        "date_updated": 1786614664,
+        "date_posted": 1785633715,
+        "url": "https://twosigma.avature.net/careers/JobDetail/13671",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/0e04910d-c55c-49e9-b2c6-5f391cf32384",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
