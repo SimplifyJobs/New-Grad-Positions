@@ -54,29 +54,6 @@
         "degrees": []
     },
     {
-        "date_updated": 1771250796,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DGX-Cloud-Performance-Engineer---New-Grad-2026_JR2009610",
-        "company_name": "NVIDIA",
-        "title": "DGX Cloud Performance Engineer",
-        "locations": [
-            "Santa Clara, CA",
-            "Remote in TX",
-            "Remote in WA",
-            "Remote in CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "9fae528d-53fc-4c43-9806-ea9338ceba5d",
-        "date_posted": 1765896070,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1765901414,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -351623,7 +351600,7 @@
         "company_name": "Baxter International",
         "id": "8aed0ba0-9554-4612-857e-0a9fa3abce88",
         "title": "Field Service Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785979203,
         "date_posted": 1785888000,
         "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Omaha-Nebraska/Field-Service-Technician-I---Omaha--NE_JR-206611-2",
@@ -355315,7 +355292,7 @@
         "company_name": "GE Healthcare",
         "id": "f0b72df2-45e6-4ab7-a7f9-f45c59ba884d",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786140880,
         "date_posted": 1786060800,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4044580-1",
