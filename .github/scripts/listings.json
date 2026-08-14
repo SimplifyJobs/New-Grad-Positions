@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mastercard",
-        "id": "3a493dbc-d92a-4d1a-a252-d4ea23def53a",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1765930304,
-        "date_posted": 1765930304,
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-266029",
-        "locations": [
-            "O'Fallon, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Mastercard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Carnegie Mellon University",
         "id": "83de97a1-2d42-49ee-8c67-b93d764d2b8b",
@@ -85,24 +67,6 @@
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Flowserve",
-        "id": "85050f76-8ef4-4799-bc6b-76670589524c",
-        "title": "AI Software Engineer",
-        "active": false,
-        "date_updated": 1765931435,
-        "date_posted": 1765931435,
-        "url": "https://flowserve.wd1.myworkdayjobs.com/applied/job/Irving-Texas-US/AI-Software-Engineer_R-17366",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Flowserve",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -264255,7 +264219,7 @@
         "company_name": "Granite Construction",
         "id": "5e853f47-8506-4e4c-96f3-88bd7c4ce574",
         "title": "Regional Technology Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781907841,
         "date_posted": 1781906919,
         "url": "https://granite.wd1.myworkdayjobs.com/careers/job/Tucson-Arizona/Regional-Technology-Associate_R0000007670",
@@ -338374,7 +338338,7 @@
         "company_name": "Mercer University",
         "id": "a1337e43-b296-4c26-ad08-556bf3c36dec",
         "title": "Graduate Assistant - Center for Sports Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1785619141,
         "date_posted": 1785110400,
         "url": "https://merceruniversity.wd1.myworkdayjobs.com/student/job/Macon-Campus/SHSB-Graduate-Assistant--Center-for-Sports-Analytics_JR104053",
@@ -360962,7 +360926,7 @@
         "company_name": "Qualcomm",
         "id": "cdd3e444-64a2-4501-8ca6-b90db2dd9ccb",
         "title": "Silicon Lab Support Technician - Support Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786487222,
         "date_posted": 1786486978,
         "url": "https://qualcomm.eightfold.ai/careers/job/446720371742",
