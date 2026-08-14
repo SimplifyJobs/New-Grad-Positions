@@ -129114,7 +129114,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -129134,7 +129134,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -355136,7 +355136,7 @@
         "company_name": "AMAX",
         "id": "ddacec5d-fc6c-4021-afc2-ec6d2ebf5046",
         "title": "Rack and Stack Assembler",
-        "active": true,
+        "active": false,
         "date_updated": 1786151881,
         "date_posted": 1786151810,
         "url": "https://apply.workable.com/amax-1/j/4C6F9441A2/apply",
@@ -363974,7 +363974,7 @@
         "company_name": "Consumer Direct Care Network",
         "id": "d1775023-8318-4c20-8b84-7725fb52c8a3",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786584690,
         "date_posted": 1786584511,
         "url": "https://cdcn.avature.net/careers/JobDetail/8611",
@@ -368896,6 +368896,52 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Berkshire Hathaway GUARD Insurance Companies",
+        "id": "4b22d036-3d08-41c6-8c11-48f020f7c545",
+        "title": "Full Stack Developer",
+        "active": true,
+        "date_updated": 1786690081,
+        "date_posted": 1786690075,
+        "url": "https://careers-guard.icims.com/jobs/5913/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Alpharetta, GA",
+            "Scottsdale, AZ",
+            "Parsippany-Troy Hills, NJ",
+            "Conshohocken, PA",
+            "Wilkes-Barre, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-GUARD-Insurance-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "d611c661-e784-4250-b934-764d797a57f1",
+        "title": "SoC Design Verification Engineer",
+        "active": true,
+        "date_updated": 1786690234,
+        "date_posted": 1786579200,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/SoC-Design-Verification-Engineer_JR0286426",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
