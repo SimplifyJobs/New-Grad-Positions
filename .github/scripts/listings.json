@@ -267765,7 +267765,7 @@
         "company_name": "TikTok",
         "id": "504f0b08-afb2-4964-b3cd-5dee1937b1ad",
         "title": "Frontend Software Engineer - Global CRM Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1781504821,
         "date_posted": 1781503901,
         "url": "https://lifeattiktok.com/search/7104433489986734350",
@@ -294367,7 +294367,7 @@
         "company_name": "Akuna Capital University",
         "id": "5ea8412e-6f15-4f24-b9a2-a32f48b02a27",
         "title": "Software Engineer - Python",
-        "active": true,
+        "active": false,
         "date_updated": 1783981441,
         "date_posted": 1783980578,
         "url": "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230",
@@ -320465,7 +320465,7 @@
         "company_name": "L3Harris Technologies",
         "id": "57f0e201-e032-474d-934d-e7422d7e2605",
         "title": "Associate Image Science Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1784844682,
         "date_posted": 1784844258,
         "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Image-Science-Engineering-NY-14606/1411981100/?ats=successfactors",
@@ -344285,7 +344285,7 @@
         "company_name": "Dentsu",
         "id": "41dcbd2d-ff0f-4725-8209-42186f975167",
         "title": "Analyst Customer Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1785796285,
         "date_posted": 1785715200,
         "url": "https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/USA---Remote---Maryland/Analyst--Customer-Analytics_R1128737",
@@ -360734,7 +360734,7 @@
         "company_name": "PathAI",
         "id": "4e2d4aa8-3825-4d49-bb96-d3194a6ced1f",
         "title": "Software Engineer 1 - Fullstack",
-        "active": true,
+        "active": false,
         "date_updated": 1786487473,
         "date_posted": 1786487003,
         "url": "https://www.pathai.com/careers/8696764002?gh_jid=8696764002",
@@ -369082,5 +369082,42 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "IQVIA",
+        "id": "3edfca68-dc57-4ab9-86ba-11349878b84c",
+        "title": "Medtech Field Service Technician",
+        "active": true,
+        "date_updated": 1786701797,
+        "date_posted": 1781360499,
+        "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Pocatello-ID/MedTech-Field-Service-Technician---On-Call---Per-Diem---Pocatello-Idaho-Falls--ID_R1541730",
+        "locations": [
+            "Idaho Falls, ID",
+            "Pocatello, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/IQVIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Specialisterne",
+        "id": "5b674a3d-2969-4edf-8ebb-b2980f9a66db",
+        "title": "IT & Artificial Intelligence Fundamentals - Academy",
+        "active": true,
+        "date_updated": 1786703266,
+        "date_posted": 1785738224,
+        "url": "https://specialisterne.applytojob.com/apply/l7VrTDSZmZ/Specialisterne-USA-Academy",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Specialisterne",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
