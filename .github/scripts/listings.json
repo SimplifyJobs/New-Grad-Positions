@@ -129114,7 +129114,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -129134,7 +129134,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -345328,7 +345328,7 @@
         "company_name": "TikTok",
         "id": "52fd78c7-1550-4616-9097-1c380e47fb86",
         "title": "Machine Learning Engineer Graduate - Monetization Technology-Ads Core Global",
-        "active": false,
+        "active": true,
         "date_updated": 1785835765,
         "date_posted": 1785835220,
         "url": "https://lifeattiktok.com/search/7668809845088504117",
@@ -356875,7 +356875,7 @@
         "company_name": "Citi",
         "id": "d05587df-f19a-4da4-b02d-027e77011f10",
         "title": "Services Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786400754,
         "date_posted": 1786320000,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Services--Full-Time-Analyst--New-York-City---US--2027_26979922",
@@ -368979,5 +368979,67 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Onto Innovation",
+        "id": "24d6ae94-3ca2-4be2-b7d5-8b823f2f7881",
+        "title": "Senior Applications Scientist",
+        "active": true,
+        "date_updated": 1786699621,
+        "date_posted": 1782558364,
+        "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Hwasung-Korea/Senior-Applications-Scientist_R-5911",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Onto-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "47a11f8e-c096-4cad-ba59-7807a675d2c7",
+        "title": "Software Engineer Graduate - Media Engine",
+        "active": true,
+        "date_updated": 1786698722,
+        "date_posted": 1786698611,
+        "url": "https://lifeattiktok.com/search/7673667938889009461",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "99d4157b-10cb-42d0-88ff-db290cc271f9",
+        "title": "Backend Software Engineer Graduate - Creation Platform",
+        "active": true,
+        "date_updated": 1786698722,
+        "date_posted": 1786698606,
+        "url": "https://lifeattiktok.com/search/7673669198965278981",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
