@@ -55,62 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "d33a4313-f7fb-4bba-900f-667914ffc31b",
-        "title": "Verification Engineer 1",
-        "active": false,
-        "date_updated": 1765939258,
-        "date_posted": 1765939258,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Canada---Burnaby/Verification-Engineer-I_R2479-25",
-        "locations": [
-            "Saskatoon, SK, Canada",
-            "Burnaby, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "cc54a7db-7c30-4e54-b421-f6a26d22ca0e",
-        "title": "Design Engineer 1",
-        "active": false,
-        "date_updated": 1765939256,
-        "date_posted": 1765939256,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Canada---Burnaby/Design-Engineer-I_R2477-25",
-        "locations": [
-            "Saskatoon, SK, Canada",
-            "Burnaby, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CVS Health",
-        "id": "c327b064-7526-4212-bbf5-82a9712edde9",
-        "title": "Analyst \u2013 Software Development Engineer - Conversion",
-        "active": false,
-        "date_updated": 1765938934,
-        "date_posted": 1765938934,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Work-from-home/Analyst--Software-Development-Engineer--Conversion-_R0777239",
-        "locations": [
-            "Waterbury, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Michael Kors",
         "id": "6ab2c6e3-cccd-47f4-85c3-b0beef145074",
@@ -8855,25 +8799,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "3616f8b2-17da-4478-b31d-35503346b871",
-        "title": "Systems Engineer",
-        "active": false,
-        "date_updated": 1765938978,
-        "date_posted": 1765938978,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Layton-UT/Systems-Engineer--Associate-and-Experienced-Level_JR2025468538-1",
-        "locations": [
-            "Layton, UT",
-            "Hill AFB, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "c9d349f5-26df-45f7-8679-37a18a008f6e",
@@ -9214,24 +9139,6 @@
             "Golden, CO"
         ],
         "company_url": "https://simplify.jobs/c/National-Renewable-Energy-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RPA",
-        "id": "f2c5d935-32e8-4b15-9ebc-3dd5e946b400",
-        "title": "Process Automation Analyst - AI & Systems Focus",
-        "active": false,
-        "date_updated": 1765939177,
-        "date_posted": 1765939177,
-        "url": "https://job-boards.greenhouse.io/rpa/jobs/4636347005",
-        "locations": [
-            "Santa Monica, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/RPA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
