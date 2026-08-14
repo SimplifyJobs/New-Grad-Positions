@@ -5,13 +5,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 400 New Grad Roles by Category
+### Browse 403 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (224)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (226)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (6)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (86)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (87)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (15)
 
@@ -79,6 +79,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Honeywell?utm_source=GHList&utm_medium=company">Honeywell</a></strong></td>
+<td>Software Engineer 1</td>
+<td>Richmond, VA</td>
+<td><div align="center"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155664?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a3a958d6-27dc-4ec5-9de4-764a76e85624?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Composio?utm_source=GHList&utm_medium=company">Composio</a></strong></td>
 <td>Fullstack Engineer New Grad - Product Team</td>
@@ -1536,6 +1543,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Twitch?utm_source=GHList&utm_medium=company">Twitch</a></strong></td>
+<td>Software Engineer 1 - Commerce Engineering</td>
+<td>Seattle, WA</br>SF</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8457711002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/da4700de-48be-43db-a6c2-b9fa2038a4e0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>4mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Freedom-Technology-Solutions-Group?utm_source=GHList&utm_medium=company">Freedom Technology Solutions Group</a></strong></td>
 <td>Junior Software Engineer</td>
 <td>St. Louis, MO</td>
@@ -1652,7 +1666,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1176)</summary>
+<summary>🗃️ Inactive roles (1175)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -6258,13 +6272,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Software Engineer 1 - Commerce Engineering</td>
-<td>Seattle, WA</br>SF</td>
-<td>🔒</td>
-<td>4mo</td>
-</tr>
-<tr>
 <td><strong>Nascent</strong></td>
 <td>Agentic Ops Intern 🛂</td>
 <td><details><summary><strong>8 locations</strong></summary>Toronto, ON, CAN</br>Austin, TX</br>Chicago, IL</br>Miami, FL</br>New York, NY</br>San Francisco, CA</br>Vancouver, BC, CAN</br>Victoria, BC, CAN</details></td>
@@ -10262,6 +10269,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>0d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Micron-Technology?utm_source=GHList&utm_medium=company">Micron Technology</a></strong></td>
+<td>AI Innovation Research Engineer New Grad 🎓</td>
+<td>San Jose, CA</td>
+<td><div align="center"><a href="https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/883f115b-b0ad-4eae-8a80-2bbf523964d4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/40bedb0a-2512-40c7-8dd6-798994d59f1e?utm_source=GHList&utm_medium=company">Moffitt Cancer Center</a></strong></td>
 <td>Data Engineer 1</td>
 <td>Tampa, FL</td>
@@ -10851,7 +10865,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Applied AI & Analytics - Early Careers</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/The-Aerospace-Corporation?utm_source=GHList&utm_medium=company">The Aerospace Corporation</a></strong></td>
