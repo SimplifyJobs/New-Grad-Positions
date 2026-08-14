@@ -348536,7 +348536,7 @@
         "company_name": "Microsoft",
         "id": "deac077f-d2a6-4943-8da6-ef8d52d8c5b5",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1785968868,
         "date_posted": 1785968009,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556950893",
@@ -362366,7 +362366,7 @@
         "company_name": "Blue Cross Blue Shield of Michigan",
         "id": "fdbb71b9-2bde-4620-96a8-cf21416b73f0",
         "title": "Analyst Trainee - Analyst Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1786565809,
         "date_posted": 1786565480,
         "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14581",
@@ -365352,7 +365352,7 @@
         "company_name": "Renesas Electronics",
         "id": "446febb4-b44b-4e23-bd24-9d5be19954c1",
         "title": "Application Engineer - Performance Computing Power Application Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786630501,
         "date_posted": 1786630390,
         "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143318619",
@@ -365394,7 +365394,7 @@
         "company_name": "Renesas Electronics",
         "id": "1f8e4468-cfb9-4773-8eff-5deb0dfd3370",
         "title": "AI Compiler Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786630044,
         "date_posted": 1786629875,
         "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143317369",
@@ -369162,5 +369162,27 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "4326baaa-75b2-4470-b205-61aed39b27b9",
+        "title": "Software Engineer New Grad - Deep Learning Libraries",
+        "active": true,
+        "date_updated": 1786718135,
+        "date_posted": 1786665600,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
