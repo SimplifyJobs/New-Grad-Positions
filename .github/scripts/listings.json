@@ -243591,7 +243591,7 @@
         "company_name": "Relay",
         "id": "0b2ebb3e-0627-41b1-b699-1b746a023edd",
         "title": "Software Engineer Associate - Embedded Development",
-        "active": true,
+        "active": false,
         "date_updated": 1780957897,
         "date_posted": 1780104219,
         "url": "https://job-boards.greenhouse.io/relaypro/jobs/7968124",
@@ -296954,7 +296954,7 @@
         "company_name": "Northrop Grumman",
         "id": "756fdaee-5cf5-49a2-844e-de2fb996859f",
         "title": "Technical Services Engineer - Mine Countermeasure Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784071624,
         "date_posted": 1783987200,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Technical-Services--Engineer---MCM-Engineer--Level-2-or-3_R10240435",
@@ -343396,7 +343396,7 @@
         "company_name": "Analytical Mechanics Associates",
         "id": "dc53bf27-8562-4b15-bb8a-5c712b61d498",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785794953,
         "date_posted": 1785715200,
         "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Mountain-View-CA/Software-Engineer_R-100728",
@@ -346270,7 +346270,7 @@
         "company_name": "Abacus Insights",
         "id": "59d07036-60ed-4be1-8045-1e7dd3482bb7",
         "title": "Associate Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785882626,
         "date_posted": 1785881895,
         "url": "https://boards.greenhouse.io/abacusinsights/jobs/8674746002",
@@ -349437,7 +349437,7 @@
         "company_name": "Jabil",
         "id": "54b0972d-66aa-4933-b3cb-6910d796d1ab",
         "title": "Electrical Assembler",
-        "active": true,
+        "active": false,
         "date_updated": 1785979082,
         "date_posted": 1785888000,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Byhalia-MS/Electrical-Assembler_J2456822",
@@ -352882,7 +352882,7 @@
         "company_name": "BP",
         "id": "5cf9266d-f211-4021-9882-d655a2fcd104",
         "title": "Petrophysicist Graduate - Subsurface Group",
-        "active": true,
+        "active": false,
         "date_updated": 1786112059,
         "date_posted": 1786060800,
         "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/One-subsurface-Petrophysics-Graduate---Houston--TX_RQ114356",
@@ -358243,7 +358243,7 @@
         "company_name": "Prudential Financial",
         "id": "5647d931-da20-4d72-bcf4-871ce560d3b7",
         "title": "Investment Analyst - Credit",
-        "active": true,
+        "active": false,
         "date_updated": 1786457438,
         "date_posted": 1786406400,
         "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/London-United-Kingdom/PGIM-Credit---Investment-Analyst_R-124757-1",
@@ -366934,7 +366934,7 @@
         "company_name": "Chenega Corporation",
         "id": "785858df-6883-4882-aea0-794f70ae528d",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786680181,
         "date_posted": 1786680103,
         "url": "https://careers.chenega.com/jobs/41371?icims=1",
@@ -370134,5 +370134,44 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "4d832015-4925-4dd1-9116-01c214d52c1e",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1786746781,
+        "date_posted": 1786746618,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8130705",
+        "locations": [
+            "Seekonk, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MatX",
+        "id": "7690c458-65bd-4c0a-83af-d57c723c46ac",
+        "title": "Silicon Architect - AI Accelerator",
+        "active": true,
+        "date_updated": 1786746601,
+        "date_posted": 1779229336,
+        "url": "https://job-boards.greenhouse.io/matx/jobs/5225637008",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/MatX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
