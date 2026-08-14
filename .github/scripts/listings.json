@@ -56,24 +56,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Carnegie Mellon University",
-        "id": "83de97a1-2d42-49ee-8c67-b93d764d2b8b",
-        "title": "Research Associate - College of Engineering - Electrical and Computer Engineering",
-        "active": false,
-        "date_updated": 1765931881,
-        "date_posted": 1765931881,
-        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---College-of-Engineering---Electrical-and-Computer-Engineering_2023997",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Amazon",
         "id": "52768ce8-4a75-4187-b18e-8fa140972949",
         "title": "Agentic AI Teacher - AGI Data Services",
@@ -353607,7 +353589,7 @@
         "company_name": "Ensemble Health Partners",
         "id": "199e7d94-1625-41cc-861d-a587e1f7b52e",
         "title": "Associate BI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786140901,
         "date_posted": 1786060800,
         "url": "https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Associate-BI-Engineer_R048864",
@@ -365643,7 +365625,7 @@
         "company_name": "Zebra Technologies",
         "id": "1bdb364e-aace-4471-b0b1-9ba4a47de7af",
         "title": "Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786633741,
         "date_posted": 1786579200,
         "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bentonville-Arkansas/Repair-Technician--I-2nd-Shift-Sun-Thu_JR101934",
