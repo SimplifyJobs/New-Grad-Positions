@@ -129114,7 +129114,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -129134,7 +129134,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -286195,7 +286195,7 @@
         "company_name": "EquipmentShare",
         "id": "8034ac46-304b-4815-aae4-a3e970430277",
         "title": "Low Voltage Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1783464481,
         "date_posted": 1783464224,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8049242",
@@ -296714,7 +296714,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -350922,7 +350922,7 @@
         "company_name": "Bass Pro Shops",
         "id": "a531cd4d-7bc9-44db-99b9-2078d95dea13",
         "title": "Product Specialist - Apparel",
-        "active": true,
+        "active": false,
         "date_updated": 1786027212,
         "date_posted": 1785974400,
         "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Product-Specialist-Apparel_R262420-1",
@@ -368477,6 +368477,226 @@
             "Baltimore, MD"
         ],
         "company_url": "https://simplify.jobs/c/8a7bcbd1-862c-4963-a888-85bc909988b5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Kyocera Document Solutions America",
+        "id": "e5acc13e-9dcc-4f11-9fd5-4fc509569904",
+        "title": "Service Technician",
+        "active": true,
+        "date_updated": 1786687021,
+        "date_posted": 1786687014,
+        "url": "https://careers-kyocera.icims.com/jobs/3236/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Encino, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kyocera-Document-Solutions-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Composio",
+        "id": "e10bdd63-43bd-4d2a-ac7b-f65c4b8b35de",
+        "title": "Forward Deployed Engineer New Grad",
+        "active": true,
+        "date_updated": 1786687179,
+        "date_posted": 1786687014,
+        "url": "https://jobs.ashbyhq.com/composio/f83a19a0-8188-4100-9dd5-b259efb342e6/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Composio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Composio",
+        "id": "ceae354f-7659-436b-88e0-759362464965",
+        "title": "Fullstack Engineer New Grad - Product Team",
+        "active": true,
+        "date_updated": 1786687175,
+        "date_posted": 1786687014,
+        "url": "https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Composio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pacific Northwest National Laboratory",
+        "id": "6228ef47-3085-4c09-a7b5-1b84344a9a18",
+        "title": "Pauling Fellow - Linus Pauling Distinguished Postdoctoral Fellowship",
+        "active": true,
+        "date_updated": 1786687021,
+        "date_posted": 1786686958,
+        "url": "https://careers.pnnl.gov/jobs/11983?icims=1",
+        "locations": [
+            "Seattle, WA",
+            "College Park, MD",
+            "Sequim, WA",
+            "Richland, WA",
+            "Portland, OR",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Pacific-Northwest-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pacific Northwest National Laboratory",
+        "id": "a258c265-3b03-44fc-90b9-7e0faa77dbbe",
+        "title": "Postdoctoral Research Associate - Nuclear Signatures",
+        "active": true,
+        "date_updated": 1786687167,
+        "date_posted": 1786686967,
+        "url": "https://careers.pnnl.gov/jobs/11680?icims=1",
+        "locations": [
+            "Richland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pacific-Northwest-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pacific Northwest National Laboratory",
+        "id": "de9c88c9-a170-4bef-b8c0-535d856b2283",
+        "title": "Postdoctoral Research Associate - Nuclear Non-Proliferation",
+        "active": true,
+        "date_updated": 1786687158,
+        "date_posted": 1786686936,
+        "url": "https://careers.pnnl.gov/jobs/12026?icims=1",
+        "locations": [
+            "Richland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pacific-Northwest-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Urban Science",
+        "id": "8a7b2d5f-aeee-4b70-a908-f66aa938f067",
+        "title": "Associate Software Engineer - Serviceview",
+        "active": true,
+        "date_updated": 1786687021,
+        "date_posted": 1786686951,
+        "url": "https://careers-urbanscience.icims.com/jobs/5181/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Urban-Science",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Urban Science",
+        "id": "c7dd151c-52b9-4a60-a807-71bf9d2ceb96",
+        "title": "Analyst",
+        "active": true,
+        "date_updated": 1786687021,
+        "date_posted": 1786686942,
+        "url": "https://careers-urbanscience.icims.com/jobs/5215/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Urban-Science",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Urban Science",
+        "id": "bdb1ace7-404b-42cb-93b4-39b7dca37ea8",
+        "title": "Analyst",
+        "active": true,
+        "date_updated": 1786687021,
+        "date_posted": 1786686942,
+        "url": "https://careers-urbanscience.icims.com/jobs/5218/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Franklin, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Urban-Science",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ascension",
+        "id": "b13f3387-1ff9-42b7-b13b-975bce96d782",
+        "title": "Master Data Management Specialist - MDM Team",
+        "active": true,
+        "date_updated": 1786687092,
+        "date_posted": 1786686881,
+        "url": "https://jobs.ascension.org/us/en/job/456522",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ascension",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Invenergy",
+        "id": "5603bb21-2506-46bb-90cf-2cc47b3c471e",
+        "title": "Analyst \u2013 Applied AI",
+        "active": true,
+        "date_updated": 1786686301,
+        "date_posted": 1786665600,
+        "url": "https://invenergyllc.wd1.myworkdayjobs.com/en-US/invenergycareers/job/Chicago-IL/Analyst--Applied-AI_R11094-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/bae45eb7-5781-4bfa-b317-ebf459b7f07e",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
