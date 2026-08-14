@@ -304911,7 +304911,7 @@
         "company_name": "Micron Technology",
         "id": "1c1ef564-3308-4460-b8e2-733d9d4d96aa",
         "title": "New Grad Design Engineer - Design Engineer - DRAM Technology and Products",
-        "active": true,
+        "active": false,
         "date_updated": 1784528388,
         "date_posted": 1784505600,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Design-Engineer--DRAM-Technology-and-Products_JR106211",
@@ -345328,7 +345328,7 @@
         "company_name": "TikTok",
         "id": "52fd78c7-1550-4616-9097-1c380e47fb86",
         "title": "Machine Learning Engineer Graduate - Monetization Technology-Ads Core Global",
-        "active": true,
+        "active": false,
         "date_updated": 1785835765,
         "date_posted": 1785835220,
         "url": "https://lifeattiktok.com/search/7668809845088504117",
@@ -368697,6 +368697,201 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/bae45eb7-5781-4bfa-b317-ebf459b7f07e",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sia Partners",
+        "id": "c835422c-1657-4f5b-9e39-0f4491db2789",
+        "title": "Associate Consultant - Generative AI",
+        "active": true,
+        "date_updated": 1786687561,
+        "date_posted": 1786687434,
+        "url": "https://jobs.smartrecruiters.com/Sia/744000143402249",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sia-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sia Partners",
+        "id": "891fbdef-5ba1-4b47-be63-2a3dc6053486",
+        "title": "Associate Consultant - Generative AI",
+        "active": true,
+        "date_updated": 1786687561,
+        "date_posted": 1786687434,
+        "url": "https://jobs.smartrecruiters.com/Sia/744000143402399",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sia-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NANA Regional Corporation",
+        "id": "e8744816-b7ae-49c7-8afc-eb47cc270d28",
+        "title": "Broadband Technician 1 - Nana Net",
+        "active": true,
+        "date_updated": 1786687429,
+        "date_posted": 1786687193,
+        "url": "https://nrc-nana.icims.com/jobs/23756/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Selawik, AK"
+        ],
+        "company_url": "https://simplify.jobs/c/NANA-Regional-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "M.C. Dean",
+        "id": "63807ddc-301f-4d78-ac5c-193a82587f30",
+        "title": "Systems Engineering Technician 1",
+        "active": true,
+        "date_updated": 1786687418,
+        "date_posted": 1786687186,
+        "url": "https://careers.mcdean.com/jobs/28841?icims=1",
+        "locations": [
+            "Norfolk, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/MC-Dean",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "M.C. Dean",
+        "id": "843113c2-8c60-49b6-b630-bbdb922cce23",
+        "title": "Electronics Associate - Security and Electronic Systems",
+        "active": true,
+        "date_updated": 1786687201,
+        "date_posted": 1786687166,
+        "url": "https://careers.mcdean.com/jobs/30729?icims=1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/MC-Dean",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "M.C. Dean",
+        "id": "bc6695dd-e6b9-4081-b997-5b569c10338c",
+        "title": "Systems Specialist - Associate",
+        "active": true,
+        "date_updated": 1786687331,
+        "date_posted": 1786687114,
+        "url": "https://careers.mcdean.com/jobs/31986?icims=1",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/MC-Dean",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "M.C. Dean",
+        "id": "419fcb5a-db61-41dd-baac-569ccf0c3635",
+        "title": "Systems Specialist - Associate",
+        "active": true,
+        "date_updated": 1786687314,
+        "date_posted": 1786687110,
+        "url": "https://careers.mcdean.com/jobs/31987?icims=1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/MC-Dean",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "M.C. Dean",
+        "id": "94b1d3c4-d5f6-4c9b-a17c-8cc97a1339c6",
+        "title": "Engineer 1 New Grad - Cis",
+        "active": true,
+        "date_updated": 1786687295,
+        "date_posted": 1786687099,
+        "url": "https://careers.mcdean.com/jobs/32119?icims=1",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/MC-Dean",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TT Electronics",
+        "id": "f01b2e6b-f429-4832-8872-6e76ac02052a",
+        "title": "Solder Technician 1",
+        "active": true,
+        "date_updated": 1786687290,
+        "date_posted": 1786687093,
+        "url": "https://global-portal-ttelectronics.icims.com/jobs/6223/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Perry, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/TT-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "M.C. Dean",
+        "id": "d1fb6d0c-1130-4775-b71b-7abf9d9f4e0a",
+        "title": "Engineer 1 - New College Graduate",
+        "active": true,
+        "date_updated": 1786687281,
+        "date_posted": 1786687084,
+        "url": "https://careers.mcdean.com/jobs/32350?icims=1",
+        "locations": [
+            "Tysons, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/MC-Dean",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
