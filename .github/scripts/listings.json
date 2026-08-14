@@ -55,60 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Jabil",
-        "id": "1b5c0109-f01f-425b-bf1f-d5912fb5f059",
-        "title": "Configuration Management Analyst",
-        "active": false,
-        "date_updated": 1765990293,
-        "date_posted": 1765990293,
-        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Auburn-Hills-MI/Configuration-Management-Analyst_J2428597",
-        "locations": [
-            "Auburn Hills, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Centene",
-        "id": "f7184af5-014f-4f30-ad43-2e1f7cff174b",
-        "title": "Provider Data Management Analyst 1",
-        "active": false,
-        "date_updated": 1765989269,
-        "date_posted": 1765989269,
-        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Provider-Data-Management-Analyst-I_1623950",
-        "locations": [
-            "Missouri"
-        ],
-        "company_url": "https://simplify.jobs/c/Centene",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Northrop Grumman",
-        "id": "4b446b39-8677-4bcb-9005-94e7620efe2b",
-        "title": "Data Engineer - People Analytics",
-        "active": false,
-        "date_updated": 1765989916,
-        "date_posted": 1765989916,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Unknown-City/Data-Engineer-2-3---People-Analytics_R10217513",
-        "locations": [
-            "Virginia"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Agilent Technologies",
         "id": "4968ba32-0780-440c-b2eb-9d4f64b21d6a",
@@ -9311,24 +9257,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Axis Automation",
-        "id": "67694007-fa7e-43a8-85b0-7a3eae7efe01",
-        "title": "Controls Electrician",
-        "active": false,
-        "date_updated": 1765989964,
-        "date_posted": 1765989964,
-        "url": "https://job-boards.greenhouse.io/axiscompany/jobs/8343454002",
-        "locations": [
-            "Grand Rapids, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Axis-Automation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Dave & Busters",
         "id": "de07b231-7cfb-49cd-8fe0-38bf80b567cd",
         "title": "Gaming Support Technician",
@@ -10050,24 +9978,6 @@
             "Liberty Lake, WA"
         ],
         "company_url": "https://simplify.jobs/c/OpenEye",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NV5 Global",
-        "id": "08d43e32-543b-493a-8590-268969902af1",
-        "title": "Geospatial Technician - 3D Stereo Compilation",
-        "active": false,
-        "date_updated": 1767396380,
-        "date_posted": 1765989081,
-        "url": "https://careers-nv5.icims.com/jobs/11605/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Dulles, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/NV5-Global",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -260491,7 +260401,7 @@
         "company_name": "Citi",
         "id": "84fa0a5f-8366-48f2-9718-6823090c9978",
         "title": "Digital Software Engineering Intern",
-        "active": true,
+        "active": false,
         "date_updated": 1781736025,
         "date_posted": 1781734512,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Digital-S-W-Engineer-Intm-Analyst-Officer--Irving-_26956642",
@@ -332276,7 +332186,7 @@
         "company_name": "Funding Circle",
         "id": "a90bb128-97cc-48c9-9c10-a4ab6237143d",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1785424501,
         "date_posted": 1785421312,
         "url": "https://jobs.ashbyhq.com/fundingcircle/d0c854c2-5b2f-42a2-bbf9-2f1e2ec1367d/application?embed=true",
@@ -358970,7 +358880,7 @@
         "company_name": "PGIM",
         "id": "e19fe3b7-632c-42e1-8b02-da2de0de9cf4",
         "title": "Investment Analyst - Credit",
-        "active": true,
+        "active": false,
         "date_updated": 1786468934,
         "date_posted": 1786406400,
         "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/London-United-Kingdom/PGIM-Credit---Investment-Analyst_R-124757",
