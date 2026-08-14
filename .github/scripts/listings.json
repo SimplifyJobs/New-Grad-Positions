@@ -27764,7 +27764,7 @@
         "company_name": "SpaceX",
         "id": "ceb2a9a3-fcd7-4b2b-ae29-f17de014d0f8",
         "title": "New Graduate Engineer - Software - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1768606797,
         "date_posted": 1768606797,
         "url": "https://boards.greenhouse.io/spacex/jobs/8376990002",
@@ -95539,7 +95539,7 @@
         "company_name": "SpaceX",
         "id": "48c630b0-dbb3-4b73-8fbf-8ff46f564975",
         "title": "Graduate Engineer - Software",
-        "active": true,
+        "active": false,
         "date_updated": 1772234524,
         "date_posted": 1772234524,
         "url": "https://boards.greenhouse.io/spacex/jobs/8399140002",
@@ -128679,7 +128679,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -128699,7 +128699,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -136972,7 +136972,7 @@
         "company_name": "Twitch",
         "id": "da4700de-48be-43db-a6c2-b9fa2038a4e0",
         "title": "Software Engineer 1 - Commerce Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1774477292,
         "date_posted": 1774477292,
         "url": "https://job-boards.greenhouse.io/twitch/jobs/8457711002",
@@ -244055,7 +244055,7 @@
         "company_name": "Origis Energy",
         "id": "54749497-4189-4a1e-ba2f-224fbd8b967c",
         "title": "Operational Performance Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780957457,
         "date_posted": 1772752176,
         "url": "https://job-boards.greenhouse.io/origisenergy/jobs/5753532004",
@@ -279088,7 +279088,7 @@
         "company_name": "Prime Healthcare",
         "id": "ae8e3836-b9cd-4d37-a329-26a7775fbcb8",
         "title": "Epic Associate Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1782987097,
         "date_posted": 1782540657,
         "url": "https://careers-primehealthcare.icims.com/jobs/210062/job?mobile=true&needsRedirect=false",
@@ -296279,7 +296279,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -324025,7 +324025,7 @@
         "company_name": "PGIM",
         "id": "3032a0b5-c735-4a11-9c68-186f76b37088",
         "title": "Private Credit - Investment Analyst Program",
-        "active": false,
+        "active": true,
         "date_updated": 1784942021,
         "date_posted": 1784851200,
         "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Private-Credit--Investment-Analyst-Program_R-124650-1",
@@ -329323,7 +329323,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
@@ -351262,7 +351262,7 @@
         "company_name": "Wash U",
         "id": "7df650ee-1cd3-417c-9d20-ef780e455866",
         "title": "Programmer 1 - Neurology",
-        "active": false,
+        "active": true,
         "date_updated": 1786056182,
         "date_posted": 1785974400,
         "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Programmer-I---Neurology_JR96482",
@@ -353100,7 +353100,7 @@
         "company_name": "Charles Schwab",
         "id": "952bbac0-18af-4767-b6a2-6d9e3639a5af",
         "title": "Software Development and Engineering Associate - Wealth and Advice Solutions Technology",
-        "active": false,
+        "active": true,
         "date_updated": 1786141448,
         "date_posted": 1786140812,
         "url": "https://career-schwab.icims.com/jobs/124804/job?mobile=true&needsRedirect=false",
@@ -368784,6 +368784,147 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "f76a8fba-e4fa-40ad-9f14-b3b24b05b37c",
+        "title": "Electrical Assembly B",
+        "active": true,
+        "date_updated": 1786728421,
+        "date_posted": 1786728377,
+        "url": "https://jobs.l3harris.com/job/Amityville-Electrical-Assembly-B-NY-11701/1419614600/?ats=successfactors",
+        "locations": [
+            "Amityville, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVS Health",
+        "id": "5a476d63-cb12-4e98-8fd7-35895108a039",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1786728519,
+        "date_posted": 1786665600,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Farmers-Branch/Associate-Software-Development-Engineer_R1006749",
+        "locations": [
+            "Farmers Branch, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "L3Harris Technologies",
+        "id": "50d4c273-6f3f-44a4-97a9-cd3e5ae91117",
+        "title": "Associate Product Management",
+        "active": true,
+        "date_updated": 1786728473,
+        "date_posted": 1786728286,
+        "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Product-Management-NY-14609/1419595300/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "48bff6f9-b7e3-4a71-982a-3691ad1663b2",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1786728472,
+        "date_posted": 1786728276,
+        "url": "https://jobs.l3harris.com/job/Sunrise-Associate,-Software-Engineering-FL-33323/1419598300/?ats=successfactors",
+        "locations": [
+            "Sunrise, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Micron Technology",
+        "id": "883f115b-b0ad-4eae-8a80-2bbf523964d4",
+        "title": "AI Innovation Research Engineer New Grad",
+        "active": true,
+        "date_updated": 1786728158,
+        "date_posted": 1786665600,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HEXAWARE",
+        "id": "e7109ad2-2567-43b1-a1b4-e149cfeafab1",
+        "title": "Big Data Lead - BIBA Practice",
+        "active": true,
+        "date_updated": 1786727997,
+        "date_posted": 1786727695,
+        "url": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/678329",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/HEXAWARE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Honeywell",
+        "id": "a3a958d6-27dc-4ec5-9de4-764a76e85624",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786727958,
+        "date_posted": 1786727663,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155664",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
