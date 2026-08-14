@@ -168851,7 +168851,7 @@
         "company_name": "RS&H",
         "id": "c6078505-3625-4799-ac81-0bc9302cabbe",
         "title": "Geospatial Associate 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776121223,
         "date_posted": 1776118085,
         "url": "https://careers-rsandh.icims.com/jobs/7913/job?mobile=true&needsRedirect=false",
@@ -302789,7 +302789,7 @@
         "company_name": "Motorola",
         "id": "177af578-19a1-428a-8acb-184beaa3cf9e",
         "title": "Software Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1784298241,
         "date_posted": 1784246400,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering_R66217",
@@ -324460,7 +324460,7 @@
         "company_name": "PGIM",
         "id": "3032a0b5-c735-4a11-9c68-186f76b37088",
         "title": "Private Credit - Investment Analyst Program",
-        "active": true,
+        "active": false,
         "date_updated": 1784942021,
         "date_posted": 1784851200,
         "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Private-Credit--Investment-Analyst-Program_R-124650-1",
@@ -366930,6 +366930,1294 @@
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/Kyndryl",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Trace Systems",
+        "id": "ff6e43c3-bc97-4b08-84ad-0e0b9943e092",
+        "title": "Database Administrator 1",
+        "active": true,
+        "date_updated": 1786681603,
+        "date_posted": 1786680436,
+        "url": "https://careers.tracesystems.com/jobs/6269?icims=1",
+        "locations": [
+            "Shaw AFB, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Trace-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Trace Systems",
+        "id": "15352be8-eac0-4dd3-8257-571a0fab079f",
+        "title": "Client Systems Hardware Specialist 1",
+        "active": true,
+        "date_updated": 1786681595,
+        "date_posted": 1786680432,
+        "url": "https://careers.tracesystems.com/jobs/6804?icims=1",
+        "locations": [
+            "Shaw AFB, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Trace-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "PENN Entertainment",
+        "id": "38bea890-dde6-419d-ac75-293198f586c5",
+        "title": "Audio Visual Technician",
+        "active": true,
+        "date_updated": 1786681470,
+        "date_posted": 1786680384,
+        "url": "https://careersapply-pennentertainment.icims.com/jobs/134475/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bay St Louis, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/PENN-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "V2X",
+        "id": "9acfcdb9-daad-430e-8ebb-a4fc9fe68cf9",
+        "title": "Electronics Worker 1",
+        "active": true,
+        "date_updated": 1786681308,
+        "date_posted": 1786680331,
+        "url": "https://careers.gov2x.com/jobs/59672?icims=1",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/V2X",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "V2X",
+        "id": "0321538d-4b96-4264-a106-9df2e5240d2f",
+        "title": "Electronics Worker 1",
+        "active": true,
+        "date_updated": 1786681305,
+        "date_posted": 1786680331,
+        "url": "https://careers.gov2x.com/jobs/56956?icims=1",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/V2X",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "V2X",
+        "id": "a20a7312-6f49-4e8d-8853-80f920510fd0",
+        "title": "Electronics Worker 1 - 2nd shift",
+        "active": true,
+        "date_updated": 1786681220,
+        "date_posted": 1786680300,
+        "url": "https://careers.gov2x.com/jobs/61953?icims=1",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/V2X",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "V2X",
+        "id": "4d781f95-810b-4e43-b520-0843d7ff02bd",
+        "title": "Electronics Worker 1",
+        "active": true,
+        "date_updated": 1786680721,
+        "date_posted": 1786680288,
+        "url": "https://careers.gov2x.com/jobs/61958?icims=1",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/V2X",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "V2X",
+        "id": "5763867a-2e36-4d9b-af5f-3a2829075f98",
+        "title": "Electronics Worker 1 - 2nd Shift",
+        "active": true,
+        "date_updated": 1786681165,
+        "date_posted": 1786680271,
+        "url": "https://careers.gov2x.com/jobs/61950?icims=1",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/V2X",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "V2X",
+        "id": "6d0324ca-16c8-4f98-8583-71195aad9942",
+        "title": "Electronic Technician 1",
+        "active": true,
+        "date_updated": 1786681150,
+        "date_posted": 1786680267,
+        "url": "https://careers.gov2x.com/jobs/62264?icims=1",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/V2X",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "International Motors, LLC",
+        "id": "aa53d20c-29e5-4d18-9182-0e00bfa1cdd6",
+        "title": "Product Engineer - Electrical",
+        "active": true,
+        "date_updated": 1786680721,
+        "date_posted": 1786680263,
+        "url": "https://careers.navistar.com/jobs/59530?icims=1",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/International-Motors-LLC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "V2X",
+        "id": "5d3e2344-02c8-4588-8164-b89352954c6c",
+        "title": "Electronics Worker 1",
+        "active": true,
+        "date_updated": 1786681126,
+        "date_posted": 1786680261,
+        "url": "https://careers.gov2x.com/jobs/62356?icims=1",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/V2X",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "International Motors, LLC",
+        "id": "03f6dca1-a185-4cea-9fdc-a7804e7ad3fc",
+        "title": "Supply Chain Analytics Data Scientist",
+        "active": true,
+        "date_updated": 1786681130,
+        "date_posted": 1786680260,
+        "url": "https://careers.navistar.com/jobs/59467?icims=1",
+        "locations": [
+            "Lisle, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/International-Motors-LLC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "V2X",
+        "id": "4119614b-b9ac-4fda-ad91-32acf3ddbb81",
+        "title": "Electronics Worker 1 - 2nd shift",
+        "active": true,
+        "date_updated": 1786681145,
+        "date_posted": 1786680265,
+        "url": "https://careers.gov2x.com/jobs/61951?icims=1",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/V2X",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "V2X",
+        "id": "73f835b3-33ef-4230-98eb-e947be649f9d",
+        "title": "Range Technician 1",
+        "active": true,
+        "date_updated": 1786681124,
+        "date_posted": 1786680259,
+        "url": "https://careers.gov2x.com/jobs/62397?icims=1",
+        "locations": [
+            "Hinesville, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/V2X",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "VTG",
+        "id": "8b34936c-e41c-4125-be15-b324d6d312c5",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1786680721,
+        "date_posted": 1786680207,
+        "url": "https://careers.vtgdefense.com/jobs/9316?icims=1",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/VTG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "VTG",
+        "id": "1a6e1243-653e-4c44-9a87-789030cb51a3",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1786680721,
+        "date_posted": 1786680205,
+        "url": "https://careers.vtgdefense.com/jobs/9425?icims=1",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/VTG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Arcfield",
+        "id": "77212bc1-ea2f-4bb7-b214-81995c2cb299",
+        "title": "Software Engineer / Electrical Engineer",
+        "active": true,
+        "date_updated": 1786680721,
+        "date_posted": 1786680191,
+        "url": "https://careers.arcfield.com/jobs/8467?icims=1",
+        "locations": [
+            "Chesterbrook, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcfield",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ITA International",
+        "id": "df7ccad4-e94d-42b5-914a-8875029af2a8",
+        "title": "Junior Power Platform Developer",
+        "active": true,
+        "date_updated": 1786680721,
+        "date_posted": 1786680182,
+        "url": "https://careers-ita-intl.icims.com/jobs/4470/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/ITA-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arcfield",
+        "id": "6ac532c5-ea4a-482c-a553-d99d6024e9af",
+        "title": "Data Analyst / Applied Mathematician",
+        "active": true,
+        "date_updated": 1786680721,
+        "date_posted": 1786680185,
+        "url": "https://careers.arcfield.com/jobs/8469?icims=1",
+        "locations": [
+            "Chesterbrook, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcfield",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MSA Safety",
+        "id": "5be2737a-54d7-45d6-84db-d847435fe5c4",
+        "title": "Embedded Software Engineer 1/2 - Fire Service",
+        "active": true,
+        "date_updated": 1786680742,
+        "date_posted": 1786680164,
+        "url": "https://careers.msasafety.com/jobs/9676?icims=1",
+        "locations": [
+            "Cranberry Township, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/MSA-Safety",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CTG",
+        "id": "a665623e-060f-4a0d-8104-96f48b2dbbec",
+        "title": "AI Vibe Coding Engineer",
+        "active": true,
+        "date_updated": 1786680181,
+        "date_posted": 1786680124,
+        "url": "https://careers.ctg.com/jobs/17347?icims=1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CTG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EagleView",
+        "id": "754d18f3-d73c-451f-8214-a9c84a06d7c9",
+        "title": "Flight Systems Technician - Capture Systems R&D",
+        "active": true,
+        "date_updated": 1786680181,
+        "date_posted": 1786680119,
+        "url": "https://careers.eagleview.com/jobs/2872?icims=1",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/EagleView",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EagleView",
+        "id": "7d1ef0a9-43c9-40a2-b80b-1b61a379cfaf",
+        "title": "Image Correction Technician - Photogrammetric Image Corrections",
+        "active": true,
+        "date_updated": 1786680181,
+        "date_posted": 1786680119,
+        "url": "https://careers.eagleview.com/jobs/2691?icims=1",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/EagleView",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chenega Corporation",
+        "id": "d4a317e4-dac1-4224-8bd1-323b79fc5a49",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1786680181,
+        "date_posted": 1786680108,
+        "url": "https://careers.chenega.com/jobs/41163?icims=1",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chenega-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chenega Corporation",
+        "id": "785858df-6883-4882-aea0-794f70ae528d",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1786680181,
+        "date_posted": 1786680103,
+        "url": "https://careers.chenega.com/jobs/41371?icims=1",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chenega-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TRC Companies",
+        "id": "3eebede6-b2bd-4157-a763-1075a9e592cd",
+        "title": "Environmental Scientist - Emissions Testing",
+        "active": true,
+        "date_updated": 1786680181,
+        "date_posted": 1786680053,
+        "url": "https://careers.trccompanies.com/jobs/26113?icims=1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/TRC-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CPI Card Group",
+        "id": "7d777c12-dbb3-4b9e-b13d-d5156069bdd1",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1786680376,
+        "date_posted": 1786680017,
+        "url": "https://careersuk-cpicardgroup.icims.com/jobs/11208/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/CPI-Card-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AppLovin",
+        "id": "2c69b87b-a3b9-4a6c-b179-1e31b348731a",
+        "title": "Data Scientist - Analytics",
+        "active": true,
+        "date_updated": 1786680181,
+        "date_posted": 1786680016,
+        "url": "https://boards.greenhouse.io/applovin/jobs/4705263006",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AppLovin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "4778a6b9-74eb-4c5c-9ca0-e1d4d7c63007",
+        "title": "Senior Engineer-Analyst - ISR Scientific Applications",
+        "active": true,
+        "date_updated": 1786680276,
+        "date_posted": 1786679981,
+        "url": "https://careers.jhuapl.edu/jobs/57531?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "702d071e-5ec1-4732-9be6-f362e43cf785",
+        "title": "Algorithm Researcher - Multiple Teams",
+        "active": true,
+        "date_updated": 1786680273,
+        "date_posted": 1786679979,
+        "url": "https://careers.jhuapl.edu/jobs/57698?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "337a8067-9780-4ed6-b3a0-7c25fdad3b14",
+        "title": "Autonomous Systems Seeker and Sensor Engineer",
+        "active": true,
+        "date_updated": 1786680274,
+        "date_posted": 1786679980,
+        "url": "https://careers.jhuapl.edu/jobs/57486?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "d82fea85-cee3-45bf-b464-5034a6e4b576",
+        "title": "Artificial Intelligence Engineer - Intelligent Autonomous Systems",
+        "active": true,
+        "date_updated": 1786680269,
+        "date_posted": 1786679974,
+        "url": "https://careers.jhuapl.edu/jobs/57438?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "8be181ac-18b4-4c90-8d3f-95f303749bf2",
+        "title": "Cyber Engineer - Capabilities Development",
+        "active": true,
+        "date_updated": 1786680269,
+        "date_posted": 1786679978,
+        "url": "https://careers.jhuapl.edu/jobs/57600?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "25bcc690-186a-4bee-90ed-45270fef596a",
+        "title": "Software Engineering/ML/Data Scientist Graduate - Intelligence Systems",
+        "active": true,
+        "date_updated": 1786680267,
+        "date_posted": 1786679979,
+        "url": "https://careers.jhuapl.edu/jobs/57747?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "0316d9b0-4ab8-4162-b4db-6f01a603a369",
+        "title": "Intelligent Systems Development Engineer - Intelligent Combat Platforms Group",
+        "active": true,
+        "date_updated": 1786680001,
+        "date_posted": 1786679975,
+        "url": "https://careers.jhuapl.edu/jobs/58080?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "2ff916d3-3671-4e8e-a5df-485dc5048bba",
+        "title": "Data Scientist / Computer Scientist PhD Graduate - Decision Systems",
+        "active": true,
+        "date_updated": 1786680266,
+        "date_posted": 1786679978,
+        "url": "https://careers.jhuapl.edu/jobs/57706?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "a9b0880e-9c11-4194-8868-5df112df0da6",
+        "title": "Artificial Intelligence Research Scientist - Artificial Intelligence and Machine Learning",
+        "active": true,
+        "date_updated": 1786680264,
+        "date_posted": 1786679977,
+        "url": "https://careers.jhuapl.edu/jobs/57812?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "8427086c-fb04-4125-a38f-4e9c9fa28dc7",
+        "title": "Systems Engineer/Analyst New Grad - Multi-Mission Planning Development",
+        "active": true,
+        "date_updated": 1786680261,
+        "date_posted": 1786679974,
+        "url": "https://careers.jhuapl.edu/jobs/58164?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "b7b9f7ca-b945-481f-bfc3-04355ed79955",
+        "title": "AI/ML Data Scientist/Engineer New Grad - Analytic Capabilities",
+        "active": true,
+        "date_updated": 1786680258,
+        "date_posted": 1786679975,
+        "url": "https://careers.jhuapl.edu/jobs/57801?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cayuse Holdings",
+        "id": "87fed93d-1c31-4dc0-bdce-3f64cf083638",
+        "title": "Pega Certified System Architect",
+        "active": true,
+        "date_updated": 1786680001,
+        "date_posted": 1786679969,
+        "url": "https://careers-cayuseholdings.icims.com/jobs/4182/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cayuse-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "55dc713a-33a4-4a39-bdbc-3a386bbec6aa",
+        "title": "Modeler and Data Analyst - PhD Graduate",
+        "active": true,
+        "date_updated": 1786680257,
+        "date_posted": 1786679975,
+        "url": "https://careers.jhuapl.edu/jobs/58102?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "a6deedb5-d273-4f36-b391-cbf75828012a",
+        "title": "Statistician New Grad - Statistics and Data Science",
+        "active": true,
+        "date_updated": 1786680234,
+        "date_posted": 1786679954,
+        "url": "https://careers.jhuapl.edu/jobs/59011?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "8dc89094-3aea-4bac-9d27-dfbd32fba20c",
+        "title": "Synthetic Aperture Radar Machine Learning Engineer - Imaging Systems",
+        "active": true,
+        "date_updated": 1786680235,
+        "date_posted": 1786679956,
+        "url": "https://careers.jhuapl.edu/jobs/58971?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "515267ff-c4f6-463d-827b-6921c011ad2d",
+        "title": "Postdoctoral Fellow - 2D Electronic Materials and Devices",
+        "active": true,
+        "date_updated": 1786680239,
+        "date_posted": 1786679956,
+        "url": "https://careers.jhuapl.edu/jobs/58997?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "804e9756-cd00-4514-a056-bb06c49a19c4",
+        "title": "Machine Learning PhD New Grad - Artificial Intelligence",
+        "active": true,
+        "date_updated": 1786680244,
+        "date_posted": 1786679954,
+        "url": "https://careers.jhuapl.edu/jobs/59010?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "588f0052-a7a7-484e-9118-a50d1e50c96a",
+        "title": "Applied Algorithms Engineer New Grad",
+        "active": true,
+        "date_updated": 1786680225,
+        "date_posted": 1786679950,
+        "url": "https://careers.jhuapl.edu/jobs/59108?icims=1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "07fc4738-d12f-4bb3-b8de-6b749a723716",
+        "title": "Artificial Intelligence and Complex Systems Postdoc Researcher",
+        "active": true,
+        "date_updated": 1786680224,
+        "date_posted": 1786679952,
+        "url": "https://careers.jhuapl.edu/jobs/58855?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "dd30d3b2-252b-4967-903e-8a1f0f4693e2",
+        "title": "Computer Engineer New Grad - Shipboard Systems Team",
+        "active": true,
+        "date_updated": 1786680215,
+        "date_posted": 1786679946,
+        "url": "https://careers.jhuapl.edu/jobs/59098?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DecisionPoint Corporation",
+        "id": "0e6c1db8-ce0d-4d6e-8962-3757c2b0a9e8",
+        "title": "Entry-level Software Developer",
+        "active": true,
+        "date_updated": 1786680215,
+        "date_posted": 1786679946,
+        "url": "https://careers-decisionpointcorp.icims.com/jobs/3685/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DecisionPoint-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "73694032-23cd-4ce0-8193-0aa5188a23c9",
+        "title": "PhD Graduate - Multiple Teams",
+        "active": true,
+        "date_updated": 1786680210,
+        "date_posted": 1786679941,
+        "url": "https://careers.jhuapl.edu/jobs/58904?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "c9ea12aa-aa0f-4daa-9e2b-4497ad88942f",
+        "title": "BS/MS Rotational Discovery Program",
+        "active": true,
+        "date_updated": 1786680196,
+        "date_posted": 1786679934,
+        "url": "https://careers.jhuapl.edu/jobs/59402?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "ad89813c-5160-4d6c-86e1-6c0180f9d408",
+        "title": "Navigation Systems Analyst/Engineer",
+        "active": true,
+        "date_updated": 1786680196,
+        "date_posted": 1786679936,
+        "url": "https://careers.jhuapl.edu/jobs/59337?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "ebe4a852-92bc-4d9b-8f32-f4aeea67b6f7",
+        "title": "Data Scientist New Grad - Data Science - System Performance Evaluation",
+        "active": true,
+        "date_updated": 1786680188,
+        "date_posted": 1786679934,
+        "url": "https://careers.jhuapl.edu/jobs/57653?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "33f1e0dc-9651-4eef-92eb-c0a9247d5893",
+        "title": "Computer Scientist New Grad - Tactical System Prototyping and Deployment",
+        "active": true,
+        "date_updated": 1786680187,
+        "date_posted": 1786679932,
+        "url": "https://careers.jhuapl.edu/jobs/59416?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "33f03ee2-af54-4e9a-a8c3-1ca957e56cd0",
+        "title": "Engineer Graduate - Multi-Mission Planning Development",
+        "active": true,
+        "date_updated": 1786680190,
+        "date_posted": 1786679932,
+        "url": "https://careers.jhuapl.edu/jobs/58163?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "07afa69b-b29f-4ad6-9c89-3dcd26e8bec5",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1786680001,
+        "date_posted": 1786679931,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8128747",
+        "locations": [
+            "Menomonee Falls, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "6d081b1c-739e-4f18-b112-ddf3c2381662",
+        "title": "Systems Engineer Graduate - Systems Engineer - Analyst",
+        "active": true,
+        "date_updated": 1786680185,
+        "date_posted": 1786679924,
+        "url": "https://careers.jhuapl.edu/jobs/59497?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "9841d195-19c9-4d37-8876-6d72b9dec5af",
+        "title": "PhD Graduate - Distributed Tactical Awareness",
+        "active": true,
+        "date_updated": 1786680170,
+        "date_posted": 1786679923,
+        "url": "https://careers.jhuapl.edu/jobs/59533?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AVI-SPL",
+        "id": "355cc5e8-1409-4c13-8ad9-d86de0ecb08f",
+        "title": "Onsite Support Technician",
+        "active": true,
+        "date_updated": 1786680001,
+        "date_posted": 1786679903,
+        "url": "https://careers.avispl.com/jobs/12176?icims=1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/AVI-SPL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Shearers Foods",
+        "id": "6fa187e4-125c-4deb-bc94-9f54dfea9379",
+        "title": "EDI Business Systems Analyst",
+        "active": true,
+        "date_updated": 1786680001,
+        "date_posted": 1786679845,
+        "url": "https://careers.shearers.com/jobs/1996?icims=1",
+        "locations": [
+            "Massillon, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Shearers-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "962d8f66-1978-47db-9552-864decc8befb",
+        "title": "Product Manager Graduate - Ads Interface Platform - 2027 Start",
+        "active": true,
+        "date_updated": 1786680001,
+        "date_posted": 1786679841,
+        "url": "https://lifeattiktok.com/search/7673198824630077701",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "dcf74577-c488-4e1d-ae75-58a17b9f1a4e",
+        "title": "Product Manager Graduate - Sales and Operations Management Platform",
+        "active": true,
+        "date_updated": 1786680001,
+        "date_posted": 1786679841,
+        "url": "https://lifeattiktok.com/search/7673331530758228229",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "3ad6da02-7c30-41b3-8959-9c636059dfcc",
+        "title": "Product Manager Graduate - Content and Service Ads",
+        "active": true,
+        "date_updated": 1786680001,
+        "date_posted": 1786679842,
+        "url": "https://lifeattiktok.com/search/7673333697095469317",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "b8de23af-ec1e-49cf-bea3-a0ed418060ad",
+        "title": "Product Manager Graduate - Ads Interface Platform",
+        "active": true,
+        "date_updated": 1786680001,
+        "date_posted": 1786679842,
+        "url": "https://lifeattiktok.com/search/7673194618236078341",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "42854aa8-a81f-46b7-a2aa-051cf7e8d64b",
+        "title": "Product Manager Graduate - Signal and Identity Product",
+        "active": true,
+        "date_updated": 1786680001,
+        "date_posted": 1786679842,
+        "url": "https://lifeattiktok.com/search/7673330687380490501",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
