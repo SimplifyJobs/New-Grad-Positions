@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 402 New Grad Roles by Category
+### Browse 401 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (229)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (228)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (6)
 
@@ -969,13 +969,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>24d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/d52af626-a653-4a1c-b70c-d2961b65d3e5?utm_source=GHList&utm_medium=company">Brainbase Labs</a></strong></td>
-<td>Founding Engineer</td>
-<td>SF</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/brainbaselabs/54fe9496-006d-4604-94a0-90258f2c3dd3/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6ccd63e5-c214-4937-9f21-d095f19d1ae8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>24d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/9c17bcd2-b55a-46cc-a200-f360ffc5533f?utm_source=GHList&utm_medium=company">Strada</a></strong></td>
 <td>Software Engineer New Grad</td>
 <td>SF</td>
@@ -1687,7 +1680,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1171)</summary>
+<summary>🗃️ Inactive roles (1172)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2131,6 +2124,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/03bad7ab-c243-4994-9306-73ac9b38f14b?utm_source=GHList&utm_medium=company">Morris Health Technologies Inc.</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Logan, UT</td>
+<td>🔒</td>
+<td>24d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/d52af626-a653-4a1c-b70c-d2961b65d3e5?utm_source=GHList&utm_medium=company">Brainbase Labs</a></strong></td>
+<td>Founding Engineer</td>
+<td>SF</td>
 <td>🔒</td>
 <td>24d</td>
 </tr>
