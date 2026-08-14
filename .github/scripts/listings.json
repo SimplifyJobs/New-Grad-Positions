@@ -55,61 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Walmart",
-        "id": "8735a6a4-4c5b-4213-925e-abad650e08cf",
-        "title": "Data Engineer 3",
-        "active": false,
-        "date_updated": 1765929277,
-        "date_posted": 1765929277,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Data-Engineer-III_R-2350035",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Twitch",
-        "id": "f514ad62-b47e-4f7a-a8b1-579bc7c44357",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1765928753,
-        "date_posted": 1765928753,
-        "url": "https://job-boards.greenhouse.io/twitch/jobs/8342165002",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Twitch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "c0dc5c83-f71e-4d71-8e84-93189d1faf7c",
-        "title": "Software Engineer - Embedded and Real Time",
-        "active": false,
-        "date_updated": 1765928638,
-        "date_posted": 1765928638,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-Software---Embedded-and-Real-Time--Melbourne-FL---San-Diego-CA-_R10212270",
-        "locations": [
-            "Melbourne, FL",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Mastercard",
         "id": "3a493dbc-d92a-4d1a-a252-d4ea23def53a",
@@ -122,194 +67,6 @@
             "O'Fallon, MO"
         ],
         "company_url": "https://simplify.jobs/c/Mastercard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Northrop Grumman",
-        "id": "09bd09b7-e4b7-4693-a3a5-29f3f5e98f22",
-        "title": "Data Insight Analyst",
-        "active": false,
-        "date_updated": 1765928633,
-        "date_posted": 1765928633,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Unknown-City/Data-Insight-Analyst_R10217444-1",
-        "locations": [
-            "Virginia"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Brown Brothers Harriman",
-        "id": "cdbdf1cd-aecd-4430-901c-483e6b86a693",
-        "title": "Investment Analyst",
-        "active": false,
-        "date_updated": 1765928914,
-        "date_posted": 1765928914,
-        "url": "https://bbh.wd5.myworkdayjobs.com/en-US/BBH/job/New-York/Investment-Analyst_68534",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/8daaaedd-ec77-45a3-ab9c-dc153ae865ed",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mass General Brigham",
-        "id": "918f40a3-ab5a-4247-a6a0-de11cc58dc05",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1765928434,
-        "date_posted": 1765928434,
-        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Data-Analyst_RQ4045231",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Northrop Grumman",
-        "id": "882f76c6-9800-4605-9563-c6f1dbe3c5e6",
-        "title": "Data Insight Analyst - Principal Data Insight Analyst",
-        "active": false,
-        "date_updated": 1765928633,
-        "date_posted": 1765928633,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/Data-Insight-Analyst-or-Principal-Data-Insight-Analyst_R10213256",
-        "locations": [
-            "Edwards AFB, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Autodesk",
-        "id": "05d4a4e3-e4b8-4925-8352-9649022e014a",
-        "title": "Software Developer",
-        "active": false,
-        "date_updated": 1765928381,
-        "date_posted": 1765928381,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_25WD93681-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Motorola",
-        "id": "f886ac32-17c2-49e3-aca9-6eae324ccbf0",
-        "title": "Electronics Technician 1 - Overnight",
-        "active": false,
-        "date_updated": 1765929334,
-        "date_posted": 1765929334,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Electronics-Test-and-Assembly-Technician--Overnight---Entry-Level-_R60437",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "ce5ab290-be58-4a21-9040-394ebe7738aa",
-        "title": "Associate AI Software Engineer - Aht",
-        "active": false,
-        "date_updated": 1765928642,
-        "date_posted": 1765928642,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Associate-AI-Software-Engineer--AHT-_R10210287",
-        "locations": [
-            "Beavercreek, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Northrop Grumman",
-        "id": "8a45f8a8-9e17-46bd-a1f7-2496413e2997",
-        "title": "People Insights Analyst",
-        "active": false,
-        "date_updated": 1765928645,
-        "date_posted": 1765928645,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Unknown-City/People-Insights-Analyst-2-3_R10214776",
-        "locations": [
-            "Salt Lake City, UT",
-            "Halethorpe, MD",
-            "Canoga Park, LA",
-            "Fairfax, VA",
-            "Palatine, IL",
-            "Arlington, VA",
-            "Maryland",
-            "Sunnyvale, CA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "cd284c37-4d46-4dbe-9ca8-bbddaa049418",
-        "title": "Programmer Analyst \u2013 Associate or Mid-Level",
-        "active": false,
-        "date_updated": 1765928316,
-        "date_posted": 1765928316,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Programmer-Analyst--Associate-or-Mid-Level-_JR2025482611-1",
-        "locations": [
-            "North Charleston, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "KBR",
-        "id": "7bdb3ecd-9636-4bec-a900-0589735e4143",
-        "title": "Systems Engineer 1",
-        "active": false,
-        "date_updated": 1765929666,
-        "date_posted": 1765929666,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Systems-Engineer-I_R2116636",
-        "locations": [
-            "Sioux Falls, SD"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -334,96 +91,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Snyk",
-        "id": "a364463d-dadc-4088-9d55-ebbca2e7e6cc",
-        "title": "People Analytics & Technology Associate",
-        "active": false,
-        "date_updated": 1765929146,
-        "date_posted": 1765929146,
-        "url": "https://snyk.wd103.myworkdayjobs.com/External/job/United-States---Boston-Office/People-Analytics---Technology-Associate_JR100273",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Snyk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "USAA",
-        "id": "625a9a93-5171-4056-89b4-6e30a5fd3eee",
-        "title": "Data Engineer 1",
-        "active": false,
-        "date_updated": 1765928066,
-        "date_posted": 1765928066,
-        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Engineer-I_R0114228",
-        "locations": [
-            "Plano, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/USAA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "IDEX",
-        "id": "23958874-ec38-4eb7-921f-e3cda130cd44",
-        "title": "Tool Technician 1",
-        "active": false,
-        "date_updated": 1765927972,
-        "date_posted": 1765927972,
-        "url": "https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Denver-Colorado/Tool-Technician-I_R-08247-1",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/IDEX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "1a1e822f-dd11-4df0-b66d-954072655289",
-        "title": "Associate Systems Engineer",
-        "active": false,
-        "date_updated": 1765928314,
-        "date_posted": 1765928314,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Associate-Systems-Engineer_JR2025486525-2",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "DraftKings",
-        "id": "b7661b08-f643-4455-9804-bb0bc9135f1a",
-        "title": "Sports Trader",
-        "active": false,
-        "date_updated": 1765928957,
-        "date_posted": 1765928957,
-        "url": "https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Las-Vegas-NV/Sports-Trader_JR10526-1",
-        "locations": [
-            "Las Vegas, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/DraftKings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Flowserve",
         "id": "85050f76-8ef4-4799-bc6b-76670589524c",
@@ -436,24 +103,6 @@
             "Irving, TX"
         ],
         "company_url": "https://simplify.jobs/c/Flowserve",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Alation",
-        "id": "c356b5a0-b62b-44db-b30f-35f8fb0affe1",
-        "title": "AI/ML Engineer",
-        "active": false,
-        "date_updated": 1765928491,
-        "date_posted": 1765928491,
-        "url": "https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/AI-ML-Engineer_R10000621",
-        "locations": [
-            "San Carlos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Alation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -1844,24 +1493,6 @@
             "Northamptonshire, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Carnegie Mellon University",
-        "id": "2ff848db-ef66-4ad1-8093-5257bc6a9568",
-        "title": "Research Associate - Lti - School of Computer Science",
-        "active": false,
-        "date_updated": 1766065047,
-        "date_posted": 1765927997,
-        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Intern---LTI---School-of-Computer-Science_2023968",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -8790,24 +8421,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brookhaven Lab",
-        "id": "d5dd2efe-52b5-4004-936c-2ec42b50cf90",
-        "title": "Research Associate - Accelerator Physics",
-        "active": false,
-        "date_updated": 1767179114,
-        "date_posted": 1765928927,
-        "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Research-Associate---Accelerator-Physics_JR102182",
-        "locations": [
-            "Shirley, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "ba6324da-649b-481a-a265-508a1eaa0ddf",
@@ -9358,24 +8971,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Ultra",
-        "id": "b977a69f-9331-4614-b09c-aedf94173778",
-        "title": "Systems Engineer 1",
-        "active": false,
-        "date_updated": 1765929042,
-        "date_posted": 1765929042,
-        "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Chantilly-VA-United-States/Systems-Engineer-I_REQ-11245",
-        "locations": [
-            "Chantilly, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ultra",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "The Boeing Company",
         "id": "3616f8b2-17da-4478-b31d-35503346b871",
         "title": "Systems Engineer",
@@ -9748,24 +9343,6 @@
         "date_updated": 1765939177,
         "date_posted": 1765939177,
         "url": "https://job-boards.greenhouse.io/rpa/jobs/4636347005",
-        "locations": [
-            "Santa Monica, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/RPA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RPA",
-        "id": "9fc20e6a-e74e-4b0a-9ada-49c3d657de1b",
-        "title": "Process Automation Specialist",
-        "active": false,
-        "date_updated": 1765928370,
-        "date_posted": 1765928370,
-        "url": "https://job-boards.greenhouse.io/rpa/jobs/4636346005",
         "locations": [
             "Santa Monica, CA"
         ],
@@ -19353,27 +18930,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Broadridge",
-        "id": "237bf375-664d-4947-94bc-69fa29457f3d",
-        "title": "Associate Operations Analyst",
-        "active": false,
-        "date_updated": 1767970607,
-        "date_posted": 1765928813,
-        "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Edgewood-NY/Associate-Operations-Analyst--Hybrid-_JR1078475",
-        "locations": [
-            "NYC",
-            "Catskill, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Broadridge",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -249652,7 +249208,7 @@
         "company_name": "SpaceX",
         "id": "9c5494a4-fb44-4218-bc4d-4a41e1f6f607",
         "title": "Software Engineer - Hardware-in-the-Loop - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1781130241,
         "date_posted": 1781129274,
         "url": "https://boards.greenhouse.io/spacex/jobs/8583074002",
@@ -367026,6 +366582,29 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Dexcoma",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "5fde436c-570a-464b-9d9c-3a3e457151d0",
+        "title": "Software Development Engineer - Amazon Leo",
+        "active": true,
+        "date_updated": 1786619341,
+        "date_posted": 1784844651,
+        "url": "https://amazon.jobs/en/jobs/3144341/software-development-engineer-amazon-leo-us",
+        "locations": [
+            "Redmond, WA",
+            "Northridge, LA",
+            "Sunnyvale, CA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
