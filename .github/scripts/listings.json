@@ -352236,7 +352236,7 @@
         "company_name": "Agilent Technologies",
         "id": "388f348c-db23-47db-9a4e-1a0ad19b9675",
         "title": "Field Service Engineer - HPLC/GC",
-        "active": true,
+        "active": false,
         "date_updated": 1786065545,
         "date_posted": 1785974400,
         "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-OH-Cleveland/Field-Service-Engineer---HPLC-GC_4038818-2",
@@ -357208,7 +357208,7 @@
         "company_name": "RTX",
         "id": "1b88a527-7b87-4916-8908-bb437e290400",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786400349,
         "date_posted": 1786320000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01863755",
@@ -361686,7 +361686,7 @@
         "company_name": "D.R. Horton",
         "id": "66396035-7ef7-4576-a4e0-7487fd68616c",
         "title": "Application Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786505641,
         "date_posted": 1786505432,
         "url": "https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2603801",
@@ -365127,7 +365127,7 @@
         "company_name": "Illumina",
         "id": "27789793-6af1-43b7-9cd5-e384f26e6e66",
         "title": "Systems Integration Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786612432,
         "date_posted": 1786579200,
         "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Systems-Integration-Engineer-1_43230-JOB",
@@ -369039,6 +369039,47 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ByteDance",
+        "id": "15d7c999-27e0-4216-a992-2ab4567f9cd7",
+        "title": "ASIC Design Engineer Graduate - Video Silicon IP",
+        "active": true,
+        "date_updated": 1786699981,
+        "date_posted": 1786699864,
+        "url": "https://jobs.bytedance.com/en/position/7673667614757374213/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AMD",
+        "id": "38d8a04a-361e-4f3a-af46-f7fc11fbc06b",
+        "title": "Design Verification Engineer",
+        "active": true,
+        "date_updated": 1786700521,
+        "date_posted": 1785645097,
+        "url": "https://careers.amd.com/jobs/88877?icims=1",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Master's"
         ]
     }
