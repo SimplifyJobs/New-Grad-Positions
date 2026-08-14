@@ -129114,7 +129114,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -129134,7 +129134,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -288805,7 +288805,7 @@
         "company_name": "Super Micro Computer",
         "id": "58482676-348d-4ce8-83f5-39def79ad066",
         "title": "Application Engineer-Server",
-        "active": true,
+        "active": false,
         "date_updated": 1783548905,
         "date_posted": 1782857222,
         "url": "https://jobs.supermicro.com/job/San-Jose-Application-Engineer-Server-Cali/1404538000/?ats=successfactors",
@@ -313638,7 +313638,7 @@
         "company_name": "Synechron",
         "id": "f0cb0aa2-24b1-4256-a0e2-627834bd215c",
         "title": "Junior Python Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784678452,
         "date_posted": 1784592000,
         "url": "https://synechron.wd1.myworkdayjobs.com/en-US/SynechronCareers/job/MDC--Montreal/Jr-Ingnieur-Python--Developer-_JR1041884-1",
@@ -334634,7 +334634,7 @@
         "company_name": "L3Harris Technologies",
         "id": "f49965a8-66d7-460e-aefb-c756911f4dff",
         "title": "Software Engineering Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1785507282,
         "date_posted": 1785506597,
         "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300/?ats=successfactors",
@@ -366397,6 +366397,539 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vista Equity Partners",
+        "id": "5d8b1daf-e1e3-43f1-86c3-4eaeba634d0a",
+        "title": "Agentic Factory Consultant",
+        "active": true,
+        "date_updated": 1786679861,
+        "date_posted": 1786679684,
+        "url": "https://careers2-vistaequitypartners.icims.com/jobs/3017/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/c66a6e0b-6462-4a55-9747-3923d04542c0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CACI",
+        "id": "3911aa13-5156-46fe-8b8a-3563389ffb19",
+        "title": "IT Data Specialist",
+        "active": true,
+        "date_updated": 1786679730,
+        "date_posted": 1786579200,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/IT-Data-Specialist---Entry-Level_330605",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AT&T",
+        "id": "f495b8fb-06ac-4d6c-b1f9-7e38d9302510",
+        "title": "Installation Technician",
+        "active": true,
+        "date_updated": 1786679461,
+        "date_posted": 1786579200,
+        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAMIMount-Clemens--Mary-St---Work-Center95-Mary-St/Installation-Technician_R-119644",
+        "locations": [
+            "Royal Oak, MI",
+            "Mt Clemens, MI",
+            "Pontiac, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/ATT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hawk-Eye Innovations",
+        "id": "b05d56a6-9510-4f43-8546-6af63813210d",
+        "title": "Rugby Systems Operator",
+        "active": true,
+        "date_updated": 1786679567,
+        "date_posted": 1786679445,
+        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/e0e7660f-fedf-448e-829c-7203d0a3d053/application?embed=true",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DNV",
+        "id": "63faf96c-9039-47fc-94b8-cbb950ddc82f",
+        "title": "Energy Policy Statistical Analyst",
+        "active": true,
+        "date_updated": 1786679461,
+        "date_posted": 1786679423,
+        "url": "https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7279",
+        "locations": [
+            "Madison, WI",
+            "Oakland, CA",
+            "Medford, MA",
+            "North Andover, MA",
+            "NYC",
+            "Portland, OR",
+            "Portland, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/DNV",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "D-Wave Quantum",
+        "id": "3b5617c1-0415-4431-bba4-9637d77d8089",
+        "title": "Electronics Production Assembler - II, Or III",
+        "active": true,
+        "date_updated": 1786679534,
+        "date_posted": 1786679388,
+        "url": "https://ats.rippling.com/d-wave-quantum/jobs/6abf3498-43ca-409f-9e11-409752b360f9",
+        "locations": [
+            "Burnaby, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/dc063dd8-ccc9-4c4c-ad6e-6009c17817e9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Textron",
+        "id": "ab5e0d14-05f1-48f3-bc4d-adbedd6b2066",
+        "title": "Electrical Assembler",
+        "active": true,
+        "date_updated": 1786679461,
+        "date_posted": 1786679334,
+        "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344049",
+        "locations": [
+            "Cartersville, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Textron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "PlanetArt",
+        "id": "7374f199-7fc6-45ac-8316-dc868e97ee81",
+        "title": "Associate Product Manager - Mobile",
+        "active": true,
+        "date_updated": 1786679461,
+        "date_posted": 1786679341,
+        "url": "https://apply.workable.com/planetart/j/D7E3095657/apply",
+        "locations": [
+            "Calabasas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/bc9da3ec-39ea-46ce-922a-918317476696",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Paxton Access",
+        "id": "5362895d-bd5b-49f2-b54b-d0229c342ac0",
+        "title": "Electronics Operator",
+        "active": true,
+        "date_updated": 1786679461,
+        "date_posted": 1786679341,
+        "url": "https://apply.workable.com/paxton-access/j/C4B89FDB13/apply",
+        "locations": [
+            "Brighton, Brighton and Hove, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/d285f8cc-acde-4ad0-9f9f-8af6423d26dd",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "767d1491-f472-4664-be9c-276d9f8aa535",
+        "title": "Engineering Technician - Intermediate",
+        "active": true,
+        "date_updated": 1786679461,
+        "date_posted": 1786679302,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446718288363",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hiive",
+        "id": "2f619c5f-1144-4c30-ab19-f057cd13aef6",
+        "title": "Junior Analyst - Career Launch Program",
+        "active": true,
+        "date_updated": 1786679461,
+        "date_posted": 1786679346,
+        "url": "https://jobs.ashbyhq.com/hiive/8e2a6a7b-a02a-4b51-8d4b-1ebd79027469/application?embed=true",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hiive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "PlanetArt",
+        "id": "077176ea-84be-43ad-9204-26626feaa4df",
+        "title": "Associate Product Manager - Web",
+        "active": true,
+        "date_updated": 1786679461,
+        "date_posted": 1786679339,
+        "url": "https://apply.workable.com/planetart/j/2B193B2C30/apply",
+        "locations": [
+            "Calabasas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/bc9da3ec-39ea-46ce-922a-918317476696",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Honeywell",
+        "id": "ea670782-222f-4f9d-8ca8-8d6120478821",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786679279,
+        "date_posted": 1786679039,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155551",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Broadcom Limited",
+        "id": "539ddb97-a187-4681-9626-955ac26196f8",
+        "title": "Support Engineer - Mainframe",
+        "active": true,
+        "date_updated": 1786679101,
+        "date_posted": 1786579200,
+        "url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-IL-Lisle-Warrenville-Road/Support-Engineer---Mainframe_R026779",
+        "locations": [
+            "Lisle, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Broadcom-Limited",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "86bdbbed-2cac-4420-988c-ff02f061f103",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1786679261,
+        "date_posted": 1786579200,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Engineering-Technician-1_REQ36311",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TDS",
+        "id": "a5204bed-653f-4783-a311-dffd3f9c8339",
+        "title": "Field Service Technician",
+        "active": true,
+        "date_updated": 1786679101,
+        "date_posted": 1786679020,
+        "url": "https://external-telecom-teldta.icims.com/jobs/29836/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Parsons, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/TDS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NRG Energy",
+        "id": "e8bdcf1c-73bd-41c0-9e81-ac1ca1dc598c",
+        "title": "Field Service Technician",
+        "active": true,
+        "date_updated": 1786679144,
+        "date_posted": 1786678898,
+        "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Saint-Paul-Field-Service-Professional-Saint-Paul,-MN-MN-55106/1419350700/?ats=successfactors",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/NRG-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NRG Energy",
+        "id": "df978fa1-bc72-4d6a-9ee5-4faf1bda1df1",
+        "title": "Direct to Home Technician",
+        "active": true,
+        "date_updated": 1786679136,
+        "date_posted": 1786678898,
+        "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Boise-DTH-Full-Time-Technician-Boise,-ID-ID-83705/1419243600/?ats=successfactors",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/NRG-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "0911d4b2-2fef-48c0-a533-4ce070821e3c",
+        "title": "Assembly",
+        "active": true,
+        "date_updated": 1786679128,
+        "date_posted": 1786678887,
+        "url": "https://jobs.l3harris.com/job/Rochester-Assembly-B-NY-14623/1419211200/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Seagate Technology ",
+        "id": "4b1d018c-2a4a-4b40-b79e-97dd465d5531",
+        "title": "Systems Engineer - Early Career",
+        "active": true,
+        "date_updated": 1786679121,
+        "date_posted": 1786678901,
+        "url": "https://seagatecareers.com/job/Longmont-Systems-Engineer-Early-Career-CO-80501/1419329400/?ats=successfactors",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Seagate-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Moffitt Cancer Center",
+        "id": "c905beb6-9fb3-4fd0-9598-23f0425a783c",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1786679119,
+        "date_posted": 1786579200,
+        "url": "https://moffitt.wd108.myworkdayjobs.com/Moffitt/job/Moffitt-Business-Center/DATA-ENGINEER-I_R-2977",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/40bedb0a-2512-40c7-8dd6-798994d59f1e",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NRG Energy",
+        "id": "9b2faaae-2da9-4679-bf65-3c0295a931a9",
+        "title": "Field Service Professional",
+        "active": true,
+        "date_updated": 1786678921,
+        "date_posted": 1786678898,
+        "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Rocky-Mount-Field-Service-Professional-Rocky-Mount,-NC-NC-27801/1419293200/?ats=successfactors",
+        "locations": [
+            "Rocky Mount, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/NRG-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "7f0878a6-efe0-4c9f-8b55-1b2b11300461",
+        "title": "Manufacturing Technician A",
+        "active": true,
+        "date_updated": 1786679103,
+        "date_posted": 1786678876,
+        "url": "https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-A-NY-14623/1419256300/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Associated Bank",
+        "id": "10b1f7da-cc7f-45ba-a157-7054596c9937",
+        "title": "Full-Stack Developer Associate",
+        "active": true,
+        "date_updated": 1786678921,
+        "date_posted": 1786579200,
+        "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/US-WI-Remote/Full-Stack-Developer-Associate_JR106237",
+        "locations": [
+            "Minnesota",
+            "Nebraska",
+            "Wisconsin",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Associated-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kyndryl",
+        "id": "24791851-7303-48e1-abb0-af0ef1452299",
+        "title": "Associate AI Engineer",
+        "active": true,
+        "date_updated": 1786678507,
+        "date_posted": 1786579200,
+        "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739-2",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Kyndryl",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kyndryl",
+        "id": "7b7570bf-652d-4657-b8d5-9255f6211911",
+        "title": "Associate Creative Technologist - Early Career Consult Program",
+        "active": true,
+        "date_updated": 1786678399,
+        "date_posted": 1786579200,
+        "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-Creative-Technologist_R-66763-2",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Kyndryl",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kyndryl",
+        "id": "7894345d-6677-46a0-b561-523670a2aa56",
+        "title": "Associate AI Engineer - Early Career Consult Program",
+        "active": true,
+        "date_updated": 1786678404,
+        "date_posted": 1786579200,
+        "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Kyndryl",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
