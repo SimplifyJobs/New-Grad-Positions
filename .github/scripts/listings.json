@@ -73,24 +73,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Advocate Health Care",
-        "id": "b36d02f5-39e9-4b21-b59d-f86fd3b4e1b6",
-        "title": "Genomics Research Programmer Analyst Associate",
-        "active": false,
-        "date_updated": 1765997673,
-        "date_posted": 1765994639,
-        "url": "https://aah.wd5.myworkdayjobs.com/External/job/Aurora-Sinai-Medical-Center---945-N-12th-St/Research-Programmer-Analyst-Associate---Remote_R190559-1",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Advocate-Health-Care",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "DTCC",
         "id": "0454890b-3e66-4b87-b48f-59083acd8204",
@@ -291610,7 +291592,7 @@
         "company_name": "Molina Healthcare",
         "id": "3c627b5b-4c66-449d-9334-81a95c2483bd",
         "title": "Associate Analyst - Provider Configuration",
-        "active": true,
+        "active": false,
         "date_updated": 1783673641,
         "date_posted": 1783634609,
         "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2038303",
