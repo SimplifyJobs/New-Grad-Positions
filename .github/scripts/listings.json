@@ -55,67 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "52768ce8-4a75-4187-b18e-8fa140972949",
-        "title": "Agentic AI Teacher - AGI Data Services",
-        "active": false,
-        "date_updated": 1765937654,
-        "date_posted": 1765937654,
-        "url": "https://amazon.jobs/en/jobs/3110653/agentic-ai-teacher-agi-data-services",
-        "locations": [
-            "Boston, MA",
-            "Bellevue, WA",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Zions Bank",
-        "id": "54bf44c6-a20e-45af-970a-f6e55605310c",
-        "title": "Enterprise Data Analyst",
-        "active": false,
-        "date_updated": 1765937966,
-        "date_posted": 1765937966,
-        "url": "https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=069070",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Zions-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "dc799011-53dd-40eb-a0b4-033ea01b7cb4",
-        "title": "Research Scientist New College Grad - ML Systems",
-        "active": false,
-        "date_updated": 1765938334,
-        "date_posted": 1765938334,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161",
-        "locations": [
-            "Seattle, WA",
-            "Austin, TX",
-            "Santa Clara, CA",
-            "Westford, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Microchip Technology",
         "id": "d33a4313-f7fb-4bba-900f-667914ffc31b",
@@ -355496,7 +355435,7 @@
         "company_name": "Two Sigma",
         "id": "701b131c-8006-40ac-a07c-5d5d37bd080e",
         "title": "Quantitative Researcher - Full-Time Campus Hire",
-        "active": true,
+        "active": false,
         "date_updated": 1786186801,
         "date_posted": 1785633717,
         "url": "https://twosigma.avature.net/careers/JobDetail/13946",
