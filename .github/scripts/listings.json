@@ -280011,7 +280011,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "dc8cd8dc-3c3b-409c-9320-6db0956ea02c",
         "title": "Python Developer Quant Core Data",
-        "active": true,
+        "active": false,
         "date_updated": 1783030959,
         "date_posted": 1783029963,
         "url": "https://careers-sig.icims.com/jobs/11163/job?mobile=true&needsRedirect=false",
@@ -312483,7 +312483,7 @@
         "company_name": "Samsung",
         "id": "bac7f6de-fd93-49fd-9b39-62e233959186",
         "title": "Failure Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784667421,
         "date_posted": 1783375848,
         "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Failure-Analysis-Engineer_R117351",
@@ -332299,7 +332299,7 @@
         "company_name": "Man Group",
         "id": "d4605cfe-e550-43be-a265-6088c53164ea",
         "title": "IDI Graduate Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785412801,
         "date_posted": 1785317829,
         "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4672725101",
@@ -369119,5 +369119,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zoox",
+        "id": "c57ba1d3-0591-408a-a691-b05626be84f0",
+        "title": "Data Analyst Co-op",
+        "active": true,
+        "date_updated": 1786709555,
+        "date_posted": 1784585370,
+        "url": "https://jobs.lever.co/zoox/5e03b357-0cc1-4194-9488-14f85044f4f9/apply",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
