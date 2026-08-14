@@ -216141,7 +216141,7 @@
         "company_name": "Nextdoor",
         "id": "e03e0a85-11c0-4948-b546-b88e158be2b5",
         "title": "Machine Learning Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1778579507,
         "date_posted": 1776896028,
         "url": "https://about.nextdoor.com/careers-list/?gh_jid=7264954",
@@ -353295,7 +353295,7 @@
         "company_name": "Publicis Groupe",
         "id": "16e57b96-cb86-4910-aed2-5b6ffb2dd33d",
         "title": "Data Analytics Executive",
-        "active": true,
+        "active": false,
         "date_updated": 1786112281,
         "date_posted": 1786112212,
         "url": "https://careers.publicisgroupe.com/jobs/155568?icims=1",
@@ -368958,6 +368958,24 @@
             "Aberdeen, UK"
         ],
         "company_url": "https://simplify.jobs/c/NOV",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "12529772-2749-495d-9c9f-dee50e832158",
+        "title": "Field Service Technician 1",
+        "active": true,
+        "date_updated": 1786697840,
+        "date_posted": 1786054418,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20271295",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
