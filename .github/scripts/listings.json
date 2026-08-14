@@ -241214,7 +241214,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -353990,7 +353990,7 @@
         "company_name": "Northrop Grumman",
         "id": "09fc1b0f-a4c0-424d-b613-2ea9a8bc5994",
         "title": "Associate RF Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786142972,
         "date_posted": 1786060800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2026-Associate-I-T-RF-Engineer---Dulles-VA_R10244551",
@@ -354450,7 +354450,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "4cd3026b-bd03-4f1d-8000-102b2f3f2ace",
         "title": "Quantitative Technology Services Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786142330,
         "date_posted": 1786060800,
         "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Jersey-City-New-Jersey-United-States-of-America/XMLNAME-2027-Analyst--Quantitative-Technology-Services_R-0000183397",
@@ -360493,7 +360493,7 @@
         "company_name": "American Electric Power",
         "id": "3bc045e7-e2f0-4945-9a2f-c8979bb85139",
         "title": "GIS Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786487634,
         "date_posted": 1786406400,
         "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Corpus-Christi-TX/GIS-Technician_R17401",
@@ -360514,7 +360514,7 @@
         "company_name": "RTX",
         "id": "35e67652-0c9e-47c3-920e-1ed6a7f51c3e",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786487628,
         "date_posted": 1786406400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineer-I--Onsite-_01864738",
@@ -368415,6 +368415,68 @@
             "Preston, UK"
         ],
         "company_url": "https://simplify.jobs/c/Dawn-Meats",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "e13d8c02-7038-49a2-87d5-9034b52718f8",
+        "title": "Embedded Software Engineer - Government Training",
+        "active": true,
+        "date_updated": 1786683635,
+        "date_posted": 1786579200,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089",
+        "locations": [
+            "Berkeley, MO",
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "7fdbff33-ffe2-4d3f-b846-0ae624da19ff",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1786683635,
+        "date_posted": 1786579200,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1",
+        "locations": [
+            "Berkeley, MO",
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EMCOR Group",
+        "id": "3d71ecf6-b2b9-4278-befe-ebf1b453d08b",
+        "title": "Business Data Analyst - Construction",
+        "active": true,
+        "date_updated": 1786683760,
+        "date_posted": 1786683441,
+        "url": "https://careers-emcorgroup.icims.com/jobs/1763/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/8a7bcbd1-862c-4963-a888-85bc909988b5",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
