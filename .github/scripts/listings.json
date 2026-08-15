@@ -56,24 +56,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Renaissance",
-        "id": "3e687917-6760-4095-8597-eb19bd914bf3",
-        "title": "Data Analyst 1",
-        "active": false,
-        "date_updated": 1766083878,
-        "date_posted": 1766083878,
-        "url": "https://job-boards.greenhouse.io/renaissancelearning-nam/jobs/5019428008",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Renaissance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Children's Hospital of Philadelphia",
         "id": "60d80e4a-b010-4857-b18f-3a075cd1281a",
         "title": "Lifespan Brain Institute Data Analyst",
@@ -85,24 +67,6 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Childrens-Hospital-Of-Philadelphia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Airbus",
-        "id": "91b1d1af-cb94-412e-ae12-4164510fada8",
-        "title": "Landing Gear Installation Engineer",
-        "active": false,
-        "date_updated": 1766084378,
-        "date_posted": 1766084378,
-        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/Landing-Gear-Installation-Engineer_JR10368631-1",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Airbus",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
