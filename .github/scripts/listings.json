@@ -54,116 +54,6 @@
         "degrees": []
     },
     {
-        "date_updated": 1771250796,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Junior-Software-Engineer_320514",
-        "company_name": "CACI",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Harford, MD"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "28f3167c-875e-44ea-87f9-7caee6bcfd14",
-        "date_posted": 1766067700,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1766399636,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Waltham-MA---Corporate-Headquarters/Junior-Oracle-Integration-Cloud--OIC--Integration-Specialist_R0029882",
-        "company_name": "Global Partners",
-        "title": "Junior Oracle Integration Cloud (OIC) Integration Specialist",
-        "locations": [
-            "Waltham, MA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "fc3e061b-f48e-48d2-987b-93a6a51e9434",
-        "date_posted": 1766067760,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1772694433,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://careers.roblox.com/jobs/7463634?gh_jid=7463634",
-        "company_name": "Roblox",
-        "title": "Data Scientist, Social - PhD Early Career",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "4dc9aeba-569d-4cb2-ad91-85989c0ce67d",
-        "date_posted": 1766067836,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1766718336,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://spgi.wd5.myworkdayjobs.com/spgi_internal/job/California-US/Data-Analyst_322809",
-        "company_name": "S&P Global",
-        "title": "Associate Data Analyst - Mobility",
-        "locations": [
-            "CA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "3a5ad6bf-b10f-48f9-ae03-b81b500239f6",
-        "date_posted": 1766067947,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Trimble",
-        "id": "2fe8f314-0f77-402d-a50a-45b29f0cbbab",
-        "title": "Product Delivery Software Engineer",
-        "active": false,
-        "date_updated": 1766067444,
-        "date_posted": 1766067444,
-        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/UK---Leeds/Product-Delivery-Software-Engineer_R53009-1",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Trimble",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "b3e9803f-4d07-4db7-846c-9c3bc1419991",
-        "title": "Systems Software Engineer",
-        "active": false,
-        "date_updated": 1766067825,
-        "date_posted": 1766067825,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2009926",
-        "locations": [
-            "Hillsboro, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "L3Harris Technologies",
@@ -127498,7 +127388,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -127518,7 +127408,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
