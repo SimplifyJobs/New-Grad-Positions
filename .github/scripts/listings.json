@@ -54,24 +54,6 @@
         "degrees": []
     },
     {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3cbf7709-470c-49e7-8747-4aa79edaf7b3",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1766059636,
-        "date_posted": 1766059636,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043518",
-        "locations": [
-            "Northamptonshire, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1771250796,
         "sponsorship": "U.S. Citizenship is Required",
         "active": false,
@@ -361421,7 +361403,7 @@
         "company_name": "RTX",
         "id": "a8bb8bee-9384-4ef6-b48e-0a00efb028e5",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786572658,
         "date_posted": 1786492800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineer-I--Onsite-_01864603",
@@ -363195,7 +363177,7 @@
         "company_name": "United Smart Tech",
         "id": "ce08b5c1-e516-4712-8628-9fdb658538b6",
         "title": "Field Technician - Mobile Repairs",
-        "active": true,
+        "active": false,
         "date_updated": 1786602244,
         "date_posted": 1786602061,
         "url": "https://unitedsmarttech.bamboohr.com/careers/175/",
