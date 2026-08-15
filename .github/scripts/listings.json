@@ -300004,7 +300004,7 @@
         "company_name": "UTHealth Houston",
         "id": "294e8c59-e444-4348-a3c1-ff277ced192b",
         "title": "Clinical Interface Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1784240316,
         "date_posted": 1784239365,
         "url": "https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/7371",
@@ -354440,7 +354440,7 @@
         "company_name": "Cisco",
         "id": "32ab9955-ba40-4d52-bf87-a16a3a7834be",
         "title": "Software Engineer 3 - ENG/CPO/WTG ETR",
-        "active": true,
+        "active": false,
         "date_updated": 1786388692,
         "date_posted": 1786320000,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-III--Full-Time----United-States-ENG-CPO-WTG-ETR_2022055",
@@ -369356,5 +369356,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Canon",
+        "id": "717279b5-3392-4184-8ec5-92924c627291",
+        "title": "Service Technician 1",
+        "active": true,
+        "date_updated": 1786832191,
+        "date_posted": 1786832029,
+        "url": "https://external-canoncareers.icims.com/jobs/34568/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Coppell, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Canon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BJC HealthCare",
+        "id": "755afd21-51a6-4a39-994c-35c6a3c2b71d",
+        "title": "EHR Application Analyst 1 - Epic Security",
+        "active": true,
+        "date_updated": 1786832104,
+        "date_posted": 1786831817,
+        "url": "https://jobs.bjc.org/jobs/114939?icims=1",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/BJC-HealthCare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
