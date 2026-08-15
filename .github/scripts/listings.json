@@ -56,42 +56,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Nike",
-        "id": "3e5cb099-2500-4f4d-a990-3758b2fa9c41",
-        "title": "Software Engineer 1 - Innovation",
-        "active": false,
-        "date_updated": 1766016843,
-        "date_posted": 1766016843,
-        "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Software-Engineer-I---Innovation_R-76383",
-        "locations": [
-            "Beaverton, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Nike",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "23020f38-4205-42e5-8732-162dcf6562cf",
-        "title": "2026 \u2013 Fulltime-Digital Design Engineer 1",
-        "active": false,
-        "date_updated": 1766016827,
-        "date_posted": 1766016827,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ852-RMS-AP-Bldg-M02-1151-East-Hermans-Road-Building-M02-Tucson-AZ-85756-USA/XMLNAME-2026--Fulltime--Digital-Design-Engineer-I---Onsite-_01812416",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Intuit",
         "id": "147a4d6f-ca02-4b29-a1ef-be527cc0a971",
         "title": "Software Engineer 1",
