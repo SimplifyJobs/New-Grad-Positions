@@ -231035,7 +231035,7 @@
         "company_name": "Q2",
         "id": "83d30405-bde1-4faf-b656-f7eee716c426",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780280823,
         "date_posted": 1780134802,
         "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12023",
@@ -358689,7 +358689,7 @@
         "company_name": "Cisco",
         "id": "9782faa6-b38f-449b-ae6b-37b561818977",
         "title": "Software Engineer 2 - ENG/CPO/WTG ETR",
-        "active": true,
+        "active": false,
         "date_updated": 1786487733,
         "date_posted": 1786406400,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Software-Engineer-II--Full-Time----United-States-ENG-CPO-WTG-ETR_2022718",
@@ -363628,7 +363628,7 @@
         "company_name": "Canon",
         "id": "9fcf1b07-801d-444c-9198-74f2b5786eaa",
         "title": "Pre-Install Copier Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786623322,
         "date_posted": 1779113056,
         "url": "https://external-canoncareers.icims.com/jobs/34076/job?mobile=true&needsRedirect=false",
@@ -364560,7 +364560,7 @@
         "company_name": "RTX",
         "id": "96ca88cc-f34f-46d1-a9a1-985470de3698",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786660492,
         "date_posted": 1786579200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineer-I--Onsite-_01866357",
@@ -369499,7 +369499,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -369774,5 +369774,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "a64e1edd-6e11-4fb5-8c86-047d427e9a2b",
+        "title": "PhD Graduate - Rotational Discovery Program",
+        "active": true,
+        "date_updated": 1786793995,
+        "date_posted": 1786679934,
+        "url": "https://careers.jhuapl.edu/jobs/59404?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Varian",
+        "id": "970b5ae5-ee5d-42bc-bfe5-dcd8a71ce37c",
+        "title": "Field Service Technician",
+        "active": true,
+        "date_updated": 1786795021,
+        "date_posted": 1781951666,
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/CHO-R/Field-Service-Technician---HW---Blacksburg--VA_R-27989-1",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
