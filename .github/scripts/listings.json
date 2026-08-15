@@ -127516,7 +127516,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -127536,7 +127536,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -241358,7 +241358,7 @@
         "company_name": "Tesla",
         "id": "370706b8-ca68-4bd2-8a81-dc851f0ba733",
         "title": "Data Collection Operator - Optimus",
-        "active": false,
+        "active": true,
         "date_updated": 1780796016,
         "date_posted": 1780795891,
         "url": "https://www.tesla.com/careers/search/job/272823",
@@ -302978,7 +302978,7 @@
         "company_name": "The Boeing Company",
         "id": "a6aaef17-692b-47d3-b343-0592b9b8d586",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784423881,
         "date_posted": 1784332800,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Omaha-NE/Software-Engineer_JR2026517990-1",
@@ -302998,7 +302998,7 @@
         "company_name": "The Boeing Company",
         "id": "2254ac53-779c-4e35-af27-c955600704ba",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784423881,
         "date_posted": 1784332800,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Omaha-NE/Software-Engineer_JR2026517990",
@@ -331078,7 +331078,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "25ff5a02-661b-4cf0-88b9-9bde21990ff2",
         "title": "Probabilistic Risk Assessment Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785450593,
         "date_posted": 1785449501,
         "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Probabilistic-Risk-Assessment-Engineer-I-NC/1414234600/?ats=successfactors",
@@ -357297,7 +357297,7 @@
         "company_name": "RTX",
         "id": "e84dfbb5-aeba-4d6f-a175-1c26a3495451",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786469315,
         "date_posted": 1786406400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01858008",
@@ -369589,5 +369589,190 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "e267a8dd-5f7e-4f4f-b9f4-31d332bef5f5",
+        "title": "Advanced Manufacturing Equipment Engineer New Grad",
+        "active": true,
+        "date_updated": 1786785524,
+        "date_posted": 1786665600,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Equipment-Engineer--2027-New-College-Graduate-_JR-2604707",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "c10fe8de-982b-469d-bd86-4b566b881325",
+        "title": "Advanced Manufacturing Equipment Engineer New Grad",
+        "active": true,
+        "date_updated": 1786785527,
+        "date_posted": 1786665600,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Equipment-Engineer--2027-New-College-Graduate-_JR-2604760",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "6e84f2ec-75d6-4ba3-82d4-55bd220a3995",
+        "title": "Advanced Manufacturing Equipment Engineer New Grad",
+        "active": true,
+        "date_updated": 1786785525,
+        "date_posted": 1786665600,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Equipment-Engineer--2027-New-College-Graduate-_JR-2604706",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "42ace1e3-7d43-4cea-89e3-daf382a9297f",
+        "title": "Advanced Manufacturing Equipment Engineer",
+        "active": true,
+        "date_updated": 1786785522,
+        "date_posted": 1786665600,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Equipment-Engineer--2027-New-College-Graduate-_JR-2604703",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "112e1e85-ad6a-40b6-ab73-cbc1622e77d5",
+        "title": "Advanced Manufacturing Equipment Engineer New Grad",
+        "active": true,
+        "date_updated": 1786785519,
+        "date_posted": 1786665600,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Equipment-Engineer--2027-New-College-Graduate-_JR-2604704",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "7db6d258-87e7-4ae1-9627-a16a5d0c8513",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786784824,
+        "date_posted": 1786665600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01866531",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "87423fa3-7d45-408d-836d-dc0f9d316d0c",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786784822,
+        "date_posted": 1786665600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "f4cc51bc-a3b3-4c1b-a7df-08cdc2293da4",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786784825,
+        "date_posted": 1786665600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Software-Engineer-I--Onsite-_01865467",
+        "locations": [
+            "East Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "276200bd-c8a1-416e-8c86-e33bad2d1912",
+        "title": "Data Center Technician",
+        "active": true,
+        "date_updated": 1786785685,
+        "date_posted": 1782770683,
+        "url": "https://amazon.jobs/en/jobs/10409148/dco-tech",
+        "locations": [
+            "New Carlisle, IN",
+            "Hamlet, NC",
+            "Berwick, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
