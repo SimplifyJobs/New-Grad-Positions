@@ -341262,7 +341262,7 @@
         "company_name": "Xcellent Technology Solutions",
         "id": "f9623735-52b0-4633-a58e-f6eaacdc6c33",
         "title": "Operational GEOINT Analyst - Imagery - OPIR",
-        "active": true,
+        "active": false,
         "date_updated": 1785754621,
         "date_posted": 1785737810,
         "url": "https://xtscareers.applytojob.com/apply/u1yXswwTvu/Operational-GEOINT-Analyst-Imagery-OPIR-TSSCI-With-CI-Poly",
@@ -353686,7 +353686,7 @@
         "company_name": "Intellisense Systems Inc",
         "id": "ed19e84f-a8ce-4202-9bf1-31d95e4feab1",
         "title": "Electronics Assembler 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786193323,
         "date_posted": 1785737956,
         "url": "http://intellisensesystemsinc.applytojob.com/apply/dISFLJ5OCK/Electronics-Assembler-I",
@@ -363213,7 +363213,7 @@
         "company_name": "United Smart Tech",
         "id": "fba06d69-bf35-4948-9299-c9e2d7ea5916",
         "title": "Field Technician - Mobile Repairs",
-        "active": true,
+        "active": false,
         "date_updated": 1786602244,
         "date_posted": 1786602060,
         "url": "https://unitedsmarttech.bamboohr.com/careers/101/",
@@ -369795,6 +369795,47 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ByteDance",
+        "id": "f121cdaf-1082-4aa8-af8c-0e27a5d067bf",
+        "title": "Camera and Machine Vision Engineer Graduate - Pico - PhD",
+        "active": true,
+        "date_updated": 1786797556,
+        "date_posted": 1784671956,
+        "url": "https://jobs.bytedance.com/en/position/7537439865178523911/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PlusAI",
+        "id": "eeb5f071-123e-4b59-92a7-006c1689f7cd",
+        "title": "Senior Machine Learning Infrastructure Engineer",
+        "active": true,
+        "date_updated": 1786797541,
+        "date_posted": 1768346065,
+        "url": "https://jobs.lever.co/plus-2/89a2ec90-547f-4ec2-8476-3985353c17d6/apply",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Plus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
