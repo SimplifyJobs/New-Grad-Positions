@@ -55,168 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "147a4d6f-ca02-4b29-a1ef-be527cc0a971",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1766024403,
-        "date_posted": 1766024403,
-        "url": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635830432",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "6f2590f2-2541-42b3-b282-4c916dddc55d",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1766024206,
-        "date_posted": 1766024206,
-        "url": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635832192",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "6231b9e5-46fa-49e4-93e3-d5e7686d2714",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1766024218,
-        "date_posted": 1766024218,
-        "url": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635830480",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Google",
-        "id": "b4160f6c-468f-4d18-93af-6283bfc3c0cd",
-        "title": "Product Manager 1 - Google Cloud",
-        "active": false,
-        "date_updated": 1766023789,
-        "date_posted": 1766023789,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/109636922254467782",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "70a3e572-f730-4153-b6e8-1c40ffddec95",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1766024398,
-        "date_posted": 1766024398,
-        "url": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635832160",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "7a62e778-237b-42f9-996f-b66c276545f3",
-        "title": "Finance AI/ML Engineer",
-        "active": false,
-        "date_updated": 1766024178,
-        "date_posted": 1766024178,
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Finance-AI-ML-Engineer_1200240-1",
-        "locations": [
-            "Spring, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "64d4c35e-4dab-4f21-b561-93ffb6f53db6",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1766024190,
-        "date_posted": 1766024190,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89635839264",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "b7342a85-3db3-4e60-ba1b-97449a4a1e57",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1766024203,
-        "date_posted": 1766024203,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-i/27595/89635830672",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "740839dc-a1c5-45da-9b61-464eaa24c361",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1766024202,
-        "date_posted": 1766024202,
-        "url": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635830560",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "3RedPartners",
         "id": "f577c9be-0138-4283-ac9f-0c18719ac999",
@@ -291663,7 +291501,7 @@
         "company_name": "Johnson Controls",
         "id": "bc16e04e-483c-4b33-9153-1620809d551e",
         "title": "HVAC Equipment Systems Application Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783723202,
         "date_posted": 1783641600,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Linthicum-Maryland-United-States-of-America/HVAC-Equipment-Systems-Application-Engineer-I_WD30273247",
@@ -310304,7 +310142,7 @@
         "company_name": "ASML",
         "id": "b5c59d1a-9c80-455f-9138-838c0b983ddd",
         "title": "Manufacturing Technician - Back Half Days",
-        "active": true,
+        "active": false,
         "date_updated": 1784646544,
         "date_posted": 1783548329,
         "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Manufacturing-Technician---Back-Half-Days_J-00347439",
