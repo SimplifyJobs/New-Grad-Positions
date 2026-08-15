@@ -56,266 +56,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Remi",
-        "id": "28dccb56-3820-44d2-acc7-d8bcb54c7f37",
-        "title": "Software Engineer 1/2",
-        "active": false,
-        "date_updated": 1766099952,
-        "date_posted": 1766099952,
-        "url": "https://jobs.ashbyhq.com/remi/ecb429a1-148f-408d-a777-58299e325998/application",
-        "locations": [
-            "Lehi, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Remi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "bf77afe5-9e39-47ae-8f63-7532cff40b7f",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1766100036,
-        "date_posted": 1766100036,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043578",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "80ee770c-2398-4a25-a88d-81212529efe6",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1766100040,
-        "date_posted": 1766100040,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043569",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "7d1240df-a59e-49ff-ba37-88ddef10ab5f",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1766099884,
-        "date_posted": 1766099884,
-        "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineer-(Greenville,-TX)-TX-75402/1350979600/?ats=successfactors",
-        "locations": [
-            "Greenville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "76c3b85c-956c-4e9f-9f81-71065980b397",
-        "title": "University Graduate - Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1766100081,
-        "date_posted": 1766100081,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160648",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "John Deere",
-        "id": "6b4eb11e-c626-46ad-9b50-4191ef8ceee9",
-        "title": "Engineer \u2013 Motor Grader Module Structures - Product Engineering (CA)",
-        "active": false,
-        "date_updated": 1766100058,
-        "date_posted": 1766100058,
-        "url": "https://johndeere.eightfold.ai/careers/job/137478210542",
-        "locations": [
-            "Davenport, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/John-Deere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Louisiana State University (LSU)",
-        "id": "604661fb-02d5-4c41-b790-cc04bdb97e58",
-        "title": "Postdoctoral Researcher",
-        "active": false,
-        "date_updated": 1766100040,
-        "date_posted": 1766100040,
-        "url": "https://lsu.wd1.myworkdayjobs.com/LSU/job/3255-Patrick-F-Taylor-Hall/Postdoctoral-Researcher_R00111813",
-        "locations": [
-            "Baton Rouge, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Louisiana-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Figure",
-        "id": "d5f0fe23-0a37-470b-a1d9-728b293a7e93",
-        "title": "Helix Data Creator",
-        "active": true,
-        "date_updated": 1766099808,
-        "date_posted": 1766099808,
-        "url": "https://job-boards.greenhouse.io/figureai/jobs/4627111006",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Figure-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uber",
-        "id": "4c10fbb6-7d8d-4e4d-9e57-f7b311353024",
-        "title": "Graduate Software Engineer 1 - Mobile",
-        "active": false,
-        "date_updated": 1766099866,
-        "date_posted": 1766099866,
-        "url": "https://www.uber.com/global/en/careers/list/152559/",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "NYC",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "1b1f7980-ddbf-41b8-983f-3f2852e4d20b",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1766099882,
-        "date_posted": 1766099882,
-        "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineer-(Greenville,-TX)-TX-75402/1350980200/?ats=successfactors",
-        "locations": [
-            "Greenville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uber",
-        "id": "00af498a-93ea-4455-bd19-2138fb8042dd",
-        "title": "Graduate Software Engineer 1",
-        "active": false,
-        "date_updated": 1766099861,
-        "date_posted": 1766099861,
-        "url": "https://www.uber.com/global/en/careers/list/152427/",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "NYC",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hawk-Eye Innovations",
-        "id": "eaefc6f9-db46-45d2-9200-637288332478",
-        "title": "Tracking Systems Operator - Basingstoke",
-        "active": false,
-        "date_updated": 1766099253,
-        "date_posted": 1766099253,
-        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/f77404a6-fbe5-447d-a982-51ec1fdfa1c8/application",
-        "locations": [
-            "Basingstoke, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Altamira Technologies",
-        "id": "a7e21ab7-76e5-43ac-a2ff-59d90092b7c7",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1766099265,
-        "date_posted": 1766099265,
-        "url": "https://jobs.jobvite.com/altamiracorps/job/oms6yfwc?nl=1&nl=1&fr=false",
-        "locations": [
-            "Wright-Patterson AFB, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Altamira-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "University of Texas - Austin",
-        "id": "9ed485ca-3a21-45ea-ac2e-a5e6d9008b04",
-        "title": "Algorithm and Analysis Software Engineer Scientist Associate",
-        "active": false,
-        "date_updated": 1766098912,
-        "date_posted": 1766098912,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Algorithm-and-Analysis-Software-Engineering-Scientist-Associate_R_00043737",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Activision-Blizzard",
         "id": "d0dd7abb-1eba-49a6-afa8-801c0c6fa581",
         "title": "Rotational Engineer - Central Technology",
@@ -363,42 +103,6 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Visa",
-        "id": "c17c5c97-1845-4f9b-a44e-a27edac54868",
-        "title": "Data Engineer - Data Science Platform",
-        "active": false,
-        "date_updated": 1766100210,
-        "date_posted": 1766100210,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000099608999",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "854460cf-8db3-4c01-a418-39d23341ea48",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1766100038,
-        "date_posted": 1766100038,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043579",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -453,42 +157,6 @@
             "New Orleans, LA"
         ],
         "company_url": "https://simplify.jobs/c/Ochsner-Health-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "KLA Corporation",
-        "id": "cbf126dd-2650-4e79-a826-fd01024ec757",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1766100261,
-        "date_posted": 1766100261,
-        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer_2533377",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "d2d4424f-ee21-403c-b9d6-380ec804db00",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1766100087,
-        "date_posted": 1766100087,
-        "url": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89660152448",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -1733,24 +1401,6 @@
             "Canada"
         ],
         "company_url": "https://simplify.jobs/c/McGill-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Mercury Insurance",
-        "id": "5fc2017e-7eb2-453d-8d34-c3c0997ecfb2",
-        "title": "Product Manager 1 Claims Customer Experience",
-        "active": false,
-        "date_updated": 1766186323,
-        "date_posted": 1766099864,
-        "url": "https://careers-mercuryinsurance.icims.com/jobs/5760/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mercury-Insurance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -7404,24 +7054,6 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Corning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Luxury Presence",
-        "id": "8cfd0abd-9671-403a-a5b0-a11e61332935",
-        "title": "Onboarding Specialist",
-        "active": false,
-        "date_updated": 1766100079,
-        "date_posted": 1766100079,
-        "url": "https://jobs.lever.co/luxurypresence/8cce05aa-b475-445f-a137-f693e195043a/apply",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Luxury-Presence",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -28024,24 +27656,6 @@
             "Melbourne, FL"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Quanta Services",
-        "id": "b5f31066-ae59-42ce-b9a9-24674dac5529",
-        "title": "Low Voltage Technician--Savannah - Georgia",
-        "active": false,
-        "date_updated": 1768875571,
-        "date_posted": 1766099922,
-        "url": "https://careers-quanta.icims.com/jobs/13221/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Buford, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Quanta-Services",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -294555,7 +294169,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -327599,7 +327213,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
