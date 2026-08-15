@@ -8245,24 +8245,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "91bd400a-3c12-46c4-80ef-5284610f17b6",
-        "title": "Support Technician",
-        "active": false,
-        "date_updated": 1766027088,
-        "date_posted": 1766027088,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Rogers-AR/Support-Technician_R-1006321",
-        "locations": [
-            "Rogers, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Accenture",
         "id": "8b4d0a2c-e5b4-4518-83e0-07d2ad8cdf78",
@@ -305462,7 +305444,7 @@
         "company_name": "Zededa",
         "id": "a6c9e89f-2433-4341-82a6-aa201ad90379",
         "title": "Software Engineer - Core team",
-        "active": true,
+        "active": false,
         "date_updated": 1784598744,
         "date_posted": 1784596724,
         "url": "https://ats.rippling.com/zededa/jobs/f289c83c-1afd-47fd-bd2a-f57fdba3fd4e",
