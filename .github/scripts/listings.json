@@ -56,42 +56,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "e2389061-0e9a-41b1-be96-f596f4cc92a0",
-        "title": "Associate \u2013 Software Engineer - Carlsbad - CA",
-        "active": false,
-        "date_updated": 1766074404,
-        "date_posted": 1766074404,
-        "url": "https://jobs.l3harris.com/job/Carlsbad-Associate,-Software-Engineer-(Carlsbad,-CA)-CA-92009/1336882300/?ats=successfactors",
-        "locations": [
-            "Carlsbad, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cummins",
-        "id": "7265936b-cd7a-4f4a-9aa9-47fd8a104e9c",
-        "title": "Electronic Systems Product Engineer",
-        "active": false,
-        "date_updated": 1766074169,
-        "date_posted": 1766074169,
-        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2422826",
-        "locations": [
-            "Columbus, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Cummins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "ABB",
         "id": "281972f7-fe22-4cdf-966c-afc5313af31b",
         "title": "Graduate Project Engineer",
@@ -121,135 +85,6 @@
             "Lafayette, CO"
         ],
         "company_url": "https://simplify.jobs/c/Medtronic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sierra Nevada Corporation",
-        "id": "09729c5e-94a7-4cdb-835d-db6bd3415f33",
-        "title": "Engineering Technician 1",
-        "active": false,
-        "date_updated": 1766074796,
-        "date_posted": 1766074796,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Engineering-Technician-I_R0029028",
-        "locations": [
-            "Sparks, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5edcef05-a2c7-47ac-b9f6-1490effb227a",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1766074465,
-        "date_posted": 1766074465,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043521",
-        "locations": [
-            "Whiteley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TD Bank",
-        "id": "8a86df15-f330-430a-80d4-228b3a4a0fa6",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1766074792,
-        "date_posted": 1766074792,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1452735-1",
-        "locations": [
-            "Montreal, QC, Canada",
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "24553591-004c-40ff-a282-2c6e3bb7e11e",
-        "title": "Associate - Software Engineering",
-        "active": false,
-        "date_updated": 1766074420,
-        "date_posted": 1766074420,
-        "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-(Rochester,-NY)-NY-14606/1334377600/?ats=successfactors",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "d1a7f592-f9eb-438b-9e70-aadafa19e804",
-        "title": "Associate Systems Engineer",
-        "active": false,
-        "date_updated": 1766075271,
-        "date_posted": 1766075271,
-        "url": "https://jobs.l3harris.com/job/Carlsbad-Associate,-Systems-Engineer-(Carlsbad,-CA)-CA-92009/1316799600/?ats=successfactors",
-        "locations": [
-            "Carlsbad, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Draper",
-        "id": "9b0a70c9-7ffa-45e4-ab41-d860f0d0e484",
-        "title": "Flight Software Engineer",
-        "active": false,
-        "date_updated": 1766075224,
-        "date_posted": 1766075224,
-        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Flight-Software-Engineer_JR002069",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Draper",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Health Research",
-        "id": "9078138a-f178-46ff-b456-417d23f1c092",
-        "title": "Software Engineer/Developer",
-        "active": false,
-        "date_updated": 1766075080,
-        "date_posted": 1766075080,
-        "url": "https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Software-Engineer-Developer_JR-0001933",
-        "locations": [
-            "Albany, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Health-Research",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -7571,24 +7406,6 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Western-Alliance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "AT&T",
-        "id": "d280566c-d2e8-4e3c-9ccf-8896d56326d9",
-        "title": "Engineering Technician",
-        "active": false,
-        "date_updated": 1766075485,
-        "date_posted": 1766075485,
-        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Columbia-Maryland/Engineering-Technician--Government-_R-93954-1",
-        "locations": [
-            "Columbia, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/ATT",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -23563,26 +23380,6 @@
             "Birmingham, UK"
         ],
         "company_url": "https://simplify.jobs/c/WTW",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "St. Johns Riverside Hospital",
-        "id": "7a0bcd99-cd64-472c-9f49-49365cec720e",
-        "title": "Environmental Services Aide",
-        "active": false,
-        "date_updated": 1768471792,
-        "date_posted": 1766074348,
-        "url": "https://careers-riversidehealth.icims.com/jobs/9418/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/St-Johns-Riverside-Hospital",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -45534,26 +45331,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "d6292fd7-7322-4c0d-a6b8-5e7fe798df24",
-        "title": "Quantitative Financial Risk Analyst \u2013 New Grad",
-        "active": false,
-        "date_updated": 1769767455,
-        "date_posted": 1766075151,
-        "url": "https://careers-sig.icims.com/jobs/9113/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Susquehanna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -110744,26 +110521,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Google",
-        "id": "f8f22029-1f40-411b-bbfa-ed78bbc20189",
-        "title": "RTL Design Engineer \u2013 University Graduate - PhD - Machine Learning",
-        "active": false,
-        "date_updated": 1773125696,
-        "date_posted": 1766074202,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/105829554005648070",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
