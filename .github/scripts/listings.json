@@ -274587,7 +274587,7 @@
         "company_name": "Palo Alto Networks",
         "id": "d02026d4-2f71-4409-b31d-8f9903fd4492",
         "title": "Staff Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782944642,
         "date_posted": 1782943822,
         "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Staff-Software-Engineer_JR-013408",
@@ -359292,7 +359292,7 @@
         "company_name": "Qualcomm",
         "id": "cdd3e444-64a2-4501-8ca6-b90db2dd9ccb",
         "title": "Silicon Lab Support Technician - Support Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786487222,
         "date_posted": 1786486978,
         "url": "https://qualcomm.eightfold.ai/careers/job/446720371742",
@@ -366907,7 +366907,7 @@
         "company_name": "Channel Partners",
         "id": "f0c55b8e-0fe4-4504-a747-d948c8a06bfd",
         "title": "Dedicated Meta Technician Expert",
-        "active": true,
+        "active": false,
         "date_updated": 1786681801,
         "date_posted": 1786680632,
         "url": "https://careers-channelpartners.icims.com/jobs/49549/job?mobile=true&needsRedirect=false",
@@ -369591,5 +369591,65 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "e7bf8164-6dba-40c2-bfc3-38f601c320fc",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786757150,
+        "date_posted": 1786665600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01867125",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "29edc090-b552-4025-b423-23528dab82bb",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786757149,
+        "date_posted": 1786665600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866775",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "0438421d-e6a6-445d-8186-059bcb69347d",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786757156,
+        "date_posted": 1786665600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01867438",
+        "locations": [
+            "Fullerton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
