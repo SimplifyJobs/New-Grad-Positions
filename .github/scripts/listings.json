@@ -295072,7 +295072,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -356898,7 +356898,7 @@
         "company_name": "Bose",
         "id": "34b81f66-3d8a-4fa4-910f-eac9ec32d5c8",
         "title": "Electronics Assembler",
-        "active": true,
+        "active": false,
         "date_updated": 1786441349,
         "date_posted": 1781042839,
         "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-NY---Binghamton/Electronics-Assembler--Glass-Panel-Assembly_R29018",
@@ -357752,7 +357752,7 @@
         "company_name": "Zebra Technologies",
         "id": "3fdd5620-c829-419b-adc6-b6ed44388e17",
         "title": "Repair Technician 1 - Government Contract",
-        "active": true,
+        "active": false,
         "date_updated": 1786487404,
         "date_posted": 1786406400,
         "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bentonville-Arkansas/Repair-Technician-I-Government-Contract---1st-Shift-M-F-6am-2-30pm_JR102495",
@@ -361617,7 +361617,7 @@
         "company_name": "RTX",
         "id": "f049d222-a352-43e2-bcca-b2ead5fc94c1",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786572528,
         "date_posted": 1786492800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineer-I--Onsite-_01865987",
@@ -368754,7 +368754,7 @@
         "company_name": "Applied Materials",
         "id": "e82e6804-4e24-4e45-9518-2d1264d42e0f",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1786745360,
         "date_posted": 1786665600,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-II_R2619362",
@@ -369453,5 +369453,62 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
+        "title": "Engineering New Analyst - Engineering",
+        "active": true,
+        "date_updated": 1786768201,
+        "date_posted": 1786767954,
+        "url": "https://higher.gs.com/roles/171570?type=students",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "00e9ac82-474b-46a0-bc46-aa9e240f3efd",
+        "title": "Software Development Engineer - Early Career",
+        "active": true,
+        "date_updated": 1786768189,
+        "date_posted": 1786767902,
+        "url": "https://amazon.jobs/en/jobs/10502743/software-development-engineer-early-career-2026",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
+        "title": "Engineering New Analyst",
+        "active": true,
+        "date_updated": 1786768199,
+        "date_posted": 1786767953,
+        "url": "https://higher.gs.com/roles/171568?type=students",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
