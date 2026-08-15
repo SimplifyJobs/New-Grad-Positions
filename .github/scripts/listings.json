@@ -354208,7 +354208,7 @@
         "company_name": "L3Harris Technologies",
         "id": "1119f190-988e-48d2-8fe4-84593739c464",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786342431,
         "date_posted": 1786342229,
         "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineeriing-IN-46818/1417402600/?ats=successfactors",
@@ -360324,7 +360324,7 @@
         "company_name": "Cisco",
         "id": "a83af7c2-9a81-4585-acbf-ed85d2dc627d",
         "title": "Software Engineer 2 - Wireless Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1786544502,
         "date_posted": 1786487036,
         "url": "https://careers.cisco.com/global/en/job/2022718",
@@ -369569,5 +369569,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AstraZeneca",
+        "id": "0796306e-88e8-47d9-90fc-d60dff210cfc",
+        "title": "Senior Applied AI & ML Engineer",
+        "active": true,
+        "date_updated": 1786783681,
+        "date_posted": 1786406400,
+        "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/UK---London/Senior-Applied-AI---ML-Engineer---Evinova_R-257950-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AstraZeneca",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
