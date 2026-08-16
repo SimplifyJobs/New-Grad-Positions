@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Qualcomm",
-        "id": "91387a3c-cb9a-4442-904b-ae76cac858ab",
-        "title": "GPU Kernel Development Engineer - Multiple Levels Available - Graphics Software Engineering",
-        "active": false,
-        "date_updated": 1766110989,
-        "date_posted": 1766110989,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446715939731",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "EOS",
         "id": "b283a526-422c-49a5-a949-bd7348ced71f",
@@ -103,79 +85,6 @@
             "Santa Monica, CA"
         ],
         "company_url": "https://simplify.jobs/c/RPA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oracle",
-        "id": "a662d083-24bd-44fe-a514-d51dfb208549",
-        "title": "Senior Software Engineer",
-        "active": false,
-        "date_updated": 1766110792,
-        "date_posted": 1766110792,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320808",
-        "locations": [
-            "Seattle, WA",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WME Group",
-        "id": "6221f4a4-22c5-4737-8bf2-a1d24d131da5",
-        "title": "Analyst \u2013 Analytics",
-        "active": false,
-        "date_updated": 1766110494,
-        "date_posted": 1766110494,
-        "url": "https://wmeimg.wd1.myworkdayjobs.com/endeavor/job/CA-Beverly-Hills---9601-Wilshire/Analyst--Analytics_JR27759-1",
-        "locations": [
-            "Culver City, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/WME-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TD Bank",
-        "id": "093ec260-5c4a-4fb0-b2b9-efcd9d1d4fb1",
-        "title": "Product Owner 1 - Card Payments Journey - Mobile Wallets",
-        "active": false,
-        "date_updated": 1766111151,
-        "date_posted": 1766111151,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Product-Owner-I---Card-Payments-Journey--Mobile-Wallets-_R_1461779-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cohesity",
-        "id": "9e16af23-1fbb-4ff0-b9df-c5eeda6995c8",
-        "title": "Backend Software Engineer",
-        "active": false,
-        "date_updated": 1766110506,
-        "date_posted": 1766110506,
-        "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Backend-Software-Engineer_R02283",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cohesity",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
