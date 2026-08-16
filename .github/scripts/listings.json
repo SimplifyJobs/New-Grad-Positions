@@ -66780,24 +66780,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hawk-Eye Innovations",
-        "id": "5a770fe4-d97b-4197-9b54-a56a4dfa4e53",
-        "title": "Kinatrax Operator",
-        "active": false,
-        "date_updated": 1770976500,
-        "date_posted": 1766140001,
-        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/9f35a50b-0ddc-40f7-b348-b9144add5f13/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "02d771f1-c654-4585-bc6c-96b59a657c1a",
@@ -293344,7 +293326,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -326388,7 +326370,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
