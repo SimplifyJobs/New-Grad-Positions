@@ -55,60 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Highmark Health",
-        "id": "b59ea54c-f00d-4500-b24e-2f8835c677e4",
-        "title": "Associate Data Engineer",
-        "active": false,
-        "date_updated": 1766173361,
-        "date_posted": 1766173361,
-        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/CA-Working-at-Home---California/Associate-Data-Engineer_J273811",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/Highmark-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Parsons",
-        "id": "2e2c0e4f-cc59-4c29-a9fb-d9908fcc7e06",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1766173183,
-        "date_posted": 1766173183,
-        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer_R175644-1",
-        "locations": [
-            "Centreville, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Parsons",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "MedImpact",
-        "id": "13eee0b8-78a5-40c0-9bcb-fbe6ed26fb3b",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1766173211,
-        "date_posted": 1766173211,
-        "url": "https://medimpact.wd5.myworkdayjobs.com/medimpact/job/Remote/Software-Engineer-II_JR102189",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/MedImpact",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Motorola",
         "id": "87b61cc8-e9fa-42c1-ae6c-d5e8a9ae851f",
