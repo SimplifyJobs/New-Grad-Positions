@@ -55,42 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Motorola",
-        "id": "87b61cc8-e9fa-42c1-ae6c-d5e8a9ae851f",
-        "title": "Embedded Software Engineer - Web Interface Developer",
-        "active": false,
-        "date_updated": 1766174609,
-        "date_posted": 1766174609,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Embedded-Software-Engineer--Web-Interface-Developer-_R60565",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Elsevier",
-        "id": "41dc2631-4dd0-4c93-a43f-c58c4c020813",
-        "title": "Data Engineer 1",
-        "active": false,
-        "date_updated": 1766174563,
-        "date_posted": 1766174563,
-        "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London/Data-Engineer-I_R106386",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Elsevier",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Elsevier",
         "id": "c94570fe-9827-45c5-8ab0-d9c77bf2585e",
@@ -367860,5 +367824,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Parsons",
+        "id": "2e2c0e4f-cc59-4c29-a9fb-d9908fcc7e06",
+        "title": "Software Engineer TS",
+        "active": true,
+        "date_updated": 1784608383,
+        "date_posted": 1782956964,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer_R175644-1",
+        "locations": [
+            "Centreville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
