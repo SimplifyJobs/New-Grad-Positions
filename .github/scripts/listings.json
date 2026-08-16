@@ -368204,5 +368204,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rantec Power Systems Inc.",
+        "id": "aa213e1e-da7a-422d-804e-987d69bf4130",
+        "title": "Electronic Assembler - 2nd Shift",
+        "active": true,
+        "date_updated": 1786881241,
+        "date_posted": 1784787215,
+        "url": "https://rantecpowersystemsinc.applytojob.com/apply/Ojo7FSziDb/Electronic-Assembler-2nd-Shift",
+        "locations": [
+            "Baywood-Los Osos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/5c001c0b-6adf-491d-843c-2f5e3d92250d",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
