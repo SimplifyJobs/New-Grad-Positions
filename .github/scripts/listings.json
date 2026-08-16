@@ -55,60 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Activision-Blizzard",
-        "id": "d0dd7abb-1eba-49a6-afa8-801c0c6fa581",
-        "title": "Rotational Engineer - Central Technology",
-        "active": false,
-        "date_updated": 1766101220,
-        "date_posted": 1766101220,
-        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Sherman-Oaks/Rotational-Engineer--Central-Technology_R026155",
-        "locations": [
-            "Sherman Oaks, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NV5 Global",
-        "id": "a9f870e3-70b7-455d-99ef-add8fa664c58",
-        "title": "GIS Technician",
-        "active": false,
-        "date_updated": 1766100814,
-        "date_posted": 1766100814,
-        "url": "https://careers-nv5.icims.com/jobs/11006/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "St. Petersburg, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/NV5-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "3da7dc80-8908-44b9-aab4-41e474802b00",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1766100812,
-        "date_posted": 1766100812,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89660152512",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Applied Materials",
         "id": "d5516769-4cbc-4033-abe3-ee3eb1a298a0",
@@ -157,24 +103,6 @@
             "New Orleans, LA"
         ],
         "company_url": "https://simplify.jobs/c/Ochsner-Health-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AECOM",
-        "id": "4c5d2909-838c-425f-b49f-09872ee3c298",
-        "title": "Entry-Level Planner",
-        "active": false,
-        "date_updated": 1766100865,
-        "date_posted": 1766100865,
-        "url": "https://jobs.smartrecruiters.com/AECOM2/744000099596120",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/AECOM",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -395,84 +323,6 @@
             "Milwaukee, WI"
         ],
         "company_url": "https://simplify.jobs/c/Rockwell-Automation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Boys & Girls Clubs of America",
-        "id": "0f2abe0a-2439-478c-b9de-d36ce7f362ff",
-        "title": "TEMP Specialist - Fundraising Data",
-        "active": false,
-        "date_updated": 1766101413,
-        "date_posted": 1766100945,
-        "url": "https://careers-bgca.icims.com/jobs/8356/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boys-And-Girls-Clubs-Of-America",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Centene",
-        "id": "eaa395d8-b5a0-4177-a265-5946468f2359",
-        "title": "Data Engineer 1",
-        "active": false,
-        "date_updated": 1766101969,
-        "date_posted": 1766101969,
-        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1624135",
-        "locations": [
-            "Texas",
-            "Florida",
-            "South Carolina",
-            "North Carolina",
-            "Missouri"
-        ],
-        "company_url": "https://simplify.jobs/c/Centene",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BlueLabs Analytics",
-        "id": "5272ade2-e6e3-4b48-b25d-d7b688bed375",
-        "title": "Analytics Associate 1",
-        "active": false,
-        "date_updated": 1766102379,
-        "date_posted": 1766102379,
-        "url": "https://job-boards.greenhouse.io/bluelabsanalyticsinc/jobs/5008106007",
-        "locations": [
-            "Washington, DC",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/3ecdc79f-8fc8-40f7-937f-aa01eb195efc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Dematic",
-        "id": "073dcfef-629e-4ca1-aef7-2018f1525a0d",
-        "title": "Warehouse Automation Software Engineer",
-        "active": false,
-        "date_updated": 1766100755,
-        "date_posted": 1766100755,
-        "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Atlanta-GA-United-States/Software-Engineer_JR-0083243",
-        "locations": [
-            "Grand Rapids, MI",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dematic",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -1734,24 +1584,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "OneBlood",
-        "id": "8a269186-6b08-4564-8123-efb8b003aac7",
-        "title": "Phlebotomist Team Leader",
-        "active": false,
-        "date_updated": 1766248208,
-        "date_posted": 1766101368,
-        "url": "https://application-oneblood.icims.com/jobs/15636/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Groton, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/OneBlood",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "1X",
         "id": "057e0940-4860-4f51-b379-eb0df9e13d5b",
@@ -2913,24 +2745,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Salesloft",
-        "id": "da030c18-5d1e-483b-b995-efdefdf607d3",
-        "title": "Associate Product Marketing Manager",
-        "active": false,
-        "date_updated": 1766482621,
-        "date_posted": 1766101328,
-        "url": "https://www.salesloft.com/careers/?gh_jid=7482663",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Salesloft",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -6844,24 +6658,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Q2",
-        "id": "6ec6dab0-0313-4b56-9db8-7e1a88d7bcc2",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1767269642,
-        "date_posted": 1766101927,
-        "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/Software-Engineer_REQ-11939",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Q2Software",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Four Seasons",
         "id": "0e3049e8-deea-4462-9eb5-6b9e9abfd22e",
@@ -7669,24 +7465,6 @@
             "Los Gatos, CA"
         ],
         "company_url": "https://simplify.jobs/c/ChargePoint",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TC Energy",
-        "id": "d3b7408e-de52-4c47-bae0-73f0b121e264",
-        "title": "Gas Quality Analyst",
-        "active": false,
-        "date_updated": 1766100701,
-        "date_posted": 1766100701,
-        "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Charleston-West-Virginia/Gas-Quality-Analyst_JR-09532",
-        "locations": [
-            "Charleston, WV"
-        ],
-        "company_url": "https://simplify.jobs/c/TC-Energy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
