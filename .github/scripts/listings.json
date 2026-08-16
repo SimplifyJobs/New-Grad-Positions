@@ -110,226 +110,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Figure",
-        "id": "f7ab3aa0-2842-452a-bf8f-84aa2ba7aeda",
-        "title": "Helix Data Creator",
-        "active": false,
-        "date_updated": 1766103825,
-        "date_posted": 1766103825,
-        "url": "https://job-boards.greenhouse.io/figureai/jobs/4627110006",
-        "locations": [
-            "Spartanburg, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Figure-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Caterpillar Inc.",
-        "id": "ea682ea0-93e7-4826-842b-a4ecec9fbdeb",
-        "title": "Mining Application Specialist \u2013 Early Career",
-        "active": false,
-        "date_updated": 1766103663,
-        "date_posted": 1766103663,
-        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Arizona/Mining-Application-Specialist---Early-Career_R0000341180",
-        "locations": [
-            "Prescott, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Argonne National Laboratory",
-        "id": "2bf9c752-cec9-4db5-af48-b07d212deed9",
-        "title": "Postdoctoral Appointee-Developing an Exascale Muphfasa - Multi Phase Flow Adaptive Simulator",
-        "active": false,
-        "date_updated": 1766103703,
-        "date_posted": 1766103703,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee-Developing-an-Exascale-MuPhFASa--Multi-Phase-Flow-Adaptive-Simulator-_421533",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "U.S. Bank",
-        "id": "194fa587-61cc-4448-97ef-6d9a0fbdfac9",
-        "title": "Full-Stack Java / Spring Boot Developer",
-        "active": false,
-        "date_updated": 1766103536,
-        "date_posted": 1766103536,
-        "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Full-Stack-Java---Springboot-Developer_2025-0029473",
-        "locations": [
-            "Hopkins, MN",
-            "Chicago, IL",
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Chicago Trading Company",
-        "id": "b8656faa-176e-4e3a-ae3f-47a40d944eef",
-        "title": "Associate C++ Engineer",
-        "active": false,
-        "date_updated": 1766103192,
-        "date_posted": 1766103192,
-        "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4616636005",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Chicago Trading Company",
-        "id": "a13d8b98-9b95-42f2-8811-e63277df534d",
-        "title": "Associate C++ Engineer",
-        "active": false,
-        "date_updated": 1766103201,
-        "date_posted": 1766103201,
-        "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4642278005",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "74b0d431-5be8-48c2-ab3f-23f72250e4cb",
-        "title": "Ground System Operator - Level 2 or 3",
-        "active": false,
-        "date_updated": 1766103291,
-        "date_posted": 1766103291,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Ground-System-Operator---Level-2-or-3_R10217700",
-        "locations": [
-            "Aurora, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "16528576-393c-42a6-8e5f-ed9938d50d74",
-        "title": "Aeronautical Engineer - Liaison Engineering",
-        "active": false,
-        "date_updated": 1766103281,
-        "date_posted": 1766103281,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer-or-Principal-Engineer-Aeronautical---Liaison-Engineering--MRB----4-10-1st-Shift_R10217672",
-        "locations": [
-            "Palmdale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Axle",
-        "id": "be2bf96c-d579-4435-9516-5547b1c80684",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1766103066,
-        "date_posted": 1766103066,
-        "url": "https://job-boards.greenhouse.io/axle/jobs/5006708007",
-        "locations": [
-            "North Bethesda, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/2fb4f27c-8f47-47fe-a3ad-4b033c6586da",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ameresco",
-        "id": "330ea99e-b1fb-4c19-b4fe-aa8d99a6fe4d",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1766102889,
-        "date_posted": 1766102889,
-        "url": "https://ameresco.wd5.myworkdayjobs.com/en-US/Ameresco/job/United-States---Remote/Data-Analyst_R3520",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/89688bf2-cf8f-4629-99bc-ac10ed0ac2e2",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Major League Baseball",
-        "id": "25d25817-db14-4016-ace2-b5615636bf41",
-        "title": "Associate Software Engineer - Baseball Enterprise",
-        "active": false,
-        "date_updated": 1766102866,
-        "date_posted": 1766102866,
-        "url": "https://www.mlb.com/careers/opportunities?gh_jid=7476593",
-        "locations": [
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/MLB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Rockwell Automation",
-        "id": "3a8ab351-2a52-4827-9301-40b634220439",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1766102681,
-        "date_posted": 1766102681,
-        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Software-Engineer---Entry-Level_R25-8544",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "TD Bank",
         "id": "11a9bc04-59ed-49fc-95c0-f86007a7eea2",
         "title": "Machine Learning Engineer 1",
@@ -6694,24 +6474,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Western Alliance",
-        "id": "63750829-9d41-40b9-9db6-51b77f277604",
-        "title": "Engineer 1 - AI Business Engineer",
-        "active": false,
-        "date_updated": 1766103696,
-        "date_posted": 1766103696,
-        "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Engineer-I---AI-Business-Engineer_R11957",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Alliance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Freeform",
         "id": "c2888899-2fd1-4c48-93bb-be212ac1db61",
@@ -7499,24 +7261,6 @@
         "degrees": [
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Caterpillar Inc.",
-        "id": "32e91cc6-443a-474c-b313-9aff99d30354",
-        "title": "Mining Application Specialist",
-        "active": false,
-        "date_updated": 1766103665,
-        "date_posted": 1766103665,
-        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Arizona/Mining-Application-Specialist---Early-Career_R0000341182",
-        "locations": [
-            "San Carlos, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -234813,24 +234557,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "CoreWeave",
-        "id": "2d94d2c9-38a0-4607-86f9-6d9bad3ee2e0",
-        "title": "GPU Infrastructure Software Engineer",
-        "active": false,
-        "date_updated": 1780475401,
-        "date_posted": 1766103640,
-        "url": "https://coreweave.com/careers/job?4627287006&board=coreweave&gh_jid=4627287006",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/CoreWeave",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Matillion",
         "id": "6f064ba4-8cb5-4c86-8237-7530909d2469",
         "title": "Associate Software Engineer",
@@ -291574,25 +291300,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BeyondTrust",
-        "id": "3d6cfbee-bf7c-4fa4-bdc5-7beea6d5ae6a",
-        "title": "Data Engineer Associate",
-        "active": false,
-        "date_updated": 1783953742,
-        "date_posted": 1766103288,
-        "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/6602214",
-        "locations": [
-            "Remote in USA",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BeyondTrust",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
