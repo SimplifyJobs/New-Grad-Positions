@@ -55,96 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Sherwin-Williams",
-        "id": "0b5908be-12ff-42bf-ae2f-5e21df2a4bbd",
-        "title": "Assistant Product Manager-Retail",
-        "active": false,
-        "date_updated": 1766161148,
-        "date_posted": 1766161148,
-        "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2544647",
-        "locations": [
-            "Cleveland, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Sherwin-Williams",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "b67a6b03-1465-4f38-a30d-171b0286802c",
-        "title": "NETA Testing Technician-Charleston - SC",
-        "active": false,
-        "date_updated": 1766160825,
-        "date_posted": 1766160825,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20264459",
-        "locations": [
-            "Charleston, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Grayce",
-        "id": "0cf4e16a-d2de-4495-8b50-230622375371",
-        "title": "Graduate Data Analyst",
-        "active": false,
-        "date_updated": 1766160742,
-        "date_posted": 1766160742,
-        "url": "https://apply.workable.com/grayce/j/6CD0332293/apply",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hawk-Eye Innovations",
-        "id": "d485a670-74e6-41f1-a20f-f0f338dcd3f3",
-        "title": "Growth Sports Systems Operator",
-        "active": false,
-        "date_updated": 1766160445,
-        "date_posted": 1766160445,
-        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/7233a665-95c1-47e9-bc1a-095648f7a9a1/application",
-        "locations": [
-            "Basingstoke, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Microsoft",
-        "id": "55165be0-ddb9-4546-b3a3-5ae4196c3515",
-        "title": "Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1766160464,
-        "date_posted": 1766160464,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556641984",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Mark43",
         "id": "58959f63-0639-4070-b960-e2dc375f96a7",
@@ -193,78 +103,6 @@
             "California"
         ],
         "company_url": "https://simplify.jobs/c/SP-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "bbc8a254-7fa7-4945-986c-9a32fe8c0de6",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1766161003,
-        "date_posted": 1766161003,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043625",
-        "locations": [
-            "Bracknell, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "8d4b267a-7b82-4cd0-86b9-7fb984301210",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1766160948,
-        "date_posted": 1766160948,
-        "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineer-(Greenville,-TX)-TX-75402/1351121100/?ats=successfactors",
-        "locations": [
-            "Greenville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PitchBook",
-        "id": "b35a0fd8-95ac-4c84-a7ac-b1465f91d481",
-        "title": "Associate Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1766161655,
-        "date_posted": 1766161655,
-        "url": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4625767006",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/PitchBook",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PitchBook",
-        "id": "d8b68811-4d27-44f3-b50d-5d7e40a0b7d8",
-        "title": "Associate Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1766161652,
-        "date_posted": 1766161652,
-        "url": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4625765006",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/PitchBook",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -6284,24 +6122,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/519b47ce-ff84-4832-85b9-25e0fb0988bb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Corning",
-        "id": "35e47a88-ffb9-4320-8b26-b37a6cabd1e4",
-        "title": "Equipment Technician Trainee",
-        "active": false,
-        "date_updated": 1766161277,
-        "date_posted": 1766161277,
-        "url": "https://corningjobs.corning.com/job/Phoenix-Equipment-Technician-Trainee-AZ-85353/1351126900/?ats=successfactors",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Corning",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -24380,24 +24200,6 @@
             "Tennessee"
         ],
         "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Trustpilot",
-        "id": "a00bc98a-5c73-422e-85b3-26adb49bf73a",
-        "title": "Fraud Detection Analyst",
-        "active": false,
-        "date_updated": 1768557038,
-        "date_posted": 1766161259,
-        "url": "https://business.trustpilot.com/jobs/7458108?gh_jid=7458108",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Trustpilot",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -64516,26 +64318,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "9d5e8f36-82d3-42d5-a61a-e1b14dfc5bdb",
-        "title": "AI Data Associate - Artificial General Intelligence",
-        "active": false,
-        "date_updated": 1770892087,
-        "date_posted": 1766160457,
-        "url": "https://amazon.jobs/en/jobs/3136405/ai-data-associate-portuguese-artificial-general-intelligence",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
