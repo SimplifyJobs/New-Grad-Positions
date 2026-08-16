@@ -55,60 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mark43",
-        "id": "58959f63-0639-4070-b960-e2dc375f96a7",
-        "title": "Software Engineer - Integrations",
-        "active": false,
-        "date_updated": 1766163121,
-        "date_posted": 1766163121,
-        "url": "https://mark43.com/list-job/7289097?gh_jid=7289097",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Mark43",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cambridge Mobile Telematics",
-        "id": "7c53845d-e388-475a-81d4-049b03c3f2c9",
-        "title": "Software Engineer - Backend",
-        "active": false,
-        "date_updated": 1766163038,
-        "date_posted": 1766163038,
-        "url": "https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=7487382",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/CMTelematics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "S&P Global ",
-        "id": "398b1c10-fc5a-4cff-9b81-7b25f65d89a7",
-        "title": "Associate Data Analyst - Mobility",
-        "active": false,
-        "date_updated": 1766162476,
-        "date_posted": 1766162476,
-        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/California-US/Data-Analyst_322809-1",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/SP-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Astreya",
         "id": "6c059df0-3235-401d-818c-251a059c9f6c",
