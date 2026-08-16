@@ -55,60 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EOS",
-        "id": "b283a526-422c-49a5-a949-bd7348ced71f",
-        "title": "Data Center Repair Technician - Breakfix",
-        "active": false,
-        "date_updated": 1766112499,
-        "date_posted": 1766112499,
-        "url": "https://eosits.com/company/careers/?gh_jid=8346190002",
-        "locations": [
-            "Lehi, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/EOS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RPA",
-        "id": "09bbd6a0-9b10-4c12-a4e8-1eed49dfa289",
-        "title": "Data Engineer",
-        "active": false,
-        "date_updated": 1766111924,
-        "date_posted": 1766111924,
-        "url": "https://job-boards.greenhouse.io/rpa/jobs/4642404005",
-        "locations": [
-            "Santa Monica, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/RPA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Stanley Black & Decker",
-        "id": "0964c159-3c43-452a-ae54-76fdd1a3844f",
-        "title": "Service Technician",
-        "active": false,
-        "date_updated": 1766113001,
-        "date_posted": 1766113001,
-        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Addison-IL-United-States/Service-Technician_REQ-1000044638",
-        "locations": [
-            "Elmhurst, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Sherwin-Williams",
         "id": "0b5908be-12ff-42bf-ae2f-5e21df2a4bbd",
@@ -6013,24 +5959,6 @@
             "Bethesda, MD"
         ],
         "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Stanley Black & Decker",
-        "id": "040fa9f6-5e38-4f0e-aadd-f18d1849e60d",
-        "title": "Service Technician",
-        "active": false,
-        "date_updated": 1766112995,
-        "date_posted": 1766112995,
-        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Ontario-CA-United-States/Service-Technician_REQ-1000044669",
-        "locations": [
-            "Ontario, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
