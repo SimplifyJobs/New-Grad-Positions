@@ -55,60 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Applied Materials",
-        "id": "d5516769-4cbc-4033-abe3-ee3eb1a298a0",
-        "title": "Global Technical Product Marketing - New College Grad-PhD",
-        "active": false,
-        "date_updated": 1766104527,
-        "date_posted": 1766104527,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-NCG---Global-Technical-Product-Marketing---PhD--Santa-Clara--CA-_R2520001",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "mthree",
-        "id": "d2c5ed6e-2f57-4e96-8923-6261fc7b6a2a",
-        "title": "D\u00e9veloppeur Java / Junior Java Developer - Canada - Montreal",
-        "active": false,
-        "date_updated": 1766104465,
-        "date_posted": 1766104465,
-        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4627073006",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ochsner Health System",
-        "id": "97d30112-5459-4697-98c9-e3028c8812a1",
-        "title": "Planning Data Analyst - Strategic Planning",
-        "active": false,
-        "date_updated": 1766104627,
-        "date_posted": 1766104627,
-        "url": "https://ochsner.wd1.myworkdayjobs.com/ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/Planning-Data-Analyst---Strategic-Planning_REQ_00239147",
-        "locations": [
-            "New Orleans, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ochsner-Health-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "TD Bank",
         "id": "11a9bc04-59ed-49fc-95c0-f86007a7eea2",
@@ -6233,24 +6179,6 @@
             "Bethesda, MD"
         ],
         "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amentum",
-        "id": "5e20afd1-9124-42ba-a6dc-0b14490579ef",
-        "title": "Entry Level Electrical RF Engineer",
-        "active": false,
-        "date_updated": 1766104451,
-        "date_posted": 1766104451,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Electrica-RF-Engineer_R0150759",
-        "locations": [
-            "Dahlgren, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
