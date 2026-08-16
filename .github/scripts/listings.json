@@ -55,47 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Elsevier",
-        "id": "c94570fe-9827-45c5-8ab0-d9c77bf2585e",
-        "title": "Data Engineer 1",
-        "active": false,
-        "date_updated": 1766184869,
-        "date_posted": 1766184869,
-        "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London/Data-Engineer-I_R106384",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Elsevier",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Alcon",
-        "id": "8f56051f-1697-48fe-848d-636b63cb603c",
-        "title": "Field Service Engineer",
-        "active": false,
-        "date_updated": 1766184435,
-        "date_posted": 1766184435,
-        "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Remote---England/Field-Service-Engineer---Midlands--West-Country-and-South-East_R-2025-44251-1",
-        "locations": [
-            "Maidstone, UK",
-            "Essex, UK",
-            "Bristol, UK",
-            "Birmingham, UK",
-            "Gloucester, UK",
-            "Bath, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/alcon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "DL Trading",
         "id": "0ea795ba-17a3-44a2-b227-e95d68de404a",
