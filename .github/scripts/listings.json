@@ -365289,7 +365289,7 @@
         "company_name": "World Kinect",
         "id": "abd48cd7-7236-4856-8308-48d8cda4895a",
         "title": "Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786745759,
         "date_posted": 1786745561,
         "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL-Remote/Data-Analyst_R22467",
@@ -367271,6 +367271,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "39639fa7-e69d-4585-b0bc-0bfe69452b6d",
+        "title": "ASIC FPGA Engineer",
+        "active": true,
+        "date_updated": 1786996166,
+        "date_posted": 1786996078,
+        "url": "https://careers-gdms.icims.com/jobs/74353/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
