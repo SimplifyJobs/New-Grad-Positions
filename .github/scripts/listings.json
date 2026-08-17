@@ -306851,7 +306851,7 @@
         "company_name": "Optiver",
         "id": "d73deee7-6165-42a6-a011-7c892c312c94",
         "title": "Graduate FPGA Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784654462,
         "date_posted": 1784643587,
         "url": "https://www.optiver.com/join-us/jobs/8402081002/?gh_jid=8402081002",
@@ -367198,6 +367198,27 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CSI",
+        "id": "4f8ad54a-59ae-44f1-b878-303aec5b1733",
+        "title": "Product Manager - Business Banking & Treasury Management",
+        "active": true,
+        "date_updated": 1786978621,
+        "date_posted": 1786924800,
+        "url": "https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Paducah-KY-Corporate/Product-Manager---Business-Banking---Treasury-Management_R-100612",
+        "locations": [
+            "Paducah, KY",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CSI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
