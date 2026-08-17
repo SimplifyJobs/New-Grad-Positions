@@ -55,96 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Motorola",
-        "id": "ae48fdd6-8ebd-4886-98fa-6b807e8441a8",
-        "title": "Electronics Test and Assembly Technician \u2013 Entry Level - PM Shift",
-        "active": false,
-        "date_updated": 1766188243,
-        "date_posted": 1766188243,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Electronics-Test-and-Assembly-Technician--PM-Shift---Entry-Level-_R60591",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "S&P Global ",
-        "id": "448f03db-bd37-452a-b968-930217c06d2d",
-        "title": "Product Analyst Associate - Financial Risk Analytics",
-        "active": false,
-        "date_updated": 1766188346,
-        "date_posted": 1766188346,
-        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/London-UK/Product-Analyst-Associate---Financial-Risk-Analytics_324155-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/SP-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Thermo Fisher Scientific",
-        "id": "00de3f0a-9bf7-4554-a1a8-3fa2c90e15d3",
-        "title": "Field Service Engineer - Semiconductor",
-        "active": false,
-        "date_updated": 1766188467,
-        "date_posted": 1766188467,
-        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Oregon-USA/Field-Service-Engineer--Semiconductor-_R-01338235",
-        "locations": [
-            "Oregon"
-        ],
-        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "1b2411fb-984f-41c6-b71f-4d4fe59d9fe7",
-        "title": "Postdoctoral Appointee",
-        "active": false,
-        "date_updated": 1766188125,
-        "date_posted": 1766188125,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Mixed-Reduced-Precision-Computing-on-Modern-Hardware_421528-1",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Carnegie Mellon University",
-        "id": "100280c9-9300-41a5-865a-b23540a18fc6",
-        "title": "Research Assistant - Electrical and Computer Engineering",
-        "active": false,
-        "date_updated": 1766187227,
-        "date_posted": 1766187227,
-        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Electrical-and-Computer-Engineering_2023955",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Blissway",
         "id": "fd27c862-4103-4dfd-93c8-a7f5f107a3b4",
@@ -1541,24 +1451,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "KBR",
-        "id": "a6b09df4-5008-4fac-911e-813f175a7c49",
-        "title": "Early Careers Electronic Warfare Engineer",
-        "active": false,
-        "date_updated": 1766484488,
-        "date_posted": 1766188406,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Jacksonville-Florida/Entry-Level--Electronic-Warfare-Engineer_R2116796",
-        "locations": [
-            "Jacksonville, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -5051,24 +4943,6 @@
             "England, UK"
         ],
         "company_url": "https://simplify.jobs/c/GXO-Logistics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Pfizer",
-        "id": "e4dd0561-d460-4d68-b553-8ef1ab1305e8",
-        "title": "Postdoctoral Fellow in AI/ML Applications for Vaccine Research and Development",
-        "active": false,
-        "date_updated": 1766188497,
-        "date_posted": 1766188497,
-        "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---Pearl-River/Postdoctoral-Fellow-in-AI-ML-Applications-for-Vaccine-Research---Development_4948673-2",
-        "locations": [
-            "New City, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Pfizer",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -172497,26 +172371,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Varda Space",
-        "id": "2029dab2-f71a-4687-9fea-eb969195638c",
-        "title": "Mechanisms Engineer - Payloads",
-        "active": false,
-        "date_updated": 1776463921,
-        "date_posted": 1766187281,
-        "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7569145003",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Varda-Space",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "3910597e-435c-481b-ba10-d9042ecc58fe",
@@ -174420,24 +174274,6 @@
         "degrees": [
             "Certificate"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Electronic Arts",
-        "id": "840697b9-53ed-4222-80db-3c78eb4e0db4",
-        "title": "Producer 1 EA SPORTS UFC",
-        "active": false,
-        "date_updated": 1776503786,
-        "date_posted": 1766187129,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Producer-I-EA-SPORTS-UFC/212178",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
