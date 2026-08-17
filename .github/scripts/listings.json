@@ -57,42 +57,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Intuit",
-        "id": "2b884353-413b-4813-be81-d6b39e24154b",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1766197878,
-        "date_posted": 1766197878,
-        "url": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89706909312",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "IXL Learning",
-        "id": "94b32e45-6450-4d60-99d8-2b58dfd7bc7d",
-        "title": "Software Developer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1766198047,
-        "date_posted": 1766198047,
-        "url": "https://www.ixl.com/company/jobs?gh_jid=8335624002",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/IXL-Learning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
         "id": "e58e223e-a985-401d-85ae-75753467dc43",
         "title": "Software Engineer 1",
         "active": false,
@@ -366039,7 +366003,7 @@
         "company_name": "MatX",
         "id": "7690c458-65bd-4c0a-83af-d57c723c46ac",
         "title": "Silicon Architect - AI Accelerator",
-        "active": true,
+        "active": false,
         "date_updated": 1786746601,
         "date_posted": 1779229336,
         "url": "https://job-boards.greenhouse.io/matx/jobs/5225637008",
