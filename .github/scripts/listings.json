@@ -55,60 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0e36f8e3-b89a-4b0c-b49e-f206eaf0c328",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1766247699,
-        "date_posted": 1766247699,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043660",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "df0e264a-7848-4276-9609-3681f715cddc",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1766247189,
-        "date_posted": 1766247189,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043662",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9f02a639-9df9-4fd8-8955-13efb7240297",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1766247193,
-        "date_posted": 1766247193,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043663",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "1X",
         "id": "057e0940-4860-4f51-b379-eb0df9e13d5b",
@@ -133115,7 +133061,7 @@
         "company_name": "EOS IT Solutions",
         "id": "28008952-06ed-4dfb-84a9-6a22f0d88a4e",
         "title": "Data Center Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1774476741,
         "date_posted": 1774476741,
         "url": "https://eosits.com/company/careers/?gh_jid=8480396002",
@@ -332889,7 +332835,7 @@
         "company_name": "TRIMEDX",
         "id": "6cacfd31-0d85-4040-9e38-d29125f75b63",
         "title": "Entry-level Imaging Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785613224,
         "date_posted": 1784246400,
         "url": "https://trimedx.wd1.myworkdayjobs.com/TMX/job/Winchester-VA/Career-growth-opportunity---entry-level-Imaging-Engineer_R14541",
