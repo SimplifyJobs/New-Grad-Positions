@@ -124585,7 +124585,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -124605,7 +124605,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -355888,7 +355888,7 @@
         "company_name": "Loblaw Companies",
         "id": "ac800644-9bfe-4199-a02b-e42fa2e1d163",
         "title": "Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786487637,
         "date_posted": 1786406400,
         "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Data-Engineer-I_R2000691512",
@@ -367115,6 +367115,46 @@
             "Herndon, VA"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Dynamics Information Technology",
+        "id": "333d668e-a703-465a-adfe-71773ba80e9b",
+        "title": "Data Quality Monitoring Engineer",
+        "active": true,
+        "date_updated": 1786974841,
+        "date_posted": 1786924800,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NE-Offutt-AFB/Data-Quality-Monitoring-Engineer_RQ226071-2",
+        "locations": [
+            "Offutt AFB, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bosch Home Comfort",
+        "id": "bce15e51-43fd-48b2-b19d-13cf407e97f0",
+        "title": "Graduate Product Owner",
+        "active": true,
+        "date_updated": 1786974482,
+        "date_posted": 1786974479,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143746494",
+        "locations": [
+            "Worcester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
