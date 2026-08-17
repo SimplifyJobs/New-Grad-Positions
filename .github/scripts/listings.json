@@ -272951,7 +272951,7 @@
         "company_name": "Northrop Grumman",
         "id": "0c478e48-883a-4806-97e1-a6a73a0fa019",
         "title": "Aeronautical Engineer - Hardware Avionics",
-        "active": true,
+        "active": false,
         "date_updated": 1782962899,
         "date_posted": 1782957213,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Engineer-Principal-Engineer-Aeronautical---Hardware-Avionics_R10238026",
@@ -304913,7 +304913,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "6cb13044-28d6-4291-9684-4c9f64739102",
         "title": "Postdoctoral Appointee - Convective Storms and Severe Weather",
-        "active": true,
+        "active": false,
         "date_updated": 1784613421,
         "date_posted": 1781360861,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Convective-Storms-and-Severe-Weather_422701",
@@ -331681,7 +331681,7 @@
         "company_name": "IMEG",
         "id": "9e6ec2b9-947d-4984-a02e-67a2f3e74813",
         "title": "Survey Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1785584161,
         "date_posted": 1781951714,
         "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Survey-Technician_R-15917",
@@ -354227,7 +354227,7 @@
         "company_name": "RTX",
         "id": "16ec52d6-22ea-499e-94f2-28744df9e6ff",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786469322,
         "date_posted": 1786406400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I---Onsite-_01865303",
@@ -361700,7 +361700,7 @@
         "company_name": "Dexcom",
         "id": "a9facee3-51ba-46e7-8ce7-3f9b3d0c85d6",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786660201,
         "date_posted": 1786579200,
         "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540",
@@ -367223,6 +367223,88 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "County of Kauai",
+        "id": "7ed05700-9bd2-454d-90af-970389552705",
+        "title": "Geographic Information Systems Analyst 1 - GIS",
+        "active": true,
+        "date_updated": 1786980090,
+        "date_posted": 1786924800,
+        "url": "https://kauai.wd1.myworkdayjobs.com/Kauai_External_Career_Site/job/Department-of-Finance-Real-Property-Assessments/Geographic-Information-Systems--GIS--Analyst-I_R-8117-1",
+        "locations": [
+            "Hawaii"
+        ],
+        "company_url": "https://simplify.jobs/c/County-Of-Kauai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "c4137d57-49b6-414a-9839-5669e8a38b9a",
+        "title": "Cartographic Analyst Junior",
+        "active": true,
+        "date_updated": 1786979617,
+        "date_posted": 1786924800,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Springfield-VA/Cartographic-Analyst-Junior_R-00189665",
+        "locations": [
+            "Springfield, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Optiver",
+        "id": "be3e6820-439b-4242-84a6-7638cd7ad5a9",
+        "title": "Quantitative Researcher Graduate - 2027 Start",
+        "active": true,
+        "date_updated": 1786979619,
+        "date_posted": 1786979361,
+        "url": "https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Optiver",
+        "id": "ade12fd2-c7ac-4bc6-973c-8734cf02e04d",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1786979617,
+        "date_posted": 1786979361,
+        "url": "https://www.optiver.com/join-us/jobs/8561859002/?gh_jid=8561859002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
