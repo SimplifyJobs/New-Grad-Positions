@@ -5,17 +5,17 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 396 New Grad Roles by Category
+### Browse 393 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (216)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (6)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (88)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (87)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (15)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (71)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (69)
 
 💼 **[Other](#-other-new-grad-roles)** (0)
 
@@ -10213,13 +10213,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Cigna-Group?utm_source=GHList&utm_medium=company">Cigna Group</a></strong></td>
-<td>Technology Development Program New Grad - Data & Analytics Engineering Track</td>
-<td>Morris Plains, NJ</br>St. Louis, MO</br>Bloomfield, CT</td>
-<td><div align="center"><a href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Data---Analytics-Engineering-Track_26009518-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/272a8a12-a059-4b95-8352-e8d3fa58f498?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company">Applied Materials</a></strong></td>
 <td>Data Scientist New Grad - Masters Degree 🎓</td>
 <td>Santa Clara, CA</td>
@@ -10756,7 +10749,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (262)</summary>
+<summary>🗃️ Inactive roles (263)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -10780,6 +10773,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/40bedb0a-2512-40c7-8dd6-798994d59f1e?utm_source=GHList&utm_medium=company">Moffitt Cancer Center</a></strong></td>
 <td>Data Engineer 1</td>
 <td>Tampa, FL</td>
+<td>🔒</td>
+<td>4d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Cigna-Group?utm_source=GHList&utm_medium=company">Cigna Group</a></strong></td>
+<td>Technology Development Program New Grad - Data & Analytics Engineering Track</td>
+<td>Morris Plains, NJ</br>St. Louis, MO</br>Bloomfield, CT</td>
 <td>🔒</td>
 <td>4d</td>
 </tr>
@@ -13042,20 +13042,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/AeroVironment?utm_source=GHList&utm_medium=company">AeroVironment</a></strong></td>
 <td>Software Engineer 1 - Embedded</td>
 <td>Sunrise, FL</td>
-<td><div align="center"><a href="https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-1_8366?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/05e9424f-87b6-46d1-aa6f-b361e8502f05?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineer 1-2 - Embedded</td>
-<td>Sunrise, FL</td>
-<td><div align="center"><a href="https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-2_8367?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/01a849bc-7555-48e8-b383-fdcdc0c18afc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineer 1 - Embedded</td>
-<td>Sunrise, FL</td>
 <td><div align="center"><a href="https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-3_8368?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b149ffe7-5cf9-4e18-8175-052fb98c6c6b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>6d</td>
 </tr>
@@ -13400,7 +13386,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (323)</summary>
+<summary>🗃️ Inactive roles (325)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -13494,6 +13480,20 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Jupiter, FL</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/AeroVironment?utm_source=GHList&utm_medium=company">AeroVironment</a></strong></td>
+<td>Software Engineer 1 - Embedded</td>
+<td>Sunrise, FL</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer 1-2 - Embedded</td>
+<td>Sunrise, FL</td>
 <td>🔒</td>
 <td>6d</td>
 </tr>
