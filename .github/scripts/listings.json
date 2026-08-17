@@ -353026,7 +353026,7 @@
         "company_name": "Fidelity Investments",
         "id": "12f41653-efd9-400f-b588-f28d7d390aaf",
         "title": "Associate Analyst - Defined Benefit",
-        "active": true,
+        "active": false,
         "date_updated": 1786410941,
         "date_posted": 1786320000,
         "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Covington-KY/Associate-Analyst--Defined-Benefit---Early-Career_2133744",
@@ -354093,7 +354093,7 @@
         "company_name": "AeroVironment",
         "id": "01a849bc-7555-48e8-b383-fdcdc0c18afc",
         "title": "Software Engineer 1-2 - Embedded",
-        "active": true,
+        "active": false,
         "date_updated": 1786469323,
         "date_posted": 1786406400,
         "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-2_8367",
@@ -354113,7 +354113,7 @@
         "company_name": "AeroVironment",
         "id": "05e9424f-87b6-46d1-aa6f-b361e8502f05",
         "title": "Software Engineer 1 - Embedded",
-        "active": true,
+        "active": false,
         "date_updated": 1786469324,
         "date_posted": 1786406400,
         "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-1_8366",
@@ -361219,7 +361219,7 @@
         "company_name": "Cigna Group",
         "id": "272a8a12-a059-4b95-8352-e8d3fa58f498",
         "title": "Technology Development Program New Grad - Data & Analytics Engineering Track",
-        "active": true,
+        "active": false,
         "date_updated": 1786661004,
         "date_posted": 1786579200,
         "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Data---Analytics-Engineering-Track_26009518-1",
@@ -362428,7 +362428,7 @@
         "company_name": "International Motors, LLC",
         "id": "03f6dca1-a185-4cea-9fdc-a7804e7ad3fc",
         "title": "Supply Chain Analytics Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1786681130,
         "date_posted": 1786680260,
         "url": "https://careers.navistar.com/jobs/59467?icims=1",
@@ -367293,5 +367293,41 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NRG Energy",
+        "id": "ecbe02a9-9c69-459f-b420-d44fe98d4b08",
+        "title": "Field Service Professional",
+        "active": true,
+        "date_updated": 1787002201,
+        "date_posted": 1787002104,
+        "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Rochester-Field-Service-Professional-Rochester,-MN-MN-55902/1420325300/?ats=successfactors",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/NRG-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NRG Energy",
+        "id": "16fbaaca-5c43-4db3-b340-4731c9d9677d",
+        "title": "Field Service Professional",
+        "active": true,
+        "date_updated": 1787002201,
+        "date_posted": 1787002110,
+        "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Saint-Cloud-Field-Service-Professional-Saint-Cloud,-MN-MN-56303/1420092500/?ats=successfactors",
+        "locations": [
+            "St Cloud, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/NRG-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
