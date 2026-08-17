@@ -367306,5 +367306,25 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "b88dd0a1-6b97-4621-877d-a5a1b1d52033",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1786981321,
+        "date_posted": 1786981153,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8130715",
+        "locations": [
+            "Whitman, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
     }
 ]
