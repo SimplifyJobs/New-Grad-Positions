@@ -56,97 +56,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Blissway",
-        "id": "fd27c862-4103-4dfd-93c8-a7f5f107a3b4",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1766196674,
-        "date_posted": 1766196674,
-        "url": "https://jobs.ashbyhq.com/blissway/206ceeef-4283-481c-a46d-e7273f597844/application",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Blissway",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Netflix",
-        "id": "d0fff61d-beda-4708-9ddf-93dffcd773b1",
-        "title": "CFX Technical Assistant",
-        "active": false,
-        "date_updated": 1766196919,
-        "date_posted": 1766196919,
-        "url": "https://explore.jobs.netflix.net/careers/job/790313346383",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Netflix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Netflix",
-        "id": "3e6c855c-3d2c-4119-aadb-6939faf701d8",
-        "title": "CFX Technical Assistant",
-        "active": false,
-        "date_updated": 1766196914,
-        "date_posted": 1766196914,
-        "url": "https://explore.jobs.netflix.net/careers/job/790313347047",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Netflix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "cf380b5b-0bd5-4b3b-a2d4-a755170da462",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1766197429,
-        "date_posted": 1766197429,
-        "url": "https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89706909344",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Marqeta",
-        "id": "32096ed3-db20-456d-a011-438594501283",
-        "title": "Software Engineer 1 - Data Infrastructure",
-        "active": false,
-        "date_updated": 1766197831,
-        "date_posted": 1766197831,
-        "url": "https://job-boards.greenhouse.io/mqreferrals/jobs/7463255",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Marqeta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Intuit",
         "id": "2b884353-413b-4813-be81-d6b39e24154b",
         "title": "Software Engineer 1",
@@ -176,24 +85,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/IXL-Learning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f63b261e-be03-401d-964a-035f3cb570b8",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1766197099,
-        "date_posted": 1766197099,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043638",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -20801,26 +20692,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Kettering Health",
-        "id": "949f81f3-8837-4a4a-a477-acd2e4962faa",
-        "title": "Clinical Analytics Analyst - IS Analytic Health",
-        "active": false,
-        "date_updated": 1768461290,
-        "date_posted": 1766197436,
-        "url": "https://careers-ketteringhealth.icims.com/jobs/57002/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Miamisburg, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Kettering-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
         ]
     },
     {
