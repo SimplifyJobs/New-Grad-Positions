@@ -370656,5 +370656,25 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johnson Controls",
+        "id": "94cdc052-b0dd-4f83-bd97-334ea75abc20",
+        "title": "Software Engineer 1 - Data Center Engineering",
+        "active": true,
+        "date_updated": 1787063247,
+        "date_posted": 1787011200,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/Software-Engineer-I---Data-Center-Engineering_WD30277201",
+        "locations": [
+            "Glendale, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
