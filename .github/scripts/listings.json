@@ -124513,7 +124513,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -124533,7 +124533,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -363313,7 +363313,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "6d081b1c-739e-4f18-b112-ddf3c2381662",
         "title": "Systems Engineer Graduate - Systems Engineer - Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786680185,
         "date_posted": 1786679924,
         "url": "https://careers.jhuapl.edu/jobs/59497?icims=1",
@@ -369407,5 +369407,328 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "6e9f8ba6-6c48-4605-b6d4-6f4605120a80",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1787018156,
+        "date_posted": 1787017241,
+        "url": "https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineering-NJ-07014/1420387700/?ats=successfactors",
+        "locations": [
+            "Clifton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Electric Power",
+        "id": "4342a267-d9aa-42ec-aba8-f996876ed31e",
+        "title": "Transmission Field Services Data Analyst Associate - TFS Data Analyst",
+        "active": true,
+        "date_updated": 1787018153,
+        "date_posted": 1786924800,
+        "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Roanoke-VA/Trasmission-Field-Services-Data-Analyst-Associate---TFS-Data-Analyst_R18033",
+        "locations": [
+            "Roanoke, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Electric-Power",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Domino's",
+        "id": "b82acf7c-02f2-46ef-b14e-93b2633586b1",
+        "title": "Delivery Driver",
+        "active": true,
+        "date_updated": 1787017862,
+        "date_posted": 1787017058,
+        "url": "https://jobs.smartrecruiters.com/Dominos/744000143965128",
+        "locations": [
+            "Burlington, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Dominos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ISAAC Instruments",
+        "id": "33cae2c3-6523-484a-bfe4-bb075af5f1eb",
+        "title": "Electronics Technician",
+        "active": true,
+        "date_updated": 1787018064,
+        "date_posted": 1787016980,
+        "url": "https://jobs.smartrecruiters.com/ISAACInstruments/744000130057359",
+        "locations": [
+            "St-Bruno-de-Montarville, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ISAAC-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CROSSMARK",
+        "id": "4eefe483-e13a-4b05-9d66-ce2b858677b1",
+        "title": "Retail Data Collector",
+        "active": true,
+        "date_updated": 1787017642,
+        "date_posted": 1787016763,
+        "url": "https://jobs.smartrecruiters.com/CROSSMARK1/103824613",
+        "locations": [
+            "Greeley, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/CROSSMARK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CROSSMARK",
+        "id": "f78b46cf-27f5-4f97-ba4d-9490efeee843",
+        "title": "Product Event Demonstrator",
+        "active": true,
+        "date_updated": 1787017322,
+        "date_posted": 1787016741,
+        "url": "https://jobs.smartrecruiters.com/CROSSMARK1/105081153",
+        "locations": [
+            "Augusta, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/CROSSMARK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CROSSMARK",
+        "id": "501d19ec-b828-4eaf-8c4c-fe4412b621b9",
+        "title": "Product Event Demonstrator",
+        "active": true,
+        "date_updated": 1787017322,
+        "date_posted": 1787016741,
+        "url": "https://jobs.smartrecruiters.com/CROSSMARK1/105094581",
+        "locations": [
+            "Sioux City, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/CROSSMARK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CROSSMARK",
+        "id": "f32f3cd2-e5b0-43b7-8c9c-327a571a048c",
+        "title": "Product",
+        "active": true,
+        "date_updated": 1787017322,
+        "date_posted": 1787016658,
+        "url": "https://jobs.smartrecruiters.com/CROSSMARK1/106727177",
+        "locations": [
+            "Cocoa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/CROSSMARK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CROSSMARK",
+        "id": "fa5285eb-f846-4ade-8c5e-09dc59f59cd9",
+        "title": "Data Collection Associate",
+        "active": true,
+        "date_updated": 1787016781,
+        "date_posted": 1787016582,
+        "url": "https://jobs.smartrecruiters.com/CROSSMARK1/111737897",
+        "locations": [
+            "Worcester, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CROSSMARK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CROSSMARK",
+        "id": "fa77fbd2-2a59-472a-906e-22028f34469a",
+        "title": "Data Collector",
+        "active": true,
+        "date_updated": 1787016781,
+        "date_posted": 1787016581,
+        "url": "https://jobs.smartrecruiters.com/CROSSMARK1/113713866",
+        "locations": [
+            "Fort Myers, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/CROSSMARK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CROSSMARK",
+        "id": "2d8cdf9d-b9eb-4ced-ac4c-3a895bc5ec3e",
+        "title": "Data Collector",
+        "active": true,
+        "date_updated": 1787016781,
+        "date_posted": 1787016580,
+        "url": "https://jobs.smartrecruiters.com/CROSSMARK1/113714633",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CROSSMARK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CROSSMARK",
+        "id": "262b8bd2-850c-44ef-906d-9dcf0a271e1c",
+        "title": "Data Collection Associate",
+        "active": true,
+        "date_updated": 1787016781,
+        "date_posted": 1787016582,
+        "url": "https://jobs.smartrecruiters.com/CROSSMARK1/111738650",
+        "locations": [
+            "Belchertown, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CROSSMARK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CROSSMARK",
+        "id": "1b19f544-bada-4297-8147-46d2ae6afe4d",
+        "title": "Data Collection Associate",
+        "active": true,
+        "date_updated": 1787016781,
+        "date_posted": 1787016583,
+        "url": "https://jobs.smartrecruiters.com/CROSSMARK1/111738230",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CROSSMARK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Westinghouse Electric Company",
+        "id": "108a96d8-0abd-4fba-a1ec-8a0c1c5f47cc",
+        "title": "Safety Software 1&C Engineer HMI Systems",
+        "active": true,
+        "date_updated": 1787016737,
+        "date_posted": 1787016213,
+        "url": "https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1420405300/?ats=successfactors",
+        "locations": [
+            "Warrendale, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "27212d63-826e-42d8-8e6a-63d26743404c",
+        "title": "Research Scientist - DPU & AI Infrastructure",
+        "active": true,
+        "date_updated": 1787016702,
+        "date_posted": 1787015986,
+        "url": "https://jobs.bytedance.com/en/position/7673946040656267573/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "79543c3a-5362-4db7-9aa3-96795e7c8871",
+        "title": "Research Scientist Graduate - DPU & AI Infra - PhD",
+        "active": true,
+        "date_updated": 1787016242,
+        "date_posted": 1787015977,
+        "url": "https://jobs.bytedance.com/en/position/7673941558289205509/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zoro",
+        "id": "1684b5f7-9d7b-4b05-a2f1-4335f8426ec4",
+        "title": "Full Stack Software Developer",
+        "active": true,
+        "date_updated": 1787016633,
+        "date_posted": 1787015876,
+        "url": "https://jobs.smartrecruiters.com/Zoro/87619425",
+        "locations": [
+            "Chicago, IL",
+            "Buffalo Grove, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
