@@ -370636,5 +370636,25 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Samsung",
+        "id": "cf2d1ba7-8d7c-4b21-b7a0-cfa154f93b2e",
+        "title": "Spinner Technician - Spinner Equipment",
+        "active": true,
+        "date_updated": 1787059294,
+        "date_posted": 1786579200,
+        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Technician--Spinner-Equipment_R119291",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
