@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "09f5ee70-587d-4837-883a-9cd304a39be4",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1766333663,
-        "date_posted": 1766333663,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043692",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Astreya",
         "id": "67fc8888-2b45-4bab-a39f-85dd20fb69c5",
