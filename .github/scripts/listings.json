@@ -124459,7 +124459,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -124479,7 +124479,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -182671,7 +182671,7 @@
         "company_name": "Marvell",
         "id": "f1fcf68f-8890-42fe-ac03-f0005d940502",
         "title": "Accelerated Computing Solutions Analyst \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1777068541,
         "date_posted": 1777068435,
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Accelerated-Computing-Solutions-Analyst---Early-Career_2601165-1",
@@ -201093,7 +201093,7 @@
         "company_name": "Omni Design Technologies",
         "id": "54c15acd-a4f6-421e-834e-6e950ea65035",
         "title": "Lab Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1778709962,
         "date_posted": 1778709952,
         "url": "https://jobs.lever.co/omnidesigntech/b6914c2b-2e94-49a6-a82d-928354e95c52/apply",
@@ -354061,7 +354061,7 @@
         "company_name": "AeroVironment",
         "id": "b149ffe7-5cf9-4e18-8175-052fb98c6c6b",
         "title": "Software Engineer 1 - Embedded",
-        "active": true,
+        "active": false,
         "date_updated": 1786469323,
         "date_posted": 1786406400,
         "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-3_8368",
@@ -370202,6 +370202,235 @@
             "Edina, MN"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-St-Thomas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Metal Exchange",
+        "id": "b0e4e7d4-eba7-44f7-aaad-4e6f88670701",
+        "title": "Recycled Metals Buyer - Non Ferrous Trading Division",
+        "active": true,
+        "date_updated": 1787040541,
+        "date_posted": 1787040002,
+        "url": "https://careers-metalexchange.icims.com/jobs/2758/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Metal-Exchange",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Duluth Trading Company",
+        "id": "8814a8ab-306b-46c1-a490-71c3d9d7063f",
+        "title": "Seasonal Retail Associate",
+        "active": true,
+        "date_updated": 1787040942,
+        "date_posted": 1787039981,
+        "url": "https://careers-duluthtrading.icims.com/jobs/8531/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Sioux Falls, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/Duluth-Trading-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "i2G Systems",
+        "id": "eae0ef21-1871-450c-8a88-45c56de6f0a2",
+        "title": "Electronic Security Installer - Special Projects",
+        "active": true,
+        "date_updated": 1787040541,
+        "date_posted": 1787039863,
+        "url": "https://careers-i2gsystems.icims.com/jobs/5089/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Sterling, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/I2G-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "iomart",
+        "id": "295719ba-3f4a-4fe6-b6fe-bd9f5d3d8aba",
+        "title": "Data Centre Engineer",
+        "active": true,
+        "date_updated": 1787040044,
+        "date_posted": 1787039858,
+        "url": "https://careers-iomart.icims.com/jobs/2179/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Iomart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Electro Rent",
+        "id": "5548bd24-84df-4da1-abbf-61bb879712e0",
+        "title": "Electronic Technician 1",
+        "active": true,
+        "date_updated": 1787040479,
+        "date_posted": 1787039798,
+        "url": "https://careers-electrorent.icims.com/jobs/2476/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Van Nuys, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Electro-Rent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kaukahi",
+        "id": "646cf1c0-bcf5-41a2-a815-50713458b691",
+        "title": "Geospatial Analyst",
+        "active": true,
+        "date_updated": 1787040044,
+        "date_posted": 1787039795,
+        "url": "https://careers-kaukahi.icims.com/jobs/2984/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Florence, AL",
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Kaukahi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Electronic Systems",
+        "id": "243aba20-fbdd-4b8c-8c22-6c1d32b68ea0",
+        "title": "Printer Deployment Technician",
+        "active": true,
+        "date_updated": 1787040044,
+        "date_posted": 1787039794,
+        "url": "https://careers-esinc.icims.com/jobs/2573/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dearborn, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WOOD Consulting Services",
+        "id": "ec674790-bb38-423e-bf36-84796ef90847",
+        "title": "Software Engineer 0 - Entry-Level Software Engineering",
+        "active": true,
+        "date_updated": 1787040442,
+        "date_posted": 1787039772,
+        "url": "https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Fort Meade, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/WOOD-Consulting-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WOOD Consulting Services",
+        "id": "30600f27-6e64-4519-9d2a-ea875352b5eb",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1787040044,
+        "date_posted": 1787039771,
+        "url": "https://jobs-woodcons.icims.com/jobs/14803/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Fort Meade, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/WOOD-Consulting-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Physicians Mutual",
+        "id": "d5de2771-266c-419e-bae6-77981a5594d4",
+        "title": "Actuarial Opportunities - Pet Insurance Product Management",
+        "active": true,
+        "date_updated": 1787040044,
+        "date_posted": 1787039759,
+        "url": "https://careers-physiciansmutual.icims.com/jobs/2065/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Physicians-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pillar Innovations",
+        "id": "67870fc5-eb90-45b8-bdf1-1e2e1a0ab78c",
+        "title": "Panel Shop Technician 1 - Manufacturing & Installation",
+        "active": true,
+        "date_updated": 1787040044,
+        "date_posted": 1787039693,
+        "url": "https://pillarcareers-beitzelpillar.icims.com/jobs/3853/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Grantsville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Pillar-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Circet USA",
+        "id": "ef8ff4de-0225-4866-aab7-d882cd3fb6c6",
+        "title": "Wireless Field Technician & Coordinator",
+        "active": true,
+        "date_updated": 1787040044,
+        "date_posted": 1787039681,
+        "url": "https://circetusa-kgpco.icims.com/jobs/3746/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Circet-USA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
