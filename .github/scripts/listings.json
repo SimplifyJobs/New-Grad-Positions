@@ -124513,7 +124513,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -124533,7 +124533,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -362728,7 +362728,7 @@
         "company_name": "AppLovin",
         "id": "2c69b87b-a3b9-4a6c-b179-1e31b348731a",
         "title": "Data Scientist - Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1786680181,
         "date_posted": 1786680016,
         "url": "https://boards.greenhouse.io/applovin/jobs/4705263006",
@@ -368914,5 +368914,498 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Denso",
+        "id": "d3cc9f4e-f348-4058-8346-84218a410692",
+        "title": "Tester Design Engineer 2",
+        "active": true,
+        "date_updated": 1787016242,
+        "date_posted": 1787015814,
+        "url": "https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24502",
+        "locations": [
+            "Maryville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Denso",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "8b15cf88-1dc7-4e50-9279-545c21772f6c",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1787016574,
+        "date_posted": 1787015801,
+        "url": "https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SteelEye",
+        "id": "01f94fe8-2e33-469f-bcf0-042318fee140",
+        "title": "Financial Implementation Data Analyst",
+        "active": true,
+        "date_updated": 1787016242,
+        "date_posted": 1787015738,
+        "url": "https://jobs.smartrecruiters.com/SteelEye/743999878774421",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SteelEye",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fannie Mae",
+        "id": "cb0eb449-7328-4ae8-989d-79780566d31a",
+        "title": "Access Management Associate - Business Analysis",
+        "active": true,
+        "date_updated": 1787016340,
+        "date_posted": 1787015693,
+        "url": "https://jobs.smartrecruiters.com/FannieMae1SB/743999722961320",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fannie-Mae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fannie Mae",
+        "id": "90ee3fd9-c710-4f75-a107-85c7b8f20d31",
+        "title": "Business Analysis Associate - Access Management",
+        "active": true,
+        "date_updated": 1787016334,
+        "date_posted": 1787015689,
+        "url": "https://jobs.smartrecruiters.com/FannieMae1SB/743999724279614",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fannie-Mae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fannie Mae",
+        "id": "e4f7c9df-3c11-4887-8760-503c65a43b13",
+        "title": "Business Analyst Associate - Access Management",
+        "active": true,
+        "date_updated": 1787016343,
+        "date_posted": 1787015694,
+        "url": "https://jobs.smartrecruiters.com/FannieMae1SB/743999721165267",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fannie-Mae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fannie Mae",
+        "id": "bb4fc784-122f-40c9-b307-d226b91c5659",
+        "title": "Access Management",
+        "active": true,
+        "date_updated": 1787015702,
+        "date_posted": 1787015693,
+        "url": "https://jobs.smartrecruiters.com/FannieMae1SB/743999722962491",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fannie-Mae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fannie Mae",
+        "id": "8e68fbca-ccd3-4270-a340-5f5b7ed8be5d",
+        "title": "Analytics Associate - Analytics-Test",
+        "active": true,
+        "date_updated": 1787016344,
+        "date_posted": 1787015696,
+        "url": "https://jobs.smartrecruiters.com/FannieMae1SB/743999715055932",
+        "locations": [
+            "Washington, DC",
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fannie-Mae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fannie Mae",
+        "id": "7217edc9-3235-4d6c-afc8-fc66514c4533",
+        "title": "Business Analysis Associate - Access Management",
+        "active": true,
+        "date_updated": 1787016338,
+        "date_posted": 1787015688,
+        "url": "https://jobs.smartrecruiters.com/FannieMae1SB/743999812723299",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fannie-Mae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fannie Mae",
+        "id": "3386d541-3330-4821-95b1-d73fc055bdb2",
+        "title": "Access Management Associate - Business Analysis",
+        "active": true,
+        "date_updated": 1787016339,
+        "date_posted": 1787015693,
+        "url": "https://jobs.smartrecruiters.com/FannieMae1SB/743999722971215",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fannie-Mae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fannie Mae",
+        "id": "11abb821-cce3-459b-ac41-9012253c7090",
+        "title": "Access Management",
+        "active": true,
+        "date_updated": 1787015702,
+        "date_posted": 1787015688,
+        "url": "https://jobs.smartrecruiters.com/FannieMae1SB/743999725093933",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fannie-Mae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Mesotech International",
+        "id": "9d095560-7990-43f5-93aa-7c97612afafe",
+        "title": "Electronic Systems Engineer - Entry-Level",
+        "active": true,
+        "date_updated": 1787015702,
+        "date_posted": 1787015601,
+        "url": "https://jobs.smartrecruiters.com/MesotechInternationalInc/744000085097170",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mesotech-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Smarter Agent",
+        "id": "0894b57c-6a8a-4e77-89b6-98e9c0efdf39",
+        "title": "Junior Data Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1787015702,
+        "date_posted": 1787015563,
+        "url": "https://jobs.smartrecruiters.com/SmarterAgent/743999706496509",
+        "locations": [
+            "Collingswood, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Smarter-Agent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "City of Mission",
+        "id": "8158e219-cde8-43aa-bd43-7e3aaa9a48c4",
+        "title": "Engineering Technologist 1, 2, or 3 - Asset Management",
+        "active": true,
+        "date_updated": 1787015868,
+        "date_posted": 1787015522,
+        "url": "https://jobs.smartrecruiters.com/CityOfMission/744000142746028",
+        "locations": [
+            "Mission, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/City-Of-Mission",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "iFLIP4",
+        "id": "cce50e67-1156-425f-bd5f-4a7dbccf2a0c",
+        "title": "Back End Developer",
+        "active": true,
+        "date_updated": 1787015798,
+        "date_posted": 1787015502,
+        "url": "https://jobs.smartrecruiters.com/iFLIP4/84246109",
+        "locations": [
+            "East Hanover, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/IFLIP4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ISAAC Instruments",
+        "id": "e5ef49d8-4bea-4cb6-86cf-c612cb60dfb9",
+        "title": "Electronics Technician",
+        "active": true,
+        "date_updated": 1787015521,
+        "date_posted": 1787015454,
+        "url": "https://jobs.smartrecruiters.com/ISAACInstruments/744000130237140",
+        "locations": [
+            "St-Bruno-de-Montarville, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ISAAC-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Iteris",
+        "id": "34a60d34-94be-4ec4-a7b8-20dbe12a0e9d",
+        "title": "Traffic Operations Center Operator/Controller",
+        "active": true,
+        "date_updated": 1787015521,
+        "date_posted": 1787015455,
+        "url": "https://jobs.smartrecruiters.com/TrafficCast/743999957101169",
+        "locations": [
+            "Middleton, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Iteris",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Alpha Nexus Group",
+        "id": "a0548532-3712-4c26-9172-4f2c8f2a6a8d",
+        "title": "C++ Software Engineer",
+        "active": true,
+        "date_updated": 1787015521,
+        "date_posted": 1787015413,
+        "url": "https://jobs.smartrecruiters.com/AlphaNexusGroup/90016777",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Alpha-Nexus-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marlabs",
+        "id": "596bedfe-2992-4851-ab7c-0320f7808b0c",
+        "title": "Entry Level Programmer / Developer",
+        "active": true,
+        "date_updated": 1787015521,
+        "date_posted": 1787015377,
+        "url": "https://jobs.smartrecruiters.com/MarlabsInc1/82334887",
+        "locations": [
+            "Piscataway, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Marlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marlabs",
+        "id": "ad6a37ea-1c98-4039-b3ce-05d4a98d6f55",
+        "title": "Entry Level Programmer Analyst",
+        "active": true,
+        "date_updated": 1787015521,
+        "date_posted": 1787015372,
+        "url": "https://jobs.smartrecruiters.com/MarlabsInc1/83216249",
+        "locations": [
+            "Piscataway, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Marlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "QualityAI",
+        "id": "0814e642-7467-4bf0-9147-c8fa8c854547",
+        "title": "Project Support Coordinator",
+        "active": true,
+        "date_updated": 1787015569,
+        "date_posted": 1787015343,
+        "url": "https://jobs.smartrecruiters.com/QANALYSTSLLC2/743999803292342",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/QualityAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "QualityAI",
+        "id": "9cde14a1-c52a-436b-89d7-59da23b773da",
+        "title": "QA Tester - Mobile - Android/VR",
+        "active": true,
+        "date_updated": 1787015562,
+        "date_posted": 1787015341,
+        "url": "https://jobs.smartrecruiters.com/QANALYSTSLLC2/743999677596559",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/QualityAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "QualityAI",
+        "id": "77df43c2-ef78-476f-8ab4-441518ad5678",
+        "title": "Entry Level Moderator - Data Collection",
+        "active": true,
+        "date_updated": 1787015568,
+        "date_posted": 1787015345,
+        "url": "https://jobs.smartrecruiters.com/QANALYSTSLLC2/743999836324249",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/QualityAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Shawbrook",
+        "id": "5f903780-bbad-493f-b587-99c09c1f227a",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1787015341,
+        "date_posted": 1787015333,
+        "url": "https://jobs.smartrecruiters.com/Shawbrook/744000140743148",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Shawbrook",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Diesel Laptops",
+        "id": "cb485390-acac-4351-bbb4-60be1ca27578",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1787015341,
+        "date_posted": 1787015322,
+        "url": "https://jobs.smartrecruiters.com/DieselLaptops/743999719953833",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Diesel-Laptops",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
