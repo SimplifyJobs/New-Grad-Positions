@@ -56,24 +56,6 @@
     {
         "source": "Simplify",
         "category": "Quant",
-        "company_name": "Aramark",
-        "id": "30bcc6f2-ac27-48df-a91b-0b79884eec5a",
-        "title": "Food Service Worker - Shamrock Trading Corporation",
-        "active": false,
-        "date_updated": 1766302543,
-        "date_posted": 1766302543,
-        "url": "https://aramarkcareers.com/UnitedStates/job/Overland-Park-Food-Service-Worker-Shamrock-Trading-Corporation-KS-66212/1346922200/?ats=successfactors",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Aramark",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "09f5ee70-587d-4837-883a-9cd304a39be4",
         "title": "Trading Assistant",
@@ -200353,7 +200335,7 @@
         "company_name": "Autodesk",
         "id": "a2be5271-896c-4231-a6f0-4e3b3cfa8c52",
         "title": "Researcher Associate - Design and Manufacturing",
-        "active": true,
+        "active": false,
         "date_updated": 1778539001,
         "date_posted": 1778537359,
         "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Associate-Researcher--Design-and-Manufacturing_26WD98040-1",
@@ -275851,7 +275833,7 @@
         "company_name": "Northrop Grumman",
         "id": "4db085c5-fa06-4b71-9641-e578b6896eaa",
         "title": "Algorithms Software Engineer - Level 2",
-        "active": true,
+        "active": false,
         "date_updated": 1783031221,
         "date_posted": 1783030633,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Algorithms-Software-Engineer---Level-2_R10238820-1",
@@ -370112,5 +370094,116 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Duluth Trading Company",
+        "id": "d28f4500-1e2c-40f2-ae21-e512c6ee0bb0",
+        "title": "Sales Associate",
+        "active": true,
+        "date_updated": 1787039928,
+        "date_posted": 1787039555,
+        "url": "https://careers-duluthtrading.icims.com/jobs/8337/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Anchorage, AK"
+        ],
+        "company_url": "https://simplify.jobs/c/Duluth-Trading-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Duluth Trading Company",
+        "id": "40dd0e0e-be61-4e13-87a5-c82e374fcf7d",
+        "title": "Sales Associate",
+        "active": true,
+        "date_updated": 1787039918,
+        "date_posted": 1787039553,
+        "url": "https://careers-duluthtrading.icims.com/jobs/8391/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Duluth-Trading-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Duluth Trading Company",
+        "id": "31259e94-5c71-4c2e-8847-8b0dea99067d",
+        "title": "Retail Sales Manager",
+        "active": true,
+        "date_updated": 1787039642,
+        "date_posted": 1787039548,
+        "url": "https://careers-duluthtrading.icims.com/jobs/8472/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Sioux Falls, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/Duluth-Trading-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cambridge Investment Research",
+        "id": "38cb13d9-2536-4cc1-8074-ce01aa58bae0",
+        "title": "Data Integrity Specialist - Specialized Services",
+        "active": true,
+        "date_updated": 1787039642,
+        "date_posted": 1784592000,
+        "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Data-Integrity-Specialist_R-2025-170",
+        "locations": [
+            "Fairfield, IA",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Investment-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Repligen",
+        "id": "9b28f741-a7e8-4acb-8697-fb44335ee538",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1787039687,
+        "date_posted": 1785801600,
+        "url": "https://repligen.wd108.myworkdayjobs.com/Repligen_Careers/job/Bridgewater-NJ/Software-Developer-I_R-583",
+        "locations": [
+            "Bridgewater, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Repligen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of St. Thomas",
+        "id": "efe257a0-aa6f-480e-83a9-2777e9025095",
+        "title": "Data Analytics Associate",
+        "active": true,
+        "date_updated": 1787039525,
+        "date_posted": 1787039391,
+        "url": "https://studentemployment-stthomas.icims.com/jobs/9517/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Edina, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-St-Thomas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
