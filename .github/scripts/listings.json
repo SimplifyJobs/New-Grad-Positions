@@ -295188,7 +295188,7 @@
         "company_name": "NorthAB",
         "id": "9664e751-69df-4d20-a616-be872d05faf1",
         "title": "Integration Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1784154963,
         "date_posted": 1784073600,
         "url": "https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Integration-Specialist_JR101961",
@@ -354000,7 +354000,7 @@
         "company_name": "Philips",
         "id": "8338439d-fe8e-4182-845a-a2718efed066",
         "title": "AI & Analytics Associate - Graduate Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1786469401,
         "date_posted": 1786406400,
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Full-Time--Graduate-Development-Program-AI---Analytics-Associate-Nashville--TN-or-Cambridge--MA-2026_587083",
@@ -361122,7 +361122,7 @@
         "company_name": "Cigna Group",
         "id": "7c36c172-1a8d-4c06-b6ca-6ee12e3ef829",
         "title": "Technology Development Program - Software Engineering Track",
-        "active": true,
+        "active": false,
         "date_updated": 1786660921,
         "date_posted": 1786579200,
         "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Software-Engineering-Track_26009523",
@@ -366367,7 +366367,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -370593,5 +370593,27 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Trillium",
+        "id": "a00101f6-5c51-4a7d-a424-e3f3a7ac8a16",
+        "title": "Equity Trader",
+        "active": true,
+        "date_updated": 1787049395,
+        "date_posted": 1785450312,
+        "url": "https://www.trlm.com/apply/5191110007?gh_jid=5191110007",
+        "locations": [
+            "Miami, FL",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Trillium",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
