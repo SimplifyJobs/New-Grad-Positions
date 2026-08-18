@@ -177099,7 +177099,7 @@
         "company_name": "Applied Materials",
         "id": "f41272f9-0120-450f-abf0-a8d6cbd6d49d",
         "title": "AI Algorithm Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1776768714,
         "date_posted": 1776523223,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Algorithm-Developer_R2519827",
@@ -291994,7 +291994,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -325038,7 +325038,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
@@ -330894,7 +330894,7 @@
         "company_name": "Deloitte",
         "id": "2a2b2e77-2824-45c5-b035-0e167fc11fa7",
         "title": "Forensic Analytics Analyst - Consultative Offerings",
-        "active": false,
+        "active": true,
         "date_updated": 1785539644,
         "date_posted": 1785536783,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Analyst-Forensic-Analytics/361315",
@@ -358936,7 +358936,7 @@
         "company_name": "Rocket Lab USA",
         "id": "9eeb571e-079e-492d-84f7-49d9ddf5a00d",
         "title": "Flight Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786574199,
         "date_posted": 1786574025,
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7830196003",
@@ -359236,7 +359236,7 @@
         "company_name": "Consumer Direct Care Network",
         "id": "d1775023-8318-4c20-8b84-7725fb52c8a3",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1786584690,
         "date_posted": 1786584511,
         "url": "https://cdcn.avature.net/careers/JobDetail/8611",
@@ -369729,6 +369729,280 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Aerospace",
+        "id": "58d874ef-419b-49af-855a-a5369d3ac271",
+        "title": "Production Assembler - 1st shift",
+        "active": true,
+        "date_updated": 1787034421,
+        "date_posted": 1787011200,
+        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Jacksonville/Production-Assembler---1st-shift_R5038790",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "fc140235-c8bc-4774-9eca-34769fd3e2b7",
+        "title": "SOC Verification and Methodology Engineer - Scl - ASICS Engineering",
+        "active": true,
+        "date_updated": 1787034241,
+        "date_posted": 1787034110,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446720475527",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "4d2630bd-6b4e-4153-af40-697f29c0f16d",
+        "title": "Staff Engineer - ASICS Engineering",
+        "active": true,
+        "date_updated": 1787034291,
+        "date_posted": 1787034111,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446720412818",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Charta Health",
+        "id": "64052d4d-54da-4d7c-b3aa-b49f99dfb1a3",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1787034201,
+        "date_posted": 1787034046,
+        "url": "https://jobs.ashbyhq.com/chartahealth/9403a4cc-1bac-4798-9d82-be31ba8b42a0/application?embed=true",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Charta-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ambral",
+        "id": "f2d96d04-27a3-470a-a0c3-7a3c8e65528e",
+        "title": "Member of Technical Staff New Grad",
+        "active": true,
+        "date_updated": 1787034174,
+        "date_posted": 1787034006,
+        "url": "https://jobs.ashbyhq.com/ambral/bfcfbd07-03b9-4e7c-82b1-b17d7c3a5e90/application?embed=true",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ambral",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hawk-Eye Innovations",
+        "id": "97f59d76-6ee6-41c5-9ff0-8c405a1670cd",
+        "title": "Football Tracking Technician - South",
+        "active": true,
+        "date_updated": 1787034061,
+        "date_posted": 1787033974,
+        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/13bbc495-9111-45b6-9ea5-8f1de6522f6e/application?embed=true",
+        "locations": [
+            "London, UK",
+            "England, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "d4f27870-a658-4138-afd1-fd12498bb0ea",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1787034106,
+        "date_posted": 1786924800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineer-II--Onsite-_01864138",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "1607a4ba-3b77-40cc-aa04-244640bdc0f7",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1787034103,
+        "date_posted": 1786924800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Systems-Engineer-I--Onsite-_01867720",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cook Systems",
+        "id": "0ac59efb-a60a-487e-ae88-72d4b34fac13",
+        "title": "Entry-Level Software Developer",
+        "active": true,
+        "date_updated": 1787034061,
+        "date_posted": 1787033944,
+        "url": "https://job-boards.greenhouse.io/cooksys/jobs/5386869008",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cook-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "LDI Connect",
+        "id": "64405a24-74c0-4b63-8aaa-cca036d22076",
+        "title": "Field Service Technician Trainee",
+        "active": true,
+        "date_updated": 1787034061,
+        "date_posted": 1787033939,
+        "url": "https://ldiconnect.applytojob.com/apply/Ea9rlq3HCX/Field-Service-Technician-Trainee",
+        "locations": [
+            "Brooklyn, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/LDI-Connect",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tunnl",
+        "id": "590631c5-050f-4f41-94ce-eabce6cb30cd",
+        "title": "Research Analyst - Survey Operations",
+        "active": true,
+        "date_updated": 1787033881,
+        "date_posted": 1787033877,
+        "url": "https://jobs.ashbyhq.com/tunnl/d9f44593-2c29-49a6-8073-041c309fbf49/application?embed=true",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tunnl",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Water Services",
+        "id": "dfb5a6fa-5ffc-4f73-ad6a-a077fd9d1130",
+        "title": "Field Technician",
+        "active": true,
+        "date_updated": 1787034033,
+        "date_posted": 1787033861,
+        "url": "https://ats.rippling.com/nws/jobs/a5b326af-3d36-464c-9b9b-1cb1df60344f",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Water-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Varsity Brands",
+        "id": "fc4236d0-5f2d-46dd-9afa-035a5032002c",
+        "title": "Product Owner",
+        "active": true,
+        "date_updated": 1787033881,
+        "date_posted": 1787033779,
+        "url": "https://careers.varsitybrands.com/global/en/job/JR114520",
+        "locations": [
+            "Farmers Branch, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Varsity-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nexthop.ai",
+        "id": "4a0ac2bd-9aed-42eb-88de-3663340e79b5",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1787033897,
+        "date_posted": 1787033768,
+        "url": "https://nexthopai.bamboohr.com/careers/24/",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nexthopai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
