@@ -214631,7 +214631,7 @@
         "company_name": "Rice University",
         "id": "187693e3-6bfa-4f2d-bdc6-a02a23e5ce8e",
         "title": "Rice360 Global Health Post-Baccalaureate Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1779819667,
         "date_posted": 1777039318,
         "url": "https://emdz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5750",
@@ -293070,7 +293070,7 @@
         "company_name": "Guidewire",
         "id": "17734f9e-611b-4c99-b1f8-b1434eebd5ed",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784071157,
         "date_posted": 1783987200,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/Canada---Toronto/Software-Engineer_JR_15002",
@@ -363776,7 +363776,7 @@
         "company_name": "Pacific Northwest National Laboratory",
         "id": "a258c265-3b03-44fc-90b9-7e0faa77dbbe",
         "title": "Postdoctoral Research Associate - Nuclear Signatures",
-        "active": true,
+        "active": false,
         "date_updated": 1786687167,
         "date_posted": 1786686967,
         "url": "https://careers.pnnl.gov/jobs/11680?icims=1",
@@ -370431,6 +370431,62 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Circet-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Oakland County, Michigan",
+        "id": "11738554-4081-4656-8eae-5e79d6ce2668",
+        "title": "Engineering Aide",
+        "active": true,
+        "date_updated": 1787042199,
+        "date_posted": 1786060800,
+        "url": "https://oakgov.wd5.myworkdayjobs.com/careers/job/Waterford-Michigan-United-States/Engineering-Aide--WRC_JR-0000739",
+        "locations": [
+            "Waterford Twp, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Oakland-County-Michigan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Trimble",
+        "id": "121ec89f-ffe4-4590-93f2-18c54f460efe",
+        "title": "Production Technician - Assembly, Testing & Technical Innovation",
+        "active": true,
+        "date_updated": 1787042161,
+        "date_posted": 1786579200,
+        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Manufacturing-Technical-Support_R57235",
+        "locations": [
+            "Richmond Hill, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Trimble",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CAE",
+        "id": "1e32932d-d188-47b0-aca1-96e46e0b727a",
+        "title": "Simulator Technician",
+        "active": true,
+        "date_updated": 1787043084,
+        "date_posted": 1782943558,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Sanford-Orlando/Simulator-Technician_122223-1",
+        "locations": [
+            "Sanford, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/CAE",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
