@@ -357843,7 +357843,7 @@
         "company_name": "Lynker",
         "id": "8c8a2157-f131-4709-8ee8-033ddb037124",
         "title": "Data Analyst 1 - Geospatial and Water Resources",
-        "active": true,
+        "active": false,
         "date_updated": 1786573113,
         "date_posted": 1786572760,
         "url": "https://careers-lynker.icims.com/jobs/1662/job?mobile=true&needsRedirect=false",
@@ -370572,6 +370572,24 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Electrosonic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Publicis Groupe",
+        "id": "946bf1c8-b423-4c84-8be5-1ef8d82475ab",
+        "title": "Search Analyst - SEM",
+        "active": true,
+        "date_updated": 1787048880,
+        "date_posted": 1787039847,
+        "url": "https://careers-publicisgroupetest.icims.com/jobs/45372/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
