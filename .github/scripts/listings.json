@@ -54,61 +54,6 @@
         "degrees": []
     },
     {
-        "date_updated": 1766402714,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/oklo/jobs/5739861004",
-        "company_name": "Oklo",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Santa Clara, CA",
-            "Remote in USA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "279e7051-e541-4865-b50d-cd10a4f29571",
-        "date_posted": 1766402714,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1771598345,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://careers-peraton.icims.com/jobs/162138/junior-product-software-engineer/job",
-        "company_name": "Peraton",
-        "title": "Junior Product Software Engineer",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "1af1e7b2-61fe-4951-9c45-6565a2ddac6c",
-        "date_posted": 1766402760,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1766402827,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/astranis/jobs/4621916006",
-        "company_name": "Astranis",
-        "title": "Software Developer, Network Software Associate",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "f261c77c-0715-41ae-b517-3e4e0158793a",
-        "date_posted": 1766402827,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1766429677,
         "sponsorship": "Other",
         "active": true,
@@ -296857,7 +296802,7 @@
         "company_name": "Northrop Grumman",
         "id": "e14b2c88-5ec2-4018-bc0e-95bb24d017b0",
         "title": "SCA Engineering Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784241931,
         "date_posted": 1784160000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/SCA-Engineering-Technician-1_R10240746-1",
@@ -366239,7 +366184,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -370535,7 +370480,7 @@
         "company_name": "Johnson Controls",
         "id": "94cdc052-b0dd-4f83-bd97-334ea75abc20",
         "title": "Software Engineer 1 - Data Center Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1787063247,
         "date_posted": 1787011200,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/Software-Engineer-I---Data-Center-Engineering_WD30277201",
@@ -372904,6 +372849,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASML",
+        "id": "91506ca8-8fdc-4872-a251-c0812521ab94",
+        "title": "Optical Fabrication Technician - CWW Front End",
+        "active": true,
+        "date_updated": 1787138481,
+        "date_posted": 1784160000,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technicians--CWW-Front-End-Nights--6-00pm-6-00am-Sunday-Tuesday--every-other-Wednesday--15---Differential_J-00347364",
+        "locations": [
+            "Wilton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/ASML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
