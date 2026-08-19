@@ -55,60 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Teledyne",
-        "id": "07d5c0da-dd98-440c-9902-fe346d947c6a",
-        "title": "Test Systems Technician",
-        "active": false,
-        "date_updated": 1766432955,
-        "date_posted": 1766432955,
-        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Test-Systems-Technician_REQ32228",
-        "locations": [
-            "Miamisburg, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "8cd42ae6-20bf-4173-a48f-ef8253a4398e",
-        "title": "Space Payload 1&T \u2013 Engineer/Principal Engineer",
-        "active": false,
-        "date_updated": 1766432737,
-        "date_posted": 1766432737,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Space-Payload-I-T---Engineer-Principal-Engineer_R10217787",
-        "locations": [
-            "Halethorpe, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "BlackRock",
-        "id": "f8be898f-cfc3-4af8-8b6f-8d601b83a6e3",
-        "title": "Associate \u2013 Application Engineer",
-        "active": false,
-        "date_updated": 1766432116,
-        "date_posted": 1766432116,
-        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Application-Engineer_R258341-1",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/BlackRock",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Markel Group, Inc.",
         "id": "ba995610-3b5a-4049-8e76-92895f1b1923",
