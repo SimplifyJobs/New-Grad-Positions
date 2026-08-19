@@ -332750,7 +332750,7 @@
         "company_name": "Trainline",
         "id": "7fa3bd36-1aaf-45d8-b339-ce03706066b1",
         "title": "Junior .NET Engineer - Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1785616621,
         "date_posted": 1784729586,
         "url": "https://jobs.ashbyhq.com/trainline/68f597e9-60b3-482e-8d73-618d24b0bf8e/application?embed=true",
@@ -372784,6 +372784,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Glass Roots Construction",
+        "id": "c1aac715-de45-4ecf-89cf-eb9c3b0acf3d",
+        "title": "Fiber Optic Splicer",
+        "active": true,
+        "date_updated": 1787163889,
+        "date_posted": 1787066161,
+        "url": "https://ats.rippling.com/glass-roots-construction-llc/jobs/0e87dcc8-367f-44e3-a356-af0334d51191",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Glass-Roots-Construction",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
