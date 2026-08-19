@@ -54,43 +54,6 @@
         "degrees": []
     },
     {
-        "date_updated": 1766428801,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490",
-        "company_name": "Mechanize",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "San Francisco, CA",
-            "Remote in USA"
-        ],
-        "category": "Software Engineering",
-        "source": "max-niederman",
-        "id": "a31d2dc4-d9cf-4ab8-9a57-b08515080e7a",
-        "date_posted": 1766399217,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "U.S. Bank",
-        "id": "12bfa895-d9ac-4529-9cc2-368f2c33e3a3",
-        "title": "Senior React Engineer - Wealth Management",
-        "active": false,
-        "date_updated": 1766397771,
-        "date_posted": 1766397771,
-        "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Senior-React-Engineer--Wealth-Management--multiple-positions--in-Atlanta--GA_2025-0030119",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1766402714,
         "sponsorship": "Other",
         "active": true,
@@ -4762,25 +4725,6 @@
             "Leicester, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Jabil",
-        "id": "9dfb6291-cb8d-4ec6-9d57-c142e73c7d0e",
-        "title": "Test Engineering Technician",
-        "active": false,
-        "date_updated": 1766398689,
-        "date_posted": 1766398689,
-        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Salt-Lake-CityGrantsville-UT/Test-Engineering-Technician_J2434987",
-        "locations": [
-            "Salt Lake City, UT",
-            "Tooele, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -273820,7 +273764,7 @@
         "company_name": "Oracle",
         "id": "f9976493-6093-4f3c-a32f-d14611345286",
         "title": "Catalyst Foundations Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1782967683,
         "date_posted": 1782963056,
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/338104",
@@ -358451,7 +358395,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "a1f461c3-bbe2-4dfa-bc5c-2ba6b01022a4",
         "title": "Atomistic and Data-Driven Modeling of Materials for Energy Applications - Postdoctoral Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1786572364,
         "date_posted": 1786572250,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990014571367",
@@ -363581,7 +363525,7 @@
         "company_name": "The Boeing Company",
         "id": "e13d8c02-7038-49a2-87d5-9034b52718f8",
         "title": "Embedded Software Engineer - Government Training",
-        "active": true,
+        "active": false,
         "date_updated": 1786683635,
         "date_posted": 1786579200,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089",
@@ -372919,5 +372863,65 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "EBSCO",
+        "id": "5c963361-407c-460e-b8be-87eeff139db5",
+        "title": "Product Manager - AI Exchange",
+        "active": true,
+        "date_updated": 1787133739,
+        "date_posted": 1787093668,
+        "url": "https://careers-ebscoind.icims.com/jobs/2065/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/EBSCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Expleo",
+        "id": "64878c33-4a70-42ab-ae45-00f9e436e82b",
+        "title": "Automotive Integration Engineer",
+        "active": true,
+        "date_updated": 1787133961,
+        "date_posted": 1786680110,
+        "url": "https://expleo-jobs-gb-en.icims.com/jobs/50174/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Leyland, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expleo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "567cfc2d-c141-4f57-b4f2-d3426034ba5d",
+        "title": "Design Engineer New Grad",
+        "active": true,
+        "date_updated": 1787135041,
+        "date_posted": 1785801600,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Senior-Design-Engineer_JR106564",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
