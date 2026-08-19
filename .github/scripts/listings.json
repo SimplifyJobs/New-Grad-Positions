@@ -352029,7 +352029,7 @@
         "company_name": "Citi",
         "id": "d05587df-f19a-4da4-b02d-027e77011f10",
         "title": "Services Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786400754,
         "date_posted": 1786320000,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Services--Full-Time-Analyst--New-York-City---US--2027_26979922",
@@ -363505,7 +363505,7 @@
         "company_name": "SAM",
         "id": "46b948d3-0df9-4c54-ae68-fbe1837dc912",
         "title": "Survey CAD Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786682008,
         "date_posted": 1786680645,
         "url": "https://careers.sam.biz/jobs/7910?icims=1",
@@ -366274,7 +366274,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -372881,5 +372881,43 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Brunswick",
+        "id": "3fa23531-820c-41f3-8581-8e155a6a3bd0",
+        "title": "Electrical Assembler 1",
+        "active": true,
+        "date_updated": 1787133273,
+        "date_posted": 1784851200,
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Edgewater-FL/Boston-Whaler---Electrical-Assembler-I_JR-050924",
+        "locations": [
+            "Edgewater, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Brunswick",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SunSource",
+        "id": "51c5fbe9-afa5-4063-804a-a290a1fed0ca",
+        "title": "Fabrication Technician",
+        "active": true,
+        "date_updated": 1787133061,
+        "date_posted": 1775686136,
+        "url": "https://jobs.lever.co/sunsrce/74bf8d68-c4a6-4f95-81e6-7ac1cce8d25c/apply",
+        "locations": [
+            "Northborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/SunSource",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
