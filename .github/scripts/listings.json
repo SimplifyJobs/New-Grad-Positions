@@ -56,24 +56,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "e4f220c5-d1cd-4d93-a67f-226a45f70d26",
-        "title": "ASIC Design Verification Engineer",
-        "active": false,
-        "date_updated": 1766431378,
-        "date_posted": 1766431378,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Verification-Engineer---New-College-Grad-2026_JR2010391",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Teledyne",
         "id": "07d5c0da-dd98-440c-9902-fe346d947c6a",
         "title": "Test Systems Technician",
@@ -121,42 +103,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/BlackRock",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Viridien",
-        "id": "b9618c4f-5db6-4ca6-9c55-d7d5f5875951",
-        "title": "Seismic Imaging Analyst",
-        "active": false,
-        "date_updated": 1766431897,
-        "date_posted": 1766431897,
-        "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Calgary-Canada/Seismic-Imaging-Analyst_JR101104-2",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Viridien",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Centrica",
-        "id": "49e912ab-fcd5-44f0-89c2-31526b748cf3",
-        "title": "Graduate Commodity Trading Analyst",
-        "active": false,
-        "date_updated": 1766431576,
-        "date_posted": 1766431576,
-        "url": "https://centrica.wd3.myworkdayjobs.com/Centrica/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0080675",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Centrica",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
