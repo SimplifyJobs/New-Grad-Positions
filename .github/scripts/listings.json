@@ -177452,7 +177452,7 @@
         "company_name": "PNC Financial Services",
         "id": "696bd826-6011-43cc-920a-c36cd7661a43",
         "title": "Software Developer Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1776810206,
         "date_posted": 1776809245,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Developer-Associate_R217594-1",
@@ -300789,7 +300789,7 @@
         "company_name": "Capital One",
         "id": "d03ac761-2dfa-4cd7-bd7c-797b6ff89c19",
         "title": "Software Engineer New Grad - Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784587302,
         "date_posted": 1784505600,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
@@ -318727,7 +318727,7 @@
         "company_name": "Capital One",
         "id": "4a93bf05-87b2-41ca-8213-e05a08887f08",
         "title": "Software Engineer New Grad - Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784932354,
         "date_posted": 1784851200,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247335",
@@ -331114,7 +331114,7 @@
         "company_name": "F5",
         "id": "3fd21e33-f2b0-4c6a-89bf-323787e17c2e",
         "title": "AI Sales Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785585061,
         "date_posted": 1778941096,
         "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/AI-Sales-Intelligence-Analyst_RP1037459",
@@ -345976,7 +345976,7 @@
         "company_name": "Visa",
         "id": "357a59fd-4201-427c-9161-45e5a391d400",
         "title": "Data Scientist Graduate - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1786054637,
         "date_posted": 1785974400,
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/Data-Science-Graduate_REF93870J-3",
@@ -361408,7 +361408,7 @@
         "company_name": "L3Harris Technologies",
         "id": "0911d4b2-2fef-48c0-a533-4ce070821e3c",
         "title": "Assembly",
-        "active": true,
+        "active": false,
         "date_updated": 1786679128,
         "date_posted": 1786678887,
         "url": "https://jobs.l3harris.com/job/Rochester-Assembly-B-NY-14623/1419211200/?ats=successfactors",
@@ -364472,7 +364472,7 @@
         "company_name": "GlobalFoundries",
         "id": "d41f1c16-6cab-4606-8579-e89c07b5afae",
         "title": "Tapeout and Mask Operations Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1786745944,
         "date_posted": 1786665600,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Tapeout---Mask-Operations-Engineer--2027-New-College-Graduate-_JR-2604936",
@@ -373871,6 +373871,125 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HUB",
+        "id": "ca29d098-2fc8-4cfe-a98d-7fafb44cf5a6",
+        "title": "Benefits Analyst",
+        "active": true,
+        "date_updated": 1787180041,
+        "date_posted": 1787097600,
+        "url": "https://hubinternational.wd1.myworkdayjobs.com/en-US/HUBInternational/job/Kansas-City--MO/Account-Administrator--Employee-Benefits_R0038300",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/HUB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howmet Aerospace",
+        "id": "5dadacce-9d03-47c0-bdfd-2b67dfc21892",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1787179501,
+        "date_posted": 1787179343,
+        "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119035",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Howmet-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Aerospace",
+        "id": "b1cb82ea-e58f-4be7-bb9a-a588addd7cb0",
+        "title": "Data Acquisition Technician",
+        "active": true,
+        "date_updated": 1787179369,
+        "date_posted": 1787097600,
+        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Peebles/Data-Acquisition-Tech_R5038935-1",
+        "locations": [
+            "Peebles, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Ellipsis Labs",
+        "id": "93f774ec-026f-401e-90e9-1d2bbe9631d8",
+        "title": "Quantitative Developer - Risk",
+        "active": true,
+        "date_updated": 1787179321,
+        "date_posted": 1787179196,
+        "url": "https://jobs.ashbyhq.com/ellipsislabs/0664c1db-ef07-44fc-947e-fda5a2948ee9/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ellipsis-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eaton",
+        "id": "e4486a23-13c9-4839-a4e2-e968c94ed6df",
+        "title": "Copper Installer - Manufacturing",
+        "active": true,
+        "date_updated": 1787178666,
+        "date_posted": 1787178553,
+        "url": "https://eaton.eightfold.ai/careers/job/687238393634",
+        "locations": [
+            "Asheville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Eaton-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Truveta",
+        "id": "54c4c395-7b69-498c-9917-759b96d7b1c5",
+        "title": "Software Engineer - Commerce",
+        "active": true,
+        "date_updated": 1787178659,
+        "date_posted": 1787178528,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/6147526004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truveta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
