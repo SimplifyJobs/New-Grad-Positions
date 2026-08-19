@@ -324004,7 +324004,7 @@
         "company_name": "Entergy",
         "id": "12b24ce7-2680-43a1-b0cd-ebd4f1a07878",
         "title": "Analyst 1-3",
-        "active": true,
+        "active": false,
         "date_updated": 1785278076,
         "date_posted": 1785276583,
         "url": "https://jobs.entergy.com/job/Gretna-Analyst-I-III-Loui/1413389000/?ats=successfactors",
@@ -351326,7 +351326,7 @@
         "company_name": "Levels Technologies",
         "id": "23cd3623-0650-4b9c-86ca-0a9978610327",
         "title": "Data Migration Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786389121,
         "date_posted": 1786389038,
         "url": "https://jobs.ashbyhq.com/levels/e24fe65c-8b4f-446e-a0d3-353bb91fece5/application?embed=true",
@@ -363602,7 +363602,7 @@
         "company_name": "The Boeing Company",
         "id": "7fdbff33-ffe2-4d3f-b846-0ae624da19ff",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786683635,
         "date_posted": 1786579200,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1",
@@ -370387,7 +370387,7 @@
         "company_name": "Oakland County, Michigan",
         "id": "11738554-4081-4656-8eae-5e79d6ce2668",
         "title": "Engineering Aide",
-        "active": true,
+        "active": false,
         "date_updated": 1787042199,
         "date_posted": 1786060800,
         "url": "https://oakgov.wd5.myworkdayjobs.com/careers/job/Waterford-Michigan-United-States/Engineering-Aide--WRC_JR-0000739",
@@ -372843,5 +372843,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pinnacle Live",
+        "id": "b6779cfa-4ff6-44d0-a10f-ec56ec748276",
+        "title": "Event Services Technician - Audio Visual - Event Technology",
+        "active": true,
+        "date_updated": 1787128021,
+        "date_posted": 1787127875,
+        "url": "https://jobs.jobvite.com/pinnaclelive/job/o5rFAfwv?nl=1&nl=1&fr=false",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinnacle-Live",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Becton Dickinson",
+        "id": "110e5e1c-be24-46dd-9581-1e0f4677cb3d",
+        "title": "Instrument Test Technician 1",
+        "active": true,
+        "date_updated": 1787129534,
+        "date_posted": 1787011200,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Instrument-Test-Tech-1_R-553113",
+        "locations": [
+            "Sparks, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
