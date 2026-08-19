@@ -342893,7 +342893,7 @@
         "company_name": "NovaTech Automation",
         "id": "e4075fd0-7ff8-4aa9-9fc3-2fce4b096938",
         "title": "Electronics Assembler",
-        "active": true,
+        "active": false,
         "date_updated": 1785921482,
         "date_posted": 1785921361,
         "url": "http://novatechc1.applytojob.com/apply/b63HvfQkCi/Electronics-Assembler",
@@ -372924,5 +372924,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Honeywell",
+        "id": "f79b166b-afea-4a0b-9644-b397a4fc143e",
+        "title": "Application Engineer 1 - Training - Building Automation - CX Learning & Enablement",
+        "active": true,
+        "date_updated": 1787141038,
+        "date_posted": 1786054436,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154237",
+        "locations": [
+            "Northford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
