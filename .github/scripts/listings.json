@@ -264645,7 +264645,7 @@
         "company_name": "Graphcore",
         "id": "a3fc28bf-4bf8-4a35-b3fe-cacda2ccceb1",
         "title": "Graduate Silicon Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782868387,
         "date_posted": 1782828590,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8613305002",
@@ -291886,7 +291886,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -331955,7 +331955,7 @@
         "company_name": "Marvell",
         "id": "c40e403f-0595-4cb8-8ab1-799ab0c07033",
         "title": "Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785593010,
         "date_posted": 1783167761,
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Engineer---Early-Career_2601538",
@@ -337323,7 +337323,7 @@
         "company_name": "Engineers and Geoscientists BC",
         "id": "b11e7d78-8c61-41eb-b71c-8483802fa506",
         "title": "Junior Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785740435,
         "date_posted": 1785738030,
         "url": "https://egbc.applytojob.com/apply/7aUKZK87tT/Junior-Developer-I",
@@ -351382,7 +351382,7 @@
         "company_name": "Seagate Technology ",
         "id": "ae069648-6277-46da-b659-da37fa1ba9c3",
         "title": "Firmware Engineer - Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1786389111,
         "date_posted": 1786388927,
         "url": "https://seagatecareers.com/job/Longmont-Firmware-Engineer-Early-Career-CO-80501/1417701800/?ats=successfactors",
@@ -367010,7 +367010,7 @@
         "company_name": "Mass General Brigham",
         "id": "a767a566-2d90-4918-92d4-af53aaa4a6a1",
         "title": "Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786975424,
         "date_posted": 1786924800,
         "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Data-Analyst-I_RQ4076086",
@@ -372508,6 +372508,237 @@
             "Broomfield, CO"
         ],
         "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "L3Harris Technologies",
+        "id": "305c88f1-71fe-42aa-a836-a22087066e85",
+        "title": "Data Architect Senior Associate - Business Intelligence",
+        "active": true,
+        "date_updated": 1787105245,
+        "date_posted": 1787105102,
+        "url": "https://jobs.l3harris.com/job/Melbourne-Senior-Associate,-Data-Architect-FL-32901/1420890800/?ats=successfactors",
+        "locations": [
+            "Salt Lake City, UT",
+            "Rochester, NY",
+            "Nashville, TN",
+            "Londonderry, NH",
+            "Clifton, NJ",
+            "Melbourne, FL",
+            "Carlsbad, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "L3Harris Technologies",
+        "id": "7fa698b8-dc5d-4c42-88c4-fa95408d986d",
+        "title": "Associate Data Architect - Business Intelligence",
+        "active": true,
+        "date_updated": 1787105236,
+        "date_posted": 1787105093,
+        "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Data-Architect-FL-32901/1420890100/?ats=successfactors",
+        "locations": [
+            "Salt Lake City, UT",
+            "Rochester, NY",
+            "Nashville, TN",
+            "Londonderry, NH",
+            "Clifton, NJ",
+            "Melbourne, FL",
+            "Carlsbad, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pinnacle Live",
+        "id": "0b0ab15f-84cb-4235-9e36-8ce8a45ce164",
+        "title": "Event Services Technician - Event Technology - Audio Visual",
+        "active": true,
+        "date_updated": 1787105161,
+        "date_posted": 1787104998,
+        "url": "https://jobs.jobvite.com/pinnaclelive/job/oywFAfw3?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinnacle-Live",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "649dd754-7be6-47ff-9eb9-6e43146c9ab6",
+        "title": "Research Scientist Graduate - Quantum Chemistry and Machine Learning",
+        "active": true,
+        "date_updated": 1787104981,
+        "date_posted": 1787104955,
+        "url": "https://jobs.bytedance.com/en/position/7668595575944186117/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "bb30d995-17f5-4fd7-adb3-c099ee477b37",
+        "title": "Research Scientist Graduate - Video Codec Algorithm",
+        "active": true,
+        "date_updated": 1787104981,
+        "date_posted": 1787104954,
+        "url": "https://jobs.bytedance.com/en/position/7626928937260665093/detail",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "dc6daafb-5abf-4b74-97ca-4d7e2db2a9f6",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Risk Control",
+        "active": true,
+        "date_updated": 1787104981,
+        "date_posted": 1787104955,
+        "url": "https://jobs.bytedance.com/en/position/7675477660855781637/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OKX",
+        "id": "2ff524c5-b4b5-442e-9bf1-f96ce0366ce5",
+        "title": "AI-Native Mobile Engineer New Grad",
+        "active": true,
+        "date_updated": 1787105101,
+        "date_posted": 1787104980,
+        "url": "https://job-boards.greenhouse.io/okx/jobs/7897680003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/OKX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "1857df4e-de24-4423-8bd0-99dd5371717e",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Risk Control",
+        "active": true,
+        "date_updated": 1787104981,
+        "date_posted": 1787104954,
+        "url": "https://jobs.bytedance.com/en/position/7675472998912051461/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "173a8b63-ed46-4aa4-be9f-9519b5d3ebe2",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Risk Control",
+        "active": true,
+        "date_updated": 1787104981,
+        "date_posted": 1787104954,
+        "url": "https://jobs.bytedance.com/en/position/7675477254315428149/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Thrive Causemetics",
+        "id": "0634f360-590b-4d02-bc5d-9ef50c18a1a3",
+        "title": "Product Development Coordinator",
+        "active": true,
+        "date_updated": 1787104981,
+        "date_posted": 1787104889,
+        "url": "https://jobs.lever.co/thrivecausemetics/2f465742-7f8b-460f-9936-ab62160385be/apply",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Thrive-Causemetics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Seeq",
+        "id": "048a4ff3-3e1e-4263-befe-a0355b1afce4",
+        "title": "AI Customer Insights Engineer",
+        "active": true,
+        "date_updated": 1787104981,
+        "date_posted": 1787104920,
+        "url": "https://apply.workable.com/seeq/j/6F40FF632B/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Seeq",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
