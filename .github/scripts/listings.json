@@ -370788,7 +370788,7 @@
         "company_name": "Encova",
         "id": "cc99eb43-48b8-443d-be7a-b621cbef7dcd",
         "title": "Developer - Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787091662,
         "date_posted": 1787011200,
         "url": "https://encova.wd1.myworkdayjobs.com/Search/job/Charleston-WV/Developer_R002016",
@@ -372939,6 +372939,27 @@
             "Northford, CT"
         ],
         "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Procter & Gamble",
+        "id": "2f40cd6e-8384-4c3f-8dee-e8ef4a5fa827",
+        "title": "Consumer Insights & Data Analytics Manager",
+        "active": true,
+        "date_updated": 1787143196,
+        "date_posted": 1787097600,
+        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Weybridge/Consumer-Insights---Data-Analytics-Manager--Graduate-_R000157642",
+        "locations": [
+            "London, UK",
+            "Weybridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
