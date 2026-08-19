@@ -645,25 +645,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Anglian Water",
-        "id": "3f138d49-0bba-4541-9391-5476780300a9",
-        "title": "Associate Data Scientist",
-        "active": false,
-        "date_updated": 1766429584,
-        "date_posted": 1766429584,
-        "url": "https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Huntingdon/Associate-Data-Scientist_R34902",
-        "locations": [
-            "Peterborough, UK",
-            "Molesworth, Huntingdon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Anglian-Water",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Cisive",
         "id": "28d96284-4aef-408f-a65f-806c0bd88e7e",
@@ -299900,7 +299881,7 @@
         "company_name": "L3Harris Technologies",
         "id": "85a549ad-cef1-458b-b15e-382ac68ad136",
         "title": "Associate \u2013 Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784556901,
         "date_posted": 1784556347,
         "url": "https://jobs.l3harris.com/job/Yorba-Linda-Associate,-Software-Engineer-CA-92887/1410487500/?ats=successfactors",
@@ -326309,7 +326290,7 @@
         "company_name": "Zebra Technologies",
         "id": "a1aea2a1-5bf5-4d14-8e28-9c407a04179d",
         "title": "Repair Technician - Support I",
-        "active": true,
+        "active": false,
         "date_updated": 1785363482,
         "date_posted": 1785283200,
         "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bentonville-Arkansas/Repair-Technician--Support-I--M-F-6am-2-30pm_JR102689",
@@ -372804,6 +372785,66 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Wabtec",
+        "id": "cde54a34-8b03-4afc-924b-1edb973229c8",
+        "title": "Electronics Calibration Technician",
+        "active": true,
+        "date_updated": 1787164981,
+        "date_posted": 1787164915,
+        "url": "https://jobs.smartrecruiters.com/Wabtec/3743990014678796",
+        "locations": [
+            "Qu\u00e9bec City, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Wabtec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "5b1d56c3-edb8-4669-a88c-35690b805b82",
+        "title": "Associate Software Engineer - Software Engineering",
+        "active": true,
+        "date_updated": 1787164610,
+        "date_posted": 1787164463,
+        "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421017800/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "a4aabf38-92c7-4e05-b84e-51c4d41178a4",
+        "title": "Application Developer Associate - Enterprise Data and AI",
+        "active": true,
+        "date_updated": 1787164614,
+        "date_posted": 1787164493,
+        "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1421158000/?ats=successfactors",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
