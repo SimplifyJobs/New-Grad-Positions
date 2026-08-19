@@ -267451,7 +267451,7 @@
         "company_name": "Field AI",
         "id": "5d600989-4dfa-4062-855c-d4b92dc5ffa7",
         "title": "Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782454142,
         "date_posted": 1782454002,
         "url": "https://jobs.lever.co/field-ai/6a93ac30-56af-4726-bb05-9d71f8622b58/apply",
@@ -304041,7 +304041,7 @@
         "company_name": "Live Nation Entertainment",
         "id": "774e9d91-6973-4652-afa1-d7bd59595117",
         "title": "Drone Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1784612659,
         "date_posted": 1784067452,
         "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Tinley-Park-IL-USA/Skydio-Drone-Operator-at-Credit-Union-1-Amphitheatre--Tinley-Park_JR-86111",
@@ -359953,7 +359953,7 @@
         "company_name": "United Smart Tech",
         "id": "6456cb00-c80b-4d75-9b58-cd6eb84efa2d",
         "title": "Field Technician - Mobile Repairs",
-        "active": true,
+        "active": false,
         "date_updated": 1786602244,
         "date_posted": 1786602061,
         "url": "https://unitedsmarttech.bamboohr.com/careers/38/",
@@ -365003,7 +365003,7 @@
         "company_name": "GlobalFoundries",
         "id": "8590883f-a38d-4e3c-83a5-3ab80d1074b6",
         "title": "Principal Engineer Technology Development",
-        "active": true,
+        "active": false,
         "date_updated": 1786745943,
         "date_posted": 1786665600,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Principal-Engineer-Technology-Development--2027-New-College-Graduate-_JR-2604426",
@@ -372466,6 +372466,48 @@
             "Cedar Rapids, IA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anduril",
+        "id": "b59fa048-6dd0-4a50-af24-e4c0fdd2693c",
+        "title": "Software Engineer - Battlespace Awareness",
+        "active": true,
+        "date_updated": 1787103181,
+        "date_posted": 1787103085,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215627007",
+        "locations": [
+            "Fort Collins, CO",
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anduril",
+        "id": "62751ae8-bd05-4fa8-8629-d50f034fcc04",
+        "title": "Software Engineer - Tracking",
+        "active": true,
+        "date_updated": 1787103181,
+        "date_posted": 1787103087,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215629007",
+        "locations": [
+            "Fort Collins, CO",
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
