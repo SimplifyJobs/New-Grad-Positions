@@ -327552,7 +327552,7 @@
         "company_name": "Pyrovio",
         "id": "e2782551-ee25-4e02-a7f4-f2f46752bd8e",
         "title": "Copilot Developer/AI Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785449882,
         "date_posted": 1785449446,
         "url": "https://pyrovio.breezy.hr/p/a0653fb2684d/apply",
@@ -341486,7 +341486,7 @@
         "company_name": "Asure",
         "id": "432f2a98-6083-457b-915b-52b50828742d",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785882626,
         "date_posted": 1785881802,
         "url": "https://asuresoftware.bamboohr.com/careers/1052/",
@@ -369334,7 +369334,7 @@
         "company_name": "National Water Services",
         "id": "dfb5a6fa-5ffc-4f73-ad6a-a077fd9d1130",
         "title": "Field Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1787034033,
         "date_posted": 1787033861,
         "url": "https://ats.rippling.com/nws/jobs/a5b326af-3d36-464c-9b9b-1cb1df60344f",
@@ -370839,7 +370839,7 @@
         "company_name": "Renesas Electronics",
         "id": "d97d15b1-1e5d-4fcf-8640-1261f9169aea",
         "title": "Systems Design Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1787091208,
         "date_posted": 1787090779,
         "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000144160389",
@@ -372737,6 +372737,47 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "V2X",
+        "id": "7b5d37d6-560a-4b85-8015-ec8b2ecff8c1",
+        "title": "Electronics Technician 1 - TESS Repair",
+        "active": true,
+        "date_updated": 1787171221,
+        "date_posted": 1787171054,
+        "url": "https://careers.gov2x.com/jobs/62542?icims=1",
+        "locations": [
+            "Fort Irwin, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/V2X",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Savannah River Mission Completion",
+        "id": "e38d607d-510b-4316-beec-46d1cb3cea8e",
+        "title": "Associate Software Developer",
+        "active": true,
+        "date_updated": 1787171041,
+        "date_posted": 1787171020,
+        "url": "https://careers-fsse-srmc.icims.com/jobs/2036/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Aiken, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Savannah-River-Mission-Completion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
