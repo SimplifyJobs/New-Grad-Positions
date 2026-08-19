@@ -124405,7 +124405,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -124425,7 +124425,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -231198,7 +231198,7 @@
         "company_name": "ByteDance",
         "id": "1fbda922-46f7-467c-92fd-f4b3ee1dc2fd",
         "title": "Software Engineer Graduate - Cloud Native Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1780438697,
         "date_posted": 1780438065,
         "url": "https://jobs.bytedance.com/en/position/7540430373219977479/detail",
@@ -324930,7 +324930,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
@@ -372283,5 +372283,193 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "aa4bbef5-7c2d-408f-ac85-631b5d94b82c",
+        "title": "Creative Product Operations Graduate - International Advertising - Creative and Brand Innovation",
+        "active": true,
+        "date_updated": 1787102102,
+        "date_posted": 1787102091,
+        "url": "https://lifeattiktok.com/search/7673910154845014325",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "1b072285-49c1-4f27-a37f-d7fa58045e21",
+        "title": "Data Analyst Graduate",
+        "active": true,
+        "date_updated": 1787102102,
+        "date_posted": 1787102089,
+        "url": "https://lifeattiktok.com/search/7675510156642142469",
+        "locations": [
+            "Fontana, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "812dde3e-f5d8-4568-a880-22c4d06b394d",
+        "title": "Product Manager Graduate - Scaled Growth",
+        "active": true,
+        "date_updated": 1787102102,
+        "date_posted": 1787102090,
+        "url": "https://lifeattiktok.com/search/7675439423287314693",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "41eb13a2-e04a-495a-8e9a-3d83273bbb01",
+        "title": "Product Manager Graduate - Content and Service - Search Ads",
+        "active": true,
+        "date_updated": 1787102102,
+        "date_posted": 1787102089,
+        "url": "https://lifeattiktok.com/search/7675440171819960629",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "20a58aca-229f-4e97-b6ae-6ffb0759e594",
+        "title": "Data Engineer Graduate - Data Platform - Global Live",
+        "active": true,
+        "date_updated": 1787102102,
+        "date_posted": 1787102089,
+        "url": "https://lifeattiktok.com/search/7675484418022181173",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microsoft",
+        "id": "d64c581e-d6de-4f0f-a0e3-d8216eb8614a",
+        "title": "Data Center Technician",
+        "active": true,
+        "date_updated": 1787102145,
+        "date_posted": 1787101955,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556972020",
+        "locations": [
+            "Fayetteville, GA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Busey Bank",
+        "id": "76caf4a1-70f6-4935-900a-cfd88e644e94",
+        "title": "Associate Portfolio Manager - Trading",
+        "active": true,
+        "date_updated": 1787101561,
+        "date_posted": 1787011200,
+        "url": "https://busey.wd503.myworkdayjobs.com/busey/job/Creve-Coeur-MO---12300-Olive-Blvd/Associate-Portfolio-Manager--Trading_JR102500",
+        "locations": [
+            "Champaign, IL",
+            "Urbana, IL",
+            "Edwardsville, IL",
+            "Leawood, KS",
+            "Dallas, TX",
+            "Creve Coeur, MO",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Busey-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PNC Financial Services",
+        "id": "641fdd40-6b14-4a5b-9037-8b6a4ac41c35",
+        "title": "Software Engineer Associate - Tempus",
+        "active": true,
+        "date_updated": 1787101735,
+        "date_posted": 1787011200,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/ZZ---Remote-Location/Software-Engineer-Associate---Tempus_R231402-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "b5dd6a2d-3026-4da9-b437-55198d305aa3",
+        "title": "Software Engineer 1 - Secure Communications",
+        "active": true,
+        "date_updated": 1787101728,
+        "date_posted": 1787011200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software--Secure-Communications--Engineer-1--Onsite-_01866566",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
