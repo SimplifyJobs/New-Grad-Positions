@@ -123119,7 +123119,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -123139,7 +123139,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -332302,7 +332302,7 @@
         "company_name": "RTX",
         "id": "febce9fd-e8ba-4d95-85fb-4d00b3760c44",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785619999,
         "date_posted": 1785196800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Engineer-I--Summer-2027-_01862159",
@@ -366793,7 +366793,7 @@
         "company_name": "Monks",
         "id": "698f85da-c45d-4e03-9cd3-ca552385f6b2",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787007041,
         "date_posted": 1787006867,
         "url": "https://www.monks.com/careers/6114370004/job?gh_jid=6114370004",
@@ -371126,7 +371126,7 @@
         "company_name": "Busey Bank",
         "id": "76caf4a1-70f6-4935-900a-cfd88e644e94",
         "title": "Associate Portfolio Manager - Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1787101561,
         "date_posted": 1787011200,
         "url": "https://busey.wd503.myworkdayjobs.com/busey/job/Creve-Coeur-MO---12300-Olive-Blvd/Associate-Portfolio-Manager--Trading_JR102500",
@@ -371152,7 +371152,7 @@
         "company_name": "PNC Financial Services",
         "id": "641fdd40-6b14-4a5b-9037-8b6a4ac41c35",
         "title": "Software Engineer Associate - Tempus",
-        "active": true,
+        "active": false,
         "date_updated": 1787101735,
         "date_posted": 1787011200,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/ZZ---Remote-Location/Software-Engineer-Associate---Tempus_R231402-1",
@@ -372775,7 +372775,7 @@
         "company_name": "CACI",
         "id": "72985476-1779-4c98-b2ad-be7924937896",
         "title": "Cyber Software Engineer - Cyber Science & Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1787177882,
         "date_posted": 1787097600,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Cyber-Software-Engineer_330859",
@@ -374062,6 +374062,44 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "b24b9bfc-11b6-464c-821f-0c89eeb4d3d2",
+        "title": "Electrical Assembler 2 - 2nd Shift",
+        "active": true,
+        "date_updated": 1787233162,
+        "date_posted": 1787171959,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-PHOENIX-1007--1007-E-University-Dr--1007-E-UNIVERSITY-DR/Electrical-Assembler-II--2nd-Shift--Onsite-_01857884-1",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "a1dfbc6b-cfc4-4f12-9930-a8f28dfba7c9",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1787234251,
+        "date_posted": 1785110400,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1",
+        "locations": [
+            "Burlington, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
