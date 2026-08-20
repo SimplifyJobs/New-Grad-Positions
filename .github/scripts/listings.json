@@ -55,153 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Comcast",
-        "id": "d714ccec-63db-41f3-a502-006d2e687439",
-        "title": "Engineer Data & Analytics",
-        "active": false,
-        "date_updated": 1766447652,
-        "date_posted": 1766447652,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Engineer--Data---Analytics_R427045-1",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "d8be6371-0a6c-43f7-835a-5b8b7cec30a8",
-        "title": "Engineer 1 - Analog Product - Test",
-        "active": false,
-        "date_updated": 1766446839,
-        "date_posted": 1766446839,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Engineer-I---Analog-Product--Test-_R2803-25",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Computer Services",
-        "id": "6b537f53-6d12-4569-9e5f-ebe29b60858f",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1766447035,
-        "date_posted": 1766447035,
-        "url": "https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Remote-USA/Software-Engineer_R-100400",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Computer-Services",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "PagerDuty",
-        "id": "60374c19-8f38-44ac-bf23-f037d8a78e3a",
-        "title": "Software Engineer 1 - Product Development",
-        "active": false,
-        "date_updated": 1766446856,
-        "date_posted": 1766446856,
-        "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5722204004",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/PagerDuty",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "2020 Companies",
-        "id": "4bd79f2d-0d63-413a-84c0-90f10cb849d6",
-        "title": "Android Sales Expert",
-        "active": false,
-        "date_updated": 1766446623,
-        "date_posted": 1766446623,
-        "url": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Alameda-CA/Android-Sales-Expert_REQ_096762-1",
-        "locations": [
-            "Alameda, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/2020-Companies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "2020 Companies",
-        "id": "2fc248c0-ec27-443d-8640-2d5669b2e007",
-        "title": "Android Sales Expert",
-        "active": false,
-        "date_updated": 1766446627,
-        "date_posted": 1766446627,
-        "url": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Oakland-CA/Android-Sales-Expert_REQ_096760",
-        "locations": [
-            "SF",
-            "Oakland, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/2020-Companies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "L3Harris Technologies",
-        "id": "b3291f88-0989-439a-ba5c-3ac24154ca88",
-        "title": "Associate \u2013 Business Intelligence Analyst - Cincinnati - OH",
-        "active": false,
-        "date_updated": 1766446324,
-        "date_posted": 1766446324,
-        "url": "https://jobs.l3harris.com/job/Cincinnati-Associate,-Business-Intelligence-Analyst-(Cincinnati,-OH)-OH-45245/1351636300/?ats=successfactors",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "460c8496-c355-48fc-8bf7-f65dfd3804bd",
-        "title": "Graduate FPGA Engineer",
-        "active": false,
-        "date_updated": 1766446323,
-        "date_posted": 1766446323,
-        "url": "https://jobs.l3harris.com/job/Tewkesbury-Graduate-FPGA-Engineer-(Sept-2026)-GLS-GL20-8GB/1334006200/?ats=successfactors",
-        "locations": [
-            "Gloucester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "KBR",
         "id": "9f54691d-ad41-4185-b3a8-dc9b3b8863d0",
@@ -4658,24 +4511,6 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Accenture",
-        "id": "8b4d0a2c-e5b4-4518-83e0-07d2ad8cdf78",
-        "title": "Technology Analyst",
-        "active": false,
-        "date_updated": 1766447313,
-        "date_posted": 1766447313,
-        "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4599649006",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Accenture-FS",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -19959,26 +19794,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "360care",
-        "id": "046ed9f9-78e4-4850-be9f-e487e26e9d9b",
-        "title": "Mobile Dental Assistant",
-        "active": false,
-        "date_updated": 1768472199,
-        "date_posted": 1766446316,
-        "url": "https://careers-360care.icims.com/jobs/3929/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/360care",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
     },
     {
         "source": "Simplify",
@@ -102525,26 +102340,6 @@
             "Houston, TX"
         ],
         "company_url": "https://simplify.jobs/c/Corebridge-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Accenture",
-        "id": "ce022b58-cb77-4c8e-8ac6-e4892cec3566",
-        "title": "Full Stack Engineer",
-        "active": false,
-        "date_updated": 1772763825,
-        "date_posted": 1766447322,
-        "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4627938006",
-        "locations": [
-            "Springfield, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Accenture-FS",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -291924,7 +291719,7 @@
         "company_name": "Impiricus",
         "id": "88efe793-aaac-42c1-a5dd-58fbf94aa053",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784071624,
         "date_posted": 1784067621,
         "url": "https://job-boards.greenhouse.io/impiricus/jobs/5349829008",
@@ -301095,7 +300890,7 @@
         "company_name": "Logos Space",
         "id": "69de5c9d-45e8-4ef4-bed6-0225e35647e3",
         "title": "Payload Pointing Control Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784596685,
         "date_posted": 1784596375,
         "url": "https://jobs.ashbyhq.com/logos-space/ca591880-6b60-4359-9765-28cc0629ec5d/application?embed=true",
@@ -373723,6 +373518,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AeroVironment",
+        "id": "74b2d4ff-f0ec-41d4-bc51-c06875faa9b7",
+        "title": "Computer Network Operations Developer",
+        "active": true,
+        "date_updated": 1785582552,
+        "date_posted": 1781361312,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/420-National-Business-Parkway-Jessup-MD/CNO-Developer_6358",
+        "locations": [
+            "Jessup, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
