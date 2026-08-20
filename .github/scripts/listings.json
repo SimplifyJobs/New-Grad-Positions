@@ -336808,7 +336808,7 @@
         "company_name": "Xcellent Technology Solutions",
         "id": "f9623735-52b0-4633-a58e-f6eaacdc6c33",
         "title": "Operational GEOINT Analyst - Imagery - OPIR",
-        "active": false,
+        "active": true,
         "date_updated": 1785754621,
         "date_posted": 1785737810,
         "url": "https://xtscareers.applytojob.com/apply/u1yXswwTvu/Operational-GEOINT-Analyst-Imagery-OPIR-TSSCI-With-CI-Poly",
@@ -369495,7 +369495,7 @@
         "company_name": "Becton Dickinson",
         "id": "d4628719-533f-420f-b66c-280a708dfb6c",
         "title": "Flow Cytometer Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787092137,
         "date_posted": 1787011200,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Jose---Montecito/Depot-Repair-Technician_R-552770",
@@ -372254,7 +372254,7 @@
         "company_name": "RTX",
         "id": "a01f39f0-6c22-4f5e-87f9-13b586605264",
         "title": "Electrical Assembler 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787172138,
         "date_posted": 1787171959,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Electrical-Assembler-I---1st-Shift_01851101",
@@ -372489,7 +372489,7 @@
         "company_name": "United Airlines",
         "id": "f8cb6f66-76bb-48b4-ab95-bbb94d20c543",
         "title": "Associate Analyst - Ancillary Products",
-        "active": true,
+        "active": false,
         "date_updated": 1787173051,
         "date_posted": 1787104985,
         "url": "https://careers.united.com/us/en/job/WHQ00026746",
@@ -373930,6 +373930,98 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Consulting Group",
+        "id": "f6f17706-f32e-4624-8175-889945a160e5",
+        "title": "Forward Deployed AI Engineer - Campus",
+        "active": true,
+        "date_updated": 1787228718,
+        "date_posted": 1787186938,
+        "url": "https://careers.bcg.com/global/en/job/59067",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Washington, DC",
+            "SF",
+            "LA",
+            "Miami, FL",
+            "Dallas, TX",
+            "Chicago, IL",
+            "Pittsburgh, PA",
+            "NYC",
+            "Brooklyn, NY",
+            "Manhattan Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pinnacle Live",
+        "id": "ff008d88-54dd-49f8-9f8d-11e121689500",
+        "title": "Event Services Technician - Audio Visual - Event Technology",
+        "active": true,
+        "date_updated": 1787228900,
+        "date_posted": 1787178647,
+        "url": "https://jobs.jobvite.com/pinnaclelive/job/oOjEAfw5?nl=1&nl=1&fr=false",
+        "locations": [
+            "Four Corners, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinnacle-Live",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "9861f4e9-aef4-471f-acc7-281904524a3a",
+        "title": "Advanced Technician - DI",
+        "active": true,
+        "date_updated": 1787228727,
+        "date_posted": 1787097600,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Oak-Creek/Advanced-Technician---DI_R4045106",
+        "locations": [
+            "Oak Creek, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "cc81bae9-45aa-4fb6-b026-624c9e9318c2",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1787228355,
+        "date_posted": 1787097600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01868189",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
