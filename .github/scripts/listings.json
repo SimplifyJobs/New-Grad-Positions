@@ -333863,7 +333863,7 @@
         "company_name": "ABEC",
         "id": "19e4f3e2-8068-46e5-b5f9-879b2594bd38",
         "title": "Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785680461,
         "date_posted": 1785517785,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4372257",
@@ -350162,7 +350162,7 @@
         "company_name": "Seagate Technology ",
         "id": "1d51f370-90d2-47da-be5e-00b82325b0dc",
         "title": "Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786389103,
         "date_posted": 1786388927,
         "url": "https://seagatecareers.com/job/Longmont-Firmware-Engineer-Early-Career-CO-80501/1417702400/?ats=successfactors",
@@ -372110,7 +372110,7 @@
         "company_name": "Light & Wonder",
         "id": "02502170-3121-44d4-bf17-fe903f70a51b",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787172417,
         "date_posted": 1787097600,
         "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R322683",
@@ -373242,7 +373242,7 @@
         "company_name": "Trane Technologies",
         "id": "15f1d4cb-e814-4f44-a827-6caf6c32bf60",
         "title": "Point Mapping Specialist 1 - Centralized Services - Point Mapping Team",
-        "active": true,
+        "active": false,
         "date_updated": 1787187468,
         "date_posted": 1787187253,
         "url": "https://careers.tranetechnologies.com/global/en/job/JR-13129",
@@ -373321,7 +373321,7 @@
         "company_name": "Boston Consulting Group",
         "id": "08532603-7472-48a9-a825-fef3a7108472",
         "title": "Forward Deployed AI Scientist - Campus",
-        "active": true,
+        "active": false,
         "date_updated": 1787187127,
         "date_posted": 1787186937,
         "url": "https://careers.bcg.com/global/en/job/59068",
@@ -373678,5 +373678,101 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "StudyFetch",
+        "id": "179e11a1-a541-4256-a6c3-e36544663802",
+        "title": "AI Research Assistant - Machine Learning & AI",
+        "active": true,
+        "date_updated": 1787215748,
+        "date_posted": 1787186853,
+        "url": "https://ats.rippling.com/studyfetch/jobs/ae12be8f-32a4-469f-8d71-452c8409a92a",
+        "locations": [
+            "Beverly Hills, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/StudyFetch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "161c9ea8-e56e-4039-b8ed-68a4e770f5c6",
+        "title": "ECAD Design Engineer 1",
+        "active": true,
+        "date_updated": 1787216090,
+        "date_posted": 1787097600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/ECAD-Design-Engineer-I_01868187",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AVI-SPL",
+        "id": "0cc29527-de18-44bd-9af9-5ec7b3a3ae57",
+        "title": "AV Support Technician",
+        "active": true,
+        "date_updated": 1787215370,
+        "date_posted": 1786679922,
+        "url": "https://careers.avispl.com/jobs/12001?icims=1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/AVI-SPL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "BinSentry",
+        "id": "033c5bdc-76f2-4827-92fe-78cd0bae6273",
+        "title": "Field Technician",
+        "active": true,
+        "date_updated": 1787214676,
+        "date_posted": 1786602269,
+        "url": "https://binsentry.bamboohr.com/careers/272/",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/BinSentry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sunday Robotics",
+        "id": "10f2d7ca-1d2b-4654-a856-6e71168cdd7d",
+        "title": "Memory Developer - In-house - PM Shift",
+        "active": true,
+        "date_updated": 1787215321,
+        "date_posted": 1784153500,
+        "url": "https://jobs.ashbyhq.com/sunday/41d7bd17-a739-46a5-8d5f-e8c85daa541d/application?embed=true",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sunday-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
