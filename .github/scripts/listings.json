@@ -4086,24 +4086,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "e35d4972-b9e4-4035-9a64-7ce3b6f52af0",
-        "title": "Systems Engineer 1",
-        "active": false,
-        "date_updated": 1766456849,
-        "date_posted": 1766456849,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/132570",
-        "locations": [
-            "Tempe, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "GlobalFoundries",
         "id": "b645edc9-b29a-457c-81b1-5602355b8625",
         "title": "Manufacturing Operator",
@@ -264021,7 +264003,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "f22b7344-c3cf-4ad1-98b8-1f4e83a49b01",
         "title": "Associate Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782561601,
         "date_posted": 1782338955,
         "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Software-Engineer_2026-21564",
@@ -359844,7 +359826,7 @@
         "company_name": "ChowBus",
         "id": "a06fff13-7f57-418b-8a60-089543530e70",
         "title": "Test Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1786659565,
         "date_posted": 1786659415,
         "url": "https://job-boards.greenhouse.io/chowbus/jobs/7865931003",
@@ -365410,7 +365392,7 @@
         "company_name": "GlobalFoundries",
         "id": "e267a8dd-5f7e-4f4f-b9f4-31d332bef5f5",
         "title": "Advanced Manufacturing Equipment Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1786785524,
         "date_posted": 1786665600,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Equipment-Engineer--2027-New-College-Graduate-_JR-2604707",
@@ -371868,7 +371850,7 @@
         "company_name": "Becton Dickinson",
         "id": "110e5e1c-be24-46dd-9581-1e0f4677cb3d",
         "title": "Instrument Test Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787129534,
         "date_posted": 1787011200,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Instrument-Test-Tech-1_R-553113",
@@ -373903,6 +373885,26 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "bc603108-972a-4e9c-ae80-4db10074d449",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1787191413,
+        "date_posted": 1787191363,
+        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineering-UT-84116/1421372400/?ats=successfactors",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
