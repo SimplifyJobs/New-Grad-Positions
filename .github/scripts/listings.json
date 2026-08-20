@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "KBR",
-        "id": "9f54691d-ad41-4185-b3a8-dc9b3b8863d0",
-        "title": "Software Engineer - Full Stack Entry - Mid",
-        "active": false,
-        "date_updated": 1766451475,
-        "date_posted": 1766451475,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer---Full-Stack-Entry---Mid_R2116871",
-        "locations": [
-            "Sioux Falls, SD"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "NVIDIA",
         "id": "f6a13ed4-651f-44af-9648-c33c0dd5e5da",
@@ -123423,7 +123405,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -123443,7 +123425,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -195868,7 +195850,7 @@
         "company_name": "PTC",
         "id": "bc73e138-3099-4018-8af3-33f851c19b72",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778192282,
         "date_posted": 1778191483,
         "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Foster-City-CA-USA/Junior-Software-Engineer_JR112167",
@@ -202195,7 +202177,7 @@
         "company_name": "MUFG",
         "id": "e6f05edc-a479-47ae-a5aa-295f9d9c68a5",
         "title": "ML Engineer - AVP",
-        "active": true,
+        "active": false,
         "date_updated": 1778710157,
         "date_posted": 1778709980,
         "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/ML-Engineer_10076539-WD",
@@ -290904,7 +290886,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -334973,7 +334955,7 @@
         "company_name": "Analytica",
         "id": "147cf476-9156-4387-9b97-bca152ce1461",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785739323,
         "date_posted": 1785737826,
         "url": "https://analyticallc.applytojob.com/apply/3QMztCSYzt/Data-Engineer",
@@ -362840,7 +362822,7 @@
         "company_name": "Ascension",
         "id": "b13f3387-1ff9-42b7-b13b-975bce96d782",
         "title": "Master Data Management Specialist - MDM Team",
-        "active": false,
+        "active": true,
         "date_updated": 1786687092,
         "date_posted": 1786686881,
         "url": "https://jobs.ascension.org/us/en/job/456522",
@@ -364882,7 +364864,7 @@
         "company_name": "Vanasse Hangen Brustlin",
         "id": "d10e8010-8a1d-4cbb-83a1-5bade54928c6",
         "title": "Software Evaluation & Enablement Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786754701,
         "date_posted": 1786754564,
         "url": "https://careers-vhb.icims.com/jobs/6233/job?mobile=true&needsRedirect=false",
@@ -365331,7 +365313,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -365390,7 +365372,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -365694,7 +365676,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -373538,6 +373520,223 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trane Technologies",
+        "id": "15f1d4cb-e814-4f44-a827-6caf6c32bf60",
+        "title": "Point Mapping Specialist 1 - Centralized Services - Point Mapping Team",
+        "active": true,
+        "date_updated": 1787187468,
+        "date_posted": 1787187253,
+        "url": "https://careers.tranetechnologies.com/global/en/job/JR-13129",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hooglee",
+        "id": "8f638b06-36c6-4e9a-bf22-b4ab3f14aaca",
+        "title": "Annotation Specialist - Video",
+        "active": true,
+        "date_updated": 1787187421,
+        "date_posted": 1787187327,
+        "url": "https://jobs.ashbyhq.com/hooglee/4ff36140-8be0-4055-8a72-4810c1c5605d/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Hooglee",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Crusoe",
+        "id": "929cfe45-2ac9-4d39-80b3-b3fa750e2ceb",
+        "title": "Software Engineer 1 - Network",
+        "active": true,
+        "date_updated": 1787187298,
+        "date_posted": 1787187240,
+        "url": "https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true",
+        "locations": [
+            "SF",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crusoe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Resource Data",
+        "id": "b48e8f93-c2ad-44d1-9027-1587b93c5796",
+        "title": "GIS Technician",
+        "active": true,
+        "date_updated": 1787187241,
+        "date_posted": 1787187096,
+        "url": "https://resourcedatainc.applytojob.com/apply/HwKYqmiPEp/GIS-Technician",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Resource-Data",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Boston Consulting Group",
+        "id": "08532603-7472-48a9-a825-fef3a7108472",
+        "title": "Forward Deployed AI Scientist - Campus",
+        "active": true,
+        "date_updated": 1787187127,
+        "date_posted": 1787186937,
+        "url": "https://careers.bcg.com/global/en/job/59068",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Washington, DC",
+            "SF",
+            "LA",
+            "Miami, FL",
+            "Dallas, TX",
+            "Chicago, IL",
+            "Pittsburgh, PA",
+            "NYC",
+            "Brooklyn, NY",
+            "Manhattan Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "a52aff07-0926-4ea8-9430-fa80a6a723b4",
+        "title": "DDR Bench Characterization Engineer - Hardware Engineering",
+        "active": true,
+        "date_updated": 1787186881,
+        "date_posted": 1787186821,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446718425274",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Moderna",
+        "id": "67a073ee-aefd-4590-84d1-efe1a90a3bd2",
+        "title": "Data Scientist - Research",
+        "active": true,
+        "date_updated": 1787186676,
+        "date_posted": 1787097600,
+        "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Data-Scientist_R19572",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Moderna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UL Solutions",
+        "id": "f01af695-62ad-4e53-aadb-563704195b18",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1787186521,
+        "date_posted": 1787186396,
+        "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10558",
+        "locations": [
+            "Northbrook, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/UL-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "fbae6c29-9df4-4e31-83cc-893357270de9",
+        "title": "Device Characterization Engineer New Grad - Central Services Lab",
+        "active": true,
+        "date_updated": 1787186635,
+        "date_posted": 1787097600,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Characterization-Engineer--Central-Services-Lab--2027-New-College-Graduate-_JR-2604379",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GlobalFoundries",
+        "id": "622563d2-e336-4a82-b917-11650b4cbd9d",
+        "title": "AI/ML Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1787186633,
+        "date_posted": 1787097600,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/AI-ML-Software-Engineer--2026-New-College-Graduate-_JR-2602832",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA",
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
