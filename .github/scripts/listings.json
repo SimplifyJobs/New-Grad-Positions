@@ -260084,7 +260084,7 @@
         "company_name": "Raymond James Financial",
         "id": "0d46ea5b-d675-4003-9fb3-b27f77285651",
         "title": "Data Driven Insights Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782167041,
         "date_posted": 1782166271,
         "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Data-Driven-Analyst_R-0011685-1",
@@ -264091,7 +264091,7 @@
         "company_name": "L3Harris Technologies",
         "id": "62612bc8-93cf-493c-8968-397f80cda1a1",
         "title": "Senior Associate Data Architect - Data Architect",
-        "active": false,
+        "active": true,
         "date_updated": 1782857959,
         "date_posted": 1782857232,
         "url": "https://jobs.l3harris.com/job/Huntsville-Senior-Associate,-Data-Architect-AL-35806/1404558300/?ats=successfactors",
@@ -278085,7 +278085,7 @@
         "company_name": "Equifax",
         "id": "bbb87d56-02a4-4398-aa6c-977aa803e751",
         "title": "Systems Analyst - Entry",
-        "active": true,
+        "active": false,
         "date_updated": 1783377363,
         "date_posted": 1783376129,
         "url": "https://equifax.wd5.myworkdayjobs.com/external/job/USA---Missouri---St-Louis---Rider-Trail/Systems-Analyst---Entry_J00177495",
@@ -290600,7 +290600,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -342977,7 +342977,7 @@
         "company_name": "Samsara",
         "id": "acf63671-cd3d-494b-bf84-c31eb6ae78e5",
         "title": "Software Engineer 1 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1785970154,
         "date_posted": 1785969248,
         "url": "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345",
@@ -345808,7 +345808,7 @@
         "company_name": "Ares Management",
         "id": "b8a4dc60-ad57-4a14-858b-ee170a129ee1",
         "title": "Software Engineer Analyst - Credit Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1786055773,
         "date_posted": 1785974400,
         "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Analyst--Credit-Technology_R8295",
@@ -360298,7 +360298,7 @@
         "company_name": "CACI",
         "id": "3911aa13-5156-46fe-8b8a-3563389ffb19",
         "title": "IT Data Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1786679730,
         "date_posted": 1786579200,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/IT-Data-Specialist---Entry-Level_330605",
@@ -373971,7 +373971,7 @@
         "company_name": "Pinnacle Live",
         "id": "ff008d88-54dd-49f8-9f8d-11e121689500",
         "title": "Event Services Technician - Audio Visual - Event Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1787228900,
         "date_posted": 1787178647,
         "url": "https://jobs.jobvite.com/pinnaclelive/job/oOjEAfw5?nl=1&nl=1&fr=false",
@@ -374183,6 +374183,370 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Canon",
+        "id": "028c80a3-b1c3-4ac9-b3a4-d8c95d7b3a56",
+        "title": "Printer Field Service Technician 1",
+        "active": true,
+        "date_updated": 1787238937,
+        "date_posted": 1787238731,
+        "url": "https://external-canoncareers.icims.com/jobs/34808/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Norcross, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Canon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "VivSoft Technologies",
+        "id": "19b37e51-2041-4d10-a23e-d342a6b7f791",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1787238613,
+        "date_posted": 1787238475,
+        "url": "https://vivsofttechnologiesfa.applytojob.com/apply/QLa8RzmXAc/Software-Engineer-Entry-Level",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/VivSoft-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Noblis",
+        "id": "92c6183d-d851-4394-b104-02bfa42a14e0",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1787238541,
+        "date_posted": 1787238454,
+        "url": "https://careers.noblis.org/jobs/27693?icims=1",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Noblis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Noblis",
+        "id": "6654047a-c686-4ee9-a050-c53f8cdb885e",
+        "title": "Open Source Intelligence Analyst - OSINT - Multiple Levels",
+        "active": true,
+        "date_updated": 1787238609,
+        "date_posted": 1787238454,
+        "url": "https://careers.noblis.org/jobs/27699?icims=1",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Noblis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Noblis",
+        "id": "88f4f093-dfc9-401d-ab20-692dbbd59ab2",
+        "title": "All Source Analyst",
+        "active": true,
+        "date_updated": 1787238541,
+        "date_posted": 1787238455,
+        "url": "https://careers.noblis.org/jobs/27691?icims=1",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Noblis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Noblis",
+        "id": "9433e524-35be-4f97-972f-f2413cfc67d6",
+        "title": "Identity Intelligence Analyst",
+        "active": true,
+        "date_updated": 1787238541,
+        "date_posted": 1787238454,
+        "url": "https://careers.noblis.org/jobs/27696?icims=1",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Noblis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Noblis",
+        "id": "48051e5a-f365-417e-8fa7-367c8d11d93f",
+        "title": "Weapons of Mass Destruction Analyst - Counterterrorism",
+        "active": true,
+        "date_updated": 1787238600,
+        "date_posted": 1787238454,
+        "url": "https://careers.noblis.org/jobs/27698?icims=1",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Noblis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Noblis",
+        "id": "0857080a-9114-4b43-85c4-0dd64e20ad44",
+        "title": "Biometrics Intelligence Analyst",
+        "active": true,
+        "date_updated": 1787238541,
+        "date_posted": 1787238454,
+        "url": "https://careers.noblis.org/jobs/27692?icims=1",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Noblis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Noblis",
+        "id": "aac4e683-8759-4295-9c11-862d924abaf4",
+        "title": "Targeting Analyst - Multiple Levels",
+        "active": true,
+        "date_updated": 1787238541,
+        "date_posted": 1787238454,
+        "url": "https://careers.noblis.org/jobs/27697?icims=1",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Noblis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ViaSat",
+        "id": "89c30bf6-fa8a-4d37-a508-5221855d1f69",
+        "title": "Data Engineer - Early Career",
+        "active": true,
+        "date_updated": 1787238388,
+        "date_posted": 1787238211,
+        "url": "https://careers.viasat.com/jobs/6698?icims=1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ViaSat",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Constellation Energy",
+        "id": "56082bd5-7ff2-4b3c-a7df-c69e8373d451",
+        "title": "Associate Data Scientist - AI",
+        "active": true,
+        "date_updated": 1787238254,
+        "date_posted": 1787238150,
+        "url": "https://jobs.constellationenergy.com/jobs/138187?icims=1",
+        "locations": [
+            "De Pere, WI",
+            "Houston, TX",
+            "Chicago, IL",
+            "Kennett Square, PA",
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Constellation-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Wintermute",
+        "id": "4f4c4349-199a-4321-b0ab-2645e3c64667",
+        "title": "Trading Analyst",
+        "active": true,
+        "date_updated": 1787238002,
+        "date_posted": 1787237889,
+        "url": "https://jobs.lever.co/wintermute-trading/81f14b93-9b5b-42c1-96d9-56c0cfa9e44e/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Wintermute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "84a07b3a-bb9d-463f-a6fd-8fe81831e8dd",
+        "title": "Software Engineer Associate",
+        "active": true,
+        "date_updated": 1787238131,
+        "date_posted": 1787237893,
+        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1421457300/?ats=successfactors",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sony",
+        "id": "c382b781-c095-4a4e-ad0f-c6b109e2af26",
+        "title": "Associate Field Service Engineer - Fixed Term - 12-month assignment",
+        "active": true,
+        "date_updated": 1787238002,
+        "date_posted": 1787184000,
+        "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---California/Associate-Field-Service-Engineer--Southern-California--LA-SD-Territory-_JR-119510",
+        "locations": [
+            "LA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "fee08a6e-e0de-4bb8-84ad-c51e7658c69d",
+        "title": "Software Engineering Senior Associate",
+        "active": true,
+        "date_updated": 1787238113,
+        "date_posted": 1787237894,
+        "url": "https://jobs.l3harris.com/job/Tulsa-Senior-Associate,-Software-Engineering-OK-74115/1421451700/?ats=successfactors",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "c15fdda6-c63a-4851-a515-02b1bdf30cbd",
+        "title": "Software Engineering Associate",
+        "active": true,
+        "date_updated": 1787238115,
+        "date_posted": 1787237894,
+        "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421454800/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "5b5f1d64-64ce-4ba5-8385-34e05c21ece5",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1787238112,
+        "date_posted": 1787237893,
+        "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421462300/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
