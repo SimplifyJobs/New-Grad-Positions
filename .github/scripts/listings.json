@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "PennState University",
-        "id": "be20827e-f60d-44f8-a85b-ea80bb6de177",
-        "title": "Part Time Research Support - Neurology",
-        "active": false,
-        "date_updated": 1766515590,
-        "date_posted": 1766515590,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/College-of-Medicine/Part-Time-Research-Support---Neurology_REQ_0000074546-1",
-        "locations": [
-            "Hershey, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "BlackRock",
         "id": "bf411f5f-c75a-4413-b374-39d0f68d2a5d",
@@ -7597,26 +7579,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Twitch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Conde Nast",
-        "id": "30cebeaa-c510-4393-bfa5-fef5c15eb29e",
-        "title": "Consumer Analyst",
-        "active": false,
-        "date_updated": 1767709178,
-        "date_posted": 1766516345,
-        "url": "https://condenast.wd5.myworkdayjobs.com/en-US/CondeCareers/job/The-Adelphi-London-GB/Commerce-Analyst_R-20711",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Conde-Nast",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -333930,7 +333892,7 @@
         "company_name": "Black Cape",
         "id": "467bb962-7ff9-480a-b4ce-fea726704dee",
         "title": "Python Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785737701,
         "date_posted": 1785737492,
         "url": "https://blackcape.applytojob.com/apply/AxU2pDbq3P/Python-Data-Engineer",
@@ -367151,7 +367113,7 @@
         "company_name": "Equifax",
         "id": "3fa36818-1341-4b1d-bad4-ca0b28c68379",
         "title": "Technology Rotational Development Program Employee",
-        "active": true,
+        "active": false,
         "date_updated": 1787005842,
         "date_posted": 1786924800,
         "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/USIS-Technology-Rotational-Development-Program-Employee_J00178505",
@@ -370396,7 +370358,7 @@
         "company_name": "LendingClub",
         "id": "65ea5776-45b7-4610-b8c5-a4a1fcacc274",
         "title": "Banking & Deposits Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787092260,
         "date_posted": 1787011200,
         "url": "https://lendingclub.wd1.myworkdayjobs.com/external/job/Boston-MA/Banking---Deposits-Data-Analyst_R0007452",
