@@ -55,60 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "BlackRock",
-        "id": "bf411f5f-c75a-4413-b374-39d0f68d2a5d",
-        "title": "Associate \u2013 Index Fixed Income Algo Engineer",
-        "active": false,
-        "date_updated": 1766517320,
-        "date_posted": 1766517320,
-        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/Associate--Index-Fixed-Income-Algo-Engineer_R258382",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/BlackRock",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "9d4e6e34-9bd9-42ee-be1c-31ddcdc05a4e",
-        "title": "Engineer 1 - Test",
-        "active": false,
-        "date_updated": 1766517446,
-        "date_posted": 1766517446,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Austin---Park-Centre/Engineer-I--Test_R2514-25",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "TJX",
-        "id": "196d6282-b612-4918-a2ad-e7bb39684a70",
-        "title": "Online Trading Assistant",
-        "active": false,
-        "date_updated": 1766517168,
-        "date_posted": 1766517168,
-        "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Watford-HER-WD17-1TX/Online-Trading-Assistant_REQ84941",
-        "locations": [
-            "Watford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/TJX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "General Dynamics UK",
         "id": "fbea33ca-3374-4324-948d-9471cdd39f0f",
@@ -4014,24 +3960,6 @@
             "York, PA"
         ],
         "company_url": "https://simplify.jobs/c/Intertek",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "9f37593c-3b1a-45f3-97b9-dc7e31947d79",
-        "title": "Field Service Engineer 1 - Chicago - IL",
-        "active": false,
-        "date_updated": 1766517030,
-        "date_posted": 1766517030,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Chicago--IL_R4033664-1",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -226326,7 +226254,7 @@
         "company_name": "Q2",
         "id": "83d30405-bde1-4faf-b656-f7eee716c426",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780280823,
         "date_posted": 1780134802,
         "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12023",
@@ -275448,7 +275376,7 @@
         "company_name": "Latitude AI",
         "id": "d508afd3-f392-4af0-a7ef-6ac25b73b9e6",
         "title": "GIS Production Analyst - Contractor",
-        "active": true,
+        "active": false,
         "date_updated": 1783089218,
         "date_posted": 1783089066,
         "url": "https://job-boards.greenhouse.io/latitude/jobs/8045205",
@@ -361123,7 +361051,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "8be181ac-18b4-4c90-8d3f-95f303749bf2",
         "title": "Cyber Engineer - Capabilities Development",
-        "active": true,
+        "active": false,
         "date_updated": 1786680269,
         "date_posted": 1786679978,
         "url": "https://careers.jhuapl.edu/jobs/57600?icims=1",
@@ -365752,7 +365680,7 @@
         "company_name": "Torch Technologies",
         "id": "67f27f9c-9ca2-4d28-ae38-d2292a9ab45f",
         "title": "Entry-Level Modeling and Simulation Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787005083,
         "date_posted": 1786924800,
         "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Level-Modeling-and-Simulation-Analyst_R1561",
