@@ -282467,7 +282467,7 @@
         "company_name": "JP Morgan Chase",
         "id": "ec5f79ed-2bcb-4e77-872a-3d171559c0fc",
         "title": "Trading Services Associate 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783548811,
         "date_posted": 1783548361,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767714",
@@ -323420,7 +323420,7 @@
         "company_name": "GLG",
         "id": "e63c2874-2871-4188-a826-8057c63d376f",
         "title": "Data Operations Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785279241,
         "date_posted": 1785276873,
         "url": "https://glginsights.com/careers/jobs/7813612003?gh_jid=7813612003",
@@ -365390,7 +365390,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -366669,7 +366669,7 @@
         "company_name": "Constellation Energy",
         "id": "f9d70b63-d269-4572-a32b-de922d8f9a3d",
         "title": "Associate AI Solutions Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1787004888,
         "date_posted": 1787004549,
         "url": "https://jobs.constellationenergy.com/jobs/138125?icims=1",
@@ -371756,7 +371756,7 @@
         "company_name": "SAM",
         "id": "f0a0624c-fb42-416b-bf31-094b5999f772",
         "title": "Geospatial Field Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787140676,
         "date_posted": 1786680647,
         "url": "https://careers.sam.biz/jobs/7860?icims=1",
@@ -371889,7 +371889,7 @@
         "company_name": "Glass Roots Construction",
         "id": "c1aac715-de45-4ecf-89cf-eb9c3b0acf3d",
         "title": "Fiber Optic Splicer",
-        "active": true,
+        "active": false,
         "date_updated": 1787163889,
         "date_posted": 1787066161,
         "url": "https://ats.rippling.com/glass-roots-construction-llc/jobs/0e87dcc8-367f-44e3-a356-af0334d51191",
@@ -373910,6 +373910,26 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Becton Dickinson",
+        "id": "bb1f20f5-e4a4-4ff6-9f04-fff7ff7aad01",
+        "title": "Instrument Test Technician 1",
+        "active": true,
+        "date_updated": 1787226745,
+        "date_posted": 1787011200,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Instrument-Test-Tech-1_R-553115",
+        "locations": [
+            "Sparks, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
