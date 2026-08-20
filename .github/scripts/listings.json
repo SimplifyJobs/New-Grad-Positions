@@ -359378,7 +359378,7 @@
         "company_name": "IQVIA",
         "id": "e21c652e-7821-4119-9360-58a96a03aa59",
         "title": "MedTech Field Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786633639,
         "date_posted": 1786579200,
         "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Detroit-MI/MedTech-Field-Service-Technician---Detroit--MI_R1563365-1",
@@ -362199,7 +362199,7 @@
         "company_name": "SAM",
         "id": "c1cc9100-e64d-468d-827b-1e6e138fa2b4",
         "title": "GIS/CAD Survey Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786681801,
         "date_posted": 1786680648,
         "url": "https://careers.sam.biz/jobs/7903?icims=1",
@@ -374022,6 +374022,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "ec000fcb-cee5-4443-994c-82b8da1f589e",
+        "title": "Research Scientist - Ceramist",
+        "active": true,
+        "date_updated": 1787230300,
+        "date_posted": 1787097600,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Research-Scientist---Ceramist_R5050337-1",
+        "locations": [
+            "Niskayuna, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
