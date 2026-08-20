@@ -80354,7 +80354,7 @@
         "company_name": "Cook Systems",
         "id": "5f46b01c-13ab-46ba-844f-9c642aa1f370",
         "title": "Decision Support Administrator",
-        "active": false,
+        "active": true,
         "date_updated": 1771889412,
         "date_posted": 1771889412,
         "url": "https://job-boards.greenhouse.io/cooksys/jobs/5129443008",
@@ -373737,6 +373737,28 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Freeform",
+        "id": "52d714b0-b625-4783-b857-83034faa144c",
+        "title": "Software Engineer New Grad - Summer 2027",
+        "active": true,
+        "date_updated": 1787188347,
+        "date_posted": 1787188158,
+        "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/FreeformFuture",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
