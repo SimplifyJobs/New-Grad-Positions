@@ -55,62 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "f6a13ed4-651f-44af-9648-c33c0dd5e5da",
-        "title": "Firmware Engineer \u2013 New College Grad 2026 - Memory Subsystem",
-        "active": false,
-        "date_updated": 1766458010,
-        "date_posted": 1766458010,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Firmware-Engineer--Memory-Subsystem---New-College-Grad-2026_JR2010096",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Comcast",
-        "id": "9661562d-0d4f-40e4-b1f7-3079fd773ab1",
-        "title": "Engineer 1 - Broadcast Engineering",
-        "active": false,
-        "date_updated": 1766457509,
-        "date_posted": 1766457509,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CO---Centennial-4100-E-Dry-Creek-Rd/Engineer-1--Broadcast-Engineering_R424571",
-        "locations": [
-            "Centennial, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "84e55f5f-1835-4177-8f4e-ecadfb4ecad9",
-        "title": "Postdoctoral Appointee - Experimental AI",
-        "active": false,
-        "date_updated": 1766457499,
-        "date_posted": 1766457499,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Experimental-AI_421579",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Walmart",
         "id": "bfe86098-e003-43cb-b97c-8f8d39cc598b",
@@ -123,78 +67,6 @@
             "Bentonville, AR"
         ],
         "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Chicago",
-        "id": "637048bc-f75f-416e-9f6d-2f00fe0926d9",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1766457106,
-        "date_posted": 1766457106,
-        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Analyst_JR32225",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ASML",
-        "id": "2099405f-c756-4833-be05-f9e2cdea4246",
-        "title": "Field Service Engineer - HMI",
-        "active": false,
-        "date_updated": 1766457299,
-        "date_posted": 1766457299,
-        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Chandler-AZ-USA/Field-Service-Engineer---HMI_J-00332597",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/ASML",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PPG Industries",
-        "id": "b7ed1852-8d68-43cb-a9c4-73e4ae36edbc",
-        "title": "Manufacturing Data Analyst",
-        "active": false,
-        "date_updated": 1766458872,
-        "date_posted": 1766458872,
-        "url": "https://ppg.wd5.myworkdayjobs.com/PPG_CAREERS/job/USA---Delaware-Plant/Manufacturing-Data-Analyst_JR2518708",
-        "locations": [
-            "Ohio"
-        ],
-        "company_url": "https://simplify.jobs/c/PPG-Industries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Boeing Company",
-        "id": "54ba30d4-2242-40be-a586-1cbde3d054a5",
-        "title": "Test & Evaluation Engineer - Multiple Teams",
-        "active": false,
-        "date_updated": 1766458528,
-        "date_posted": 1766458528,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Test---Evaluation-Engineer--Entry-Level--Associate--and-Experienced-_JR2025467413-1",
-        "locations": [
-            "Hazelwood, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -53210,7 +53082,7 @@
         "company_name": "Artefact",
         "id": "fd961a41-2710-4b5f-8494-46c75c5dcf75",
         "title": "Junior Data Analyst - Canada-based",
-        "active": true,
+        "active": false,
         "date_updated": 1770305220,
         "date_posted": 1769700102,
         "url": "https://job-boards.greenhouse.io/artefactus/jobs/8395651002",
@@ -123387,7 +123259,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -123407,7 +123279,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -300555,7 +300427,7 @@
         "company_name": "Ciena",
         "id": "a71fdd89-8e7a-4550-a951-bd4b2c13fb75",
         "title": "Software Development New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1784587018,
         "date_posted": 1784505600,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Software-Development---New-Grad_R031336",
@@ -344003,7 +343875,7 @@
         "company_name": "NXP Semiconductors",
         "id": "011706fb-50bf-4f4a-83bc-889e91793224",
         "title": "AI/ML-driven ASIC Design and Implementation Automation Engineer - Advanced Chip Engineering - Design Methodologies and Automation",
-        "active": true,
+        "active": false,
         "date_updated": 1785979213,
         "date_posted": 1785888000,
         "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Diego-Treena-St/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10065564",
@@ -373901,6 +373773,26 @@
             "Salt Lake City, UT"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Datalab USA",
+        "id": "fdb7c5e9-3d58-4332-bb5d-4b3446253fd0",
+        "title": "Production Programmer \u2013 Entry Level SQL Developer",
+        "active": true,
+        "date_updated": 1787193541,
+        "date_posted": 1787193517,
+        "url": "https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply",
+        "locations": [
+            "Germantown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Datalab-USA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
