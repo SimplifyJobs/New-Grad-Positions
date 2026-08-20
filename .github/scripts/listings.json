@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "4f3c9355-5740-4f15-8ebb-bb06c9b6a314",
-        "title": "Embedded Software Engineer",
-        "active": false,
-        "date_updated": 1766475624,
-        "date_posted": 1766475624,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/Embedded-Software-Engineer--Associate--Experienced--or-Senior---Virtual-_JR2025489517-1",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Remi",
         "id": "639a8f32-953e-4c7a-882f-0bf3ad477035",
@@ -3559,24 +3541,6 @@
             "England, UK"
         ],
         "company_url": "https://simplify.jobs/c/GXO-Logistics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CAE",
-        "id": "4211bbe4-e66c-494a-97e8-6dcaee4d9e23",
-        "title": "Simulator Technician 1",
-        "active": false,
-        "date_updated": 1766475563,
-        "date_posted": 1766475563,
-        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Lake-Nona-FL-USA/Simulator-Technician-I_118879",
-        "locations": [
-            "Orange County, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -185690,7 +185654,7 @@
         "company_name": "RTX",
         "id": "550c0f8a-8e58-4586-9968-9340d5265955",
         "title": "Software Engineer 1 - Test Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1777501226,
         "date_posted": 1777500478,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1",
@@ -256282,7 +256246,7 @@
         "company_name": "State Street",
         "id": "eb09190f-823e-42bc-bf52-4ddcaab011b0",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1781821427,
         "date_posted": 1781820373,
         "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647",
@@ -363192,7 +363156,7 @@
         "company_name": "L3Harris Technologies",
         "id": "48bff6f9-b7e3-4a71-982a-3691ad1663b2",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786728472,
         "date_posted": 1786728276,
         "url": "https://jobs.l3harris.com/job/Sunrise-Associate,-Software-Engineering-FL-33323/1419598300/?ats=successfactors",
@@ -372545,7 +372509,7 @@
         "company_name": "Ohiohealth",
         "id": "7ec94b70-b2e3-42bf-b9fe-6c16660ec0da",
         "title": "Electronic Imaging Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787178244,
         "date_posted": 1787097600,
         "url": "https://ohiohealth.wd5.myworkdayjobs.com/ohiohealthjobs/job/RIVERSIDE-METHODIST-HOSPITAL/Electronic-Imaging-Technician_JR153779",
