@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 410 New Grad Roles by Category
+### Browse 409 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (228)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (227)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (6)
 
@@ -969,13 +969,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>23d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Software Engineer 1</td>
-<td>East Hartford, CT</td>
-<td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Engineer-I--Summer-2027-_01862159?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/febce9fd-e8ba-4d95-85fb-4d00b3760c44?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Qualifacts?utm_source=GHList&utm_medium=company">Qualifacts</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Ontario, Canada</td>
@@ -1680,7 +1673,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1185)</summary>
+<summary>🗃️ Inactive roles (1186)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2138,6 +2131,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Binghamton, NY</td>
+<td>🔒</td>
+<td>23d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer 1</td>
+<td>East Hartford, CT</td>
 <td>🔒</td>
 <td>23d</td>
 </tr>
