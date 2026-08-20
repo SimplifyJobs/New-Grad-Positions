@@ -361072,7 +361072,7 @@
         "company_name": "VTG",
         "id": "8b34936c-e41c-4125-be15-b324d6d312c5",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786680721,
         "date_posted": 1786680207,
         "url": "https://careers.vtgdefense.com/jobs/9316?icims=1",
@@ -365408,7 +365408,7 @@
         "company_name": "Canon",
         "id": "717279b5-3392-4184-8ec5-92924c627291",
         "title": "Service Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786832191,
         "date_posted": 1786832029,
         "url": "https://external-canoncareers.icims.com/jobs/34568/job?mobile=true&needsRedirect=false",
@@ -373833,5 +373833,61 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "52214d4b-ca42-4449-aed5-361b55e49eca",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1787220769,
+        "date_posted": 1787011200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01867905",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SAM",
+        "id": "900a1bd3-3394-4dbe-863f-661ba3e476c3",
+        "title": "Lidar Technician I",
+        "active": true,
+        "date_updated": 1787221805,
+        "date_posted": 1786680645,
+        "url": "https://careers.sam.biz/jobs/7945?icims=1",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/SAM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Wintermute",
+        "id": "8e9167f7-331c-4bb2-ac61-fd0e6469ee70",
+        "title": "Trading Analyst",
+        "active": true,
+        "date_updated": 1787221621,
+        "date_posted": 1780495605,
+        "url": "https://jobs.lever.co/wintermute-trading/11823665-128e-452e-afbb-ce855f22ed86/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wintermute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
