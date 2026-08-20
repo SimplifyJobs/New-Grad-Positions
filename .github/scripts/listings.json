@@ -248912,7 +248912,7 @@
         "company_name": "TikTok",
         "id": "f624cacf-5cd8-42ea-bc15-38f980bc6e29",
         "title": "CV/NLP/Multimodal LLM Research Scientist Graduate - Trust and Safety",
-        "active": true,
+        "active": false,
         "date_updated": 1781504821,
         "date_posted": 1781503934,
         "url": "https://lifeattiktok.com/search/7517106896071903496",
@@ -267791,7 +267791,7 @@
         "company_name": "Ivy Tech Community College",
         "id": "99c78802-8571-46cb-8d2b-1187887ca990",
         "title": "Faculty Fellow - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "date_updated": 1782396361,
         "date_posted": 1782396259,
         "url": "https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Lafayette-IN/Faculty-Fellow---Artificial-Intelligence_JR0000108822",
@@ -313489,7 +313489,7 @@
         "company_name": "Zurich Insurance",
         "id": "ac56ab22-4e58-404f-bd27-334854dd766c",
         "title": "Software Engineer Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1784819368,
         "date_posted": 1784815795,
         "url": "https://www.careers.zurich.com/job/Bath-Associate-Software-Engineer-GB-E/1367510657/?ats=successfactors",
@@ -340225,7 +340225,7 @@
         "company_name": "Abacus Insights",
         "id": "59d07036-60ed-4be1-8045-1e7dd3482bb7",
         "title": "Associate Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785882626,
         "date_posted": 1785881895,
         "url": "https://boards.greenhouse.io/abacusinsights/jobs/8674746002",
@@ -365042,7 +365042,7 @@
         "company_name": "BJC HealthCare",
         "id": "755afd21-51a6-4a39-994c-35c6a3c2b71d",
         "title": "EHR Application Analyst 1 - Epic Security",
-        "active": true,
+        "active": false,
         "date_updated": 1786832104,
         "date_posted": 1786831817,
         "url": "https://jobs.bjc.org/jobs/114939?icims=1",
@@ -368120,7 +368120,7 @@
         "company_name": "Cook Systems",
         "id": "0ac59efb-a60a-487e-ae88-72d4b34fac13",
         "title": "Entry-Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1787034061,
         "date_posted": 1787033944,
         "url": "https://job-boards.greenhouse.io/cooksys/jobs/5386869008",
@@ -369700,7 +369700,7 @@
         "company_name": "Equifax",
         "id": "80e5fa6a-6d28-4b8b-9e07-e3e15729530b",
         "title": "Technology Rotational Development Program Employee",
-        "active": true,
+        "active": false,
         "date_updated": 1787091249,
         "date_posted": 1787011200,
         "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/USIS-Technology-Rotational-Development-Program-Employee_J00178469",
@@ -370268,7 +370268,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "c18c5b18-30ae-4200-998b-302316f70edb",
         "title": "AI Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1787092262,
         "date_posted": 1787011200,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/AI-Engineer_RQ226699",
@@ -372679,7 +372679,7 @@
         "company_name": "Rocket Lab USA",
         "id": "35ee10b6-8a09-4220-a5a2-3c3b37d06107",
         "title": "Electro-Mechanical Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787178061,
         "date_posted": 1785968216,
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7829642003",
@@ -374889,5 +374889,126 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "c82c1758-9605-466f-878f-d5077a225f51",
+        "title": "Embedded Software Developer New Grad",
+        "active": true,
+        "date_updated": 1787265915,
+        "date_posted": 1787184000,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "8ae24d23-a6e3-4753-9b66-edc430fd0198",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1787265557,
+        "date_posted": 1787265376,
+        "url": "https://jobs.l3harris.com/job/Lynchburg-Associate,-Software-Engineer-VA-24501-6952/1421773100/?ats=successfactors",
+        "locations": [
+            "Lynchburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "23215ce7-ac6e-4a84-aedd-b6a33c7cd2f7",
+        "title": "Manufacturing Technician B",
+        "active": true,
+        "date_updated": 1787265541,
+        "date_posted": 1787265374,
+        "url": "https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-B-NY-14623/1421713900/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "1b82daa4-364d-422a-8477-8565651b1158",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1787265555,
+        "date_posted": 1787265377,
+        "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421767700/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SoFi",
+        "id": "ad0e540c-aa30-4559-a884-7ad92a21b24c",
+        "title": "Associate AI Engineer - Finance Transformation",
+        "active": true,
+        "date_updated": 1787265361,
+        "date_posted": 1787265254,
+        "url": "https://sofi.com/careers/job/7871448003?gh_jid=7871448003",
+        "locations": [
+            "Salt Lake City, UT",
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SoFi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Anduril",
+        "id": "50673f8c-06a4-470f-9747-33748285940a",
+        "title": "Early Career Test and Evaluation Systems Integrator",
+        "active": true,
+        "date_updated": 1787265200,
+        "date_posted": 1783981919,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5185888007",
+        "locations": [
+            "Costa Mesa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
