@@ -55,78 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Remi",
-        "id": "639a8f32-953e-4c7a-882f-0bf3ad477035",
-        "title": "Software Engineer 1/2",
-        "active": false,
-        "date_updated": 1766507077,
-        "date_posted": 1766507077,
-        "url": "https://jobs.ashbyhq.com/remi/f83d1104-3501-403f-bfb8-55ae59b6723c/application",
-        "locations": [
-            "Lehi, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Remi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Remi",
-        "id": "38a2eab9-2ef7-4842-b85a-f5fa502b2105",
-        "title": "Software Engineer 1/2 - SF",
-        "active": false,
-        "date_updated": 1766507093,
-        "date_posted": 1766507093,
-        "url": "https://jobs.ashbyhq.com/remi/b818286a-d389-42bd-a4d8-47020981ec57/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Remi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Experian",
-        "id": "78ecd91c-1a1d-47ad-b37f-6b1a7da7aac6",
-        "title": "Analyst",
-        "active": false,
-        "date_updated": 1766506809,
-        "date_posted": 1766506809,
-        "url": "https://jobs.smartrecruiters.com/Experian/744000100264211",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Experian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Google",
-        "id": "17a7361a-87ac-4c99-86a6-7fae8ed6c8c6",
-        "title": "Physical Design Engineer \u2013 University Graduate - 3D Technology - PhD",
-        "active": false,
-        "date_updated": 1766506660,
-        "date_posted": 1766506660,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/106741356235236038",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "WSP",
         "id": "0c7af71f-09b3-44bb-a0d8-609054569a5d",
@@ -32491,7 +32419,7 @@
         "company_name": "Vertiv",
         "id": "f1383e72-7b8f-4e8b-a302-6c03a6bd75db",
         "title": "Quality Inspection/Final Test 1",
-        "active": true,
+        "active": false,
         "date_updated": 1769307042,
         "date_posted": 1769307042,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265818",
@@ -229164,24 +229092,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nokia",
-        "id": "b307e36b-de36-4832-bafb-30d48dfbb6c4",
-        "title": "Photonic Circuit Test Development Engineer",
-        "active": false,
-        "date_updated": 1780392277,
-        "date_posted": 1766507157,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29176",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Flatiron Health",
         "id": "e2052cb0-de30-4673-ae90-6fb2129078b5",
@@ -243477,26 +243387,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nokia",
-        "id": "305c4174-ed7c-450d-8c1b-dd4e77efeb53",
-        "title": "Photonic Integrated Circuit - Photonic Integrated Circuit - Design Engineer",
-        "active": false,
-        "date_updated": 1781166602,
-        "date_posted": 1766507157,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29074",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -292464,7 +292354,7 @@
         "company_name": "Vertiv",
         "id": "4ed5b887-1434-417b-9db8-7394d20e3fb3",
         "title": "Sales Data Analytics Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784106541,
         "date_posted": 1784037902,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276502",
@@ -350914,7 +350804,7 @@
         "company_name": "Leidos",
         "id": "f57734aa-9dbb-48a0-96ce-18feba8b8431",
         "title": "Electronics Mechanical Assembly Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786400489,
         "date_posted": 1786320000,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Mechanical-Technician-2nd-shift_R-00189215",
@@ -351657,7 +351547,7 @@
         "company_name": "Microsoft",
         "id": "4f971efb-9f44-4d59-b6d4-1beacb6b5136",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786410819,
         "date_posted": 1786410631,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556937952",
@@ -360560,7 +360450,7 @@
         "company_name": "Teledyne",
         "id": "86bdbbed-2cac-4420-988c-ff02f061f103",
         "title": "Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786679261,
         "date_posted": 1786579200,
         "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Engineering-Technician-1_REQ36311",
