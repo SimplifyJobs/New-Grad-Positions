@@ -55,51 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WSP",
-        "id": "0c7af71f-09b3-44bb-a0d8-609054569a5d",
-        "title": "Assistant Digital Solutions Consultant - Sharepoint & Power Platform",
-        "active": false,
-        "date_updated": 1766508259,
-        "date_posted": 1766508259,
-        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/77552",
-        "locations": [
-            "London, UK",
-            "Leeds, UK",
-            "Bristol, UK",
-            "Newcastle upon Tyne, UK",
-            "Belfast, UK",
-            "Birmingham, UK",
-            "Bath, UK",
-            "Glasgow, UK",
-            "Manchester, UK",
-            "Northern Ireland, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/WSP",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Blackhawk Network Holdings",
-        "id": "93ef514d-929c-4719-92d2-6ccbc4385c9c",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1766508047,
-        "date_posted": 1766508047,
-        "url": "https://careers-blackhawknetwork.icims.com/jobs/24910/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Coppell, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Blackhawk-Network-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Voyager Technologies",
         "id": "442f8448-261c-487e-a638-988427211697",
@@ -114,24 +69,6 @@
             "LA"
         ],
         "company_url": "https://simplify.jobs/c/Voyager-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Peraton",
-        "id": "77a181c4-c4ac-48d7-8afc-921fbe47d7cd",
-        "title": "Data Scientist",
-        "active": false,
-        "date_updated": 1766509304,
-        "date_posted": 1766509304,
-        "url": "https://careers-peraton.icims.com/jobs/162252/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -3883,24 +3820,6 @@
             "Leicester, UK"
         ],
         "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Google",
-        "id": "c49a036f-1e5a-484c-a0c3-676bca6b2b8b",
-        "title": "Physical Design Engineer - Doctor of Philosophy",
-        "active": false,
-        "date_updated": 1766508690,
-        "date_posted": 1766508690,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/100868314875470534",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -32124,7 +32043,7 @@
         "company_name": "Vertiv",
         "id": "dd4c3790-942e-4837-a913-20638d59c2f8",
         "title": "Quality Inspection/Final Test 1",
-        "active": true,
+        "active": false,
         "date_updated": 1769307436,
         "date_posted": 1769307436,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265817",
