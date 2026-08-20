@@ -290886,7 +290886,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -365313,7 +365313,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -373758,6 +373758,150 @@
         "degrees": [
             "Bachelor's",
             "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "f3bdb586-bbfb-45b8-95e7-a64529d56300",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics - LLM/Agent",
+        "active": true,
+        "date_updated": 1787190481,
+        "date_posted": 1787190346,
+        "url": "https://lifeattiktok.com/search/7675842865566222597",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "cbf7d7ce-dde5-4b9b-a5e3-9663654dbc2e",
+        "title": "Graduate Software Engineer - TikTok Search Data Infra",
+        "active": true,
+        "date_updated": 1787190497,
+        "date_posted": 1787190346,
+        "url": "https://lifeattiktok.com/search/7675829388634392837",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "c9dff2be-8f4e-4123-866d-9dac43703bd2",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics",
+        "active": true,
+        "date_updated": 1787190481,
+        "date_posted": 1787190346,
+        "url": "https://lifeattiktok.com/search/7675844938504702213",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kikoff",
+        "id": "abf4af65-04b3-4ec5-b2bb-0cfd7ce4d500",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1787190499,
+        "date_posted": 1787190437,
+        "url": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Kikoff",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "5050a4ec-870d-44d2-894d-d2369c296564",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics",
+        "active": true,
+        "date_updated": 1787190481,
+        "date_posted": 1787190347,
+        "url": "https://lifeattiktok.com/search/7675843332462872885",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "4d3acee9-3b15-433a-a4c9-4ca461058f7a",
+        "title": "Research Scientist/Software Engineer - Neural Graphics and World Models",
+        "active": true,
+        "date_updated": 1787190481,
+        "date_posted": 1787190347,
+        "url": "https://lifeattiktok.com/search/7668854153882011957",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "46147fdd-7fda-4c72-b739-309c869a3093",
+        "title": "Machine Learning Engineer Graduate - Multiple Teams",
+        "active": true,
+        "date_updated": 1787190481,
+        "date_posted": 1787190346,
+        "url": "https://lifeattiktok.com/search/7675841339440941317",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "PhD"
         ]
     }
