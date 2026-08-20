@@ -1680,7 +1680,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1185)</summary>
+<summary>🗃️ Inactive roles (1183)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -9408,7 +9408,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Huntington-Ingalls-Industries?utm_source=GHList&utm_medium=company">Huntington Ingalls Industries</a></strong></td>
+<td>↳</td>
 <td>Software Engineer 1</td>
 <td>Newport News, VA</td>
 <td>🔒</td>
@@ -9971,20 +9971,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Citizen-Health?utm_source=GHList&utm_medium=company">Citizen Health</a></strong></td>
 <td>Early Career Software Engineer</td>
 <td>SF</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Remi?utm_source=GHList&utm_medium=company">Remi</a></strong></td>
-<td>Software Engineer 1/2 - SF</td>
-<td>SF</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineer 1/2</td>
-<td>Lehi, UT</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
