@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Walmart",
-        "id": "bfe86098-e003-43cb-b97c-8f8d39cc598b",
-        "title": "USA \u2013 Staff - Data Scientist",
-        "active": false,
-        "date_updated": 1766459181,
-        "date_posted": 1766459181,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Staff--Data-Scientist_R-2331754",
-        "locations": [
-            "Bentonville, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Cisive",
         "id": "28d96284-4aef-408f-a65f-806c0bd88e7e",
@@ -302547,7 +302529,7 @@
         "company_name": "CACI",
         "id": "5bfa8dfe-312f-4eae-8ef0-8fb4c751bd9a",
         "title": "Computer Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784607662,
         "date_posted": 1783127187,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/King-George-VA-US/Computer-Engineer_316855",
