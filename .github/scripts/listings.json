@@ -56,26 +56,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Voyager Technologies",
-        "id": "442f8448-261c-487e-a638-988427211697",
-        "title": "Software Engineer - Manufacturing Integration",
-        "active": false,
-        "date_updated": 1766509624,
-        "date_posted": 1766509624,
-        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087905009",
-        "locations": [
-            "Seattle, WA",
-            "Washington, DC",
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Voyager-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "PennState University",
         "id": "be20827e-f60d-44f8-a85b-ea80bb6de177",
         "title": "Part Time Research Support - Neurology",
@@ -1168,26 +1148,6 @@
             "Saskatoon, SK, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Voyager Technologies",
-        "id": "9f6fb5df-8de7-479b-b29d-45f1fcf227da",
-        "title": "AI Software Engineer - Agents - Ace",
-        "active": false,
-        "date_updated": 1766619489,
-        "date_posted": 1766509609,
-        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087903009",
-        "locations": [
-            "Seattle, WA",
-            "Washington, DC",
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Voyager-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -7071,28 +7031,6 @@
             "Columbus, OH"
         ],
         "company_url": "https://simplify.jobs/c/US-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Voyager Technologies",
-        "id": "4b0bc8f6-ddcc-40b0-a3c7-b7a83236381c",
-        "title": "Software Engineer - AI Automation - Internal Tools",
-        "active": false,
-        "date_updated": 1767657322,
-        "date_posted": 1766509618,
-        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087908009",
-        "locations": [
-            "Seattle, WA",
-            "Washington, DC",
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Voyager-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -17788,27 +17726,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Kaseya",
-        "id": "f481c45d-1584-42f4-ac0e-4f0fb19ae561",
-        "title": "Product Marketing Manager",
-        "active": false,
-        "date_updated": 1768381874,
-        "date_posted": 1766509613,
-        "url": "https://www.kaseya.com/careers/jobs/id/5729960004/?gh_jid=5729960004",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Kaseya",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "MBA"
         ]
     },
     {
@@ -341792,7 +341709,7 @@
         "company_name": "Astreya",
         "id": "60d7e660-cdca-4112-ade4-ca8dd46743c1",
         "title": "Fiber Network Mapping Specialist 3",
-        "active": true,
+        "active": false,
         "date_updated": 1785924010,
         "date_posted": 1785888000,
         "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/London-United-Kingdom/Fiber-Network-Mapping-Specialist-III_R0016616",
