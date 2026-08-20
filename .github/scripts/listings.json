@@ -211582,7 +211582,7 @@
         "company_name": "Egis Group",
         "id": "f8a46b4e-7c6d-4626-8a8a-5b680d71b9d0",
         "title": "BIM Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1779458761,
         "date_posted": 1779458748,
         "url": "https://jobs.smartrecruiters.com/EgisGroup/744000127876298",
@@ -213312,7 +213312,7 @@
         "company_name": "Mohawk",
         "id": "8e92cf55-3c25-413d-b10e-ac04e651a21e",
         "title": "Master Data Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1779819667,
         "date_posted": 1778922340,
         "url": "https://careers.mohawkind.com/job/Dalton-Master-Data-Coordinator-Geor-30721/1385035600/?ats=successfactors",
@@ -323644,7 +323644,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
@@ -327627,7 +327627,7 @@
         "company_name": "L3Harris Technologies",
         "id": "6a779119-9427-4e51-b8bb-2638070e150c",
         "title": "Engineering Technician B",
-        "active": true,
+        "active": false,
         "date_updated": 1785460321,
         "date_posted": 1785459849,
         "url": "https://jobs.l3harris.com/job/Cincinnati-Engineering-Technician-B-OH-45245/1414392600/?ats=successfactors",
@@ -334487,7 +334487,7 @@
         "company_name": "Amsive",
         "id": "8a481e6a-db2a-4dc1-9a20-f2b9ee132929",
         "title": "Programmer",
-        "active": true,
+        "active": false,
         "date_updated": 1785739323,
         "date_posted": 1785737969,
         "url": "https://amsive.applytojob.com/apply/OiAV4aB3HJ/Programmer",
@@ -359830,7 +359830,7 @@
         "company_name": "Microsoft",
         "id": "52313b30-cb01-42d0-9c7e-e101d5417aa5",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786661000,
         "date_posted": 1786660864,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556960468",
@@ -370124,7 +370124,7 @@
         "company_name": "SAM",
         "id": "51fe32fd-f8f8-4aa8-aa29-d1a0b213bed5",
         "title": "Survey Technician/Instrument Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1787090941,
         "date_posted": 1787090774,
         "url": "https://careers.sam.biz/jobs/7944?icims=1",
@@ -371622,7 +371622,7 @@
         "company_name": "SunSource",
         "id": "51c5fbe9-afa5-4063-804a-a290a1fed0ca",
         "title": "Fabrication Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787133061,
         "date_posted": 1775686136,
         "url": "https://jobs.lever.co/sunsrce/74bf8d68-c4a6-4f95-81e6-7ac1cce8d25c/apply",
@@ -371640,7 +371640,7 @@
         "company_name": "EBSCO",
         "id": "5c963361-407c-460e-b8be-87eeff139db5",
         "title": "Product Manager - AI Exchange",
-        "active": true,
+        "active": false,
         "date_updated": 1787133739,
         "date_posted": 1787093668,
         "url": "https://careers-ebscoind.icims.com/jobs/2065/job?mobile=true&needsRedirect=false",
@@ -373792,5 +373792,46 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blackstone",
+        "id": "cb2e6fa3-bfdc-4488-ae12-4f2fba3bc1c8",
+        "title": "Software Developer Analyst",
+        "active": true,
+        "date_updated": 1787218811,
+        "date_posted": 1787184000,
+        "url": "https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Technology---Innovation-Software-Developer-Analyst--London-_44666",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Blackstone",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "2c715da0-fadf-4c6d-870a-68fb4e8f0eee",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1787218263,
+        "date_posted": 1785110400,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721",
+        "locations": [
+            "Burlington, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
