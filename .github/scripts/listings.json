@@ -316839,7 +316839,7 @@
         "company_name": "Realtor.com",
         "id": "14275448-8755-471c-b6d1-e36e91f790bf",
         "title": "Software Engineer - Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1784931841,
         "date_posted": 1783693072,
         "url": "https://boards.greenhouse.io/rdccareers/jobs/7800190003",
@@ -338348,7 +338348,7 @@
         "company_name": "TikTok",
         "id": "6989a133-f5f6-4d41-81d7-b5403e6a5f9e",
         "title": "Graduate Data Scientist - Tiktok Product",
-        "active": true,
+        "active": false,
         "date_updated": 1785836311,
         "date_posted": 1785835207,
         "url": "https://lifeattiktok.com/search/7669657076205324597",
@@ -340532,7 +340532,7 @@
         "company_name": "Starbucks",
         "id": "924b8ac7-f08b-4620-9762-01deab61c794",
         "title": "Application Developer - Application Development",
-        "active": false,
+        "active": true,
         "date_updated": 1785922656,
         "date_posted": 1785922136,
         "url": "https://starbucks.eightfold.ai/careers/job/481078166376",
@@ -346501,7 +346501,7 @@
         "company_name": "Northrop Grumman",
         "id": "09fc1b0f-a4c0-424d-b613-2ea9a8bc5994",
         "title": "Associate RF Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1786142972,
         "date_posted": 1786060800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2026-Associate-I-T-RF-Engineer---Dulles-VA_R10244551",
@@ -351602,7 +351602,7 @@
         "company_name": "State Street",
         "id": "407e1e4c-8d82-4e4c-b3ff-9482dc645fb7",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1786469130,
         "date_posted": 1786406400,
         "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953",
@@ -359295,7 +359295,7 @@
         "company_name": "Seagate Technology ",
         "id": "4b1d018c-2a4a-4b40-b79e-97dd465d5531",
         "title": "Systems Engineer - Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1786679121,
         "date_posted": 1786678901,
         "url": "https://seagatecareers.com/job/Longmont-Systems-Engineer-Early-Career-CO-80501/1419329400/?ats=successfactors",
@@ -369591,7 +369591,7 @@
         "company_name": "Boston Scientific",
         "id": "1421431b-ee3b-4b28-b0be-5939c60ce29b",
         "title": "Software Development Engineer 2 - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1787094135,
         "date_posted": 1787093934,
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602813422191",
@@ -370653,7 +370653,7 @@
         "company_name": "FTI Consulting",
         "id": "3bc86e84-c6e3-493d-9c0f-66ac10a6a701",
         "title": "Graduate Scheme - E-Discovery",
-        "active": true,
+        "active": false,
         "date_updated": 1787173104,
         "date_posted": 1787097600,
         "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareersPrivate/job/London-United-Kingdom/ET-2027---Graduate-Scheme--E-Discovery_JR260989-1",
@@ -374517,5 +374517,86 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "9d6edf98-2a6c-44ed-8384-9c264b930e20",
+        "title": "Support Engineer 1",
+        "active": true,
+        "date_updated": 1787294521,
+        "date_posted": 1787294384,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343611",
+        "locations": [
+            "Orlando, FL",
+            "Nashville, TN",
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hunter Strategy",
+        "id": "398ad114-ce64-44a1-8f22-d7b212a16093",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1787294416,
+        "date_posted": 1787294304,
+        "url": "https://ats.rippling.com/hunterstrategy/jobs/ed17a8a3-821b-472b-912a-ef4c91ea45ec",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hunter-Strategy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nucleus Biologics",
+        "id": "1125c69f-65e1-4147-8a75-a88ddc41e3b2",
+        "title": "Full Stack Engineer",
+        "active": true,
+        "date_updated": 1787294414,
+        "date_posted": 1787294333,
+        "url": "https://ats.rippling.com/nucleus-biologics-careers/jobs/af1ea033-27f0-42e8-bac9-09434a5ffbe3",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nucleus-Biologics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stanley Black & Decker",
+        "id": "c0db1ec2-4bd3-43f3-b7e2-c8a9d3bfab14",
+        "title": "Leadership Program Engineering - Embedded Software",
+        "active": true,
+        "date_updated": 1787294185,
+        "date_posted": 1787184000,
+        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Stanley-Leadership-Program-Engineering--Embedded-Software_REQ-1000050879",
+        "locations": [
+            "New Britain, CT",
+            "Towson, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
