@@ -222759,7 +222759,7 @@
         "company_name": "JP Morgan Chase",
         "id": "442c6324-ce4c-401e-a711-4bda90465047",
         "title": "Model Risk Program Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779957181,
         "date_posted": 1776348530,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736155",
@@ -272139,7 +272139,7 @@
         "company_name": "Analog Devices",
         "id": "e9a77d3a-1f5c-4f3c-8883-575121ae1905",
         "title": "FPGA Systems Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783002781,
         "date_posted": 1783001195,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Denmark-Copenhagen/FPGA-Systems-Development-Engineer_R263331",
@@ -372599,7 +372599,7 @@
         "company_name": "GE Vernova",
         "id": "ec000fcb-cee5-4443-994c-82b8da1f589e",
         "title": "Research Scientist - Ceramist",
-        "active": true,
+        "active": false,
         "date_updated": 1787230300,
         "date_posted": 1787097600,
         "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Research-Scientist---Ceramist_R5050337-1",
@@ -374801,5 +374801,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Topcon Positioning",
+        "id": "ce7c4cfd-be2c-443f-a49a-3cb6f6ab17b2",
+        "title": "Service Technician",
+        "active": true,
+        "date_updated": 1787315581,
+        "date_posted": 1786320000,
+        "url": "https://topcon.wd1.myworkdayjobs.com/TopconPositioningCareers/job/Kansas-City-MO/Service-Technician_JR107447",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Topcon-Positioning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
