@@ -298509,7 +298509,7 @@
         "company_name": "Capital One",
         "id": "d03ac761-2dfa-4cd7-bd7c-797b6ff89c19",
         "title": "Software Engineer New Grad - Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784587302,
         "date_posted": 1784505600,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
@@ -327644,7 +327644,7 @@
         "company_name": "Leidos",
         "id": "8c2d8b3a-a4af-4b81-bb1a-427981e07d6d",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1785540544,
         "date_posted": 1785456000,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00188494",
@@ -341256,7 +341256,7 @@
         "company_name": "Cboe",
         "id": "01738c78-da2c-4ccd-99a5-864c2d5a1df4",
         "title": "Associate Software Engineer - Web",
-        "active": true,
+        "active": false,
         "date_updated": 1785967743,
         "date_posted": 1785888000,
         "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Associate-Software-Engineer--Web_R-4563",
@@ -352533,7 +352533,7 @@
         "company_name": "EquipmentShare",
         "id": "70233041-2f02-45dc-8b03-0e76c22d6266",
         "title": "Low Voltage Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1786487941,
         "date_posted": 1786487793,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8122723",
@@ -362233,7 +362233,7 @@
         "company_name": "Smith+Nephew",
         "id": "c3822529-442e-4f8d-8609-babd6340391d",
         "title": "Quality Engineer - Data Science",
-        "active": false,
+        "active": true,
         "date_updated": 1786745705,
         "date_posted": 1786665600,
         "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Quality-Engineer---Data-Science_R91792",
@@ -363484,7 +363484,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -363523,7 +363523,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -363582,7 +363582,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -363886,7 +363886,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -374925,6 +374925,233 @@
             "Louisville, KY"
         ],
         "company_url": "https://simplify.jobs/c/GE-Appliances",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "5ccced66-9142-4b34-b707-ac2de7ec911c",
+        "title": "Systems Engineer",
+        "active": true,
+        "date_updated": 1787334876,
+        "date_posted": 1787334524,
+        "url": "https://careers-gdms.icims.com/jobs/74470/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mass General Brigham",
+        "id": "76595645-0a06-49dd-b2ce-4dfb5f721626",
+        "title": "Computational Associate",
+        "active": true,
+        "date_updated": 1787334662,
+        "date_posted": 1787270400,
+        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Computational-Associate_RQ4071622",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BakerHicks",
+        "id": "5293ee36-2e2c-422c-91d0-ba07cb9666f6",
+        "title": "Asset Information Manager Graduate",
+        "active": true,
+        "date_updated": 1787334363,
+        "date_posted": 1787334183,
+        "url": "https://job-boards.eu.greenhouse.io/bakerhicks/jobs/4955835101",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/BakerHicks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "84f6ba85-8d45-4d6c-8fbd-6b1a74082506",
+        "title": "Associate Software Engineer New Grad - Card Expansion - Software Engineer",
+        "active": true,
+        "date_updated": 1787334173,
+        "date_posted": 1787270400,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247336",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "742b921c-2766-4ac6-a3d4-eccdf6ca68cc",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1787333941,
+        "date_posted": 1787270400,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Engineer_R0247559",
+        "locations": [
+            "Arlington County, Arlington, VA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "819eedb4-b5db-4a0d-8f0d-c91e64fb9eeb",
+        "title": "Software Programmer Entry Level - Conventional Test Facility",
+        "active": true,
+        "date_updated": 1787333855,
+        "date_posted": 1787270400,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Software-Programmer---Entry-Level_R0168838",
+        "locations": [
+            "Tullahoma, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LPL Financial Holdings",
+        "id": "d84554fe-0b89-42b0-b1e0-bf203a9e2ccd",
+        "title": "Data Analytics New Grad - Multiple Teams",
+        "active": true,
+        "date_updated": 1787333844,
+        "date_posted": 1787270400,
+        "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Foundational-Analyst-Rotational-Program--FAR----Data-Analytics_R-052057-1",
+        "locations": [
+            "Fort Mill, SC",
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Susquehanna International Group",
+        "id": "eb8977de-3324-43fe-b93a-6022de964d3f",
+        "title": "Quantitative Strategy Developer Graduate - London",
+        "active": true,
+        "date_updated": 1787333477,
+        "date_posted": 1787333318,
+        "url": "https://careers-sig.icims.com/jobs/11344/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Susquehanna International Group",
+        "id": "adfcb3a2-2763-48e0-b417-77f931e4fcda",
+        "title": "Software Developer Graduate",
+        "active": true,
+        "date_updated": 1787333469,
+        "date_posted": 1787333318,
+        "url": "https://careers-sig.icims.com/jobs/11336/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Susquehanna International Group",
+        "id": "eb3814c7-6fd3-4e58-852c-6cc00005cf9a",
+        "title": "Trading System Engineer New Grad",
+        "active": true,
+        "date_updated": 1787333463,
+        "date_posted": 1787333319,
+        "url": "https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Susquehanna International Group",
+        "id": "22158ccb-39d8-4d56-8b2f-46828624cdea",
+        "title": "Trading Systems Engineer Graduate",
+        "active": true,
+        "date_updated": 1787333464,
+        "date_posted": 1787333319,
+        "url": "https://careers-sig.icims.com/jobs/11347/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
