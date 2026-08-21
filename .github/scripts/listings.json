@@ -363515,7 +363515,7 @@
         "company_name": "RTX",
         "id": "e7bf8164-6dba-40c2-bfc3-38f601c320fc",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786757150,
         "date_posted": 1786665600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01867125",
@@ -363535,7 +363535,7 @@
         "company_name": "RTX",
         "id": "29edc090-b552-4025-b423-23528dab82bb",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786757149,
         "date_posted": 1786665600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866775",
@@ -363575,7 +363575,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -363856,7 +363856,7 @@
         "company_name": "RTX",
         "id": "f4cc51bc-a3b3-4c1b-a7df-08cdc2293da4",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786784825,
         "date_posted": 1786665600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Software-Engineer-I--Onsite-_01865467",
@@ -365339,7 +365339,7 @@
         "company_name": "Northrop Grumman",
         "id": "e9f917dc-c9d2-46e9-a114-d3b7a9fb74b9",
         "title": "Repair and Calibration Technician C - 1st Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1787007265,
         "date_posted": 1786924800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/U109-Repair-and-Calibration-Technician-C---1st-Shift_R10242358-1",
@@ -370655,7 +370655,7 @@
         "company_name": "General Motors",
         "id": "f9c9c83c-6d1f-46fe-8ab6-56dce1aa86f5",
         "title": "AI & Data Engineering New Grad - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1787172479,
         "date_posted": 1787097600,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME--New-College-Graduate--Associate-AI---Data-Engineering-Engineer_JR-202601970",
@@ -374581,6 +374581,108 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "67f9183a-b3d2-41ab-a0e5-2b1c829e2a9c",
+        "title": "Software Engineer Graduate - AML-Engine-Forge Platform",
+        "active": true,
+        "date_updated": 1787304422,
+        "date_posted": 1787304258,
+        "url": "https://jobs.bytedance.com/en/position/7673306902554102069/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "7244fb2c-e4f5-41ea-82cd-95263ef93961",
+        "title": "Software Engineer Associate - TS/SCI",
+        "active": true,
+        "date_updated": 1787303955,
+        "date_posted": 1787303760,
+        "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineering-TSSCI-FL-32904/1421809500/?ats=successfactors",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Publicis Groupe",
+        "id": "2e03e161-6dfe-4f95-b673-41ad361e478d",
+        "title": "Programmatic Analyst - Precision",
+        "active": true,
+        "date_updated": 1787303205,
+        "date_posted": 1785766300,
+        "url": "https://careers.publicisgroupe.com/jobs/164480?icims=1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Old Mission",
+        "id": "2ca0d217-e975-4083-899f-44860ed7f19a",
+        "title": "Quantitative Researcher - Ph.D",
+        "active": true,
+        "date_updated": 1787303010,
+        "date_posted": 1785449007,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7814534003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "29762137-0e7d-4af8-9ef1-9ff70f9eda4f",
+        "title": "Web Architect",
+        "active": true,
+        "date_updated": 1787302801,
+        "date_posted": 1784556714,
+        "url": "https://careers-peraton.icims.com/jobs/168482/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Fort Huachuca, Sierra Vista, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
