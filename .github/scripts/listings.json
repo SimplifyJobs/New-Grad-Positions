@@ -267851,7 +267851,7 @@
         "company_name": "Sophos",
         "id": "382edd59-362c-4067-97e0-f333684dab49",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1782915123,
         "date_posted": 1782914766,
         "url": "https://jobs.lever.co/sophos/797834ca-58be-4a7c-a220-b2eefd449d97/apply",
@@ -272199,7 +272199,7 @@
         "company_name": "Schroders",
         "id": "036a4d78-073b-4968-808b-46c8c7223eb0",
         "title": "Global Operating Platform MI Analyst 2",
-        "active": false,
+        "active": true,
         "date_updated": 1783030503,
         "date_posted": 1783030128,
         "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1661",
@@ -289060,7 +289060,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -348536,7 +348536,7 @@
         "company_name": "Cisco",
         "id": "2248f171-9493-45ea-a49d-ad059b8be5c5",
         "title": "Software Engineer 3 - ENG/CPO/WTG ETR",
-        "active": false,
+        "active": true,
         "date_updated": 1786389222,
         "date_posted": 1786389011,
         "url": "https://careers.cisco.com/global/en/job/2022055",
@@ -368865,7 +368865,7 @@
         "company_name": "Zuckerman Investment Group",
         "id": "696a07de-2f62-4c57-a4f1-3ca7aafc074f",
         "title": "Investment Analyst - MBA",
-        "active": false,
+        "active": true,
         "date_updated": 1787093886,
         "date_posted": 1787093676,
         "url": "https://ats.rippling.com/zuckerman-investment-group/jobs/afb2eda4-7bbd-48b6-9ebf-c1726d73905d",
@@ -375400,5 +375400,186 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CACI",
+        "id": "c8b3af43-8258-458a-a9ea-a0f4425e8595",
+        "title": "Geospatial Maritime Analyst - Digitizer - Collections Analyst",
+        "active": true,
+        "date_updated": 1787343546,
+        "date_posted": 1787270400,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Fort-Collins-CO-US/GIS-Geospatial-Maritime-Analyst---Digitizer---Collections-Analyst_330955",
+        "locations": [
+            "Fort Collins, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Parsons",
+        "id": "2672baf9-a609-4fe4-b69c-97c5ebad875e",
+        "title": "Electronic Security Systems Technician 1 - Electronics Technician",
+        "active": true,
+        "date_updated": 1787343534,
+        "date_posted": 1787270400,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---GA-Field-Location/SCA-Electronic-Security-System--ESS--Electronics-Technician_R185132",
+        "locations": [
+            "Georgia"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Avalore",
+        "id": "9e276b36-0027-450c-b77d-ba9d4664b668",
+        "title": "AI/ML Engineer",
+        "active": true,
+        "date_updated": 1787343301,
+        "date_posted": 1787343223,
+        "url": "https://apply.workable.com/avalore/j/236521B2C0/apply",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Avalore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Berkeley National Laboratory",
+        "id": "90f9f1b5-758f-40b8-b6dd-9a555735a261",
+        "title": "Machine Learning Materials Science Postdoctoral Researcher - Molecular Foundry",
+        "active": true,
+        "date_updated": 1787343337,
+        "date_posted": 1787343124,
+        "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=107358",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DTCC",
+        "id": "10c0f3d2-b3b5-448c-b33a-9dfbbfbe255c",
+        "title": "Business Systems Analyst - Oracle Billing Systems",
+        "active": true,
+        "date_updated": 1787343364,
+        "date_posted": 1787343221,
+        "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214447",
+        "locations": [
+            "Dallas, TX",
+            "Jersey City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/DTCC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Marsh",
+        "id": "a45d0443-7d8f-4499-975c-cd7b6aef159f",
+        "title": "Government Health Consulting Informatics Analyst - College Program",
+        "active": true,
+        "date_updated": 1787343199,
+        "date_posted": 1787270400,
+        "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Analyst---College-Program-2027_R_362067",
+        "locations": [
+            "Seattle, WA",
+            "Phoenix, AZ",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Marsh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Atominvest",
+        "id": "814cf296-5310-444e-b97a-2fb78d33e53e",
+        "title": "Graduate Technical Product Analyst",
+        "active": true,
+        "date_updated": 1787343121,
+        "date_posted": 1787342949,
+        "url": "https://jobs.ashbyhq.com/atominvest/2f08831c-f9b1-4de7-812a-46225949a7d9/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Atominvest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BAE Systems OneArc USA, Inc",
+        "id": "360847fa-a110-475d-aa7e-121fcba41e78",
+        "title": "Software Developer - Distributed Simulation Technology",
+        "active": true,
+        "date_updated": 1787343121,
+        "date_posted": 1787342947,
+        "url": "https://onearc.bamboohr.com/careers/402/",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/BAE-Systems-OneArc-USA-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Focus Group",
+        "id": "07e0a94c-0d80-429e-9cfe-7110e975f66c",
+        "title": "Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1787343184,
+        "date_posted": 1787342971,
+        "url": "https://apply.workable.com/focus-group/j/70814EFA9B/apply",
+        "locations": [
+            "Shoreham-by-Sea, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Focus-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
