@@ -73,44 +73,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "adf08302-4c30-4375-a2eb-4be6a1f1b947",
-        "title": "Technician - Test - Level 3",
-        "active": false,
-        "date_updated": 1766560286,
-        "date_posted": 1766560286,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/132655",
-        "locations": [
-            "North Wales, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Western Governors University",
-        "id": "f674357b-69c9-4e41-add0-1d6305c4c848",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1766561466,
-        "date_posted": 1766561466,
-        "url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-Office/Associate-Software-Engineer_JR-023918",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Governors-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "b5a5e520-a750-45f4-8fd5-d0c54405a502",
@@ -363872,7 +363834,7 @@
         "company_name": "RTX",
         "id": "7db6d258-87e7-4ae1-9627-a16a5d0c8513",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786784824,
         "date_posted": 1786665600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01866531",
@@ -364567,7 +364529,7 @@
         "company_name": "PNC Financial Services",
         "id": "6f000f35-4e43-4364-980a-4ac4b0c04d52",
         "title": "Software Engineer Associate - Business Intelligence Enablement",
-        "active": true,
+        "active": false,
         "date_updated": 1787005749,
         "date_posted": 1786924800,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15219/Software-Engineer-Associate---Business-Intelligence-Enablement_R232352-1",
