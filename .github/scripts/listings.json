@@ -55,42 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lennar Corporation",
-        "id": "66c1d2cd-e866-4009-a4be-702a64b8c839",
-        "title": "Systems Analyst 1",
-        "active": false,
-        "date_updated": 1766533366,
-        "date_posted": 1766533366,
-        "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Irving-TX-Job-Posting-Location/Systems-Analyst-I_R25_0000005022",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Lennar-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "2c479fae-e944-43d3-ae6b-308094d0016c",
-        "title": "Engineer 1 - Digital Design",
-        "active": false,
-        "date_updated": 1766533558,
-        "date_posted": 1766533558,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/NY---Hauppauge/Engineer-I---Digital-Design_R2503-25",
-        "locations": [
-            "Long Island, New York"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Cox",
         "id": "b8e628e9-ab02-4860-9fed-01f07705a157",
@@ -121,78 +85,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Sanofi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Chicago",
-        "id": "4c95a867-5cff-4f0e-a099-04dd3e70d050",
-        "title": "Predoctoral Scholar",
-        "active": false,
-        "date_updated": 1766532773,
-        "date_posted": 1766532773,
-        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Illinois-Chicago/Predoctoral-Scholar_JR32397",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Jabil",
-        "id": "b578804f-3e69-4436-9572-a5cc65683f22",
-        "title": "Diagnostic Technician 1",
-        "active": false,
-        "date_updated": 1766534190,
-        "date_posted": 1766534190,
-        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I_J2435007",
-        "locations": [
-            "Florence, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": " RGA Reinsurance Company",
-        "id": "954ba42e-dd67-4580-8063-a1da742021be",
-        "title": "Associate Systems Developer",
-        "active": false,
-        "date_updated": 1766532759,
-        "date_posted": 1766532759,
-        "url": "https://rgare.wd1.myworkdayjobs.com/en-US/Careers/job/United-States-Chesterfield-MO-RGA-HQ/Associate-Systems-Developer_J26065-1",
-        "locations": [
-            "Chesterfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/RGA-Reinsurance-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Analog Devices",
-        "id": "87e2c862-5e11-48b8-8b37-f224f4b8fdc7",
-        "title": "Associate Machine Learning Operations Engineer - MLOps - Engineer",
-        "active": false,
-        "date_updated": 1766533402,
-        "date_posted": 1766533402,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Machine-Learning-Operations--MLOps--Engineer_R258871",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -472,24 +364,6 @@
             "Manchester, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lennar Corporation",
-        "id": "e902b464-c6c5-42dc-99a1-75ff916e5671",
-        "title": "Systems Analyst 1",
-        "active": false,
-        "date_updated": 1766533364,
-        "date_posted": 1766533364,
-        "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Irving-TX-Job-Posting-Location/Systems-Analyst-I_R25_0000005020",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Lennar-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -312566,7 +312440,7 @@
         "company_name": "Ameriprise Financial",
         "id": "f768db22-fdd3-4678-84ea-0ffacf840cf7",
         "title": "Assistant Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1784813221,
         "date_posted": 1784764800,
         "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/London-United-Kingdom/Assistant-Product-Manager_R26_2812-1",
@@ -369968,7 +369842,7 @@
         "company_name": "Zimmer Biomet Holdings",
         "id": "0ba0bbb6-cd1c-45fc-88c1-82c26a9333b1",
         "title": "Product Associate Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1787094220,
         "date_posted": 1787093995,
         "url": "https://careers.zimmerbiomet.com/us/en/job/12055",
