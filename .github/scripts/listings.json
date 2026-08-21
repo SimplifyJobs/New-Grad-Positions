@@ -289187,7 +289187,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -338006,7 +338006,7 @@
         "company_name": "TikTok",
         "id": "a2f05ec8-66ef-4ec0-9332-d50f477106a5",
         "title": "Data Scientist Graduate - TikTok Live",
-        "active": true,
+        "active": false,
         "date_updated": 1785835263,
         "date_posted": 1785835206,
         "url": "https://lifeattiktok.com/search/7669660107303684405",
@@ -371908,7 +371908,7 @@
         "company_name": "Boston Consulting Group",
         "id": "08532603-7472-48a9-a825-fef3a7108472",
         "title": "Forward Deployed AI Scientist - Campus",
-        "active": false,
+        "active": true,
         "date_updated": 1787187127,
         "date_posted": 1787186937,
         "url": "https://careers.bcg.com/global/en/job/59068",
@@ -374683,6 +374683,66 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pima County",
+        "id": "55634564-48d1-4fc8-b422-044c7a2b22e5",
+        "title": "Public Safety Data Technician 1 - Sheriff's Department",
+        "active": true,
+        "date_updated": 1787304868,
+        "date_posted": 1787270400,
+        "url": "https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Public-Safety-Data-Technician-I---Sheriff-s-Department_JR104227-1",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Pima-County",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "953a45ef-400f-4757-9a4e-ac3c919383f8",
+        "title": "System Level Test Engineer - Hardware Engineering",
+        "active": true,
+        "date_updated": 1787304781,
+        "date_posted": 1787304715,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446720634561",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "b4b7ba37-55e7-4a90-9a2c-08d0a62432d5",
+        "title": "Bench Test Engineer - Hardware Engineering",
+        "active": true,
+        "date_updated": 1787304781,
+        "date_posted": 1787304716,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446720634563",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
