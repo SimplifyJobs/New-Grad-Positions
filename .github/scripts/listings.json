@@ -55,25 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "7825d272-2f2d-4421-bc98-e4110a552190",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1766592480,
-        "date_posted": 1766592480,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043871",
-        "locations": [
-            "Edinburgh, UK",
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "3a549825-0e7e-4d68-b28d-35a025a7cee6",
@@ -86,24 +67,6 @@
             "Melbourne, FL"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Chicago",
-        "id": "bfc2067b-aff9-4f62-b1ee-f821a793f262",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1766593782,
-        "date_posted": 1766593782,
-        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Analyst_JR32386",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -2756,24 +2719,6 @@
             "Leicester, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Grayce",
-        "id": "e431a77b-abd4-4405-9ec4-7bb96cca3366",
-        "title": "Graduate Digital Analyst",
-        "active": false,
-        "date_updated": 1766592685,
-        "date_posted": 1766592685,
-        "url": "https://apply.workable.com/grayce/j/6D4542F950/apply",
-        "locations": [
-            "Leicester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
