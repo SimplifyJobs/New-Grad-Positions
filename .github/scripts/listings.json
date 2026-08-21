@@ -49827,7 +49827,7 @@
         "company_name": "Wintermute",
         "id": "7a3d190d-3751-4648-a630-1f26ee5a4955",
         "title": "Algorithmic Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1770284050,
         "date_posted": 1767914184,
         "url": "https://jobs.lever.co/wintermute-trading/8119b21c-aa47-4113-bd25-f785f8fc44c1/apply",
@@ -342399,7 +342399,7 @@
         "company_name": "TikTok",
         "id": "bfd1c427-89d3-4f8c-bbf9-9989c11db135",
         "title": "Graduate Software Engineer - Global CRM",
-        "active": true,
+        "active": false,
         "date_updated": 1785979263,
         "date_posted": 1785979053,
         "url": "https://lifeattiktok.com/search/7668554579301124357",
@@ -370227,7 +370227,7 @@
         "company_name": "EBSCO",
         "id": "5c963361-407c-460e-b8be-87eeff139db5",
         "title": "Product Manager - AI Exchange",
-        "active": false,
+        "active": true,
         "date_updated": 1787133739,
         "date_posted": 1787093668,
         "url": "https://careers-ebscoind.icims.com/jobs/2065/job?mobile=true&needsRedirect=false",
@@ -371829,7 +371829,7 @@
         "company_name": "Trane Technologies",
         "id": "15f1d4cb-e814-4f44-a827-6caf6c32bf60",
         "title": "Point Mapping Specialist 1 - Centralized Services - Point Mapping Team",
-        "active": false,
+        "active": true,
         "date_updated": 1787187468,
         "date_posted": 1787187253,
         "url": "https://careers.tranetechnologies.com/global/en/job/JR-13129",
@@ -372272,7 +372272,7 @@
         "company_name": "StudyFetch",
         "id": "179e11a1-a541-4256-a6c3-e36544663802",
         "title": "AI Research Assistant - Machine Learning & AI",
-        "active": true,
+        "active": false,
         "date_updated": 1787215748,
         "date_posted": 1787186853,
         "url": "https://ats.rippling.com/studyfetch/jobs/ae12be8f-32a4-469f-8d71-452c8409a92a",
@@ -372427,7 +372427,7 @@
         "company_name": "RTX",
         "id": "52214d4b-ca42-4449-aed5-361b55e49eca",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787220769,
         "date_posted": 1787011200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01867905",
@@ -374743,6 +374743,45 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EBSCO",
+        "id": "75173633-1cf1-424b-b068-516958721462",
+        "title": "Product Manager - AI Research Companion",
+        "active": true,
+        "date_updated": 1787307197,
+        "date_posted": 1787274915,
+        "url": "https://careers-ebscoind.icims.com/jobs/2069/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/EBSCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Omnicell",
+        "id": "6cef3660-2532-4a39-8249-aa38025e51a8",
+        "title": "Field Service Engineer 1 or 2",
+        "active": true,
+        "date_updated": 1787306817,
+        "date_posted": 1785967844,
+        "url": "https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_9001/job/5504",
+        "locations": [
+            "Queens, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Omnicell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
