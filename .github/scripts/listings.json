@@ -188356,7 +188356,7 @@
         "company_name": "Zone 5 Technologies",
         "id": "ab473ee5-6fc1-4616-9629-d7f6c4950bbc",
         "title": "Embedded Software Engineer 1/2",
-        "active": false,
+        "active": true,
         "date_updated": 1777934174,
         "date_posted": 1777932958,
         "url": "https://job-boards.greenhouse.io/zone5technologies/jobs/5209498008",
@@ -229357,7 +229357,7 @@
         "company_name": "True Anomaly",
         "id": "915c9551-f026-4bb8-bd3c-b58af6e93968",
         "title": "Software Engineer 1 - QA",
-        "active": true,
+        "active": false,
         "date_updated": 1780439288,
         "date_posted": 1780438003,
         "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5152215007",
@@ -296946,7 +296946,7 @@
         "company_name": "Northrop Grumman",
         "id": "0c79b2fa-a7cb-4534-8dd3-5d6e79a3980c",
         "title": "Engineering Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1784413082,
         "date_posted": 1784332800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Engineering-Technician--Level-2-3-_R10241027",
@@ -302506,7 +302506,7 @@
         "company_name": "Stewart",
         "id": "617caf94-0106-4351-99bc-6d4f930e8107",
         "title": "Copilot Systems Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1784628356,
         "date_posted": 1781359958,
         "url": "https://stewart.wd1.myworkdayjobs.com/External/job/USA-TX---Remote/Systems-Engineer-I_JR108188",
@@ -310362,7 +310362,7 @@
         "company_name": "SKYTRAC",
         "id": "2c81d288-87f8-456a-953f-aedf3ac37dbe",
         "title": "Electronics Technologist",
-        "active": true,
+        "active": false,
         "date_updated": 1784797447,
         "date_posted": 1784596667,
         "url": "https://ats.rippling.com/skytrac/jobs/7cc6aa4c-e77b-42ba-97ce-a75b48a0d161",
@@ -328190,7 +328190,7 @@
         "company_name": "Rambus",
         "id": "040f9329-1f40-4857-8f81-0962e814a9f3",
         "title": "Digital Design Engineer New Grad - Memory Interface Chip",
-        "active": true,
+        "active": false,
         "date_updated": 1785573200,
         "date_posted": 1776895547,
         "url": "https://careers-rambus.icims.com/jobs/22434/job?mobile=true&needsRedirect=false",
@@ -376052,6 +376052,107 @@
             "Oxford, UK"
         ],
         "company_url": "https://simplify.jobs/c/Proforest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TRUCKING PEOPLE",
+        "id": "0d0456e6-2edb-4a9d-9c1f-34a36da5c0e3",
+        "title": "Autonomous Driver Data Tester",
+        "active": true,
+        "date_updated": 1787353021,
+        "date_posted": 1787352873,
+        "url": "https://truckingpeople.applytojob.com/apply/Y4bRRgwvUB/Autonomous-Driver-Data-Tester",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TRUCKING-PEOPLE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "158354ff-729f-4923-845b-d4f59eea424f",
+        "title": "Design for Test Engineer New Grad - HBM",
+        "active": true,
+        "date_updated": 1787352680,
+        "date_posted": 1787270400,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Engineer---HBM-Design-for-Test--DFT-_JR109696",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Edwards Lifesciences",
+        "id": "7f975658-42d7-48c0-8e20-ccb21aee47b8",
+        "title": "Associate Product Manager - Marketing",
+        "active": true,
+        "date_updated": 1787351941,
+        "date_posted": 1787270400,
+        "url": "https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Associate-Product-Manager--Marketing_Req-50234",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Edwards-Lifesciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dexis Consulting Group",
+        "id": "cfcc9210-ac3f-4e1e-a97c-3efbdd92ee97",
+        "title": "Research Associate - Threat Reduction",
+        "active": true,
+        "date_updated": 1787351581,
+        "date_posted": 1787351534,
+        "url": "https://dexisonline.com/jobs/?gh_jid=4726552005",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Dexis-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stratolaunch",
+        "id": "0737e499-ee05-4061-a1e0-36e7edd18dc7",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1787351761,
+        "date_posted": 1785969253,
+        "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5381049008",
+        "locations": [
+            "Mojave, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stratolaunch",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
