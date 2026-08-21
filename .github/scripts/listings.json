@@ -335268,7 +335268,7 @@
         "company_name": "Xcellent Technology Solutions",
         "id": "f9623735-52b0-4633-a58e-f6eaacdc6c33",
         "title": "Operational GEOINT Analyst - Imagery - OPIR",
-        "active": true,
+        "active": false,
         "date_updated": 1785754621,
         "date_posted": 1785737810,
         "url": "https://xtscareers.applytojob.com/apply/u1yXswwTvu/Operational-GEOINT-Analyst-Imagery-OPIR-TSSCI-With-CI-Poly",
@@ -366964,7 +366964,7 @@
         "company_name": "Cook Systems",
         "id": "0ac59efb-a60a-487e-ae88-72d4b34fac13",
         "title": "Entry-Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1787034061,
         "date_posted": 1787033944,
         "url": "https://job-boards.greenhouse.io/cooksys/jobs/5386869008",
@@ -375182,5 +375182,223 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Alfa Financial Software",
+        "id": "ee1cdd8a-13f7-405e-81a2-69a736cdb6b6",
+        "title": "Implementation Analyst - Graduate Program",
+        "active": true,
+        "date_updated": 1787342343,
+        "date_posted": 1787270400,
+        "url": "https://alfa.wd3.myworkdayjobs.com/alfa/job/Royal-Oak-Michigan-USA/Implementation-Analyst---Grad-Program-2027_R196",
+        "locations": [
+            "Royal Oak, MI",
+            "Michigan"
+        ],
+        "company_url": "https://simplify.jobs/c/Alfa-Financial-Software",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hyve Solutions",
+        "id": "91fbe496-c0ad-4be0-8f7d-981a254764b0",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1787342326,
+        "date_posted": 1787270400,
+        "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hyve-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Medable",
+        "id": "2114efe1-c38d-46f1-be07-396bfd2a4034",
+        "title": "Associate Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1787342325,
+        "date_posted": 1787270400,
+        "url": "https://medable.wd503.myworkdayjobs.com/explore-career-opportunities/job/United-Kingdom/Associate-Forward-Deployed-Engineer_JR100219",
+        "locations": [
+            "Remote in UK",
+            "Remote in Ireland"
+        ],
+        "company_url": "https://simplify.jobs/c/Medable",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Mobile",
+        "id": "f174b1be-a056-4615-8dff-9e0ddd31ec21",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1787342221,
+        "date_posted": 1787270400,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Associate-Software-Engineer_REQ369269",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MiTek",
+        "id": "2e739e24-6a0a-4c8c-8a20-4efcce93c652",
+        "title": "Electrical Panel Assembler",
+        "active": true,
+        "date_updated": 1787341861,
+        "date_posted": 1787270400,
+        "url": "https://mii.wd5.myworkdayjobs.com/MiTek/job/Earth-City-Missouri-USA/Electrical-Panel-Assembler_R06627",
+        "locations": [
+            "Earth City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/MiTek",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Integration Innovation (i3)",
+        "id": "b30acf92-00fa-4d87-ac6e-44032cdc640b",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1787341754,
+        "date_posted": 1787341520,
+        "url": "https://careers-i3-corps.icims.com/jobs/5218/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/I3",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Varian",
+        "id": "0be364d8-777a-4003-a232-7c8d3ee7ab75",
+        "title": "Field Service Technician - Hardware",
+        "active": true,
+        "date_updated": 1787341681,
+        "date_posted": 1787341568,
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ATL-NP/Field-Service-Technician---HW---New-Orleans--LA_R-27306-2",
+        "locations": [
+            "South Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Varian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Entegris",
+        "id": "6216196b-494f-4086-8c73-bc3fa0bbc11f",
+        "title": "Electrical Technician 1",
+        "active": true,
+        "date_updated": 1787341630,
+        "date_posted": 1787270400,
+        "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Electrical-Technician-I---1st-Shift_REQ-13307",
+        "locations": [
+            "San Luis Obispo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Entegris",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mercury Insurance",
+        "id": "54eb5520-b9cf-4910-83b4-228b8b7a1a67",
+        "title": "Software Engineer 1 Test",
+        "active": true,
+        "date_updated": 1787341588,
+        "date_posted": 1787341447,
+        "url": "https://careers-mercuryinsurance.icims.com/jobs/6745/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Brea, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercury-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Motors",
+        "id": "53ce3bb2-f715-4b48-a55a-31dcb2506112",
+        "title": "Software Engineer - AV Data Collection",
+        "active": true,
+        "date_updated": 1787341613,
+        "date_posted": 1787270400,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mercury Insurance",
+        "id": "9e675a71-dd54-4b7e-9dad-72b84c93433e",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1787341581,
+        "date_posted": 1787341447,
+        "url": "https://careers-mercuryinsurance.icims.com/jobs/6743/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Brea, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercury-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
