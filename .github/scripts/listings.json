@@ -56,60 +56,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Newmont",
-        "id": "ce95491e-72ed-4b6b-bb6b-1cc041d49347",
-        "title": "Analyst \u2013 Geoscience Data Americas",
-        "active": false,
-        "date_updated": 1766618230,
-        "date_posted": 1766618230,
-        "url": "https://jobs.newmont.com/us/en/job/41058",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/90e0373e-e60e-4722-bb8f-06f1471a1c38",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BBB",
-        "id": "add962d5-3ec3-4dbf-bde0-8e689d06f334",
-        "title": "Data Analyst - Entry Level",
-        "active": false,
-        "date_updated": 1766617920,
-        "date_posted": 1766617920,
-        "url": "https://bbbne.bamboohr.com/careers/49/",
-        "locations": [
-            "Omaha, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/BBB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ERM",
-        "id": "8536641a-2301-4699-9495-8601e6b82fae",
-        "title": "Consulting Associate - Engineering or Geology",
-        "active": false,
-        "date_updated": 1766619008,
-        "date_posted": 1766619008,
-        "url": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Atlanta-Georgia/Consulting-Associate--Engineering-or-Geology_R00028752",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/ERM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Health Plan One",
         "id": "4930962e-2ee8-425f-8e7f-d4402812f871",
         "title": "Associate Risk Reporting Analyst",
@@ -177,25 +123,6 @@
             "Saskatoon, SK, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ERM",
-        "id": "f7b1bc6a-38b1-429c-8705-419eaacb6fc4",
-        "title": "Consulting Associate - Engineering or Geology",
-        "active": false,
-        "date_updated": 1766619011,
-        "date_posted": 1766619011,
-        "url": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Charlotte-North-Carolina/Consulting-Associate--Engineering-or-Geology_R00028751-1",
-        "locations": [
-            "Raleigh, NC",
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/ERM",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -318965,7 +318892,7 @@
         "company_name": "EnergyHub",
         "id": "a9e5e669-126e-41ac-abf9-dcfba7c7130e",
         "title": "Software Engineer - Supporthub",
-        "active": true,
+        "active": false,
         "date_updated": 1785194281,
         "date_posted": 1785191246,
         "url": "https://job-boards.greenhouse.io/energyhub/jobs/8385899002",
@@ -353082,7 +353009,7 @@
         "company_name": "Qualcomm",
         "id": "cdd3e444-64a2-4501-8ca6-b90db2dd9ccb",
         "title": "Silicon Lab Support Technician - Support Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786487222,
         "date_posted": 1786486978,
         "url": "https://qualcomm.eightfold.ai/careers/job/446720371742",
@@ -354692,7 +354619,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "8920f306-23e6-4b89-8c63-10d1855d6a97",
         "title": "Assistant Replay Operator / VARDict Graphics Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1786565988,
         "date_posted": 1786565613,
         "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/560fbfd9-b4a4-45b1-bc0b-6551ba294043/application?embed=true",
@@ -362276,7 +362203,7 @@
         "company_name": "BP",
         "id": "b91eb1ba-bb36-4352-b6be-33ef33997b7b",
         "title": "Geoscientist - Upstream Geoscientist",
-        "active": true,
+        "active": false,
         "date_updated": 1786745851,
         "date_posted": 1786665600,
         "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/One-Subsurface-Program---Upstream-Geoscientist---Houston--TX_RQ114817",
