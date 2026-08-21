@@ -55,117 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Chewy",
-        "id": "1ae38eef-df55-4d46-a3d3-047a84d4f327",
-        "title": "AI Technologist 1 - AI",
-        "active": false,
-        "date_updated": 1766544293,
-        "date_posted": 1766544293,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7368162",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Waymo",
-        "id": "aac1501d-f817-4188-8d87-05c08becb70c",
-        "title": "Applied Research Scientist - Perception",
-        "active": false,
-        "date_updated": 1766544044,
-        "date_posted": 1766544044,
-        "url": "https://careers.withwaymo.com/jobs?gh_jid=7467839",
-        "locations": [
-            "SF",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Waymo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "8707cf0c-9900-4d23-b45f-d970d4718adf",
-        "title": "Software Engineer-Test & Verification \u2013 Mid Level \u2013 Senior - Associate",
-        "active": false,
-        "date_updated": 1766544083,
-        "date_posted": 1766544083,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Software-Engineer-Test---Verification--Associate--Mid-Level--Senior-_JR2025488587-1",
-        "locations": [
-            "St Charles, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "82cbecbb-fbe2-4148-a8aa-f35875569f83",
-        "title": "Software Engineer-Simulation Mid Level Senior - Associate",
-        "active": false,
-        "date_updated": 1766544083,
-        "date_posted": 1766544083,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Software-Engineer-Simulation--Associate--Mid-Level--Senior-_JR2025488590-1",
-        "locations": [
-            "St Charles, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "80c24d8a-6826-40aa-8903-f07957119e14",
-        "title": "Nondestructive Test - NDT",
-        "active": false,
-        "date_updated": 1766544082,
-        "date_posted": 1766544082,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Nondestructive-Test--NDT--Technician--Associate-or-Experienced-_JR2025489685",
-        "locations": [
-            "New Orleans, LA",
-            "Mesa, AZ",
-            "Hazelwood, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Genuine Parts Company",
-        "id": "ccb34b5d-2a8b-4772-bef3-30a2089a70d6",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1766544763,
-        "date_posted": 1766544763,
-        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer-I_R25_0000044313",
-        "locations": [
-            "Birmingham, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "PURE Insurance",
         "id": "072b5831-4de4-4667-923b-48f952980c71",
@@ -340268,7 +340157,7 @@
         "company_name": "Qualcomm",
         "id": "75ed4c32-1473-436a-92cb-2ef53683d3e1",
         "title": "Software Engineer - Kernel Services - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785910923,
         "date_posted": 1785910565,
         "url": "https://qualcomm.eightfold.ai/careers/job/446719058286",
@@ -374611,6 +374500,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "39ebfdd7-702f-4997-a082-6bd4e62e24d2",
+        "title": "Graduate Research Scientist - 3D/4D Generation",
+        "active": true,
+        "date_updated": 1780621948,
+        "date_posted": 1780621814,
+        "url": "https://jobs.bytedance.com/en/position/7585034854077778181/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
