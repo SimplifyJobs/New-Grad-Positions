@@ -373290,7 +373290,7 @@
         "company_name": "Momentive",
         "id": "69ea40b7-ee49-4c0a-bbde-346f1508ba51",
         "title": "Associate Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787264851,
         "date_posted": 1787184000,
         "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Associate-Data-Engineer_R9821",
@@ -374965,5 +374965,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ludlum Measurements",
+        "id": "47caf917-ad4f-4a22-b10d-16d68437d70f",
+        "title": "Assembler - Radiation Security Division",
+        "active": true,
+        "date_updated": 1787322646,
+        "date_posted": 1785737788,
+        "url": "https://vpitechnology.applytojob.com/apply/C3BXd939il/RSD-Assembly",
+        "locations": [
+            "Sweetwater, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Ludlum-Measurements",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
