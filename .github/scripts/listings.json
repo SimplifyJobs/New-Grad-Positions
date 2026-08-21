@@ -238213,7 +238213,7 @@
         "company_name": "Applied Materials",
         "id": "34a243c0-f3bc-476f-9dcb-73b975cc6ba2",
         "title": "Systems Engineer 3",
-        "active": true,
+        "active": false,
         "date_updated": 1781015220,
         "date_posted": 1781014648,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer-III--E3-_R2621471",
@@ -288513,7 +288513,7 @@
         "company_name": "Torc Robotics",
         "id": "b8b8f996-54a1-4ddb-a359-ca7b5ac808b4",
         "title": "Hardware Engineer 1 - Sensors",
-        "active": true,
+        "active": false,
         "date_updated": 1783991884,
         "date_posted": 1783991442,
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8622606002",
@@ -321775,7 +321775,7 @@
         "company_name": "Augusta National Golf Club",
         "id": "3d72a9d5-67f5-4a4f-998e-9f5503b92d28",
         "title": "GIS Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785280342,
         "date_posted": 1785196800,
         "url": "https://wd5.myworkdaysite.com/recruiting/angc/ANGC/job/Augusta-Office/GIS-Analyst_R11657",
@@ -325272,7 +325272,7 @@
         "company_name": "Pyrovio",
         "id": "e2782551-ee25-4e02-a7f4-f2f46752bd8e",
         "title": "Copilot Developer/AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785449882,
         "date_posted": 1785449446,
         "url": "https://pyrovio.breezy.hr/p/a0653fb2684d/apply",
@@ -339105,7 +339105,7 @@
         "company_name": "Abacus Insights",
         "id": "59d07036-60ed-4be1-8045-1e7dd3482bb7",
         "title": "Associate Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785882626,
         "date_posted": 1785881895,
         "url": "https://boards.greenhouse.io/abacusinsights/jobs/8674746002",
@@ -348433,7 +348433,7 @@
         "company_name": "Marsh",
         "id": "342f7097-0268-4450-804f-12dc945e691d",
         "title": "Entry-level Data Analyst - Excel - Power BI",
-        "active": true,
+        "active": false,
         "date_updated": 1786373337,
         "date_posted": 1786320000,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Norwich---Willow/Entry-level-Data-Analyst--Excel--PowerBI-_R_357855",
@@ -366900,7 +366900,7 @@
         "company_name": "Charta Health",
         "id": "64052d4d-54da-4d7c-b3aa-b49f99dfb1a3",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1787034201,
         "date_posted": 1787034046,
         "url": "https://jobs.ashbyhq.com/chartahealth/9403a4cc-1bac-4798-9d82-be31ba8b42a0/application?embed=true",
@@ -375157,6 +375157,48 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stantec",
+        "id": "f1740d52-659d-40ce-941b-46d7d4db30d5",
+        "title": "Geospatial Analyst",
+        "active": true,
+        "date_updated": 1787335381,
+        "date_posted": 1787335310,
+        "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007338",
+        "locations": [
+            "Richmond, VA",
+            "Williamsburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stantec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "MassMutual Ascend",
+        "id": "428df784-325e-4a3f-91fc-db383c993b7b",
+        "title": "Quantitative Consultant - Stable Value Product",
+        "active": true,
+        "date_updated": 1787335381,
+        "date_posted": 1787270400,
+        "url": "https://massmutual.wd1.myworkdayjobs.com/MMAscendCareers/job/Springfield-MA/Quantitative-Consultant_R20941-2",
+        "locations": [
+            "Boston, MA",
+            "Springfield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/MassMutual-Ascend",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
