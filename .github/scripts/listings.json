@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "45d0add2-4ef4-4804-8e29-d075b97005cb",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1766542203,
-        "date_posted": 1766542203,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043824",
-        "locations": [
-            "Hereford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Chewy",
         "id": "1ae38eef-df55-4d46-a3d3-047a84d4f327",
@@ -178,24 +160,6 @@
             "Birmingham, AL"
         ],
         "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "39ebfdd7-702f-4997-a082-6bd4e62e24d2",
-        "title": "Research Scientist Graduate - 3D/4D Generation - 2026 Start",
-        "active": true,
-        "date_updated": 1766542472,
-        "date_posted": 1766542472,
-        "url": "https://jobs.bytedance.com/en/position/7585034854077778181/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -62998,42 +62962,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "4df52417-0b3d-4ded-8098-59be4275e92b",
-        "title": "Data Center Engineering Operations Technician",
-        "active": false,
-        "date_updated": 1770975697,
-        "date_posted": 1766542644,
-        "url": "https://amazon.jobs/en/jobs/3148794/data-center-engineering-operations-technician",
-        "locations": [
-            "Hermiston, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "8d34455c-555d-4ac0-adfe-a5d47a573f3b",
-        "title": "Data Center Engineering Operations Technician",
-        "active": false,
-        "date_updated": 1770975697,
-        "date_posted": 1766542084,
-        "url": "https://amazon.jobs/en/jobs/3148803/data-center-engineering-operations-technician",
-        "locations": [
-            "Hermiston, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "02d771f1-c654-4585-bc6c-96b59a657c1a",
@@ -66647,24 +66575,6 @@
             "Oxford, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "b5b96fd6-7f49-4577-80cb-53dc9c94fbb8",
-        "title": "Data Center Engineering Operations Technician",
-        "active": false,
-        "date_updated": 1771321858,
-        "date_posted": 1766542081,
-        "url": "https://amazon.jobs/en/jobs/3148808/data-center-engineering-operations-technician",
-        "locations": [
-            "Hermiston, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -265602,7 +265512,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "a47669a1-5125-4aff-abcf-2ddd05fe0a55",
         "title": "Data Science Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782295204,
         "date_posted": 1780016768,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990013362116",
