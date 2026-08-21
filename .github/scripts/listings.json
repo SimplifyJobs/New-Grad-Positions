@@ -55,60 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cox",
-        "id": "b8e628e9-ab02-4860-9fed-01f07705a157",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1766717265,
-        "date_posted": 1766536019,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineer-I_R202570999-1",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sanofi",
-        "id": "44c0d88a-a869-4f5a-b9fd-bdf00844acf8",
-        "title": "Data and AI Workflow Engineer Catalyst",
-        "active": false,
-        "date_updated": 1766535895,
-        "date_posted": 1766535895,
-        "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Data-and-AI-Workflow-Engineer-Catalyst_R2837100",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sanofi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Huron",
-        "id": "bba49d0a-aa99-49ce-aac7-98bdd4457efa",
-        "title": "Data Scientist - Associate",
-        "active": false,
-        "date_updated": 1766536041,
-        "date_posted": 1766536041,
-        "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Data-Scientist--Associate-_JR-0013624",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Huron",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "45d0add2-4ef4-4804-8e29-d075b97005cb",
@@ -3053,24 +2999,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/519b47ce-ff84-4832-85b9-25e0fb0988bb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "DH Pace",
-        "id": "99d53d43-092a-42f4-8514-ea338b0c78f8",
-        "title": "Residential Garage Door Service Technician",
-        "active": false,
-        "date_updated": 1767030813,
-        "date_posted": 1766535131,
-        "url": "https://job-boards.greenhouse.io/dhpace/jobs/5046086008",
-        "locations": [
-            "Olathe, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/DH-Pace",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -371938,7 +371866,7 @@
         "company_name": "NRG Energy",
         "id": "2af3ba79-14af-4850-8c1e-0d20dff0736a",
         "title": "Data Science Analyst - Agentic AI Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1787177701,
         "date_posted": 1787177622,
         "url": "https://careers.nrgenergy.com/nrg/job/Houston-Data-Science-Analyst-Agentic-AI-Developer-TX-77010/1421186800/?ats=successfactors",
