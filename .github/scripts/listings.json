@@ -312400,7 +312400,7 @@
         "company_name": "AssetMark",
         "id": "d9447339-f3e1-4210-8b22-f68143807820",
         "title": "Associate Product Manager - Internal AI",
-        "active": true,
+        "active": false,
         "date_updated": 1784819435,
         "date_posted": 1784764800,
         "url": "https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Associate-Product-Manager--Internal-AI_Req-003911",
@@ -367033,7 +367033,7 @@
         "company_name": "RTX",
         "id": "d4f27870-a658-4138-afd1-fd12498bb0ea",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1787034106,
         "date_posted": 1786924800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineer-II--Onsite-_01864138",
@@ -368793,7 +368793,7 @@
         "company_name": "RTX",
         "id": "bde086bf-dab1-4025-b1fa-8d581fc9b704",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787090903,
         "date_posted": 1787011200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01867811",
@@ -372465,7 +372465,7 @@
         "company_name": "Great American Insurance Company",
         "id": "76b5da5a-7ffe-41b2-904e-a9c6de944fd1",
         "title": "Junior Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1787222881,
         "date_posted": 1787097600,
         "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Junior-Data-Scientist_R9395",
@@ -372558,7 +372558,7 @@
         "company_name": "GE Healthcare",
         "id": "9861f4e9-aef4-471f-acc7-281904524a3a",
         "title": "Advanced Technician - DI",
-        "active": true,
+        "active": false,
         "date_updated": 1787228727,
         "date_posted": 1787097600,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Oak-Creek/Advanced-Technician---DI_R4045106",
@@ -372639,7 +372639,7 @@
         "company_name": "RTX",
         "id": "b24b9bfc-11b6-464c-821f-0c89eeb4d3d2",
         "title": "Electrical Assembler 2 - 2nd Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1787233162,
         "date_posted": 1787171959,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-PHOENIX-1007--1007-E-University-Dr--1007-E-UNIVERSITY-DR/Electrical-Assembler-II--2nd-Shift--Onsite-_01857884-1",
@@ -374820,6 +374820,66 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "e2780e38-7d31-45ad-9998-c8b228376036",
+        "title": "Systems Engineer",
+        "active": true,
+        "date_updated": 1787320261,
+        "date_posted": 1787270400,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer_R2626795",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JD.com",
+        "id": "9b508279-1d3c-40a8-bf35-1658d570f4db",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1787320261,
+        "date_posted": 1787320117,
+        "url": "https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/Graduate-Software-Engineer_JR103326",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JINGDONG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "739e3a06-487c-46cd-b8f8-4a816f5e2257",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1787319939,
+        "date_posted": 1786579200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Calling-all-Secret-Cleared-Embedded-Software-Engineers---Chandler-_R10245585-1",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
