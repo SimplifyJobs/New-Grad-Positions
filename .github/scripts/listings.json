@@ -130147,7 +130147,7 @@
         "company_name": "EOS IT Solutions",
         "id": "28008952-06ed-4dfb-84a9-6a22f0d88a4e",
         "title": "Data Center Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1774476741,
         "date_posted": 1774476741,
         "url": "https://eosits.com/company/careers/?gh_jid=8480396002",
@@ -194845,7 +194845,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "b4cd2491-2c5f-4f02-a62b-dd4b778f9fc5",
         "title": "Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778193523,
         "date_posted": 1778191481,
         "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Application-Engineer_REQ-019650",
@@ -308303,7 +308303,7 @@
         "company_name": "Google",
         "id": "e5641813-b0c5-4823-8207-fff119dcec78",
         "title": "Modem Power Firmware Engineer - Pixel",
-        "active": true,
+        "active": false,
         "date_updated": 1784758160,
         "date_posted": 1784758080,
         "url": "https://www.google.com/about/careers/applications/jobs/results/91555030850511558",
@@ -375164,5 +375164,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Entrust",
+        "id": "1ca887fb-4325-40bd-9159-9a0beaf82f80",
+        "title": "Applied Scientist 1",
+        "active": true,
+        "date_updated": 1784610027,
+        "date_posted": 1781359741,
+        "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-Kingdom---London-Onfido/Applied-Scientist-I_R003921",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Entrust",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
