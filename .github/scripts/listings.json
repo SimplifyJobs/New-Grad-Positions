@@ -57,24 +57,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "b5a5e520-a750-45f4-8fd5-d0c54405a502",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1766572782,
-        "date_posted": 1766572782,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043831",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "7825d272-2f2d-4421-bc98-e4110a552190",
         "title": "Trading Assistant",
         "active": false,
@@ -103187,7 +103169,7 @@
         "company_name": "Fanatics",
         "id": "d653c73d-e099-4b51-8bc4-7def1732f91c",
         "title": "Trading Compliance Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1773093222,
         "date_posted": 1773093222,
         "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27038",
@@ -342399,7 +342381,7 @@
         "company_name": "TikTok",
         "id": "bfd1c427-89d3-4f8c-bbf9-9989c11db135",
         "title": "Graduate Software Engineer - Global CRM",
-        "active": false,
+        "active": true,
         "date_updated": 1785979263,
         "date_posted": 1785979053,
         "url": "https://lifeattiktok.com/search/7668554579301124357",
@@ -347341,7 +347323,7 @@
         "company_name": "Zaizi",
         "id": "4de68cbe-0993-4762-a0d2-c73cf82179a7",
         "title": "Graduate Machine Learning Engineer - AI",
-        "active": true,
+        "active": false,
         "date_updated": 1786152061,
         "date_posted": 1786151903,
         "url": "https://apply.workable.com/zaizi/j/5DBB38B542/apply",
@@ -362383,7 +362365,7 @@
         "company_name": "Microsoft",
         "id": "8b82242b-ee49-413d-9ba5-a840c2dc3385",
         "title": "Software Engineer - PRISMA Research Fabric",
-        "active": true,
+        "active": false,
         "date_updated": 1786745852,
         "date_posted": 1786745380,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556937438",
@@ -363614,7 +363596,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -373508,7 +373490,7 @@
         "company_name": "RTX",
         "id": "6321b5bb-8e7e-4045-9080-c2afa03d5011",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787264520,
         "date_posted": 1787184000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01868305",
@@ -374783,5 +374765,23 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Channel Partners",
+        "id": "ad6df6be-a192-4824-9ce1-ee97c6fa9641",
+        "title": "Retail Specialist",
+        "active": true,
+        "date_updated": 1787310048,
+        "date_posted": 1786680634,
+        "url": "https://careers-channelpartners.icims.com/jobs/49517/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Duluth, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Channel-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
