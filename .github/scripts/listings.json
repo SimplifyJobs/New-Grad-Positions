@@ -220735,7 +220735,7 @@
         "company_name": "AllianceBernstein",
         "id": "42fecf75-6f31-494b-92cf-fa1cc189bf04",
         "title": "Global Analytics Performance Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779919381,
         "date_posted": 1779919340,
         "url": "https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Global-Analytics-Performance-Analyst_R0018735-2",
@@ -355950,7 +355950,7 @@
         "company_name": "Northrop Grumman",
         "id": "d3c098a3-25fd-4752-926c-073c5ef98949",
         "title": "AI Software Engineer - Aht",
-        "active": false,
+        "active": true,
         "date_updated": 1786575093,
         "date_posted": 1786492800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Associate-AI-Software-Engineer--AI-Software-Engineer--AHT-_R10245469",
@@ -374155,7 +374155,7 @@
         "company_name": "Riot Platforms",
         "id": "39847ec7-97ca-4876-836d-3b9a48be77bb",
         "title": "Mining Lead Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787275156,
         "date_posted": 1787274906,
         "url": "https://ats.rippling.com/riot-platforms-careers/jobs/3cffcb87-7680-4293-8811-e9cbb93e16ec",
@@ -374880,6 +374880,90 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Dynamics",
+        "id": "d24e23aa-e04f-4545-9ca3-746741eee46b",
+        "title": "ERP Architect 1",
+        "active": true,
+        "date_updated": 1787322332,
+        "date_posted": 1787322123,
+        "url": "https://careers-gd-ots.icims.com/jobs/36873/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Crawfordville, FL",
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "9dd2d074-1b3b-40e8-8722-db75083e64d1",
+        "title": "Associate Mixed Signal Design Engineer",
+        "active": true,
+        "date_updated": 1787322241,
+        "date_posted": 1787270400,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Mixed-Signal-Design-Engineer_R265312",
+        "locations": [
+            "Wilmington, MA",
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "3ebb7a65-50b4-4aa5-938e-eae66b15a6aa",
+        "title": "Associate Digital Design Engineer",
+        "active": true,
+        "date_updated": 1787322241,
+        "date_posted": 1787270400,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-Digital-Design-Engineer_R265313",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PPLSI",
+        "id": "2a701480-0cb2-4855-8732-d762f6105134",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1787322112,
+        "date_posted": 1787270400,
+        "url": "https://legalshieldcorp.wd1.myworkdayjobs.com/en-US/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/PPLSI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
