@@ -340922,7 +340922,7 @@
         "company_name": "Astreya",
         "id": "cc2206be-95ef-48b1-9bc1-902a0346a077",
         "title": "Fiber Network Mapping Specialist 3",
-        "active": true,
+        "active": false,
         "date_updated": 1785938989,
         "date_posted": 1785888000,
         "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/London-United-Kingdom/Fiber-Network-Mapping-Specialist-III_R0016615",
@@ -363631,7 +363631,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -363670,7 +363670,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -363729,7 +363729,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -364033,7 +364033,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -374481,5 +374481,41 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Scientific Games",
+        "id": "c1020856-a3c0-443a-b5fe-2fbe9eaed1a4",
+        "title": "Field Service Technician",
+        "active": true,
+        "date_updated": 1787293441,
+        "date_posted": 1787270400,
+        "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Deleware-OH/Field-Service-Technician--Deleware--Columbus-Region_R505243-1",
+        "locations": [
+            "Delaware, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Scientific-Games",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Scientific Games",
+        "id": "248f48dc-5e0c-4ba6-ab3a-ec74aa0582f0",
+        "title": "Field Service Technician - Newark-Columbus Region",
+        "active": true,
+        "date_updated": 1787293441,
+        "date_posted": 1787270400,
+        "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Zanesville-OH/Field-Service-Technician--Newark-Columbus-Region_R505242",
+        "locations": [
+            "Zanesville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Scientific-Games",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
