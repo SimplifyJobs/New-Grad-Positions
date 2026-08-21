@@ -314568,7 +314568,7 @@
         "company_name": "Scale AI",
         "id": "68a68b65-1d47-4a36-84d0-71b34ff78559",
         "title": "AI Product Manager - Coding/Multimodal",
-        "active": true,
+        "active": false,
         "date_updated": 1784856781,
         "date_posted": 1784240963,
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4609736005",
@@ -331054,7 +331054,7 @@
         "company_name": "Comcast",
         "id": "64888f69-080f-4916-afc2-abddf031f6f9",
         "title": "Residential Installation & Service Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1785621241,
         "date_posted": 1785369600,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/LA---Shreveport-6529-Quilen-Rd/Residential-Installation---Service-Technician_R442208",
@@ -336409,7 +336409,7 @@
         "company_name": "Cambridge Associates",
         "id": "ca326a25-11f4-4169-9685-a2b207ec1c67",
         "title": "Investment Analyst Program",
-        "active": false,
+        "active": true,
         "date_updated": 1785766681,
         "date_posted": 1785715200,
         "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/Investment-Analyst-Program---July-2027-Class_JR0000362-1",
@@ -344367,7 +344367,7 @@
         "company_name": "Northrop Grumman",
         "id": "7d2611c5-9dae-488a-bb64-954a43229bc8",
         "title": "Associate Embedded Software Engineer - Manufacturing",
-        "active": false,
+        "active": true,
         "date_updated": 1786056329,
         "date_posted": 1785974400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2026-Associate-Embedded-Software-Engineer--Manufacturing----Rolling-Meadows-IL_R10244230",
@@ -348906,7 +348906,7 @@
         "company_name": "RAVE Aerospace",
         "id": "f2c3c70c-c6e6-4528-a3d9-92c1c83b6993",
         "title": "Test Lab Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1786389265,
         "date_posted": 1786389087,
         "url": "https://apply.workable.com/raveaerospace/j/67302D3BBA/apply",
@@ -349369,7 +349369,7 @@
         "company_name": "Cisco",
         "id": "32ab9955-ba40-4d52-bf87-a16a3a7834be",
         "title": "Software Engineer 3 - ENG/CPO/WTG ETR",
-        "active": false,
+        "active": true,
         "date_updated": 1786388692,
         "date_posted": 1786320000,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-III--Full-Time----United-States-ENG-CPO-WTG-ETR_2022055",
@@ -374278,5 +374278,429 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qualcomm",
+        "id": "872d9c82-5186-439d-be5c-907d58d05b0c",
+        "title": "Verification Software Engineer - Software Engineering",
+        "active": true,
+        "date_updated": 1787275262,
+        "date_posted": 1787275258,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446720426705",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Acadian Asset Management",
+        "id": "f2f3ad47-b155-4580-8a6e-48ad4eb26df9",
+        "title": "Analyst \u2013 Portfolio Construction & Trading",
+        "active": true,
+        "date_updated": 1787275081,
+        "date_posted": 1787274969,
+        "url": "https://www.acadian-asset.com/careers/open-positions?gh_jid=4702401006",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/acadian-asset-management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "1ea9cb14-dc89-4e72-ab24-6a1177e5d302",
+        "title": "Associate Computer Systems Analyst - Linux - Pathways Program",
+        "active": true,
+        "date_updated": 1787275081,
+        "date_posted": 1787184000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Computer-Systems-Analyst---Linux---Pathways-Program---Melbourne-FL_R10246706",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "60394e05-1104-433e-9a04-12cd027c2475",
+        "title": "Associate Software Engineer - Aht",
+        "active": true,
+        "date_updated": 1787275270,
+        "date_posted": 1787184000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2026-Associate-Engineer-Software-Dulles-VA--AHT-_R10246933",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Mobile",
+        "id": "d9c06fcc-eca6-4331-896f-ab0f93aa505f",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1787275081,
+        "date_posted": 1787184000,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Software-Engineer_REQ364465-1",
+        "locations": [
+            "Frisco, TX",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Allica Bank",
+        "id": "2626d944-9d65-465c-8e1b-6c111a55ffcb",
+        "title": "Graduate Full Stack Engineer",
+        "active": true,
+        "date_updated": 1787275240,
+        "date_posted": 1787274943,
+        "url": "https://jobs.ashbyhq.com/allica-bank/82a8c032-e67a-4bc9-bd71-ffb3ef694a3d/application?embed=true",
+        "locations": [
+            "Milton Keynes, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Allica-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Morgan Stanley",
+        "id": "bf5c3231-5036-42be-98a9-8bd533944aa1",
+        "title": "Analyst P1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1787275214,
+        "date_posted": 1787184000,
+        "url": "https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/Analyst--P1--EA-Data---Analytics---Job-Level---Analyst_PT-JR042222",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Mackenzie Investments",
+        "id": "4712e535-e6e5-4aaf-9098-6819a3f396e2",
+        "title": "Investment Analyst - Quantitative",
+        "active": true,
+        "date_updated": 1787275081,
+        "date_posted": 1787274916,
+        "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5971/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Goodwill Industries International",
+        "id": "7d98b02d-8da4-49ca-8e93-8e61ae3de831",
+        "title": "Systems and Database Analyst",
+        "active": true,
+        "date_updated": 1787275081,
+        "date_posted": 1787184000,
+        "url": "https://goodwillaz.wd1.myworkdayjobs.com/GoodwillAZ/job/Goodwill-Excel-Center-48th-St--McDowell-Rd/Systems-and-Database-Analyst_R21863",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Goodwill",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Riot Platforms",
+        "id": "39847ec7-97ca-4876-836d-3b9a48be77bb",
+        "title": "Mining Lead Technician",
+        "active": true,
+        "date_updated": 1787275156,
+        "date_posted": 1787274906,
+        "url": "https://ats.rippling.com/riot-platforms-careers/jobs/3cffcb87-7680-4293-8811-e9cbb93e16ec",
+        "locations": [
+            "Rockdale, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Riot-Platforms",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Baxter International",
+        "id": "18e35cce-5d04-41b7-b712-308ca67d4c91",
+        "title": "Field Service Technician 2",
+        "active": true,
+        "date_updated": 1787275104,
+        "date_posted": 1787274905,
+        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Kansas-City-Missouri/Field-Service-Technician-II---Kansas-City--MO_JR-199054-1",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Baxter-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Mobile",
+        "id": "44bc6e09-0159-4bad-863f-c6a1f1726ca6",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1787274901,
+        "date_posted": 1787184000,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/contractorconversion/job/Frisco-Texas/Associate-Software-Engineer_REQ364465",
+        "locations": [
+            "Frisco, TX",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Analog Devices",
+        "id": "7028b7a9-7bd5-4663-88fb-47e1e20a7406",
+        "title": "Associate Product Applications Engineer",
+        "active": true,
+        "date_updated": 1787274901,
+        "date_posted": 1787184000,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Applications-Engineer_R265307",
+        "locations": [
+            "Centennial, CO",
+            "Colorado Springs, CO",
+            "Wilmington, MA",
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "e65ecc81-280d-4bcd-9c79-2cbe1b01bd23",
+        "title": "Associate Digital Design Engineer",
+        "active": true,
+        "date_updated": 1787274901,
+        "date_posted": 1787184000,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Digital-Design-Engineer_R265286",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "44c90e9f-c59c-4e93-b432-02dfb8511e62",
+        "title": "COBOL Software Developer",
+        "active": true,
+        "date_updated": 1787275029,
+        "date_posted": 1787274821,
+        "url": "https://careers-peraton.icims.com/jobs/169891/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amgen",
+        "id": "66069a95-397a-4d67-9b7b-482c07df2447",
+        "title": "Data Scientist Associate - Obesity",
+        "active": true,
+        "date_updated": 1787275012,
+        "date_posted": 1787184000,
+        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Associate_R-252119",
+        "locations": [
+            "Thousand Oaks, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amgen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "E2 Optics",
+        "id": "b5307fcf-5387-4b5d-9bd5-e3647b57682d",
+        "title": "Data Center Infrastructure Technician",
+        "active": true,
+        "date_updated": 1787274981,
+        "date_posted": 1787274751,
+        "url": "https://careers-e2optics.icims.com/jobs/3770/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/E2-Optics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "1d98facd-3146-4dfa-9668-a3bee8dd05f8",
+        "title": "COBOL Software Developer",
+        "active": true,
+        "date_updated": 1787275015,
+        "date_posted": 1787274821,
+        "url": "https://careers-peraton.icims.com/jobs/169890/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "13a75239-31df-4027-8781-bd140e9c93e0",
+        "title": "Service System Engineering Research Scholar",
+        "active": true,
+        "date_updated": 1787275002,
+        "date_posted": 1787184000,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/SSE-Part-Time-Engineering-Research-Scholar_REQ_0000081618-1",
+        "locations": [
+            "University Park, State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amgen",
+        "id": "0a45ebc3-8e64-4f24-b70d-d4bf74297d92",
+        "title": "Commercial Data & Analytics Data Scientist Associate - Obesity",
+        "active": true,
+        "date_updated": 1787274976,
+        "date_posted": 1787184000,
+        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Associate_R-252126",
+        "locations": [
+            "Thousand Oaks, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amgen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ServiceNow",
+        "id": "f7be9d72-3649-44b3-8c8a-5a75fe9dbac9",
+        "title": "Associate Applications Development Engineer",
+        "active": true,
+        "date_updated": 1787274685,
+        "date_posted": 1787274504,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000144653619",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
