@@ -100890,7 +100890,7 @@
         "company_name": "Titan",
         "id": "b0de04a6-86de-4f47-b55b-b49784fc6c07",
         "title": "New Grad Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772810586,
         "date_posted": 1772810586,
         "url": "https://jobs.ashbyhq.com/titan-msp/6ba1f660-6436-42f6-aaab-80ca931e8339/application",
@@ -286893,7 +286893,7 @@
         "company_name": "R1 RCM",
         "id": "a704ab4c-e295-498e-b2ea-da39bb3e51c8",
         "title": "Analyst AI Opportunity & Value Creation",
-        "active": true,
+        "active": false,
         "date_updated": 1783981480,
         "date_posted": 1783980772,
         "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Remote-USA/Analyst--AI-Opportunity---Value-Creation_R250000006069",
@@ -332580,7 +332580,7 @@
         "company_name": "Independent Software",
         "id": "c9a5b195-2b20-4bf0-9c3d-574667e66bd4",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785738354,
         "date_posted": 1785737511,
         "url": "https://independentsoftware.applytojob.com/apply/1zxyOvNOGu/Software-Engineer-Level-1-FORECASTED",
@@ -344324,7 +344324,7 @@
         "company_name": "Litera",
         "id": "ab71d070-1a5b-40d5-a65e-a1b8fbf30f38",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786055222,
         "date_posted": 1785974400,
         "url": "https://litera.wd12.myworkdayjobs.com/Litera_Careers/job/Denver-CO/Associate-Software-Engineer_R-501347",
@@ -374910,5 +374910,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Appliances",
+        "id": "ae100847-0b5b-46dc-8d75-58159b3d28da",
+        "title": "Test Systems & Instrumentation Engineer",
+        "active": true,
+        "date_updated": 1787332639,
+        "date_posted": 1787270400,
+        "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Test-Systems---Instrumentation-Engineer_REQ-26556",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Appliances",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
