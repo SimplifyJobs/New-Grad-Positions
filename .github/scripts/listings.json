@@ -363283,7 +363283,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -363322,7 +363322,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -376357,6 +376357,28 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GlobalFoundries",
+        "id": "51356e70-c399-48c1-8ed0-d892ed23c0e8",
+        "title": "Technology Architecture and Competitiveness Engineer New Grad - Structural Analysis",
+        "active": true,
+        "date_updated": 1787436946,
+        "date_posted": 1787356800,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Technology-Architecture-and-Competitiveness-Engineer--2027-New-College-Graduate-_JR-2604319",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
