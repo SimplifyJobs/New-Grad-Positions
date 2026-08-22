@@ -212194,7 +212194,7 @@
         "company_name": "Fortinet",
         "id": "d9270ca6-ff0e-4172-a370-e76a727bd54a",
         "title": "Applied AI Engineer New Grad - AI Agent",
-        "active": true,
+        "active": false,
         "date_updated": 1779835673,
         "date_posted": 1779746834,
         "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23077",
@@ -237402,7 +237402,7 @@
         "company_name": "Tesla",
         "id": "e0ca14d4-8894-4667-99ee-7383c5d556ae",
         "title": "Prototype Data Collection Technician - Optimus",
-        "active": true,
+        "active": false,
         "date_updated": 1780958140,
         "date_posted": 1780956416,
         "url": "https://www.tesla.com/careers/search/job/273224",
@@ -314066,7 +314066,7 @@
         "company_name": "Citizens Financial Group",
         "id": "27f03f9b-35d0-4f44-868f-a40dceb0a869",
         "title": "Product Owner AI",
-        "active": true,
+        "active": false,
         "date_updated": 1784883558,
         "date_posted": 1784671925,
         "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/47932",
@@ -369142,7 +369142,7 @@
         "company_name": "Cisco",
         "id": "0933be4c-1f04-4b8f-a07d-b6b97beede8d",
         "title": "Data Science Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1787094310,
         "date_posted": 1787011200,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Science-Engineer-II---Full-Time----United-States_2023062",
@@ -373455,7 +373455,7 @@
         "company_name": "Ohio State University",
         "id": "d2562450-53cf-4da3-bbfb-1951dd76f3d9",
         "title": "Associate Applications Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787263572,
         "date_posted": 1787184000,
         "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Associate-Applications-Analyst_R157300-1",
@@ -376113,6 +376113,90 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Maven Securities",
+        "id": "24751870-3351-4625-9977-345222746d6e",
+        "title": "Graduate Developer",
+        "active": true,
+        "date_updated": 1787388719,
+        "date_posted": 1785767388,
+        "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048802",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "f6b37c2b-7ce8-46be-9bd2-52ee453ee815",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1787388047,
+        "date_posted": 1787270400,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Resource-Control-Team-Software-Engineer--Level-1-or-2----AHT_R10247178",
+        "locations": [
+            "Manhattan Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "ceae13eb-b924-4361-af4e-095b72005dd5",
+        "title": "Software Engineer - COR",
+        "active": true,
+        "date_updated": 1787388061,
+        "date_posted": 1787270400,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Configurable-On-Board-Router--COR--Team---Software-Engineer--AHT-_R10247177",
+        "locations": [
+            "Manhattan Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "fa498077-f142-46a6-a6fe-22fb26b81663",
+        "title": "Software Systems Engineer",
+        "active": true,
+        "date_updated": 1787388042,
+        "date_posted": 1787270400,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Software-System-Engineer--Level-1-or-2----AHT_R10247180",
+        "locations": [
+            "Manhattan Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
