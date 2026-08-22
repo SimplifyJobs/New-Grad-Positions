@@ -237402,7 +237402,7 @@
         "company_name": "Tesla",
         "id": "e0ca14d4-8894-4667-99ee-7383c5d556ae",
         "title": "Prototype Data Collection Technician - Optimus",
-        "active": false,
+        "active": true,
         "date_updated": 1780958140,
         "date_posted": 1780956416,
         "url": "https://www.tesla.com/careers/search/job/273224",
@@ -373778,7 +373778,7 @@
         "company_name": "T-Mobile",
         "id": "d9c06fcc-eca6-4331-896f-ab0f93aa505f",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787275081,
         "date_posted": 1787184000,
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Software-Engineer_REQ364465-1",
@@ -376197,6 +376197,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TRIMEDX",
+        "id": "1888f966-2441-40eb-8202-4f8d3a248cc0",
+        "title": "Imaging Engineer 1",
+        "active": true,
+        "date_updated": 1787389767,
+        "date_posted": 1782252536,
+        "url": "https://trimedx.wd1.myworkdayjobs.com/TMX/job/Pittsburgh-PA/Imaging-Engineer-I_R14206",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/TRIMEDX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
