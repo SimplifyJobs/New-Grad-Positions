@@ -373216,7 +373216,7 @@
         "company_name": "RTX",
         "id": "6321b5bb-8e7e-4045-9080-c2afa03d5011",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1787264520,
         "date_posted": 1787184000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01868305",
@@ -376317,5 +376317,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "eBay",
+        "id": "c7734ae8-c142-481e-b187-28eb96007649",
+        "title": "Senior Data Engineer Manager",
+        "active": true,
+        "date_updated": 1787411741,
+        "date_posted": 1787270400,
+        "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Sr-Data-Engineer-Manager_R0076353",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/E-Bay",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
