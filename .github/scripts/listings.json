@@ -373961,7 +373961,7 @@
         "company_name": "Analog Devices",
         "id": "e65ecc81-280d-4bcd-9c79-2cbe1b01bd23",
         "title": "Associate Digital Design Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1787274901,
         "date_posted": 1787184000,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Digital-Design-Engineer_R265286",
@@ -374459,7 +374459,7 @@
         "company_name": "EBSCO",
         "id": "75173633-1cf1-424b-b068-516958721462",
         "title": "Product Manager - AI Research Companion",
-        "active": true,
+        "active": false,
         "date_updated": 1787307197,
         "date_posted": 1787274915,
         "url": "https://careers-ebscoind.icims.com/jobs/2069/job?mobile=true&needsRedirect=false",
@@ -376233,6 +376233,26 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "6cbbd4e9-accd-4d04-9391-4a0c1327dc62",
+        "title": "Software Engineer - Traction Control - Chassis Controls",
+        "active": true,
+        "date_updated": 1787393720,
+        "date_posted": 1780814722,
+        "url": "https://www.tesla.com/careers/search/job/240332",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
