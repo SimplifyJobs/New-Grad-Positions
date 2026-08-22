@@ -54,80 +54,6 @@
         "degrees": []
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Health Plan One",
-        "id": "4930962e-2ee8-425f-8e7f-d4402812f871",
-        "title": "Associate Risk Reporting Analyst",
-        "active": false,
-        "date_updated": 1766620093,
-        "date_posted": 1766620093,
-        "url": "https://healthplanone.wd1.myworkdayjobs.com/hpone/job/FL-Remote/Associate-Risk-Reporting-Analyst_JR1407",
-        "locations": [
-            "Florida"
-        ],
-        "company_url": "https://simplify.jobs/c/HPOne",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Five Rings Capital",
-        "id": "2a8e337d-9b44-4504-ab4e-201369e5ab53",
-        "title": "Trading Assistant - Trading Assistant",
-        "active": true,
-        "date_updated": 1766619954,
-        "date_posted": 1766619954,
-        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5047415008",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Five-Rings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "2e28a8ff-11d7-40a8-8db0-4548cb788beb",
-        "title": "Software Developer",
-        "active": false,
-        "date_updated": 1766619879,
-        "date_posted": 1766619879,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Canada---Burnaby/Software-Developer_R2827-25",
-        "locations": [
-            "Burnaby, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "0ee004d3-565d-431e-b683-cff2829a7427",
-        "title": "Software Developer",
-        "active": false,
-        "date_updated": 1766619882,
-        "date_posted": 1766619882,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Canada---Saskatoon/Software-Developer_R2826-25",
-        "locations": [
-            "Saskatoon, SK, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1766793712,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -2340,24 +2266,6 @@
             "Canton, OH"
         ],
         "company_url": "https://simplify.jobs/c/Diebold-Nixdorf",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "8b422222-d613-4744-af3f-5dcdab23b8ab",
-        "title": "Associate Engineer / Electronic Hardware Design Engineer",
-        "active": false,
-        "date_updated": 1766619827,
-        "date_posted": 1766619827,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Associate-Engineer---Electronic-Hardware-Design-Engineer_R10217912",
-        "locations": [
-            "Beavercreek, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -288987,7 +288895,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -356069,7 +355977,7 @@
         "company_name": "Lloyds Bank",
         "id": "01a6e2bf-197c-4dc2-a9df-9a57514a579c",
         "title": "Assistant Quantitative Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1786584290,
         "date_posted": 1786492800,
         "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/London/Associate--Assistant-Quantitative-Specialist_158943-2",
@@ -359642,7 +359550,7 @@
         "company_name": "Chenega Corporation",
         "id": "d4a317e4-dac1-4224-8bd1-323b79fc5a49",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786680181,
         "date_posted": 1786680108,
         "url": "https://careers.chenega.com/jobs/41163?icims=1",
