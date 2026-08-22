@@ -369101,7 +369101,7 @@
         "company_name": "Cisco",
         "id": "1e098824-6a50-4571-a1b8-3d3c30c1ae57",
         "title": "Data Science Engineer 2 - Full Time",
-        "active": true,
+        "active": false,
         "date_updated": 1787094265,
         "date_posted": 1787094052,
         "url": "https://careers.cisco.com/global/en/job/2023062",
@@ -376258,5 +376258,64 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ascension",
+        "id": "ded4c8dd-a85f-4856-a22e-0d16e9b77a68",
+        "title": "Application Technology Specialist - Clinical Imaging",
+        "active": true,
+        "date_updated": 1787403452,
+        "date_posted": 1787343096,
+        "url": "https://jobs.ascension.org/us/en/job/459181",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Ascension",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mariana Minerals",
+        "id": "ac52f5f1-d8be-4c9a-8578-a112098cc67b",
+        "title": "Analytical Applications Engineer",
+        "active": true,
+        "date_updated": 1787403062,
+        "date_posted": 1785478258,
+        "url": "https://jobs.ashbyhq.com/marianaminerals/34857c47-bde0-4dce-933b-f07291b5c999/application?embed=true",
+        "locations": [
+            "Moab, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Mariana-Minerals",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Riot Platforms",
+        "id": "d19e1785-95df-4fb9-9525-e387782fdd86",
+        "title": "Mining Technician - Operations Department",
+        "active": true,
+        "date_updated": 1787403083,
+        "date_posted": 1781100471,
+        "url": "https://ats.rippling.com/riot-platforms-careers/jobs/e8c086c1-6987-4fc8-9a47-d1c408f18ebd",
+        "locations": [
+            "Corsicana, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Riot-Platforms",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
