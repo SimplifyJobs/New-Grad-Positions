@@ -54,42 +54,6 @@
         "degrees": []
     },
     {
-        "date_updated": 1766793712,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://careers-gdms.icims.com/jobs/69871/junior-rust-embedded-software-engineer-%28cleared%29/job",
-        "company_name": "General Dynamics Mission Systems",
-        "title": "Junior RUST Embedded Software Engineer (cleared)",
-        "locations": [
-            "Taunton, MA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "ac30f3b5-0422-4153-946a-2761fb99c697",
-        "date_posted": 1766764024,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1771250796,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://www.metrostar.com/job-post/?gh_jid=7570044003",
-        "company_name": "MetroStar",
-        "title": "Associate Full Stack Developer",
-        "locations": [
-            "Remote in USA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "66d8133c-308f-4a10-ae36-73c22909339b",
-        "date_posted": 1766764112,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Gallup",
