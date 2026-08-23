@@ -333040,7 +333040,7 @@
         "company_name": "Ludlum Measurement, Inc (VPI Technology, ADIT, Eljen, WTM, Protean Instr)",
         "id": "74cd9509-accc-467b-8bda-e05f70b0b588",
         "title": "Calibrator",
-        "active": false,
+        "active": true,
         "date_updated": 1785738601,
         "date_posted": 1785737786,
         "url": "https://vpitechnology.applytojob.com/apply/h864JPWnOQ/Calibrator",
@@ -376265,7 +376265,7 @@
         "company_name": "Ascension",
         "id": "ded4c8dd-a85f-4856-a22e-0d16e9b77a68",
         "title": "Application Technology Specialist - Clinical Imaging",
-        "active": true,
+        "active": false,
         "date_updated": 1787403452,
         "date_posted": 1787343096,
         "url": "https://jobs.ascension.org/us/en/job/459181",
@@ -376416,5 +376416,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KET-Kentucky Educational Television",
+        "id": "9e2719f2-3129-4cfa-8dd1-b3d6019e4a59",
+        "title": "Television Broadcast Engineer",
+        "active": true,
+        "date_updated": 1787490205,
+        "date_posted": 1784788001,
+        "url": "https://ketkentuckyeducationaltelevision.applytojob.com/apply/Z1pMBoFR5Q/Television-Broadcast-Engineer",
+        "locations": [
+            "Lexington, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/KET-Kentucky-Educational-Television",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
