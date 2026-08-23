@@ -376380,5 +376380,23 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Avride",
+        "id": "c5debf1a-809e-407a-b7e4-acfc2b531f29",
+        "title": "Robot Service Technician Assistant",
+        "active": true,
+        "date_updated": 1787441401,
+        "date_posted": 1787441308,
+        "url": "https://job-boards.greenhouse.io/avride/jobs/4379588009",
+        "locations": [
+            "Fairfield, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Avride",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
