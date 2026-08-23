@@ -5,7 +5,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 411 New Grad Roles by Category
+### Browse 410 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (230)
 
@@ -15,7 +15,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (17)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (68)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (67)
 
 💼 **[Other](#-other-new-grad-roles)** (0)
 
@@ -13228,13 +13228,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>5d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Medtronic?utm_source=GHList&utm_medium=company">Medtronic</a></strong></td>
-<td>Embedded Software/Firmware Engineer 1</td>
-<td>Lafayette, CO</td>
-<td><div align="center"><a href="https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Embedded-Software--Firmware-R-D-Engineer-I_R73869?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d83814e3-88f6-4415-a40a-5c87f3e96b61?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Applied-Intuition?utm_source=GHList&utm_medium=company">Applied Intuition</a></strong></td>
 <td>Embedded Software Engineer New Grad</td>
 <td>Sunnyvale, CA</td>
@@ -13652,7 +13645,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (332)</summary>
+<summary>🗃️ Inactive roles (333)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -13692,6 +13685,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Jupiter, FL</td>
 <td>🔒</td>
 <td>5d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Medtronic?utm_source=GHList&utm_medium=company">Medtronic</a></strong></td>
+<td>Embedded Software/Firmware Engineer 1</td>
+<td>Lafayette, CO</td>
+<td>🔒</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/MSA-Safety?utm_source=GHList&utm_medium=company">MSA Safety</a></strong></td>
