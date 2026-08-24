@@ -57,60 +57,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "f802b764-cd70-4607-8b4d-f3f88741207b",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1766854443,
-        "date_posted": 1766854443,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043947",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "d5d34deb-c097-4ca6-b8e6-6bb16ee6f2a7",
-        "title": "Data Engineer 1 - ITA - Candidate Conversion",
-        "active": false,
-        "date_updated": 1766854551,
-        "date_posted": 1766854551,
-        "url": "https://amazon.jobs/en/jobs/3149437/data-engineer-i-ita-candidate-conversion",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "33901cdc-28b5-4b90-a22b-0dc8fa1c020f",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1766854442,
-        "date_posted": 1766854442,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043946",
-        "locations": [
-            "Bath, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "da69e45c-fc0a-45a2-874c-510c64d8f4e2",
         "title": "Trading Assistant",
         "active": false,
@@ -374943,7 +374889,7 @@
         "company_name": "Parsons",
         "id": "2672baf9-a609-4fe4-b69c-97c5ebad875e",
         "title": "Electronic Security Systems Technician 1 - Electronics Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787343534,
         "date_posted": 1787270400,
         "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---GA-Field-Location/SCA-Electronic-Security-System--ESS--Electronics-Technician_R185132",
