@@ -347102,7 +347102,7 @@
         "company_name": "Polaris",
         "id": "8caf8a32-6383-404c-8f0e-49c55ec304a7",
         "title": "Digital & IT Leadership Development Program Associate - Digital Product Development",
-        "active": false,
+        "active": true,
         "date_updated": 1786180501,
         "date_posted": 1786147200,
         "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Digital-Product-Development_R30565",
@@ -347124,7 +347124,7 @@
         "company_name": "Polaris",
         "id": "601c9bc9-49e0-4394-be4f-8a40c9b2ffba",
         "title": "Digital & IT Leadership Development Program Associate - Predictive Data Science",
-        "active": false,
+        "active": true,
         "date_updated": 1786180501,
         "date_posted": 1786147200,
         "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Predictive-Data-Science_R30564",
@@ -360136,7 +360136,7 @@
         "company_name": "Andersen",
         "id": "cbb3691a-46f3-47a4-84d5-05ddda7c9a5f",
         "title": "Pre-doctoral Research Assistant - Applied Microeconomics - Macro Finance",
-        "active": true,
+        "active": false,
         "date_updated": 1786682502,
         "date_posted": 1786681006,
         "url": "https://careers.andersen.com/jobs/7402?icims=1",
@@ -376605,5 +376605,65 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Raymond James Financial",
+        "id": "ed410248-773f-43a3-a1dd-3157708a9b23",
+        "title": "Information Technology Accelerated Development Program - Software Developer Track",
+        "active": true,
+        "date_updated": 1787587571,
+        "date_posted": 1787529600,
+        "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-IT-Accelerated-Development-Program--ADP----Software-Developer-Track---St-Petersburg--FL_R-0012718",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Raymond-James-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Raymond James Financial",
+        "id": "b805164b-f585-456b-a2f0-f150f699eb3a",
+        "title": "Associate Experience Analytics Advisor",
+        "active": true,
+        "date_updated": 1787587584,
+        "date_posted": 1787529600,
+        "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Advisor--Associate-Experience-Analytics_R-0012678",
+        "locations": [
+            "Memphis, TN",
+            "Southfield, MI",
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Raymond-James-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CenturyLink",
+        "id": "c0ec2df1-1a46-422f-8fc5-40a2cd9e3c70",
+        "title": "Field Technician 1",
+        "active": true,
+        "date_updated": 1787587561,
+        "date_posted": 1787585265,
+        "url": "https://internaljobs.centurylink.com/job/INDIANAPOLIS-Field-Technician-I-INDIANAPOLIS,-IN-IN-46225/1422440100/?ats=successfactors",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/CenturyLink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
