@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Airbus",
-        "id": "f97051ba-ff6b-4eab-9ff7-4aac1be471b2",
-        "title": "ADU Technician - Contract",
-        "active": false,
-        "date_updated": 1766798944,
-        "date_posted": 1766798944,
-        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/ADU-Technician--CONTRACT-_JR10364652",
-        "locations": [
-            "Mobile, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Airbus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Certik",
         "id": "ecae65d4-5a3d-48fa-be81-16c38bd63343",
@@ -139351,7 +139333,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "4042a11a-8433-4d3c-b163-eb95de05c795",
+        "id": "bca74012-9462-4061-95f7-b27d58666e24",
         "title": "Operations Research Postdoctoral Researcher",
         "active": true,
         "date_updated": 1774986841,
@@ -376190,6 +376172,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "REI Systems",
+        "id": "9144eb86-7f92-4d1f-8b3a-4bb8389b35d9",
+        "title": "Associate Software Engineer - Salesforce",
+        "active": true,
+        "date_updated": 1787534730,
+        "date_posted": 1787534651,
+        "url": "https://careers-reisystems.icims.com/jobs/3495/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Sterling, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/REI-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
