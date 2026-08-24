@@ -57,24 +57,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "da69e45c-fc0a-45a2-874c-510c64d8f4e2",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1766877357,
-        "date_posted": 1766877357,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044005",
-        "locations": [
-            "Camberley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "5dd608ea-e3c9-41f2-a4cb-4af668c70df3",
         "title": "Trading Assistant - Shift",
         "active": false,
@@ -362912,7 +362894,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -362951,7 +362933,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -363010,7 +362992,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -363314,7 +363296,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -365431,7 +365413,7 @@
         "company_name": "Voyager Technologies",
         "id": "7c428946-1d38-4dd8-bfec-13b465441e8d",
         "title": "Machine Learning Engineer - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1787007630,
         "date_posted": 1787007498,
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356977009",
@@ -377930,6 +377912,45 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/OceanComm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microsoft",
+        "id": "3c15c4b1-a7b9-4bfc-9064-944a3e5f5fe7",
+        "title": "Data Center Technician",
+        "active": true,
+        "date_updated": 1787613193,
+        "date_posted": 1787613098,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556980027",
+        "locations": [
+            "Fayetteville, GA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intellisense Systems",
+        "id": "b970996f-8877-40d2-878d-563423e5ae83",
+        "title": "Electronics Assembler 1 - Operations Department",
+        "active": true,
+        "date_updated": 1787612816,
+        "date_posted": 1787353331,
+        "url": "http://intellisensesystemsinc.applytojob.com/apply/DfFqNQOHuL/Electronics-Assembler-I",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intellisense-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
