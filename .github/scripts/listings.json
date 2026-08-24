@@ -199853,7 +199853,7 @@
         "company_name": "MUFG",
         "id": "e6f05edc-a479-47ae-a5aa-295f9d9c68a5",
         "title": "ML Engineer - AVP",
-        "active": false,
+        "active": true,
         "date_updated": 1778710157,
         "date_posted": 1778709980,
         "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/ML-Engineer_10076539-WD",
@@ -255733,7 +255733,7 @@
         "company_name": "Mendix",
         "id": "25232394-29df-44cb-b46f-e0a78b9da897",
         "title": "Application Support Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1781907841,
         "date_posted": 1781906786,
         "url": "https://jobs.lever.co/mendix/acd9f6de-8c4a-4226-b5fc-c164ebe39760/apply",
@@ -271558,7 +271558,7 @@
         "company_name": "Clarity Innovations",
         "id": "ff966379-204b-4e1a-b720-8443d3c7bb31",
         "title": "Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1783002961,
         "date_posted": 1781791880,
         "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5167161007",
@@ -291853,7 +291853,7 @@
         "company_name": "Pattern Data",
         "id": "23295e00-28da-4b93-93fc-6c8a2ff04744",
         "title": "Data Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784154244,
         "date_posted": 1784153797,
         "url": "https://job-boards.greenhouse.io/patterndata/jobs/5187872007",
@@ -316250,7 +316250,7 @@
         "company_name": "Vanguard",
         "id": "75aa7777-17b6-4d18-aee4-1c1eec8392e7",
         "title": "Entry Level Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784942101,
         "date_posted": 1784851200,
         "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Entry-Level-Application-Engineer----2026-Start-Date_171145-1",
@@ -340185,7 +340185,7 @@
         "company_name": "Astreya",
         "id": "83907457-e675-4d33-872b-2a303a69e05f",
         "title": "Fiber Network Mapping Specialist 3",
-        "active": true,
+        "active": false,
         "date_updated": 1785938990,
         "date_posted": 1785888000,
         "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/London-United-Kingdom/Fiber-Network-Mapping-Specialist-III_R0016614",
@@ -340743,7 +340743,7 @@
         "company_name": "L3Harris Technologies",
         "id": "2eecfe1e-5f4b-43ac-b564-e213088164dc",
         "title": "Associate Field Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785967834,
         "date_posted": 1785967471,
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Field-Engineering-FL-32934/1416278900/?ats=successfactors",
@@ -355486,7 +355486,7 @@
         "company_name": "CaseGuard",
         "id": "13540a7a-3ab0-4bde-ae75-edcab7f4406f",
         "title": "Data Annotation Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1784816822,
         "date_posted": 1784815939,
         "url": "https://job-boards.greenhouse.io/caseguard/jobs/5037116008",
@@ -362912,7 +362912,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -362951,7 +362951,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -363010,7 +363010,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -363314,7 +363314,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -376611,5 +376611,439 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "84c9f989-d1bf-43c7-ace1-da5f288ace4f",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1787603067,
+        "date_posted": 1787602495,
+        "url": "https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineering-TX-76705/1422532000/?ats=successfactors",
+        "locations": [
+            "Waco, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Target",
+        "id": "b3868b75-e140-4592-ac8e-8055882cf959",
+        "title": "Associate Technical Developer - Footwear",
+        "active": true,
+        "date_updated": 1787602981,
+        "date_posted": 1787529600,
+        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Associate-Technical-Developer--Footwear_R0000450178",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Target",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BTI Solutions",
+        "id": "1cfdcea8-0b71-4260-84d5-4bd4ca6ed4e7",
+        "title": "Korean Bilingual AMR Engineer",
+        "active": true,
+        "date_updated": 1787602524,
+        "date_posted": 1787529600,
+        "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Queen-Creek-AZ/Korean-Bilingual-AMR-Engineer_JR101992-1",
+        "locations": [
+            "Queen Creek, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/BTI-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "6f703f37-ec50-41db-9745-f5e4c7bb97d6",
+        "title": "Packaging Integration Engineer New Grad",
+        "active": true,
+        "date_updated": 1787602881,
+        "date_posted": 1787529600,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Packaging-Integration-Engineer--2027-New-College-Graduate-_JR-2604302",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cologix",
+        "id": "0a24e0a1-31c0-4019-8e78-17c048481430",
+        "title": "DCIM Analyst",
+        "active": true,
+        "date_updated": 1787602524,
+        "date_posted": 1787602330,
+        "url": "https://jobs.lever.co/cologix/022417e1-e970-4cd3-a5e8-eca72dab00cd/apply",
+        "locations": [
+            "Lakeland, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Cologix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Canon",
+        "id": "7d3105a2-ce2a-4567-8cf5-03fa80a9a082",
+        "title": "Field Service Technician 1",
+        "active": true,
+        "date_updated": 1787602854,
+        "date_posted": 1787602244,
+        "url": "https://external-canoncareers.icims.com/jobs/34811/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Roseland, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Canon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Parsons",
+        "id": "f6262993-9c92-438b-82f0-e0f9258e5b3a",
+        "title": "Electronics Technician",
+        "active": true,
+        "date_updated": 1787602524,
+        "date_posted": 1787184000,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CT-Field-Location/Electronics-Technician--Cat-6-Experience-Required----100-Percent-Travel-Required_R185127",
+        "locations": [
+            "Connecticut"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "b984107e-3314-4712-ae60-7851681cee2d",
+        "title": "Packaging Module Development Engineer",
+        "active": true,
+        "date_updated": 1787602635,
+        "date_posted": 1787602161,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0285729",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nucor",
+        "id": "6ae217ec-6482-4f76-a4e2-c85192942e1f",
+        "title": "Electrical Assembler",
+        "active": true,
+        "date_updated": 1787602594,
+        "date_posted": 1781129192,
+        "url": "https://jobs.nucor.com/job/Jackson-Entry-Level-Electrical-Assembler-WI-53037/1398706100/?ats=successfactors",
+        "locations": [
+            "Jackson, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Nucor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Scientific Games",
+        "id": "dedf54ae-f2e3-44a3-a16c-f8fd68fe3bb6",
+        "title": "Field Service Technician - Loveland-Cincinnati Region",
+        "active": true,
+        "date_updated": 1787602157,
+        "date_posted": 1787529600,
+        "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Loveland-OH/Field-Service-Technician--Loveland-Cincinnati-Region_R505256",
+        "locations": [
+            "Loveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Scientific-Games",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Scientific Games",
+        "id": "cdb2793d-b0ba-44ff-9aaf-0bc13e692e28",
+        "title": "Field Service Technician - West Union-Cincinnati Region",
+        "active": true,
+        "date_updated": 1787602157,
+        "date_posted": 1787529600,
+        "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/West-Union-OH/Field-Service-Technician--West-Union-Cincinnati-Region_R505254",
+        "locations": [
+            "West Union, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Scientific-Games",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "85d7cbe8-ca54-4877-83dd-d0a6cfcc4157",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1787602430,
+        "date_posted": 1787529600,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0247713",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centene",
+        "id": "824e17c4-67a7-495a-a3c6-f616610f8aa4",
+        "title": "Automation Engineer - Financial Systems AI",
+        "active": true,
+        "date_updated": 1787602157,
+        "date_posted": 1787529600,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Automation-Engineer---Financial-Systems-AI_1641989-1",
+        "locations": [
+            "Washington",
+            "Pennsylvania",
+            "California",
+            "Texas",
+            "Florida",
+            "South Carolina",
+            "Georgia",
+            "Virginia",
+            "Nebraska",
+            "NYC",
+            "Maryland",
+            "Massachusetts",
+            "North Carolina",
+            "Missouri",
+            "New Jersey",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Centene",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Scientific Games",
+        "id": "7795f98c-7692-466e-80e1-55af25f3cd18",
+        "title": "Field Service Technician - Wilmington-Cincinnati Region",
+        "active": true,
+        "date_updated": 1787602157,
+        "date_posted": 1787529600,
+        "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Wilmington-OH/Field-Service-Technician--Wilmington-Cincinnati-Region_R505255",
+        "locations": [
+            "Wilmington, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Scientific-Games",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Scientific Games",
+        "id": "85fffaa4-8d31-40a2-a0bd-df2ff12243d7",
+        "title": "Field Service Technician - Batavia-Cincinnati Region",
+        "active": true,
+        "date_updated": 1787602157,
+        "date_posted": 1787529600,
+        "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Batavia-OH/Field-Service-Technician--Batavia-Cincinnati-Region_R505253",
+        "locations": [
+            "Batavia, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Scientific-Games",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "20c02c35-0308-4e8c-b562-67ba4694b3b5",
+        "title": "Embedded Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1787602404,
+        "date_posted": 1787529600,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zebra Technologies",
+        "id": "bbab81ee-841f-42db-832e-cad91b7c31b8",
+        "title": "Repair Services Associate 1",
+        "active": true,
+        "date_updated": 1787602157,
+        "date_posted": 1787529600,
+        "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Buffalo-Grove-Illinois/Repair-Services-Associate-1_JR103011",
+        "locations": [
+            "Buffalo Grove, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zebra Technologies",
+        "id": "b0d782ec-e483-4cf8-ad95-02bc445f53dc",
+        "title": "Repair Services Associate - Support I",
+        "active": true,
+        "date_updated": 1787602157,
+        "date_posted": 1787529600,
+        "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Buffalo-Grove-Illinois/Repair-Services-Associate--Support-I_JR103009",
+        "locations": [
+            "Buffalo Grove, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BP",
+        "id": "23dbfbf2-af33-49dd-8a47-5fb0ce2b0339",
+        "title": "Reservoir Engineer Graduate - Subsurface Technology",
+        "active": true,
+        "date_updated": 1787602370,
+        "date_posted": 1787529600,
+        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Graduate---Subsurface-Technology-Reservoir-Engineer---Houston--TX_RQ115139",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/BP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "54709709-e38f-49b4-bcd9-5141b73a679e",
+        "title": "GPU Top Design Engineer",
+        "active": true,
+        "date_updated": 1787601901,
+        "date_posted": 1787601776,
+        "url": "https://jobs.apple.com/en-us/details/200679637",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "06551cb1-fb6b-43a8-b11d-24e81407e042",
+        "title": "Associate Software Engineer - Ts/Sci",
+        "active": true,
+        "date_updated": 1787603245,
+        "date_posted": 1784585083,
+        "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-TSSCI-FL-32904/1410637500/?ats=successfactors",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
