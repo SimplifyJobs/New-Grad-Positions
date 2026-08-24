@@ -55,42 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "American Fidelity",
-        "id": "cabc8be4-67c2-4714-b35e-9b100c51999c",
-        "title": "Product Analyst 1",
-        "active": false,
-        "date_updated": 1766796110,
-        "date_posted": 1766796110,
-        "url": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Products-Analyst-I_JR375-1",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Fidelity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Axle",
-        "id": "77c25c6e-e383-4778-9e3a-585383dd8401",
-        "title": "Computer Systems Analyst",
-        "active": false,
-        "date_updated": 1766797261,
-        "date_posted": 1766797261,
-        "url": "https://job-boards.greenhouse.io/axle/jobs/4918044007",
-        "locations": [
-            "Baltimore, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/2fb4f27c-8f47-47fe-a3ad-4b033c6586da",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Airbus",
         "id": "f97051ba-ff6b-4eab-9ff7-4aac1be471b2",
