@@ -288578,7 +288578,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -359695,7 +359695,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "07fc4738-d12f-4bb3-b8de-6b749a723716",
         "title": "Artificial Intelligence and Complex Systems Postdoc Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1786680224,
         "date_posted": 1786679952,
         "url": "https://careers.jhuapl.edu/jobs/58855?icims=1",
@@ -362966,7 +362966,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -376175,6 +376175,166 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Electric Power",
+        "id": "43396a43-2ced-4a5e-8508-9e6571d9d114",
+        "title": "Data Scientist Associate - Data Scientist - Data Scientist Senior",
+        "active": true,
+        "date_updated": 1787581689,
+        "date_posted": 1787529600,
+        "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Ft-Wayne-IN/Data-Scientist-Associate---Data-Scientist-Sr_R18526",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Electric-Power",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ADT",
+        "id": "93769dfc-66de-414c-8cf3-6d4ff85fd56d",
+        "title": "Smart Home Consultant",
+        "active": true,
+        "date_updated": 1787581280,
+        "date_posted": 1787580755,
+        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021801",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ADT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PNC Financial Services",
+        "id": "0e362255-3398-4d59-8b40-39f6f4b90f7b",
+        "title": "Data Associate - Data and Automation",
+        "active": true,
+        "date_updated": 1787581369,
+        "date_posted": 1787529600,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data-Associate_R233603-1",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "8a00bccf-5acb-4f2d-bdb9-c398d864ed9c",
+        "title": "Entry-Level Computer Scientist",
+        "active": true,
+        "date_updated": 1787581382,
+        "date_posted": 1787529600,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Computer-Scientist_R-00190248",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ADT",
+        "id": "3c2fba34-247d-45b8-99ed-1ebad1821c61",
+        "title": "Smart Home Consultant",
+        "active": true,
+        "date_updated": 1787580931,
+        "date_posted": 1787580760,
+        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021804",
+        "locations": [
+            "Pelham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/ADT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ADT",
+        "id": "b663930f-d9d5-4851-b763-657f8e5f0b08",
+        "title": "Smart Home Consultant",
+        "active": true,
+        "date_updated": 1787580931,
+        "date_posted": 1787580756,
+        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021802",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ADT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mastercard",
+        "id": "b948ef8c-99af-4850-940a-ca3b8506efb3",
+        "title": "Software Engineer - Launch Program",
+        "active": true,
+        "date_updated": 1787580931,
+        "date_posted": 1787529600,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1",
+        "locations": [
+            "Salt Lake City, UT",
+            "O'Fallon, MO",
+            "Harrison, NY",
+            "Arlington County, Arlington, VA",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Travelers",
+        "id": "45f8fd50-ef1b-4d8d-b82b-5f1e7c924290",
+        "title": "Investment Analyst Development Program",
+        "active": true,
+        "date_updated": 1787580750,
+        "date_posted": 1787529600,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Investment-Analyst-Development-Program_R-52105",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
