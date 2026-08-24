@@ -32967,7 +32967,7 @@
         "company_name": "Brenntag",
         "id": "cf01020f-45a4-4a45-863c-391b594ed254",
         "title": "Master Data Analyst - Mths FTC",
-        "active": false,
+        "active": true,
         "date_updated": 1769527879,
         "date_posted": 1769527879,
         "url": "https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/LeedsUnited-Kingdom/Master-Data-Analyst---18-mths-FTC_JR107647",
@@ -139279,7 +139279,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "bca74012-9462-4061-95f7-b27d58666e24",
+        "id": "4042a11a-8433-4d3c-b163-eb95de05c795",
         "title": "Operations Research Postdoctoral Researcher",
         "active": true,
         "date_updated": 1774986841,
@@ -224575,7 +224575,7 @@
         "company_name": "GE Appliances",
         "id": "8b9e85b8-0cd3-4df7-97e9-62edc68a007a",
         "title": "Edison Engineering Development Program - Edison Engineering Development Program - Software",
-        "active": false,
+        "active": true,
         "date_updated": 1780281147,
         "date_posted": 1780135207,
         "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---July-2027_REQ-25807",
@@ -376335,6 +376335,250 @@
             "St Paul, MN"
         ],
         "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TraceLink",
+        "id": "c582d3c2-5152-41c6-b5d9-162452d0eabf",
+        "title": "Software Engineer 1 - Engineering Services",
+        "active": true,
+        "date_updated": 1787582628,
+        "date_posted": 1787582304,
+        "url": "https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5217396007",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/TraceLink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "f4699b02-b7e9-4575-8cf1-ff5099f6c42c",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1787582538,
+        "date_posted": 1787582289,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8153067",
+        "locations": [
+            "Trotwood, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "3ab9013f-6052-4487-a363-3bc028b58b16",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1787582360,
+        "date_posted": 1787582283,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8153065",
+        "locations": [
+            "Leetsdale, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tucson Talent",
+        "id": "7d234714-1eac-4ca3-9451-1c4bc797be4e",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1787582466,
+        "date_posted": 1787529600,
+        "url": "https://tucsonaz.wd1.myworkdayjobs.com/en-US/Tucson_Talent/job/Tucson-Police-Department-Headquarters/Data-Analyst-I_JR-1003361",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Tucson-Talent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Google",
+        "id": "b462559b-c917-4db0-a92b-9bd0c90f0f33",
+        "title": "Software Engineer Early Career - Multiple Teams",
+        "active": true,
+        "date_updated": 1787582274,
+        "date_posted": 1787582151,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310",
+        "locations": [
+            "Madison, WI",
+            "Seattle, WA",
+            "Austin, TX",
+            "LA",
+            "Raleigh, NC",
+            "San Bruno, CA",
+            "Durham, NC",
+            "Kirkland, WA",
+            "NYC",
+            "Sunnyvale, CA",
+            "Mountain View, CA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Google",
+        "id": "7c151982-dd76-45a2-9e9e-01631bb4e9f2",
+        "title": "Software Engineer - AI/Machine Learning - PhD",
+        "active": true,
+        "date_updated": 1787582257,
+        "date_posted": 1787582140,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878",
+        "locations": [
+            "Madison, WI",
+            "Seattle, WA",
+            "Raleigh, NC",
+            "San Bruno, CA",
+            "Durham, NC",
+            "Kirkland, WA",
+            "NYC",
+            "Sunnyvale, CA",
+            "Mountain View, CA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "349c047a-2926-4492-b44e-726c8723a775",
+        "title": "Electronic Technician 1 - Rapid Capabilities Lab",
+        "active": true,
+        "date_updated": 1787581998,
+        "date_posted": 1787529600,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Electronic-Technician-1_R10245973",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Procter & Gamble",
+        "id": "f0ef86ef-03ce-4d38-9e0b-91ffebc900a8",
+        "title": "Advanced Analytics Manager - Analytics & Insights",
+        "active": true,
+        "date_updated": 1787581908,
+        "date_posted": 1787529600,
+        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Analytics---Insights-Advanced-Analytics-Manager_R000157700",
+        "locations": [
+            "Fayetteville, NC",
+            "Boston, MA",
+            "Virginia Beach, VA",
+            "Mason, OH",
+            "Minneapolis, MN",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "643187a2-24a5-4866-8cbb-5dd7214a4755",
+        "title": "Operations Research Engineer Intern - Undersea Systems",
+        "active": true,
+        "date_updated": 1787581841,
+        "date_posted": 1787529600,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Operations-Research-Undersea-Systems-Analyst_REQ_0000081646-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "3426716d-040e-4f91-9814-d27928088195",
+        "title": "Engineering Technician B",
+        "active": true,
+        "date_updated": 1787581834,
+        "date_posted": 1787581493,
+        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-B-UT-84116/1422397300/?ats=successfactors",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "L3Harris Technologies",
+        "id": "afb117e6-9b2c-4db7-b8a3-c7f374c6f4ef",
+        "title": "Associate Configuration Management",
+        "active": true,
+        "date_updated": 1787581834,
+        "date_posted": 1787581491,
+        "url": "https://jobs.l3harris.com/job/Waco-Associate,-Configuration-Management-TX-76705/1422376300/?ats=successfactors",
+        "locations": [
+            "Waco, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
