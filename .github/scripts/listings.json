@@ -205959,7 +205959,7 @@
         "company_name": "Symbotic",
         "id": "7b26d568-7721-45b7-ad28-66f8775408d4",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1779229232,
         "date_posted": 1779228410,
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770",
@@ -323139,7 +323139,7 @@
         "company_name": "Truist Bank",
         "id": "78557b08-6ff0-4151-a600-1a28c03abedd",
         "title": "Data Scientist 1 - Card Fraud",
-        "active": true,
+        "active": false,
         "date_updated": 1785365557,
         "date_posted": 1785283200,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Data-Scientist-I---Card-Fraud_R0116758",
@@ -367437,7 +367437,7 @@
         "company_name": "Stryker",
         "id": "659b34df-a909-4297-a039-f36c5603ab51",
         "title": "Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787091662,
         "date_posted": 1787011200,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Indiana-Fort-Wayne-1950-West-Cook-Road/Software-Development-Engineer_R570340",
@@ -377814,6 +377814,126 @@
         "degrees": [
             "Bachelor's",
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Parallel Systems",
+        "id": "5fb3b696-65b0-447f-b258-5e70b1ffdf3c",
+        "title": "Embedded Software Engineer - Vehicle Software",
+        "active": true,
+        "date_updated": 1787611764,
+        "date_posted": 1787610824,
+        "url": "https://boards.greenhouse.io/parallel/jobs/5220626007",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Parallel-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "9a501b59-f29b-4a7d-b8ef-eb5221735c94",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1787611764,
+        "date_posted": 1787529600,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer_R10247440",
+        "locations": [
+            "Hollywood, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "40ac8f0e-2e41-4c53-9757-6a1ee928093c",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1787611116,
+        "date_posted": 1787529600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Software-Engineer-I---Onsite-_01867989",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Acron Aviation",
+        "id": "7c47d40a-09fe-4616-bd4a-709b2d39c12b",
+        "title": "Associate Embedded Software Engineer - Surveillance",
+        "active": true,
+        "date_updated": 1787611105,
+        "date_posted": 1787610276,
+        "url": "https://jobs.lever.co/acronaviation/a7d56b84-92e6-427a-827b-ac0c37438b05/apply",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Acron-Aviation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wabtec",
+        "id": "f3afd047-0a89-40c5-ba2f-e21673172f2b",
+        "title": "Engineer Rotational Program",
+        "active": true,
+        "date_updated": 1787610804,
+        "date_posted": 1787609220,
+        "url": "https://jobs.smartrecruiters.com/Wabtec/3743990014806166",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wabtec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "OceanComm",
+        "id": "c84201eb-56b1-4e1c-be9f-532b642e4693",
+        "title": "Electronics Technician",
+        "active": true,
+        "date_updated": 1787611990,
+        "date_posted": 1786411936,
+        "url": "https://apply.workable.com/oceancomm/j/A96B95A022/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/OceanComm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
