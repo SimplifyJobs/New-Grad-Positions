@@ -220594,7 +220594,7 @@
         "company_name": "Kroll",
         "id": "22c2cc28-25c5-4e3f-a312-166eb7b7e47b",
         "title": "Portfolio Valuation Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779921171,
         "date_posted": 1779919659,
         "url": "https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21014303",
@@ -358443,7 +358443,7 @@
         "company_name": "Honeywell",
         "id": "ea670782-222f-4f9d-8ca8-8d6120478821",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786679279,
         "date_posted": 1786679039,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155551",
@@ -358520,7 +358520,7 @@
         "company_name": "NRG Energy",
         "id": "e8bdcf1c-73bd-41c0-9e81-ac1ca1dc598c",
         "title": "Field Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786679144,
         "date_posted": 1786678898,
         "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Saint-Paul-Field-Service-Professional-Saint-Paul,-MN-MN-55106/1419350700/?ats=successfactors",
@@ -363111,7 +363111,7 @@
         "company_name": "GlobalFoundries",
         "id": "42ace1e3-7d43-4cea-89e3-daf382a9297f",
         "title": "Advanced Manufacturing Equipment Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786785522,
         "date_posted": 1786665600,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Equipment-Engineer--2027-New-College-Graduate-_JR-2604703",
@@ -363350,7 +363350,7 @@
         "company_name": "BJC HealthCare",
         "id": "755afd21-51a6-4a39-994c-35c6a3c2b71d",
         "title": "EHR Application Analyst 1 - Epic Security",
-        "active": false,
+        "active": true,
         "date_updated": 1786832104,
         "date_posted": 1786831817,
         "url": "https://jobs.bjc.org/jobs/114939?icims=1",
@@ -373631,7 +373631,7 @@
         "company_name": "Amgen",
         "id": "66069a95-397a-4d67-9b7b-482c07df2447",
         "title": "Data Scientist Associate - Obesity",
-        "active": true,
+        "active": false,
         "date_updated": 1787275012,
         "date_posted": 1787184000,
         "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Associate_R-252119",
@@ -374672,7 +374672,7 @@
         "company_name": "Hyve Solutions",
         "id": "91fbe496-c0ad-4be0-8f7d-981a254764b0",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1787342326,
         "date_posted": 1787270400,
         "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432",
@@ -377040,6 +377040,362 @@
             "Melbourne, FL"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Duke Energy",
+        "id": "3efaee9e-f195-4108-abb0-e12997ad4cc6",
+        "title": "Associate Geographic Information Systems Technologist OR Geographic Information Systems Technologist",
+        "active": true,
+        "date_updated": 1787604263,
+        "date_posted": 1787529600,
+        "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/St-Petersburg-FL/Associate-GIS-Technologist-OR-GIS-Technologist_R41129",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Duke-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "ac470cdc-081d-4aad-9ca1-9c5a47e56a88",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1787604046,
+        "date_posted": 1787529600,
+        "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-II--Full-Time----United-States_2023512",
+        "locations": [
+            "Milpitas, CA",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's",
+            "Bootcamp",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BDO Canada",
+        "id": "ef01aba1-83b9-4bb2-ae96-336e6dc52f09",
+        "title": "Junior Data Analyst - People Analytics",
+        "active": true,
+        "date_updated": 1787603245,
+        "date_posted": 1787529600,
+        "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Wellington-St/Junior-Data-Analyst--People-Analytics_JR6894",
+        "locations": [
+            "Barrie, ON, Canada",
+            "Toronto, ON, Canada",
+            "Kitchener-Waterloo, Waterloo Regional Municipality, ON, Canada",
+            "London, ON, Canada",
+            "Ottawa, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BDO-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BDO Canada",
+        "id": "cb48a344-0aaf-458d-9827-afe4b11b7bb2",
+        "title": "Junior Data Analyst - People Analytics",
+        "active": true,
+        "date_updated": 1787603245,
+        "date_posted": 1787529600,
+        "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Calgary---8th-Ave-SW/Junior-Data-Analyst--People-Analytics_JR6898",
+        "locations": [
+            "Calgary, AB, Canada",
+            "Edmonton, AB, Canada",
+            "Halifax Regional Municipality, NS, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BDO-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Royal Bank of Canada",
+        "id": "aac80634-6c50-4bcb-b953-5fc083ea4ba7",
+        "title": "Java Full Stack Developer New Grad",
+        "active": true,
+        "date_updated": 1787604144,
+        "date_posted": 1787529600,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MISSISSAUGA-Ontario-Canada/Java-Full-Stack-Developer--New-Grad-_R-0000184142",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "793d744b-9874-4713-9d84-69e6ae50519a",
+        "title": "Machine Learning Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1787603773,
+        "date_posted": 1787529600,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Machine-Learning-Software-Engineer----New-Grad-_R-0000182134",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "6666295b-3df7-4547-9027-208763a249fc",
+        "title": "Machine Learning Software Engineer 1 New Grad",
+        "active": true,
+        "date_updated": 1787603770,
+        "date_posted": 1787529600,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Machine-Learning-Software-Engineer-I--New-Grad-_R-0000183231",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "005c5b2b-b40d-4aff-85fe-adf577024103",
+        "title": "Machine Learning Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1787603770,
+        "date_posted": 1787529600,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/Machine-Learning-Software-Engineer----New-Grad-_R-0000181820",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "b4240b2e-ab10-4c6c-b855-3c83464374a3",
+        "title": "Analyst New Grad - Strategic Reporting",
+        "active": true,
+        "date_updated": 1787603771,
+        "date_posted": 1787529600,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Analyst--Strategic-Reporting---New-Grad_R-0000184816",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Royal Bank of Canada",
+        "id": "56c4e48b-4f5b-4cae-886c-5d2e5f2c0821",
+        "title": "IAM Systems Engineer New Grad",
+        "active": true,
+        "date_updated": 1787604144,
+        "date_posted": 1787529600,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/16-YORK-STTORONTO/IAM-Systems-Engineer----New-Grad-_R-0000185530",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Royal Bank of Canada",
+        "id": "bc3404d7-8d9b-4760-8a4e-c6cd8497ce62",
+        "title": "IAM Systems Engineer New Grad",
+        "active": true,
+        "date_updated": 1787604144,
+        "date_posted": 1787529600,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/16-YORK-STTORONTO/IAM-Systems-Engineer----New-Grad-_R-0000185423",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Royal Bank of Canada",
+        "id": "c472ad51-fcd5-4516-9069-45787a498125",
+        "title": "Junior Full Stack Developer New Grad",
+        "active": true,
+        "date_updated": 1787604144,
+        "date_posted": 1787529600,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Junior-Full-Stack-Developer--New-Grad-_R-0000185234",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Argonne National Laboratory",
+        "id": "44b49207-e613-4bdc-95d1-1dc9b89470a1",
+        "title": "Postbaccalaureate Appointee",
+        "active": true,
+        "date_updated": 1787603730,
+        "date_posted": 1787529600,
+        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Post-Baccalaureate-Appointee_423303",
+        "locations": [
+            "Lemont, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Waabi",
+        "id": "e6405d5c-7d2f-4e65-9602-4685ada5b31b",
+        "title": "Fleet Specialist - Night Shift",
+        "active": true,
+        "date_updated": 1787603245,
+        "date_posted": 1787602740,
+        "url": "https://jobs.lever.co/waabi/0d27f3a1-0932-4f77-9ed7-7141eb3b3d1d/apply",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Waabi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "610f0d04-dcde-4471-b453-03c32a16f5a2",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1787603658,
+        "date_posted": 1787529600,
+        "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527",
+        "locations": [
+            "Milpitas, CA",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "ExxonMobil",
+        "id": "9e3744d0-6013-44b6-8207-f13d87b99654",
+        "title": "Global Trading Graduate",
+        "active": true,
+        "date_updated": 1787603680,
+        "date_posted": 1787602670,
+        "url": "https://jobs.exxonmobil.com/job/London-Global-Trading-Commercial-Graduate-London-LND-SE10SU/1422560100/?ats=successfactors",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ExxonMobil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SteerBridge",
+        "id": "dc6284c7-4bc7-41bd-b3a7-77ad38c4a1a9",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1787603245,
+        "date_posted": 1787602547,
+        "url": "https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/SteerBridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capco",
+        "id": "3cfd1fd5-6a07-4a50-9a60-1377c81e8a9f",
+        "title": "Associate Talent Program",
+        "active": true,
+        "date_updated": 1787603564,
+        "date_posted": 1787602538,
+        "url": "https://job-boards.greenhouse.io/capco/jobs/8152949",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Capco",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
