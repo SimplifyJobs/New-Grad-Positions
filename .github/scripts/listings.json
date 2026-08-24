@@ -55,42 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fanatics",
-        "id": "879de7d3-d505-4b41-8f52-58f0cfe9c3c1",
-        "title": "Software Engineer 1 - Backend",
-        "active": false,
-        "date_updated": 1766819603,
-        "date_posted": 1766819603,
-        "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25910",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fanatics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5faf89dd-cc2a-4ef8-a37e-852b209cca9a",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1766819561,
-        "date_posted": 1766819561,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043910",
-        "locations": [
-            "Hereford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "f802b764-cd70-4607-8b4d-f3f88741207b",
@@ -226630,7 +226594,7 @@
         "company_name": "Texas A&M University System",
         "id": "25b1f7ab-dbe5-442c-8aa4-93cbecdc0a4c",
         "title": "Defensive Analyst - Football",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351510,
         "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Defensive-Analyst--Football-_R-093670",
@@ -348578,7 +348542,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "efb4aa2a-8102-4e84-acb1-ce2979c7fe2f",
         "title": "Analytics Engineering Manager - Credit Risk Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1786400854,
         "date_posted": 1786320000,
         "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager---Analytics-Engineering_R-0000183481",
