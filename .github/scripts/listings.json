@@ -1759,24 +1759,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Diebold Nixdorf",
-        "id": "63e3e050-5391-41e9-b4f5-a401c10e960e",
-        "title": "Associate Repair Technician",
-        "active": false,
-        "date_updated": 1766964134,
-        "date_posted": 1766964134,
-        "url": "https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17395",
-        "locations": [
-            "Canton, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Diebold-Nixdorf",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "c9d349f5-26df-45f7-8679-37a18a008f6e",
@@ -2023,24 +2005,6 @@
             "Leicester, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Milwaukee Tool",
-        "id": "9be3b765-5134-4f84-8eb7-c5a81bdfdcbf",
-        "title": "Engineering Technician",
-        "active": false,
-        "date_updated": 1766963917,
-        "date_posted": 1766963917,
-        "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Brookfield-WI/Engineering-Technician_R69693-1",
-        "locations": [
-            "Brookfield, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Milwaukee-Tool",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -340261,7 +340225,7 @@
         "company_name": "RTX",
         "id": "6cdcb63c-5423-4b88-88c2-16298f439f9d",
         "title": "Embedded Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785968837,
         "date_posted": 1785888000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer---P1_01864540",
@@ -363463,7 +363427,7 @@
         "company_name": "NVIDIA",
         "id": "acf99652-adf2-4fff-8ef1-4e83760711e4",
         "title": "Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786975622,
         "date_posted": 1786924800,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Verification-Engineer---New-College-Grad-2026_JR2021016",
@@ -379512,7 +379476,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "9d74aeea-fa25-46c6-af6f-3d20a6065b64",
         "title": "Software Engineer 1 - Shark",
-        "active": true,
+        "active": false,
         "date_updated": 1787681717,
         "date_posted": 1787681545,
         "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1",
