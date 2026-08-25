@@ -288488,7 +288488,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -362876,7 +362876,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -362915,7 +362915,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -362974,7 +362974,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -363278,7 +363278,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -376036,7 +376036,7 @@
         "company_name": "REI Systems",
         "id": "9144eb86-7f92-4d1f-8b3a-4bb8389b35d9",
         "title": "Associate Software Engineer - Salesforce",
-        "active": true,
+        "active": false,
         "date_updated": 1787534730,
         "date_posted": 1787534651,
         "url": "https://careers-reisystems.icims.com/jobs/3495/job?mobile=true&needsRedirect=false",
@@ -378444,6 +378444,154 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "d5cb9991-9336-4138-b9c5-18d14b6c8f1b",
+        "title": "Associate Software Engineering",
+        "active": true,
+        "date_updated": 1787627771,
+        "date_posted": 1787627672,
+        "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1422806500/?ats=successfactors",
+        "locations": [
+            "Greenville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "7a0ebab5-1cf3-49b7-b609-5c5258ac7694",
+        "title": "Optical Engineer Associate",
+        "active": true,
+        "date_updated": 1787627771,
+        "date_posted": 1787627669,
+        "url": "https://jobs.l3harris.com/job/Wilmington-Associate,-Optical-Engineer-MA-01887/1422797100/?ats=successfactors",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KLA",
+        "id": "2029943e-bdea-40e0-af4d-e7e07e36b06a",
+        "title": "AI Engineer - Computer Vision/Signal Processing",
+        "active": true,
+        "date_updated": 1787627543,
+        "date_posted": 1787627542,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Emory Healthcare",
+        "id": "e5377e60-d28f-4c0d-bc33-43bac13623e1",
+        "title": "Associate AI Engineer",
+        "active": true,
+        "date_updated": 1787627357,
+        "date_posted": 1787627255,
+        "url": "https://non-clinical-emory.icims.com/jobs/170743/job?hub=14&mobile=true&needsRedirect=false",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Emory-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Garmin",
+        "id": "f07fa99f-f6a9-4a02-bc87-c7b0aca8d367",
+        "title": "GIS/Cartography Technician 1",
+        "active": true,
+        "date_updated": 1787626999,
+        "date_posted": 1787626845,
+        "url": "https://careers.garmin.com/jobs/19265?icims=1",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Caris",
+        "id": "5cf6bc0c-fa07-4cc0-8813-73901c4c566b",
+        "title": "Associate Software Engineer - Clinical Software Products",
+        "active": true,
+        "date_updated": 1787626833,
+        "date_posted": 1787529600,
+        "url": "https://wd12.myworkdaysite.com/recruiting/carislifesciences/CLS/job/Irving-TX---75039/Associate-Software-Engineer_JR105464",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Caris",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "b02738f0-a8b2-46a2-b6d0-ef53d1c0da39",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1787628477,
+        "date_posted": 1787616436,
+        "url": "https://careers.cisco.com/global/en/job/2023512",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's",
+            "Bootcamp",
+            "Certificate"
         ]
     }
 ]
