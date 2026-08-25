@@ -260563,7 +260563,7 @@
         "company_name": "Twitch",
         "id": "39fea75e-0741-4f91-b9ff-0233de1242b2",
         "title": "Software Engineer - Memberships",
-        "active": true,
+        "active": false,
         "date_updated": 1782513721,
         "date_posted": 1782513658,
         "url": "https://job-boards.greenhouse.io/twitch/jobs/8605153002",
@@ -339738,7 +339738,7 @@
         "company_name": "Leidos",
         "id": "282184ef-e3f4-409a-acca-effa7c167079",
         "title": "Geospatial Linguist - Korean Toponymist",
-        "active": true,
+        "active": false,
         "date_updated": 1785921380,
         "date_posted": 1782956493,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Korean-Toponymist---TS-SCI-Required_R-00185905-1",
@@ -374995,7 +374995,7 @@
         "company_name": "BAE Systems OneArc USA, Inc",
         "id": "360847fa-a110-475d-aa7e-121fcba41e78",
         "title": "Software Developer - Distributed Simulation Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1787343121,
         "date_posted": 1787342947,
         "url": "https://onearc.bamboohr.com/careers/402/",
@@ -377956,5 +377956,103 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "c9509f6d-616f-4865-a883-0bb3b2fcba90",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Knowledge Graph - PhD",
+        "active": true,
+        "date_updated": 1787614768,
+        "date_posted": 1787614655,
+        "url": "https://lifeattiktok.com/search/7676650760662157621",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Acron Aviation",
+        "id": "d4a01c7d-0ef4-4577-b4a1-aef0a553ecb2",
+        "title": "Associate Embedded Software Engineer - Surveillance",
+        "active": true,
+        "date_updated": 1787614795,
+        "date_posted": 1787614632,
+        "url": "https://jobs.lever.co/acronaviation/e013a28f-c025-40df-a7d4-45d2bb69e701/apply",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Acron-Aviation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bloxd",
+        "id": "3b1f3732-86ae-4360-817d-59e34acf6685",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1787614795,
+        "date_posted": 1787614661,
+        "url": "https://jobs.ashbyhq.com/bloxd/1c9d0167-b9b4-4aaa-af4f-8eccd89bf8a3/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Bloxd",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "31f44b7e-6d0d-463a-802d-ce894a00130f",
+        "title": "Machine Learning Engineer - E-Commerce Knowledge Graph",
+        "active": true,
+        "date_updated": 1787614794,
+        "date_posted": 1787614655,
+        "url": "https://lifeattiktok.com/search/7676647728043280645",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "c4b25499-b8a3-4de8-816b-47e4bd086aff",
+        "title": "AI Engineer New Grad",
+        "active": true,
+        "date_updated": 1787614335,
+        "date_posted": 1787529600,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/AI-Engineer---New-Grad_R-0000185645",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
