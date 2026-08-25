@@ -362750,7 +362750,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -362789,7 +362789,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -362848,7 +362848,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -363152,7 +363152,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -377109,7 +377109,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "c472ad51-fcd5-4516-9069-45787a498125",
         "title": "Junior Full Stack Developer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1787604144,
         "date_posted": 1787529600,
         "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Junior-Full-Stack-Developer--New-Grad-_R-0000185234",
@@ -377127,7 +377127,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "44b49207-e613-4bdc-95d1-1dc9b89470a1",
         "title": "Postbaccalaureate Appointee",
-        "active": true,
+        "active": false,
         "date_updated": 1787603730,
         "date_posted": 1787529600,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Post-Baccalaureate-Appointee_423303",
@@ -379866,6 +379866,46 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PayIt",
+        "id": "896a2ce6-0e75-40f5-9b7e-811079dfe6bb",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1787693401,
+        "date_posted": 1787693374,
+        "url": "https://payitgov.com/careers-list?gh_jid=7975853003",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/PayIt",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "1a1f699e-127e-40c9-966b-51e682c53f44",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1787693461,
+        "date_posted": 1787616000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineer-I--Onsite-_01868829",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
