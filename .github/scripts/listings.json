@@ -258552,7 +258552,7 @@
         "company_name": "UBS",
         "id": "0f790154-b110-4193-a208-d4dbbc2dad5c",
         "title": "Quantitative Analyst - Scenarios and Scenario Models",
-        "active": true,
+        "active": false,
         "date_updated": 1782292237,
         "date_posted": 1781947197,
         "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=341057",
@@ -377145,7 +377145,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "005c5b2b-b40d-4aff-85fe-adf577024103",
         "title": "Machine Learning Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1787603770,
         "date_posted": 1787529600,
         "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/Machine-Learning-Software-Engineer----New-Grad-_R-0000181820",
@@ -379125,5 +379125,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hyve Solutions",
+        "id": "ca4209a1-54bd-41cb-8ff4-e7fcfb7ed1fe",
+        "title": "Test Operator",
+        "active": true,
+        "date_updated": 1787669821,
+        "date_posted": 1787616000,
+        "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Olive-Branch-MS/Test-Operator_R55367",
+        "locations": [
+            "Olive Branch, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Hyve-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
