@@ -330393,7 +330393,7 @@
         "company_name": "Deloitte",
         "id": "a067ae35-21bb-47c2-b116-923d33b51f4a",
         "title": "Technology Transformation Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1785622041,
         "date_posted": 1785507828,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Analyst-Technology-Transformation/350487",
@@ -378593,5 +378593,23 @@
             "Bootcamp",
             "Certificate"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Aramark",
+        "id": "a707d075-8431-4357-8579-21f9516b6b9c",
+        "title": "Food Services Worker - Student Worker",
+        "active": true,
+        "date_updated": 1787629005,
+        "date_posted": 1787628947,
+        "url": "https://aramarkcareers.com/UnitedStates/job/Tallahassee-Trading-Post-Student-Worker-Florida-State-University-FL-32304/1422815000/?ats=successfactors",
+        "locations": [
+            "Tallahassee, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Aramark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
