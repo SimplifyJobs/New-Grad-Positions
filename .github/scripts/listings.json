@@ -349222,7 +349222,7 @@
         "company_name": "Savannah River Mission Completion",
         "id": "35e05405-c3a2-4b74-a350-587930a5e2b3",
         "title": "Full Stack Developer / IT Programmer Analyst - Associate or Mid-level or Senior-level",
-        "active": true,
+        "active": false,
         "date_updated": 1786399463,
         "date_posted": 1786399330,
         "url": "https://careers-fsse-srmc.icims.com/jobs/2027/job?mobile=true&needsRedirect=false",
@@ -361625,7 +361625,7 @@
         "company_name": "Smith+Nephew",
         "id": "c3822529-442e-4f8d-8609-babd6340391d",
         "title": "Quality Engineer - Data Science",
-        "active": true,
+        "active": false,
         "date_updated": 1786745705,
         "date_posted": 1786665600,
         "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Quality-Engineer---Data-Science_R91792",
@@ -378611,5 +378611,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dell Technologies",
+        "id": "af9ad2a9-dee9-44f4-abc5-b30f9c1df4e4",
+        "title": "Hardware Engineer 1 - Client Solutions Group",
+        "active": true,
+        "date_updated": 1787635457,
+        "date_posted": 1787635353,
+        "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298141",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
