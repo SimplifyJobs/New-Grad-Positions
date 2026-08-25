@@ -276902,7 +276902,7 @@
         "company_name": "Cerebras",
         "id": "a736118b-b097-4ded-bc29-f0fb61e5457e",
         "title": "AI Infrastructure Operations Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783416241,
         "date_posted": 1783415513,
         "url": "https://jobs.ashbyhq.com/cerebras/98ccea5d-d67a-4b58-a44a-168eb5012fe6/application",
@@ -365176,7 +365176,7 @@
         "company_name": "AT&T",
         "id": "a53b170d-79a7-4941-9d39-6054f65aa51f",
         "title": "Splicing Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787005981,
         "date_posted": 1786924800,
         "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Irvine-California/Splicing-Technician_R-119643",
@@ -379099,6 +379099,27 @@
             "Fort Wayne, IN"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SS&C",
+        "id": "9af17f10-a53a-4653-bc36-fc5a419259c6",
+        "title": "Intelligent Automation Developer",
+        "active": true,
+        "date_updated": 1787666253,
+        "date_posted": 1783641600,
+        "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Basildon-United-Kingdom/AI-Automation-Developer_R45057",
+        "locations": [
+            "London, UK",
+            "Basildon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SSC",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
