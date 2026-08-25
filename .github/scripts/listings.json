@@ -280950,7 +280950,7 @@
         "company_name": "Jump Trading",
         "id": "acf78218-ae13-4623-950b-916366d02693",
         "title": "AI Research Engineer - Research Automation",
-        "active": true,
+        "active": false,
         "date_updated": 1783550567,
         "date_posted": 1783549627,
         "url": "https://boards.greenhouse.io/embed/job_app?token=8052356",
@@ -336538,7 +336538,7 @@
         "company_name": "Agate Software",
         "id": "5ced01a5-6d42-47fc-90a6-5a183c724f67",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785806016,
         "date_posted": 1785805700,
         "url": "https://jobs.lever.co/agatesoftware/60c278e1-9b47-4ba9-8961-0e0cf41e0739/apply",
@@ -369682,7 +369682,7 @@
         "company_name": "Procter & Gamble",
         "id": "2f40cd6e-8384-4c3f-8dee-e8ef4a5fa827",
         "title": "Consumer Insights & Data Analytics Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1787143196,
         "date_posted": 1787097600,
         "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Weybridge/Consumer-Insights---Data-Analytics-Manager--Graduate-_R000157642",
@@ -379184,5 +379184,41 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Jain Global",
+        "id": "14ae7761-228c-4e0f-be7d-d778f9a86d4d",
+        "title": "Trading Operations Junior Analyst",
+        "active": true,
+        "date_updated": 1787672881,
+        "date_posted": 1787616000,
+        "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-United-Kingdom/Trading-Operations-Junior-Analyst_JR100563-2",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jain-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The University of Edinburgh",
+        "id": "a482d898-f8c8-43f9-9e7a-4cf89737f09a",
+        "title": "Early Career Fellow / Lecturer in Digital Innovation and Artificial Intelligence - Entrepreneurship and Innovation Group",
+        "active": true,
+        "date_updated": 1787671981,
+        "date_posted": 1787671897,
+        "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/14677",
+        "locations": [
+            "Midlothian, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
