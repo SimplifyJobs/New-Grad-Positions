@@ -176180,7 +176180,7 @@
         "company_name": "Bank of Montreal",
         "id": "2d4ed512-49cd-46d0-9d81-ea223b8811d9",
         "title": "Analyst \u2013 Full Stack Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776895921,
         "date_posted": 1776895494,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Full-Stack-Engineer_R250030895",
@@ -336487,7 +336487,7 @@
         "company_name": "Perry Homes",
         "id": "467851ae-af4e-4819-ae09-1cdbd0290f82",
         "title": "Data and Reporting Intern",
-        "active": false,
+        "active": true,
         "date_updated": 1785824943,
         "date_posted": 1785824197,
         "url": "https://apply.workable.com/perryhomes/j/65C2ED2361/apply",
@@ -346994,7 +346994,7 @@
         "company_name": "Intellisense Systems Inc",
         "id": "ed19e84f-a8ce-4202-9bf1-31d95e4feab1",
         "title": "Electronics Assembler 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786193323,
         "date_posted": 1785737956,
         "url": "http://intellisensesystemsinc.applytojob.com/apply/dISFLJ5OCK/Electronics-Assembler-I",
@@ -377073,7 +377073,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "56c4e48b-4f5b-4cae-886c-5d2e5f2c0821",
         "title": "IAM Systems Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1787604144,
         "date_posted": 1787529600,
         "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/16-YORK-STTORONTO/IAM-Systems-Engineer----New-Grad-_R-0000185530",
@@ -378147,7 +378147,7 @@
         "company_name": "Ponca City Development Authority",
         "id": "44600b6e-3825-411c-81ce-fe0455fa2ffb",
         "title": "Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787616564,
         "date_posted": 1787616478,
         "url": "https://poncaworks.applytojob.com/apply/6lzWQvGbfR/Repair-Technician",
@@ -379647,6 +379647,229 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TradingHub",
+        "id": "bc004c19-45d1-4e50-9d7c-27fbdd2db93a",
+        "title": "Product Analyst",
+        "active": true,
+        "date_updated": 1787693222,
+        "date_posted": 1787693154,
+        "url": "https://jobs.ashbyhq.com/tradinghub/2985bfa4-d2b8-4f15-8c00-fac8e5ba6028/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TradingHub",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Maximor AI",
+        "id": "9f6e8d63-9cab-4749-85bc-bfe74f9c7577",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1787693139,
+        "date_posted": 1787693012,
+        "url": "https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Maximor-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "United Smart Tech",
+        "id": "a1976308-266e-4773-9e85-830494a8efd0",
+        "title": "Field Technician - Mobile Repairs",
+        "active": true,
+        "date_updated": 1787693041,
+        "date_posted": 1787692950,
+        "url": "https://unitedsmarttech.bamboohr.com/careers/223/",
+        "locations": [
+            "Battle Creek, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Smart-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Voleon Group",
+        "id": "22286d2e-ab8f-421b-9e32-02038a5bffa4",
+        "title": "Software Engineer - University Hire 2027",
+        "active": true,
+        "date_updated": 1787693041,
+        "date_posted": 1787692907,
+        "url": "https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c/application?embed=true",
+        "locations": [
+            "Berkeley, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Voleon-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University System",
+        "id": "7ed39e19-a421-4f28-9f27-e7967dbf86f9",
+        "title": "Postdoctoral Researcher - CEES",
+        "active": true,
+        "date_updated": 1787692681,
+        "date_posted": 1787616000,
+        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Postdoctoral-Researcher---CEES-_R-096553",
+        "locations": [
+            "Prairie View, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "True Anomaly",
+        "id": "c4e96033-c49b-49e3-88cd-fa2f2f99ade1",
+        "title": "Software Engineer 1 New Grad - Spacecraft Simulation",
+        "active": true,
+        "date_updated": 1787692556,
+        "date_posted": 1787692373,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007",
+        "locations": [
+            "Long Beach, CA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/TrueAnomaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "True Anomaly",
+        "id": "5516fbba-d287-4ee8-b391-dd0e5a0c4797",
+        "title": "Flight Software Engineer 1 New Grad",
+        "active": true,
+        "date_updated": 1787692551,
+        "date_posted": 1787692372,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007",
+        "locations": [
+            "Long Beach, CA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/TrueAnomaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "True Anomaly",
+        "id": "2b100e48-0d13-4ce4-84ba-7549d0d15f9b",
+        "title": "Data Science Software Engineer 1 New Grad - Data Science",
+        "active": true,
+        "date_updated": 1787692550,
+        "date_posted": 1787692373,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007",
+        "locations": [
+            "Long Beach, CA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/TrueAnomaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "a3fa760c-c8ec-4d27-8090-1ff8948cd4d0",
+        "title": "Software Engineering/ML/Data Scientist New Grad - Intelligence Systems",
+        "active": true,
+        "date_updated": 1787692395,
+        "date_posted": 1787692297,
+        "url": "https://careers.jhuapl.edu/jobs/59654?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Man Group",
+        "id": "8b350164-ca46-4403-82b0-1df7b1971cdc",
+        "title": "Systematic Quant Graduate Rotational",
+        "active": true,
+        "date_updated": 1787692235,
+        "date_posted": 1787692115,
+        "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4960444101",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Man-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bank of Montreal",
+        "id": "19a07a08-3dfa-4b6d-839c-780b21f5838e",
+        "title": "Software Developer New Grad",
+        "active": true,
+        "date_updated": 1787692071,
+        "date_posted": 1787616000,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222-3",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
