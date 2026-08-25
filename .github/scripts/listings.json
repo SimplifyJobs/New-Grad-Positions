@@ -375308,7 +375308,7 @@
         "company_name": "Fidelity Investments",
         "id": "b989c0d7-19f2-4acd-8837-402a4c9fbfe0",
         "title": "Software Engineer - Leap",
-        "active": false,
+        "active": true,
         "date_updated": 1787350577,
         "date_posted": 1787270400,
         "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/October-2027---Leap-Software-Engineer_2133884",
@@ -379143,5 +379143,46 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fidelity Investments",
+        "id": "501a5d9d-54bb-4a8b-a3a5-2c6efd18d963",
+        "title": "Software Engineer New Grad - LEAP",
+        "active": true,
+        "date_updated": 1787671116,
+        "date_posted": 1787616000,
+        "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/XMLNAME-2026-Undergraduate---LEAP--Software-Engineer_2134380",
+        "locations": [
+            "Westlake, TX",
+            "Merrimack, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "e92b0e3e-7e34-419c-b4be-9f1ec384451b",
+        "title": "Business Systems Analyst",
+        "active": true,
+        "date_updated": 1787670954,
+        "date_posted": 1787670791,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005685",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
