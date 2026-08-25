@@ -316088,7 +316088,7 @@
         "company_name": "Vanguard",
         "id": "75aa7777-17b6-4d18-aee4-1c1eec8392e7",
         "title": "Entry Level Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784942101,
         "date_posted": 1784851200,
         "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Entry-Level-Application-Engineer----2026-Start-Date_171145-1",
@@ -377799,7 +377799,7 @@
         "company_name": "Intellisense Systems",
         "id": "b970996f-8877-40d2-878d-563423e5ae83",
         "title": "Electronics Assembler 1 - Operations Department",
-        "active": true,
+        "active": false,
         "date_updated": 1787612816,
         "date_posted": 1787353331,
         "url": "http://intellisensesystemsinc.applytojob.com/apply/DfFqNQOHuL/Electronics-Assembler-I",
@@ -379146,6 +379146,104 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Foundation-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Publicis Groupe",
+        "id": "40b8e5c6-6160-4419-83e5-a0c6ba958867",
+        "title": "Senior Associate Copilot Studio Developer",
+        "active": true,
+        "date_updated": 1787675581,
+        "date_posted": 1787675440,
+        "url": "https://careers.publicisgroupe.com/jobs/171896?icims=1",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "6642fd98-f102-48bc-b226-3acb5b8c3988",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1787675637,
+        "date_posted": 1787616000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10247580-1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Dynamics",
+        "id": "ba71f8df-382e-4efc-acff-0a78b742aac8",
+        "title": "Finance Data Modeler & Transformation Representative - Finance Digital Transformation Office",
+        "active": true,
+        "date_updated": 1787675639,
+        "date_posted": 1787675407,
+        "url": "https://careers-gdeb.icims.com/jobs/20232/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Groton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "568c6036-aeb5-4f73-9c75-fa674f965716",
+        "title": "Electronic Manufacturing Specialist - EMS/Operator",
+        "active": true,
+        "date_updated": 1787675630,
+        "date_posted": 1787616000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/U105--Electronic-Manufacturing-Specialist--EMS-Operator-_R10247227-1",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "2869a722-c001-41da-a388-b3e4070a9b95",
+        "title": "Electronic Manufacturing Specialist",
+        "active": true,
+        "date_updated": 1787675638,
+        "date_posted": 1787616000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/U105--Electronic-Manufacturing-Specialist--EMS-Operator----4th-Shift_R10247228-1",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
