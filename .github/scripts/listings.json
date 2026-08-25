@@ -261245,7 +261245,7 @@
         "company_name": "Internet Brands",
         "id": "326959cb-4de4-4551-9cd0-496854f51f13",
         "title": "Associate AI Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1782868404,
         "date_posted": 1782868155,
         "url": "https://jobs.jobvite.com/internetbrands/job/oSkoAfwU?nl=1&nl=1&fr=false",
@@ -332631,7 +332631,7 @@
         "company_name": "Xcellent Technology Solutions",
         "id": "e9ad7bd0-9547-45c3-a80f-b82b07082183",
         "title": "GIS Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1785739562,
         "date_posted": 1785737810,
         "url": "https://xtscareers.applytojob.com/apply/zXuVgWExgU/GIS-Specialist-Entry-Level",
@@ -354138,7 +354138,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "8920f306-23e6-4b89-8c63-10d1855d6a97",
         "title": "Assistant Replay Operator / VARDict Graphics Operator",
-        "active": false,
+        "active": true,
         "date_updated": 1786565988,
         "date_posted": 1786565613,
         "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/560fbfd9-b4a4-45b1-bc0b-6551ba294043/application?embed=true",
@@ -362894,7 +362894,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -362933,7 +362933,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -362992,7 +362992,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -363296,7 +363296,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -378051,6 +378051,333 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Infleqtion",
+        "id": "4e9fe751-4379-45cd-97bd-7083fd5e58d1",
+        "title": "Quantum Software Engineer - Compiler & Control Systems",
+        "active": true,
+        "date_updated": 1787616918,
+        "date_posted": 1787616841,
+        "url": "https://apply.workable.com/coldquanta/j/DA0D4B3975/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Infleqtion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Infleqtion",
+        "id": "eac46790-0057-4518-8e60-be17fee9950f",
+        "title": "Quantum Software Engineer - Compiler",
+        "active": true,
+        "date_updated": 1787616918,
+        "date_posted": 1787616841,
+        "url": "https://apply.workable.com/coldquanta/j/1B97312CA0/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Infleqtion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Liberty Mutual",
+        "id": "efe8c7af-0baa-411f-8106-bdfcbe0674b4",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1787617050,
+        "date_posted": 1787616808,
+        "url": "https://careers-libertymutual.icims.com/jobs/77179/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Remote in USA",
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Liberty-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Willis Aviation",
+        "id": "40d7d962-1019-4506-8d2b-5bfcb8ecb6d2",
+        "title": "Graduate Planning & Records Engineer",
+        "active": true,
+        "date_updated": 1787616918,
+        "date_posted": 1787616670,
+        "url": "https://apply.workable.com/willis-aviation/j/36B4CD0289/apply",
+        "locations": [
+            "Darlington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Willis-Aviation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "d8128313-1a27-4475-bfe7-ccff7edc883d",
+        "title": "Electronic Hardware Validation - Low Voltage Systems",
+        "active": true,
+        "date_updated": 1787616918,
+        "date_posted": 1787616728,
+        "url": "https://www.tesla.com/careers/search/job/280969",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "OceanComm",
+        "id": "11435ff1-cc4d-469b-9935-224cfaeec6c6",
+        "title": "Embedded Software Engineer - DSP",
+        "active": true,
+        "date_updated": 1787616918,
+        "date_posted": 1787616584,
+        "url": "https://apply.workable.com/oceancomm/j/912979C2F0/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/OceanComm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Yelp",
+        "id": "b4fbf723-b634-4b03-a717-5a7477ac972b",
+        "title": "Data Backend Engineer - Trust & Safety",
+        "active": true,
+        "date_updated": 1787616865,
+        "date_posted": 1787616480,
+        "url": "https://www.yelp.careers/us/en/job/14018",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada",
+            "Calgary, AB, Canada",
+            "Remote in Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Yelp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Best Buy",
+        "id": "768008dd-6435-40fa-b247-2c2dd4a904a9",
+        "title": "Field Technical Service Representative",
+        "active": true,
+        "date_updated": 1787616564,
+        "date_posted": 1787529600,
+        "url": "https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career/job/11982-Ancaster/Field-Technical-Service-Representative--Full-Time-_R-52577",
+        "locations": [
+            "Ancaster, Hamilton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Best-Buy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Best Buy",
+        "id": "3a606e76-5245-4f80-81c3-8deac3b9d281",
+        "title": "Field Technical Service Representative - Home Services",
+        "active": true,
+        "date_updated": 1787616879,
+        "date_posted": 1787529600,
+        "url": "https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career/job/11907-La-Capitale/Reprsentant-e--des-services-techniques--domicile--Temps-plein----Field-Technical-Service-Representative--Full-Time-_R-52573",
+        "locations": [
+            "Qu\u00e9bec City, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Best-Buy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sciemo",
+        "id": "1f2bf4b5-3f79-48a6-a9df-947ef666ee29",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1787616564,
+        "date_posted": 1787616454,
+        "url": "https://jobs.ashbyhq.com/sciemo/208da924-4a08-4be7-a20c-a420f08e77d2/application?embed=true",
+        "locations": [
+            "Research Triangle Park, Durham, NC",
+            "Philadelphia, PA",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sciemo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Yelp",
+        "id": "707f077b-d4f3-4d3b-a12c-a7dd9eb195ce",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1787616881,
+        "date_posted": 1787616480,
+        "url": "https://www.yelp.careers/us/en/job/14019",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada",
+            "Calgary, AB, Canada",
+            "Remote in Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Yelp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ponca City Development Authority",
+        "id": "44600b6e-3825-411c-81ce-fe0455fa2ffb",
+        "title": "Repair Technician",
+        "active": true,
+        "date_updated": 1787616564,
+        "date_posted": 1787616478,
+        "url": "https://poncaworks.applytojob.com/apply/6lzWQvGbfR/Repair-Technician",
+        "locations": [
+            "Ponca City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ponca-City-Development-Authority",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "748876fb-0603-4b73-b26c-469bc138674c",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1787616836,
+        "date_posted": 1787616435,
+        "url": "https://careers.cisco.com/global/en/job/2023527",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pryzm",
+        "id": "2c8d4660-6467-4fcd-8dcd-05c5cbc86604",
+        "title": "Federal Data Analyst",
+        "active": true,
+        "date_updated": 1787616918,
+        "date_posted": 1787616296,
+        "url": "https://jobs.ashbyhq.com/pryzm/2c40f0bb-e559-49b3-9831-81d7484cc6dc/application?embed=true",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pryzm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "bcf31ce3-d579-4237-bfb9-5c4d5805d590",
+        "title": "Physicist/Scientist - Advanced Degree",
+        "active": true,
+        "date_updated": 1787616564,
+        "date_posted": 1787529600,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/Physicist-Scientist--Adv-Degree--Gloucester--MA_R2611455",
+        "locations": [
+            "Gloucester, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DMS",
+        "id": "d23aec50-c086-4fda-9f46-1e6e598f195c",
+        "title": "Junior Technical Operator - Lates Shift",
+        "active": true,
+        "date_updated": 1787616206,
+        "date_posted": 1787616112,
+        "url": "https://apply.workable.com/digitalmediaservices/j/D0B2BAB325/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DMS",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
