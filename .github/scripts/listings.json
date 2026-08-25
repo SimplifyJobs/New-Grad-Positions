@@ -126965,7 +126965,7 @@
         "company_name": "EOS IT Solutions",
         "id": "4b5deec1-659d-422a-933a-e578c898ef65",
         "title": "Data Center Repair Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1774389906,
         "date_posted": 1774389906,
         "url": "https://eosits.com/company/careers/?gh_jid=8449935002",
@@ -129589,7 +129589,7 @@
         "company_name": "EOS IT Solutions",
         "id": "09f3da69-1974-4a72-81d0-fa51e88114c2",
         "title": "Data Center Repair Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1774476315,
         "date_posted": 1774476315,
         "url": "https://eosits.com/company/careers/?gh_jid=8480393002",
@@ -227432,7 +227432,7 @@
         "company_name": "SpaceX",
         "id": "2008e979-6d81-4fe7-9be3-e05bce3c0990",
         "title": "Radio Frequency Silicon Software Engineer - Radio Frequency Integrated Circuit Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1780438813,
         "date_posted": 1772494104,
         "url": "https://boards.greenhouse.io/spacex/jobs/8439627002",
@@ -340361,7 +340361,7 @@
         "company_name": "NRG Energy",
         "id": "10b86339-8ef4-40cf-bb64-b4adad89513d",
         "title": "Field Service Professional",
-        "active": true,
+        "active": false,
         "date_updated": 1785968764,
         "date_posted": 1785967939,
         "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Oklahoma-City-Field-Service-Professional-Oklahoma-City,-OK-OK-73106/1416160100/?ats=successfactors",
@@ -347820,7 +347820,7 @@
         "company_name": "DC Thomson",
         "id": "30af4cb3-8434-47ef-9bb3-09ffc7232d71",
         "title": "Digitisation Operative - Day Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1786389121,
         "date_posted": 1786389043,
         "url": "https://apply.workable.com/dcthomson/j/441D9205E5/apply",
@@ -379627,5 +379627,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "AQR Capital Management",
+        "id": "ce9b5601-f631-40d5-93f2-c131bea80fdd",
+        "title": "Trading Analyst",
+        "active": true,
+        "date_updated": 1787682655,
+        "date_posted": 1787682504,
+        "url": "https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
