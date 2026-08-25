@@ -134141,7 +134141,7 @@
         "company_name": "Redwood Materials",
         "id": "468150cb-140a-48f5-828a-e98a815a8056",
         "title": "Senior Software Engineer - Energy Storage",
-        "active": true,
+        "active": false,
         "date_updated": 1774315261,
         "date_posted": 1773181477,
         "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5823270004",
@@ -288873,7 +288873,7 @@
         "company_name": "Worldwide TechServices",
         "id": "43bf2600-6a5d-4ccb-8c69-5504ee40fbce",
         "title": "Dynamic PC Support",
-        "active": true,
+        "active": false,
         "date_updated": 1784066581,
         "date_posted": 1784066546,
         "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000137710164",
@@ -313797,7 +313797,7 @@
         "company_name": "EOS IT Solutions",
         "id": "3b38bd8c-9b84-4151-b67b-2ffe8a49dd12",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784883961,
         "date_posted": 1783521099,
         "url": "https://eosits.com/company/careers/?gh_jid=8610750002",
@@ -362779,7 +362779,7 @@
         "company_name": "DoorDash",
         "id": "58887af3-64d9-476a-8bd0-68a96f7c0be9",
         "title": "Ground Support Operator - Labs - DoorDash Air",
-        "active": true,
+        "active": false,
         "date_updated": 1786754565,
         "date_posted": 1783636044,
         "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8048543",
@@ -370022,7 +370022,7 @@
         "company_name": "GenScript",
         "id": "a94991ee-70e0-44d8-a55a-cb34f951f096",
         "title": "Associate Technical Integration Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1787172277,
         "date_posted": 1787172109,
         "url": "https://job-boards.greenhouse.io/genscript/jobs/5216613007",
@@ -375780,7 +375780,7 @@
         "company_name": "TRIMEDX",
         "id": "1888f966-2441-40eb-8202-4f8d3a248cc0",
         "title": "Imaging Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787389767,
         "date_posted": 1782252536,
         "url": "https://trimedx.wd1.myworkdayjobs.com/TMX/job/Pittsburgh-PA/Imaging-Engineer-I_R14206",
@@ -378748,6 +378748,109 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intuitive Surgical",
+        "id": "623202e1-72eb-4c8b-bd17-0bcfcc106949",
+        "title": "Junior Engineering Technician - Day Shift",
+        "active": true,
+        "date_updated": 1787650122,
+        "date_posted": 1783634590,
+        "url": "https://jobs.smartrecruiters.com/Intuitive/744000136866889",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Geotab",
+        "id": "56133857-e632-4fbe-846d-376be2620735",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1787648072,
+        "date_posted": 1785536365,
+        "url": "https://job-boards.greenhouse.io/geotab/jobs/5363388008",
+        "locations": [
+            "Oakville, ON, Canada",
+            "Waterloo, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Anthropic",
+        "id": "b5439e90-0c4b-47d8-93a3-32b4cc743b9f",
+        "title": "Research Scientist - Takeoff Intel",
+        "active": true,
+        "date_updated": 1787648072,
+        "date_posted": 1784942115,
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5370669008",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Anthropic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NewsBreak",
+        "id": "f185aabd-bbe9-4554-8a62-fe6dfe0deff2",
+        "title": "Applied AI Engineer - Advertising Agents",
+        "active": true,
+        "date_updated": 1787649329,
+        "date_posted": 1781734446,
+        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4690262006",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NewsBreak",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DoorDash",
+        "id": "1184bddc-5d14-4805-8849-f08c3efbfd74",
+        "title": "AI Research Fellow - Multiple Teams",
+        "active": true,
+        "date_updated": 1787648072,
+        "date_posted": 1777587154,
+        "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7848317",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/DoorDash",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
