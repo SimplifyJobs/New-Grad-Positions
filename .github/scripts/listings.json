@@ -279175,7 +279175,7 @@
         "company_name": "Keystone AI",
         "id": "86bbbf6b-c290-40cc-abd7-bdb645167ce8",
         "title": "Data Management & Research Contractor - Ems Guru",
-        "active": true,
+        "active": false,
         "date_updated": 1783504441,
         "date_posted": 1781705893,
         "url": "https://www.keystone.com/careers?gh_jid=8012879",
@@ -303544,7 +303544,7 @@
         "company_name": "The Boeing Company",
         "id": "bf41abd7-ed58-44e9-960f-21db25c77079",
         "title": "Software Engineer-Developer - Phantom Works Weapons",
-        "active": true,
+        "active": false,
         "date_updated": 1784650862,
         "date_posted": 1783987200,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Software-Engineer-Developer--Phantom-Works-Weapons--Associate-or-Experienced-_JR2026517300-1",
@@ -340671,7 +340671,7 @@
         "company_name": "Worldwide TechServices",
         "id": "fb4d0f54-790f-4ee2-aab7-a7f92534b510",
         "title": "PC Support",
-        "active": true,
+        "active": false,
         "date_updated": 1785967853,
         "date_posted": 1785967467,
         "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000141792319",
@@ -371535,7 +371535,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "f3e7ea1f-fd8f-4fcc-b0ad-a9fa301dd0a5",
         "title": "Test Engineer 1 - Test Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1787206198,
         "date_posted": 1787205803,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1421259100/?ats=successfactors",
@@ -379039,6 +379039,66 @@
             "Williston, ND"
         ],
         "company_url": "https://simplify.jobs/c/Weatherford",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "05682247-6baa-44b1-bcaf-d5d5becfd2e5",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1787655441,
+        "date_posted": 1787648487,
+        "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-1-FL-32934/1422829700/?ats=successfactors",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "0db410bd-2e98-4085-8c98-e2d9c6e4dfee",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1787655441,
+        "date_posted": 1787648486,
+        "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineei-CO-80916/1422829300/?ats=successfactors",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "3c7e6389-ba90-4b7f-90b4-f90421053e95",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1787655441,
+        "date_posted": 1787648487,
+        "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1422832500/?ats=successfactors",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
