@@ -55,114 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "fee6721e-0a24-4e1f-9d1f-5e7f86a8c3fd",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1766938351,
-        "date_posted": 1766938351,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044033",
-        "locations": [
-            "Portadown, Craigavon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b0ddfc20-64de-4e04-ae85-6e68afa9508e",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1766938349,
-        "date_posted": 1766938349,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044040",
-        "locations": [
-            "Thurrock, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "98bf442c-0b59-4ea2-92b7-a588c3ec2121",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1766938349,
-        "date_posted": 1766938349,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044039",
-        "locations": [
-            "Thurrock, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3d8fa09a-10b8-4a10-a524-128e73b5db26",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1766938345,
-        "date_posted": 1766938345,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044048",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "34eb89c2-8e60-4927-8964-6dc2b6c2a3fa",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1766938350,
-        "date_posted": 1766938350,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044038",
-        "locations": [
-            "Thurrock, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d6182b9b-1cae-4736-928c-b1a7dc7d5c0d",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1766939036,
-        "date_posted": 1766939036,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044037",
-        "locations": [
-            "Thurrock, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sainsbury's",
         "id": "3c76577c-d783-412b-b8da-88f031b793be",
@@ -337678,7 +337570,7 @@
         "company_name": "Visa",
         "id": "e7be092f-49c3-429c-a396-1bdbff4a3e79",
         "title": "Software Engineer - Corporate GenAI",
-        "active": true,
+        "active": false,
         "date_updated": 1785843541,
         "date_posted": 1784764800,
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Software-Engineer---Corporate-GenAI_REF085070W",
@@ -342988,7 +342880,7 @@
         "company_name": "Atoms",
         "id": "5b58ae21-c56b-47a7-92cd-cfae937732a1",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1786055071,
         "date_posted": 1786054249,
         "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687930002",
@@ -356555,7 +356447,7 @@
         "company_name": "United Smart Tech",
         "id": "05af1047-7680-4628-b07a-4f46fee4e9d7",
         "title": "Field Technician - Mobile Repairs",
-        "active": true,
+        "active": false,
         "date_updated": 1786602244,
         "date_posted": 1786602059,
         "url": "https://unitedsmarttech.bamboohr.com/careers/156/",
@@ -379217,6 +379109,43 @@
             "Midlothian, UK"
         ],
         "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NRG Energy",
+        "id": "b9ed49c3-5548-4ba6-8bb2-6990a3fc4f9f",
+        "title": "Field Service Professional",
+        "active": true,
+        "date_updated": 1787674141,
+        "date_posted": 1787673982,
+        "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Baltimore-Field-Service-Professional-Baltimore,-MD-MD-21215/1423043600/?ats=successfactors",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/NRG-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Foundation Health",
+        "id": "21a87bd3-3069-4bbe-9641-a5c2f04cdadb",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1787673601,
+        "date_posted": 1787673524,
+        "url": "https://jobs.ashbyhq.com/foundationhealthcareers/e5a46260-f26d-4c62-a641-defcc04db137/application?embed=true",
+        "locations": [
+            "Orlando, FL",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Foundation-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
