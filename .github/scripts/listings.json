@@ -306976,7 +306976,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "59eb8964-219e-4636-8a93-e38cea143f24",
         "title": "Senior Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784704158,
         "date_posted": 1784592000,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Senior-Design-Verification-Engineer_1208458",
@@ -364512,7 +364512,7 @@
         "company_name": "Honeywell",
         "id": "45abede7-dc8b-4a14-80ef-9bcf0a9396b7",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787004938,
         "date_posted": 1787004591,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155860",
@@ -378442,6 +378442,26 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "STCU",
+        "id": "f6ea312c-a27d-4faa-9ea7-e433fa700f5a",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1787620297,
+        "date_posted": 1787620065,
+        "url": "https://jobs.smartrecruiters.com/STCU1/744000145379939",
+        "locations": [
+            "Liberty Lake, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/STCU",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
