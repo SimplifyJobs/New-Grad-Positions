@@ -139189,7 +139189,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "4042a11a-8433-4d3c-b163-eb95de05c795",
+        "id": "bca74012-9462-4061-95f7-b27d58666e24",
         "title": "Operations Research Postdoctoral Researcher",
         "active": true,
         "date_updated": 1774986841,
@@ -235493,7 +235493,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "TTP",
-        "id": "1c4edf26-8b8d-4507-83a4-7b06f211012f",
+        "id": "edb319e2-e574-40bd-9fa0-da64c1142067",
         "title": "FPGA Engineer - Consultant",
         "active": true,
         "date_updated": 1780927933,
@@ -350256,7 +350256,7 @@
         "company_name": "University of Louisville",
         "id": "71af9986-8df8-4387-9aca-59fac1fe3dcb",
         "title": "Institutional Research Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786428539,
         "date_posted": 1786406400,
         "url": "https://uofl.wd1.myworkdayjobs.com/UofLCareerSite/job/Belknap-Campus/Institutional-Research-Analyst-I_R109041",
@@ -378626,6 +378626,26 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brown University",
+        "id": "99a1529a-7b07-48b6-bd63-8e2367d1b196",
+        "title": "Health Economics Research Analyst",
+        "active": true,
+        "date_updated": 1787638710,
+        "date_posted": 1787616000,
+        "url": "https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/121-South-Main-Street/Health-Economics-Research-Analyst_REQ210856",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Brown-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
