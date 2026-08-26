@@ -320986,7 +320986,7 @@
         "company_name": "NextEra Energy",
         "id": "14172468-4e3d-4024-b155-1a9974ee0a09",
         "title": "Applied Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785314216,
         "date_posted": 1781638754,
         "url": "https://jobs.nexteraenergy.com/job/St_-Paul-Applied-Scientist-I-MN-55107/1393884800/?ats=successfactors",
@@ -343837,7 +343837,7 @@
         "company_name": "New Flyer",
         "id": "b755c170-360e-4686-82d7-179f09485302",
         "title": "Electrical Assembler",
-        "active": false,
+        "active": true,
         "date_updated": 1786083302,
         "date_posted": 1786083300,
         "url": "https://apply.workable.com/new-flyer/j/1FFE254239/apply",
@@ -358063,7 +358063,7 @@
         "company_name": "V2X",
         "id": "0321538d-4b96-4264-a106-9df2e5240d2f",
         "title": "Electronics Worker 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786681305,
         "date_posted": 1786680331,
         "url": "https://careers.gov2x.com/jobs/56956?icims=1",
@@ -379472,7 +379472,7 @@
         "company_name": "BJC HealthCare",
         "id": "1021bc85-de01-4e2a-93e8-4d10a25731fd",
         "title": "EHR Application Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787701476,
         "date_posted": 1787701280,
         "url": "https://jobs.bjc.org/jobs/114475?icims=1",
@@ -380886,5 +380886,41 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "V2X",
+        "id": "b1007362-c506-42fd-b9a0-95f30bb96bac",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1787772106,
+        "date_posted": 1787771952,
+        "url": "https://careers.gov2x.com/jobs/62655?icims=1",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/V2X",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Embedding VC",
+        "id": "b556adb1-8adc-4b0f-9230-3a2067a6428d",
+        "title": "AI Engineer - Early Career",
+        "active": true,
+        "date_updated": 1787771569,
+        "date_posted": 1787771476,
+        "url": "https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Embedding-VC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
