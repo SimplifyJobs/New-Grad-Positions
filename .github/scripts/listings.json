@@ -255844,7 +255844,7 @@
         "company_name": "Mars",
         "id": "4654f268-c3f9-47f1-b7fa-6686e534b593",
         "title": "Industrial Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1781907157,
         "date_posted": 1781906756,
         "url": "https://mars.wd3.myworkdayjobs.com/external/job/USA-South-Dakota-North-Sioux-City/Site-Industrial-Data-Engineer_R158037",
@@ -271747,7 +271747,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "352477a3-29ad-47a1-9809-69a1da28d66c",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783029961,
         "date_posted": 1783029915,
         "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Software-Engineer_R0000380358",
@@ -286310,7 +286310,7 @@
         "company_name": "Microchip Technology",
         "id": "f331ee8d-ffb5-4460-8ad2-003f3021b428",
         "title": "Engineer 1 - Software",
-        "active": false,
+        "active": true,
         "date_updated": 1783981038,
         "date_posted": 1783900800,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---Santa-Rosa---Westwind/Engineer-I---Software_R2844-26",
@@ -318407,7 +318407,7 @@
         "company_name": "Textron",
         "id": "57383e43-6f9c-4c5d-b9c8-cb3b69e64fd2",
         "title": "Software Engineer 1 - Sea Systems",
-        "active": false,
+        "active": true,
         "date_updated": 1785194938,
         "date_posted": 1785191051,
         "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=341975",
@@ -356393,7 +356393,7 @@
         "company_name": "United Smart Tech",
         "id": "6456cb00-c80b-4d75-9b58-cd6eb84efa2d",
         "title": "Field Technician - Mobile Repairs",
-        "active": false,
+        "active": true,
         "date_updated": 1786602244,
         "date_posted": 1786602061,
         "url": "https://unitedsmarttech.bamboohr.com/careers/38/",
@@ -376924,7 +376924,7 @@
         "company_name": "BDO Canada",
         "id": "cb48a344-0aaf-458d-9827-afe4b11b7bb2",
         "title": "Junior Data Analyst - People Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1787603245,
         "date_posted": 1787529600,
         "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Calgary---8th-Ave-SW/Junior-Data-Analyst--People-Analytics_JR6898",
@@ -378414,7 +378414,7 @@
         "company_name": "Cisco",
         "id": "b02738f0-a8b2-46a2-b6d0-ef53d1c0da39",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1787628477,
         "date_posted": 1787616436,
         "url": "https://careers.cisco.com/global/en/job/2023512",
@@ -379875,5 +379875,323 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian",
+        "id": "0d471c98-a58e-40e3-a4d9-a332bfbec196",
+        "title": "Field Service Technician - Night Shift",
+        "active": true,
+        "date_updated": 1787702221,
+        "date_posted": 1787702147,
+        "url": "https://careers.rivian.com/jobs/27619?icims=1",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ADT",
+        "id": "fb49ee65-7eac-4ac7-ab79-c3262d6f04d7",
+        "title": "Installation Technician - Residential",
+        "active": true,
+        "date_updated": 1787702041,
+        "date_posted": 1787702009,
+        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021852",
+        "locations": [
+            "Melville, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/ADT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DTCC",
+        "id": "aa3e56c3-8607-42dc-a43b-9fe91f4b275d",
+        "title": "Application Developer Analyst - 2027 EDGE Program",
+        "active": true,
+        "date_updated": 1787701865,
+        "date_posted": 1787701825,
+        "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214463",
+        "locations": [
+            "Tampa, FL",
+            "Dallas, TX",
+            "Jersey City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/DTCC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics UK",
+        "id": "e745f9f7-84b2-4962-af95-6e3faf61a307",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1787701865,
+        "date_posted": 1787701755,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000145530335",
+        "locations": [
+            "Blackwood, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Chicago",
+        "id": "e47df33d-ae10-45ac-8cc5-37861d2a3c6e",
+        "title": "Research Professional - Booth Fama-Miller: Research",
+        "active": true,
+        "date_updated": 1787701681,
+        "date_posted": 1787616000,
+        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Professional_JR34894",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "59a9da96-9441-4bf5-adea-b1f68156600d",
+        "title": "Academic Graduate Appointee - Data Acquisition Software Development",
+        "active": true,
+        "date_updated": 1787701681,
+        "date_posted": 1787701651,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990014839366",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Maersk",
+        "id": "88e62522-e177-43de-ab36-450a12699dbc",
+        "title": "Data Analyst - Shift D Wednesday-Saturday 5:00pm-3:30am",
+        "active": true,
+        "date_updated": 1787701321,
+        "date_posted": 1787616000,
+        "url": "https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/United-States-of-America-California-Stockton95206/Data-Analyst---Shift-D-Wednesday--Saturday-5-00pm-3-30am_R194480",
+        "locations": [
+            "Stockton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Maersk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BJC HealthCare",
+        "id": "1021bc85-de01-4e2a-93e8-4d10a25731fd",
+        "title": "EHR Application Analyst 1",
+        "active": true,
+        "date_updated": 1787701476,
+        "date_posted": 1787701280,
+        "url": "https://jobs.bjc.org/jobs/114475?icims=1",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/BJC-HealthCare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Reyes Coca-Cola",
+        "id": "d8b77af1-29eb-4b1e-ab63-2e0bfd59605e",
+        "title": "Senior Master Data Management Coordinator",
+        "active": true,
+        "date_updated": 1787701321,
+        "date_posted": 1787701218,
+        "url": "https://jobportal.reyesbeveragegroup.com/jobs/35624?icims=1",
+        "locations": [
+            "Rosemont, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Reyes-Coca-Cola",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Arcfield",
+        "id": "80ebf08c-0c7a-4d4e-972a-91adbc6e5509",
+        "title": "Model Based Systems Engineer 1",
+        "active": true,
+        "date_updated": 1787701462,
+        "date_posted": 1787701276,
+        "url": "https://careers.arcfield.com/jobs/8577?icims=1",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcfield",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Steampunk",
+        "id": "ae18eaa6-88f9-486d-9112-d4feaa799338",
+        "title": "Data Analyst - Data Exploitation Practice",
+        "active": true,
+        "date_updated": 1787701321,
+        "date_posted": 1787701165,
+        "url": "https://careers-steampunk.icims.com/jobs/8127/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Steampunk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prairie View A&M University",
+        "id": "a0079226-724a-4f71-b591-c3dd2275afbf",
+        "title": "Postdoctoral Researcher - CEES",
+        "active": true,
+        "date_updated": 1787701321,
+        "date_posted": 1787616000,
+        "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher---CEES-_R-096553-1",
+        "locations": [
+            "Prairie View, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Prairie-View-AM-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zip",
+        "id": "cfdb84c0-3b66-4b42-90a5-9189a55f2592",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1787701217,
+        "date_posted": 1787701016,
+        "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792/application?embed=true",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Zip",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zip",
+        "id": "f2e72238-f7aa-4546-964c-34afbdf904bb",
+        "title": "Software Engineer New Grad - 2027 Start",
+        "active": true,
+        "date_updated": 1787701217,
+        "date_posted": 1787701016,
+        "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Zip",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blackline Safety",
+        "id": "2ad3e6d5-d4e3-4b1c-8ca8-74840b82691b",
+        "title": "Electronics Assembler",
+        "active": true,
+        "date_updated": 1787701141,
+        "date_posted": 1787700987,
+        "url": "https://apply.workable.com/blacklinesafety/j/F74B0ACD18/apply",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Blackline-Safety",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "United Smart Tech",
+        "id": "bb5ce3d4-ab62-4d6c-b976-64c022ba418c",
+        "title": "Field Technician - Mobile Repairs",
+        "active": true,
+        "date_updated": 1787701141,
+        "date_posted": 1787700989,
+        "url": "https://unitedsmarttech.bamboohr.com/careers/85/",
+        "locations": [
+            "Springfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Smart-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
