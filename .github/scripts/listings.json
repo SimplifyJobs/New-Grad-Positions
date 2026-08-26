@@ -358322,7 +358322,7 @@
         "company_name": "NRG Energy",
         "id": "e8bdcf1c-73bd-41c0-9e81-ac1ca1dc598c",
         "title": "Field Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786679144,
         "date_posted": 1786678898,
         "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Saint-Paul-Field-Service-Professional-Saint-Paul,-MN-MN-55106/1419350700/?ats=successfactors",
@@ -380575,6 +380575,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "8cf72dd6-f0f9-40d1-85c5-813990262e3e",
+        "title": "Data Scientist/Engineer New Grad - Analytic Capabilities",
+        "active": true,
+        "date_updated": 1787707373,
+        "date_posted": 1787707177,
+        "url": "https://careers.jhuapl.edu/jobs/59818?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
