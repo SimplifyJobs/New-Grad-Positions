@@ -299759,7 +299759,7 @@
         "company_name": "Micron Technology",
         "id": "0566af44-0b11-4d53-b281-6d4eb2e5545f",
         "title": "New Grad Design Engineer - Semiconductor Design Engineer - DRAM Products Group",
-        "active": true,
+        "active": false,
         "date_updated": 1784611773,
         "date_posted": 1781362741,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Design-Engineer--DRAM-Products-Group_JR89353",
@@ -356534,7 +356534,7 @@
         "company_name": "GE Healthcare",
         "id": "07c3dec1-0e25-447d-9793-3004c2b063cc",
         "title": "Field Engineer 1 - Imaging",
-        "active": true,
+        "active": false,
         "date_updated": 1786633866,
         "date_posted": 1786579200,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1-Imaging_R4044274-1",
@@ -379030,7 +379030,7 @@
         "company_name": "Generalist",
         "id": "f9f2cebd-99be-4085-8ca2-1cb15bb33f37",
         "title": "Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787681701,
         "date_posted": 1781168788,
         "url": "https://jobs.ashbyhq.com/generalist/6d0698f0-6669-4100-9129-494e8088da48/application?embed=true",
@@ -379748,7 +379748,7 @@
         "company_name": "Micron Technology",
         "id": "1ab64208-6dc5-42b3-8f44-b12675e50c49",
         "title": "System Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1787704022,
         "date_posted": 1787616000,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/New-College-Grad---System-Software-Engineer_JR109291",
@@ -381452,5 +381452,328 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anduril",
+        "id": "ad7fc6cf-4649-4523-8f4a-2b113297ea41",
+        "title": "Agentic AI Engineer - Automation",
+        "active": true,
+        "date_updated": 1787783041,
+        "date_posted": 1787782878,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219383007",
+        "locations": [
+            "Costa Mesa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RPI Group Inc",
+        "id": "a429107c-fdee-4a52-8ebb-adf2047ace94",
+        "title": "Research Analyst - Navy Support - Early-Career Opportunity",
+        "active": true,
+        "date_updated": 1787782683,
+        "date_posted": 1787782592,
+        "url": "https://rpigroup.applytojob.com/apply/M4AdVkLe6I/Research-Analyst-Navy-Support-EarlyCareer-Opportunity",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/RPI-Group-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Domino's",
+        "id": "5a334443-9d0a-4ac3-a774-3989f12d55f3",
+        "title": "Technology Rotation Program - Multiple Teams",
+        "active": true,
+        "date_updated": 1787782683,
+        "date_posted": 1787782452,
+        "url": "https://jobs.smartrecruiters.com/Dominos/744000145812178",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Dominos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salesforce",
+        "id": "3a25150a-382f-458a-8c79-deb248a24749",
+        "title": "AI Builder - Emerging Talent",
+        "active": true,
+        "date_updated": 1787782594,
+        "date_posted": 1787702400,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR357678",
+        "locations": [
+            "SF",
+            "McLean, VA",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ALTEN Technology",
+        "id": "bb76f9d7-7691-4604-a0ba-f56ed21f3110",
+        "title": "Senior HiL Test Engineer - Automotive",
+        "active": true,
+        "date_updated": 1787782400,
+        "date_posted": 1787781941,
+        "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5223082007",
+        "locations": [
+            "Dearborn, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/ALTEN-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "47d6ab1d-f010-4d65-9d39-d7e1d1ba81e8",
+        "title": "Geoscientist",
+        "active": true,
+        "date_updated": 1787782143,
+        "date_posted": 1787782103,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000145777669",
+        "locations": [
+            "Burnaby, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "8c97b8d5-94b5-4ecf-ac2a-134ff0e3a3da",
+        "title": "AI/ML Research Engineer",
+        "active": true,
+        "date_updated": 1787782128,
+        "date_posted": 1787781888,
+        "url": "https://careers.jhuapl.edu/jobs/59548?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Walt Disney Company",
+        "id": "a5097a0a-6ce3-4617-b4e0-b214eec284bb",
+        "title": "Software Engineer 1 - Rights & Accounting",
+        "active": true,
+        "date_updated": 1787782127,
+        "date_posted": 1787702400,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Software-Engineer-I_10158076-2",
+        "locations": [
+            "Glendale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Bridgewater Associates",
+        "id": "bbfd547f-84e0-4194-8f94-d9fd13af41da",
+        "title": "Trading Associate",
+        "active": true,
+        "date_updated": 1787781963,
+        "date_posted": 1787781886,
+        "url": "https://job-boards.greenhouse.io/bwaltpostings/jobs/8750719002",
+        "locations": [
+            "Westport, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Bridgewater-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "BestEx Research",
+        "id": "0dcc5662-3e2f-46d3-ba5f-bd817118855d",
+        "title": "Algorithmic Trading Analyst",
+        "active": true,
+        "date_updated": 1787781803,
+        "date_posted": 1787781696,
+        "url": "https://apply.workable.com/bestex-research/j/AE65B49EA3/apply",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/BestEx-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CCT",
+        "id": "f0737972-1ca9-4180-ba53-d1dd5f38f723",
+        "title": "Technical Consultant - Early Careers",
+        "active": true,
+        "date_updated": 1787781601,
+        "date_posted": 1787781514,
+        "url": "https://jobs.lever.co/casino-cash-trac/7ce28efa-000e-4848-9972-ade20d8694a1/apply",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/CCT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Aerospace Corporation",
+        "id": "96abcfae-3ddc-401b-b860-9f8c4532d8f5",
+        "title": "Technical Specialist - Electronics II",
+        "active": true,
+        "date_updated": 1787781601,
+        "date_posted": 1787702400,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Technical-Specialist---Electronics-II_R016195",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NCR Voyix",
+        "id": "c644bb00-7db2-4b44-9656-0d2f81f01bd1",
+        "title": "Field Service Technician",
+        "active": true,
+        "date_updated": 1787781601,
+        "date_posted": 1787342252,
+        "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/WISCONSIN-VIRTUAL-USA/Field-Service-Technician---Chicago-IL_JR2604078",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/NCR-Voyix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CFA Institute",
+        "id": "465b05ca-8447-4ec4-aaef-97a2ced72fdc",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1787781601,
+        "date_posted": 1787702400,
+        "url": "https://osv-cfainstitute.wd5.myworkdayjobs.com/Careers/job/Remote---VA/Data-Analyst_R-2434",
+        "locations": [
+            "Virginia"
+        ],
+        "company_url": "https://simplify.jobs/c/CFA-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TeleTracking",
+        "id": "aa9c2e24-8baf-48cc-92ec-a9624e201b7e",
+        "title": "Software Engineer 1 - Logistics Engineering",
+        "active": true,
+        "date_updated": 1787781759,
+        "date_posted": 1787772638,
+        "url": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5397299008",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/TeleTracking",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Solace Health",
+        "id": "ac196601-546c-4f9a-b2b4-dc108435d940",
+        "title": "Senior Associate Product Manager",
+        "active": true,
+        "date_updated": 1787781715,
+        "date_posted": 1787704132,
+        "url": "https://jobs.ashbyhq.com/solace/fffa0e2e-e92f-4e00-bd9f-cb39049b7934/application?embed=true",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Solace-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
