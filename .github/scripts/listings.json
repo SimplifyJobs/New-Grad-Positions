@@ -288326,7 +288326,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -321370,7 +321370,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
@@ -321392,7 +321392,7 @@
         "company_name": "NVIDIA",
         "id": "30612f5b-226b-4ab8-9610-ae2ae82ca2a0",
         "title": "Developer Technology Engineer New Grad - Public Sector",
-        "active": true,
+        "active": false,
         "date_updated": 1784760166,
         "date_posted": 1784758590,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
@@ -343476,7 +343476,7 @@
         "company_name": "Solace Health",
         "id": "a685622a-4b63-48aa-ada0-461b37b4d1ad",
         "title": "Associate Product Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1786055850,
         "date_posted": 1786054661,
         "url": "https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f/application?embed=true",
@@ -343496,7 +343496,7 @@
         "company_name": "Solace Health",
         "id": "486661c3-e797-48f7-baad-dcdb88e75608",
         "title": "Associate Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1786055836,
         "date_posted": 1786054660,
         "url": "https://jobs.ashbyhq.com/solace/ee8ee239-ad20-4c1e-868d-3357799589ea/application?embed=true",
@@ -373348,7 +373348,7 @@
         "company_name": "T-Mobile",
         "id": "44bc6e09-0159-4bad-863f-c6a1f1726ca6",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787274901,
         "date_posted": 1787184000,
         "url": "https://tmobile.wd1.myworkdayjobs.com/contractorconversion/job/Frisco-Texas/Associate-Software-Engineer_REQ364465",
@@ -375411,7 +375411,7 @@
         "company_name": "Stratolaunch",
         "id": "0737e499-ee05-4061-a1e0-36e7edd18dc7",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787351761,
         "date_posted": 1785969253,
         "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5381049008",
@@ -380446,6 +380446,131 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "f3037d73-79f8-4a62-8699-7aa72f598e50",
+        "title": "Data Engineer Graduate - Data Platform E-commerce",
+        "active": true,
+        "date_updated": 1787704561,
+        "date_posted": 1787704449,
+        "url": "https://lifeattiktok.com/search/7676253726624024837",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "014a66bd-015e-44a4-9b1a-32d3b69c73ca",
+        "title": "Data Engineer Graduate - Data Platform Global Live",
+        "active": true,
+        "date_updated": 1787704561,
+        "date_posted": 1787704445,
+        "url": "https://lifeattiktok.com/search/7678120538997098805",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "D-Wave Quantum",
+        "id": "81dd9e68-82e0-4042-a97f-ce2f429a825f",
+        "title": "Software Engineer 1 - Systems Software Engineering",
+        "active": true,
+        "date_updated": 1787704304,
+        "date_posted": 1787704132,
+        "url": "https://ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06",
+        "locations": [
+            "New Haven, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/D-Wave-Quantum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kaiser Permanente",
+        "id": "16bba879-2f7c-4b44-9d6b-f57a78ac8ee9",
+        "title": "Utilization Analyst",
+        "active": true,
+        "date_updated": 1787704201,
+        "date_posted": 1787704061,
+        "url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1424632",
+        "locations": [
+            "Downey, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kaiser-Permanente",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "be001f88-4df5-4cc7-be0e-2ef836029012",
+        "title": "Engineering Technician / Electrical Assembly 1",
+        "active": true,
+        "date_updated": 1787704201,
+        "date_posted": 1787703766,
+        "url": "https://jobs.l3harris.com/job/Rochester-Engineering-Technician-Electrical-Assembly-1-NY-14606/1422965500/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northrop Grumman",
+        "id": "7ad350a0-3160-4238-9f30-a0080ea31e97",
+        "title": "Associate Configuration Analyst - Aht",
+        "active": true,
+        "date_updated": 1787704202,
+        "date_posted": 1787616000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Associate-Configuration-Analyst---Chandler-AZ--AHT-_R10247748",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
