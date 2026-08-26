@@ -296705,7 +296705,7 @@
         "company_name": "L3Harris Technologies",
         "id": "85a549ad-cef1-458b-b15e-382ac68ad136",
         "title": "Associate \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784556901,
         "date_posted": 1784556347,
         "url": "https://jobs.l3harris.com/job/Yorba-Linda-Associate,-Software-Engineer-CA-92887/1410487500/?ats=successfactors",
@@ -380611,6 +380611,42 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Vigil-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CrowdGen by Appen",
+        "id": "d519541f-6c0b-4028-a651-bf9bd099c8b5",
+        "title": "Gig Worker",
+        "active": true,
+        "date_updated": 1787734982,
+        "date_posted": 1787734732,
+        "url": "https://jobs.lever.co/appen/42fcca1d-361a-4e5b-89a0-efaadabe3e6f/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CrowdGen-By-Appen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "4313018c-b18f-43d6-93e3-df7efe66ba77",
+        "title": "Data Collection Operator - Optimus",
+        "active": true,
+        "date_updated": 1787736107,
+        "date_posted": 1785593848,
+        "url": "https://www.tesla.com/careers/search/job/270213",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
