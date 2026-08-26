@@ -73,348 +73,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "JP Morgan Chase",
-        "id": "525d4edd-ae18-4edb-bab8-8f049be7ebc2",
-        "title": "Trading Services Analyst",
-        "active": false,
-        "date_updated": 1767029304,
-        "date_posted": 1767029304,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210688478",
-        "locations": [
-            "Christchurch, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Fanatics",
-        "id": "2af842af-f728-42fb-8200-c0306eb081b0",
-        "title": "Quantitative Analyst 1",
-        "active": true,
-        "date_updated": 1767029288,
-        "date_posted": 1767029288,
-        "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26076",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Fanatics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "fb7d3cf8-e75f-41cb-83c0-e0b9b10e73a8",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767029228,
-        "date_posted": 1767029228,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044165",
-        "locations": [
-            "Northamptonshire, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f47c6b7c-fca6-4199-82ac-5e37afc5839c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767029221,
-        "date_posted": 1767029221,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044142",
-        "locations": [
-            "Moreton, Greasby, Wirral, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e7a87ad4-e3f2-4038-a5cb-521967508835",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767029219,
-        "date_posted": 1767029219,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044154",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "c69cf1c3-58be-45d8-8319-8597a7b6413a",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767029222,
-        "date_posted": 1767029222,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044206",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "c69c95e5-9e50-4942-958d-7cceb623e307",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767029218,
-        "date_posted": 1767029218,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044209",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a9628f3d-0d7c-4ca4-a1dd-06c389a6532e",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767029227,
-        "date_posted": 1767029227,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044173",
-        "locations": [
-            "York, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "99a8bd63-40b2-4080-ae0f-908e6d4c4c01",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767029227,
-        "date_posted": 1767029227,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044172",
-        "locations": [
-            "Northamptonshire, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5aa5d616-d944-4c8a-b2d8-564ed42fe73b",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767029220,
-        "date_posted": 1767029220,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044185",
-        "locations": [
-            "York, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "553597a7-50f6-4244-a9ed-732fb606ec1a",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767029221,
-        "date_posted": 1767029221,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044168",
-        "locations": [
-            "York, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "501a1d31-a433-408e-a782-0294bdbe1574",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767029220,
-        "date_posted": 1767029220,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044204",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "44835f7f-e597-480f-baff-452ccdc12cca",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767029221,
-        "date_posted": 1767029221,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044133",
-        "locations": [
-            "Moreton, Greasby, Wirral, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3bd10ed7-9cb5-4e59-bb3c-625aa0238dea",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767029220,
-        "date_posted": 1767029220,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044163",
-        "locations": [
-            "York, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "369261ed-3be4-4a19-bd6f-465a9d528da7",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767029219,
-        "date_posted": 1767029219,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044146",
-        "locations": [
-            "Rugby, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2826aee7-447a-486d-967c-c6ea14524529",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767029220,
-        "date_posted": 1767029220,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044169",
-        "locations": [
-            "Southampton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2682f2e4-6d22-4430-9dc0-99045aae5372",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767029225,
-        "date_posted": 1767029225,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044176",
-        "locations": [
-            "Northamptonshire, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "21eb7378-9c60-4db4-ab8e-6e596c60f4c0",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767029221,
-        "date_posted": 1767029221,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044179",
-        "locations": [
-            "Northamptonshire, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0eb0622b-a27c-497d-a95b-7eea288fe7b8",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767029221,
-        "date_posted": 1767029221,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044156",
-        "locations": [
-            "York, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Peraton",
         "id": "6d9eef74-1b50-45ad-825a-2d9282b69d4f",
@@ -468,24 +126,6 @@
             "Sacramento, CA"
         ],
         "company_url": "https://simplify.jobs/c/American-Institutes-For-Research",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "740ed01a-a6a1-4ce6-b710-904d1e619dde",
-        "title": "Associate \u2013 Test Systems Engineer - Salt Lake City - UT",
-        "active": false,
-        "date_updated": 1767029130,
-        "date_posted": 1767029130,
-        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Test-Systems-Engineer-(Salt-Lake-City,-UT)-UT-84117/1352227200/?ats=successfactors",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -201464,7 +201104,7 @@
         "company_name": "Cox",
         "id": "40955085-af36-47cc-9be4-e7ee3a1ead92",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778797441,
         "date_posted": 1778796572,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202677231",
@@ -318213,7 +317853,7 @@
         "company_name": "EquipmentShare",
         "id": "a7ea5048-fac2-42e9-a7b7-646fe17e5f28",
         "title": "Telematics Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1785194281,
         "date_posted": 1785191671,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8089501",
@@ -370813,7 +370453,7 @@
         "company_name": "Howmet Aerospace",
         "id": "5dadacce-9d03-47c0-bdfd-2b67dfc21892",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1787179501,
         "date_posted": 1787179343,
         "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119035",
@@ -381202,5 +380842,142 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "United Launch Alliance",
+        "id": "242a72e5-306f-4aee-83bf-394d30551f34",
+        "title": "Embedded Flight Software Engineer 1",
+        "active": true,
+        "date_updated": 1787765042,
+        "date_posted": 1787764994,
+        "url": "https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1423541600/?ats=successfactors",
+        "locations": [
+            "Centennial, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Launch-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jefferson County Colorado",
+        "id": "a7773a55-d98c-4dc4-852c-a91ad91e5e94",
+        "title": "Generative AI Innovation Fellow",
+        "active": true,
+        "date_updated": 1787764926,
+        "date_posted": 1787702400,
+        "url": "https://jefferson.wd5.myworkdayjobs.com/external/job/Golden/Innovation-Fellow--Generative-AI-_R-10324",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Jefferson-County-Colorado",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox Automotive",
+        "id": "2ed80b78-d184-4d1d-b9c2-7150eb9067c2",
+        "title": "Entry Level Software Engineer - Draper, UT",
+        "active": true,
+        "date_updated": 1787763961,
+        "date_posted": 1787702400,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202681804",
+        "locations": [
+            "Draper, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox-Automotive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "cb929b45-7b3b-46fa-9933-c362213d4e65",
+        "title": "Stacking Assembler",
+        "active": true,
+        "date_updated": 1787763781,
+        "date_posted": 1787702400,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/Stacking-Assembler_REQ36102",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Teledyne",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "c2e2f7ef-3469-446d-a35a-b0a767e0683e",
+        "title": "Stacking Assembler",
+        "active": true,
+        "date_updated": 1787763781,
+        "date_posted": 1787702400,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/Stacking-Assembler_REQ36012-1",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Teledyne",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "66ee3d72-321b-48a0-9cb0-41117e7fb933",
+        "title": "Assembler",
+        "active": true,
+        "date_updated": 1787763781,
+        "date_posted": 1787702400,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/Assembler_REQ36180",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Teledyne",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "7a614b8e-eeeb-467f-a654-af659a1021c7",
+        "title": "Electrical Engineer New Grad - DRAM Design Engineering",
+        "active": true,
+        "date_updated": 1787763895,
+        "date_posted": 1787702400,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---DRAM-Design-Engineer_JR109572",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
