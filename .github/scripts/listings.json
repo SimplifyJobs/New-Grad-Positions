@@ -381058,5 +381058,66 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NewRocket",
+        "id": "7eb1feaf-2674-4186-8e2b-9988a4887949",
+        "title": "AI Engineer Graduate Level",
+        "active": true,
+        "date_updated": 1787757682,
+        "date_posted": 1787757655,
+        "url": "https://www.newrocket.com/careers/job?gh_jid=6163544004&gh_jid=6163544004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/NewRocket",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NewRocket",
+        "id": "6a8aa902-c0c5-40aa-9ce5-de89012320d0",
+        "title": "AI Engineer - Anthropic",
+        "active": true,
+        "date_updated": 1787757689,
+        "date_posted": 1787757655,
+        "url": "https://www.newrocket.com/careers/job?gh_jid=6163518004&gh_jid=6163518004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/NewRocket",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Aflac",
+        "id": "2c4cd783-a87f-4ae3-a4b9-d3197edaf47e",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1787757301,
+        "date_posted": 1787757243,
+        "url": "https://careers.aflac.com/job/Remote-Data-Analyst-31999/1423406100/?ats=successfactors",
+        "locations": [
+            "Remote in USA",
+            "Georgia"
+        ],
+        "company_url": "https://simplify.jobs/c/Aflac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
