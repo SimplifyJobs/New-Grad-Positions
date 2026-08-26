@@ -2375,24 +2375,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Uhaul",
-        "id": "e4baf1da-64b3-485e-a152-f26a0d801bb5",
-        "title": "Hitch Installer-1",
-        "active": false,
-        "date_updated": 1766975965,
-        "date_posted": 1766975965,
-        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Englewood-Colorado/Hitch-Installer-1_R229612",
-        "locations": [
-            "Cherry Hills Village, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Uhaul",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "ChargePoint",
         "id": "895112cb-5977-4000-a5e4-3bcce4893b3c",
         "title": "Engineering Technician",
@@ -370584,7 +370566,7 @@
         "company_name": "HCA Healthcare UK",
         "id": "4fb8de3c-e887-45a4-ba40-d9582d68cc5d",
         "title": "Data Quality Assistant - Quality Systems and Credentialling",
-        "active": true,
+        "active": false,
         "date_updated": 1787177701,
         "date_posted": 1787097600,
         "url": "https://wd3.myworkdaysite.com/recruiting/hcahealthcare/hcacareers/job/Corporate/Data-Quality-Assistant_0053610",
