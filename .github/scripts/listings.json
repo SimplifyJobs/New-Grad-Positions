@@ -306501,7 +306501,7 @@
         "company_name": "Castleton Commodities International",
         "id": "45dea49f-578f-44df-9362-daf85538719f",
         "title": "Commodities Trading Rotational Analyst Program",
-        "active": true,
+        "active": false,
         "date_updated": 1784683998,
         "date_posted": 1784592000,
         "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/Commodities-Trading-Rotational-Analyst-Program--Summer-2027-Start-_R1332-1",
@@ -335545,7 +335545,7 @@
         "company_name": "Axcelis Technologies, Inc.",
         "id": "633156a6-e3a5-4140-a8d0-87a292d40cbb",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785797852,
         "date_posted": 1784160000,
         "url": "https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Boise-ID/Field-Service-Eng-Boise-ID_11878",
@@ -366033,7 +366033,7 @@
         "company_name": "GE Aerospace",
         "id": "58d874ef-419b-49af-855a-a5369d3ac271",
         "title": "Production Assembler - 1st shift",
-        "active": true,
+        "active": false,
         "date_updated": 1787034421,
         "date_posted": 1787011200,
         "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Jacksonville/Production-Assembler---1st-shift_R5038790",
@@ -380321,7 +380321,7 @@
         "company_name": "SageSure",
         "id": "4ba0c07b-fb0d-42f1-9367-c4fb315d4364",
         "title": "Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1787703677,
         "date_posted": 1787703647,
         "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4707269006",
@@ -381037,5 +381037,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Oklahoma State Government",
+        "id": "e48536e1-ab9e-4515-ad9d-1c4cc770917c",
+        "title": "Environmental Programs Specialist - Air Quality - Emissions Inventory",
+        "active": true,
+        "date_updated": 1787754988,
+        "date_posted": 1787702400,
+        "url": "https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/Environmental-Programs-Specialist_JR64437",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Oklahoma-State-Government",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
