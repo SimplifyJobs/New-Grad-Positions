@@ -55,141 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5a132526-b2c0-4178-adc2-5438e8099f00",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767029917,
-        "date_posted": 1767029917,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044170",
-        "locations": [
-            "Northamptonshire, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Peraton",
-        "id": "6d9eef74-1b50-45ad-825a-2d9282b69d4f",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1767030027,
-        "date_posted": 1767030027,
-        "url": "https://careers-peraton.icims.com/jobs/162269/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Hill AFB, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "MUFG",
-        "id": "de029ee8-2ee1-44b1-b2e7-73f20d55d87b",
-        "title": "Machine Learning Engineer - Data Pipelines",
-        "active": false,
-        "date_updated": 1767030923,
-        "date_posted": 1767030923,
-        "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Machine-Learning-Engineer---Data-Pipelines--Analyst_10074067-WD",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/MUFG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "American Institutes for Research",
-        "id": "a8986370-14ab-4b09-a1b0-7249b3c14f0e",
-        "title": "Data Scientist Assistant",
-        "active": false,
-        "date_updated": 1767030927,
-        "date_posted": 1767030927,
-        "url": "https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5046338008",
-        "locations": [
-            "Carrboro, NC",
-            "Austin, TX",
-            "Remote in USA",
-            "Chicago, IL",
-            "Arlington, VA",
-            "Sacramento, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Institutes-For-Research",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GE Vernova",
-        "id": "cb921a38-09c7-4a03-b137-476a89fe7cfd",
-        "title": "Post Doc \u2013 Advanced Computational Methods & Simulation",
-        "active": false,
-        "date_updated": 1767030316,
-        "date_posted": 1767030316,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Post-Doc---Advanced-Computational-Methods---Simulation_R5021476-1",
-        "locations": [
-            "Schenectady, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Sentry Insurance",
-        "id": "3bec9af6-7462-4922-92d8-d2f327a39975",
-        "title": "Business Product Analyst-Personal Lines",
-        "active": false,
-        "date_updated": 1767029884,
-        "date_posted": 1767029884,
-        "url": "https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Madison-WI/Business-Product-Analyst-Personal-Lines_JR-140929",
-        "locations": [
-            "Plover, WI",
-            "Madison, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/782e6c3f-aff3-4aed-9d50-50676cb8ed7f",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citi",
-        "id": "2ea68e3f-6b01-4991-a8b2-add68785890f",
-        "title": "Applications Development Intermediate Programmer Analyst",
-        "active": false,
-        "date_updated": 1767030254,
-        "date_posted": 1767030254,
-        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Apps-Dev-Intmd-Programmer-Analyst---Officer_25926282",
-        "locations": [
-            "Tampa, FL",
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Citigroup",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Hitachi",
         "id": "d40771f1-016f-4bbb-b0b2-dd991349bbba",
@@ -18996,24 +18861,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Zeiss",
-        "id": "8ca5a0f0-06d4-49d2-8a99-933612d84e5f",
-        "title": "Field Support Engineer 2",
-        "active": false,
-        "date_updated": 1768564470,
-        "date_posted": 1767031094,
-        "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-MO/Field-Support-Engineer-II_JR_1046058",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Zeiss",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -286151,7 +285998,7 @@
         "company_name": "xAI",
         "id": "b3876b2d-c196-46fb-96c4-bbb3e767c0b0",
         "title": "Software Engineer - Ads Product",
-        "active": true,
+        "active": false,
         "date_updated": 1783981441,
         "date_posted": 1780363118,
         "url": "https://job-boards.greenhouse.io/xai/jobs/5152408007",
@@ -315384,7 +315231,7 @@
         "company_name": "Volaris Group",
         "id": "aad57fdf-2d09-4217-9e58-26594fe974db",
         "title": "Software Developer 1 - Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784932314,
         "date_posted": 1784851200,
         "url": "https://volarisgroup.wd3.myworkdayjobs.com/volaris/job/United-States---Worcester-MA/Software-Developer-I--Analyst-_R70138-1",
@@ -362318,7 +362165,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -362357,7 +362204,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -362396,7 +362243,7 @@
         "company_name": "Applied Intuition",
         "id": "5e2b041d-3b5b-414f-8491-242be06bf425",
         "title": "Scenario Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1786768264,
         "date_posted": 1786768160,
         "url": "https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true",
@@ -362416,7 +362263,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -362720,7 +362567,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -373772,7 +373619,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "5ccced66-9142-4b34-b707-ac2de7ec911c",
         "title": "Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787334876,
         "date_posted": 1787334524,
         "url": "https://careers-gdms.icims.com/jobs/74470/job?mobile=true&needsRedirect=false",
@@ -380978,6 +380825,46 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "e803a253-ad43-430d-8733-10417d031d02",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1787766121,
+        "date_posted": 1787765949,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8157860",
+        "locations": [
+            "Port Allen, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "O'Reilly Auto Parts",
+        "id": "0897164b-3e59-470f-acf6-7c040c6363bc",
+        "title": "Product Analyst 1 - Catalog Content",
+        "active": true,
+        "date_updated": 1787765800,
+        "date_posted": 1787702400,
+        "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Headquarters/Product-Analyst-I--Catalog-Content_R198742",
+        "locations": [
+            "Springfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/OReilly-Auto-Parts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
