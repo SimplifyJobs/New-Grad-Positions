@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sainsbury's",
-        "id": "3c76577c-d783-412b-b8da-88f031b793be",
-        "title": "Associate Analyst",
-        "active": false,
-        "date_updated": 1767004906,
-        "date_posted": 1767004906,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043439",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "5a132526-b2c0-4178-adc2-5438e8099f00",
@@ -380668,5 +380650,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Carrier Global",
+        "id": "866d124f-5ad9-4d91-ba5e-4afce14b8550",
+        "title": "Digital Technology Leadership Program",
+        "active": true,
+        "date_updated": 1787740561,
+        "date_posted": 1787529600,
+        "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Digital-Technology-Leadership-Program_30216139",
+        "locations": [
+            "Palm Beach Gardens, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Carrier-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
