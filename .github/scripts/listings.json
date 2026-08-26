@@ -133935,7 +133935,7 @@
         "company_name": "True Anomaly",
         "id": "915034b3-03ad-47dc-981c-25532141221f",
         "title": "Software Engineer 1 - Full Stack",
-        "active": false,
+        "active": true,
         "date_updated": 1774732343,
         "date_posted": 1774649741,
         "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007",
@@ -239821,7 +239821,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "5af1930e-294c-4e12-a3e1-63d14ca38c09",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781100615,
         "date_posted": 1781100260,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Maryland-USA/Field-Service-Engineer-I_R-01354100-1",
@@ -362714,7 +362714,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -362753,7 +362753,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -362812,7 +362812,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -362830,7 +362830,7 @@
         "company_name": "AstraZeneca",
         "id": "0796306e-88e8-47d9-90fc-d60dff210cfc",
         "title": "Senior Applied AI & ML Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786783681,
         "date_posted": 1786406400,
         "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/UK---London/Senior-Applied-AI---ML-Engineer---Evinova_R-257950-1",
@@ -363116,7 +363116,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -376899,7 +376899,7 @@
         "company_name": "BDO Canada",
         "id": "ef01aba1-83b9-4bb2-ae96-336e6dc52f09",
         "title": "Junior Data Analyst - People Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1787603245,
         "date_posted": 1787529600,
         "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Wellington-St/Junior-Data-Analyst--People-Analytics_JR6894",
@@ -380193,5 +380193,263 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TRUCKING PEOPLE",
+        "id": "707b0824-7c02-4f4e-874d-f92052575561",
+        "title": "Data Capture Technician - AI & Construction",
+        "active": true,
+        "date_updated": 1787704175,
+        "date_posted": 1787703931,
+        "url": "https://truckingpeople.applytojob.com/apply/Q0rXW8gckn/PARTTIME-DATA-CAPTURE-TECHNICIAN-AI-CONSTRUCTION",
+        "locations": [
+            "Turkey, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/TRUCKING-PEOPLE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox Automotive",
+        "id": "72746436-f86c-473c-be29-91efd6fe9c8c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "date_updated": 1787704159,
+        "date_posted": 1787616000,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Entry-Level-Software-Engineer--Burlington--VT-_R202681784",
+        "locations": [
+            "Burlington, VT"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox-Automotive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "L3Harris Technologies",
+        "id": "cdf2ec2a-ae0d-4c4d-b7ed-06a9be1c2be2",
+        "title": "Senior Associate - Artificial Intelligence",
+        "active": true,
+        "date_updated": 1787704036,
+        "date_posted": 1787703772,
+        "url": "https://jobs.l3harris.com/job/Rochester-Sr_-Associate,-Artificial-Intelligence-NY-14624/1423107000/?ats=successfactors",
+        "locations": [
+            "Rochester, NY",
+            "Chantilly, VA",
+            "Tallahassee, FL",
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johnson Controls",
+        "id": "ac5333f3-3dc1-4c69-a8c6-98c1d6d44d45",
+        "title": "Assembly Technician",
+        "active": true,
+        "date_updated": 1787704056,
+        "date_posted": 1787616000,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Salem-Virginia-United-States-of-America/Assembly-Technician_WD30278189",
+        "locations": [
+            "Salem, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "7219b946-303f-467f-a812-6f215e1e9c0e",
+        "title": "Software Engineer Associate",
+        "active": true,
+        "date_updated": 1787704030,
+        "date_posted": 1787703761,
+        "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1422892000/?ats=successfactors",
+        "locations": [
+            "Palm Bay, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Micron Technology",
+        "id": "1ab64208-6dc5-42b3-8f44-b12675e50c49",
+        "title": "System Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1787704022,
+        "date_posted": 1787616000,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/New-College-Grad---System-Software-Engineer_JR109291",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "dbef86f9-fcbd-4750-b16a-e8062c8541bf",
+        "title": "Embedded Firmware Engineer New Grad",
+        "active": true,
+        "date_updated": 1787704006,
+        "date_posted": 1787616000,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/New-College-Grad---Embedded-Firmware-Engineer_JR109306",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Aerospace Corporation",
+        "id": "d11c38c7-6d39-4b6e-bd2e-872c3bd4f2c5",
+        "title": "Unity Developer - Information Systems and Cyber Division - Engineering Applications Department",
+        "active": true,
+        "date_updated": 1787704001,
+        "date_posted": 1787616000,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Unity-Developer_R016244",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SageSure",
+        "id": "4ba0c07b-fb0d-42f1-9367-c4fb315d4364",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1787703677,
+        "date_posted": 1787703647,
+        "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4707269006",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/SageSure-Insurance-Managers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "True Anomaly",
+        "id": "f5899221-db12-4026-a976-4ea6742899cc",
+        "title": "Software Engineer 1 New Grad - Perception",
+        "active": true,
+        "date_updated": 1787703766,
+        "date_posted": 1787703591,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007",
+        "locations": [
+            "Long Beach, CA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/TrueAnomaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Hilton Worldwide",
+        "id": "3f8094e9-85cc-45af-9147-882df0bfcd9f",
+        "title": "Cook",
+        "active": true,
+        "date_updated": 1787702624,
+        "date_posted": 1787702522,
+        "url": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/220697",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hilton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Anheuser-Busch",
+        "id": "cc0832b1-281d-44f0-b769-b9c7a0c3bb0c",
+        "title": "Data Scientist - AI & ML",
+        "active": true,
+        "date_updated": 1787702441,
+        "date_posted": 1787616000,
+        "url": "https://abinbev.wd1.myworkdayjobs.com/en-US/USA/job/St-Louis-Missouri/Data-Scientist--AI---ML_30102964",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Anheuser-Busch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astranis",
+        "id": "d5cec203-67b4-4970-8718-20bdbbe30e43",
+        "title": "Radiation Effects Associate Engineer",
+        "active": true,
+        "date_updated": 1787703121,
+        "date_posted": 1783388321,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4694883006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
