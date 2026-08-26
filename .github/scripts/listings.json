@@ -276901,7 +276901,7 @@
         "company_name": "Citadel",
         "id": "66cb9e6f-2e5e-4fab-be1b-bf612ad91a02",
         "title": "Quantitative Trader: Equity Quantitative Research \u2013 University Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1783433881,
         "date_posted": 1783433322,
         "url": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/",
@@ -342808,7 +342808,7 @@
         "company_name": "Atoms",
         "id": "5b58ae21-c56b-47a7-92cd-cfae937732a1",
         "title": "Software Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1786055071,
         "date_posted": 1786054249,
         "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687930002",
@@ -381114,6 +381114,68 @@
             "Georgia"
         ],
         "company_url": "https://simplify.jobs/c/Aflac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Viavi Solutions",
+        "id": "ebce0ffb-1748-4999-b952-a7dbc9f36aae",
+        "title": "Development Engineer Intern - Software Engineering/AI Track",
+        "active": true,
+        "date_updated": 1787759312,
+        "date_posted": 1787702400,
+        "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Viavi-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Viavi Solutions",
+        "id": "bf9c69e7-fff4-453c-ba04-3b0a7f1bc733",
+        "title": "Development Engineer - Software Engineering/AI Track",
+        "active": true,
+        "date_updated": 1787759314,
+        "date_posted": 1787702400,
+        "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Viavi-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "63d19d89-7015-4d97-8899-336d69fd2ea4",
+        "title": "Data Science Associate",
+        "active": true,
+        "date_updated": 1787759331,
+        "date_posted": 1787702400,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Associate_R_1506342",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
