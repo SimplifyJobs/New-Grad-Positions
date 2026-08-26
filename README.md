@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 398 New Grad Roles by Category
+### Browse 397 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (222)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (221)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (6)
 
@@ -154,13 +154,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>System Software Engineer New Grad</td>
 <td>Boise, ID</td>
 <td><div align="center"><a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/New-College-Grad---System-Software-Engineer_JR109291?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1ab64208-6dc5-42b3-8f44-b12675e50c49?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Fidelity-Investments?utm_source=GHList&utm_medium=company">Fidelity Investments</a></strong></td>
-<td>Software Engineer New Grad - LEAP</td>
-<td>Westlake, TX</br>Merrimack, NH</td>
-<td><div align="center"><a href="https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/XMLNAME-2026-Undergraduate---LEAP--Software-Engineer_2134380?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/501a5d9d-54bb-4a8b-a3a5-2c6efd18d963?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>1d</td>
 </tr>
 <tr>
@@ -1638,7 +1631,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1222)</summary>
+<summary>🗃️ Inactive roles (1223)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1657,6 +1650,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><details><summary><strong>4 locations</strong></summary>Austin, TX</br>Dallas, TX</br>Chicago, IL</br>NYC</details></td>
 <td>🔒</td>
 <td>0d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Fidelity-Investments?utm_source=GHList&utm_medium=company">Fidelity Investments</a></strong></td>
+<td>Software Engineer New Grad - LEAP</td>
+<td>Westlake, TX</br>Merrimack, NH</td>
+<td>🔒</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TraceLink?utm_source=GHList&utm_medium=company">TraceLink</a></strong></td>
