@@ -240589,7 +240589,7 @@
         "company_name": "Nokia",
         "id": "588b3d57-6384-4014-b5df-5d12aeadc993",
         "title": "Semi Mfg Technician 2",
-        "active": true,
+        "active": false,
         "date_updated": 1781167681,
         "date_posted": 1779267692,
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36265",
