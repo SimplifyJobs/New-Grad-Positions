@@ -131147,7 +131147,7 @@
         "company_name": "Vertiv",
         "id": "26d252c8-a59d-4099-ac07-d686029d3566",
         "title": "Calibration Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1774534797,
         "date_posted": 1774534797,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20269344",
@@ -255499,7 +255499,7 @@
         "company_name": "Mendix",
         "id": "25232394-29df-44cb-b46f-e0a78b9da897",
         "title": "Application Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781907841,
         "date_posted": 1781906786,
         "url": "https://jobs.lever.co/mendix/acd9f6de-8c4a-4226-b5fc-c164ebe39760/apply",
@@ -275973,7 +275973,7 @@
         "company_name": "Northrop Grumman",
         "id": "8bd4da7c-8e98-44a4-8af8-a4fc17611671",
         "title": "Software Development Engineer - Level 2 or 3",
-        "active": true,
+        "active": false,
         "date_updated": 1783377661,
         "date_posted": 1783376313,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/Software-Development-Engineers--Level-2-or-3-_R10239034",
@@ -334762,7 +334762,7 @@
         "company_name": "Publicis Groupe",
         "id": "803d8891-e860-4410-bf30-3ced99f32414",
         "title": "Junior Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1785766323,
         "date_posted": 1785766251,
         "url": "https://careers.publicisgroupe.com/jobs/155621?icims=1",
@@ -362678,7 +362678,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -362717,7 +362717,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -362776,7 +362776,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -363080,7 +363080,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -378134,7 +378134,7 @@
         "company_name": "Applied Materials",
         "id": "bcf31ce3-d579-4237-bfb9-5c4d5805d590",
         "title": "Physicist/Scientist - Advanced Degree",
-        "active": true,
+        "active": false,
         "date_updated": 1787616564,
         "date_posted": 1787529600,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/Physicist-Scientist--Adv-Degree--Gloucester--MA_R2611455",
@@ -380665,6 +380665,224 @@
             "Palm Beach Gardens, FL"
         ],
         "company_url": "https://simplify.jobs/c/Carrier-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Spry Methods",
+        "id": "72a9c7ae-4f80-4a65-b2a0-b712fc89ee2f",
+        "title": "Intelligence Analyst 1",
+        "active": true,
+        "date_updated": 1787752442,
+        "date_posted": 1787752271,
+        "url": "https://jobs.lever.co/sprymethods/b29a3bda-aac6-4e45-83c5-089b5164a8fe/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Spry-Methods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boeing",
+        "id": "ee871fc2-a48b-4f6f-8b78-4f13099021ca",
+        "title": "Entry Level ASIC/FPGA Design Engineer - Space Electronics",
+        "active": true,
+        "date_updated": 1787752261,
+        "date_posted": 1787702400,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433-1",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boeing",
+        "id": "225c073c-c7cc-420b-a859-6c087a72388a",
+        "title": "Entry Level ASIC/FPGA Design Engineer - Space Electronics",
+        "active": true,
+        "date_updated": 1787752261,
+        "date_posted": 1787702400,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Scientific Games",
+        "id": "be3d979b-63eb-4f25-9562-ddb20049b611",
+        "title": "Field Service Technician 2",
+        "active": true,
+        "date_updated": 1787752391,
+        "date_posted": 1787702400,
+        "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Ohio-US/Field-Service-Tech-II_R505274",
+        "locations": [
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/Scientific-Games",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "811b5e57-74cf-4d86-a344-f1af5fbf2b31",
+        "title": "Electrical Assembler 1 - 2nd Shift",
+        "active": true,
+        "date_updated": 1787752381,
+        "date_posted": 1787702400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Electrical-Assembler-I---2nd-Shift_01869688",
+        "locations": [
+            "Manchester, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Adobe",
+        "id": "f5b93158-32b1-48be-8571-3b99ee653435",
+        "title": "Product Manager - B2B Expansion and Growth",
+        "active": true,
+        "date_updated": 1787752261,
+        "date_posted": 1787702400,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Edinburgh/Product-Manager--B2B-Expansion-and-Growth_R171460-1",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rochester Institute of Technology",
+        "id": "98cc0339-dbcb-44ab-ad89-790f2ee6fd87",
+        "title": "Crime Analyst - RIT College of Liberal Arts",
+        "active": true,
+        "date_updated": 1787752366,
+        "date_posted": 1787702400,
+        "url": "https://rit.wd12.myworkdayjobs.com/careers/job/Rochester-NY/GIVE-Crime-Analyst--RIT-College-of-Liberal-Arts_JR102529",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Rochester-Institute-Of-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "708de150-b11f-4875-88c4-d73fd53f2cac",
+        "title": "Software Engineer - Crypto and Cross Domain Solutions",
+        "active": true,
+        "date_updated": 1787752352,
+        "date_posted": 1787752072,
+        "url": "https://careers-gdms.icims.com/jobs/74514/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "83c45c64-d3e1-4b9a-88bf-39f4e4071568",
+        "title": "Enterprise AI & Data Solutions Leadership Program New Grad",
+        "active": true,
+        "date_updated": 1787752216,
+        "date_posted": 1787752072,
+        "url": "https://careers-gdms.icims.com/jobs/74519/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cummins",
+        "id": "57715dab-c267-4352-aa7c-5aca9054a182",
+        "title": "Product Engineer - Product Engineering",
+        "active": true,
+        "date_updated": 1787752081,
+        "date_posted": 1787751992,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435550",
+        "locations": [
+            "Rocky Mount, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Garmin",
+        "id": "6211e1d7-9948-415e-999f-e9abcd23ac10",
+        "title": "GIS/Cartography Technician 1",
+        "active": true,
+        "date_updated": 1787751901,
+        "date_posted": 1787751856,
+        "url": "https://careers.garmin.com/jobs/19720?icims=1",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
