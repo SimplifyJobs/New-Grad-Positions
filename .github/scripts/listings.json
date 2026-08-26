@@ -268601,7 +268601,7 @@
         "company_name": "Emory Healthcare",
         "id": "568d0223-8a99-430c-88c6-7b7dead047e0",
         "title": "Data Analyst 2 - Supply Chain",
-        "active": true,
+        "active": false,
         "date_updated": 1782956563,
         "date_posted": 1782955958,
         "url": "https://non-clinical-emory.icims.com/jobs/150075/job?hub=14&mobile=true&needsRedirect=false",
@@ -380888,5 +380888,154 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ocado Group",
+        "id": "e3c3148d-dbd6-4119-8953-00548ba0f6a0",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1787753722,
+        "date_posted": 1787753527,
+        "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=4960695101&gh_jid=4960695101",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ocado-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Keenfinity",
+        "id": "ac0fcf1b-7b15-45db-88c7-26e72ddf2047",
+        "title": "Associate DevOps Software Engineer",
+        "active": true,
+        "date_updated": 1787753603,
+        "date_posted": 1787753502,
+        "url": "https://jobs.smartrecruiters.com/Keenfinity/744000145726019",
+        "locations": [
+            "Fairport, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Keenfinity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "E2 Optics",
+        "id": "c0c90a66-4251-4629-8f07-54c74f1528a1",
+        "title": "Data Center Infrastructure Technician",
+        "active": true,
+        "date_updated": 1787753521,
+        "date_posted": 1787753386,
+        "url": "https://careers-e2optics.icims.com/jobs/3791/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/E2-Optics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "E2 Optics",
+        "id": "876dc998-389d-4dd5-8fc8-c2f64e394e2c",
+        "title": "Data Center Infrastructure Technician",
+        "active": true,
+        "date_updated": 1787753521,
+        "date_posted": 1787753387,
+        "url": "https://careers-e2optics.icims.com/jobs/3788/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/E2-Optics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "E2 Optics",
+        "id": "77eac71b-1155-4796-a6c4-fc7fa468f17b",
+        "title": "Data Center Infrastructure Technician",
+        "active": true,
+        "date_updated": 1787753521,
+        "date_posted": 1787753385,
+        "url": "https://careers-e2optics.icims.com/jobs/3792/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/E2-Optics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "E2 Optics",
+        "id": "34c645aa-eab2-4e61-83ef-55755ab7503c",
+        "title": "Data Center Infrastructure Technician",
+        "active": true,
+        "date_updated": 1787753521,
+        "date_posted": 1787753384,
+        "url": "https://careers-e2optics.icims.com/jobs/3793/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/E2-Optics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Marshall Wace",
+        "id": "b9818860-8ae5-4d0d-85c4-fa881f59838a",
+        "title": "Quant Research - Quantitative Associate Programme",
+        "active": true,
+        "date_updated": 1787752982,
+        "date_posted": 1787752837,
+        "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002",
+        "locations": [
+            "London, UK",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Marshall-Wace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Marshall Wace",
+        "id": "36550989-6b9a-4283-9d04-64ff68ecf823",
+        "title": "Quant Developer - Quant Association Programme",
+        "active": true,
+        "date_updated": 1787753008,
+        "date_posted": 1787752837,
+        "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646947002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Marshall-Wace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
