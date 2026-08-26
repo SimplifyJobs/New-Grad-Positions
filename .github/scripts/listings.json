@@ -375434,7 +375434,7 @@
         "company_name": "Applied Materials",
         "id": "ddb8f300-267b-4c8d-8fcf-9e075ae95dfb",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787361361,
         "date_posted": 1787270400,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/KalispellMT/Software-Engineer-I---New-College-Grad--Bachelors---Kalispell--MT-_R2626859",
@@ -375555,7 +375555,7 @@
         "company_name": "Northrop Grumman",
         "id": "f6b37c2b-7ce8-46be-9bd2-52ee453ee815",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787388047,
         "date_posted": 1787270400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Resource-Control-Team-Software-Engineer--Level-1-or-2----AHT_R10247178",
@@ -380645,6 +380645,24 @@
         "url": "https://www.tesla.com/careers/search/job/270213",
         "locations": [
             "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "731da313-32d6-4490-992b-7b4efafa0b45",
+        "title": "Data Collection Operator",
+        "active": true,
+        "date_updated": 1787737543,
+        "date_posted": 1784700746,
+        "url": "https://www.tesla.com/careers/search/job/277689",
+        "locations": [
+            "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Tesla",
         "is_visible": true,
