@@ -328375,7 +328375,7 @@
         "company_name": "Apple",
         "id": "e64e353a-8cf8-4434-a279-d7f7a25f4c01",
         "title": "Custom Timing and Verification CAD Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785601441,
         "date_posted": 1782972444,
         "url": "https://jobs.apple.com/en-us/details/200669841",
@@ -380922,5 +380922,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "da75a7d6-8ed2-4054-805c-35806d1e50de",
+        "title": "Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1787772632,
+        "date_posted": 1787702400,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/Atlanta-GA/University---Business-Intelligence-Analyst_R0247965",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
