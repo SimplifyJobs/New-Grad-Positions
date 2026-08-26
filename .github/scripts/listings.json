@@ -330226,7 +330226,7 @@
         "company_name": "ManTech",
         "id": "cb369351-882d-41be-9e85-42d3312f503a",
         "title": "Associate Computer Network Operations Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1785632548,
         "date_posted": 1785632383,
         "url": "https://mantech.avature.net/en_US/careers/JobDetail/64786",
@@ -373496,7 +373496,7 @@
         "company_name": "General Dynamics",
         "id": "d24e23aa-e04f-4545-9ca3-746741eee46b",
         "title": "ERP Architect 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787322332,
         "date_posted": 1787322123,
         "url": "https://careers-gd-ots.icims.com/jobs/36873/job?mobile=true&needsRedirect=false",
@@ -380402,7 +380402,7 @@
         "company_name": "Keenfinity",
         "id": "ac0fcf1b-7b15-45db-88c7-26e72ddf2047",
         "title": "Associate DevOps Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787753603,
         "date_posted": 1787753502,
         "url": "https://jobs.smartrecruiters.com/Keenfinity/744000145726019",
@@ -380865,6 +380865,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WellSky",
+        "id": "ef53c5cc-cfb0-4320-96eb-9bf793d013f8",
+        "title": "Associate Software Engineer - DevOps Engineer",
+        "active": true,
+        "date_updated": 1787769181,
+        "date_posted": 1787702400,
+        "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer---DevOps-Engineer_JR5080",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/WellSky",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
