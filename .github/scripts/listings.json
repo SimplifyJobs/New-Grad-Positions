@@ -381181,5 +381181,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salesforce",
+        "id": "bde662ce-92c7-454f-baa5-c0f859f3f0aa",
+        "title": "AI Builder - Emerging Talent",
+        "active": true,
+        "date_updated": 1787760082,
+        "date_posted": 1787702400,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR357678-1",
+        "locations": [
+            "SF",
+            "McLean, VA",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
