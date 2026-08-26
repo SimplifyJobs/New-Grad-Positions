@@ -192416,7 +192416,7 @@
         "company_name": "Rocket Software",
         "id": "8ef9ec94-2cd9-44c1-a0c8-c9d81c946638",
         "title": "Software Engineer - Nextgen",
-        "active": false,
+        "active": true,
         "date_updated": 1778163842,
         "date_posted": 1778162957,
         "url": "https://rocket.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Newbury-United-Kingdom/Software-Engineer---NextGen_R2026-6463",
@@ -200951,7 +200951,7 @@
         "company_name": "Cox",
         "id": "40955085-af36-47cc-9be4-e7ee3a1ead92",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778797441,
         "date_posted": 1778796572,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202677231",
@@ -235188,7 +235188,7 @@
         "company_name": "Relay",
         "id": "0b2ebb3e-0627-41b1-b699-1b746a023edd",
         "title": "Software Engineer Associate - Embedded Development",
-        "active": false,
+        "active": true,
         "date_updated": 1780957897,
         "date_posted": 1780104219,
         "url": "https://job-boards.greenhouse.io/relaypro/jobs/7968124",
@@ -349585,7 +349585,7 @@
         "company_name": "Mind Robotics",
         "id": "59166d0c-d2aa-47f4-baa7-2fad7c498668",
         "title": "Field Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786441681,
         "date_posted": 1782770930,
         "url": "https://jobs.ashbyhq.com/mindrobotics/e8477320-9214-45b9-8d3e-cf010f0393ef/application?embed=true",
@@ -361517,7 +361517,7 @@
         "company_name": "FactSet",
         "id": "0c7330a0-83d0-41a4-aa16-783494525f73",
         "title": "Software Engineer 1 - Infrastructure",
-        "active": false,
+        "active": true,
         "date_updated": 1786745345,
         "date_posted": 1786665600,
         "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/London-GBR/Software-Engineer-I--Infrastructure_R32300",
@@ -366710,7 +366710,7 @@
         "company_name": "Leidos",
         "id": "23974204-116b-4cfb-9bda-810d4e0c8dd7",
         "title": "GIS Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787092140,
         "date_posted": 1787011200,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/GIS-Technician_R-00189916",
@@ -367006,7 +367006,7 @@
         "company_name": "Samsung",
         "id": "b3e3291d-011b-45fc-af44-94163d5db87d",
         "title": "Product Management Specialist - Smartphones - A&S",
-        "active": false,
+        "active": true,
         "date_updated": 1787091662,
         "date_posted": 1787011200,
         "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Product-Management-Specialist--Smartphones--A-S-_R119563",
@@ -381772,6 +381772,201 @@
             "Redwood City, CA"
         ],
         "company_url": "https://simplify.jobs/c/Solace-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "a9d18a09-8c11-4691-becb-9e1f46437cfd",
+        "title": "Junior EO/IR Algorithm Developer - Defense Systems",
+        "active": true,
+        "date_updated": 1787784770,
+        "date_posted": 1787702400,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-EO-IR-Algorithm-Developer_R-00190629",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "e3f93cfb-ba3e-4b81-b14e-4b2c1e1d58df",
+        "title": "GIS Technician",
+        "active": true,
+        "date_updated": 1787784762,
+        "date_posted": 1787702400,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/GIS-Technician_R-00190668",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Bridgewater Associates",
+        "id": "2c1a920f-ed76-4384-9a74-6cf0d01a9123",
+        "title": "Trading Associate",
+        "active": true,
+        "date_updated": 1787784301,
+        "date_posted": 1787784238,
+        "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/8750718002",
+        "locations": [
+            "Westport, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Bridgewater-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Spirit AeroSystems",
+        "id": "ea0423f4-dd18-4be8-bae1-f29a30138094",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1787784063,
+        "date_posted": 1787783917,
+        "url": "https://careers.spiritaero.com/jobs/17337?icims=1",
+        "locations": [
+            "Wichita, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Spirit-AeroSystems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ontic",
+        "id": "43fc9d48-8060-4be6-a811-17fa6c4fa615",
+        "title": "Associate Software Engineer - Full Stack",
+        "active": true,
+        "date_updated": 1787783903,
+        "date_posted": 1787783668,
+        "url": "https://jobs.ashbyhq.com/Ontic/d50b6bea-876f-43fc-afb9-716efe9eca02/application?embed=true",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Ontic-Security",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pinnacle Live",
+        "id": "5e94c3ec-4ae8-40cf-8b13-0103b26d4a40",
+        "title": "Event Services Technician",
+        "active": true,
+        "date_updated": 1787783582,
+        "date_posted": 1787783504,
+        "url": "https://jobs.jobvite.com/pinnaclelive/job/otYIAfwt?nl=1&nl=1&fr=false",
+        "locations": [
+            "Braselton, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinnacle-Live",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bectran",
+        "id": "fa279f49-798c-42a2-a38d-20ecffdb43e0",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1787783582,
+        "date_posted": 1787778252,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4452707",
+        "locations": [
+            "Schaumburg, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Bectran",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "First American Bank",
+        "id": "ed5e3cca-feff-4c4a-a94c-32bd76f4c641",
+        "title": "AI Solutions Analyst",
+        "active": true,
+        "date_updated": 1787783582,
+        "date_posted": 1787783431,
+        "url": "https://careers-firstambank.icims.com/jobs/3432/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Elk Grove Village, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/First-American-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Entarian",
+        "id": "394a7b1a-ddab-4982-85f7-67d8850d4424",
+        "title": "Engineering Technician 1/2",
+        "active": true,
+        "date_updated": 1787783492,
+        "date_posted": 1787783395,
+        "url": "https://careers-entarian.icims.com/jobs/9861/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Entarian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Idler",
+        "id": "5c83cea3-dccc-4e0b-b407-f4703216b9ae",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1787783423,
+        "date_posted": 1784596519,
+        "url": "https://jobs.ashbyhq.com/idler/cce9ab39-0ab0-489d-bbf9-4df74c2baeee/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Idler",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
