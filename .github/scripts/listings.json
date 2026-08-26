@@ -270459,7 +270459,7 @@
         "company_name": "Citi",
         "id": "2d211cf5-7727-4985-9a34-6afd5a6ea8f9",
         "title": "Junior Applications Developer - Programmer Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782966781,
         "date_posted": 1782957841,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Junior-Applications-Developer---Programmer-Analyst_26971294",
@@ -380585,7 +380585,7 @@
         "company_name": "Vigil Labs",
         "id": "9eb1a3ac-7af9-4e50-bab3-febf4979f053",
         "title": "Founding Member of Technical Staff \u2014 Markets",
-        "active": true,
+        "active": false,
         "date_updated": 1787718360,
         "date_posted": 1787718360,
         "url": "https://simplify.jobs/p/9eb1a3ac-7af9-4e50-bab3-febf4979f053",
@@ -380593,6 +380593,24 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/ed987b9f-25ba-4446-99fe-976ab98acf40",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Vigil Labs",
+        "id": "0c6f879e-b3f8-47f4-85ed-ababb0e44d80",
+        "title": "Founding Member of Technical Staff \u2014 Markets",
+        "active": true,
+        "date_updated": 1787718660,
+        "date_posted": 1787718660,
+        "url": "https://simplify.jobs/p/0c6f879e-b3f8-47f4-85ed-ababb0e44d80",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vigil-Labs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
