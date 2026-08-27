@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Capital One",
-        "id": "646ce403-5f8d-440b-bcb2-eb5429c6a98e",
-        "title": "Associate \u2013 Data Analyst - Part Time - 2026",
-        "active": false,
-        "date_updated": 1767055725,
-        "date_posted": 1767055725,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---Part-Time--2026_R232422-2",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Hitachi",
         "id": "22fb3f13-63ee-47c6-9bbc-804fcbd62906",
@@ -156526,7 +156508,7 @@
         "company_name": "EvenUp",
         "id": "37510038-1f6f-4be0-bfe7-50811c1ee137",
         "title": "Software Engineer \u2013 New Grad - Cases Product",
-        "active": false,
+        "active": true,
         "date_updated": 1775870975,
         "date_posted": 1775869761,
         "url": "https://jobs.ashbyhq.com/evenup/41488eae-50a9-4ad3-b6e0-2fd28efb238e/application",
@@ -286543,7 +286525,7 @@
         "company_name": "Abridge",
         "id": "ccc30a08-187b-428e-a4e2-333c838dadaa",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783981876,
         "date_posted": 1783980751,
         "url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace/application",
@@ -292691,7 +292673,7 @@
         "company_name": "Chamber Cardio",
         "id": "42b979a9-208e-4d7b-afa4-00adc10107b9",
         "title": "Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1784239923,
         "date_posted": 1784239836,
         "url": "https://jobs.ashbyhq.com/chambercardio/eb5a8d6e-def9-4ea6-a76f-b64995ad5711/application?embed=true",
@@ -381719,6 +381701,47 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "6832fd60-4dd3-44e2-a1a5-1e80106a41a1",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Video",
+        "active": true,
+        "date_updated": 1787791141,
+        "date_posted": 1787790979,
+        "url": "https://lifeattiktok.com/search/7678145401619237173",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Atlas Energy Solutions",
+        "id": "c5c1c03e-4c47-4e44-978c-ad980ad6e0e9",
+        "title": "AI Developer",
+        "active": true,
+        "date_updated": 1787790603,
+        "date_posted": 1787790494,
+        "url": "https://job-boards.greenhouse.io/atlassand/jobs/8753225002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Atlas-Energy-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bootcamp"
         ]
     }
 ]
