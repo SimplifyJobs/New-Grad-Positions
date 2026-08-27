@@ -207847,7 +207847,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -215780,7 +215780,7 @@
         "company_name": "The Federal Reserve System",
         "id": "d05c2b68-917e-4f4e-a813-a4ce97be4c5b",
         "title": "Senior Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1779875512,
         "date_posted": 1779528352,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Philadelphia-PA/Research-Assistant-Sr-Research-Assistant_R-0000030430",
@@ -371588,7 +371588,7 @@
         "company_name": "RTX",
         "id": "6321b5bb-8e7e-4045-9080-c2afa03d5011",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787264520,
         "date_posted": 1787184000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01868305",
@@ -380752,7 +380752,7 @@
         "company_name": "BP",
         "id": "2f08e7ee-c34b-4099-8060-c1404a35f590",
         "title": "Graduate Petroleum Engineer - Subsurface Group",
-        "active": true,
+        "active": false,
         "date_updated": 1787780848,
         "date_posted": 1787702400,
         "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Graduate---Petroleum-Engineer---Houston--TX_RQ115291",
@@ -380868,7 +380868,7 @@
         "company_name": "RTX",
         "id": "ba14a36d-f4bf-41f2-9cec-a9740a828e9c",
         "title": "Systems Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787780018,
         "date_posted": 1787702400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-VA1--2461-S-Clark-St--BLDG-1-Ste-1000/Systems-Engineer-I--Onsite-_01869910",
@@ -380889,7 +380889,7 @@
         "company_name": "RTX",
         "id": "5d042cde-610d-45d2-b749-90d9fa7ec98d",
         "title": "Systems Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787780019,
         "date_posted": 1787702400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Systems-Engineer-I--Onsite-_01869656",
@@ -382286,5 +382286,123 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astreya",
+        "id": "ede4083f-5b7d-43a2-a8dc-11a9d374dfb7",
+        "title": "Field Technician 1",
+        "active": true,
+        "date_updated": 1787837073,
+        "date_posted": 1787788800,
+        "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-NV/Field-Technician-I_R0017055",
+        "locations": [
+            "Nevada"
+        ],
+        "company_url": "https://simplify.jobs/c/Astreya",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astreya",
+        "id": "70a8392b-553f-4f50-83a5-a1e6f62e049d",
+        "title": "Field Technician 1",
+        "active": true,
+        "date_updated": 1787835645,
+        "date_posted": 1787788800,
+        "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-NV/Field-Technician-I_R0017058",
+        "locations": [
+            "Nevada"
+        ],
+        "company_url": "https://simplify.jobs/c/Astreya",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gentex",
+        "id": "422ae791-861e-451f-b9b7-55e6c9cc2a2e",
+        "title": "Requirements Engineer 2",
+        "active": true,
+        "date_updated": 1787836026,
+        "date_posted": 1787616000,
+        "url": "https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Requirements-Engineer-II_REQ026542",
+        "locations": [
+            "Zeeland, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Gentex-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "89e0fd42-4483-4c64-a9a9-3622603b2ced",
+        "title": "Equipment Engineer New Grad - RDA & Metrology",
+        "active": true,
+        "date_updated": 1787836029,
+        "date_posted": 1787616000,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Equipment-Engineer--RDA---Metrology-_JR109850",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Brink",
+        "id": "8f8f43f6-d285-4357-bc29-112f95d6d232",
+        "title": "ATM Technician",
+        "active": true,
+        "date_updated": 1787836715,
+        "date_posted": 1786406400,
+        "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Detroit-MI/ATM-Technician_R78332",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Brink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Protiviti",
+        "id": "8f7380cf-ad1a-48b0-8108-ddcf56d341f2",
+        "title": "Americas Delivery Center Analyst",
+        "active": true,
+        "date_updated": 1787836362,
+        "date_posted": 1786320000,
+        "url": "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/CINCINNATI/Americas-Delivery-Center-Analyst_JR-261223",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Protiviti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
