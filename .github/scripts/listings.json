@@ -128908,7 +128908,7 @@
         "company_name": "Global Lending Services",
         "id": "79c8c22d-b3a5-42e1-900c-e745438a0549",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1774477079,
         "date_posted": 1774477079,
         "url": "https://jobs.lever.co/glsllc/c1191357-09ab-4707-855b-a99c5cb99ac1/apply",
@@ -357299,7 +357299,7 @@
         "company_name": "L3Harris Technologies",
         "id": "0911d4b2-2fef-48c0-a533-4ce070821e3c",
         "title": "Assembly",
-        "active": false,
+        "active": true,
         "date_updated": 1786679128,
         "date_posted": 1786678887,
         "url": "https://jobs.l3harris.com/job/Rochester-Assembly-B-NY-14623/1419211200/?ats=successfactors",
@@ -365171,7 +365171,7 @@
         "company_name": "Cook Systems",
         "id": "0ac59efb-a60a-487e-ae88-72d4b34fac13",
         "title": "Entry-Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1787034061,
         "date_posted": 1787033944,
         "url": "https://job-boards.greenhouse.io/cooksys/jobs/5386869008",
@@ -371987,7 +371987,7 @@
         "company_name": "L3Harris Technologies",
         "id": "23215ce7-ac6e-4a84-aedd-b6a33c7cd2f7",
         "title": "Manufacturing Technician B",
-        "active": false,
+        "active": true,
         "date_updated": 1787265541,
         "date_posted": 1787265374,
         "url": "https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-B-NY-14623/1421713900/?ats=successfactors",
@@ -382624,5 +382624,46 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jabil",
+        "id": "71331fa4-11e9-424a-83be-7840fab5df5c",
+        "title": "Business Intelligence Analyst and Developer 1",
+        "active": true,
+        "date_updated": 1787846274,
+        "date_posted": 1787788800,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Business-Intelligence-Analyst-and-Developer-I_J2462394",
+        "locations": [
+            "Tampa, FL",
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "6b149eb1-5558-42e3-9a54-998d7c4e8a3c",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1787844694,
+        "date_posted": 1787844550,
+        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1423952700/?ats=successfactors",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
