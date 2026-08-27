@@ -139245,7 +139245,7 @@
         "company_name": "CACI",
         "id": "f50900c1-f7ea-4836-a39f-5a4f4b2220bd",
         "title": "AI Prompt Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775004841,
         "date_posted": 1774995071,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/AI-Prompt-Engineer_324104",
@@ -214236,7 +214236,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "78ab6c83-7d91-460e-acf5-e924894eb1cc",
         "title": "Entry Level Infrastructure Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779822183,
         "date_posted": 1778710070,
         "url": "https://careers-gdms.icims.com/jobs/72580/job?mobile=true&needsRedirect=false",
@@ -337499,7 +337499,7 @@
         "company_name": "Gentex Corporation",
         "id": "690a282c-1c0e-40c4-b77c-670f4bddbc69",
         "title": "Embedded Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785882943,
         "date_posted": 1785881726,
         "url": "https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Embedded-Software-Engineer-I_REQ026014",
@@ -382544,6 +382544,46 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "57f23d48-5234-4e18-8766-c96214c087be",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1787841721,
+        "date_posted": 1787841553,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434598",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "58f53430-fc41-4de4-a49a-3a80ff2c415b",
+        "title": "Product Powertrain Product Engineer - Current Product Powertrain Hardware System",
+        "active": true,
+        "date_updated": 1787841784,
+        "date_posted": 1787841552,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435319",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
