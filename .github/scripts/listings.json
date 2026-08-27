@@ -220956,7 +220956,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "752bfe0d-dbe5-4d4d-9c60-2ae61c5453cc",
         "title": "Field Service Engineer - Em",
-        "active": true,
+        "active": false,
         "date_updated": 1779959052,
         "date_posted": 1778942817,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Fremont-California-USA/Field-Service-Engineer--EM--Fremont--CA-_R-01346012",
@@ -286045,7 +286045,7 @@
         "company_name": "Micron Technology",
         "id": "f8191bb6-b5ba-4864-9c7c-ca435b225435",
         "title": "New College Grad - Design Engineer - Hbm",
-        "active": true,
+        "active": false,
         "date_updated": 1783982507,
         "date_posted": 1783900800,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Design-Engineer--HBM_JR106212",
@@ -338481,7 +338481,7 @@
         "company_name": "Munters",
         "id": "2b3b35ca-a65d-43e8-aa08-c9ea1ea97fd1",
         "title": "Electrical Panel Shop Cell Lead",
-        "active": true,
+        "active": false,
         "date_updated": 1785921810,
         "date_posted": 1785369600,
         "url": "https://munters.wd3.myworkdayjobs.com/external_careers/job/US---Daleville-VA/Electrical-Panel-Shop-Cell-Lead_R12500",
@@ -362941,7 +362941,7 @@
         "company_name": "KeyBank",
         "id": "477f4a29-918e-4971-aa80-59cac674f192",
         "title": "Analytics and Quantitative Modeling Rotational Analyst - Rotational Program",
-        "active": true,
+        "active": false,
         "date_updated": 1787005248,
         "date_posted": 1786924800,
         "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Analytics-and-Quantitative-Modeling-Rotational-Analyst-Program--Cleveland_R-41381-1",
@@ -367279,7 +367279,7 @@
         "company_name": "Kimley-Horn",
         "id": "fc58f590-9e9b-4b9d-9262-f7a7cae2d464",
         "title": "GIS Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787092021,
         "date_posted": 1787091826,
         "url": "https://careers-kimley-horn.icims.com/jobs/25883/job?mobile=true&needsRedirect=false",
@@ -369810,7 +369810,7 @@
         "company_name": "GE Aerospace",
         "id": "b1cb82ea-e58f-4be7-bb9a-a588addd7cb0",
         "title": "Data Acquisition Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787179369,
         "date_posted": 1787097600,
         "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Peebles/Data-Acquisition-Tech_R5038935-1",
@@ -382228,5 +382228,63 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fidelity Investments",
+        "id": "d7ecad8e-2784-42de-9aa1-dace4686274a",
+        "title": "Systems Analyst - Leap Program",
+        "active": true,
+        "date_updated": 1787835098,
+        "date_posted": 1786665600,
+        "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/January-2027---Leap-Systems-Analyst_2133868",
+        "locations": [
+            "Westlake, TX",
+            "Durham, NC",
+            "Merrimack, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American University",
+        "id": "8a93bc07-a3a2-405c-b164-f8aa57eba853",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1787834379,
+        "date_posted": 1786665600,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Research-Assistant--Student-_R4691",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "e7e3c4a1-c8af-47d8-b663-e2b9d72a369d",
+        "title": "Electronics Technician",
+        "active": true,
+        "date_updated": 1787834372,
+        "date_posted": 1785715200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-MIDDLETOWN-060--60-Turner-Dr--TURNER-Ste-1/Electronics-Technician---Off-Shift--Onsite-_01862726",
+        "locations": [
+            "Middletown, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
