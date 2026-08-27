@@ -316345,7 +316345,7 @@
         "company_name": "GE Healthcare",
         "id": "908303ba-e269-4604-90fe-a27b03a930f9",
         "title": "Asset Tracking Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1785151544,
         "date_posted": 1784851200,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Asset-Tracking-Technician---Connecticut_R4043891",
@@ -343748,7 +343748,7 @@
         "company_name": "GE Healthcare",
         "id": "9a7f6317-8794-452a-94fd-c6539df3e9ff",
         "title": "X-Ray/Mammography Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786100607,
         "date_posted": 1784073600,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/CA19-01-San-Francisco-44-Montgomery/X-Ray-Mammography-Field-Engineer-I_R4043361-1",
@@ -380848,7 +380848,7 @@
         "company_name": "BrightView",
         "id": "f1342c8d-c8b7-41f2-ba5e-566c70ba8064",
         "title": "Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787780653,
         "date_posted": 1787780366,
         "url": "https://careers-brightviewhealth.icims.com/jobs/2888/job?mobile=true&needsRedirect=false",
@@ -382404,5 +382404,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Munters",
+        "id": "4c7523c7-b454-440a-a8c8-cc6e9c852576",
+        "title": "Electrical Assembler and Wirer",
+        "active": true,
+        "date_updated": 1787838511,
+        "date_posted": 1786579200,
+        "url": "https://munters.wd3.myworkdayjobs.com/external_careers/job/US---Selma-TX/Electrical-Assembler-and-Wirer-1st-Shift_R12656",
+        "locations": [
+            "Selma, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Munters",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
