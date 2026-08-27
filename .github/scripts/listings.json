@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Unilever",
-        "id": "f5e8414b-1120-40ab-8992-38d2966eaaf8",
-        "title": "Product Development Senior Scientist - Pepsi Lipton Joint Venture",
-        "active": false,
-        "date_updated": 1767060892,
-        "date_posted": 1767060892,
-        "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Purchase-NY/Product-Development-Senior-Scientist---Pepsi-Lipton-Joint-Venture_R-1171774",
-        "locations": [
-            "White Plains, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Unilever",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "6fb64a4f-2701-4e81-bd38-9350990cafe7",
@@ -318984,7 +318966,7 @@
         "company_name": "Super Micro Computer",
         "id": "4b44405f-b28c-4f00-8c54-39814353bfa4",
         "title": "Product Management Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1785277514,
         "date_posted": 1780103176,
         "url": "https://jobs.supermicro.com/job/San-Jose-Associate-Product-Manager-Cali/1367984400/?ats=successfactors",
@@ -375461,7 +375443,7 @@
         "company_name": "GlobalFoundries",
         "id": "6f703f37-ec50-41db-9745-f5e4c7bb97d6",
         "title": "Packaging Integration Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1787602881,
         "date_posted": 1787529600,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Packaging-Integration-Engineer--2027-New-College-Graduate-_JR-2604302",
@@ -376478,7 +376460,7 @@
         "company_name": "Nightwing Intelligence Solutions",
         "id": "dead17d4-de13-40ac-923b-ac8d41bdaba0",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787608785,
         "date_posted": 1787529600,
         "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Engineer-I_JR101958",
@@ -381271,7 +381253,7 @@
         "company_name": "TeleTracking",
         "id": "aa9c2e24-8baf-48cc-92ec-a9624e201b7e",
         "title": "Software Engineer 1 - Logistics Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1787781759,
         "date_posted": 1787772638,
         "url": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5397299008",
@@ -381748,6 +381730,68 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Honeywell",
+        "id": "fc5e50d8-d6ab-499b-8265-dca8c4c14ad7",
+        "title": "IT New Grad",
+        "active": true,
+        "date_updated": 1787797119,
+        "date_posted": 1787796952,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/156756",
+        "locations": [
+            "Charlotte, NC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "4cd774d6-6dba-4947-9f2c-bb55647cccca",
+        "title": "Engineering Technician B",
+        "active": true,
+        "date_updated": 1787796001,
+        "date_posted": 1787795966,
+        "url": "https://jobs.l3harris.com/job/Rochester-Engineering-Technician-B-NY-14623/1423797400/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "18c2c157-bced-43b1-9b2e-b9718a794559",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1787796101,
+        "date_posted": 1787795948,
+        "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineer-CO-80916/1423789000/?ats=successfactors",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
