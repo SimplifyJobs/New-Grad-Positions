@@ -206530,7 +206530,7 @@
         "company_name": "Northrop Grumman",
         "id": "af8f0f0d-0022-49ef-be96-34f019baa6b0",
         "title": "Space Flight Operations \u2013 Engineer/Principal Engineer Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1779315661,
         "date_posted": 1779314912,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Space-Flight-Operations---Engineer-Principal-Engineer-Systems_R10233658",
@@ -344210,7 +344210,7 @@
         "company_name": "GE Healthcare",
         "id": "f0b72df2-45e6-4ab7-a7f9-f45c59ba884d",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1786140880,
         "date_posted": 1786060800,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4044580-1",
@@ -353730,7 +353730,7 @@
         "company_name": "RTX",
         "id": "f07c781c-3f76-44c2-ad53-fbefb9ca1fd1",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786572599,
         "date_posted": 1786492800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01865026-1",
@@ -382138,6 +382138,29 @@
             "Claremont, CA"
         ],
         "company_url": "https://simplify.jobs/c/Claremont-McKenna-College",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Abbott",
+        "id": "ea6a21fa-6422-4ef0-90df-074f92d9395e",
+        "title": "Associate Technical Service Specialist - Diagnostics",
+        "active": true,
+        "date_updated": 1787830244,
+        "date_posted": 1787788800,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Birmingham/Associate-Technical-Service-Specialist---Graduate-Opportunity-Midlands--_31159366-1",
+        "locations": [
+            "Solihull, UK",
+            "Maidenhead, UK",
+            "Birmingham, UK",
+            "Walsall, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
