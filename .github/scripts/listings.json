@@ -213074,7 +213074,7 @@
         "company_name": "Field AI",
         "id": "485c1542-a323-4709-ac14-7c87c55175e9",
         "title": "Embedded Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779821821,
         "date_posted": 1778565997,
         "url": "https://jobs.lever.co/field-ai/5aa0a3ef-b693-4404-829a-63d8b9dad776/apply",
@@ -218469,7 +218469,7 @@
         "company_name": "Sysmex",
         "id": "71149fe5-961e-4bf1-8571-edd4d46f114a",
         "title": "Technician - Field Service - Regional",
-        "active": false,
+        "active": true,
         "date_updated": 1779914776,
         "date_posted": 1779487610,
         "url": "https://careers-sysmex.icims.com/jobs/4707/job?mobile=true&needsRedirect=false",
@@ -284189,7 +284189,7 @@
         "company_name": "GE Healthcare",
         "id": "211d5160-dd5b-403d-aa71-3b6dd6378ee9",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783762313,
         "date_posted": 1783555200,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1_R4042917-1",
@@ -295545,7 +295545,7 @@
         "company_name": "Primetals Technologies",
         "id": "5b9a3bf3-98a4-4993-9d9b-54fcaca9802a",
         "title": "Operations Specialist - Monitoring Center",
-        "active": false,
+        "active": true,
         "date_updated": 1784537500,
         "date_posted": 1784153421,
         "url": "https://mhicareers.com/job/Orlando-Operations-Specialist,-Monitoring-Center-FL-32809/1415503233/?ats=successfactors",
@@ -305577,7 +305577,7 @@
         "company_name": "Veeva Systems",
         "id": "697e78cc-e93b-4914-add6-a845bb8ae6bc",
         "title": "Technical Consultant Associate - Entry-Level Consulting - Life Sciences",
-        "active": false,
+        "active": true,
         "date_updated": 1784686056,
         "date_posted": 1774391442,
         "url": "https://jobs.lever.co/veeva/eed4b1a3-13ae-4cf4-9bd9-5bc6a0d214a6/apply",
@@ -374597,7 +374597,7 @@
         "company_name": "CVS Health",
         "id": "253c897f-a168-4f05-b5d0-184ce9c3f887",
         "title": "Data Science Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787392263,
         "date_posted": 1787270400,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Analyst_R0993501-1",
@@ -376314,7 +376314,7 @@
         "company_name": "RTX",
         "id": "228b82c7-b47b-4e3b-baa3-cd9f4299358a",
         "title": "Electrical Computer Aided Design Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787609010,
         "date_posted": 1787529600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/ECAD-Design-Engineer-I--Remote-_01868969",
@@ -381925,5 +381925,84 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Legal & General",
+        "id": "eba0dcb3-15c0-454b-8598-e3ad330b7bb8",
+        "title": "Product Analyst - Funds Oversight",
+        "active": true,
+        "date_updated": 1787821562,
+        "date_posted": 1787821542,
+        "url": "https://jobs.smartrecruiters.com/LegalAndGeneral/744000145913189",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Legal-And-General",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TT Electronics",
+        "id": "65afd4db-ae95-4d18-b645-d412a7259056",
+        "title": "Wireperson Trainee",
+        "active": true,
+        "date_updated": 1787822556,
+        "date_posted": 1786687068,
+        "url": "https://global-portal-ttelectronics.icims.com/jobs/6078/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Fairford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TT-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sysmex",
+        "id": "629aa3b3-db84-4aee-bb4d-ac8e399aaf08",
+        "title": "Field Service Technician - Regional",
+        "active": true,
+        "date_updated": 1787822461,
+        "date_posted": 1786457379,
+        "url": "https://careers-sysmex.icims.com/jobs/4801/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Sysmex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "5a57537d-9e34-437b-b912-d582e9641b85",
+        "title": "Data Analytics Engineer Scientist - Thermal - Chassis",
+        "active": true,
+        "date_updated": 1787822315,
+        "date_posted": 1783981263,
+        "url": "https://www.tesla.com/careers/search/job/262399",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
