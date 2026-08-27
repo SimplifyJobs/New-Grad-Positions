@@ -244354,7 +244354,7 @@
         "company_name": "Atlas Energy Solutions",
         "id": "f51de56d-f60d-4ba9-bb01-7b2134a94d3b",
         "title": "AI Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1781303221,
         "date_posted": 1781302696,
         "url": "https://job-boards.greenhouse.io/atlassand/jobs/8589983002",
@@ -261016,7 +261016,7 @@
         "company_name": "Stifel",
         "id": "bcb7fdff-d79b-493d-8423-7a9c11210e9a",
         "title": "Desk Analyst - High Yield Municipal Bond Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1782857161,
         "date_posted": 1782857011,
         "url": "https://careers-stifel.icims.com/jobs/9507/job?mobile=true&needsRedirect=false",
@@ -380614,7 +380614,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "e8292892-4349-44e5-85e7-214c365e9796",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787780702,
         "date_posted": 1787780698,
         "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005702",
@@ -381726,6 +381726,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "True Anomaly",
+        "id": "1bc7fe9e-fd5d-4ca1-b5c2-abedfa34dfb4",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1787794223,
+        "date_posted": 1787794030,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007",
+        "locations": [
+            "Long Beach, CA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/TrueAnomaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
