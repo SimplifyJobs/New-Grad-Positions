@@ -224830,7 +224830,7 @@
         "company_name": "United Launch Alliance",
         "id": "8b5b36e2-ca83-4a2d-a627-8dba53b66540",
         "title": "Contract Data Management 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780352281,
         "date_posted": 1780351644,
         "url": "https://jobs.ulalaunch.com/job/Centennial-Contract-Data-Management-1-CO-80112/1395604900/?ats=successfactors",
@@ -312293,7 +312293,7 @@
         "company_name": "Workstream",
         "id": "d6586a28-14d3-4627-88f6-5279119e3d74",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784855161,
         "date_posted": 1783502743,
         "url": "https://job-boards.greenhouse.io/workstream/jobs/6111335004",
@@ -355662,7 +355662,7 @@
         "company_name": "Illumina",
         "id": "27789793-6af1-43b7-9cd5-e384f26e6e66",
         "title": "Systems Integration Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1786612432,
         "date_posted": 1786579200,
         "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Systems-Integration-Engineer-1_43230-JOB",
@@ -361655,7 +361655,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -361694,7 +361694,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -361753,7 +361753,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -362057,7 +362057,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -362432,7 +362432,7 @@
         "company_name": "County of Kauai",
         "id": "7ed05700-9bd2-454d-90af-970389552705",
         "title": "Geographic Information Systems Analyst 1 - GIS",
-        "active": true,
+        "active": false,
         "date_updated": 1786980090,
         "date_posted": 1786924800,
         "url": "https://kauai.wd1.myworkdayjobs.com/Kauai_External_Career_Site/job/Department-of-Finance-Real-Property-Assessments/Geographic-Information-Systems--GIS--Analyst-I_R-8117-1",
@@ -376744,7 +376744,7 @@
         "company_name": "Acron Aviation",
         "id": "d4a01c7d-0ef4-4577-b4a1-aef0a553ecb2",
         "title": "Associate Embedded Software Engineer - Surveillance",
-        "active": true,
+        "active": false,
         "date_updated": 1787614795,
         "date_posted": 1787614632,
         "url": "https://jobs.lever.co/acronaviation/e013a28f-c025-40df-a7d4-45d2bb69e701/apply",
@@ -382003,6 +382003,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "5923eddf-da98-4ec1-aef1-4c3f140b6338",
+        "title": "Cyber Analytics Analyst - Government & Public Services - Cyber Analytics",
+        "active": true,
+        "date_updated": 1787824443,
+        "date_posted": 1784672061,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Cyber-Analytics/360076",
+        "locations": [
+            "Rosslyn, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
