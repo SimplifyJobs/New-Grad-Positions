@@ -381793,5 +381793,44 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rubie",
+        "id": "b53ff4e5-1364-4cac-bdf2-c7cb8845717f",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1787799961,
+        "date_posted": 1787799917,
+        "url": "https://jobs.ashbyhq.com/rubie/8f270341-7053-4144-8c93-6c47602cf8b9/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Rubie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DataVisor",
+        "id": "fd3f0fb9-681d-4c31-9e48-221580bf7c03",
+        "title": "Data Scientist - Fraud Detection",
+        "active": true,
+        "date_updated": 1787799961,
+        "date_posted": 1787799880,
+        "url": "https://apply.workable.com/datavisor-jobs/j/84FBC84E52/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/DataVisor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
