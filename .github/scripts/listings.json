@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "SpaceX",
-        "id": "5837e002-8406-4608-a770-b1bca1e1f641",
-        "title": "Software Engineer - Starlink Ground Network",
-        "active": false,
-        "date_updated": 1767051108,
-        "date_posted": 1767051108,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8342599002",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "GlobalFoundries",
         "id": "41660290-1168-4092-b611-f783ca3a2a9f",
@@ -103,24 +85,6 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Rubrik",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cadwell",
-        "id": "dfa1aa82-aaa0-46cf-a4f3-987fa0eac1d8",
-        "title": "Service Technician",
-        "active": false,
-        "date_updated": 1767051802,
-        "date_posted": 1767051802,
-        "url": "https://job-boards.greenhouse.io/cadwell/jobs/4089478009",
-        "locations": [
-            "Kennewick, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadwell",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -1578,24 +1542,6 @@
             "Omaha, NE"
         ],
         "company_url": "https://simplify.jobs/c/Vantage-Point-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ChargePoint",
-        "id": "895112cb-5977-4000-a5e4-3bcce4893b3c",
-        "title": "Engineering Technician",
-        "active": false,
-        "date_updated": 1767179461,
-        "date_posted": 1767052854,
-        "url": "https://www.chargepoint.com/about/opportunities/job/?gh_jid=8346708002",
-        "locations": [
-            "Los Gatos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ChargePoint",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -339728,7 +339674,7 @@
         "company_name": "ServiceNow",
         "id": "96fb8f30-f721-4712-816d-5a381a92d51f",
         "title": "Software Engineer - Agentic AI Harness & Quality",
-        "active": true,
+        "active": false,
         "date_updated": 1785967561,
         "date_posted": 1785967505,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000141804089",
@@ -340836,7 +340782,7 @@
         "company_name": "ServiceNow",
         "id": "9ed7b461-c9c3-4d18-9e17-4bbc1ad3e3c9",
         "title": "Software Engineer - Agentic AI Harness & Quality",
-        "active": true,
+        "active": false,
         "date_updated": 1785978549,
         "date_posted": 1785978443,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000141814009",
@@ -357187,7 +357133,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "b05d56a6-9510-4f43-8546-6af63813210d",
         "title": "Rugby Systems Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1786679567,
         "date_posted": 1786679445,
         "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/e0e7660f-fedf-448e-829c-7203d0a3d053/application?embed=true",
@@ -362295,7 +362241,7 @@
         "company_name": "Four Seasons",
         "id": "a71ba601-27e6-42d4-8631-e01a4dde78f4",
         "title": "Retail Attendant - Trading Company",
-        "active": true,
+        "active": false,
         "date_updated": 1786833400,
         "date_posted": 1786752000,
         "url": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Hualalai/Trading-Company---Retail-Attendant---Casual_REQ10387442",
