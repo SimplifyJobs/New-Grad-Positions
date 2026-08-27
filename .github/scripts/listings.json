@@ -95,24 +95,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "CACI",
-        "id": "2b0c9b6f-1c73-4fa0-9db1-6bbf3bc1f4d8",
-        "title": "Applications Programmer 1",
-        "active": false,
-        "date_updated": 1767114144,
-        "date_posted": 1767114144,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Norfolk/Applications-Programmer-I_313830",
-        "locations": [
-            "Norfolk, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "96235c20-8ae8-4f9e-a0c9-e0c82c1a718f",
@@ -308216,7 +308198,7 @@
         "company_name": "Hays Electrical Services",
         "id": "10232d0d-4e9b-4fc1-8961-da6acac23b88",
         "title": "Data Analyst 1 - Business Intelligence & Strategy",
-        "active": true,
+        "active": false,
         "date_updated": 1784792416,
         "date_posted": 1784788192,
         "url": "https://hayselectricalservices.applytojob.com/apply/gCUJCjoH7Z/Data-Analyst-I",
@@ -313624,7 +313606,7 @@
         "company_name": "Microsoft",
         "id": "57bebdd5-d767-48d4-b65a-21dc1d79e491",
         "title": "Senior Silicon Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784931672,
         "date_posted": 1784930843,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556940514",
@@ -326039,7 +326021,7 @@
         "company_name": "Deloitte",
         "id": "247fd114-6046-4c46-853c-a15c455a2486",
         "title": "Software Engineering Analyst - Consultative Offerings",
-        "active": false,
+        "active": true,
         "date_updated": 1785539638,
         "date_posted": 1785536783,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Analyst-Software-Engineering/350472",
@@ -337761,7 +337743,7 @@
         "company_name": "KLA Corporation",
         "id": "cbfac5cf-4ed7-4ec6-b9b8-84d173ce233a",
         "title": "Research Scientist - Plasma Light Source Development",
-        "active": false,
+        "active": true,
         "date_updated": 1785892697,
         "date_posted": 1778941915,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Research-Scientist---Plasma-Light-Source-Development_2635441",
@@ -352033,7 +352015,7 @@
         "company_name": "Axos Bank",
         "id": "85abc859-5041-4b75-b40d-40befacf7a1e",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786505648,
         "date_posted": 1786406400,
         "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA--Data-Engineer_JR5192-1",
@@ -363311,7 +363293,7 @@
         "company_name": "Northrop Grumman",
         "id": "e9f917dc-c9d2-46e9-a114-d3b7a9fb74b9",
         "title": "Repair and Calibration Technician C - 1st Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1787007265,
         "date_posted": 1786924800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/U109-Repair-and-Calibration-Technician-C---1st-Shift_R10242358-1",
@@ -370530,7 +370512,7 @@
         "company_name": "Pinnacle Live",
         "id": "ff008d88-54dd-49f8-9f8d-11e121689500",
         "title": "Event Services Technician - Audio Visual - Event Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1787228900,
         "date_posted": 1787178647,
         "url": "https://jobs.jobvite.com/pinnaclelive/job/oOjEAfw5?nl=1&nl=1&fr=false",
@@ -377289,7 +377271,7 @@
         "company_name": "Dell Technologies",
         "id": "af9ad2a9-dee9-44f4-abc5-b30f9c1df4e4",
         "title": "Hardware Engineer 1 - Client Solutions Group",
-        "active": true,
+        "active": false,
         "date_updated": 1787635457,
         "date_posted": 1787635353,
         "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298141",
@@ -380037,7 +380019,7 @@
         "company_name": "TD Bank",
         "id": "63d19d89-7015-4d97-8899-336d69fd2ea4",
         "title": "Data Science Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1787759331,
         "date_posted": 1787702400,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Associate_R_1506342",
@@ -380987,7 +380969,7 @@
         "company_name": "The Walt Disney Company",
         "id": "a5097a0a-6ce3-4617-b4e0-b214eec284bb",
         "title": "Software Engineer 1 - Rights & Accounting",
-        "active": true,
+        "active": false,
         "date_updated": 1787782127,
         "date_posted": 1787702400,
         "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Software-Engineer-I_10158076-2",
@@ -382552,6 +382534,258 @@
             "Salt Lake City, UT"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northrop Grumman",
+        "id": "e075f554-437f-4809-aa06-19e2c1a0fcf2",
+        "title": "Associate Configuration Analyst - Aht",
+        "active": true,
+        "date_updated": 1787849118,
+        "date_posted": 1787788800,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2026-Associate-Configuration-Analyst---Chandler-AZ--AHT-_R10248060",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASM International",
+        "id": "c987a249-3ad3-4d0f-9a08-f0acc968a347",
+        "title": "Software Engineer - Early Career - Fall 2026",
+        "active": true,
+        "date_updated": 1787849004,
+        "date_posted": 1787848785,
+        "url": "https://www.asm.com/open-vacancies/?gh_jid=4876722101",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/ASM-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Textron",
+        "id": "80c570a9-6dd8-492d-96d7-bec0cd87c8b5",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1787849039,
+        "date_posted": 1787848856,
+        "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344719",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Textron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Employee Owned Holdings",
+        "id": "fb6b11e8-01aa-4084-9705-e012f95a479b",
+        "title": "Shop Service Technician",
+        "active": true,
+        "date_updated": 1787848741,
+        "date_posted": 1787848739,
+        "url": "https://apply.workable.com/employee-owned-holdings-inc/j/9D02B83603/apply",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Employee-Owned-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NRG Energy",
+        "id": "073ed6df-77d7-4302-a76b-a711464e699e",
+        "title": "Field Service Technician",
+        "active": true,
+        "date_updated": 1787848823,
+        "date_posted": 1787848678,
+        "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Jackson-Field-Service-Professional-Jackson,-MS-MS-39211/1423965000/?ats=successfactors",
+        "locations": [
+            "Jackson, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/NRG-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "c92d6bc4-a299-44a6-b793-d8e2ff46ce73",
+        "title": "Digital Hardware Design Engineer 1",
+        "active": true,
+        "date_updated": 1787848797,
+        "date_posted": 1787788800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-1--Onsite-_01869154",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Light & Wonder",
+        "id": "f6d46bc5-5c75-4809-947a-99ae7a18bd06",
+        "title": "Field Service Technician",
+        "active": true,
+        "date_updated": 1787848794,
+        "date_posted": 1787848733,
+        "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/London-United-Kingdom/Field-Service-Technician_R321696",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Light-And-Wonder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "think-cell",
+        "id": "053c7987-6469-4ab8-b5d7-cdf305153c29",
+        "title": "C++ Developer",
+        "active": true,
+        "date_updated": 1787848561,
+        "date_posted": 1787848415,
+        "url": "https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Think-Cell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Global Lending Services",
+        "id": "862ba6d9-02fd-4ac4-831f-d7413f068a09",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1787848381,
+        "date_posted": 1787848357,
+        "url": "https://jobs.lever.co/glsllc/6fe04362-4ef7-46f2-acc7-4a72355ed90c/apply",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Lending-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Global Lending Services",
+        "id": "1add3426-ab0d-407a-9e68-5227d97d754d",
+        "title": "Data Scientist - December 2026",
+        "active": true,
+        "date_updated": 1787848537,
+        "date_posted": 1787848356,
+        "url": "https://jobs.lever.co/glsllc/d81bfc16-2ba1-41ca-ab21-7d8cffac9e07/apply",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Lending-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Beyondsoft",
+        "id": "773b7df0-1922-4c5d-aff1-24d116f5203c",
+        "title": "Printer Hardware Tester",
+        "active": true,
+        "date_updated": 1787848381,
+        "date_posted": 1787848313,
+        "url": "https://careers-beyondsoft.icims.com/jobs/10949/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Beyondsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics",
+        "id": "46aa7ac4-9135-48e5-97ec-5b8588350099",
+        "title": "SONAR Hull Arrays Engineer - SONAR Hull Arrays/Systems - C4ISR Systems Integration and Engineering",
+        "active": true,
+        "date_updated": 1787848544,
+        "date_posted": 1787848353,
+        "url": "https://careers-gdeb.icims.com/jobs/20311/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "New London, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Global Lending Services",
+        "id": "a7dd04c6-c880-41f3-9f62-e1a48155eb37",
+        "title": "Data Developer",
+        "active": true,
+        "date_updated": 1787848381,
+        "date_posted": 1787848359,
+        "url": "https://jobs.lever.co/glsllc/bf8d09cd-8858-4ce4-98c1-5b685b5bf238/apply",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Lending-Services",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
