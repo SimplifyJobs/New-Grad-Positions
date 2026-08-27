@@ -55,60 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "6fb64a4f-2701-4e81-bd38-9350990cafe7",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767111273,
-        "date_posted": 1767111273,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043666",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2a8263b8-2d8f-4c7d-83bd-9e24351c48e4",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767111288,
-        "date_posted": 1767111288,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044290",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "16727de9-9d73-4e13-9221-327d918cb85d",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767111271,
-        "date_posted": 1767111271,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044285",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Centene",
         "id": "060e04bf-e267-459e-89c4-c329ac5c593c",
@@ -125,24 +71,6 @@
             "Missouri"
         ],
         "company_url": "https://simplify.jobs/c/Centene",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "GXO Logistics",
-        "id": "fbd0f886-db3b-4c48-9809-44b0a0a68ddc",
-        "title": "Digital & Tech Graduate",
-        "active": false,
-        "date_updated": 1767112033,
-        "date_posted": 1767112033,
-        "url": "https://jobs.gxo.com/job/Northampton-Digital-&-Tech-Graduate-ENG-NN1-5GE/1352453600/?ats=successfactors",
-        "locations": [
-            "Northamptonshire, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GXO-Logistics",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -179,24 +107,6 @@
             "Norfolk, VA"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ed07a740-01bc-44dd-b591-745564b75132",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767111268,
-        "date_posted": 1767111268,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044328",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -783,24 +693,6 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/DaVita",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GXO Logistics",
-        "id": "89c254ef-0627-45c6-bef3-5f7b5eab4ea4",
-        "title": "Automation Engineering Assistant",
-        "active": false,
-        "date_updated": 1767112000,
-        "date_posted": 1767112000,
-        "url": "https://jobs.gxo.com/job/Northampton-Automation-Engineering-Assistant-ENG-NN6-7GZ/1352481100/?ats=successfactors",
-        "locations": [
-            "England, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GXO-Logistics",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -218124,7 +218016,7 @@
         "company_name": "SpaceX",
         "id": "ed8feb9e-1d5d-49ae-a70f-b4d24228a9d6",
         "title": "OS/Platform Software Engineer - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1779825962,
         "date_posted": 1779343906,
         "url": "https://boards.greenhouse.io/spacex/jobs/8552882002",
@@ -218469,7 +218361,7 @@
         "company_name": "Sysmex",
         "id": "71149fe5-961e-4bf1-8571-edd4d46f114a",
         "title": "Technician - Field Service - Regional",
-        "active": true,
+        "active": false,
         "date_updated": 1779914776,
         "date_posted": 1779487610,
         "url": "https://careers-sysmex.icims.com/jobs/4707/job?mobile=true&needsRedirect=false",
@@ -300615,7 +300507,7 @@
         "company_name": "Ryder System",
         "id": "3115293e-b441-44c4-a702-ffbbf8b9ef9e",
         "title": "Application Support Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784629277,
         "date_posted": 1778942329,
         "url": "https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/USA---Coral-Gables-FL-33134/Application-Support-Engineer-I_R170446",
