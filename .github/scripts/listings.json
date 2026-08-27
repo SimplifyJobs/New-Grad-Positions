@@ -273104,7 +273104,7 @@
         "company_name": "Welo Global",
         "id": "a64d3e41-0647-4eea-9f66-4dce71543588",
         "title": "Maps Personalization Relevance Rater - English",
-        "active": false,
+        "active": true,
         "date_updated": 1783203485,
         "date_posted": 1783202821,
         "url": "https://jobs.lever.co/weloglobal/0157c8d2-ccef-4760-89c2-cd874506955f/apply",
@@ -287209,7 +287209,7 @@
         "company_name": "Johnson Controls",
         "id": "4ebf8f88-bb54-4343-b0ff-381c6f49e4b4",
         "title": "HVAC Controls Systems Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784039212,
         "date_posted": 1783987200,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Capitol-Heights-Maryland-United-States-of-America/HVAC-Controls-Systems-Application-Engineer_WD30274054-1",
@@ -298040,7 +298040,7 @@
         "company_name": "Glass Roots Construction, LLC",
         "id": "6ff60b2d-a99b-4ef7-be1d-e3488827eba8",
         "title": "Fiber Optic Splicer",
-        "active": false,
+        "active": true,
         "date_updated": 1784598161,
         "date_posted": 1784596607,
         "url": "https://ats.rippling.com/glass-roots-construction-llc/jobs/769f92ed-ba34-43e7-aef4-7fc826d816d4",
@@ -330490,7 +330490,7 @@
         "company_name": "Pennsylvania State University",
         "id": "76fd2c40-9ab2-4c91-bf0d-bc8695bca524",
         "title": "Signal Processing Research and Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785673993,
         "date_posted": 1782955988,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Signal-Processing-Research-and-Development-Engineer_REQ_0000071090-2",
@@ -377070,7 +377070,7 @@
         "company_name": "Cisco",
         "id": "748876fb-0603-4b73-b26c-469bc138674c",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787616836,
         "date_posted": 1787616435,
         "url": "https://careers.cisco.com/global/en/job/2023527",
@@ -382025,5 +382025,62 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "bb4096a0-ae85-4552-b9db-d9df3019c3ff",
+        "title": "Technology Graduate",
+        "active": true,
+        "date_updated": 1787825341,
+        "date_posted": 1787788800,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Technology-Graduate_R999267",
+        "locations": [
+            "London, UK",
+            "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AVI-SPL",
+        "id": "ae3ff313-9066-45b3-9c68-93256354d125",
+        "title": "Audio-Visual Support Technician",
+        "active": true,
+        "date_updated": 1787825263,
+        "date_posted": 1786679910,
+        "url": "https://careers.avispl.com/jobs/11987?icims=1",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/AVI-SPL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "cc1bf924-5d1c-465d-873d-d2e803f566d2",
+        "title": "Data Collection Operator - Optimus - Afternoon Shift",
+        "active": true,
+        "date_updated": 1787826425,
+        "date_posted": 1784078607,
+        "url": "https://www.tesla.com/careers/search/job/276807",
+        "locations": [
+            "Marina Del Rey, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
