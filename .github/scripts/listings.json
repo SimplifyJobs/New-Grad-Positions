@@ -329780,7 +329780,7 @@
         "company_name": "ManTech",
         "id": "678077f9-ae48-457f-8a21-5b51072d2d48",
         "title": "Associate CNO Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1785632425,
         "date_posted": 1785632384,
         "url": "https://mantech.avature.net/en_US/careers/JobDetail/64788",
@@ -376625,7 +376625,7 @@
         "company_name": "RTX",
         "id": "40ac8f0e-2e41-4c53-9757-6a1ee928093c",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787611116,
         "date_posted": 1787529600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Software-Engineer-I---Onsite-_01867989",
@@ -381852,5 +381852,24 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Retell AI",
+        "id": "d44c4b34-245b-4951-b4ec-573f93fbe2ac",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1787815081,
+        "date_posted": 1787815052,
+        "url": "https://jobs.ashbyhq.com/retell-ai/7a23a933-cc70-43c9-a0d8-9f0c08ea4fd9/application?embed=true",
+        "locations": [
+            "SF",
+            "Redwood City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Retell-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
