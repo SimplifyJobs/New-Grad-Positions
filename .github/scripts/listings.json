@@ -270301,7 +270301,7 @@
         "company_name": "Clarity Innovations",
         "id": "ff966379-204b-4e1a-b720-8443d3c7bb31",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1783002961,
         "date_posted": 1781791880,
         "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5167161007",
@@ -337869,7 +337869,7 @@
         "company_name": "KLA Corporation",
         "id": "cbfac5cf-4ed7-4ec6-b9b8-84d173ce233a",
         "title": "Research Scientist - Plasma Light Source Development",
-        "active": true,
+        "active": false,
         "date_updated": 1785892697,
         "date_posted": 1778941915,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Research-Scientist---Plasma-Light-Source-Development_2635441",
@@ -382585,5 +382585,44 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "e956ef2d-bb6c-4265-9310-de2b65de47a4",
+        "title": "Graduate Electrical Engineer",
+        "active": true,
+        "date_updated": 1787843046,
+        "date_posted": 1787842921,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8747132002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fospha",
+        "id": "5a8c2ad6-24ca-439a-bee5-659a55c1f9a7",
+        "title": "Graduate Marketing Scientist - Marketing Science",
+        "active": true,
+        "date_updated": 1787843919,
+        "date_posted": 1787781197,
+        "url": "https://job-boards.greenhouse.io/fosphamarketing/jobs/8146708",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Fospha",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
