@@ -55,42 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GlobalFoundries",
-        "id": "41660290-1168-4092-b611-f783ca3a2a9f",
-        "title": "Graduate - Electronics Repair Technician",
-        "active": false,
-        "date_updated": 1767053989,
-        "date_posted": 1767053989,
-        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Technician-Global-Parts-Solutions_JR-2502317",
-        "locations": [
-            "Malta, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/GlobalFoundries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Rubrik",
-        "id": "f2c0912c-93f0-40c2-b4bc-52e69ee1e39d",
-        "title": "Software Engineer - Distributed Systems - Platform Software",
-        "active": false,
-        "date_updated": 1767053616,
-        "date_posted": 1767053616,
-        "url": "https://www.rubrik.com/company/careers/departments/job.6528028?gh_jid=6528028",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rubrik",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Capital One",
         "id": "646ce403-5f8d-440b-bcb2-eb5429c6a98e",
@@ -285616,7 +285580,7 @@
         "company_name": "xAI",
         "id": "b3876b2d-c196-46fb-96c4-bbb3e767c0b0",
         "title": "Software Engineer - Ads Product",
-        "active": false,
+        "active": true,
         "date_updated": 1783981441,
         "date_posted": 1780363118,
         "url": "https://job-boards.greenhouse.io/xai/jobs/5152408007",
@@ -346085,7 +346049,7 @@
         "company_name": "Starbucks",
         "id": "e0a94eec-3148-4c4a-a240-6dbffb7885f3",
         "title": "Software Engineer - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786201304,
         "date_posted": 1786201027,
         "url": "https://starbucks.eightfold.ai/careers/job/481078166214",
@@ -381683,6 +381647,74 @@
             "Moscow, ID"
         ],
         "company_url": "https://simplify.jobs/c/Lightcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TGG Accounting",
+        "id": "5d4b848d-9edd-4e6a-96b3-7ee2ad767b7c",
+        "title": "Panel Builder",
+        "active": true,
+        "date_updated": 1787790579,
+        "date_posted": 1787790383,
+        "url": "https://tggaccounting.bamboohr.com/careers/993/",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/TGG-Accounting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "e272d271-3f33-463b-8565-2ba2c0e51897",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1787790574,
+        "date_posted": 1787702400,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Data-Scientist_R0247963",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Solirius Reply",
+        "id": "27adfd63-7ab1-4e67-8950-da5df8534093",
+        "title": "Technology Consultant",
+        "active": true,
+        "date_updated": 1787790546,
+        "date_posted": 1787790364,
+        "url": "https://apply.workable.com/solirius-consulting-1/j/6FA7116836/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Solirius-Reply",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
