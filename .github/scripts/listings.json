@@ -181640,7 +181640,7 @@
         "company_name": "NVIDIA",
         "id": "1de13b97-34aa-4238-8e96-9b36b4e9d623",
         "title": "Compiler Engineer \u2013 Backend-New College Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1777501326,
         "date_posted": 1777500504,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290",
@@ -223615,7 +223615,7 @@
         "company_name": "Micron Technology",
         "id": "246cd778-c7c8-4dd5-88be-30f5e424219b",
         "title": "DRAM Design Engineer New Grad - DRAM Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780323766,
         "date_posted": 1780322983,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---DRAM-Design-Engineer_JR103089",
@@ -248047,7 +248047,7 @@
         "company_name": "Oracle",
         "id": "bca2a975-6520-4a59-a4aa-78eec9cb1292",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781659067,
         "date_posted": 1781658413,
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/337262",
@@ -339677,7 +339677,7 @@
         "company_name": "Treeswift",
         "id": "b3541444-6a47-4fee-a24f-875dc0687657",
         "title": "Data Annotation Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1785968824,
         "date_posted": 1785968473,
         "url": "https://jobs.ashbyhq.com/treeswift/b1252d78-3e55-4d4c-a23e-a9dacaf0d050/application?embed=true",
@@ -357479,7 +357479,7 @@
         "company_name": "International Motors, LLC",
         "id": "aa53d20c-29e5-4d18-9182-0e00bfa1cdd6",
         "title": "Product Engineer - Electrical",
-        "active": true,
+        "active": false,
         "date_updated": 1786680721,
         "date_posted": 1786680263,
         "url": "https://careers.navistar.com/jobs/59530?icims=1",
@@ -377045,7 +377045,7 @@
         "company_name": "STCU",
         "id": "f6ea312c-a27d-4faa-9ea7-e433fa700f5a",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787620297,
         "date_posted": 1787620065,
         "url": "https://jobs.smartrecruiters.com/STCU1/744000145379939",
@@ -380293,7 +380293,7 @@
         "company_name": "Sargent & Lundy",
         "id": "ad686b42-16fb-4a17-b251-d02681612001",
         "title": "AI & Automation Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787781069,
         "date_posted": 1787780907,
         "url": "https://careers-sargentlundy.icims.com/jobs/26550/job?mobile=true&needsRedirect=false",
@@ -381343,7 +381343,7 @@
         "company_name": "Microchip Technology",
         "id": "0d95c99d-1456-499f-8755-a630e544f21c",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787785992,
         "date_posted": 1787702400,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--Software_R698-26",
@@ -383487,6 +383487,171 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "ffb4bdca-3de5-4962-937b-7fda5a63c717",
+        "title": "Applications Development Engineer - Broadband Plasma",
+        "active": true,
+        "date_updated": 1787871241,
+        "date_posted": 1787788800,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Development-Engineer---BBP_2640025",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "d4b7c637-570f-409e-beaf-5d2c23cf8d68",
+        "title": "Applications Development Engineer - Broadband Plasma",
+        "active": true,
+        "date_updated": 1787871241,
+        "date_posted": 1787788800,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Applications-Development-Engineer---BBP_2640025-2",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "92e26ac8-dfc6-42c8-867f-6c96fb1a9e63",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1787870901,
+        "date_posted": 1787788800,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030526",
+        "locations": [
+            "Lone Tree, CO",
+            "Dayton, OH",
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "07bd103c-1d70-4013-a353-134890eb3530",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1787870904,
+        "date_posted": 1787788800,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030529",
+        "locations": [
+            "Lone Tree, CO",
+            "Dayton, OH",
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "1ed0d67f-c05f-4cc9-bf79-9c13b1a17811",
+        "title": "Engineering Technician - Abuse Test & Engineering",
+        "active": true,
+        "date_updated": 1787870521,
+        "date_posted": 1787870481,
+        "url": "https://www.tesla.com/careers/search/job/281591",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IMC Trading",
+        "id": "bd50ff7c-e21f-427c-87ad-4a45b42e134c",
+        "title": "Performance Engineer",
+        "active": true,
+        "date_updated": 1787870001,
+        "date_posted": 1787869651,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823836101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMC-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "PPM America",
+        "id": "02ab53a2-36d6-46d0-8ad1-58769df24947",
+        "title": "Trading Associate",
+        "active": true,
+        "date_updated": 1787869629,
+        "date_posted": 1787788800,
+        "url": "https://jackson.wd1.myworkdayjobs.com/ppma_careers/job/Chicago-IL/Trading-Associate--PPM_REQ-03920",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/PPM-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Micron Technology",
+        "id": "2bc345ba-6706-4efb-925f-c449a37bc3d5",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1787869832,
+        "date_posted": 1787788800,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
