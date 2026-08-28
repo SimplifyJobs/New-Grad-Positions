@@ -219606,7 +219606,7 @@
         "company_name": "Marsh & McLennan",
         "id": "2b75b805-1f1c-4167-ba95-493ef3e81786",
         "title": "AI Analyst - Architecture",
-        "active": true,
+        "active": false,
         "date_updated": 1779930529,
         "date_posted": 1778940306,
         "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Dublin---Charlotte/AI-Analyst---Architecture_R_347311",
@@ -340998,7 +340998,7 @@
         "company_name": "JP Morgan Chase",
         "id": "2952c868-196f-449a-a019-79a5ddd2a514",
         "title": "Equities Trading Analyst - Cash Equities Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1786026624,
         "date_posted": 1786025604,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778146",
@@ -383728,6 +383728,67 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bosch Home Comfort",
+        "id": "107cf100-bd38-4d8f-8f2d-c55e7a97bcbe",
+        "title": "Digital Product & Delivery Graduate",
+        "active": true,
+        "date_updated": 1787908142,
+        "date_posted": 1787908051,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146140359",
+        "locations": [
+            "Worcester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "2189cc14-cc40-48f0-bc91-3b649e11fec9",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1787908022,
+        "date_posted": 1787788800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01869922",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "351d2f35-75ef-4c00-bad5-ef68baac6de1",
+        "title": "Coherent Optical Systems Engineer - Optical Modem Development and Optimization",
+        "active": true,
+        "date_updated": 1787908700,
+        "date_posted": 1769383007,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31075",
+        "locations": [
+            "Germany",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
