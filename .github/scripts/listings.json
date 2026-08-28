@@ -384009,5 +384009,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Culina Group",
+        "id": "75402146-9ba8-4366-a048-72d66cd5bfeb",
+        "title": "Desktop Engineer Trainee - Fleet Department",
+        "active": true,
+        "date_updated": 1787926321,
+        "date_posted": 1787926276,
+        "url": "https://jobs.smartrecruiters.com/CulinaGroup1/744000146165979",
+        "locations": [
+            "Warrington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Culina-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
