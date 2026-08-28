@@ -384081,5 +384081,47 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Empower AI",
+        "id": "08b99270-74f2-4861-83ed-68f7ac35d850",
+        "title": "Junior Software Developer - Systems Software",
+        "active": true,
+        "date_updated": 1787930281,
+        "date_posted": 1787930192,
+        "url": "https://careers-empowerai.icims.com/jobs/9489/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Empower-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Allen Control Systems",
+        "id": "c2eb777c-07d3-435c-84fa-0952b2f9993a",
+        "title": "Software Engineer - All Levels",
+        "active": true,
+        "date_updated": 1787929561,
+        "date_posted": 1779152971,
+        "url": "https://jobs.ashbyhq.com/allen-control-systems/ea9cfc80-583c-48a9-a719-a17f572c6486/application?embed=true",
+        "locations": [
+            "Austin, TX",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Allen-Control-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
