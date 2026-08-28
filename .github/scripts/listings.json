@@ -207300,7 +207300,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -286720,7 +286720,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -321684,7 +321684,7 @@
         "company_name": "Dollar General",
         "id": "999e5036-8e21-4d44-8bcf-c4597414e346",
         "title": "Media Network Insights Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785366362,
         "date_posted": 1785364732,
         "url": "https://careers.dollargeneral.com/jobs/365560?icims=1",
@@ -351594,7 +351594,7 @@
         "company_name": "Axos Bank",
         "id": "85abc859-5041-4b75-b40d-40befacf7a1e",
         "title": "Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1786505648,
         "date_posted": 1786406400,
         "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA--Data-Engineer_JR5192-1",
@@ -383646,5 +383646,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Obsidian Solutions Group",
+        "id": "0f94673d-ad63-443b-b316-2c5a32b269a9",
+        "title": "Electrical Assembly Technician - J-STD-001 Certified",
+        "active": true,
+        "date_updated": 1787886901,
+        "date_posted": 1787886875,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4459022",
+        "locations": [
+            "Fredericksburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Obsidian-Solutions-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
