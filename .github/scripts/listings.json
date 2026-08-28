@@ -207242,7 +207242,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -383789,6 +383789,49 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pfizer",
+        "id": "37c156da-bef2-4df9-b433-fb6d79ebaa82",
+        "title": "Recipe Author",
+        "active": true,
+        "date_updated": 1787909961,
+        "date_posted": 1786140181,
+        "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Michigan---Kalamazoo/Recipe-Author_4955260-2",
+        "locations": [
+            "Kalamazoo, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Pfizer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Allen Control Systems",
+        "id": "1ea3eee5-9e41-4423-bc32-566742b27aea",
+        "title": "Software Engineer - Robotics - Motion",
+        "active": true,
+        "date_updated": 1787910121,
+        "date_posted": 1781302113,
+        "url": "https://jobs.ashbyhq.com/allen-control-systems/4495957d-f4af-493d-ba92-2c7e72e618db/application?embed=true",
+        "locations": [
+            "Austin, TX",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Allen-Control-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
