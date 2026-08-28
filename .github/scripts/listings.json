@@ -144406,7 +144406,7 @@
         "company_name": "Observable Space",
         "id": "2b06a568-e62e-4895-be8b-8eb922cb5288",
         "title": "Junior Optical Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775257381,
         "date_posted": 1775254164,
         "url": "https://jobs.ashbyhq.com/observable-space/5c3952b2-9533-46d7-97c2-a0c4fa1a90b1/application",
@@ -326902,7 +326902,7 @@
         "company_name": "Ashby",
         "id": "51cd0743-ca8b-4606-b478-0c3aa6d02dd0",
         "title": "Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785596041,
         "date_posted": 1781302135,
         "url": "https://jobs.ashbyhq.com/ashby/85713f4a-ad14-4edd-8c56-0065f5897551/application?embed=true",
@@ -383850,6 +383850,44 @@
             "Melville, NY"
         ],
         "company_url": "https://simplify.jobs/c/Canon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Viavi Solutions",
+        "id": "52359f6e-ece2-48b9-a135-9c1af9490443",
+        "title": "Development Engineer - Rotational Program",
+        "active": true,
+        "date_updated": 1787923727,
+        "date_posted": 1787875200,
+        "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Stevenage-GBR/Rotational-Program-Development-Engineer_260004986-1",
+        "locations": [
+            "Stevenage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Viavi-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Campbell's Company",
+        "id": "c18095d5-95d3-4f40-934d-c91e994cc9d7",
+        "title": "Sanitation Technician Lead - 3rd Shift",
+        "active": true,
+        "date_updated": 1787923833,
+        "date_posted": 1783375659,
+        "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---TX---Austin/Industrial-Food-Manufacturing-Sanitation-Tech-Lead---Overnight_Req-66399",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Campbells-Company",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
