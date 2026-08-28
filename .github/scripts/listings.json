@@ -294337,7 +294337,7 @@
         "company_name": "Simpson Strong-Tie",
         "id": "09c87d1d-43ad-457b-b3ef-c2d74085e356",
         "title": "Software Engineer Associate - Cloud Services & API Platform - C#/Azure track",
-        "active": true,
+        "active": false,
         "date_updated": 1784401209,
         "date_posted": 1784160000,
         "url": "https://strongtie.wd1.myworkdayjobs.com/en-US/External/job/Plano-TX/Associate-Software-Engineer---Cloud-Services---API-Platform--C--Azure-track-_R7829",
@@ -362206,7 +362206,7 @@
         "company_name": "Vanguard",
         "id": "63c8f9f0-63df-4da7-814f-a0c46291dda0",
         "title": "Data Analyst - Data & Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1787005243,
         "date_posted": 1786924800,
         "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Technology-Leadership-Program---Data---Analytics--Analyst----PA_180088-1",
@@ -362226,7 +362226,7 @@
         "company_name": "Vanguard",
         "id": "5d7b062e-7a3b-4e6b-b682-2c51f14fb6d7",
         "title": "Data Analyst - Data & Analytics - Technology Leadership Program",
-        "active": false,
+        "active": true,
         "date_updated": 1787005244,
         "date_posted": 1786924800,
         "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Technology-Leadership-Program---Data---Analytics--Analyst----NC_180091-1",
@@ -365402,7 +365402,7 @@
         "company_name": "Stryker",
         "id": "659b34df-a909-4297-a039-f36c5603ab51",
         "title": "Software Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1787091662,
         "date_posted": 1787011200,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Indiana-Fort-Wayne-1950-West-Cook-Road/Software-Development-Engineer_R570340",
@@ -372579,7 +372579,7 @@
         "company_name": "MassMutual Ascend",
         "id": "428df784-325e-4a3f-91fc-db383c993b7b",
         "title": "Quantitative Consultant - Stable Value Product",
-        "active": true,
+        "active": false,
         "date_updated": 1787335381,
         "date_posted": 1787270400,
         "url": "https://massmutual.wd1.myworkdayjobs.com/MMAscendCareers/job/Springfield-MA/Quantitative-Consultant_R20941-2",
@@ -379894,7 +379894,7 @@
         "company_name": "Health Services Advisory Group",
         "id": "12a3b7d1-090a-40ac-aa68-6b353cf34dc1",
         "title": "Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787781069,
         "date_posted": 1787780644,
         "url": "https://jobs.lever.co/hsag/2937f26a-3e66-4d42-ba61-c26e5b52f488/apply",
@@ -384707,6 +384707,184 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "RELX",
+        "id": "c77f6d21-89c4-4266-b3c0-88a312a21432",
+        "title": "Product Operations Coordinator",
+        "active": true,
+        "date_updated": 1787956033,
+        "date_posted": 1787875200,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Duluth-GA/Product-Operations-Coordinator_R117678-1",
+        "locations": [
+            "Duluth, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TC Energy",
+        "id": "5fddc043-6751-4ad7-8e6a-005f2c260e72",
+        "title": "Data Analyst - IoTx",
+        "active": true,
+        "date_updated": 1787955329,
+        "date_posted": 1787875200,
+        "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Thompsons-Station-Tennessee/IOTx-Data-Analyst_JR-10660",
+        "locations": [
+            "Thompson's Station, TN",
+            "Washington, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/TC-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ABB",
+        "id": "5a26da4a-19ad-4f1c-9fe1-b44593866407",
+        "title": "Service Repair Technician",
+        "active": true,
+        "date_updated": 1787955301,
+        "date_posted": 1787875200,
+        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Service-Repair-Technician_JR00045589",
+        "locations": [
+            "New Berlin, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/ABB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EXL",
+        "id": "944e10c3-5017-49cd-8c78-2a403174ed42",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1787955121,
+        "date_posted": 1787955072,
+        "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/19099",
+        "locations": [
+            "Georgia"
+        ],
+        "company_url": "https://simplify.jobs/c/EXL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Loram",
+        "id": "1dc45232-46ac-41cb-b13c-4cb7493ff849",
+        "title": "R&D Engineer 1 - R&D Technology",
+        "active": true,
+        "date_updated": 1787955154,
+        "date_posted": 1787954971,
+        "url": "https://jobs.smartrecruiters.com/Loram1/3743990014922526",
+        "locations": [
+            "Georgetown, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Loram",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vermeer",
+        "id": "74af6c16-85ee-4e4b-89c6-1296e8169c52",
+        "title": "IT Developer",
+        "active": true,
+        "date_updated": 1787954941,
+        "date_posted": 1787875200,
+        "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/USA---Remote/IT-Developer_REQ-21962",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vermeer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sutherland",
+        "id": "ac65c1d8-3900-4fdc-9a5a-bc79479f848d",
+        "title": "Provider Data Management Specialist - Enrollment",
+        "active": true,
+        "date_updated": 1787954993,
+        "date_posted": 1787954782,
+        "url": "https://jobs.smartrecruiters.com/Sutherland/744000146255129",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Sutherland",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "7411f01e-5960-4f80-a290-d48a3277a839",
+        "title": "Data Science Engineer - Computational Engineering Division",
+        "active": true,
+        "date_updated": 1787954761,
+        "date_posted": 1787954743,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990014934566",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Vanderbilt University",
+        "id": "89963cd1-87da-4c18-a40e-6a48ab758807",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1787954401,
+        "date_posted": 1787954263,
+        "url": "https://ecsr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10008795",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanderbilt-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
