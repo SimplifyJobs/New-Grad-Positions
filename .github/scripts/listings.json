@@ -267815,7 +267815,7 @@
         "company_name": "AT&T",
         "id": "dbe103b1-b383-4e45-858a-901fe2d3c566",
         "title": "Senior Specialist Member of Technical Staff",
-        "active": false,
+        "active": true,
         "date_updated": 1782961691,
         "date_posted": 1782956324,
         "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACASan-Ramon--5005-Executive-Pkwy---Adm-north-Wing5005-Executive-Pkwy/Sr-Specialist-Member-of-Technical-Staff_R-113509",
@@ -300711,7 +300711,7 @@
         "company_name": "L3Harris Technologies",
         "id": "8c744354-a4ae-42f5-8f27-c5ab2023398c",
         "title": "Associate \u2013 Hardware Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784635742,
         "date_posted": 1784613878,
         "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Hardware-Engineer-TX-75402/1410860300/?ats=successfactors",
@@ -377495,7 +377495,7 @@
         "company_name": "Zebra Technologies",
         "id": "a2cd6925-e8fa-4880-8ab2-121c9710ccac",
         "title": "Player Tracking System Specialist - Seasonal",
-        "active": true,
+        "active": false,
         "date_updated": 1787682130,
         "date_posted": 1787616000,
         "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Texas-Offsite/Dallas---Player-Tracking-System-Specialist--Seasonal-_JR103052",
@@ -377535,7 +377535,7 @@
         "company_name": "RTX",
         "id": "57ebe73c-5293-496b-9bf5-1b38081d2cdf",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787682172,
         "date_posted": 1787616000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I---Onsite-_01868242",
@@ -381352,7 +381352,7 @@
         "company_name": "Claremont McKenna College",
         "id": "d63db124-0563-4ce0-aeea-eeffb15ecb50",
         "title": "Post-Baccalaureate Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1787829355,
         "date_posted": 1786320000,
         "url": "https://theclaremontcolleges.wd1.myworkdayjobs.com/CMC_Staff/job/Claremont/Post-Baccalaureate-Fellow--Temporary-_REQ-8333",
@@ -384598,5 +384598,115 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KLA Corporation",
+        "id": "38b3ffd6-c574-43b6-b9ec-d1c477d2bfac",
+        "title": "Algorithm Engineer",
+        "active": true,
+        "date_updated": 1787954221,
+        "date_posted": 1787875200,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Engineer_2640167-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "649c43b4-ecea-4ee8-b78e-601bfe8a7376",
+        "title": "Software Engineer Associate",
+        "active": true,
+        "date_updated": 1787953596,
+        "date_posted": 1787953441,
+        "url": "https://jobs.l3harris.com/job/Richardson-Associate,-Software-Engineer-TX-75080/1424473800/?ats=successfactors",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cummins",
+        "id": "c08bb30b-70f9-4e9f-8e9b-1149ed41b216",
+        "title": "Electronic Systems Product Engineer",
+        "active": true,
+        "date_updated": 1787952601,
+        "date_posted": 1787952498,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434235",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BP",
+        "id": "41fa3726-240e-4205-ba6d-a0e8861b3919",
+        "title": "Reservoir Engineer - Subsurface Group",
+        "active": true,
+        "date_updated": 1787952689,
+        "date_posted": 1787875200,
+        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Graduate---Reservoir-Engineer---Houston--TX_RQ114818",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/BP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Iberdrola Group",
+        "id": "ac2ae229-7224-4e3c-be41-781ae6ea4954",
+        "title": "Technology Rotational Program - Digital & Analytics",
+        "active": true,
+        "date_updated": 1787952671,
+        "date_posted": 1787875200,
+        "url": "https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Local-Graduate-Rotational-Program--Technology--Digital---Analytics_R-33041",
+        "locations": [
+            "Boston, MA",
+            "Rochester, NY",
+            "Augusta, ME",
+            "Orange, CT",
+            "Binghamton, NY",
+            "Portland, OR",
+            "Portland, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/Iberdrola-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
