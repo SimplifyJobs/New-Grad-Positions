@@ -57,24 +57,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "6eabd460-a6df-483c-8468-4a782bbea687",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767176819,
-        "date_posted": 1767176819,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043744",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "ba6324da-649b-481a-a265-508a1eaa0ddf",
         "title": "Trading Assistant",
         "active": false,
@@ -338063,7 +338045,7 @@
         "company_name": "GE Healthcare",
         "id": "5f124482-70eb-4f67-9cd3-139369ce9d22",
         "title": "Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785925058,
         "date_posted": 1784505600,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1---Dallas-TX_R4043560",
