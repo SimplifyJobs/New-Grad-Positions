@@ -246950,7 +246950,7 @@
         "company_name": "L3Harris Technologies",
         "id": "d72f1561-aa58-4bca-bbdb-8e0b2e2fb90e",
         "title": "Configuration Management Senior Associate - Configuration Management",
-        "active": true,
+        "active": false,
         "date_updated": 1781649265,
         "date_posted": 1781647847,
         "url": "https://jobs.l3harris.com/job/Waco-Sr_-Associate,-Configuration-Management-TX-76705/1400493500/?ats=successfactors",
@@ -265142,7 +265142,7 @@
         "company_name": "Gentex Corporation",
         "id": "13816ebb-26ab-4844-bc5f-6090d01efe10",
         "title": "Machine Vision Development Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1782916012,
         "date_posted": 1782914883,
         "url": "https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Machine-Vision-Development-Engineer-I_REQ026227",
@@ -337383,7 +337383,7 @@
         "company_name": "Qualcomm",
         "id": "d4999f6f-b6dc-41ef-b7ee-8ec0c83e90bd",
         "title": "Camera Low Power Engineer - Camera Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785910681,
         "date_posted": 1785910531,
         "url": "https://qualcomm.eightfold.ai/careers/job/446718440313",
@@ -360877,7 +360877,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -360975,7 +360975,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -361279,7 +361279,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -370790,7 +370790,7 @@
         "company_name": "RTX",
         "id": "d08f6602-a351-4d68-96e6-97a1a27221d9",
         "title": "Electrical Engineer 1 - ASIC/FPGA",
-        "active": true,
+        "active": false,
         "date_updated": 1787264527,
         "date_posted": 1787184000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical--ASIC-FPGA--Engineer-1_01863462",
@@ -372836,7 +372836,7 @@
         "company_name": "CACI",
         "id": "c8b3af43-8258-458a-a9ea-a0f4425e8595",
         "title": "Geospatial Maritime Analyst - Digitizer - Collections Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787343546,
         "date_posted": 1787270400,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/Fort-Collins-CO-US/GIS-Geospatial-Maritime-Analyst---Digitizer---Collections-Analyst_330955",
@@ -375662,7 +375662,7 @@
         "company_name": "Nightwing Intelligence Solutions",
         "id": "dead17d4-de13-40ac-923b-ac8d41bdaba0",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1787608785,
         "date_posted": 1787529600,
         "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Engineer-I_JR101958",
@@ -378663,7 +378663,7 @@
         "company_name": "D-Wave Quantum",
         "id": "81dd9e68-82e0-4042-a97f-ce2f429a825f",
         "title": "Software Engineer 1 - Systems Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1787704304,
         "date_posted": 1787704132,
         "url": "https://ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06",
@@ -383967,6 +383967,376 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Humana",
+        "id": "945b5432-3cac-4f5a-ab66-b109f0305791",
+        "title": "Junior Business Information Architect",
+        "active": true,
+        "date_updated": 1787950781,
+        "date_posted": 1787875200,
+        "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Junior--Business-Information-Architect_R-425294",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Humana",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stantec",
+        "id": "c827a700-5a23-411c-932d-4168d653e02e",
+        "title": "Geospatial Analyst",
+        "active": true,
+        "date_updated": 1787950621,
+        "date_posted": 1787950586,
+        "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007357",
+        "locations": [
+            "Madison, WI",
+            "Milwaukee, WI",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Stantec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "60939f3a-adfd-468b-878f-957b1f16e003",
+        "title": "Applications Engineer",
+        "active": true,
+        "date_updated": 1787950750,
+        "date_posted": 1787875200,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/United-Kingdom---Whiteley/Senior-Engineer---Applications_R3387-26-1",
+        "locations": [
+            "Whiteley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "e7a97be7-ee20-442f-8ac6-81aedeb5c8a8",
+        "title": "Engineer 1 Applications - Secure Computing Group",
+        "active": true,
+        "date_updated": 1787950744,
+        "date_posted": 1787875200,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Austin---Park-Centre/Engineer-I-Applications_R3757-26",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "9832a63d-8aa0-487a-8736-a199952f78d9",
+        "title": "Product Management Graduate - Master's/MBA",
+        "active": true,
+        "date_updated": 1787950441,
+        "date_posted": 1787875200,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633",
+        "locations": [
+            "Andover, MA",
+            "Bloomington, MN",
+            "San Jose, CA",
+            "Spring, TX",
+            "Durham, NC",
+            "Westford, MA",
+            "Chippewa Falls, WI",
+            "Fort Collins, CO",
+            "Sunnyvale, CA",
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "240aec7f-4292-4146-b546-08c1b4d6430f",
+        "title": "Software Engineer Graduate",
+        "active": true,
+        "date_updated": 1787950441,
+        "date_posted": 1787875200,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624",
+        "locations": [
+            "Andover, MA",
+            "Bloomington, MN",
+            "San Jose, CA",
+            "Spring, TX",
+            "Durham, NC",
+            "Westford, MA",
+            "Chippewa Falls, WI",
+            "Fort Collins, CO",
+            "Sunnyvale, CA",
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "6df5e739-1248-4b50-b721-fd0c87a900e0",
+        "title": "Data Science New Grad",
+        "active": true,
+        "date_updated": 1787950545,
+        "date_posted": 1787875200,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1213631",
+        "locations": [
+            "Andover, MA",
+            "Bloomington, MN",
+            "San Jose, CA",
+            "Spring, TX",
+            "Durham, NC",
+            "Westford, MA",
+            "Chippewa Falls, WI",
+            "Fort Collins, CO",
+            "Sunnyvale, CA",
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "8ab830e6-c684-42df-a4df-3aedc91bd88b",
+        "title": "Firmware Engineer Graduate",
+        "active": true,
+        "date_updated": 1787950441,
+        "date_posted": 1787875200,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Graduate_1213626",
+        "locations": [
+            "Andover, MA",
+            "Bloomington, MN",
+            "San Jose, CA",
+            "Spring, TX",
+            "Durham, NC",
+            "Westford, MA",
+            "Chippewa Falls, WI",
+            "Fort Collins, CO",
+            "Sunnyvale, CA",
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SRI International",
+        "id": "42886bb0-a824-4a57-b7bb-76e2e1855ec5",
+        "title": "Research Engineer - Semiconductor Materials",
+        "active": true,
+        "date_updated": 1787950261,
+        "date_posted": 1787950133,
+        "url": "https://careers-sri.icims.com/jobs/6460/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/SRI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "b1f4a272-66f6-4ed0-a3ad-69e251a0e74c",
+        "title": "Modeler and Data Analyst New Grad",
+        "active": true,
+        "date_updated": 1787950236,
+        "date_posted": 1787950069,
+        "url": "https://careers.jhuapl.edu/jobs/59858?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Viavi Solutions",
+        "id": "fa035ae1-d736-4478-a045-ebfd7514aad5",
+        "title": "Development Engineer - Rotational Program",
+        "active": true,
+        "date_updated": 1787950220,
+        "date_posted": 1787875200,
+        "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Colorado-Springs-CO-USA/Rotational-Program-Development-Engineer_260004989-1",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Viavi-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Quiddity",
+        "id": "83d7cd20-0cbe-455e-9bb1-6bc168e32b3b",
+        "title": "GIS Analyst",
+        "active": true,
+        "date_updated": 1787950081,
+        "date_posted": 1787950034,
+        "url": "https://early-careers-quiddity.icims.com/jobs/1229/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Houston, TX",
+            "Katy, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Quiddity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "InfraServices",
+        "id": "3fd37507-e2bd-4c44-9b79-e7860e15061b",
+        "title": "Data Center Technician 1",
+        "active": true,
+        "date_updated": 1787950183,
+        "date_posted": 1787950030,
+        "url": "https://jobs.lever.co/infraservices/ba55a1a2-4280-465b-b0c4-c08b63c4cd61/apply",
+        "locations": [
+            "Wanamingo, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/InfraServices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "da7be8d3-3d5a-4ca9-accc-b273d6bdc1d4",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1787950081,
+        "date_posted": 1787875200,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Lexington-SC-SC07/Software-Engineer_R67330-1",
+        "locations": [
+            "Lexington, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Always Compassionate Home Care",
+        "id": "f4a071fc-517a-4026-b67b-ed320179f606",
+        "title": "Business Intelligence Analyst - Data & Analytics",
+        "active": true,
+        "date_updated": 1787949886,
+        "date_posted": 1787875200,
+        "url": "https://alwayscompassionate.wd1.myworkdayjobs.com/achomecare/job/Melville-NY/BI-Analyst--Data---Analytics_JR102976-1",
+        "locations": [
+            "Melville, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Always-Compassionate-Home-Care",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MassMutual",
+        "id": "05cb4cb4-35f8-4648-af19-f38a4a26a726",
+        "title": "Quantitative Consultant - Stable Value Product",
+        "active": true,
+        "date_updated": 1787949721,
+        "date_posted": 1786924800,
+        "url": "https://massmutual.wd1.myworkdayjobs.com/MMCareers/job/Springfield-MA/Quantitative-Consultant_R20941-1",
+        "locations": [
+            "Boston, MA",
+            "Springfield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Massachusetts-Mutual-Life-Insurance-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
