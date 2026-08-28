@@ -380070,7 +380070,7 @@
         "company_name": "Materion",
         "id": "7285bc11-ed3e-4ac6-b99c-e60bc692806d",
         "title": "R&D Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787780702,
         "date_posted": 1787702400,
         "url": "https://materion.wd5.myworkdayjobs.com/Materion/job/Newton-MA/R-D-Technician_2026-R8598",
@@ -382799,7 +382799,7 @@
         "company_name": "RTX",
         "id": "7b378fc1-72f3-4164-86d6-afb4137a7a0b",
         "title": "Research Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1787869443,
         "date_posted": 1787788800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Research-Engineer-II--Onsite-_01867098",
@@ -383815,5 +383815,43 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "772be052-ed58-441e-842c-c09ea91a96a2",
+        "title": "Junior Software Engineer - Intel Sector",
+        "active": true,
+        "date_updated": 1787914314,
+        "date_posted": 1787702400,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Laurel-MD/Junior-Software-Engineer_R-00190592",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Canon",
+        "id": "9aed6ecc-bbf7-46cc-8023-c7f3da6ffb5c",
+        "title": "Field Service Technician 1 - Brooklyn/Queens",
+        "active": true,
+        "date_updated": 1787914826,
+        "date_posted": 1783720956,
+        "url": "https://external-canoncareers.icims.com/jobs/34627/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Melville, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Canon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
