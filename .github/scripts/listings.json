@@ -375210,7 +375210,7 @@
         "company_name": "Cisco",
         "id": "ac470cdc-081d-4aad-9ca1-9c5a47e56a88",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1787604046,
         "date_posted": 1787529600,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-II--Full-Time----United-States_2023512",
@@ -377856,7 +377856,7 @@
         "company_name": "CIBC",
         "id": "1887b494-3e3f-431a-8c6f-2a8129764087",
         "title": "Technology Graduate Rotational Program Associate - TGRP",
-        "active": true,
+        "active": false,
         "date_updated": 1787681121,
         "date_posted": 1787616000,
         "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Associate--Technology-Graduate-Rotational-Program--TGRP-_2616657-1",
@@ -381214,7 +381214,7 @@
         "company_name": "Navy Federal",
         "id": "22c1325e-0afd-47f3-910f-bf0e15ff82ce",
         "title": "Associate Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787811661,
         "date_posted": 1787811521,
         "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32116",
@@ -383707,6 +383707,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vanguard",
+        "id": "124c490c-a0a7-485d-a064-1711e8b89e61",
+        "title": "Technology Leadership Program - Risk & Security - Engineering",
+        "active": true,
+        "date_updated": 1787906881,
+        "date_posted": 1786924800,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Technology-Leadership-Program---Risk---Security-Engineer--PA-_180075-1",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
