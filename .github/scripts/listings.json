@@ -55,79 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citizen Health",
-        "id": "a88b01b0-7daa-4382-bfcb-f4f574b4831a",
-        "title": "Early Career Software Engineer",
-        "active": false,
-        "date_updated": 1767223033,
-        "date_posted": 1767223033,
-        "url": "https://jobs.ashbyhq.com/Citizen%20Health/7133dff5-e5a0-425b-81da-b6f78e78d944/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Citizen-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "JP Morgan Chase",
-        "id": "91efd26e-2489-4706-9791-0ac475e9e703",
-        "title": "Trading Lifecycle Associate",
-        "active": false,
-        "date_updated": 1767223111,
-        "date_posted": 1767223111,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210696214",
-        "locations": [
-            "Newark, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1b258c94-b6e8-4bb4-913a-c4607d7a70a7",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767222970,
-        "date_posted": 1767222970,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044513",
-        "locations": [
-            "East Midlands, UK",
-            "York, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Solace Health",
-        "id": "8ab6ec1b-9e5c-428a-8f10-90f7d89c2dd0",
-        "title": "Associate Software Engineer \u2013 College Grad 2026",
-        "active": false,
-        "date_updated": 1767222836,
-        "date_posted": 1767222836,
-        "url": "https://jobs.ashbyhq.com/solace/d7906c8c-395f-4d6b-8e64-e2c7be52b929/application",
-        "locations": [
-            "San Carlos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Solace-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "LG Electronics",
         "id": "051a79ce-586c-4571-be27-83f64584f957",
@@ -147,42 +74,6 @@
             "Illinois"
         ],
         "company_url": "https://simplify.jobs/c/LG-Electronics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5a1b406f-b753-408b-85ad-db07e9bba5ba",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767222965,
-        "date_posted": 1767222965,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044515",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Chicago Trading Company",
-        "id": "8a9a21b4-1237-4430-ae32-2cc489475ebb",
-        "title": "Associate C++ Engineer",
-        "active": false,
-        "date_updated": 1767223756,
-        "date_posted": 1767223756,
-        "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4645115005",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -237,24 +128,6 @@
             "Leicester, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Molina Healthcare",
-        "id": "da1365fc-7761-4369-95f9-25e6e780a98d",
-        "title": "Analyst \u2013 Risk & Quality Reporting - Remote TX",
-        "active": false,
-        "date_updated": 1767223125,
-        "date_posted": 1767223125,
-        "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2035352",
-        "locations": [
-            "Texas"
-        ],
-        "company_url": "https://simplify.jobs/c/Molina-Healthcare",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -200181,31 +200054,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hearst",
-        "id": "4c018bad-99fd-4379-b66c-d1e3285be982",
-        "title": "Data Insights Specialist",
-        "active": false,
-        "date_updated": 1778834341,
-        "date_posted": 1767223173,
-        "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025716",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Hearst",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD",
-            "JD",
-            "MD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Corpay",
         "id": "f033c9ba-e4b8-4c07-9612-dd3c45e01125",
@@ -286411,7 +286259,7 @@
         "company_name": "Cincinnati Financial",
         "id": "932f4ea0-7684-4b05-a032-b724abdd56d3",
         "title": "Internal Audit Associate - Data Analytics Focus",
-        "active": false,
+        "active": true,
         "date_updated": 1784039339,
         "date_posted": 1784038224,
         "url": "https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=2600637",
@@ -374156,7 +374004,7 @@
         "company_name": "Leidos",
         "id": "8a00bccf-5acb-4f2d-bdb9-c398d864ed9c",
         "title": "Entry-Level Computer Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1787581382,
         "date_posted": 1787529600,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Computer-Scientist_R-00190248",
@@ -380877,7 +380725,7 @@
         "company_name": "Atlas Energy Solutions",
         "id": "c5c1c03e-4c47-4e44-978c-ad980ad6e0e9",
         "title": "AI Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1787790603,
         "date_posted": 1787790494,
         "url": "https://job-boards.greenhouse.io/atlassand/jobs/8753225002",
@@ -382164,7 +382012,7 @@
         "company_name": "Applied Materials",
         "id": "cf22751a-ac1a-422b-bfa9-ff2402c70296",
         "title": "Algorithm Developer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1787869785,
         "date_posted": 1787788800,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer-II_R2627187",
