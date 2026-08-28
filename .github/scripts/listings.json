@@ -171529,7 +171529,7 @@
         "company_name": "The Boeing Company",
         "id": "65b3f57a-acd4-4c2a-b15f-4e58dc9de499",
         "title": "Missions Systems Software Engineer \u2013 Senior - Embedded",
-        "active": false,
+        "active": true,
         "date_updated": 1776763261,
         "date_posted": 1776763143,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Missions-Systems-Software-Engineer---Embedded--Associate--Experienced--Senior-_JR2026494876-1",
@@ -295335,7 +295335,7 @@
         "company_name": "Polar Semiconductor",
         "id": "7cf66c8f-095f-4f63-a993-7e02c8be67dd",
         "title": "Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784585161,
         "date_posted": 1784505600,
         "url": "https://polarsemi.wd501.myworkdayjobs.com/Polar/job/Bloomington-MN-USA/Product-Engineer_R3736",
@@ -354538,7 +354538,7 @@
         "company_name": "United Smart Tech",
         "id": "b474536e-7b80-4d89-b044-2ed89e89523e",
         "title": "Field Technician - Mobile Repairs",
-        "active": true,
+        "active": false,
         "date_updated": 1786602244,
         "date_posted": 1786602071,
         "url": "https://unitedsmarttech.bamboohr.com/careers/195/",
@@ -380613,7 +380613,7 @@
         "company_name": "Bectran",
         "id": "fa279f49-798c-42a2-a38d-20ecffdb43e0",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787783582,
         "date_posted": 1787778252,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4452707",
@@ -384881,6 +384881,183 @@
             "Nashville, TN"
         ],
         "company_url": "https://simplify.jobs/c/Vanderbilt-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Solace Health",
+        "id": "02401fd0-e513-4463-af92-6aeec9a13974",
+        "title": "Associate Data Engineer - College Grad",
+        "active": true,
+        "date_updated": 1787957308,
+        "date_posted": 1787957151,
+        "url": "https://jobs.ashbyhq.com/solace/7deb5d7e-9960-4407-9600-aa8e84d9edba/application?embed=true",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Solace-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Solace Health",
+        "id": "e672528f-0349-4ff4-b017-95c9f64a2400",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1787957301,
+        "date_posted": 1787957152,
+        "url": "https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443/application?embed=true",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Solace-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Solace Health",
+        "id": "9ecc67a7-1b2f-4a55-924c-2cbe78c667f6",
+        "title": "Associate Data Analyst",
+        "active": true,
+        "date_updated": 1787957301,
+        "date_posted": 1787957151,
+        "url": "https://jobs.ashbyhq.com/solace/9256b9e8-36cd-45de-bae9-caa846f50934/application?embed=true",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Solace-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LG Ad Solutions",
+        "id": "e2639433-964d-4eec-8a37-c16d048c74ed",
+        "title": "Global Reporting & Analytics Analyst",
+        "active": true,
+        "date_updated": 1787957128,
+        "date_posted": 1787956987,
+        "url": "https://jobs.ashbyhq.com/lgads/b583063e-60fc-4985-b2ee-11fa83d75943/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/LG-Ad-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CTG",
+        "id": "fd00f442-ef03-4fcc-876d-37412980a3ac",
+        "title": "Digital Enablement Analyst",
+        "active": true,
+        "date_updated": 1787957101,
+        "date_posted": 1787956975,
+        "url": "https://careers.ctg.com/jobs/17457?icims=1",
+        "locations": [
+            "Wilmington, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/CTG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DefenseStorm",
+        "id": "50e60fbf-697c-49e1-88be-1f24e17fa22d",
+        "title": "Junior Product Engineer - Software Engineer 1",
+        "active": true,
+        "date_updated": 1787957101,
+        "date_posted": 1787956978,
+        "url": "https://defensestorm.applytojob.com/apply/VI1cWuBKQ3/Junior-Product-Engineer-Software-Engineer-I",
+        "locations": [
+            "Alpharetta, GA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/DefenseStorm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AVI-SPL",
+        "id": "1cc427ac-1651-4d75-8f48-d834741f4e00",
+        "title": "Onsite Support Technician",
+        "active": true,
+        "date_updated": 1787957101,
+        "date_posted": 1787957031,
+        "url": "https://careers.avispl.com/jobs/12287?icims=1",
+        "locations": [
+            "Westlake, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AVI-SPL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arch Aerial",
+        "id": "c8ddc7d6-9ac0-4740-87f8-4c26b4079b1e",
+        "title": "Junior Drone Pilot - Junior Unmanned Aerial Systems Pilot",
+        "active": true,
+        "date_updated": 1787956852,
+        "date_posted": 1787956738,
+        "url": "https://apply.workable.com/arch-aerial-llc/j/8767FF5AB6/apply",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Arch-Aerial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sureway Construction",
+        "id": "694d9d57-354a-4c17-b6c4-6004a20ad686",
+        "title": "Gradesperson - Survey/Field Technologist",
+        "active": true,
+        "date_updated": 1787956828,
+        "date_posted": 1787956710,
+        "url": "https://careers-sureway.icims.com/jobs/8031/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Gibbons, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sureway-Construction",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
