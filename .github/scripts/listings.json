@@ -256247,7 +256247,7 @@
         "company_name": "AAR",
         "id": "6978c2cb-a592-4751-ba2c-89bca5facdce",
         "title": "Junior Web Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1782228274,
         "date_posted": 1782228168,
         "url": "https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18441",
@@ -277567,7 +277567,7 @@
         "company_name": "PartnerRe",
         "id": "78e8e324-34ed-43aa-aa73-0e8160950199",
         "title": "Cat Modeling Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783520461,
         "date_posted": 1783519738,
         "url": "https://careers.partnerre.com/job/Singapore-Cat-Modeling-Analyst/1412739233/?ats=successfactors",
@@ -292562,7 +292562,7 @@
         "company_name": "Observable Space",
         "id": "8df29441-bb9a-4211-8436-2fe6e5b567e5",
         "title": "Optical Technician Lead",
-        "active": false,
+        "active": true,
         "date_updated": 1784280061,
         "date_posted": 1783548614,
         "url": "https://jobs.ashbyhq.com/observable-space/e948a71f-bdd0-495d-8152-c3058760c558/application?embed=true",
@@ -360346,7 +360346,7 @@
         "company_name": "Dutch Bros",
         "id": "d36d5275-80e2-4d06-8237-49fbe21dc096",
         "title": "Associate Endpoint Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786745165,
         "date_posted": 1786665600,
         "url": "https://dutchbros.wd1.myworkdayjobs.com/en-US/DBShops/job/1930-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Associate-Endpoint-Engineer_REQ-19765-1",
@@ -371124,7 +371124,7 @@
         "company_name": "ASOS plc",
         "id": "54e19745-69b4-4189-b584-01adfcbcc452",
         "title": "Associate Product Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1787263572,
         "date_posted": 1787263539,
         "url": "https://jobs.smartrecruiters.com/ASOS/744000144584439",
@@ -383888,6 +383888,124 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/The-Campbells-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Torch Technologies",
+        "id": "9bd1f0ee-ed84-41a2-b228-773d27d10ff2",
+        "title": "Junior Software Engineer - Entry Level",
+        "active": true,
+        "date_updated": 1787925484,
+        "date_posted": 1787875200,
+        "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Junior-Level-Software-Engineer_R1608",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Torch-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Torch Technologies",
+        "id": "8a12df4d-a37f-4ad1-a459-206009424b66",
+        "title": "Software Engineer - WPF/MVVM",
+        "active": true,
+        "date_updated": 1787925483,
+        "date_posted": 1787875200,
+        "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Junior-Level-Software-Engineer-WPF-MVVM_R1609",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Torch-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boeing",
+        "id": "42eef265-0f1e-458a-9c31-10bd91ae1021",
+        "title": "Entry Level ASIC/FPGA Verification Engineer - Space Electronics",
+        "active": true,
+        "date_updated": 1787924341,
+        "date_posted": 1787875200,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Verification-Engineer---Space-Electronics---MTV_JR2026520435",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boeing",
+        "id": "57e5f0a2-fec1-4e80-9d79-803c7984db1d",
+        "title": "Entry Level ASIC/FPGA Verification Engineer - Space Electronics",
+        "active": true,
+        "date_updated": 1787924341,
+        "date_posted": 1787875200,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Verification-Engineer---Space-Electronics---MTV_JR2026520435-2",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ABC Supply",
+        "id": "b8bed590-1b9e-4abe-9d15-877f02e0d259",
+        "title": "Item Data Specialist",
+        "active": true,
+        "date_updated": 1787925272,
+        "date_posted": 1786924800,
+        "url": "https://abcsupply.wd1.myworkdayjobs.com/abcsupplycareers/job/Beloit-WI/Item-Data-Specialist--963-_67122",
+        "locations": [
+            "Beloit, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/ABC-Supply-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "ClaimSorted",
+        "id": "66ec1c6b-c736-4468-bc7a-c07eb6f98d6d",
+        "title": "Operations & Strategy",
+        "active": true,
+        "date_updated": 1787924200,
+        "date_posted": 1784124695,
+        "url": "https://jobs.ashbyhq.com/claimsorted/4c555385-2aab-4824-8ce5-8bb07bd9aa1d/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ClaimSorted",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
