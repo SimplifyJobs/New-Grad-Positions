@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "KLA",
-        "id": "affbbb29-05ea-41d7-9677-b0e8b41669f5",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1767165092,
-        "date_posted": 1767165092,
-        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer_2533374",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "6eabd460-a6df-483c-8468-4a782bbea687",
@@ -925,24 +907,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vantage Point Solutions",
-        "id": "9d4eb24c-74fc-4a15-a99f-522cde4293b5",
-        "title": "Field Services Technician",
-        "active": false,
-        "date_updated": 1767166049,
-        "date_posted": 1767166049,
-        "url": "https://vantage-point-solutions-inc.breezy.hr/p/0c3bd43ce378/apply",
-        "locations": [
-            "Omaha, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Vantage-Point-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -35060,28 +35024,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "StubHub",
-        "id": "b0ec46a3-d28d-4f28-877a-488dd891bea7",
-        "title": "Software Engineer 2 - AI Enablement",
-        "active": false,
-        "date_updated": 1769683623,
-        "date_posted": 1767165351,
-        "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4693600101",
-        "locations": [
-            "Aliso Viejo, CA",
-            "Culver City, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/StubHub",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
