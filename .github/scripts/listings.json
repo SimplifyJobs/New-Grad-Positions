@@ -150788,7 +150788,7 @@
         "company_name": "The Boeing Company",
         "id": "b06b049d-75c2-4a0e-85d0-d89de1dfa2f5",
         "title": "Missions Systems Software Engineer \u2013 Senior - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1775687950,
         "date_posted": 1775686242,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Missions-Systems-Software-Engineer---Embedded--Associate--Experienced--Senior-_JR2026494876-2",
@@ -160814,7 +160814,7 @@
         "company_name": "Marvell",
         "id": "94b7b55f-edd1-4611-a96d-e2e602c33ad5",
         "title": "Application Engineer \u2013 Early Career",
-        "active": false,
+        "active": true,
         "date_updated": 1776234619,
         "date_posted": 1776233245,
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Application-Engineer---Early-Career_2503703",
@@ -350230,7 +350230,7 @@
         "company_name": "RTX",
         "id": "4cfd9a57-ef60-4a3b-ae78-cdea62462929",
         "title": "Embedded Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786487647,
         "date_posted": 1786406400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01866161-1",
@@ -374704,7 +374704,7 @@
         "company_name": "Parsons",
         "id": "f6262993-9c92-438b-82f0-e0f9258e5b3a",
         "title": "Electronics Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787602524,
         "date_posted": 1787184000,
         "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CT-Field-Location/Electronics-Technician--Cat-6-Experience-Required----100-Percent-Travel-Required_R185127",
@@ -384338,5 +384338,265 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "GTS",
+        "id": "8f68b469-ab56-446d-a570-b3be46959bc8",
+        "title": "Quantitative Trader",
+        "active": true,
+        "date_updated": 1787951732,
+        "date_posted": 1787951630,
+        "url": "https://careers-gtsx.icims.com/jobs/1608/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/GTS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "0fbc0c07-29bd-40e7-9596-847314361138",
+        "title": "GPU PCIe and Boot Architect New Grad - New College Grad",
+        "active": true,
+        "date_updated": 1787951469,
+        "date_posted": 1787875200,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-PCIe-and-Boot-Architect---New-College-Grad-2026_JR2021768",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "1ed6557d-3edd-4458-86fb-43ba77193dcf",
+        "title": "Product Operations Coordinator",
+        "active": true,
+        "date_updated": 1787951445,
+        "date_posted": 1787875200,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Duluth-GA/Product-Operations-Coordinator_R117678",
+        "locations": [
+            "Duluth, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NRG Energy",
+        "id": "6b814c15-48e7-423b-9698-fdda9c885c2c",
+        "title": "Direct-to-Home Install Technician",
+        "active": true,
+        "date_updated": 1787951263,
+        "date_posted": 1787951154,
+        "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Arlington-DTH-Install-Flex-to-FT-Arlington,-TX-TX-76014/1424498800/?ats=successfactors",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NRG-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Barr",
+        "id": "7b26ed3e-24a7-430f-9375-3426132ac229",
+        "title": "Air Quality Scientist/Engineer - Emissions Monitoring Focus",
+        "active": true,
+        "date_updated": 1787951206,
+        "date_posted": 1787875200,
+        "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Edina-MN/Air-Quality-Scientist-Engineer---Emissions-Monitoring-Focus---Entry-Level--Hybrid-_R-102288-1",
+        "locations": [
+            "Edina, MN",
+            "Hibbing, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Barr",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "f771023a-d6d4-4593-8eb4-7d670c671012",
+        "title": "Software Engineer - Engineering",
+        "active": true,
+        "date_updated": 1787950999,
+        "date_posted": 1787875200,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_331185-1",
+        "locations": [
+            "Ypsilanti, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "a052add2-28bc-4eb0-b971-1d4dc7ecdf12",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1787950999,
+        "date_posted": 1787875200,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_331191-1",
+        "locations": [
+            "Ypsilanti, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CoreWeave",
+        "id": "1eee8b28-4b50-4d6f-9db1-48e016b66ed2",
+        "title": "Data Center Technician",
+        "active": true,
+        "date_updated": 1787950999,
+        "date_posted": 1787950934,
+        "url": "https://coreweave.com/careers/job?4709264006&board=coreweave&gh_jid=4709264006",
+        "locations": [
+            "Sandusky, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/CoreWeave",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "41889f54-cd44-417e-8d4a-92c9b6acc35e",
+        "title": "Software Engineer - Engineering",
+        "active": true,
+        "date_updated": 1787950999,
+        "date_posted": 1787875200,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_331197-1",
+        "locations": [
+            "Ypsilanti, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Broadcom",
+        "id": "1ede9089-dee4-4fd0-9c72-50b3825fe866",
+        "title": "ASIC Verification Engineer",
+        "active": true,
+        "date_updated": 1787950999,
+        "date_posted": 1787950968,
+        "url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/R-D-IC-Design-Engineer_R024631",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Broadcom-Limited",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Newrez",
+        "id": "8546f56e-8a35-4cd4-9513-8ccc1994c185",
+        "title": "Data & Analytics Operations Specialist",
+        "active": true,
+        "date_updated": 1787950921,
+        "date_posted": 1787875200,
+        "url": "https://newrez.wd1.myworkdayjobs.com/NRZ/job/PA-Fort-Washington/TRAIL-Rising-Leaders-Program---Data---Analytics_R10369",
+        "locations": [
+            "Fort Washington, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Newrez",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "76b36874-f561-4551-b201-d4ca3ac11673",
+        "title": "Software Engineer - Front-end",
+        "active": true,
+        "date_updated": 1787950999,
+        "date_posted": 1787950708,
+        "url": "https://jobs.apple.com/en-us/details/200680752",
+        "locations": [
+            "Austin, TX",
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Scientific Games",
+        "id": "6265e645-8c43-401d-88bb-a80495d7700c",
+        "title": "Field Service Technician",
+        "active": true,
+        "date_updated": 1787950859,
+        "date_posted": 1787875200,
+        "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Dayton-OH/Field-Service-Technician--Springfield-Dayton-Region_R505281",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Scientific-Games",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
