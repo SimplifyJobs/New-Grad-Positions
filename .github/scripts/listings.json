@@ -91,96 +91,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Analog Devices",
-        "id": "0b306af5-a513-414f-8543-b1068cf8fb6b",
-        "title": "Wafer Fab Operator",
-        "active": false,
-        "date_updated": 1767253770,
-        "date_posted": 1767253770,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Wafer-Fab-Operator--Various-Shifts-Available-_R257318",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Four Seasons",
-        "id": "0e3049e8-deea-4462-9eb5-6b9e9abfd22e",
-        "title": "Trading Company - Barista - Seasonal",
-        "active": false,
-        "date_updated": 1767253586,
-        "date_posted": 1767253586,
-        "url": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Hualalai/Trading-Company---Barista---Seasonal_REQ10363527",
-        "locations": [
-            "Kailua-Kona, HI"
-        ],
-        "company_url": "https://simplify.jobs/c/Four-Seasons",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GlobalFoundries",
-        "id": "b645edc9-b29a-457c-81b1-5602355b8625",
-        "title": "Manufacturing Operator",
-        "active": false,
-        "date_updated": 1767253629,
-        "date_posted": 1767253629,
-        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Manufacturing-Operators---Up-To--5-000-Sign-On-Bonus-_JR-2504471",
-        "locations": [
-            "Burlington, VT"
-        ],
-        "company_url": "https://simplify.jobs/c/GlobalFoundries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "National Renewable Energy Laboratory",
-        "id": "1c571d67-36aa-463d-a3d8-873627fe2b24",
-        "title": "Director's Fellowship Postdoctoral Researcher",
-        "active": false,
-        "date_updated": 1767253313,
-        "date_posted": 1767253313,
-        "url": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Director-s-Fellowship-Postdoctoral-Researcher_R14061",
-        "locations": [
-            "Golden, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/National-Renewable-Energy-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Rogers Behavioral Health",
-        "id": "fcb8d198-b099-4d0a-a2e1-b7a23ddb4e4f",
-        "title": "Therapist - PHP/IOP",
-        "active": false,
-        "date_updated": 1767252830,
-        "date_posted": 1767252830,
-        "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Silver-Lake-North-Clinic-Oconomowoc-WI/Therapist---PHP-IOP_R5836",
-        "locations": [
-            "Oconomowoc, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/b92a810e-00da-4d83-9a36-b7d609699d59",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "350d03f6-1f3a-4907-9b19-15310b3dedca",
@@ -18940,24 +18850,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Markon",
-        "id": "68d0c962-243e-4fc6-97c0-48d5154b887f",
-        "title": "Database Engineer 1",
-        "active": false,
-        "date_updated": 1768616794,
-        "date_posted": 1767252777,
-        "url": "https://careers-markon.icims.com/jobs/8011/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Odenton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Markon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -274433,7 +274325,7 @@
         "company_name": "Quantcast",
         "id": "9bb1e297-4e54-423d-95b6-87905ec6f140",
         "title": "Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783415702,
         "date_posted": 1783415417,
         "url": "https://jobs.ashbyhq.com/quantcast/2a6d8f0e-e0f3-4114-944b-2736b26072c4/application",
