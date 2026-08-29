@@ -287997,7 +287997,7 @@
         "company_name": "Sysmex",
         "id": "d8b4a6a3-fb4b-48bb-b359-4fb40392d289",
         "title": "Field Service Technician - Field Service",
-        "active": false,
+        "active": true,
         "date_updated": 1784111139,
         "date_posted": 1783519386,
         "url": "https://careers-sysmex.icims.com/jobs/4724/job?mobile=true&needsRedirect=false",
@@ -385020,5 +385020,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Universal Health Services",
+        "id": "da6b64fa-9942-4abf-8892-3f946b9c9a42",
+        "title": "PHP Driver",
+        "active": true,
+        "date_updated": 1788003950,
+        "date_posted": 1785575178,
+        "url": "https://jobs.uhsinc.com/jobs/344332?icims=1",
+        "locations": [
+            "Las Cruces, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/Universal-Health-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
