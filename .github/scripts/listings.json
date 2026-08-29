@@ -336833,7 +336833,7 @@
         "company_name": "Gladstone Institutes",
         "id": "6d58c98b-b1b5-4c15-bba5-8453940c86ab",
         "title": "Research Engineer 1 - AI / Machine Learning - Jain Lab",
-        "active": true,
+        "active": false,
         "date_updated": 1785892804,
         "date_posted": 1785196800,
         "url": "https://gladstone.wd503.myworkdayjobs.com/careers/job/San-Francisco/Research-Engineer--ai--I-II-or-III---Jain-Lab_REQ-3845",
@@ -349172,7 +349172,7 @@
         "company_name": "SitusAMC",
         "id": "4c7bb1c5-656b-4642-b5ad-c64c9625dca4",
         "title": "MSR Transaction Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786486681,
         "date_posted": 1786406400,
         "url": "https://situsamc.wd1.myworkdayjobs.com/SitusAMC/job/Denver-CO/MSR-Transaction-Analyst_JR03061",
@@ -349604,7 +349604,7 @@
         "company_name": "Guidehouse",
         "id": "42d4b4a9-d01b-40b0-b1fe-c41b20c9e034",
         "title": "Data Engineer 1 - Data Science & Analysis",
-        "active": true,
+        "active": false,
         "date_updated": 1786486205,
         "date_posted": 1786406400,
         "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_43115",
@@ -380258,7 +380258,7 @@
         "company_name": "CFA Institute",
         "id": "465b05ca-8447-4ec4-aaef-97a2ced72fdc",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787781601,
         "date_posted": 1787702400,
         "url": "https://osv-cfainstitute.wd5.myworkdayjobs.com/Careers/job/Remote---VA/Data-Analyst_R-2434",
@@ -384945,5 +384945,280 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lendable",
+        "id": "41d74667-6411-41d5-a208-d0d96a443a61",
+        "title": "Graduate Analyst - Share Options",
+        "active": true,
+        "date_updated": 1787964481,
+        "date_posted": 1787964322,
+        "url": "https://jobs.ashbyhq.com/lendable/a0ed2d2c-1c24-4d53-8ab4-af7e7ac06e20/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lendable",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hawk-Eye Innovations",
+        "id": "e2c3e681-e9ef-4ae8-91e6-359a422fe6f4",
+        "title": "Football Tracking Technician - North",
+        "active": true,
+        "date_updated": 1787964301,
+        "date_posted": 1787964245,
+        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/115cd598-4bdc-48dc-a7d4-6f4b02cd032e/application?embed=true",
+        "locations": [
+            "Middlesbrough, UK",
+            "Hull, UK",
+            "Leeds, UK",
+            "Wrexham, UK",
+            "Newcastle upon Tyne, UK",
+            "Sheffield, UK",
+            "Sunderland, UK",
+            "Burnley, UK",
+            "Manchester, UK",
+            "Liverpool, UK",
+            "Preston, UK",
+            "Blackburn, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Eaton",
+        "id": "0c52ac87-ed9d-4a07-9003-ce0fbcfba817",
+        "title": "Product Specialist - Engineering",
+        "active": true,
+        "date_updated": 1787964570,
+        "date_posted": 1787964251,
+        "url": "https://eaton.eightfold.ai/careers/job/687238733198",
+        "locations": [
+            "Lachine, Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Eaton-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SKYTRAC",
+        "id": "72fb0e6d-fd70-4796-afba-f683634ca008",
+        "title": "Electronics Technologist",
+        "active": true,
+        "date_updated": 1787964361,
+        "date_posted": 1787964068,
+        "url": "https://ats.rippling.com/skytrac/jobs/c52a1a3e-6f4b-4b19-9486-6078a41de87a",
+        "locations": [
+            "Kelowna, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/SKYTRAC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cogent Security",
+        "id": "3e1957cd-768a-47fc-9140-cae0d35bb273",
+        "title": "Forward Deployed Agent Engineer - Early Career",
+        "active": true,
+        "date_updated": 1787964151,
+        "date_posted": 1787963966,
+        "url": "https://jobs.ashbyhq.com/cogent-security/0ee6520e-8da8-4498-9580-57e9ff255d21/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cogent-Security",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altice USA",
+        "id": "ed1c1803-cea0-4778-8d48-8ba69bc0716a",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1787963968,
+        "date_posted": 1787304182,
+        "url": "https://www.optimumcareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1420351500/?ats=successfactors",
+        "locations": [
+            "Plano, TX",
+            "Bethpage, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Altice-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Crest Industries",
+        "id": "4eca034e-e697-4d90-bb46-323cab4f0668",
+        "title": "Manufacturing Intelligence Solutions Specialist 1",
+        "active": true,
+        "date_updated": 1787963802,
+        "date_posted": 1787963669,
+        "url": "https://jobs.lever.co/crestoperations/cac6fc84-2231-4bfb-bc28-6d450ff08c6a/apply",
+        "locations": [
+            "Ruston, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crest-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "bf10a48d-c59f-4775-844e-c402c2ee86a7",
+        "title": "Research Scientist Graduate - Conversational AI",
+        "active": true,
+        "date_updated": 1787963581,
+        "date_posted": 1787963510,
+        "url": "https://lifeattiktok.com/search/7670681152383813893",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "924a8e94-4f3a-475e-93ea-e8208d857766",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Knowledge Graph",
+        "active": true,
+        "date_updated": 1787963581,
+        "date_posted": 1787963507,
+        "url": "https://lifeattiktok.com/search/7679156878833682693",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "4376d807-2cde-46d3-be30-f77757fc9eed",
+        "title": "AI Product Manager Graduate - Product Social",
+        "active": true,
+        "date_updated": 1787963581,
+        "date_posted": 1787963447,
+        "url": "https://lifeattiktok.com/search/7675616322118584629",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Barry-Wehmiller",
+        "id": "94439f86-761e-479b-ad07-ff674a810362",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1787963404,
+        "date_posted": 1787875200,
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649",
+        "locations": [
+            "Eau Claire, WI",
+            "Dallas, TX",
+            "Raleigh, NC",
+            "St. Louis, MO",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Barry-Wehmiller",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Aerospace Corporation",
+        "id": "0a8485fb-d1dc-4372-aabb-6bc7c3980fb9",
+        "title": "Real-time Launch Operations Software and Data Engineer - Engineering Applications Department - Information Systems and Cyber Division",
+        "active": true,
+        "date_updated": 1787963560,
+        "date_posted": 1787875200,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Real-time-Launch-Operations-Software-and-Data-Engineer_R016306",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "C Spire",
+        "id": "adefcb6c-6e0b-4b5a-9cd1-b78e8f116ff0",
+        "title": "Technician - Home Services",
+        "active": true,
+        "date_updated": 1787963404,
+        "date_posted": 1787875200,
+        "url": "https://cspire-telapex.wd12.myworkdayjobs.com/external-careers/job/Troy-AL/Technician--Home-Services_R0001127",
+        "locations": [
+            "Troy, AL",
+            "Luverne, AL",
+            "Ozark, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/C-Spire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
