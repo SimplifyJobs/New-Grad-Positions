@@ -55,31 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "LG Electronics",
-        "id": "051a79ce-586c-4571-be27-83f64584f957",
-        "title": "Project Engineer 1 - LGE Display - Direct View",
-        "active": false,
-        "date_updated": 1767224525,
-        "date_posted": 1767224525,
-        "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/4925016008",
-        "locations": [
-            "Washington",
-            "Oregon",
-            "LA",
-            "Texas",
-            "Colorado",
-            "Missouri",
-            "Indiana",
-            "Illinois"
-        ],
-        "company_url": "https://simplify.jobs/c/LG-Electronics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "DaVita",
         "id": "0f2a8da3-4649-48d3-8c7a-fc07b120bfac",
