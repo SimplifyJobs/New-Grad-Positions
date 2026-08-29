@@ -211500,7 +211500,7 @@
         "company_name": "Dow Jones",
         "id": "411c3968-1db9-400d-9249-7089efe85b77",
         "title": "People Insights Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779821282,
         "date_posted": 1778941763,
         "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/London-1-London-Bridge-St/Analyst--People-Insights_Job_Req_52878",
@@ -340852,7 +340852,7 @@
         "company_name": "AAA Club Alliance",
         "id": "92da9261-d96e-4a23-bc2f-d44747ae7076",
         "title": "Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1786055044,
         "date_posted": 1785974400,
         "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX/Entry-Level-Data-Scientist_JR202638253",
@@ -359569,7 +359569,7 @@
         "company_name": "Pacific Northwest National Laboratory",
         "id": "0c670f1e-4360-480d-9023-b1bfad85c99f",
         "title": "Postdoctoral Research Associate - Integrated Energy & Earth Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1786745825,
         "date_posted": 1786745082,
         "url": "https://careers.pnnl.gov/jobs/12039?icims=1",
@@ -360700,7 +360700,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -360798,7 +360798,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -361102,7 +361102,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -384885,6 +384885,65 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Marathon Petroleum",
+        "id": "a4c57446-fbe1-402b-8c70-6243d0c30a01",
+        "title": "Operations Research Engineer 1",
+        "active": true,
+        "date_updated": 1787963221,
+        "date_posted": 1787963208,
+        "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Operations-Research-Engineer-1_00022581",
+        "locations": [
+            "Findlay, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Marathon-Petroleum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Panasonic Holdings",
+        "id": "f08a0109-41f3-47c9-990e-a522782e4d2e",
+        "title": "Computer/Laptop Repair Technician",
+        "active": true,
+        "date_updated": 1787963059,
+        "date_posted": 1787963009,
+        "url": "https://careers.na.panasonic.com/jobs/50646?icims=1",
+        "locations": [
+            "Leawood, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Panasonic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Viavi Solutions",
+        "id": "d8d60887-fcc9-40dd-a33a-fd8dc0da66fd",
+        "title": "Rotational Program Development Engineer",
+        "active": true,
+        "date_updated": 1787963059,
+        "date_posted": 1787875200,
+        "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Minnetonka-MN-USA/Rotational-Program-Development-Engineer_260004990-2",
+        "locations": [
+            "Minnetonka, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Viavi-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
