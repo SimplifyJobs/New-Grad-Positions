@@ -287778,7 +287778,7 @@
         "company_name": "Veeva Systems",
         "id": "0b7e7043-7827-4ce9-ad37-87f67ec5375b",
         "title": "Associate Technical Consultant - Entry-Level Consulting - Life Sciences",
-        "active": true,
+        "active": false,
         "date_updated": 1784103895,
         "date_posted": 1774391504,
         "url": "https://jobs.lever.co/veeva/2f1ed4cd-5999-47a0-8c06-38898fed4711/apply",
@@ -347285,7 +347285,7 @@
         "company_name": "NORY",
         "id": "0f9c77ed-f654-499d-9764-6f6986f8ab2c",
         "title": "Maker Education Fabricator",
-        "active": true,
+        "active": false,
         "date_updated": 1786412258,
         "date_posted": 1786412017,
         "url": "https://jobs.ashbyhq.com/nory-co/ca681a52-974c-4a41-bc0f-f9035d304276/application?embed=true",
@@ -376850,7 +376850,7 @@
         "company_name": "Northrop Grumman",
         "id": "6642fd98-f102-48bc-b226-3acb5b8c3988",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787675637,
         "date_posted": 1787616000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10247580-1",
@@ -384982,5 +384982,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NORY",
+        "id": "e3ba70f5-8979-458a-a70b-0940bbcc18a3",
+        "title": "Maker Education Fabricator",
+        "active": true,
+        "date_updated": 1787993760,
+        "date_posted": 1787993549,
+        "url": "https://jobs.ashbyhq.com/nory-co/49487624-fdb1-444c-8a3e-33a9384a6847/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/NORY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NCR Voyix",
+        "id": "09c0d678-51ef-4e83-a6cd-30b5148869f4",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1787993101,
+        "date_posted": 1785456000,
+        "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Senior-Principal-IT-Architect_R0158013",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/NCR-Voyix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
