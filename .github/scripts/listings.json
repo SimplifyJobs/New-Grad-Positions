@@ -385022,5 +385022,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Quanta",
+        "id": "894170e1-a1af-4afa-9a09-988a0a205b88",
+        "title": "Software Engineer - Implementation",
+        "active": true,
+        "date_updated": 1788025164,
+        "date_posted": 1785191043,
+        "url": "https://jobs.ashbyhq.com/quanta/bdbee896-e05d-4e0c-b2f1-996dd01db800/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Quanta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
