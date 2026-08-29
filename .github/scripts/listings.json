@@ -385078,5 +385078,65 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Koch Industries",
+        "id": "ef8fdcc4-2bd8-4351-bb2f-c035a74352ee",
+        "title": "Alignment Technician",
+        "active": true,
+        "date_updated": 1788042421,
+        "date_posted": 1788042412,
+        "url": "https://koch.avature.net/en_US/careers/JobDetail/193172",
+        "locations": [
+            "Salisbury, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Koch-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Koch Industries",
+        "id": "ea8e010f-cdbe-48c6-bc3f-5a509561f098",
+        "title": "Data Product Analyst - ET&S data delivery",
+        "active": true,
+        "date_updated": 1788042421,
+        "date_posted": 1788042406,
+        "url": "https://koch.avature.net/en_US/careers/JobDetail/193284",
+        "locations": [
+            "Wichita, KS",
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Koch-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Koch Industries",
+        "id": "ce65b40a-38c7-43ea-8dac-7f8d96755290",
+        "title": "Business Data Analyst",
+        "active": true,
+        "date_updated": 1788042421,
+        "date_posted": 1788042400,
+        "url": "https://koch.avature.net/en_US/careers/JobDetail/193502",
+        "locations": [
+            "Wichita, KS",
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Koch-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
