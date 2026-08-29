@@ -291917,7 +291917,7 @@
         "company_name": "Observable Space",
         "id": "8df29441-bb9a-4211-8436-2fe6e5b567e5",
         "title": "Optical Technician Lead",
-        "active": true,
+        "active": false,
         "date_updated": 1784280061,
         "date_posted": 1783548614,
         "url": "https://jobs.ashbyhq.com/observable-space/e948a71f-bdd0-495d-8152-c3058760c558/application?embed=true",
@@ -319463,7 +319463,7 @@
         "company_name": "Observable Space",
         "id": "ae72d45f-8a3a-45db-9cf2-c1cdb945e21e",
         "title": "Junior Electrical Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1785319922,
         "date_posted": 1775254165,
         "url": "https://jobs.ashbyhq.com/observable-space/18d4da43-e393-466f-9f81-47c97b51d0ac/application?embed=true",
@@ -385037,6 +385037,44 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Quanta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "d8fcefa4-be4d-476c-89c8-dae303547940",
+        "title": "Digital Hardware Design Engineer 1",
+        "active": true,
+        "date_updated": 1788037064,
+        "date_posted": 1787875200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Electrical--RCP-HW-Engineer-1--Onsite-_01869283",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ludlum Measurements",
+        "id": "fc7e143f-9ec2-4e57-bb1a-f38f57e11c3f",
+        "title": "Calibrator 1",
+        "active": true,
+        "date_updated": 1788036361,
+        "date_posted": 1787956882,
+        "url": "https://vpitechnology.applytojob.com/apply/V7suURwBcp/Calibrator",
+        "locations": [
+            "Sweetwater, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Ludlum-Measurements",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
