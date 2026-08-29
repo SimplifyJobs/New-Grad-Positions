@@ -92,42 +92,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Snap",
-        "id": "bf4b96f6-f64a-4fe4-9759-d784853d0e60",
-        "title": "Fab Operator",
-        "active": false,
-        "date_updated": 1767251075,
-        "date_posted": 1767251075,
-        "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Chandler---300-N-56th-St/Fab-Operator_H225FO-1",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Snap",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Aramark",
-        "id": "810e713a-d12d-4265-92a4-4a4b270841e0",
-        "title": "Java City \u2013 Hhs - AM Food Service Worker - Western Carolina University",
-        "active": false,
-        "date_updated": 1767251665,
-        "date_posted": 1767251665,
-        "url": "https://aramarkcareers.com/UnitedStates/job/Cullowhee-Java-City-(HHS)-AM-Food-Service-Worker-Western-Carolina-University-NC-28723/1346909400/?ats=successfactors",
-        "locations": [
-            "Arden, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Aramark",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Analog Devices",
         "id": "0b306af5-a513-414f-8543-b1068cf8fb6b",
         "title": "Wafer Fab Operator",
@@ -139,24 +103,6 @@
             "Burlington, MA"
         ],
         "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "92833aa6-7232-411c-b935-ac8d67d39afa",
-        "title": "Assembly/Test 1",
-        "active": false,
-        "date_updated": 1767251602,
-        "date_posted": 1767251602,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HKS31-US041-Lenexa-KS-15701-W-95th-Street---Lenexa-KS-66219-USA/Assembly-Test-I_01800497",
-        "locations": [
-            "Lenexa, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -229,24 +175,6 @@
             "Oconomowoc, WI"
         ],
         "company_url": "https://simplify.jobs/c/b92a810e-00da-4d83-9a36-b7d609699d59",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Likewize",
-        "id": "94371b99-f517-4156-a159-4c22eb9b675f",
-        "title": "Mobile Repair Technician",
-        "active": false,
-        "date_updated": 1767252663,
-        "date_posted": 1767252663,
-        "url": "https://likewize.wd1.myworkdayjobs.com/en-US/External/job/London-England-United-Kingdom/Mobile-Repair-Technician_R-1185",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/519b47ce-ff84-4832-85b9-25e0fb0988bb",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -2562,27 +2490,6 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Legrand NA",
-        "id": "eed76835-78b9-4d88-9622-de1188f8ad43",
-        "title": "Product Manager 1",
-        "active": false,
-        "date_updated": 1767655038,
-        "date_posted": 1767252248,
-        "url": "https://jobs-legrand.icims.com/jobs/9659/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Markham, ON, Canada",
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Legrand-NA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -46872,46 +46779,6 @@
             "Scottsdale, AZ"
         ],
         "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CleanSpark",
-        "id": "b104dfe7-17e5-423b-9c0d-93a8426696c6",
-        "title": "Hardware Assembly Technician",
-        "active": false,
-        "date_updated": 1770283142,
-        "date_posted": 1767251573,
-        "url": "https://jobs.lever.co/cleanspark/adb7cbc6-e8d4-4dc7-b583-a08ba8b335a7/apply",
-        "locations": [
-            "Midway, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/CleanSpark",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CleanSpark",
-        "id": "7af24103-8897-4be0-9d1a-6a13546c0375",
-        "title": "Hardware Assembly Technician",
-        "active": false,
-        "date_updated": 1770282995,
-        "date_posted": 1767251576,
-        "url": "https://jobs.lever.co/cleanspark/1dafd85b-4c0b-493e-a18d-43dda7d346bb/apply",
-        "locations": [
-            "Macon, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/CleanSpark",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
