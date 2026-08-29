@@ -762,24 +762,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Prysmian Cables & Systems",
-        "id": "30dd5dbc-1240-4c11-965b-134eb0282e8e",
-        "title": "Jointing Technician",
-        "active": false,
-        "date_updated": 1767236831,
-        "date_posted": 1767236831,
-        "url": "https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Bishopstoke/Jointing-Technician_R-27496",
-        "locations": [
-            "Southampton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/de2a7df6-c0fa-4813-9fba-f1d7a2fb0149",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Jerry",
         "id": "49b8155f-e5f1-4bb0-b7a5-b41d77b95515",
@@ -313501,7 +313483,7 @@
         "company_name": "Marvell",
         "id": "748dbbda-4a6f-4c7d-a2fd-88c3aa19478a",
         "title": "Design Verification Infrastructure Senior Staff Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784932460,
         "date_posted": 1784851200,
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Infrastructure-Sr-Staff-Engineer_2603289",
