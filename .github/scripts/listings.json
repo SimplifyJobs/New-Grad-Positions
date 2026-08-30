@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "JP Morgan Chase",
-        "id": "0a071ec6-82c1-4403-aa61-00e9403a2b5e",
-        "title": "Discretionary and Advisory Product Development - Analyst",
-        "active": false,
-        "date_updated": 1767351683,
-        "date_posted": 1767351683,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210696342",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "7a603273-9b90-4097-924a-cd9faccbe8a9",
