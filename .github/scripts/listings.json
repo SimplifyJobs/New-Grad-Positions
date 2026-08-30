@@ -25401,27 +25401,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "3fa113d3-9f33-407f-8ff3-9b93c0ed53e8",
-        "title": "Agentic AI Teacher",
-        "active": false,
-        "date_updated": 1769161280,
-        "date_posted": 1767339851,
-        "url": "https://amazon.jobs/en/jobs/3150959/agentic-ai-teacher-agi-ds-agi-ds",
-        "locations": [
-            "Boston, MA",
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Zopa",
         "id": "dae2005c-f8c7-40e8-99df-c3c5a0d3c25d",
         "title": "Data Analyst - Fraud Analytics",
@@ -375689,7 +375668,7 @@
         "company_name": "L3Harris Technologies",
         "id": "7a0ebab5-1cf3-49b7-b609-5c5258ac7694",
         "title": "Optical Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1787627771,
         "date_posted": 1787627669,
         "url": "https://jobs.l3harris.com/job/Wilmington-Associate,-Optical-Engineer-MA-01887/1422797100/?ats=successfactors",
