@@ -56,86 +56,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jerry",
-        "id": "49b8155f-e5f1-4bb0-b7a5-b41d77b95515",
-        "title": "Software Engineer - Entry",
-        "active": false,
-        "date_updated": 1767396111,
-        "date_posted": 1767396111,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/6b4cf72d-3809-45f8-b38f-1b4686434a51/application",
-        "locations": [
-            "Palo Alto, CA",
-            "Boston, MA",
-            "Toronto, ON, Canada",
-            "SF",
-            "LA",
-            "Chicago, IL",
-            "NYC",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "752adbc9-bd79-4593-b9de-0f28c4fbd3f2",
-        "title": "Manufacturing Technician A",
-        "active": false,
-        "date_updated": 1767395614,
-        "date_posted": 1767395614,
-        "url": "https://jobs.l3harris.com/job/Londonderry-Manufacturing-Technician-A-NH-03053/1352996300/?ats=successfactors",
-        "locations": [
-            "Merrimack, NH"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "5818c99c-d75f-4af9-82ca-6555042a0885",
-        "title": "2026 Full-Time - Software Engineer II",
-        "active": false,
-        "date_updated": 1767395751,
-        "date_posted": 1767395751,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Full-Time---Software-Engineer-II---Onsite--MA-_01813935",
-        "locations": [
-            "Concord, MA",
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "1710862c-4ac5-4f32-bbff-e5a81fbe38cc",
-        "title": "Manufacturing Technician A",
-        "active": false,
-        "date_updated": 1767395634,
-        "date_posted": 1767395634,
-        "url": "https://jobs.l3harris.com/job/Londonderry-Manufacturing-Technician-A-NH-03053/1352996900/?ats=successfactors",
-        "locations": [
-            "Merrimack, NH"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Walmart",
         "id": "6b51dbc4-66f9-4e59-bf6b-d1956835f76c",
         "title": "Software Engineer 3",
@@ -189,24 +109,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Emerson Electric",
-        "id": "b85de51d-2dd8-4c91-aa3e-7c4ae28a16ba",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1767396262,
-        "date_posted": 1767396262,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25029655",
-        "locations": [
-            "Grove City, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "The Boeing Company",
         "id": "3d5d6602-3769-441e-a70f-db0e94d18600",
@@ -219,42 +121,6 @@
             "St Charles, MO"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Solace Health",
-        "id": "0a0b194c-abd3-4772-8ed2-27384e3c0516",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1767395999,
-        "date_posted": 1767395999,
-        "url": "https://jobs.ashbyhq.com/solace/d33b9659-7c3d-48a9-9a24-dd0f903e3a03/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Solace-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "5ca5638a-d91f-4bd1-99cb-21e31590271d",
-        "title": "Research Scientist in Large Language Model Graduate - Seed-LLM",
-        "active": false,
-        "date_updated": 1767395895,
-        "date_posted": 1767395895,
-        "url": "https://jobs.bytedance.com/en/position/7561701031874693429/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -301,26 +167,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Booz Allen",
-        "id": "eeabdb03-f1b1-456b-82b4-99cdf1402ac6",
-        "title": "Data Processing Technician",
-        "active": false,
-        "date_updated": 1767395747,
-        "date_posted": 1767395747,
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Aurora-CO/Data-Processing-Technician_R0231593",
-        "locations": [
-            "Aurora, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Niagara Bottling",
         "id": "0dd3572b-97cb-4803-a9e0-9164f5151f58",
         "title": "MFG System Implementations Engineer 1",
@@ -350,24 +196,6 @@
             "Fort Wayne, IN"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "f6244d12-59e1-407a-b66a-806d52a3ba16",
-        "title": "Search Quality Rater",
-        "active": false,
-        "date_updated": 1767395960,
-        "date_posted": 1767395960,
-        "url": "https://jobs.lever.co/rws/5f4471cd-47ad-4ad7-b22d-7f0b30ed96a1/apply",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -6427,24 +6255,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Buxton ",
-        "id": "c66f420f-082c-4345-a49f-56f403af10ac",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1767868913,
-        "date_posted": 1767395395,
-        "url": "https://ats.rippling.com/buxtoncocareers/jobs/27e548cb-8800-46be-967a-6a1deb58163f",
-        "locations": [
-            "Fort Worth, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Buxton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "BAE Systems",
         "id": "6c68abc8-66ca-4fbb-a23d-25cc38873497",
         "title": "Engineering Assistant",
@@ -8279,24 +8089,6 @@
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/Southwest-Airlines",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "40706f3a-f5b4-4c28-9c52-046c56cafc03",
-        "title": "Search Quality Rater - English - Florida",
-        "active": false,
-        "date_updated": 1767951727,
-        "date_posted": 1767395986,
-        "url": "https://jobs.lever.co/rws/8a6af812-0d04-4b9e-8287-9868e3f51db3/apply",
-        "locations": [
-            "Florida"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -56840,24 +56632,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "c6a814ce-9a21-4dbd-9637-32f194a35f8c",
-        "title": "Search Quality Rater - English - Indiana",
-        "active": false,
-        "date_updated": 1770891230,
-        "date_posted": 1767395963,
-        "url": "https://jobs.lever.co/rws/2c082054-6a8a-4ce9-a8b7-9237904195e9/apply",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Amazon",
         "id": "7948b935-4bba-44b3-8907-7e5a942c3bb4",
         "title": "AI Data Associate - Portuguese - Artificial General Intelligence",
@@ -91978,28 +91752,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Metropolitan Transportation Authority",
-        "id": "1114e9d4-9e30-4603-8fda-92f6bf7ca172",
-        "title": "Computer Specialist Series",
-        "active": false,
-        "date_updated": 1770419316,
-        "date_posted": 1767396063,
-        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oEbczfwk?nl=1&nl=1&fr=false",
-        "locations": [
-            "Long Island City, Queens, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Certificate"
         ]
     },
     {
@@ -135678,27 +135430,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "596ff1bd-8f03-42f7-a466-aa3d21220221",
-        "title": "Machine Learning Scientist - Senior Associate - Quant AI - Machine Learning Center of Excellence",
-        "active": false,
-        "date_updated": 1774956057,
-        "date_posted": 1767395647,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210697542",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -318306,7 +318037,7 @@
         "company_name": "Genuine Parts Company",
         "id": "be07ee7d-2906-4fb1-8a03-16360fd5b70c",
         "title": "Assistant Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1785279241,
         "date_posted": 1785196800,
         "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/GBR-AAG---AAL-Rotherham/Assistant-Product-Manager_R26_0000023743",
