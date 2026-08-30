@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cox",
-        "id": "8ead22f9-5809-4983-aca9-43c0840223b0",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1767346695,
-        "date_posted": 1767346695,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202570349",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "1f86d15a-755e-41dc-b10a-b6d25e4583d7",
