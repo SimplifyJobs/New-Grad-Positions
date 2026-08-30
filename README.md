@@ -1,4 +1,4 @@
-# 2026 New Grad Positions by Coder Quad & Simplify
+# 2026-2027 New Grad Positions by Coder Quad & Simplify
 
 Use this repo to share and keep track of entry-level software, tech, CS, PM, quant jobs for 2025 & 2026 new graduates. The list is updated and maintained daily by Coder Quad and [Simplify](https://simplify.jobs/?utm_source=GHList&utm_medium=title)!
 
