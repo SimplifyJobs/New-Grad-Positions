@@ -55,42 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1f86d15a-755e-41dc-b10a-b6d25e4583d7",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1767351033,
-        "date_posted": 1767351033,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044584",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amentum",
-        "id": "95633741-fb55-4f33-ac43-600d1e08521f",
-        "title": "Engineering Assistant - Space Hardware Design and Analysis",
-        "active": false,
-        "date_updated": 1767350117,
-        "date_posted": 1767350117,
-        "url": "https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000CED",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "JP Morgan Chase",
         "id": "0a071ec6-82c1-4403-aa61-00e9403a2b5e",
@@ -370507,7 +370471,7 @@
         "company_name": "Northrop Grumman",
         "id": "1ea9cb14-dc89-4e72-ab24-6a1177e5d302",
         "title": "Associate Computer Systems Analyst - Linux - Pathways Program",
-        "active": true,
+        "active": false,
         "date_updated": 1787275081,
         "date_posted": 1787184000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Computer-Systems-Analyst---Linux---Pathways-Program---Melbourne-FL_R10246706",
