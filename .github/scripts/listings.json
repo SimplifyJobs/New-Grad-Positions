@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9701e06f-71b1-4111-bfd0-ea426834c069",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1767371523,
-        "date_posted": 1767371523,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044608",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Jerry",
         "id": "49b8155f-e5f1-4bb0-b7a5-b41d77b95515",
