@@ -26548,27 +26548,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Capital One",
-        "id": "9823efa1-8e21-485a-b77d-d15c5b4e495d",
-        "title": "Senior Associate",
-        "active": false,
-        "date_updated": 1769253205,
-        "date_posted": 1767424712,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Senior-Associate---Product-Management--GPN-Core-Data-Platform-Services_R229452-2",
-        "locations": [
-            "Wheeling, IL",
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ERM",
         "id": "2c25de03-c990-4d33-929b-52d00fadd6f8",
@@ -43338,28 +43317,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Capital One",
-        "id": "ab2c85f9-677f-429e-952a-7db7212086b9",
-        "title": "Applied Researcher 1",
-        "active": false,
-        "date_updated": 1770204136,
-        "date_posted": 1767424720,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Applied-Researcher-I_R225432-1",
-        "locations": [
-            "Cambridge, MA",
-            "SF",
-            "San Jose, CA",
-            "McLean, VA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -370297,7 +370254,7 @@
         "company_name": "RTX",
         "id": "b8412c9d-6f2c-42f7-81aa-97578be79e56",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787299606,
         "date_posted": 1787184000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01868189-1",
@@ -375065,7 +375022,7 @@
         "company_name": "Dell Technologies",
         "id": "af9ad2a9-dee9-44f4-abc5-b30f9c1df4e4",
         "title": "Hardware Engineer 1 - Client Solutions Group",
-        "active": false,
+        "active": true,
         "date_updated": 1787635457,
         "date_posted": 1787635353,
         "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298141",
