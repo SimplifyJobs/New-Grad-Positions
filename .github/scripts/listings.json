@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Niagara Bottling",
-        "id": "0dd3572b-97cb-4803-a9e0-9164f5151f58",
-        "title": "MFG System Implementations Engineer 1",
-        "active": false,
-        "date_updated": 1767399022,
-        "date_posted": 1767399022,
-        "url": "https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Corp-Offsite---Diamond-Bar-CA/MFG-System-Implementations-Engineer-I_R52026",
-        "locations": [
-            "Walnut, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Niagara-Bottling",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ByteDance",
         "id": "674ce104-670d-44c6-b925-7455c79b77a8",
@@ -384166,5 +384148,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rambus",
+        "id": "6e4b8412-f984-47e3-bc20-40454661b0b0",
+        "title": "Design Engineer New Grad - Digital",
+        "active": true,
+        "date_updated": 1785581391,
+        "date_posted": 1780006060,
+        "url": "https://careers-rambus.icims.com/jobs/22422/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Rambus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
