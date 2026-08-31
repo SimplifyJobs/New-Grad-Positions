@@ -55,117 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Walmart",
-        "id": "6b51dbc4-66f9-4e59-bf6b-d1956835f76c",
-        "title": "Software Engineer 3",
-        "active": false,
-        "date_updated": 1767397721,
-        "date_posted": 1767397721,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-III_R-2347075",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": " Cottingham & Butler",
-        "id": "acc30ce5-a98b-4b40-86dd-9e30beac4111",
-        "title": "EDI Coordinator",
-        "active": false,
-        "date_updated": 1767397333,
-        "date_posted": 1767397333,
-        "url": "https://boards.greenhouse.io/cottinghambutlerinsuranceservicesinc/jobs/4694391008",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cottingham-And-Butler",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "df7c363f-4692-46f8-876d-a3dd8917fe9f",
-        "title": "Systems Engineer - Entry Level",
-        "active": false,
-        "date_updated": 1767397165,
-        "date_posted": 1767397165,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Systems-Engineer--Entry-level--Associate-or-Experienced-Level-_JR2025464067-1",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "3d5d6602-3769-441e-a70f-db0e94d18600",
-        "title": "Weapons Software Engineer",
-        "active": false,
-        "date_updated": 1767397156,
-        "date_posted": 1767397156,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Weapons-Associate-Software-Engineer_JR2025462593-1",
-        "locations": [
-            "St Charles, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "PNC Financial Services",
-        "id": "8bc132e1-cca5-4598-9d2c-cce2a2f5f0ce",
-        "title": "Software Engineer Associate",
-        "active": false,
-        "date_updated": 1767396815,
-        "date_posted": 1767396815,
-        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/Dallas-Innovation-Center---Luna-Rd-TX270/Software-Engineer-Associate_R200033-1",
-        "locations": [
-            "Dallas, TX",
-            "Pittsburgh, PA",
-            "Strongsville, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "FactSet",
-        "id": "31ce3fd2-7565-42ec-bdb6-a364de28e7ac",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1767397695,
-        "date_posted": 1767397695,
-        "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/New-York-NY-USA/Software-Engineer-I_R30307",
-        "locations": [
-            "Westport, CT",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/FactSet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Niagara Bottling",
         "id": "0dd3572b-97cb-4803-a9e0-9164f5151f58",
@@ -178,24 +67,6 @@
             "Walnut, CA"
         ],
         "company_url": "https://simplify.jobs/c/Niagara-Bottling",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "ef0e16a3-a75f-483f-be28-593ea13a725c",
-        "title": "Software Engineer 1 - BMS Software Engineer 1 - IN",
-        "active": false,
-        "date_updated": 1767398402,
-        "date_posted": 1767398402,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2026-Full-Time---BMS-Software-Engineer-1---Onsite--IN-_01812916",
-        "locations": [
-            "Fort Wayne, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -10658,27 +10529,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/BMO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rambus",
-        "id": "6e4b8412-f984-47e3-bc20-40454661b0b0",
-        "title": "Digital Design Engineer \u2013 New College Grad",
-        "active": true,
-        "date_updated": 1768259571,
-        "date_posted": 1767396769,
-        "url": "https://careers-rambus.icims.com/jobs/22422/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Rambus",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -160587,26 +160437,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Akuna Capital University",
-        "id": "4d99f4ed-f6a0-44c1-8174-63fd3618fce7",
-        "title": "Options Trader",
-        "active": false,
-        "date_updated": 1776294060,
-        "date_posted": 1767396879,
-        "url": "https://www.akunacapital.com/careers/job/7496425/?gh_jid=7496425",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Akuna-Capital-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Edwards Lifesciences",
         "id": "5c9ba28b-f408-4bea-8a67-7943f68e8033",
@@ -221919,7 +221749,7 @@
         "company_name": "Gynger",
         "id": "7fe84778-db60-4cf1-a1c1-8dbbc12097d5",
         "title": "Financial & Credit Analytics Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351545,
         "url": "https://jobs.lever.co/gynger/6355791d-444f-4a38-9363-3252f38ea3bf/apply",
