@@ -55,44 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3cd2d043-66ed-4a60-b82f-45212e608871",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767481998,
-        "date_posted": 1767481998,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044765",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mohawk",
-        "id": "5880e13b-2648-4708-b7b8-df57ef3c9e5a",
-        "title": "Master Data Coordinator",
-        "active": false,
-        "date_updated": 1767482877,
-        "date_posted": 1767482877,
-        "url": "https://careers.mohawkind.com/job/Dalton-Master-Data-Coordinator-Geor-30721/1353042200/?ats=successfactors",
-        "locations": [
-            "Calhoun, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mohawk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Belden",
         "id": "a071fa6d-39ad-413b-bcd2-5e7cff890799",
@@ -173186,27 +173148,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "3430c8dc-b361-418e-b760-bb4b8464dcab",
-        "title": "Graduate Machine Learning Engineer - TikTok Recommendation Live",
-        "active": false,
-        "date_updated": 1774619455,
-        "date_posted": 1767482802,
-        "url": "https://lifeattiktok.com/search/7542584919815325960",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Autodesk",
         "id": "ee4ed734-45fa-4bfb-9ba8-b831758c0bfe",
         "title": "Machine Learning Engineer",
@@ -342103,7 +342044,7 @@
         "company_name": "WelbeHealth",
         "id": "58d9d263-e25e-491b-9e3e-42e08454509c",
         "title": "AI Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1786142685,
         "date_posted": 1786141981,
         "url": "https://job-boards.greenhouse.io/welbehealth/jobs/8599687002",
@@ -368418,7 +368359,7 @@
         "company_name": "Noblis",
         "id": "6654047a-c686-4ee9-a050-c53f8cdb885e",
         "title": "Open Source Intelligence Analyst - OSINT - Multiple Levels",
-        "active": true,
+        "active": false,
         "date_updated": 1787238609,
         "date_posted": 1787238454,
         "url": "https://careers.noblis.org/jobs/27699?icims=1",
