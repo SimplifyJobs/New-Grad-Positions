@@ -156423,7 +156423,7 @@
         "company_name": "Intel",
         "id": "4ab70c4d-6ec3-474a-bd78-065260824c81",
         "title": "RTL Design Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776120045,
         "date_posted": 1776118184,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/RTL-Design-Engineer_JR0281759",
@@ -276675,7 +276675,7 @@
         "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
         "id": "2ef54b60-3789-4c6c-9334-f82a476cfc90",
         "title": "Application Developer 1 - Power Platform",
-        "active": false,
+        "active": true,
         "date_updated": 1783548743,
         "date_posted": 1783548322,
         "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Offices-at-Vernon-Place/Application-Developer-I--Power-Platform_JR222607",
@@ -291815,7 +291815,7 @@
         "company_name": "Rocket Companies",
         "id": "feddb33d-3c53-46be-9599-b215ba67e99e",
         "title": "Android Mobile Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784328841,
         "date_posted": 1784246400,
         "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Android-Mobile-Software-Developer-I_R-083752",
@@ -319730,7 +319730,7 @@
         "company_name": "Dollar General",
         "id": "999e5036-8e21-4d44-8bcf-c4597414e346",
         "title": "Media Network Insights Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1785366362,
         "date_posted": 1785364732,
         "url": "https://careers.dollargeneral.com/jobs/365560?icims=1",
@@ -359154,7 +359154,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -359252,7 +359252,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -367042,7 +367042,7 @@
         "company_name": "Garmin",
         "id": "f75b9eb2-f21c-4ee4-ae1a-88fa264ced45",
         "title": "Clean Room Electronics Assembler",
-        "active": true,
+        "active": false,
         "date_updated": 1787177701,
         "date_posted": 1787177620,
         "url": "https://careers.garmin.com/jobs/19473?icims=1",
@@ -383515,7 +383515,7 @@
         "company_name": "Altice USA",
         "id": "ed1c1803-cea0-4778-8d48-8ba69bc0716a",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787963968,
         "date_posted": 1787304182,
         "url": "https://www.optimumcareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1420351500/?ats=successfactors",
@@ -384395,6 +384395,246 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/OneOncology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TD Bank",
+        "id": "4f125643-39a2-45e5-a002-581199b92f79",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1788202621,
+        "date_posted": 1787616000,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1507379",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "e4824029-8de4-4ad1-9c18-b4c968025116",
+        "title": "Software Engineer New Grad - Risk Solutions Technology Graduate Program",
+        "active": true,
+        "date_updated": 1788203631,
+        "date_posted": 1788134400,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "1bcf08bd-5019-4f05-a683-d0799a8bd847",
+        "title": "Software Engineer New Grad - Risk Solutions Technology Graduate Program",
+        "active": true,
+        "date_updated": 1788203636,
+        "date_posted": 1788134400,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The Home Depot",
+        "id": "b3752725-66db-48cf-9afc-ab99d1b957c9",
+        "title": "Associate Product Manager - Product Management Program",
+        "active": true,
+        "date_updated": 1788203631,
+        "date_posted": 1788134400,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Product-Manager-Program--Summer-2027-_Req192004",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Home-Depot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AMD",
+        "id": "58a0dcba-5ea2-494a-a22d-9fdb8d98d4a6",
+        "title": "AI Applications Engineer - Wired and Wireless Business Team - Adaptive and Embedded Computing Group",
+        "active": true,
+        "date_updated": 1788202621,
+        "date_posted": 1788202527,
+        "url": "https://careers.amd.com/jobs/91544?icims=1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blue Origin",
+        "id": "bf835599-8651-473d-9658-ab57e21dd6e5",
+        "title": "Flight Instrumentation Engineer - New Glenn",
+        "active": true,
+        "date_updated": 1788203516,
+        "date_posted": 1788134400,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/New-Glenn-Flight-Instrumentation-Engineer_R71077-1",
+        "locations": [
+            "Space Coast, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WellSky",
+        "id": "b46bed65-2b6c-455c-b8a5-3739d8e4685e",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1788202621,
+        "date_posted": 1788134400,
+        "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Data-Engineer_JR5015",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/WellSky",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WellSky",
+        "id": "9248e46c-36d0-4ae1-a1b7-22b9ac2b0fb7",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1788202621,
+        "date_posted": 1788134400,
+        "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer_JR5078",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/WellSky",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "25555df6-014a-4233-b92f-7a2f9beaf248",
+        "title": "Data Science Associate - Analytics Insights & AI",
+        "active": true,
+        "date_updated": 1788203518,
+        "date_posted": 1788134400,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Associate_R_1506170",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NRG Energy",
+        "id": "a0460b90-4d6d-4fae-98e3-72964ecd54f7",
+        "title": "Field Service Professional",
+        "active": true,
+        "date_updated": 1788203404,
+        "date_posted": 1788202320,
+        "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Jackson-Field-Service-Professional-Jackson,-MI-MI-49204/1424977000/?ats=successfactors",
+        "locations": [
+            "Jackson, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/NRG-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NRG Energy",
+        "id": "1ebe7702-9e46-46d9-990b-a90edb1af05d",
+        "title": "Field Service Professional",
+        "active": true,
+        "date_updated": 1788202621,
+        "date_posted": 1788202319,
+        "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Saint-Louis-Field-Service-Professional-Saint-Louis,-MO-MO-63136/1424989100/?ats=successfactors",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/NRG-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CDK Global",
+        "id": "2d9eafef-4f51-4b00-9778-8056f9e763ec",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1788202621,
+        "date_posted": 1788134400,
+        "url": "https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Software-Engineer_JR9201-1",
+        "locations": [
+            "Austin, TX",
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/CDK-Global",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
