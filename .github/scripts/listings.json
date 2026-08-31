@@ -57,114 +57,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "dedad7e8-0625-4987-88b5-0548b8ed81b9",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767456693,
-        "date_posted": 1767456693,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044712",
-        "locations": [
-            "Northamptonshire, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "cbef4395-54c4-44c7-837e-2bc17cb670c6",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767456695,
-        "date_posted": 1767456695,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044720",
-        "locations": [
-            "Bangor, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "898d53e7-59dd-479f-a83d-7fa479bb5272",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767456694,
-        "date_posted": 1767456694,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044728",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f27ea0fd-3959-442a-af58-65adedc6ec69",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767456698,
-        "date_posted": 1767456698,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044701",
-        "locations": [
-            "Gloucester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "35e97546-a472-4df4-924f-5975b9e6b3e9",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1767456713,
-        "date_posted": 1767456713,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044691",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "7471e034-0662-4cc5-b4aa-3b702c827edc",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767456697,
-        "date_posted": 1767456697,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044698",
-        "locations": [
-            "Gloucester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "3cd2d043-66ed-4a60-b82f-45212e608871",
         "title": "Trading Assistant",
         "active": false,
@@ -324293,7 +324185,7 @@
         "company_name": "Tierpoint",
         "id": "3b7d83a3-d7c9-414b-9aa9-c59035dd106a",
         "title": "Operations Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785577874,
         "date_posted": 1782396519,
         "url": "https://careers-tierpoint.icims.com/jobs/3003/job?mobile=true&needsRedirect=false",
@@ -325389,7 +325281,7 @@
         "company_name": "Xylem",
         "id": "57d7b743-3ff2-40d2-b2b8-6c14be9eefdf",
         "title": "Application Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1785600046,
         "date_posted": 1782914900,
         "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Oromocto/Application-Engineer-II_R49123",
@@ -384331,5 +384223,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Virginia",
+        "id": "73dfe39d-c2dc-4464-8d48-eba011a460ea",
+        "title": "Student Operations Assistant - School of Data Science - Student Wage",
+        "active": true,
+        "date_updated": 1788192361,
+        "date_posted": 1788134400,
+        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Student-Operations-Assistant---School-of-Data-Science--Student-Wage-_R0086893",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
