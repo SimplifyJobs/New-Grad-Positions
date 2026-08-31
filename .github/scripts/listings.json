@@ -279120,7 +279120,7 @@
         "company_name": "Microchip Technology",
         "id": "efe25ed5-726e-494c-9adc-d1cc913caf18",
         "title": "Business Intelligence Analyst-Marketing",
-        "active": true,
+        "active": false,
         "date_updated": 1783635304,
         "date_posted": 1783555200,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Business-Intelligence-Analyst-Marketing_R2905-26",
@@ -296081,7 +296081,7 @@
         "company_name": "Simple AI",
         "id": "7842a386-1b4c-467e-a31e-13c433e89358",
         "title": "Forward Deployed Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784596685,
         "date_posted": 1784596484,
         "url": "https://jobs.ashbyhq.com/simple-ai/bc8b4fee-f2df-4c15-9e91-c87cf1afd08c/application?embed=true",
@@ -366800,7 +366800,7 @@
         "company_name": "Techtronic Industries (TTI)",
         "id": "a0b5f209-6e43-46af-9d7f-459315a7b21d",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787178061,
         "date_posted": 1787097600,
         "url": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Software-Engineer-1_R76960",
@@ -372489,7 +372489,7 @@
         "company_name": "Mastercard",
         "id": "b948ef8c-99af-4850-940a-ca3b8506efb3",
         "title": "Software Engineer - Launch Program",
-        "active": true,
+        "active": false,
         "date_updated": 1787580931,
         "date_posted": 1787529600,
         "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1",
@@ -385031,6 +385031,118 @@
             "Belfast, UK"
         ],
         "company_url": "https://simplify.jobs/c/Proofpoint",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "ea3f3cbc-74b2-495a-b20d-db469c9ce81e",
+        "title": "ASIC Floorplan Design Engineer New Grad",
+        "active": true,
+        "date_updated": 1788215197,
+        "date_posted": 1788134400,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "9ff8def7-4cc8-4f59-aadb-ddec79771bfa",
+        "title": "AI Developer Technology Engineer New Grad - AI",
+        "active": true,
+        "date_updated": 1788215181,
+        "date_posted": 1788134400,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2026_JR2024557",
+        "locations": [
+            "Salt Lake City, UT",
+            "Austin, TX",
+            "Redmond, WA",
+            "Santa Clara, CA",
+            "Durham, NC",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CHA Consulting",
+        "id": "45d91472-6f22-4600-a9f9-47f9c9057584",
+        "title": "Survey Instrument Operator - Survey Geospatial Team",
+        "active": true,
+        "date_updated": 1788214681,
+        "date_posted": 1788214522,
+        "url": "https://jobs-challp.icims.com/jobs/7788/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Boston, MA",
+            "Norwell, MA",
+            "Rocky Hill, CT",
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/CHA-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wellmark",
+        "id": "a7e7f997-113b-430c-a402-97741116a2c2",
+        "title": "Technology Associate Program Upcoming Graduate - 2-Year Rotation Program",
+        "active": true,
+        "date_updated": 1788214451,
+        "date_posted": 1788214216,
+        "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000146512109",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellmark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "93e23ebc-4de9-4648-9968-98e302f94a59",
+        "title": "Systems & Applications Engineer - Entry Level",
+        "active": true,
+        "date_updated": 1788214326,
+        "date_posted": 1788134400,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/Systems---Applications-Engineer--Entry-Level_R-10066402-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
