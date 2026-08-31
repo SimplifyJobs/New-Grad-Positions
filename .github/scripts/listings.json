@@ -325552,7 +325552,7 @@
         "company_name": "Rio Tinto",
         "id": "0193344e-bc13-476b-b7a8-11ed32f411c7",
         "title": "Mine Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785610171,
         "date_posted": 1783987200,
         "url": "https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Boron/Engineer---Mining_R61350",
@@ -359280,7 +359280,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -359378,7 +359378,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -359682,7 +359682,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -375374,7 +375374,7 @@
         "company_name": "L3Harris Technologies",
         "id": "77ce4406-421d-4a67-89e6-431d60b1c981",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787654209,
         "date_posted": 1787648488,
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-FL-32934/1422829800/?ats=successfactors",
@@ -375493,7 +375493,7 @@
         "company_name": "L3Harris Technologies",
         "id": "0db410bd-2e98-4085-8c98-e2d9c6e4dfee",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787655441,
         "date_posted": 1787648486,
         "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineei-CO-80916/1422829300/?ats=successfactors",
@@ -383255,7 +383255,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "7411f01e-5960-4f80-a290-d48a3277a839",
         "title": "Data Science Engineer - Computational Engineering Division",
-        "active": true,
+        "active": false,
         "date_updated": 1787954761,
         "date_posted": 1787954743,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990014934566",
@@ -384304,6 +384304,46 @@
             "Calgary, AB, Canada"
         ],
         "company_url": "https://simplify.jobs/c/BP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Roche",
+        "id": "36eea152-2453-44dc-839b-1679431b6c6d",
+        "title": "Finance Insights & Data Analyst Rotational Program",
+        "active": true,
+        "date_updated": 1788166152,
+        "date_posted": 1788134400,
+        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Pleasanton/Rotational-Program---Finance-Insights---Data-Analyst_202608-120691",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roche",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "086646b2-8b1d-43f6-975f-cd474ac11a35",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1788165284,
+        "date_posted": 1788134400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01865026",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
