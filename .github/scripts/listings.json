@@ -356626,7 +356626,7 @@
         "company_name": "Invenergy",
         "id": "5603bb21-2506-46bb-90cf-2cc47b3c471e",
         "title": "Analyst \u2013 Applied AI",
-        "active": true,
+        "active": false,
         "date_updated": 1786686301,
         "date_posted": 1786665600,
         "url": "https://invenergyllc.wd1.myworkdayjobs.com/en-US/invenergycareers/job/Chicago-IL/Analyst--Applied-AI_R11094-1",
@@ -359057,7 +359057,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -359155,7 +359155,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -359459,7 +359459,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -386966,6 +386966,304 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Arkansas",
+        "id": "1f94845b-3249-4178-86d8-030ce3d58821",
+        "title": "Data Integrity Technician",
+        "active": true,
+        "date_updated": 1788278071,
+        "date_posted": 1788220800,
+        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/Data-Integrity-Technician_R0090728-1",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Arkansas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "fb7e29be-e0f0-40a5-be98-43d4039b42fe",
+        "title": "Machine Learning PhD New Grad - Machine Learning and Artificial Intelligence",
+        "active": true,
+        "date_updated": 1788277822,
+        "date_posted": 1788277594,
+        "url": "https://careers.jhuapl.edu/jobs/59888?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "54d9998f-cf2a-4804-85a0-d291481832df",
+        "title": "PhD Graduate - Statistics and Data Science",
+        "active": true,
+        "date_updated": 1788277814,
+        "date_posted": 1788277589,
+        "url": "https://careers.jhuapl.edu/jobs/59889?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "d7e65685-8813-46da-b5c4-3ea47be63759",
+        "title": "Software Developer New Grad",
+        "active": true,
+        "date_updated": 1788277832,
+        "date_posted": 1788220800,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "d7900b94-a62f-48aa-9de4-4cc221c9558b",
+        "title": "Postdoctoral Researcher in Artificial Intelligence",
+        "active": true,
+        "date_updated": 1788277792,
+        "date_posted": 1788277566,
+        "url": "https://careers.jhuapl.edu/jobs/59905?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Hunter Douglas",
+        "id": "8a082a1f-752b-45c6-8293-15abc46f9ab0",
+        "title": "Product Specialist",
+        "active": true,
+        "date_updated": 1788277681,
+        "date_posted": 1788277532,
+        "url": "https://jobs.hunterdouglas.com/division/hunterdouglas/job/7983491003?gh_jid=7983491003",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Hunter-Douglas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "81ce1c3f-dc44-4b61-a2d2-da5badbf6e8d",
+        "title": "Senior Engineer-Analyst - ISR Scientific Applications",
+        "active": true,
+        "date_updated": 1788277787,
+        "date_posted": 1788277568,
+        "url": "https://careers.jhuapl.edu/jobs/59911?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Highmark Health",
+        "id": "cb5d440f-e8da-4617-be02-946e201d0160",
+        "title": "Associate Business Systems Analyst",
+        "active": true,
+        "date_updated": 1788277501,
+        "date_posted": 1788220800,
+        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Business-Systems-Analyst_J286284",
+        "locations": [
+            "Pennsylvania"
+        ],
+        "company_url": "https://simplify.jobs/c/Highmark-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "RELX",
+        "id": "746eeebc-a087-4925-85bb-11bc8abd3491",
+        "title": "Product Operations Coordinator",
+        "active": true,
+        "date_updated": 1788277571,
+        "date_posted": 1788220800,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Duluth-GA/Product-Operations-Coordinator_R118048-2",
+        "locations": [
+            "Duluth, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "2b0d613e-4f48-4c4c-9dac-32935f9ab474",
+        "title": "Electronic Repair Technician",
+        "active": true,
+        "date_updated": 1788277501,
+        "date_posted": 1788220800,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lewisburg-TN/Electronic-Repair-Technician_REQ36403-1",
+        "locations": [
+            "Lewisburg, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Teledyne",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "856dd1dd-c391-4329-905c-934f7aa59198",
+        "title": "Application Engineer Grid Code Compliance and Testing",
+        "active": true,
+        "date_updated": 1788277321,
+        "date_posted": 1788220800,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Application-Engineer-Grid-Code-Compliance-and-Testing_R5049947",
+        "locations": [
+            "Remote in USA",
+            "Schenectady, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BNY",
+        "id": "a3afafe3-1611-4e47-8bb7-aaaedc672f31",
+        "title": "Data Transfer, Integration & Quality Specialist",
+        "active": true,
+        "date_updated": 1788277272,
+        "date_posted": 1788277140,
+        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/77675",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/BNY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BNY",
+        "id": "2a8613ae-45f7-44b6-a8ef-5386b32cbc7c",
+        "title": "Data Operations Specialist - Data Transfer, Integration & Quality",
+        "active": true,
+        "date_updated": 1788277268,
+        "date_posted": 1788277140,
+        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/77678",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/BNY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Manulife Financial",
+        "id": "788859a9-cd3b-4400-b1b5-d398bd9ea0cd",
+        "title": "Data Analyst - Data Office - Operations",
+        "active": true,
+        "date_updated": 1788277193,
+        "date_posted": 1788220800,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Montreal-Quebec/GRO---Data-Analyst_JR26061468",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "52083bf3-06b8-477f-bfd1-7d690058e3f6",
+        "title": "Application Engineer Grid Code Compliance and Testing",
+        "active": true,
+        "date_updated": 1788277142,
+        "date_posted": 1788220800,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Application-Engineer-Grid-Code-Compliance-and-Testing_R5049947-1",
+        "locations": [
+            "Remote in USA",
+            "Schenectady, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
