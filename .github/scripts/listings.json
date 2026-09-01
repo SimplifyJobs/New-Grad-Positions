@@ -251192,7 +251192,7 @@
         "company_name": "Trustpilot",
         "id": "b28000f1-01d7-4052-8ad3-e73e8bf916cc",
         "title": "Software Engineer 1 - Trust Tech",
-        "active": false,
+        "active": true,
         "date_updated": 1781822025,
         "date_posted": 1781820620,
         "url": "https://corporate.trustpilot.com/careers/job/8015788?gh_jid=8015788",
@@ -251210,7 +251210,7 @@
         "company_name": "Trustpilot",
         "id": "77ad6851-537c-48f4-a303-c011b75a68b1",
         "title": "Software Engineer 1 - Trust Tech",
-        "active": false,
+        "active": true,
         "date_updated": 1781821847,
         "date_posted": 1781820625,
         "url": "https://corporate.trustpilot.com/careers/job/7984603?gh_jid=7984603",
@@ -361280,7 +361280,7 @@
         "company_name": "Airbus",
         "id": "5d4f20af-8a77-4879-8b63-e90bfd3ec9b6",
         "title": "On-Board Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787006462,
         "date_posted": 1786924800,
         "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stevenage/On-Board-Software-Engineer_JR10432675",
@@ -386729,5 +386729,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bristol Myers Squibb",
+        "id": "e98b8b6e-ceaa-406f-8b6c-b73b4dd0f803",
+        "title": "Technology Rotational Development Program Associate",
+        "active": true,
+        "date_updated": 1788271067,
+        "date_posted": 1788134400,
+        "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Technology-Rotational-Development-Program-Associate_R1605862",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "MBA"
+        ]
     }
 ]
