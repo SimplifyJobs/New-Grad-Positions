@@ -365566,7 +365566,7 @@
         "company_name": "Micron Technology",
         "id": "567cfc2d-c141-4f57-b4f2-d3426034ba5d",
         "title": "Design Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1787135041,
         "date_posted": 1785801600,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Senior-Design-Engineer_JR106564",
@@ -366970,7 +366970,7 @@
         "company_name": "Rocket Lab USA",
         "id": "18631c69-1de3-487a-98e0-6a170b2596fe",
         "title": "Software Engineer 1/2 - Robotics",
-        "active": true,
+        "active": false,
         "date_updated": 1787178337,
         "date_posted": 1784786741,
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7813360003",
@@ -383236,7 +383236,7 @@
         "company_name": "Altice USA",
         "id": "ed1c1803-cea0-4778-8d48-8ba69bc0716a",
         "title": "Software Development Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1787963968,
         "date_posted": 1787304182,
         "url": "https://www.optimumcareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1420351500/?ats=successfactors",
@@ -387257,5 +387257,88 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Guidehouse",
+        "id": "7e85bd76-ea89-4a0c-951e-11b89b677c7f",
+        "title": "Consulting Analyst - AI & Data - Defense & Security",
+        "active": true,
+        "date_updated": 1788287041,
+        "date_posted": 1788220800,
+        "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Consultant---AI---Data--Defense---Security---Campus-2027_44130-1",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidehouse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Tower Research Capital",
+        "id": "de7cae28-4d2d-4045-9053-985a6dcbe719",
+        "title": "Quantitative Trader/Researcher Graduate Programme",
+        "active": true,
+        "date_updated": 1788286251,
+        "date_posted": 1788286130,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=8037824",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "b670db2d-c732-42ce-9b3c-0ba2e7ebe208",
+        "title": "Digital Design Engineer New Grad - Mixed Signal Design Engineer - HBM",
+        "active": true,
+        "date_updated": 1788286180,
+        "date_posted": 1788220800,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Mixed-Signal-Design-Engineer--HBM_JR110753",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AIG",
+        "id": "8dbd303a-762d-4db5-a030-926484d0cc16",
+        "title": "Technology Analyst",
+        "active": true,
+        "date_updated": 1788286139,
+        "date_posted": 1788220800,
+        "url": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/NC-Charlotte/XMLNAME-2027-Early-Careers--Analyst--Technology---United-States--Charlotte--NC---Houston--TX_JR2603640",
+        "locations": [
+            "Houston, TX",
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/AIG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
