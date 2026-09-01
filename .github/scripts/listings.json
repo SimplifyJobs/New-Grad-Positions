@@ -328333,7 +328333,7 @@
         "company_name": "Capgemini",
         "id": "e069ff5e-614f-4167-aebe-d4a2587e393d",
         "title": "Engineering Science Graduate - Utilities",
-        "active": true,
+        "active": false,
         "date_updated": 1785737773,
         "date_posted": 1785737273,
         "url": "https://careers.capgemini.com/job/Abingdon-Engineering-Science-Consultant-Utilities-(Graduate)/1420277533/?ats=successfactors",
@@ -386691,5 +386691,43 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "c75d7f50-6253-464e-9ab1-c0c0d2947640",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "date_updated": 1788260978,
+        "date_posted": 1787872846,
+        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-1-UT-84116/1424202800/?ats=successfactors",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KION Group",
+        "id": "9b121d33-486b-468c-836e-38722fb76b54",
+        "title": "Electronic Repair Technician - 1st Shift",
+        "active": true,
+        "date_updated": 1788261367,
+        "date_posted": 1788134400,
+        "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Salt-Lake-City-UT-United-States/Parts-Repair-Technician--1st-Shift-_JR-0095167",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/KION-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
