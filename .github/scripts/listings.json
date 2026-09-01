@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "74659dd5-9025-4d5d-8807-be7528455af6",
-        "title": "Manufacturing Technician A",
-        "active": false,
-        "date_updated": 1767513546,
-        "date_posted": 1767513546,
-        "url": "https://jobs.l3harris.com/job/Londonderry-Manufacturing-Technician-A-NH-03053/1353048800/?ats=successfactors",
-        "locations": [
-            "Merrimack, NH"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "a8a14642-f61b-4bf5-b8ee-d4529a80981f",
@@ -351036,7 +351018,7 @@
         "company_name": "RTX",
         "id": "a8bb8bee-9384-4ef6-b48e-0a00efb028e5",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786572658,
         "date_posted": 1786492800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineer-I--Onsite-_01864603",
@@ -353727,7 +353709,7 @@
         "company_name": "Cenovus Energy",
         "id": "7c94dc3a-3014-4cdd-a53a-e86887a4ac70",
         "title": "Geophysicist-in-Training New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1786661711,
         "date_posted": 1786579200,
         "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/New-Grad--Geophysicist-in-Training--June-2027--Calgary-_R-410991",
