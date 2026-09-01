@@ -231032,7 +231032,7 @@
         "company_name": "Tesla",
         "id": "370706b8-ca68-4bd2-8a81-dc851f0ba733",
         "title": "Data Collection Operator - Optimus",
-        "active": true,
+        "active": false,
         "date_updated": 1780796016,
         "date_posted": 1780795891,
         "url": "https://www.tesla.com/careers/search/job/272823",
@@ -323564,7 +323564,7 @@
         "company_name": "Deloitte",
         "id": "3ad4bb50-2cc1-4e5e-b9d9-f5f00800b5eb",
         "title": "AI Innovation Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785539643,
         "date_posted": 1785536781,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Analyst-AI-Innovation/361321",
@@ -359095,7 +359095,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -359193,7 +359193,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -359497,7 +359497,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -374348,7 +374348,7 @@
         "company_name": "Tesla",
         "id": "d8128313-1a27-4475-bfe7-ccff7edc883d",
         "title": "Electronic Hardware Validation - Low Voltage Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1787616918,
         "date_posted": 1787616728,
         "url": "https://www.tesla.com/careers/search/job/280969",
@@ -385337,6 +385337,126 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "349400a4-4185-470e-84eb-5b65b346c7e1",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1788224370,
+        "date_posted": 1788220645,
+        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1425107000/?ats=successfactors",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ameriprise Financial",
+        "id": "faeff490-5617-43ca-8ac7-9d7b9416c68b",
+        "title": "Analytics Leadership Development Program Associate - Multiple Teams",
+        "active": true,
+        "date_updated": 1788221521,
+        "date_posted": 1788134400,
+        "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Minneapolis-Minnesota/Analytics-leadership-Development-Program_R26_3449",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Ameriprise-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Avalore",
+        "id": "8af4ee52-d394-44e5-9ef4-88fe7504f12b",
+        "title": "Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1788221521,
+        "date_posted": 1788218944,
+        "url": "https://apply.workable.com/avalore/j/DC8241F357/apply",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Avalore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "a1207d00-acc5-4c19-81b1-f641537fd9fd",
+        "title": "Full-Stack Developer",
+        "active": true,
+        "date_updated": 1788223523,
+        "date_posted": 1788134400,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---Full-Stack-Developer_R0248330",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "6100dc29-3179-4821-8d3b-7b3ac0ae70e9",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1788223520,
+        "date_posted": 1788134400,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---Data-Engineer_R0248336",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Advanced Technology Services",
+        "id": "459734db-01e3-418e-b8f5-bef32147682b",
+        "title": "Electronic Test Technician",
+        "active": true,
+        "date_updated": 1788223487,
+        "date_posted": 1788217729,
+        "url": "https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4705444006",
+        "locations": [
+            "Mossville, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Advanced-Technology-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
