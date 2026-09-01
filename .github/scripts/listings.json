@@ -170024,7 +170024,7 @@
         "company_name": "Catapult",
         "id": "09ecbd59-57e6-43c3-87e9-2c2d92f3bcb5",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776763793,
         "date_posted": 1776763477,
         "url": "https://job-boards.greenhouse.io/catapultsports/jobs/7821130",
@@ -294082,7 +294082,7 @@
         "company_name": "Capital One",
         "id": "d03ac761-2dfa-4cd7-bd7c-797b6ff89c19",
         "title": "Software Engineer New Grad - Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784587302,
         "date_posted": 1784505600,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
@@ -307880,7 +307880,7 @@
         "company_name": "RTX",
         "id": "05265820-1130-4644-9da5-87524303c14b",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1784819994,
         "date_posted": 1784764800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525",
@@ -337206,7 +337206,7 @@
         "company_name": "Cloudscaler",
         "id": "f7f97d9a-0472-4842-881f-c73356982eb2",
         "title": "Associate Engineer Graduate Entry Role",
-        "active": true,
+        "active": false,
         "date_updated": 1785969871,
         "date_posted": 1785968513,
         "url": "https://jobs.ashbyhq.com/cloudscaler/5785a84a-4984-4c87-9899-b9ae289bf575/application?embed=true",
@@ -386749,6 +386749,144 @@
         "degrees": [
             "Master's",
             "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Airbus",
+        "id": "6a8dcada-2bdc-47a8-95a6-ecde4e85662b",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1788272835,
+        "date_posted": 1788220800,
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/AGGP2027---Graduate-Software-Engineer_JR10437769",
+        "locations": [
+            "Newcastle upon Tyne, UK",
+            "Portsmouth, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Barclays",
+        "id": "f05eb347-f099-4802-b729-1b9fb8b70bfc",
+        "title": "Electronic Trading Associate Graduate Program",
+        "active": true,
+        "date_updated": 1788272498,
+        "date_posted": 1788220800,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Electronic-Trading-Associate-Graduate-Program-2027-New-York_JR-0000122953-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Barclays",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Barclays",
+        "id": "0884b8af-b38e-4bf0-ac80-1b45bcc49637",
+        "title": "Global Transaction Banking Graduate Programme",
+        "active": true,
+        "date_updated": 1788272488,
+        "date_posted": 1788220800,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Global-Transaction-Banking-Graduate-Programme-2027-London_JR-0000124255-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Barclays",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Entarian",
+        "id": "9eb7168d-760f-43a4-b898-b3d5ba3836ea",
+        "title": "Engineering Technician 1/2",
+        "active": true,
+        "date_updated": 1788272131,
+        "date_posted": 1788271943,
+        "url": "https://careers-entarian.icims.com/jobs/9873/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Entarian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Entarian",
+        "id": "b8e0c4f7-3c94-4f2c-87d3-e2fedeb43e5d",
+        "title": "Engineering Technician 1/2",
+        "active": true,
+        "date_updated": 1788272132,
+        "date_posted": 1788271942,
+        "url": "https://careers-entarian.icims.com/jobs/9871/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Entarian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Andersen Corporation",
+        "id": "b5bd7acb-fb6d-45e9-b967-efb69ef23fa3",
+        "title": "Manufacturing Associate 1",
+        "active": true,
+        "date_updated": 1788271807,
+        "date_posted": 1785369600,
+        "url": "https://andersen.wd12.myworkdayjobs.com/Andersen_External_Career_Site/job/Strathroy-ON/Manufacturing-Associate-I_R-6885",
+        "locations": [
+            "Strathroy, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Andersen-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Skillcloud HCM Solutions",
+        "id": "a60a9da0-a7b7-4d40-b473-e20dfc1b4099",
+        "title": "Assembler",
+        "active": true,
+        "date_updated": 1788271382,
+        "date_posted": 1788271290,
+        "url": "https://jobs.lever.co/skillcloudhcm/33cdade7-ec01-4c64-ab3b-7fbae2f009fb/apply",
+        "locations": [
+            "Bangor, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/Skillcloud-HCM-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
