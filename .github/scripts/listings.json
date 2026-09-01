@@ -385742,5 +385742,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dollar General",
+        "id": "30aa286a-6d1f-4b2b-a135-99689240aef1",
+        "title": "Sales Associate",
+        "active": true,
+        "date_updated": 1788231284,
+        "date_posted": 1788226943,
+        "url": "https://careers.dollargeneral.com/jobs/86171?icims=1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Dollar-General",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
