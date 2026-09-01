@@ -318171,7 +318171,7 @@
         "company_name": "Observable Space",
         "id": "ae72d45f-8a3a-45db-9cf2-c1cdb945e21e",
         "title": "Junior Electrical Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1785319922,
         "date_posted": 1775254165,
         "url": "https://jobs.ashbyhq.com/observable-space/18d4da43-e393-466f-9f81-47c97b51d0ac/application?embed=true",
@@ -361354,7 +361354,7 @@
         "company_name": "Microsoft",
         "id": "3e312320-0a40-44a6-84bd-83cd736fdf2c",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787006410,
         "date_posted": 1787006193,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556971487",
@@ -364331,7 +364331,7 @@
         "company_name": "RTX",
         "id": "bde086bf-dab1-4025-b1fa-8d581fc9b704",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787090903,
         "date_posted": 1787011200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01867811",
@@ -386297,6 +386297,73 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "976a401d-6247-4baa-9342-17d250fa34db",
+        "title": "Software Engineer 1 - CVN 21 Design",
+        "active": true,
+        "date_updated": 1788240918,
+        "date_posted": 1788240031,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1425127900/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "99d36c47-9c2d-45d5-87ea-42d0f26740a4",
+        "title": "Software Engineer 1 - CVN 21 Design",
+        "active": true,
+        "date_updated": 1788240916,
+        "date_posted": 1788240030,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1425126300/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Marsh",
+        "id": "c63a21d6-33bd-456f-bf49-6d06bcc2a097",
+        "title": "Research Associate",
+        "active": true,
+        "date_updated": 1788241874,
+        "date_posted": 1788134400,
+        "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/NERA-Research-Associate--Summer-2027-Grads---Multiple-Locations-_R_364004-1",
+        "locations": [
+            "Boston, MA",
+            "Washington, DC",
+            "SF",
+            "Chicago, IL",
+            "NYC",
+            "White Plains, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Marsh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "Bachelor's",
             "Bachelor's"
         ]
     }
