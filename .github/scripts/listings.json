@@ -55,26 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Belden",
-        "id": "a071fa6d-39ad-413b-bcd2-5e7cff890799",
-        "title": "Technical Solutions Track: Launch Early Career Leadership Program",
-        "active": false,
-        "date_updated": 1767510815,
-        "date_posted": 1767510815,
-        "url": "https://careers.belden.com/job/Chicago-Technical-Solutions-Track-Launch-Early-Career-Leadership-Program-IL-60631/1340122600/?ats=successfactors",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Belden",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "L3Harris Technologies",
         "id": "74659dd5-9025-4d5d-8807-be7528455af6",
@@ -334515,7 +334495,7 @@
         "company_name": "Advanced Energy",
         "id": "cf26a438-849a-4994-b37e-ab1fdb0e3dc1",
         "title": "Rotational Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785881163,
         "date_posted": 1783029806,
         "url": "https://jobs.advanced-energy.com/job/Milpitas-Rotational-Field-Application-Engineer-CA-95035/1331850100/?ats=successfactors",
@@ -376599,7 +376579,7 @@
         "company_name": "Cox Automotive",
         "id": "72746436-f86c-473c-be29-91efd6fe9c8c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "date_updated": 1787704159,
         "date_posted": 1787616000,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Entry-Level-Software-Engineer--Burlington--VT-_R202681784",
@@ -379410,7 +379390,7 @@
         "company_name": "Sysmex",
         "id": "629aa3b3-db84-4aee-bb4d-ac8e399aaf08",
         "title": "Field Service Technician - Regional",
-        "active": true,
+        "active": false,
         "date_updated": 1787822461,
         "date_posted": 1786457379,
         "url": "https://careers-sysmex.icims.com/jobs/4801/job?mobile=true&needsRedirect=false",
@@ -386364,6 +386344,26 @@
         "degrees": [
             "Master's",
             "Bachelor's",
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Katalyst Space Technologies",
+        "id": "9225ec02-ab4c-45eb-b7b9-bc67a7c4da4d",
+        "title": "Software Engineer New Grad - Software Engineer 1",
+        "active": true,
+        "date_updated": 1788246745,
+        "date_posted": 1788246494,
+        "url": "https://job-boards.greenhouse.io/katalyst/jobs/6176710004",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Katalyst-Space-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Bachelor's"
         ]
     }
