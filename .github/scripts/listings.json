@@ -324860,7 +324860,7 @@
         "company_name": "Apple",
         "id": "a98768c3-1d79-4f8a-89a9-d3357004a2de",
         "title": "AI Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785594241,
         "date_posted": 1780583255,
         "url": "https://jobs.apple.com/en-us/details/200666380",
@@ -366135,7 +366135,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "4bf977f7-8855-4cc1-8aac-d9c577e1687d",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787172841,
         "date_posted": 1787172824,
         "url": "https://careers-gdms.icims.com/jobs/74417/job?mobile=true&needsRedirect=false",
@@ -385760,5 +385760,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Airbus",
+        "id": "abc08d7b-bb97-456f-8b07-4a26a43b0fa2",
+        "title": "Flight Physics Capabilities Graduate",
+        "active": true,
+        "date_updated": 1788233812,
+        "date_posted": 1788220800,
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/AGGP2027---Graduate-Flight-Physics-Capabilities_JR10428463",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Airbus",
+        "id": "0942c68d-8911-49dd-94c5-f33974868acd",
+        "title": "Graduate Strategy and Data Analyst",
+        "active": true,
+        "date_updated": 1788233811,
+        "date_posted": 1788220800,
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/AGGP2027---Graduate-Strategy-and-Data-Analyst_JR10430952",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
