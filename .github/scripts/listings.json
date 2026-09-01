@@ -147809,7 +147809,7 @@
         "company_name": "Axon",
         "id": "15019db0-bd99-4871-89c5-0c4e322637b5",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775604594,
         "date_posted": 1775600445,
         "url": "https://job-boards.greenhouse.io/axon/jobs/7576969003",
@@ -254312,7 +254312,7 @@
         "company_name": "SS&C",
         "id": "6a6c1581-688a-4490-a6f9-1d598fb5a107",
         "title": "Salesforce Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782167041,
         "date_posted": 1782165792,
         "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Jacksonville-FL/Salesforce-Systems-Engineer_R42882",
@@ -263440,7 +263440,7 @@
         "company_name": "Optiver",
         "id": "1e2b7529-adf7-49ab-8d4a-8979fab4e3e9",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782944642,
         "date_posted": 1782943968,
         "url": "https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002",
@@ -280416,7 +280416,7 @@
         "company_name": "Trend Micro",
         "id": "0a6dd19d-c361-449a-b4b1-ea15ad2d816f",
         "title": "Applied AI Backend Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783721524,
         "date_posted": 1783641600,
         "url": "https://trendmicro.wd3.myworkdayjobs.com/External/job/Ottawa/Applied-AI-Backend-Engineer_R0009942",
@@ -362932,7 +362932,7 @@
         "company_name": "Physicians Mutual",
         "id": "d5de2771-266c-419e-bae6-77981a5594d4",
         "title": "Actuarial Opportunities - Pet Insurance Product Management",
-        "active": true,
+        "active": false,
         "date_updated": 1787040044,
         "date_posted": 1787039759,
         "url": "https://careers-physiciansmutual.icims.com/jobs/2065/job?mobile=true&needsRedirect=false",
@@ -379116,7 +379116,7 @@
         "company_name": "Light & Wonder",
         "id": "0e06b88d-3ff0-444e-97c6-e77fe51d0e5a",
         "title": "Field Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787819842,
         "date_posted": 1785888000,
         "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Richmond-VA/Field-Service-Technician_R322612-1",
@@ -382666,7 +382666,7 @@
         "company_name": "BP",
         "id": "41fa3726-240e-4205-ba6d-a0e8861b3919",
         "title": "Reservoir Engineer - Subsurface Group",
-        "active": true,
+        "active": false,
         "date_updated": 1787952689,
         "date_posted": 1787875200,
         "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Graduate---Reservoir-Engineer---Houston--TX_RQ114818",
@@ -387129,7 +387129,7 @@
         "company_name": "Mimecast",
         "id": "4190c721-afa3-4dd7-a89f-42293d2a5a24",
         "title": "Software Engineer 1 - Incydr Insider Risk Management",
-        "active": true,
+        "active": false,
         "date_updated": 1788279518,
         "date_posted": 1788220800,
         "url": "https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6606",
@@ -388233,5 +388233,106 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "InterSystems",
+        "id": "dbf23000-43eb-4556-a82b-84b8f1eb7499",
+        "title": "Software Engineer Rotational Program - Early Career",
+        "active": true,
+        "date_updated": 1788292659,
+        "date_posted": 1788292450,
+        "url": "https://job-boards.greenhouse.io/intersystems/jobs/7827894003",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/InterSystems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "9ada7b53-cc63-45e4-9515-5067d58520d4",
+        "title": "Software Engineer Development Program",
+        "active": true,
+        "date_updated": 1788292312,
+        "date_posted": 1788292153,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25014533",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GM financial",
+        "id": "c27fc1f6-0a75-4148-a5ae-e2ad1c793f73",
+        "title": "Risk Statistician",
+        "active": true,
+        "date_updated": 1788291721,
+        "date_posted": 1788291618,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260893",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Airlines",
+        "id": "219fbdd4-8d25-4c5c-b8a5-0b2f69c935e5",
+        "title": "Associate Analyst - Global Network Planning",
+        "active": true,
+        "date_updated": 1788291770,
+        "date_posted": 1788291575,
+        "url": "https://careers.united.com/us/en/job/WHQ00026705",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Airlines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Publicis Groupe",
+        "id": "b4682ab9-72f7-456c-ac79-7897c7c053b8",
+        "title": "Audience & Insights Analyst",
+        "active": true,
+        "date_updated": 1788291001,
+        "date_posted": 1788290826,
+        "url": "https://careers.publicisgroupe.com/jobs/172081?icims=1",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
