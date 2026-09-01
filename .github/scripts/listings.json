@@ -195182,7 +195182,7 @@
         "company_name": "Morgan Stanley",
         "id": "133ada9c-934e-49d3-8173-37080d0fe9fb",
         "title": "Electronic Trading Risk Management Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1778708881,
         "date_posted": 1778623654,
         "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Electronic-Trading-Risk-Management-Associate_PT-JR036434",
@@ -261460,7 +261460,7 @@
         "company_name": "Lynk",
         "id": "52548b72-ae9f-46dc-b687-9990073dcdf4",
         "title": "Flight Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782483121,
         "date_posted": 1782482909,
         "url": "https://jobs.ashbyhq.com/Lynk/5ff6f792-dbe9-49ed-80df-52f0079e0189/application",
@@ -294802,7 +294802,7 @@
         "company_name": "Zededa",
         "id": "54eb8a09-3206-49de-ab52-5f7361b9dae4",
         "title": "Software Engineer - AI & Edge Kubernetes Orchestration",
-        "active": false,
+        "active": true,
         "date_updated": 1784598911,
         "date_posted": 1784596725,
         "url": "https://ats.rippling.com/zededa/jobs/3e34a738-5eb1-405d-b46b-e9737226f5be",
@@ -343177,7 +343177,7 @@
         "company_name": "Starbucks",
         "id": "e0a94eec-3148-4c4a-a240-6dbffb7885f3",
         "title": "Software Engineer - Software Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786201304,
         "date_posted": 1786201027,
         "url": "https://starbucks.eightfold.ai/careers/job/481078166214",
@@ -353403,7 +353403,7 @@
         "company_name": "Quantum",
         "id": "cb243aa3-0969-4c76-a554-9495b06509f9",
         "title": "Graduate Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1786659481,
         "date_posted": 1786659472,
         "url": "https://jobs.ashbyhq.com/quantum/4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6/application?embed=true",
@@ -388453,5 +388453,262 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Motors",
+        "id": "251dd790-b5bc-48d9-ab3e-9deb38e21b46",
+        "title": "Entry Level Software Design Release Engineer",
+        "active": true,
+        "date_updated": 1788301778,
+        "date_posted": 1788220800,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/GM-Global-Technical-Center---Cole-Engineering-Center-Tower/Entry-Level-Software-Design-Release-Engineer_JR-202618509",
+        "locations": [
+            "Milford, MI",
+            "Warren, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "8dc13916-c56a-400b-969b-302ccc73e591",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1788301643,
+        "date_posted": 1788220800,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2640196",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Skidmore College",
+        "id": "82960911-638e-49ee-a9b0-90d8b6c2e5d6",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1788301643,
+        "date_posted": 1788301553,
+        "url": "https://eodq.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3742",
+        "locations": [
+            "Saratoga Springs, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Skidmore-College",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Armstrong Fluid Technology",
+        "id": "9b1229d5-df7a-42f9-babb-591f0b99dbc3",
+        "title": "Graduate Development Program",
+        "active": true,
+        "date_updated": 1788301743,
+        "date_posted": 1788301462,
+        "url": "https://armstrongfluidtechnology.bamboohr.com/careers/691/",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Armstrong-Fluid-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DaVita",
+        "id": "290747bb-a114-4a02-a374-844fa4014e7b",
+        "title": "Clinical Data Analyst - Clinical Analytics and Reporting",
+        "active": true,
+        "date_updated": 1788301738,
+        "date_posted": 1788220800,
+        "url": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/09567---Denver-HQ-Non-CA-or-CO-Remote/Data-Analyst--Clinical-Analytics-and-Reporting_R0472175",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/DaVita",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "UFP Industries",
+        "id": "63f451bf-72bc-4ef6-a64e-1d4e4ee4a2a1",
+        "title": "Assembler 1",
+        "active": true,
+        "date_updated": 1788301713,
+        "date_posted": 1787529600,
+        "url": "https://ufpi.wd503.myworkdayjobs.com/ufpi/job/San-Antonio-TX/Assembler-1_R22209",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/UFP-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PointClickCare",
+        "id": "cd82f878-c6dc-4bdf-9046-b597ab7b38ef",
+        "title": "Site Reliability Engineer - Site Reliability Engineering",
+        "active": true,
+        "date_updated": 1788301563,
+        "date_posted": 1788301442,
+        "url": "https://jobs.lever.co/pointclickcare/e56d6df3-16fb-4652-9d97-c6140700d2e0/apply",
+        "locations": [
+            "Mississauga, ON, Canada",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PointClickCare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ROUSH",
+        "id": "b2b7562f-596e-4fe0-95ab-b3c1a405c4c4",
+        "title": "Electrical Technician 1",
+        "active": true,
+        "date_updated": 1788301498,
+        "date_posted": 1788301287,
+        "url": "https://roush.applytojob.com/apply/SaHT1mau21/Electrical-Technician-I",
+        "locations": [
+            "Allen Park, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/ROUSH",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "BCI Brands",
+        "id": "aae5a7e9-4e71-4925-b88b-85b934e1f1ab",
+        "title": "Product Development Assistant",
+        "active": true,
+        "date_updated": 1788301107,
+        "date_posted": 1788301093,
+        "url": "https://apply.workable.com/bci-brands/j/1AF72B748F/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/BCI-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "New Flyer",
+        "id": "61d87d1b-c28f-405e-bfff-556211ccd2ac",
+        "title": "Electrical Assembler - 1st Shift",
+        "active": true,
+        "date_updated": 1788301107,
+        "date_posted": 1788301040,
+        "url": "https://apply.workable.com/new-flyer/j/15F025C061/apply",
+        "locations": [
+            "Shepherdsville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/New-Flyer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Radius Telematics",
+        "id": "1385f127-4838-41e4-b731-f8098b49202d",
+        "title": "Graduate C# Developer",
+        "active": true,
+        "date_updated": 1788300541,
+        "date_posted": 1788300496,
+        "url": "https://jobs.smartrecruiters.com/RadiusLimited/744000146758880",
+        "locations": [
+            "Crewe, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Radius-Limited",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Radius Telematics",
+        "id": "0b257255-e40c-4a65-b490-99ecf5240361",
+        "title": "Graduate Java Developer - Vehicle Telematics",
+        "active": true,
+        "date_updated": 1788300541,
+        "date_posted": 1788300496,
+        "url": "https://jobs.smartrecruiters.com/RadiusLimited/744000146762643",
+        "locations": [
+            "Crewe, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Radius-Limited",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Canon",
+        "id": "ee9ac743-1016-4ea0-985e-0041ed3aabf5",
+        "title": "Field Service Technician 1",
+        "active": true,
+        "date_updated": 1788300193,
+        "date_posted": 1788300003,
+        "url": "https://external-canoncareers.icims.com/jobs/34847/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Coppell, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Canon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
