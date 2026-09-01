@@ -57,188 +57,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "a8a14642-f61b-4bf5-b8ee-d4529a80981f",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767543715,
-        "date_posted": 1767543715,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044796",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "bbc35789-c818-41c5-b4aa-79560a6fd5a9",
-        "title": "Engineering Operations Technician",
-        "active": false,
-        "date_updated": 1767543246,
-        "date_posted": 1767543246,
-        "url": "https://amazon.jobs/en/jobs/3151517/engineering-operations-technician",
-        "locations": [
-            "Ridgeland, MS"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "5283a32f-7523-4d62-9f78-810c300b6c04",
-        "title": "Engineering Operations Technician",
-        "active": false,
-        "date_updated": 1767543272,
-        "date_posted": 1767543272,
-        "url": "https://amazon.jobs/en/jobs/3151526/engineering-operations-technician",
-        "locations": [
-            "Ridgeland, MS"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "cd9109a7-f22d-46f2-ad4f-ec6c9510cb51",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767543035,
-        "date_posted": 1767543035,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044776",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "df9b23de-afba-4621-871f-102fdb6ed910",
-        "title": "Engineering Operations Technician",
-        "active": false,
-        "date_updated": 1767542901,
-        "date_posted": 1767542901,
-        "url": "https://amazon.jobs/en/jobs/3151529/engineering-operations-technician",
-        "locations": [
-            "Ridgeland, MS"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "a1406c17-1366-4cf9-9f46-c99acdaacf91",
-        "title": "Engineering Operations Technician",
-        "active": false,
-        "date_updated": 1767542903,
-        "date_posted": 1767542903,
-        "url": "https://amazon.jobs/en/jobs/3151540/engineering-operations-technician",
-        "locations": [
-            "Ridgeland, MS"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "9308a8d0-471f-46de-8566-72690cf91b43",
-        "title": "Engineering Operations Technician",
-        "active": false,
-        "date_updated": 1767542901,
-        "date_posted": 1767542901,
-        "url": "https://amazon.jobs/en/jobs/3151539/engineering-operations-technician",
-        "locations": [
-            "Ridgeland, MS"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "07c4aa4b-6bb5-4356-a7ce-943cc1e9a156",
-        "title": "Engineering Operations Technician",
-        "active": false,
-        "date_updated": 1767542894,
-        "date_posted": 1767542894,
-        "url": "https://amazon.jobs/en/jobs/3151523/engineering-operations-technician",
-        "locations": [
-            "Ridgeland, MS"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD",
-            "Associate's",
-            "JD",
-            "MD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "c4ca24bd-a9c6-4ada-858d-4dd1f46839e9",
         "title": "Trading Assistant",
         "active": false,
@@ -378497,7 +378315,7 @@
         "company_name": "The Walt Disney Company",
         "id": "a5097a0a-6ce3-4617-b4e0-b214eec284bb",
         "title": "Software Engineer 1 - Rights & Accounting",
-        "active": false,
+        "active": true,
         "date_updated": 1787782127,
         "date_posted": 1787702400,
         "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Software-Engineer-I_10158076-2",
@@ -387265,5 +387083,161 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ensign-Bickford Aerospace & Defense Company",
+        "id": "f2c74423-edee-4802-9ffa-80d160cb0cc2",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1788279481,
+        "date_posted": 1788220800,
+        "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Moorpark-CA/Product-Engineer_REQ107626",
+        "locations": [
+            "Moorpark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ensign-Bickford-Aerospace-Defense-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mechanical Licensing Collective",
+        "id": "65a2cf79-2211-4774-94a9-b1124201de35",
+        "title": "Matching Support Temp",
+        "active": true,
+        "date_updated": 1788279497,
+        "date_posted": 1788279429,
+        "url": "https://job-boards.greenhouse.io/mechanicallicensingcollective/jobs/7499665003",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Mechanical-Licensing-Collective",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mimecast",
+        "id": "4190c721-afa3-4dd7-a89f-42293d2a5a24",
+        "title": "Software Engineer 1 - Incydr Insider Risk Management",
+        "active": true,
+        "date_updated": 1788279518,
+        "date_posted": 1788220800,
+        "url": "https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6606",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Mimecast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Santander",
+        "id": "3398da9a-f553-4673-8f71-e6f617c4ed04",
+        "title": "Application Development Specialist",
+        "active": true,
+        "date_updated": 1788279508,
+        "date_posted": 1788220800,
+        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dallas/Specialist--Application-Development_Req1610190",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Santander",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "39c5c125-bd9b-4181-8a93-ddf41b5a48d4",
+        "title": "Software Engineer - Tactical Decision Aids - Entry-Level",
+        "active": true,
+        "date_updated": 1788279373,
+        "date_posted": 1788220800,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Engineer--Tactical-Decision-Aids---Entry-Level-_R-00191096",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ohio State University",
+        "id": "f667ad35-177f-4331-8f75-f68689f49464",
+        "title": "Research Senior Technician",
+        "active": true,
+        "date_updated": 1788278941,
+        "date_posted": 1788278854,
+        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Senior-Technician_R148553",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Ohio-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welocalize",
+        "id": "0f6c8f09-a18d-4201-9375-9e1cf2ce6047",
+        "title": "Data Collection Operator",
+        "active": true,
+        "date_updated": 1788278761,
+        "date_posted": 1787875200,
+        "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/CA-Client-Field-Office-San-Fran-Bay-Area/Robotics-Teleoperator_R0007908",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zopa",
+        "id": "eede34d8-3520-4881-b2a5-ed052a5b31e5",
+        "title": "Graduate Analyst",
+        "active": true,
+        "date_updated": 1788278806,
+        "date_posted": 1788278712,
+        "url": "https://jobs.lever.co/zopa/962f3756-6e45-480f-984c-64e024b57c4f/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Zopa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
