@@ -57,60 +57,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "c4ca24bd-a9c6-4ada-858d-4dd1f46839e9",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767568315,
-        "date_posted": 1767568315,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044800",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5df7fe08-7bdf-419d-83eb-6da156d56efe",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1767568293,
-        "date_posted": 1767568293,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044808",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2f484388-a3b3-4136-b324-44af95209e73",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767568271,
-        "date_posted": 1767568271,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044802",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "11001ecb-b99f-4cb2-a6a9-0343e983144c",
         "title": "Trading Assistant - Shift",
         "active": false,
@@ -297933,7 +297879,7 @@
         "company_name": "Stewart",
         "id": "617caf94-0106-4351-99bc-6d4f930e8107",
         "title": "Copilot Systems Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784628356,
         "date_posted": 1781359958,
         "url": "https://stewart.wd1.myworkdayjobs.com/External/job/USA-TX---Remote/Systems-Engineer-I_JR108188",
@@ -354845,7 +354791,7 @@
         "company_name": "V2X",
         "id": "6d0324ca-16c8-4f98-8583-71195aad9942",
         "title": "Electronic Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786681150,
         "date_posted": 1786680267,
         "url": "https://careers.gov2x.com/jobs/62264?icims=1",
@@ -355523,7 +355469,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "8dc89094-3aea-4bac-9d27-dfbd32fba20c",
         "title": "Synthetic Aperture Radar Machine Learning Engineer - Imaging Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1786680235,
         "date_posted": 1786679956,
         "url": "https://careers.jhuapl.edu/jobs/58971?icims=1",
@@ -365147,7 +365093,7 @@
         "company_name": "L3Harris Technologies",
         "id": "7fa698b8-dc5d-4c42-88c4-fa95408d986d",
         "title": "Associate Data Architect - Business Intelligence",
-        "active": true,
+        "active": false,
         "date_updated": 1787105236,
         "date_posted": 1787105093,
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Data-Architect-FL-32901/1420890100/?ats=successfactors",
@@ -375963,7 +375909,7 @@
         "company_name": "Man Group",
         "id": "8b350164-ca46-4403-82b0-1df7b1971cdc",
         "title": "Systematic Quant Graduate Rotational",
-        "active": true,
+        "active": false,
         "date_updated": 1787692235,
         "date_posted": 1787692115,
         "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4960444101",
@@ -383792,7 +383738,7 @@
         "company_name": "Micron Technology",
         "id": "74e29beb-3b89-4962-aada-bb8c4b0503e5",
         "title": "R&D Equipment Engineer New Grad - TSE",
-        "active": true,
+        "active": false,
         "date_updated": 1788152807,
         "date_posted": 1788048000,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/TSE-R-D-Equipment-Engineer_JR110198",
@@ -389013,6 +388959,51 @@
             "Cranberry Township, PA"
         ],
         "company_url": "https://simplify.jobs/c/MSA-Safety",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Materials",
+        "id": "94733f02-5ec2-4620-ba66-c69b0863fd6d",
+        "title": "Algorithm Developer 1 - New College Grad - Bachelor's",
+        "active": true,
+        "date_updated": 1788304363,
+        "date_posted": 1788220800,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Omnicom Group",
+        "id": "4ab0ffd6-f5fb-4177-ba56-87c64332053c",
+        "title": "Technology Solutions Analyst",
+        "active": true,
+        "date_updated": 1788303684,
+        "date_posted": 1788220800,
+        "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/Addison-Texas-United-States-of-America/Credera-Technology-Solutions-Analyst_R13713",
+        "locations": [
+            "Houston, TX",
+            "Chicago, IL",
+            "NYC",
+            "Denver, CO",
+            "Atlanta, GA",
+            "Addison, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Omnicom-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
