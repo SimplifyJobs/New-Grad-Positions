@@ -263418,7 +263418,7 @@
         "company_name": "Optiver",
         "id": "9806b0c4-6f96-463b-b16f-410fc0a1ae51",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782944642,
         "date_posted": 1782943968,
         "url": "https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002",
@@ -276870,7 +276870,7 @@
         "company_name": "Jump Trading",
         "id": "b3b5bb79-eed9-4cae-a682-cc7068f5d3eb",
         "title": "Campus Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783550345,
         "date_posted": 1783549629,
         "url": "https://boards.greenhouse.io/embed/job_app?token=8000835",
@@ -355705,7 +355705,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "ad89813c-5160-4d6c-86e1-6c0180f9d408",
         "title": "Navigation Systems Analyst/Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786680196,
         "date_posted": 1786679936,
         "url": "https://careers.jhuapl.edu/jobs/59337?icims=1",
@@ -382463,7 +382463,7 @@
         "company_name": "CACI",
         "id": "a052add2-28bc-4eb0-b971-1d4dc7ecdf12",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787950999,
         "date_posted": 1787875200,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_331191-1",
@@ -386734,7 +386734,7 @@
         "company_name": "Capco",
         "id": "bc39a0ab-b298-47eb-b248-1348cc006626",
         "title": "Junior AI / Data Engineering Analyst - Technology & Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1788273541,
         "date_posted": 1788273433,
         "url": "https://job-boards.greenhouse.io/capco/jobs/8164958",
@@ -388408,6 +388408,46 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thermo Fisher Scientific",
+        "id": "4e6c97fe-7d82-47d5-9da3-9682109eb5f3",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1788298782,
+        "date_posted": 1788220800,
+        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-New-York-USA/Field-Service-Engineer-I_R-01365784",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "9a334ffd-3252-4f69-a5fc-d3e16083784e",
+        "title": "Associate Software Engineer - Pega",
+        "active": true,
+        "date_updated": 1788298421,
+        "date_posted": 1788298375,
+        "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
