@@ -249102,7 +249102,7 @@
         "company_name": "Micron Technology",
         "id": "c8d7875f-7bac-4534-b12d-2428a99cba2f",
         "title": "Design Engineer - HBM Design for Test",
-        "active": true,
+        "active": false,
         "date_updated": 1781735221,
         "date_posted": 1781734487,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Design-Engineer--HBM-DFT_JR93231-1",
@@ -280312,7 +280312,7 @@
         "company_name": "Micron Technology",
         "id": "d8018db8-f18e-4ea7-bfb9-b0e3b70fad76",
         "title": "Design Engineer New Grad - Design Engineer - Non-Volatile Engineering Group",
-        "active": true,
+        "active": false,
         "date_updated": 1783722302,
         "date_posted": 1783721864,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Principal-Design-Engineer--NVEG_JR88223",
@@ -301494,7 +301494,7 @@
         "company_name": "BNY",
         "id": "3154be10-173a-4b90-8b24-47c92d5b67ae",
         "title": "Senior Data Scientist - Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1784681920,
         "date_posted": 1784642969,
         "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/79328",
@@ -311142,7 +311142,7 @@
         "company_name": "AbbVie",
         "id": "e43eea82-17bd-4d93-814e-b5b664340b14",
         "title": "AI Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784931122,
         "date_posted": 1784930762,
         "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014267357",
@@ -328354,7 +328354,7 @@
         "company_name": "Validity",
         "id": "a479ff94-1a7a-4fd1-86d9-36386d78ef32",
         "title": "Full Stack AI Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785740175,
         "date_posted": 1785737969,
         "url": "https://validity.applytojob.com/apply/BmbSlUDxj6/Full-Stack-AI-Software-Engineer-I",
@@ -336204,7 +336204,7 @@
         "company_name": "Maven Securities",
         "id": "a006991e-2711-489c-9bb2-ca6c253295c8",
         "title": "Graduate Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1785940225,
         "date_posted": 1785940169,
         "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8051636",
@@ -341471,7 +341471,7 @@
         "company_name": "OMERS",
         "id": "8b5e8a7a-97e4-4633-86bc-dd32dd9121ad",
         "title": "Business Analyst - Data Integration & Performance Platform - 12-Month Contract",
-        "active": true,
+        "active": false,
         "date_updated": 1786140541,
         "date_posted": 1786060800,
         "url": "https://omers.wd3.myworkdayjobs.com/omers_external/job/Toronto-Ontario/Business-Analyst--Data-Integration---Performance-Platform--12-Month-Contract-_JR-8320",
@@ -355445,7 +355445,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "b7b9f7ca-b945-481f-bfc3-04355ed79955",
         "title": "AI/ML Data Scientist/Engineer New Grad - Analytic Capabilities",
-        "active": true,
+        "active": false,
         "date_updated": 1786680258,
         "date_posted": 1786679975,
         "url": "https://careers.jhuapl.edu/jobs/57801?icims=1",
@@ -356423,7 +356423,7 @@
         "company_name": "Ascension",
         "id": "b13f3387-1ff9-42b7-b13b-975bce96d782",
         "title": "Master Data Management Specialist - MDM Team",
-        "active": true,
+        "active": false,
         "date_updated": 1786687092,
         "date_posted": 1786686881,
         "url": "https://jobs.ascension.org/us/en/job/456522",
@@ -369328,7 +369328,7 @@
         "company_name": "Northrop Grumman",
         "id": "1ea9cb14-dc89-4e72-ab24-6a1177e5d302",
         "title": "Associate Computer Systems Analyst - Linux - Pathways Program",
-        "active": false,
+        "active": true,
         "date_updated": 1787275081,
         "date_posted": 1787184000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Computer-Systems-Analyst---Linux---Pathways-Program---Melbourne-FL_R10246706",
@@ -375323,7 +375323,7 @@
         "company_name": "General Dynamics",
         "id": "ba71f8df-382e-4efc-acff-0a78b742aac8",
         "title": "Finance Data Modeler & Transformation Representative - Finance Digital Transformation Office",
-        "active": true,
+        "active": false,
         "date_updated": 1787675639,
         "date_posted": 1787675407,
         "url": "https://careers-gdeb.icims.com/jobs/20232/job?mobile=true&needsRedirect=false",
@@ -380564,7 +380564,7 @@
         "company_name": "CACI",
         "id": "a07f8010-25a5-464a-9c1f-934209e53aed",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787869445,
         "date_posted": 1787869230,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_324339",
@@ -381973,7 +381973,7 @@
         "company_name": "Humana",
         "id": "945b5432-3cac-4f5a-ab66-b109f0305791",
         "title": "Junior Business Information Architect",
-        "active": true,
+        "active": false,
         "date_updated": 1787950781,
         "date_posted": 1787875200,
         "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Junior--Business-Information-Architect_R-425294",
@@ -383812,7 +383812,7 @@
         "company_name": "Mass General Brigham",
         "id": "c262d14c-3780-440d-97ae-099aa1bcff74",
         "title": "Research Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788152762,
         "date_posted": 1788134400,
         "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Belmont-MA/Research-Data-Analyst_RQ4077629",
@@ -387971,5 +387971,267 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Synack",
+        "id": "42a9da57-990c-4082-acb6-d95159291df5",
+        "title": "Graduate Software Engineer - AI",
+        "active": true,
+        "date_updated": 1788290821,
+        "date_posted": 1788290651,
+        "url": "https://job-boards.greenhouse.io/synack/jobs/8165010",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Synack",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "b327f698-0a2a-4d85-a72c-fd740c1b7854",
+        "title": "Reverse Engineer New Grad - Systems Exploitation",
+        "active": true,
+        "date_updated": 1788290496,
+        "date_posted": 1788290302,
+        "url": "https://careers.jhuapl.edu/jobs/59797?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microsoft",
+        "id": "3d0beba0-5c60-4830-9fc1-6429ff2b9a02",
+        "title": "Data Center Technician",
+        "active": true,
+        "date_updated": 1788290499,
+        "date_posted": 1788290452,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556982681",
+        "locations": [
+            "Cheyenne, WY"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "262ac01b-863c-497c-9156-b439c07c4a32",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1788290496,
+        "date_posted": 1788220800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-111--1300-17Th-St-N--BBN-ARLINGTON/Software-Engineer-I--Hybrid--Arlington--VA---Cambridge--MA_01870647",
+        "locations": [
+            "Cambridge, MA",
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "646702df-6a22-45b8-b6ff-ea112461213c",
+        "title": "Associate Software Engineer - Cyber",
+        "active": true,
+        "date_updated": 1788290190,
+        "date_posted": 1788290100,
+        "url": "https://careers-peraton.icims.com/jobs/170237/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ensign-Bickford Industries",
+        "id": "4a6c5e68-8216-4750-bd56-0a6d45a53e17",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1788290281,
+        "date_posted": 1788220800,
+        "url": "https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Moorpark-CA/Product-Engineer_REQ107626-1",
+        "locations": [
+            "Moorpark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ensign-Bickford-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vermeer",
+        "id": "ffafde49-ea15-4bd5-bed0-985c986295e7",
+        "title": "Embedded Software Engineer 1 - Engineering Development Program",
+        "active": true,
+        "date_updated": 1788290157,
+        "date_posted": 1788220800,
+        "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Plant-7--West-Segment-Office/Engineer-I---Embedded-Software-Engineer--Engineering-Development-Program-2027-_REQ-22180",
+        "locations": [
+            "Pella, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vermeer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "1d020353-a34d-439c-af12-f9b5c502765b",
+        "title": "Software Engineer 1 - WIZMO engineering team",
+        "active": true,
+        "date_updated": 1788289742,
+        "date_posted": 1788220800,
+        "url": "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Bellevue-WA/Software-Engineer-I_R30695-1",
+        "locations": [
+            "Boston, MA",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "42727e6b-0a1c-4789-ad8e-a355fd8c1bf0",
+        "title": "Engineering Technician C - TS/SCI with CI Poly",
+        "active": true,
+        "date_updated": 1788289383,
+        "date_posted": 1788289307,
+        "url": "https://jobs.l3harris.com/job/Palm-Bay-Engineering-Technician-C-TSSCI-with-CI-Poly-FL-32905/1425425900/?ats=successfactors",
+        "locations": [
+            "Palm Bay, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "L3Harris Technologies",
+        "id": "07d39e3d-3ee9-4dc5-a356-805e404585d9",
+        "title": "Associate Product Management",
+        "active": true,
+        "date_updated": 1788289519,
+        "date_posted": 1788289304,
+        "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Product-Management-NY-14609/1425467400/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "839c3f9e-ae3e-45eb-a533-926a86a98073",
+        "title": "Senior Associate - Software Engineering",
+        "active": true,
+        "date_updated": 1788289383,
+        "date_posted": 1788289324,
+        "url": "https://jobs.l3harris.com/job/Nashville-Senior-Associate,-Software-Engineering-TN-37203/1425448900/?ats=successfactors",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "172e2d4b-34e5-4aa2-96cf-86349216d45d",
+        "title": "Associate Integration/Test Engineer",
+        "active": true,
+        "date_updated": 1788289517,
+        "date_posted": 1788289306,
+        "url": "https://jobs.l3harris.com/job/Londonderry-Associate,-IntegrationTest-Engineering-NH-03053/1425421200/?ats=successfactors",
+        "locations": [
+            "Londonderry, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cerity Partners",
+        "id": "ec256362-58d3-4e21-9348-ad2663a4aea0",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1788289207,
+        "date_posted": 1788220800,
+        "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Chicago-IL/Investment-Analyst_R851",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerity-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
