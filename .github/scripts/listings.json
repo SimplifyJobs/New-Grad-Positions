@@ -250068,7 +250068,7 @@
         "company_name": "SpaceX",
         "id": "32f28caf-1112-476e-abf0-98d17b1d1c30",
         "title": "Software Engineer - High Assurance Test - Starshield",
-        "active": true,
+        "active": false,
         "date_updated": 1781821621,
         "date_posted": 1781821063,
         "url": "https://boards.greenhouse.io/spacex/jobs/8550675002",
@@ -341053,7 +341053,7 @@
         "company_name": "Google",
         "id": "3c96cb52-6ca7-4957-b80b-22918761f688",
         "title": "Software Developer - Campus",
-        "active": true,
+        "active": false,
         "date_updated": 1786093635,
         "date_posted": 1786093523,
         "url": "https://www.google.com/about/careers/applications/jobs/results/120686451305128646",
@@ -376325,7 +376325,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "59a9da96-9441-4bf5-adea-b1f68156600d",
         "title": "Academic Graduate Appointee - Data Acquisition Software Development",
-        "active": true,
+        "active": false,
         "date_updated": 1787701681,
         "date_posted": 1787701651,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990014839366",
@@ -386390,6 +386390,111 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Siemens",
+        "id": "9f295fbb-d491-4d86-abc7-f5cc60b4c53e",
+        "title": "Junior Software Development Engineer",
+        "active": true,
+        "date_updated": 1788254942,
+        "date_posted": 1788254658,
+        "url": "https://siemens.avature.net/en_US/externaljobs/JobDetail/520535",
+        "locations": [
+            "Grand Prairie, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Siemens",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stripe",
+        "id": "8b0c8a04-8a4d-4675-8ea4-401a27ae962f",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1788254242,
+        "date_posted": 1788254091,
+        "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stripe",
+        "id": "4185d322-e92e-48f6-8b8c-373eaf711a48",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1788254249,
+        "date_posted": 1788254086,
+        "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stripe",
+        "id": "076b67e3-3500-43b8-9900-446ce4075cec",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1788254242,
+        "date_posted": 1788254093,
+        "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "1e184c37-d7d4-43bc-b5c1-73ea33643983",
+        "title": "FPGA Design Engineer 1 - Effector Digital Products",
+        "active": true,
+        "date_updated": 1788253456,
+        "date_posted": 1788134400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Design-Engineer-I--Onsite-_01870724",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
