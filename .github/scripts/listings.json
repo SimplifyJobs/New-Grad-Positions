@@ -353730,7 +353730,7 @@
         "company_name": "Cenovus Energy",
         "id": "c7b38ac0-8d5f-400a-a370-f4429a45800c",
         "title": "Geologist-in-Training New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1786661710,
         "date_posted": 1786579200,
         "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/New-Grad--Geologist-in-Training--June-2027--Calgary-_R-410988",
@@ -386495,6 +386495,180 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "90b7dcd2-ef8d-4a60-891d-0978390afa8e",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1788256197,
+        "date_posted": 1788134400,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blue Origin",
+        "id": "8a3a0dcf-1c80-43e6-ae6d-c6eff9c94667",
+        "title": "Avionics / Embedded Software Engineer 1 - 2027 Starts",
+        "active": true,
+        "date_updated": 1788255995,
+        "date_posted": 1788134400,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324",
+        "locations": [
+            "Seattle, WA",
+            "LA",
+            "Cape Canaveral, FL",
+            "Kent, WA",
+            "Denver, CO",
+            "Huntsville, AL",
+            "Van Horn, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blue Origin",
+        "id": "4bc5fed9-a7d9-4e52-95c2-02e5be647274",
+        "title": "Software Development Engineer 1 - Early Career - 2027 Starts",
+        "active": true,
+        "date_updated": 1788255976,
+        "date_posted": 1788134400,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2027-Starts-_R71326",
+        "locations": [
+            "Seattle, WA",
+            "LA",
+            "Cape Canaveral, FL",
+            "Kent, WA",
+            "Denver, CO",
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Textron",
+        "id": "1ce89acd-f727-419a-81b4-79646094ff32",
+        "title": "Systems Engineer 1 - Electronic Systems",
+        "active": true,
+        "date_updated": 1788255901,
+        "date_posted": 1788255602,
+        "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342657",
+        "locations": [
+            "Hunt Valley, Cockeysville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Textron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Textron",
+        "id": "40036615-7d95-4f3b-8105-226ddc924626",
+        "title": "Software Engineer 1 - Electronic Systems",
+        "active": true,
+        "date_updated": 1788255822,
+        "date_posted": 1788255608,
+        "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342666",
+        "locations": [
+            "Hunt Valley, Cockeysville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Textron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "36615370-087d-477b-bcff-68e7da691d32",
+        "title": "HSIO Bench Test Engineer - Hardware Engineering",
+        "active": true,
+        "date_updated": 1788255721,
+        "date_posted": 1788255563,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446720710098",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "2336b41f-599e-44f5-adf1-9d4dcf483742",
+        "title": "Sensors Software Engineer \u2013 Engineer or Senior - Software Engineering",
+        "active": true,
+        "date_updated": 1788255813,
+        "date_posted": 1788255567,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446720889828",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Textron",
+        "id": "05b11020-3e2c-4017-a888-44862811bbdb",
+        "title": "Software Engineer - Sea Systems",
+        "active": true,
+        "date_updated": 1788255822,
+        "date_posted": 1788255602,
+        "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342905",
+        "locations": [
+            "Hunt Valley, Cockeysville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Textron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
