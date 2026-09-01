@@ -5,13 +5,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 429 New Grad Roles by Category
+### Browse 427 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (245)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (7)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (86)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (84)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (18)
 
@@ -406,7 +406,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Software Engineer</td>
 <td>Vienna, VA</td>
 <td><div align="center"><a href="https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/dc6284c7-4bc7-41bd-b3a7-77ad38c4a1a9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Google?utm_source=GHList&utm_medium=company">🔥 Google</a></strong></td>
@@ -11004,13 +11004,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>18d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Machine Learning PhD New Grad - Artificial Intelligence 🎓</td>
-<td>Laurel, MD</td>
-<td><div align="center"><a href="https://careers.jhuapl.edu/jobs/59010?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/804e9756-cd00-4514-a056-bb06c49a19c4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>18d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Micron-Technology?utm_source=GHList&utm_medium=company">Micron Technology</a></strong></td>
 <td>AI Innovation Research Engineer New Grad 🎓</td>
 <td>San Jose, CA</td>
@@ -11148,13 +11141,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Research Engineer New Grad - Multiple Teams 🎓</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://lifeattiktok.com/search/7667767820142643461?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a361534e-bae9-48ea-971f-acc6566fbb47?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Publicis-Groupe?utm_source=GHList&utm_medium=company">Publicis Groupe</a></strong></td>
-<td>Junior Data Analyst</td>
-<td>Toronto, ON, Canada</td>
-<td><div align="center"><a href="https://careers.publicisgroupe.com/jobs/167988?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c8296cdf-8f84-41b7-bb20-d194881ee80d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>29d</td>
 </tr>
 <tr>
@@ -11428,7 +11414,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (293)</summary>
+<summary>🗃️ Inactive roles (295)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -11542,6 +11528,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory?utm_source=GHList&utm_medium=company">Johns Hopkins Applied Physics Laboratory</a></strong></td>
 <td>AI/ML Data Scientist/Engineer New Grad - Analytic Capabilities 🎓</td>
+<td>Laurel, MD</td>
+<td>🔒</td>
+<td>18d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Machine Learning PhD New Grad - Artificial Intelligence 🎓</td>
 <td>Laurel, MD</td>
 <td>🔒</td>
 <td>18d</td>
@@ -11681,6 +11674,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Publicis-Groupe?utm_source=GHList&utm_medium=company">Publicis Groupe</a></strong></td>
+<td>Junior Data Analyst</td>
+<td>Toronto, ON, Canada</td>
+<td>🔒</td>
+<td>29d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Junior Data Scientist</td>
 <td>London, UK</td>
 <td>🔒</td>
