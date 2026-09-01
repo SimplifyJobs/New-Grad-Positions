@@ -281868,7 +281868,7 @@
         "company_name": "Denso",
         "id": "83655c31-de25-41df-8a21-e5cd5246f66b",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783952462,
         "date_posted": 1783951604,
         "url": "https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24516",
@@ -369732,7 +369732,7 @@
         "company_name": "Scientific Games",
         "id": "c1020856-a3c0-443a-b5fe-2fbe9eaed1a4",
         "title": "Field Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787293441,
         "date_posted": 1787270400,
         "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Deleware-OH/Field-Service-Technician--Deleware--Columbus-Region_R505243-1",
@@ -370934,7 +370934,7 @@
         "company_name": "Marsh",
         "id": "a45d0443-7d8f-4499-975c-cd7b6aef159f",
         "title": "Government Health Consulting Informatics Analyst - College Program",
-        "active": false,
+        "active": true,
         "date_updated": 1787343199,
         "date_posted": 1787270400,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Analyst---College-Program-2027_R_362067",
@@ -376304,7 +376304,7 @@
         "company_name": "Zip",
         "id": "f2e72238-f7aa-4546-964c-34afbdf904bb",
         "title": "Software Engineer New Grad - 2027 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1787701217,
         "date_posted": 1787701016,
         "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea/application?embed=true",
@@ -388372,6 +388372,46 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Morgan Stanley",
+        "id": "e580de8b-a748-4dab-94cd-cc01cfff3205",
+        "title": "Investment Analyst - Parametric",
+        "active": true,
+        "date_updated": 1788296982,
+        "date_posted": 1788220800,
+        "url": "https://ms.wd5.myworkdayjobs.com/External/job/Seattle-Washington-United-States-of-America/Parametric-Investment-Analyst-Winter-Cohort-2027_JR042797",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Morgan Stanley",
+        "id": "b4f5dc26-fe34-4013-b799-d57b20115ee3",
+        "title": "Investment Analyst - Investment Analyst Cohort",
+        "active": true,
+        "date_updated": 1788296983,
+        "date_posted": 1788220800,
+        "url": "https://ms.wd5.myworkdayjobs.com/External/job/Seattle-Washington-United-States-of-America/Parametric---Investment-Analyst-Cohort--SUMMER-2027_JR042790",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
