@@ -203504,7 +203504,7 @@
         "company_name": "iCapital Network",
         "id": "00439705-6526-4fb2-a518-d8d34f1efce1",
         "title": "Associate Full Stack Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779316106,
         "date_posted": 1779315400,
         "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8549590002",
@@ -233784,7 +233784,7 @@
         "company_name": "RTX",
         "id": "d316d4d5-6b08-4290-b24d-fa803b41cc07",
         "title": "Semiconductor Equipment Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781015189,
         "date_posted": 1781014588,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR2--362-Lowell-St--AR2-PLYMOUTH-BLDG/Semiconductor-Equipment-Engineer_01851345",
@@ -362552,7 +362552,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "97f59d76-6ee6-41c5-9ff0-8c405a1670cd",
         "title": "Football Tracking Technician - South",
-        "active": true,
+        "active": false,
         "date_updated": 1787034061,
         "date_posted": 1787033974,
         "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/13bbc495-9111-45b6-9ea5-8f1de6522f6e/application?embed=true",
@@ -384328,7 +384328,7 @@
         "company_name": "OneOncology",
         "id": "be6a517c-94d6-4f8e-b35e-335a26f37f11",
         "title": "Analytics & Data Products Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788202008,
         "date_posted": 1788134400,
         "url": "https://oneoncology.wd1.myworkdayjobs.com/OneOncology/job/United-States/Analyst--Analytics---Data-Products_R-0000021867",
@@ -384943,7 +384943,7 @@
         "company_name": "General Motors",
         "id": "83ac9733-6179-4f05-88ea-261064a24e28",
         "title": "Thermal System Simulation Integration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788208980,
         "date_posted": 1788134400,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Thermal-System-Simulation-Integration-Engineer_JR-202618614",
@@ -385577,6 +385577,166 @@
             "Huntsville, AL"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "07ed29b5-1f97-4d0e-9dc0-c511ddcb781b",
+        "title": "Sensor Systems/Data Analytics New Grad",
+        "active": true,
+        "date_updated": 1788227105,
+        "date_posted": 1788225292,
+        "url": "https://careers.jhuapl.edu/jobs/59770?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "d28297da-cf16-4a03-ae1a-5d315aeb81c5",
+        "title": "Signal Processing Graduate - Multiple Teams",
+        "active": true,
+        "date_updated": 1788227104,
+        "date_posted": 1788225292,
+        "url": "https://careers.jhuapl.edu/jobs/59748?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Greenheck Group",
+        "id": "bbd8fc41-9404-4e56-bc60-a2cff4f12deb",
+        "title": "Application Engineer 1",
+        "active": true,
+        "date_updated": 1788227050,
+        "date_posted": 1788134400,
+        "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Tulsa-Facility-7---RTU/Application-Engineer-I_JR104400",
+        "locations": [
+            "Schofield, WI",
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Greenheck-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Verdantas",
+        "id": "9cd7f988-4147-4b17-88d3-0f46f240d0df",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1788227040,
+        "date_posted": 1788134400,
+        "url": "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Yarmouth-ME/Data-Analyst_R-101127",
+        "locations": [
+            "Yarmouth, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/Verdantas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Clean Harbors",
+        "id": "8eacd4b8-5657-4c63-9272-8679e4de1c7c",
+        "title": "LDAR Technician 1",
+        "active": true,
+        "date_updated": 1788227050,
+        "date_posted": 1788224867,
+        "url": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/165466",
+        "locations": [
+            "Longview, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Clean-Harbors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KION Group",
+        "id": "3506dbdf-4c1d-40ab-bc7f-ef2bd8b337b2",
+        "title": "Electronic Repair Technician - 1st Shift",
+        "active": true,
+        "date_updated": 1788226274,
+        "date_posted": 1788134400,
+        "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Salt-Lake-City-UT-United-States/Parts-Repair-Technician--1st-Shift-_JR-0095167-1",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/KION-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eaton",
+        "id": "fc8ec374-761e-4c0f-9167-d280862ea8ad",
+        "title": "Engineering Technology Early Career Leadership Development Program - Embedded Systems - Research & Development Engineering",
+        "active": true,
+        "date_updated": 1788226264,
+        "date_posted": 1788224487,
+        "url": "https://eaton.eightfold.ai/careers/job/687238044194",
+        "locations": [
+            "Moon Twp, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eaton-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Eaton",
+        "id": "b80a22f6-7d98-43e5-8ad9-70040631b907",
+        "title": "Product Engineer - Engineering",
+        "active": true,
+        "date_updated": 1788226267,
+        "date_posted": 1788224486,
+        "url": "https://eaton.eightfold.ai/careers/job/687238080082",
+        "locations": [
+            "Asheville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Eaton-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
