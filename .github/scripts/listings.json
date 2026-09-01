@@ -346593,7 +346593,7 @@
         "company_name": "Astreya",
         "id": "48a0ce33-6322-4a3a-b92a-e1218c2218a6",
         "title": "AV Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786457623,
         "date_posted": 1786406400,
         "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/San-Francisco-CA/AV-Technician-I_R0016259",
@@ -377745,7 +377745,7 @@
         "company_name": "O'Reilly Auto Parts",
         "id": "0897164b-3e59-470f-acf6-7c040c6363bc",
         "title": "Product Analyst 1 - Catalog Content",
-        "active": true,
+        "active": false,
         "date_updated": 1787765800,
         "date_posted": 1787702400,
         "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Headquarters/Product-Analyst-I--Catalog-Content_R198742",
@@ -386347,6 +386347,49 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nakupuna Companies",
+        "id": "21908c62-f09e-4392-b15f-f6f66ae9ab3f",
+        "title": "Database Sustainment Specialist",
+        "active": true,
+        "date_updated": 1788252661,
+        "date_posted": 1787065343,
+        "url": "https://careers-nakupuna.icims.com/jobs/6836/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Fairbanks, AK"
+        ],
+        "company_url": "https://simplify.jobs/c/Nakupuna-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chevron",
+        "id": "0753b1d0-7af4-4aa8-b9b9-96efa8cde209",
+        "title": "Earth Scientist",
+        "active": true,
+        "date_updated": 1788251608,
+        "date_posted": 1783987200,
+        "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Scientist-Full-Time_R000072410",
+        "locations": [
+            "Houston, TX",
+            "Covington, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chevron-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
