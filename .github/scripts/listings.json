@@ -135374,7 +135374,7 @@
         "company_name": "Jobs for Humanity",
         "id": "1047f0ae-d31a-4e56-89f6-43c77bbef90e",
         "title": "Speakers/Writers",
-        "active": false,
+        "active": true,
         "date_updated": 1774981261,
         "date_posted": 1771917914,
         "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000016308516",
@@ -334832,7 +334832,7 @@
         "company_name": "Asure",
         "id": "781e8e77-26da-4d7b-8867-d164b82a48ef",
         "title": "Associate AI Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785892682,
         "date_posted": 1785892547,
         "url": "https://asuresoftware.bamboohr.com/careers/1059/",
@@ -372351,7 +372351,7 @@
         "company_name": "L3Harris Technologies",
         "id": "3426716d-040e-4f91-9814-d27928088195",
         "title": "Engineering Technician B",
-        "active": true,
+        "active": false,
         "date_updated": 1787581834,
         "date_posted": 1787581493,
         "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-B-UT-84116/1422397300/?ats=successfactors",
@@ -375483,7 +375483,7 @@
         "company_name": "The Walt Disney Company",
         "id": "5d14a472-611a-4d2c-a490-be453b841ad9",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787682061,
         "date_posted": 1787616000,
         "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Associate-Software-Engineer_10157526",
@@ -382170,7 +382170,7 @@
         "company_name": "Motorola",
         "id": "da7be8d3-3d5a-4ca9-accc-b273d6bdc1d4",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787950081,
         "date_posted": 1787875200,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Lexington-SC-SC07/Software-Engineer_R67330-1",
@@ -389640,5 +389640,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nationwide",
+        "id": "7bd2a3ab-9098-44df-82f9-7f6dd5533ac7",
+        "title": "Software Engineer - Full Stack - Application Product Security",
+        "active": true,
+        "date_updated": 1788321800,
+        "date_posted": 1788307200,
+        "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Full-Stack-_100006",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Nationwide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
