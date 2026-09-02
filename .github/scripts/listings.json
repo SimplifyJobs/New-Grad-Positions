@@ -380211,7 +380211,7 @@
         "company_name": "Microsoft",
         "id": "566656b0-ce19-4d4c-86e2-a04cc1458f57",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787869734,
         "date_posted": 1787869243,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556955547",
@@ -381766,7 +381766,7 @@
         "company_name": "Rebellion",
         "id": "db0fda0e-62fc-4d76-a312-0c1488051b73",
         "title": "Graduate Programmer",
-        "active": true,
+        "active": false,
         "date_updated": 1787927401,
         "date_posted": 1787927295,
         "url": "https://apply.workable.com/rebellion/j/051D15CCA1/apply",
@@ -389761,6 +389761,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "bf8672d0-4cec-4ff8-bdf7-f2d1b7c62d18",
+        "title": "Graduate RF Signal Processing Sensor Engineer",
+        "active": true,
+        "date_updated": 1788331345,
+        "date_posted": 1788331171,
+        "url": "https://careers.jhuapl.edu/jobs/59877?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
