@@ -379758,7 +379758,7 @@
         "company_name": "Graphcore",
         "id": "e956ef2d-bb6c-4265-9310-de2b65de47a4",
         "title": "Graduate Electrical Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787843046,
         "date_posted": 1787842921,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8747132002",
@@ -389004,6 +389004,46 @@
             "Addison, TX"
         ],
         "company_url": "https://simplify.jobs/c/Omnicom-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hot Topic",
+        "id": "2595dd8b-05e9-45e8-bc02-8d6e4ab72521",
+        "title": "Junior Systems Analyst - Warehouse Management System",
+        "active": true,
+        "date_updated": 1788307921,
+        "date_posted": 1788307820,
+        "url": "https://jobs.lever.co/hottopic/b006fecc-6662-4e8d-8f93-eff444c2b6e3/apply",
+        "locations": [
+            "Nashville, TN",
+            "La Vergne, TN",
+            "Riverside, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/HotTopic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tebra",
+        "id": "8e485f76-0130-4ad8-a850-a6489868c676",
+        "title": "Software Engineer 1 - Back-End",
+        "active": true,
+        "date_updated": 1788307281,
+        "date_posted": 1788307026,
+        "url": "https://job-boards.greenhouse.io/tebra/jobs/4726985005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tebra",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
