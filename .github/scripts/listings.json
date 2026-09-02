@@ -389822,5 +389822,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NJ Department of Environmental Protection",
+        "id": "d7af5b7f-8a9c-4def-bee5-6df93eb62782",
+        "title": "Analyst Trainee - Multiple Teams",
+        "active": true,
+        "date_updated": 1788350298,
+        "date_posted": 1787693012,
+        "url": "https://njdepartmentofenvironmentalprotection.applytojob.com/apply/qQbdTjGUje/CSRR202640-Analyst-Trainee",
+        "locations": [
+            "Trenton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/NJ-Department-Of-Environmental-Protection",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
