@@ -315211,7 +315211,7 @@
         "company_name": "Hologic",
         "id": "2ff772ce-a2c8-42f7-94d5-89004debc432",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785193381,
         "date_posted": 1785190117,
         "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12132",
@@ -344038,7 +344038,7 @@
         "company_name": "HUB",
         "id": "3fbf5ae8-8157-4653-8f90-0b8fbee733e2",
         "title": "Business Intelligence Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1786388941,
         "date_posted": 1786320000,
         "url": "https://hubinternational.wd1.myworkdayjobs.com/en-US/HUBInternational/job/Norwell-MA/Business-Intelligence-Associate_R0037970",
@@ -346736,7 +346736,7 @@
         "company_name": "onsemi",
         "id": "526a9d18-c0cf-4029-872b-3efa99c0b4c2",
         "title": "Lithography Maintenance Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786469204,
         "date_posted": 1786468822,
         "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506077",
@@ -358821,7 +358821,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -358919,7 +358919,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -359223,7 +359223,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -369696,7 +369696,7 @@
         "company_name": "Scientific Games",
         "id": "248f48dc-5e0c-4ba6-ab3a-ec74aa0582f0",
         "title": "Field Service Technician - Newark-Columbus Region",
-        "active": true,
+        "active": false,
         "date_updated": 1787293441,
         "date_posted": 1787270400,
         "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Zanesville-OH/Field-Service-Technician--Newark-Columbus-Region_R505242",
@@ -377132,7 +377132,7 @@
         "company_name": "E2 Optics",
         "id": "34c645aa-eab2-4e61-83ef-55755ab7503c",
         "title": "Data Center Infrastructure Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787753521,
         "date_posted": 1787753384,
         "url": "https://careers-e2optics.icims.com/jobs/3793/job?mobile=true&needsRedirect=false",
@@ -383501,7 +383501,7 @@
         "company_name": "Ludlum Measurements",
         "id": "fc7e143f-9ec2-4e57-bb1a-f38f57e11c3f",
         "title": "Calibrator 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788036361,
         "date_posted": 1787956882,
         "url": "https://vpitechnology.applytojob.com/apply/V7suURwBcp/Calibrator",
@@ -383857,7 +383857,7 @@
         "company_name": "Roche",
         "id": "36eea152-2453-44dc-839b-1679431b6c6d",
         "title": "Finance Insights & Data Analyst Rotational Program",
-        "active": true,
+        "active": false,
         "date_updated": 1788166152,
         "date_posted": 1788134400,
         "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Pleasanton/Rotational-Program---Finance-Insights---Data-Analyst_202608-120691",
@@ -389428,6 +389428,70 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intel",
+        "id": "6f79a671-9821-417a-97cd-a1c96699cc9c",
+        "title": "Database Application Development Engineer - Foundry Automation",
+        "active": true,
+        "date_updated": 1788311952,
+        "date_posted": 1788220800,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Database-Application-Development-Engineer_JR0286744",
+        "locations": [
+            "Hillsboro, OR",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Versant",
+        "id": "0272e0de-c540-444a-9e2e-63cc98f621e8",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1788311423,
+        "date_posted": 1788311223,
+        "url": "https://jobs.smartrecruiters.com/Versant3/744000146840259",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Versant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "b31a94f8-6785-4fba-b769-152531ae31f2",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1788311022,
+        "date_posted": 1788220800,
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739-2",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
