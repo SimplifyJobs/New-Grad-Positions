@@ -372410,7 +372410,7 @@
         "company_name": "Raymond James Financial",
         "id": "ed410248-773f-43a3-a1dd-3157708a9b23",
         "title": "Information Technology Accelerated Development Program - Software Developer Track",
-        "active": true,
+        "active": false,
         "date_updated": 1787587571,
         "date_posted": 1787529600,
         "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-IT-Accelerated-Development-Program--ADP----Software-Developer-Track---St-Petersburg--FL_R-0012718",
@@ -389655,6 +389655,26 @@
             "Columbus, OH"
         ],
         "company_url": "https://simplify.jobs/c/Nationwide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Clearwater Analytics",
+        "id": "6df9610e-f9a6-47ab-b5d5-a8389329834c",
+        "title": "Associate Software Development Engineer",
+        "active": true,
+        "date_updated": 1788323581,
+        "date_posted": 1788220800,
+        "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Associate-Software-Development-Engineer_R12179",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Clearwater-Analytics",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
