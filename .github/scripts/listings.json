@@ -87687,7 +87687,7 @@
         "company_name": "University of Chicago",
         "id": "9d91d8c8-1704-430a-85a8-50d631d5887c",
         "title": "Data Science Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1772494566,
         "date_posted": 1772494566,
         "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst--TCOM_JR32831",
@@ -323483,7 +323483,7 @@
         "company_name": "Fujifilm",
         "id": "041fc902-70ff-4d2d-9958-7dc67dc37f2d",
         "title": "Associate Endoscopic Repair Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1785573670,
         "date_posted": 1785449218,
         "url": "https://uscareers-fujifilm.icims.com/jobs/38334/job?mobile=true&needsRedirect=false",
@@ -326620,7 +326620,7 @@
         "company_name": "Systems Planning and Analysis (SPA)",
         "id": "5b6d9f66-139a-4c9b-a2b8-907b24de2681",
         "title": "Risk Assessment Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1785623401,
         "date_posted": 1785575352,
         "url": "https://spa.jibeapply.com/jobs/22615?icims=1",
@@ -344237,7 +344237,7 @@
         "company_name": "PGIM",
         "id": "3b63253d-e96a-4f15-9172-0f3dd8bf65df",
         "title": "Investment Analyst - Corporate Finance",
-        "active": true,
+        "active": false,
         "date_updated": 1786388627,
         "date_posted": 1786320000,
         "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/150-North-Riverside-Chicago-IL/PGIM---Investment-Analyst--Private-Credit-_R-124727",
@@ -380932,7 +380932,7 @@
         "company_name": "Constellation Energy",
         "id": "d26b671a-bd46-4c7b-9156-0a29cfe9579b",
         "title": "Associate Software Engineer - AI",
-        "active": false,
+        "active": true,
         "date_updated": 1787873157,
         "date_posted": 1787872864,
         "url": "https://jobs.constellationenergy.com/jobs/138264?icims=1",
@@ -381704,7 +381704,7 @@
         "company_name": "Rebellion",
         "id": "db0fda0e-62fc-4d76-a312-0c1488051b73",
         "title": "Graduate Programmer",
-        "active": false,
+        "active": true,
         "date_updated": 1787927401,
         "date_posted": 1787927295,
         "url": "https://apply.workable.com/rebellion/j/051D15CCA1/apply",
@@ -381758,7 +381758,7 @@
         "company_name": "Empower AI",
         "id": "08b99270-74f2-4861-83ed-68f7ac35d850",
         "title": "Junior Software Developer - Systems Software",
-        "active": true,
+        "active": false,
         "date_updated": 1787930281,
         "date_posted": 1787930192,
         "url": "https://careers-empowerai.icims.com/jobs/9489/job?mobile=true&needsRedirect=false",
@@ -389904,6 +389904,124 @@
             "Bachelor's",
             "Associate's",
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "bf0cd35f-4482-4fd9-b9fa-615b8fa40352",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1788358504,
+        "date_posted": 1788358439,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8171450",
+        "locations": [
+            "Columbia, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "c0259ac2-91ad-4101-bdc9-86ea7d2f20c6",
+        "title": "Telematics Mechanic",
+        "active": true,
+        "date_updated": 1788358504,
+        "date_posted": 1788358439,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8171486",
+        "locations": [
+            "Lenexa, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SAM",
+        "id": "09cdaf0b-5c62-4337-9ac3-ce87dd9b4dde",
+        "title": "Survey Technician/Instrument Operator",
+        "active": true,
+        "date_updated": 1788358504,
+        "date_posted": 1788358489,
+        "url": "https://careers.sam.biz/jobs/8002?icims=1",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/SAM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Williams Racing",
+        "id": "f7c2b206-3434-4427-ada0-1851de938a0e",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1788358143,
+        "date_posted": 1788358094,
+        "url": "https://jobs.smartrecruiters.com/WilliamsRacing/744000146959139",
+        "locations": [
+            "Grove, Wantage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Williams-Racing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Williams Racing",
+        "id": "790c4084-86df-448a-a68a-27197345d3b2",
+        "title": "Graduate Machine Learning Engineer - AI",
+        "active": true,
+        "date_updated": 1788358263,
+        "date_posted": 1788358094,
+        "url": "https://jobs.smartrecruiters.com/WilliamsRacing/744000146957079",
+        "locations": [
+            "Grove, Wantage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Williams-Racing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Williams Racing",
+        "id": "7fc2d811-329f-4ae7-b501-89dc44b0e537",
+        "title": "Graduate Performance Optimisation Engineer",
+        "active": true,
+        "date_updated": 1788358267,
+        "date_posted": 1788358094,
+        "url": "https://jobs.smartrecruiters.com/WilliamsRacing/744000146959349",
+        "locations": [
+            "Grove, Wantage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Williams-Racing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
