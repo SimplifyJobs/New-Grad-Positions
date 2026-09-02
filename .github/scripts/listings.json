@@ -250670,7 +250670,7 @@
         "company_name": "The Home Depot",
         "id": "854edc4e-b75d-45db-b9f6-9af76f207298",
         "title": "Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1781831701,
         "date_posted": 1781831410,
         "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist_Req183993",
@@ -389491,6 +389491,70 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "6ab593bb-5119-41d3-b37d-1135be139c79",
+        "title": "Java Software Engineer",
+        "active": true,
+        "date_updated": 1788313922,
+        "date_posted": 1788220800,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Northrop-Grumman--SkillBridge--Java-Software-Engineer-Level-1-or-2_R10248772",
+        "locations": [
+            "Aurora, CO",
+            "Morrisville, NC",
+            "Remote in USA",
+            "Linthicum Heights, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Gunvor",
+        "id": "b1d87c50-d624-48ba-b089-966db25e58b4",
+        "title": "Quantitative Analysis Graduate",
+        "active": true,
+        "date_updated": 1788312636,
+        "date_posted": 1788220800,
+        "url": "https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Houston/Graduate-Program---Quantitative-Analysis_JR102791-1",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Gunvor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Gunvor",
+        "id": "a1795d97-179b-4c4e-ae26-8586bc78a1f2",
+        "title": "Trading & Commercial Operations Graduate",
+        "active": true,
+        "date_updated": 1788312648,
+        "date_posted": 1788220800,
+        "url": "https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Houston/Graduate-Program---Trading---Commercial-Operations_JR102790-1",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Gunvor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
