@@ -135374,7 +135374,7 @@
         "company_name": "Jobs for Humanity",
         "id": "1047f0ae-d31a-4e56-89f6-43c77bbef90e",
         "title": "Speakers/Writers",
-        "active": true,
+        "active": false,
         "date_updated": 1774981261,
         "date_posted": 1771917914,
         "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000016308516",
@@ -219331,7 +219331,7 @@
         "company_name": "Motorola",
         "id": "afc48c33-7438-4ae9-b278-d1b434d99a9e",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779977161,
         "date_posted": 1779977055,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R65351",
@@ -328619,7 +328619,7 @@
         "company_name": "Set of X",
         "id": "17be086b-1987-4060-8151-25af9f96e55f",
         "title": "Software Engineer 0",
-        "active": true,
+        "active": false,
         "date_updated": 1785738601,
         "date_posted": 1785737717,
         "url": "https://setofx.applytojob.com/apply/slG3BGozXj/Software-Engineer-0",
@@ -389601,5 +389601,44 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Trace Labs",
+        "id": "b9e5e599-23f4-46d1-8924-0b95a3a0c308",
+        "title": "Researcher",
+        "active": true,
+        "date_updated": 1788319981,
+        "date_posted": 1788319824,
+        "url": "https://jobs.ashbyhq.com/tracelabs/7c8ad43b-bb8c-4cc2-8004-25a66d575822/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Trace-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Unlimited",
+        "id": "1236f78f-c0ce-4c46-ae4a-4d96f1f7b39a",
+        "title": "Hardware Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1788319981,
+        "date_posted": 1788319974,
+        "url": "https://jobs.ashbyhq.com/unlimitedindustries/f9a8d2e3-79a8-464b-9e1d-77aa649c38bd/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Unlimited",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
