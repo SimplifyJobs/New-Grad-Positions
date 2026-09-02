@@ -55,27 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Visa",
-        "id": "2a371169-abbf-44b3-b904-83da4838425d",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1767582427,
-        "date_posted": 1767582427,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000101533055",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Ciena",
         "id": "072a2f74-68bb-4ef5-ba88-52d5d3e12bc1",
@@ -371340,7 +371319,7 @@
         "company_name": "Expedia Group",
         "id": "18a9df54-1420-4258-8c24-37817d250f22",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787350324,
         "date_posted": 1787270400,
         "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739",
