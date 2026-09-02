@@ -318671,7 +318671,7 @@
         "company_name": "Dyson",
         "id": "33bc33b7-ee70-4327-a1e0-0a60fe32438e",
         "title": "Verification Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785362765,
         "date_posted": 1785283200,
         "url": "https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/United-Kingdom---Malmesbury-Office/Verification-Engineer_JR37601",
@@ -326620,7 +326620,7 @@
         "company_name": "Systems Planning and Analysis (SPA)",
         "id": "5b6d9f66-139a-4c9b-a2b8-907b24de2681",
         "title": "Risk Assessment Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1785623401,
         "date_posted": 1785575352,
         "url": "https://spa.jibeapply.com/jobs/22615?icims=1",
@@ -343566,7 +343566,7 @@
         "company_name": "Latitude AI",
         "id": "5f8b5dc8-9249-4335-8b58-02805752d3d3",
         "title": "Triage Associate 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786371698,
         "date_posted": 1786371628,
         "url": "https://job-boards.greenhouse.io/latitude/jobs/8119200",
@@ -383382,7 +383382,7 @@
         "company_name": "Ludlum Measurements",
         "id": "fc7e143f-9ec2-4e57-bb1a-f38f57e11c3f",
         "title": "Calibrator 1",
-        "active": false,
+        "active": true,
         "date_updated": 1788036361,
         "date_posted": 1787956882,
         "url": "https://vpitechnology.applytojob.com/apply/V7suURwBcp/Calibrator",
@@ -389841,6 +389841,69 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Motorway",
+        "id": "3b2dc0d1-97dd-4f1f-8a0b-2343f43fb5c8",
+        "title": "Lead Generative AI Engineer",
+        "active": true,
+        "date_updated": 1788357421,
+        "date_posted": 1788357325,
+        "url": "https://jobs.ashbyhq.com/motorway/64e7a546-c2a7-4ad1-8e1d-be4b1e5c1ddd/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Motorway",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Latitude AI",
+        "id": "0a783569-3524-4b42-bced-6d8fa868b454",
+        "title": "Triage Associate 1 - Platform Triage",
+        "active": true,
+        "date_updated": 1788356553,
+        "date_posted": 1783117924,
+        "url": "https://job-boards.greenhouse.io/latitude/jobs/8030930",
+        "locations": [
+            "Palo Alto, CA",
+            "Pittsburgh, PA",
+            "Allen Park, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Latitude AI",
+        "id": "0c64352c-ee4e-4361-af88-3fcfd5ac5169",
+        "title": "Technical Vehicle Test Operator",
+        "active": true,
+        "date_updated": 1788355801,
+        "date_posted": 1784586689,
+        "url": "https://job-boards.greenhouse.io/latitude/jobs/8074662",
+        "locations": [
+            "Wittmann, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
         ]
     }
 ]
