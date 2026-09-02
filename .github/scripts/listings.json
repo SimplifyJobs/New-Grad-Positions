@@ -147755,7 +147755,7 @@
         "company_name": "Axon",
         "id": "15019db0-bd99-4871-89c5-0c4e322637b5",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775604594,
         "date_posted": 1775600445,
         "url": "https://job-boards.greenhouse.io/axon/jobs/7576969003",
@@ -337045,7 +337045,7 @@
         "company_name": "Bank of Montreal",
         "id": "f9d80e06-5682-4248-a3a1-042ffa4cebef",
         "title": "Applied AI Scientist - Generative AI & Agentic Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1785968824,
         "date_posted": 1785888000,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Applied-AI-Scientist---Generative-AI---Agentic-Systems_R260022110",
@@ -364819,7 +364819,7 @@
         "company_name": "United Smart Tech",
         "id": "5717ebc4-2dd1-4c3c-b6c9-4c0f1852e31a",
         "title": "Field Technician - Mobile Repairs",
-        "active": true,
+        "active": false,
         "date_updated": 1787094181,
         "date_posted": 1787093854,
         "url": "https://unitedsmarttech.bamboohr.com/careers/90/",
@@ -377114,7 +377114,7 @@
         "company_name": "E2 Optics",
         "id": "77eac71b-1155-4796-a6c4-fc7fa468f17b",
         "title": "Data Center Infrastructure Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787753521,
         "date_posted": 1787753385,
         "url": "https://careers-e2optics.icims.com/jobs/3792/job?mobile=true&needsRedirect=false",
@@ -389048,6 +389048,386 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Express",
+        "id": "fb2d6e8e-096b-4a82-ba4b-de20d7deb231",
+        "title": "Digital Product Management Senior Associate - Enterprise Technology Services",
+        "active": true,
+        "date_updated": 1788310500,
+        "date_posted": 1788310292,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012958",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "a6080c21-a844-48d7-bcc9-8a240ddd19e1",
+        "title": "Software Engineer 1 - Enterprise Technology Services",
+        "active": true,
+        "date_updated": 1788310503,
+        "date_posted": 1788310288,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "3ac23f64-3bc0-4c25-b393-ae5479c685a1",
+        "title": "AI Engineer 1 - Enterprise Technology Services",
+        "active": true,
+        "date_updated": 1788310497,
+        "date_posted": 1788310293,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012987",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AeroVironment",
+        "id": "2eaa73e1-655c-425b-ab4c-a67de9791159",
+        "title": "Entry-Level Software Engineer - Specialized Exploitation & Targeting (SET)",
+        "active": true,
+        "date_updated": 1788310442,
+        "date_posted": 1788220800,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Austin-TX/Entry-Level-Software-Engineer_8600",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "b68cfa9c-6e6f-46da-9cd5-85acee5875fb",
+        "title": "Software Engineer 2 - Enterprise Technology Services",
+        "active": true,
+        "date_updated": 1788310508,
+        "date_posted": 1788310292,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012944",
+        "locations": [
+            "Sunrise, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Express",
+        "id": "8fe18f9d-3000-46c6-9efd-07b60d9fe92c",
+        "title": "AI Engineer 1 - Enterprise Technology Services",
+        "active": true,
+        "date_updated": 1788310498,
+        "date_posted": 1788310293,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012985",
+        "locations": [
+            "Sunrise, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Express",
+        "id": "a05f7ff0-b31a-4040-8bf7-7524f288eb14",
+        "title": "AI Engineer 1 - Enterprise Technology Services",
+        "active": true,
+        "date_updated": 1788310497,
+        "date_posted": 1788310293,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012982",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "520857cc-c405-4d92-892b-d0074625e1f7",
+        "title": "Software Engineer 2 - Enterprise Technology Services",
+        "active": true,
+        "date_updated": 1788310502,
+        "date_posted": 1788310286,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012945",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "482d2483-2739-4860-9f2a-b5903674a731",
+        "title": "Software Engineer 2 - Enterprise Technology Services",
+        "active": true,
+        "date_updated": 1788310502,
+        "date_posted": 1788310286,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012940",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Express",
+        "id": "091d9015-503c-4fbd-8891-afd1def65679",
+        "title": "Data Analytics Analyst - Enterprise Technology Services",
+        "active": true,
+        "date_updated": 1788310502,
+        "date_posted": 1788310294,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013097",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Express",
+        "id": "ca0f0f67-5fd4-4b63-8b73-b7415915a10e",
+        "title": "Digital Product Management Associate - Enterprise Technology Services",
+        "active": true,
+        "date_updated": 1788310506,
+        "date_posted": 1788310295,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012956",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "7ff44f5f-836a-4ac9-b33c-935e0b4281ae",
+        "title": "Software Engineer 1 - Enterprise Technology Services",
+        "active": true,
+        "date_updated": 1788310502,
+        "date_posted": 1788310288,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012869",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Express",
+        "id": "40c50ca0-ce27-4a13-8cc4-4633271be5ef",
+        "title": "AI Engineer 1 - Enterprise Technology Services",
+        "active": true,
+        "date_updated": 1788310502,
+        "date_posted": 1788310294,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012988",
+        "locations": [
+            "Sunrise, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Express",
+        "id": "2b93073c-9ffd-4edb-9086-8b92c60f03dc",
+        "title": "Data & Analytics Analyst - Enterprise Technology Services",
+        "active": true,
+        "date_updated": 1788310497,
+        "date_posted": 1788310295,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013099",
+        "locations": [
+            "Sunrise, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "144e5a99-3727-49aa-be27-39b13c2cec06",
+        "title": "Software Engineer Intern - Enterprise Technology Services",
+        "active": true,
+        "date_updated": 1788310502,
+        "date_posted": 1788310292,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012801",
+        "locations": [
+            "Sunrise, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "7fa117c6-072e-4ab8-bedd-8328867aac53",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1788310173,
+        "date_posted": 1788220800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01867125-1",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "8aad8b51-42bb-4359-b771-09d8fa3d9060",
+        "title": "Digital ASIC/FPGA Design Engineer 1",
+        "active": true,
+        "date_updated": 1788310048,
+        "date_posted": 1788220800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Digital-ASIC-FPGA-Design-Engineer-I--Onsite-_01870687",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "6ae22f82-27b2-4c0b-8bb6-c2aba3e8af44",
+        "title": "Applied Algorithms Engineer New Grad",
+        "active": true,
+        "date_updated": 1788310033,
+        "date_posted": 1788309804,
+        "url": "https://careers.jhuapl.edu/jobs/59902?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "0b83ecb7-3fce-4a75-906b-8b42252bebce",
+        "title": "Applied Algorithms Engineer New Grad",
+        "active": true,
+        "date_updated": 1788310103,
+        "date_posted": 1788309804,
+        "url": "https://careers.jhuapl.edu/jobs/59887?icims=1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
