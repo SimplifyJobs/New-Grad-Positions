@@ -55,67 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ohio State University",
-        "id": "1011a322-238e-4051-8f72-e7f9f18bff32",
-        "title": "Research Data Analyst 1 - Center For Biostatistics",
-        "active": false,
-        "date_updated": 1767630003,
-        "date_posted": 1767630003,
-        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Data-Analyst-I---Center-For-Biostatistics_R142714-2",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Ohio-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Emergent Holdings ",
-        "id": "d057d665-34b8-41bd-a8cd-5876130998de",
-        "title": "Product Development Analyst 1 - P&C",
-        "active": false,
-        "date_updated": 1767629628,
-        "date_posted": 1767629628,
-        "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/13806",
-        "locations": [
-            "New Albany, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Emergent-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "4836ddbf-d856-48ac-803a-01bb0274690a",
-        "title": "Full-time Software Engineer - Software Engineer II",
-        "active": false,
-        "date_updated": 1767629836,
-        "date_posted": 1767629836,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-II----On-site-_01797124",
-        "locations": [
-            "Marlborough, MA",
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Manulife Financial",
         "id": "f813eed5-a8b2-47b7-8b6a-e87ca58f7c5b",
@@ -129,26 +68,6 @@
             "Kitchener, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Skyscanner",
-        "id": "e67057cd-043d-4cdf-838c-a206b2d694cc",
-        "title": "Software Engineering and Teaching Programme",
-        "active": false,
-        "date_updated": 1767630098,
-        "date_posted": 1767630098,
-        "url": "http://www.skyscanner.net/jobs/job/7496224?gh_jid=7496224",
-        "locations": [
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Skyscanner",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -252,96 +171,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d05c69c7-5985-45e2-a661-8ef6458031f7",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767630060,
-        "date_posted": 1767630060,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044856",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Macy's",
-        "id": "91e5ef18-d54a-4e13-a9ae-3fccbc3f1499",
-        "title": "Assistant \u2013 Product Management",
-        "active": false,
-        "date_updated": 1767630368,
-        "date_posted": 1767630368,
-        "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83704",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Macys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "4ac96487-22eb-4bc3-a2f9-1979dc099961",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1767630062,
-        "date_posted": 1767630062,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044874",
-        "locations": [
-            "Weybridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "417c240c-fab3-4e96-9b72-c18802a6b24d",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767630064,
-        "date_posted": 1767630064,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044898",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "35aa7434-0d1d-4740-b8ff-7401bb77754f",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1767630063,
-        "date_posted": 1767630063,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044841",
-        "locations": [
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Ultra",
         "id": "141b347a-11ef-45a9-8305-bd909e889bc5",
@@ -417,26 +246,6 @@
             "Annapolis Junction, MD"
         ],
         "company_url": "https://simplify.jobs/c/Captivation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Macy's",
-        "id": "d35628d3-dd59-4c72-b1f0-62d78b4f739d",
-        "title": "Assistant \u2013 Product Manager",
-        "active": false,
-        "date_updated": 1767630360,
-        "date_posted": 1767630360,
-        "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83705",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Macys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -534,26 +343,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "American Express",
-        "id": "26ee324e-ddad-4cdd-bffb-5171227b722f",
-        "title": "Senior Associate-Digital Product Management",
-        "active": false,
-        "date_updated": 1767630347,
-        "date_posted": 1767630347,
-        "url": "https://aexp.eightfold.ai/careers/job/39272718",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "The New York Times",
         "id": "24bf275c-9f26-4f06-b77d-a2339eb30d61",
@@ -604,64 +393,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Skyscanner",
-        "id": "2c4739c6-11c7-4cb3-af94-8ba4ae8bcaf1",
-        "title": "Software Engineering and Teaching Programme",
-        "active": false,
-        "date_updated": 1767630094,
-        "date_posted": 1767630094,
-        "url": "http://www.skyscanner.net/jobs/job/7496222?gh_jid=7496222",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Skyscanner",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ATCO",
-        "id": "2302abbf-eb98-410d-a248-5e6db18bfb1e",
-        "title": "Picarro Driver - Temp Labourer",
-        "active": false,
-        "date_updated": 1767630421,
-        "date_posted": 1767630421,
-        "url": "https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19314",
-        "locations": [
-            "Edmonton, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/ATCO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "AAR",
-        "id": "a9538e68-beab-48d7-9ad8-dab04833f8f2",
-        "title": "Technician - Assembly Test II",
-        "active": false,
-        "date_updated": 1767630085,
-        "date_posted": 1767630085,
-        "url": "https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18004",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/AAR",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -90908,26 +90639,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Macy's",
-        "id": "4c24c124-49f5-46db-8461-6a3a4ae8b94a",
-        "title": "Assistant Product Manager",
-        "active": false,
-        "date_updated": 1767630358,
-        "date_posted": 1767630358,
-        "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83758",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Macys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -354346,7 +354057,7 @@
         "company_name": "L3Harris Technologies",
         "id": "0911d4b2-2fef-48c0-a533-4ce070821e3c",
         "title": "Assembly",
-        "active": true,
+        "active": false,
         "date_updated": 1786679128,
         "date_posted": 1786678887,
         "url": "https://jobs.l3harris.com/job/Rochester-Assembly-B-NY-14623/1419211200/?ats=successfactors",
@@ -378142,7 +377853,7 @@
         "company_name": "The Walt Disney Company",
         "id": "a5097a0a-6ce3-4617-b4e0-b214eec284bb",
         "title": "Software Engineer 1 - Rights & Accounting",
-        "active": true,
+        "active": false,
         "date_updated": 1787782127,
         "date_posted": 1787702400,
         "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Software-Engineer-I_10158076-2",
