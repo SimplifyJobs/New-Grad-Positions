@@ -55,42 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "11001ecb-b99f-4cb2-a6a9-0343e983144c",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1767578884,
-        "date_posted": 1767578884,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044725",
-        "locations": [
-            "Weybridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3ba04848-2ddc-4bab-bf42-c8ce20d8afe9",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1767578881,
-        "date_posted": 1767578881,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044814",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Visa",
         "id": "2a371169-abbf-44b3-b904-83da4838425d",
@@ -332421,7 +332385,7 @@
         "company_name": "United Parcel Service (UPS)",
         "id": "0220ac35-84f4-465d-bad7-ca2010e5d11a",
         "title": "Sustainability Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1785798213,
         "date_posted": 1785715200,
         "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Masters-Degree---Sustainability-Reporting-Fellow_R26024711",
@@ -334145,7 +334109,7 @@
         "company_name": "Panasonic Holdings",
         "id": "f5c3435d-7aa5-4b5f-b59b-42a123b2dbcd",
         "title": "Electronics Warehouse Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1785881343,
         "date_posted": 1785881214,
         "url": "https://careers.na.panasonic.com/jobs/50309?icims=1",
@@ -389556,6 +389520,107 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "17f07991-3767-45b5-b4c0-6b1d4822464a",
+        "title": "AI and Data Engineering Analyst - Government & Public Services",
+        "active": true,
+        "date_updated": 1788314986,
+        "date_posted": 1788314794,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-AI-Data-Engineering-Winter-2027/365230",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Deloitte",
+        "id": "c817be26-7e13-4448-83f3-ca97e9b7a358",
+        "title": "Software Engineering Analyst - Government & Public Services",
+        "active": true,
+        "date_updated": 1788314975,
+        "date_posted": 1788314794,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering-Winter-2027/365228",
+        "locations": [
+            "Rosslyn, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hawk-Eye Innovations",
+        "id": "415c5759-7e1a-4afb-bc2a-cdee5cd5f514",
+        "title": "College Sports Systems Technician - University of Washington",
+        "active": true,
+        "date_updated": 1788314761,
+        "date_posted": 1788314751,
+        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/466edb26-050f-430b-b55c-dafbc5a4c239/application?embed=true",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Textron",
+        "id": "f05d9c15-aad6-4f1e-b3bb-d2bba7f8ab4e",
+        "title": "Salesforce Administrator Associate",
+        "active": true,
+        "date_updated": 1788314681,
+        "date_posted": 1788314490,
+        "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343322",
+        "locations": [
+            "Augusta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Textron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Textron",
+        "id": "eb438002-306c-48ff-9b02-f87947b2219d",
+        "title": "Software Engineer 1 - Weapons",
+        "active": true,
+        "date_updated": 1788314688,
+        "date_posted": 1788314489,
+        "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344818",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Textron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
