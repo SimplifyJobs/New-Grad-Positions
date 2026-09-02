@@ -286357,7 +286357,7 @@
         "company_name": "Veeva Systems",
         "id": "ed36fcbe-2b5b-415f-b688-320bafcde449",
         "title": "Associate Technical Consultant - Entry-Level Consulting - Life Sciences",
-        "active": false,
+        "active": true,
         "date_updated": 1784110848,
         "date_posted": 1774391445,
         "url": "https://jobs.lever.co/veeva/0893f708-83d9-4a62-8011-5223ec3d373b/apply",
@@ -358800,7 +358800,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -359104,7 +359104,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -389803,5 +389803,24 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nuro",
+        "id": "dbd43898-90ab-4067-81e9-16849f0c7d42",
+        "title": "Autonomous Vehicle Operator - PM Shift - 12-Month Duration",
+        "active": true,
+        "date_updated": 1788347162,
+        "date_posted": 1785883406,
+        "url": "https://nuro.ai/careersitem?gh_jid=8104153",
+        "locations": [
+            "South SF",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nuro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
