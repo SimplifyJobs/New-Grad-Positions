@@ -302624,7 +302624,7 @@
         "company_name": "Veeva Systems",
         "id": "697e78cc-e93b-4914-add6-a845bb8ae6bc",
         "title": "Technical Consultant Associate - Entry-Level Consulting - Life Sciences",
-        "active": true,
+        "active": false,
         "date_updated": 1784686056,
         "date_posted": 1774391442,
         "url": "https://jobs.lever.co/veeva/eed4b1a3-13ae-4cf4-9bd9-5bc6a0d214a6/apply",
@@ -367399,7 +367399,7 @@
         "company_name": "StudyFetch",
         "id": "179e11a1-a541-4256-a6c3-e36544663802",
         "title": "AI Research Assistant - Machine Learning & AI",
-        "active": false,
+        "active": true,
         "date_updated": 1787215748,
         "date_posted": 1787186853,
         "url": "https://ats.rippling.com/studyfetch/jobs/ae12be8f-32a4-469f-8d71-452c8409a92a",
@@ -389740,6 +389740,48 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sierra",
+        "id": "1fc30c4a-d04e-419f-968c-083bb3fad9bb",
+        "title": "New Grad - APX",
+        "active": true,
+        "date_updated": 1788342769,
+        "date_posted": 1788255593,
+        "url": "https://jobs.ashbyhq.com/Sierra/d9c445da-c7b4-43a3-8d71-d367681c3015/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Constellation Energy",
+        "id": "665e7717-eb77-4338-a7d2-d62dff9df010",
+        "title": "High Voltage Technician",
+        "active": true,
+        "date_updated": 1788341402,
+        "date_posted": 1788203333,
+        "url": "https://jobs.constellationenergy.com/jobs/138345?icims=1",
+        "locations": [
+            "Indiana, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Constellation-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Incomplete"
         ]
     }
 ]
