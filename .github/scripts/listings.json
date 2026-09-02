@@ -307525,7 +307525,7 @@
         "company_name": "RTX",
         "id": "05265820-1130-4644-9da5-87524303c14b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784819994,
         "date_posted": 1784764800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525",
@@ -316833,7 +316833,7 @@
         "company_name": "RTX",
         "id": "2642491d-58eb-447a-ae7d-a7f33759c98d",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1785280563,
         "date_posted": 1785196800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--On-Site-_01862497",
@@ -390018,6 +390018,46 @@
             "Grove, Wantage, UK"
         ],
         "company_url": "https://simplify.jobs/c/Williams-Racing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blackberry",
+        "id": "bda74332-82e5-439b-b4b6-2816798a9366",
+        "title": "Open Source Software Developer New Grad - QNX Everywhere",
+        "active": true,
+        "date_updated": 1788359669,
+        "date_posted": 1788307200,
+        "url": "https://bb.wd3.myworkdayjobs.com/blackberry/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackBerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blackberry",
+        "id": "aa9e19ab-56c4-4224-8844-f2f9a351fc58",
+        "title": "Open Source Software Developer New Grad - QNX Everywhere",
+        "active": true,
+        "date_updated": 1788359672,
+        "date_posted": 1788307200,
+        "url": "https://bb.wd3.myworkdayjobs.com/QNX/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackBerry",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
