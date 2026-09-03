@@ -289383,7 +289383,7 @@
         "company_name": "KBR",
         "id": "ae7d5613-a5d0-4aed-aa82-17ed6c67e828",
         "title": "Semiconductor Device Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784327045,
         "date_posted": 1784246400,
         "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Semiconductor-Device-Engineer_R2126834",
@@ -318845,7 +318845,7 @@
         "company_name": "Baker Tilly",
         "id": "d3f018d6-6100-465a-862b-230e8b1550eb",
         "title": "Data Specialist - BT Prep",
-        "active": true,
+        "active": false,
         "date_updated": 1785451455,
         "date_posted": 1785369600,
         "url": "https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-WI-Remote/Temporary-Data-Specialist---BT-Prep_JR107323",
@@ -354168,7 +354168,7 @@
         "company_name": "Pacific Northwest National Laboratory",
         "id": "de9c88c9-a170-4bef-b8c0-535d856b2283",
         "title": "Postdoctoral Research Associate - Nuclear Non-Proliferation",
-        "active": true,
+        "active": false,
         "date_updated": 1786687158,
         "date_posted": 1786686936,
         "url": "https://careers.pnnl.gov/jobs/12026?icims=1",
@@ -355325,7 +355325,7 @@
         "company_name": "MiTek",
         "id": "c059740f-617f-4833-b1a9-f64f69b6fe72",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786745882,
         "date_posted": 1786665600,
         "url": "https://mii.wd5.myworkdayjobs.com/MiTek/job/Greenwood-Village-CO-USA/Software-Engineer_R06590-1",
@@ -386428,7 +386428,7 @@
         "company_name": "ROUSH",
         "id": "b2b7562f-596e-4fe0-95ab-b3c1a405c4c4",
         "title": "Electrical Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788301498,
         "date_posted": 1788301287,
         "url": "https://roush.applytojob.com/apply/SaHT1mau21/Electrical-Technician-I",
@@ -388060,6 +388060,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "d7ff0340-92fe-4508-b930-cd88bf08f010",
+        "title": "Advanced Kinetic Weapons Engineer",
+        "active": true,
+        "date_updated": 1788400628,
+        "date_posted": 1788331171,
+        "url": "https://careers.jhuapl.edu/jobs/59882?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
