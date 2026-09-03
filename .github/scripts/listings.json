@@ -55,102 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "04d6f313-3670-4969-a5e8-5b2671021eac",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767716252,
-        "date_posted": 1767716252,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044987",
-        "locations": [
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cisco",
-        "id": "f0e5f56a-c715-4562-88b1-22879a24a4c6",
-        "title": "AI Machine Learning Engineer 2",
-        "active": false,
-        "date_updated": 1767716316,
-        "date_posted": 1767716316,
-        "url": "https://careers.cisco.com/global/en/job/2001899",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cisco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Shiftsmart",
-        "id": "6b261c06-8ef5-4308-8e98-6436575ff4cf",
-        "title": "Early Career Software Engineer",
-        "active": false,
-        "date_updated": 1767716268,
-        "date_posted": 1767716268,
-        "url": "https://jobs.ashbyhq.com/shiftsmart/e965f643-121a-41b3-bb50-476ea9f78733/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Shiftsmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1310f09b-62d4-460b-8165-0fa6f286d6d7",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767716237,
-        "date_posted": 1767716237,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044993",
-        "locations": [
-            "Edinburgh, UK",
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Graphcore",
-        "id": "e5e156e6-813f-4ef7-a4ee-d6d5a7029f34",
-        "title": "Graduate Silicon Engineer",
-        "active": false,
-        "date_updated": 1767715746,
-        "date_posted": 1767715746,
-        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8360495002",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Graphcore",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Teledyne",
         "id": "4cbdc5b2-e777-4367-ad43-8135a563ef5b",
@@ -210,64 +114,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "RTX",
-        "id": "b65e2de0-6641-4ca3-9cba-533a4ad7ee46",
-        "title": "Graduate Systems Engineer - Weapons",
-        "active": false,
-        "date_updated": 1767716149,
-        "date_posted": 1767716149,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/GBR01Harlow-Essex-Kao-One-Kao-Park-Harlow-CM17-9NA/Graduate-Systems-Engineer--GDP---September-2026-Start-_01813720-1",
-        "locations": [
-            "Harlow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sustainable Talent",
-        "id": "bc060362-f224-498f-a5d1-38a3b899cb6e",
-        "title": "Repair Technician",
-        "active": false,
-        "date_updated": 1767716515,
-        "date_posted": 1767716515,
-        "url": "https://job-boards.greenhouse.io/sustainabletalent/jobs/4646058005",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SustainableTalent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "OCLC",
-        "id": "5c27d336-6408-4c72-94da-44f5c28c0c51",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1767716890,
-        "date_posted": 1767716890,
-        "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Associate-Software-Engineer_R0003737",
-        "locations": [
-            "Dublin, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/350afefb-30b2-4d69-899d-19a3d7dd96f5",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Amentum",
         "id": "cd834ea2-5757-4c43-bc46-f843c271b8b5",
         "title": "Mechanical Lab Technician",
@@ -302,42 +148,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "fba0b254-f2d9-4e88-bd6c-2fb36e0fa7da",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767716236,
-        "date_posted": 1767716236,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045009",
-        "locations": [
-            "Southampton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d3489850-cef6-4b19-a209-c7f1227b1bd5",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767716240,
-        "date_posted": 1767716240,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044982",
-        "locations": [
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -380,24 +190,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "65454ccd-f6c9-447a-9c1c-ce0bbb8806fb",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1767716239,
-        "date_posted": 1767716239,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044983",
-        "locations": [
-            "Exeter, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "GE Aerospace",
         "id": "e9ade502-116f-4fb5-8c1d-c5776ab8db8c",
@@ -430,24 +222,6 @@
             "Remote in UK"
         ],
         "company_url": "https://simplify.jobs/c/Prolific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Zebra Technologies",
-        "id": "3347813c-fe68-41e2-85ba-d02f8aa932eb",
-        "title": "Repair Services Associate - Manufacturing",
-        "active": false,
-        "date_updated": 1767716474,
-        "date_posted": 1767716474,
-        "url": "https://zebra.eightfold.ai/careers/job/343636718610",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -13514,26 +13288,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ohio State University",
-        "id": "26e71c8f-a9f7-4ec1-9d29-d45389a4f268",
-        "title": "Medical Simulation Technician",
-        "active": false,
-        "date_updated": 1768471260,
-        "date_posted": 1767716367,
-        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/College-of-MedicineOffice-of-Health-Sciences/Medical-Simulation-Specialist_R142572",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Ohio-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -236453,7 +236207,7 @@
         "company_name": "Goldman Sachs",
         "id": "de896427-2d73-4fa8-b8b8-65efaf044cfd",
         "title": "Software Engineer - Data",
-        "active": true,
+        "active": false,
         "date_updated": 1781169481,
         "date_posted": 1781168814,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
@@ -328912,7 +328666,7 @@
         "company_name": "Cambridge Associates",
         "id": "bf259c4c-8905-4bd7-811d-936ff206dc27",
         "title": "Investment Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1785767407,
         "date_posted": 1785715200,
         "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/Investment-Analyst-Program---January-2027-Class_JR0000361",
@@ -328935,7 +328689,7 @@
         "company_name": "Cambridge Associates",
         "id": "ca326a25-11f4-4169-9685-a2b207ec1c67",
         "title": "Investment Analyst Program",
-        "active": false,
+        "active": true,
         "date_updated": 1785766681,
         "date_posted": 1785715200,
         "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/Investment-Analyst-Program---July-2027-Class_JR0000362-1",
@@ -352220,7 +351974,7 @@
         "company_name": "Trace Systems",
         "id": "ff6e43c3-bc97-4b08-84ad-0e0b9943e092",
         "title": "Database Administrator 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786681603,
         "date_posted": 1786680436,
         "url": "https://careers.tracesystems.com/jobs/6269?icims=1",
@@ -352238,7 +351992,7 @@
         "company_name": "Trace Systems",
         "id": "15352be8-eac0-4dd3-8257-571a0fab079f",
         "title": "Client Systems Hardware Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786681595,
         "date_posted": 1786680432,
         "url": "https://careers.tracesystems.com/jobs/6804?icims=1",
@@ -352258,7 +352012,7 @@
         "company_name": "PENN Entertainment",
         "id": "38bea890-dde6-419d-ac75-293198f586c5",
         "title": "Audio Visual Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786681470,
         "date_posted": 1786680384,
         "url": "https://careersapply-pennentertainment.icims.com/jobs/134475/job?mobile=true&needsRedirect=false",
@@ -352278,7 +352032,7 @@
         "company_name": "V2X",
         "id": "9acfcdb9-daad-430e-8ebb-a4fc9fe68cf9",
         "title": "Electronics Worker 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786681308,
         "date_posted": 1786680331,
         "url": "https://careers.gov2x.com/jobs/59672?icims=1",
@@ -353767,7 +353521,7 @@
         "company_name": "Kyocera Document Solutions America",
         "id": "e5acc13e-9dcc-4f11-9fd5-4fc509569904",
         "title": "Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786687021,
         "date_posted": 1786687014,
         "url": "https://careers-kyocera.icims.com/jobs/3236/job?mobile=true&needsRedirect=false",
@@ -353821,7 +353575,7 @@
         "company_name": "Pacific Northwest National Laboratory",
         "id": "6228ef47-3085-4c09-a7b5-1b84344a9a18",
         "title": "Pauling Fellow - Linus Pauling Distinguished Postdoctoral Fellowship",
-        "active": true,
+        "active": false,
         "date_updated": 1786687021,
         "date_posted": 1786686958,
         "url": "https://careers.pnnl.gov/jobs/11983?icims=1",
@@ -354029,7 +353783,7 @@
         "company_name": "NANA Regional Corporation",
         "id": "e8744816-b7ae-49c7-8afc-eb47cc270d28",
         "title": "Broadband Technician 1 - Nana Net",
-        "active": true,
+        "active": false,
         "date_updated": 1786687429,
         "date_posted": 1786687193,
         "url": "https://nrc-nana.icims.com/jobs/23756/job?mobile=true&needsRedirect=false",
@@ -354047,7 +353801,7 @@
         "company_name": "M.C. Dean",
         "id": "63807ddc-301f-4d78-ac5c-193a82587f30",
         "title": "Systems Engineering Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786687418,
         "date_posted": 1786687186,
         "url": "https://careers.mcdean.com/jobs/28841?icims=1",
@@ -354065,7 +353819,7 @@
         "company_name": "M.C. Dean",
         "id": "843113c2-8c60-49b6-b630-bbdb922cce23",
         "title": "Electronics Associate - Security and Electronic Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1786687201,
         "date_posted": 1786687166,
         "url": "https://careers.mcdean.com/jobs/30729?icims=1",
@@ -354103,7 +353857,7 @@
         "company_name": "M.C. Dean",
         "id": "419fcb5a-db61-41dd-baac-569ccf0c3635",
         "title": "Systems Specialist - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1786687314,
         "date_posted": 1786687110,
         "url": "https://careers.mcdean.com/jobs/31987?icims=1",
@@ -354123,7 +353877,7 @@
         "company_name": "M.C. Dean",
         "id": "94b1d3c4-d5f6-4c9b-a17c-8cc97a1339c6",
         "title": "Engineer 1 New Grad - Cis",
-        "active": true,
+        "active": false,
         "date_updated": 1786687295,
         "date_posted": 1786687099,
         "url": "https://careers.mcdean.com/jobs/32119?icims=1",
@@ -354162,7 +353916,7 @@
         "company_name": "M.C. Dean",
         "id": "d1fb6d0c-1130-4775-b71b-7abf9d9f4e0a",
         "title": "Engineer 1 - New College Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1786687281,
         "date_posted": 1786687084,
         "url": "https://careers.mcdean.com/jobs/32350?icims=1",
@@ -392557,7 +392311,7 @@
         "company_name": "M.C. Dean",
         "id": "8b155663-9e04-46cd-b54e-549810a6a5bb",
         "title": "Electronics Associate - Security and Electronic Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1786687201,
         "date_posted": 1786687167,
         "url": "https://careers.mcdean.com/jobs/30695?icims=1",
@@ -392575,7 +392329,7 @@
         "company_name": "BJC HealthCare",
         "id": "104ed2af-9c31-47cf-a829-41d93633f098",
         "title": "Advanced Modality Technologist - C-arm",
-        "active": true,
+        "active": false,
         "date_updated": 1786687335,
         "date_posted": 1786687120,
         "url": "https://jobs.bjc.org/jobs/112945?icims=1",
@@ -392595,7 +392349,7 @@
         "company_name": "M.C. Dean",
         "id": "9c4be9fa-a16d-49e5-9812-b552c05e602a",
         "title": "Electronics Associate - Security and Electronic Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1786687201,
         "date_posted": 1786687108,
         "url": "https://careers.mcdean.com/jobs/32165?icims=1",
@@ -392615,7 +392369,7 @@
         "company_name": "M.C. Dean",
         "id": "a186abe5-1bc1-4910-9d19-b5225fb4bceb",
         "title": "Design Engineer 1 - Security and Electronic Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1786687201,
         "date_posted": 1786687089,
         "url": "https://careers.mcdean.com/jobs/32285?icims=1",
@@ -392656,7 +392410,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "4c412808-f305-40fa-80d8-27949f4e7e0a",
         "title": "PhD Graduate - Advanced Sensor Technology Development",
-        "active": true,
+        "active": false,
         "date_updated": 1786682414,
         "date_posted": 1786680910,
         "url": "https://careers.jhuapl.edu/jobs/59508?icims=1",
@@ -392676,7 +392430,7 @@
         "company_name": "PM Group",
         "id": "1d67183e-0a77-4b24-96a3-4537bd7b1ba4",
         "title": "Graduate Electrical Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786681261,
         "date_posted": 1786680472,
         "url": "https://careers.pmgroup-global.com/jobs/12637?icims=1",
@@ -398316,6 +398070,253 @@
             "Chandler, AZ"
         ],
         "company_url": "https://simplify.jobs/c/HR-Block",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Relay Technologies",
+        "id": "c48dfc27-a60d-4aab-9f9e-1775aa1a6167",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1788452113,
+        "date_posted": 1788452089,
+        "url": "https://jobs.ashbyhq.com/relay/5a6ed15f-e610-4d09-9fd7-f18cd639c4e7/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Relay-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Wintermute",
+        "id": "d21a3c57-f745-430d-9748-5e56972a09cd",
+        "title": "Graduate Algorithmic Trader",
+        "active": true,
+        "date_updated": 1788452644,
+        "date_posted": 1788452168,
+        "url": "https://jobs.lever.co/wintermute-trading/06eb85da-c5b3-4e49-a906-8ac0f3452517/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wintermute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SCA Health",
+        "id": "0c40c157-39b8-43d2-9f25-b380a6945118",
+        "title": "Surgical Technologist - Texas Health Surgery Center Forney",
+        "active": true,
+        "date_updated": 1788451574,
+        "date_posted": 1786687166,
+        "url": "https://careers.sca.health/jobs/45324?icims=1",
+        "locations": [
+            "Forney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SCA-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "M.C. Dean",
+        "id": "17757a95-548f-4943-bdad-d646fd2575ff",
+        "title": "Systems Specialist - Associate",
+        "active": true,
+        "date_updated": 1788451574,
+        "date_posted": 1786687111,
+        "url": "https://careers.mcdean.com/jobs/31990?icims=1",
+        "locations": [
+            "South Hill, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/MC-Dean",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "M.C. Dean",
+        "id": "4951638d-d1fa-4060-9775-cad28a332ed4",
+        "title": "Systems Specialist - Associate",
+        "active": true,
+        "date_updated": 1788451574,
+        "date_posted": 1786687110,
+        "url": "https://careers.mcdean.com/jobs/31988?icims=1",
+        "locations": [
+            "Monroe, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/MC-Dean",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Research Group",
+        "id": "07d9d482-be09-4dbf-872b-28ea73cd8fe2",
+        "title": "Market Research Analyst or Senior Analyst - Technology Practice",
+        "active": true,
+        "date_updated": 1788451574,
+        "date_posted": 1786686246,
+        "url": "https://careers-nrgmr.icims.com/jobs/8575/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Culver City, CA",
+            "NYC",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Research-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Research Group",
+        "id": "6b2b7f9d-ddb1-4941-beae-08c1dfc04296",
+        "title": "Market Research Analyst - Entertainment, Gaming, Sports & Tech",
+        "active": true,
+        "date_updated": 1788451574,
+        "date_posted": 1786686246,
+        "url": "https://careers-nrgmr.icims.com/jobs/7944/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Culver City, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Research-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hyatt Vacation Club",
+        "id": "2dbb1db5-f3b5-45f8-a05f-f5c4fa82107f",
+        "title": "Recreation Attendant",
+        "active": true,
+        "date_updated": 1788451574,
+        "date_posted": 1786579200,
+        "url": "https://mymvw.wd5.myworkdayjobs.com/hvocareers/job/Hyatt-Vacation-Club-at-Desert-Oasis/Recreation-Attendant_JR93214",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Hyatt-Vacation-Club",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Cheesecake Factory",
+        "id": "9293fc9e-17c3-4075-9216-9d52ebaa3250",
+        "title": "Host",
+        "active": true,
+        "date_updated": 1788452113,
+        "date_posted": 1786680620,
+        "url": "https://www.cakecareers.com/jobs/2708?icims=1",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Cheesecake-Factory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Cheesecake Factory",
+        "id": "6034cc45-dbb4-4e65-be11-2ad23c22bf87",
+        "title": "Dessert Finisher/Barista",
+        "active": true,
+        "date_updated": 1788452113,
+        "date_posted": 1786680618,
+        "url": "https://www.cakecareers.com/jobs/2786?icims=1",
+        "locations": [
+            "The Woodlands, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Cheesecake-Factory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Cheesecake Factory",
+        "id": "1db7b2b4-b81c-4466-9716-5f561acf99e9",
+        "title": "Host/Hostess",
+        "active": true,
+        "date_updated": 1788452477,
+        "date_posted": 1786680426,
+        "url": "https://www.cakecareers.com/jobs/6138?icims=1",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Cheesecake-Factory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PENN Entertainment",
+        "id": "d3ab3db1-e0d6-47a0-9c1a-eb3748bb6e9c",
+        "title": "Banquet Server",
+        "active": true,
+        "date_updated": 1788452477,
+        "date_posted": 1786680385,
+        "url": "https://careersapply-pennentertainment.icims.com/jobs/144425/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Lake Charles, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/PENN-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Noodles & Company",
+        "id": "f8745f14-2440-4e79-8437-e367a8793d3a",
+        "title": "Restaurant Team Member - Cashier - Server",
+        "active": true,
+        "date_updated": 1788452477,
+        "date_posted": 1786680360,
+        "url": "https://jobs-noodles.icims.com/jobs/5631/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Deerfield, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Noodles-And-Company",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
