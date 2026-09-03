@@ -55,198 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Danaher Corporation",
-        "id": "1577de05-bab4-4495-bd99-d8873e791850",
-        "title": "Field Service Engineer",
-        "active": false,
-        "date_updated": 1767658254,
-        "date_posted": 1767658254,
-        "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Pittsburgh-Pennsylvania-United-States/Field-Service-Engineer----Pittsburgh--PA_R1301684-1",
-        "locations": [
-            "Altoona, PA",
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "c3dc6c33-5d6d-493f-82b5-e9f8d076781f",
-        "title": "Predoctoral Appointee - Engineer Research Associate",
-        "active": false,
-        "date_updated": 1767657895,
-        "date_posted": 1767657895,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Predoctoral-Appointee---Engineer-Research-Associate_421596",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Royal Bank of Canada",
-        "id": "9cf978c2-6b35-473e-a46a-d643ef9ebb84",
-        "title": "Analyst \u2013 Data Governance & Quality",
-        "active": false,
-        "date_updated": 1767658502,
-        "date_posted": 1767658502,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/12-SMITHFIELD-STREETLONDON/Analyst--Data-Governance---Quality_R-0000154013-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cox",
-        "id": "54a7a15f-6901-4009-8edd-32ee4d3c7453",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1767657901,
-        "date_posted": 1767657901,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Software-Engineer-I_R202569460",
-        "locations": [
-            "Irvine, CA",
-            "Burlington, VT",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Wash U",
-        "id": "44a5b552-a00f-4e46-bf43-44cfc44e77b9",
-        "title": "Statistical Data Analyst - Institute for Informatics - Data Science & Biostatistics",
-        "active": false,
-        "date_updated": 1767658639,
-        "date_posted": 1767658639,
-        "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Statistical-Data-Analyst---Institute-for-Informatics--Data-Science---Biostatistics_JR91931",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Wash-U",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Safelite",
-        "id": "fed3d89e-669d-46c8-8d48-83794e93da26",
-        "title": "Auto Glass Technician Trainee",
-        "active": false,
-        "date_updated": 1767658122,
-        "date_posted": 1767658122,
-        "url": "https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/INDEPENDENCE-MO/Auto-Glass-Technician-Trainee_JR63965",
-        "locations": [
-            "Independence, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Safelite",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Safelite",
-        "id": "f3c49334-0f6c-49b1-9bf4-976d3ee4d2df",
-        "title": "Auto Glass Technician Trainee",
-        "active": false,
-        "date_updated": 1767658123,
-        "date_posted": 1767658123,
-        "url": "https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/ST-JOSEPH-MO/Auto-Glass-Technician-Trainee_JR63964",
-        "locations": [
-            "St Joseph, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Safelite",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Safelite",
-        "id": "b810c1f4-dfef-46e3-acde-1ce086bca03c",
-        "title": "Auto Glass Technician Trainee",
-        "active": false,
-        "date_updated": 1767658122,
-        "date_posted": 1767658122,
-        "url": "https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/SHAWNEE-KS/Auto-Glass-Technician-Trainee_JR63962",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Safelite",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Safelite",
-        "id": "4f04fc0f-bbc8-476e-b7c1-496d43cf1605",
-        "title": "Auto Glass Technician Trainee",
-        "active": false,
-        "date_updated": 1767658124,
-        "date_posted": 1767658124,
-        "url": "https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/KILLEEN-TX/Auto-Glass-Technician-Trainee_JR63957",
-        "locations": [
-            "Killeen, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Safelite",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Genuine Parts Company",
-        "id": "1f9f7e54-e5c2-4b33-8939-58f6dd815bc5",
-        "title": "Safety Service Technician",
-        "active": false,
-        "date_updated": 1767658109,
-        "date_posted": 1767658109,
-        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Nisku-AB-CAN/Safety-Service-technician_R25_0000042802",
-        "locations": [
-            "Nisku, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Intuit",
         "id": "0a0ce15d-1ac2-4b4b-8030-8b243c58a563",
@@ -292234,7 +292042,7 @@
         "company_name": "KLA Corporation",
         "id": "4e16084d-6563-4c52-ab06-097709ce5da2",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784586424,
         "date_posted": 1784585455,
         "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2637811",
@@ -333463,7 +333271,7 @@
         "company_name": "Qualcomm",
         "id": "77fe5b68-ffda-4a79-b56d-caddb2246641",
         "title": "Data Networking Software Engineer - Modem Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785910681,
         "date_posted": 1785910543,
         "url": "https://qualcomm.eightfold.ai/careers/job/446719871565",
@@ -361511,7 +361319,7 @@
         "company_name": "TJX",
         "id": "f2da14ca-8f33-41b0-abff-665c1a8b713e",
         "title": "Salesforce Developer - Loss Prevention",
-        "active": true,
+        "active": false,
         "date_updated": 1787091662,
         "date_posted": 1787011200,
         "url": "https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Marlborough-MA-01752/Salesforce-Developer_REQ147178",
