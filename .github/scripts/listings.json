@@ -73,28 +73,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "55380fe4-0842-4921-96b4-8b319e8aeb95",
-        "title": "Crew & Equipment Design Engineer",
-        "active": false,
-        "date_updated": 1767671924,
-        "date_posted": 1767671924,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Crew---Equipment-Design-Engineer----Principal-Crew---Equipment-Design-Engineer_R10209077",
-        "locations": [
-            "Melbourne, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "fd024d2c-9a1a-49fe-a5ea-5afcd1753e21",
@@ -236592,7 +236570,7 @@
         "company_name": "Goldman Sachs",
         "id": "de896427-2d73-4fa8-b8b8-65efaf044cfd",
         "title": "Software Engineer - Data",
-        "active": true,
+        "active": false,
         "date_updated": 1781169481,
         "date_posted": 1781168814,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
@@ -356537,7 +356515,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -356576,7 +356554,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -356635,7 +356613,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -356939,7 +356917,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -384055,7 +384033,7 @@
         "company_name": "Textron",
         "id": "1ce89acd-f727-419a-81b4-79646094ff32",
         "title": "Systems Engineer 1 - Electronic Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1788255901,
         "date_posted": 1788255602,
         "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342657",
@@ -384279,7 +384257,7 @@
         "company_name": "Barclays",
         "id": "0884b8af-b38e-4bf0-ac80-1b45bcc49637",
         "title": "Global Transaction Banking Graduate Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1788272488,
         "date_posted": 1788220800,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Global-Transaction-Banking-Graduate-Programme-2027-London_JR-0000124255-1",
@@ -384299,7 +384277,7 @@
         "company_name": "Entarian",
         "id": "9eb7168d-760f-43a4-b898-b3d5ba3836ea",
         "title": "Engineering Technician 1/2",
-        "active": true,
+        "active": false,
         "date_updated": 1788272131,
         "date_posted": 1788271943,
         "url": "https://careers-entarian.icims.com/jobs/9873/job?mobile=true&needsRedirect=false",
@@ -384317,7 +384295,7 @@
         "company_name": "Entarian",
         "id": "b8e0c4f7-3c94-4f2c-87d3-e2fedeb43e5d",
         "title": "Engineering Technician 1/2",
-        "active": true,
+        "active": false,
         "date_updated": 1788272132,
         "date_posted": 1788271942,
         "url": "https://careers-entarian.icims.com/jobs/9871/job?mobile=true&needsRedirect=false",
@@ -384355,7 +384333,7 @@
         "company_name": "Skillcloud HCM Solutions",
         "id": "a60a9da0-a7b7-4d40-b473-e20dfc1b4099",
         "title": "Assembler",
-        "active": true,
+        "active": false,
         "date_updated": 1788271382,
         "date_posted": 1788271290,
         "url": "https://jobs.lever.co/skillcloudhcm/33cdade7-ec01-4c64-ab3b-7fbae2f009fb/apply",
@@ -384416,7 +384394,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "89c08049-dc30-4fed-9f08-ee61ca97c6ba",
         "title": "Product Operations Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1788273637,
         "date_posted": 1788220800,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Duluth-GA/Product-Operations-Coordinator_R118048-1",
@@ -384454,7 +384432,7 @@
         "company_name": "University of Arkansas",
         "id": "1f94845b-3249-4178-86d8-030ce3d58821",
         "title": "Data Integrity Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1788278071,
         "date_posted": 1788220800,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/Data-Integrity-Technician_R0090728-1",
@@ -384612,7 +384590,7 @@
         "company_name": "RELX",
         "id": "746eeebc-a087-4925-85bb-11bc8abd3491",
         "title": "Product Operations Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1788277571,
         "date_posted": 1788220800,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Duluth-GA/Product-Operations-Coordinator_R118048-2",
@@ -384630,7 +384608,7 @@
         "company_name": "Teledyne",
         "id": "2b0d613e-4f48-4c4c-9dac-32935f9ab474",
         "title": "Electronic Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1788277501,
         "date_posted": 1788220800,
         "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lewisburg-TN/Electronic-Repair-Technician_REQ36403-1",
@@ -384648,7 +384626,7 @@
         "company_name": "GE Vernova",
         "id": "856dd1dd-c391-4329-905c-934f7aa59198",
         "title": "Application Engineer Grid Code Compliance and Testing",
-        "active": true,
+        "active": false,
         "date_updated": 1788277321,
         "date_posted": 1788220800,
         "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Application-Engineer-Grid-Code-Compliance-and-Testing_R5049947",
@@ -384690,7 +384668,7 @@
         "company_name": "BNY",
         "id": "2a8613ae-45f7-44b6-a8ef-5386b32cbc7c",
         "title": "Data Operations Specialist - Data Transfer, Integration & Quality",
-        "active": true,
+        "active": false,
         "date_updated": 1788277268,
         "date_posted": 1788277140,
         "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/77678",
@@ -384730,7 +384708,7 @@
         "company_name": "GE Vernova",
         "id": "52083bf3-06b8-477f-bfd1-7d690058e3f6",
         "title": "Application Engineer Grid Code Compliance and Testing",
-        "active": true,
+        "active": false,
         "date_updated": 1788277142,
         "date_posted": 1788220800,
         "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Application-Engineer-Grid-Code-Compliance-and-Testing_R5049947-1",
@@ -384988,7 +384966,7 @@
         "company_name": "AIG",
         "id": "8dbd303a-762d-4db5-a030-926484d0cc16",
         "title": "Technology Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788286139,
         "date_posted": 1788220800,
         "url": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/NC-Charlotte/XMLNAME-2027-Early-Careers--Analyst--Technology---United-States--Charlotte--NC---Houston--TX_JR2603640",
@@ -386400,7 +386378,7 @@
         "company_name": "The Federal Reserve System",
         "id": "315159d3-a801-4cfd-b3d2-7d4af658a072",
         "title": "Research Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1788303287,
         "date_posted": 1788220800,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Research-Assistant_R-0000033280-2",
@@ -386420,7 +386398,7 @@
         "company_name": "Enercon Services",
         "id": "3b1350b0-c797-4b04-aec8-96cf5449a24f",
         "title": "Probabilistic Risk Assessment Engineer New Grad - PRA - Nuclear Services Team",
-        "active": true,
+        "active": false,
         "date_updated": 1788302952,
         "date_posted": 1788302862,
         "url": "https://explore.enercon.com/jobs/4221?icims=1",
@@ -386463,7 +386441,7 @@
         "company_name": "Micron Technology",
         "id": "67cb7477-5a0e-4d1b-bf05-1a12423d92b9",
         "title": "Engineer New Grad - DPG Compute PE Y/Q",
-        "active": true,
+        "active": false,
         "date_updated": 1788302937,
         "date_posted": 1788220800,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Engineer--DPG-Compute-PE-Y-Q_JR106445",
@@ -386707,7 +386685,7 @@
         "company_name": "Omnicom Group",
         "id": "4ab0ffd6-f5fb-4177-ba56-87c64332053c",
         "title": "Technology Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788303684,
         "date_posted": 1788220800,
         "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/Addison-Texas-United-States-of-America/Credera-Technology-Solutions-Analyst_R13713",
@@ -387583,7 +387561,7 @@
         "company_name": "Sierra",
         "id": "1fc30c4a-d04e-419f-968c-083bb3fad9bb",
         "title": "New Grad - APX",
-        "active": true,
+        "active": false,
         "date_updated": 1788342769,
         "date_posted": 1788255593,
         "url": "https://jobs.ashbyhq.com/Sierra/d9c445da-c7b4-43a3-8d71-d367681c3015/application?embed=true",
@@ -387968,7 +387946,7 @@
         "company_name": "GMO",
         "id": "bf350cba-cd2e-4237-a72e-f32dade1b149",
         "title": "Investment Operations Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1788400988,
         "date_posted": 1788308118,
         "url": "https://jobs.lever.co/gmo/24fc0d4c-fa16-46c9-adf8-eb06af7ca178/apply",
@@ -387988,7 +387966,7 @@
         "company_name": "Torch Technologies",
         "id": "c2b6b310-fdae-4472-8c15-a7e6bef3ba3e",
         "title": "Junior Missile Defense Systems Engineer/Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788400988,
         "date_posted": 1788220800,
         "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Temporary-On-Call--Missile-Defense-Systems-Engineer-Analyst-Entry-Level_R1650",
@@ -388051,7 +388029,7 @@
         "company_name": "Major League Baseball",
         "id": "5dca4e0a-3e24-4501-9b77-734069a3fd98",
         "title": "Baseball Operations Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1788400988,
         "date_posted": 1788302651,
         "url": "https://jobs.lever.co/redsox/c643c085-0533-4c10-93d8-2cd35ee2007d/apply",
@@ -388252,6 +388230,198 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Millennium Physician Group",
+        "id": "7c00bd35-b4d2-47d6-aa55-d4f4d70f9b5e",
+        "title": "Medical Economics Analyst",
+        "active": true,
+        "date_updated": 1788405846,
+        "date_posted": 1788220800,
+        "url": "https://verawholehealth.wd1.myworkdayjobs.com/MPG/job/US---Remote/Medical-Economics-Analyst_M104708",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Millennium-Physician-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citi",
+        "id": "45f17891-1cd5-45a2-b597-b2e563ab034b",
+        "title": "Quantitative Analysis Associate - Markets",
+        "active": true,
+        "date_updated": 1788405846,
+        "date_posted": 1788220800,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Markets--Quantitative-Analysis--Full-Time-Associate--London--2027_26984782",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "5e87f1f8-136a-428f-8aa1-393a88973479",
+        "title": "Postdoctoral Researcher in Robotics and Autonomous Systems - Tailored Autonomous Systems Group",
+        "active": true,
+        "date_updated": 1788405846,
+        "date_posted": 1788277588,
+        "url": "https://careers.jhuapl.edu/jobs/59891?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "75ede1b0-27a9-458c-add0-fde8a7f5ffdb",
+        "title": "Associate Integration & Test Engineer",
+        "active": true,
+        "date_updated": 1788405846,
+        "date_posted": 1788277168,
+        "url": "https://jobs.l3harris.com/job/Clifton-Associate,-Integration-&-Test-Engineer-NJ-07014/1425415700/?ats=successfactors",
+        "locations": [
+            "Clinton, MD",
+            "Clifton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "0f136e05-1047-4213-a65f-459a91e1499b",
+        "title": "Associate Integration/Test Engineer",
+        "active": true,
+        "date_updated": 1788405846,
+        "date_posted": 1788277167,
+        "url": "https://jobs.l3harris.com/job/Forest-Associate,%C2%A0IntegrationTest-Engineer-VA-24551/1425416700/?ats=successfactors",
+        "locations": [
+            "Forest, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "0682e38f-9871-4427-9d77-f26cdd97b53c",
+        "title": "Systems Engineer",
+        "active": true,
+        "date_updated": 1788405846,
+        "date_posted": 1788220800,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Systems-Engineer_R0248389",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Dimensional Fund Advisors",
+        "id": "e4471408-403c-43c6-adc5-05744077bfd8",
+        "title": "Researcher - Fixed Income",
+        "active": true,
+        "date_updated": 1788405846,
+        "date_posted": 1788220800,
+        "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Researcher--Fixed-Income-_2026-9044",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Dimensional-Fund-Advisors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Textron",
+        "id": "abec6d74-fafd-46c0-8d9d-6c6f136b8ee0",
+        "title": "Cyber Security Engineer - Air Systems",
+        "active": true,
+        "date_updated": 1788406926,
+        "date_posted": 1788255604,
+        "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342900",
+        "locations": [
+            "Hunt Valley, Cockeysville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Textron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Textron",
+        "id": "9f7d4dd2-ab79-4bbd-80d9-36bd21be6d5f",
+        "title": "Electrical Engineer 1 - Electronic Systems",
+        "active": true,
+        "date_updated": 1788406926,
+        "date_posted": 1788255602,
+        "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342663",
+        "locations": [
+            "Hunt Valley, Cockeysville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Textron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
