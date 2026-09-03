@@ -5,17 +5,17 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 423 New Grad Roles by Category
+### Browse 429 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (242)
 
-📱 **[Product Management](#-product-management-new-grad-roles)** (6)
+📱 **[Product Management](#-product-management-new-grad-roles)** (7)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (84)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (86)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (18)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (73)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (76)
 
 💼 **[Other](#-other-new-grad-roles)** (0)
 
@@ -602,7 +602,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Fullstack Engineer New Grad - Product Team</td>
 <td>SF</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ceae354f-7659-436b-88e0-759362464965?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/National-Center-For-Atmospheric-Research?utm_source=GHList&utm_medium=company">University Corporation for Atmospheric Research</a></strong></td>
@@ -7056,7 +7056,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
+<td>↳</td>
 <td>Junior Full Stack Engineer (Java/React) 🇺🇸</td>
 <td>Dedham, MA</td>
 <td>🔒</td>
@@ -10490,6 +10490,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Safelite?utm_source=GHList&utm_medium=company">Safelite</a></strong></td>
+<td>Digital Product Global Early Career Professional</td>
+<td>Columbus, OH</td>
+<td><div align="center"><a href="https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Digital-Product-Global-Early-Career-Professional_JR74277?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d4f3e2a2-b3a0-4db1-b18c-bca15ee16545?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/IXL-Learning?utm_source=GHList&utm_medium=company">IXL Learning</a></strong></td>
 <td>Associate Product Manager New Grad</td>
 <td>San Mateo, CA</td>
@@ -10786,6 +10793,20 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Safelite?utm_source=GHList&utm_medium=company">Safelite</a></strong></td>
+<td>Predictive Analytics Global Early Career Professional</td>
+<td>Columbus, OH</td>
+<td><div align="center"><a href="https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Predictive-Analytics-Global-Early-Career-Professional_JR74275?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7f910219-13a6-466b-8b0e-314ce751a2f6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Customer Analytics & Insights Global Early Career Professional</td>
+<td>Columbus, OH</td>
+<td><div align="center"><a href="https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Customer-Analytics---Insights-Global-Early-Career-Professional_JR74210?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/759ab78f-f452-4b8d-bc1b-7ced64609d10?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>1d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory?utm_source=GHList&utm_medium=company">Johns Hopkins Applied Physics Laboratory</a></strong></td>
 <td>Data Analyst New Grad - Engagement Optimization</td>
@@ -13795,10 +13816,24 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/General-Dynamics-UK?utm_source=GHList&utm_medium=company">General Dynamics UK</a></strong></td>
+<td>Junior Hardware Engineer Developer - FPGA</td>
+<td>Ottawa, ON, Canada</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/GDMSI/744000147039249?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3a48d1b1-444b-4d93-b1bc-4adcd269418e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Textron?utm_source=GHList&utm_medium=company">Textron</a></strong></td>
 <td>Software Engineer 1 - Weapons</td>
 <td>Wilmington, MA</td>
 <td><div align="center"><a href="https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344818&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/eb438002-306c-48ff-9b02-f87947b2219d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>FPGA Electrical Engineer 1</td>
+<td>Huntsville, AL</td>
+<td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/FPGA-Electrical-Engineer-I---Onsite_01871787?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8c6a95f5-13cd-41e2-bdab-59e74114c86b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>1d</td>
 </tr>
 <tr>
@@ -13912,6 +13947,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><details><summary><strong>7 locations</strong></summary>Seattle, WA</br>LA</br>Cape Canaveral, FL</br>Kent, WA</br>Denver, CO</br>Huntsville, AL</br>Van Horn, TX</details></td>
 <td><div align="center"><a href="https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8a3a0dcf-1c80-43e6-ae6d-c6eff9c94667?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>3d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Micron-Technology?utm_source=GHList&utm_medium=company">Micron Technology</a></strong></td>
+<td>Product Test Engineer New Grad</td>
+<td>Boise, ID</td>
+<td><div align="center"><a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Test-Engineer_JR109985?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/54cabb56-5337-4344-9f40-9ad54dc468b3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company">Boeing</a></strong></td>
