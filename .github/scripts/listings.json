@@ -88854,27 +88854,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Stripe",
-        "id": "cc953d6e-bf93-4fa1-982f-cd773b9557ad",
-        "title": "Backend Engineer",
-        "active": false,
-        "date_updated": 1767691967,
-        "date_posted": 1767691967,
-        "url": "https://stripe.com/jobs/search?gh_jid=7292520",
-        "locations": [
-            "Remote in Canada",
-            "Toronto, ON, Canada",
-            "Remote in USA",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Hawk-Eye Innovations",
         "id": "f57e12b2-d1a2-45aa-a4a7-0800ebf5637c",
@@ -333284,7 +333263,7 @@
         "company_name": "Brink",
         "id": "25edbcbd-db51-4493-94cc-4ffc29d2e165",
         "title": "ATM Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1785921259,
         "date_posted": 1784246400,
         "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Pittsburgh-PA/ATM-Technician_R76832",
@@ -371627,7 +371606,7 @@
         "company_name": "Liberty Mutual",
         "id": "efe8c7af-0baa-411f-8106-bdfcbe0674b4",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1787617050,
         "date_posted": 1787616808,
         "url": "https://careers-libertymutual.icims.com/jobs/77179/job?mobile=true&needsRedirect=false",
@@ -371652,7 +371631,7 @@
         "company_name": "Willis Aviation",
         "id": "40d7d962-1019-4506-8d2b-5bfcb8ecb6d2",
         "title": "Graduate Planning & Records Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787616918,
         "date_posted": 1787616670,
         "url": "https://apply.workable.com/willis-aviation/j/36B4CD0289/apply",
@@ -371737,7 +371716,7 @@
         "company_name": "Best Buy",
         "id": "768008dd-6435-40fa-b247-2c2dd4a904a9",
         "title": "Field Technical Service Representative",
-        "active": true,
+        "active": false,
         "date_updated": 1787616564,
         "date_posted": 1787529600,
         "url": "https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career/job/11982-Ancaster/Field-Technical-Service-Representative--Full-Time-_R-52577",
@@ -371755,7 +371734,7 @@
         "company_name": "Best Buy",
         "id": "3a606e76-5245-4f80-81c3-8deac3b9d281",
         "title": "Field Technical Service Representative - Home Services",
-        "active": true,
+        "active": false,
         "date_updated": 1787616879,
         "date_posted": 1787529600,
         "url": "https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career/job/11907-La-Capitale/Reprsentant-e--des-services-techniques--domicile--Temps-plein----Field-Technical-Service-Representative--Full-Time-_R-52573",
@@ -372143,7 +372122,7 @@
         "company_name": "Aramark",
         "id": "a707d075-8431-4357-8579-21f9516b6b9c",
         "title": "Food Services Worker - Student Worker",
-        "active": true,
+        "active": false,
         "date_updated": 1787629005,
         "date_posted": 1787628947,
         "url": "https://aramarkcareers.com/UnitedStates/job/Tallahassee-Trading-Post-Student-Worker-Florida-State-University-FL-32304/1422815000/?ats=successfactors",
@@ -372181,7 +372160,7 @@
         "company_name": "Brown University",
         "id": "99a1529a-7b07-48b6-bd63-8e2367d1b196",
         "title": "Health Economics Research Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787638710,
         "date_posted": 1787616000,
         "url": "https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/121-South-Main-Street/Health-Economics-Research-Analyst_REQ210856",
@@ -372219,7 +372198,7 @@
         "company_name": "Pinnacle Live",
         "id": "7a951600-a8d3-4c43-9993-66b0fb7a3d0d",
         "title": "Event Services Technician - Audio Visual - Event Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1787640317,
         "date_posted": 1787640220,
         "url": "https://jobs.jobvite.com/pinnaclelive/job/oiIGAfw0?nl=1&nl=1&fr=false",
@@ -390701,6 +390680,85 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "b27bdb2b-fba2-4b47-bb69-c965e4a9e543",
+        "title": "New College Grad - Design Engineer - Circuit Design",
+        "active": true,
+        "date_updated": 1788429439,
+        "date_posted": 1788427952,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Staff-Engineer--Circuit-Design_JR94667",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "OceanComm",
+        "id": "31d76627-c9d2-4792-9ab1-5cd53eb3f391",
+        "title": "Electrical Engineer",
+        "active": true,
+        "date_updated": 1788426909,
+        "date_posted": 1787616585,
+        "url": "https://apply.workable.com/oceancomm/j/2AD1949471/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/OceanComm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "be950ebf-b2ea-4e70-ae7d-776221555c66",
+        "title": "Post-Silicon Validation Engineer - ASICS Engineering",
+        "active": true,
+        "date_updated": 1788426909,
+        "date_posted": 1787616426,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446720593529",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "3e05d873-151f-4f9c-a6c2-6d038921650b",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1788428364,
+        "date_posted": 1776762494,
+        "url": "https://jobs.lever.co/shieldai/c9321f8a-b367-4dcb-9308-bd64ae6bac1d/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
