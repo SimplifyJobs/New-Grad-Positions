@@ -236552,7 +236552,7 @@
         "company_name": "Goldman Sachs",
         "id": "de896427-2d73-4fa8-b8b8-65efaf044cfd",
         "title": "Software Engineer - Data",
-        "active": false,
+        "active": true,
         "date_updated": 1781169481,
         "date_posted": 1781168814,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
@@ -356497,7 +356497,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -356536,7 +356536,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -356595,7 +356595,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -356899,7 +356899,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -379481,7 +379481,7 @@
         "company_name": "Culina Group",
         "id": "75402146-9ba8-4366-a048-72d66cd5bfeb",
         "title": "Desktop Engineer Trainee - Fleet Department",
-        "active": true,
+        "active": false,
         "date_updated": 1787926321,
         "date_posted": 1787926276,
         "url": "https://jobs.smartrecruiters.com/CulinaGroup1/744000146165979",
@@ -379822,7 +379822,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "b1f4a272-66f6-4ed0-a3ad-69e251a0e74c",
         "title": "Modeler and Data Analyst New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1787950236,
         "date_posted": 1787950069,
         "url": "https://careers.jhuapl.edu/jobs/59858?icims=1",
@@ -379885,7 +379885,7 @@
         "company_name": "InfraServices",
         "id": "3fd37507-e2bd-4c44-9b79-e7860e15061b",
         "title": "Data Center Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787950183,
         "date_posted": 1787950030,
         "url": "https://jobs.lever.co/infraservices/ba55a1a2-4280-465b-b0c4-c08b63c4cd61/apply",
@@ -380026,7 +380026,7 @@
         "company_name": "NRG Energy",
         "id": "6b814c15-48e7-423b-9698-fdda9c885c2c",
         "title": "Direct-to-Home Install Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787951263,
         "date_posted": 1787951154,
         "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Arlington-DTH-Install-Flex-to-FT-Arlington,-TX-TX-76014/1424498800/?ats=successfactors",
@@ -380044,7 +380044,7 @@
         "company_name": "Barr",
         "id": "7b26ed3e-24a7-430f-9375-3426132ac229",
         "title": "Air Quality Scientist/Engineer - Emissions Monitoring Focus",
-        "active": true,
+        "active": false,
         "date_updated": 1787951206,
         "date_posted": 1787875200,
         "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Edina-MN/Air-Quality-Scientist-Engineer---Emissions-Monitoring-Focus---Entry-Level--Hybrid-_R-102288-1",
@@ -380105,7 +380105,7 @@
         "company_name": "CoreWeave",
         "id": "1eee8b28-4b50-4d6f-9db1-48e016b66ed2",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787950999,
         "date_posted": 1787950934,
         "url": "https://coreweave.com/careers/job?4709264006&board=coreweave&gh_jid=4709264006",
@@ -380353,7 +380353,7 @@
         "company_name": "TC Energy",
         "id": "5fddc043-6751-4ad7-8e6a-005f2c260e72",
         "title": "Data Analyst - IoTx",
-        "active": true,
+        "active": false,
         "date_updated": 1787955329,
         "date_posted": 1787875200,
         "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Thompsons-Station-Tennessee/IOTx-Data-Analyst_JR-10660",
@@ -380374,7 +380374,7 @@
         "company_name": "ABB",
         "id": "5a26da4a-19ad-4f1c-9fe1-b44593866407",
         "title": "Service Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787955301,
         "date_posted": 1787875200,
         "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Service-Repair-Technician_JR00045589",
@@ -380414,7 +380414,7 @@
         "company_name": "Loram",
         "id": "1dc45232-46ac-41cb-b13c-4cb7493ff849",
         "title": "R&D Engineer 1 - R&D Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1787955154,
         "date_posted": 1787954971,
         "url": "https://jobs.smartrecruiters.com/Loram1/3743990014922526",
@@ -387585,7 +387585,7 @@
         "company_name": "Expleo",
         "id": "ab1c5055-45ed-49f4-bd74-572e5cb702ff",
         "title": "Application & Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788344462,
         "date_posted": 1787949664,
         "url": "https://expleo-jobs-gb-en.icims.com/jobs/55734/job?mobile=true&needsRedirect=false",
@@ -389480,6 +389480,252 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pennsylvania State University",
+        "id": "879bdccf-1f2d-4f19-89ff-ecad039c6997",
+        "title": "Electrical Technical Engineering Specialist - Electrical",
+        "active": true,
+        "date_updated": 1788416493,
+        "date_posted": 1788307200,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Technical-Engineering-Specialist--Electrical_REQ_0000081362-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CTG",
+        "id": "9ad41e5d-9117-4b76-aa21-e645dc41497c",
+        "title": "Data Modeler / Data Architect - Snowflake & Data Warehousing",
+        "active": true,
+        "date_updated": 1788415026,
+        "date_posted": 1788402089,
+        "url": "https://careers.ctg.com/jobs/17509?icims=1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CTG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PQ",
+        "id": "353f0d4e-3ee4-4549-ae7e-3c630bd5f04f",
+        "title": "AI-Augmented Software Engineer",
+        "active": true,
+        "date_updated": 1788415026,
+        "date_posted": 1788401864,
+        "url": "https://jobs.smartrecruiters.com/PQ/744000147064769",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/PQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Baker Hughes",
+        "id": "059058e6-a3de-4daa-b2ed-dacf926dffc8",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1788414127,
+        "date_posted": 1788307200,
+        "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272",
+        "locations": [
+            "Minden, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Baker-Hughes",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ViaSat",
+        "id": "f65480d4-ea80-40b5-8df9-f91ba3d8d535",
+        "title": "Software Engineer - Automation",
+        "active": true,
+        "date_updated": 1788415122,
+        "date_posted": 1788401668,
+        "url": "https://careers.viasat.com/jobs/6330?icims=1",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ViaSat",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Express",
+        "id": "61a25905-f3b8-4625-85ba-cbbf7a13ed39",
+        "title": "Senior Analyst - Data & Analytics - Enterprise Technology Services",
+        "active": true,
+        "date_updated": 1788415153,
+        "date_posted": 1788401698,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013103",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Express",
+        "id": "2dff76dd-866e-4d97-aa95-afcf1a0b28d8",
+        "title": "Senior Analyst - 2027 Data & Analytics - Enterprise Technology Services",
+        "active": true,
+        "date_updated": 1788415138,
+        "date_posted": 1788401695,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013102",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA Corporation",
+        "id": "70787697-6ea8-4b5a-8226-6753f0ef54bd",
+        "title": "Systems Engineer",
+        "active": true,
+        "date_updated": 1788415214,
+        "date_posted": 1788307200,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/System-Engineer_2640152",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eurofins",
+        "id": "69f9269d-5373-4a64-bd6c-01158e5a5492",
+        "title": "Product Safety Engineer",
+        "active": true,
+        "date_updated": 1788415026,
+        "date_posted": 1787954874,
+        "url": "https://jobs.smartrecruiters.com/Eurofins/744000146250469",
+        "locations": [
+            "Littleton, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eurofins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Software Management",
+        "id": "21f096f7-9d22-4792-97b3-59eb6f470eab",
+        "title": "Entry Level Data Analyst - Business Analyst",
+        "active": true,
+        "date_updated": 1788415026,
+        "date_posted": 1787954716,
+        "url": "https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000146255004",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Software-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rocket Lab USA",
+        "id": "99186634-8246-4670-a269-3739b7f6bc17",
+        "title": "Electrical Engineer 1/2",
+        "active": true,
+        "date_updated": 1788415026,
+        "date_posted": 1787952535,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7980725003",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "47d77e34-2984-4699-bd02-22284bc93581",
+        "title": "Subsea Robotics Engineer",
+        "active": true,
+        "date_updated": 1788416286,
+        "date_posted": 1787950069,
+        "url": "https://careers.jhuapl.edu/jobs/59822?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
