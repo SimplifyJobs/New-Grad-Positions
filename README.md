@@ -4,6 +4,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
+You can also [search and filter the jobs from this repository on openings.dev](https://openings.dev/communities/SimplifyJobs/New-Grad-Positions). Each result links back to the original issue for current details and application instructions.
+
 ---
 ### Browse 435 New Grad Roles by Category
 
