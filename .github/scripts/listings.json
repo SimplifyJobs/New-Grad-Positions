@@ -156500,7 +156500,7 @@
         "company_name": "Marvell",
         "id": "94b7b55f-edd1-4611-a96d-e2e602c33ad5",
         "title": "Application Engineer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1776234619,
         "date_posted": 1776233245,
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Application-Engineer---Early-Career_2503703",
@@ -313766,7 +313766,7 @@
         "company_name": "General Dynamics",
         "id": "847bd9c6-2877-484d-8753-6c7fbaa1716c",
         "title": "Embedded Software Engineer - Embedded Software",
-        "active": true,
+        "active": false,
         "date_updated": 1785191117,
         "date_posted": 1785190350,
         "url": "https://careers-gdeb.icims.com/jobs/17551/job?mobile=true&needsRedirect=false",
@@ -382072,7 +382072,7 @@
         "company_name": "Worldwide TechServices",
         "id": "a6ab52e4-752b-4b5e-a499-deae3bb699f2",
         "title": "Dynamic PC Support",
-        "active": true,
+        "active": false,
         "date_updated": 1788209101,
         "date_posted": 1788203479,
         "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000146535307",
@@ -382131,7 +382131,7 @@
         "company_name": "FLSmidth",
         "id": "3f6abfdc-6831-4453-81ac-c6b9feb47c0c",
         "title": "Technical Product Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788209765,
         "date_posted": 1788134400,
         "url": "https://flsmidth.wd3.myworkdayjobs.com/FLS_Global/job/Tucson/Technical-Product-Development-Engineer-I_R30971",
@@ -382192,7 +382192,7 @@
         "company_name": "bet365",
         "id": "d8178cdd-2f73-477f-b768-2ec0fafd234c",
         "title": "Trading Assistant - Regulations",
-        "active": true,
+        "active": false,
         "date_updated": 1788207661,
         "date_posted": 1788202984,
         "url": "https://jobs.smartrecruiters.com/Bet3651/744000146517769",
@@ -382433,7 +382433,7 @@
         "company_name": "CHA Consulting",
         "id": "45d91472-6f22-4600-a9f9-47f9c9057584",
         "title": "Survey Instrument Operator - Survey Geospatial Team",
-        "active": true,
+        "active": false,
         "date_updated": 1788214681,
         "date_posted": 1788214522,
         "url": "https://jobs-challp.icims.com/jobs/7788/job?mobile=true&needsRedirect=false",
@@ -382561,7 +382561,7 @@
         "company_name": "Arjo",
         "id": "5baa8e91-39eb-4afc-bdc6-38e887a9d380",
         "title": "Field Service Technician - Medical Products",
-        "active": true,
+        "active": false,
         "date_updated": 1788216121,
         "date_posted": 1788216118,
         "url": "https://jobs.arjo.com/job/Cincinnati,-OH-Field-Service-Technician,-medical-products-(Cincinnati,-OH)-Ohio/1432054033/?ats=successfactors",
@@ -383074,7 +383074,7 @@
         "company_name": "Clean Harbors",
         "id": "8eacd4b8-5657-4c63-9272-8679e4de1c7c",
         "title": "LDAR Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788227050,
         "date_posted": 1788224867,
         "url": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/165466",
@@ -387564,7 +387564,7 @@
         "company_name": "Constellation Energy",
         "id": "665e7717-eb77-4338-a7d2-d62dff9df010",
         "title": "High Voltage Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1788341402,
         "date_posted": 1788203333,
         "url": "https://jobs.constellationenergy.com/jobs/138345?icims=1",
@@ -388603,6 +388603,145 @@
             "Richardson, TX"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Unlimited",
+        "id": "2e4c045e-75a6-49ad-8d48-309400c9abd5",
+        "title": "Modeling and Analysis Engineer",
+        "active": true,
+        "date_updated": 1788409626,
+        "date_posted": 1788340982,
+        "url": "https://jobs.ashbyhq.com/unlimitedindustries/fe258c19-7d26-44df-bddf-9c9d0264f102/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Unlimited",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Torch Technologies",
+        "id": "b078a42d-0d1e-46b8-a568-dc226c05badf",
+        "title": "Systems Engineer/Analyst",
+        "active": true,
+        "date_updated": 1788409626,
+        "date_posted": 1788134400,
+        "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Systems-Engineer-Analyst_R1627",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Torch-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "775cf795-bab4-41d3-b037-a631ffe4c267",
+        "title": "Entry Level NVM Reliability Lab Engineer",
+        "active": true,
+        "date_updated": 1788409626,
+        "date_posted": 1788134400,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-NVM-Reliability-Lab-Engineer_R-10066302",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Framatome",
+        "id": "93e93c82-d79b-44da-8a50-45bd23354fee",
+        "title": "Computer Science Engineer 1 - Early Careers",
+        "active": true,
+        "date_updated": 1788410704,
+        "date_posted": 1788203448,
+        "url": "https://careers-framatome.icims.com/jobs/3320/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Lynchburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Framatome",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "6e488798-3863-4c83-9811-5a7bb248e339",
+        "title": "Associate Integration / Test Engineer",
+        "active": true,
+        "date_updated": 1788410704,
+        "date_posted": 1788202794,
+        "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Integration-Test-Engineer-FL-32919/1424777800/?ats=successfactors",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "01abd4d1-562e-4bc3-90b6-b9c73f17a2fd",
+        "title": "Associate Computer / Electrical Engineer - FPGA Development",
+        "active": true,
+        "date_updated": 1788410704,
+        "date_posted": 1788202808,
+        "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Computer-Electrical-Engineer-(FPGA-Development)-NY-14606/1424793900/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "c364057d-f561-4968-919e-64ac461603d3",
+        "title": "Associate Integration / Test Engineer",
+        "active": true,
+        "date_updated": 1788410704,
+        "date_posted": 1788202773,
+        "url": "https://jobs.l3harris.com/job/Wilmington-Associate,-Integration-Test-Engineer-MA-01887/1424790500/?ats=successfactors",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
