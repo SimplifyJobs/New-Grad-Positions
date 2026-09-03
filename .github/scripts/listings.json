@@ -55,24 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Temporal Technologies",
-        "id": "55daaeb9-b7e9-471d-83c3-bc88383657c7",
-        "title": "Software Engineer - Cloud Growth",
-        "active": false,
-        "date_updated": 1767672938,
-        "date_posted": 1767672938,
-        "url": "https://job-boards.greenhouse.io/temporaltechnologies/jobs/5015157007",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Temporal-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "fd024d2c-9a1a-49fe-a5ea-5afcd1753e21",
@@ -340513,7 +340495,7 @@
         "company_name": "UBDS Group",
         "id": "4f68b635-7be5-445f-aaac-a9387cb64385",
         "title": "Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1786151881,
         "date_posted": 1786151821,
         "url": "https://apply.workable.com/ubds/j/3E4DD87355/apply",
@@ -374323,7 +374305,7 @@
         "company_name": "Kaiser Permanente",
         "id": "16bba879-2f7c-4b44-9d6b-f57a78ac8ee9",
         "title": "Utilization Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787704201,
         "date_posted": 1787704061,
         "url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1424632",
@@ -379678,7 +379660,7 @@
         "company_name": "Microchip Technology",
         "id": "e7a97be7-ee20-442f-8ac6-81aedeb5c8a8",
         "title": "Engineer 1 Applications - Secure Computing Group",
-        "active": true,
+        "active": false,
         "date_updated": 1787950744,
         "date_posted": 1787875200,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Austin---Park-Centre/Engineer-I-Applications_R3757-26",
@@ -382517,7 +382499,7 @@
         "company_name": "Cisco",
         "id": "409b3e29-d513-4281-8f09-f9c0d0420cd9",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1788217063,
         "date_posted": 1788216852,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer-II--Full-Time----United-States_2019205",
@@ -382971,7 +382953,7 @@
         "company_name": "RTX",
         "id": "90aaaab9-fce1-49e8-b0e4-01ffb710482d",
         "title": "Electrical Assembler 1 - 1st Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1788225998,
         "date_posted": 1788134400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-PHOENIX-1007--1007-E-University-Dr--1007-E-UNIVERSITY-DR/Electrical-Assembler-I--1st-Shift--Onsite-_01870285",
@@ -383051,7 +383033,7 @@
         "company_name": "Greenheck Group",
         "id": "bbd8fc41-9404-4e56-bc60-a2cff4f12deb",
         "title": "Application Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788227050,
         "date_posted": 1788134400,
         "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Tulsa-Facility-7---RTU/Application-Engineer-I_JR104400",
@@ -383110,7 +383092,7 @@
         "company_name": "KION Group",
         "id": "3506dbdf-4c1d-40ab-bc7f-ef2bd8b337b2",
         "title": "Electronic Repair Technician - 1st Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1788226274,
         "date_posted": 1788134400,
         "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Salt-Lake-City-UT-United-States/Parts-Repair-Technician--1st-Shift-_JR-0095167-1",
@@ -383128,7 +383110,7 @@
         "company_name": "Eaton",
         "id": "fc8ec374-761e-4c0f-9167-d280862ea8ad",
         "title": "Engineering Technology Early Career Leadership Development Program - Embedded Systems - Research & Development Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1788226264,
         "date_posted": 1788224487,
         "url": "https://eaton.eightfold.ai/careers/job/687238044194",
@@ -383227,7 +383209,7 @@
         "company_name": "United Smart Tech",
         "id": "e6df8f81-7b24-419a-8793-ac73eefc1da4",
         "title": "Field Technician - Mobile Repairs",
-        "active": true,
+        "active": false,
         "date_updated": 1788239161,
         "date_posted": 1788238545,
         "url": "https://unitedsmarttech.bamboohr.com/careers/193/",
@@ -383315,7 +383297,7 @@
         "company_name": "Travelers",
         "id": "07a58725-09e6-43b6-8f3a-f12096da5ef2",
         "title": "Product Management Development Program - Pricing Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788239161,
         "date_posted": 1788220800,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Product-Management-Development-Program--PMDP--Pricing-Analyst_R-52314-1",
@@ -383335,7 +383317,7 @@
         "company_name": "Anduril",
         "id": "506a6104-9c61-4724-85e3-d776ccf9b179",
         "title": "Microelectronics Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1788239808,
         "date_posted": 1788238640,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5225177007",
@@ -383436,7 +383418,7 @@
         "company_name": "IHL Group",
         "id": "18f459d1-3cf2-4100-bd47-67d82667ae88",
         "title": "Product Development Assistant - Activewear",
-        "active": true,
+        "active": false,
         "date_updated": 1788239161,
         "date_posted": 1788238473,
         "url": "https://ihlgroup.bamboohr.com/careers/228/",
@@ -383493,7 +383475,7 @@
         "company_name": "Allegion",
         "id": "9fd9be2d-d2b1-44e1-bf7a-038db65a5fb9",
         "title": "Product Experience Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1788239161,
         "date_posted": 1788134400,
         "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Product-Experience-Specialist_JR37330",
@@ -383600,7 +383582,7 @@
         "company_name": "Entergy",
         "id": "a8e63817-9120-4bd0-9be9-970048ed0129",
         "title": "Nuclear Analysis Engineer 1-Senior - Nuc",
-        "active": true,
+        "active": false,
         "date_updated": 1788239131,
         "date_posted": 1788238241,
         "url": "https://jobs.entergy.com/job/Jackson-Nuclear-Analysis-Engineer-I-Sr-(Nuc)-Miss/1425172700/?ats=successfactors",
@@ -384135,7 +384117,7 @@
         "company_name": "Rio Tinto",
         "id": "4b5cadde-057d-4059-9111-95b7787b9771",
         "title": "Geologist Graduate - Geoscience Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1788257437,
         "date_posted": 1788220800,
         "url": "https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Salt-Lake-City/Graduate---Geoscience-Engineering_R64014",
@@ -384176,7 +384158,7 @@
         "company_name": "KION Group",
         "id": "9b121d33-486b-468c-836e-38722fb76b54",
         "title": "Electronic Repair Technician - 1st Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1788261367,
         "date_posted": 1788134400,
         "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Salt-Lake-City-UT-United-States/Parts-Repair-Technician--1st-Shift-_JR-0095167",
@@ -386100,7 +386082,7 @@
         "company_name": "General Motors",
         "id": "251dd790-b5bc-48d9-ab3e-9deb38e21b46",
         "title": "Entry Level Software Design Release Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788301778,
         "date_posted": 1788220800,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/GM-Global-Technical-Center---Cole-Engineering-Center-Tower/Entry-Level-Software-Design-Release-Engineer_JR-202618509",
@@ -387238,7 +387220,7 @@
         "company_name": "Gunvor",
         "id": "a1795d97-179b-4c4e-ae26-8586bc78a1f2",
         "title": "Trading & Commercial Operations Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1788312648,
         "date_posted": 1788220800,
         "url": "https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Houston/Graduate-Program---Trading---Commercial-Operations_JR102790-1",
@@ -387278,7 +387260,7 @@
         "company_name": "Deloitte",
         "id": "c817be26-7e13-4448-83f3-ca97e9b7a358",
         "title": "Software Engineering Analyst - Government & Public Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788314975,
         "date_posted": 1788314794,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering-Winter-2027/365228",
@@ -387438,7 +387420,7 @@
         "company_name": "Targray",
         "id": "c83a7ca2-1705-4283-a5bf-5137e95f19b6",
         "title": "Junior Renewable Natural Gas Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1788330421,
         "date_posted": 1788330275,
         "url": "https://targray.applytojob.com/apply/ARMTbeRuSX/Junior-Renewable-Natural-Gas-Trader",
@@ -387460,7 +387442,7 @@
         "company_name": "Lawrence Berkeley National Laboratory",
         "id": "498550be-e79a-4ef3-ba03-88c0c0657a50",
         "title": "Computing Sciences Fellow - Computing Sciences",
-        "active": true,
+        "active": false,
         "date_updated": 1788330463,
         "date_posted": 1788330343,
         "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=107450",
@@ -387500,7 +387482,7 @@
         "company_name": "L3Harris Technologies",
         "id": "53bf4470-67b8-4a9e-90cf-9be107254420",
         "title": "Associate Configuration Management",
-        "active": true,
+        "active": false,
         "date_updated": 1788330086,
         "date_posted": 1788329919,
         "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Configuration-Management-TX-75402/1425729900/?ats=successfactors",
@@ -387883,7 +387865,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "d7ff0340-92fe-4508-b930-cd88bf08f010",
         "title": "Advanced Kinetic Weapons Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788400628,
         "date_posted": 1788331171,
         "url": "https://careers.jhuapl.edu/jobs/59882?icims=1",
@@ -388011,7 +387993,7 @@
         "company_name": "CX2",
         "id": "4d673fe7-c48b-4f1f-918c-f80b3d1df513",
         "title": "Assembly Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1788400988,
         "date_posted": 1788303259,
         "url": "https://jobs.lever.co/cx2/1fb06298-9ff4-4b0f-96a2-1368df1b88d9/apply",
@@ -388418,6 +388400,209 @@
             "Hunt Valley, Cockeysville, MD"
         ],
         "company_url": "https://simplify.jobs/c/Textron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "fe751f52-a6e4-4204-990f-387c8238183d",
+        "title": "Applied Systems Engineering Rotation Engineer New Grad",
+        "active": true,
+        "date_updated": 1788408727,
+        "date_posted": 1788220800,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Systems-Engineering-Rotation-Engineer---New-College-Graduate-2026_JR2024713",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stryker",
+        "id": "6c47c3f9-1c48-441a-bf9d-14b9b872d8e6",
+        "title": "Design Engineer - Software - Rise",
+        "active": true,
+        "date_updated": 1788408727,
+        "date_posted": 1788220800,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Design-Engineer---Software--RISE_R571062",
+        "locations": [
+            "Portage, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "32ecf2c9-7c90-4e62-8314-ba3518805f67",
+        "title": "FPGA Electrical Engineer 1 - Multi-Product Power & Digital",
+        "active": true,
+        "date_updated": 1788408727,
+        "date_posted": 1788220800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Electrical-Engineer-I--Onsite-_01871238",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "0a17411a-4f4c-4cdb-ba9c-4798c8a8eb96",
+        "title": "Power & Analog Design Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1788408727,
+        "date_posted": 1788220800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WH--2501-W-University-Dr--WING-H-BLDG/Power---Analog-Design-Electrical-Engineer-I--Onsite-_01871484",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Textron",
+        "id": "e8fd7d7b-8da0-4843-887d-84dd52a59847",
+        "title": "Business Analyst",
+        "active": true,
+        "date_updated": 1788408727,
+        "date_posted": 1788314489,
+        "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343151",
+        "locations": [
+            "Cartersville, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Textron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Textron",
+        "id": "83c45a1c-bdf1-407e-a011-c344dc8b521c",
+        "title": "Electrical Engineer 1 - Crewed Land",
+        "active": true,
+        "date_updated": 1788408006,
+        "date_posted": 1788255612,
+        "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342702",
+        "locations": [
+            "Slidell, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Textron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "8c607df5-1e22-48c7-acf0-aed34a3f5d3e",
+        "title": "Business Intelligence Analyst 1 - Global Supply Chain - Supply Chain Rotational Program",
+        "active": true,
+        "date_updated": 1788408006,
+        "date_posted": 1788134400,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Global-Supply-Chain-Rotational-Program--Business-Intelligence-Analyst-I--New-College-Grad--Bachelor-s--Austin-TX-_R2627400",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Airbus",
+        "id": "f46cb13b-f6bd-4473-a3e1-998b74adee43",
+        "title": "Graduate AI Engineer",
+        "active": true,
+        "date_updated": 1788408727,
+        "date_posted": 1788220800,
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Filton/AGGP2027---Graduate-AI-Engineer_JR10427632",
+        "locations": [
+            "Filton, Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "44e52bc7-ab61-4213-82c0-900b7ded7a15",
+        "title": "Robotics System Development Engineer",
+        "active": true,
+        "date_updated": 1788408727,
+        "date_posted": 1788224661,
+        "url": "https://amazon.jobs/en/jobs/10523031/robotics-system-development-engineer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "19639570-4e45-4957-864c-a543a3940ab1",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1788408727,
+        "date_posted": 1788134400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Electrical-Engineer-I--Onsite-_01868758",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
