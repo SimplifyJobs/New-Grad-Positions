@@ -246745,7 +246745,7 @@
         "company_name": "Microsoft",
         "id": "a6ab1df3-86d8-42bb-b220-97ec8c92cba2",
         "title": "Software Engineer - Ctj - Poly",
-        "active": true,
+        "active": false,
         "date_updated": 1781763081,
         "date_posted": 1781762785,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
@@ -336109,7 +336109,7 @@
         "company_name": "RTX",
         "id": "b59f16bc-8622-4882-a50b-6e2a492887fd",
         "title": "Electronics Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786016394,
         "date_posted": 1783462346,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-MIDDLETOWN-060--60-Turner-Dr--TURNER-Ste-1/Electronics-Technician---5th-Shift--Onsite-_01857357",
@@ -377611,7 +377611,7 @@
         "company_name": "RTX",
         "id": "c92d6bc4-a299-44a6-b793-d8e2ff46ce73",
         "title": "Digital Hardware Design Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787848797,
         "date_posted": 1787788800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-1--Onsite-_01869154",
@@ -378727,7 +378727,7 @@
         "company_name": "Constellation Energy",
         "id": "d26b671a-bd46-4c7b-9156-0a29cfe9579b",
         "title": "Associate Software Engineer - AI",
-        "active": true,
+        "active": false,
         "date_updated": 1787873157,
         "date_posted": 1787872864,
         "url": "https://jobs.constellationenergy.com/jobs/138264?icims=1",
@@ -381591,7 +381591,7 @@
         "company_name": "Bristol Myers Squibb",
         "id": "20625dcc-a629-4e83-a25c-0cffba1b1e1d",
         "title": "Technology Rotational Development Program Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1788202703,
         "date_posted": 1788134400,
         "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Technology-Rotational-Development-Program-Associate_R1605859",
@@ -381632,7 +381632,7 @@
         "company_name": "RTX",
         "id": "dca3d0a0-7060-424b-9f58-3e428924470b",
         "title": "Repair Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788202685,
         "date_posted": 1788134400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MIRAMAR-3601--3601-Flamingo-Rd--FLAMINGO/Repair-Technician-I--Onsite-_01870970-1",
@@ -381692,7 +381692,7 @@
         "company_name": "ADT",
         "id": "366c64f2-df41-47c4-ab66-20f386ff728f",
         "title": "Installation Technician - Residential",
-        "active": true,
+        "active": false,
         "date_updated": 1788202081,
         "date_posted": 1788202043,
         "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021912",
@@ -381710,7 +381710,7 @@
         "company_name": "Grant Thornton",
         "id": "8d7f041c-1585-4018-b668-65e913104fc5",
         "title": "AI, Data & Technology Associate - Summer 2027",
-        "active": true,
+        "active": false,
         "date_updated": 1788202339,
         "date_posted": 1788201939,
         "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115708",
@@ -381933,7 +381933,7 @@
         "company_name": "NRG Energy",
         "id": "a0460b90-4d6d-4fae-98e3-72964ecd54f7",
         "title": "Field Service Professional",
-        "active": true,
+        "active": false,
         "date_updated": 1788203404,
         "date_posted": 1788202320,
         "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Jackson-Field-Service-Professional-Jackson,-MI-MI-49204/1424977000/?ats=successfactors",
@@ -381951,7 +381951,7 @@
         "company_name": "NRG Energy",
         "id": "1ebe7702-9e46-46d9-990b-a90edb1af05d",
         "title": "Field Service Professional",
-        "active": true,
+        "active": false,
         "date_updated": 1788202621,
         "date_posted": 1788202319,
         "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Saint-Louis-Field-Service-Professional-Saint-Louis,-MO-MO-63136/1424989100/?ats=successfactors",
@@ -384176,7 +384176,7 @@
         "company_name": "Bristol Myers Squibb",
         "id": "e98b8b6e-ceaa-406f-8b6c-b73b4dd0f803",
         "title": "Technology Rotational Development Program Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1788271067,
         "date_posted": 1788134400,
         "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Technology-Rotational-Development-Program-Associate_R1605862",
@@ -388746,6 +388746,360 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UL Solutions",
+        "id": "4e7aba31-7df3-4efb-88c6-0121f6b68e6b",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1788410704,
+        "date_posted": 1788401182,
+        "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10730",
+        "locations": [
+            "Austin, TX",
+            "Northbrook, IL",
+            "Princeton, NJ",
+            "Melville, NY",
+            "Minneapolis, MN",
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/UL-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "6ec3f7fb-6e20-4579-8872-822161b1a166",
+        "title": "Junior Software Engineer - AI/ML Applications",
+        "active": true,
+        "date_updated": 1788413339,
+        "date_posted": 1788307200,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer---AI-ML-Applications_R-00191299",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "7f9bed81-910c-451c-afca-90b42ff6ac4e",
+        "title": "Engineering Leadership Program Engineer - Class of 2027",
+        "active": true,
+        "date_updated": 1788411786,
+        "date_posted": 1788401359,
+        "url": "https://careers-gdms.icims.com/jobs/74727/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Keysight Technologies",
+        "id": "008db5e5-ebd4-4f30-b485-da1b91e6a917",
+        "title": "Software Engineer - Measurement Applications",
+        "active": true,
+        "date_updated": 1788411786,
+        "date_posted": 1788401238,
+        "url": "https://jobs.keysight.com/jobs/54139?icims=1",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Newrez",
+        "id": "04af52ae-d053-4a93-8927-e281a49801e6",
+        "title": "Data Product Engineering Operations Specialist - Multiple Teams",
+        "active": true,
+        "date_updated": 1788413127,
+        "date_posted": 1788307200,
+        "url": "https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/TRAIL-Rising-Leaders-Program---Data-Product-Engineering_R10364",
+        "locations": [
+            "Coppell, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Newrez",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "c4079bff-1cfe-4540-8deb-c01c44f60636",
+        "title": "Digital Hardware Design Engineer",
+        "active": true,
+        "date_updated": 1788413037,
+        "date_posted": 1788307200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer--Onsite-_01863854-1",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cigna Group",
+        "id": "7ad0ae4b-7ea6-4c57-90b0-4fc1db1f001d",
+        "title": "AI Innovation Development Program Associate - AIIDP",
+        "active": true,
+        "date_updated": 1788413039,
+        "date_posted": 1788307200,
+        "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Raleigh-NC/Artificial-Intelligence-Innovation-Development-Program--AIIDP----Start-Date--July-12--2027_26010473",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cigna-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "2731c2cc-55cc-4d95-9f8c-4151e213d7ac",
+        "title": "Electrical Components Engineer 1",
+        "active": true,
+        "date_updated": 1788413039,
+        "date_posted": 1788307200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Electrical-Components-Engineer-I---Onsite_01871856",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cigna Group",
+        "id": "644e8a76-2e8d-44c3-8f3c-6bbdbee74e6d",
+        "title": "Analytics Leadership Development Program Associate",
+        "active": true,
+        "date_updated": 1788413069,
+        "date_posted": 1788307200,
+        "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Analytics-Leadership-Development-Program--ALDP----Start-Date--July-12--2027_26010472",
+        "locations": [
+            "Raleigh, NC",
+            "Morris Plains, NJ",
+            "Bloomfield, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Cigna-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "ec0efca9-ba6b-47eb-9826-7864eb3520bc",
+        "title": "Component Lab Computer Engineer",
+        "active": true,
+        "date_updated": 1788410704,
+        "date_posted": 1788307200,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Component-Lab-Computer-Engineer_R0169438",
+        "locations": [
+            "Crane, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "cfd6b0d6-6532-46c7-847b-e405e4b7d7cd",
+        "title": "Entry-Level Electrical Engineer - Microelectronic Component Test",
+        "active": true,
+        "date_updated": 1788410704,
+        "date_posted": 1788307200,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Entry-Level-Electrical-Engineer_R0169464-1",
+        "locations": [
+            "Crane, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "cdf2bf48-316e-4e4b-9a32-497c4dd75b85",
+        "title": "Entry-Level Electrical Engineer - Microelectronic Component Test",
+        "active": true,
+        "date_updated": 1788410704,
+        "date_posted": 1788307200,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Entry-Level-Electrical-Engineer_R0169466",
+        "locations": [
+            "Crane, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kikoff",
+        "id": "40e6062a-75db-489e-bb33-701876794fe7",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1788412132,
+        "date_posted": 1788401198,
+        "url": "https://job-boards.greenhouse.io/kikoff/jobs/4393822009",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Kikoff",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "33fd8b93-5349-4378-9fce-502ba9bed9f4",
+        "title": "Electrical Component Test Engineer",
+        "active": true,
+        "date_updated": 1788412093,
+        "date_posted": 1788307200,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Entry-Level-Electrical-Engineer_R0169467",
+        "locations": [
+            "Crane, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "6106a504-c0e8-4770-a4a1-09edf4a03049",
+        "title": "Entry Level Digital Verification Engineer",
+        "active": true,
+        "date_updated": 1788410704,
+        "date_posted": 1788307200,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Verification-Engineer_R-10065556",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Particle Measuring Systems",
+        "id": "479f0dd5-c315-4feb-9cac-a71e997a76cf",
+        "title": "Associate Test Engineer - Engineering - Labs",
+        "active": true,
+        "date_updated": 1788411786,
+        "date_posted": 1788134400,
+        "url": "https://spectris.wd3.myworkdayjobs.com/PMS_Careers/job/Niwot-CO/Associate-Test-Engineer_18970",
+        "locations": [
+            "Niwot, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Particle-Measuring-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "fe6bef22-123f-4be3-bc91-d205cf1b4c6e",
+        "title": "Entry-Level Systems Engineer",
+        "active": true,
+        "date_updated": 1788411786,
+        "date_posted": 1788202002,
+        "url": "https://careers-peraton.icims.com/jobs/170126/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Fort Meade, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
