@@ -56,90 +56,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "9d5aac59-c5c8-415a-995e-fb6b1ab7f395",
-        "title": "Research Engineer \u2013 PhD New College Grad - Architecture",
-        "active": false,
-        "date_updated": 1767669960,
-        "date_posted": 1767669960,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Engineer--Architecture---PhD-New-College-Grad-2026_JR2008829",
-        "locations": [
-            "Austin, TX",
-            "Santa Clara, CA",
-            "Westford, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "PDF Solutions",
-        "id": "018d4c8c-e35c-4e06-bc92-124827633e83",
-        "title": "Product Coordinator",
-        "active": false,
-        "date_updated": 1767669837,
-        "date_posted": 1767669837,
-        "url": "https://careers.pdf.com/jobs/1488?lang=en-us&icims=1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/PDF-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Aerospace Corporation",
-        "id": "7dba9456-14f9-4b10-a5b6-ac32c3f5c16e",
-        "title": "2026 Polymer Characterization and Thermal Analysis Research Associate",
-        "active": false,
-        "date_updated": 1767669098,
-        "date_posted": 1767669098,
-        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Polymer-Characterization-and-Thermal-Analysis-Research-Associate_R014247",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "2f7cfbbb-fe14-4234-abc0-b112aafe666b",
-        "title": "DL Algorithms Engineer \u2013 New College Graduate 2026 - Cosmos",
-        "active": false,
-        "date_updated": 1767669962,
-        "date_posted": 1767669962,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DL-Algorithms-Engineer---Cosmos----New-College-Graduate-2026_JR2010848-1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Temporal Technologies",
         "id": "55daaeb9-b7e9-471d-83c3-bc88383657c7",
         "title": "Software Engineer - Cloud Growth",
@@ -286561,7 +286477,7 @@
         "company_name": "Woolpert",
         "id": "b1fb1349-fb26-4b33-ad4d-d920ce999a99",
         "title": "Sensing Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784216404,
         "date_posted": 1784211855,
         "url": "https://job-boards.greenhouse.io/woolpert/jobs/4316042009",
@@ -305117,7 +305033,7 @@
         "company_name": "Ameriprise Financial",
         "id": "f768db22-fdd3-4678-84ea-0ffacf840cf7",
         "title": "Assistant Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1784813221,
         "date_posted": 1784764800,
         "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/London-United-Kingdom/Assistant-Product-Manager_R26_2812-1",
@@ -356621,7 +356537,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -356660,7 +356576,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -356719,7 +356635,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -363926,7 +363842,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "ccb6a372-4ded-4af1-96f6-f90442d4d826",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787173044,
         "date_posted": 1787097600,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-I_R117314",
@@ -373203,7 +373119,7 @@
         "company_name": "IQVIA",
         "id": "16eeb8f3-429f-490e-aa58-ed2573fecf8b",
         "title": "MedTech Field Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787682369,
         "date_posted": 1787616000,
         "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Las-Vegas-NV-United-States-of-America/MedTech-Field-Service-Technician---Part-Time---Los-Angeles--CA_R1564270",
@@ -375349,7 +375265,7 @@
         "company_name": "V2X",
         "id": "b1007362-c506-42fd-b9a0-95f30bb96bac",
         "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1787772106,
         "date_posted": 1787771952,
         "url": "https://careers.gov2x.com/jobs/62655?icims=1",
@@ -382971,7 +382887,7 @@
         "company_name": "Advanced Technology Services",
         "id": "459734db-01e3-418e-b8f5-bef32147682b",
         "title": "Electronic Test Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1788223487,
         "date_posted": 1788217729,
         "url": "https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4705444006",
@@ -385010,7 +384926,7 @@
         "company_name": "Guidehouse",
         "id": "7e85bd76-ea89-4a0c-951e-11b89b677c7f",
         "title": "Consulting Analyst - AI & Data - Defense & Security",
-        "active": true,
+        "active": false,
         "date_updated": 1788287041,
         "date_posted": 1788220800,
         "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Consultant---AI---Data--Defense---Security---Campus-2027_44130-1",
@@ -385155,7 +385071,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "c0ece36d-650e-4f45-8e6b-6fafb0c82afd",
         "title": "Graduate Engineer/Physicist/Computer Scientist - Weapon Control",
-        "active": true,
+        "active": false,
         "date_updated": 1788288758,
         "date_posted": 1788288488,
         "url": "https://careers.jhuapl.edu/jobs/59581?icims=1",
@@ -385280,7 +385196,7 @@
         "company_name": "AIG",
         "id": "e0fd7240-ff4f-4b32-b88d-89f0f7fcc264",
         "title": "Technology Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788288195,
         "date_posted": 1788220800,
         "url": "https://aig.wd1.myworkdayjobs.com/aig/job/NC-Charlotte/XMLNAME-2027-Early-Careers--Analyst--Technology---United-States--Charlotte--NC---Houston--TX_JR2603640-1",
@@ -385321,7 +385237,7 @@
         "company_name": "NRG Energy",
         "id": "318a469d-1d73-468c-82e2-c6d3a25082b9",
         "title": "Field Service Professional",
-        "active": true,
+        "active": false,
         "date_updated": 1788287860,
         "date_posted": 1788287616,
         "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Billings-Field-Service-Professional-Billings,-MT-MT-59102/1425408700/?ats=successfactors",
@@ -385383,7 +385299,7 @@
         "company_name": "Marathon Petroleum",
         "id": "4c6d684b-60c4-46fe-aeaf-775e9a2ffd9e",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788287581,
         "date_posted": 1788220800,
         "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/San-Antonio-Texas/Associate-Software-Engineer_00023623",
@@ -386166,7 +386082,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "4e6c97fe-7d82-47d5-9da3-9682109eb5f3",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788298782,
         "date_posted": 1788220800,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-New-York-USA/Field-Service-Engineer-I_R-01365784",
@@ -386328,7 +386244,7 @@
         "company_name": "PointClickCare",
         "id": "cd82f878-c6dc-4bdf-9046-b597ab7b38ef",
         "title": "Site Reliability Engineer - Site Reliability Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1788301563,
         "date_posted": 1788301442,
         "url": "https://jobs.lever.co/pointclickcare/e56d6df3-16fb-4652-9d97-c6140700d2e0/apply",
@@ -386367,7 +386283,7 @@
         "company_name": "BCI Brands",
         "id": "aae5a7e9-4e71-4925-b88b-85b934e1f1ab",
         "title": "Product Development Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1788301107,
         "date_posted": 1788301093,
         "url": "https://apply.workable.com/bci-brands/j/1AF72B748F/apply",
@@ -386387,7 +386303,7 @@
         "company_name": "New Flyer",
         "id": "61d87d1b-c28f-405e-bfff-556211ccd2ac",
         "title": "Electrical Assembler - 1st Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1788301107,
         "date_posted": 1788301040,
         "url": "https://apply.workable.com/new-flyer/j/15F025C061/apply",
@@ -386445,7 +386361,7 @@
         "company_name": "Canon",
         "id": "ee9ac743-1016-4ea0-985e-0041ed3aabf5",
         "title": "Field Service Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788300193,
         "date_posted": 1788300003,
         "url": "https://external-canoncareers.icims.com/jobs/34847/job?mobile=true&needsRedirect=false",
@@ -386669,7 +386585,7 @@
         "company_name": "TravisMathew",
         "id": "a8dc8ea2-fba4-4e7c-9015-2d8d66f06056",
         "title": "Product Development Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1788301981,
         "date_posted": 1788220800,
         "url": "https://tcbrands.wd1.myworkdayjobs.com/TravisMathew-Careers/job/TM---HQ---Huntington-Beach/Product-Development-Assistant_JR2023-16514",
@@ -388257,6 +388173,85 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "4b199fc4-bfd3-4425-aa91-79a9a9ea0882",
+        "title": "Associate \u2013 Integration / Test Engineer",
+        "active": true,
+        "date_updated": 1788403147,
+        "date_posted": 1787648489,
+        "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Integration-Test-Engineer-FL-32905/1422832600/?ats=successfactors",
+        "locations": [
+            "Palm Bay, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "9e418849-d074-4939-a158-5fee48750f3c",
+        "title": "Systems Test Engineer 1",
+        "active": true,
+        "date_updated": 1788404421,
+        "date_posted": 1788301294,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SYSTEMS-TEST-1-Virg/1425404300/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nidus Technologies",
+        "id": "4230e832-8f70-44e9-aa39-ffb206433584",
+        "title": "Robot Teleoperation Operator",
+        "active": true,
+        "date_updated": 1788404421,
+        "date_posted": 1788300956,
+        "url": "https://jobs.ashbyhq.com/nidus-technologies/85c97e16-8336-4ab6-985d-152b0faab764/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Nidus-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Motorola",
+        "id": "a740f3fe-5c41-4c6a-a153-418bdbadc616",
+        "title": "Applied AI Engineer 1 - Supply Chain",
+        "active": true,
+        "date_updated": 1788404421,
+        "date_posted": 1788220800,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Applied-AI-Engineer-I---Supply-Chain_R67371",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
