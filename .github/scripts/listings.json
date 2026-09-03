@@ -55,128 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Esri",
-        "id": "df6a6caa-21c1-457a-8618-c02fbea8dd77",
-        "title": "Product Engineer 1 - Generative AI - Arcgis Enterprise",
-        "active": false,
-        "date_updated": 1767656571,
-        "date_posted": 1767656571,
-        "url": "https://www.esri.com/careers/5012652007?gh_jid=5012652007",
-        "locations": [
-            "West Redlands, Redlands, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Welocalize",
-        "id": "46cc3138-70d9-488c-8ab2-9bcba1df2a4e",
-        "title": "Search Quality Rater",
-        "active": false,
-        "date_updated": 1767656573,
-        "date_posted": 1767656573,
-        "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Austin-Texas/Search-Quality-Rater_R0007321",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Welocalize",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Travelers Companies",
-        "id": "041dc1e6-91a3-46db-b575-dd179423104e",
-        "title": "Software Engineer 1 - Guidewire",
-        "active": false,
-        "date_updated": 1767656687,
-        "date_posted": 1767656687,
-        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I---Guidewire_R-48459",
-        "locations": [
-            "Sparks, MD",
-            "Hartford, CT",
-            "Atlanta, GA",
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Travelers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ramboll",
-        "id": "63c7bae1-7d53-451e-953c-744e4aae98de",
-        "title": "Associate Air Quality Consultant",
-        "active": false,
-        "date_updated": 1767656210,
-        "date_posted": 1767656210,
-        "url": "https://jobs.smartrecruiters.com/Ramboll3/744000101714944",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ramboll",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Boeing Company",
-        "id": "2f71a91c-b893-4060-aabb-ead61ce596d1",
-        "title": "Product Data Management Specialist - Entry or Associate Level",
-        "active": false,
-        "date_updated": 1767657030,
-        "date_posted": 1767657030,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---JB-Charleston-SC/Product-Data-Management-Specialist--Entry-or-Associate-Level-_JR2025488628-1",
-        "locations": [
-            "Charleston, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "iCapital Network",
-        "id": "212072dc-cb15-4c14-b551-0e59287af181",
-        "title": "Alternative Data Management - Analyst",
-        "active": false,
-        "date_updated": 1767656897,
-        "date_posted": 1767656895,
-        "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8358982002",
-        "locations": [
-            "Stamford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/ICapital-Network",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Danaher Corporation",
         "id": "1577de05-bab4-4495-bd99-d8873e791850",
@@ -194,26 +72,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Jones Lang LaSalle (JLL)",
-        "id": "dcf4f9d2-187f-47c1-a477-54da4836573c",
-        "title": "Research Analyst",
-        "active": false,
-        "date_updated": 1767657406,
-        "date_posted": 1767657406,
-        "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Minneapolis-MN/Research-Analyst_REQ473450",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -253,27 +111,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Esri",
-        "id": "989c591f-06bb-4d2a-9c7b-54027c0fb35b",
-        "title": "Web Developer 1 - UI for Arcgis Enterprise",
-        "active": false,
-        "date_updated": 1767656585,
-        "date_posted": 1767656585,
-        "url": "https://www.esri.com/careers/5012736007?gh_jid=5012736007",
-        "locations": [
-            "West Redlands, Redlands, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -375,24 +212,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Adorama",
-        "id": "8db8963d-15c7-4a29-9d88-f5b23b1d818e",
-        "title": "Photo Checker & Indexer",
-        "active": false,
-        "date_updated": 1767657321,
-        "date_posted": 1767657321,
-        "url": "https://job-boards.greenhouse.io/creatorsworkhere/jobs/4090105009",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Adorama",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Safelite",
         "id": "4f04fc0f-bbc8-476e-b7c1-496d43cf1605",
         "title": "Auto Glass Technician Trainee",
@@ -425,312 +244,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "U.S. Bank",
-        "id": "4e12fe9b-1586-4dbb-803e-e4359680b449",
-        "title": "Quantitative Model Analyst 1",
-        "active": false,
-        "date_updated": 1767657673,
-        "date_posted": 1767657673,
-        "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/Quantitative-Model-Analyst-1_2026-0000098",
-        "locations": [
-            "Charlotte, NC",
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Leidos",
-        "id": "a4aac346-68ca-4336-8da2-1e0186031e9b",
-        "title": "Terminal Visual Charting Specialist",
-        "active": false,
-        "date_updated": 1767656874,
-        "date_posted": 1767656874,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Silver-Spring-MD/Terminal-Visual-Charting-Specialist_R-00172965",
-        "locations": [
-            "Silver Spring, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Q2",
-        "id": "885672aa-a3ac-4547-9028-2f8edd3ac234",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1767656666,
-        "date_posted": 1767656666,
-        "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/Software-Engineer_REQ-11951",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Q2Software",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Esri",
-        "id": "5ea7e009-9308-4fd6-a395-95ee36e32148",
-        "title": "Java Software Engineer 1",
-        "active": false,
-        "date_updated": 1767656564,
-        "date_posted": 1767656564,
-        "url": "https://www.esri.com/careers/5012639007?gh_jid=5012639007",
-        "locations": [
-            "West Redlands, Redlands, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Q2",
-        "id": "541395cb-3ea7-4bc7-bde9-df6b61ca886e",
-        "title": "Product Owner",
-        "active": false,
-        "date_updated": 1767656675,
-        "date_posted": 1767656675,
-        "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Product-Owner_REQ-12002",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Q2Software",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "4a3dbcde-588e-4ff4-af5a-ef967e5032a8",
-        "title": "Industrial Engineer / Principal Industrial Engineer",
-        "active": false,
-        "date_updated": 1767657532,
-        "date_posted": 1767657532,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Saint-Augustine/Engineer-Industrial-Principal-Engineer-Industrial_R10218122",
-        "locations": [
-            "Palm Coast, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "371afdc9-3011-425e-8376-a4b6dcf09e78",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1767656130,
-        "date_posted": 1767656130,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7512099",
-        "locations": [
-            "Lewiston, ME"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Tecovas",
-        "id": "bb05854d-80a2-4ab3-ad67-96a101ba2afe",
-        "title": "Assistant Merchant - Accessories",
-        "active": false,
-        "date_updated": 1767656085,
-        "date_posted": 1767656085,
-        "url": "https://job-boards.greenhouse.io/tecovas/jobs/8359076002",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Tecovas",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SpaceX",
-        "id": "624b2d59-e4c3-4157-8946-87a901629bbd",
-        "title": "Antenna Software Engineer - Satellites - Starlink",
-        "active": false,
-        "date_updated": 1767656087,
-        "date_posted": 1767656087,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8357946002",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Jellyvision",
-        "id": "53c3a0a6-f7ba-4252-a36a-b675a759c4ef",
-        "title": "Data Engineer",
-        "active": false,
-        "date_updated": 1767656080,
-        "date_posted": 1767656080,
-        "url": "https://www.jellyvision.com/about-us/careers/apply/?gh_jid=8359319002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/fda614cb-7533-4ddb-8b51-2dc17e950d7e",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Medline",
-        "id": "34dc3803-a0c0-41b4-aa73-9da69a0ec140",
-        "title": "Analyst Data Management",
-        "active": false,
-        "date_updated": 1767656006,
-        "date_posted": 1767656006,
-        "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/REMOTE--Illinois/Analyst-Data-Management_R2522417",
-        "locations": [
-            "Wisconsin",
-            "Illinois"
-        ],
-        "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "LexisNexis Risk Solutions",
-        "id": "bb28570e-41f5-419f-8288-ea54af10c69c",
-        "title": "Product Manager 1",
-        "active": false,
-        "date_updated": 1767657229,
-        "date_posted": 1767657229,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Product-Manager-I_R105575-1",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Western Digital",
-        "id": "9f2e8671-08bb-40bd-8434-0a97cae8a0a5",
-        "title": "Developer 2 - Programming",
-        "active": false,
-        "date_updated": 1767656213,
-        "date_posted": 1767656213,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000101672270",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Allstate Insurance Company",
-        "id": "93d93761-8cf0-47fb-90bc-44e3da3b80ce",
-        "title": "ATS Technology Development Program",
-        "active": false,
-        "date_updated": 1767657084,
-        "date_posted": 1767657084,
-        "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---CA-Remote/XMLNAME-2026-ATS-Technology-Development-Program_R22128-1",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Asset Living",
-        "id": "249055ef-8ba9-472e-acbe-137f8144a73a",
-        "title": "Investment Analyst",
-        "active": false,
-        "date_updated": 1767656975,
-        "date_posted": 1767656975,
-        "url": "https://job-boards.greenhouse.io/assetliving/jobs/5748612004",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Asset-Living",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -44147,27 +43660,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Crowe",
-        "id": "77ed6589-1bae-43cb-a0cc-b61c29c041f2",
-        "title": "Data Analytics Developer",
-        "active": false,
-        "date_updated": 1770298654,
-        "date_posted": 1767656350,
-        "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer_R-50129",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Crowe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -291152,7 +290644,7 @@
         "company_name": "RWS",
         "id": "98552b81-a14c-47cc-8832-28fb466dc1b7",
         "title": "AI Data Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1779834784,
         "date_posted": 1779833210,
         "url": "https://jobs.lever.co/rws/dd563b7b-74d5-4124-bb0b-89a8d44348ae/apply",
@@ -315032,7 +314524,7 @@
         "company_name": "Qualifacts",
         "id": "8521a845-717b-4043-9a84-34537e07c480",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785279326,
         "date_posted": 1785196800,
         "url": "https://qualifacts.wd5.myworkdayjobs.com/Qualifacts_External_Careers/job/Ontario---Remote/Software-Engineer-I--P1-_R-102648",
@@ -334451,7 +333943,7 @@
         "company_name": "GHD",
         "id": "974af581-a95b-4035-b535-409728f092ae",
         "title": "Graduate Scientist - Data Analytics & Insights",
-        "active": true,
+        "active": false,
         "date_updated": 1785924904,
         "date_posted": 1783980651,
         "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27477",
@@ -354510,7 +354002,7 @@
         "company_name": "Best Buy",
         "id": "82831392-5ebf-4056-a93f-a94a90a417be",
         "title": "Technical Service Representative - Part Time",
-        "active": true,
+        "active": false,
         "date_updated": 1786682848,
         "date_posted": 1786579200,
         "url": "https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career/job/14005-Beacon-Hill/In-Store---Online-Technical-Service-Representative--Part-Time-_R-52328",
@@ -382893,7 +382385,7 @@
         "company_name": "EisnerAmper",
         "id": "99ceee79-3f21-401d-8568-200921f46ba8",
         "title": "Outsourcing IT Staff 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788209905,
         "date_posted": 1788134400,
         "url": "https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/New-York/XMLNAME-2026-Outsourcing-IT-Staff-I_Req-9328",
