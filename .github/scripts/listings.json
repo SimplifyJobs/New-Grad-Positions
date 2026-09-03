@@ -374386,7 +374386,7 @@
         "company_name": "CrowdGen by Appen",
         "id": "d519541f-6c0b-4028-a651-bf9bd099c8b5",
         "title": "Gig Worker",
-        "active": true,
+        "active": false,
         "date_updated": 1787734982,
         "date_posted": 1787734732,
         "url": "https://jobs.lever.co/appen/42fcca1d-361a-4e5b-89a0-efaadabe3e6f/apply",
@@ -375052,7 +375052,7 @@
         "company_name": "Teledyne",
         "id": "cb929b45-7b3b-46fa-9933-c362213d4e65",
         "title": "Stacking Assembler",
-        "active": true,
+        "active": false,
         "date_updated": 1787763781,
         "date_posted": 1787702400,
         "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/Stacking-Assembler_REQ36102",
@@ -375070,7 +375070,7 @@
         "company_name": "Teledyne",
         "id": "c2e2f7ef-3469-446d-a35a-b0a767e0683e",
         "title": "Stacking Assembler",
-        "active": true,
+        "active": false,
         "date_updated": 1787763781,
         "date_posted": 1787702400,
         "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/Stacking-Assembler_REQ36012-1",
@@ -375088,7 +375088,7 @@
         "company_name": "Teledyne",
         "id": "66ee3d72-321b-48a0-9cb0-41117e7fb933",
         "title": "Assembler",
-        "active": true,
+        "active": false,
         "date_updated": 1787763781,
         "date_posted": 1787702400,
         "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/Assembler_REQ36180",
@@ -375129,7 +375129,7 @@
         "company_name": "EquipmentShare",
         "id": "e803a253-ad43-430d-8733-10417d031d02",
         "title": "Telematics Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1787766121,
         "date_posted": 1787765949,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8157860",
@@ -375169,7 +375169,7 @@
         "company_name": "WellSky",
         "id": "ef53c5cc-cfb0-4320-96eb-9bf793d013f8",
         "title": "Associate Software Engineer - DevOps Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787769181,
         "date_posted": 1787702400,
         "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer---DevOps-Engineer_JR5080",
@@ -375442,7 +375442,7 @@
         "company_name": "NRG Energy",
         "id": "ca292aff-38d0-49ec-8886-78d270bb7d95",
         "title": "Direct to Home Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787781069,
         "date_posted": 1787780644,
         "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Alvin-DTH-FT-Technician-Alvin,-TX-TX-77511/1423674500/?ats=successfactors",
@@ -375460,7 +375460,7 @@
         "company_name": "NRG Energy",
         "id": "ba0d145c-d0c2-4071-a503-5b26fa31fc8d",
         "title": "Field Service Professional",
-        "active": true,
+        "active": false,
         "date_updated": 1787780702,
         "date_posted": 1787780644,
         "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Willow-Grove-Field-Service-Professional-Willow-Grove,-PA-PA-19090/1423642800/?ats=successfactors",
@@ -375636,7 +375636,7 @@
         "company_name": "Garmin",
         "id": "1514b60c-c4ff-48cc-a845-e1678e359779",
         "title": "Electronics Assembler - 2nd Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1787780521,
         "date_posted": 1787780396,
         "url": "https://careers.garmin.com/jobs/18362?icims=1",
@@ -375838,7 +375838,7 @@
         "company_name": "ALTEN Technology",
         "id": "bb76f9d7-7691-4604-a0ba-f56ed21f3110",
         "title": "Senior HiL Test Engineer - Automotive",
-        "active": true,
+        "active": false,
         "date_updated": 1787782400,
         "date_posted": 1787781941,
         "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5223082007",
@@ -375921,7 +375921,7 @@
         "company_name": "Bridgewater Associates",
         "id": "bbfd547f-84e0-4194-8f94-d9fd13af41da",
         "title": "Trading Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1787781963,
         "date_posted": 1787781886,
         "url": "https://job-boards.greenhouse.io/bwaltpostings/jobs/8750719002",
@@ -375963,7 +375963,7 @@
         "company_name": "CCT",
         "id": "f0737972-1ca9-4180-ba53-d1dd5f38f723",
         "title": "Technical Consultant - Early Careers",
-        "active": true,
+        "active": false,
         "date_updated": 1787781601,
         "date_posted": 1787781514,
         "url": "https://jobs.lever.co/casino-cash-trac/7ce28efa-000e-4848-9972-ade20d8694a1/apply",
@@ -376179,7 +376179,7 @@
         "company_name": "Pinnacle Live",
         "id": "5e94c3ec-4ae8-40cf-8b13-0103b26d4a40",
         "title": "Event Services Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787783582,
         "date_posted": 1787783504,
         "url": "https://jobs.jobvite.com/pinnaclelive/job/otYIAfwt?nl=1&nl=1&fr=false",
@@ -376217,7 +376217,7 @@
         "company_name": "First American Bank",
         "id": "ed5e3cca-feff-4c4a-a94c-32bd76f4c641",
         "title": "AI Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787783582,
         "date_posted": 1787783431,
         "url": "https://careers-firstambank.icims.com/jobs/3432/job?mobile=true&needsRedirect=false",
@@ -376237,7 +376237,7 @@
         "company_name": "Entarian",
         "id": "394a7b1a-ddab-4982-85f7-67d8850d4424",
         "title": "Engineering Technician 1/2",
-        "active": true,
+        "active": false,
         "date_updated": 1787783492,
         "date_posted": 1787783395,
         "url": "https://careers-entarian.icims.com/jobs/9861/job?mobile=true&needsRedirect=false",
@@ -376546,7 +376546,7 @@
         "company_name": "L3Harris Technologies",
         "id": "4cd774d6-6dba-4947-9f2c-bb55647cccca",
         "title": "Engineering Technician B",
-        "active": true,
+        "active": false,
         "date_updated": 1787796001,
         "date_posted": 1787795966,
         "url": "https://jobs.l3harris.com/job/Rochester-Engineering-Technician-B-NY-14623/1423797400/?ats=successfactors",
@@ -390400,6 +390400,239 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/ASML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "cc7b9cd5-ba87-4685-b07f-c22f2a4a6a31",
+        "title": "Applied Scientist - Global Risk Intelligence and Prevention - Seller Abuse Prevention",
+        "active": true,
+        "date_updated": 1788421867,
+        "date_posted": 1788415426,
+        "url": "https://amazon.jobs/en/jobs/10528088/applied-scientist-global-risk-intelligence-and-prevention-seller-abuse-prevention",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Opiniion",
+        "id": "f10db4e6-c8e1-482d-9bda-5c12f1b3c67a",
+        "title": "Analytics Platform Developer",
+        "active": true,
+        "date_updated": 1788422985,
+        "date_posted": 1788407713,
+        "url": "https://ats.rippling.com/opiniion/jobs/2a03df8c-16d2-4e92-be4c-7fabc4773e4a",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Opiniion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Intuition",
+        "id": "988e5175-a56f-4c3a-b1d9-3a643a63a503",
+        "title": "Forward Deployed Engineer New Grad",
+        "active": true,
+        "date_updated": 1788422967,
+        "date_posted": 1788407677,
+        "url": "https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application?embed=true",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Intuition",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Handshake",
+        "id": "bb66ecf4-3f31-425b-b0db-e3ac238e78ae",
+        "title": "AI Model Policy Trainer - Image Evaluation",
+        "active": true,
+        "date_updated": 1788421867,
+        "date_posted": 1788407702,
+        "url": "https://jobs.ashbyhq.com/handshake/2c10a785-ad18-4fd7-8148-995ad76f3e7d/application?embed=true",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Handshake",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Illumio",
+        "id": "873ece7f-a456-4651-b869-50c1b92d9505",
+        "title": "Member of Technical Staff 1 - Architecture",
+        "active": true,
+        "date_updated": 1788422877,
+        "date_posted": 1788407618,
+        "url": "https://jobs.ashbyhq.com/illumio/9f7e300f-1e61-4900-ab6d-da7429d2a6ae/application?embed=true",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Illumio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SIFT",
+        "id": "894eb687-31ed-49f7-86c8-228331a4c092",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1788422873,
+        "date_posted": 1788407618,
+        "url": "https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134/application?embed=true",
+        "locations": [
+            "Marina Del Rey, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SIFT-Stack",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trovy",
+        "id": "37b22b5b-0845-4be1-a356-f454753b9a46",
+        "title": "Design Engineer",
+        "active": true,
+        "date_updated": 1788421867,
+        "date_posted": 1787790334,
+        "url": "https://jobs.ashbyhq.com/trovy/2da40f7a-6d47-4a0a-ba3b-83dd19e5c8a2/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Trovy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "USIC",
+        "id": "026cef27-3654-4d8b-be66-42332856c008",
+        "title": "Digital Technician",
+        "active": true,
+        "date_updated": 1788421867,
+        "date_posted": 1787702400,
+        "url": "https://usicinc.wd5.myworkdayjobs.com/USICCareers/job/Indianapolis-IN/Digital-Technician_R-14235",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/USIC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Focal Systems",
+        "id": "1ba8cb92-8e38-4aa3-8528-4c7e4a02db1f",
+        "title": "Field Data Collector",
+        "active": true,
+        "date_updated": 1788422948,
+        "date_posted": 1787781478,
+        "url": "https://job-boards.greenhouse.io/focalsystems/jobs/6163411004",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/FocalSystems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Focal Systems",
+        "id": "65b6f09e-b3d6-4ed4-bf2c-d8f52d932f36",
+        "title": "Field Data Collector",
+        "active": true,
+        "date_updated": 1788421867,
+        "date_posted": 1787781479,
+        "url": "https://job-boards.greenhouse.io/focalsystems/jobs/6163830004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/FocalSystems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "ab5d3be5-287f-4cbd-9990-bd3a9705d95c",
+        "title": "Field Reliability Engineer - Infotainment Hardware",
+        "active": true,
+        "date_updated": 1788422948,
+        "date_posted": 1787772025,
+        "url": "https://www.tesla.com/careers/search/job/281290",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aerotech",
+        "id": "9775ba99-30e4-4a15-a03e-dcd63abcd16e",
+        "title": "Electrical / Computer Engineer - Firmware & FPGA",
+        "active": true,
+        "date_updated": 1788423669,
+        "date_posted": 1787704193,
+        "url": "https://aerotech.applytojob.com/apply/JAm0BSsTqQ/Electrical-Computer-Engineer-Firmware-FPGA",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aerotech",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
