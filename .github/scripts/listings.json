@@ -236453,7 +236453,7 @@
         "company_name": "Goldman Sachs",
         "id": "de896427-2d73-4fa8-b8b8-65efaf044cfd",
         "title": "Software Engineer - Data",
-        "active": false,
+        "active": true,
         "date_updated": 1781169481,
         "date_posted": 1781168814,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
@@ -292727,7 +292727,7 @@
         "company_name": "Les Olson IT",
         "id": "3e37df61-3664-4a02-bfa1-4524333cec51",
         "title": "Print and Image Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784598212,
         "date_posted": 1784596613,
         "url": "https://ats.rippling.com/les-olson-it/jobs/f4bdafda-8d23-4ab8-9012-8244e1d077dc",
@@ -325233,7 +325233,7 @@
         "company_name": "Pennsylvania State University",
         "id": "76fd2c40-9ab2-4c91-bf0d-bc8695bca524",
         "title": "Signal Processing Research and Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785673993,
         "date_posted": 1782955988,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Signal-Processing-Research-and-Development-Engineer_REQ_0000071090-2",
@@ -346153,7 +346153,7 @@
         "company_name": "Valeo Foods",
         "id": "fd61bf7a-2536-4242-9d48-42c4c11f5c44",
         "title": "Enterprise Applications Developer - Enterprise Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1786497301,
         "date_posted": 1786497227,
         "url": "https://jobs.smartrecruiters.com/ValeoFoods/744000142617715",
@@ -356437,7 +356437,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -391059,7 +391059,7 @@
         "company_name": "RTX",
         "id": "70a3de2e-3e32-445b-bee4-059f0679d13e",
         "title": "Electrical Engineer 1 - Test Equipment Maintenance",
-        "active": true,
+        "active": false,
         "date_updated": 1788344482,
         "date_posted": 1787608361,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Electrical-Engineer-I---Test-Equipment-Maintenance_01857159",
@@ -394600,7 +394600,7 @@
         "company_name": "Oxford Quantum Circuits",
         "id": "b14c756d-8e82-4d42-b676-fb0df3fa22a1",
         "title": "Associate Quantum Engineer - Materials Science & Device Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785617101,
         "date_posted": 1784816573,
         "url": "https://apply.workable.com/oxford-quantum-circuits-8/j/7113E3B7CB/apply",
@@ -396851,6 +396851,48 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "W.W. Grainger",
+        "id": "d2d169fe-45cb-47d9-b9ae-7ec0de1dbf9d",
+        "title": "Market Pricing Analyst",
+        "active": true,
+        "date_updated": 1788434829,
+        "date_posted": 1786572525,
+        "url": "https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Market-Pricing-Analyst-WI-54301-5160/1418865500/?ats=successfactors",
+        "locations": [
+            "Green Bay, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/WW-Grainger",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nebius",
+        "id": "b380c306-bed2-4e4a-8c77-71a792a86621",
+        "title": "Machine Learning Solution Architect - Early Talent",
+        "active": true,
+        "date_updated": 1788434829,
+        "date_posted": 1784211784,
+        "url": "https://careers.nebius.com/?gh_jid=4883829101",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nebius",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
