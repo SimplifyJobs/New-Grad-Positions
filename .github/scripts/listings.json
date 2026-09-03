@@ -55,42 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "fd024d2c-9a1a-49fe-a5ea-5afcd1753e21",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1767683580,
-        "date_posted": 1767683580,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043892",
-        "locations": [
-            "Whiteley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "55deee3b-447a-42c1-bf68-45dd4627b9bc",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767683577,
-        "date_posted": 1767683577,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044940",
-        "locations": [
-            "Guildford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Twitch",
         "id": "b33e57c1-694a-4ac0-903a-7cb9ad7ef750",
@@ -367450,7 +367414,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "c0db1ec2-4bd3-43f3-b7e2-c8a9d3bfab14",
         "title": "Leadership Program Engineering - Embedded Software",
-        "active": true,
+        "active": false,
         "date_updated": 1787294185,
         "date_posted": 1787184000,
         "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Stanley-Leadership-Program-Engineering--Embedded-Software_REQ-1000050879",
@@ -375048,7 +375012,7 @@
         "company_name": "Jefferson County Colorado",
         "id": "a7773a55-d98c-4dc4-852c-a91ad91e5e94",
         "title": "Generative AI Innovation Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1787764926,
         "date_posted": 1787702400,
         "url": "https://jefferson.wd5.myworkdayjobs.com/external/job/Golden/Innovation-Fellow--Generative-AI-_R-10324",
@@ -376992,7 +376956,7 @@
         "company_name": "Abbott",
         "id": "ea6a21fa-6422-4ef0-90df-074f92d9395e",
         "title": "Associate Technical Service Specialist - Diagnostics",
-        "active": true,
+        "active": false,
         "date_updated": 1787830244,
         "date_posted": 1787788800,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Birmingham/Associate-Technical-Service-Specialist---Graduate-Opportunity-Midlands--_31159366-1",
@@ -377135,7 +377099,7 @@
         "company_name": "Astreya",
         "id": "ede4083f-5b7d-43a2-a8dc-11a9d374dfb7",
         "title": "Field Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787837073,
         "date_posted": 1787788800,
         "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-NV/Field-Technician-I_R0017055",
@@ -377155,7 +377119,7 @@
         "company_name": "Astreya",
         "id": "70a8392b-553f-4f50-83a5-a1e6f62e049d",
         "title": "Field Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787835645,
         "date_posted": 1787788800,
         "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-NV/Field-Technician-I_R0017058",
@@ -377291,7 +377255,7 @@
         "company_name": "Medtronic",
         "id": "bd2aa5fb-92ea-4e0c-bab6-77b6247dfc9d",
         "title": "Associate Product Specialist - Pain",
-        "active": true,
+        "active": false,
         "date_updated": 1787840940,
         "date_posted": 1787788800,
         "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Associate-Product-Specialist---Pain--Onsite-in-Minneapolis--MN-_R75378-2",
@@ -377514,7 +377478,7 @@
         "company_name": "Northrop Grumman",
         "id": "e075f554-437f-4809-aa06-19e2c1a0fcf2",
         "title": "Associate Configuration Analyst - Aht",
-        "active": true,
+        "active": false,
         "date_updated": 1787849118,
         "date_posted": 1787788800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2026-Associate-Configuration-Analyst---Chandler-AZ--AHT-_R10248060",
@@ -377842,7 +377806,7 @@
         "company_name": "Ernst & Young",
         "id": "e7428679-0ff4-45b7-8a59-135cb9b646cc",
         "title": "Agent Development Architect Senior",
-        "active": true,
+        "active": false,
         "date_updated": 1787869782,
         "date_posted": 1787869306,
         "url": "https://careers.ey.com/ey/job/Atlanta-Agent-Development-Architect-Senior-GA-30309/1431249733/",
@@ -378206,7 +378170,7 @@
         "company_name": "Microchip Technology",
         "id": "cc9fddd2-575d-4565-95b7-bcba85eff9e9",
         "title": "Photomask Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1787869504,
         "date_posted": 1787788800,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Photomask-Specialist---Back-Days_R3655-26-1",
@@ -378244,7 +378208,7 @@
         "company_name": "Sonepar",
         "id": "f0e82e5e-fe79-444c-81cf-40fe003f57f3",
         "title": "Panel Technician & Assembler",
-        "active": true,
+        "active": false,
         "date_updated": 1787869081,
         "date_posted": 1787868972,
         "url": "https://career.sonepar.com/job/Normal-Panel-Technician-&-Assembler-IL-61761/1431236633/?ats=successfactors",
@@ -378304,7 +378268,7 @@
         "company_name": "ADT",
         "id": "cbc2fbfc-77f5-4524-af15-835db1de9472",
         "title": "Installation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787869081,
         "date_posted": 1787868920,
         "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021844",
@@ -378342,7 +378306,7 @@
         "company_name": "Grant Thornton",
         "id": "59802eef-48ff-449e-a321-6cea8bfc5261",
         "title": "AI, Data & Technology Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1787869248,
         "date_posted": 1787868830,
         "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115512",
@@ -378382,7 +378346,7 @@
         "company_name": "Asurion",
         "id": "eed2a356-057f-413d-9510-d5f755f40957",
         "title": "Cell Phone Repair Technician - Google",
-        "active": true,
+        "active": false,
         "date_updated": 1787869040,
         "date_posted": 1787788800,
         "url": "https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/UBIF-CA---San-Diego---7007-Friars-Road/Cell-Phone-Repair-Technician--Partnership-Store--Google-_ASU0021237",
@@ -389845,6 +389809,209 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Onto Innovation",
+        "id": "40d01668-ca43-449a-988c-73d535bc84ef",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1788418985,
+        "date_posted": 1788307200,
+        "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Wilmington-MA-Jonspin/Software-Engineer-2_R-6241",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Onto-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Anduril",
+        "id": "551ab6e9-715d-4111-9de9-e888a5dd2718",
+        "title": "Early Career Flight Software Engineer",
+        "active": true,
+        "date_updated": 1788420065,
+        "date_posted": 1788402460,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007",
+        "locations": [
+            "Costa Mesa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Universal Health Services",
+        "id": "dfaea8af-8059-4613-b7b7-31d73ce783d3",
+        "title": "Associate Revenue Cycle Analyst - Analytics",
+        "active": true,
+        "date_updated": 1788418985,
+        "date_posted": 1788402381,
+        "url": "https://jobs.uhsinc.com/jobs/367273?icims=1",
+        "locations": [
+            "Tredyffrin Township, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Universal-Health-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "c570aaad-51ef-443c-b2ae-5ce19cb13d6e",
+        "title": "Electrical Hardware Engineer Graduate",
+        "active": true,
+        "date_updated": 1788418985,
+        "date_posted": 1788307200,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer-Graduate_1213434-1",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Penta Group",
+        "id": "39a9fd28-930e-4139-8304-e0aa7851c3fa",
+        "title": "Global Monitoring + Insights",
+        "active": true,
+        "date_updated": 1788420004,
+        "date_posted": 1788402381,
+        "url": "https://jobs.lever.co/pentagrp/872f8d11-7741-4243-a0ee-b45f7f98162f/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penta-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Motors",
+        "id": "f2227edd-da3f-4840-9894-83a7730185ff",
+        "title": "Software Developer Embedded Software",
+        "active": true,
+        "date_updated": 1788419941,
+        "date_posted": 1788307200,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer--Embedded-Software_JR-202618368",
+        "locations": [
+            "Markham, ON, Canada",
+            "Oshawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "a072ca1a-08d9-415d-bbac-c6ecb8cf5e5f",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1788417906,
+        "date_posted": 1788307200,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R68006",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CarMax",
+        "id": "cfde60e0-9705-4627-b996-c83eefa1b5e2",
+        "title": "Analyst Rotation Program - Summer 2027",
+        "active": true,
+        "date_updated": 1788418985,
+        "date_posted": 1787788800,
+        "url": "https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Analyst-Rotation-Program---Summer-2027_JR-185024",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CarMax",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Man Group",
+        "id": "c80bafb0-ca83-48b7-a301-af52c1a6678e",
+        "title": "Risk & Performance Analyst",
+        "active": true,
+        "date_updated": 1788418985,
+        "date_posted": 1787848912,
+        "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958874101",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Man-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leviton",
+        "id": "2f512118-0dc9-4b79-be34-86a02e9063ca",
+        "title": "Associate Electrical Engineer",
+        "active": true,
+        "date_updated": 1788419886,
+        "date_posted": 1787840127,
+        "url": "https://careers.leviton.com/jobs/5996?icims=1",
+        "locations": [
+            "Melville, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Leviton",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
