@@ -75328,7 +75328,7 @@
         "company_name": "ASM International",
         "id": "c81df46f-5efa-4098-b6c0-15e209f0b535",
         "title": "Engineer \u2013 Field Service-\"Early Career\"",
-        "active": true,
+        "active": false,
         "date_updated": 1772060630,
         "date_posted": 1772060630,
         "url": "https://www.asm.com/open-vacancies/?gh_jid=4739225101",
@@ -123369,7 +123369,7 @@
         "company_name": "Heraeus Group",
         "id": "2846fbca-e8c6-4724-a99d-5b57bc48e7c2",
         "title": "Electronics Technician - Troubleshoot and Repair",
-        "active": true,
+        "active": false,
         "date_updated": 1774534754,
         "date_posted": 1774534754,
         "url": "https://mycareer.heraeus.com/job/Hartland-Wisconsin-Electronics-Technician-(Troubleshoot-and-Repair)-WI-53029/1378041533/?ats=successfactors",
@@ -147210,7 +147210,7 @@
         "company_name": "JP Morgan Chase",
         "id": "de616821-e549-4efc-a51b-888a2bd1ba9e",
         "title": "Basel Measurement & Analytics - Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775775071,
         "date_posted": 1775772534,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734420",
@@ -171360,7 +171360,7 @@
         "company_name": "HighRadius",
         "id": "dd00b6e1-6bbb-4984-b566-e04475a1c181",
         "title": "Forward Deployed Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777069441,
         "date_posted": 1777069270,
         "url": "https://www.highradius.com/about/careers-list/?gh_jid=7713287003",
@@ -182313,7 +182313,7 @@
         "company_name": "SpaceX",
         "id": "92a664e3-9513-4946-a33b-3d7b2403dfe6",
         "title": "Supplier Development Engineer - Reliability - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1778076541,
         "date_posted": 1778076368,
         "url": "https://boards.greenhouse.io/spacex/jobs/8533955002",
@@ -195933,7 +195933,7 @@
         "company_name": "Invisible Technologies AI",
         "id": "3e28ce6e-1005-4cd7-b423-8f680a64fe66",
         "title": "German Translator - AI Trainer",
-        "active": true,
+        "active": false,
         "date_updated": 1779093181,
         "date_posted": 1774574444,
         "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4651788101",
@@ -198956,7 +198956,7 @@
         "company_name": "SpaceX",
         "id": "c8ebd7cf-ad8f-40af-b281-b1f22b13842f",
         "title": "Software Engineer - Platform Team",
-        "active": true,
+        "active": false,
         "date_updated": 1779315841,
         "date_posted": 1779315080,
         "url": "https://boards.greenhouse.io/spacex/jobs/8558859002",
@@ -200383,7 +200383,7 @@
         "company_name": "SpaceX",
         "id": "404802e3-b765-48db-b1b1-78b712cdd293",
         "title": "Software Engineer - Platform Team",
-        "active": true,
+        "active": false,
         "date_updated": 1779402961,
         "date_posted": 1779401495,
         "url": "https://boards.greenhouse.io/spacex/jobs/8560537002",
@@ -204422,7 +204422,7 @@
         "company_name": "JP Morgan Chase",
         "id": "c154ef99-a303-453d-a05f-36eece7cb1ca",
         "title": "Global Credit Exotics Trading - Credit Exotics Trader - Analyst or Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779820742,
         "date_posted": 1777989921,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210743938",
@@ -212076,7 +212076,7 @@
         "company_name": "SpaceX",
         "id": "2aec360c-7d97-44c9-90e1-5ad25913c551",
         "title": "Software Engineer - Hardware Test & Automation - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1779921017,
         "date_posted": 1779919835,
         "url": "https://boards.greenhouse.io/spacex/jobs/8565155002",
@@ -212474,7 +212474,7 @@
         "company_name": "Kroll",
         "id": "22c2cc28-25c5-4e3f-a312-166eb7b7e47b",
         "title": "Portfolio Valuation Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779921171,
         "date_posted": 1779919659,
         "url": "https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21014303",
@@ -360495,7 +360495,7 @@
         "company_name": "Bank of Montreal",
         "id": "8015d9d9-ecde-460d-a7d8-443dbb9cd360",
         "title": "Commercial Risk Data Analyst New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1787094308,
         "date_posted": 1787011200,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Commercial-Risk-Data--New-or-Recent-Graduate-Opportunity-_R260023422-1",
@@ -377599,7 +377599,7 @@
         "company_name": "Torch Technologies",
         "id": "9bd1f0ee-ed84-41a2-b228-773d27d10ff2",
         "title": "Junior Software Engineer - Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1787925484,
         "date_posted": 1787875200,
         "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Junior-Level-Software-Engineer_R1608",
@@ -384843,7 +384843,7 @@
         "company_name": "Integrity",
         "id": "4b9f13f6-9a50-4b56-af34-f20f7cc7c675",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788301884,
         "date_posted": 1788220800,
         "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Orange-CA/Remote-Data-Analyst_JR4569",
@@ -394665,7 +394665,7 @@
         "company_name": "Epiroc",
         "id": "eb3df846-7ec4-442c-8c99-f09f1e06e3f7",
         "title": "Low Voltage Electrical Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779821462,
         "date_posted": 1778911714,
         "url": "https://www.careerprofile.epiroc.com/job/Garland-Low-Voltage-Electrical-Technician-TX-75040/1391978433/?ats=successfactors",
@@ -394745,7 +394745,7 @@
         "company_name": "Lawrence Berkeley National Laboratory",
         "id": "a582606e-8e9d-4a61-b416-0c546f9808d6",
         "title": "Quantum Engineering Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1778059485,
         "date_posted": 1777943249,
         "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=105663",
@@ -402452,5 +402452,901 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "7b95e1f4-11b8-47ad-bbd7-84d0807fd67e",
+        "title": "Hardware Test Engineer - Starlink",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1779919809,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8565090002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "22ddb367-7b17-4124-a5c3-14337136b4d6",
+        "title": "Electrical Design Engineer - Starlink Mobile",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1779833385,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8563212002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Westinghouse Electric Company",
+        "id": "525b14e3-dbd2-4712-af62-63511a8dc9d5",
+        "title": "Nuclear Analysis Technician C / Civil Engineering Technicians",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1778922277,
+        "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Nuclear-Analysis-Tech-C-Civil-Engineering-Techs-NC/1328985200/?ats=successfactors",
+        "locations": [
+            "Grove City, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astera Labs",
+        "id": "9ffc4283-179a-417e-9f10-94177cd996ca",
+        "title": "Product Quality Engineer",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1778710224,
+        "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4695147005",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AsteraLabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "e78d8db1-0336-4670-aa71-5b51a2f8ad60",
+        "title": "Software Development Engineer - AWS Data Services",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1778191356,
+        "url": "https://amazon.jobs/en/jobs/10414316/software-development-engineer-aws-data-services-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "a64277ab-2156-4ae3-ab25-a6cef93474ac",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777413928,
+        "url": "https://jobs.lever.co/tsmg/076f06cf-a89a-4170-b57d-060a33c0d50a/apply",
+        "locations": [
+            "Cheyenne, WY"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Allen Institute for AI",
+        "id": "4eb6be04-002f-49eb-b81b-a4e091a45269",
+        "title": "Young Investigator - Robotics",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777414446,
+        "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7852135",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/allenai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "4a7417ca-caaa-4bac-b30e-2c67bc6a3127",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777413929,
+        "url": "https://jobs.lever.co/tsmg/a77f5ec6-24ed-4d1e-99b5-d4e8dfe14c6a/apply",
+        "locations": [
+            "Cheyenne, WY"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "1146aa78-8ccb-43e9-84e2-f09cc7184993",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777413929,
+        "url": "https://jobs.lever.co/tsmg/e8176a34-e6ae-4f6e-a87b-1ae4c15fe237/apply",
+        "locations": [
+            "Cheyenne, WY"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "0ef71679-ce7e-4504-94d5-c1df1c393fbc",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777413928,
+        "url": "https://jobs.lever.co/tsmg/5c4a626d-bf2f-4bf8-b1b5-ef1143adaa2d/apply",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "211edcd7-4f35-4d7f-976f-706db72872ba",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777385123,
+        "url": "https://jobs.lever.co/tsmg/65b6f67c-1d26-48e0-804b-a298208478ee/apply",
+        "locations": [
+            "Fargo, ND"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "ad6f3e20-4b1f-4c9f-8642-067c181cad9e",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777385122,
+        "url": "https://jobs.lever.co/tsmg/712b9a1a-6520-4d67-b458-a1fdfd69dd5b/apply",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "55011353-d3e4-4efa-89ee-11cd00a8f01b",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777385122,
+        "url": "https://jobs.lever.co/tsmg/59c697cd-2635-4d2f-a9d2-b31c3fabd61e/apply",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "2cd86c95-8bf0-4b5b-95b6-5788b012a67c",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777385124,
+        "url": "https://jobs.lever.co/tsmg/39f06a64-c14b-4cd5-b04b-da9dc90555a9/apply",
+        "locations": [
+            "Fargo, ND"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "fb7650c4-f552-46fa-a62a-898e706cc3d9",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777385122,
+        "url": "https://jobs.lever.co/tsmg/700aff37-e971-4ca9-bbbe-e8e47c1d679c/apply",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "99eeda8d-bd03-44b1-900c-b91c93fcf9df",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777385122,
+        "url": "https://jobs.lever.co/tsmg/334eb9e3-601b-4bc1-b48d-77df8e34fbba/apply",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "3a171352-93e6-4f4a-ab28-1f7e534fa806",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777385122,
+        "url": "https://jobs.lever.co/tsmg/50798152-60be-4d75-ac36-c44fd13b67d4/apply",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "d42c1d86-614d-4fbc-bac0-1b3548ce792a",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777385126,
+        "url": "https://jobs.lever.co/tsmg/c96710ce-6f83-47d0-8f79-78024b242640/apply",
+        "locations": [
+            "Wichita, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "7c7f9ce8-b069-42d1-b4d2-81f1e185889d",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777385126,
+        "url": "https://jobs.lever.co/tsmg/dbd5baeb-f2df-4bfd-8d8b-04537470921d/apply",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "607fd96d-1b83-4140-92aa-0735bbff39ca",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777385121,
+        "url": "https://jobs.lever.co/tsmg/401c169a-5b21-4dda-a65b-ac78c2f4e605/apply",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "45fb7aa2-917e-4763-b0d1-c66a7868058c",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777385127,
+        "url": "https://jobs.lever.co/tsmg/e9b7d0c3-b758-4946-b3cf-c765744dafd9/apply",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "1a403d17-88bf-4d3d-919a-954fa39fa641",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777385129,
+        "url": "https://jobs.lever.co/tsmg/8a0dbc98-5181-410b-86c5-219c44b9fa4d/apply",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "5a3c434e-df72-4477-be45-8c8362897674",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777385126,
+        "url": "https://jobs.lever.co/tsmg/cccc16be-312f-4410-88f7-8e3d13044671/apply",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "4d7fb69b-e8ea-45dd-8cb5-5fab165b4305",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777385126,
+        "url": "https://jobs.lever.co/tsmg/e97d3d71-57eb-486b-bafa-7a538c5433de/apply",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "ecb471fc-b16d-4ffc-947b-a7a7ca6ea9e3",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777385126,
+        "url": "https://jobs.lever.co/tsmg/c186e891-93bf-4d49-af99-07e75276424c/apply",
+        "locations": [
+            "Jackson, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "0efa7fd4-ba4d-4759-b06c-944d4658c207",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777385121,
+        "url": "https://jobs.lever.co/tsmg/20d2f6f6-f99f-4a83-88e4-274f436753c0/apply",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "c85eb67f-6e29-47d5-a1f5-3ce004a42432",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777385127,
+        "url": "https://jobs.lever.co/tsmg/93786b61-e086-40cb-ab6c-a2acce7f298b/apply",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "ff4657dc-eb0b-40b1-bb59-c5452de7e490",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777385124,
+        "url": "https://jobs.lever.co/tsmg/a055fd65-1aa9-44f3-bb6d-09735a2f51b8/apply",
+        "locations": [
+            "Fargo, ND"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "ee51f75d-a5fd-4ac6-a7f8-4054ca829d73",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777385124,
+        "url": "https://jobs.lever.co/tsmg/9016b5b0-602a-4123-9bd6-7b1620561a50/apply",
+        "locations": [
+            "Wichita, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "2fc1a282-b44e-490c-8d31-be0213a206ab",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777385125,
+        "url": "https://jobs.lever.co/tsmg/bf29e9b9-a02e-49cd-b6ca-e4ba4ca2cba5/apply",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "061c922c-415d-4c0d-acc3-a227e64da56b",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777385131,
+        "url": "https://jobs.lever.co/tsmg/1457c2ea-1939-4de9-8e79-0bcbed43d69f/apply",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "225f844f-5dbc-4dbb-80ac-b9894d32eef2",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777298688,
+        "url": "https://jobs.lever.co/tsmg/c13cdaad-aca2-4371-8e4e-7cb31de3a704/apply",
+        "locations": [
+            "Jackson, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "82788a49-c262-4db8-9129-04c9850e4618",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777298687,
+        "url": "https://jobs.lever.co/tsmg/839fe24e-01d2-4a40-b941-a0c77371d54a/apply",
+        "locations": [
+            "Columbia, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "703c5429-a8cf-4e97-a452-dc7dc488fea4",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777298690,
+        "url": "https://jobs.lever.co/tsmg/f85b0f7f-a94a-4a07-a52f-c0f87f9f074c/apply",
+        "locations": [
+            "Columbia, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "48606e7e-749d-4bb5-a400-cde013e7d671",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777298695,
+        "url": "https://jobs.lever.co/tsmg/c9d05fa2-69a2-4742-bf53-dc31c351ce18/apply",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "18ba4a82-61a3-43d2-b095-4bc32de8bac1",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777298686,
+        "url": "https://jobs.lever.co/tsmg/70e2bc0e-551a-4ec4-a3dd-9601f3b19239/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "ea0f814d-a64e-4b73-b0d6-6b05c0bc2cd9",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777298690,
+        "url": "https://jobs.lever.co/tsmg/e016f1c8-963a-4125-b4ec-46de2feaeef4/apply",
+        "locations": [
+            "Jackson, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "aa695e3b-1f90-4a50-9d71-e88d0d3404d3",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777298687,
+        "url": "https://jobs.lever.co/tsmg/b4b0b415-7b2f-4e8d-a84f-fae1a77179fe/apply",
+        "locations": [
+            "Columbia, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "f0e0277b-cbca-4b93-b910-b7e4c259e9e5",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777298686,
+        "url": "https://jobs.lever.co/tsmg/5bfba953-b65d-417c-8641-da24a9846aad/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "e1733d33-a89c-4d24-90d5-ee103811daad",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777298690,
+        "url": "https://jobs.lever.co/tsmg/e8be46cc-28ed-458c-889c-dba89798f2b0/apply",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "577e1c3c-dafd-4268-9660-8670e4e6bc03",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777298687,
+        "url": "https://jobs.lever.co/tsmg/96e79e8c-0ff9-472d-ab98-acf805aebd7f/apply",
+        "locations": [
+            "Jackson, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "f660160f-9241-4266-872c-b6b8b814ab45",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777298689,
+        "url": "https://jobs.lever.co/tsmg/de70c40e-55dc-43a8-a86f-f32f0495a524/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "ed052b50-8ba8-4e8b-8a71-6d2bae29bef3",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777298690,
+        "url": "https://jobs.lever.co/tsmg/e4935321-a771-42d5-bf4e-00e948f90c99/apply",
+        "locations": [
+            "New Orleans, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "95d20308-2035-46e5-8d82-3bbc080b0b4e",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777298688,
+        "url": "https://jobs.lever.co/tsmg/c49b8f14-2f2e-4c56-9261-eca4619b6997/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "7e479a9e-fa2f-4bb2-b90b-6cfe1bbfca41",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777298690,
+        "url": "https://jobs.lever.co/tsmg/f3dea37e-6cbf-4acc-bac8-37646c469681/apply",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "1da0c234-194c-4440-8fac-7c4f58251b2c",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777298688,
+        "url": "https://jobs.lever.co/tsmg/d238afc4-2921-4232-9aa7-80ed6dff08eb/apply",
+        "locations": [
+            "Columbia, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "e5c8e999-ff8a-4550-9474-216f1fdd9054",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777298686,
+        "url": "https://jobs.lever.co/tsmg/5350901e-f041-4e2f-9704-190e98d6ab1c/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "2a8876ac-f946-41c2-b85c-da2288a06309",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777298689,
+        "url": "https://jobs.lever.co/tsmg/cd20c304-7f85-4f95-954b-fae59b2a6329/apply",
+        "locations": [
+            "New Orleans, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "13e6db3c-28ef-4a17-b384-e5c29d6f5bbc",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1788499081,
+        "date_posted": 1777298688,
+        "url": "https://jobs.lever.co/tsmg/c20b5577-6319-4650-a288-c2875d6e92db/apply",
+        "locations": [
+            "New Orleans, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
