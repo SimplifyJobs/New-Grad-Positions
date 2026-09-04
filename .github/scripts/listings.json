@@ -234718,7 +234718,7 @@
         "company_name": "Goldman Sachs",
         "id": "de896427-2d73-4fa8-b8b8-65efaf044cfd",
         "title": "Software Engineer - Data",
-        "active": false,
+        "active": true,
         "date_updated": 1781169481,
         "date_posted": 1781168814,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
@@ -351410,7 +351410,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "73694032-23cd-4ce0-8193-0aa5188a23c9",
         "title": "PhD Graduate - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1786680210,
         "date_posted": 1786679941,
         "url": "https://careers.jhuapl.edu/jobs/58904?icims=1",
@@ -377508,7 +377508,7 @@
         "company_name": "Torch Technologies",
         "id": "8a12df4d-a37f-4ad1-a459-206009424b66",
         "title": "Software Engineer - WPF/MVVM",
-        "active": true,
+        "active": false,
         "date_updated": 1787925483,
         "date_posted": 1787875200,
         "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Junior-Level-Software-Engineer-WPF-MVVM_R1609",
@@ -385970,7 +385970,7 @@
         "company_name": "Blackberry",
         "id": "aa9e19ab-56c4-4224-8844-f2f9a351fc58",
         "title": "Open Source Software Developer New Grad - QNX Everywhere",
-        "active": true,
+        "active": false,
         "date_updated": 1788359672,
         "date_posted": 1788307200,
         "url": "https://bb.wd3.myworkdayjobs.com/QNX/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289",
@@ -395063,7 +395063,7 @@
         "company_name": "Veeva Systems",
         "id": "ba2c84c1-fac5-455c-8d56-afb83ada2a83",
         "title": "Marketing Analytics - Client Services Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1788432914,
         "date_posted": 1783951504,
         "url": "https://jobs.lever.co/veeva/2d2cce21-bba9-42e7-b1b8-e5cf83ebe4c2/apply",
@@ -404031,6 +404031,46 @@
             "Lewiston, ID"
         ],
         "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Airbus",
+        "id": "8ee251a0-5392-43ad-a9b8-9fa9dee814f4",
+        "title": "Graduate Airframe Automation Engineer",
+        "active": true,
+        "date_updated": 1788520657,
+        "date_posted": 1788220800,
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/AGGP2027---Graduate-Airframe-Automation-Engineer_JR10428292",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MCI",
+        "id": "5f408047-88ae-4f85-bf70-201836d5c74a",
+        "title": "AI Data Annotator",
+        "active": true,
+        "date_updated": 1788519241,
+        "date_posted": 1786680111,
+        "url": "https://careers-mci2.icims.com/jobs/50188/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/MCI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
