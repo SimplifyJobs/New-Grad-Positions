@@ -330569,7 +330569,7 @@
         "company_name": "Peraton",
         "id": "ecd7306e-e1ab-4153-bd2f-50c077e829c7",
         "title": "Junior Software Engineer - Developer - Space Communications Program",
-        "active": true,
+        "active": false,
         "date_updated": 1785882636,
         "date_posted": 1785881593,
         "url": "https://careers-peraton.icims.com/jobs/169377/job?mobile=true&needsRedirect=false",
@@ -352009,7 +352009,7 @@
         "company_name": "Composio",
         "id": "e10bdd63-43bd-4d2a-ac7b-f65c4b8b35de",
         "title": "Forward Deployed Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1786687179,
         "date_posted": 1786687014,
         "url": "https://jobs.ashbyhq.com/composio/f83a19a0-8188-4100-9dd5-b259efb342e6/application?embed=true",
@@ -359858,7 +359858,7 @@
         "company_name": "RTX",
         "id": "bde086bf-dab1-4025-b1fa-8d581fc9b704",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787090903,
         "date_posted": 1787011200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01867811",
@@ -360039,7 +360039,7 @@
         "company_name": "Zuckerman Investment Group",
         "id": "696a07de-2f62-4c57-a4f1-3ca7aafc074f",
         "title": "Investment Analyst - MBA",
-        "active": true,
+        "active": false,
         "date_updated": 1787093886,
         "date_posted": 1787093676,
         "url": "https://ats.rippling.com/zuckerman-investment-group/jobs/afb2eda4-7bbd-48b6-9ebf-c1726d73905d",
@@ -385950,7 +385950,7 @@
         "company_name": "Blackberry",
         "id": "bda74332-82e5-439b-b4b6-2816798a9366",
         "title": "Open Source Software Developer New Grad - QNX Everywhere",
-        "active": true,
+        "active": false,
         "date_updated": 1788359669,
         "date_posted": 1788307200,
         "url": "https://bb.wd3.myworkdayjobs.com/blackberry/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1",
@@ -404076,5 +404076,65 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "a5b3f34d-1ed6-490d-b7fd-6ad80e65f14d",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1788521693,
+        "date_posted": 1788134400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Electrical-Engineer-I--Onsite-_01869097",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Deepgram",
+        "id": "65489b2c-dccf-4a4b-b089-0a049511d131",
+        "title": "Forward-Deployed Engineer - Strategic Accounts",
+        "active": true,
+        "date_updated": 1788521614,
+        "date_posted": 1787366146,
+        "url": "https://jobs.ashbyhq.com/deepgram/4bfadd29-fa58-4e06-bbf0-7b5dbc41a621/application?embed=true",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Deepgram",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Wachter",
+        "id": "ecc381e3-c967-4ac1-87a4-8bacaef3c518",
+        "title": "Audio Visual Staging and Configuration Technician",
+        "active": true,
+        "date_updated": 1788522749,
+        "date_posted": 1785794814,
+        "url": "https://jobs.lever.co/wachter/5a23a293-dff8-4013-b152-a7d5c9118668/apply",
+        "locations": [
+            "Mt Laurel Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Wachter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
