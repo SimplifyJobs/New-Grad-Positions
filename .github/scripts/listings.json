@@ -261241,7 +261241,7 @@
         "company_name": "Northrop Grumman",
         "id": "9ae5133e-21ac-460c-a748-48bab65a707f",
         "title": "Engineer/Principal Engineer - Survivability",
-        "active": true,
+        "active": false,
         "date_updated": 1782962462,
         "date_posted": 1782957204,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-Principal-Engineer---Survivability--Melbourne-FL-_R10237946",
@@ -264287,7 +264287,7 @@
         "company_name": "Teledyne",
         "id": "a667d073-ba92-400c-b82f-caebd0cf9b3a",
         "title": "Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783031221,
         "date_posted": 1783030510,
         "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Torrance-CA/Product-Engineer_REQ35210",
@@ -265690,7 +265690,7 @@
         "company_name": "Medical College of Wisconsin",
         "id": "32a573ca-7e58-42ed-8db3-afdf7710cb7d",
         "title": "Postdoctoral Researcher - Data Science Institute",
-        "active": true,
+        "active": false,
         "date_updated": 1783116723,
         "date_posted": 1783116504,
         "url": "https://mcw.wd503.myworkdayjobs.com/ExternalCareers/job/Milwaukee-WI/Postdoctoral-Researcher---Data-Science-Institute_JR101296",
@@ -296741,7 +296741,7 @@
         "company_name": "Applied Materials",
         "id": "aa0755f2-ee8c-468b-975b-1407432d1d7c",
         "title": "Early Career - Installation Team Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784675178,
         "date_posted": 1782963385,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/Applied-Early-Career---Installation-Team-Field-Service-Engineer_R2622705",
@@ -319518,7 +319518,7 @@
         "company_name": "Air Liquide",
         "id": "0ff6a28b-0c9e-4962-867c-73a635ac4f7a",
         "title": "Modelling & Simulation Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785574956,
         "date_posted": 1782957114,
         "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Houston-TX-HO/VIE---Modelling---Simulation-Engineer-M-F-D-_R10080193",
@@ -361173,7 +361173,7 @@
         "company_name": "Normal Computing",
         "id": "3163c14a-7b55-40a3-b21d-2696e2c37cd5",
         "title": "AI Research Resident",
-        "active": true,
+        "active": false,
         "date_updated": 1787128021,
         "date_posted": 1787127897,
         "url": "https://jobs.ashbyhq.com/normalcomputing/975c754f-e5dd-4137-9e3e-63c81405d84f/application?embed=true",
@@ -367838,7 +367838,7 @@
         "company_name": "Celonis",
         "id": "0edcb9dd-c78a-48c2-aa24-8f3baabe6737",
         "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
-        "active": true,
+        "active": false,
         "date_updated": 1787560585,
         "date_posted": 1783319363,
         "url": "https://job-boards.greenhouse.io/celonis/jobs/7781716003?gh_jid=7781716003",
@@ -386756,7 +386756,7 @@
         "company_name": "RTX",
         "id": "19639570-4e45-4957-864c-a543a3940ab1",
         "title": "Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788408727,
         "date_posted": 1788134400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Electrical-Engineer-I--Onsite-_01868758",
@@ -403917,5 +403917,81 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Commerce Undergraduate Society",
+        "id": "450cb4c1-c4d4-47d4-98bc-5a8fa94f9815",
+        "title": "Website Development Coordinator",
+        "active": true,
+        "date_updated": 1788513301,
+        "date_posted": 1787378851,
+        "url": "https://jobs.lever.co/commerce-undergraduate/b9bb190f-1114-4d07-b17b-f60147ee0472/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Commerce-Undergraduate-Society",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Circle K",
+        "id": "16cdfac0-7f18-4c1c-9b5b-e8ffc8121511",
+        "title": "Pricing Analyst - Pricebook",
+        "active": true,
+        "date_updated": 1788513301,
+        "date_posted": 1788220800,
+        "url": "https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-QC10000051-CT-Laval-QC/Pricing-Analyst--Pricebook_R617286-1",
+        "locations": [
+            "Laval, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Circle-K",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wash U",
+        "id": "1aea7a4e-f57e-4e5f-b4ce-47228caff3ae",
+        "title": "Medical Informaticist 1 - Pathology and Immunology",
+        "active": true,
+        "date_updated": 1788513870,
+        "date_posted": 1787529600,
+        "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Medical-Informaticist-I--Hybrid----Pathology-and-Immunology_JR96925",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Wash-U",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Illinois Tool Works",
+        "id": "b71fdeb7-7c13-4077-942c-c0fbb4ff40e6",
+        "title": "Laboratory Technician - Commercial Solutions Division",
+        "active": true,
+        "date_updated": 1788513301,
+        "date_posted": 1783404569,
+        "url": "https://careers.itw.com/global/en/job/JR7973",
+        "locations": [
+            "Appleton, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Illinois-Tool-Works",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
