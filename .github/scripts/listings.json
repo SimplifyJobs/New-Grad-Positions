@@ -303092,7 +303092,7 @@
         "company_name": "Ameriprise Financial",
         "id": "f768db22-fdd3-4678-84ea-0ffacf840cf7",
         "title": "Assistant Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1784813221,
         "date_posted": 1784764800,
         "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/London-United-Kingdom/Assistant-Product-Manager_R26_2812-1",
@@ -362965,7 +362965,7 @@
         "company_name": "Moderna",
         "id": "67a073ee-aefd-4590-84d1-efe1a90a3bd2",
         "title": "Data Scientist - Research",
-        "active": false,
+        "active": true,
         "date_updated": 1787186676,
         "date_posted": 1787097600,
         "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Data-Scientist_R19572",
@@ -366301,7 +366301,7 @@
         "company_name": "Entrust",
         "id": "1ca887fb-4325-40bd-9159-9a0beaf82f80",
         "title": "Applied Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784610027,
         "date_posted": 1781359741,
         "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-Kingdom---London-Onfido/Applied-Scientist-I_R003921",
@@ -376833,7 +376833,7 @@
         "company_name": "L3Harris Technologies",
         "id": "7667f37b-8304-4087-a89e-a79c1367b8c7",
         "title": "Software Engineer New Grad - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1787873099,
         "date_posted": 1787872843,
         "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Assoc,-Software-Engineer-(New-Grad-Salt-Lake-City,-UT)-1-1-1-UT-84117/1424142200/?ats=successfactors",
@@ -387859,7 +387859,7 @@
         "company_name": "RTX",
         "id": "93f17a30-5861-4a48-b301-7aed69379a4d",
         "title": "Advanced Effector Guidance Systems Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788416286,
         "date_posted": 1787875200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/Advanced-Effector-Guidance-Systems-Electrical-Engineer-I--Onsite-_01870445",
@@ -404315,5 +404315,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BlackRock",
+        "id": "a98c0a06-306e-4812-a351-9c4c42220854",
+        "title": "Associate Database Platform Developer - Database Platform Development",
+        "active": true,
+        "date_updated": 1788529549,
+        "date_posted": 1786579200,
+        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Wilmington-DE/Associate-Database-Platform-Developer_R266105",
+        "locations": [
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackRock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
