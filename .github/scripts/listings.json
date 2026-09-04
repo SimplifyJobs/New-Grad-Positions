@@ -55,50 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Uline",
-        "id": "aac75e8c-6c78-46e0-b98d-9d0b8b5e0483",
-        "title": "Business Systems Analyst - International",
-        "active": false,
-        "date_updated": 1767787407,
-        "date_posted": 1767787407,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Systems-Analyst---International_R260243-2",
-        "locations": [
-            "Waukegan, IL",
-            "Milwaukee, WI",
-            "Pleasant Prairie, WI",
-            "Morton Grove, IL",
-            "Kenosha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "United Parcel Service (UPS)",
-        "id": "588f8c59-28af-47b6-b27f-7aef52462205",
-        "title": "Product Analyst-Gen AI Automation",
-        "active": false,
-        "date_updated": 1767788197,
-        "date_posted": 1767788197,
-        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Product-Analyst--Gen-AI-Automation_R25044896-1",
-        "locations": [
-            "Indiana"
-        ],
-        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Belvedere Trading",
         "id": "9ea33b20-f41a-483e-8b4c-8bdfe4759f62",
@@ -134161,7 +134117,7 @@
         "company_name": "Ciena",
         "id": "be35a8e8-0046-42a6-a612-b34eab9848e1",
         "title": "Hardware Power Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1775084941,
         "date_posted": 1775081314,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Power-Engineer---New-Grad_R030580",
@@ -354679,7 +354635,7 @@
         "company_name": "LiteLLM",
         "id": "6dda02da-3ec3-49ed-a963-fa6db627f830",
         "title": "Forward Deployed Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1786768435,
         "date_posted": 1786768234,
         "url": "https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true",
@@ -356051,7 +356007,7 @@
         "company_name": "Legal & General",
         "id": "08944bbd-0278-4bc2-960d-1e56cd0b24ef",
         "title": "DC Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787004902,
         "date_posted": 1787004833,
         "url": "https://jobs.smartrecruiters.com/LegalAndGeneral/744000143845369",
@@ -357580,7 +357536,7 @@
         "company_name": "QualityAI",
         "id": "9cde14a1-c52a-436b-89d7-59da23b773da",
         "title": "QA Tester - Mobile - Android/VR",
-        "active": true,
+        "active": false,
         "date_updated": 1787015562,
         "date_posted": 1787015341,
         "url": "https://jobs.smartrecruiters.com/QANALYSTSLLC2/743999677596559",
@@ -361372,7 +361328,7 @@
         "company_name": "Aramark",
         "id": "c8bf57d8-775c-4186-a07d-1779c7f9ce56",
         "title": "Student Hospitality Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1787139243,
         "date_posted": 1787006853,
         "url": "https://aramarkcareers.com/UnitedStates/job/Tempe-Student-Manager-Sustainability-Data-Analysis-Arizona-State-University-AZ-85281/1420184000/?ats=successfactors",
@@ -376793,7 +376749,7 @@
         "company_name": "NJ Department of Environmental Protection",
         "id": "b983f282-b7a5-46fc-9244-4d5f1a048849",
         "title": "Analyst Trainee - Air, Energy and Materials Sustainability - Director's Office",
-        "active": true,
+        "active": false,
         "date_updated": 1787873313,
         "date_posted": 1787873134,
         "url": "https://njdepartmentofenvironmentalprotection.applytojob.com/apply/Q9Z4BcdgNw/AEMS202645-Analyst-Trainee",
@@ -381256,7 +381212,7 @@
         "company_name": "Eaton",
         "id": "b80a22f6-7d98-43e5-8ad9-70040631b907",
         "title": "Product Engineer - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1788226267,
         "date_posted": 1788224486,
         "url": "https://eaton.eightfold.ai/careers/job/687238080082",
@@ -404136,5 +404092,146 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OpenLoop",
+        "id": "876fe713-d16a-41c0-ac16-34a992899957",
+        "title": "Business Analyst",
+        "active": true,
+        "date_updated": 1788524896,
+        "date_posted": 1788407550,
+        "url": "https://jobs.ashbyhq.com/openloophealth/d90def69-84a7-45d2-9e3a-9cd5381d4535/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenLoop",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "915951dd-70ca-48b8-9767-8d9541dbca43",
+        "title": "Software Engineer New Grad - Software",
+        "active": true,
+        "date_updated": 1788524462,
+        "date_posted": 1787120215,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8729121002",
+        "locations": [
+            "Brownsville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Entarian",
+        "id": "4a6b6b96-dbdd-4dbb-8a0b-6ef03b00cfbe",
+        "title": "GIS Technician / Office Coordinator",
+        "active": true,
+        "date_updated": 1788524462,
+        "date_posted": 1787039537,
+        "url": "https://careers-entarian.icims.com/jobs/9707/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Entarian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Entarian",
+        "id": "485ffc82-c75c-4265-9e3a-40303fe373fc",
+        "title": "GIS Technician / Office Coordinator",
+        "active": true,
+        "date_updated": 1788523741,
+        "date_posted": 1787039537,
+        "url": "https://careers-entarian.icims.com/jobs/9708/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Chesapeake, VA",
+            "Corbin, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Entarian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AAR",
+        "id": "4df4e697-881e-4e96-93e4-a32b0b57b588",
+        "title": "Product Strategy Analyst 3",
+        "active": true,
+        "date_updated": 1788523741,
+        "date_posted": 1787018437,
+        "url": "https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18728",
+        "locations": [
+            "Wood Dale, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AAR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Fannie Mae",
+        "id": "39ceada8-f839-4ca4-a178-fc411b2f2ac5",
+        "title": "Accounting Systems Product Analysis Associate - Product Analysis",
+        "active": true,
+        "date_updated": 1788523741,
+        "date_posted": 1787015689,
+        "url": "https://jobs.smartrecruiters.com/FannieMae1SB/743999723768633",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fannie-Mae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Fannie Mae",
+        "id": "5750322c-f871-40bd-b814-8be18b1fbf45",
+        "title": "Product Analyst Associate - Accounting Systems",
+        "active": true,
+        "date_updated": 1788523741,
+        "date_posted": 1787015689,
+        "url": "https://jobs.smartrecruiters.com/FannieMae1SB/743999723515361",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fannie-Mae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
