@@ -5,15 +5,15 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 427 New Grad Roles by Category
+### Browse 425 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (233)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (232)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (8)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (85)
 
-📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (23)
+📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (22)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (78)
 
@@ -658,13 +658,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Miami, FL</td>
 <td><div align="center"><a href="https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003523?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/54a06b84-67eb-4568-8969-1e478d303342?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/ASSA-ABLOY?utm_source=GHList&utm_medium=company">ASSA ABLOY</a></strong></td>
-<td>Product Engineer 1</td>
-<td>Mason City, IA</td>
-<td><div align="center"><a href="https://assaabloy.jobs2web.com/job/Mason-City-Product-Engineer-I-IA-50401/1425404233/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7285a57f-86ed-4201-82a9-a80f0306e1a3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>23d</td>
 </tr>
 <tr>
@@ -1715,7 +1708,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1243)</summary>
+<summary>🗃️ Inactive roles (1244)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2027,7 +2020,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer New Grad</td>
 <td>SF</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Crusoe?utm_source=GHList&utm_medium=company">Crusoe</a></strong></td>
@@ -2355,6 +2348,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Reliance?utm_source=GHList&utm_medium=company">Reliance</a></strong></td>
 <td>AI Software Engineer 1</td>
 <td>Chicago, IL</td>
+<td>🔒</td>
+<td>23d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/ASSA-ABLOY?utm_source=GHList&utm_medium=company">ASSA ABLOY</a></strong></td>
+<td>Product Engineer 1</td>
+<td>Mason City, IA</td>
 <td>🔒</td>
 <td>23d</td>
 </tr>
@@ -13572,13 +13572,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>15d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/ExxonMobil?utm_source=GHList&utm_medium=company">ExxonMobil</a></strong></td>
-<td>Trading New Grad - Trading Analytics - Trading Data, Analytics and AI</td>
-<td>Spring, TX</td>
-<td><div align="center"><a href="https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/21fa8378-009a-49b3-9c0b-4802b22d4801?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>24d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/SentiLink?utm_source=GHList&utm_medium=company">SentiLink</a></strong></td>
 <td>Quantitative Researcher New Grad - Emerging Products - Application Fraud</td>
 <td>Remote in USA</td>
@@ -13723,7 +13716,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (14)</summary>
+<summary>🗃️ Inactive roles (15)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -13742,6 +13735,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>London, UK</td>
 <td>🔒</td>
 <td>10d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/ExxonMobil?utm_source=GHList&utm_medium=company">ExxonMobil</a></strong></td>
+<td>Trading New Grad - Trading Analytics - Trading Data, Analytics and AI</td>
+<td>Spring, TX</td>
+<td>🔒</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Maven-Securities?utm_source=GHList&utm_medium=company">Maven Securities</a></strong></td>
@@ -13883,7 +13883,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1 - Weapons</td>
 <td>Wilmington, MA</td>
 <td><div align="center"><a href="https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344818&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/eb438002-306c-48ff-9b02-f87947b2219d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
