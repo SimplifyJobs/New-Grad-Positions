@@ -55,232 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Belvedere Trading",
-        "id": "9ea33b20-f41a-483e-8b4c-8bdfe4759f62",
-        "title": "Trading System Support Analyst",
-        "active": false,
-        "date_updated": 1767802710,
-        "date_posted": 1767802710,
-        "url": "https://jobs.lever.co/belvederetrading/eb9c5b0b-7da2-4b52-9f74-76c061119270/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "837d42d1-57f9-4b13-9259-006bfffc6263",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767802629,
-        "date_posted": 1767802629,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045143",
-        "locations": [
-            "Edinburgh, UK",
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "5273f50b-04b2-4229-836d-2e77fac32f2d",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1767802662,
-        "date_posted": 1767802662,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01814829",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "4291aeaf-e36b-40d5-8c86-be4c57340ee3",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767802625,
-        "date_posted": 1767802625,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045134",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0d13be02-b0c8-4a18-a52b-4e42f4355fe8",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767802626,
-        "date_posted": 1767802626,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045159",
-        "locations": [
-            "Aylesbury, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "07fa795b-1f8c-4d57-99f9-f009f231fd51",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767802628,
-        "date_posted": 1767802628,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045154",
-        "locations": [
-            "Ipswich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Agtonomy",
-        "id": "23d7f62e-219c-4ba2-88d6-7cb387ee8acf",
-        "title": "Technician",
-        "active": false,
-        "date_updated": 1767802657,
-        "date_posted": 1767802657,
-        "url": "https://jobs.lever.co/agtonomy/22257e9c-f108-406f-bcd7-d1dec4d16d08/apply",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Agtonomy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EOS",
-        "id": "ec4b665e-f157-4b46-8ac1-787f5f7c6260",
-        "title": "AV Venue Technician",
-        "active": false,
-        "date_updated": 1767803137,
-        "date_posted": 1767803137,
-        "url": "https://eosits.com/company/careers/?gh_jid=8363352002",
-        "locations": [
-            "Menlo Park, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/EOS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "EXL",
-        "id": "d85e2b53-23d6-4696-b630-7213b121c9b6",
-        "title": "Healthcare Analyst",
-        "active": false,
-        "date_updated": 1767803109,
-        "date_posted": 1767803109,
-        "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/8485",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/EXL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NTT Data",
-        "id": "b157ec5e-8bfb-4c7a-a505-a518e852c6d4",
-        "title": "BPO-Application Support-Health",
-        "active": false,
-        "date_updated": 1767802766,
-        "date_posted": 1767802766,
-        "url": "https://careers-inc.nttdata.com/job/Louisville-BPO-Application-Support-Health-KY-40201/1354060400/?ats=successfactors",
-        "locations": [
-            "Louisville, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/NTT-Data",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "6d1bf9a2-b42f-4e19-bf6d-76bbfab551e9",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1767802657,
-        "date_posted": 1767802657,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HMN01-SIS-Sensors---Burnsville-14300-Judicial-Rd-Burnsville-MN-55306-USA/Software-Engineer-I--Hybrid-_01810300",
-        "locations": [
-            "Burnsville, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "26ed306c-e646-4f71-922c-2b29cdc6c411",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767802624,
-        "date_posted": 1767802624,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045144",
-        "locations": [
-            "Edinburgh, UK",
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Capital on Tap",
         "id": "63f18f4b-fb70-4038-a87b-73a6b2b20400",
@@ -293,26 +67,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Capital-On-Tap",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "McAdams",
-        "id": "39b21185-2438-4502-aa38-ad788afa5690",
-        "title": "GIS Analyst 1",
-        "active": false,
-        "date_updated": 1767803301,
-        "date_posted": 1767803301,
-        "url": "https://job-boards.greenhouse.io/mcadams/jobs/5016648007",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/McAdams",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -338,65 +92,6 @@
         "degrees": [
             "Bachelor's",
             "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e8138917-eefa-4dec-b39d-12887e1f7cad",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767802625,
-        "date_posted": 1767802625,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045168",
-        "locations": [
-            "York, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Camping World",
-        "id": "88428818-ee1e-402c-94ed-5f60a34108dd",
-        "title": "Entry-Level Data Analyst",
-        "active": false,
-        "date_updated": 1767803468,
-        "date_posted": 1767803468,
-        "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Entry-Level-Data-Analyst_26_00211",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Camping-World",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NTT Data",
-        "id": "ee0ae77d-d1fc-42a2-a351-20910e7ab987",
-        "title": "BPO Application Support Health",
-        "active": false,
-        "date_updated": 1767802768,
-        "date_posted": 1767802768,
-        "url": "https://careers-inc.nttdata.com/job/Louisville-BPO-Application-Support-Health-KY-40201/1354053200/?ats=successfactors",
-        "locations": [
-            "Louisville, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/NTT-Data",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -100191,7 +99886,7 @@
         "company_name": "General Motors",
         "id": "bbd4fb62-ea0c-4903-9ff3-2886bf802efe",
         "title": "ML Validation Research Engineer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1773269693,
         "date_posted": 1773269693,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Validation-Research-Engineer---Early-Career_JR-202605769",
@@ -234674,7 +234369,7 @@
         "company_name": "Goldman Sachs",
         "id": "de896427-2d73-4fa8-b8b8-65efaf044cfd",
         "title": "Software Engineer - Data",
-        "active": true,
+        "active": false,
         "date_updated": 1781169481,
         "date_posted": 1781168814,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
@@ -404617,5 +404312,43 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CVS Health",
+        "id": "de12efe3-8edb-4076-8435-e2f1218c00df",
+        "title": "Assistant Product Development Manager",
+        "active": true,
+        "date_updated": 1788538141,
+        "date_posted": 1788480000,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Assistant-Product-Development-Manager_R1011648",
+        "locations": [
+            "Woonsocket, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Navion Senior Solutions",
+        "id": "fed5653f-9a92-401d-9594-24341fb28e9f",
+        "title": "Server \u2013 Part-Time - Mid Shift - Arbor Ridge at Stanleyville",
+        "active": true,
+        "date_updated": 1788537601,
+        "date_posted": 1787033954,
+        "url": "https://apply.workable.com/navionsl/j/61EF0B7906/apply",
+        "locations": [
+            "Winston-Salem, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Navion-Senior-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
