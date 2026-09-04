@@ -304245,7 +304245,7 @@
         "company_name": "Appian",
         "id": "61c0c8df-1076-44d6-987e-3b5e536c6e12",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784848003,
         "date_posted": 1784846147,
         "url": "https://job-boards.greenhouse.io/appian/jobs/8041241",
@@ -327911,7 +327911,7 @@
         "company_name": "Franklin Electric",
         "id": "76cd9256-6eb4-4068-9e07-6f5930966519",
         "title": "Product Specialist - Energy Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1785824282,
         "date_posted": 1785824043,
         "url": "https://franklin-electric.pinpointhq.com/en/postings/f3239526-4e5f-4608-bf65-f5d00b83b4bd?ats=pinpointhq",
@@ -371525,7 +371525,7 @@
         "company_name": "Zip",
         "id": "f2e72238-f7aa-4546-964c-34afbdf904bb",
         "title": "Software Engineer New Grad - 2027 Start",
-        "active": false,
+        "active": true,
         "date_updated": 1787701217,
         "date_posted": 1787701016,
         "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea/application?embed=true",
@@ -401782,7 +401782,7 @@
         "company_name": "KLA",
         "id": "7d6afb0f-e127-4831-90d3-a3bf11f058fe",
         "title": "FPGA Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788490284,
         "date_posted": 1788393600,
         "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/FPGA-Design-Engineer_2640102",
@@ -404834,6 +404834,541 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Makai Labs",
+        "id": "097cd79f-8c8e-447c-aa2f-7f8ffbccbba9",
+        "title": "Forward Deployed AI Analyst",
+        "active": true,
+        "date_updated": 1788561901,
+        "date_posted": 1788561892,
+        "url": "https://jobs.ashbyhq.com/makai-labs/3d4373e8-e09a-4034-a8e0-d511cef44fc7/application?embed=true",
+        "locations": [
+            "California",
+            "Texas",
+            "NYC",
+            "Massachusetts",
+            "New Jersey"
+        ],
+        "company_url": "https://simplify.jobs/c/Makai-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Edgehog Trading",
+        "id": "ad04c8bc-a7d6-4b68-8b8c-0eb0876c9014",
+        "title": "Graduate Quantitative Trader",
+        "active": true,
+        "date_updated": 1788562069,
+        "date_posted": 1788561890,
+        "url": "https://ats.rippling.com/edgehog-trading/jobs/96354af0-1bd0-4703-a654-e3d591b07777",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Edgehog-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Edgehog Trading",
+        "id": "c4ab4946-ca32-40a8-871d-7f457ac74405",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1788562068,
+        "date_posted": 1788561890,
+        "url": "https://ats.rippling.com/edgehog-trading/jobs/0d6b0e5c-be84-4324-8ee3-b875504e01d8",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Edgehog-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Credence",
+        "id": "78d9bccf-8fd2-497a-80a4-f3b00fed7d3a",
+        "title": "Entry-Level AI Software Engineer",
+        "active": true,
+        "date_updated": 1788561901,
+        "date_posted": 1788561842,
+        "url": "https://apply.workable.com/credence/j/BAD39E80E0/apply",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Credence",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "FieldPulse",
+        "id": "e382d44a-0453-4b79-8b67-afae254a5e16",
+        "title": "Product Manager - Core Product",
+        "active": true,
+        "date_updated": 1788562016,
+        "date_posted": 1788561797,
+        "url": "https://ats.rippling.com/fieldpulse/jobs/efebb108-3d13-4024-803f-0b991c0c6c08",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/FieldPulse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aerotech",
+        "id": "75b8591d-0408-4c28-b660-7ad3e0eb4b3d",
+        "title": "Software Engineer - Enterprise Development",
+        "active": true,
+        "date_updated": 1788561901,
+        "date_posted": 1788561752,
+        "url": "https://aerotech.applytojob.com/apply/K8ctztnPW6/Software-Engineer-Enterprise-Development",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aerotech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aerotech",
+        "id": "64e8c668-e84f-4de3-aa6b-d52054f1c698",
+        "title": "Software Engineer - Application Development",
+        "active": true,
+        "date_updated": 1788561901,
+        "date_posted": 1788561752,
+        "url": "https://aerotech.applytojob.com/apply/F6xsydip1r/Software-Engineer-Application-Development",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aerotech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "66902dbd-a7fe-44a4-aa32-3d24e86e4d85",
+        "title": "Associate Systems Engineer",
+        "active": true,
+        "date_updated": 1788561948,
+        "date_posted": 1788480000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Systems-Engineer_R10249344",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "INTERA",
+        "id": "cd0b6dc4-3bf4-40da-acdc-de2cefa7fe43",
+        "title": "Geoscience Technician",
+        "active": true,
+        "date_updated": 1788561721,
+        "date_posted": 1788561681,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4481774",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/INTERA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PayPal",
+        "id": "e9c88d04-28e7-4ce6-93c7-9be68148a5b3",
+        "title": "Data Scientist - Data Science",
+        "active": true,
+        "date_updated": 1788562081,
+        "date_posted": 1788561668,
+        "url": "https://paypal.eightfold.ai/careers/job/274922260562",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PayPal",
+        "id": "1391f391-f29c-43d6-8325-a988430b5fe9",
+        "title": "Software Engineer New Grad - Software Engineering",
+        "active": true,
+        "date_updated": 1788562081,
+        "date_posted": 1788561667,
+        "url": "https://paypal.eightfold.ai/careers/job/274921995088",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PayPal",
+        "id": "e393eb30-181d-4c04-ab51-a894ba8c8222",
+        "title": "Senior Machine Learning Engineer - Machine Learning Engineering",
+        "active": true,
+        "date_updated": 1788561889,
+        "date_posted": 1788561667,
+        "url": "https://paypal.eightfold.ai/careers/job/274922260675",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PayPal",
+        "id": "35d85de1-2a39-4150-94ca-3770bd3dc7e1",
+        "title": "Machine Learning Engineer - Machine Learning Engineering",
+        "active": true,
+        "date_updated": 1788562081,
+        "date_posted": 1788561667,
+        "url": "https://paypal.eightfold.ai/careers/job/274922260564",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Techtronic Industries (TTI)",
+        "id": "de09f32d-ce04-4e6c-8578-16556601c47b",
+        "title": "Tool Integration Electrical Engineer 1/2",
+        "active": true,
+        "date_updated": 1788561838,
+        "date_posted": 1788480000,
+        "url": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Tool-Integration-Electrical-Engineer-I-II_R77485",
+        "locations": [
+            "Anderson, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Techtronic-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Houlihan Lokey",
+        "id": "31e0901a-a38b-4379-84bc-c165bd266506",
+        "title": "AI Business Development Analyst",
+        "active": true,
+        "date_updated": 1788561816,
+        "date_posted": 1788480000,
+        "url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Atlanta-GA-USA/AI-Business-Development-Analyst_R3556-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Houlihan-Lokey",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vestwell",
+        "id": "e6179b6a-aa7e-4cac-a3ed-8db905d7c42e",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1788561802,
+        "date_posted": 1788561553,
+        "url": "https://job-boards.greenhouse.io/vestwell/jobs/7983915003",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Vestwell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Constellation Energy",
+        "id": "5692a35b-a407-498c-9c37-aef39ac5511e",
+        "title": "Associate Software Engineer - AI",
+        "active": true,
+        "date_updated": 1788561644,
+        "date_posted": 1788561541,
+        "url": "https://jobs.constellationenergy.com/jobs/138781?icims=1",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Constellation-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Scale AI",
+        "id": "334c123e-435a-4a0f-898f-671610d593e3",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1788561212,
+        "date_posted": 1788561090,
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Scale-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ID.me",
+        "id": "271f04b2-4017-4e86-b67f-387e7a47b5fe",
+        "title": "Software Development Engineer New Grad",
+        "active": true,
+        "date_updated": 1788561054,
+        "date_posted": 1788560433,
+        "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IDme",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fresenius Medical Care",
+        "id": "4406e6da-5c2d-472f-adb8-1fe07fc459a8",
+        "title": "Patient Care Technician",
+        "active": true,
+        "date_updated": 1788560821,
+        "date_posted": 1788480000,
+        "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Ottawa-OH-USA/Patient-Care-Technician---PCT_R0266770-1",
+        "locations": [
+            "Ottawa, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fresenius",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "First National Bank",
+        "id": "3c44dec4-9649-45fb-b272-919c257ee1f5",
+        "title": "AI Development Program Associate",
+        "active": true,
+        "date_updated": 1788561035,
+        "date_posted": 1788480000,
+        "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/AI---Digital-Development-Program---Pittsburgh--PA_2026-02192",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/First-National-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intel",
+        "id": "5fc2f214-fe6b-4c1d-b9aa-0a1dcbec56d2",
+        "title": "CAD/EDA Tools Automation Engineer",
+        "active": true,
+        "date_updated": 1788561026,
+        "date_posted": 1788480000,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0286757",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "First National Bank",
+        "id": "43ec7563-df6b-4983-813f-8dbcc53b1b14",
+        "title": "AI & Digital Development Program Associate",
+        "active": true,
+        "date_updated": 1788561026,
+        "date_posted": 1788480000,
+        "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/AI---Digital-Development-Program---Pittsburgh--PA_2026-02191",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/First-National-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "doTERRA",
+        "id": "9388bc69-6a67-4915-824e-0860a1faf16d",
+        "title": "AI Solutions Analyst",
+        "active": true,
+        "date_updated": 1788560821,
+        "date_posted": 1788480000,
+        "url": "https://doterra.wd1.myworkdayjobs.com/doTERRACareers/job/Pleasant-Grove-UT/AI-Solutions-Analyst_JR2605",
+        "locations": [
+            "Pleasant Grove, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/DoTERRA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Procter & Gamble",
+        "id": "998fef01-f50a-4d6e-b189-6417d597eeb6",
+        "title": "IT Software Engineer - Warehouse Systems - Solution Expert",
+        "active": true,
+        "date_updated": 1788561015,
+        "date_posted": 1788480000,
+        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/TORONTO-GO/IT-Warehouse-Systems-Solution-Expert_R000156588",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Clearway Energy",
+        "id": "efcd7ba5-be67-4ecd-925f-5dd27c0acb28",
+        "title": "Analyst \u2013 Asset Management",
+        "active": true,
+        "date_updated": 1788561192,
+        "date_posted": 1787602516,
+        "url": "https://job-boards.greenhouse.io/clearwayjobs/jobs/5212663007",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Clearway-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
