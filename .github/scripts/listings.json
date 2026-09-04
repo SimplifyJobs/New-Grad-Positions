@@ -263802,7 +263802,7 @@
         "company_name": "WellSky",
         "id": "cde0c9e3-9660-43c7-a20c-2b6fc1f70986",
         "title": "Staffing and Resource Forecasting Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783032661,
         "date_posted": 1783030374,
         "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Remote/Staffing-and-Resource-Forecasting-Analyst_JR4810",
@@ -366032,7 +366032,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "5ccced66-9142-4b34-b707-ac2de7ec911c",
         "title": "Systems Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1787334876,
         "date_posted": 1787334524,
         "url": "https://careers-gdms.icims.com/jobs/74470/job?mobile=true&needsRedirect=false",
@@ -375012,7 +375012,7 @@
         "company_name": "Kaufman Dolowich",
         "id": "d3a5ed1c-2d58-4f2d-b41e-539db114b5f3",
         "title": "AI Initiatives Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1787826783,
         "date_posted": 1787039698,
         "url": "https://careers-kdvlaw.icims.com/jobs/3016/job?mobile=true&needsRedirect=false",
@@ -382219,7 +382219,7 @@
         "company_name": "L3Harris Technologies",
         "id": "c75d7f50-6253-464e-9ab1-c0c0d2947640",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "date_updated": 1788260978,
         "date_posted": 1787872846,
         "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-1-UT-84116/1424202800/?ats=successfactors",
@@ -387999,7 +387999,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "c570aaad-51ef-443c-b2ae-5ce19cb13d6e",
         "title": "Electrical Hardware Engineer Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1788418985,
         "date_posted": 1788307200,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer-Graduate_1213434-1",
@@ -404333,5 +404333,87 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hearst",
+        "id": "0f01813c-18e9-48c2-9e47-4afaf74c1be9",
+        "title": "Hearst Fellowship for Newsroom AI Development - DevHub",
+        "active": true,
+        "date_updated": 1788531931,
+        "date_posted": 1788531830,
+        "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027417",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Hearst",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cooper University Health Care",
+        "id": "f83551b7-e3ed-4c68-9df6-9356b06f2e76",
+        "title": "Reporting and Analytics Developer",
+        "active": true,
+        "date_updated": 1788531481,
+        "date_posted": 1788531330,
+        "url": "https://careers-cooperhealth.icims.com/jobs/85602/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Camden, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Cooper-University-Health-Care",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "5db5a57d-ee6b-4048-96ad-55f2afa5c546",
+        "title": "Systems Engineer/Analyst - Multi-Mission Planning Development",
+        "active": true,
+        "date_updated": 1788531308,
+        "date_posted": 1788530894,
+        "url": "https://careers.jhuapl.edu/jobs/59909?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ernst & Young",
+        "id": "7bc7577b-9627-44b5-a5e6-26f00112d37a",
+        "title": "Tax Data & Technology Analyst - Business Tax Services - Federal Tax Advisory",
+        "active": true,
+        "date_updated": 1788531168,
+        "date_posted": 1788530855,
+        "url": "https://eyglobal.yello.co/jobs/sICJHMbSclBfC8TwwrccEw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+        "locations": [
+            "Miami, FL",
+            "Dallas, TX",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ernst-And-Young",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
