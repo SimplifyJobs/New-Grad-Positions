@@ -56,42 +56,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Baseten",
-        "id": "e4b1c093-8deb-43f0-a25a-c3b74d8db7c1",
-        "title": "Software Engineer - Model Performance Tooling",
-        "active": false,
-        "date_updated": 1767769857,
-        "date_posted": 1767769857,
-        "url": "https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f/application",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Baseten",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amazon",
-        "id": "0df5cb1d-8ceb-47ab-baf2-2f2f2ad4c03f",
-        "title": "Software Engineer 1 - Builder",
-        "active": false,
-        "date_updated": 1767769724,
-        "date_posted": 1767769724,
-        "url": "https://amazon.jobs/en/jobs/3154041/software-engineer-i-builder",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Cerebras",
         "id": "77721052-61c2-44be-ba90-f79d2be3dc11",
         "title": "Codesign & Nextgen \u2013 New College Grad",
@@ -19383,7 +19347,7 @@
         "company_name": "Jahnel Group",
         "id": "8d500528-6b4d-4491-abf2-cff73f21e6d7",
         "title": "Associate Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1769125551,
         "date_posted": 1769125551,
         "url": "https://www.jahnelgroup.com/apply.html?gh_jid=5031747007",
@@ -21060,7 +21024,7 @@
         "company_name": "NVIDIA",
         "id": "2184ba51-9029-4b0d-956c-e66d880ffe74",
         "title": "Applied Machine Learning Engineer \u2013 New College Grad 2026 - Circuit Design",
-        "active": false,
+        "active": true,
         "date_updated": 1769212230,
         "date_posted": 1769212230,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517",
@@ -50960,7 +50924,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "3f7f5d27-cf87-4cab-9919-eef38ebdd5b7",
         "title": "Engineering Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770853591,
         "date_posted": 1770853591,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-WA-Seattle/Engineering-Technician-I_RQ214785",
@@ -69551,7 +69515,7 @@
         "company_name": "Advanced Energy",
         "id": "471d3f08-9ee1-4b25-be0b-492cd000b735",
         "title": "Electronics Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771888321,
         "date_posted": 1771888321,
         "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Electronics-Service-Technician-CO-80525/1367164400/?ats=successfactors",
@@ -71509,7 +71473,7 @@
         "company_name": "Kanshe Infotech",
         "id": "deed4f00-40b1-4e15-a318-5e848adf52e6",
         "title": "Dot Net Developer Training",
-        "active": true,
+        "active": false,
         "date_updated": 1771916877,
         "date_posted": 1771916877,
         "url": "https://jobs.smartrecruiters.com/Learnkwikcom/743999660833307",
@@ -236808,7 +236772,7 @@
         "company_name": "Probook",
         "id": "78ed4c00-f810-4174-be06-0382cf25176f",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781254841,
         "date_posted": 1777068545,
         "url": "https://jobs.ashbyhq.com/probook/83a9ab68-0f4c-437f-8d9a-2566eaf9aba6/application",
@@ -305409,7 +305373,7 @@
         "company_name": "Silvus Technologies",
         "id": "8eab18bf-2613-4c84-a501-126d8438e0ca",
         "title": "Electronics Technician - Entry-Level",
-        "active": true,
+        "active": false,
         "date_updated": 1784857575,
         "date_posted": 1784857206,
         "url": "https://job-boards.greenhouse.io/silvus/jobs/4919020008",
@@ -319800,7 +319764,7 @@
         "company_name": "Northwestern Mutual",
         "id": "33863275-2a05-41ff-bedb-8b3c2e3b8867",
         "title": "Investment Analyst - Private Debt & Equity",
-        "active": true,
+        "active": false,
         "date_updated": 1785579662,
         "date_posted": 1778947432,
         "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst---Private-Debt---Equity_JR-40524",
@@ -323444,7 +323408,7 @@
         "company_name": "3S Business Corporation",
         "id": "6fefbc10-1d16-4a4a-ba97-4beb6effc11c",
         "title": "iOS Training",
-        "active": true,
+        "active": false,
         "date_updated": 1785662177,
         "date_posted": 1771398466,
         "url": "https://jobs.smartrecruiters.com/3SBusinessCorporationInc1/84341200",
@@ -337479,7 +337443,7 @@
         "company_name": "Alphataraxia",
         "id": "eda3a876-d02d-4522-81f9-22bb2b288dff",
         "title": "Investment Analyst New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1786140384,
         "date_posted": 1786140302,
         "url": "https://job-boards.greenhouse.io/alphataraxia/jobs/4829019007",
@@ -337682,7 +337646,7 @@
         "company_name": "WelbeHealth",
         "id": "58d9d263-e25e-491b-9e3e-42e08454509c",
         "title": "AI Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786142685,
         "date_posted": 1786141981,
         "url": "https://job-boards.greenhouse.io/welbehealth/jobs/8599687002",
@@ -355690,7 +355654,7 @@
         "company_name": "ALTEN Technology",
         "id": "f6f665ec-37eb-4922-9180-758bb53c6bbc",
         "title": "Data Collection Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1787005621,
         "date_posted": 1787005533,
         "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/4981897007",
@@ -377459,7 +377423,7 @@
         "company_name": "Nokia",
         "id": "351d2f35-75ef-4c00-bad5-ef68baac6de1",
         "title": "Coherent Optical Systems Engineer - Optical Modem Development and Optimization",
-        "active": true,
+        "active": false,
         "date_updated": 1787908700,
         "date_posted": 1769383007,
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31075",
@@ -382969,7 +382933,7 @@
         "company_name": "Mechanical Licensing Collective",
         "id": "65a2cf79-2211-4774-94a9-b1124201de35",
         "title": "Matching Support Temp",
-        "active": true,
+        "active": false,
         "date_updated": 1788279497,
         "date_posted": 1788279429,
         "url": "https://job-boards.greenhouse.io/mechanicallicensingcollective/jobs/7499665003",
@@ -391988,7 +391952,7 @@
         "company_name": "Northwood Space",
         "id": "0f0587c3-f43f-4a49-ab68-5ac6786e237a",
         "title": "RF & Antenna Systems Engineer - Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1786697479,
         "date_posted": 1786389015,
         "url": "https://jobs.ashbyhq.com/NorthwoodSpace/11992bc2-5ec9-4143-9b64-e70be5b13726/application?embed=true",
@@ -392411,7 +392375,7 @@
         "company_name": "Space Kinetic",
         "id": "4d62fb51-19a8-47f1-8639-9ac4b9ef7082",
         "title": "Electrical Engineer - Development Program - Path to Hire",
-        "active": true,
+        "active": false,
         "date_updated": 1787647196,
         "date_posted": 1784902528,
         "url": "https://job-boards.greenhouse.io/spacekinetic/jobs/4759112008",
@@ -392614,7 +392578,7 @@
         "company_name": "BDO Canada",
         "id": "4cb5564e-7271-4643-b1b5-cb8784b629c0",
         "title": "Junior Accountant - Assurance",
-        "active": true,
+        "active": false,
         "date_updated": 1787046841,
         "date_posted": 1782559447,
         "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Salmon-Arm/Junior-Accountant--Assurance--Salmon-Arm--Fall-2026-or-Winter-2027_JR5679",
@@ -394845,7 +394809,7 @@
         "company_name": "Shield AI",
         "id": "56aa6220-c506-4dfb-b8f1-e72e689154f8",
         "title": "Power Electronics Engineer 1 - Electrical Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1787649454,
         "date_posted": 1776762499,
         "url": "https://jobs.lever.co/shieldai/0af53b2b-e1ba-4e73-9e94-a4a689cabab9/apply",
@@ -397862,7 +397826,7 @@
         "company_name": "Direct Staffing",
         "id": "c6fabb1c-ea49-4a57-b51c-f8fa6db5e0de",
         "title": "Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788457523,
         "date_posted": 1771830956,
         "url": "https://jobs.smartrecruiters.com/dstaff/82133512",
@@ -403363,6 +403327,172 @@
             "Louisville, KY"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Louisville",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "e1465a5c-a124-438a-bee8-abb99bb5e18b",
+        "title": "Test Engineer - Modules",
+        "active": true,
+        "date_updated": 1788505021,
+        "date_posted": 1787780452,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/United-Kingdom---Caldicot/Principal-Test-Engineer_R879-25",
+        "locations": [
+            "Caldicot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Space Kinetic",
+        "id": "b91d1b8c-98f8-4dad-8b55-0398ca8daac5",
+        "title": "Flight Software Engineer Development Program - Path to Hire",
+        "active": true,
+        "date_updated": 1788505021,
+        "date_posted": 1785478322,
+        "url": "https://job-boards.greenhouse.io/spacekinetic/jobs/4885803008",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Space-Kinetic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CarMax",
+        "id": "ae5df28f-2b60-4444-946d-4cd3def5a7c1",
+        "title": "Strategy Analyst",
+        "active": true,
+        "date_updated": 1788505932,
+        "date_posted": 1783161296,
+        "url": "https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Strategy-Analyst_JR-171329-1",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CarMax",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Draper",
+        "id": "f638a7a9-7858-44cf-a52d-23c7ec258ad8",
+        "title": "System Integration and Test Engineer 1",
+        "active": true,
+        "date_updated": 1788505932,
+        "date_posted": 1783168092,
+        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/System-Integ--Test--Engr-MTS2_JR001952",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Draper",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Encore Capital Group",
+        "id": "ea6e44f5-5776-4b5d-bb19-8a1b77d04f52",
+        "title": "Business Analyst",
+        "active": true,
+        "date_updated": 1788505021,
+        "date_posted": 1783167006,
+        "url": "https://encore.wd1.myworkdayjobs.com/confidential/job/CA---San-Diego/Business-Analyst_HR-08954-2",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Encore-Capital-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AppLovin",
+        "id": "a93b5d0b-3988-4995-9ba0-da6e6621b640",
+        "title": "ML Infrastructure Engineer",
+        "active": true,
+        "date_updated": 1788506642,
+        "date_posted": 1771457985,
+        "url": "https://boards.greenhouse.io/applovin/jobs/4655740006",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AppLovin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Perpay",
+        "id": "d7cb4ad8-75c7-4bef-9db4-dfec7b390e67",
+        "title": "Junior Strategic Analyst",
+        "active": true,
+        "date_updated": 1788505932,
+        "date_posted": 1769210830,
+        "url": "https://job-boards.greenhouse.io/perpay/jobs/4158121007",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Perpay",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northwood Space",
+        "id": "946d97b3-a782-4b11-a0f2-f8b032714d4d",
+        "title": "Electrical Test Engineer",
+        "active": true,
+        "date_updated": 1788505932,
+        "date_posted": 1767914027,
+        "url": "https://jobs.ashbyhq.com/NorthwoodSpace/e153b809-8535-4d9d-b48c-c25acdeadae7/application?embed=true",
+        "locations": [
+            "LA",
+            "Torrance, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwood-Space",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
