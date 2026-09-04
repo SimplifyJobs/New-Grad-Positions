@@ -56,47 +56,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Capital on Tap",
-        "id": "63f18f4b-fb70-4038-a87b-73a6b2b20400",
-        "title": "Analyst & Data Science Graduate Programme",
-        "active": false,
-        "date_updated": 1767804409,
-        "date_posted": 1767804409,
-        "url": "https://job-boards.greenhouse.io/capitalontap/jobs/8345137002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-On-Tap",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "6e161d5b-2c75-4847-9e7a-23fe8375d616",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1767804320,
-        "date_posted": 1767804320,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7519155",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Oklahoma State Government",
         "id": "5ee99584-87b1-4383-acf5-783192eaa8de",
         "title": "Environmental Programs Specialist",
@@ -126,65 +85,6 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "9f023b83-c3f2-4512-a6a7-4797a576f2d2",
-        "title": "Postbaccalaureate Appointee",
-        "active": false,
-        "date_updated": 1767805007,
-        "date_posted": 1767805007,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postbaccalaureate-Appointee_421600",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "AT&T",
-        "id": "f2c8eb2c-db1c-45a9-8994-0afbc9118633",
-        "title": "Installation Technician",
-        "active": false,
-        "date_updated": 1767803659,
-        "date_posted": 1767803659,
-        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Hurst-Texas/Installation-Technician_R-93475",
-        "locations": [
-            "Fort Worth, TX",
-            "Hurst, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/ATT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GlobalFoundries",
-        "id": "a2f59ab5-5b84-43ec-973a-47e1af286568",
-        "title": "Manufacturing Operator",
-        "active": false,
-        "date_updated": 1767804615,
-        "date_posted": 1767804615,
-        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Manufacturing-Operators---Up-To--5-000-Sign-On-Bonus-_JR-2504865",
-        "locations": [
-            "Burlington, VT"
-        ],
-        "company_url": "https://simplify.jobs/c/GlobalFoundries",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -8157,26 +8057,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "University of Miami",
-        "id": "6045d5b5-ffd7-4139-b66d-2295f2b9fbab",
-        "title": "Research Associate 1",
-        "active": false,
-        "date_updated": 1768392364,
-        "date_posted": 1767805006,
-        "url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-I_R100093407",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Miami",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "64ae762a-3c64-44b3-ad22-f40690d96e48",
@@ -14998,27 +14878,6 @@
             "Waterbury, CT"
         ],
         "company_url": "https://simplify.jobs/c/DXC-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lexington Medical",
-        "id": "ceede43b-9158-4613-8a39-4f30dfab6d52",
-        "title": "Embedded Software Engineer",
-        "active": false,
-        "date_updated": 1768923730,
-        "date_posted": 1767804355,
-        "url": "https://job-boards.greenhouse.io/lexingtonmedical/jobs/5057076008",
-        "locations": [
-            "Bedford, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lexington-Medical",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -350823,7 +350682,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "8427086c-fb04-4125-a38f-4e9c9fa28dc7",
         "title": "Systems Engineer/Analyst New Grad - Multi-Mission Planning Development",
-        "active": true,
+        "active": false,
         "date_updated": 1786680261,
         "date_posted": 1786679974,
         "url": "https://careers.jhuapl.edu/jobs/58164?icims=1",
@@ -390017,7 +389876,7 @@
         "company_name": "Kaufman Dolowich",
         "id": "683c30f3-bc25-4d36-9fa2-9f3c8f5e9a2e",
         "title": "AI Initiatives Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1788430414,
         "date_posted": 1787039697,
         "url": "https://careers-kdvlaw.icims.com/jobs/3015/job?mobile=true&needsRedirect=false",
@@ -390793,7 +390652,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "ac728208-57ab-4adf-9430-f25c44f3907e",
         "title": "Subsea Robotics Engineer Graduate - Maritime Robotics",
-        "active": true,
+        "active": false,
         "date_updated": 1786680161,
         "date_posted": 1786679921,
         "url": "https://careers.jhuapl.edu/jobs/59589?icims=1",
