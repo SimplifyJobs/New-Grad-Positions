@@ -404597,5 +404597,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "f0b29e50-b635-4c76-a927-cfa84ad6656d",
+        "title": "Electrical Design Engineer 2",
+        "active": true,
+        "date_updated": 1788536206,
+        "date_posted": 1786406400,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ottawa/Lead-Firmware-Engineer_J2460092",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
