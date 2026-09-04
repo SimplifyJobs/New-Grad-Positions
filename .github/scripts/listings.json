@@ -404577,5 +404577,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Paccar",
+        "id": "fe83daad-c9f1-4e22-b257-7c24f529c0fd",
+        "title": "Aftermarket Purchasing Data Analyst",
+        "active": true,
+        "date_updated": 1788535621,
+        "date_posted": 1788535510,
+        "url": "https://jobs.paccar.com/job/Renton-Aftermarket-Purchasing-Data-Analyst-WA-98055/1434078533/?ats=successfactors",
+        "locations": [
+            "Renton, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Paccar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
