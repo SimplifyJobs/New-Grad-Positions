@@ -55,42 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Oklahoma State Government",
-        "id": "5ee99584-87b1-4383-acf5-783192eaa8de",
-        "title": "Environmental Programs Specialist",
-        "active": false,
-        "date_updated": 1767805734,
-        "date_posted": 1767805734,
-        "url": "https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/Environmental-Programs-Specialist_JR54578",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Oklahoma-State-Government",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "16d8ad08-a38c-4b8b-82d0-d3f58058b0f2",
-        "title": "Research Assistant in Geomorphology-GEOSCI",
-        "active": false,
-        "date_updated": 1767805350,
-        "date_posted": 1767805350,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-in-Geomorphology-GEOSCI_REQ_0000074720-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Palo Alto Networks",
         "id": "b43a2ef0-47b0-4ef7-ba0e-11a38d74663c",
@@ -351281,7 +351245,7 @@
         "company_name": "Latham & Watkins",
         "id": "98307daf-8f35-4d74-b6d2-766db945e7a5",
         "title": "Conflicts Database Administrator",
-        "active": true,
+        "active": false,
         "date_updated": 1786682341,
         "date_posted": 1786681113,
         "url": "https://ukcareers-lw.icims.com/jobs/5152/job?mobile=true&needsRedirect=false",
@@ -382265,7 +382229,7 @@
         "company_name": "BNY",
         "id": "a3afafe3-1611-4e47-8bb7-aaaedc672f31",
         "title": "Data Transfer, Integration & Quality Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1788277272,
         "date_posted": 1788277140,
         "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/77675",
