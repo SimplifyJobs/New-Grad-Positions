@@ -359941,7 +359941,7 @@
         "company_name": "WOOD Consulting Services",
         "id": "95645a1a-37b5-46b8-82dc-51c06ded8cbd",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787172121,
         "date_posted": 1787172089,
         "url": "https://jobs-woodcons.icims.com/jobs/14910/job?mobile=true&needsRedirect=false",
@@ -404263,5 +404263,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mass General Brigham",
+        "id": "427fc125-8fe9-4189-95f3-0fdee1570153",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1788613781,
+        "date_posted": 1788566400,
+        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Data-Analyst-I_RQ4078299",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tyson Foods",
+        "id": "cbfeabfc-ee55-4235-b847-c779d788699e",
+        "title": "Customer Category Analyst - Costco",
+        "active": true,
+        "date_updated": 1788613248,
+        "date_posted": 1788566400,
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Customer-Category-Analyst---Costco_R0483651-1",
+        "locations": [
+            "Springdale, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Tyson-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
