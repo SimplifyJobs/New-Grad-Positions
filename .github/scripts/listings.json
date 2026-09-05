@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BAE Systems",
-        "id": "6c68abc8-66ca-4fbb-a23d-25cc38873497",
-        "title": "Engineering Assistant",
-        "active": false,
-        "date_updated": 1767867170,
-        "date_posted": 1767867170,
-        "url": "https://baesystems.taleo.net/careersection/2/jobdetail.ftl?job=00132408",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/BAE-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Uline",
         "id": "1ee823df-c090-4e43-92e8-7e7215a100df",
@@ -403457,7 +403439,7 @@
         "company_name": "GlobalFoundries",
         "id": "7663017a-6036-4a9f-997c-0db0dd562328",
         "title": "Software Engineer - Cloud Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1788560282,
         "date_posted": 1788480000,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056",
