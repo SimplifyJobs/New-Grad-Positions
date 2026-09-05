@@ -385427,7 +385427,7 @@
         "company_name": "Leidos",
         "id": "a015ef37-b241-4971-89e0-e4b6561afbbb",
         "title": "Associate Software Developer - Air Traffic Business Area",
-        "active": true,
+        "active": false,
         "date_updated": 1788414104,
         "date_posted": 1788307200,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Associate-Software-Engineer_R-00191290",
@@ -404133,6 +404133,110 @@
         "locations": [
             "SF",
             "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Dyna-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Xodus Group",
+        "id": "8657462d-9090-4373-8426-b434617bb36f",
+        "title": "Subsea and Marine Engineer",
+        "active": true,
+        "date_updated": 1788606722,
+        "date_posted": 1787848860,
+        "url": "https://apply.workable.com/xodus-group/j/160CA5656A/apply",
+        "locations": [
+            "London, UK",
+            "Aberdeen, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Xodus-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "b417f28c-9782-4658-b29f-9ad417c17c70",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1788606722,
+        "date_posted": 1783001254,
+        "url": "https://jobs.l3harris.com/job/Montreal-Software-Engineer-Queb-H4T-1G5/1405256900/?ats=successfactors",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dyna Robotics",
+        "id": "8c775e3d-bd55-4375-86f3-e8416d7c56b7",
+        "title": "Robot Safety Operator",
+        "active": true,
+        "date_updated": 1788606901,
+        "date_posted": 1780006149,
+        "url": "https://jobs.ashbyhq.com/dyna-robotics/dffc5988-f3f2-4d1e-8648-da249ebc035d/application?embed=true",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dyna-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Metaview",
+        "id": "9fad232c-43cc-403b-9475-b965f64e9c1f",
+        "title": "Product Staff Engineer",
+        "active": true,
+        "date_updated": 1788607621,
+        "date_posted": 1781935651,
+        "url": "https://jobs.ashbyhq.com/metaview/d9f94564-9404-4010-8d9a-413d6a1a6c14/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Metaview",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dyna Robotics",
+        "id": "962208a6-d342-4140-97ec-4cad99d1d9dd",
+        "title": "Robot Safety Operator",
+        "active": true,
+        "date_updated": 1788607441,
+        "date_posted": 1780553360,
+        "url": "https://jobs.ashbyhq.com/dyna-robotics/d889c611-ab2e-4b5f-b6b6-56655e249561/application?embed=true",
+        "locations": [
+            "SF",
+            "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Dyna-Robotics",
         "is_visible": true,
