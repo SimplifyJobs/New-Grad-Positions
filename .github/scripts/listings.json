@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "University of Southern California",
-        "id": "7356a192-13d0-44cf-b52a-b3d57a19fcbf",
-        "title": "Business Data Analyst",
-        "active": false,
-        "date_updated": 1767855750,
-        "date_posted": 1767855750,
-        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA/Business-Data-Analyst_REQ20170647-1",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "d794ee07-53a7-4d04-9462-d475a021f4d0",
         "title": "Data Scientist Graduate - Product Analytics",
@@ -355289,7 +355269,7 @@
         "company_name": "Urban Science",
         "id": "39894c1d-735e-44ce-8d92-8eeadbfe0686",
         "title": "Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787005621,
         "date_posted": 1787005593,
         "url": "https://careers-urbanscience.icims.com/jobs/5216/job?mobile=true&needsRedirect=false",
@@ -376561,7 +376541,7 @@
         "company_name": "L3Harris Technologies",
         "id": "649c43b4-ecea-4ee8-b78e-601bfe8a7376",
         "title": "Software Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1787953596,
         "date_posted": 1787953441,
         "url": "https://jobs.l3harris.com/job/Richardson-Associate,-Software-Engineer-TX-75080/1424473800/?ats=successfactors",
