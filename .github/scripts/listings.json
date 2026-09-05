@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "d794ee07-53a7-4d04-9462-d475a021f4d0",
-        "title": "Data Scientist Graduate - Product Analytics",
-        "active": false,
-        "date_updated": 1767858903,
-        "date_posted": 1767858903,
-        "url": "https://lifeattiktok.com/search/7539974477397592338",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Marigold",
         "id": "9416eb88-37e4-4b63-bd54-1a50e5adb170",
@@ -330465,7 +330444,7 @@
         "company_name": "Microsoft",
         "id": "3f94586c-7465-4690-b2fc-6e57482fdcc0",
         "title": "Software Development Consultant - Technology Consulting",
-        "active": true,
+        "active": false,
         "date_updated": 1785968333,
         "date_posted": 1785968012,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556857973",
