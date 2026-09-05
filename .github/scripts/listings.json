@@ -232851,7 +232851,7 @@
         "company_name": "Goldman Sachs",
         "id": "de896427-2d73-4fa8-b8b8-65efaf044cfd",
         "title": "Software Engineer - Data",
-        "active": false,
+        "active": true,
         "date_updated": 1781169481,
         "date_posted": 1781168814,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
@@ -277846,7 +277846,7 @@
         "company_name": "Dyna Robotics",
         "id": "a5a621ed-b394-49ec-adfa-ff0478038d0b",
         "title": "Robot Safety Operator",
-        "active": false,
+        "active": true,
         "date_updated": 1783991521,
         "date_posted": 1783991497,
         "url": "https://jobs.ashbyhq.com/dyna-robotics/179713ee-3f63-4904-8260-13a94dbe178a/application",
@@ -386749,7 +386749,7 @@
         "company_name": "Handshake",
         "id": "bb66ecf4-3f31-425b-b0db-e3ac238e78ae",
         "title": "AI Model Policy Trainer - Image Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1788421867,
         "date_posted": 1788407702,
         "url": "https://jobs.ashbyhq.com/handshake/2c10a785-ad18-4fd7-8148-995ad76f3e7d/application?embed=true",
@@ -404245,5 +404245,23 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Marriott International",
+        "id": "e5e41e48-5f98-45a6-8bc7-c1c6e5f3703a",
+        "title": "Guest Experience Specialist",
+        "active": true,
+        "date_updated": 1788608701,
+        "date_posted": 1787869625,
+        "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26109275",
+        "locations": [
+            "Romulus, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Marriott-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
