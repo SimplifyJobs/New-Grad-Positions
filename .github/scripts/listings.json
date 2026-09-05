@@ -1,53 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Uline",
-        "id": "1ee823df-c090-4e43-92e8-7e7215a100df",
-        "title": "Product Management Analyst",
-        "active": false,
-        "date_updated": 1767884084,
-        "date_posted": 1767884084,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Analyst_R260339-1",
-        "locations": [
-            "Waukegan, IL",
-            "Milwaukee, WI",
-            "Pleasant Prairie, WI",
-            "Morton Grove, IL",
-            "Kenosha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uline",
-        "id": "15a778ef-2b2a-4901-9aec-ed118ed4c681",
-        "title": "Associate Software Developer",
-        "active": false,
-        "date_updated": 1767884071,
-        "date_posted": 1767884071,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Waukegan-IL/Associate-Software-Developer_R260376",
-        "locations": [
-            "Waukegan, IL",
-            "Pleasant Prairie, WI",
-            "Morton Grove, IL",
-            "Kenosha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "b9c20b03-4aa8-4bd0-b949-5f7839dc3a36",
@@ -232851,7 +232804,7 @@
         "company_name": "Goldman Sachs",
         "id": "de896427-2d73-4fa8-b8b8-65efaf044cfd",
         "title": "Software Engineer - Data",
-        "active": true,
+        "active": false,
         "date_updated": 1781169481,
         "date_posted": 1781168814,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
@@ -393826,7 +393779,7 @@
         "company_name": "WOOD Consulting Services",
         "id": "a6bd1314-ac47-45a9-8a6e-40903768ae2a",
         "title": "Systems Engineer 0",
-        "active": true,
+        "active": false,
         "date_updated": 1788446715,
         "date_posted": 1787039770,
         "url": "https://jobs-woodcons.icims.com/jobs/14783/job?mobile=true&needsRedirect=false",
