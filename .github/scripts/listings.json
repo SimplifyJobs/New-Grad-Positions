@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Marigold",
-        "id": "9416eb88-37e4-4b63-bd54-1a50e5adb170",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1767866235,
-        "date_posted": 1767866235,
-        "url": "https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Software-Engineer_R2356",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Marigold",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "BAE Systems",
         "id": "6c68abc8-66ca-4fbb-a23d-25cc38873497",
@@ -349158,7 +349140,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "702d071e-5ec1-4732-9be6-f362e43cf785",
         "title": "Algorithm Researcher - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1786680273,
         "date_posted": 1786679979,
         "url": "https://careers.jhuapl.edu/jobs/57698?icims=1",
