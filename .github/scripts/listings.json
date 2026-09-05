@@ -233162,7 +233162,7 @@
         "company_name": "Goldman Sachs",
         "id": "de896427-2d73-4fa8-b8b8-65efaf044cfd",
         "title": "Software Engineer - Data",
-        "active": true,
+        "active": false,
         "date_updated": 1781169481,
         "date_posted": 1781168814,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
@@ -281697,7 +281697,7 @@
         "company_name": "TD Bank",
         "id": "725a5070-88c9-4a51-890e-f7e39332751c",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784155406,
         "date_posted": 1784073600,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1496579",
@@ -347798,7 +347798,7 @@
         "company_name": "Autodesk",
         "id": "d4ae6451-b1b2-4a63-8dc6-e456e9f5bf19",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1786661281,
         "date_posted": 1786579200,
         "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100537",
@@ -353046,7 +353046,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -353085,7 +353085,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -353144,7 +353144,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -353448,7 +353448,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -404320,5 +404320,97 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Domino's",
+        "id": "0541ea68-a2d7-4fe4-b3e4-f7e4d677fe3c",
+        "title": "Customer Service Representative",
+        "active": true,
+        "date_updated": 1788571462,
+        "date_posted": 1788571298,
+        "url": "https://jobs.smartrecruiters.com/Dominos/744000147617924",
+        "locations": [
+            "The Colony, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Dominos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ZRS Management",
+        "id": "8552ff06-eb32-409f-99be-6b83447122b3",
+        "title": "Housekeeper",
+        "active": true,
+        "date_updated": 1788571082,
+        "date_posted": 1788480000,
+        "url": "https://zrsmanagement.wd5.myworkdayjobs.com/zrs_careers/job/Austin-TX-78721/Housekeeper_R-108236",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ZRS-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fresenius Medical Care",
+        "id": "497ef304-d09e-453d-b9d1-5731438f9c1a",
+        "title": "Patient Care Technician",
+        "active": true,
+        "date_updated": 1788571143,
+        "date_posted": 1788480000,
+        "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Norristown-PA/Patient-Care-Technician--Training-Provided_R0268334",
+        "locations": [
+            "Norristown, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fresenius",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "a35187f2-2b60-4934-a7af-6dde56245e69",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1788571079,
+        "date_posted": 1788570819,
+        "url": "https://careers-gdms.icims.com/jobs/74823/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dutch Bros",
+        "id": "5a1a3327-bc19-468d-b569-05d45943a503",
+        "title": "Broista",
+        "active": true,
+        "date_updated": 1788570768,
+        "date_posted": 1788480000,
+        "url": "https://dutchbros.wd1.myworkdayjobs.com/en-US/DBShops/job/11350-S-Fortuna-Rd-Yuma-AZ-85367/Broista---Yuma--AZ_REQ-20022",
+        "locations": [
+            "Yuma, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Dutch-Bros",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
