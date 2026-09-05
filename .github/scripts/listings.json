@@ -352735,7 +352735,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -352774,7 +352774,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -404303,5 +404303,61 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tyson Foods",
+        "id": "cf5d2cc2-c274-4fb9-9cef-46931c854228",
+        "title": "Analytics Analyst",
+        "active": true,
+        "date_updated": 1788617521,
+        "date_posted": 1788566400,
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Analytics-Analyst---Walmart_R0483678-1",
+        "locations": [
+            "Springdale, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Tyson-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lowes Foods Grocery Stores",
+        "id": "dc543916-6696-4ce5-81fc-a880e02c69f2",
+        "title": "Community Table Coordinator",
+        "active": true,
+        "date_updated": 1788617441,
+        "date_posted": 1788617168,
+        "url": "https://careers-lowesfoods.icims.com/jobs/140920/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Myrtle Beach, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Lowes-Foods-Grocery-Stores",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "John Lewis Partnership",
+        "id": "67d13233-6d7d-4c33-b1e8-250c43a356b5",
+        "title": "Hospitality - Supermarket Assistant",
+        "active": true,
+        "date_updated": 1788617002,
+        "date_posted": 1788134400,
+        "url": "https://jlp.wd3.myworkdayjobs.com/JLPjobs_careers/job/Ipswich-Corn-Exchange-Waitrose--Partners/Hospitality--Supermarket-Assistant_R-210888",
+        "locations": [
+            "Ipswich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Lewis-Partnership",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
