@@ -55,87 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "IXL Learning",
-        "id": "698d7c96-bf2f-450e-8d50-4a5688ebb53f",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1767839029,
-        "date_posted": 1767839029,
-        "url": "https://www.ixl.com/company/jobs?gh_jid=8364765002",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/IXL-Learning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "T-Mobile",
-        "id": "4dafc4c7-efed-4345-b3f9-821a4f1fdee5",
-        "title": "Associate Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1767838920,
-        "date_posted": 1767838920,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Machine-Learning-Engineer_REQ329855-1",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "IXL Learning",
-        "id": "2b239a52-afb9-413e-89b4-0974da588e5e",
-        "title": "Associate Product Manager - New Grad",
-        "active": false,
-        "date_updated": 1767839043,
-        "date_posted": 1767839043,
-        "url": "https://www.ixl.com/company/jobs?gh_jid=8364803002",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/IXL-Learning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Wyld",
-        "id": "56f56726-6a86-421f-8938-f74bbbbbedd4",
-        "title": "Data and Integrations Analyst",
-        "active": false,
-        "date_updated": 1767838440,
-        "date_posted": 1767838440,
-        "url": "https://wyld.pinpointhq.com/en/postings/2555f552-7d63-4256-bcd5-64b09a83176c?ats=pinpointhq",
-        "locations": [
-            "Happy Valley, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Wyld",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Applied Materials",
         "id": "557a8a2a-2148-4734-81ad-b5720674e1ef",
@@ -195,43 +114,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Quantifind",
-        "id": "aa7572ba-4d3e-4403-9a7a-be1290d585cb",
-        "title": "Associate Product Marketing Manager",
-        "active": false,
-        "date_updated": 1767839249,
-        "date_posted": 1767839249,
-        "url": "https://www.quantifind.com/open-positions/?gh_jid=7522110",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Quantifind",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Wells Fargo",
-        "id": "78dd5814-8024-4356-bd74-2ae8f5f09026",
-        "title": "Business Execution Associate - Platform Trading Coaching",
-        "active": false,
-        "date_updated": 1767838610,
-        "date_posted": 1767838610,
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAINT-LOUIS-MO/Business-Execution-Associate---Platform-Trading-Coaching_R-512496-1",
-        "locations": [
-            "Charlotte, NC",
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Wells-Fargo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
