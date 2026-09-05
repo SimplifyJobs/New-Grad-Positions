@@ -56,29 +56,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Amgen",
-        "id": "fd923cf5-ed7c-4ec7-bfbf-7db593cbead0",
-        "title": "Principal Engineer",
-        "active": false,
-        "date_updated": 1767830639,
-        "date_posted": 1767830639,
-        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Principal-Engineer-Combination-Product-Operations-MSAT-Primary-Container-Engineering-SRE_R-233208",
-        "locations": [
-            "Thousand Oaks, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amgen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "1112471f-3963-4646-856a-5baa5374581c",
         "title": "Software Engineer - Level - Space Systems",
@@ -117,24 +94,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "c6b2af3e-ed84-4876-b4cb-505769465d14",
-        "title": "Games Support Technician",
-        "active": false,
-        "date_updated": 1767832170,
-        "date_posted": 1767832170,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Long-Beach-CA/Games-Support-Technician_R-1007413",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -378621,7 +378580,7 @@
         "company_name": "CDK Global",
         "id": "2d9eafef-4f51-4b00-9778-8056f9e763ec",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788202621,
         "date_posted": 1788134400,
         "url": "https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Software-Engineer_JR9201-1",
@@ -403014,7 +402973,7 @@
         "company_name": "DoorDash",
         "id": "513e6d2f-18b8-4296-b39d-cd4c8b148b9b",
         "title": "Software Engineer 1 - Entry-Level",
-        "active": true,
+        "active": false,
         "date_updated": 1788533849,
         "date_posted": 1788533669,
         "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
