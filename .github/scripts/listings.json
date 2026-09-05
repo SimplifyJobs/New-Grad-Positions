@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "da7a5f9b-a51f-4381-b446-72dfa7f5709c",
-        "title": "FPA Assembly Technician",
-        "active": false,
-        "date_updated": 1767890196,
-        "date_posted": 1767890196,
-        "url": "https://jobs.l3harris.com/job/Mason-FPA-Assembly-and-Technician-OH-45040/1354481700/?ats=successfactors",
-        "locations": [
-            "Mason, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Dover",
         "id": "53ea6526-0cb6-45c8-a95c-515a41c04db7",
