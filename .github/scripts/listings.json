@@ -56,68 +56,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "1112471f-3963-4646-856a-5baa5374581c",
-        "title": "Software Engineer - Level - Space Systems",
-        "active": false,
-        "date_updated": 1767833772,
-        "date_posted": 1767833772,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Software-Engineer---Level-1-2--Space-Systems-_R10218502",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Royal Bank of Canada",
-        "id": "56cea9f1-5c2c-4a9c-ad4f-50a61e6edcc3",
-        "title": "Quantitative Technology Services New Graduate Rotational Program-Montreal - 2026",
-        "active": false,
-        "date_updated": 1767832706,
-        "date_posted": 1767832706,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/Quantitative-Technology-Services-New-Graduate-Rotational-Program--Montreal--2026-_R-0000154544",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Jones Lang LaSalle (JLL)",
-        "id": "56dae319-a3db-4159-84a0-fbce8e508bfa",
-        "title": "Research Analyst - Pnw",
-        "active": false,
-        "date_updated": 1767833880,
-        "date_posted": 1767833880,
-        "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/Research-Analyst--PNW_REQ451478",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "IXL Learning",
         "id": "698d7c96-bf2f-450e-8d50-4a5688ebb53f",
         "title": "Software Engineer",
@@ -171203,7 +171141,7 @@
         "company_name": "DV Trading",
         "id": "25f5a2d7-43cb-4507-ade5-7b114bcb5b86",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1777331161,
         "date_posted": 1777331131,
         "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4687462005",
@@ -367914,7 +367852,7 @@
         "company_name": "Oracle",
         "id": "703508c4-1188-4176-8539-4f1fbaeb8839",
         "title": "Platform Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787608463,
         "date_posted": 1787608161,
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343770",
@@ -372225,7 +372163,7 @@
         "company_name": "Oracle",
         "id": "574e0ff5-d748-4c63-bd72-624e3b87f93e",
         "title": "Application Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787780521,
         "date_posted": 1787780511,
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343874",
