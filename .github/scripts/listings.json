@@ -1,87 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "bc7d745b-ddbc-408f-9447-4c76f4032e9d",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1767898397,
-        "date_posted": 1767898397,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7517284",
-        "locations": [
-            "Sanford, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "4cb688ff-1c95-46a3-9582-f70a77e43b49",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1767898401,
-        "date_posted": 1767898401,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7522832",
-        "locations": [
-            "Carson City, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capco",
-        "id": "b3d4086e-9c05-4c78-a6c3-064c45956e33",
-        "title": "FAST Configuration Analyst",
-        "active": false,
-        "date_updated": 1767898113,
-        "date_posted": 1767898113,
-        "url": "https://job-boards.greenhouse.io/capco/jobs/7512186",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Capco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "DV Trading",
-        "id": "3a6af9b4-f4c1-4c34-bd2e-b954aa8b65be",
-        "title": "Trading Operations Analyst",
-        "active": false,
-        "date_updated": 1767897777,
-        "date_posted": 1767897777,
-        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4608245005",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/DV-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Chegg",
         "id": "d4912685-aab5-49f5-abbb-b78d238eebe3",
@@ -285,49 +204,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Valmet",
-        "id": "eccb0b7e-8a15-4414-a4fa-74438517b119",
-        "title": "Field Service Engineer",
-        "active": false,
-        "date_updated": 1767898815,
-        "date_posted": 1767898815,
-        "url": "https://valmet.wd103.myworkdayjobs.com/external/job/Longview-WA/Field-Service-Engineer_R50887-1",
-        "locations": [
-            "Seattle, WA",
-            "Longview, WA",
-            "Portland, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Valmet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "LSEG",
-        "id": "3f4e6966-8f1b-47f1-829d-336fdbe6aed6",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1767898721,
-        "date_posted": 1767898721,
-        "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Buffalo---Fountain-Plaza/Associate-Product-Manager_R0113701-1",
-        "locations": [
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/LSEG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
