@@ -357185,7 +357185,7 @@
         "company_name": "L3Harris Technologies",
         "id": "ef8b36d6-9967-4457-8ad8-2f8b9a8c9c91",
         "title": "Application Developer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1787063614,
         "date_posted": 1787063563,
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1420524300/?ats=successfactors",
@@ -397659,7 +397659,7 @@
         "company_name": "JetBlue",
         "id": "ed97c6c6-eb7d-4ec1-bba9-07d6f4911646",
         "title": "Associate Analyst Revenue Management",
-        "active": true,
+        "active": false,
         "date_updated": 1788464719,
         "date_posted": 1787868983,
         "url": "https://careers.jetblue.com/job/Long-Island-City-Associate-Analyst-Revenue-Management-NY-11101/1409881200/?ats=successfactors",
@@ -404175,6 +404175,24 @@
             "Yuma, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Dutch-Bros",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AiPrise",
+        "id": "6c3fb746-2d33-44e9-b97d-ada170e96ef0",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1788590059,
+        "date_posted": 1788589930,
+        "url": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AiPrise",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
