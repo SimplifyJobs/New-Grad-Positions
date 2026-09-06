@@ -1,105 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "LexisNexis Risk Solutions",
-        "id": "ac5720f0-1702-4301-a3f3-a38a2925149a",
-        "title": "Associate Analytics Engineer",
-        "active": false,
-        "date_updated": 1767979788,
-        "date_posted": 1767979788,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---London-Bishopsgate/Data-Analytics-III_R105719",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "439eb8cb-251b-4d4d-b8b7-4629abc5a96a",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1767979655,
-        "date_posted": 1767979655,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7526525",
-        "locations": [
-            "Columbia, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Motors",
-        "id": "0f7f47b8-5931-47a9-abb8-4706d1bae6d8",
-        "title": "Entry-Level Chassis and Body Controls Software Design Release Engineer",
-        "active": false,
-        "date_updated": 1767979678,
-        "date_posted": 1767979678,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Chassis-and-Body-Controls-Software-Design-Release-Engineer_JR-202517581",
-        "locations": [
-            "Milford Charter Twp, MI",
-            "Warren, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SpaceX",
-        "id": "46b06c74-5bc4-42ef-9f4a-808b598704be",
-        "title": "Software Engineer - Direct To Cell",
-        "active": false,
-        "date_updated": 1767979314,
-        "date_posted": 1767979314,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8364374002",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Boeing Company",
-        "id": "250e2089-0d76-4892-bd7b-47fa14c50e08",
-        "title": "Support Engineering Data Specialist",
-        "active": false,
-        "date_updated": 1767979383,
-        "date_posted": 1767979383,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Welwyn-Garden-City-UK/Support-Engineering-Data-Specialist_JR2026491027-1",
-        "locations": [
-            "Welwyn Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "11993d4e-844c-42c6-8739-921e0d18371f",
@@ -22921,26 +22822,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Morgan Stanley",
-        "id": "feb0d965-41e3-4937-aeae-0f1f5549a565",
-        "title": "Risk Analytics - Capital Projections Analytics - Analyst",
-        "active": false,
-        "date_updated": 1769599109,
-        "date_posted": 1767979581,
-        "url": "https://ms.wd5.myworkdayjobs.com/private/job/London-United-Kingdom/Risk-Analytics---Capital-Projections-Analytics--Associate_PT-JR027455",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
