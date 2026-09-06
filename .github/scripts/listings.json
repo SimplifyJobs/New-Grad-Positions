@@ -1,107 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Applied Materials",
-        "id": "73321631-85a3-480e-afd1-0a4a7b856122",
-        "title": "Product Line Manager \u2013 New College Grad - MBA - Santa Clara, CA",
-        "active": false,
-        "date_updated": 1767923468,
-        "date_posted": 1767923468,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Manager--New-College-Grad---MBA--Santa-Clara--CA-_R2520126",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "FOX",
-        "id": "67910800-b7b7-4e96-a065-f50b152f6289",
-        "title": "Master Control Operator 1",
-        "active": false,
-        "date_updated": 1767923200,
-        "date_posted": 1767923200,
-        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Master-Control-Operator-I_R50031082",
-        "locations": [
-            "Tempe, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Fox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Walmart",
-        "id": "2caadbbd-7474-40c2-88c0-a5534441ca3e",
-        "title": "Senior Software Engineer",
-        "active": false,
-        "date_updated": 1767923171,
-        "date_posted": 1767923171,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior-Software-Engineer_R-2378366-1",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "ecb71347-7410-46fe-b0c5-3832eb2e12ac",
-        "title": "Engineering Technician - Level 1 or Level 2",
-        "active": false,
-        "date_updated": 1767922939,
-        "date_posted": 1767922939,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Kennedy-Space-Center/Engineering-Technician---Level-1-or-Level-2_R10218679",
-        "locations": [
-            "Cape Canaveral, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Equifax",
-        "id": "01a72413-906a-4ec3-9fd8-9d35096b8655",
-        "title": "Data Processing Specialist - Entry",
-        "active": false,
-        "date_updated": 1767922998,
-        "date_posted": 1767922998,
-        "url": "https://equifax.wd5.myworkdayjobs.com/external/job/USA---Missouri---St-Louis---Rider-Trail/Data-Processing-Specialist---Entry_J00173791",
-        "locations": [
-            "St. Louis, MO",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Equifax",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "c7143b3e-689e-48bf-9c3a-d17495cea43e",
@@ -117,44 +16,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Applied Materials",
-        "id": "1ac16693-8d25-4513-90bf-fecacf2c915b",
-        "title": "Data Scientist",
-        "active": false,
-        "date_updated": 1767923453,
-        "date_posted": 1767923453,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist_R2517664",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Advocate Health Care",
-        "id": "0c3f7168-aba4-4d15-95c3-5372ddde6aed",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1767923604,
-        "date_posted": 1767923604,
-        "url": "https://aah.wd5.myworkdayjobs.com/External/job/Charlotte-NC---1001-Blythe-Blvd/Data-Analyst--Pediatric-Cancer-and-Blood-Disorders-Clinic--Atrium-Health-CMC--FT_R197676",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Advocate-Health-Care",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -377,26 +238,6 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "doTERRA",
-        "id": "b4ae1039-bd1a-4eb4-9ea7-ed3c0f026a42",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1767923922,
-        "date_posted": 1767923922,
-        "url": "https://doterra.wd1.myworkdayjobs.com/doTERRACareers/job/Pleasant-Grove-UT/Associate-Product-Manager--Personal-Care-1_JR2076",
-        "locations": [
-            "American Fork, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/DoTERRA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -3437,28 +3278,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Rocket Lab USA",
-        "id": "f362f5cd-2971-43af-8ac1-139a191b896e",
-        "title": "Software Engineer 1/2 - Digital Engineering",
-        "active": false,
-        "date_updated": 1768261224,
-        "date_posted": 1767922719,
-        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7582424003",
-        "locations": [
-            "Littleton, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -351384,7 +351203,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -351423,7 +351242,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -351786,7 +351605,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
