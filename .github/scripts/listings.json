@@ -1,47 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Vantor",
-        "id": "afd73c43-f132-4c7c-b7e6-b1832c5aef69",
-        "title": "Geospatial Analyst",
-        "active": false,
-        "date_updated": 1767917975,
-        "date_posted": 1767917975,
-        "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Tampa-FL/Geospatial-Analyst_R23270",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Vantor",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "LexisNexis Risk Solutions",
-        "id": "62294646-564b-46c8-84ce-f08688e196b8",
-        "title": "Software Engineer 2",
-        "active": false,
-        "date_updated": 1767918365,
-        "date_posted": 1767918365,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Toronto/Software-Engineer-II_R107097",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Trepp",
         "id": "8727eaac-79c3-4675-817b-18dff2d79733",
