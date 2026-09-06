@@ -2,103 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Experian",
-        "id": "6825c83f-f12e-4883-96e6-2c3328b4742a",
-        "title": "Graduate Data Analyst",
-        "active": false,
-        "date_updated": 1767975121,
-        "date_posted": 1767975121,
-        "url": "https://jobs.smartrecruiters.com/Experian/744000102595491",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Experian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cummins",
-        "id": "d319d360-c480-43cb-b7a2-6cb5590cf28d",
-        "title": "Product Functional Test Technology Engineer",
-        "active": false,
-        "date_updated": 1767974870,
-        "date_posted": 1767974870,
-        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420969",
-        "locations": [
-            "Cardiff, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cummins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "dddcde33-3dc6-414b-874b-bb2a03747880",
-        "title": "Software Engineer 1 - Tax Preparation Data Management",
-        "active": false,
-        "date_updated": 1767975574,
-        "date_posted": 1767975574,
-        "url": "https://jobs.intuit.com/job/san-diego/software-engineer-1-tax-preparation-data-management/27595/90412641696",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "890bb731-4c4c-474e-ba30-c7ce469ac478",
-        "title": "Software Engineer 1 - Front End Web",
-        "active": false,
-        "date_updated": 1767975575,
-        "date_posted": 1767975575,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-i-front-end-web/27595/90412641632",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f9ba35b0-6ff2-4aa6-9047-486e87af6b55",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767975177,
-        "date_posted": 1767975177,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045146",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Peraton",
         "id": "76622141-3916-487e-9dff-283502e8a150",
         "title": "Meteorologist - NASA Ballon Program",
@@ -110,26 +13,6 @@
             "Buffalo, TX"
         ],
         "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Relay Technologies",
-        "id": "2f8a08b2-17c7-4c64-88bc-e456375ec22a",
-        "title": "Graduate Data Analyst",
-        "active": false,
-        "date_updated": 1767975157,
-        "date_posted": 1767975157,
-        "url": "https://jobs.ashbyhq.com/relay/a7faad8c-0048-4556-b162-d4e6de97dfb1/application",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Relay-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
