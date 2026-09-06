@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Product",
-        "company_name": "Trepp",
-        "id": "8727eaac-79c3-4675-817b-18dff2d79733",
-        "title": "Client Success Analyst",
-        "active": false,
-        "date_updated": 1767920657,
-        "date_posted": 1767920657,
-        "url": "https://www.trepp.com/joining-trepp?gh_jid=7524006",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Trepp",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
         "company_name": "Applied Materials",
         "id": "73321631-85a3-480e-afd1-0a4a7b856122",
         "title": "Product Line Manager \u2013 New College Grad - MBA - Santa Clara, CA",
@@ -116,24 +96,6 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/Equifax",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Aurora Innovation",
-        "id": "fb5817b5-361a-4215-87e7-7e63957594fc",
-        "title": "Service Engineering Technician",
-        "active": false,
-        "date_updated": 1767922099,
-        "date_posted": 1767922099,
-        "url": "https://aurora.tech/jobs/8362109002?gh_jid=8362109002",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -403047,5 +403009,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Domino's",
+        "id": "a9ebc0e6-faa2-45a6-9574-034918f9ee80",
+        "title": "Customer Service Representative",
+        "active": true,
+        "date_updated": 1788657669,
+        "date_posted": 1788657585,
+        "url": "https://jobs.smartrecruiters.com/Dominos/744000147654929",
+        "locations": [
+            "Central, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Dominos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
