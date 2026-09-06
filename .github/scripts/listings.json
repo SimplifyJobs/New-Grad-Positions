@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "11993d4e-844c-42c6-8739-921e0d18371f",
-        "title": "Software Engineer - Aht",
-        "active": false,
-        "date_updated": 1767980354,
-        "date_posted": 1767980354,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-New-York-Rome/Software-Engineer--AHT-_R10218776",
-        "locations": [
-            "Rome, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "a3869b21-cf5f-486e-a83e-56c4663b5151",
@@ -2788,24 +2768,6 @@
             "Oxford, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Apex Fintech Solutions",
-        "id": "b69cd1fe-f4e6-4905-b585-716a085861ed",
-        "title": "Product Analyst 1 - Billings",
-        "active": false,
-        "date_updated": 1768299779,
-        "date_posted": 1767981022,
-        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Belfast-Northern-Ireland/Product-Manager-I--Investor-Communications-_JR103994",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Apex-Fintech-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
