@@ -1,60 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "c5092704-538b-49e1-b965-b9ace9576858",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767953491,
-        "date_posted": 1767953491,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045342",
-        "locations": [
-            "Milton Keynes, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a073581a-6975-48fa-9af3-db2ecf9cd8d2",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767953472,
-        "date_posted": 1767953472,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045345",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "dunnhumby",
-        "id": "d93f6e9f-8d8f-441d-892f-2064223d2809",
-        "title": "Associate Data Scientist \u2013 Graduate Programme",
-        "active": false,
-        "date_updated": 1767954666,
-        "date_posted": 1767954666,
-        "url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7581405003",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/dunnhumby",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Experian",
         "id": "6825c83f-f12e-4883-96e6-2c3328b4742a",
@@ -1323,26 +1269,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sainsbury's",
-        "id": "3dc6d00f-2aa8-499b-bc9d-ce252a25812f",
-        "title": "Graduate Data Science & Analytics - Data Science - Analytics",
-        "active": false,
-        "date_updated": 1768179649,
-        "date_posted": 1767953488,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045256",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -4823,26 +4749,6 @@
             "Newport News, VA"
         ],
         "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Sainsbury's",
-        "id": "70074171-58c1-4c78-bd4a-e5340e397ccd",
-        "title": "Graduate \u2013 Food Technical",
-        "active": false,
-        "date_updated": 1768383620,
-        "date_posted": 1767953488,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045176",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -381491,7 +381397,7 @@
         "company_name": "Northrop Grumman",
         "id": "6ab593bb-5119-41d3-b37d-1135be139c79",
         "title": "Java Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788313922,
         "date_posted": 1788220800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Northrop-Grumman--SkillBridge--Java-Software-Engineer-Level-1-or-2_R10248772",
