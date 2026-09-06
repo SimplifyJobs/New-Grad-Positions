@@ -402455,5 +402455,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dollar General",
+        "id": "6c23d344-fb1b-46a2-8975-62bc854f652b",
+        "title": "Lead Sales Associate",
+        "active": true,
+        "date_updated": 1788470120,
+        "date_posted": 1788217369,
+        "url": "https://careers.dollargeneral.com/jobs/281325?icims=1",
+        "locations": [
+            "Carrolltown, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dollar-General",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
