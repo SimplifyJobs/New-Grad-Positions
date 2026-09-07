@@ -349529,7 +349529,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -349568,7 +349568,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -349627,7 +349627,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -349931,7 +349931,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -401197,7 +401197,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "d1354a8b-e1fb-48c3-bf6f-93d3bea41db3",
         "title": "Product Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1788704201,
         "date_posted": 1788652800,
         "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Product-Engineer--New-Grad-_R-0000187092",
@@ -401468,6 +401468,86 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Genesis AI",
+        "id": "77f16648-b778-4629-8a7e-a451228b24d5",
+        "title": "Robot Teleoperation Specialist",
+        "active": true,
+        "date_updated": 1788799861,
+        "date_posted": 1788799807,
+        "url": "https://jobs.ashbyhq.com/genesis/53919a1c-cfb9-46f2-831f-f5c6bbedf0af/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Genesis-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zippd",
+        "id": "af08978f-c6c6-4298-b5aa-63ea65daa298",
+        "title": "Graduate Data Analyst",
+        "active": true,
+        "date_updated": 1788799906,
+        "date_posted": 1788799838,
+        "url": "https://apply.workable.com/zippd/j/644B7A023D/apply",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Zippd",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Content Guru",
+        "id": "778cad11-117d-4c0a-a905-240bcef87a9b",
+        "title": "Graduate Software Developer",
+        "active": true,
+        "date_updated": 1788799546,
+        "date_posted": 1788799493,
+        "url": "https://contentguru.bamboohr.com/careers/324/",
+        "locations": [
+            "Bracknell, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Content-Guru",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Maven Securities",
+        "id": "2f52a150-0a33-45d1-b5d2-32cea88d90a5",
+        "title": "Quantitative Researcher Graduate",
+        "active": true,
+        "date_updated": 1788799208,
+        "date_posted": 1788799024,
+        "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048825",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
