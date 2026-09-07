@@ -401226,5 +401226,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arcadis",
+        "id": "04ca3f28-23f2-423d-baf2-ccd7f3372db3",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1788743372,
+        "date_posted": 1788743126,
+        "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43797",
+        "locations": [
+            "London, UK",
+            "Sheffield, UK",
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcadis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
