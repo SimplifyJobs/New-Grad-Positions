@@ -2,65 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Accenture",
-        "id": "f1fdb553-196c-4a11-8292-2df435c6b077",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1768004392,
-        "date_posted": 1768004392,
-        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mountain-View-650-Castro-Corp/XMLNAME--Software-Engineer---6078923_13942107",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Accenture-FS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CoreWeave",
-        "id": "ec102feb-a895-4052-97ba-b76c25362710",
-        "title": "Data Center Technician - Sandusky",
-        "active": false,
-        "date_updated": 1768003505,
-        "date_posted": 1768003505,
-        "url": "https://coreweave.com/careers/job?4643595006&board=coreweave&gh_jid=4643595006",
-        "locations": [
-            "Elyria, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/CoreWeave",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "U.S. Bank",
-        "id": "fc0f8624-1fc1-4faa-bb58-162278b78673",
-        "title": "PWM Investment Analyst",
-        "active": false,
-        "date_updated": 1768003417,
-        "date_posted": 1768003417,
-        "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/PWM-Investment-Analyst_2026-0000501",
-        "locations": [
-            "Chicago, IL",
-            "Kansas City, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "OpusClip",
         "id": "4e0b7c5f-1f3c-4569-bd29-1f41f0b3f519",
         "title": "Software Engineer - AI Video Agent",
