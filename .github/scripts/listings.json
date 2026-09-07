@@ -346814,7 +346814,7 @@
         "company_name": "Dawn Meats",
         "id": "7cc701f0-5ded-4485-9951-832941911f1d",
         "title": "Graduate Business Intelligence Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1786681801,
         "date_posted": 1786680622,
         "url": "https://graduate-roi-dawnmeats.icims.com/jobs/5282/job?mobile=true&needsRedirect=false",
@@ -401431,6 +401431,38 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Incident-Io",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ernst & Young",
+        "id": "9562d284-151f-4942-a823-c6614722a1da",
+        "title": "Assurance Analyst - Data and Intelligence Delivery",
+        "active": true,
+        "date_updated": 1788796066,
+        "date_posted": 1788795735,
+        "url": "https://eyglobal.yello.co/jobs/AZkeE_LpYYLfvoE0TkyIJw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+        "locations": [
+            "Salt Lake City, UT",
+            "Indianapolis, IN",
+            "Houston, TX",
+            "Des Moines, IA",
+            "Detroit, MI",
+            "Tampa, FL",
+            "Dallas, TX",
+            "Greenville, SC",
+            "St. Louis, MO",
+            "Alpharetta, GA",
+            "Phoenix, AZ",
+            "Grandview Heights, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Ernst-And-Young",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
