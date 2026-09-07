@@ -369489,7 +369489,7 @@
         "company_name": "Solirius Reply",
         "id": "27adfd63-7ab1-4e67-8950-da5df8534093",
         "title": "Technology Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1787790546,
         "date_posted": 1787790364,
         "url": "https://apply.workable.com/solirius-consulting-1/j/6FA7116836/apply",
@@ -381726,7 +381726,7 @@
         "company_name": "L3Harris Technologies",
         "id": "6e488798-3863-4c83-9811-5a7bb248e339",
         "title": "Associate Integration / Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788410704,
         "date_posted": 1788202794,
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Integration-Test-Engineer-FL-32919/1424777800/?ats=successfactors",
@@ -401243,6 +401243,27 @@
             "Manchester, UK"
         ],
         "company_url": "https://simplify.jobs/c/Arcadis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "4c2c8e7d-cddf-48d9-b0cc-075ea6d1d6ff",
+        "title": "Data Engineer Graduate",
+        "active": true,
+        "date_updated": 1788769803,
+        "date_posted": 1788769693,
+        "url": "https://lifeattiktok.com/search/7681779180341709109",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
