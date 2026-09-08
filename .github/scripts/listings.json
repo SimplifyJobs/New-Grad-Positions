@@ -364903,7 +364903,7 @@
         "company_name": "Pryzm",
         "id": "2c8d4660-6467-4fcd-8dcd-05c5cbc86604",
         "title": "Federal Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787616918,
         "date_posted": 1787616296,
         "url": "https://jobs.ashbyhq.com/pryzm/2c40f0bb-e559-49b3-9831-81d7484cc6dc/application?embed=true",
@@ -371194,7 +371194,7 @@
         "company_name": "RTX",
         "id": "aa978fcf-172b-4c86-9b7b-31d9a39a6d8a",
         "title": "Embedded Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787869451,
         "date_posted": 1787788800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01870328",
@@ -402246,5 +402246,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Point32Health",
+        "id": "f1957d24-042c-4125-a4fa-11def416acdf",
+        "title": "People Data Analyst",
+        "active": true,
+        "date_updated": 1788884101,
+        "date_posted": 1788825600,
+        "url": "https://point32health.wd5.myworkdayjobs.com/THP/job/Canton-MA/People-Data-Analyst_R9436",
+        "locations": [
+            "Canton, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Point32Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
