@@ -291921,7 +291921,7 @@
         "company_name": "CarbonChain",
         "id": "081d8105-3fae-4c41-b193-68b3d7e77f37",
         "title": "Junior Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784664542,
         "date_posted": 1784644993,
         "url": "https://job-boards.greenhouse.io/carbonchain/jobs/6121104004",
@@ -348580,7 +348580,7 @@
         "company_name": "University Corporation for Atmospheric Research",
         "id": "08db92a5-f5d4-4445-98af-ae0d895cbeee",
         "title": "CESM Software Engineer 1 - Computer Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786745672,
         "date_posted": 1786665600,
         "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/CESM-Software-Engineer-I_REQ-2026-117-1",
@@ -349529,7 +349529,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -349568,7 +349568,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -349627,7 +349627,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -349931,7 +349931,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -390698,7 +390698,7 @@
         "company_name": "Zebra Technologies",
         "id": "088f2658-1b13-4453-b678-b6c87fc55fd9",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788449096,
         "date_posted": 1788393600,
         "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/Software-Engineer-I_JR103056",
@@ -399288,7 +399288,7 @@
         "company_name": "Cooper University Health Care",
         "id": "f83551b7-e3ed-4c68-9df6-9356b06f2e76",
         "title": "Reporting and Analytics Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1788531481,
         "date_posted": 1788531330,
         "url": "https://careers-cooperhealth.icims.com/jobs/85602/job?mobile=true&needsRedirect=false",
@@ -401673,5 +401673,126 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "TD Bank",
+        "id": "68991653-2bf9-4559-92c3-c5a587bd1653",
+        "title": "Risk Management Quantitative Associate - Rotational Program",
+        "active": true,
+        "date_updated": 1788848341,
+        "date_posted": 1788825600,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management-Quantitative-Associate-Rotational-Program_R_1503777",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TD Bank",
+        "id": "f49c5b41-af69-455f-8dc8-71c64daec56c",
+        "title": "Credit Cards & Personal Lending Associate - Associate Program",
+        "active": true,
+        "date_updated": 1788848114,
+        "date_posted": 1788825600,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/CPB-Credit-Cards---Personal-Lending-Associate-Program_R_1505123",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "e37ee641-33b9-4a52-bd84-23850b533624",
+        "title": "Business Intelligence Associate",
+        "active": true,
+        "date_updated": 1788848092,
+        "date_posted": 1788825600,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Business-Intelligence-Associate_R_1509034",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "12bfde82-572e-408d-b778-a19c8329abbf",
+        "title": "Applied Machine Learning Scientist Graduate - Analytics Insights & AI",
+        "active": true,
+        "date_updated": 1788848104,
+        "date_posted": 1788825600,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist---Associate_R_1506714-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "809800c8-935e-467a-8a4c-0ddc4fbdecd9",
+        "title": "Applied Machine Learning Scientist",
+        "active": true,
+        "date_updated": 1788848103,
+        "date_posted": 1788825600,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist--Graduate-_R_1506705",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "7e4e08f3-5ac3-4174-82b7-5885f9571bb6",
+        "title": "Data Science Associate",
+        "active": true,
+        "date_updated": 1788848104,
+        "date_posted": 1788825600,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Associate--Graduate-_R_1506343",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
