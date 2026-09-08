@@ -378552,7 +378552,7 @@
         "company_name": "Apple",
         "id": "e0299664-073d-4b13-9fee-c8277a6d60c2",
         "title": "Accessibility Engineer - Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1788287597,
         "date_posted": 1788287365,
         "url": "https://jobs.apple.com/en-us/details/200679855",
@@ -401787,6 +401787,26 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/TransPerfect",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Airlines",
+        "id": "6af35aa1-24f6-451c-9521-63379a05d653",
+        "title": "Associate Analyst - Pricing & Revenue Management",
+        "active": true,
+        "date_updated": 1788867896,
+        "date_posted": 1788289279,
+        "url": "https://careers.united.com/us/en/job/WHQ00026394",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Airlines",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
