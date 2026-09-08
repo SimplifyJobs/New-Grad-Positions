@@ -982,27 +982,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Adobe",
-        "id": "29291084-8b1c-4279-8206-6f2ee93a905a",
-        "title": "Software Development Engineer",
-        "active": false,
-        "date_updated": 1768128149,
-        "date_posted": 1768128149,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R161061",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Zip",
         "id": "dfbdab51-622f-4ef4-ae06-e13c9c196537",
         "title": "Software Engineer \u2013 New Grad - 2026 Start",
@@ -327057,7 +327036,7 @@
         "company_name": "Franklin Templeton",
         "id": "6418d5ea-dbd2-4bc9-953d-110f635e4ff3",
         "title": "Investment Associate - Quantitative Research - Investment Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1785968782,
         "date_posted": 1785888000,
         "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Boston-Massachusetts-United-States-of-America/Investment-Associate--Quantitative-Research---FT-Investment-Solutions-_869086",
@@ -401788,6 +401767,26 @@
             "Cedar Rapids, IA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TransPerfect",
+        "id": "5aef10de-dacf-40f8-93e0-3e9fd71ed29f",
+        "title": "Litigation Support Analyst",
+        "active": true,
+        "date_updated": 1788863618,
+        "date_posted": 1781950994,
+        "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY/Litigation-Support-Analyst_R2025-244093",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/TransPerfect",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
