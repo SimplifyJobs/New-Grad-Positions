@@ -401654,5 +401654,24 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Extropic",
+        "id": "904b380c-a361-462b-b5d6-f954f2969657",
+        "title": "Machine Learning Resident",
+        "active": true,
+        "date_updated": 1788834415,
+        "date_posted": 1788834071,
+        "url": "https://jobs.ashbyhq.com/extropic/f9d4811c-3a4c-4a6a-a739-8719ff9c6bab/application?embed=true",
+        "locations": [
+            "Boston, MA",
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Extropic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
