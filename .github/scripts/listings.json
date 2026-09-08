@@ -396936,7 +396936,7 @@
         "company_name": "American Institutes for Research",
         "id": "e1fdd3ab-6194-426f-861d-ae01069f57f4",
         "title": "Data Scientist Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1788490835,
         "date_posted": 1788477086,
         "url": "https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5414317008",
@@ -402082,5 +402082,169 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Silna Health",
+        "id": "f8dc1a4d-35af-49bc-bb0f-c80db9b9f233",
+        "title": "AI Deployment Analyst",
+        "active": true,
+        "date_updated": 1788884461,
+        "date_posted": 1788884307,
+        "url": "https://jobs.ashbyhq.com/silnahealth.com/8ed75986-4032-425b-b82a-fa6010a18656/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Silna-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "a68ff695-cd47-4330-87a1-474428a02b95",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1788884370,
+        "date_posted": 1788884185,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017581",
+        "locations": [
+            "Knoxville, TN",
+            "Dallas, TX",
+            "Phoenix, AZ",
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "7a8e0f99-3910-4517-bf9f-26466fe4df2c",
+        "title": "Test & Validation Engineer - Product Engineering",
+        "active": true,
+        "date_updated": 1788884359,
+        "date_posted": 1788884185,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017580",
+        "locations": [
+            "Knoxville, TN",
+            "Dallas, TX",
+            "Phoenix, AZ",
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aptean",
+        "id": "5d894a80-4336-46b3-a9a2-280fef8f7bbd",
+        "title": "Associate Product Engineer",
+        "active": true,
+        "date_updated": 1788884283,
+        "date_posted": 1788884164,
+        "url": "https://careers.aptean.com/jobs/7054?icims=1",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aptean",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas Instruments",
+        "id": "0fe08920-f59e-48bd-b71b-38a95386da0b",
+        "title": "Digital Experience Data Analyst - Web Marketing Program",
+        "active": true,
+        "date_updated": 1788884361,
+        "date_posted": 1788884187,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017806",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "694ca9d6-abb6-4b8a-8fbb-743c035e90dd",
+        "title": "Audit & Assurance - Assistant - Data & Analytics - Summer 2027",
+        "active": true,
+        "date_updated": 1788884101,
+        "date_posted": 1788884027,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Assistant-Data-Analytics-Summer-2027/359262",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accora",
+        "id": "42007113-3fab-4dcf-9ae7-6bb88c3feb3c",
+        "title": "Graduate Technology & AI Engineer",
+        "active": true,
+        "date_updated": 1788883741,
+        "date_posted": 1788883629,
+        "url": "https://apply.workable.com/accora/j/4A8BA0A44E/apply",
+        "locations": [
+            "Orwell, Royston, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accora",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "4410615a-5af6-494e-9d98-b5ca3d04544c",
+        "title": "Research Assistant - Instructional",
+        "active": true,
+        "date_updated": 1788883805,
+        "date_posted": 1788825600,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant-Zhu_REQ_0000082322-2",
+        "locations": [
+            "University Park, State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
