@@ -2,29 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "OpusClip",
-        "id": "4e0b7c5f-1f3c-4569-bd29-1f41f0b3f519",
-        "title": "Software Engineer - AI Video Agent",
-        "active": false,
-        "date_updated": 1768116363,
-        "date_posted": 1768116363,
-        "url": "https://jobs.ashbyhq.com/opusclip/26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/OpusClip",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Microsoft",
         "id": "10c83b14-9176-4a4c-98ae-5b552494660e",
         "title": "Software Engineer",
@@ -229645,7 +229622,7 @@
         "company_name": "Goldman Sachs",
         "id": "de896427-2d73-4fa8-b8b8-65efaf044cfd",
         "title": "Software Engineer - Data",
-        "active": true,
+        "active": false,
         "date_updated": 1781169481,
         "date_posted": 1781168814,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
@@ -401793,6 +401770,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nexthop.ai",
+        "id": "10504711-cbfe-426e-b2c7-d85abee618a4",
+        "title": "Software Engineer New Grad - Hardware Diagnostics",
+        "active": true,
+        "date_updated": 1788852124,
+        "date_posted": 1788851980,
+        "url": "https://nexthopai.bamboohr.com/careers/107/",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nexthopai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
