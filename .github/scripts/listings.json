@@ -226235,7 +226235,7 @@
         "company_name": "Evolver",
         "id": "e4a31c6e-717d-4b5a-89d8-666c552afe34",
         "title": "Generative AI Engineer - Python",
-        "active": true,
+        "active": false,
         "date_updated": 1781082853,
         "date_posted": 1781082360,
         "url": "https://job-boards.greenhouse.io/evolver/jobs/4092111009",
@@ -237400,7 +237400,7 @@
         "company_name": "RaceTrac",
         "id": "1c51d4bf-c150-4396-a588-bed1486b210c",
         "title": "Business Intelligence & Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781646858,
         "date_posted": 1781639351,
         "url": "https://racetrac.wd5.myworkdayjobs.com/ssc/job/200-Galleria-Parkway-SE-Suite-900-Atlanta-GA-30339/Business-Intelligence---Systems-Analyst_R10013618",
@@ -302655,7 +302655,7 @@
         "company_name": "BLR | Leadership Platforms | CCMI",
         "id": "21d4899e-04b0-4bd2-a0ef-1d244af78d1e",
         "title": "Leadership Platforms - CCMI",
-        "active": true,
+        "active": false,
         "date_updated": 1784932256,
         "date_posted": 1784787162,
         "url": "https://simplifycompliance.applytojob.com/apply/VPGOs0rMdB/Data-Acquisition-Coordinator-EntryLevel",
@@ -348052,7 +348052,7 @@
         "company_name": "Aon",
         "id": "e750b9b5-dda4-440f-a574-33bb25d575af",
         "title": "Data & Analytics Associate - Early Careers",
-        "active": true,
+        "active": false,
         "date_updated": 1786746145,
         "date_posted": 1786745848,
         "url": "https://jobs.aon.com/jobs/105952?icims=1",
@@ -390180,7 +390180,7 @@
         "company_name": "RTX",
         "id": "57c0c6ef-6000-43f6-b70d-a2c2572c0d07",
         "title": "Electrical Engineer 2 - FPGA",
-        "active": true,
+        "active": false,
         "date_updated": 1788440133,
         "date_posted": 1787788800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineer-2_01869179",
@@ -391449,7 +391449,7 @@
         "company_name": "M.C. Dean",
         "id": "17757a95-548f-4943-bdad-d646fd2575ff",
         "title": "Systems Specialist - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1788451574,
         "date_posted": 1786687111,
         "url": "https://careers.mcdean.com/jobs/31990?icims=1",
@@ -398748,7 +398748,7 @@
         "company_name": "Wash U",
         "id": "1aea7a4e-f57e-4e5f-b4ce-47228caff3ae",
         "title": "Medical Informaticist 1 - Pathology and Immunology",
-        "active": true,
+        "active": false,
         "date_updated": 1788513870,
         "date_posted": 1787529600,
         "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Medical-Informaticist-I--Hybrid----Pathology-and-Immunology_JR96925",
@@ -401971,6 +401971,90 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Moffitt Cancer Center",
+        "id": "b6d08d62-66c5-4f57-ae09-90004b734cef",
+        "title": "AI Administrative Resident",
+        "active": true,
+        "date_updated": 1788879961,
+        "date_posted": 1788825600,
+        "url": "https://moffitt.wd108.myworkdayjobs.com/Moffitt/job/Clinical-Support-Building/AI-Administrative-Resident_R-3659",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Moffitt-Cancer-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OneMain Financial",
+        "id": "2b5c4fa6-dba4-4a25-8f49-5396ddd7f07d",
+        "title": "Data Science Analyst",
+        "active": true,
+        "date_updated": 1788879781,
+        "date_posted": 1788825600,
+        "url": "https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2609-52405",
+        "locations": [
+            "Charlotte, NC",
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/OneMain-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OneMain Financial",
+        "id": "b57c2110-c244-4d3e-b2b4-49d4905823ab",
+        "title": "Analytics Analyst",
+        "active": true,
+        "date_updated": 1788879781,
+        "date_posted": 1788825600,
+        "url": "https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Analytics-Analyst_R2608-52224",
+        "locations": [
+            "Charlotte, NC",
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/OneMain-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ryan",
+        "id": "e333e5c8-88c3-48f3-8e8d-4a5fb4d7f806",
+        "title": "Full Stack AI Engineer",
+        "active": true,
+        "date_updated": 1788879601,
+        "date_posted": 1788825600,
+        "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/London/Full-Stack-AI-Engineer_R0020202-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ryan",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
