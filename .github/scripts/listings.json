@@ -311255,7 +311255,7 @@
         "company_name": "Pyrovio",
         "id": "e2782551-ee25-4e02-a7f4-f2f46752bd8e",
         "title": "Copilot Developer/AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785449882,
         "date_posted": 1785449446,
         "url": "https://pyrovio.breezy.hr/p/a0653fb2684d/apply",
@@ -389539,7 +389539,7 @@
         "company_name": "Shield AI",
         "id": "819af362-62b8-4c62-827c-c8777bba1b1e",
         "title": "Electrical Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1788430778,
         "date_posted": 1776762493,
         "url": "https://jobs.lever.co/shieldai/37fa20c1-57dc-4aa1-9515-ecc87f22f31b/apply",
@@ -402266,5 +402266,319 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "e07dd725-9b79-4c31-b708-3f787378bccc",
+        "title": "Electrical Engineer New Grad",
+        "active": true,
+        "date_updated": 1788906460,
+        "date_posted": 1788905657,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000148322240",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AEG",
+        "id": "7fe1fa08-79c2-454f-96ca-83722cc9ccb9",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1788905732,
+        "date_posted": 1788905648,
+        "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8782286002",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/AEG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Hartford",
+        "id": "a395efe6-6aff-4c6d-92ce-91dabf684675",
+        "title": "Associate Product Analytics - Leadership Development Program",
+        "active": true,
+        "date_updated": 1788906488,
+        "date_posted": 1788825600,
+        "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Associate--Product-Leadership-Development-Program_R2626425-1",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Hartford-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GlobalFoundries",
+        "id": "d8e721ee-36b9-4da2-8f6f-fffe5fa3bff1",
+        "title": "Systems Engineer New Grad",
+        "active": true,
+        "date_updated": 1788906438,
+        "date_posted": 1788825600,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineer--2027-New-College-Graduate-_JR-2604083",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "8da17d7f-e5ed-4493-b4ae-2bcf12053d7f",
+        "title": "Data Analyst New Grad - Data Analyst",
+        "active": true,
+        "date_updated": 1788906364,
+        "date_posted": 1788825600,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Aspen Dental",
+        "id": "ad297aec-6e8b-4cd5-8b88-2c33fd3bd72a",
+        "title": "Dental Assistant",
+        "active": true,
+        "date_updated": 1788906352,
+        "date_posted": 1788825600,
+        "url": "https://aspendental.wd1.myworkdayjobs.com/careers_aspen_dental/job/Paducah-Kentucky/Dental-Assistant---Entry-Level_R2026-011208",
+        "locations": [
+            "Paducah, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Aspen-Dental",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Select Medical",
+        "id": "486746c6-dbc2-4c01-9bb7-82c3b66e1272",
+        "title": "Patient Care Technician",
+        "active": true,
+        "date_updated": 1788905732,
+        "date_posted": 1788905439,
+        "url": "https://jobs-selectmedicalcorp.icims.com/jobs/382977/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Danville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Select-Medical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DraftKings",
+        "id": "9a809790-74bd-49ef-ac89-b2d28ff7e591",
+        "title": "Data Science Engineer",
+        "active": true,
+        "date_updated": 1788906192,
+        "date_posted": 1788825600,
+        "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Engineer--December-2026-and-May-2027-Grads-_JR14959",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/DraftKings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cirrus Logic",
+        "id": "9cc6eb10-ae9e-4a39-a0b7-05dae4d67edb",
+        "title": "Product Test Engineer",
+        "active": true,
+        "date_updated": 1788905967,
+        "date_posted": 1788905346,
+        "url": "https://jobs.eu.lever.co/cirrus/12cd627f-7c7c-4737-b1e9-22edc752e35e/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cirrus-Logic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AeroVironment",
+        "id": "fc94fb9b-cff2-4c87-9214-c77b2a7d6d59",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1788905754,
+        "date_posted": 1788825600,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I_8682",
+        "locations": [
+            "Sunrise, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Mobile",
+        "id": "0542fdd5-00b9-4051-9a1e-8347800e6a06",
+        "title": "Front-End Developer - Dynamic Ad Creative",
+        "active": true,
+        "date_updated": 1788905371,
+        "date_posted": 1788825600,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Front-End-Developer--Dynamic-Ad-Creative_REQ368337",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Computershare",
+        "id": "7090a37a-afc8-4ff7-a7b4-5a70bc49d5bf",
+        "title": "Core System Engineer",
+        "active": true,
+        "date_updated": 1788905371,
+        "date_posted": 1788905208,
+        "url": "https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/12862",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Computershare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citi",
+        "id": "3be919cd-9eca-48be-aefd-d8de473eb43e",
+        "title": "Data Analytics & Process Transformation Analyst - Derivative Settlements Operations",
+        "active": true,
+        "date_updated": 1788905371,
+        "date_posted": 1788825600,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Data-Analytics---Process-Transformation-Analyst--Derivative-Settlements-Operations-_26989935-1",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Service Corporation International",
+        "id": "e4a0b2d4-ebea-43c2-8616-28e92ca0142a",
+        "title": "Funeral Attendant",
+        "active": true,
+        "date_updated": 1788905596,
+        "date_posted": 1788905202,
+        "url": "https://sci.wd5.myworkdayjobs.com/sci/job/CA---Menifee/Funeral-Attendant--part-time-_Req163696",
+        "locations": [
+            "Menifee, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Service-Corporation-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sia Partners",
+        "id": "c6721899-e0b6-43b7-8cc4-c3cbfe9c05d5",
+        "title": "Associate Consultant - Generative AI",
+        "active": true,
+        "date_updated": 1788905189,
+        "date_posted": 1788905157,
+        "url": "https://jobs.smartrecruiters.com/Sia/744000148302879",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sia-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pure Storage",
+        "id": "35bbd24f-c09c-463e-96ac-1dc5a9be7a9e",
+        "title": "Hardware Validation Engineer",
+        "active": true,
+        "date_updated": 1788906135,
+        "date_posted": 1786573525,
+        "url": "https://job-boards.greenhouse.io/purestorage/jobs/7926570",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pure-Storage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
