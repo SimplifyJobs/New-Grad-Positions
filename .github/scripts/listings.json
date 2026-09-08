@@ -402061,5 +402061,26 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "U.S. Bank",
+        "id": "982eddf6-a0cd-4ea2-81ba-c170f4999776",
+        "title": "Quantitative Modeling Rotational Program Analyst",
+        "active": true,
+        "date_updated": 1788881386,
+        "date_posted": 1788825600,
+        "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Rotational-Program_2026-0027548",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/US-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
