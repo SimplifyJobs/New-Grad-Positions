@@ -274678,7 +274678,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "84a39b8e-8d89-4f91-ab45-1d53e8d86776",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1784011681,
         "date_posted": 1784009157,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1408046100/?ats=successfactors",
@@ -333542,7 +333542,7 @@
         "company_name": "BP",
         "id": "c6628942-b621-4a26-9578-7061a45823f4",
         "title": "Supply and Shipping Graduate Program - Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1786151474,
         "date_posted": 1786060800,
         "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/XMLNAME-2027-Supply--Trading--and-Shipping-Graduate-Program_RQ114574",
@@ -347152,7 +347152,7 @@
         "company_name": "M.C. Dean",
         "id": "bc6695dd-e6b9-4081-b997-5b569c10338c",
         "title": "Systems Specialist - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1786687331,
         "date_posted": 1786687114,
         "url": "https://careers.mcdean.com/jobs/31986?icims=1",
@@ -348497,7 +348497,7 @@
         "company_name": "Wavestone",
         "id": "a0232ac3-fb39-45ea-8cae-40341afe8099",
         "title": "Junior AI Engineer - AI & Data Team",
-        "active": true,
+        "active": false,
         "date_updated": 1786745882,
         "date_posted": 1786745279,
         "url": "https://jobs.smartrecruiters.com/Wavestone1/744000143599414",
@@ -381111,7 +381111,7 @@
         "company_name": "L3Harris Technologies",
         "id": "4b199fc4-bfd3-4425-aa91-79a9a9ea0882",
         "title": "Associate \u2013 Integration / Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788403147,
         "date_posted": 1787648489,
         "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Integration-Test-Engineer-FL-32905/1422832600/?ats=successfactors",
@@ -401831,6 +401831,109 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Accenture",
+        "id": "86f8df7e-9b3c-41db-b77b-305fe131d4ad",
+        "title": "AI & Data Analyst",
+        "active": true,
+        "date_updated": 1788877623,
+        "date_posted": 1788877522,
+        "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4711195006",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ID.me",
+        "id": "54fa0359-e2dd-4ea9-b5f6-ee5acc6fb30d",
+        "title": "Data Scientist New Grad",
+        "active": true,
+        "date_updated": 1788877546,
+        "date_posted": 1788877158,
+        "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IDme",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Valeo Foods",
+        "id": "24e135b0-c169-487a-917a-6592263dbbda",
+        "title": "Business Intelligence Analyst Graduate",
+        "active": true,
+        "date_updated": 1788877263,
+        "date_posted": 1788876672,
+        "url": "https://jobs.smartrecruiters.com/ValeoFoods/744000148239605",
+        "locations": [
+            "Leeds, UK",
+            "Wallingford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Valeo-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics",
+        "id": "08e88938-af70-4f24-8107-35368b84fb1a",
+        "title": "Electronics Technologist",
+        "active": true,
+        "date_updated": 1788876723,
+        "date_posted": 1788876630,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000148222258",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "a9b29fe5-49d0-4198-8037-ebf9c8ef0bd2",
+        "title": "Software Developer / RF Systems Engineer",
+        "active": true,
+        "date_updated": 1788877173,
+        "date_posted": 1788876555,
+        "url": "https://careers.jhuapl.edu/jobs/59975?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
