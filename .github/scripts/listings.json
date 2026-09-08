@@ -381091,7 +381091,7 @@
         "company_name": "Goldman Sachs",
         "id": "c4f6f0f0-80ff-4aa5-98b2-7bc8ccddedc8",
         "title": "Structured Finance Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1788403348,
         "date_posted": 1788201801,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/183338",
@@ -384089,7 +384089,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "f56ad722-b642-4f89-af66-f52191e7d5fe",
         "title": "Operations Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788427989,
         "date_posted": 1787608410,
         "url": "https://careers-gdms.icims.com/jobs/74476/job?mobile=true&needsRedirect=false",
@@ -388478,7 +388478,7 @@
         "company_name": "Analog Bits",
         "id": "c3f1885f-027a-4ba5-af79-a19c8caea727",
         "title": "CMOS Mixed-Signal Circuit Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788349167,
         "date_posted": 1784596620,
         "url": "https://ats.rippling.com/analog-bits-inc/jobs/23a8e256-b226-4bae-8128-3c4d040e424d",
@@ -401807,6 +401807,26 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/United-Airlines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KeyBank",
+        "id": "c83aee2f-51e7-4be2-9a59-1c28d344fa61",
+        "title": "Consumer Analyst Development Program - Consumer Bank",
+        "active": true,
+        "date_updated": 1788870539,
+        "date_posted": 1788134400,
+        "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Buffalo-NY/XMLNAME-2027-KeyBank-Consumer-Analyst-Development-Program---Buffalo--NY_R-41889",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/KeyBank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
