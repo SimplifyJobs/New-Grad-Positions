@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "9dcd9a37-c036-44e9-89a1-7458c0642e4b",
-        "title": "Systems/Software Engineer 1",
-        "active": false,
-        "date_updated": 1768184079,
-        "date_posted": 1768184079,
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Systems-Software-Engineer-I_1199912-1",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Accenture",
         "id": "f8c8734f-8fa2-47ca-949a-b72b1e8d1bf2",
         "title": "Software Engineer",
@@ -375051,7 +375030,7 @@
         "company_name": "NVIDIA",
         "id": "9ff8def7-4cc8-4f59-aadb-ddec79771bfa",
         "title": "AI Developer Technology Engineer New Grad - AI",
-        "active": true,
+        "active": false,
         "date_updated": 1788215181,
         "date_posted": 1788134400,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2026_JR2024557",
