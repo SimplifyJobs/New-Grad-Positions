@@ -225505,7 +225505,7 @@
         "company_name": "Evolver",
         "id": "e4a31c6e-717d-4b5a-89d8-666c552afe34",
         "title": "Generative AI Engineer - Python",
-        "active": false,
+        "active": true,
         "date_updated": 1781082853,
         "date_posted": 1781082360,
         "url": "https://job-boards.greenhouse.io/evolver/jobs/4092111009",
@@ -251489,7 +251489,7 @@
         "company_name": "Abound",
         "id": "06acfd45-6b6d-43b3-85ea-85a041b1b4eb",
         "title": "Graduate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1782483483,
         "date_posted": 1782482870,
         "url": "https://jobs.ashbyhq.com/Abound/15d8f7ba-8f2d-4a84-8618-3c7f77b4f1c4/application",
@@ -360313,7 +360313,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "d84554fe-0b89-42b0-b1e0-bf203a9e2ccd",
         "title": "Data Analytics New Grad - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1787333844,
         "date_posted": 1787270400,
         "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Foundational-Analyst-Rotational-Program--FAR----Data-Analytics_R-052057-1",
@@ -367930,7 +367930,7 @@
         "company_name": "BrightView",
         "id": "f1342c8d-c8b7-41f2-ba5e-566c70ba8064",
         "title": "Data Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1787780653,
         "date_posted": 1787780366,
         "url": "https://careers-brightviewhealth.icims.com/jobs/2888/job?mobile=true&needsRedirect=false",
@@ -379620,7 +379620,7 @@
         "company_name": "Nationwide",
         "id": "7bd2a3ab-9098-44df-82f9-7f6dd5533ac7",
         "title": "Software Engineer - Full Stack - Application Product Security",
-        "active": true,
+        "active": false,
         "date_updated": 1788321800,
         "date_posted": 1788307200,
         "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Full-Stack-_100006",
@@ -383127,7 +383127,7 @@
         "company_name": "Cisco",
         "id": "6fc52e99-15ec-474d-badb-f26015b0d0bb",
         "title": "Electrical Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1788207672,
         "date_posted": 1786492800,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Electrical-Engineer_2020283",
@@ -402950,6 +402950,87 @@
             "Oakland, CA"
         ],
         "company_url": "https://simplify.jobs/c/TRC-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "a081e1ce-81e7-4a47-a2ca-a00e10af723b",
+        "title": "Embedded Software Engineer 1",
+        "active": true,
+        "date_updated": 1788965845,
+        "date_posted": 1788912000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Embedded-Software-Engineer-I--Onsite-_01871867",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "e2e748c3-fda7-48bc-9a27-2db7891db556",
+        "title": "Electrical Engineer - FPGA",
+        "active": true,
+        "date_updated": 1788965766,
+        "date_posted": 1787788800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineer-1_01869170",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "c1571f1b-abdd-4f65-823c-9986aeaac900",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1788965642,
+        "date_posted": 1788912000,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/San-Antonio-TX-US/Software-Developer_331710",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "0fd745ed-1b1c-4722-abf1-06420a3ec86d",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1788965371,
+        "date_posted": 1788965225,
+        "url": "https://careers-peraton.icims.com/jobs/169664/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Blacksburg, VA",
+            "Herndon, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
