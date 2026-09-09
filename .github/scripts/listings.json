@@ -1,170 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5ed827bc-a542-48db-8b4b-0c3ed2ae2aab",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1768214073,
-        "date_posted": 1768214073,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045578",
-        "locations": [
-            "Hereford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sony Interactive Entertainment",
-        "id": "d98d84b0-d9b2-4ae7-a0e2-9396539ce67b",
-        "title": "Data Scientist - Experimentation & Measurement",
-        "active": false,
-        "date_updated": 1768214405,
-        "date_posted": 1768214405,
-        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5730012004",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "186be43a-ca2d-432e-954d-49d77cb4255a",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1768214069,
-        "date_posted": 1768214069,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045581",
-        "locations": [
-            "Hereford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f16b2146-8790-4872-83b3-37e1c59c54ae",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1768214072,
-        "date_posted": 1768214072,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045576",
-        "locations": [
-            "Chesterfield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "beb0a82e-65cf-4230-af0f-95f44d73439a",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1768214071,
-        "date_posted": 1768214071,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045580",
-        "locations": [
-            "Hereford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "c814e261-9509-4322-9653-f271e95d59b6",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1768214074,
-        "date_posted": 1768214074,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045586",
-        "locations": [
-            "Guildford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "HEXAWARE",
-        "id": "110719e4-0073-49c8-816e-f56ac59772ca",
-        "title": "Application Support - Java skills - Associate",
-        "active": false,
-        "date_updated": 1768213966,
-        "date_posted": 1768213966,
-        "url": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/589735",
-        "locations": [
-            "Plano, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/HEXAWARE",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Klaviyo",
-        "id": "05a3f2cc-1799-45a4-bbfa-b7a4436103d5",
-        "title": "Software Engineer - Internationalisation Platform",
-        "active": false,
-        "date_updated": 1768215700,
-        "date_posted": 1768215700,
-        "url": "https://www.klaviyo.com/careers/jobs?gh_jid=7566655003",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Klaviyo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0127b0a2-8dee-4705-8a7a-2e76811a1c0b",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1768214078,
-        "date_posted": 1768214078,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045589",
-        "locations": [
-            "Guildford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Iowa State University",
         "id": "d6a40bc0-145e-44a2-987d-95f580846c7f",
@@ -277195,7 +277031,7 @@
         "company_name": "Cisco",
         "id": "7a41b37b-bd8a-4927-901d-15da9744cdcf",
         "title": "Failure Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784154435,
         "date_posted": 1784153503,
         "url": "https://careers.cisco.com/global/en/job/2018947",
@@ -326194,7 +326030,7 @@
         "company_name": "RTX",
         "id": "e50fbe33-5a1a-4146-a62b-6cc71745b602",
         "title": "Software Engineer 2 - Air Traffic Solutions",
-        "active": false,
+        "active": true,
         "date_updated": 1785939556,
         "date_posted": 1785888000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-II--01864082-Software-Engineer-II---Air-Traffic-Solutions--Onsite-_01864082",
@@ -389403,7 +389239,7 @@
         "company_name": "Veeva Systems",
         "id": "ba2c84c1-fac5-455c-8d56-afb83ada2a83",
         "title": "Marketing Analytics - Client Services Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1788432914,
         "date_posted": 1783951504,
         "url": "https://jobs.lever.co/veeva/2d2cce21-bba9-42e7-b1b8-e5cf83ebe4c2/apply",
@@ -395744,7 +395580,7 @@
         "company_name": "Salt Lake County",
         "id": "d81b7006-1def-413a-8fe5-36558028a3ef",
         "title": "GIS Cadastral Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788490703,
         "date_posted": 1788474254,
         "url": "https://careers-slco.icims.com/jobs/41411/job?mobile=true&needsRedirect=false",
