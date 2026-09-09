@@ -3,103 +3,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "af1b67fd-8e9a-4cee-92a2-21abc9bfeda5",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1768201940,
-        "date_posted": 1768201940,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045572",
-        "locations": [
-            "Milton Keynes, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "a787ea66-05d2-428b-a305-62602f5620b3",
-        "title": "2026 Full-time - Software Engineer II - Onsite - MA",
-        "active": false,
-        "date_updated": 1768201928,
-        "date_posted": 1768201928,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Full-time---Software-Engineer-II---Onsite--MA-_01815212",
-        "locations": [
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "80c6ec77-5083-4c03-b443-222502c45150",
-        "title": "Systems Engineer 1: Integration & Test - Asds",
-        "active": false,
-        "date_updated": 1768201930,
-        "date_posted": 1768201930,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ848-RMS-AP-Bldg-848-1151-East-Hermans-Road-Building-848-Tucson-AZ-85756-USA/Systems-Engineer-I--Integration---Test---ASDS_01815658",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "7e0a924e-7530-4de3-8271-60956ff39bf3",
-        "title": "2026 Full-time - Software Engineer I",
-        "active": false,
-        "date_updated": 1768201932,
-        "date_posted": 1768201932,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--MA-_01815214",
-        "locations": [
-            "Concord, MA",
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "6fe40e88-6ec7-4d8e-8dce-056310b8b0a4",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1768201950,
-        "date_posted": 1768201950,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045574",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "5ed827bc-a542-48db-8b4b-0c3ed2ae2aab",
         "title": "Trading Assistant",
         "active": false,
@@ -361203,7 +361106,7 @@
         "company_name": "Focus Group",
         "id": "07e0a94c-0d80-429e-9cfe-7110e975f66c",
         "title": "Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787343184,
         "date_posted": 1787342971,
         "url": "https://apply.workable.com/focus-group/j/70814EFA9B/apply",
