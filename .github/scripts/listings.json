@@ -301550,7 +301550,7 @@
         "company_name": "GE Vernova",
         "id": "5aee46aa-6096-46fb-b581-5a0e23ab8c08",
         "title": "Software Engineer - Transmission",
-        "active": true,
+        "active": false,
         "date_updated": 1784931072,
         "date_posted": 1784851200,
         "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova-Software-Engineer--Transmission_R5048311-2",
@@ -403201,5 +403201,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Extropic",
+        "id": "2070013d-ee93-4398-811e-696cf9bf7ba9",
+        "title": "Thermo ML Resident",
+        "active": true,
+        "date_updated": 1788917421,
+        "date_posted": 1788917263,
+        "url": "https://jobs.ashbyhq.com/extropic/fbb94221-409b-4009-9949-65d5b7a1b6d8/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Extropic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
