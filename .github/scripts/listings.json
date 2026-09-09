@@ -206,27 +206,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Liberty University",
-        "id": "6d7b7878-19f6-49cc-bb8f-0dc60d8fdd79",
-        "title": "Electronic Resources Data Analyst 1",
-        "active": false,
-        "date_updated": 1768258912,
-        "date_posted": 1768258912,
-        "url": "https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Lynchburg-VA/Electronic-Resources-Data-Analyst-I-for-JFL_R0009510",
-        "locations": [
-            "Lynchburg, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Liberty-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Jerry",
         "id": "f21311f4-70d2-455f-afea-f8b39ed9af72",
@@ -228522,7 +228501,7 @@
         "company_name": "Goldman Sachs",
         "id": "de896427-2d73-4fa8-b8b8-65efaf044cfd",
         "title": "Software Engineer - Data",
-        "active": true,
+        "active": false,
         "date_updated": 1781169481,
         "date_posted": 1781168814,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
@@ -271835,7 +271814,7 @@
         "company_name": "R1 RCM",
         "id": "a704ab4c-e295-498e-b2ea-da39bb3e51c8",
         "title": "Analyst AI Opportunity & Value Creation",
-        "active": false,
+        "active": true,
         "date_updated": 1783981480,
         "date_posted": 1783980772,
         "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Remote-USA/Analyst--AI-Opportunity---Value-Creation_R250000006069",
@@ -283570,7 +283549,7 @@
         "company_name": "Cintas",
         "id": "5b27c114-b61c-4d3f-a04a-8dbdce54bae4",
         "title": "Data Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1784587157,
         "date_posted": 1784585491,
         "url": "https://careers.cintas.com/job/Mason-Data-Analyst-I-OH-45040/1410667700/?ats=successfactors",
@@ -348385,7 +348364,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -380009,7 +379988,7 @@
         "company_name": "Goldman Sachs",
         "id": "c4f6f0f0-80ff-4aa5-98b2-7bc8ccddedc8",
         "title": "Structured Finance Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1788403348,
         "date_posted": 1788201801,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/183338",
@@ -403055,6 +403034,88 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Replit",
+        "id": "94f6899d-56b9-46ea-a8fc-077dcadbc526",
+        "title": "Software Engineer New Grad - Summer 2027",
+        "active": true,
+        "date_updated": 1788993424,
+        "date_posted": 1788993200,
+        "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application?embed=true",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Replit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CCC Intelligent Solutions",
+        "id": "85058a79-fe37-41e8-be4c-bfaf3368fc7d",
+        "title": "Vehicle Inventory Representative & Auditor",
+        "active": true,
+        "date_updated": 1788993379,
+        "date_posted": 1788912000,
+        "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Jacksonville-FL/Vehicle-Inventory-Rep---Auditor_0014888",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/CCC-Intelligent-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bertram Capital Management",
+        "id": "c95f28cc-1610-4577-af3a-6058ce5338c9",
+        "title": "Forward Deployed AI Engineer",
+        "active": true,
+        "date_updated": 1788993024,
+        "date_posted": 1788992218,
+        "url": "https://job-boards.greenhouse.io/bertramcapitalmanagement/jobs/8789855002",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bertram-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cigna Group",
+        "id": "419b51f7-0519-48f9-9cb3-a6ee986dcf61",
+        "title": "Technology Development Program Associate - Data & Analytics Engineering Track",
+        "active": true,
+        "date_updated": 1788993028,
+        "date_posted": 1788912000,
+        "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Data---Analytics-Engineering-Track---Start-Date--July-12--2027_26010467",
+        "locations": [
+            "Morris Plains, NJ",
+            "St. Louis, MO",
+            "Bloomfield, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Cigna-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
