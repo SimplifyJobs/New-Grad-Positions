@@ -1,100 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "RELX",
-        "id": "906cd821-77f3-4452-9a14-8b35bb2ce4b5",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1768234890,
-        "date_posted": 1768234890,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Philadelphia-PA/Software-Engineer-I_R106463-1",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/RELX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "4c5d739b-82c7-47ed-ab96-bc9693e99e6c",
-        "title": "Technician",
-        "active": false,
-        "date_updated": 1768234523,
-        "date_posted": 1768234523,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/132621",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "136694a3-092e-4d33-aedc-686a2f5eb31c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1768234421,
-        "date_posted": 1768234421,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045484",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ocean Optics",
-        "id": "6c50f0e5-df31-4d10-bc97-64c5710a56a3",
-        "title": "Field Service Engineer",
-        "active": false,
-        "date_updated": 1768233910,
-        "date_posted": 1768233910,
-        "url": "https://halma.wd3.myworkdayjobs.com/halma/job/Abingdon/Field-Service-Engineer---Sheffield---Rotherham---M1-Corridor_JR25_001281",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Ocean-Optics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d8d76074-f318-4024-90fd-6b3b9ead04a3",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1768234443,
-        "date_posted": 1768234443,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045623",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Lloyds Bank",
         "id": "9ad2d37b-89d3-4585-9734-1ec7009eb0ec",
@@ -136,24 +42,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e69d5e20-b3df-4c0e-aeb0-01071de54fac",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1768234431,
-        "date_posted": 1768234431,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045665",
-        "locations": [
-            "Dartford District, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "KBR",
         "id": "5f06c65c-3985-4fbb-bb1c-153408a1aae4",
@@ -174,42 +62,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "23321a2d-921b-43d9-8454-d0e0c5142f0a",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1768234425,
-        "date_posted": 1768234425,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045645",
-        "locations": [
-            "Croydon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "6d59f547-3f45-49e7-ab06-476dce152983",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1768234427,
-        "date_posted": 1768234427,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045673",
-        "locations": [
-            "Tottenham, London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Michaels Stores",
         "id": "19f04c41-45f9-4d72-8999-0a5303843fca",
@@ -226,27 +78,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Google",
-        "id": "f402855d-daac-4e75-9600-d2f121cd85b3",
-        "title": "Product Manager 1 - Youtube Youth Responsibility",
-        "active": false,
-        "date_updated": 1768234237,
-        "date_posted": 1768234237,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/102621772855026374",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -655,29 +486,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Underdog Fantasy",
-        "id": "b9fb4681-14fb-4db8-98fa-961e28368ac1",
-        "title": "Associate Software Engineer \u2013 2026 New Grad",
-        "active": false,
-        "date_updated": 1768260537,
-        "date_posted": 1768235278,
-        "url": "https://job-boards.greenhouse.io/underdogfantasy/jobs/4647374005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/UnderdogFantasy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD"
         ]
     },
     {
@@ -1185,26 +993,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Arrowstreet Capital",
-        "id": "82b6cdeb-abba-4247-b82e-753eb5697555",
-        "title": "Technology Rotational Development Program",
-        "active": false,
-        "date_updated": 1768235340,
-        "date_posted": 1768235340,
-        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Technology-Rotational-Development-Program_R1400",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -6266,26 +6054,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ensign-Bickford Aerospace & Defense Company",
-        "id": "c18a6a31-6cf7-481a-99f5-cb0c4d069d8a",
-        "title": "Soldering Technician",
-        "active": false,
-        "date_updated": 1768235148,
-        "date_posted": 1768235148,
-        "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Soldering-Technician_REQ106824",
-        "locations": [
-            "Simsbury, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Ensign-Bickford-Aerospace-Defense-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
     },
     {
         "source": "Simplify",
@@ -230705,27 +230473,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Talos",
-        "id": "396814b5-12ff-4fe3-9b91-e67fd53aa047",
-        "title": "Software Engineer - Trading Connectivity",
-        "active": false,
-        "date_updated": 1781253181,
-        "date_posted": 1768234258,
-        "url": "https://jobs.ashbyhq.com/Talos-Trading/c743ff13-4a80-4907-adf4-922a3bfbd30b/application",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Talos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "ASML",
         "id": "79f0c18b-082f-47c3-973c-94dbac055391",
@@ -385972,7 +385719,7 @@
         "company_name": "L3Harris Technologies",
         "id": "c773be37-faea-4885-a719-d836e851333b",
         "title": "Electrical Engineer - FOS",
-        "active": true,
+        "active": false,
         "date_updated": 1788207651,
         "date_posted": 1786399813,
         "url": "https://jobs.l3harris.com/job/Cincinnati-Associate,-Electrical-Engineering-(FOS)-OH-45245/1417967600/?ats=successfactors",
@@ -390453,7 +390200,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "0ffaa21c-d319-41eb-b21e-77a8c3a84f35",
         "title": "Python Developer Predoctoral Appointee - Vehicle and Mobility Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1788449954,
         "date_posted": 1786924800,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Predoctoral-Appointee---Python-Developer_423278",
