@@ -399320,7 +399320,7 @@
         "company_name": "Rivian",
         "id": "affc493c-ddc6-42c1-8ae5-58b0dbdc17eb",
         "title": "Software Engineer - Cloud & Software FinOps",
-        "active": true,
+        "active": false,
         "date_updated": 1788560282,
         "date_posted": 1788559531,
         "url": "https://careers.rivian.com/jobs/33476?icims=1",
@@ -403031,6 +403031,26 @@
             "Herndon, VA"
         ],
         "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OpenWorks Engineering",
+        "id": "6b1e085b-2dea-4281-b981-a744258f70a4",
+        "title": "Graduate Software Engineer - Assessment Day",
+        "active": true,
+        "date_updated": 1788966362,
+        "date_posted": 1788966326,
+        "url": "https://apply.workable.com/openworks-engineering/j/DD49EBE8B5/apply",
+        "locations": [
+            "Prudhoe, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenWorks-Engineering",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
