@@ -2,49 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "c2b06f07-2044-47a8-87e2-64a7a69a107e",
-        "title": "Associate Software Engineer / Software Engineer",
-        "active": false,
-        "date_updated": 1768179812,
-        "date_posted": 1768179812,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10218884",
-        "locations": [
-            "Hill AFB, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Oscar Health",
-        "id": "0b74b6b1-5bf0-4320-be2b-36cd3dc0be4e",
-        "title": "Data Scientist 1: Network and Contracts",
-        "active": false,
-        "date_updated": 1768180172,
-        "date_posted": 1768180172,
-        "url": "http://www.hioscar.com/careers/7527160?gh_jid=7527160",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Oscar-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Hewlett Packard Enterprise",
         "id": "9dcd9a37-c036-44e9-89a1-7458c0642e4b",
         "title": "Systems/Software Engineer 1",
@@ -101,46 +58,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PitchBook",
-        "id": "643e2fef-1c90-4500-85be-f2cbd539193b",
-        "title": "Associate Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1768179744,
-        "date_posted": 1768179744,
-        "url": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4643736006",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/PitchBook",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PitchBook",
-        "id": "612dde70-7c3a-4973-8867-77105150655c",
-        "title": "Associate Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1768179746,
-        "date_posted": 1768179746,
-        "url": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4643737006",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/PitchBook",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -229340,7 +229257,7 @@
         "company_name": "Goldman Sachs",
         "id": "de896427-2d73-4fa8-b8b8-65efaf044cfd",
         "title": "Software Engineer - Data",
-        "active": false,
+        "active": true,
         "date_updated": 1781169481,
         "date_posted": 1781168814,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
@@ -345570,7 +345487,7 @@
         "company_name": "AppLovin",
         "id": "2c69b87b-a3b9-4a6c-b179-1e31b348731a",
         "title": "Data Scientist - Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1786680181,
         "date_posted": 1786680016,
         "url": "https://boards.greenhouse.io/applovin/jobs/4705263006",
@@ -349224,7 +349141,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -357011,7 +356928,7 @@
         "company_name": "CACI",
         "id": "72985476-1779-4c98-b2ad-be7924937896",
         "title": "Cyber Software Engineer - Cyber Science & Technology",
-        "active": false,
+        "active": true,
         "date_updated": 1787177882,
         "date_posted": 1787097600,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Cyber-Software-Engineer_330859",
@@ -380848,7 +380765,7 @@
         "company_name": "Goldman Sachs",
         "id": "c4f6f0f0-80ff-4aa5-98b2-7bc8ccddedc8",
         "title": "Structured Finance Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1788403348,
         "date_posted": 1788201801,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/183338",
@@ -403116,6 +403033,168 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Archer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cintal",
+        "id": "4cf87ab1-05e7-4025-8b98-5e7c93f08ad6",
+        "title": "Software Engineer - FORTRAN to C++ Migration",
+        "active": true,
+        "date_updated": 1788917317,
+        "date_posted": 1788917215,
+        "url": "https://ats.rippling.com/cintal/jobs/17acea2c-d8e7-48c0-ab90-c5458fb0c3ef",
+        "locations": [
+            "Morton, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Cintal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "02c57dc0-0fee-41dd-8463-4a3217414cc8",
+        "title": "Analog Test & Characterization Engineer",
+        "active": true,
+        "date_updated": 1788917067,
+        "date_posted": 1788916957,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39917",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Applied Materials",
+        "id": "60e7f036-b17a-443f-b582-146a0ad2e28d",
+        "title": "Product Line Management 1 New College Grad - Bachelor's",
+        "active": true,
+        "date_updated": 1788917065,
+        "date_posted": 1788825600,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-I--New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2622280",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Barr",
+        "id": "32302c2d-ca4d-4a2f-9ce1-14817125baa7",
+        "title": "GIS Specialist",
+        "active": true,
+        "date_updated": 1788916874,
+        "date_posted": 1788825600,
+        "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/GIS-Specialist---Entry-Level--Hybrid-_R-102332-1",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Barr",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "7717e965-d3a4-4089-8c13-6fc0d63779c4",
+        "title": "Systems Engineering Integration & Test Engineer - Tides FPGA - Pie",
+        "active": true,
+        "date_updated": 1788916705,
+        "date_posted": 1788916643,
+        "url": "https://careers-gdms.icims.com/jobs/74794/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "2b12a7c8-2a88-48d5-90f7-d34a56473bc2",
+        "title": "Synthetic Aperture Radar Machine Learning Engineer - Imaging Systems",
+        "active": true,
+        "date_updated": 1788916533,
+        "date_posted": 1788916120,
+        "url": "https://careers.jhuapl.edu/jobs/59994?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Equifax",
+        "id": "a471e22f-cd94-4bfa-b76d-bc9b5fe6adfb",
+        "title": "Data Analytics Associate - Rotational Development Program",
+        "active": true,
+        "date_updated": 1788916384,
+        "date_posted": 1788825600,
+        "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Data-Analytics-Rotational-Development-Associate_J00178985-2",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equifax",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "ae44ea5a-496c-4667-9de2-6578c285889c",
+        "title": "Graduate Software Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1788916394,
+        "date_posted": 1788916115,
+        "url": "https://careers.jhuapl.edu/jobs/59653?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
