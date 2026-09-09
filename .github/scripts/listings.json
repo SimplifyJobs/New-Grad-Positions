@@ -380422,7 +380422,7 @@
         "company_name": "Goldman Sachs",
         "id": "c4f6f0f0-80ff-4aa5-98b2-7bc8ccddedc8",
         "title": "Structured Finance Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1788403348,
         "date_posted": 1788201801,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/183338",
@@ -400763,7 +400763,7 @@
         "company_name": "Zippd",
         "id": "af08978f-c6c6-4298-b5aa-63ea65daa298",
         "title": "Graduate Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788799906,
         "date_posted": 1788799838,
         "url": "https://apply.workable.com/zippd/j/644B7A023D/apply",
@@ -402957,5 +402957,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Humanoid",
+        "id": "bea83216-7165-4c51-b225-a3910db21b7a",
+        "title": "AI Data Collector",
+        "active": true,
+        "date_updated": 1788952525,
+        "date_posted": 1785363587,
+        "url": "https://jobs.ashbyhq.com/humanoid/5570dc3e-63cd-44f4-8ff2-b6979c25e868/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Humanoid",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
