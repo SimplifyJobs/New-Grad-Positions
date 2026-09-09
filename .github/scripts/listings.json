@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Iowa State University",
-        "id": "d6a40bc0-145e-44a2-987d-95f580846c7f",
-        "title": "Workday Extend Developer 1",
-        "active": false,
-        "date_updated": 1768218922,
-        "date_posted": 1768218922,
-        "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Workday-Extend-Developer-I_R18423",
-        "locations": [
-            "Ames, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Iowa-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Hewlett Packard (HP)",
         "id": "c7abf5c0-cb1f-4cb8-a5f0-1f267c8eae5c",
@@ -41,24 +20,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sabre",
-        "id": "5d6d054d-4b88-44c6-9854-8e4eac499237",
-        "title": "Web/Digital Specialist 1",
-        "active": false,
-        "date_updated": 1768219146,
-        "date_posted": 1768219146,
-        "url": "https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/United-Kingdom---Richmond-Church-Rd/Web-Digital-Specialist-I_JR107155",
-        "locations": [
-            "Hammersmith, London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sabre",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -402975,5 +402936,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Allen Control Systems",
+        "id": "c8082548-72f4-43bd-861a-8eb924951ca8",
+        "title": "Systems Test Engineer",
+        "active": true,
+        "date_updated": 1788954143,
+        "date_posted": 1779152974,
+        "url": "https://jobs.ashbyhq.com/allen-control-systems/23b70be8-9f8b-4774-a637-4f4150e48933/application?embed=true",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Allen-Control-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
