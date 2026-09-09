@@ -246854,7 +246854,7 @@
         "company_name": "Artefact",
         "id": "4f4415fe-3fce-46df-92ae-4e4e8f9e2549",
         "title": "Junior Engineer \u2013 Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1782870324,
         "date_posted": 1782743759,
         "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8611803002",
@@ -376822,7 +376822,7 @@
         "company_name": "Dataiku",
         "id": "3fc4727f-2d70-46d1-bcff-ca511ef255d0",
         "title": "Fullstack Software Engineer - Core",
-        "active": true,
+        "active": false,
         "date_updated": 1788274261,
         "date_posted": 1788274142,
         "url": "https://job-boards.greenhouse.io/dataiku/jobs/5420293004",
@@ -403102,6 +403102,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Framatome",
+        "id": "52c353b2-9e1b-4622-a0f1-f610019d21b7",
+        "title": "Computer Science Engineer 1 - Richland",
+        "active": true,
+        "date_updated": 1788945988,
+        "date_posted": 1788203450,
+        "url": "https://careers-framatome.icims.com/jobs/3321/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Richland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Framatome",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
