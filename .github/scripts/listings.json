@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "c7abf5c0-cb1f-4cb8-a5f0-1f267c8eae5c",
-        "title": "AI Lab Junior Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1768219552,
-        "date_posted": 1768219552,
-        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Lab---Junior-Machine-Learning-Engineer_3150991-2",
-        "locations": [
-            "Sant Cugat del Vall\u00e8s, Barcelona, Spain",
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "RELX",
         "id": "906cd821-77f3-4452-9a14-8b35bb2ce4b5",
@@ -218190,7 +218168,7 @@
         "company_name": "Rolls-Royce",
         "id": "96a486f8-a09e-4eb6-9430-055213a993c2",
         "title": "Test and Measurement Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780612561,
         "date_posted": 1780611003,
         "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Test-and-Measurement-Software-Engineer_JR6155467",
