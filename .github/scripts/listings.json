@@ -260499,7 +260499,7 @@
         "company_name": "Citadel",
         "id": "410b28b6-b357-4b72-9480-bad83701b4cb",
         "title": "Software Engineer \u2013 University Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1783318143,
         "date_posted": 1783318138,
         "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/",
@@ -355507,7 +355507,7 @@
         "company_name": "Light & Wonder",
         "id": "02502170-3121-44d4-bf17-fe903f70a51b",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1787172417,
         "date_posted": 1787097600,
         "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R322683",
@@ -398430,7 +398430,7 @@
         "company_name": "Navion Senior Solutions",
         "id": "fed5653f-9a92-401d-9594-24341fb28e9f",
         "title": "Server \u2013 Part-Time - Mid Shift - Arbor Ridge at Stanleyville",
-        "active": true,
+        "active": false,
         "date_updated": 1788537601,
         "date_posted": 1787033954,
         "url": "https://apply.workable.com/navionsl/j/61EF0B7906/apply",
@@ -400557,7 +400557,7 @@
         "company_name": "TD Bank",
         "id": "f49c5b41-af69-455f-8dc8-71c64daec56c",
         "title": "Credit Cards & Personal Lending Associate - Associate Program",
-        "active": false,
+        "active": true,
         "date_updated": 1788848114,
         "date_posted": 1788825600,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/CPB-Credit-Cards---Personal-Lending-Associate-Program_R_1505123",
@@ -402699,6 +402699,358 @@
             "Prudhoe, UK"
         ],
         "company_url": "https://simplify.jobs/c/OpenWorks-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cigna Group",
+        "id": "03867a03-9bbc-40a8-9063-6986060ce15b",
+        "title": "Software Engineer Program - Software Engineering Track",
+        "active": true,
+        "date_updated": 1788992984,
+        "date_posted": 1788912000,
+        "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NJ-Morris-Plains-115-Tabor-Rd/Technology-Development-Program--TECDP----Software-Engineering-Track---Start-Date--July-12--2027_26010470",
+        "locations": [
+            "Bloomington, MN",
+            "Morris Plains, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Cigna-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cigna Group",
+        "id": "ef74c157-3a62-4a2f-88e7-452369f4bcf2",
+        "title": "Technology Development Program Associate - Artificial Intelligence Track",
+        "active": true,
+        "date_updated": 1788992954,
+        "date_posted": 1788912000,
+        "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Artificial-Intelligence-Track---Start-Date--July-12--2027_26010465",
+        "locations": [
+            "Austin, TX",
+            "Morris Plains, NJ",
+            "St. Louis, MO",
+            "Bloomfield, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Cigna-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vitana Pediatric & Orthodontic Partners",
+        "id": "0575cb29-d26b-442a-aca7-b6735c808b68",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1788992288,
+        "date_posted": 1788992021,
+        "url": "https://jobs.lever.co/vitana-pediatric/80e4fc09-ab97-4a21-ba8e-9e41ff17d25e/apply",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Vitana-Pediatric-And-Orthodontic-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Domino Data Lab",
+        "id": "7b2a1e78-a6a7-42e9-8120-2e4b3187e580",
+        "title": "Forward Deployed Engineer New Grad",
+        "active": true,
+        "date_updated": 1788992848,
+        "date_posted": 1788991995,
+        "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992530?gh_jid=7992530",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Domino-Data-Lab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wellington Management",
+        "id": "4b9673a4-ad8a-4a24-9875-32ffa5c81783",
+        "title": "Technology Associate",
+        "active": true,
+        "date_updated": 1788992288,
+        "date_posted": 1788912000,
+        "url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Technology-Associate_R94786-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellington-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "a105da3c-fa2c-40c1-a5de-5af1575765dc",
+        "title": "Silicon Validation Engineer",
+        "active": true,
+        "date_updated": 1788992288,
+        "date_posted": 1788991802,
+        "url": "https://jobs.apple.com/en-us/details/200682718",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "ad1f4cfb-ab29-47db-ad35-cab7341ec885",
+        "title": "Silicon Validation Engineer",
+        "active": true,
+        "date_updated": 1788992288,
+        "date_posted": 1788991776,
+        "url": "https://jobs.apple.com/en-us/details/200682708",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Atlassian",
+        "id": "14d43ff5-f113-479b-9fc2-6416dfa12f99",
+        "title": "Software Engineer New Grad - 2027 Graduate",
+        "active": true,
+        "date_updated": 1788992375,
+        "date_posted": 1788991687,
+        "url": "https://campus-globalcareers-atlassian.icims.com/jobs/26070/software-engineer%2c-2027-graduate-canada/job",
+        "locations": [
+            "Burnaby, BC, Canada",
+            "Vancouver, BC, Canada",
+            "Richmond, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Atlassian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Garmin",
+        "id": "f4538be3-c33d-45da-80ad-5a9709f31887",
+        "title": "EMC Engineering Technician 1",
+        "active": true,
+        "date_updated": 1788992374,
+        "date_posted": 1788991687,
+        "url": "https://careers.garmin.com/jobs/19592?icims=1",
+        "locations": [
+            "Salem, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Arista Networks",
+        "id": "567d2916-352d-441e-979d-1348a4d98c5f",
+        "title": "Hardware NPI / Debug Engineer",
+        "active": true,
+        "date_updated": 1788991748,
+        "date_posted": 1788991658,
+        "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000148585799",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arista-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Domino Data Lab",
+        "id": "791fa1eb-1777-438b-8d03-e6cd35986be6",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1788992300,
+        "date_posted": 1788991651,
+        "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992556?gh_jid=7992556",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Domino-Data-Lab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ServiceNow",
+        "id": "c6296417-4678-4d43-88fb-270f246b32cc",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1788991748,
+        "date_posted": 1788991638,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000148581229",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ServiceNow",
+        "id": "fad8dfc2-103b-425b-923f-9e4176ee1e3d",
+        "title": "Software Engineer - AI Developer Products",
+        "active": true,
+        "date_updated": 1788991748,
+        "date_posted": 1788991641,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000148580489",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "229a8749-6e68-4018-b58e-01b4580b3b7c",
+        "title": "Cross-functional Engineering Associate - OCU - Technical",
+        "active": true,
+        "date_updated": 1788991748,
+        "date_posted": 1788991597,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434959",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wellmark",
+        "id": "6b52a63a-0913-4835-9c42-03a56e7a651a",
+        "title": "Data Wrangler",
+        "active": true,
+        "date_updated": 1788991566,
+        "date_posted": 1788991536,
+        "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148589409",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellmark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Instabase",
+        "id": "b196beaa-0486-4680-8bb8-bc0817ab0fa4",
+        "title": "Software Engineer - Early Careers",
+        "active": true,
+        "date_updated": 1788992288,
+        "date_posted": 1788991535,
+        "url": "https://job-boards.greenhouse.io/instabase/jobs/8783218002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Instabase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Monzo",
+        "id": "bae8bea7-7ecc-456a-8a76-fb19c10ba106",
+        "title": "Graduate Credit Analyst",
+        "active": true,
+        "date_updated": 1788992288,
+        "date_posted": 1788945749,
+        "url": "https://job-boards.greenhouse.io/monzo/jobs/8173733",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Monzo",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
