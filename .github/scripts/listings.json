@@ -1,45 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Accenture",
-        "id": "f8c8734f-8fa2-47ca-949a-b72b1e8d1bf2",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1768185485,
-        "date_posted": 1768185485,
-        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mountain-View-650-Castro-Corp/XMLNAME--Software-Engineer---6078916_13942102",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Accenture-FS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Accenture",
-        "id": "81dc4693-a5df-4fe6-a326-456b493ca094",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1768185481,
-        "date_posted": 1768185481,
-        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/San-Francisco-415-Mission-Street-Corp/XMLNAME--Software-Engineer---6078908_13942096-1",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Accenture-FS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "af1b67fd-8e9a-4cee-92a2-21abc9bfeda5",
@@ -114148,7 +114109,7 @@
         "company_name": "NVIDIA",
         "id": "9a6a1ffd-6d72-4eeb-8369-6d2b5e9a3162",
         "title": "ASIC Design Efficiency Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774394202,
         "date_posted": 1774394202,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Efficiency-Engineer_JR1998928",
@@ -335767,7 +335728,7 @@
         "company_name": "Major League Baseball",
         "id": "5fed2e8f-c869-4ed1-93c0-10e1b7c0128a",
         "title": "Quantitative Analyst Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1786411081,
         "date_posted": 1786411010,
         "url": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7850879003",
