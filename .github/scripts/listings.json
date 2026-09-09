@@ -1,87 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Lloyds Bank",
-        "id": "9ad2d37b-89d3-4585-9734-1ec7009eb0ec",
-        "title": "Assistant Product Manager",
-        "active": false,
-        "date_updated": 1768235650,
-        "date_posted": 1768235650,
-        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Assistant-Product-Manager_150146-2",
-        "locations": [
-            "Leeds, UK",
-            "Liverpool, UK",
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "O'Reilly Auto Parts",
-        "id": "829bbb1a-bb6d-4f45-bc31-d6c0c90b731e",
-        "title": "Electronic Catalog Technician",
-        "active": false,
-        "date_updated": 1768236108,
-        "date_posted": 1768236108,
-        "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Regional-Office-PHX/Electronic-Catalog-Technician-1_R158616",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/OReilly-Auto-Parts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "KBR",
-        "id": "5f06c65c-3985-4fbb-bb1c-153408a1aae4",
-        "title": "Power Apps Developer",
-        "active": false,
-        "date_updated": 1768235548,
-        "date_posted": 1768235548,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Leatherhead-Surrey-United-Kingdom/Power-Apps-Developer---Entry-Level_R2117355",
-        "locations": [
-            "Dorking, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Michaels Stores",
-        "id": "19f04c41-45f9-4d72-8999-0a5303843fca",
-        "title": "Product Development Coordinator",
-        "active": false,
-        "date_updated": 1768235693,
-        "date_posted": 1768235693,
-        "url": "https://michaels.wd5.myworkdayjobs.com/external/job/Irving-Irving-Corporate-Office-3939-West-John-Carpenter-Freeway/Product-Development-Coordinator_R00302287",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Michaels-Stores",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Zip",
         "id": "dfbdab51-622f-4ef4-ae06-e13c9c196537",
@@ -5980,24 +5899,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Bloomreach",
-        "id": "e10f5826-d599-4838-ac33-157b3c36527f",
-        "title": "Product Engagement Manager - Affinity",
-        "active": false,
-        "date_updated": 1768235608,
-        "date_posted": 1768235608,
-        "url": "https://job-boards.greenhouse.io/bloomreach/jobs/7529828",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/2c4c6424-8f66-47a3-b744-c040462ba1cc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -363778,7 +363679,7 @@
         "company_name": "Yelp",
         "id": "b4fbf723-b634-4b03-a717-5a7477ac972b",
         "title": "Data Backend Engineer - Trust & Safety",
-        "active": true,
+        "active": false,
         "date_updated": 1787616865,
         "date_posted": 1787616480,
         "url": "https://www.yelp.careers/us/en/job/14018",
