@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "FOX",
-        "id": "28b4814c-b336-495e-8a10-0e3f77357a9a",
-        "title": "Product Manager 1 - Payments & Billing",
-        "active": false,
-        "date_updated": 1768273933,
-        "date_posted": 1768273933,
-        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Product-Manager-I--Payments---Billing_R50031115",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "CIBC",
         "id": "88eb01e5-49e4-4716-a58b-42da32c33a4a",
