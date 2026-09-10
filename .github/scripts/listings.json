@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Pfizer",
-        "id": "8b4ce513-3260-4e15-a173-5aa6943e9062",
-        "title": "Director of AI Engineering Pfizer R&D",
-        "active": false,
-        "date_updated": 1768289801,
-        "date_posted": 1768289801,
-        "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Massachusetts---Cambridge/Director-of-AI-Engineering-Pfizer-R-D_4949810",
-        "locations": [
-            "Bothell, WA",
-            "La Jolla, San Diego, CA",
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pfizer",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "f23dffce-d08a-4130-abca-b077f3e4fab3",
@@ -1725,24 +1705,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Aerospace",
-        "id": "416bd4ee-9a93-44dc-aa39-72635d5ea18a",
-        "title": "Repair Station Associate - Harness",
-        "active": false,
-        "date_updated": 1768289739,
-        "date_posted": 1768289739,
-        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Jacksonville/Repair-Station-Associate_R5026095-1",
-        "locations": [
-            "Jacksonville, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Aerospace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -376618,7 +376580,7 @@
         "company_name": "Chewy",
         "id": "1d020353-a34d-439c-af12-f9b5c502765b",
         "title": "Software Engineer 1 - WIZMO engineering team",
-        "active": true,
+        "active": false,
         "date_updated": 1788289742,
         "date_posted": 1788220800,
         "url": "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Bellevue-WA/Software-Engineer-I_R30695-1",
