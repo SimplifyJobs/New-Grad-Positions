@@ -345870,7 +345870,7 @@
         "company_name": "State Farm",
         "id": "36765a45-f997-47bc-a1a9-88ed5650308a",
         "title": "Software Engineer - iOS",
-        "active": false,
+        "active": true,
         "date_updated": 1786745705,
         "date_posted": 1786745621,
         "url": "https://jobs.statefarm.com/jobs/44950?icims=1",
@@ -347204,7 +347204,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -378828,7 +378828,7 @@
         "company_name": "Goldman Sachs",
         "id": "c4f6f0f0-80ff-4aa5-98b2-7bc8ccddedc8",
         "title": "Structured Finance Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1788403348,
         "date_posted": 1788201801,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/183338",
@@ -396744,7 +396744,7 @@
         "company_name": "Entarian",
         "id": "4a6b6b96-dbdd-4dbb-8a0b-6ef03b00cfbe",
         "title": "GIS Technician / Office Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1788524462,
         "date_posted": 1787039537,
         "url": "https://careers-entarian.icims.com/jobs/9707/job?mobile=true&needsRedirect=false",
@@ -396764,7 +396764,7 @@
         "company_name": "Entarian",
         "id": "485ffc82-c75c-4265-9e3a-40303fe373fc",
         "title": "GIS Technician / Office Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1788523741,
         "date_posted": 1787039537,
         "url": "https://careers-entarian.icims.com/jobs/9708/job?mobile=true&needsRedirect=false",
@@ -403335,6 +403335,170 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Norton Rose Fulbright",
+        "id": "85892b81-432b-4e81-b38d-fe5610cd4494",
+        "title": "Junior Data Analyst",
+        "active": true,
+        "date_updated": 1789050445,
+        "date_posted": 1788998400,
+        "url": "https://nrf.wd3.myworkdayjobs.com/External/job/London-United-Kingdom/Junior-Data-Analyst_R-4351",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Norton-Rose-Fulbright",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Xcel Energy",
+        "id": "ecef4f4f-e9ad-46ae-9273-209c20beb7e5",
+        "title": "Geospatial Data Technician 1",
+        "active": true,
+        "date_updated": 1789049922,
+        "date_posted": 1788998400,
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Geospatial-Data-Technician-I_JR116123",
+        "locations": [
+            "Minneapolis, MN",
+            "Denver, CO",
+            "Amarillo, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Xcel-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "afa1841f-ec75-4154-bdbb-fcdf1a49189e",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1789049706,
+        "date_posted": 1788998400,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/Data-Scientist_R5051914-3",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "962f1bfd-70ba-4217-a32b-3e4ff0200101",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1789049341,
+        "date_posted": 1788998400,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/AI-Engineer_R5051916-2",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "17ee9cb8-31a6-4c61-9fb6-eeeb34a917d4",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1789049341,
+        "date_posted": 1788998400,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/AI-Engineer_R5051916-1",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "37150388-9148-4979-81ef-04f7f4f2d18b",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1789049341,
+        "date_posted": 1788998400,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/Data-Scientist_R5051914-2",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard",
+        "id": "e9554a20-5672-4854-890d-18285048340e",
+        "title": "Graduate Software Developer - HP Wolf Security",
+        "active": true,
+        "date_updated": 1789049546,
+        "date_posted": 1788998400,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-C--Software-Developer--2-year-placement_3165415",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard",
+        "id": "2b9817d0-6f0e-47d5-a557-9594cca9ea27",
+        "title": "Graduate Software Developer - HP Wolf Security",
+        "active": true,
+        "date_updated": 1789049542,
+        "date_posted": 1788998400,
+        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-C--Software-Developer--2-year-placement_3165415-2",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
