@@ -11,7 +11,13 @@ def main():
 
     util.checkSchema(listings)
     filtered = util.filterListings(listings, earliest_date=1748761200)
-    
+
+    try:
+        util.archiveNewListings(filtered)
+        util.saveListingsToJSON(listings)
+    except Exception as e:
+        print(f"Wayback archiving step failed, continuing without it: {e}")
+
     util.sortListings(filtered)
     util.embedTable(filtered)
 
