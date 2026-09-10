@@ -2,201 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Microchip Technology",
-        "id": "2e2766ec-5fd3-40f9-acb4-f3aa2f7faa19",
-        "title": "Ing\u00e9nieur V\u00e9rification 1 / Verification Engineer 1",
-        "active": false,
-        "date_updated": 1768260856,
-        "date_posted": 1768260856,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Canada---Montreal/Ingnieur-Vrification-I---Verification-Engineer-I_R139-26",
-        "locations": [
-            "Burnaby, BC, Canada",
-            "Montreal, QC, Canada",
-            "Saskatoon, SK, Canada",
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "12d4a67b-1d26-462b-81e6-4b5869a200f1",
-        "title": "Verification Engineer 1",
-        "active": false,
-        "date_updated": 1768260852,
-        "date_posted": 1768260852,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Canada---Toronto---67-Yonge-Street-9th-Floor/Verification-Engineer-I_R138-26",
-        "locations": [
-            "Burnaby, BC, Canada",
-            "Toronto, ON, Canada",
-            "Montreal, QC, Canada",
-            "Saskatoon, SK, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Relativity",
-        "id": "03cfc8d1-3a7e-42c7-95f6-598bc8769972",
-        "title": "Product Manager - AI Transform Review",
-        "active": false,
-        "date_updated": 1768261025,
-        "date_posted": 1768261025,
-        "url": "https://kcura.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois/Product-Manager---AI-Transform-Review_26-0001",
-        "locations": [
-            "Illinois"
-        ],
-        "company_url": "https://simplify.jobs/c/Relativity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "c2113832-58da-419c-80b4-ce239bc1f9aa",
-        "title": "Ing\u00e9nieur Conception 1 / Design Engineer 1",
-        "active": false,
-        "date_updated": 1768260867,
-        "date_posted": 1768260867,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Canada---Montreal/Ingnieur-Conception-I---Design-Engineer-I_R143-26",
-        "locations": [
-            "Burnaby, BC, Canada",
-            "Montreal, QC, Canada",
-            "Toronto, ON, Canada",
-            "Saskatoon, SK, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "9b0cd01d-4dc1-4fb6-9ebd-ae84d20175a3",
-        "title": "Design Engineer 1",
-        "active": false,
-        "date_updated": 1768260859,
-        "date_posted": 1768260859,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Canada---Toronto---67-Yonge-Street-9th-Floor/Design-Engineer-I_R137-26",
-        "locations": [
-            "Burnaby, BC, Canada",
-            "Toronto, ON, Canada",
-            "Montreal, QC, Canada",
-            "Saskatoon, SK, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bracebridge Capital",
-        "id": "8c819568-8d58-49e0-a501-acbc0cd5a35b",
-        "title": "Machine Learning Analyst",
-        "active": false,
-        "date_updated": 1768260961,
-        "date_posted": 1768260961,
-        "url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4648322005",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bracebridge-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Crowdstrike",
-        "id": "377d36af-49df-40da-ac92-d873138dd407",
-        "title": "Associate Technical Operations Engineer",
-        "active": false,
-        "date_updated": 1768261011,
-        "date_posted": 1768261011,
-        "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Canada---Remote-ON/Associate-Technical-Operations-Engineer--Remote--CAN-_R26209",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Crowdstrike",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RF-SMART",
-        "id": "9ccbf520-ccf4-42e0-91c0-dde624c83e9d",
-        "title": "Technical Consultant 1",
-        "active": false,
-        "date_updated": 1768260720,
-        "date_posted": 1768260720,
-        "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5060767008",
-        "locations": [
-            "Jacksonville, FL",
-            "Highlands Ranch, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/f006a158-9398-482e-9a19-a635e79862ae",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "VaynerMedia",
-        "id": "54193433-d540-4532-9fd5-9df2d1db0d31",
-        "title": "Senior Associate - Analytics - Media",
-        "active": false,
-        "date_updated": 1768260770,
-        "date_posted": 1768260770,
-        "url": "https://vaynermedia.com/careers?gh_jid=7531319",
-        "locations": [
-            "LA",
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/VaynerMedia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "xAI",
         "id": "2c4a8374-cf81-4e2d-98a1-12e4f8e5fbcc",
         "title": "Member of Technical Staff - Security Engineering",
@@ -271,26 +76,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Affirm",
-        "id": "74c57a4c-47ff-497a-978b-6e35a4a242bc",
-        "title": "Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1768261236,
-        "date_posted": 1768261236,
-        "url": "https://job-boards.greenhouse.io/affirm/jobs/7579641003",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Affirm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -15298,24 +15083,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Chime",
-        "id": "01279f87-288e-47e3-830a-586bfdfdbe36",
-        "title": "Data Analyst - Lending",
-        "active": false,
-        "date_updated": 1769211908,
-        "date_posted": 1768261061,
-        "url": "https://boards.greenhouse.io/chime/jobs/8365502002",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Chime",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -315621,7 +315388,7 @@
         "company_name": "Noblis",
         "id": "2efe7383-c35c-499a-8d3e-e914016e2ce0",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785623401,
         "date_posted": 1785577438,
         "url": "https://careers.noblis.org/jobs/27515?icims=1",
@@ -396294,7 +396061,7 @@
         "company_name": "TSMG",
         "id": "7e479a9e-fa2f-4bb2-b90b-6cfe1bbfca41",
         "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
-        "active": false,
+        "active": true,
         "date_updated": 1788499081,
         "date_posted": 1777298690,
         "url": "https://jobs.lever.co/tsmg/f3dea37e-6cbf-4acc-bac8-37646c469681/apply",
@@ -401462,7 +401229,7 @@
         "company_name": "State Farm",
         "id": "ca33349b-4cf0-4c54-8c3b-576d023c0960",
         "title": "Software Engineer - Enterprise Site Reliability Engineering - Availability Analytics and Automation",
-        "active": true,
+        "active": false,
         "date_updated": 1788907701,
         "date_posted": 1788905234,
         "url": "https://jobs.statefarm.com/jobs/46083?icims=1",
