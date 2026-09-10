@@ -275569,7 +275569,7 @@
         "company_name": "Cisco",
         "id": "7a41b37b-bd8a-4927-901d-15da9744cdcf",
         "title": "Failure Analysis Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784154435,
         "date_posted": 1784153503,
         "url": "https://careers.cisco.com/global/en/job/2018947",
@@ -403403,6 +403403,26 @@
             "Boulder, CO"
         ],
         "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "ccea935e-1055-419a-834c-8b52c01b71bc",
+        "title": "Software Engineer - Apple Ads",
+        "active": true,
+        "date_updated": 1789035661,
+        "date_posted": 1788991789,
+        "url": "https://jobs.apple.com/en-us/details/200682706",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
