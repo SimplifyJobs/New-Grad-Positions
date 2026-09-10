@@ -21,46 +21,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "McGill University",
-        "id": "a70677b7-06ac-4b25-b2e1-f3dd5e1f334a",
-        "title": "Post-Doctoral Researcher",
-        "active": false,
-        "date_updated": 1768271047,
-        "date_posted": 1768271047,
-        "url": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/McConnell-Eng-Bldg/Post-Doctoral-Researcher_JR0000068455",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/McGill-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Verisk",
-        "id": "c2bf9894-9492-4835-be21-3122eb8ec301",
-        "title": "Personal Property Pricing Specialist",
-        "active": false,
-        "date_updated": 1768270305,
-        "date_posted": 1768270305,
-        "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2908",
-        "locations": [
-            "Lehi, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Verisk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "FOX",
         "id": "28b4814c-b336-495e-8a10-0e3f77357a9a",
@@ -99,24 +59,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Candidly",
-        "id": "915259b9-69e3-4723-a03d-5e0d6e30f3f5",
-        "title": "Data Scientist - AI Engineering",
-        "active": false,
-        "date_updated": 1768271046,
-        "date_posted": 1768271046,
-        "url": "https://job-boards.greenhouse.io/candidly/jobs/5022473007",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Candidly",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "CIBC",
         "id": "88eb01e5-49e4-4716-a58b-42da32c33a4a",
@@ -152,27 +94,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Morgan Lewis",
-        "id": "f6ab4082-98c9-4507-872e-b06118fb9179",
-        "title": "Digital Product Analyst",
-        "active": false,
-        "date_updated": 1768270949,
-        "date_posted": 1768270949,
-        "url": "https://morganlewis.wd5.myworkdayjobs.com/morganlewis/job/Seattle-Washington/Digital-Product-Analyst_R3834",
-        "locations": [
-            "Philadelphia, PA",
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Morgan-Lewis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
