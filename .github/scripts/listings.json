@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "xAI",
-        "id": "2c4a8374-cf81-4e2d-98a1-12e4f8e5fbcc",
-        "title": "Member of Technical Staff - Security Engineering",
-        "active": false,
-        "date_updated": 1768272619,
-        "date_posted": 1768272619,
-        "url": "https://job-boards.greenhouse.io/xai/jobs/5022358007",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/XAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "FOX",
         "id": "28b4814c-b336-495e-8a10-0e3f77357a9a",
@@ -36,26 +16,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": " Cottingham & Butler",
-        "id": "10490415-411f-46b4-bcdf-8fd74bc04a50",
-        "title": "Benefits Technology Analyst",
-        "active": false,
-        "date_updated": 1768272655,
-        "date_posted": 1768272655,
-        "url": "https://boards.greenhouse.io/cottinghambutlerinsuranceservicesinc/jobs/4407035008",
-        "locations": [
-            "Dubuque, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cottingham-And-Butler",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
