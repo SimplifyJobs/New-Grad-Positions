@@ -14,9 +14,10 @@ def main():
 
     try:
         util.archiveNewListings(filtered)
-        util.saveListingsToJSON(listings)
     except Exception as e:
         print(f"Wayback archiving step failed, continuing without it: {e}")
+
+    util.saveListingsToJSON(listings)
 
     util.sortListings(filtered)
     util.embedTable(filtered)

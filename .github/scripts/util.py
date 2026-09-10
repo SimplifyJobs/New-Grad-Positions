@@ -274,8 +274,16 @@ def getListingsFromJSON(filename=".github/scripts/listings.json"):
         return listings
 
 def saveListingsToJSON(listings, filename=".github/scripts/listings.json"):
-    with open(filename, "w") as f:
-        json.dump(listings, f, indent=4)
+    # Write to a temp file first so a failure mid-dump can't leave listings.json truncated
+    temp_filename = filename + ".tmp"
+    try:
+        with open(temp_filename, "w") as f:
+            json.dump(listings, f, indent=4)
+        os.replace(temp_filename, filename)
+    except Exception:
+        if os.path.exists(temp_filename):
+            os.remove(temp_filename)
+        raise
 
 class WaybackRateLimited(Exception):
     pass
@@ -283,14 +291,18 @@ class WaybackRateLimited(Exception):
 def save_to_wayback(url, timeout=15):
     """Best-effort request asking the Wayback Machine to capture url now.
     Returns the archived URL, or None if the capture couldn't be confirmed."""
-    request = urllib.request.Request(WAYBACK_SAVE_URL + url, headers={"User-Agent": WAYBACK_USER_AGENT})
+    # urllib drops any #fragment before sending, and Wayback hands back a
+    # fragment-less snapshot URL, so keep it aside and re-attach it to the result.
+    target, _, fragment = url.partition("#")
+    suffix = "#" + fragment if fragment else ""
+    request = urllib.request.Request(WAYBACK_SAVE_URL + target, headers={"User-Agent": WAYBACK_USER_AGENT})
     try:
         with urllib.request.urlopen(request, timeout=timeout) as response:
             content_location = response.headers.get("Content-Location")
             if content_location:
-                return "https://web.archive.org" + content_location
+                return "https://web.archive.org" + content_location + suffix
             if response.geturl().startswith("https://web.archive.org/web/"):
-                return response.geturl()
+                return response.geturl() + suffix
             return None
     except urllib.error.HTTPError as e:
         if e.code == 429:
