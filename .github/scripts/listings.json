@@ -227529,7 +227529,7 @@
         "company_name": "Goldman Sachs",
         "id": "de896427-2d73-4fa8-b8b8-65efaf044cfd",
         "title": "Software Engineer - Data",
-        "active": true,
+        "active": false,
         "date_updated": 1781169481,
         "date_posted": 1781168814,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
@@ -347392,7 +347392,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -379016,7 +379016,7 @@
         "company_name": "Goldman Sachs",
         "id": "c4f6f0f0-80ff-4aa5-98b2-7bc8ccddedc8",
         "title": "Structured Finance Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1788403348,
         "date_posted": 1788201801,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/183338",
@@ -403304,6 +403304,165 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "42dot",
+        "id": "330917fa-5f52-4c91-9e45-d3090740fbf8",
+        "title": "Speech Data Transcriber",
+        "active": true,
+        "date_updated": 1789021756,
+        "date_posted": 1789021599,
+        "url": "https://jobs.ashbyhq.com/42dot/bbd16c94-361a-4086-ab0c-7b21fc8b8833/application?embed=true",
+        "locations": [
+            "SF",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/42dot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TRUCKING PEOPLE",
+        "id": "d696a1be-a3ec-4d9d-a48e-83eff6d38eea",
+        "title": "Data Capture Technician",
+        "active": true,
+        "date_updated": 1789021441,
+        "date_posted": 1789021427,
+        "url": "https://truckingpeople.applytojob.com/apply/ipuhVXTnuC/Data-Capture-Technician",
+        "locations": [
+            "Childress, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/TRUCKING-PEOPLE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Silicon Laboratories",
+        "id": "a4e4044b-8f9e-4217-8e54-40fb1284f449",
+        "title": "RFIC Design Engineer 1 - RFIC Design Team",
+        "active": true,
+        "date_updated": 1789021482,
+        "date_posted": 1788912000,
+        "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/RFIC-Design-Engineer-I_20918-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Silicon-Laboratories",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sundt",
+        "id": "2a9432e7-1213-47eb-9903-c308a42b37e1",
+        "title": "Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1789021081,
+        "date_posted": 1789021031,
+        "url": "https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10993",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Sundt",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "e794a35b-2127-44e9-87c4-e486c2c351b7",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1789021032,
+        "date_posted": 1788912000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I---Onsite-_01872447",
+        "locations": [
+            "Woburn, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "40052f73-c028-410f-8693-2219d4c4b1b9",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1789021016,
+        "date_posted": 1788912000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I---Onsite-_01872452",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jobs for Humanity",
+        "id": "4a6029ba-909e-4642-9f0c-003c5e66dfde",
+        "title": "Online Data Analyst - English",
+        "active": true,
+        "date_updated": 1789020541,
+        "date_posted": 1789020471,
+        "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000148664439",
+        "locations": [
+            "Irlam, Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobs-For-Humanity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Anduril",
+        "id": "d89e069f-936a-4968-88f3-98c563eec21e",
+        "title": "System Test Engineer - Imaging",
+        "active": true,
+        "date_updated": 1789021261,
+        "date_posted": 1780535703,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5147719007",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
