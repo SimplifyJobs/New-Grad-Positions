@@ -1,87 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Lloyds Bank",
-        "id": "f627c447-9941-4f65-8891-1f8d3321b7df",
-        "title": "Assistant Product Manager",
-        "active": false,
-        "date_updated": 1768322355,
-        "date_posted": 1768322355,
-        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Assistant-Product-Manager_149546-1",
-        "locations": [
-            "Leeds, UK",
-            "Liverpool, UK",
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Malvern Panalytical",
-        "id": "d24dabb1-7ba5-4ed6-88ce-9d8d6a5d40ba",
-        "title": "Benchtop Repair Engineer",
-        "active": false,
-        "date_updated": 1768322221,
-        "date_posted": 1768322221,
-        "url": "https://spectris.wd3.myworkdayjobs.com/Malvern_Panalytical_Careers/job/Westborough-MA/Benchtop-Repair-Engineer_16972",
-        "locations": [
-            "Westborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Malvern-Panalytical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Leidos",
-        "id": "43c272a0-2273-4609-813f-7a18bbd1db52",
-        "title": "Product Technician",
-        "active": false,
-        "date_updated": 1768322275,
-        "date_posted": 1768322275,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Product-Technician_R-00170619",
-        "locations": [
-            "Chesapeake, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "e99a8528-bbe8-4580-bb9d-e9bc6e729691",
-        "title": "Manufacturing Technician",
-        "active": false,
-        "date_updated": 1768322099,
-        "date_posted": 1768322099,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Manufacturing-Technician-1-2_R10216320-1",
-        "locations": [
-            "Logan, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Vertiv",
         "id": "77e48daf-e449-47f6-99d7-e523dbf6942e",
@@ -2325,26 +2244,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Abbott",
-        "id": "0461cfca-7905-471a-8e48-b70da63849d6",
-        "title": "Field Service Engineer 2-New York metro area and New Jersey",
-        "active": false,
-        "date_updated": 1768444389,
-        "date_posted": 1768322297,
-        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---New-York/Field-Service-Engineer-II--New-York-metro-area-and-New-Jersey_31137747-1",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Abbott",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -8841,26 +8740,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Abbott",
-        "id": "f5e07458-4942-415f-b1a2-3659a1315c43",
-        "title": "Field Service Engineer 2-New York metro area and New Jersey",
-        "active": false,
-        "date_updated": 1768444389,
-        "date_posted": 1768322297,
-        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---New-York---New-York/Field-Service-Engineer-II--New-York-metro-area-and-New-Jersey_31137747",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Abbott",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Cribl",
         "id": "12bb24ce-b2e6-4981-ac8d-2afd93ea02ea",
@@ -11032,26 +10911,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Aerospace",
-        "id": "dc19c6b0-99e7-45e7-b8d5-55f7844f3564",
-        "title": "Electronics Product Support Engineer",
-        "active": false,
-        "date_updated": 1769081059,
-        "date_posted": 1768322548,
-        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Cheltenham/Electronics-Product-Support-Engineer_R5026187-1",
-        "locations": [
-            "Gloucester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Aerospace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -234636,7 +234495,7 @@
         "company_name": "University of Chicago",
         "id": "44741ba8-e41f-4482-be57-c7316565d787",
         "title": "Web Designer and Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1781645419,
         "date_posted": 1781639125,
         "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Illinois-Chicago/Web-Designer-and-Developer_JR33945-1",
@@ -328474,7 +328333,7 @@
         "company_name": "Sword Group",
         "id": "c8dd07e6-d484-4c5d-9e31-6d456cfbbbdd",
         "title": "Junior Data Manager - Geoscience - Early Careers",
-        "active": true,
+        "active": false,
         "date_updated": 1786083481,
         "date_posted": 1786083365,
         "url": "https://apply.workable.com/sword-group/j/56CE66F081/apply",
