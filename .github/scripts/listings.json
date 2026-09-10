@@ -1,41 +1,5 @@
 [
     {
-        "date_updated": 1771250796,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25539&siteid=5313&jobId=5208753",
-        "company_name": "General Atomics",
-        "title": "Associate Software Developer",
-        "locations": [
-            "Poway, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "Devonav",
-        "id": "db9a694d-33b1-4f99-a7c9-3a15d72610b3",
-        "date_posted": 1768311526,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1772694433,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/cribl/jobs/5739562004",
-        "company_name": "Cribl",
-        "title": "Data Engineer",
-        "locations": [
-            "Remote in USA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Devonav",
-        "id": "0d00a058-3a05-48b8-9d80-b13249bf23ff",
-        "date_posted": 1768311596,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Visa",
@@ -403347,6 +403311,26 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Super-Micro-Computer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stryker",
+        "id": "d4423af2-8d19-4617-b72f-304bdf2c0d71",
+        "title": "Quality Engineer - Master Data",
+        "active": true,
+        "date_updated": 1789047181,
+        "date_posted": 1788998400,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fremont-California/Quality-Engineer--Master-Data--Hybrid-_R572285",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
