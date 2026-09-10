@@ -260180,7 +260180,7 @@
         "company_name": "dunnhumby",
         "id": "c27c66d5-9509-490d-968c-e3ce9a235a04",
         "title": "Category & Store Solutions Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1783378159,
         "date_posted": 1783377422,
         "url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7787366003",
@@ -318233,7 +318233,7 @@
         "company_name": "WonderBotz",
         "id": "c7fb8916-9630-411f-b870-1670488e15f4",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785740221,
         "date_posted": 1785738047,
         "url": "https://wonderbotz.applytojob.com/apply/RrI9QanYDY/Junior-Software-Engineer",
@@ -354450,7 +354450,7 @@
         "company_name": "RTX",
         "id": "d274a4f7-9df9-45bf-b9c2-6b25e26d166d",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1787172179,
         "date_posted": 1787097600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Onsite-_01868027",
@@ -403499,6 +403499,133 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Veterans United",
+        "id": "c2d4f366-1b51-43e0-a206-2d0815656d4e",
+        "title": "Data Coordinator",
+        "active": true,
+        "date_updated": 1789051861,
+        "date_posted": 1788998400,
+        "url": "https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Columbia-MO/Data-Coordinator_R6225",
+        "locations": [
+            "Columbia, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Veterans-United",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Noblis",
+        "id": "f8b85cfe-7220-4177-a4a4-cd59e00ecd8b",
+        "title": "Artificial Intelligence Engineer",
+        "active": true,
+        "date_updated": 1789051501,
+        "date_posted": 1789051442,
+        "url": "https://careers.noblis.org/jobs/27812?icims=1",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Noblis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hastings Direct",
+        "id": "1dda1979-d969-4d70-993f-2a200bbe3d19",
+        "title": "Pricing Automation Engineer",
+        "active": true,
+        "date_updated": 1789051501,
+        "date_posted": 1788998400,
+        "url": "https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/London/Pricing-Automation-Engineer_60014016-1",
+        "locations": [
+            "London, UK",
+            "Cardiff, UK",
+            "Leicester, UK",
+            "Belfast, UK",
+            "Bexhill, Bexhill-on-Sea, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hastings-Direct",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "face0c83-397d-4322-8e32-868a23dca209",
+        "title": "Applied AI Engineer - Radiology AI Lab",
+        "active": true,
+        "date_updated": 1789050800,
+        "date_posted": 1789050728,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/College-of-Medicine/Applied-AI-Engineer---Radiology-AI-Lab_REQ_0000073876-2",
+        "locations": [
+            "Hershey, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "4115edde-4ae5-4920-b782-86b84818fcc2",
+        "title": "Software Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1789050816,
+        "date_posted": 1788998400,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/R-D-Engineer--Software-Engineer_REQ_0000081569-2",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "2dcb71be-979e-47c0-b8a8-0f9a1e116f46",
+        "title": "Software Engineer - Strategic Systems Operation Division",
+        "active": true,
+        "date_updated": 1789050817,
+        "date_posted": 1788998400,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer--Software-Engineer_REQ_0000081602-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
