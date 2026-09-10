@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f23dffce-d08a-4130-abca-b077f3e4fab3",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1768300391,
-        "date_posted": 1768300391,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045712",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0deadd36-6e59-4eee-8dbf-370e4cf57e27",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1768300388,
-        "date_posted": 1768300388,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045717",
-        "locations": [
-            "Maidstone, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "TD Bank",
         "id": "c6fc8321-0f25-4ba0-88e7-90e02f38b336",
@@ -49,26 +13,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "5c8331f4-e239-4c6f-a9ad-d69afeeb2da1",
-        "title": "Benefits Operations Data Analyst - HR Operations - San Jose','Third-Party Associate",
-        "active": false,
-        "date_updated": 1768300695,
-        "date_posted": 1768300695,
-        "url": "https://lifeattiktok.com/search/7593570990719306037",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -334792,7 +334736,7 @@
         "company_name": "Alexander Dennis",
         "id": "ddf9f735-09a7-4d04-b10f-07be753e0d4f",
         "title": "Reliability Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786440601,
         "date_posted": 1786440559,
         "url": "https://apply.workable.com/alexander-dennis/j/3E21DB70EB/apply",
@@ -378960,7 +378904,7 @@
         "company_name": "Goldman Sachs",
         "id": "c4f6f0f0-80ff-4aa5-98b2-7bc8ccddedc8",
         "title": "Structured Finance Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1788403348,
         "date_posted": 1788201801,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/183338",
@@ -403423,6 +403367,26 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Super Micro Computer",
+        "id": "fbb8b500-8cc2-4024-8106-cd08fb1328be",
+        "title": "System Validation Engineer",
+        "active": true,
+        "date_updated": 1789037821,
+        "date_posted": 1786486399,
+        "url": "https://jobs.supermicro.com/job/San-Jose-System-Validation-Engineer-CA-95131/1418438200/?ats=successfactors",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Super-Micro-Computer",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
