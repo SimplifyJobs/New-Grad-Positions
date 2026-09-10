@@ -1,148 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Visa",
-        "id": "269ef28a-ef62-4536-b465-4108393d7ce0",
-        "title": "Data Engineer",
-        "active": false,
-        "date_updated": 1768321083,
-        "date_posted": 1768321083,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000103271936",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Visa",
-        "id": "1194d848-c5ad-4546-ab5b-e2d63fa15aa1",
-        "title": "Software Engineer \u2013 New College Grad - 2026 - Foster City",
-        "active": false,
-        "date_updated": 1768321088,
-        "date_posted": 1768321088,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000103269677",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nextech Systems",
-        "id": "08271dc9-cee1-4e88-98d1-d9cfa7e6b385",
-        "title": "Software Engineer 1 - AI",
-        "active": false,
-        "date_updated": 1768320915,
-        "date_posted": 1768320915,
-        "url": "https://jobs.lever.co/nextech/f5c5c7cb-2295-47ba-b1e9-845b26dcaff0/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/NextechSystems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Select Milk Producers ",
-        "id": "cd5e3b52-d191-4e41-86b3-5ef8bf0014f6",
-        "title": "Food Technologist 1",
-        "active": false,
-        "date_updated": 1768320388,
-        "date_posted": 1768320388,
-        "url": "https://selectmilk.wd12.myworkdayjobs.com/selectmilkproducers/job/La-Crosse-WI/Food-Technologist-I_JR101651",
-        "locations": [
-            "Winona, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Select-Milk-Producers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hawk-Eye Innovations",
-        "id": "444b4eea-0b91-4ca9-99cf-8642ec27bb5e",
-        "title": "Data Scientist",
-        "active": false,
-        "date_updated": 1768320512,
-        "date_posted": 1768320512,
-        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/86c95576-9c33-4a79-bebc-7fff43e2a9ca/application",
-        "locations": [
-            "Basingstoke, UK",
-            "London, UK",
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sainsbury's",
-        "id": "b286e43e-d02d-4df1-9260-0662130177b6",
-        "title": "Associate Analyst",
-        "active": false,
-        "date_updated": 1768320939,
-        "date_posted": 1768320939,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045749",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Visa",
-        "id": "386a7967-b0de-4b46-8b58-6c2478b1b7f7",
-        "title": "Software Engineer  New College Grad - New College Grad",
-        "active": false,
-        "date_updated": 1768321078,
-        "date_posted": 1768321078,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000103266546",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Lloyds Bank",
         "id": "f627c447-9941-4f65-8891-1f8d3321b7df",
@@ -165,45 +23,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Visa",
-        "id": "cc9be6b6-2f01-43ef-8dbf-1a1c0674057e",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1768321082,
-        "date_posted": 1768321082,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000103266367",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Grayce",
-        "id": "99c2bac2-68f0-42f8-909b-3555c998a37c",
-        "title": "Graduate Software Engineer",
-        "active": false,
-        "date_updated": 1768320870,
-        "date_posted": 1768320870,
-        "url": "https://apply.workable.com/grayce/j/6F03729A98/apply",
-        "locations": [
-            "Cardiff, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Malvern Panalytical",
         "id": "d24dabb1-7ba5-4ed6-88ce-9d8d6a5d40ba",
@@ -222,44 +41,6 @@
             "Bachelor's",
             "Associate's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "EXL",
-        "id": "a157c35c-5bea-4356-8bf4-9df85e62f570",
-        "title": "Healthcare Analyst",
-        "active": false,
-        "date_updated": 1768321235,
-        "date_posted": 1768321235,
-        "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/8734",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/EXL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Procter & Gamble (P&G)",
-        "id": "1d074836-c07e-4851-8a11-6ade029222ea",
-        "title": "Site Manufacturing Data Engineer",
-        "active": false,
-        "date_updated": 1768321559,
-        "date_posted": 1768321559,
-        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/AUBURN-PLANT/Site-Manufacturing-Data-Engineer_R000142913-1",
-        "locations": [
-            "Lewiston, ME"
-        ],
-        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -452,26 +233,6 @@
             "Texas"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "AMERICAN SYSTEMS",
-        "id": "5cc84522-d0be-4151-86a7-68db0451e5d3",
-        "title": "Junior Engineer - Software Development - Nasa",
-        "active": false,
-        "date_updated": 1768346536,
-        "date_posted": 1768321238,
-        "url": "https://careers-americansystems.icims.com/jobs/3875/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Edwards AFB, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AMERICAN-SYSTEMS",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -978,29 +739,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cerebras",
-        "id": "bca2d6a4-9995-47ff-8617-02cd350b0f56",
-        "title": "Early Career Compiler Engineer - LLVM",
-        "active": false,
-        "date_updated": 1768346941,
-        "date_posted": 1768321819,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7587669003",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -15063,26 +14801,6 @@
             "Huntsville, AL"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "LexisNexis Risk Solutions",
-        "id": "6ec9ce77-4295-47eb-b40b-7664efc54c31",
-        "title": "Tech Accelerate Graduate Program",
-        "active": false,
-        "date_updated": 1768321407,
-        "date_posted": 1768321407,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---London-London-Wall/Tech-Accelerate-Graduate-Program---Software-Engineer_R100132",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -394110,7 +393828,7 @@
         "company_name": "Nexus Engineering Group",
         "id": "b5cccd96-9ea5-4c26-a229-6390a7d1cd4b",
         "title": "Project Analyst - Project Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788489741,
         "date_posted": 1788473524,
         "url": "https://jobs.lever.co/nexuse-group/092bfc89-f477-485f-a97e-8e7e12c5ec30/apply",
@@ -397767,7 +397485,7 @@
         "company_name": "Mastercard",
         "id": "36dc19ae-0387-40e1-a965-f4792e2840da",
         "title": "Associate Product Specialist - Product Management",
-        "active": true,
+        "active": false,
         "date_updated": 1788559741,
         "date_posted": 1788480000,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Associate-Product-Specialist--Product-Management_R-277014",
@@ -398738,7 +398456,7 @@
         "company_name": "Tyson Foods",
         "id": "cbfeabfc-ee55-4235-b847-c779d788699e",
         "title": "Customer Category Analyst - Costco",
-        "active": true,
+        "active": false,
         "date_updated": 1788613248,
         "date_posted": 1788566400,
         "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Customer-Category-Analyst---Costco_R0483651-1",
