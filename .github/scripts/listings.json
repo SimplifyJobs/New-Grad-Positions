@@ -266906,7 +266906,7 @@
         "company_name": "Salesforce",
         "id": "f15f48ce-a8f4-4d99-93f4-526a6654b335",
         "title": "AI Builder New Grad - Emerging Talent",
-        "active": true,
+        "active": false,
         "date_updated": 1783722399,
         "date_posted": 1779372512,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/AI-Builder--Emerging-Talent---UK---Ireland-Market_JR342481-1",
@@ -403264,5 +403264,90 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NXP Semiconductors",
+        "id": "6654a1ec-3f32-4ef6-984d-ac342fa21c2c",
+        "title": "Graduate AI Software Engineer - Automotive MPUs",
+        "active": true,
+        "date_updated": 1789137679,
+        "date_posted": 1789084800,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Glasgow/Graduate-AI-and-Software-Engineer---Automotive-MPUs_R-10065880-1",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CDPQ",
+        "id": "333330b9-c0b3-49ae-b185-03f832075c17",
+        "title": "Portfolio Analytics Analyst",
+        "active": true,
+        "date_updated": 1789137721,
+        "date_posted": 1789084800,
+        "url": "https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste--Analytique-de-portefeuille_R05128",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CDPQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sanofi",
+        "id": "2e4b61ea-38f1-49db-b53b-41d2f2b58265",
+        "title": "Operations Analyst",
+        "active": true,
+        "date_updated": 1789137673,
+        "date_posted": 1789137509,
+        "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Operations-Analyst-VIE-Contract_R2866266",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sanofi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "24418f21-a01b-4bdd-bd3c-c27283f8a508",
+        "title": "ASIC Test Engineer 2",
+        "active": true,
+        "date_updated": 1789137687,
+        "date_posted": 1789084800,
+        "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/ASIC-Test-Engineer-II--Full-Time----United-States_2024675",
+        "locations": [
+            "Research Triangle Park, Durham, NC",
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Bootcamp",
+            "Certificate"
+        ]
     }
 ]
