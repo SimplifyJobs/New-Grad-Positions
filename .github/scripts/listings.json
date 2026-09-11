@@ -268916,7 +268916,7 @@
         "company_name": "R1 RCM",
         "id": "a704ab4c-e295-498e-b2ea-da39bb3e51c8",
         "title": "Analyst AI Opportunity & Value Creation",
-        "active": true,
+        "active": false,
         "date_updated": 1783981480,
         "date_posted": 1783980772,
         "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Remote-USA/Analyst--AI-Opportunity---Value-Creation_R250000006069",
@@ -402744,7 +402744,7 @@
         "company_name": "Truist Bank",
         "id": "e036ba80-9a16-417a-8691-0fb0daf8b7dd",
         "title": "Data Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789079582,
         "date_posted": 1788998400,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Raleigh-NC/Data-Scientist-I_R0118840",
@@ -403369,6 +403369,27 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "D3 Embedded",
+        "id": "857113e1-b430-40a9-93e2-71d5e56a0115",
+        "title": "Computer Vision and Deep Learning Engineer - Product Design Services",
+        "active": true,
+        "date_updated": 1789140961,
+        "date_posted": 1789140878,
+        "url": "https://d3engineering.applytojob.com/apply/MoaCjjpMGk/Computer-Vision-And-Deep-Learning-Engineer",
+        "locations": [
+            "West Henrietta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/D3-Embedded",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
         ]
     }
 ]
