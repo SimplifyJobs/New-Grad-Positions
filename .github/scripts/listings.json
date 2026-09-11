@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Huntington Ingalls Industries",
-        "id": "ce6dc923-e84b-4222-89c1-dd5d1921ea1c",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1768374334,
-        "date_posted": 1768374334,
-        "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1355744100/?ats=successfactors",
-        "locations": [
-            "Newport News, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "64ae762a-3c64-44b3-ad22-f40690d96e48",
@@ -398979,7 +398959,7 @@
         "company_name": "RTX",
         "id": "60bf5735-7aca-4f7f-a89d-fec901bb12bf",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788907577,
         "date_posted": 1788825600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866752",
