@@ -158857,7 +158857,7 @@
         "company_name": "Fortinet",
         "id": "0129aefa-6830-42c7-97c4-bfaada409ad1",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1776896117,
         "date_posted": 1776895635,
         "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22744",
@@ -361466,7 +361466,7 @@
         "company_name": "Budderfly",
         "id": "14b55c2c-3b7a-4e72-a9df-db0225c00303",
         "title": "Customer Management Performance Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1787648072,
         "date_posted": 1785939427,
         "url": "https://www.budderfly.com/open-positions/?gh_jid=4702275006",
@@ -393177,7 +393177,7 @@
         "company_name": "CrowdGen by Appen",
         "id": "b8303f31-8c50-46eb-80e0-a9af9324ba88",
         "title": "AI Personalization Evaluation - Project Athabasca",
-        "active": true,
+        "active": false,
         "date_updated": 1788490284,
         "date_posted": 1788476730,
         "url": "https://jobs.lever.co/appen/407f58a5-9991-408b-8d30-229f2917d6e7/apply",
@@ -396627,7 +396627,7 @@
         "company_name": "Houlihan Lokey",
         "id": "31e0901a-a38b-4379-84bc-c165bd266506",
         "title": "AI Business Development Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788561816,
         "date_posted": 1788480000,
         "url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Atlanta-GA-USA/AI-Business-Development-Analyst_R3556-1",
@@ -400166,7 +400166,7 @@
         "company_name": "ServiceNow",
         "id": "c6296417-4678-4d43-88fb-270f246b32cc",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788991748,
         "date_posted": 1788991638,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000148581229",
@@ -402999,6 +402999,26 @@
             "Kansas City, MO"
         ],
         "company_url": "https://simplify.jobs/c/American-Century-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "36c9b7b4-9e96-49e9-adda-25c5ec121022",
+        "title": "Junior Software Developer - Active TS/SCI with Poly Required",
+        "active": true,
+        "date_updated": 1788456622,
+        "date_posted": 1778943616,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
