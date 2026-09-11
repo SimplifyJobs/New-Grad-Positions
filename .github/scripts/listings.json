@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Starpath Robotics",
-        "id": "ca9bec50-856d-41d4-bce9-d2e5018c860a",
-        "title": "Customer Mission Engineer - Space Solar Hardware",
-        "active": false,
-        "date_updated": 1768356956,
-        "date_posted": 1768356956,
-        "url": "https://jobs.ashbyhq.com/starpath.space/fb2f6e08-af35-4a78-87fa-ede755d57a2c/application",
-        "locations": [
-            "West Athens, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Starpath-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "SpaceX",
         "id": "646901a6-7921-4ed0-99d8-6b1b0eaa2ad9",
         "title": "Embedded Software Engineer",
@@ -37,27 +17,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "5e071353-49ef-453d-8555-ab44ce840cbd",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1768357841,
-        "date_posted": 1768357841,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7511717",
-        "locations": [
-            "Gainesville, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Certificate"
         ]
     },
     {
@@ -94,26 +53,6 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "547ddaef-b012-4fd3-bcb0-b7b1fff0d9ff",
-        "title": "Entry-Level Electrical Network & Digital Connectivity System Design Engineer",
-        "active": false,
-        "date_updated": 1768357761,
-        "date_posted": 1768357761,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Entry-Level-Electrical-Network---Digital-Connectivity-System-Design-Engineer_JR2025489102-1",
-        "locations": [
-            "Everett, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -6322,28 +6261,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qualcomm",
-        "id": "6d9a9486-7b7b-4d41-86a0-8d53bab694e6",
-        "title": "Machine Learning ASIC Design Verification Engineer - ASICS Engineering",
-        "active": false,
-        "date_updated": 1768901219,
-        "date_posted": 1768356836,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446716207423",
-        "locations": [
-            "Markham, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -310247,7 +310164,7 @@
         "company_name": "Quora",
         "id": "59aaa50c-6f7f-427b-950f-8b772440e208",
         "title": "Software Engineer New Grad - Machine Learning Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1785547666,
         "date_posted": 1785547469,
         "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true",
@@ -400936,7 +400853,7 @@
         "company_name": "WorldStrides",
         "id": "5a283cb6-d2dc-4b0b-b57a-c6d5fe463dc8",
         "title": "Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788993910,
         "date_posted": 1788993665,
         "url": "https://job-boards.greenhouse.io/world4822stri986des/jobs/5351873008",
