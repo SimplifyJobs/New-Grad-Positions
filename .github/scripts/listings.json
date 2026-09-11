@@ -403125,5 +403125,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ideagen",
+        "id": "d1798dc2-09eb-4a05-a1d8-f47afc3fa95d",
+        "title": "Associate AI Data Engineer - Product R&D",
+        "active": true,
+        "date_updated": 1789126561,
+        "date_posted": 1789049185,
+        "url": "https://careers-ideagenuk.icims.com/jobs/2905/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ideagen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
