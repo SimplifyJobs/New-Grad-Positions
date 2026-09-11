@@ -225623,7 +225623,7 @@
         "company_name": "Goldman Sachs",
         "id": "de896427-2d73-4fa8-b8b8-65efaf044cfd",
         "title": "Software Engineer - Data",
-        "active": false,
+        "active": true,
         "date_updated": 1781169481,
         "date_posted": 1781168814,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
@@ -345466,7 +345466,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -397962,7 +397962,7 @@
         "company_name": "Moffitt Cancer Center",
         "id": "b6d08d62-66c5-4f57-ae09-90004b734cef",
         "title": "AI Administrative Resident",
-        "active": false,
+        "active": true,
         "date_updated": 1788879961,
         "date_posted": 1788825600,
         "url": "https://moffitt.wd108.myworkdayjobs.com/Moffitt/job/Clinical-Support-Building/AI-Administrative-Resident_R-3659",
@@ -403032,7 +403032,7 @@
         "company_name": "Eurofins",
         "id": "0bde796d-8c15-4ed2-aa8b-9c27e200e67c",
         "title": "Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789115530,
         "date_posted": 1788531016,
         "url": "https://jobs.smartrecruiters.com/Eurofins/744000148856049",
@@ -403140,6 +403140,127 @@
             "Nottingham, UK"
         ],
         "company_url": "https://simplify.jobs/c/Ideagen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welocalize",
+        "id": "af6e0ee4-61a0-4940-a401-18ef68f24ab9",
+        "title": "Physical AI Data Quality Analyst",
+        "active": true,
+        "date_updated": 1789136821,
+        "date_posted": 1789084800,
+        "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/CA-Client-Field-Office-San-Fran-Bay-Area/Physical-AI-Data-Quality-Analyst_R0007931",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Kyndryl",
+        "id": "8bfbcc8a-0998-4ac4-9d05-5df9644094a4",
+        "title": "Associate Product Manager - Agentic Modernization",
+        "active": true,
+        "date_updated": 1789136821,
+        "date_posted": 1789084800,
+        "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/CIO-KPop-Dallas-US152527/Associate-Product-Manager---Agentic-Modernization_R-67492-1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Kyndryl",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citizens Financial Group",
+        "id": "db198792-f1a9-4eb5-88da-5c5547ebe0fa",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1789136462,
+        "date_posted": 1789136385,
+        "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49290",
+        "locations": [
+            "Plano, TX",
+            "Johnston, RI",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Citizens-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citizens Financial Group",
+        "id": "9c4220ab-f3bd-423f-94ac-5cdcd9d06c63",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1789136462,
+        "date_posted": 1789136387,
+        "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49291",
+        "locations": [
+            "Plano, TX",
+            "Johnston, RI",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Citizens-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wavestone",
+        "id": "0d140cac-82da-463a-bbfd-a2789c5ce07b",
+        "title": "Junior AI Engineer - AI & Data Team",
+        "active": true,
+        "date_updated": 1789135741,
+        "date_posted": 1789135692,
+        "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149017779",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wavestone",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Boys & Girls Clubs of America",
+        "id": "a0383a38-f8d7-44db-a5b2-9ca3002f48f7",
+        "title": "Temporary Specialist - Fundraising Data",
+        "active": true,
+        "date_updated": 1789136462,
+        "date_posted": 1789135664,
+        "url": "https://careers-bgca.icims.com/jobs/8609/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boys-And-Girls-Clubs-Of-America",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
