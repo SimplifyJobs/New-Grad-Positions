@@ -345466,7 +345466,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -403348,6 +403348,27 @@
             "Associate's",
             "Bootcamp",
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "dc59a5b4-ca39-4415-997d-072b76e1ee7c",
+        "title": "ASIC Test Engineer 2",
+        "active": true,
+        "date_updated": 1789140305,
+        "date_posted": 1789140167,
+        "url": "https://careers.cisco.com/global/en/job/2024675",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
