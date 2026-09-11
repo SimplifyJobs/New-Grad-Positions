@@ -225643,7 +225643,7 @@
         "company_name": "Goldman Sachs",
         "id": "de896427-2d73-4fa8-b8b8-65efaf044cfd",
         "title": "Software Engineer - Data",
-        "active": true,
+        "active": false,
         "date_updated": 1781169481,
         "date_posted": 1781168814,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
@@ -392613,7 +392613,7 @@
         "company_name": "SMX",
         "id": "536775ba-dafa-4dd3-bd32-e89e1914b81d",
         "title": "Junior Data Analytics & Reporting Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1788489741,
         "date_posted": 1788473122,
         "url": "https://www.smxtech.com/careers/?gh_jid=7984672003",
@@ -398626,7 +398626,7 @@
         "company_name": "Zebra Technologies",
         "id": "64ea3f2c-3d8d-4c16-a0aa-9f31b33ec23b",
         "title": "Software Engineer 1 - Fullstack",
-        "active": true,
+        "active": false,
         "date_updated": 1788908084,
         "date_posted": 1788825600,
         "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/Software-Engineer--I--Fullstack-_JR103057",
@@ -403023,6 +403023,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "a9b5356a-b658-407e-858e-29e74df5f581",
+        "title": "Software Engineer - CoreAI",
+        "active": true,
+        "date_updated": 1789109909,
+        "date_posted": 1789109816,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
