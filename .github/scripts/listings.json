@@ -368372,7 +368372,7 @@
         "company_name": "Boeing",
         "id": "57e5f0a2-fec1-4e80-9d79-803c7984db1d",
         "title": "Entry Level ASIC/FPGA Verification Engineer - Space Electronics",
-        "active": true,
+        "active": false,
         "date_updated": 1787924341,
         "date_posted": 1787875200,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Verification-Engineer---Space-Electronics---MTV_JR2026520435-2",
@@ -403040,6 +403040,26 @@
             "Lancaster, PA"
         ],
         "company_url": "https://simplify.jobs/c/Eurofins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Radius Telematics",
+        "id": "12534afb-5080-404a-8863-b4d0909e9aaf",
+        "title": "Associate Data Analyst - Data Services & Reporting",
+        "active": true,
+        "date_updated": 1789117741,
+        "date_posted": 1789117620,
+        "url": "https://jobs.smartrecruiters.com/RadiusLimited/744000148949199",
+        "locations": [
+            "Crewe, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Radius-Limited",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
