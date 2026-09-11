@@ -314503,7 +314503,7 @@
         "company_name": "TRUCKING PEOPLE",
         "id": "30103acf-6e57-4258-94a3-8fb95e0c2588",
         "title": "Video Data Capture Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1785737701,
         "date_posted": 1785737559,
         "url": "https://truckingpeople.applytojob.com/apply/M0lG7VWUyV/Video-Data-Capture-Technician",
@@ -341976,7 +341976,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "2ff916d3-3671-4e8e-a5df-485dc5048bba",
         "title": "Data Scientist / Computer Scientist PhD Graduate - Decision Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1786680266,
         "date_posted": 1786679978,
         "url": "https://careers.jhuapl.edu/jobs/57706?icims=1",
@@ -368352,7 +368352,7 @@
         "company_name": "Boeing",
         "id": "42eef265-0f1e-458a-9c31-10bd91ae1021",
         "title": "Entry Level ASIC/FPGA Verification Engineer - Space Electronics",
-        "active": true,
+        "active": false,
         "date_updated": 1787924341,
         "date_posted": 1787875200,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Verification-Engineer---Space-Electronics---MTV_JR2026520435",
@@ -376491,7 +376491,7 @@
         "company_name": "Sierra",
         "id": "1fc30c4a-d04e-419f-968c-083bb3fad9bb",
         "title": "New Grad - APX",
-        "active": false,
+        "active": true,
         "date_updated": 1788342769,
         "date_posted": 1788255593,
         "url": "https://jobs.ashbyhq.com/Sierra/d9c445da-c7b4-43a3-8d71-d367681c3015/application?embed=true",
@@ -403024,6 +403024,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Eurofins",
+        "id": "0bde796d-8c15-4ed2-aa8b-9c27e200e67c",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1789115530,
+        "date_posted": 1788531016,
+        "url": "https://jobs.smartrecruiters.com/Eurofins/744000148856049",
+        "locations": [
+            "Lancaster, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eurofins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
