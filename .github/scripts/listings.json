@@ -203900,7 +203900,7 @@
         "company_name": "Amazon",
         "id": "6d55f27f-9786-4c75-ab7c-c79dd9c729e0",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779930966,
         "date_posted": 1779930365,
         "url": "https://amazon.jobs/en/jobs/3141336/software-engineer-i",
@@ -264409,7 +264409,7 @@
         "company_name": "Tesla",
         "id": "5a3af054-4413-4265-a625-02bc1cc34542",
         "title": "Energy Analyst - Residential Energy",
-        "active": true,
+        "active": false,
         "date_updated": 1783559950,
         "date_posted": 1783559572,
         "url": "https://www.tesla.com/careers/search/job/276044",
@@ -401034,7 +401034,7 @@
         "company_name": "RTX",
         "id": "43bcecd6-d37e-4ab1-8aae-54dcb1b5cb3a",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1788993816,
         "date_posted": 1788912000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-II--Onsite-_01873127",
@@ -403060,6 +403060,46 @@
             "Crewe, UK"
         ],
         "company_url": "https://simplify.jobs/c/Radius-Limited",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zoom",
+        "id": "f5b391e6-764a-4995-96ae-c6e50664aef5",
+        "title": "Software Engineer - Workforce Engagement Management",
+        "active": true,
+        "date_updated": 1789119721,
+        "date_posted": 1789084800,
+        "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Engineer_R19646-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoom",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Scientific Research Corporation",
+        "id": "6765f939-ce0a-421f-9d29-884dc3fe84a0",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1789119616,
+        "date_posted": 1788561614,
+        "url": "https://careers-scires.icims.com/jobs/11507/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "North Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Scientific-Research-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
