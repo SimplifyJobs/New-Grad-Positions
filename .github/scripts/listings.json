@@ -1,66 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SpaceX",
-        "id": "646901a6-7921-4ed0-99d8-6b1b0eaa2ad9",
-        "title": "Embedded Software Engineer",
-        "active": false,
-        "date_updated": 1768357922,
-        "date_posted": 1768357922,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8368715002",
-        "locations": [
-            "Bastrop, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ChampionX",
-        "id": "5d172087-11fe-4f6d-bbe2-d3aeb44c813f",
-        "title": "Application Engineer 1",
-        "active": false,
-        "date_updated": 1768358113,
-        "date_posted": 1768358113,
-        "url": "https://championx.wd1.myworkdayjobs.com/championx_external/job/USA--TX---Midland-Regional/Application-Engineer-I_R00134579",
-        "locations": [
-            "Midland, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/ChampionX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SpaceX",
-        "id": "58e0d3b9-666d-44e1-8e51-7e5376d743bd",
-        "title": "Software Engineer - Beam Planning - Starlink",
-        "active": false,
-        "date_updated": 1768357994,
-        "date_posted": 1768357994,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8373117002",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Huntington Ingalls Industries",
         "id": "ce6dc923-e84b-4222-89c1-dd5d1921ea1c",
@@ -297534,7 +297474,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "ae948682-42af-46dc-919c-fbef1921d88f",
         "title": "Embedded Firmware and Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784931122,
         "date_posted": 1784851200,
         "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Embedded-Firmware-and-Software-Engineer_3161388",
