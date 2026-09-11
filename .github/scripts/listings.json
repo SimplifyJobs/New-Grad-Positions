@@ -345133,7 +345133,7 @@
         "company_name": "AstraZeneca",
         "id": "0796306e-88e8-47d9-90fc-d60dff210cfc",
         "title": "Senior Applied AI & ML Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1786783681,
         "date_posted": 1786406400,
         "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/UK---London/Senior-Applied-AI---ML-Engineer---Evinova_R-257950-1",
@@ -403321,6 +403321,227 @@
             "Tempe, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Achieve",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OneImaging",
+        "id": "d35dd23b-846b-4263-be1b-ff94fdfab2e5",
+        "title": "Associate Software Engineer - UF Only",
+        "active": true,
+        "date_updated": 1789166181,
+        "date_posted": 1789165995,
+        "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4403125009",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/OneImaging",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "21c0cefe-a24c-4d08-9691-56a441d9fd0d",
+        "title": "Content Evaluator",
+        "active": true,
+        "date_updated": 1789166161,
+        "date_posted": 1789165716,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4403520009",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OneImaging",
+        "id": "1acd5a07-50ab-4e8a-8cb2-be9a1ae33d8b",
+        "title": "Full Stack Associate Software Engineer - Georgia Tech Only",
+        "active": true,
+        "date_updated": 1789166161,
+        "date_posted": 1789165994,
+        "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4403115009",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/OneImaging",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "DV Trading",
+        "id": "b483492c-4377-4ca0-8ace-db324a2d7bca",
+        "title": "Quantitative Trader Graduate - DV Equities",
+        "active": true,
+        "date_updated": 1789166035,
+        "date_posted": 1789165751,
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719106005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DV-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WTW",
+        "id": "791e4677-9368-4968-9bad-2934dc68a77d",
+        "title": "Data Analyst Graduate - Corporate Risk & Broking",
+        "active": true,
+        "date_updated": 1789165976,
+        "date_posted": 1789165472,
+        "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605770",
+        "locations": [
+            "Ipswich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/WTW",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WTW",
+        "id": "b1c4c75b-59e1-4db0-bd2e-c30923d15c15",
+        "title": "Graduate Data Analyst - Corporate Risk & Broking",
+        "active": true,
+        "date_updated": 1789165985,
+        "date_posted": 1789165471,
+        "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605397",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/WTW",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Carollo Engineers",
+        "id": "8a1fedac-2ad3-43e9-9ccb-5478ee4d3e8b",
+        "title": "Digital Analyst",
+        "active": true,
+        "date_updated": 1789165801,
+        "date_posted": 1789165445,
+        "url": "https://careers-carollo.icims.com/jobs/4610/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Carollo-Engineers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "b8e99c43-8e02-4d04-89d1-f5bd150c6cfc",
+        "title": "Entry Level Semiconductor Test Engineer",
+        "active": true,
+        "date_updated": 1789165441,
+        "date_posted": 1789084800,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Entry-Level-Semiconductor-Test-Engineer_R-10064969-1",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "51b2654c-a256-44a7-9125-268e75e85175",
+        "title": "Packaging Engineer",
+        "active": true,
+        "date_updated": 1789165921,
+        "date_posted": 1789165331,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017933",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zeiss",
+        "id": "3b2a4163-6d8b-43de-8413-c177d84fb424",
+        "title": "Global Data & Insights Specialist",
+        "active": true,
+        "date_updated": 1789165441,
+        "date_posted": 1789084800,
+        "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Birmingham/Global-Training---Insights-Specialist-1_JR_1052429-1",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Zeiss",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "c0979b3b-b40e-4d43-934c-d06a5238e36f",
+        "title": "Firmware Engineer",
+        "active": true,
+        "date_updated": 1789165441,
+        "date_posted": 1789165249,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40460",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
