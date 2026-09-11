@@ -399350,7 +399350,7 @@
         "company_name": "Cintal",
         "id": "4cf87ab1-05e7-4025-8b98-5e7c93f08ad6",
         "title": "Software Engineer - FORTRAN to C++ Migration",
-        "active": true,
+        "active": false,
         "date_updated": 1788917317,
         "date_posted": 1788917215,
         "url": "https://ats.rippling.com/cintal/jobs/17acea2c-d8e7-48c0-ab90-c5458fb0c3ef",
@@ -403100,6 +403100,26 @@
             "North Charleston, SC"
         ],
         "company_url": "https://simplify.jobs/c/Scientific-Research-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Garmin",
+        "id": "7dbe9685-0792-4856-ab07-9f72967defd3",
+        "title": "Software Engineer 1 - Android",
+        "active": true,
+        "date_updated": 1789120878,
+        "date_posted": 1788905292,
+        "url": "https://careers.garmin.com/jobs/16587?icims=1",
+        "locations": [
+            "Yarmouth, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
