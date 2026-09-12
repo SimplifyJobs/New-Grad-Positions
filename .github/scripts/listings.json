@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "39346fd4-fbfc-400c-81f9-9326c7310c16",
-        "title": "U105 Inspector B",
-        "active": false,
-        "date_updated": 1768444916,
-        "date_posted": 1768444916,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/U105-Inspector-B_R10213963-1",
-        "locations": [
-            "Halethorpe, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Affirm",
-        "id": "c733e07f-a565-4fe0-8dce-ee0e8be3742b",
-        "title": "Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1768444941,
-        "date_posted": 1768444941,
-        "url": "https://job-boards.greenhouse.io/affirm/jobs/7566696003",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Affirm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "d9057aac-dadf-42e1-9d74-300fd8ebbb9e",
@@ -54,26 +16,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Accenture",
-        "id": "397e575e-7d19-4d10-9e33-546e3e3a21ac",
-        "title": "AI & Data Analyst",
-        "active": false,
-        "date_updated": 1768444817,
-        "date_posted": 1768444817,
-        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mississauga-1-City-Centre-DCN/AI---Data-Analyst_R00306214",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Accenture-FS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
