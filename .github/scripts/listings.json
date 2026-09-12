@@ -1,131 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2f8dffc7-0ac4-44b7-a365-9f42142cf257",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1768443151,
-        "date_posted": 1768443151,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044816",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ASML",
-        "id": "1003f7be-946f-424c-90b1-29151f15f38d",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1768443849,
-        "date_posted": 1768443849,
-        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Software-Engineer_J-00331106",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASML",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Visa",
-        "id": "21ea7b42-07c6-4e7a-8a6a-f61283d6cfcd",
-        "title": "Software Engineer \u2013 New College Grad",
-        "active": false,
-        "date_updated": 1768443225,
-        "date_posted": 1768443225,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000103598105",
-        "locations": [
-            "Highlands Ranch, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "19fe7af8-9cc3-4e75-bd88-e5cf259e44df",
-        "title": "Software Engineer 1 - CRM",
-        "active": false,
-        "date_updated": 1768443372,
-        "date_posted": 1768443372,
-        "url": "https://jobs.intuit.com/job/new-york/software-engineer-1-crm/27595/90599273872",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "9c0faa15-ecd7-4f98-afeb-f10bd3a8a558",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1768443366,
-        "date_posted": 1768443366,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/90599273824",
-        "locations": [
-            "San Diego, CA",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "89a25dc1-828d-4f70-b583-086a869c69cb",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1768444185,
-        "date_posted": 1768444185,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7538278",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Northrop Grumman",
         "id": "39346fd4-fbfc-400c-81f9-9326c7310c16",
@@ -164,46 +39,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amplify",
-        "id": "a66aaaeb-9206-434e-88ab-a326a8e65421",
-        "title": "Contractor - Tutoring Data - Contractor",
-        "active": false,
-        "date_updated": 1768443913,
-        "date_posted": 1768443913,
-        "url": "https://amplify.wd1.myworkdayjobs.com/en-US/Amplify_Careers/job/Remote---United-States/Contractor--Tutoring-Data--Contractor-_Req_12395",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amplify",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Light & Wonder",
-        "id": "8ef8b1e0-8a51-48b1-b620-13abcfaf0dd0",
-        "title": "Game Producer",
-        "active": false,
-        "date_updated": 1768443894,
-        "date_posted": 1768443894,
-        "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Chicago-IL/Game-Producer_R321028",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Light-And-Wonder",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "d9057aac-dadf-42e1-9d74-300fd8ebbb9e",
@@ -219,27 +54,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Space Dynamics Laboratory",
-        "id": "f788dbd2-eb43-407d-8b02-2f69975be95d",
-        "title": "Entry Level Multidisciplinary Systems Engineer",
-        "active": false,
-        "date_updated": 1768442991,
-        "date_posted": 1768442991,
-        "url": "https://spacedynamicslaboratory.applytojob.com/apply/Yo9N0qpgEN/Entry-Level-Multidisciplinary-Systems-Engineer",
-        "locations": [
-            "Albuquerque, NM"
-        ],
-        "company_url": "https://simplify.jobs/c/Space-Dynamics-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -3726,27 +3540,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "fb9d7d09-f57b-4255-b556-7246dcc1462b",
-        "title": "Data Scientist - Product Analytics - Usds",
-        "active": false,
-        "date_updated": 1768641944,
-        "date_posted": 1768443388,
-        "url": "https://lifeattiktok.com/search/7288361490993498429",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
