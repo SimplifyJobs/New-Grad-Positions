@@ -402991,5 +402991,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blue Cross Blue Shield of Arizona",
+        "id": "f07cb9b1-b921-4644-ad60-d73d716d4fa3",
+        "title": "EDI Technical Analyst - Claims",
+        "active": true,
+        "date_updated": 1789223221,
+        "date_posted": 1789171200,
+        "url": "https://bcbsaz.wd1.myworkdayjobs.com/en-US/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/EDI-Technical-Analyst--Claims----Hybrid_R6244-1",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Cross-Blue-Shield-Of-Arizona",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
