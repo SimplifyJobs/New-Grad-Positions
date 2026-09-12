@@ -224419,7 +224419,7 @@
         "company_name": "Goldman Sachs",
         "id": "de896427-2d73-4fa8-b8b8-65efaf044cfd",
         "title": "Software Engineer - Data",
-        "active": false,
+        "active": true,
         "date_updated": 1781169481,
         "date_posted": 1781168814,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
@@ -248846,7 +248846,7 @@
         "company_name": "Optiver",
         "id": "9806b0c4-6f96-463b-b16f-410fc0a1ae51",
         "title": "Graduate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1782944642,
         "date_posted": 1782943968,
         "url": "https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002",
@@ -337977,7 +337977,7 @@
         "company_name": "United Smart Tech",
         "id": "5669b0ee-2c91-48c1-a10f-9014661b589c",
         "title": "AI Engineer - Agents & Experimentation",
-        "active": true,
+        "active": false,
         "date_updated": 1786602244,
         "date_posted": 1786602065,
         "url": "https://unitedsmarttech.bamboohr.com/careers/185/",
@@ -344262,7 +344262,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -401499,7 +401499,7 @@
         "company_name": "LendingClub",
         "id": "72fa9d02-67b5-4d71-a7d9-85ff46a7d681",
         "title": "Credit Strategy & Pricing Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789079651,
         "date_posted": 1788998400,
         "url": "https://lendingclub.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/Credit-Strategy---Pricing-Analyst_R0007469",
@@ -403119,6 +403119,147 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aptiv",
+        "id": "225e2ae1-b489-4254-a690-889ce1a7578b",
+        "title": "RTOS Development Engineer",
+        "active": true,
+        "date_updated": 1789175889,
+        "date_posted": 1782522555,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineer---RTOS-US_J000700368",
+        "locations": [
+            "Walnut Creek, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aptiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "02ca659d-9ee1-4e08-a05b-2ddce897fa74",
+        "title": "Software Privacy Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1789175881,
+        "date_posted": 1789175855,
+        "url": "https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "bb98b63c-2ad3-4fe1-a884-6c7a092c1935",
+        "title": "Firmware Engineer 1",
+        "active": true,
+        "date_updated": 1789175843,
+        "date_posted": 1789084800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Firmware-Engineer-I--Onsite-_01873850",
+        "locations": [
+            "Largo, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Acuity",
+        "id": "65385932-6dbf-4273-a714-fb96e148e534",
+        "title": "Data & AI Specialist - BUILD Leadership Program",
+        "active": true,
+        "date_updated": 1789175626,
+        "date_posted": 1789175490,
+        "url": "https://careers.acuityinc.com/job/Atlanta-Specialist-Data-&-AI-BUILD-Leadership-Program-GA-30309/1429285300/?ats=successfactors",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Acuity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Acuity",
+        "id": "ebd1a990-7552-480b-a93a-c92759aefe05",
+        "title": "AI Product Management Specialist - Business Analyst",
+        "active": true,
+        "date_updated": 1789175625,
+        "date_posted": 1789175488,
+        "url": "https://careers.acuityinc.com/job/Atlanta-BUILD-Leadership-Program-Business-Analyst-Tech-Product-Management-Specialist-GA-30309/1429284000/?ats=successfactors",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Acuity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Acuity",
+        "id": "66055d03-6077-4b6b-a0dc-455d2dd18a88",
+        "title": "Software Engineering Specialist - Growth & Transformation - BUILD Leadership Program",
+        "active": true,
+        "date_updated": 1789175620,
+        "date_posted": 1789175490,
+        "url": "https://careers.acuityinc.com/job/Atlanta-Specialist-Growth-&-Transformation-Software-Engineering-BUILD-Leadership-Program-GA-30309/1429282700/?ats=successfactors",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Acuity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Aerospace Corporation",
+        "id": "feb3b637-f77d-4037-9b7d-e88a2d19d31c",
+        "title": "Electrical Design Engineer",
+        "active": true,
+        "date_updated": 1789175495,
+        "date_posted": 1789084800,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/IC-2027-Electrical-Design-Engineer_R016563",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
