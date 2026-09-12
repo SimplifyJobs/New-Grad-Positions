@@ -403009,5 +403009,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Virtual Technologies Group",
+        "id": "62062c60-b51b-42e1-ad42-76f03297fcb6",
+        "title": "Web Developer - Front End",
+        "active": true,
+        "date_updated": 1789224481,
+        "date_posted": 1789079565,
+        "url": "https://virtualtechnologygroupllc.applytojob.com/apply/7eGy8jc0JK/Web-Developer",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Virtual-Technologies-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nerdio",
+        "id": "5f62b02a-d87f-4a82-9762-6fdf7588a8f1",
+        "title": "Solutions Engineer - Early Career",
+        "active": true,
+        "date_updated": 1789224338,
+        "date_posted": 1787958094,
+        "url": "https://ats.rippling.com/nerdio-careers/jobs/0b82e6f3-fd54-40d7-996a-ca02b4c67f67",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nerdio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
