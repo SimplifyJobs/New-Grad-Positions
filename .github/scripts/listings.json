@@ -402970,5 +402970,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jones Lang LaSalle",
+        "id": "f282c4b5-c8ee-45ef-b00b-51a18a7a5db6",
+        "title": "Research Analyst",
+        "active": true,
+        "date_updated": 1789218541,
+        "date_posted": 1788998400,
+        "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Menlo-Park-CA/Research-Analyst_REQ533908",
+        "locations": [
+            "San Jose, CA",
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
