@@ -159,26 +159,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Lawrence Berkeley National Laboratory",
-        "id": "0331dfa6-11f5-4925-ad06-c0fee918133e",
-        "title": "Duramat Postdoctoral Scholar",
-        "active": false,
-        "date_updated": 1768433989,
-        "date_posted": 1768433989,
-        "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=105826",
-        "locations": [
-            "Berkeley, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "General Motors",
         "id": "9f8f98c1-7a05-480d-b4ba-a05e7a3c300a",
         "title": "Entry-Level Data Engineer",
@@ -273,28 +253,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brain Co.",
-        "id": "ca7d68ba-0e7b-411e-974e-de4b08bc123f",
-        "title": "Early Career AI/ML Engineer",
-        "active": true,
-        "date_updated": 1768434074,
-        "date_posted": 1768434074,
-        "url": "https://jobs.ashbyhq.com/brainco/bb6e555b-8bb1-4cd7-9813-4f82a5ebe839/application",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/Brain-Co",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -110563,24 +110521,6 @@
             "Basingstoke, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Flip",
-        "id": "84616a04-7cdd-4592-8659-8e463a7da640",
-        "title": "Product Insights Analyst",
-        "active": false,
-        "date_updated": 1773785742,
-        "date_posted": 1768435089,
-        "url": "https://job-boards.greenhouse.io/flip/jobs/5070395008",
-        "locations": [
-            "Santa Monica, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Flip-CX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -225174,7 +225114,7 @@
         "company_name": "Goldman Sachs",
         "id": "de896427-2d73-4fa8-b8b8-65efaf044cfd",
         "title": "Software Engineer - Data",
-        "active": true,
+        "active": false,
         "date_updated": 1781169481,
         "date_posted": 1781168814,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
@@ -276002,7 +275942,7 @@
         "company_name": "Chamber Cardio",
         "id": "42b979a9-208e-4d7b-afa4-00adc10107b9",
         "title": "Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1784239923,
         "date_posted": 1784239836,
         "url": "https://jobs.ashbyhq.com/chambercardio/eb5a8d6e-def9-4ea6-a76f-b64995ad5711/application?embed=true",
@@ -360411,7 +360351,7 @@
         "company_name": "Cisco",
         "id": "748876fb-0603-4b73-b26c-469bc138674c",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1787616836,
         "date_posted": 1787616435,
         "url": "https://careers.cisco.com/global/en/job/2023527",
@@ -379596,7 +379536,7 @@
         "company_name": "GrayMatter Robotics",
         "id": "7c5c7640-ef36-440b-9855-25bddab1fa99",
         "title": "Robotics Engineer New Grad - Government Projects",
-        "active": false,
+        "active": true,
         "date_updated": 1788026441,
         "date_posted": 1787640288,
         "url": "https://jobs.ashbyhq.com/graymatter-robotics/0f5acd77-6b34-4444-9ddc-1ce91cad177c/application?embed=true",
@@ -389692,7 +389632,7 @@
         "company_name": "Tesla",
         "id": "b9259e5b-7949-46e3-a734-8f488c76de5d",
         "title": "Manufacturing Trainee - Megafactory",
-        "active": true,
+        "active": false,
         "date_updated": 1788462383,
         "date_posted": 1782857437,
         "url": "https://www.tesla.com/careers/search/job/275164",
@@ -402191,7 +402131,7 @@
         "company_name": "Eikon Therapeutics",
         "id": "0291716c-559d-45fc-b197-bea176da31a9",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789079784,
         "date_posted": 1789078827,
         "url": "https://job-boards.greenhouse.io/eikontherapeutics/jobs/5234127007",
@@ -403542,6 +403482,251 @@
             "Canada"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Eaton",
+        "id": "d02dede3-b7be-4467-ae4d-e8d2310cfdf6",
+        "title": "Software Developer - Software C++ - Research & Development Engineering",
+        "active": true,
+        "date_updated": 1789171182,
+        "date_posted": 1789170844,
+        "url": "https://eaton.eightfold.ai/careers/job/687239106601",
+        "locations": [
+            "Brossard, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Eaton-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "201b3028-2273-4ca5-aefd-5a2f1ab8bd73",
+        "title": "Research Engineer - AI",
+        "active": true,
+        "date_updated": 1789171201,
+        "date_posted": 1789170866,
+        "url": "https://www.metacareers.com/jobs/1395718268613427",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Deepgram",
+        "id": "56643b28-dde5-4741-8c6d-159dac2237f7",
+        "title": "People AI & Automation Engineer",
+        "active": true,
+        "date_updated": 1789170841,
+        "date_posted": 1789170819,
+        "url": "https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316/application?embed=true",
+        "locations": [
+            "California",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deepgram",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Port of Seattle",
+        "id": "8557f211-6563-403b-9b82-266283d8096d",
+        "title": "Business Intelligence Analyst 1",
+        "active": true,
+        "date_updated": 1789171111,
+        "date_posted": 1789170762,
+        "url": "https://aa243.taleo.net/careersection/ex/jobdetail.ftl?job=004341",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Port-Of-Seattle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Selector Software",
+        "id": "b9e498c9-b575-4a49-8288-ac332424e40d",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1789170841,
+        "date_posted": 1789170699,
+        "url": "https://selectorsoftware.bamboohr.com/careers/198/",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Selector-Software",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Commure",
+        "id": "5e9a3fb3-b8d1-440b-b8cb-3725a201cdf0",
+        "title": "Software Engineer - Early Career",
+        "active": true,
+        "date_updated": 1789171079,
+        "date_posted": 1789170713,
+        "url": "https://jobs.ashbyhq.com/Commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced/application?embed=true",
+        "locations": [
+            "LA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Commure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "4d64e8aa-5ca6-44d5-b949-00e619cfebfe",
+        "title": "Applied Data Scientist",
+        "active": true,
+        "date_updated": 1789171076,
+        "date_posted": 1789084800,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Cambridge-MA/Part-Time-Applied-Data-Scientist_R1000592",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "3483db30-db09-486a-bdaa-16eee2551d91",
+        "title": "Data Scientist New Grad",
+        "active": true,
+        "date_updated": 1789171066,
+        "date_posted": 1789084800,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ascension",
+        "id": "0540c359-11e4-4aa8-a6d0-913ef6b67560",
+        "title": "Clinical AI Data Scientist",
+        "active": true,
+        "date_updated": 1789171053,
+        "date_posted": 1789170680,
+        "url": "https://jobs.ascension.org/us/en/job/458539",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ascension",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Protech Group",
+        "id": "7cb90b67-c1af-4e1f-a9a9-e50dc88da299",
+        "title": "Junior Application Developer - Database Orientation",
+        "active": true,
+        "date_updated": 1789170968,
+        "date_posted": 1789170641,
+        "url": "https://protechgroup.applytojob.com/apply/8TVPaSI84s/Programmeur-Junior-Dveloppeur-Applicatif-Orientation-Bases-De-Donnes",
+        "locations": [
+            "Saint-Laurent, Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Protech-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Longevity Holdings",
+        "id": "7d2df5da-1e67-436d-80c2-4d07976dba1f",
+        "title": "Research Associate",
+        "active": true,
+        "date_updated": 1789170968,
+        "date_posted": 1789170625,
+        "url": "https://ats.rippling.com/longevity-holdings/jobs/2e72a310-e14e-4654-b055-af023fc160e1",
+        "locations": [
+            "Fort Washington, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Longevity-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AssetMark",
+        "id": "3ee60348-39b1-4a67-b417-dfaf6fd38d00",
+        "title": "Associate Engineer",
+        "active": true,
+        "date_updated": 1789170481,
+        "date_posted": 1789084800,
+        "url": "https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Associate-Engineer_Req-003966",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/AssetMark",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
