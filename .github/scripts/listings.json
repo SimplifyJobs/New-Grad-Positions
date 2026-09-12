@@ -63,30 +63,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "5e3f5fb3-0d87-4ac5-832d-88ecb5e5559f",
-        "title": "AI Software Engineer - LLM Inference Performance Analysis",
-        "active": false,
-        "date_updated": 1768437112,
-        "date_posted": 1768437112,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Software-Engineer--LLM-Inference-Performance-Analysis---New-College-Grad-2026_JR2011392",
-        "locations": [
-            "NYC",
-            "Santa Clara, CA",
-            "Seattle, WA",
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Intuit",
         "id": "19fe7af8-9cc3-4e75-bd88-e5cf259e44df",
         "title": "Software Engineer 1 - CRM",
@@ -103,26 +79,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Resmed",
-        "id": "9610c89c-feae-4000-a8e4-805a97897397",
-        "title": "Engineer \u2013 Cloud Development",
-        "active": false,
-        "date_updated": 1768437344,
-        "date_posted": 1768437344,
-        "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Engineer-Cloud-Development_JR_047681-1",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Resmed",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -204,65 +160,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "3d212253-ef8b-46a6-9fbf-448b8161b764",
-        "title": "Postdoctoral Appointee - Foundation Models with Federated Learning",
-        "active": false,
-        "date_updated": 1768437305,
-        "date_posted": 1768437305,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Foundation-Models-with-Federated-Learning_421653",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "fb76d06c-10f5-4b23-aa9c-757848a29be1",
-        "title": "Raytheon ISMA Engineer 1",
-        "active": false,
-        "date_updated": 1768437098,
-        "date_posted": 1768437098,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA311-Woburn-MA-225-Presidential-225-Presidential-Way-Goddard-Building-27-Woburn-MA-01801-USA/XMLNAME-2026-Full-Time-Raytheon-ISMA-Engineer-I---Onsite_01816801",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Resmed",
-        "id": "ca4a2771-477b-4700-9c83-aea091587c59",
-        "title": "Associate Engineer - Cloud Development",
-        "active": false,
-        "date_updated": 1768437352,
-        "date_posted": 1768437352,
-        "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Engineer-Cloud-Development_JR_047682-1",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Resmed",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Bootcamp"
         ]
     },
     {
