@@ -343997,7 +343997,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -403017,6 +403017,66 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Acuity",
+        "id": "c980e3e0-5eb6-443f-bc62-cd9de0ab4ae2",
+        "title": "Software Engineering Specialist - BUILD Leadership Program",
+        "active": true,
+        "date_updated": 1789193439,
+        "date_posted": 1789193299,
+        "url": "https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Leadership-Program-GA-30012/1429302100/?ats=successfactors",
+        "locations": [
+            "Conyers, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Acuity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Acuity",
+        "id": "7ea8b761-f25f-4575-b1b1-f152ec0772f5",
+        "title": "Software Engineering Specialist - BUILD Leadership Program",
+        "active": true,
+        "date_updated": 1789193440,
+        "date_posted": 1789193299,
+        "url": "https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Leadership-Program-GA-30012/1429301800/?ats=successfactors",
+        "locations": [
+            "Conyers, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Acuity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Acuity",
+        "id": "5c792b7d-16ed-4b9e-a8c7-e14569e5b1a4",
+        "title": "Software Engineering Specialist - BUILD Leadership Program",
+        "active": true,
+        "date_updated": 1789193437,
+        "date_posted": 1789193298,
+        "url": "https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Leadership-Program-GA-30012/1429301900/?ats=successfactors",
+        "locations": [
+            "Conyers, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Acuity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
