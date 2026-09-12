@@ -403078,5 +403078,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Retell AI",
+        "id": "c922e8d4-2a85-4851-868c-771e8523bb0e",
+        "title": "Forward Deployed Engineer New Grad",
+        "active": true,
+        "date_updated": 1789195521,
+        "date_posted": 1789195437,
+        "url": "https://jobs.ashbyhq.com/retell-ai/161bcfc9-56dd-4d0c-869d-e5de1431a940/application?embed=true",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Retell-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
