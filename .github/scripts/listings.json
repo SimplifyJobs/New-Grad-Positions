@@ -371122,7 +371122,7 @@
         "company_name": "DiDi Global",
         "id": "d149cf5a-5cab-4419-8845-03f38ec765eb",
         "title": "Software Engineer - Planning Selection Autonomy",
-        "active": true,
+        "active": false,
         "date_updated": 1788239718,
         "date_posted": 1788238464,
         "url": "https://job-boards.greenhouse.io/didi/jobs/8131851",
@@ -390242,7 +390242,7 @@
         "company_name": "Foxconn Industrial Internet",
         "id": "ad844f91-4097-44b3-b369-f72c74bc6481",
         "title": "Hardware Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788471562,
         "date_posted": 1785737492,
         "url": "https://foxconnassemblyllc.applytojob.com/apply/78sc2JlnIz/Hardware-Test-Engineer-Entry-Level",
@@ -403260,6 +403260,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DiDi Global",
+        "id": "204591ee-8f2b-4fc5-b19b-ba0122240474",
+        "title": "Software Engineer - Planning Selection Autonomy",
+        "active": true,
+        "date_updated": 1789177021,
+        "date_posted": 1789176832,
+        "url": "https://job-boards.greenhouse.io/didi/jobs/8198298",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/DiDi-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
