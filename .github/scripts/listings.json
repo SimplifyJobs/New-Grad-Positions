@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d9057aac-dadf-42e1-9d74-300fd8ebbb9e",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1768461132,
-        "date_posted": 1768461132,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045557",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Johnson & Johnson",
         "id": "792fa1b4-a570-49ed-9e6a-36007b97f5fc",
