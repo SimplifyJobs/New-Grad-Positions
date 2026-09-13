@@ -1,149 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Wells Fargo",
-        "id": "b0a8de20-08cb-474a-bd6d-4c6f11a71005",
-        "title": "Engineering Associate - Application Development",
-        "active": false,
-        "date_updated": 1768529905,
-        "date_posted": 1768529905,
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/IRVING-TX/Engineering-Associate---Application-Modernization_R-515575",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Wells-Fargo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Verkada",
-        "id": "c8c0b1f1-ba92-44d8-aac4-5d902b7575f6",
-        "title": "Frontend Software Engineer \u2013 University Graduate 2026",
-        "active": false,
-        "date_updated": 1768530639,
-        "date_posted": 1768530639,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/5026067007",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Northrop Grumman",
-        "id": "9ef79274-4446-433e-8fd9-a478990aa930",
-        "title": "Data Scientist - Melbourne FL",
-        "active": false,
-        "date_updated": 1768530440,
-        "date_posted": 1768530440,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Data-Scientist-1-2---Melbourne-FL_R10219591",
-        "locations": [
-            "Melbourne, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mass General Brigham",
-        "id": "4f3dd9f3-4306-4778-ae89-06d35699086c",
-        "title": "EHR Data Analyst",
-        "active": false,
-        "date_updated": 1768530632,
-        "date_posted": 1768530632,
-        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Data-Analyst_RQ4036902",
-        "locations": [
-            "Boston, MA",
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Verkada",
-        "id": "aacc6361-2ee9-4d43-9f42-e18f331cf88b",
-        "title": "Security Software Engineer \u2013 University Graduate 2026",
-        "active": false,
-        "date_updated": 1768530633,
-        "date_posted": 1768530633,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/5026072007",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Verkada",
-        "id": "94792955-ce05-4c16-9258-dade92e73120",
-        "title": "Backend Software Engineer \u2013 University Graduate",
-        "active": false,
-        "date_updated": 1768530621,
-        "date_posted": 1768530621,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/5026066007",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "mthree",
-        "id": "6f23fa62-e0aa-4f90-a971-1a9590ccfce8",
-        "title": "Entry Level Software Developer",
-        "active": false,
-        "date_updated": 1768530608,
-        "date_posted": 1768530608,
-        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4645471006",
-        "locations": [
-            "Quincy, MA",
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Huntington Ingalls Industries",
         "id": "9afb2286-3901-4d54-859a-1f2f4fbb6547",
@@ -3108,26 +2965,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nokia",
-        "id": "1bb01d51-2eb9-422a-9707-cad919a4def2",
-        "title": "Software Developer",
-        "active": false,
-        "date_updated": 1768903717,
-        "date_posted": 1768529502,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30513",
-        "locations": [
-            "Naperville, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -401508,6 +401345,26 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Klaviyo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kitware",
+        "id": "8a02cc33-4d2c-40f2-bf82-81861d00b429",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1789265386,
+        "date_posted": 1789265261,
+        "url": "https://jobs.lever.co/kitware/dbaac56b-26b2-43b9-8ae3-354b6662ea89/apply",
+        "locations": [
+            "Clifton Park, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Kitware",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
