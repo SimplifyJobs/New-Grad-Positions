@@ -277319,7 +277319,7 @@
         "company_name": "Ross Stores",
         "id": "b9309db9-dccf-4bad-add7-a387f24df3c6",
         "title": "Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784587199,
         "date_posted": 1784585528,
         "url": "https://rossstores.taleo.net/careersection/rstrcs1.1/jobdetail.ftl?job=26006490",
