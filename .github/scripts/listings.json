@@ -341523,7 +341523,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -400774,6 +400774,26 @@
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Insurify",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autostore",
+        "id": "f856788a-97a4-4332-a414-c568ed12438d",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1789321350,
+        "date_posted": 1789257600,
+        "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Entry-Level-Software-Engineer_JR102691",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Autostore",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
