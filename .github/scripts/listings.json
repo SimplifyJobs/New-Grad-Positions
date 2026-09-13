@@ -1,51 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Capital One",
-        "id": "1b66c3de-2719-487e-a98d-a26210ec884c",
-        "title": "Applied Researcher 1 - AI Foundations",
-        "active": false,
-        "date_updated": 1768548774,
-        "date_posted": 1768548774,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations-_R229418-1",
-        "locations": [
-            "NYC",
-            "San Jose, CA",
-            "Cambridge, MA",
-            "SF",
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cardinal Health",
-        "id": "9064538a-5c98-46f9-b8f9-5939947b6175",
-        "title": "Product Engineer",
-        "active": false,
-        "date_updated": 1768548952,
-        "date_posted": 1768548952,
-        "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/TX-El-Paso-Butterfield/Product-Engineer_20173691-1",
-        "locations": [
-            "El Paso, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Cardinal-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Alcon",
         "id": "fd16f2a1-9103-47b8-a5f2-ed5f7287ce2f",
