@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cadwell",
-        "id": "da7d419a-b9f0-40d8-85c9-bb1f0609ee35",
-        "title": "Manufacturing Technician 1",
-        "active": false,
-        "date_updated": 1768577988,
-        "date_posted": 1768577988,
-        "url": "https://job-boards.greenhouse.io/cadwell/jobs/4105970009",
-        "locations": [
-            "Kennewick, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadwell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Blackboard",
         "id": "bdbb9b73-e08d-4561-b8b5-8ce2bd83447b",
@@ -400775,6 +400754,26 @@
             "Broomfield, CO"
         ],
         "company_url": "https://simplify.jobs/c/Quantinuum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Insurify",
+        "id": "0434742b-0c20-4b93-b7e3-bda6c349f5f8",
+        "title": "Technical Business Analyst",
+        "active": true,
+        "date_updated": 1788456622,
+        "date_posted": 1781129126,
+        "url": "https://job-boards.greenhouse.io/insurify/jobs/5743828004",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Insurify",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
