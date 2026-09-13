@@ -2,82 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Huntington Ingalls Industries",
-        "id": "9afb2286-3901-4d54-859a-1f2f4fbb6547",
-        "title": "Engineering Technician 1",
-        "active": false,
-        "date_updated": 1768547236,
-        "date_posted": 1768547236,
-        "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEERING-TECHNICIAN-1-Virg/1356738500/?ats=successfactors",
-        "locations": [
-            "Newport News, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "UiPath",
-        "id": "4bf3df1c-6b21-444c-bf2a-5247a13a2570",
-        "title": "Software Engineer 1 - Backend",
-        "active": false,
-        "date_updated": 1768547278,
-        "date_posted": 1768547278,
-        "url": "https://jobs.ashbyhq.com/uipath/32206bf8-e395-4ba9-bf2f-6bfc32272697/application",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/UiPath",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a04f5498-e126-4131-91a1-85eaefd017cb",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1768547488,
-        "date_posted": 1768547488,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046084",
-        "locations": [
-            "Northwich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rivian",
-        "id": "a9e42a52-9e3d-4b00-8335-88f39c181075",
-        "title": "Wireless and Connectivity Integration Engineer",
-        "active": false,
-        "date_updated": 1768548441,
-        "date_posted": 1768548441,
-        "url": "https://careers.rivian.com/jobs/27901?lang=en-us&icims=1",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Capital One",
         "id": "1b66c3de-2719-487e-a98d-a26210ec884c",
         "title": "Applied Researcher 1 - AI Foundations",
@@ -99,24 +23,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "062496e5-eb9a-48e8-8a0c-38390f83464a",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1768547479,
-        "date_posted": 1768547479,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046086",
-        "locations": [
-            "Bracknell, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -1499,25 +1405,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Robinhood",
-        "id": "390664ef-dce6-4b0a-b659-7c3110952111",
-        "title": "Software Engineer - Backend",
-        "active": false,
-        "date_updated": 1768606105,
-        "date_posted": 1768548555,
-        "url": "https://boards.greenhouse.io/robinhood/jobs/7263578",
-        "locations": [
-            "Menlo Park, CA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Robinhood",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -384445,7 +384332,7 @@
         "company_name": "Bank of Montreal",
         "id": "1b24996d-5216-4340-b3e9-09cd19a5b0f0",
         "title": "Machine Learning Developer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1788453164,
         "date_posted": 1788393600,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265",
@@ -397969,7 +397856,7 @@
         "company_name": "Northrop Grumman",
         "id": "55c70966-a122-4223-a320-a83dfc649ef3",
         "title": "Software Development Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789004028,
         "date_posted": 1788912000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Remote/XMLNAME-2026-Associate-Software-Dev-Analyst---Software-Dev-Analyst---Remote_R10250232",
