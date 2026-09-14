@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Atlassian",
-        "id": "9719dac3-229e-4efe-80cb-86bf3f74435b",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1768634347,
-        "date_posted": 1768634346,
-        "url": "https://careers-americas.icims.com/jobs/20907/associate-product-manager%2c-2026-graduate-u.s./job",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Atlassian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "FOX",
         "id": "284b7bb3-6b91-445c-beb4-de0b686076b5",
@@ -398611,7 +398590,7 @@
         "company_name": "REI Systems",
         "id": "33b49b9d-1aed-41bb-ba49-d0567c7f2f94",
         "title": "Associate Software Engineer - Java",
-        "active": true,
+        "active": false,
         "date_updated": 1789164540,
         "date_posted": 1789164244,
         "url": "https://careers-reisystems.icims.com/jobs/3496/job?mobile=true&needsRedirect=false",
