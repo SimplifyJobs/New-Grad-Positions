@@ -399590,5 +399590,47 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LSEG",
+        "id": "919ce6a1-1966-4da4-ae1a-30f5de2eeb05",
+        "title": "Full-Stack Developer Graduate - Fullstack",
+        "active": true,
+        "date_updated": 1789394248,
+        "date_posted": 1789344000,
+        "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/GBR-London-5-Canada-Square/Engineering-Graduate-Programme--Fullstack-_R0123395-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/LSEG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LSEG",
+        "id": "87a7585b-c879-4559-9257-36f922ba1a14",
+        "title": "Engineering Graduate Programme",
+        "active": true,
+        "date_updated": 1789394221,
+        "date_posted": 1789344000,
+        "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Engineering-Graduate-Programme_R0123391-1",
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/LSEG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
