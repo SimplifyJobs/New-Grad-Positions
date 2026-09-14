@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "FOX",
-        "id": "284b7bb3-6b91-445c-beb4-de0b686076b5",
-        "title": "Master Control Operator 1",
-        "active": false,
-        "date_updated": 1768651795,
-        "date_posted": 1768651795,
-        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Master-Control-Operator-I_R50031197",
-        "locations": [
-            "Tempe, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Fox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Dominion Energy",
         "id": "388cb0a9-24ff-462a-b530-4c72b6bcc4ee",
