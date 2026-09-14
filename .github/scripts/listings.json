@@ -270934,7 +270934,7 @@
         "company_name": "Bottom Line",
         "id": "0c2c6832-5303-4949-9170-93a2a489e79a",
         "title": "AI Data Analyst - Sales",
-        "active": true,
+        "active": false,
         "date_updated": 1784242084,
         "date_posted": 1784241024,
         "url": "https://job-boards.greenhouse.io/bottomlinetechnologies/jobs/8597355002",
@@ -366810,7 +366810,7 @@
         "company_name": "Verdantas",
         "id": "9cd7f988-4147-4b17-88d3-0f46f240d0df",
         "title": "Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788227040,
         "date_posted": 1788134400,
         "url": "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Yarmouth-ME/Data-Analyst_R-101127",
@@ -400080,5 +400080,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CarGurus",
+        "id": "9649a700-aad9-49a9-a690-64df830139bc",
+        "title": "Associate Marketing Data Analyst",
+        "active": true,
+        "date_updated": 1789405296,
+        "date_posted": 1789405046,
+        "url": "https://careers.cargurus.com/us/en/job/8195874?gh_jid=8195874",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CarGurus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
