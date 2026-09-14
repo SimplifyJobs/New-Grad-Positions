@@ -340294,7 +340294,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -382726,7 +382726,7 @@
         "company_name": "Covenant Health of East Tennessee",
         "id": "5e55d28f-bc90-4777-9f52-ca9cce902413",
         "title": "Surgery Scheduler - DSA Special Procedures",
-        "active": true,
+        "active": false,
         "date_updated": 1788453918,
         "date_posted": 1786678909,
         "url": "https://careers-covenanthealth.icims.com/jobs/74982/job?mobile=true&needsRedirect=false",
@@ -398448,7 +398448,7 @@
         "company_name": "SharkNinja",
         "id": "14c30847-b3d3-4f67-8d75-8b3c927aaa52",
         "title": "Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789165304,
         "date_posted": 1789164653,
         "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4710079006",
@@ -399901,5 +399901,126 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Scale AI",
+        "id": "d6439164-b97e-4623-bbba-3d9ff79f8665",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1789397735,
+        "date_posted": 1789397626,
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Scale-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SAM",
+        "id": "8cc6dbb1-a957-42f7-8d3b-9c3a7f27f98f",
+        "title": "GIS Field Technician - Travel Role",
+        "active": true,
+        "date_updated": 1789397101,
+        "date_posted": 1789397073,
+        "url": "https://careers.sam.biz/jobs/8028?icims=1",
+        "locations": [
+            "Merriam, KS",
+            "Maryville, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/SAM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Robinhood",
+        "id": "e31298c9-b0ff-4750-94e9-d167842aa42e",
+        "title": "Associate Product Manager New Grad",
+        "active": true,
+        "date_updated": 1789397149,
+        "date_posted": 1789396943,
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8199973",
+        "locations": [
+            "Menlo Park, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Robinhood",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DecisionPoint",
+        "id": "8e1cc28b-6b01-4de3-a569-730dbb573035",
+        "title": "Entry-level Software Developer",
+        "active": true,
+        "date_updated": 1789397155,
+        "date_posted": 1789396983,
+        "url": "https://careers-decisionpointcorp.icims.com/jobs/3766/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DecisionPoint-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SEP",
+        "id": "3fe9cbe2-aea0-4f22-8bfe-0b9f858d9f39",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1789396921,
+        "date_posted": 1789396859,
+        "url": "https://jobs.lever.co/sep/f7ad9ffb-03dc-4fb2-9a92-e5f04a85ba08/apply",
+        "locations": [
+            "Westfield, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/SEP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "14ce30de-874d-45be-99b2-6b04b3724df5",
+        "title": "Senior Analyst - Data Analytics & Automation Solutions",
+        "active": true,
+        "date_updated": 1789396921,
+        "date_posted": 1789344000,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Senior-Analyst--Data-Analytics---Automation-Solutions_R260026408",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
