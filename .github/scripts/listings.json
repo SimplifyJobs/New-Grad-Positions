@@ -283867,7 +283867,7 @@
         "company_name": "Western Digital",
         "id": "c2a64f1a-65f7-4c6f-840f-518f7696cf6d",
         "title": "Configuration Specialist Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784681119,
         "date_posted": 1782338716,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138714070",
@@ -351186,7 +351186,7 @@
         "company_name": "Nucleus Biologics",
         "id": "1125c69f-65e1-4147-8a75-a88ddc41e3b2",
         "title": "Full Stack Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787294414,
         "date_posted": 1787294333,
         "url": "https://ats.rippling.com/nucleus-biologics-careers/jobs/af1ea033-27f0-42e8-bac9-09434a5ffbe3",
@@ -387782,7 +387782,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "c8cdf3ca-e946-419a-a1a4-a4b599713db0",
         "title": "Associate Product Manager - Tools & Outdoor",
-        "active": true,
+        "active": false,
         "date_updated": 1788490996,
         "date_posted": 1788393600,
         "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager_REQ-1000051914",
@@ -393647,7 +393647,7 @@
         "company_name": "RTX",
         "id": "d34bc10f-028e-49c4-be0a-bf61f2c747d6",
         "title": "Software Engineer 1 - Advanced Products and Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1788907600,
         "date_posted": 1788825600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/EOIR-Advanced-Products-and-Solutions--Software-Engineer-I--Onsite-_01872528",
@@ -401353,6 +401353,331 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "BlackEdge Capital",
+        "id": "b0d1b257-9992-4009-9be4-5c57eb09030f",
+        "title": "Graduate Quantitative Researcher",
+        "active": true,
+        "date_updated": 1789424865,
+        "date_posted": 1789424722,
+        "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4732320005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackEdge-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Agile Defense",
+        "id": "f20ced6d-2688-4df6-a87f-3919ba7fba97",
+        "title": "Watchfloor Analyst",
+        "active": true,
+        "date_updated": 1789424642,
+        "date_posted": 1789424519,
+        "url": "https://jobs.lever.co/agile-defense/9b915990-f813-4c96-a8c9-a02e8d82bc42/apply",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Agile-Defense",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "b3a4e929-0297-4ade-a657-df03d3319d9e",
+        "title": "HBM Design Architect New Grad",
+        "active": true,
+        "date_updated": 1789424612,
+        "date_posted": 1789344000,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---HBM-Design-Architect---MS-or-PhD_JR111450",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "e1b9ccaa-f9f2-4ca4-9214-4e2a0d51dffe",
+        "title": "HBM SoC Design Engineer/Architect New Grad",
+        "active": true,
+        "date_updated": 1789424604,
+        "date_posted": 1789344000,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/New-College-Grad---HBM-SoC-Design-Engineer-Architect_JR111456",
+        "locations": [
+            "Folsom, CA",
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NielsenIQ",
+        "id": "e46cfbad-46c2-4190-a6d3-c6f0e4836480",
+        "title": "Brand Insights Analyst",
+        "active": true,
+        "date_updated": 1789424281,
+        "date_posted": 1789424153,
+        "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000149400074",
+        "locations": [
+            "Georgia"
+        ],
+        "company_url": "https://simplify.jobs/c/NielsenIQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johnson Controls",
+        "id": "8fc69ae6-84a4-4d20-b6c8-84794a834567",
+        "title": "Software Engineer - Nextgen",
+        "active": true,
+        "date_updated": 1789424626,
+        "date_posted": 1789344000,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30279373",
+        "locations": [
+            "Glendale, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johnson Controls",
+        "id": "bf1928a2-9144-4cef-9ed5-718038b70397",
+        "title": "Software Engineer - Nextgen",
+        "active": true,
+        "date_updated": 1789424636,
+        "date_posted": 1789344000,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Westford-Massachusetts-United-States-of-America/NextGen-Software-Engineer_WD30279369",
+        "locations": [
+            "Westford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "U.S. Bank",
+        "id": "63c995b0-3122-45a1-8d57-e418f2c90068",
+        "title": "Associate Software Engineer - C# - .NET Core",
+        "active": true,
+        "date_updated": 1789424281,
+        "date_posted": 1789344000,
+        "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Associate-Software-Engineer--C---NET-Core-_2026-0028472",
+        "locations": [
+            "Hopkins, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/US-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DaVita",
+        "id": "6b352039-42f5-47c3-9b24-7df84bdf5aec",
+        "title": "Integrations Senior Analyst",
+        "active": true,
+        "date_updated": 1789424644,
+        "date_posted": 1789344000,
+        "url": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Integrations-Sr-Analyst_R0477482",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/DaVita",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dow Jones",
+        "id": "7bea32ac-9cc6-4c66-9ddc-1c0bfaf45b1f",
+        "title": "Research Analyst 1 - Chemical Market Analytics",
+        "active": true,
+        "date_updated": 1789424574,
+        "date_posted": 1789344000,
+        "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Research-Analyst-I---Chemical-Market-Analytics_Job_Req_54978",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Dow-Jones",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Renesas Electronics",
+        "id": "ec59822b-1ce3-45e9-bbea-6bc20d0c4418",
+        "title": "Senior Staff Applications Engineer",
+        "active": true,
+        "date_updated": 1789423922,
+        "date_posted": 1789423767,
+        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000149393880",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Renesas-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "M.C. Dean",
+        "id": "248df7ed-e59a-4e04-b42d-955c2253768e",
+        "title": "Systems Engineer 1 - Security and Electronic Systems",
+        "active": true,
+        "date_updated": 1789423741,
+        "date_posted": 1789423591,
+        "url": "https://careers.mcdean.com/jobs/32623?icims=1",
+        "locations": [
+            "Tysons, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/MC-Dean",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Applied Materials",
+        "id": "b1f87853-110d-4efd-8b98-5b032355c467",
+        "title": "Product Line Management New Grad - Master's",
+        "active": true,
+        "date_updated": 1789423916,
+        "date_posted": 1789344000,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-II-New-College-Grad--Master-s--Santa-Clara--CA-_R2627412",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "d4591906-92ca-469c-a235-d36eff8f6b06",
+        "title": "Logistics Automation New Grad",
+        "active": true,
+        "date_updated": 1789423933,
+        "date_posted": 1789344000,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Logistics-Automation-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2627714",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ernst & Young",
+        "id": "2325b435-2058-4632-9bd0-ebfece971c69",
+        "title": "Tax Technology and Transformation Data Engineering Analyst - Tax Technology and Transformation - Data Engineering",
+        "active": true,
+        "date_updated": 1789423892,
+        "date_posted": 1789423478,
+        "url": "https://eyglobal.yello.co/jobs/NLIPdsEt-CcUjetuNNeYlQ?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ernst-And-Young",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Broadridge",
+        "id": "c1d96799-80da-4d1e-b19c-ca476ca5e53f",
+        "title": "Product Analyst",
+        "active": true,
+        "date_updated": 1789423561,
+        "date_posted": 1789344000,
+        "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Newark-NJ/Product-Analyst--Hybrid-_JR1085596",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Broadridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
         ]
     }
 ]
