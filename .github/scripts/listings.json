@@ -188116,7 +188116,7 @@
         "company_name": "GlobalFoundries",
         "id": "1146b7db-d86a-4314-a87f-42d5440c2862",
         "title": "3D Heterogeneous Integration Design Enablement Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779528096,
         "date_posted": 1779527761,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/XMLNAME-3D-Heterogeneous-Integration-Design-Enablement-Engineer--2025-New-College-Graduate-_JR-2501678",
@@ -252910,7 +252910,7 @@
         "company_name": "Amentum",
         "id": "037965da-859d-4532-a3b3-45dc8fd6220f",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783376641,
         "date_posted": 1783376017,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259",
@@ -259578,7 +259578,7 @@
         "company_name": "Ford Motor Company",
         "id": "f3a393b1-15b5-4af2-8adb-58662f1338b2",
         "title": "Product Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783592461,
         "date_posted": 1783375705,
         "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/64134",
@@ -289115,7 +289115,7 @@
         "company_name": "RTX",
         "id": "05265820-1130-4644-9da5-87524303c14b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784819994,
         "date_posted": 1784764800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525",
@@ -292369,7 +292369,7 @@
         "company_name": "Microsoft",
         "id": "57bebdd5-d767-48d4-b65a-21dc1d79e491",
         "title": "Senior Silicon Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784931672,
         "date_posted": 1784930843,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556940514",
@@ -356701,7 +356701,7 @@
         "company_name": "General Dynamics",
         "id": "ba71f8df-382e-4efc-acff-0a78b742aac8",
         "title": "Finance Data Modeler & Transformation Representative - Finance Digital Transformation Office",
-        "active": false,
+        "active": true,
         "date_updated": 1787675639,
         "date_posted": 1787675407,
         "url": "https://careers-gdeb.icims.com/jobs/20232/job?mobile=true&needsRedirect=false",
@@ -382217,7 +382217,7 @@
         "company_name": "SCA Health",
         "id": "0c40c157-39b8-43d2-9f25-b380a6945118",
         "title": "Surgical Technologist - Texas Health Surgery Center Forney",
-        "active": true,
+        "active": false,
         "date_updated": 1788451574,
         "date_posted": 1786687166,
         "url": "https://careers.sca.health/jobs/45324?icims=1",
@@ -398973,7 +398973,7 @@
         "company_name": "Ascension",
         "id": "0540c359-11e4-4aa8-a6d0-913ef6b67560",
         "title": "Clinical AI Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1789171053,
         "date_posted": 1789170680,
         "url": "https://jobs.ascension.org/us/en/job/458539",
@@ -400241,5 +400241,150 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LSEG",
+        "id": "8c0a75e5-6d0a-483c-9075-3347c814e23f",
+        "title": "Engineering Graduate Programme - New York",
+        "active": true,
+        "date_updated": 1789409701,
+        "date_posted": 1789344000,
+        "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/USA-New-York-28-Liberty-Street/Engineering-Graduate-Programme--New-York-_R0123409",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/LSEG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LSEG",
+        "id": "01a7a2d5-08e9-42c0-8b29-7ab080d65f85",
+        "title": "Engineering Graduate",
+        "active": true,
+        "date_updated": 1789409659,
+        "date_posted": 1789344000,
+        "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/USA-Fort-Mill-580-Kingsley-Park-Dr/R0123409-Engineering-Graduate-Programme--Fort-Mill-_R0123418",
+        "locations": [
+            "Fort Mill, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/LSEG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LSEG",
+        "id": "2a4e8553-0bce-4e07-9ded-1a36d3a6ab70",
+        "title": "Engineering Graduate",
+        "active": true,
+        "date_updated": 1789409608,
+        "date_posted": 1789344000,
+        "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/USA-Fort-Mill-580-Kingsley-Park-Dr/R0123409-Engineering-Graduate-Programme--Fort-Mill-_R0123418-1",
+        "locations": [
+            "Fort Mill, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/LSEG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LSEG",
+        "id": "a5cf35cf-18e4-4397-b64b-5adf877e093f",
+        "title": "Engineering Graduate Programme - New York",
+        "active": true,
+        "date_updated": 1789409521,
+        "date_posted": 1789344000,
+        "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/USA-New-York-28-Liberty-Street/Engineering-Graduate-Programme--New-York-_R0123409-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/LSEG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "PIMCO",
+        "id": "4c2d759d-c7d8-4bf5-b7de-e252ec62f330",
+        "title": "Product Analyst - Product Strategy Group",
+        "active": true,
+        "date_updated": 1789409460,
+        "date_posted": 1789344000,
+        "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Product-Analyst_R106620",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PIMCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "C3.ai",
+        "id": "03b97072-0f60-464b-a78e-1f492c236a63",
+        "title": "Forward Deployed Engineer New Grad - 2027",
+        "active": true,
+        "date_updated": 1789409225,
+        "date_posted": 1789408993,
+        "url": "https://c3.ai/job-description/8804558002?gh_jid=8804558002",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/C3ai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "C3.ai",
+        "id": "5b834e2d-a5a1-4d8f-8ee7-140bf5cb14c1",
+        "title": "Platform Full-Stack Engineer New Grad",
+        "active": true,
+        "date_updated": 1789409218,
+        "date_posted": 1789408993,
+        "url": "https://c3.ai/job-description/8801434002?gh_jid=8801434002",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/C3ai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
