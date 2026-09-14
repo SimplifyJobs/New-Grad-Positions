@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Dominion Energy",
-        "id": "388cb0a9-24ff-462a-b530-4c72b6bcc4ee",
-        "title": "Engineering Technical Specialist 1",
-        "active": false,
-        "date_updated": 1768663022,
-        "date_posted": 1768663022,
-        "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Engineering-Technical-Specialist-I-PRA-(Innsbrook)-VA-23060/1357235100/?ats=successfactors",
-        "locations": [
-            "Glen Allen, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dominion-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "e8066546-b55b-42a9-a596-37afd6196cc0",
@@ -397998,7 +397978,7 @@
         "company_name": "Kyndryl",
         "id": "8bfbcc8a-0998-4ac4-9d05-5df9644094a4",
         "title": "Associate Product Manager - Agentic Modernization",
-        "active": true,
+        "active": false,
         "date_updated": 1789136821,
         "date_posted": 1789084800,
         "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/CIO-KPop-Dallas-US152527/Associate-Product-Manager---Agentic-Modernization_R-67492-1",
@@ -400021,6 +400001,46 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CoStar Group",
+        "id": "722f99a1-34ff-426d-8ea6-596d9b287119",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1789399409,
+        "date_posted": 1789344000,
+        "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Associate-Software-Engineer---Arlington--VA_R39668",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CoStar Group",
+        "id": "029aef04-1109-4f26-ac95-e81a3cf1fe24",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1789399414,
+        "date_posted": 1789344000,
+        "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Associate-Software-Engineer---Richmond--VA_R39667",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
