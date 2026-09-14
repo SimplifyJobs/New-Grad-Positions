@@ -156183,7 +156183,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "f6330022-551c-4e0a-a098-747bdf19dd1a",
         "title": "Fixed Income Trading Analyst - Early Careers",
-        "active": true,
+        "active": false,
         "date_updated": 1777021561,
         "date_posted": 1777021387,
         "url": "https://careers-sig.icims.com/jobs/10827/job?mobile=true&needsRedirect=false",
@@ -361540,7 +361540,7 @@
         "company_name": "Applied Materials",
         "id": "cf22751a-ac1a-422b-bfa9-ff2402c70296",
         "title": "Algorithm Developer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1787869785,
         "date_posted": 1787788800,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer-II_R2627187",
@@ -396983,7 +396983,7 @@
         "company_name": "Rackner",
         "id": "ddc16328-1a18-4df6-afa9-fa2654f506ae",
         "title": "Associate Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789079761,
         "date_posted": 1789079732,
         "url": "https://job-boards.greenhouse.io/rackner/jobs/4732844005",
@@ -400526,6 +400526,278 @@
             "Alexandria, VA"
         ],
         "company_url": "https://simplify.jobs/c/System-Planning-And-Analysis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "b054e743-1dbe-4b52-ad15-276a07782b39",
+        "title": "Business Intelligence Analyst 1",
+        "active": true,
+        "date_updated": 1789415902,
+        "date_posted": 1789344000,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Business-Intelligence-Analyst-I--New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626650",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Motia",
+        "id": "274e1afd-0ef3-40bd-b73e-04647ebc0477",
+        "title": "Graduate Data Scientist",
+        "active": true,
+        "date_updated": 1789415821,
+        "date_posted": 1789415744,
+        "url": "https://apply.workable.com/motia/j/846F99F456/apply",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Motia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Motorola",
+        "id": "c0063e62-5350-4eb8-9b21-952d683c518c",
+        "title": "GTM Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1789415821,
+        "date_posted": 1789344000,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/GTM-Business-Intelligence-Analyst_R68659",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Farmers Insurance",
+        "id": "e326d39a-1760-49dc-8837-162a0048d005",
+        "title": "Product Analyst - Personal Auto",
+        "active": true,
+        "date_updated": 1789415461,
+        "date_posted": 1789415431,
+        "url": "https://jobs.farmersinsurance.com/job/Product-Analyst-Personal-Auto/1372116257/?ats=successfactors",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Farmers-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "VTG",
+        "id": "7ddc7aa1-3dff-410d-99d2-fc276ae93037",
+        "title": "Web Developer",
+        "active": true,
+        "date_updated": 1789415461,
+        "date_posted": 1789415422,
+        "url": "https://careers.vtgdefense.com/jobs/9554?icims=1",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/VTG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "eaf0aa6a-8e30-4d79-ab9c-1f2b4b819ea3",
+        "title": "Associate Specialty Test Engineer - Armament Systems",
+        "active": true,
+        "date_updated": 1789415821,
+        "date_posted": 1789344000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/Associate-Specialty-Test-Engineer_R10250652",
+        "locations": [
+            "Plymouth, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "96862583-6600-4619-a2f8-2e5922f8a171",
+        "title": "Electromechanical Engineer - Aht",
+        "active": true,
+        "date_updated": 1789415596,
+        "date_posted": 1789344000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Electromechanical-Engineer---Electromechanical-Engineer--AHT----Aurora-CO_R10250649",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T. Rowe Price",
+        "id": "b2164fa6-c46d-43b1-91e6-a954faa36167",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1789415487,
+        "date_posted": 1789344000,
+        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/XMLNAME-2026-Global-Technology---Associate-Software-Engineer_83580",
+        "locations": [
+            "Owings Mills, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/t-rowe-price",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BDO Canada",
+        "id": "3b3dccea-25c2-472f-969a-b666ef6a2afd",
+        "title": "Business Analyst New Grad - Data & Analytics",
+        "active": true,
+        "date_updated": 1789415422,
+        "date_posted": 1789344000,
+        "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Business-Analyst---Data---Analytics---New-Grad--January-2027-_JR7065",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada",
+            "Calgary, AB, Canada",
+            "Oakville, ON, Canada",
+            "Edmonton, AB, Canada",
+            "Ottawa, ON, Canada",
+            "Halifax Regional Municipality, NS, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BDO-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OneImaging",
+        "id": "e4c34531-51aa-4c08-a508-deaecce4fed4",
+        "title": "Associate Data Engineer - Georgia Tech Only",
+        "active": true,
+        "date_updated": 1789415101,
+        "date_posted": 1789414926,
+        "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4405032009",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/OneImaging",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OneImaging",
+        "id": "8c0fb250-98e8-4bab-9869-2339235ac275",
+        "title": "Associate Data Engineer",
+        "active": true,
+        "date_updated": 1789415101,
+        "date_posted": 1789414927,
+        "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4404708009",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/OneImaging",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CHAOS Industries",
+        "id": "ef07c4cf-16b0-4b15-84fa-7ca0c57883cf",
+        "title": "Applied AI Engineer",
+        "active": true,
+        "date_updated": 1789414496,
+        "date_posted": 1789414357,
+        "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5237013007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/CHAOS-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "ad311ae1-a99f-4b42-ae3b-e62abc592cf9",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1789415461,
+        "date_posted": 1788906058,
+        "url": "https://jobs.l3harris.com/job/Montreal-Software-Engineer-Queb-H4T-1G5/1427503700/?ats=successfactors",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
