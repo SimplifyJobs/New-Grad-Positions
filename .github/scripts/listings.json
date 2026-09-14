@@ -284134,7 +284134,7 @@
         "company_name": "BlackEdge Capital",
         "id": "dc3ec8a7-82ee-42c2-ab71-afe0d5944df1",
         "title": "Graduate Quantitative Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1784681839,
         "date_posted": 1784644821,
         "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4703824005",
@@ -340274,7 +340274,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -380714,7 +380714,7 @@
         "company_name": "W.W. Grainger",
         "id": "d2d169fe-45cb-47d9-b9ae-7ec0de1dbf9d",
         "title": "Market Pricing Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788434829,
         "date_posted": 1786572525,
         "url": "https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Market-Pricing-Analyst-WI-54301-5160/1418865500/?ats=successfactors",
@@ -393707,7 +393707,7 @@
         "company_name": "RTX",
         "id": "c3323211-e81a-4377-977c-30b087880e97",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788907594,
         "date_posted": 1788825600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01872860",
@@ -401678,6 +401678,85 @@
         "degrees": [
             "Bachelor's",
             "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "27fb8575-2151-4e22-9672-848a4310d45c",
+        "title": "Associate Hardware Engineer / Hardware Engineer - Aht",
+        "active": true,
+        "date_updated": 1789425256,
+        "date_posted": 1789344000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Hardware-Engineer---Hardware-Engineer--AHT----Aurora-CO_R10250677",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JeffreyM Consulting",
+        "id": "4da73043-58f1-4353-aad5-1c96afe5cb30",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1789425181,
+        "date_posted": 1789425117,
+        "url": "https://apply.workable.com/jeffreym-consulting/j/3E649E3762/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/JeffreyM-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SciTec",
+        "id": "2c474c4a-eb30-4e75-8965-db455c575176",
+        "title": "Mission Data Analyst",
+        "active": true,
+        "date_updated": 1789425244,
+        "date_posted": 1789425123,
+        "url": "https://apply.workable.com/scitec/j/E2F2EB83B3/apply",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/SciTec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PowerSchool Group",
+        "id": "b28dec10-3ef5-494b-8a37-79da9da233d0",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1789425001,
+        "date_posted": 1789424967,
+        "url": "https://careers-powerschool.icims.com/jobs/53084/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/PowerSchool-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
