@@ -311344,7 +311344,7 @@
         "company_name": "Aramco Americas Company",
         "id": "44904220-a1e4-4e1b-b7a4-853f43ccd45d",
         "title": "Trade Analyst - Chemicals & Specialty Products Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1785740221,
         "date_posted": 1785738049,
         "url": "https://aramcoservices.applytojob.com/apply/KNLnPBcrL8/Trade-Analyst-Chemicals-Specialty-Products-Trading-1989",
@@ -312219,7 +312219,7 @@
         "company_name": "Peraton",
         "id": "beffc9df-d33a-4e8c-bd21-8ac5229e3ab7",
         "title": "Junior Web Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1785767265,
         "date_posted": 1785766379,
         "url": "https://careers-peraton.icims.com/jobs/169306/job?mobile=true&needsRedirect=false",
@@ -369860,7 +369860,7 @@
         "company_name": "KLA",
         "id": "8dc13916-c56a-400b-969b-302ccc73e591",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788301643,
         "date_posted": 1788220800,
         "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2640196",
@@ -388937,7 +388937,7 @@
         "company_name": "CarMax",
         "id": "ae5df28f-2b60-4444-946d-4cd3def5a7c1",
         "title": "Strategy Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788505932,
         "date_posted": 1783161296,
         "url": "https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Strategy-Analyst_JR-171329-1",
@@ -400798,6 +400798,251 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "4edaef74-fe6a-4b72-ab57-23564ca64d8c",
+        "title": "Analyst",
+        "active": true,
+        "date_updated": 1789417168,
+        "date_posted": 1789344000,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Analyst--RBC-Personal-Banking---Commercial-Banking-Analyst-Program_R-0000186379",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boeing",
+        "id": "638f7b48-645b-4838-b62d-be92a72bb467",
+        "title": "Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer - Space Digital Products & Electronics",
+        "active": true,
+        "date_updated": 1789417081,
+        "date_posted": 1789344000,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-level-Digital-Electronics-Circuit---Unit-Hardware-Design-Engineer_JR2026523829-2",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Aramark",
+        "id": "b3ad34a1-cbb2-4fa6-becf-0141e8a255f4",
+        "title": "Financial Analyst - Refreshments",
+        "active": true,
+        "date_updated": 1789417001,
+        "date_posted": 1789416793,
+        "url": "https://aramarkcareers.com/UnitedStates/job/Philadelphia-MAP-Functional-Refreshments-Philadelphia-PA-PA-19103/1429819400/?ats=successfactors",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aramark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rolls-Royce",
+        "id": "681af5bb-e758-454d-9a75-68bf2214cbeb",
+        "title": "Electrical Systems Design Engineer",
+        "active": true,
+        "date_updated": 1789416953,
+        "date_posted": 1789344000,
+        "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/LibertyWorks-Electrical-Systems-Design-Engineer_JR6160143",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Arena Investors I Quaestor Advisors",
+        "id": "c6d3e0f2-da16-4e23-8f90-55eac356aa0b",
+        "title": "Trading Operations Analyst",
+        "active": true,
+        "date_updated": 1789416867,
+        "date_posted": 1789416682,
+        "url": "https://apply.workable.com/arena-investors-lp/j/AA08A73D44/apply",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Arena-Investors-I-Quaestor-Advisors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rolls-Royce",
+        "id": "16d72e19-4fbb-4539-842e-ab1c221c3562",
+        "title": "Junior Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1789416944,
+        "date_posted": 1789344000,
+        "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Junior-Machine-Learning-Engineering_JR6160142",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johnson Controls",
+        "id": "38fd7da2-d513-4d62-8eec-f4f46acb8ec4",
+        "title": "Hardware Engineer - Fire Detection",
+        "active": true,
+        "date_updated": 1789416597,
+        "date_posted": 1789344000,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Westford-Massachusetts-United-States-of-America/NextGen-Hardware-Engineer--Fire-Detection_WD30279366",
+        "locations": [
+            "Westford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tecsa",
+        "id": "f0df9eac-425e-433b-ace1-8a5e383aa7a1",
+        "title": "Graduate Data Scientist",
+        "active": true,
+        "date_updated": 1789416361,
+        "date_posted": 1789416296,
+        "url": "https://apply.workable.com/tecsa/j/76622B88F2/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tecsa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lowe's",
+        "id": "191bef07-9c08-4fff-8583-81c3ba0e6c30",
+        "title": "Associate Software Engineer - Launchpad",
+        "active": true,
+        "date_updated": 1789416252,
+        "date_posted": 1789344000,
+        "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-Software-Engineer---Launchpad_JR-02641559",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Lowes",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Lowe's",
+        "id": "bc4624ae-aea8-423e-aad6-841245855ad7",
+        "title": "Associate Product Manager - Launchpad",
+        "active": true,
+        "date_updated": 1789416237,
+        "date_posted": 1789344000,
+        "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-Product-Manager---Launchpad_JR-02641560",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Lowes",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lowe's",
+        "id": "5af8d1b1-e4e4-4112-8f81-e71f304f2f52",
+        "title": "Associate Data Engineering - Launchpad",
+        "active": true,
+        "date_updated": 1789416237,
+        "date_posted": 1789344000,
+        "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-Data-Engineering---Launchpad_JR-02641572",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Lowes",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA Corporation",
+        "id": "5aedcb8b-a661-4cdd-8872-3b81f748b454",
+        "title": "Optical Engineer - EBeam",
+        "active": true,
+        "date_updated": 1789417394,
+        "date_posted": 1789344000,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Optical-Engineer_2640298-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
