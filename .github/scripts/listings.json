@@ -271115,7 +271115,7 @@
         "company_name": "Citi",
         "id": "6d79e4e4-0194-40a1-8bdb-af23a1575053",
         "title": "Markets Quantitative Analysis",
-        "active": false,
+        "active": true,
         "date_updated": 1784241352,
         "date_posted": 1784160000,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Full-Time-Analyst--New-York---USA--2027_26978780",
@@ -275278,7 +275278,7 @@
         "company_name": "Mastercard",
         "id": "6fc2b307-1b8e-46f9-aa14-0d528e6fd4a9",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1784587377,
         "date_posted": 1784505600,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Development-Engineer_R-284431",
@@ -314011,7 +314011,7 @@
         "company_name": "Perry Homes",
         "id": "467851ae-af4e-4819-ae09-1cdbd0290f82",
         "title": "Data and Reporting Intern",
-        "active": true,
+        "active": false,
         "date_updated": 1785824943,
         "date_posted": 1785824197,
         "url": "https://apply.workable.com/perryhomes/j/65C2ED2361/apply",
@@ -331810,7 +331810,7 @@
         "company_name": "Chamberlain Group",
         "id": "36c8b8fd-365d-4bac-aacd-9ad6d868c515",
         "title": "Software Engineer 1 - AI",
-        "active": true,
+        "active": false,
         "date_updated": 1786573109,
         "date_posted": 1786492800,
         "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Remote---California/Software-Engineer-I---AI_JR30290",
@@ -340274,7 +340274,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -400100,5 +400100,146 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rocket Lab USA",
+        "id": "daabbb4b-3238-449b-a3f6-39e1681033a7",
+        "title": "Flight Software Engineer 1",
+        "active": true,
+        "date_updated": 1789408702,
+        "date_posted": 1789408571,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992129003",
+        "locations": [
+            "Littleton, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Element Materials Technology",
+        "id": "1e4c30b1-eac3-434f-b661-68ac06b17956",
+        "title": "EMC Test Technician - Commercial",
+        "active": true,
+        "date_updated": 1789408261,
+        "date_posted": 1789408231,
+        "url": "https://element-ext-row.icims.com/jobs/20035/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Woolsbridge, Wimborne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Element-Materials-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "cd83664d-cb72-48b7-84e1-793e51b160b5",
+        "title": "Engineer/Analyst Graduate",
+        "active": true,
+        "date_updated": 1789407797,
+        "date_posted": 1789407572,
+        "url": "https://careers.jhuapl.edu/jobs/59998?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "63be50b3-ad2c-4e52-889f-a54037b0da8c",
+        "title": "Developer Cyber-Physical Systems New Grad",
+        "active": true,
+        "date_updated": 1789407772,
+        "date_posted": 1789407577,
+        "url": "https://careers.jhuapl.edu/jobs/60022?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "2f92d542-fe1c-4e40-9695-24f3ffb3ecd7",
+        "title": "Engineer Graduate - Space Science Electronics",
+        "active": true,
+        "date_updated": 1789407774,
+        "date_posted": 1789407570,
+        "url": "https://careers.jhuapl.edu/jobs/60047?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Da Vinci",
+        "id": "96187f79-39c8-4510-8fb5-0c4835cab238",
+        "title": "Quant Graduate",
+        "active": true,
+        "date_updated": 1789407559,
+        "date_posted": 1789407515,
+        "url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4241558101",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Da-Vinci",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Caesars Entertainment",
+        "id": "adc925fd-a4c7-4cc6-a0df-c4110d889628",
+        "title": "Graduate Sports Trader",
+        "active": true,
+        "date_updated": 1789407361,
+        "date_posted": 1789407184,
+        "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/89087",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Caesars-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
