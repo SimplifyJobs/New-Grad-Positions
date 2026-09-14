@@ -259780,7 +259780,7 @@
         "company_name": "JP Morgan Chase",
         "id": "43ab9503-9377-4297-a179-a85a7169d278",
         "title": "Quantitative Trading & Research - RMBS Underwriting - Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783606321,
         "date_posted": 1783606005,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768112",
@@ -389480,7 +389480,7 @@
         "company_name": "Houlihan Lokey",
         "id": "02d4962a-c9a6-4016-9dc4-6d0e8850bcaf",
         "title": "Financial Analyst - Structured Products",
-        "active": true,
+        "active": false,
         "date_updated": 1788511641,
         "date_posted": 1783375593,
         "url": "https://hl.wd1.myworkdayjobs.com/Campus/job/London-UK/Financial-Analyst--Portfolio-Valuation-and-Fund-Advisory-Services--Structured-Products---2026-Graduate---London_R3390",
@@ -401043,6 +401043,169 @@
             "Milpitas, CA"
         ],
         "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boeing",
+        "id": "56278d8a-c505-46f4-a85b-5be6b79b6e44",
+        "title": "Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer - Space Digital Products & Electronics",
+        "active": true,
+        "date_updated": 1789418341,
+        "date_posted": 1789344000,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-level-Digital-Electronics-Circuit---Unit-Hardware-Design-Engineer_JR2026523829-1",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "6fc8f9e1-d79d-45f7-917a-3b0b799a9ae7",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1789418161,
+        "date_posted": 1789344000,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/San-Antonio-TX-US/Software-Developer_332051",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "218ed5a9-b0c2-4de1-a692-7c2c9a16e0fb",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1789418161,
+        "date_posted": 1789344000,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/San-Antonio-TX-US/Software-Developer_332050",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MBDA",
+        "id": "ad0606e2-b0a5-45d2-a394-9f42fd2e60d4",
+        "title": "Electronics Engineer - Graduate Programme",
+        "active": true,
+        "date_updated": 1789418079,
+        "date_posted": 1789344000,
+        "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Electronics-Engineer---Graduate-Programme-2027_R37817",
+        "locations": [
+            "Stevenage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MBDA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MBDA",
+        "id": "a1e7acba-8ab8-465d-96ef-b9311e989cd7",
+        "title": "Weapon Systems Algorithms Engineer New Grad",
+        "active": true,
+        "date_updated": 1789418090,
+        "date_posted": 1789344000,
+        "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Weapon-Systems-Algorithms-Engineer---Graduate-Programme-2027_R37707",
+        "locations": [
+            "Bristol, UK",
+            "Stevenage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MBDA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MBDA",
+        "id": "3909031b-a185-414c-b03c-bc202f0695db",
+        "title": "Simulation and Modelling Engineer New Grad",
+        "active": true,
+        "date_updated": 1789418057,
+        "date_posted": 1789344000,
+        "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Simulation-and-Modelling-Engineer---Graduate-Programme-2027_R37832",
+        "locations": [
+            "Bristol, UK",
+            "Stevenage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MBDA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Silicon Laboratories",
+        "id": "d9ae95b6-7b9b-4dfd-831a-347445ee21e5",
+        "title": "Software Engineer 1 - RAIL team",
+        "active": true,
+        "date_updated": 1789418038,
+        "date_posted": 1789344000,
+        "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Software-Engineer-I_21011-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Silicon-Laboratories",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MBDA",
+        "id": "7a3bc98d-8348-42c8-9e7f-c14d66a75d0a",
+        "title": "Computer Vision and Artificial Intelligence Engineer - Image Processing UK",
+        "active": true,
+        "date_updated": 1789418041,
+        "date_posted": 1789344000,
+        "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Computer-Vision-and-Artificial-Intelligence-Engineer---Graduate-Programme-2027_R37479",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MBDA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
