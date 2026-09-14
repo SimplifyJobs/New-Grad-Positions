@@ -396412,7 +396412,7 @@
         "company_name": "Norton Rose Fulbright",
         "id": "85892b81-432b-4e81-b38d-fe5610cd4494",
         "title": "Junior Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789050445,
         "date_posted": 1788998400,
         "url": "https://nrf.wd3.myworkdayjobs.com/External/job/London-United-Kingdom/Junior-Data-Analyst_R-4351",
@@ -399632,5 +399632,274 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LSEG",
+        "id": "ce5ff567-e11a-44c9-859e-54fcf9ec262f",
+        "title": "Engineering Graduate Programme - Backend",
+        "active": true,
+        "date_updated": 1789395301,
+        "date_posted": 1789344000,
+        "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/GBR-London-5-Canada-Square/Engineering-Graduate-Programme--Backend-_R0123403",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/LSEG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Aerospace Corporation",
+        "id": "aa9e8061-8d48-4cf8-8984-673abdd61315",
+        "title": "RPO Software Developer/Analyst - Flight Mechanics",
+        "active": true,
+        "date_updated": 1789395358,
+        "date_posted": 1789344000,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-RPO-Software-Developer-Analyst_R016457",
+        "locations": [
+            "Colorado Springs, CO",
+            "Chantilly, VA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LSEG",
+        "id": "ed491e0a-102a-4da8-ae56-a09a1cdd461c",
+        "title": "Engineering Graduate Programme",
+        "active": true,
+        "date_updated": 1789395301,
+        "date_posted": 1789344000,
+        "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Engineering-Graduate-Programme_R0123391",
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/LSEG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LSEG",
+        "id": "cf068b34-e6f4-476f-b1bb-d855b35190e3",
+        "title": "Full-Stack Developer Graduate - Fullstack",
+        "active": true,
+        "date_updated": 1789395332,
+        "date_posted": 1789344000,
+        "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/GBR-London-5-Canada-Square/Engineering-Graduate-Programme--Fullstack-_R0123395",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/LSEG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LSEG",
+        "id": "b349159b-0420-477e-a788-c7041f594f46",
+        "title": "Engineering Graduate Programme - Backend",
+        "active": true,
+        "date_updated": 1789395301,
+        "date_posted": 1789344000,
+        "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/GBR-London-5-Canada-Square/Engineering-Graduate-Programme--Backend-_R0123403-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/LSEG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "7d7a2172-893a-4ef5-a1b4-ed7f41c9f5a1",
+        "title": "Technology Development Program Associate",
+        "active": true,
+        "date_updated": 1789395301,
+        "date_posted": 1789344000,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Development-Program-Associate---August-2027_R244385-1",
+        "locations": [
+            "Plano, TX",
+            "McLean, VA",
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "da90fe45-cc1a-4111-8f00-ad0c06a730b5",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1789395208,
+        "date_posted": 1789394954,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013783",
+        "locations": [
+            "Burgess Hill, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "d3f55aee-b4d4-43d9-b14f-49ef62f29d1f",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1789395232,
+        "date_posted": 1789394953,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013776",
+        "locations": [
+            "Burgess Hill, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "a10f1a4a-5612-4fb1-9c86-ce19a91d358d",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1789395221,
+        "date_posted": 1789394954,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013782",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Express",
+        "id": "0a86151e-ccc1-45a9-a266-21e0e321de55",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1789395215,
+        "date_posted": 1789394954,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013780",
+        "locations": [
+            "Burgess Hill, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Express",
+        "id": "148415bf-7afd-46b5-bf1f-14cc4f5c0116",
+        "title": "Product Manager - Digital Product Management - Enterprise Technology Services",
+        "active": true,
+        "date_updated": 1789395224,
+        "date_posted": 1789394954,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013779",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sopra Steria",
+        "id": "412491dd-3e64-4caf-9a40-edd68dc75a0b",
+        "title": "FPGA Verification Engineer",
+        "active": true,
+        "date_updated": 1789395136,
+        "date_posted": 1789394864,
+        "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000149337912",
+        "locations": [
+            "East Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Sopra-Steria",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ServiceNow",
+        "id": "13ed523b-577a-4fbe-a3da-032a28eb0207",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1789394850,
+        "date_posted": 1789394635,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000149338366",
+        "locations": [
+            "West Palm Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
