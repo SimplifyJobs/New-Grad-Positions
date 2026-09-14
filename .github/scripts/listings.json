@@ -217403,7 +217403,7 @@
         "company_name": "RTX",
         "id": "0d467785-7605-490e-8478-cd894e0ef1f1",
         "title": "Raytheon Software Engineer 1 - Electro-Optical/Infrared Advanced Products and Solutions",
-        "active": false,
+        "active": true,
         "date_updated": 1781101483,
         "date_posted": 1781100525,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/XMLNAME-2026-Raytheon-Full-Time-Software-Engineer-I---EOIR-Advanced-Products-and-Solutions--Onsite-_01851718",
@@ -331675,7 +331675,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "97058eb6-70e5-40db-8c64-0391a99980ec",
         "title": "Associate Software Developer - COMPASS",
-        "active": true,
+        "active": false,
         "date_updated": 1786565231,
         "date_posted": 1786565176,
         "url": "https://careers-i3-corps.icims.com/jobs/5211/job?mobile=true&needsRedirect=false",
@@ -360530,7 +360530,7 @@
         "company_name": "Legal & General",
         "id": "eba0dcb3-15c0-454b-8598-e3ad330b7bb8",
         "title": "Product Analyst - Funds Oversight",
-        "active": true,
+        "active": false,
         "date_updated": 1787821562,
         "date_posted": 1787821542,
         "url": "https://jobs.smartrecruiters.com/LegalAndGeneral/744000145913189",
@@ -379303,7 +379303,7 @@
         "company_name": "Ozmo",
         "id": "3c53a802-b7b7-48db-8366-4f2ee710edd6",
         "title": "Content Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1788429982,
         "date_posted": 1784596658,
         "url": "https://ats.rippling.com/ozmocareers/jobs/3b195c97-8281-418a-add8-99310d7dfa70",
@@ -400381,6 +400381,151 @@
             "Redwood City, CA"
         ],
         "company_url": "https://simplify.jobs/c/C3ai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Motional",
+        "id": "a5015239-b0f5-4194-ba7b-fc8c2eac8c28",
+        "title": "Motion Planning Engineer - Trajectory Generation",
+        "active": true,
+        "date_updated": 1789411861,
+        "date_posted": 1789411683,
+        "url": "https://motional.com/open-positions/?gh_jid=7980363003#/7980363003",
+        "locations": [
+            "Boston, MA",
+            "Las Vegas, NV",
+            "Remote in USA",
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Motional",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Procter & Gamble",
+        "id": "73d4e83b-7f4d-4f3e-9732-9d320e9d7c49",
+        "title": "Site Data Activation Leader",
+        "active": true,
+        "date_updated": 1789411861,
+        "date_posted": 1789344000,
+        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/GREENSBORO-SWING-ROAD-PLANT/Site-Data-Activation-Leader_R000154606-1",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "8edf16f9-31db-4a81-b28d-bfabbbdece38",
+        "title": "Hardware In the Loop Software Engineer 1",
+        "active": true,
+        "date_updated": 1789411754,
+        "date_posted": 1789344000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "dbe852b3-c853-40d2-b5ba-5a386bd8c166",
+        "title": "Engineer 1 - Display Products",
+        "active": true,
+        "date_updated": 1789411710,
+        "date_posted": 1789344000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Engineer-I---Display-Products--Onsite-_01871168",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "21372e5e-070e-42a5-b386-7e517ee24992",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1789411712,
+        "date_posted": 1789344000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01873683",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "065d2da2-5763-4c60-b6bf-8905264983ce",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1789411713,
+        "date_posted": 1789344000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01874333",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Systems Planning and Analysis",
+        "id": "7a15b62a-806d-447b-a81b-6d003dc5dc27",
+        "title": "Operations Research Analyst",
+        "active": true,
+        "date_updated": 1789410781,
+        "date_posted": 1789410067,
+        "url": "https://spa.jibeapply.com/jobs/23379?icims=1",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/System-Planning-And-Analysis",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
