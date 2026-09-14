@@ -104172,7 +104172,7 @@
         "company_name": "Intertek",
         "id": "4d93909f-0086-40e5-90f5-72d71d3e8b25",
         "title": "Technician 1 - Building and Construction",
-        "active": true,
+        "active": false,
         "date_updated": 1774169757,
         "date_posted": 1773267425,
         "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14121",
@@ -364837,7 +364837,7 @@
         "company_name": "NCR Voyix",
         "id": "09c0d678-51ef-4e83-a6cd-30b5148869f4",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787993101,
         "date_posted": 1785456000,
         "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Senior-Principal-IT-Architect_R0158013",
@@ -365588,7 +365588,7 @@
         "company_name": "AMD",
         "id": "58a0dcba-5ea2-494a-a22d-9fdb8d98d4a6",
         "title": "AI Applications Engineer - Wired and Wireless Business Team - Adaptive and Embedded Computing Group",
-        "active": true,
+        "active": false,
         "date_updated": 1788202621,
         "date_posted": 1788202527,
         "url": "https://careers.amd.com/jobs/91544?icims=1",
@@ -401202,6 +401202,149 @@
         "date_updated": 1789418041,
         "date_posted": 1789344000,
         "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Computer-Vision-and-Artificial-Intelligence-Engineer---Graduate-Programme-2027_R37479",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MBDA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nexthop.ai",
+        "id": "36340c4d-5f81-4c62-876c-3159e88b62c3",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1789421059,
+        "date_posted": 1789420917,
+        "url": "https://nexthopai.bamboohr.com/careers/62/",
+        "locations": [
+            "Burnaby, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nexthopai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Artificial.Agency",
+        "id": "482562a7-9d72-489a-ba04-0e32f1091c18",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1789420681,
+        "date_posted": 1789420584,
+        "url": "https://jobs.ashbyhq.com/artificial.agency/31e14e65-ea3c-425d-adf0-875857e65b0a/application?embed=true",
+        "locations": [
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Artificial-Agency",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Qualcomm",
+        "id": "b8cf74b9-73b7-43aa-b3e4-4ebd72295e82",
+        "title": "Machine Learning Engineer - Machine Learning Engineering",
+        "active": true,
+        "date_updated": 1789420501,
+        "date_posted": 1789420448,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721085768",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Grayce",
+        "id": "ba12d1b6-fe06-42bb-86cd-5f1852692e79",
+        "title": "Graduate Data Consultant - Data",
+        "active": true,
+        "date_updated": 1789420501,
+        "date_posted": 1789420430,
+        "url": "https://apply.workable.com/grayce/j/59288B9C95/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Grayce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rolls-Royce",
+        "id": "80623b76-4e4b-49fe-b8d5-ac8db1f89caa",
+        "title": "Mechanical Systems Design Engineer",
+        "active": true,
+        "date_updated": 1789420583,
+        "date_posted": 1789344000,
+        "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/LibertyWorks-Mechanical-Systems-Design-Engineer_JR6160146",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SciTec",
+        "id": "4b82692b-c26a-4ef0-a342-fb92e340f1fe",
+        "title": "Associate / Staff Mission Data Analyst - Clearance Required",
+        "active": true,
+        "date_updated": 1789420141,
+        "date_posted": 1789419997,
+        "url": "https://apply.workable.com/scitec/j/301788B4BF/apply",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/SciTec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MBDA",
+        "id": "52d960ca-ad7e-41c2-9d0d-c29b24545c91",
+        "title": "Software Engineer Graduate Programme",
+        "active": true,
+        "date_updated": 1789420059,
+        "date_posted": 1789344000,
+        "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Software-Engineer---Graduate-Programme-2027_R37737",
         "locations": [
             "Bristol, UK"
         ],
