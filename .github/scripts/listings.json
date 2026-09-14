@@ -260829,7 +260829,7 @@
         "company_name": "Leidos",
         "id": "ce9250e1-36be-4c4c-aeff-ee1b9d5881c6",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1783636460,
         "date_posted": 1783555200,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00186923",
@@ -391977,7 +391977,7 @@
         "company_name": "Arcadis",
         "id": "04ca3f28-23f2-423d-baf2-ccd7f3372db3",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1788743372,
         "date_posted": 1788743126,
         "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43797",
@@ -396867,7 +396867,7 @@
         "company_name": "Dominion Energy",
         "id": "1e7aabb7-dfe3-48b6-80ad-19f3438ffd77",
         "title": "Associate Business Intelligence Analyst/Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789078141,
         "date_posted": 1789078036,
         "url": "https://careers.dominionenergy.com/job/RICHMOND-Associate-Business-Intelligence-AnalystBusiness-Intelligence-Analyst-(Richmond,-Hybrid)-VA-23219/1428545300/?ats=successfactors",
@@ -399565,6 +399565,26 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Autostore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "S&T Bank",
+        "id": "ffcc2922-c23f-4552-9a19-fa683dc3eaf8",
+        "title": "Business Associate Analyst",
+        "active": true,
+        "date_updated": 1789391701,
+        "date_posted": 1786579200,
+        "url": "https://stbancorp.wd5.myworkdayjobs.com/ST_Bank_Careers/job/Main-Office/Data---Analytics-Associate-Analyst_R-1580",
+        "locations": [
+            "Indiana, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/ST-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
