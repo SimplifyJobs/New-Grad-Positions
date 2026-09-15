@@ -129371,7 +129371,7 @@
         "company_name": "TikTok",
         "id": "c9ab7f92-f6ec-42d1-b42e-d04835febdf0",
         "title": "Graduate Research Scientist - Global E-commerce Content Recommendation",
-        "active": false,
+        "active": true,
         "date_updated": 1775629392,
         "date_posted": 1775628705,
         "url": "https://lifeattiktok.com/search/7521987177107589384",
@@ -259139,7 +259139,7 @@
         "company_name": "Northrop Grumman",
         "id": "303863e1-50c9-4dea-849d-4fd88007e2ce",
         "title": "Associate Data Scientist/Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1783577701,
         "date_posted": 1783577549,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Associate-Data-Scientist-Data-Scientist_R10238493",
@@ -267094,7 +267094,7 @@
         "company_name": "InstaLILY",
         "id": "3f792c7c-c847-4af9-8c23-0d263a76c9c8",
         "title": "Software Engineer - General",
-        "active": false,
+        "active": true,
         "date_updated": 1784071624,
         "date_posted": 1784068258,
         "url": "https://job-boards.greenhouse.io/instalilyai/jobs/4264790009",
@@ -286314,7 +286314,7 @@
         "company_name": "Lentech Inc.",
         "id": "bd40fda7-37cc-4439-aca3-fdc324bbba53",
         "title": "Entry Level Web Developer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1784788400,
         "date_posted": 1784787329,
         "url": "https://lentechinc.applytojob.com/apply/qnjVhHgXdC/Entry-Web-Developer",
@@ -325285,7 +325285,7 @@
         "company_name": "HUB",
         "id": "3fbf5ae8-8157-4653-8f90-0b8fbee733e2",
         "title": "Business Intelligence Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1786388941,
         "date_posted": 1786320000,
         "url": "https://hubinternational.wd1.myworkdayjobs.com/en-US/HUBInternational/job/Norwell-MA/Business-Intelligence-Associate_R0037970",
@@ -340068,7 +340068,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -353382,7 +353382,7 @@
         "company_name": "Mastercard",
         "id": "b948ef8c-99af-4850-940a-ca3b8506efb3",
         "title": "Software Engineer - Launch Program",
-        "active": false,
+        "active": true,
         "date_updated": 1787580931,
         "date_posted": 1787529600,
         "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1",
@@ -393810,7 +393810,7 @@
         "company_name": "OMERS",
         "id": "e5ed2149-8086-477f-98d5-c2374df6cdd3",
         "title": "Data Engineer - Data Integration & Performance Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1788906446,
         "date_posted": 1788825600,
         "url": "https://omers.wd3.myworkdayjobs.com/omers_external/job/Toronto-Ontario/Data-Engineer--Data-Integration---Performance-Platform_JR-8417-1",
@@ -399843,7 +399843,7 @@
         "company_name": "RTX",
         "id": "bc3aa009-aa5f-4ec5-a762-ad9b200955b8",
         "title": "AI Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789401261,
         "date_posted": 1789344000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-REMOTE/Engineer-I--AI-Engineer_01874267",
@@ -401012,7 +401012,7 @@
         "company_name": "Nexthop.ai",
         "id": "36340c4d-5f81-4c62-876c-3159e88b62c3",
         "title": "Software Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1789421059,
         "date_posted": 1789420917,
         "url": "https://nexthopai.bamboohr.com/careers/62/",
@@ -402244,6 +402244,353 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Toyota Research Institute",
+        "id": "6bb17177-981d-447d-a797-9417c909c062",
+        "title": "Machine Learning Research Scientist - Mechanical Intuition in Multimodal Models",
+        "active": true,
+        "date_updated": 1789511041,
+        "date_posted": 1789510645,
+        "url": "https://jobs.lever.co/tri/8851c6af-6a0f-4fc2-8805-8d8b266d1dd3/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JPI",
+        "id": "1cbc666d-470b-45e7-8740-9f1cf40b69c8",
+        "title": "Associate Agentic Software Developer",
+        "active": true,
+        "date_updated": 1789511245,
+        "date_posted": 1789430400,
+        "url": "https://jpi.wd1.myworkdayjobs.com/jpicareers/job/Dallas-Office/Associate-Agentic-Software-Developer_JR101425",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/JPI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centene",
+        "id": "6a31ee8f-af13-4c95-bd4d-ccaa98a9fa3c",
+        "title": "Contact Center Operations Analyst 1",
+        "active": true,
+        "date_updated": 1789511228,
+        "date_posted": 1789430400,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Contact-Center-Operations-Analyst-I_1659228",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/Centene",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dominion Energy",
+        "id": "3a6a19a5-ff95-48d0-bbb1-69ba14d31aa5",
+        "title": "Financial Data & Technology Analyst",
+        "active": true,
+        "date_updated": 1789511121,
+        "date_posted": 1789510163,
+        "url": "https://careers.dominionenergy.com/job/RICHMOND-Associate-Financial-Data-&-Technology-Analyst-Financial-Data-&-Technology-Analyst-VA-23219/1430173200/?ats=successfactors",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dominion-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Charles Schwab",
+        "id": "d6e19b01-22aa-46ab-a8b0-95bb1092f446",
+        "title": "Associate Java Developer",
+        "active": true,
+        "date_updated": 1789510983,
+        "date_posted": 1789510088,
+        "url": "https://career-schwab.icims.com/jobs/126708/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Southlake, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-Schwab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Charles Schwab",
+        "id": "b232115b-2263-4c3f-a86a-72d12524d568",
+        "title": "Senior Specialist - AI Model Validation",
+        "active": true,
+        "date_updated": 1789510322,
+        "date_posted": 1789510084,
+        "url": "https://career-schwab.icims.com/jobs/126890/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Southlake, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-Schwab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NielsenIQ",
+        "id": "03ae8b6f-dab4-45ab-b1f7-9ad577754842",
+        "title": "Brand Insights Analyst",
+        "active": true,
+        "date_updated": 1789510322,
+        "date_posted": 1789510043,
+        "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000149715299",
+        "locations": [
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/NielsenIQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PeopleTec",
+        "id": "54c270cc-ece5-4a51-9ac6-47e6877451ae",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1789510322,
+        "date_posted": 1789510052,
+        "url": "https://careers-peopletec.icims.com/jobs/5315/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/PeopleTec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rocket Lab USA",
+        "id": "8e25f6a0-c56e-4252-a456-4d58b3c78c65",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1789510919,
+        "date_posted": 1789510052,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996354003",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Western Alliance",
+        "id": "457bcb08-1acf-45d9-851c-715ee73dd22a",
+        "title": "Engineer 1 - Data Engineer",
+        "active": true,
+        "date_updated": 1789510894,
+        "date_posted": 1789430400,
+        "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Engineer-I---Data-Engineer_R13723",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LexisNexis Legal & Professional",
+        "id": "5e57ccae-7277-4587-8079-77b7bae18c57",
+        "title": "Graduate Data Scientist 1",
+        "active": true,
+        "date_updated": 1789510819,
+        "date_posted": 1789430400,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Aspire-Tech-Graduate-Data-Scientist-I_R118695",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Legal-And-Professional",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LexisNexis Legal & Professional",
+        "id": "767cfec3-b8cd-4c09-9e3f-fd524457f140",
+        "title": "Software Engineer 1 - Aspire Graduate Program",
+        "active": true,
+        "date_updated": 1789510835,
+        "date_posted": 1789430400,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Aspire-Tech-Graduate-Software-Engineer-I_R118694",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Legal-And-Professional",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hardin Design",
+        "id": "22a10269-db51-459d-b8ce-872e7a7ac070",
+        "title": "Entry-Level Web Developer",
+        "active": true,
+        "date_updated": 1789510796,
+        "date_posted": 1789509978,
+        "url": "https://jobs.smartrecruiters.com/HardinDesign/744000149709275",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Hardin-Design",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rakuten International",
+        "id": "058f10b5-7e10-4926-bb72-004c74c2a665",
+        "title": "Early Career AI Engineer - Contract",
+        "active": true,
+        "date_updated": 1789510322,
+        "date_posted": 1789510078,
+        "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rakuten-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Anduril",
+        "id": "54a452ec-d813-473c-a8f2-93fbfec8afb3",
+        "title": "Electrical Engineer - Space Emerging Talent",
+        "active": true,
+        "date_updated": 1789511041,
+        "date_posted": 1789509904,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236639007",
+        "locations": [
+            "Costa Mesa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "82c69acd-73ca-4a6f-b334-fd16a295ccbf",
+        "title": "Systems Software Engineer",
+        "active": true,
+        "date_updated": 1789509978,
+        "date_posted": 1789509819,
+        "url": "https://jobs.apple.com/en-us/details/200683808",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "9ce42a77-acb0-4d67-a66a-c49d74c5925d",
+        "title": "Silicon Prototyping Engineer",
+        "active": true,
+        "date_updated": 1789509978,
+        "date_posted": 1789509809,
+        "url": "https://jobs.apple.com/en-us/details/200683271",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
