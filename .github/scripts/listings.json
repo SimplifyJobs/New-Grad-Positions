@@ -266244,7 +266244,7 @@
         "company_name": "Cerebras",
         "id": "0e014b55-7295-4b7b-817a-ee4f8de89e5f",
         "title": "Simulation Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1784068933,
         "date_posted": 1784067191,
         "url": "https://jobs.ashbyhq.com/cerebras/bf6f81b2-f079-483a-9238-295a184b3f0f/application",
@@ -274057,7 +274057,7 @@
         "company_name": "KAYAK",
         "id": "329c34b0-2085-4389-8916-e5acd0bdb164",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784556901,
         "date_posted": 1784556700,
         "url": "https://jobs.ashbyhq.com/KAYAK/8333e351-7a08-4767-9966-f75411b78d80/application?embed=true",
@@ -284225,7 +284225,7 @@
         "company_name": "Quantum",
         "id": "e5892aa7-3c5f-4ce8-81b1-9c90e2a80f59",
         "title": "Graduate Commercial Insights Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1784712079,
         "date_posted": 1784711755,
         "url": "https://jobs.ashbyhq.com/quantum/24e8d551-3081-4356-a2ce-13235537e88d/application?embed=true",
@@ -350563,7 +350563,7 @@
         "company_name": "Allica Bank",
         "id": "2626d944-9d65-465c-8e1b-6c111a55ffcb",
         "title": "Graduate Full Stack Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787275240,
         "date_posted": 1787274943,
         "url": "https://jobs.ashbyhq.com/allica-bank/82a8c032-e67a-4bc9-bd71-ffb3ef694a3d/application?embed=true",
@@ -365423,7 +365423,7 @@
         "company_name": "WellSky",
         "id": "b46bed65-2b6c-455c-b8a5-3739d8e4685e",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788202621,
         "date_posted": 1788134400,
         "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Data-Engineer_JR5015",
@@ -394193,7 +394193,7 @@
         "company_name": "AQR Capital Management",
         "id": "8b2aeb61-d32d-4016-8e4e-4c285186e6c4",
         "title": "Portfolio Implementation Analyst - Macro Strategies",
-        "active": true,
+        "active": false,
         "date_updated": 1788949396,
         "date_posted": 1781130022,
         "url": "https://careers.aqr.com/jobs?gh_jid=7976126&gh_jid=7976126",
@@ -402141,6 +402141,109 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Helsing",
+        "id": "e2139dad-ea8e-4488-ac21-aa89c68c9d9f",
+        "title": "Junior Software Engineer - Deployed AI - Software Engineering",
+        "active": true,
+        "date_updated": 1789482961,
+        "date_posted": 1789482913,
+        "url": "https://helsing.ai/jobs/4976480101?gh_jid=4976480101",
+        "locations": [
+            "London, UK",
+            "Berlin, Germany",
+            "Munich, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Helsing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Helsing",
+        "id": "88165213-c035-45f6-b87a-f74532619e42",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1789482961,
+        "date_posted": 1789482912,
+        "url": "https://helsing.ai/jobs/4972043101?gh_jid=4972043101",
+        "locations": [
+            "London, UK",
+            "Berlin, Germany",
+            "Munich, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Helsing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tower Research Capital",
+        "id": "fa14cffa-3145-47cb-9d4e-8e9db9974a51",
+        "title": "C++ Software Developer New Grad - Rotational Program",
+        "active": true,
+        "date_updated": 1789482882,
+        "date_posted": 1789482564,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=8126667",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "847cdb6a-d9f6-494f-b2ac-145cc1bef8d3",
+        "title": "Associate Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1789482421,
+        "date_posted": 1789430400,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Embedded-Software-Engineer_R266131",
+        "locations": [
+            "San Jose, CA",
+            "Wilmington, MA",
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cherry Technologies",
+        "id": "4b2ecaee-656e-44a5-8c2d-3542dc11fbd5",
+        "title": "Software Engineer - Entry-Level",
+        "active": true,
+        "date_updated": 1789482421,
+        "date_posted": 1789482343,
+        "url": "https://jobs.ashbyhq.com/withcherry/6cdd7a52-fcbd-4e29-bcf2-00840ee9243f/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cherry-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
