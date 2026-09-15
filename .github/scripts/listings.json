@@ -1,63 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nutanix",
-        "id": "c64a68df-59f3-4a92-9f85-238b7baa4395",
-        "title": "Member of Technical Staff 2",
-        "active": false,
-        "date_updated": 1768778302,
-        "date_posted": 1768778302,
-        "url": "https://jobs.jobvite.com/nutanix/job/omxjzfwv?nl=1&nl=1&fr=false",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nutanix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "eda813c4-270e-4ce6-b8f6-b21b0a1c93c2",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1768778049,
-        "date_posted": 1768778049,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046303",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2004df2c-c93d-4fa1-b00a-1108ad84f6e4",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1768778020,
-        "date_posted": 1768778020,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046297",
-        "locations": [
-            "Solihull, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "383dc503-e535-4b9d-bbad-8c9440875f96",
@@ -1472,28 +1415,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "b0255340-ba01-4035-94b0-2865cc700264",
-        "title": "Associate Software Engineer / Software Engineer",
-        "active": false,
-        "date_updated": 1768778853,
-        "date_posted": 1768778853,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
-        "locations": [
-            "Hill AFB, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -177630,7 +177551,7 @@
         "company_name": "Apple",
         "id": "6145bb59-e401-4dc3-9fe3-21e332862edf",
         "title": "Systems Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778739481,
         "date_posted": 1778739399,
         "url": "https://jobs.apple.com/en-us/details/200663092",
@@ -403255,6 +403176,88 @@
             "Beverly, MA"
         ],
         "company_url": "https://simplify.jobs/c/Axcelis-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Truveta",
+        "id": "2666bf8c-5bac-4f5b-9036-479d63ab0600",
+        "title": "Software Engineer - Analytical Platform Services",
+        "active": true,
+        "date_updated": 1789513572,
+        "date_posted": 1789512160,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/6193466004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truveta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Optimove",
+        "id": "a1d61041-e2ed-4db0-9d17-19e9e7e051e6",
+        "title": "Customer Data Engineer",
+        "active": true,
+        "date_updated": 1789512661,
+        "date_posted": 1789512486,
+        "url": "https://job-boards.eu.greenhouse.io/optimove/jobs/4971259101",
+        "locations": [
+            "Dundee, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Optimove",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northrop Grumman",
+        "id": "86e05190-6f6e-4617-a436-98e255caa0d2",
+        "title": "Associate AI Software Engineer/AI Software Engineer",
+        "active": true,
+        "date_updated": 1789513391,
+        "date_posted": 1789430400,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Associate-AI-Software-Engineer--AI-Software-Engineer--AHT-_R10250894",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Major League Baseball",
+        "id": "aff0e138-b782-4fc0-b7f6-be4f560e0216",
+        "title": "Data Scientist - Baseball Research & Development",
+        "active": true,
+        "date_updated": 1789512661,
+        "date_posted": 1789512453,
+        "url": "https://job-boards.greenhouse.io/clevelandguardiansbops/jobs/8770570002",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/MLB",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
