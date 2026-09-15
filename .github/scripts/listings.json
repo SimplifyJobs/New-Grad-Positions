@@ -333216,7 +333216,7 @@
         "company_name": "Gartner",
         "id": "5494c5a6-9c5b-48aa-9cdf-859763fa973a",
         "title": "Associate Data Analyst - Insights and Product Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1786601591,
         "date_posted": 1786579200,
         "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Data-Analyst---2026-2027-graduates_112849",
@@ -348144,7 +348144,7 @@
         "company_name": "Boston Engineering",
         "id": "94e681fb-5d76-4fc7-a06f-6b5eaa731490",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787177161,
         "date_posted": 1787177076,
         "url": "https://jobs.smartrecruiters.com/BostonEngineeringCorporation/744000144398844",
@@ -389468,7 +389468,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "5c344854-f197-4e09-abf4-dab96d9d3b56",
         "title": "Electronics Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788517908,
         "date_posted": 1781361472,
         "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Test-Engineer_2026-21677",
@@ -398767,7 +398767,7 @@
         "company_name": "Capital One",
         "id": "4d64e8aa-5ca6-44d5-b949-00e619cfebfe",
         "title": "Applied Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1789171076,
         "date_posted": 1789084800,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Cambridge-MA/Part-Time-Applied-Data-Scientist_R1000592",
@@ -401855,6 +401855,27 @@
             "Spring, TX"
         ],
         "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Atlas Data Storage",
+        "id": "84730521-9da8-42b9-b0fe-d56b4c6d16bb",
+        "title": "Research Associate - Technology Development",
+        "active": true,
+        "date_updated": 1789465843,
+        "date_posted": 1784596282,
+        "url": "https://ats.rippling.com/atlas-data-storage/jobs/b7eda79d-e564-4fd5-9f3d-ea5e01e15e20",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Atlas-Data-Storage",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
