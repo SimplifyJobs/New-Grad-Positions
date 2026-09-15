@@ -77080,7 +77080,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "c493c31e-172c-4f7b-865a-0bc3b9de0fbc",
         "title": "Applied Machine Learning Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1772753293,
         "date_posted": 1772753293,
         "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Applied-Machine-Learning-Engineer--All-Levels-_R27180-1",
@@ -340110,7 +340110,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -389933,7 +389933,7 @@
         "company_name": "DoorDash",
         "id": "513e6d2f-18b8-4296-b39d-cd4c8b148b9b",
         "title": "Software Engineer 1 - Entry-Level",
-        "active": false,
+        "active": true,
         "date_updated": 1788533849,
         "date_posted": 1788533669,
         "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
@@ -400536,7 +400536,7 @@
         "company_name": "BDO Canada",
         "id": "3b3dccea-25c2-472f-969a-b666ef6a2afd",
         "title": "Business Analyst New Grad - Data & Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1789415422,
         "date_posted": 1789344000,
         "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Business-Analyst---Data---Analytics---New-Grad--January-2027-_JR7065",
@@ -401589,6 +401589,213 @@
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/PowerSchool-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OpenAI",
+        "id": "8531a8a8-615c-4eb3-8f19-b6a80d1d5d15",
+        "title": "Software Engineer - Applied Emerging Talent",
+        "active": true,
+        "date_updated": 1789435621,
+        "date_posted": 1789435486,
+        "url": "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ameriprise Financial",
+        "id": "c4d3d189-c19d-4614-8904-12a2243b6d52",
+        "title": "Sales, Marketing, and Distribution Technology - Marketing and Distribution Technology",
+        "active": true,
+        "date_updated": 1789435556,
+        "date_posted": 1789344000,
+        "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Columbia-Threadneedle-Sales--Marketing--and-Distribution-Technology-Leadership-Development-Program-Associate_R26_3114-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ameriprise-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Superhuman",
+        "id": "1c123b94-fb07-4a60-97b4-43dec605b42f",
+        "title": "Software Engineer - Early Career",
+        "active": true,
+        "date_updated": 1789435539,
+        "date_posted": 1789435263,
+        "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/da5e147c-f957-4ba1-9712-1b2dde377cb0/application?embed=true",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Superhuman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stanley Black & Decker",
+        "id": "20c219ed-2b13-43ed-85e8-bac0e02f0616",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1789435332,
+        "date_posted": 1789344000,
+        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineer-1--Electrical_REQ-1000052382",
+        "locations": [
+            "Towson, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "a0151658-2af4-4bbb-837f-bfed922eacff",
+        "title": "Systems Engineer",
+        "active": true,
+        "date_updated": 1789435063,
+        "date_posted": 1789434858,
+        "url": "https://careers-gdms.icims.com/jobs/74765/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "8aa31162-4140-4408-a6ca-0e51e890da86",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1789435001,
+        "date_posted": 1789344000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Leadership-Development-Program---Engineering--Software-Discipline--Starts-June-2027-_01873618",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "6fe0be80-d6e2-43ee-959c-906a18479dbb",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1789434992,
+        "date_posted": 1789434888,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Electrical-Engineer-I--Onsite-_01867733",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "b4956a38-5faa-4849-acb9-3800ce1f366a",
+        "title": "Algorithm Developer 3",
+        "active": true,
+        "date_updated": 1789434839,
+        "date_posted": 1789344000,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad---Algorithm-Developer-III---PhD--Winter-2026-Start-_R2628587",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Atlassian",
+        "id": "71842870-b830-4748-a505-dedd8137d854",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1789434766,
+        "date_posted": 1789434532,
+        "url": "https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Atlassian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "f55553b1-9d7d-499d-98ac-d78d07cfb143",
+        "title": "Hardware Systems Engineer - Board Design",
+        "active": true,
+        "date_updated": 1789434362,
+        "date_posted": 1789434270,
+        "url": "https://jobs.apple.com/en-us/details/200683615",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
