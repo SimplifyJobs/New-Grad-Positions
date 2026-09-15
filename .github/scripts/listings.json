@@ -30161,7 +30161,7 @@
         "company_name": "Google",
         "id": "d131f95c-8064-4b1a-9141-17335c27c794",
         "title": "Software Engineer \u2013 Early Career - AI/ML - PhD",
-        "active": true,
+        "active": false,
         "date_updated": 1770419262,
         "date_posted": 1770419262,
         "url": "https://www.google.com/about/careers/applications/jobs/results/92286686481785542",
@@ -362260,7 +362260,7 @@
         "company_name": "NJ Department of Environmental Protection",
         "id": "b983f282-b7a5-46fc-9244-4d5f1a048849",
         "title": "Analyst Trainee - Air, Energy and Materials Sustainability - Director's Office",
-        "active": true,
+        "active": false,
         "date_updated": 1787873313,
         "date_posted": 1787873134,
         "url": "https://njdepartmentofenvironmentalprotection.applytojob.com/apply/Q9Z4BcdgNw/AEMS202645-Analyst-Trainee",
@@ -385537,7 +385537,7 @@
         "company_name": "Entergy",
         "id": "e2bcf157-ebd6-4101-b5a0-f9ea043a117d",
         "title": "AMI Operations Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788465446,
         "date_posted": 1784758221,
         "url": "https://jobs.entergy.com/job/New-Orleans-AMI-Ops-Analyst-Loui/1411543500/?ats=successfactors",
@@ -398000,7 +398000,7 @@
         "company_name": "Cisco",
         "id": "dc59a5b4-ca39-4415-997d-072b76e1ee7c",
         "title": "ASIC Test Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1789140305,
         "date_posted": 1789140167,
         "url": "https://careers.cisco.com/global/en/job/2024675",
@@ -399413,7 +399413,7 @@
         "company_name": "LSEG",
         "id": "919ce6a1-1966-4da4-ae1a-30f5de2eeb05",
         "title": "Full-Stack Developer Graduate - Fullstack",
-        "active": true,
+        "active": false,
         "date_updated": 1789394248,
         "date_posted": 1789344000,
         "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/GBR-London-5-Canada-Square/Engineering-Graduate-Programme--Fullstack-_R0123395-1",
@@ -399923,7 +399923,7 @@
         "company_name": "CarGurus",
         "id": "9649a700-aad9-49a9-a690-64df830139bc",
         "title": "Associate Marketing Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789405296,
         "date_posted": 1789405046,
         "url": "https://careers.cargurus.com/us/en/job/8195874?gh_jid=8195874",
@@ -401882,5 +401882,67 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The Walt Disney Company",
+        "id": "7302fc5e-a4cc-4e0f-b7cf-b34d10f1d5be",
+        "title": "Associate Product Manager - APM Program",
+        "active": true,
+        "date_updated": 1789467658,
+        "date_posted": 1789430400,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Associate-Product-Manager-Program_10160554-1",
+        "locations": [
+            "Glendale, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The Walt Disney Company",
+        "id": "1bf4253a-4ba5-4a65-8728-b70e5acdeb6a",
+        "title": "Associate Product Manager - Program",
+        "active": true,
+        "date_updated": 1789467657,
+        "date_posted": 1789430400,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Associate-Product-Manager-Program_10160554",
+        "locations": [
+            "Glendale, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Man Group",
+        "id": "ccc5cde9-0723-4a57-a42c-d2c89ed13250",
+        "title": "People Analytics & AI Transformation Analyst",
+        "active": true,
+        "date_updated": 1789466775,
+        "date_posted": 1789466758,
+        "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4974906101",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Man-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
