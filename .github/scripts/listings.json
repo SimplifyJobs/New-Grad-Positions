@@ -345325,7 +345325,7 @@
         "company_name": "RTX",
         "id": "bde086bf-dab1-4025-b1fa-8d581fc9b704",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1787090903,
         "date_posted": 1787011200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01867811",
@@ -356727,7 +356727,7 @@
         "company_name": "RTX",
         "id": "23bbe35c-c579-474a-9e66-85d18545f2cb",
         "title": "Firmware Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1787682161,
         "date_posted": 1787616000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Firmware-Engineer-2--Onsite-_01866672",
@@ -387658,7 +387658,7 @@
         "company_name": "CrowdGen by Appen",
         "id": "b8303f31-8c50-46eb-80e0-a9af9324ba88",
         "title": "AI Personalization Evaluation - Project Athabasca",
-        "active": false,
+        "active": true,
         "date_updated": 1788490284,
         "date_posted": 1788476730,
         "url": "https://jobs.lever.co/appen/407f58a5-9991-408b-8d30-229f2917d6e7/apply",
@@ -401800,6 +401800,66 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stanley Black & Decker",
+        "id": "96db4016-3e8f-4c92-98f2-43fa3eabab24",
+        "title": "Engineer 1 - Digital",
+        "active": true,
+        "date_updated": 1789453036,
+        "date_posted": 1789344000,
+        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineer-I--Digital_REQ-1000051830",
+        "locations": [
+            "Towson, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "bb50809f-40cf-4768-beef-ba71a49c92fc",
+        "title": "Research Engineer 1 - Analytics and Machine Intelligence - AMI",
+        "active": true,
+        "date_updated": 1789453011,
+        "date_posted": 1789344000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-111--1300-17Th-St-N--BBN-ARLINGTON/Engineer-I---RTX-BBN-Analytics-and-Machine-Intelligence--AMI----Arlington--VA-and-Cambridge--MA--Hybrid-_01874936",
+        "locations": [
+            "Cambridge, MA",
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "a5ac682b-5ea2-4a17-9ad8-ce5ac3f21465",
+        "title": "Entry Electrical Engineering Embedded Power Solutions",
+        "active": true,
+        "date_updated": 1789452901,
+        "date_posted": 1788912000,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Entry-Electrical-Engineering-Embedded-Power-Solutions_1211914",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
