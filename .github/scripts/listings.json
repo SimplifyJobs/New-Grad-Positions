@@ -340068,7 +340068,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -349843,7 +349843,7 @@
         "company_name": "RTX",
         "id": "d1eed041-7ca0-4a39-8adc-7011f5c8b2df",
         "title": "Software Modernization Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1787264665,
         "date_posted": 1787184000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Modernization-Engineer-I--Onsite-_01868393",
@@ -401957,6 +401957,186 @@
             "Goleta, CA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northrop Grumman",
+        "id": "6befe64b-60e7-4f1a-a847-0dd3604e4ab2",
+        "title": "Modeling and Simulation Engineer",
+        "active": true,
+        "date_updated": 1789482242,
+        "date_posted": 1789430400,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Modeling-and-Simulation-Engineer--1-2-_R10248324",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JP Morgan Chase",
+        "id": "e2030480-52ed-47bc-b8cd-65208cc8de1a",
+        "title": "Technology Support 1 - Commercial and Investment Bank",
+        "active": true,
+        "date_updated": 1789482292,
+        "date_posted": 1789481959,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784756",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "e871e19b-75c1-4804-bc32-171c908a1c55",
+        "title": "Associate Analog Design Engineer",
+        "active": true,
+        "date_updated": 1789481881,
+        "date_posted": 1789430400,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-AZ-Chandler-East-Elliot/Associate-Analog-Design-Engineer_R266120",
+        "locations": [
+            "Colorado Springs, CO",
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "7fdb1a20-2d3b-4bbb-a910-6e8159d5321e",
+        "title": "Associate Design Evaluation Engineer",
+        "active": true,
+        "date_updated": 1789482070,
+        "date_posted": 1789430400,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NJ-Somerset/Associate-Design-Evaluation-Engineer_R266124",
+        "locations": [
+            "Somerset County, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "a39d5afb-060e-4d7c-865a-9f7f12fc843d",
+        "title": "Associate Analog Design Engineer",
+        "active": true,
+        "date_updated": 1789481881,
+        "date_posted": 1789430400,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Associate-Analog-Design-Engineer_R266122",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "17fe976c-e62e-4e3a-9703-ff8cdfe4a1fe",
+        "title": "Associate Analog Design Engineer",
+        "active": true,
+        "date_updated": 1789481881,
+        "date_posted": 1789430400,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Associate-Analog-Design-Engineer_R266119",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leviton",
+        "id": "57762e0c-9f4e-4751-a01e-dc445678ec9c",
+        "title": "Associate Electrical Engineer",
+        "active": true,
+        "date_updated": 1789481881,
+        "date_posted": 1789481764,
+        "url": "https://careers.leviton.com/jobs/6019?icims=1",
+        "locations": [
+            "Melville, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Leviton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Emory University",
+        "id": "c136e02a-fcb4-489e-9b3f-92e8bce872b9",
+        "title": "Data Analyst - School of Medicine - BMI",
+        "active": true,
+        "date_updated": 1789481899,
+        "date_posted": 1789481138,
+        "url": "https://staff-emory.icims.com/jobs/172914/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Emory-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Arcfield",
+        "id": "d0e246b4-68c7-434f-ae99-044c38ec043b",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1789482061,
+        "date_posted": 1789481242,
+        "url": "https://careers.arcfield.com/jobs/8643?icims=1",
+        "locations": [
+            "Middletown, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcfield",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
