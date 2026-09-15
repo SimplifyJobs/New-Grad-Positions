@@ -392,48 +392,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "FactSet",
-        "id": "7f4a852b-4853-473f-bf6c-adba0d26ec2b",
-        "title": "Client Solutions Associate",
-        "active": false,
-        "date_updated": 1768737750,
-        "date_posted": 1768737750,
-        "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/London-GBR/Client-Solutions-Associate---London--June-2026_R30721",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/FactSet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "KLA Corporation",
-        "id": "12a0b7db-3e97-492e-9360-bc8438c4e8d5",
-        "title": "Software Engineer - C++ - Object-Oriented Design/Object-Oriented Programming",
-        "active": false,
-        "date_updated": 1768737165,
-        "date_posted": 1768737165,
-        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer--C----OOD-OOP--Linux-_2633855",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "c0f74af9-a66f-4622-840d-a0db0a758b8f",
@@ -401959,6 +401917,26 @@
             "Trenton, NJ"
         ],
         "company_url": "https://simplify.jobs/c/NJ-Department-Of-Environmental-Protection",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "bd56c51a-aae8-4121-98f4-cd683c6c4a85",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1789472400,
+        "date_posted": 1789430400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873222",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
