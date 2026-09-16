@@ -106008,7 +106008,7 @@
         "company_name": "Stripe",
         "id": "3f12b8ac-a406-4397-9458-ea07e6d144b3",
         "title": "Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1774255374,
         "date_posted": 1774055248,
         "url": "https://stripe.com/jobs/search?gh_jid=7737124",
@@ -363696,7 +363696,7 @@
         "company_name": "KLA Corporation",
         "id": "38b3ffd6-c574-43b6-b9ec-d1c477d2bfac",
         "title": "Algorithm Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787954221,
         "date_posted": 1787875200,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Engineer_2640167-1",
@@ -369313,7 +369313,7 @@
         "company_name": "Cerity Partners",
         "id": "ec256362-58d3-4e21-9348-ad2663a4aea0",
         "title": "Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788289207,
         "date_posted": 1788220800,
         "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Chicago-IL/Investment-Analyst_R851",
@@ -403418,6 +403418,46 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Old Mission",
+        "id": "bd1775ab-0963-4e31-aa28-605ecd334bd8",
+        "title": "Floor Trader New Grad",
+        "active": true,
+        "date_updated": 1789523551,
+        "date_posted": 1789523349,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7993756003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Starbucks",
+        "id": "10282be3-6654-440b-8bd2-74329d579fb0",
+        "title": "Application Developer - Application Development",
+        "active": true,
+        "date_updated": 1789522986,
+        "date_posted": 1789522794,
+        "url": "https://starbucks.eightfold.ai/careers/job/481079150478",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Starbucks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
