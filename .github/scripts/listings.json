@@ -198232,7 +198232,7 @@
         "company_name": "Virtu Financial",
         "id": "174ec6ae-1312-4e6d-8c50-ef4ea9fd0ecd",
         "title": "Automation Analyst - Python",
-        "active": false,
+        "active": true,
         "date_updated": 1779930734,
         "date_posted": 1779228393,
         "url": "https://job-boards.greenhouse.io/virtu/jobs/5065990002",
@@ -235085,7 +235085,7 @@
         "company_name": "United Franchise Group",
         "id": "c83f4ad9-0b9d-4593-b6d3-9e22ab14a45c",
         "title": "Systems Administrator - Data Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1782252361,
         "date_posted": 1781042695,
         "url": "https://jobs.smartrecruiters.com/UnitedFranchiseGroup/744000133697159",
@@ -279154,7 +279154,7 @@
         "company_name": "Intel",
         "id": "3e20c933-d849-415e-b9d6-3553f4b2db6f",
         "title": "Post-silicon Validation and Debug Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784638603,
         "date_posted": 1782424959,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Post-silicon-Validation-and-Debug-Engineer_JR0284687",
@@ -339608,7 +339608,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -354840,7 +354840,7 @@
         "company_name": "Tesla",
         "id": "d8128313-1a27-4475-bfe7-ccff7edc883d",
         "title": "Electronic Hardware Validation - Low Voltage Systems",
-        "active": false,
+        "active": true,
         "date_updated": 1787616918,
         "date_posted": 1787616728,
         "url": "https://www.tesla.com/careers/search/job/280969",
@@ -364922,7 +364922,7 @@
         "company_name": "AMD",
         "id": "58a0dcba-5ea2-494a-a22d-9fdb8d98d4a6",
         "title": "AI Applications Engineer - Wired and Wireless Business Team - Adaptive and Embedded Computing Group",
-        "active": false,
+        "active": true,
         "date_updated": 1788202621,
         "date_posted": 1788202527,
         "url": "https://careers.amd.com/jobs/91544?icims=1",
@@ -397030,7 +397030,7 @@
         "company_name": "Daimler Truck",
         "id": "c010600b-5c7e-4cc2-a27e-72fd2b3c75b8",
         "title": "Integration and Coordination Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1789089770,
         "date_posted": 1788998400,
         "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Integration-and-Coordination-Engineer-I_DT-19590-2",
@@ -403716,6 +403716,228 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anduril",
+        "id": "bbf97353-45cc-4b6c-b3a6-50e3aafa73fd",
+        "title": "Software Engineer - Battlespace Awareness",
+        "active": true,
+        "date_updated": 1789597083,
+        "date_posted": 1789596349,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5240165007",
+        "locations": [
+            "Fort Collins, CO",
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "dffa63b5-6248-41c4-9f4c-c9bf57e31c18",
+        "title": "Assistant Project Information Specialist",
+        "active": true,
+        "date_updated": 1789596543,
+        "date_posted": 1789596476,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000149885190",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "51e5d8a0-3efc-4a3f-b710-8a498fb498fd",
+        "title": "Assistant Project Information Specialist",
+        "active": true,
+        "date_updated": 1789596543,
+        "date_posted": 1789596475,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000149885110",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "ff60ae34-0917-4588-9db1-c906ce09a87a",
+        "title": "Assistant Project Information Specialist",
+        "active": true,
+        "date_updated": 1789596543,
+        "date_posted": 1789596476,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000149885232",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "e95eca42-220c-42df-a259-3ae54bb5b325",
+        "title": "Assistant Project Information Specialist",
+        "active": true,
+        "date_updated": 1789596543,
+        "date_posted": 1789596476,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000149887099",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "d6b630cb-f201-45b5-8d17-14b61f51a32a",
+        "title": "Assistant Project Information Specialist",
+        "active": true,
+        "date_updated": 1789596543,
+        "date_posted": 1789596474,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000149885636",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "28687df6-3cb5-40a1-81c8-816629cb8353",
+        "title": "Associate Software Engineering",
+        "active": true,
+        "date_updated": 1789597089,
+        "date_posted": 1789596403,
+        "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1430740500/?ats=successfactors",
+        "locations": [
+            "Greenville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Pennsylvania",
+        "id": "976bf597-8f17-466a-ba0e-ed138cbe5046",
+        "title": "Data Technician",
+        "active": true,
+        "date_updated": 1789596362,
+        "date_posted": 1789516800,
+        "url": "https://upenn.wd1.myworkdayjobs.com/careers-at-penn/job/3535-Market/Data-Technician_JR00127159-1",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Pennsylvania",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Anduril",
+        "id": "ca630382-1fea-4112-9b6a-01ce87b4f3ce",
+        "title": "Firmware Engineer - Space - Emerging Talent",
+        "active": true,
+        "date_updated": 1789596362,
+        "date_posted": 1789596294,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239596007",
+        "locations": [
+            "Costa Mesa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moog",
+        "id": "259e6b04-576e-4b42-bfb2-60534ab3aa12",
+        "title": "Associate Electrical Engineer / Electronic Design Engineer",
+        "active": true,
+        "date_updated": 1789596362,
+        "date_posted": 1789596303,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Phoenix-AZ/Associate-Electrical-Engineer---Electronic-Design-Engineer_R-26-17318",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "IonQ",
+        "id": "fd811d5a-6d82-4fef-8c32-aa66ff3c5de3",
+        "title": "Quantum Scientist",
+        "active": true,
+        "date_updated": 1789596576,
+        "date_posted": 1786678869,
+        "url": "https://job-boards.greenhouse.io/ionq/jobs/6137809004",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/IonQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
