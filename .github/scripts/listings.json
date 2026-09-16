@@ -339989,7 +339989,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -348181,7 +348181,7 @@
         "company_name": "Truveta",
         "id": "54c4c395-7b69-498c-9917-759b96d7b1c5",
         "title": "Software Engineer - Commerce",
-        "active": true,
+        "active": false,
         "date_updated": 1787178659,
         "date_posted": 1787178528,
         "url": "https://job-boards.greenhouse.io/truveta/jobs/6147526004",
@@ -403262,6 +403262,162 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "56368a2c-9796-41d6-a465-bfd0033f24dc",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Content Recommendation - Generative & Large Recommendation Model",
+        "active": true,
+        "date_updated": 1789521661,
+        "date_posted": 1789521542,
+        "url": "https://lifeattiktok.com/search/7685552743586826549",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "eb3949ab-fb05-47ea-ab59-163a7584d703",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Content Recommendation - Generative & Large Recommendation Model",
+        "active": true,
+        "date_updated": 1789521661,
+        "date_posted": 1789521542,
+        "url": "https://lifeattiktok.com/search/7685552742819842357",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Allen Control Systems",
+        "id": "79f05081-76ad-43d3-9164-5578a63ef412",
+        "title": "Software Engineer - Enterprise Applications",
+        "active": true,
+        "date_updated": 1789521661,
+        "date_posted": 1789521602,
+        "url": "https://jobs.ashbyhq.com/allen-control-systems/87abef03-ff94-4a7f-a944-5fad20f23daa/application?embed=true",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Allen-Control-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Foot Locker",
+        "id": "c47f3508-12e8-4e99-a154-587f29f76502",
+        "title": "Associate Software Engineer - Merchandise Technology",
+        "active": true,
+        "date_updated": 1789521661,
+        "date_posted": 1789521498,
+        "url": "https://careers.footlocker.com/jobs/71916?icims=1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Foot-Locker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RoadRunner",
+        "id": "d7b2e201-b556-489b-a8f9-5ccb4788c8d8",
+        "title": "Forward Deployed Engineer New Grad",
+        "active": true,
+        "date_updated": 1789521643,
+        "date_posted": 1789521465,
+        "url": "https://jobs.ashbyhq.com/Roadrunner/eeeb9757-78e0-4776-889e-507a013e1fcf/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/RoadRunner",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Emerson Electric",
+        "id": "3613890a-a6cc-4909-9aa1-7a2f658282c2",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1789521302,
+        "date_posted": 1789521147,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010937",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Iowa State University",
+        "id": "b22559b0-fcc8-444c-bc74-89574185a757",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1789521017,
+        "date_posted": 1789430400,
+        "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Software-Developer-I_R19926",
+        "locations": [
+            "Ames, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Iowa-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "L3Harris Technologies",
+        "id": "2cfb23ce-9c96-438b-a249-2e3cea26a7f8",
+        "title": "Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1789521014,
+        "date_posted": 1789520724,
+        "url": "https://jobs.l3harris.com/job/Palm-Bay-Senior-Associate,-Business-Intelligence-Analyst-FL-32905/1430419400/?ats=successfactors",
+        "locations": [
+            "Palm Bay, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
