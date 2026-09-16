@@ -384529,7 +384529,7 @@
         "company_name": "WTW",
         "id": "37c06d15-59ab-4e8a-b497-d63a0664ca68",
         "title": "Actuarial Developer - Igloo Standard Model - Stochastic Modelling",
-        "active": true,
+        "active": false,
         "date_updated": 1788463466,
         "date_posted": 1783634856,
         "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202604316",
@@ -402420,7 +402420,7 @@
         "company_name": "Rakuten International",
         "id": "058f10b5-7e10-4926-bb72-004c74c2a665",
         "title": "Early Career AI Engineer - Contract",
-        "active": true,
+        "active": false,
         "date_updated": 1789510322,
         "date_posted": 1789510078,
         "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437",
@@ -403524,5 +403524,41 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sunday Robotics",
+        "id": "290f897e-45bc-4883-a57d-71b8135ece08",
+        "title": "Memory Developer",
+        "active": true,
+        "date_updated": 1789548481,
+        "date_posted": 1782770900,
+        "url": "https://jobs.ashbyhq.com/sunday/f92adbe3-da24-4edd-8599-4f60dec7bd5f/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sunday-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Oratomic",
+        "id": "08b8d057-b201-4fc6-ac31-5dfc4755467e",
+        "title": "AI Scientist",
+        "active": true,
+        "date_updated": 1789547401,
+        "date_posted": 1784596470,
+        "url": "https://jobs.ashbyhq.com/oratomic/241a16be-3b49-4fb7-afce-6b3dc462f64a/application?embed=true",
+        "locations": [
+            "Pasadena, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oratomic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
