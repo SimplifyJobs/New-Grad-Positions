@@ -219742,7 +219742,7 @@
         "company_name": "Innodata",
         "id": "e0c9586d-765f-40ba-8f23-b95433868d36",
         "title": "AI Content Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781169533,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266638009",
@@ -319409,7 +319409,7 @@
         "company_name": "Accenture",
         "id": "61b9c823-c168-4748-9d94-8ae5a407a3da",
         "title": "AI Native Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786010822,
         "date_posted": 1784160000,
         "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Native-Software-Engineering_R00343768-1",
@@ -365213,7 +365213,7 @@
         "company_name": "AMD",
         "id": "58a0dcba-5ea2-494a-a22d-9fdb8d98d4a6",
         "title": "AI Applications Engineer - Wired and Wireless Business Team - Adaptive and Embedded Computing Group",
-        "active": true,
+        "active": false,
         "date_updated": 1788202621,
         "date_posted": 1788202527,
         "url": "https://careers.amd.com/jobs/91544?icims=1",
@@ -398337,7 +398337,7 @@
         "company_name": "Carollo Engineers",
         "id": "8a1fedac-2ad3-43e9-9ccb-5478ee4d3e8b",
         "title": "Digital Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789165801,
         "date_posted": 1789165445,
         "url": "https://careers-carollo.icims.com/jobs/4610/job?mobile=true&needsRedirect=false",
@@ -403782,6 +403782,227 @@
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/BNY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Auto-Owners Insurance",
+        "id": "759987f3-abc5-441c-8b84-a1089639527c",
+        "title": "Business Intelligence Developer",
+        "active": true,
+        "date_updated": 1789569361,
+        "date_posted": 1789516800,
+        "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_14525",
+        "locations": [
+            "Lansing, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Auto-Owners-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blenheim Chalcot",
+        "id": "7fb9aa73-1ca4-4a59-ad4b-ba596049f1ce",
+        "title": "Graduate Data Engineer",
+        "active": true,
+        "date_updated": 1789569361,
+        "date_posted": 1789569183,
+        "url": "https://job-boards.greenhouse.io/blenheimchalcot/jobs/8207802",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Blenheim-Chalcot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ICF International",
+        "id": "fe0763db-c658-4003-84f4-cc7e0d8848a4",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1789569344,
+        "date_posted": 1789516800,
+        "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Junior-Software-Engineer--Entry-level---Remote-US-_R2603054",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ICF-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GuideStone",
+        "id": "94863e1d-0d92-43c0-a139-694a550ee676",
+        "title": "Associate Software Developer",
+        "active": true,
+        "date_updated": 1789569181,
+        "date_posted": 1789516800,
+        "url": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Associate-Software-Developer_R1989",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GuideStone",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Airbus",
+        "id": "a4f0ad06-c1ae-46ac-b9ae-cb9d2eefc001",
+        "title": "HMI/Desktop Applications Software Engineer",
+        "active": true,
+        "date_updated": 1789569335,
+        "date_posted": 1789516800,
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bingen-WA/HMI-Desktop-Applications-Software-Engineer_JR10439506",
+        "locations": [
+            "Bingen, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "289798f6-332d-4b16-b177-1466651e2548",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1789569318,
+        "date_posted": 1789516800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01873299",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "467eee64-c19b-4e0c-b1b7-ae88266a5b38",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1789569318,
+        "date_posted": 1789516800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Electrical-Engineer-I_01875600",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "36a920b5-5fef-4b56-9386-d35c85e7ae48",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1789569322,
+        "date_posted": 1789516800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01875565",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "92dbb10e-7ec8-4b64-9dd9-a1521850b0db",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1789569303,
+        "date_posted": 1789516800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I_01875564",
+        "locations": [
+            "Woburn, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard",
+        "id": "ee7bc734-c954-48e6-8979-eec4179bea1a",
+        "title": "Data Analyst - Technical Consulting and R&D",
+        "active": true,
+        "date_updated": 1789569002,
+        "date_posted": 1789516800,
+        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Cambridge-Cambridgeshire-United-Kingdom/Data-Analyst_3160884-2",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard",
+        "id": "33fe63dd-1bac-4066-9daf-78d978fc6385",
+        "title": "Junior Data Analyst / Project Coordinator",
+        "active": true,
+        "date_updated": 1789569083,
+        "date_posted": 1789516800,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Data-Analyst_3160884-1",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
