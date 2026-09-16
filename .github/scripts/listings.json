@@ -72654,24 +72654,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Solace Health",
-        "id": "b60b87eb-67cd-48e0-b4f4-bfffdeda474b",
-        "title": "Technical Product Manager",
-        "active": false,
-        "date_updated": 1772621983,
-        "date_posted": 1768806850,
-        "url": "https://jobs.ashbyhq.com/solace/4f03a850-1d70-4982-984a-2f2328192fb4/application",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Solace-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Quantix SCS",
         "id": "c22ed2b1-7dbc-4fec-8e24-0ed23174312c",
@@ -397331,7 +397313,7 @@
         "company_name": "L3Harris Technologies",
         "id": "fdb15ff9-23fb-4c1b-98bf-972ee623f2b4",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789079484,
         "date_posted": 1789078510,
         "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1428761600/?ats=successfactors",
