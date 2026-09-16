@@ -297057,7 +297057,7 @@
         "company_name": "Alta Ares",
         "id": "6bbdcfe2-93ba-469c-9fe4-be23b9387ac6",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785251701,
         "date_posted": 1785248308,
         "url": "https://jobs.ashbyhq.com/alta-ares/ad4ace6a-823c-43ea-ae32-3d0711c33096/application?embed=true",
@@ -373714,7 +373714,7 @@
         "company_name": "Aramark",
         "id": "aaa3bc85-9d65-4c72-a3c0-656079d3aa4a",
         "title": "Junior Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788420997,
         "date_posted": 1788403235,
         "url": "https://aramarkcareers.com/UnitedStates/job/Rockville-Jr_-Data-Engineer-MD-20850/1426145000/?ats=successfactors",
@@ -386998,7 +386998,7 @@
         "company_name": "ASOS plc",
         "id": "dcc4b92d-79b0-496f-a471-b167fb264c33",
         "title": "Associate Product Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1788489741,
         "date_posted": 1788473245,
         "url": "https://jobs.smartrecruiters.com/ASOS/744000147292429",
@@ -392282,7 +392282,7 @@
         "company_name": "United Airlines",
         "id": "6af35aa1-24f6-451c-9521-63379a05d653",
         "title": "Associate Analyst - Pricing & Revenue Management",
-        "active": true,
+        "active": false,
         "date_updated": 1788867896,
         "date_posted": 1788289279,
         "url": "https://careers.united.com/us/en/job/WHQ00026394",
@@ -403553,6 +403553,45 @@
         "date_updated": 1789547401,
         "date_posted": 1784596470,
         "url": "https://jobs.ashbyhq.com/oratomic/241a16be-3b49-4fb7-afce-6b3dc462f64a/application?embed=true",
+        "locations": [
+            "Pasadena, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oratomic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eaton",
+        "id": "ad94e698-73da-45ef-a454-9ae7ba1a268b",
+        "title": "Junior Software Engineer - Research & Development Engineering",
+        "active": true,
+        "date_updated": 1789552268,
+        "date_posted": 1789552135,
+        "url": "https://eaton.eightfold.ai/careers/job/687239270493",
+        "locations": [
+            "Wimborne Minster, Wimborne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Eaton-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Oratomic",
+        "id": "75b05769-b213-4ead-b8f8-68913bf6a8b0",
+        "title": "Experimental Scientist",
+        "active": true,
+        "date_updated": 1789552621,
+        "date_posted": 1784596466,
+        "url": "https://jobs.ashbyhq.com/oratomic/2677f693-bfcc-4b5a-a66c-8dc7c55b488f/application?embed=true",
         "locations": [
             "Pasadena, CA"
         ],
