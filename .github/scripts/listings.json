@@ -339989,7 +339989,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -397291,7 +397291,7 @@
         "company_name": "RTX",
         "id": "ef1b9c5d-e0b7-4446-8404-0b3854e65c4b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789079565,
         "date_posted": 1788998400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineer--I--Onsite-_01871993",
@@ -403458,6 +403458,89 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Cheiron",
+        "id": "2ea38d26-862d-47ae-a223-4b41861e24f5",
+        "title": "Associate Product Manager - Technical",
+        "active": true,
+        "date_updated": 1789539481,
+        "date_posted": 1789539337,
+        "url": "https://jobs.ashbyhq.com/cheiron/a8514f9b-17d9-40a0-8674-a07543bb86d0/application?embed=true",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cheiron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "4b9dae50-6a90-4019-8f00-d915174e9fd2",
+        "title": "Senior Product Test Capability Engineer",
+        "active": true,
+        "date_updated": 1789539409,
+        "date_posted": 1789539124,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40456",
+        "locations": [
+            "Allentown, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "1b593633-5171-4cb0-b05b-59237123978e",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1789539384,
+        "date_posted": 1789430400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01874924",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "86cb0b1e-3691-4e3c-a4ec-c65f90643d87",
+        "title": "Software Engineer - Coding Agent Harness Engineering",
+        "active": true,
+        "date_updated": 1789539148,
+        "date_posted": 1789430400,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
+        "locations": [
+            "Remote in USA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
