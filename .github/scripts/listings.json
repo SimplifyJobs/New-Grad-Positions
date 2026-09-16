@@ -339899,7 +339899,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -371146,7 +371146,7 @@
         "company_name": "Williams Racing",
         "id": "f7c2b206-3434-4427-ada0-1851de938a0e",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788358143,
         "date_posted": 1788358094,
         "url": "https://jobs.smartrecruiters.com/WilliamsRacing/744000146959139",
@@ -403563,5 +403563,229 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fospha",
+        "id": "76a31075-4d4f-4b2f-bbe2-25335bec4cc5",
+        "title": "Graduate Data Engineer",
+        "active": true,
+        "date_updated": 1789568822,
+        "date_posted": 1789568744,
+        "url": "https://job-boards.greenhouse.io/fosphamarketing/jobs/8207747",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Fospha",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nidec",
+        "id": "2819130b-531f-4677-8d7a-4a9962eb4de6",
+        "title": "Sales & Pricing Analyst",
+        "active": true,
+        "date_updated": 1789568822,
+        "date_posted": 1789568783,
+        "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMinnesotaEden-Prairie-MN/Sales---Pricing-Analyst_R0013020",
+        "locations": [
+            "Eden Prairie, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Nidec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Unilode Aviation",
+        "id": "f9d3a78a-e7c9-4556-9948-ef6c3b539859",
+        "title": "ULD Data Quality Assurance Officer",
+        "active": true,
+        "date_updated": 1789568750,
+        "date_posted": 1789568519,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4508922",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Unilode-Aviation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BNY",
+        "id": "b13cc50b-9538-477b-a946-91b87f87d1c5",
+        "title": "Data Science Analyst - Engineering",
+        "active": true,
+        "date_updated": 1789568488,
+        "date_posted": 1789568244,
+        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82246",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/BNY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BNY",
+        "id": "43fa73bc-03c0-46d9-8e03-fe26427737a0",
+        "title": "Data Science Analyst - Engineering",
+        "active": true,
+        "date_updated": 1789568488,
+        "date_posted": 1789568244,
+        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82245",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/BNY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "BNY",
+        "id": "ec35d0e3-58e4-45c3-a79f-4bbf7c0b5174",
+        "title": "Product Management Analyst Program - Product Management",
+        "active": true,
+        "date_updated": 1789568414,
+        "date_posted": 1789568233,
+        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80895",
+        "locations": [
+            "Boston, MA",
+            "Pittsburgh, PA",
+            "Lake Mary, FL",
+            "Jersey City, NJ",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/BNY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "dc67a876-7d1a-4811-828c-8b827ed0eda0",
+        "title": "Systems Engineer - Career Accelerator Program",
+        "active": true,
+        "date_updated": 1789568409,
+        "date_posted": 1789568208,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017998",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BNY",
+        "id": "9b996926-5344-404a-97c9-7a070220ed40",
+        "title": "Software Engineer Analyst - Engineering - Developer",
+        "active": true,
+        "date_updated": 1789568423,
+        "date_posted": 1789568240,
+        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82247",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/BNY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BNY",
+        "id": "e055a573-1067-4506-8a91-6aeec9011fa4",
+        "title": "Engineering Developer Analyst - Engineering - Developer",
+        "active": true,
+        "date_updated": 1789568420,
+        "date_posted": 1789568244,
+        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82296",
+        "locations": [
+            "Greater Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/BNY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "BNY",
+        "id": "7bf91f58-da37-4db7-9749-9e381a16f5d1",
+        "title": "Analyst Program \u2013 Product Management",
+        "active": true,
+        "date_updated": 1789568419,
+        "date_posted": 1789568245,
+        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82224",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/BNY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BNY",
+        "id": "330c4376-0216-4115-b6f3-7baa30e9fa33",
+        "title": "Software Engineer Analyst - Engineering - Developer",
+        "active": true,
+        "date_updated": 1789568418,
+        "date_posted": 1789568244,
+        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82248",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/BNY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
