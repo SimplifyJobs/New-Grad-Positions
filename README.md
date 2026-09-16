@@ -5,7 +5,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 474 New Grad Roles by Category
+### Browse 473 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (268)
 
@@ -15,7 +15,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (20)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (83)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (82)
 
 💼 **[Other](#-other-new-grad-roles)** (0)
 
@@ -658,14 +658,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1 - Aviation Backend Web</td>
 <td>Chanhassen, MN</td>
 <td><div align="center"><a href="https://careers.garmin.com/jobs/19732?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1b983bc8-7373-4f39-b3b4-7e83afe75b16?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer 1 - Aviation Backend Web</td>
 <td>Olathe, KS</td>
 <td><div align="center"><a href="https://careers.garmin.com/jobs/19142?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/124ba47c-7dd9-4556-9940-a7ff02138433?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/V2X?utm_source=GHList&utm_medium=company">V2X</a></strong></td>
@@ -2167,14 +2167,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Richmond, VA</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Oracle?utm_source=GHList&utm_medium=company">🔥 Oracle</a></strong></td>
 <td>Application Software Engineer 1</td>
 <td>Nashville, TN</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TeleTracking?utm_source=GHList&utm_medium=company">TeleTracking</a></strong></td>
@@ -2286,14 +2286,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Security Engineer New Grad - Software Security - Starlink</td>
 <td>Hawthorne, CA</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Oracle?utm_source=GHList&utm_medium=company">🔥 Oracle</a></strong></td>
 <td>Platform Software Engineer 1</td>
 <td>Nashville, TN</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TraceLink?utm_source=GHList&utm_medium=company">TraceLink</a></strong></td>
@@ -11453,14 +11453,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>AI & Automation Engineer 1</td>
 <td>Wilmington, DE</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory?utm_source=GHList&utm_medium=company">Johns Hopkins Applied Physics Laboratory</a></strong></td>
 <td>Computational Geospace Modeling Research Scientist New Grad 🎓</td>
 <td>Laurel, MD</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
@@ -14089,13 +14089,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>16d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Nidec?utm_source=GHList&utm_medium=company">Nidec</a></strong></td>
-<td>Software Development Engineer 1</td>
-<td>St. Charles, IL</td>
-<td><div align="center"><a href="https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAIllinoisSt-Charles-IL/Software-Development-Engineer_R0017456?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0197e8bf-8d8c-41f2-ba71-4d4a29b0a1be?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Blue-Origin?utm_source=GHList&utm_medium=company">Blue Origin</a></strong></td>
 <td>Avionics / Embedded Software Engineer 1 - 2027 Starts</td>
 <td><details><summary><strong>7 locations</strong></summary>Seattle, WA</br>LA</br>Cape Canaveral, FL</br>Kent, WA</br>Denver, CO</br>Huntsville, AL</br>Van Horn, TX</details></td>
@@ -14142,7 +14135,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Olathe, KS</td>
 <td><div align="center"><a href="https://careers.garmin.com/jobs/19695?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/775ea63a-d9c1-4fc9-a001-25d679330b41?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
@@ -14436,7 +14429,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (373)</summary>
+<summary>🗃️ Inactive roles (374)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -14544,6 +14537,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>↳</td>
 <td>Electrical Engineer 1 - FPGA</td>
 <td>Melbourne, FL</td>
+<td>🔒</td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Nidec?utm_source=GHList&utm_medium=company">Nidec</a></strong></td>
+<td>Software Development Engineer 1</td>
+<td>St. Charles, IL</td>
 <td>🔒</td>
 <td>16d</td>
 </tr>
