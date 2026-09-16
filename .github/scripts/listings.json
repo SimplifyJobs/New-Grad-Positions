@@ -1,78 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "383dc503-e535-4b9d-bbad-8c9440875f96",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1768818914,
-        "date_posted": 1768818914,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046342",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1c1b4f69-0d99-4644-b958-2c598569c010",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1768818918,
-        "date_posted": 1768818918,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046344",
-        "locations": [
-            "Bracknell, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "02e7b89f-c0f6-49fd-8a8c-ff8023a3c408",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1768818917,
-        "date_posted": 1768818917,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046347",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "577a6df6-7702-4d66-8059-23e3aeb41ac0",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1768818913,
-        "date_posted": 1768818913,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046328",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Qualcomm",
         "id": "0d26968d-9eb7-4cd0-bb5d-cb6ee2933e60",
@@ -290404,7 +290332,7 @@
         "company_name": "Compass",
         "id": "da048e8f-6ba6-43fd-8dc9-7c5a1adf494a",
         "title": "Software Engineer - Mobile - iOS",
-        "active": true,
+        "active": false,
         "date_updated": 1784846702,
         "date_posted": 1784845722,
         "url": "https://www.compass.com/careers?gh_jid=8081848",
@@ -316250,7 +316178,7 @@
         "company_name": "Eaton Corporation",
         "id": "d6676dfd-57fd-4ccd-b1ce-43589af13b82",
         "title": "Software Engineer - Research & Development Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785910681,
         "date_posted": 1785910640,
         "url": "https://eaton.eightfold.ai/careers/job/687236827500",
@@ -362121,7 +362049,7 @@
         "company_name": "NJ Department of Environmental Protection",
         "id": "b983f282-b7a5-46fc-9244-4d5f1a048849",
         "title": "Analyst Trainee - Air, Energy and Materials Sustainability - Director's Office",
-        "active": false,
+        "active": true,
         "date_updated": 1787873313,
         "date_posted": 1787873134,
         "url": "https://njdepartmentofenvironmentalprotection.applytojob.com/apply/Q9Z4BcdgNw/AEMS202645-Analyst-Trainee",
@@ -401812,7 +401740,7 @@
         "company_name": "NJ Department of Environmental Protection",
         "id": "f4b94f36-054f-43a1-a7a3-eff6104aabc7",
         "title": "Analyst Trainee",
-        "active": true,
+        "active": false,
         "date_updated": 1789469174,
         "date_posted": 1789425168,
         "url": "https://njdepartmentofenvironmentalprotection.applytojob.com/apply/QWkLHLMMB3/WRM202624-Analyst-Trainee",
@@ -402052,7 +401980,7 @@
         "company_name": "Helsing",
         "id": "e2139dad-ea8e-4488-ac21-aa89c68c9d9f",
         "title": "Junior Software Engineer - Deployed AI - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1789482961,
         "date_posted": 1789482913,
         "url": "https://helsing.ai/jobs/4976480101?gh_jid=4976480101",
