@@ -385070,7 +385070,7 @@
         "company_name": "Waste Management",
         "id": "aee7ed12-3559-4c11-8665-2288bdeea5c3",
         "title": "Operational Management Trainee - Fleet",
-        "active": true,
+        "active": false,
         "date_updated": 1788464363,
         "date_posted": 1784066960,
         "url": "https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2349041",
@@ -399945,7 +399945,7 @@
         "company_name": "LSEG",
         "id": "8c0a75e5-6d0a-483c-9075-3347c814e23f",
         "title": "Engineering Graduate Programme - New York",
-        "active": false,
+        "active": true,
         "date_updated": 1789409701,
         "date_posted": 1789344000,
         "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/USA-New-York-28-Liberty-Street/Engineering-Graduate-Programme--New-York-_R0123409",
@@ -400008,7 +400008,7 @@
         "company_name": "LSEG",
         "id": "a5cf35cf-18e4-4397-b64b-5adf877e093f",
         "title": "Engineering Graduate Programme - New York",
-        "active": false,
+        "active": true,
         "date_updated": 1789409521,
         "date_posted": 1789344000,
         "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/USA-New-York-28-Liberty-Street/Engineering-Graduate-Programme--New-York-_R0123409-1",
@@ -400997,7 +400997,7 @@
         "company_name": "Rolls-Royce",
         "id": "80623b76-4e4b-49fe-b8d5-ac8db1f89caa",
         "title": "Mechanical Systems Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789420583,
         "date_posted": 1789344000,
         "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/LibertyWorks-Mechanical-Systems-Design-Engineer_JR6160146",
@@ -403596,6 +403596,42 @@
             "Pasadena, CA"
         ],
         "company_url": "https://simplify.jobs/c/Oratomic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oratomic",
+        "id": "939f8222-3636-48c7-b71b-c408dae9b512",
+        "title": "Software and AI Engineer",
+        "active": true,
+        "date_updated": 1789553704,
+        "date_posted": 1784596469,
+        "url": "https://jobs.ashbyhq.com/oratomic/f55b5d57-36c9-4d77-a12a-d66b8cb5642e/application?embed=true",
+        "locations": [
+            "Pasadena, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oratomic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "dbf82fe3-1901-4d97-adce-7e1ace7dc958",
+        "title": "Data Collection Operator",
+        "active": true,
+        "date_updated": 1789554309,
+        "date_posted": 1780812707,
+        "url": "https://www.tesla.com/careers/search/job/270206",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
