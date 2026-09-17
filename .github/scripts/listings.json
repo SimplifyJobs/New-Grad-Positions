@@ -373033,7 +373033,7 @@
         "company_name": "AQR Capital Management",
         "id": "143cf8b4-9bbc-484e-b9c2-cbebf98d57e9",
         "title": "Portfolio Implementation Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788424568,
         "date_posted": 1787703695,
         "url": "https://careers.aqr.com/jobs?gh_jid=8143913&gh_jid=8143913",
@@ -404248,6 +404248,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "008bd1b1-83ef-4bce-b3d4-bdab9f25b76d",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1789653296,
+        "date_posted": 1789603200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Software-Engineer--New-College-Grad--Bellevue---2027_REF088530W-3",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
