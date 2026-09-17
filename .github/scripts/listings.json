@@ -282107,7 +282107,7 @@
         "company_name": "NVIDIA",
         "id": "935d5e2a-2962-45cf-b6cc-08183fc2b835",
         "title": "GPU Architecture Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1784680208,
         "date_posted": 1784592000,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2026_JR2021615",
@@ -339151,7 +339151,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -347422,7 +347422,7 @@
         "company_name": "Crusoe",
         "id": "929cfe45-2ac9-4d39-80b3-b3fa750e2ceb",
         "title": "Software Engineer 1 - Network",
-        "active": false,
+        "active": true,
         "date_updated": 1787187298,
         "date_posted": 1787187240,
         "url": "https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true",
@@ -395762,7 +395762,7 @@
         "company_name": "Zoom",
         "id": "a5205150-c68d-4b65-b961-cd54d104ac76",
         "title": "Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789078141,
         "date_posted": 1788998400,
         "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Development-Engineer_R19357-1",
@@ -397326,7 +397326,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "65cd4c35-38aa-4821-aedc-17156b3708ce",
         "title": "Electrical Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789165240,
         "date_posted": 1789084800,
         "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/IC-2027-Electrical-Design-Engineer_R016564",
@@ -404011,6 +404011,190 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Captivation",
+        "id": "31bd649f-d357-4816-9f4f-d991ca04c596",
+        "title": "Software Engineer 0 - Multiple Teams",
+        "active": true,
+        "date_updated": 1789608241,
+        "date_posted": 1789608190,
+        "url": "https://job-boards.greenhouse.io/captivation/jobs/5426523008",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Captivation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RELX",
+        "id": "a9b9d8ee-e94d-4b1f-a542-48d5507be8ef",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1789608158,
+        "date_posted": 1789516800,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Software-Engineer-1_R117973-1",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Collaborative Robotics",
+        "id": "cc8d3673-4565-4ffd-a5c0-93d99f5efcab",
+        "title": "Robotics Data Collection Operator",
+        "active": true,
+        "date_updated": 1789608061,
+        "date_posted": 1789607966,
+        "url": "https://jobs.ashbyhq.com/cobot/9a96442e-d4bc-4482-9aac-8622d96fa7df/application?embed=true",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Collaborative-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CoStar Group",
+        "id": "fec5c82d-3e40-46de-bad2-93a1b2669f21",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1789607904,
+        "date_posted": 1789516800,
+        "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CoStar Group",
+        "id": "fad2e0d4-274c-40b8-b96d-c769ef5ee9da",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1789607905,
+        "date_posted": 1789516800,
+        "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R39674",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Visa",
+        "id": "2b74c4c8-12dc-47b6-a08b-acc3ea0ee0be",
+        "title": "Associate Product Manager New Grad - Multiple Teams",
+        "active": true,
+        "date_updated": 1789607704,
+        "date_posted": 1789516800,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088601W-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Charles Schwab",
+        "id": "5db2a52c-da64-4247-8606-b9a9a8b86075",
+        "title": "Senior Risk Analytics and Modeling Specialist",
+        "active": true,
+        "date_updated": 1789607641,
+        "date_posted": 1789607243,
+        "url": "https://career-schwab.icims.com/jobs/126969/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Orlando, FL",
+            "Austin, TX",
+            "Southlake, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-Schwab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "e7a67c80-7ef6-4971-81d8-fb7813d0ae1b",
+        "title": "AI Materials Research Engineer",
+        "active": true,
+        "date_updated": 1789607162,
+        "date_posted": 1789516800,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Materials-Research-Engineer_R2628482-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TD Bank",
+        "id": "1de667fa-952d-4928-b99f-a5098dca9028",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1789607430,
+        "date_posted": 1789516800,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer-15_R_1502648",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Certificate"
         ]
     }
 ]
