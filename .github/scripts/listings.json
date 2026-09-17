@@ -2,87 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "2292b725-514e-4abf-bd92-cf30bf026f07",
-        "title": "Engineer 2 - Test - Development",
-        "active": false,
-        "date_updated": 1768865705,
-        "date_posted": 1768865705,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Engineer-II---Test--Development-_R264-26",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "72a78307-9ae0-49fc-9413-e858c8fb1aa9",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1768865627,
-        "date_posted": 1768865627,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7547497",
-        "locations": [
-            "Alexandria, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "1a9d5289-d26f-4cd8-b175-04ab9dd3dfa8",
-        "title": "Associate \u2013 Mid-Level or Senior Equipment & Tool Engineer - Ircsc",
-        "active": false,
-        "date_updated": 1768865525,
-        "date_posted": 1768865525,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Associate--Mid-Level-or-Senior-Equipment---Tool-Engineer---IRCSC_JR2026490934-2",
-        "locations": [
-            "North Charleston, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "be3d0535-5b4f-48d9-aa97-41f1afd0e309",
-        "title": "Data Engineer 1",
-        "active": false,
-        "date_updated": 1768865599,
-        "date_posted": 1768865599,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I_R_1458305",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "RTX",
         "id": "147f3299-767f-4352-b3f3-046036640dde",
         "title": "Software Embedded Engineer 1 - TX",
@@ -130825,26 +130744,6 @@
             "Salt Lake City, UT"
         ],
         "company_url": "https://simplify.jobs/c/Intermountain-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ENSCO",
-        "id": "7d965aa7-c745-4456-9752-69c7c2a34d10",
-        "title": "Field Service Engineer",
-        "active": false,
-        "date_updated": 1775745376,
-        "date_posted": 1768866462,
-        "url": "https://job-boards.greenhouse.io/ensco/jobs/5070874008",
-        "locations": [
-            "Chambersburg, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/ENSCO",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
