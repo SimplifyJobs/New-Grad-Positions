@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "United Parcel Service (UPS)",
-        "id": "332db657-cd7f-4323-a83b-1ad8ad83cf1c",
-        "title": "Bus Systems Analysis Associate",
-        "active": false,
-        "date_updated": 1768894645,
-        "date_posted": 1768894645,
-        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Bus-Systems-Analysis-Associate_R25043013",
-        "locations": [
-            "Indiana"
-        ],
-        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ServiceNow",
         "id": "53be89d7-a47d-4aa5-9ae0-c20500831caf",
@@ -386597,7 +386579,7 @@
         "company_name": "Sun Life",
         "id": "93ab3213-a911-4fbd-be0e-3d7d3f3836f2",
         "title": "Solution Architect Student - Winter 2027",
-        "active": true,
+        "active": false,
         "date_updated": 1788490884,
         "date_posted": 1788393600,
         "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Solution-Architect--Winter-2027-_JR00127360",
