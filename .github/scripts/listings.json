@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "147f3299-767f-4352-b3f3-046036640dde",
-        "title": "Software Embedded Engineer 1 - TX",
-        "active": false,
-        "date_updated": 1768876755,
-        "date_posted": 1768876755,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/XMLNAME-2026-Full-time--Software-Embedded-Engineer-I---Onsite--TX-_01817003",
-        "locations": [
-            "McKinney, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "b00304ec-5fb4-4191-8e2b-7664aea26a60",
@@ -368437,7 +368417,7 @@
         "company_name": "L3Harris Technologies",
         "id": "172e2d4b-34e5-4aa2-96cf-86349216d45d",
         "title": "Associate Integration/Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788289517,
         "date_posted": 1788289306,
         "url": "https://jobs.l3harris.com/job/Londonderry-Associate,-IntegrationTest-Engineering-NH-03053/1425421200/?ats=successfactors",
