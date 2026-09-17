@@ -1,108 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "e5c2ba19-31c1-40db-a656-32dbe94c9c88",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1768923315,
-        "date_posted": 1768923315,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7549192",
-        "locations": [
-            "Memphis, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fidelity Investments",
-        "id": "f399c118-6564-4607-a188-c54ef47787e1",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1768923698,
-        "date_posted": 1768923698,
-        "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Smithfield-RI/Associate-Software-Engineer_2122112",
-        "locations": [
-            "Westlake, TX",
-            "Smithfield, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/Fidelity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Danaher Corporation",
-        "id": "db6fac8a-9ebd-4d65-b3cd-91b1271e1a42",
-        "title": "Field Service Engineer - South West England",
-        "active": false,
-        "date_updated": 1768923905,
-        "date_posted": 1768923905,
-        "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/GBR---Remote/Field-Service-Engineer--South-West-England-_R1303051-1",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Danaher Corporation",
-        "id": "62322cd3-461d-4647-9242-c2dc0cd8fea0",
-        "title": "Field Service Engineer - South West England",
-        "active": false,
-        "date_updated": 1768923904,
-        "date_posted": 1768923904,
-        "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/GBR---Remote/Field-Service-Engineer--South-West-England-_R1303050",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DXC Technology",
-        "id": "293a8026-0188-4705-90d9-8930bd3548e8",
-        "title": "Associate Professional Application Programmer",
-        "active": false,
-        "date_updated": 1768923482,
-        "date_posted": 1768923482,
-        "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Associate-Professional-Application-Programmer_51569293",
-        "locations": [
-            "Waterbury, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/DXC-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Ohio State University",
         "id": "1c5a1935-47a7-431e-9f20-581aa71f73f5",
@@ -389957,7 +389855,7 @@
         "company_name": "Xodus Group",
         "id": "8657462d-9090-4373-8426-b434617bb36f",
         "title": "Subsea and Marine Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788606722,
         "date_posted": 1787848860,
         "url": "https://apply.workable.com/xodus-group/j/160CA5656A/apply",
