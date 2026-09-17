@@ -296536,7 +296536,7 @@
         "company_name": "JP Morgan Chase",
         "id": "97344c37-7a6a-4252-b0e7-522f9b541585",
         "title": "Applied AI ML Associate - Agentic AI and Python",
-        "active": true,
+        "active": false,
         "date_updated": 1785277081,
         "date_posted": 1785276603,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773873",
@@ -371863,7 +371863,7 @@
         "company_name": "Baker Hughes",
         "id": "059058e6-a3de-4daa-b2ed-dacf926dffc8",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788414127,
         "date_posted": 1788307200,
         "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272",
@@ -402147,7 +402147,7 @@
         "company_name": "Allen Control Systems",
         "id": "79f05081-76ad-43d3-9164-5578a63ef412",
         "title": "Software Engineer - Enterprise Applications",
-        "active": false,
+        "active": true,
         "date_updated": 1789521661,
         "date_posted": 1789521602,
         "url": "https://jobs.ashbyhq.com/allen-control-systems/87abef03-ff94-4a7f-a944-5fad20f23daa/application?embed=true",
@@ -404529,6 +404529,111 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "a30b6cf3-5eb4-475b-984a-9aa30e8c34be",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1789655221,
+        "date_posted": 1789603200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-New-Malden/Graduate-Software-Engineer_R10251080",
+        "locations": [
+            "New Malden, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "660b4502-f165-4ddd-897f-255602bfca5d",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1789655221,
+        "date_posted": 1789603200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-Cheltenham/Graduate-Software-Engineer_R10251077",
+        "locations": [
+            "Cheltenham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Noblis",
+        "id": "625f51dc-1a95-4ae9-9f96-09e55251c768",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1789655221,
+        "date_posted": 1789654865,
+        "url": "https://careers.noblis.org/jobs/27850?icims=1",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Noblis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Noblis",
+        "id": "fca41145-e1a2-43c4-a565-1fd42f831279",
+        "title": "AI/ML Engineer - Multiple levels - Cleared",
+        "active": true,
+        "date_updated": 1789655221,
+        "date_posted": 1789654868,
+        "url": "https://careers.noblis.org/jobs/27849?icims=1",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Noblis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Noblis",
+        "id": "0243fda8-ee44-49ba-b33f-d9bd2da4261a",
+        "title": "Software Developer - Multiple Levels - Cleared",
+        "active": true,
+        "date_updated": 1789655221,
+        "date_posted": 1789654869,
+        "url": "https://careers.noblis.org/jobs/27847?icims=1",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Noblis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
