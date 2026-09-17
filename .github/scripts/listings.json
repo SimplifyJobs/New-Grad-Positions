@@ -338993,7 +338993,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -404076,6 +404076,193 @@
         "degrees": [
             "Bachelor's",
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "6740958b-d66a-4a83-b026-93852236f9d3",
+        "title": "Electrical Engineer",
+        "active": true,
+        "date_updated": 1789637339,
+        "date_posted": 1789636559,
+        "url": "https://careers-gdms.icims.com/jobs/74926/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prolific",
+        "id": "9afa6d87-5bdf-4774-810f-9d2fefbf2b84",
+        "title": "AI Trainer - Armenian",
+        "active": true,
+        "date_updated": 1789637126,
+        "date_posted": 1789636367,
+        "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4974790101",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Prolific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prolific",
+        "id": "c3b7997d-0ab9-42f3-86db-44b9f3918937",
+        "title": "Gujarati Speaker - Freelance - AI Trainer",
+        "active": true,
+        "date_updated": 1789636808,
+        "date_posted": 1789636442,
+        "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4891089101",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Prolific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prolific",
+        "id": "d0ddb586-1448-458c-8ca5-624847172ac6",
+        "title": "Gujarati Speaker",
+        "active": true,
+        "date_updated": 1789637042,
+        "date_posted": 1789636442,
+        "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4891088101",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Prolific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prolific",
+        "id": "ca349f3a-b933-4a66-8f30-d5b772b707a0",
+        "title": "Computer Science Specialist - AI Training",
+        "active": true,
+        "date_updated": 1789636823,
+        "date_posted": 1789636418,
+        "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4853457101",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Prolific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prolific",
+        "id": "28a4e3f5-82e0-4f79-8d64-fce2b4ba654a",
+        "title": "AI Trainer - Bosnian",
+        "active": true,
+        "date_updated": 1789636783,
+        "date_posted": 1789636366,
+        "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4974797101",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Prolific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prolific",
+        "id": "3398d174-56f1-4306-b8bd-6885aa40cf5c",
+        "title": "AI Trainer",
+        "active": true,
+        "date_updated": 1789636693,
+        "date_posted": 1789636350,
+        "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4848668101",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Prolific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prolific",
+        "id": "f34db5bb-9849-445f-b3e7-8c624ef14d92",
+        "title": "AI Trainer - Advanced Indonesian Fluency",
+        "active": true,
+        "date_updated": 1789636679,
+        "date_posted": 1789636351,
+        "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4848687101",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Prolific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prolific",
+        "id": "10e1e0c0-1870-473a-b0ee-e27330bedbfc",
+        "title": "AI Trainer",
+        "active": true,
+        "date_updated": 1789636679,
+        "date_posted": 1789636351,
+        "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4830875101",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Prolific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ALTEN Mexico",
+        "id": "2af896c9-51fc-4c26-a5f9-cb9fbf030bae",
+        "title": "HIL Testing Engineer",
+        "active": true,
+        "date_updated": 1789636129,
+        "date_posted": 1789635881,
+        "url": "https://jobs.smartrecruiters.com/ALTEN/744000150043430",
+        "locations": [
+            "Troy, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/ALTEN-Mexico",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
