@@ -315462,7 +315462,7 @@
         "company_name": "Qualcomm",
         "id": "3bc207c2-01af-4364-899b-7d1a0f58630a",
         "title": "GPU Compiler Performance - GPU ASICS Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1785910681,
         "date_posted": 1785910593,
         "url": "https://qualcomm.eightfold.ai/careers/job/446716514304",
@@ -338826,7 +338826,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -349218,7 +349218,7 @@
         "company_name": "Qualcomm",
         "id": "872d9c82-5186-439d-be5c-907d58d05b0c",
         "title": "Verification Software Engineer - Software Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1787275262,
         "date_posted": 1787275258,
         "url": "https://qualcomm.eightfold.ai/careers/job/446720426705",
@@ -366384,7 +366384,7 @@
         "company_name": "Qualcomm",
         "id": "2336b41f-599e-44f5-adf1-9d4dcf483742",
         "title": "Sensors Software Engineer \u2013 Engineer or Senior - Software Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1788255813,
         "date_posted": 1788255567,
         "url": "https://qualcomm.eightfold.ai/careers/job/446720889828",
@@ -394232,7 +394232,7 @@
         "company_name": "KBR",
         "id": "758096a9-4c7d-4e36-80f2-2a6e3bc55385",
         "title": "Junior Army Fires Modeling and Simulation Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1788993870,
         "date_posted": 1788912000,
         "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Belvoir-Virginia/Entry-Level--Junior-Army-Fires-Modeling-and-Simulation-Developer_R2129634",
@@ -404269,6 +404269,266 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cencora",
+        "id": "8dca32ab-4b7f-48e9-8ec8-73200f0e9799",
+        "title": "AI Enablement Engineer",
+        "active": true,
+        "date_updated": 1789655405,
+        "date_posted": 1789603200,
+        "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Philadelphia/AI-Enablement-Engineer_R266644-1",
+        "locations": [
+            "Philadelphia, PA",
+            "Conshohocken, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cencora",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "74f43adc-3ac4-4296-b50d-5f11d90931d4",
+        "title": "Embedded Software Engineer - Software Engineering",
+        "active": true,
+        "date_updated": 1789655332,
+        "date_posted": 1785910589,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446717134102",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "f400548a-fc79-4651-8c0b-772c2245452b",
+        "title": "Test Development Engineer 1 - Test Solutions",
+        "active": true,
+        "date_updated": 1789655178,
+        "date_posted": 1789603200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Test-Solutions-Northeast-Test-Development-Engineer-I_01865268-2",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Navy Federal",
+        "id": "2d32ac05-e38c-45da-af35-5d115cd75b0d",
+        "title": "Data Scientist Fellow",
+        "active": true,
+        "date_updated": 1789655160,
+        "date_posted": 1789654775,
+        "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32618",
+        "locations": [
+            "Winchester, VA",
+            "Pensacola, FL",
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Navy-Federal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CAI",
+        "id": "27a127fe-f092-4faa-8ba9-7c1861c83c80",
+        "title": "Web Application Developer",
+        "active": true,
+        "date_updated": 1789655148,
+        "date_posted": 1789603200,
+        "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/OK-CLIENT-STATE/Web-Application-Developer_R8570",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/CAI-Io",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "62b3fe3f-1948-4119-8099-ee4fbd994b6d",
+        "title": "Software Engineer New Grad - 2027",
+        "active": true,
+        "date_updated": 1789654939,
+        "date_posted": 1789603200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--New-College-Grad---2027--Austin--TX_REF088586W",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "7e315272-a0e6-4728-be42-a49cf94df95c",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1789654939,
+        "date_posted": 1789603200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W-1",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AI Security Institute",
+        "id": "0caada95-cc0d-4328-a7c9-12e397ea91aa",
+        "title": "Software Engineer - Core Technology",
+        "active": true,
+        "date_updated": 1789654503,
+        "date_posted": 1789654380,
+        "url": "https://job-boards.eu.greenhouse.io/aisi/jobs/4386112101",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AI-Security-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UK-Med",
+        "id": "919d7df4-6e5d-49d5-b3ac-9cb00f0a7172",
+        "title": "Humanitarian Trainee - Monitoring, Evaluation, Accountability and Learning",
+        "active": true,
+        "date_updated": 1789654625,
+        "date_posted": 1789654305,
+        "url": "https://www.uk-med.org/vacancies/?gh_jid=6197599004",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/UK-Med",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ITT",
+        "id": "23aba888-f30b-48d1-9a3e-d449c764dcd8",
+        "title": "Product Design Engineer - High Speed",
+        "active": true,
+        "date_updated": 1789654332,
+        "date_posted": 1789654165,
+        "url": "https://careersenus-itt-inc.icims.com/jobs/17629/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ITT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Renesas Electronics",
+        "id": "7e7933a5-5219-4e00-862a-fc2170c3e364",
+        "title": "Graduate Digital Design Engineer",
+        "active": true,
+        "date_updated": 1789654503,
+        "date_posted": 1789654145,
+        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000150054935",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Renesas-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "VML",
+        "id": "f3575b76-0181-4dab-be8b-4d8c6b70db10",
+        "title": "Associate Data Insights Consultant",
+        "active": true,
+        "date_updated": 1789654149,
+        "date_posted": 1789654098,
+        "url": "https://job-boards.greenhouse.io/map/jobs/8816115002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/VML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "VML",
+        "id": "bb272438-463e-46cb-955f-ee7c68e2c72d",
+        "title": "Associate Data Engineer",
+        "active": true,
+        "date_updated": 1789654149,
+        "date_posted": 1789654098,
+        "url": "https://job-boards.greenhouse.io/map/jobs/8816124002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/VML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
