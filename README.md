@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 481 New Grad Roles by Category
+### Browse 480 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (276)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (275)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (12)
 
@@ -1326,13 +1326,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Noblis?utm_source=GHList&utm_medium=company">Noblis</a></strong></td>
-<td>Junior Software Developer</td>
-<td>Reston, VA</td>
-<td><div align="center"><a href="https://careers.noblis.org/jobs/27467?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a5a4c27f-4bc4-46d6-9141-f486732574b8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/NewsBreak?utm_source=GHList&utm_medium=company">NewsBreak</a></strong></td>
 <td>Software Engineer Junior New Grad - ML Infra</td>
 <td>Mountain View, CA</td>
@@ -2016,7 +2009,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1200)</summary>
+<summary>🗃️ Inactive roles (1201)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2604,7 +2597,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Honeywell?utm_source=GHList&utm_medium=company">Honeywell</a></strong></td>
+<td>↳</td>
 <td>Software Engineer 1</td>
 <td>Richmond, VA</td>
 <td>🔒</td>
@@ -3083,6 +3076,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>↳</td>
 <td>Software Engineer 1 - Aviation Web Development</td>
 <td>Chandler, AZ</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Noblis?utm_source=GHList&utm_medium=company">Noblis</a></strong></td>
+<td>Junior Software Developer</td>
+<td>Reston, VA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -13632,7 +13632,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Trading System Engineer New Grad</td>
 <td>Bala Cynwyd, PA</td>
 <td><div align="center"><a href="https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/eb3814c7-6fd3-4e58-852c-6cc00005cf9a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Susquehanna?utm_source=GHList&utm_medium=company">Susquehanna International Group</a></strong></td>
@@ -14664,7 +14664,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Embedded Flight Software Engineer 1</td>
 <td>Centennial, CO</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company">Boeing</a></strong></td>
