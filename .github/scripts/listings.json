@@ -1,87 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b00304ec-5fb4-4191-8e2b-7664aea26a60",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1768893202,
-        "date_posted": 1768893202,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046452",
-        "locations": [
-            "Portsmouth, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "64492f80-5b94-4f1e-ad6d-1bb4f45c3630",
-        "title": "Engineering Operations Technician",
-        "active": false,
-        "date_updated": 1768892850,
-        "date_posted": 1768892850,
-        "url": "https://amazon.jobs/en/jobs/3153277/engineering-operations-technician",
-        "locations": [
-            "Palmyra, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Northrop Grumman",
-        "id": "7699c4f2-e813-44a9-91f7-112b3c7aacc4",
-        "title": "Data Scientist - Machine Learning and Predictive Analytics",
-        "active": false,
-        "date_updated": 1768894097,
-        "date_posted": 1768894097,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Data-Scientist---Machine-Learning-and-Predictive-Analytics_R10218634",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Maricopa County",
-        "id": "ef780ae6-8940-43e6-985d-a2991981e791",
-        "title": "GIS Property Technician",
-        "active": false,
-        "date_updated": 1768893088,
-        "date_posted": 1768893088,
-        "url": "https://maricopa.wd1.myworkdayjobs.com/en-US/MC_External/job/301-W-Jefferson-St-Phoenix-AZ-85003/GIS-Property-Technician_JR21559",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Maricopa-County",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "United Parcel Service (UPS)",
         "id": "332db657-cd7f-4323-a83b-1ad8ad83cf1c",
@@ -3747,27 +3666,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intermountain Healthcare",
-        "id": "9d458c77-cbbc-4d7a-abd4-8b554c584d11",
-        "title": "Data Architect Senior",
-        "active": false,
-        "date_updated": 1769086030,
-        "date_posted": 1768894045,
-        "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/SelectHealth---Murray/Data-Architect---Senior_R160772",
-        "locations": [
-            "Murray, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Intermountain-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -254738,7 +254636,7 @@
         "company_name": "The Boeing Company",
         "id": "6f28959f-ed87-4de3-b9da-60e153c5463d",
         "title": "Entry Level Simulation Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783463879,
         "date_posted": 1783462688,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Simulation-Software-Engineer_JR2026516853",
@@ -400362,7 +400260,7 @@
         "company_name": "DaVita",
         "id": "6b352039-42f5-47c3-9b24-7df84bdf5aec",
         "title": "Integrations Senior Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789424644,
         "date_posted": 1789344000,
         "url": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Integrations-Sr-Analyst_R0477482",
