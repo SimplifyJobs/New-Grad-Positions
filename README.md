@@ -11,11 +11,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (12)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (93)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (94)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (20)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (82)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (81)
 
 💼 **[Other](#-other-new-grad-roles)** (0)
 
@@ -7987,7 +7987,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Ivo</strong></td>
 <td>Software Engineer, Backend</td>
 <td>San Francisco, CA</td>
 <td>🔒</td>
@@ -11018,6 +11018,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Hiive?utm_source=GHList&utm_medium=company">Hiive</a></strong></td>
+<td>Junior Analyst - Career Launch Program</td>
+<td>Vancouver, BC, Canada</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/hiive/8e2a6a7b-a02a-4b51-8d4b-1ebd79027469/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2f619c5f-1144-4c30-ab19-f057cd13aef6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Micron-Technology?utm_source=GHList&utm_medium=company">Micron Technology</a></strong></td>
 <td>AI Innovation Research Engineer New Grad 🎓</td>
 <td>San Jose, CA</td>
@@ -11407,7 +11414,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (309)</summary>
+<summary>🗃️ Inactive roles (308)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -11669,13 +11676,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>↳</td>
 <td>Data Scientist New Grad - Data Science - System Performance Evaluation</td>
 <td>Laurel, MD</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Hiive?utm_source=GHList&utm_medium=company">Hiive</a></strong></td>
-<td>Junior Analyst - Career Launch Program</td>
-<td>Vancouver, BC, Canada</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -14243,13 +14243,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>28d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/V2X?utm_source=GHList&utm_medium=company">V2X</a></strong></td>
-<td>Embedded Firmware Engineer 1</td>
-<td>Indianapolis, IN</td>
-<td><div align="center"><a href="https://careers.gov2x.com/jobs/62490?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/358d7057-e885-4d95-99ab-34cec9339ee9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Applied-Intuition?utm_source=GHList&utm_medium=company">Applied Intuition</a></strong></td>
 <td>Embedded Software Engineer New Grad</td>
 <td>Sunnyvale, CA</td>
@@ -14492,7 +14485,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (373)</summary>
+<summary>🗃️ Inactive roles (374)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -14671,7 +14664,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Melbourne, FL</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Dell-Technologies?utm_source=GHList&utm_medium=company">Dell Technologies</a></strong></td>
@@ -14754,6 +14747,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>↳</td>
 <td>Software Engineer 1</td>
 <td>Jupiter, FL</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/V2X?utm_source=GHList&utm_medium=company">V2X</a></strong></td>
+<td>Embedded Firmware Engineer 1</td>
+<td>Indianapolis, IN</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
