@@ -334484,7 +334484,7 @@
         "company_name": "Hiive",
         "id": "2f619c5f-1144-4c30-ab19-f057cd13aef6",
         "title": "Junior Analyst - Career Launch Program",
-        "active": false,
+        "active": true,
         "date_updated": 1786679461,
         "date_posted": 1786679346,
         "url": "https://jobs.ashbyhq.com/hiive/8e2a6a7b-a02a-4b51-8d4b-1ebd79027469/application?embed=true",
@@ -339965,7 +339965,7 @@
         "company_name": "V2X",
         "id": "358d7057-e885-4d95-99ab-34cec9339ee9",
         "title": "Embedded Firmware Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787005595,
         "date_posted": 1787005353,
         "url": "https://careers.gov2x.com/jobs/62490?icims=1",
@@ -370119,7 +370119,7 @@
         "company_name": "Motorway",
         "id": "3b2dc0d1-97dd-4f1f-8a0b-2343f43fb5c8",
         "title": "Lead Generative AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788357421,
         "date_posted": 1788357325,
         "url": "https://jobs.ashbyhq.com/motorway/64e7a546-c2a7-4ad1-8e1d-be4b1e5c1ddd/application?embed=true",
@@ -372414,7 +372414,7 @@
         "company_name": "Penta Group",
         "id": "39a9fd28-930e-4139-8304-e0aa7851c3fa",
         "title": "Global Monitoring + Insights",
-        "active": true,
+        "active": false,
         "date_updated": 1788420004,
         "date_posted": 1788402381,
         "url": "https://jobs.lever.co/pentagrp/872f8d11-7741-4243-a0ee-b45f7f98162f/apply",
@@ -400444,7 +400444,7 @@
         "company_name": "SciTec",
         "id": "2c474c4a-eb30-4e75-8965-db455c575176",
         "title": "Mission Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789425244,
         "date_posted": 1789425123,
         "url": "https://apply.workable.com/scitec/j/E2F2EB83B3/apply",
@@ -404056,5 +404056,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Crane Co.",
+        "id": "09ed4f95-254a-42eb-9beb-1d244e14c181",
+        "title": "Business Analyst",
+        "active": true,
+        "date_updated": 1789634162,
+        "date_posted": 1788912000,
+        "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Piqua-Ohio/Business-Analyst_JR102482",
+        "locations": [
+            "Piqua, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Crane-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bachelor's"
+        ]
     }
 ]
