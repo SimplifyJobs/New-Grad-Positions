@@ -1,106 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Beth Israel Lahey Health",
-        "id": "a19931ee-15bb-4161-b114-dc0eb9330ab3",
-        "title": "Research Fellow in Cardiovascular MRI Physics",
-        "active": false,
-        "date_updated": 1769031158,
-        "date_posted": 1769031158,
-        "url": "https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Deaconess-Medical-Center/Research-Fellow-in-Cardiovascular-MRI-Physics_JR89902",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Beth-Israel-Lahey-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Abbott",
-        "id": "685527b9-6264-46ad-856b-c276ef9c02bf",
-        "title": "Senior Reliability Technician",
-        "active": false,
-        "date_updated": 1769031141,
-        "date_posted": 1769031141,
-        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sylmar/Senior-Reliability-Technician_31137557-1",
-        "locations": [
-            "Pacoima, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Abbott",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intel",
-        "id": "618dbb15-8565-4c5b-aa57-5f4ee19cad6b",
-        "title": "Silicon Packaging Design Engineer",
-        "active": false,
-        "date_updated": 1769032042,
-        "date_posted": 1769032042,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Packaging-Design-Engineer_JR0279992",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Airbus",
-        "id": "e8f14cdf-ae4c-4628-92d4-54b3bc2fdf34",
-        "title": "Offer Data and Publications Coordinator",
-        "active": false,
-        "date_updated": 1769031217,
-        "date_posted": 1769031217,
-        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/Coordonnateur-Donnes-et-Publications-de-l-Offre---Offer-Data-and-Publications-Coordinator_JR10382235",
-        "locations": [
-            "Laval, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Airbus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Royal Bank of Canada",
-        "id": "880900ae-73ac-442e-aae0-b3f5629e9e2b",
-        "title": "Analyst \u2013 Structured Rates Trading",
-        "active": false,
-        "date_updated": 1769031576,
-        "date_posted": 1769031576,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Analyst---Structured-Rates-Trading_R-0000156408",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Susquehanna International Group (SIG)",
         "id": "8365da01-4e3d-40f3-a6f0-e19b1c214273",
@@ -176,25 +76,6 @@
         "degrees": [
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CVS Health",
-        "id": "e333039b-232d-4817-8a6f-db9fdf181e98",
-        "title": "Data Scientist - Machine Learning & Deep Learning",
-        "active": false,
-        "date_updated": 1769031722,
-        "date_posted": 1769031722,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Scientist---Machine-Learning---Deep-Learning_R0760932",
-        "locations": [
-            "Needham, MA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
