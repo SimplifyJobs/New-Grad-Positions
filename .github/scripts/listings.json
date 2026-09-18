@@ -1,84 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "8365da01-4e3d-40f3-a6f0-e19b1c214273",
-        "title": "Quantitative Systematic Trader - Master's: 2026",
-        "active": false,
-        "date_updated": 1769036790,
-        "date_posted": 1769036790,
-        "url": "https://careers-sig.icims.com/jobs/9441/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Susquehanna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "0229ca46-b4a8-4a6d-bcd0-f43aac06aa0e",
-        "title": "Metro Field Technician",
-        "active": false,
-        "date_updated": 1769036625,
-        "date_posted": 1769036625,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US/Metro-Field-Tech_R029866",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AeroVironment",
-        "id": "4e2a616a-cd0e-41fc-9206-86348a64806b",
-        "title": "Software Engineer - Apps - I",
-        "active": false,
-        "date_updated": 1769037293,
-        "date_posted": 1769037293,
-        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/212-E-High-St-Pottstown-PA-19464/Software-Engineer--Apps--I_6567",
-        "locations": [
-            "Pottstown, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/AeroVironment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "7fc66d66-13f1-4c7c-806a-9ab881f2a35b",
-        "title": "Applied Scientist 1 - SPB Advertiser Guidance",
-        "active": false,
-        "date_updated": 1769036858,
-        "date_posted": 1769036858,
-        "url": "https://amazon.jobs/en/jobs/3163952/applied-scientist-i-spb-advertiser-guidance",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Relativity",
         "id": "1c6b0b57-840d-412a-95eb-fb9fbfc3ac3a",
@@ -203,109 +125,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Blackboard",
-        "id": "8d56eed7-58c9-41f5-8893-3e79eeddce85",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1769037730,
-        "date_posted": 1769037730,
-        "url": "https://jobs.jobvite.com/blackboard/job/oixlzfwt?nl=1&nl=1&fr=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Blackboard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Vistra",
-        "id": "9b789197-e953-4f00-adea-c3bc05b1719b",
-        "title": "Associate Data Scientist",
-        "active": false,
-        "date_updated": 1769037898,
-        "date_posted": 1769037898,
-        "url": "https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Irving-Texas/Associate-Data-Scientist_40014566",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Vistra",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "GM financial",
-        "id": "2a8c42eb-3aea-41e2-935a-7c5927b974c2",
-        "title": "Salesforce Developer 1",
-        "active": false,
-        "date_updated": 1769037845,
-        "date_posted": 1769037845,
-        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1629",
-        "locations": [
-            "Arlington, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/GM-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Dexcom",
-        "id": "8ba94d4e-d6d8-4063-92fd-8aa8e5e0260b",
-        "title": "SW Systems Engineer 2",
-        "active": false,
-        "date_updated": 1769037963,
-        "date_posted": 1769037963,
-        "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/SW-Systems-Engineer-2_JR115970",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dexcoma",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cirrus Logic",
-        "id": "28c720e7-ee36-4d73-b9ab-9ad198683c15",
-        "title": "Design Verification Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1769036847,
-        "date_posted": 1769036847,
-        "url": "https://jobs.eu.lever.co/cirrus/52d2a1c6-556a-43c0-9f80-76976667764d/apply",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Cirrus-Logic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "CVS Health",
         "id": "a07bfa62-f728-4591-88af-86fce5e9caf6",
@@ -330,26 +149,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AIG",
-        "id": "a4f42d4a-f353-4295-abfb-ea2f36527147",
-        "title": "Early Career Gen AI Technology \u2013 Software Engineering Analyst - Gen AI Technology - Software Engineering Analyst",
-        "active": false,
-        "date_updated": 1769038051,
-        "date_posted": 1769038051,
-        "url": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2026---Early-Career---Gen-AI-Technology---Software-Engineering-Analyst---United-States--Atlanta--GA-_JR2505378",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/AIG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -3907,29 +3706,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ERM",
-        "id": "2c25de03-c990-4d33-929b-52d00fadd6f8",
-        "title": "Consulting Associate - Air Quality",
-        "active": false,
-        "date_updated": 1769255303,
-        "date_posted": 1769037928,
-        "url": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Rolling-Meadows-Illinois/Consulting-Associate--Air-Quality_R00028962-1",
-        "locations": [
-            "Palatine, IL",
-            "Milwaukee, WI",
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/ERM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -104333,24 +104109,6 @@
             "Associate's",
             "Bootcamp"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Stoke Space",
-        "id": "3cdbb17b-5782-4201-a641-f2ebc86241e5",
-        "title": "Assembly Technician - Nondestructive Testing",
-        "active": false,
-        "date_updated": 1774517521,
-        "date_posted": 1769037317,
-        "url": "https://stokespace.com/careers/current-openings?gh_jid=5777757004",
-        "locations": [
-            "Kent, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Stoke-Space",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
