@@ -323849,7 +323849,7 @@
         "company_name": "ByteDance",
         "id": "9b88d838-aaa3-44f6-ac6c-2f34e6d2a513",
         "title": "Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark",
-        "active": true,
+        "active": false,
         "date_updated": 1786401541,
         "date_posted": 1786401396,
         "url": "https://jobs.bytedance.com/en/position/7671108456554432773/detail",
@@ -383717,7 +383717,7 @@
         "company_name": "Boeing",
         "id": "ba3c0e86-bc35-46f5-9244-ca9565447174",
         "title": "Test & Evaluation Lab Technician - Associate or Experienced - Overnight Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1788484704,
         "date_posted": 1788484080,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Smithfield-PA/Test---Evaluation-Lab-Technician--Associate-or-Experienced---Overnight-Shift-_JR2026511757-1",
@@ -393684,7 +393684,7 @@
         "company_name": "Hewlett Packard",
         "id": "2b9817d0-6f0e-47d5-a557-9594cca9ea27",
         "title": "Graduate Software Developer - HP Wolf Security",
-        "active": true,
+        "active": false,
         "date_updated": 1789049542,
         "date_posted": 1788998400,
         "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-C--Software-Developer--2-year-placement_3165415-2",
@@ -404077,6 +404077,31 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qualcomm",
+        "id": "0323e548-0c85-4a82-8973-ae8faa214117",
+        "title": "Machine Learning Compiler Engineer - Machine Learning Engineering",
+        "active": true,
+        "date_updated": 1789720202,
+        "date_posted": 1785910569,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446717346550",
+        "locations": [
+            "Austin, TX",
+            "Raleigh, NC",
+            "NYC",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
