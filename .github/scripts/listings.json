@@ -2329,44 +2329,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Equiti",
-        "id": "7600cc3c-f950-4a6f-9474-885c97e0ce9e",
-        "title": "Entry Level Developer - Contract",
-        "active": false,
-        "date_updated": 1768957380,
-        "date_posted": 1768957380,
-        "url": "https://cloudbreak.wd12.myworkdayjobs.com/Equiti/job/Remote-Anywhere-in-US/Entry-Level-Developer---Contract_JR-0774",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Equiti",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "0f1a9649-d221-447a-92c0-ada99bc854e1",
-        "title": "Simulation / Principal Simulation Software Engineer",
-        "active": false,
-        "date_updated": 1768957386,
-        "date_posted": 1768957386,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Simulation---Principal-Simulation-Software-Engineer_R10219929",
-        "locations": [
-            "Dulles, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "1e7e54cc-d4db-4f93-9fe9-8b9307f0d1f6",
@@ -163390,7 +163352,7 @@
         "company_name": "General Motors",
         "id": "1867969a-db0e-4b61-bcfe-810cf5e1f73c",
         "title": "Machine Learning Engineer - AI Inference Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1777944061,
         "date_posted": 1777943397,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103",
@@ -337461,7 +337423,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -349356,7 +349318,7 @@
         "company_name": "General Motors",
         "id": "53ce3bb2-f715-4b48-a55a-31dcb2506112",
         "title": "Software Engineer - AV Data Collection",
-        "active": true,
+        "active": false,
         "date_updated": 1787341613,
         "date_posted": 1787270400,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529",
@@ -392458,7 +392420,7 @@
         "company_name": "Barclays",
         "id": "f612cb13-7962-4424-bf9a-37050a197d91",
         "title": "Quantitative Analytics Associate Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1788994305,
         "date_posted": 1788912000,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Quantitative-Analytics-Associate-Graduate-Programme-Glasgow_JR-0000129392",
@@ -397294,7 +397256,7 @@
         "company_name": "Rocket Lab USA",
         "id": "daabbb4b-3238-449b-a3f6-39e1681033a7",
         "title": "Flight Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1789408702,
         "date_posted": 1789408571,
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992129003",
@@ -403968,6 +403930,68 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Global Engineering & Technology, Inc. (GET)",
+        "id": "6ff282b9-7fbd-4c6e-b84e-10e0573e31ef",
+        "title": "Analyst",
+        "active": true,
+        "date_updated": 1789694656,
+        "date_posted": 1789694287,
+        "url": "https://apply.workable.com/get-career-site/j/F5E119065E/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Engineering-And-Technology-Inc-GET",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fortinet",
+        "id": "84bf55b8-233e-40be-8535-022acd294d1a",
+        "title": "Software Development Engineer - Gui",
+        "active": true,
+        "date_updated": 1789693744,
+        "date_posted": 1789693575,
+        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24399",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortinet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "d34efe5f-8b16-4631-abb7-2997d0702bcd",
+        "title": "Quantitative Researcher",
+        "active": true,
+        "date_updated": 1788505021,
+        "date_posted": 1782886114,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/",
+        "locations": [
+            "London, UK",
+            "Dublin, Ireland"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
