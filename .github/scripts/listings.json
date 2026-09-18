@@ -400744,7 +400744,7 @@
         "company_name": "Allen Control Systems",
         "id": "79f05081-76ad-43d3-9164-5578a63ef412",
         "title": "Software Engineer - Enterprise Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1789521661,
         "date_posted": 1789521602,
         "url": "https://jobs.ashbyhq.com/allen-control-systems/87abef03-ff94-4a7f-a944-5fad20f23daa/application?embed=true",
@@ -404139,6 +404139,44 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Accordience",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prolific",
+        "id": "5a932c5f-c149-45ee-8f6b-9de9997f6109",
+        "title": "AI Trainer - Fluent Lithuanian Speaker",
+        "active": true,
+        "date_updated": 1789725826,
+        "date_posted": 1789636365,
+        "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4895024101",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Prolific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Arcfield",
+        "id": "99a096e7-a5be-4022-8904-7687e11a9efa",
+        "title": "Entry Level Systems Engineer",
+        "active": true,
+        "date_updated": 1789725242,
+        "date_posted": 1789509977,
+        "url": "https://careers.arcfield.com/jobs/8645?icims=1",
+        "locations": [
+            "Middletown, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcfield",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
