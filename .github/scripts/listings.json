@@ -2406,24 +2406,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "599cca9f-cbb4-464b-89dd-8d07a302f1ba",
-        "title": "Cable Installation Technician - Infra - Gnd",
-        "active": false,
-        "date_updated": 1768955241,
-        "date_posted": 1768955241,
-        "url": "https://amazon.jobs/en/jobs/3162855/cable-installation-technician-infra-gnd-infra-gnd",
-        "locations": [
-            "Ridgeland, MS"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Acuity",
         "id": "cf45148b-f392-4912-b3d2-e23d81d0562e",
@@ -4755,26 +4737,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Gannett Fleming",
-        "id": "a4bbe7f8-415b-43e5-8540-0de0ff59dfa4",
-        "title": "Entry Level Bridge Inspector",
-        "active": false,
-        "date_updated": 1769160025,
-        "date_posted": 1768955314,
-        "url": "https://careers-gannettfleming.icims.com/jobs/13348/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Gannett-Fleming",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
         ]
     },
     {
@@ -322664,7 +322626,7 @@
         "company_name": "Hitachi",
         "id": "1596887a-ba5a-46e4-a4b7-8f2310481a83",
         "title": "Junior Condition Monitoring and Analytics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786182867,
         "date_posted": 1784800316,
         "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HRERSU-London-Ludgate/Maintenance-Analytics-Engineer_R0108106",
