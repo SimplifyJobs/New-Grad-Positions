@@ -133,27 +133,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "American Bureau of Shipping",
-        "id": "e2b5b2e9-f977-4d5c-bd2f-2d06b880bde1",
-        "title": "Data Scientist",
-        "active": false,
-        "date_updated": 1769027336,
-        "date_posted": 1769027336,
-        "url": "https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3935",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Bureau-Of-Shipping",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Cerity Partners",
         "id": "52222528-fb26-40e6-aa5f-8c163cc6fc59",
@@ -286347,7 +286326,7 @@
         "company_name": "Zurich Insurance",
         "id": "ac56ab22-4e58-404f-bd27-334854dd766c",
         "title": "Software Engineer Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1784819368,
         "date_posted": 1784815795,
         "url": "https://www.careers.zurich.com/job/Bath-Associate-Software-Engineer-GB-E/1367510657/?ats=successfactors",
@@ -337423,7 +337402,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -404177,6 +404156,46 @@
             "Middletown, RI"
         ],
         "company_url": "https://simplify.jobs/c/Arcfield",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Expleo",
+        "id": "421b42ef-fb19-4a10-a0f8-b9b3b6a3fc36",
+        "title": "Pre-Sales Executive",
+        "active": true,
+        "date_updated": 1789740724,
+        "date_posted": 1789740390,
+        "url": "https://expleo-jobs-gb-en.icims.com/jobs/55816/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Preston, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expleo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bosch Home Comfort",
+        "id": "7ed9c310-2f2f-4d6f-9d32-4573959a0e7e",
+        "title": "Marketing Analyst Graduate",
+        "active": true,
+        "date_updated": 1789740541,
+        "date_posted": 1789740495,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150327262",
+        "locations": [
+            "Worcester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
