@@ -403993,5 +403993,49 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stripe",
+        "id": "7d6e10fd-c6d0-48b6-932d-1e778b7aebed",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1789695025,
+        "date_posted": 1789694970,
+        "url": "https://stripe.com/jobs/search?gh_jid=8212517",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stripe",
+        "id": "5f473e5a-c08d-4e76-ae09-29c68b392aea",
+        "title": "Software Engineer - Early Career - Immediate Start",
+        "active": true,
+        "date_updated": 1789695025,
+        "date_posted": 1789694971,
+        "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
