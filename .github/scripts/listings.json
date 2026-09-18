@@ -321015,7 +321015,7 @@
         "company_name": "interface.ai",
         "id": "41280a36-4216-449a-9315-6144bfec8a2b",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786152061,
         "date_posted": 1786152029,
         "url": "https://jobs.ashbyhq.com/interface-ai/abbcf39d-cac3-49ee-9279-82a59821c300/application?embed=true",
@@ -323849,7 +323849,7 @@
         "company_name": "ByteDance",
         "id": "9b88d838-aaa3-44f6-ac6c-2f34e6d2a513",
         "title": "Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark",
-        "active": false,
+        "active": true,
         "date_updated": 1786401541,
         "date_posted": 1786401396,
         "url": "https://jobs.bytedance.com/en/position/7671108456554432773/detail",
@@ -345735,7 +345735,7 @@
         "company_name": "Boston Consulting Group",
         "id": "08532603-7472-48a9-a825-fef3a7108472",
         "title": "Forward Deployed AI Scientist - Campus",
-        "active": true,
+        "active": false,
         "date_updated": 1787187127,
         "date_posted": 1787186937,
         "url": "https://careers.bcg.com/global/en/job/59068",
@@ -402936,7 +402936,7 @@
         "company_name": "Navy Federal",
         "id": "2d32ac05-e38c-45da-af35-5d115cd75b0d",
         "title": "Data Scientist Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1789655160,
         "date_posted": 1789654775,
         "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32618",
@@ -404102,6 +404102,27 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "0c8c835d-3768-4d62-9b69-72f7496dfa22",
+        "title": "ASIC Design Verification Engineer - ASICS Engineering",
+        "active": true,
+        "date_updated": 1789720400,
+        "date_posted": 1785910519,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446720268743",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
