@@ -337423,7 +337423,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -369086,7 +369086,7 @@
         "company_name": "Nidus Technologies",
         "id": "4230e832-8f70-44e9-aa39-ffb206433584",
         "title": "Robot Teleoperation Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1788404421,
         "date_posted": 1788300956,
         "url": "https://jobs.ashbyhq.com/nidus-technologies/85c97e16-8336-4ab6-985d-152b0faab764/application?embed=true",
@@ -390936,7 +390936,7 @@
         "company_name": "Savannah River National Laboratory",
         "id": "56cedc73-4d23-48ca-a3b1-dea82f874101",
         "title": "Graduate Fellow - AI & Knowledge Management",
-        "active": true,
+        "active": false,
         "date_updated": 1788907701,
         "date_posted": 1788906362,
         "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2203",
@@ -391918,7 +391918,7 @@
         "company_name": "Arista Networks",
         "id": "567d2916-352d-441e-979d-1348a4d98c5f",
         "title": "Hardware NPI / Debug Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788991748,
         "date_posted": 1788991658,
         "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000148585799",
@@ -398835,7 +398835,7 @@
         "company_name": "Northrop Grumman",
         "id": "27fb8575-2151-4e22-9672-848a4310d45c",
         "title": "Associate Hardware Engineer / Hardware Engineer - Aht",
-        "active": true,
+        "active": false,
         "date_updated": 1789425256,
         "date_posted": 1789344000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Hardware-Engineer---Hardware-Engineer--AHT----Aurora-CO_R10250677",
@@ -402452,7 +402452,7 @@
         "company_name": "TD Bank",
         "id": "1de667fa-952d-4928-b99f-a5098dca9028",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789607430,
         "date_posted": 1789516800,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer-15_R_1502648",
@@ -404123,6 +404123,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accordience",
+        "id": "d16f889c-c0de-4b1a-a9e1-c11315ada6be",
+        "title": "Junior AI & Automation Specialist",
+        "active": true,
+        "date_updated": 1789722952,
+        "date_posted": 1789722601,
+        "url": "https://accordience.com/jobs/?gh_jid=4934501101",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accordience",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
