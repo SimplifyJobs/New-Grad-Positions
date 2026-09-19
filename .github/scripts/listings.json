@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Gore Mutual Insurance",
-        "id": "9e9ae8ff-8173-4f50-ae43-46e9a085077f",
-        "title": "Associate Data Engineer",
-        "active": false,
-        "date_updated": 1769096136,
-        "date_posted": 1769096136,
-        "url": "https://job-boards.greenhouse.io/goremutualinsurance/jobs/4645501006",
-        "locations": [
-            "Cambridge, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Gore-Mutual-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Prairie View A&M University",
         "id": "e5d196b5-c0c7-4639-9262-f97267a472f0",
         "title": "Postdoctoral Researcher - Pier",
@@ -314483,7 +314463,7 @@
         "company_name": "DaVita",
         "id": "9d731ae5-fb1f-4c2f-8c67-8627ba75d49c",
         "title": "Patient Experience Analyst - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1786025881,
         "date_posted": 1785974400,
         "url": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Patient-Experience-Analyst_R0470908",
@@ -316809,7 +316789,7 @@
         "company_name": "IonQ",
         "id": "d4d7c8e0-a6c3-4abd-933c-fb0fd6204aa9",
         "title": "Associate Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786141261,
         "date_posted": 1786141161,
         "url": "https://job-boards.greenhouse.io/ionq/jobs/6096581004",
