@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Visa",
-        "id": "5da064fe-c065-49e7-be70-ddb8e4e4672c",
-        "title": "Graduate Software Engineer",
-        "active": false,
-        "date_updated": 1769076626,
-        "date_posted": 1769076626,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000104863075",
-        "locations": [
-            "Reading, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "BAE Systems",
         "id": "b1426e6e-8d2e-4932-9d5d-48c5f0beb066",
@@ -40,24 +19,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5462b566-f14e-451c-bcb2-ff04820d619e",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769077856,
-        "date_posted": 1769077856,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046665",
-        "locations": [
-            "Portadown, Craigavon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -402687,6 +402648,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "acfd75f6-b373-4747-aa03-88912b01fa48",
+        "title": "Data & AI Solutions Engineering Analyst - Consultative Offerings",
+        "active": true,
+        "date_updated": 1789812458,
+        "date_posted": 1785536782,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Analyst-Data-AI-Solutions-Engineering/361306",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
