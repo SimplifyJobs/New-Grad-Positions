@@ -1,68 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "W.R. Berkley",
-        "id": "fcd457ee-c8c5-4f78-af1b-daa19be278ad",
-        "title": "Associate EDI Analyst",
-        "active": false,
-        "date_updated": 1769047866,
-        "date_posted": 1769047866,
-        "url": "https://careers-berkley.icims.com/jobs/13449/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Chesterfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/WR-Berkley",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "735d6b83-4c0b-43ba-91ef-3b71141840cf",
-        "title": "Graduate Software Engineer - On-Device AI",
-        "active": false,
-        "date_updated": 1769048069,
-        "date_posted": 1769048069,
-        "url": "https://lifeattiktok.com/search/7392866498240891163",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "691d2914-24b3-4473-8d84-3ea9c6d4ee39",
-        "title": "Technical Support Engineer - Android/iOS SDK",
-        "active": false,
-        "date_updated": 1769048068,
-        "date_posted": 1769048068,
-        "url": "https://lifeattiktok.com/search/7443902253976570120",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Aurora Innovation",
         "id": "d70d1f0a-93bf-4cd8-98bb-e6ee59283821",
@@ -101,44 +39,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "a2b22bf8-6138-427a-b797-486f4ec81592",
-        "title": "Research Scientist \u2013 PhD New College Grad 2026 - Human\u2011AI Perception and Interaction Research",
-        "active": false,
-        "date_updated": 1769048780,
-        "date_posted": 1769048780,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Human-AI-Perception-and-Interaction-Research---PhD-New-College-Grad-2026_JR2011804-1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CGS Federal (Contact Government Services)",
-        "id": "c7945f1b-35b0-4255-84d7-917049e1cd8e",
-        "title": "Intelligence Analyst",
-        "active": false,
-        "date_updated": 1769048329,
-        "date_posted": 1769048329,
-        "url": "https://jobs.lever.co/cgsfederal/b6e3f88d-9460-4020-affd-c415d370607f/apply",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/CGS-Federal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -157842,26 +157742,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "True Anomaly",
-        "id": "874fdeaf-174b-4907-83b1-0557ad08155a",
-        "title": "Engineer 2 - Or III Egse",
-        "active": false,
-        "date_updated": 1777597874,
-        "date_posted": 1769049048,
-        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5026924007",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TrueAnomaly",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
