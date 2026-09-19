@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "BAE Systems",
-        "id": "b1426e6e-8d2e-4932-9d5d-48c5f0beb066",
-        "title": "ILS/IPS Engineer",
-        "active": false,
-        "date_updated": 1769078179,
-        "date_posted": 1769078179,
-        "url": "https://baesystems.taleo.net/careersection/2/jobdetail.ftl?job=00133187",
-        "locations": [
-            "Glasgow, UK",
-            "Portsmouth, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/BAE-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "RTX",
         "id": "1e7e54cc-d4db-4f93-9fe9-8b9307f0d1f6",
         "title": "2026 Full-time Software Engineer 1 - RDPL - CA",
