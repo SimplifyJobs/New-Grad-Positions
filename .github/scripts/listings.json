@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "1e7e54cc-d4db-4f93-9fe9-8b9307f0d1f6",
-        "title": "2026 Full-time Software Engineer 1 - RDPL - CA",
-        "active": false,
-        "date_updated": 1769084196,
-        "date_posted": 1769084196,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/XMLNAME-2026-Full-time-Software-Engineer-I---RDPL--On-site--CA-_01818504",
-        "locations": [
-            "Anaheim, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Northeastern",
         "id": "5d91d3c9-3771-4afa-bd98-e8a37a821e62",
@@ -274602,7 +274582,7 @@
         "company_name": "AeroVironment",
         "id": "59ab2c0c-bb90-49b4-b94f-b5707034915a",
         "title": "Software Engineer 2 - Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1784643606,
         "date_posted": 1784160000,
         "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/San-Diego-CA/Software-Engineer-II--Applications-_8151",
@@ -278444,7 +278424,7 @@
         "company_name": "Onto Innovation",
         "id": "269848d0-7a8d-45ef-8519-06340de9f7fc",
         "title": "Senior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784682559,
         "date_posted": 1781360766,
         "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Wilmington-MA-Upton/Senior-Software-Engineer_R-5554",
@@ -395194,7 +395174,7 @@
         "company_name": "Northrop Grumman",
         "id": "eaf0aa6a-8e30-4d79-ab9c-1f2b4b819ea3",
         "title": "Associate Specialty Test Engineer - Armament Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1789415821,
         "date_posted": 1789344000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/Associate-Specialty-Test-Engineer_R10250652",
