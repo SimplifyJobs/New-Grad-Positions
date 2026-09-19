@@ -1,185 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Prairie View A&M University",
-        "id": "e5d196b5-c0c7-4639-9262-f97267a472f0",
-        "title": "Postdoctoral Researcher - Pier",
-        "active": false,
-        "date_updated": 1769123503,
-        "date_posted": 1769123503,
-        "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Pioneering-Advanced-Materials-for-Renewable-Energy---2_R-089861-2",
-        "locations": [
-            "Prairie View, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Prairie-View-AM-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "83fe83b7-ba75-46ca-9f8b-48e2e7e91293",
-        "title": "Entry Level Embedded Software Engineer",
-        "active": false,
-        "date_updated": 1769123510,
-        "date_posted": 1769123510,
-        "url": "https://careers-gdms.icims.com/jobs/69988/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Bloomington, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "7586ff04-1d04-49d4-a747-5acfb1aed48b",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769123520,
-        "date_posted": 1769123520,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046817",
-        "locations": [
-            "Christchurch, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intertek",
-        "id": "69a08158-1347-42b8-8926-cf28eb6ba20d",
-        "title": "Engineer Renewable Energy & Energy Storage",
-        "active": false,
-        "date_updated": 1769123647,
-        "date_posted": 1769123647,
-        "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13795",
-        "locations": [
-            "Plano, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Intertek",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Toro Company",
-        "id": "543dfcd5-746a-4df7-bbe6-c7c9562ea806",
-        "title": "Embedded Software Engineer 1 - The Toro Company",
-        "active": false,
-        "date_updated": 1769123591,
-        "date_posted": 1769123591,
-        "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Embedded-Software-Engineer-I---The-Toro-Company_JR15047",
-        "locations": [
-            "Bloomington, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Toro-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nikkiso",
-        "id": "4647b441-a194-48a6-9593-3648e20b9af5",
-        "title": "Electric Control Panel Technician 1",
-        "active": false,
-        "date_updated": 1769123424,
-        "date_posted": 1769123424,
-        "url": "https://careers-nikkiso.icims.com/jobs/3655/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Murrieta, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nikkiso",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Prairie View A&M University",
-        "id": "2a0e3a4a-82f0-40a8-965c-06900d8a4f84",
-        "title": "Postdoctoral Researcher - Pier",
-        "active": false,
-        "date_updated": 1769123512,
-        "date_posted": 1769123512,
-        "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Pioneering-Advanced-Materials-for-Renewable-Energy---1_R-089882-1",
-        "locations": [
-            "Prairie View, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Prairie-View-AM-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Q-CTRL",
-        "id": "abceeeb1-dde1-425e-92b2-67f118dec4c2",
-        "title": "Software Integration Engineer",
-        "active": false,
-        "date_updated": 1769123338,
-        "date_posted": 1769123338,
-        "url": "https://jobs.lever.co/q-ctrl/1ff2ff69-c5f5-4790-a007-07a90dfa4031/apply",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Q-CTRL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Asurion",
-        "id": "a222ade4-3b9d-4617-b005-ac8d9d1fc55f",
-        "title": "Quality and Insights Analyst",
-        "active": false,
-        "date_updated": 1769123165,
-        "date_posted": 1769123165,
-        "url": "https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/US-Work-at-Home/Quality---Insights-Analyst_ASU0018283-1",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Asurion",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "ABB",
         "id": "c557e53b-8b8f-400f-a125-4f22c94111cb",
@@ -195,26 +16,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NewsBreak",
-        "id": "ac1c2595-3d28-4b0b-ab9c-f5c4a87c9103",
-        "title": "Software Engineer \u2013 New Grad Friendly - IOS",
-        "active": false,
-        "date_updated": 1769124488,
-        "date_posted": 1769124488,
-        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4645712006",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NewsBreak",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -312,26 +113,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Asurion",
-        "id": "f9e4a42f-5e64-478e-9914-ecd4b7f947a6",
-        "title": "Quality and Insights Analyst",
-        "active": false,
-        "date_updated": 1769124651,
-        "date_posted": 1769124651,
-        "url": "https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/US-Work-at-Home/Quality---Insights-Analyst_ASU0018284",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Asurion",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "LexisNexis Risk Solutions",
         "id": "eadbb0fe-9994-4f5e-9095-2b6e1b01b480",
@@ -387,24 +168,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3fadabee-91f7-4e6b-af47-bc29c0922f14",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769123521,
-        "date_posted": 1769123521,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046809",
-        "locations": [
-            "Aberdeen, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Morgan Stanley",
         "id": "3d39bf74-334e-47d0-8dc7-f7a3eccb51d6",
@@ -420,233 +183,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b3160da7-afde-41db-a43d-d0268b513138",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769123508,
-        "date_posted": 1769123508,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045436",
-        "locations": [
-            "Trowbridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "6fd6a9e8-4d83-4d8b-a468-7067cfbfb5b2",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769123497,
-        "date_posted": 1769123497,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046784",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Hunt Oil Company",
-        "id": "345002ee-48af-43a1-a676-d257e7337e57",
-        "title": "Energy Trading Analyst",
-        "active": false,
-        "date_updated": 1769123518,
-        "date_posted": 1769123518,
-        "url": "https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/869",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Hunt-Oil-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "02ab9690-425e-4b1d-af94-3c102a4c8b87",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769123530,
-        "date_posted": 1769123530,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046791",
-        "locations": [
-            "Trowbridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lawrence Berkeley National Laboratory",
-        "id": "ea0d2b07-ce32-4320-b2a7-053bb3e0cdde",
-        "title": "High-Throughput STEM Postdoctoral Scholar",
-        "active": false,
-        "date_updated": 1769123586,
-        "date_posted": 1769123586,
-        "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=105825",
-        "locations": [
-            "Berkeley, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Robert Bosch Venture Capital",
-        "id": "da8f55f0-ba93-4506-8df6-d58a7dac6ee3",
-        "title": "Rotational Development Program - Software Engineer - Power Solutions",
-        "active": false,
-        "date_updated": 1769124025,
-        "date_posted": 1769124025,
-        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000105016550",
-        "locations": [
-            "Southfield, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Bosch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "c103ac20-9439-40f4-ba83-5202a0a1096a",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769123521,
-        "date_posted": 1769123521,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046456",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "bdbfda44-e490-4230-945b-3ec790a90a6a",
-        "title": "2026 Fulltime Raytheon Software Engineer 1 - Test Equipment",
-        "active": false,
-        "date_updated": 1769123799,
-        "date_posted": 1769123799,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-I---Test-Equipment---Onsite_01790414",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "tastytrade",
-        "id": "4ebc1b3b-2c2e-45a0-8cc4-17b1766b37cd",
-        "title": "Product Manager 1",
-        "active": false,
-        "date_updated": 1769124071,
-        "date_posted": 1769124071,
-        "url": "https://job-boards.greenhouse.io/tastytrade/jobs/5779275004",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Tastytrade",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Booz Allen",
-        "id": "190241f6-eef4-4500-83ce-d57c558665cb",
-        "title": "Software Developer",
-        "active": false,
-        "date_updated": 1769123777,
-        "date_posted": 1769123777,
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Melbourne-FL/Software-Developer_R0232568",
-        "locations": [
-            "Melbourne, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Booz Allen",
-        "id": "e5cf50cc-b51d-4546-af82-0fc24af7bd03",
-        "title": "Software Developer",
-        "active": false,
-        "date_updated": 1769123772,
-        "date_posted": 1769123772,
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/Software-Developer_R0232566-1",
-        "locations": [
-            "Charleston, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dover",
-        "id": "b8ac5c05-b1f3-419f-974c-a7ef014402d6",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1769123962,
-        "date_posted": 1769123962,
-        "url": "https://careers.dovercorporation.com/job/Salem-Software-Engineer-I-NH-03079/1286405001/?ats=successfactors",
-        "locations": [
-            "Salem, NH"
-        ],
-        "company_url": "https://simplify.jobs/c/511130a6-b974-4ccb-a78b-14049de141bb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -750,62 +286,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "EverQuote",
-        "id": "f81f73e7-1c98-477b-b55f-6fe60a37b4bd",
-        "title": "Software Engineer 1 - Sites",
-        "active": false,
-        "date_updated": 1769124427,
-        "date_posted": 1769124427,
-        "url": "https://careers.everquote.com/job/?gh_jid=7601161003",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/EverQuote",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ERM",
-        "id": "ebdac4ab-5e8d-42e9-be97-dd9e095f524e",
-        "title": "Consulting Associate \u2013 Entry Level - EHS Management Information Systems",
-        "active": false,
-        "date_updated": 1769124566,
-        "date_posted": 1769124566,
-        "url": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Mexico-City-Mexico/Consulting-Associate--EHS-Management-Information-Systems--Entry-Level-_R00027643-1",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/ERM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ensono",
-        "id": "d940e866-053d-459e-82c6-1a2cd5b1a2eb",
-        "title": "Entry Level Hardware Technician - Hardware Team",
-        "active": false,
-        "date_updated": 1769124495,
-        "date_posted": 1769124495,
-        "url": "https://ensono.com/company/careers/jobs-board/?gh_jid=4652010005",
-        "locations": [
-            "Downers Grove, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Ensono",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Trace3",
         "id": "5b3bfbbe-d459-4689-b4de-931e44d77b69",
         "title": "Software Engineer - I - Secret Clearance Required,On-site Colorado Springs,CO",
@@ -847,61 +327,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "RELX",
-        "id": "2bb4fb78-362f-4f83-9980-416773d40c06",
-        "title": "Product Manager 1",
-        "active": false,
-        "date_updated": 1769124281,
-        "date_posted": 1769124281,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Home-based-Ohio/Product-Manager-I_R107658-2",
-        "locations": [
-            "Washington",
-            "Kansas",
-            "Pennsylvania",
-            "Oregon",
-            "Delaware",
-            "Iowa",
-            "Vermont",
-            "Wyoming",
-            "Texas",
-            "Montana",
-            "Florida",
-            "Waterbury, CT",
-            "Nevada",
-            "Georgia",
-            "Arizona",
-            "Mississippi",
-            "Tennessee",
-            "Virginia",
-            "Arkansas",
-            "Minnesota",
-            "Colorado",
-            "Nebraska",
-            "Utah",
-            "Kentucky",
-            "Maryland",
-            "Wisconsin",
-            "Maine",
-            "Massachusetts",
-            "Oklahoma",
-            "Missouri",
-            "Ohio",
-            "Indiana",
-            "Louisiana",
-            "Michigan",
-            "Illinois",
-            "Idaho"
-        ],
-        "company_url": "https://simplify.jobs/c/RELX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Ophelia",
         "id": "1f99f764-e28e-42c7-ac30-de258bce545c",
@@ -914,24 +339,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Ophelia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Tastylive",
-        "id": "18f369d6-f136-4ead-b54b-7ed9ed359548",
-        "title": "Product Manager 1",
-        "active": false,
-        "date_updated": 1769124140,
-        "date_posted": 1769124140,
-        "url": "https://job-boards.greenhouse.io/tastylive/jobs/5779279004",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Tastylive",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -954,26 +361,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Fresenius Medical Care",
-        "id": "cce75d24-8100-4d1a-bc23-6c76d0453317",
-        "title": "Biomedical Equipment Technician",
-        "active": false,
-        "date_updated": 1769124603,
-        "date_posted": 1769124603,
-        "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Williamsburg-VA-USA/Biomed-Equipment-Technician_R0236261",
-        "locations": [
-            "Williamsburg, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fresenius",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
         ]
     },
     {
@@ -1014,26 +401,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Vernova",
-        "id": "1e6046a0-27cf-4c61-98f3-feba3d298739",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1769124244,
-        "date_posted": 1769124244,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Roanoke-US-VA-3/Software-Engineer_R5030434-2",
-        "locations": [
-            "Roanoke, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -36941,26 +36308,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "5fd3a345-4ef2-41a9-a1fc-ccf209544f29",
-        "title": "Postdoctoral Scholar - LUX-ZEPLIN - Lz - Dark Matter Experiment",
-        "active": false,
-        "date_updated": 1771249170,
-        "date_posted": 1769122972,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--LUX-ZEPLIN--LZ--Dark-Matter-Experiment_REQ_0000074880-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -98713,26 +98060,6 @@
             "Master's",
             "PhD",
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "OptionMetrics",
-        "id": "29a77f6d-5822-4790-bc6f-efdc2e2c6f94",
-        "title": "Data Quality Analyst",
-        "active": false,
-        "date_updated": 1773825710,
-        "date_posted": 1769123766,
-        "url": "https://jobs.lever.co/optionmetrics/ffeb74a2-127b-49c0-8472-aa12b0e9b056/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/OptionMetrics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
