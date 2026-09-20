@@ -1,84 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uber",
-        "id": "f3d9b500-ebf8-4133-bc84-4efc0ff5f857",
-        "title": "Software Engineer 2 - Ads",
-        "active": false,
-        "date_updated": 1769152225,
-        "date_posted": 1769152225,
-        "url": "https://www.uber.com/global/en/careers/list/152750/",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a1d4f76e-bb8f-4987-94e2-883b6fa5e8c4",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769152120,
-        "date_posted": 1769152120,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046824",
-        "locations": [
-            "Northwich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Boyd",
-        "id": "71becc90-4dbf-4bf4-a7ab-6574fe0ce6c2",
-        "title": "Associate Technician",
-        "active": false,
-        "date_updated": 1769153252,
-        "date_posted": 1769153252,
-        "url": "https://boydcorp.wd12.myworkdayjobs.com/Boyd_Careers/job/Lancaster/Assoc-Technician_R-101937",
-        "locations": [
-            "Lancaster, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boyd-Corp",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Boyd",
-        "id": "3663d9a5-26a4-4a5c-a857-e13e0bd30390",
-        "title": "Associate Technician",
-        "active": false,
-        "date_updated": 1769153245,
-        "date_posted": 1769153245,
-        "url": "https://boydcorp.wd12.myworkdayjobs.com/Boyd_Careers/job/Lancaster/Associate-Technician_R-101894",
-        "locations": [
-            "Lancaster, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boyd-Corp",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "L3Harris Technologies",
         "id": "a01b3e84-f3e9-4aa9-ac0a-495de8088e28",
@@ -96897,24 +96819,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Lindy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Etched",
-        "id": "5b384dac-cefd-4fba-b9a2-9a9bdcb9d414",
-        "title": "Systems Engineer - Finance & Operations",
-        "active": false,
-        "date_updated": 1773908272,
-        "date_posted": 1769152102,
-        "url": "https://jobs.ashbyhq.com/Etched/dab59531-2769-400d-94ec-d47ef928970f/application",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Etched",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -394363,7 +394267,7 @@
         "company_name": "U.S. Bank",
         "id": "63c995b0-3122-45a1-8d57-e418f2c90068",
         "title": "Associate Software Engineer - C# - .NET Core",
-        "active": true,
+        "active": false,
         "date_updated": 1789424281,
         "date_posted": 1789344000,
         "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Associate-Software-Engineer--C---NET-Core-_2026-0028472",
@@ -396013,7 +395917,7 @@
         "company_name": "RTX",
         "id": "1ecbece2-8bbd-45f2-b804-065bfabb8b21",
         "title": "Vision Systems Test Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789512235,
         "date_posted": 1789430400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Vision-Systems-Test-Engineer-I--Onsite-_01875044",
