@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Corewell Health",
-        "id": "74c19f8a-e784-4c0e-870e-eeeb827264a3",
-        "title": "Encounter Data Systems Associate Analyst",
-        "active": false,
-        "date_updated": 1769136099,
-        "date_posted": 1769136099,
-        "url": "https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/RA-Encounter-Data-Systems-Associate-Analyst_R201109",
-        "locations": [
-            "Grand Rapids, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Corewell-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rockwell Automation",
-        "id": "f0af95c4-6114-4a59-bfc7-bd49354c53e3",
-        "title": "Electronic Repair Engineer",
-        "active": false,
-        "date_updated": 1769135771,
-        "date_posted": 1769135771,
-        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/County-Down-Northern-Ireland-United-Kingdom/Electronic-repair-Engineer_R26-211",
-        "locations": [
-            "Portadown, Craigavon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Uber",
         "id": "f3d9b500-ebf8-4133-bc84-4efc0ff5f857",
