@@ -1,160 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Automated Media",
-        "id": "53f991ff-8f30-436c-9086-6bf056e993ec",
-        "title": "Entry Level Full Stack Developer",
-        "active": false,
-        "date_updated": 1769181719,
-        "date_posted": 1769181719,
-        "url": "https://dealertire.wd5.myworkdayjobs.com/AMI/job/AMI-Corporate-Headquarters/Entry---Level-Full-Stack-Developer_R12688",
-        "locations": [
-            "Michigan"
-        ],
-        "company_url": "https://simplify.jobs/c/Automated-Media",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Bootcamp"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Anaplan",
-        "id": "1eea71ad-23c1-48fa-b410-3a8f04a051fe",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1769181697,
-        "date_posted": 1769181697,
-        "url": "https://job-boards.greenhouse.io/anaplan/jobs/8381161002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Anaplan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "dec44c8d-0c1b-4be4-af7d-eb86b9797658",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769181264,
-        "date_posted": 1769181264,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046845",
-        "locations": [
-            "Solihull, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "228ba12e-e872-4fb1-bd17-5e26da7890c8",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769181277,
-        "date_posted": 1769181277,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046842",
-        "locations": [
-            "Solihull, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1cb872a4-42ac-46f7-99e3-69f426b2e319",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769181274,
-        "date_posted": 1769181274,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046858",
-        "locations": [
-            "Southampton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Beyond New Horizons",
-        "id": "7956a61c-e5dc-4b43-954e-4d3d4bb49653",
-        "title": "Early Career Facility Modeling & Analysis Engineer",
-        "active": false,
-        "date_updated": 1769181034,
-        "date_posted": 1769181034,
-        "url": "https://careers-bnh.icims.com/jobs/22976/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Tullahoma, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Beyond-New-Horizons",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "GE Healthcare",
-        "id": "dfc4bab3-3c8e-40b6-9b09-5dd2555b202f",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1769181937,
-        "date_posted": 1769181937,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineer-I_R4026886-1",
-        "locations": [
-            "Orange, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Fermilab",
-        "id": "0b0ef6aa-d49f-460b-bd2a-28202078096d",
-        "title": "Electrical Assembly Technician 1",
-        "active": false,
-        "date_updated": 1769182069,
-        "date_posted": 1769182069,
-        "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Electrical-Assembly-Technician-I_R_009174",
-        "locations": [
-            "Batavia, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Fermilab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "112d36ba-4f74-444e-bf3b-77f03d600a06",
@@ -1268,27 +1114,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Celonis",
-        "id": "866ce0ad-be1e-4642-bc31-9a7439bcca88",
-        "title": "Associate Value Engineer - AI-Driven Data Science & Analytics",
-        "active": false,
-        "date_updated": 1769211976,
-        "date_posted": 1769182940,
-        "url": "https://job-boards.greenhouse.io/celonis/jobs/7495756003?gh_jid=7495756003",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Celonis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -3903,28 +3728,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cerebras",
-        "id": "ccfe7875-0056-4aad-9622-4b66cc4ed4d9",
-        "title": "Compiler Engineer",
-        "active": false,
-        "date_updated": 1769480941,
-        "date_posted": 1769182633,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7601200003",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -79622,26 +79425,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Sprocket Security",
-        "id": "9adfdf78-d04f-49e7-bbb0-b4ec4526231d",
-        "title": "Product Owner",
-        "active": false,
-        "date_updated": 1773305803,
-        "date_posted": 1769182718,
-        "url": "https://www.sprocketsecurity.com/company/careers/apply?gh_jid=5081034008",
-        "locations": [
-            "Madison, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/38830c5c-616a-4e08-be48-d4ce6c915024",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
