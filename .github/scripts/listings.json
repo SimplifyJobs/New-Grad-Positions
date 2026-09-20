@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Grant Thornton",
-        "id": "137e3e39-b292-4ebf-9dd7-fd42bc163233",
-        "title": "Financial Advisory Data Analyst",
-        "active": false,
-        "date_updated": 1769177554,
-        "date_posted": 1769177554,
-        "url": "https://ukgrantt.wd3.myworkdayjobs.com/careersgrantthornton/job/Manchester/Financial-Advisory-Data-Analyst_R1034731",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Grant-Thornton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Automated Media",
         "id": "53f991ff-8f30-436c-9086-6bf056e993ec",
@@ -333020,7 +333002,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
