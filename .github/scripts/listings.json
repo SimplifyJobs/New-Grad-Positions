@@ -400916,5 +400916,71 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Harris Computer",
+        "id": "5bc6041b-141f-4df8-ba11-388fc1eae726",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1789598161,
+        "date_posted": 1789516800,
+        "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Texas/Software-Developer_R0046516-4",
+        "locations": [
+            "Texas",
+            "Florida",
+            "Colorado",
+            "Fort Collins, CO",
+            "North Carolina",
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/Harris-Computer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Google",
+        "id": "f85a296e-5acc-4a94-8a58-4c89081eeda7",
+        "title": "Hardware Architecture Modeling Engineer - PhD - 2027 Start",
+        "active": true,
+        "date_updated": 1789482002,
+        "date_posted": 1789481752,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/107494065192215238",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anglian Water",
+        "id": "92e9de56-6381-4b20-90ea-41ec1103cf1d",
+        "title": "Digital Data and Technology Graduate",
+        "active": true,
+        "date_updated": 1789415461,
+        "date_posted": 1789344000,
+        "url": "https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Huntingdon/Digital-Data-and-Technology-Graduate_R39598",
+        "locations": [
+            "Peterborough, UK",
+            "Huntingdon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Anglian-Water",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
