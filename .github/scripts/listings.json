@@ -401197,5 +401197,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "ABB",
+        "id": "c557e53b-8b8f-400f-a125-4f22c94111cb",
+        "title": "Technical Product Manager - Grid Components Medium Voltage - f/m/d",
+        "active": true,
+        "date_updated": 1788505932,
+        "date_posted": 1788152793,
+        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ratingen-North-Rhine-Westphalia-Germany/Technical-Product-Manager---Grid-Components-Medium-Voltage--f-m-d-_90494310",
+        "locations": [
+            "Neukirchen-Vluyn, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/ABB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
