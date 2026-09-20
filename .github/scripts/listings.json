@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "a01b3e84-f3e9-4aa9-ac0a-495de8088e28",
-        "title": "Engineering Technician",
-        "active": false,
-        "date_updated": 1769164251,
-        "date_posted": 1769164251,
-        "url": "https://jobs.l3harris.com/job/Melbourne-Engineering-Technician-FL-32934/1358751900/?ats=successfactors",
-        "locations": [
-            "Melbourne, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Tradeweb",
-        "id": "218315ba-b144-463c-94ba-4566bf71a5b7",
-        "title": "Product Implementation",
-        "active": false,
-        "date_updated": 1769164157,
-        "date_posted": 1769164157,
-        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301593",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tradeweb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Grant Thornton",
         "id": "137e3e39-b292-4ebf-9dd7-fd42bc163233",
