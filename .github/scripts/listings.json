@@ -6556,26 +6556,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mass General Brigham",
-        "id": "deb5fa97-ee51-47b3-ad67-5a119599dd57",
-        "title": "Application Analyst",
-        "active": false,
-        "date_updated": 1769689207,
-        "date_posted": 1769263385,
-        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Application-Analyst_RQ4041089",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Expedia Group",
         "id": "55515f05-f170-4987-a265-ba377eb44b64",
@@ -331132,7 +331112,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -356604,7 +356584,7 @@
         "company_name": "EisnerAmper",
         "id": "99ceee79-3f21-401d-8568-200921f46ba8",
         "title": "Outsourcing IT Staff 1",
-        "active": false,
+        "active": true,
         "date_updated": 1788209905,
         "date_posted": 1788134400,
         "url": "https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/New-York/XMLNAME-2026-Outsourcing-IT-Staff-I_Req-9328",
@@ -399309,6 +399289,208 @@
             "Chandler, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Specter Aerospace",
+        "id": "e5cc30a4-8555-48b7-b3dc-b3f20c76bd9c",
+        "title": "Full Stack Developer 1/2",
+        "active": true,
+        "date_updated": 1790000741,
+        "date_posted": 1790000318,
+        "url": "https://specteraerospace.bamboohr.com/careers/152/",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Specter-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "State of North Carolina",
+        "id": "5ff47594-f8ae-48a8-887c-851badf01102",
+        "title": "Engineering Assistant - Traffic Survey Group",
+        "active": true,
+        "date_updated": 1790000461,
+        "date_posted": 1789948800,
+        "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Engineering-Assistant_JR-124577",
+        "locations": [
+            "Wake County, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Of-North-Carolina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Avis Budget Group",
+        "id": "3e65a8e9-cfc2-4798-af5d-70e43087cbf2",
+        "title": "Data Analyst - Commercial",
+        "active": true,
+        "date_updated": 1790000461,
+        "date_posted": 1789948800,
+        "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Avis-Budget-House-HQ/Data-Analyst_R0190645",
+        "locations": [
+            "Bracknell, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Avis-Budget-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "551e52f2-65d3-4921-b08d-5f686b953112",
+        "title": "Embedded Software Engineer 1",
+        "active": true,
+        "date_updated": 1790000450,
+        "date_posted": 1789948800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01872627",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sonepar",
+        "id": "e88bb384-45aa-403a-b601-0bf579e8baf1",
+        "title": "Systems Developer 1",
+        "active": true,
+        "date_updated": 1790000439,
+        "date_posted": 1790000043,
+        "url": "https://career.sonepar.com/job/Jonesboro-Systems-Developer-I-AR-72401/1439562433/?ats=successfactors",
+        "locations": [
+            "Jonesboro, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonepar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Arcfield",
+        "id": "2b7698da-ccad-415d-be19-f8cd939f6521",
+        "title": "Model-Based Systems Engineer",
+        "active": true,
+        "date_updated": 1790000380,
+        "date_posted": 1789999646,
+        "url": "https://careers.arcfield.com/jobs/8669?icims=1",
+        "locations": [
+            "Middletown, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcfield",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Aerospace Corporation",
+        "id": "14eefce4-0a45-415b-94b9-1a24d1a0729d",
+        "title": "Communications and Architecture Analyst",
+        "active": true,
+        "date_updated": 1790000350,
+        "date_posted": 1789948800,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Communications-and-Architecture-Analyst_R016595",
+        "locations": [
+            "Colorado Springs, CO",
+            "Chantilly, VA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ASOS plc",
+        "id": "8f7689d2-5098-42e8-8994-ab9ecfcc3f4b",
+        "title": "Associate Analytics Engineer",
+        "active": true,
+        "date_updated": 1789999751,
+        "date_posted": 1789999635,
+        "url": "https://jobs.smartrecruiters.com/ASOS/744000150689619",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ASOS-Plc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blackberry",
+        "id": "30f99827-363f-40d9-9cc9-90199e11daa7",
+        "title": "Graduate Systems Software Developer - Sensor Framework",
+        "active": true,
+        "date_updated": 1789999720,
+        "date_posted": 1789948800,
+        "url": "https://bb.wd3.myworkdayjobs.com/QNX/job/Ottawa-Ontario/QNX--Graduate-Systems-Software-Developer--Sensor-Framework-_20260300",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackBerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blackberry",
+        "id": "1578cca9-9315-45a7-b36b-464ca5439614",
+        "title": "Graduate Systems Software Developer - Sensor Framework",
+        "active": true,
+        "date_updated": 1789999720,
+        "date_posted": 1789948800,
+        "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/QNX--Graduate-Systems-Software-Developer--Sensor-Framework-_20260300-1",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackBerry",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
