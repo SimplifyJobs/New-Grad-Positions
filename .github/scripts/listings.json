@@ -22,115 +22,6 @@
     {
         "source": "Simplify",
         "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "fcb2b743-8b32-4143-b706-03b9897fd8db",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769250326,
-        "date_posted": 1769250326,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046833",
-        "locations": [
-            "Portadown, Craigavon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d89465bc-8148-40ca-a334-b1877b410e88",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769250330,
-        "date_posted": 1769250330,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046898",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b3829324-2c51-4c61-8dc9-68399e5cd3a0",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769250327,
-        "date_posted": 1769250327,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046834",
-        "locations": [
-            "Portadown, Craigavon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "16298ccb-6193-484e-a34a-b708f8ab40b8",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769250327,
-        "date_posted": 1769250327,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046830",
-        "locations": [
-            "Portadown, Craigavon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0920a60f-064b-4dc0-ade4-ad422ab9d271",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769250326,
-        "date_posted": 1769250326,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046902",
-        "locations": [
-            "Durham, UK",
-            "Thirsk, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "80858869-149d-4085-b9d4-e11c9fc6ffe4",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769250327,
-        "date_posted": 1769250327,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046832",
-        "locations": [
-            "Portadown, Craigavon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
         "company_name": "Manulife Financial",
         "id": "540c6620-e52e-437e-a7bc-7f1ce1ed2770",
         "title": "Investment Analyst - Agriculture",
@@ -344821,7 +344712,7 @@
         "company_name": "Tucson Talent",
         "id": "7d234714-1eac-4ca3-9451-1c4bc797be4e",
         "title": "Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787582466,
         "date_posted": 1787529600,
         "url": "https://tucsonaz.wd1.myworkdayjobs.com/en-US/Tucson_Talent/job/Tucson-Police-Department-Headquarters/Data-Analyst-I_JR-1003361",
@@ -395800,7 +395691,7 @@
         "company_name": "Northrop Grumman",
         "id": "c2097997-f8c0-4a1e-8b4f-e30214ed788d",
         "title": "Associate Electronics Engineer - Pathways Program",
-        "active": true,
+        "active": false,
         "date_updated": 1789599197,
         "date_posted": 1789516800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Electronics-Engineer---Pathways-Program---Linthicum-MD_R10251108",
