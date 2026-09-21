@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "SoFi",
-        "id": "7149a901-b1e7-40cf-9759-0ab38da03683",
-        "title": "Software Engineer - Loans Platform",
-        "active": false,
-        "date_updated": 1769222227,
-        "date_posted": 1769222227,
-        "url": "https://sofi.com/careers/job/7595616003?gh_jid=7595616003",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/SoFi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "2d060e56-9518-472a-976c-e24cad95bba6",
-        "title": "AI ML Engineer - RTL Power Optimization",
-        "active": false,
-        "date_updated": 1769222153,
-        "date_posted": 1769222153,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Intuit",
         "id": "c2d47493-1b6e-4d7f-acad-e64645a96152",
