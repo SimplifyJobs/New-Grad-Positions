@@ -2599,26 +2599,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "LSEG",
-        "id": "31d5ea1a-4566-4b39-a713-70644221b794",
-        "title": "Quantitative Product Manager",
-        "active": false,
-        "date_updated": 1769517901,
-        "date_posted": 1769256737,
-        "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Quantitative-Product-Manager_R0106942-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/LSEG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lloyds Bank",
         "id": "42a6c4fb-43c2-4f93-a50d-8c855ad408b4",
@@ -399433,6 +399413,26 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "afb82944-38ae-4d1b-b546-109f688848c8",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1789992105,
+        "date_posted": 1789603200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Electrical-Engineer-1_R10251603",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
