@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intel",
-        "id": "3714df2b-0b0e-4891-a2f4-88d031e66d4a",
-        "title": "Packaging Module Development Engineer",
-        "active": false,
-        "date_updated": 1769261790,
-        "date_posted": 1769261790,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0279520",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Schweitzer Engineering Laboratories",
-        "id": "159e9c37-8cf1-4b9a-8531-6cea0d25db0a",
-        "title": "Associate Integration Engineer",
-        "active": false,
-        "date_updated": 1769263100,
-        "date_posted": 1769263100,
-        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Integration-Engineer_2025-18672",
-        "locations": [
-            "Moscow, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/SEL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "16381661-a59e-4011-892a-1beaa589d7b7",
@@ -175766,7 +175728,7 @@
         "company_name": "iCapital Network",
         "id": "00439705-6526-4fb2-a518-d8d34f1efce1",
         "title": "Associate Full Stack Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779316106,
         "date_posted": 1779315400,
         "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8549590002",
@@ -376975,7 +376937,7 @@
         "company_name": "Digital Realty",
         "id": "bea599d7-4db2-42f0-bed8-f50572546700",
         "title": "Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788471921,
         "date_posted": 1785766407,
         "url": "https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/8442",
@@ -389648,7 +389610,7 @@
         "company_name": "Zeiss",
         "id": "3b2a4163-6d8b-43de-8413-c177d84fb424",
         "title": "Global Data & Insights Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1789165441,
         "date_posted": 1789084800,
         "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Birmingham/Global-Training---Insights-Specialist-1_JR_1052429-1",
@@ -391291,7 +391253,7 @@
         "company_name": "RTX",
         "id": "8edf16f9-31db-4a81-b28d-bfabbbdece38",
         "title": "Hardware In the Loop Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789411754,
         "date_posted": 1789344000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565",
