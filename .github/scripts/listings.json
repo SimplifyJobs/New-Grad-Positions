@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Manulife Financial",
-        "id": "540c6620-e52e-437e-a7bc-7f1ce1ed2770",
-        "title": "Investment Analyst - Agriculture",
-        "active": false,
-        "date_updated": 1769259968,
-        "date_posted": 1769259968,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Senior-Investment-Analyst---Private-Equity-Valuations---Financial-Modeling--Agriculture-_JR26010593",
-        "locations": [
-            "Boston, MA",
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Intel",
         "id": "3714df2b-0b0e-4891-a2f4-88d031e66d4a",
@@ -94,26 +72,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "8120d919-bcce-49d9-a678-7e6b283fd806",
-        "title": "Systems Engineer \u2013 Associate or Mid-Level - Systems Architecture Requirements and Verification",
-        "active": false,
-        "date_updated": 1769260274,
-        "date_posted": 1769260274,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Systems-Engineer---Systems-Architecture-Requirements-and-Verification--Associate-or-Mid-Level-_JR2025485236-1",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -6677,26 +6635,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mass General Brigham",
-        "id": "bd09df37-9371-45be-8ef6-66c6eec1111e",
-        "title": "Research Technician",
-        "active": false,
-        "date_updated": 1769690353,
-        "date_posted": 1769260920,
-        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Charlestown-MA/Research-Technician_RQ4041919",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Philips",
         "id": "4f2b020a-4a8a-4c9b-abda-a6552daaedea",
@@ -11215,26 +11153,6 @@
             "Broomfield, CO"
         ],
         "company_url": "https://simplify.jobs/c/ee8236a0-5b6a-4389-a774-e10fe29442a2",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Copeland",
-        "id": "cc783b76-92bf-42cc-a2bf-3dab4ec046cc",
-        "title": "Accelerate Early Career Development Program in Engineering and Operations",
-        "active": false,
-        "date_updated": 1769868347,
-        "date_posted": 1769260921,
-        "url": "https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/St-Louis-MO-USA/Accelerate--Early-Career-Development-Program-in-Engineering-or-Operations-2026_JR113017",
-        "locations": [
-            "St. Louis, MO",
-            "Kennesaw, GA",
-            "Bellefontaine, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Copeland",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -192049,7 +191967,7 @@
         "company_name": "TTP",
         "id": "080918ae-58c8-4944-8786-bd2b57b915f1",
         "title": "Graduate Consultant - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1779977161,
         "date_posted": 1779977100,
         "url": "https://jobs.smartrecruiters.com/TTP1/744000128905808",
@@ -288983,7 +288901,7 @@
         "company_name": "JP Morgan Chase",
         "id": "97344c37-7a6a-4252-b0e7-522f9b541585",
         "title": "Applied AI ML Associate - Agentic AI and Python",
-        "active": true,
+        "active": false,
         "date_updated": 1785277081,
         "date_posted": 1785276603,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773873",
