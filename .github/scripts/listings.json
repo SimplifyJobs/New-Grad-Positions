@@ -31278,26 +31278,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "90b99fdd-be6e-4d31-ae91-a45565bf732a",
-        "title": "Electronics Technician",
-        "active": false,
-        "date_updated": 1769269306,
-        "date_posted": 1769269306,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MIDLAND-450--450-Leitz-Rd--450-BLDG/Electronics-Technician_01760488",
-        "locations": [
-            "Barrie, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "02d771f1-c654-4585-bc6c-96b59a657c1a",
@@ -238606,7 +238586,7 @@
         "company_name": "Analog Devices",
         "id": "14e0c9c2-b9ec-416d-8e8a-452d848306ca",
         "title": "FPGA Systems Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782965343,
         "date_posted": 1782963244,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/FPGA-Systems-Development-Engineer_R262943",
@@ -352782,7 +352762,7 @@
         "company_name": "RTX",
         "id": "aa978fcf-172b-4c86-9b7b-31d9a39a6d8a",
         "title": "Embedded Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787869451,
         "date_posted": 1787788800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01870328",
@@ -376660,7 +376640,7 @@
         "company_name": "Dollar General",
         "id": "03ca32cc-a251-4b84-b891-bf343499c80a",
         "title": "Sales Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1788468864,
         "date_posted": 1788217576,
         "url": "https://careers.dollargeneral.com/jobs/127410?icims=1",
