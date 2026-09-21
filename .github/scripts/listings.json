@@ -291166,7 +291166,7 @@
         "company_name": "The Boeing Company",
         "id": "bd7f525a-663f-495e-b1ab-c7120399fe97",
         "title": "Software Systems Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785364561,
         "date_posted": 1785283200,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Software-Systems-Engineer--Associate-or-Experienced-_JR2026520215-1",
@@ -291207,7 +291207,7 @@
         "company_name": "The Boeing Company",
         "id": "ed847441-9d11-4dc7-aa8a-8a2e49fdbc90",
         "title": "Software Systems Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785364561,
         "date_posted": 1785283200,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Colorado-Springs-CO/Software-Systems-Engineer--Associate-or-Experienced-_JR2026520215",
@@ -303821,7 +303821,7 @@
         "company_name": "Analytical Mechanics Associates",
         "id": "dc53bf27-8562-4b15-bb8a-5c712b61d498",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785794953,
         "date_posted": 1785715200,
         "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Mountain-View-CA/Software-Engineer_R-100728",
@@ -331056,7 +331056,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -341207,7 +341207,7 @@
         "company_name": "Ohio State University",
         "id": "d2562450-53cf-4da3-bbfb-1951dd76f3d9",
         "title": "Associate Applications Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1787263572,
         "date_posted": 1787184000,
         "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Associate-Applications-Analyst_R157300-1",
@@ -380773,7 +380773,7 @@
         "company_name": "Cooper University Health Care",
         "id": "f83551b7-e3ed-4c68-9df6-9356b06f2e76",
         "title": "Reporting and Analytics Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1788531481,
         "date_posted": 1788531330,
         "url": "https://careers-cooperhealth.icims.com/jobs/85602/job?mobile=true&needsRedirect=false",
@@ -382568,7 +382568,7 @@
         "company_name": "Tyson Foods",
         "id": "cf5d2cc2-c274-4fb9-9cef-46931c854228",
         "title": "Analytics Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1788617521,
         "date_posted": 1788566400,
         "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Analytics-Analyst---Walmart_R0483678-1",
@@ -392182,7 +392182,7 @@
         "company_name": "NielsenIQ",
         "id": "e46cfbad-46c2-4190-a6d3-c6f0e4836480",
         "title": "Brand Insights Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789424281,
         "date_posted": 1789424153,
         "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000149400074",
@@ -399458,5 +399458,219 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FiscalNote",
+        "id": "e659b76b-dfdc-4b49-bcc0-27140e26325d",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1790028902,
+        "date_posted": 1790028732,
+        "url": "https://jobs.lever.co/fiscalnote/c76e748f-6e25-42cf-bf26-ebae44280ffd/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/FiscalNote",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moog",
+        "id": "39cdd786-c89d-45a8-a08e-238f6b6b5c61",
+        "title": "Associate FPGA Engineer - Defense Electrical Group",
+        "active": true,
+        "date_updated": 1790028902,
+        "date_posted": 1789948800,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-FPGA-Engineer_R-26-17419",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "McKesson",
+        "id": "b4b4d865-c092-4219-8f56-7fe1585b9ca0",
+        "title": "Scientific Data Analyst 1",
+        "active": true,
+        "date_updated": 1790029436,
+        "date_posted": 1789948800,
+        "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Scientific-Data-Analyst-I_JR0153748",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/McKesson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howmet Aerospace",
+        "id": "5baf30f8-02d7-4767-bb77-4d65c2960a3f",
+        "title": "Manufacturing Data Analyst - Training Program",
+        "active": true,
+        "date_updated": 1790028902,
+        "date_posted": 1790028570,
+        "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118740",
+        "locations": [
+            "Dover, NJ",
+            "Whitehall, MI",
+            "Hampton, VA",
+            "Morristown, TN",
+            "La Porte, IN",
+            "Wichita Falls, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Howmet-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "efca454d-849f-4bbf-83da-a435a84670bb",
+        "title": "AI and ML Engineer",
+        "active": true,
+        "date_updated": 1790028541,
+        "date_posted": 1789948800,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-and-ML-Engineer_R0250044",
+        "locations": [
+            "Chantilly, VA",
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Renesas Electronics",
+        "id": "35b2a439-e042-479a-94b3-8506dedd01c1",
+        "title": "Associate Reliability Engineer",
+        "active": true,
+        "date_updated": 1790028541,
+        "date_posted": 1790028431,
+        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000150727429",
+        "locations": [
+            "Palm Bay, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Renesas-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sun Life",
+        "id": "dcc7492f-ee43-47b0-9eb0-b6ff0530c7ae",
+        "title": "Junior Analytics and Automation Developer Student - Winter 2027",
+        "active": true,
+        "date_updated": 1790028896,
+        "date_posted": 1789948800,
+        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/North-York-Ontario/Student--Jr-Analytics-and-Automation-Developer--Winter-2027-_JR00127514",
+        "locations": [
+            "North York, ON, Canada",
+            "Waterloo, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sun-Life",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Super Micro Computer",
+        "id": "72047ad6-6cff-4cb8-a727-8c24b7c19aac",
+        "title": "System Validation Engineer",
+        "active": true,
+        "date_updated": 1790028541,
+        "date_posted": 1787091615,
+        "url": "https://jobs.supermicro.com/job/San-Jose-System-Validation-Engineer-Cali/1420652800/?ats=successfactors",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Super-Micro-Computer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuitive Surgical",
+        "id": "14d68a82-73d3-450d-8f83-5e35e2c34cca",
+        "title": "Software Engineer - RISE",
+        "active": true,
+        "date_updated": 1790028642,
+        "date_posted": 1790028325,
+        "url": "https://jobs.smartrecruiters.com/Intuitive/744000150746589",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bread Financial",
+        "id": "ebc66f87-345d-4d91-9644-5d16a8676470",
+        "title": "Rotational Program Associate - Automation & Reporting Analyst",
+        "active": true,
+        "date_updated": 1790028361,
+        "date_posted": 1789948800,
+        "url": "https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us/job/Columbus-OH/Rotational-Program-Associate---Automation---Reporting-Analyst_R1013201",
+        "locations": [
+            "Frisco, TX",
+            "Chadds Ford Township, PA",
+            "Columbus, OH",
+            "Draper, UT",
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Bread-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
