@@ -1,142 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Walmart",
-        "id": "46bffcf5-668f-4478-b73d-ee4ef95c5cbf",
-        "title": "Staff Data Scientist - Walmart Connect",
-        "active": false,
-        "date_updated": 1769213300,
-        "date_posted": 1769213300,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Hoboken-NJ/Staff--Data-Scientist---Walmart-Connect_R-2335653-1",
-        "locations": [
-            "Bentonville, AR",
-            "San Bruno, CA",
-            "Union City, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Abbott",
-        "id": "6d0328f9-4f17-4707-8b27-26320b5a47d0",
-        "title": "Field Service Engineer 2-Tulsa - OK",
-        "active": false,
-        "date_updated": 1769213072,
-        "date_posted": 1769213072,
-        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Oklahoma---Tulsa/Field-Service-Engineer-II--Tulsa--OK_31139679-1",
-        "locations": [
-            "Tulsa, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Abbott",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ameriprise Financial",
-        "id": "617b2a53-eb08-4ff6-a023-06d7cb24804a",
-        "title": "Columbia Threadneedle Sales - Marketing",
-        "active": false,
-        "date_updated": 1769213195,
-        "date_posted": 1769213195,
-        "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Technology-Leadership-Development-Program-Associate_R25_0000002822",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ameriprise-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ameriprise Financial",
-        "id": "09a465e8-18bc-435b-8b9d-1db351780ae4",
-        "title": "Technology Leadership Development Program Associate",
-        "active": false,
-        "date_updated": 1769213168,
-        "date_posted": 1769213168,
-        "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Minneapolis-Minnesota/Technology-Leadership-Development-Program-Associate_R25_0000002820",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Ameriprise-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Applied Materials",
-        "id": "d0b022fc-d9b2-4681-adab-37dffab95004",
-        "title": "Physicist/Scientist",
-        "active": false,
-        "date_updated": 1769212979,
-        "date_posted": 1769212979,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Physicist-Scientist_R2611436",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Daimler Truck",
-        "id": "88d87c3e-ab65-455d-a258-2b61343e4c29",
-        "title": "Product Quality Control and Inspection Technician 1 - Heavy Duty Trucks",
-        "active": false,
-        "date_updated": 1769220766,
-        "date_posted": 1769220766,
-        "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/San-Antonio-CTS/Product-Quality-Control-and-Inspection-Technician-I---Heavy-Duty-Trucks_DT-16639",
-        "locations": [
-            "San Antonio, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Daimler-Truck",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Carvana",
-        "id": "7b9f5b63-849c-4db3-91ef-bbc60f522f72",
-        "title": "Associate Analyst - Data Privacy and AI Governance",
-        "active": false,
-        "date_updated": 1769221452,
-        "date_posted": 1769221452,
-        "url": "https://www.carvana.com/careers/apply?gh_jid=7562052",
-        "locations": [
-            "Tempe, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Carvana",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "SoFi",
         "id": "7149a901-b1e7-40cf-9759-0ab38da03683",
@@ -158,24 +22,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Teledyne",
-        "id": "5a95f63c-9637-4c9b-a893-79cef7f1d602",
-        "title": "Field Service / Support Technician",
-        "active": false,
-        "date_updated": 1769221904,
-        "date_posted": 1769221904,
-        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Tucson-AZ/Field-Service---Support-Technician_REQ32158",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "NVIDIA",
         "id": "2d060e56-9518-472a-976c-e24cad95bba6",
@@ -193,51 +39,6 @@
         "degrees": [
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Loop",
-        "id": "aff0bb8a-52b1-43c4-9cc3-d415c0439d24",
-        "title": "2026 New Grad - Software Engineer - Full-Stack",
-        "active": false,
-        "date_updated": 1769221627,
-        "date_posted": 1769221627,
-        "url": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
-        "locations": [
-            "SF",
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Loop",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Loop",
-        "id": "88165add-a938-4dcd-be80-56a54941908a",
-        "title": "Graduate Software Engineer - AI",
-        "active": false,
-        "date_updated": 1769221635,
-        "date_posted": 1769221635,
-        "url": "https://job-boards.greenhouse.io/loop/jobs/5780584004",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Loop",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -331664,7 +331465,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -360383,7 +360184,7 @@
         "company_name": "General Motors",
         "id": "a1e1af65-a476-480b-a455-15fd4e1d10ce",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788287777,
         "date_posted": 1788220800,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202618756",
@@ -360666,7 +360467,7 @@
         "company_name": "General Motors",
         "id": "4bb0de87-676a-468b-b586-ae81930109b3",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788287626,
         "date_posted": 1788220800,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202618501",
@@ -394132,7 +393933,7 @@
         "company_name": "Apple",
         "id": "9ce42a77-acb0-4d67-a66a-c49d74c5925d",
         "title": "Silicon Prototyping Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789509978,
         "date_posted": 1789509809,
         "url": "https://jobs.apple.com/en-us/details/200683271",
@@ -399605,6 +399406,87 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rochester Institute of Technology",
+        "id": "4240475f-e556-4c4a-b0bb-3702e9f25986",
+        "title": "Crime Analyst",
+        "active": true,
+        "date_updated": 1789952945,
+        "date_posted": 1789862400,
+        "url": "https://rit.wd12.myworkdayjobs.com/careers/job/Rochester-NY/Crime-Analyst_JR103180",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Rochester-Institute-Of-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Materials",
+        "id": "fe444a2e-411b-4a40-b6f4-9098bbd980bb",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1789942379,
+        "date_posted": 1789862400,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914",
+        "locations": [
+            "Gloucester, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Perpay",
+        "id": "87535675-cdd3-44ea-b36f-622b1a2be47b",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1789079915,
+        "date_posted": 1789079195,
+        "url": "https://job-boards.greenhouse.io/perpay/jobs/4034578007",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Perpay",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "2184ba51-9029-4b0d-956c-e66d880ffe74",
+        "title": "Applied Machine Learning Engineer New Grad - Circuit Design",
+        "active": true,
+        "date_updated": 1788505932,
+        "date_posted": 1781346106,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
