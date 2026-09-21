@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intuit",
-        "id": "c2d47493-1b6e-4d7f-acad-e64645a96152",
-        "title": "Software Engineer 1 - Data Engineering",
-        "active": false,
-        "date_updated": 1769239005,
-        "date_posted": 1769239005,
-        "url": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
-        "locations": [
-            "Mountain View, CA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Sony Interactive Entertainment",
         "id": "76add72c-1c79-461d-9f06-2e436b9db1fc",
@@ -335031,7 +335009,7 @@
         "company_name": "Wells Fargo",
         "id": "73bfc23b-8afe-45f5-b99a-d19d9447b8e0",
         "title": "Quantitative Analytics Program - Risk Analytics and Decision Science - RADS Masters",
-        "active": true,
+        "active": false,
         "date_updated": 1787035055,
         "date_posted": 1787011200,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Program---Risk-Analytics-and-Decision-Science--RADS-Masters----Early-Careers_R-569399",
@@ -387892,7 +387870,7 @@
         "company_name": "Intel",
         "id": "1f28f575-6e2b-4367-85a1-26670bbb8e75",
         "title": "Junior CPU Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789079076,
         "date_posted": 1788998400,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/Junior-CPU-Verification-Engineer_JR0286910",
@@ -399525,6 +399503,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sirona Medical",
+        "id": "373a9878-b32b-4c85-8ce6-20b6df03c8b3",
+        "title": "Go-To-Market Engineer",
+        "active": true,
+        "date_updated": 1789972777,
+        "date_posted": 1789972580,
+        "url": "https://job-boards.greenhouse.io/sironamedical/jobs/4736127005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sirona-Medical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
