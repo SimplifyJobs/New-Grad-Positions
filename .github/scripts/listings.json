@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sony Interactive Entertainment",
-        "id": "76add72c-1c79-461d-9f06-2e436b9db1fc",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1769251864,
-        "date_posted": 1769251864,
-        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Manulife Financial",
         "id": "540c6620-e52e-437e-a7bc-7f1ce1ed2770",
@@ -291443,7 +291423,7 @@
         "company_name": "The Boeing Company",
         "id": "ed847441-9d11-4dc7-aa8a-8a2e49fdbc90",
         "title": "Software Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785364561,
         "date_posted": 1785283200,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Colorado-Springs-CO/Software-Systems-Engineer--Associate-or-Experienced-_JR2026520215",
@@ -393090,7 +393070,7 @@
         "company_name": "NJ Department of Environmental Protection",
         "id": "f4b94f36-054f-43a1-a7a3-eff6104aabc7",
         "title": "Analyst Trainee",
-        "active": false,
+        "active": true,
         "date_updated": 1789469174,
         "date_posted": 1789425168,
         "url": "https://njdepartmentofenvironmentalprotection.applytojob.com/apply/QWkLHLMMB3/WRM202624-Analyst-Trainee",
