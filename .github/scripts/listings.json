@@ -289132,7 +289132,7 @@
         "company_name": "JP Morgan Chase",
         "id": "97344c37-7a6a-4252-b0e7-522f9b541585",
         "title": "Applied AI ML Associate - Agentic AI and Python",
-        "active": false,
+        "active": true,
         "date_updated": 1785277081,
         "date_posted": 1785276603,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773873",
@@ -331401,7 +331401,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -371883,7 +371883,7 @@
         "company_name": "Cisco",
         "id": "9a88516a-75d8-4bc7-92fe-82826eff3fab",
         "title": "Electrical Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1788436204,
         "date_posted": 1786602573,
         "url": "https://careers.cisco.com/global/en/job/2020283",
@@ -388925,7 +388925,7 @@
         "company_name": "Microsoft",
         "id": "a9b5356a-b658-407e-858e-29e74df5f581",
         "title": "Software Engineer - CoreAI",
-        "active": true,
+        "active": false,
         "date_updated": 1789109909,
         "date_posted": 1789109816,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
@@ -394297,7 +394297,7 @@
         "company_name": "T-Mobile",
         "id": "d3b9d664-582b-4b4c-a7bb-70489dda21e2",
         "title": "Associate Engineer - Agentic AI",
-        "active": true,
+        "active": false,
         "date_updated": 1789511761,
         "date_posted": 1789430400,
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Engineer--Agentic-AI_REQ368440",
@@ -396672,7 +396672,7 @@
         "company_name": "Quantum",
         "id": "8f661c59-262d-4efa-a0f0-fa1477eeb966",
         "title": "Graduate Business Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789637583,
         "date_posted": 1789637428,
         "url": "https://jobs.ashbyhq.com/quantum/75dae293-00ca-4cb4-a546-680d78d3b022/application?embed=true",
@@ -399523,6 +399523,45 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Hard Rock Digital",
+        "id": "8116df87-b03e-4936-a2bd-5e3550fb1cb7",
+        "title": "Associate Product Manager / Associate Game Producer - Casino Games",
+        "active": true,
+        "date_updated": 1789983001,
+        "date_posted": 1789982948,
+        "url": "https://hardrockdigital.recruitee.com/o/associate-product-manager-associate-game-producer-casino-games",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Hollywood, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Hard-Rock-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Flow Traders",
+        "id": "e602abf1-f6bc-480f-b490-b0246e7b426d",
+        "title": "Quantitative Researcher",
+        "active": true,
+        "date_updated": 1789982231,
+        "date_posted": 1787752873,
+        "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8156203",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Flow-Traders",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
