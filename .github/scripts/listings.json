@@ -256581,7 +256581,7 @@
         "company_name": "Goldman Sachs",
         "id": "00a049f3-203f-47dd-962f-59800455f714",
         "title": "Tax \u2013 Business and Data Intelligence - Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784067305,
         "date_posted": 1784066891,
         "url": "https://higher.gs.com/roles/135162",
@@ -274587,7 +274587,7 @@
         "company_name": "Castleton Commodities International",
         "id": "d4b25502-738a-4e59-a058-2be5b48c50c9",
         "title": "Commodities Trading Rotational Analyst Graduate Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1784683998,
         "date_posted": 1784592000,
         "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Commodities-Trading-Rotational-Analyst-Graduate-Programme--2027-Start-_R1334-1",
@@ -330766,7 +330766,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -354192,7 +354192,7 @@
         "company_name": "MassMutual",
         "id": "05cb4cb4-35f8-4648-af19-f38a4a26a726",
         "title": "Quantitative Consultant - Stable Value Product",
-        "active": true,
+        "active": false,
         "date_updated": 1787949721,
         "date_posted": 1786924800,
         "url": "https://massmutual.wd1.myworkdayjobs.com/MMCareers/job/Springfield-MA/Quantitative-Consultant_R20941-1",
@@ -383492,7 +383492,7 @@
         "company_name": "Pennsylvania State University",
         "id": "4410615a-5af6-494e-9d98-b5ca3d04544c",
         "title": "Research Assistant - Instructional",
-        "active": true,
+        "active": false,
         "date_updated": 1788883805,
         "date_posted": 1788825600,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant-Zhu_REQ_0000082322-2",
@@ -391007,7 +391007,7 @@
         "company_name": "Motia",
         "id": "274e1afd-0ef3-40bd-b73e-04647ebc0477",
         "title": "Graduate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1789415821,
         "date_posted": 1789415744,
         "url": "https://apply.workable.com/motia/j/846F99F456/apply",
@@ -397156,7 +397156,7 @@
         "company_name": "RTX",
         "id": "4d717fcd-49c6-4d63-87c3-ea595bc2701d",
         "title": "Test Development Engineer 1 - Test Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1789684309,
         "date_posted": 1789683238,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Test-Solutions-Northeast-Test-Development-Engineer-I_01865268",
@@ -400234,6 +400234,66 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "L3Harris Technologies",
+        "id": "516a1302-40e5-427e-b147-788ef9f8cfee",
+        "title": "Image Processing Engineer - Senior Associate",
+        "active": true,
+        "date_updated": 1790086540,
+        "date_posted": 1790086172,
+        "url": "https://jobs.l3harris.com/job/Tulsa-Senior-Associate,-Image-Science-Engineer-OK-74115/1432376600/?ats=successfactors",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trustpilot",
+        "id": "c081d641-edbe-4209-8d86-efa0cac36bad",
+        "title": "Software Engineer 1 - Trust Tech",
+        "active": true,
+        "date_updated": 1790086392,
+        "date_posted": 1790086116,
+        "url": "https://corporate.trustpilot.com/careers/job/8081169?gh_jid=8081169",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Trustpilot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wise",
+        "id": "d1ffc984-76b9-475f-9274-cc90c1c97125",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1790086142,
+        "date_posted": 1790086000,
+        "url": "https://jobs.smartrecruiters.com/Wise/744000151030889",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Wise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
