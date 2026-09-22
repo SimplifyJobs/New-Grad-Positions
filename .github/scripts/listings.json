@@ -1,114 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "dd4c3790-942e-4837-a913-20638d59c2f8",
-        "title": "Quality Inspection/Final Test 1",
-        "active": false,
-        "date_updated": 1769307436,
-        "date_posted": 1769307436,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265817",
-        "locations": [
-            "Ashland, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "fa995a89-884a-4801-94ab-e3e49113201f",
-        "title": "Quality Inspection/Final Test 1",
-        "active": false,
-        "date_updated": 1769307052,
-        "date_posted": 1769307052,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265819",
-        "locations": [
-            "Ashland, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "f7cca141-1c4f-412f-bd20-b0f9f54337f4",
-        "title": "Quality Inspection/Final Test 1",
-        "active": false,
-        "date_updated": 1769307052,
-        "date_posted": 1769307052,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265816",
-        "locations": [
-            "Ashland, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "bd5ed310-8ed8-4dcb-9dba-cdff486a20d5",
-        "title": "Quality Inspection/Final Test 1",
-        "active": false,
-        "date_updated": 1769307064,
-        "date_posted": 1769307064,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265815",
-        "locations": [
-            "Ashland, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "b7e30c76-67b4-4ac6-8504-a9822321970d",
-        "title": "Quality Inspection/Final Test 1",
-        "active": false,
-        "date_updated": 1769307051,
-        "date_posted": 1769307051,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265814",
-        "locations": [
-            "Ashland, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "430eadcd-7d32-49ce-b835-8346325254ed",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769306962,
-        "date_posted": 1769306962,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046999",
-        "locations": [
-            "Whiteley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "f83eb69f-051c-4873-9a8f-790ae14ac55d",
@@ -252,24 +144,6 @@
             "Liverpool, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "f1383e72-7b8f-4e8b-a302-6c03a6bd75db",
-        "title": "Quality Inspection/Final Test 1",
-        "active": false,
-        "date_updated": 1769307042,
-        "date_posted": 1769307042,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265818",
-        "locations": [
-            "Ashland, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -246514,7 +246388,7 @@
         "company_name": "IMA Financial Group",
         "id": "6a9378a8-2a47-4aa5-9d9b-5187d45c7f4d",
         "title": "Business Intelligence Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1783463761,
         "date_posted": 1783462726,
         "url": "https://imacorp.com/careers/openings/5181420007?gh_jid=5181420007",
@@ -387559,7 +387433,7 @@
         "company_name": "Ovative",
         "id": "f5ca4ce4-ce52-4332-ac61-8e467a9928d5",
         "title": "Analyst, Digital Marketing & Measurement",
-        "active": true,
+        "active": false,
         "date_updated": 1789078455,
         "date_posted": 1789078079,
         "url": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Digital-Marketing---Measurement_JR100284",
@@ -399038,7 +398912,7 @@
         "company_name": "Sirona Medical",
         "id": "373a9878-b32b-4c85-8ce6-20b6df03c8b3",
         "title": "Go-To-Market Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789972777,
         "date_posted": 1789972580,
         "url": "https://job-boards.greenhouse.io/sironamedical/jobs/4736127005",
