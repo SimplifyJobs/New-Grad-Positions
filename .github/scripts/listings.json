@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f83eb69f-051c-4873-9a8f-790ae14ac55d",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769336743,
-        "date_posted": 1769336743,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047004",
-        "locations": [
-            "Swindon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "849acfce-7e6e-4385-a2d6-93d59fe087f5",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769336742,
-        "date_posted": 1769336742,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047005",
-        "locations": [
-            "Swindon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Westinghouse Electric Company",
         "id": "fe4dfc9c-f68a-4e18-97bd-8a1907d556d7",
@@ -230614,7 +230578,7 @@
         "company_name": "United Launch Alliance",
         "id": "a9fbf7a6-072c-49b7-8d37-98b18cf5d5b5",
         "title": "Configuration Analysis Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782828721,
         "date_posted": 1782828479,
         "url": "https://jobs.ulalaunch.com/job/Centennial-Configuration-Analysis-Specialist-1-CO-80112/1404411000/?ats=successfactors",
@@ -368963,7 +368927,7 @@
         "company_name": "Baker Hughes",
         "id": "5f5d7b2b-5bc8-4c3e-9170-df0bc56d2312",
         "title": "Electronic Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786021741,
         "date_posted": 1783519776,
         "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-HA-FARNBOROUGH-107-RANGE-ROAD/Electrical-Engineer_R165866",
@@ -393658,7 +393622,7 @@
         "company_name": "RTX",
         "id": "e9a5d592-1c52-4eef-a4bf-e1bedc17f3cc",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789512186,
         "date_posted": 1789430400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01874953",
@@ -399029,7 +398993,7 @@
         "company_name": "Avis Budget Group",
         "id": "3e65a8e9-cfc2-4798-af5d-70e43087cbf2",
         "title": "Data Analyst - Commercial",
-        "active": true,
+        "active": false,
         "date_updated": 1790000461,
         "date_posted": 1789948800,
         "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Avis-Budget-House-HQ/Data-Analyst_R0190645",
@@ -400250,6 +400214,26 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Biamp",
+        "id": "b224d1db-9cf1-4c29-a0cf-993451e0fa99",
+        "title": "Firmware Engineer",
+        "active": true,
+        "date_updated": 1790074442,
+        "date_posted": 1789430400,
+        "url": "https://biamp.wd12.myworkdayjobs.com/Biamp/job/Rochester-NY/Firmware-Engineer_JR100438",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Biamp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
