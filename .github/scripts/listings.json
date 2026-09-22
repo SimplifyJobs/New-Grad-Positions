@@ -330928,7 +330928,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -400233,6 +400233,87 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "b75d9a5e-5bbf-4016-8d19-1384e5528fdf",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1790039701,
+        "date_posted": 1789948800,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0171030",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rockwell Automation",
+        "id": "71b68af2-1552-4b4c-82c3-a2d1bfee150d",
+        "title": "Leadership Development Program - Product Engineering & Development",
+        "active": true,
+        "date_updated": 1790039701,
+        "date_posted": 1789948800,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Leadership-Development-Program--Product-Engineering---Development_R26-6888-1",
+        "locations": [
+            "Mayfield Heights, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "5b6d1005-f538-4163-bdf8-2fc73e2db74e",
+        "title": "Firmware Engineer - HID Bluetooth",
+        "active": true,
+        "date_updated": 1790039341,
+        "date_posted": 1790039268,
+        "url": "https://jobs.apple.com/en-us/details/200684986",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Super Micro Computer",
+        "id": "53729738-db1e-4e84-9604-d02b38c5655b",
+        "title": "Hardware Design Engineer",
+        "active": true,
+        "date_updated": 1790039341,
+        "date_posted": 1790039296,
+        "url": "https://jobs.supermicro.com/job/San-Jose-Hardware-Design-Engineer-Cali/1432310800/?ats=successfactors",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Super-Micro-Computer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
