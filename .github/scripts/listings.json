@@ -243180,7 +243180,7 @@
         "company_name": "Capital One",
         "id": "cb80a471-e8b3-42e2-9637-705360e8b8dd",
         "title": "Product Development Program Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1783347121,
         "date_posted": 1783346926,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Program-Associate---2027_R244269-1",
@@ -399431,7 +399431,7 @@
         "company_name": "Slice (slicelife.com)",
         "id": "724c692b-60b3-40ed-a47a-d7826e1e55f6",
         "title": "Software Developer - Deploy & Run",
-        "active": true,
+        "active": false,
         "date_updated": 1790031061,
         "date_posted": 1790029827,
         "url": "https://slice.careers/careers-listing?gh_jid=8220121",
@@ -400295,5 +400295,83 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MBDA",
+        "id": "729e0655-7375-40c2-8743-9005bfda3209",
+        "title": "Operational Analysis Graduate Programme",
+        "active": true,
+        "date_updated": 1790089006,
+        "date_posted": 1790035200,
+        "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Operational-Analysis---Graduate-Programme-2027_R38197",
+        "locations": [
+            "Stevenage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MBDA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Watts Water",
+        "id": "9c19cdd4-3943-4268-895b-3e6eb19e687e",
+        "title": "Commercial Leadership Development Program",
+        "active": true,
+        "date_updated": 1790088661,
+        "date_posted": 1790035200,
+        "url": "https://wattswater.wd5.myworkdayjobs.com/external/job/North-Andover-MA/Commercial-Leadership-Development-Program_10017600",
+        "locations": [
+            "North Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Watts-Water",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tyson Foods",
+        "id": "d50d1577-1658-457d-a65f-f577f9996936",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1790087550,
+        "date_posted": 1790035200,
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-on-Thompson---Springdale-Arkansas/Data-Engineer-I_R0483830-1",
+        "locations": [
+            "Springdale, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Tyson-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sony Pictures Entertainment",
+        "id": "76676321-16e8-4b48-8a78-7882d0f4a234",
+        "title": "Graduate Business Planning & Insights Analyst - Transactional",
+        "active": true,
+        "date_updated": 1790087498,
+        "date_posted": 1788393600,
+        "url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/London-United-Kingdom/Analyst--Transactional-Business-Planning---Insights_JR114318",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Pictures-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
