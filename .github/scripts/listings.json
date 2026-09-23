@@ -2,25 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Lloyds Bank",
-        "id": "c2173356-cc72-497f-a8b7-c15b6925e7d7",
-        "title": "Software Engineer - Cards",
-        "active": false,
-        "date_updated": 1769442396,
-        "date_posted": 1769442396,
-        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Chester/Software-Engineer--Cards-_135039",
-        "locations": [
-            "Manchester, UK",
-            "Liverpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Ticketmaster",
         "id": "fcf16df6-93e1-4a3d-8edf-5b22b0179a53",
         "title": "Senior Software Engineer",
@@ -59029,24 +59010,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fospha",
-        "id": "5e123e1c-484d-4cf0-baa9-20781de7f452",
-        "title": "GTM Engineer",
-        "active": false,
-        "date_updated": 1772465799,
-        "date_posted": 1769441937,
-        "url": "https://job-boards.greenhouse.io/fosphamarketing/jobs/7556215",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Fospha",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Bank of Montreal",
         "id": "f87afa85-2004-41a4-b51e-1eefe2c6a6d3",
@@ -63483,26 +63446,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CoreWeave",
-        "id": "c58729a0-86d0-4011-b632-b65ba4603010",
-        "title": "Data Center Technician - Reno",
-        "active": false,
-        "date_updated": 1772627254,
-        "date_posted": 1769442049,
-        "url": "https://coreweave.com/careers/job?4647969006&board=coreweave&gh_jid=4647969006",
-        "locations": [
-            "Reno, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/CoreWeave",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
         ]
     },
     {
@@ -75167,7 +75110,7 @@
         "company_name": "Relay",
         "id": "857527ed-b30e-4efa-a3c6-7494c08232b0",
         "title": "Associate Product Manager-Internal Tools & Automation",
-        "active": true,
+        "active": false,
         "date_updated": 1773267460,
         "date_posted": 1773267460,
         "url": "https://job-boards.greenhouse.io/relaypro/jobs/7698008",
@@ -347327,7 +347270,7 @@
         "company_name": "PayIt",
         "id": "896a2ce6-0e75-40f5-9b7e-811079dfe6bb",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787693401,
         "date_posted": 1787693374,
         "url": "https://payitgov.com/careers-list?gh_jid=7975853003",
