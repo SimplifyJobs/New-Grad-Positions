@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Danaher Corporation",
-        "id": "db4f0640-8449-4171-be99-b146cdbac1f2",
-        "title": "Procurement Data Analyst",
-        "active": false,
-        "date_updated": 1769432221,
-        "date_posted": 1769432221,
-        "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Cambridge-United-Kingdom/Procurement-Data-Analyst_R1304029",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "MUFG",
-        "id": "803e406d-cc6c-4d2e-b1ea-b629445bd34d",
-        "title": "Global Financial Crimes Analyst - Issues Management - Reporting & Data Analysis",
-        "active": false,
-        "date_updated": 1769431229,
-        "date_posted": 1769431229,
-        "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Irving-TX/Global-Financial-Crimes--Issues-Management---Reporting---Data-Analysis--Analyst_10070365-WD",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/MUFG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "c1b03001-5e08-4f5c-998b-bf7d5cac7df0",
@@ -361208,7 +361170,7 @@
         "company_name": "Intel",
         "id": "6f79a671-9821-417a-97cd-a1c96699cc9c",
         "title": "Database Application Development Engineer - Foundry Automation",
-        "active": true,
+        "active": false,
         "date_updated": 1788311952,
         "date_posted": 1788220800,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Database-Application-Development-Engineer_JR0286744",
@@ -394607,7 +394569,7 @@
         "company_name": "RTX",
         "id": "36a920b5-5fef-4b56-9386-d35c85e7ae48",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789569322,
         "date_posted": 1789516800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01875565",
@@ -395579,7 +395541,7 @@
         "company_name": "Applied Materials",
         "id": "e7a67c80-7ef6-4971-81d8-fb7813d0ae1b",
         "title": "AI Materials Research Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789607162,
         "date_posted": 1789516800,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Materials-Research-Engineer_R2628482-1",
@@ -398335,7 +398297,7 @@
         "company_name": "NVIDIA",
         "id": "52b0eaed-3292-4b7a-9fac-09fdb5fe196a",
         "title": "Research Scientist - Networking Research",
-        "active": true,
+        "active": false,
         "date_updated": 1789780393,
         "date_posted": 1789689600,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Networking-Research---PhD-New-College-Grad-2026_JR2024900-1",
@@ -399062,7 +399024,7 @@
         "company_name": "McKesson",
         "id": "b4b4d865-c092-4219-8f56-7fe1585b9ca0",
         "title": "Scientific Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790029436,
         "date_posted": 1789948800,
         "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Scientific-Data-Analyst-I_JR0153748",
