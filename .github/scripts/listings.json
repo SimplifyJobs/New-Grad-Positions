@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Liberis",
-        "id": "79e89f1e-a767-4da4-8004-233c0154d90d",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1769425713,
-        "date_posted": 1769425713,
-        "url": "https://job-boards.greenhouse.io/liberis/jobs/7548471",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Liberis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Danaher Corporation",
         "id": "db4f0640-8449-4171-be99-b146cdbac1f2",
@@ -248826,7 +248808,7 @@
         "company_name": "Intel",
         "id": "ac371a61-176d-4cbb-a098-a8d32e0b88d5",
         "title": "Package Failure Analysis Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783550551,
         "date_posted": 1783548666,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Package-Failure-Analysis-Engineer_JR0285289",
@@ -330653,7 +330635,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -340804,7 +340786,7 @@
         "company_name": "Ohio State University",
         "id": "d2562450-53cf-4da3-bbfb-1951dd76f3d9",
         "title": "Associate Applications Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787263572,
         "date_posted": 1787184000,
         "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Associate-Applications-Analyst_R157300-1",
@@ -397297,7 +397279,7 @@
         "company_name": "Accordience",
         "id": "d16f889c-c0de-4b1a-a9e1-c11315ada6be",
         "title": "Junior AI & Automation Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1789722952,
         "date_posted": 1789722601,
         "url": "https://accordience.com/jobs/?gh_jid=4934501101",
@@ -399820,7 +399802,7 @@
         "company_name": "Gannett Fleming",
         "id": "7cb75f90-8d8d-45a1-a809-491bcde77e4f",
         "title": "Associate Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1790030213,
         "date_posted": 1790028926,
         "url": "https://careers-gannettfleming.icims.com/jobs/14760/job?mobile=true&needsRedirect=false",
@@ -400129,7 +400111,7 @@
         "company_name": "Trustpilot",
         "id": "c081d641-edbe-4209-8d86-efa0cac36bad",
         "title": "Software Engineer 1 - Trust Tech",
-        "active": true,
+        "active": false,
         "date_updated": 1790086392,
         "date_posted": 1790086116,
         "url": "https://corporate.trustpilot.com/careers/job/8081169?gh_jid=8081169",
@@ -401487,6 +401469,46 @@
             "Tampa, FL"
         ],
         "company_url": "https://simplify.jobs/c/Apex-Service-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Grayce",
+        "id": "d1d59849-acaf-4fac-8763-72a6042a75f8",
+        "title": "Graduate Software Engineer - Bridgend",
+        "active": true,
+        "date_updated": 1790156162,
+        "date_posted": 1790155943,
+        "url": "https://apply.workable.com/grayce/j/1789116104/apply",
+        "locations": [
+            "Bridgend, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Grayce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anthropic",
+        "id": "7fcc0a66-89fe-4420-9a5f-181e85904774",
+        "title": "Associate Applied AI - Rotational Program",
+        "active": true,
+        "date_updated": 1790158689,
+        "date_posted": 1789598857,
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5425724008",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Anthropic",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
