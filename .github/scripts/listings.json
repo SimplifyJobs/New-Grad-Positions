@@ -311773,7 +311773,7 @@
         "company_name": "Merck",
         "id": "25f1d732-78f0-476f-9d25-b0f357ab023f",
         "title": "Software Engineer - AI Development",
-        "active": true,
+        "active": false,
         "date_updated": 1786065301,
         "date_posted": 1785974400,
         "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Software-Engineer---AI-Development_R408724-1",
@@ -330577,7 +330577,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -346537,7 +346537,7 @@
         "company_name": "DoorDash",
         "id": "1184bddc-5d14-4805-8849-f08c3efbfd74",
         "title": "AI Research Fellow - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1787648072,
         "date_posted": 1777587154,
         "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7848317",
@@ -398464,7 +398464,7 @@
         "company_name": "Leidos",
         "id": "9d8d8df4-5b75-448a-9eab-cda823f1a532",
         "title": "AI/ML Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1789942599,
         "date_posted": 1789862400,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-ML-Data-Scientist_R-00192633",
@@ -401455,6 +401455,113 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Honeywell",
+        "id": "ea902b82-59c8-4454-b4d9-e8acf43bf75b",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1790173477,
+        "date_posted": 1790173112,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157648",
+        "locations": [
+            "Duluth, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Google",
+        "id": "ad62d18d-6b0f-4699-a7e2-81a739918ed9",
+        "title": "Associate Product Manager - University Graduate",
+        "active": true,
+        "date_updated": 1790173435,
+        "date_posted": 1789463605,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/107272685397910214",
+        "locations": [
+            "San Jose, CA",
+            "San Bruno, CA",
+            "NYC",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Data Intellect",
+        "id": "e8249f6e-ca38-4ecd-b7e5-cc47d973905a",
+        "title": "Graduate STEM Developer - October Start",
+        "active": true,
+        "date_updated": 1790172901,
+        "date_posted": 1790172555,
+        "url": "https://jobs.smartrecruiters.com/DataIntellect/744000151366579",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Data-Intellect",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vanasse Hangen Brustlin",
+        "id": "cfb9fca3-22b5-49d5-aa22-bdb43af80cbb",
+        "title": "Transportation Safety Analyst",
+        "active": true,
+        "date_updated": 1790172734,
+        "date_posted": 1790172508,
+        "url": "https://careers-vhb.icims.com/jobs/6362/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Washington, DC",
+            "Raleigh, NC",
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanasse-Hangen-Brustlin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Renesas Electronics",
+        "id": "d0de901b-cec2-4fd8-9a36-b7f56e7f818f",
+        "title": "Customer Data Traceability Engineer",
+        "active": true,
+        "date_updated": 1790172541,
+        "date_posted": 1790172469,
+        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000151352783",
+        "locations": [
+            "Palm Bay, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Renesas-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
