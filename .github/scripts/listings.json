@@ -146721,7 +146721,7 @@
         "company_name": "Northumbria University",
         "id": "bdc0a0d6-e899-4815-963c-144ad2bfb399",
         "title": "KTP Associate: Software and Analytics Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1777021450,
         "date_posted": 1777021254,
         "url": "https://fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4035",
@@ -330653,7 +330653,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -361249,7 +361249,7 @@
         "company_name": "Versant",
         "id": "0272e0de-c540-444a-9e2e-63cc98f621e8",
         "title": "Software Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1788311423,
         "date_posted": 1788311223,
         "url": "https://jobs.smartrecruiters.com/Versant3/744000146840259",
@@ -381073,7 +381073,7 @@
         "company_name": "PortmanDentex",
         "id": "cc64603e-4a52-45f2-8179-ee7b5c08f0e7",
         "title": "Trainee Dental Nurse",
-        "active": true,
+        "active": false,
         "date_updated": 1788559741,
         "date_posted": 1788559649,
         "url": "https://jobs.smartrecruiters.com/PortmanDentex/744000147567429",
@@ -401471,6 +401471,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Apex Service Partners",
+        "id": "00c8a44c-b8b7-434e-a8d7-da14940b8617",
+        "title": "Business Intelligence Analyst - Data & Analytics",
+        "active": true,
+        "date_updated": 1790153822,
+        "date_posted": 1790028882,
+        "url": "https://careers-apexservicepartners.icims.com/jobs/24570/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Apex-Service-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
