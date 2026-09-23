@@ -401390,5 +401390,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astranis",
+        "id": "be1e4516-20dd-48d1-ba9e-3104abd835b5",
+        "title": "Flight Software Associate",
+        "active": true,
+        "date_updated": 1790127901,
+        "date_posted": 1790127884,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4704716006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
