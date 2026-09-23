@@ -62356,7 +62356,7 @@
         "company_name": "General Motors",
         "id": "0a4def13-9b3a-4f3a-b3c9-5a90b20c870b",
         "title": "Software Engineer AV HIL Platform and Services \u2013 University Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1772583464,
         "date_posted": 1772583464,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577",
@@ -223375,7 +223375,7 @@
         "company_name": "Mars",
         "id": "4654f268-c3f9-47f1-b7fa-6686e534b593",
         "title": "Industrial Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781907157,
         "date_posted": 1781906756,
         "url": "https://mars.wd3.myworkdayjobs.com/external/job/USA-South-Dakota-North-Sioux-City/Site-Industrial-Data-Engineer_R158037",
@@ -265521,7 +265521,7 @@
         "company_name": "Cisco",
         "id": "12dd10fa-f03d-4a52-a087-77079f0680c4",
         "title": "Failure Analysis Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784586424,
         "date_posted": 1784073600,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Failure-Analysis-Engineer_2018947",
@@ -276700,7 +276700,7 @@
         "company_name": "Pegatron Technologies LLC",
         "id": "4f97919a-e2f3-42e7-a1e7-6b964079b369",
         "title": "Electronic Engineer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1784791323,
         "date_posted": 1784787714,
         "url": "https://pegatrontechnologiesllc.applytojob.com/apply/Kz0NqBOqy0/Electronic-Engineer",
@@ -278888,7 +278888,7 @@
         "company_name": "Theodo",
         "id": "c790faa5-8f9d-4f89-89ec-44ddff30a6db",
         "title": "Graduate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784816822,
         "date_posted": 1784815611,
         "url": "https://jobs.lever.co/theodo/50719697-c4ea-4936-afad-aa887da576d0/apply",
@@ -294364,7 +294364,7 @@
         "company_name": "State Street",
         "id": "a1b78398-f928-4540-906d-107312019bc7",
         "title": "Junior SIEM Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785540241,
         "date_posted": 1785456000,
         "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Junior-SIEM-Data-Engineer_R-794329",
@@ -330163,7 +330163,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -336388,7 +336388,7 @@
         "company_name": "L3Harris Technologies",
         "id": "305c88f1-71fe-42aa-a836-a22087066e85",
         "title": "Data Architect Senior Associate - Business Intelligence",
-        "active": false,
+        "active": true,
         "date_updated": 1787105245,
         "date_posted": 1787105102,
         "url": "https://jobs.l3harris.com/job/Melbourne-Senior-Associate,-Data-Architect-FL-32901/1420890800/?ats=successfactors",
@@ -349159,7 +349159,7 @@
         "company_name": "Health Services Advisory Group",
         "id": "12a3b7d1-090a-40ac-aa68-6b353cf34dc1",
         "title": "Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1787781069,
         "date_posted": 1787780644,
         "url": "https://jobs.lever.co/hsag/2937f26a-3e66-4d42-ba61-c26e5b52f488/apply",
@@ -383324,7 +383324,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "6349bc40-c492-4b77-b268-08c149623f8c",
         "title": "Transit Management Analyst Trainee - Force Account",
-        "active": true,
+        "active": false,
         "date_updated": 1788907701,
         "date_posted": 1788906801,
         "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oOuLAfwn?nl=1&nl=1&fr=false",
@@ -401169,5 +401169,125 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Advocate Health Care",
+        "id": "48fa31a1-8714-413c-9943-2454cb1caf1e",
+        "title": "Advanced Analytics Developer Associate - Enterprise Advanced Analytics",
+        "active": true,
+        "date_updated": 1790202122,
+        "date_posted": 1790121600,
+        "url": "https://aah.wd5.myworkdayjobs.com/External/job/Remote/IT-Advanced-Analytics-Developer-Associate_R271506",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Advocate-Health-Care",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blue Origin",
+        "id": "88d5ca4b-8e90-43bd-bee0-6dd4360f3511",
+        "title": "Test Engineer 1 - Terawave",
+        "active": true,
+        "date_updated": 1790202085,
+        "date_posted": 1790121600,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Test-Engineer-I---TeraWave_R72943-1",
+        "locations": [
+            "Washington",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amgen",
+        "id": "2d23863f-49e1-4783-aab6-4f76106c7d8d",
+        "title": "Associate AI Engineer - OI&A",
+        "active": true,
+        "date_updated": 1790201872,
+        "date_posted": 1790121600,
+        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Associate-AI-Engineer--OI-A_R-255988",
+        "locations": [
+            "Thousand Oaks, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amgen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Framatome",
+        "id": "367e2e43-5881-4312-9e29-9606b3347b8f",
+        "title": "Computer Science Engineer 1 - Cranberry Township",
+        "active": true,
+        "date_updated": 1790201827,
+        "date_posted": 1790201183,
+        "url": "https://careers-framatome.icims.com/jobs/3408/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Cranberry Township, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Framatome",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Humana",
+        "id": "5c662c18-a1fd-4227-99a3-140c17cabb69",
+        "title": "Data Engineer - Platform Innovation and Engineering",
+        "active": true,
+        "date_updated": 1790201342,
+        "date_posted": 1788329613,
+        "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Data-Engineer---Platform-Innovation-and-Engineering_R-423155",
+        "locations": [
+            "Louisville, KY",
+            "Nashville, TN",
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Humana",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Meta",
+        "id": "d86e8639-bfcd-43df-a111-78917061d7ac",
+        "title": "Rotational Product Manager",
+        "active": true,
+        "date_updated": 1790201161,
+        "date_posted": 1790201084,
+        "url": "https://www.metacareers.com/jobs/1090585757172959",
+        "locations": [
+            "Menlo Park, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
