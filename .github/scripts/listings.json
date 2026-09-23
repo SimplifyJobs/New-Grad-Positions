@@ -330653,7 +330653,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -364032,7 +364032,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "c570aaad-51ef-443c-b2ae-5ce19cb13d6e",
         "title": "Electrical Hardware Engineer Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1788418985,
         "date_posted": 1788307200,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer-Graduate_1213434-1",
@@ -399780,7 +399780,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "6ba49fd7-fca8-4128-a0e2-5d8cffc9661e",
         "title": "Software Acquisition Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790030298,
         "date_posted": 1789948800,
         "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/IC-2027-Software-Acquisition-Engineer_R016339",
@@ -401405,6 +401405,67 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "797457af-9c7f-488f-af3b-d623ab5051d0",
+        "title": "Ecosystem Analyst Graduate - TikTok LIVE",
+        "active": true,
+        "date_updated": 1790144587,
+        "date_posted": 1790144306,
+        "url": "https://lifeattiktok.com/search/7687814085886527797",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "39e6bebf-6cf0-4612-982e-5fd9d4af764d",
+        "title": "Ecosystem Analyst Graduate - LLM/Enforcement - TikTok Live",
+        "active": true,
+        "date_updated": 1790144587,
+        "date_posted": 1790144306,
+        "url": "https://lifeattiktok.com/search/7687813753283332357",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "e52513e2-804f-43b4-ae87-411d4c56ff26",
+        "title": "Electrical/Hardware Engineer 1",
+        "active": true,
+        "date_updated": 1790144371,
+        "date_posted": 1790035200,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer-I_1213860",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
