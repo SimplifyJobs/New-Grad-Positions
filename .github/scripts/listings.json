@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "20afcb85-d827-4e38-a70f-d63cb0d04cbe",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1769483034,
-        "date_posted": 1769483034,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2026-Associate-Software-Engineer-or-Software-Engineer---Chandler-AZ_R10220701-1",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Ameriprise Financial",
         "id": "5527d87f-3f81-4fb2-a122-f8db337b5cec",
