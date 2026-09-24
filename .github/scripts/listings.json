@@ -347931,7 +347931,7 @@
         "company_name": "BrightView",
         "id": "f1342c8d-c8b7-41f2-ba5e-566c70ba8064",
         "title": "Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787780653,
         "date_posted": 1787780366,
         "url": "https://careers-brightviewhealth.icims.com/jobs/2888/job?mobile=true&needsRedirect=false",
@@ -348881,7 +348881,7 @@
         "company_name": "DataVisor",
         "id": "fd3f0fb9-681d-4c31-9e48-221580bf7c03",
         "title": "Data Scientist - Fraud Detection",
-        "active": true,
+        "active": false,
         "date_updated": 1787799961,
         "date_posted": 1787799880,
         "url": "https://apply.workable.com/datavisor-jobs/j/84FBC84E52/apply",
@@ -387681,7 +387681,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "feb3b637-f77d-4037-9b7d-e88a2d19d31c",
         "title": "Electrical Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789175495,
         "date_posted": 1789084800,
         "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/IC-2027-Electrical-Design-Engineer_R016563",
@@ -400573,6 +400573,89 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "c6cb2d15-dacd-4636-a6bb-c9daad5a5a76",
+        "title": "Graduate Systems Engineer",
+        "active": true,
+        "date_updated": 1790213941,
+        "date_posted": 1790213881,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8842006002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "8515ff80-92df-47dc-9218-3e45838db732",
+        "title": "Graduate Firmware Engineer",
+        "active": true,
+        "date_updated": 1790213941,
+        "date_posted": 1790213881,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841995002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "3edda2ba-a5c3-492e-a00e-d077ca452e29",
+        "title": "Graduate Performance Engineer",
+        "active": true,
+        "date_updated": 1790213941,
+        "date_posted": 1790213881,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841990002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Parallel Systems",
+        "id": "e52a13ce-a653-4971-8d74-8ac2a350f68f",
+        "title": "Full Stack Software Engineer 1 - Interfaces",
+        "active": true,
+        "date_updated": 1790213433,
+        "date_posted": 1790213395,
+        "url": "https://boards.greenhouse.io/parallel/jobs/5247800007",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Parallel-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
