@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uber",
-        "id": "22c0da63-7457-4862-9b30-49aa8ff9f3ad",
-        "title": "Software Engineer 2 - Frontend",
-        "active": false,
-        "date_updated": 1769479858,
-        "date_posted": 1769479858,
-        "url": "https://www.uber.com/global/en/careers/list/152617/",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Maritz",
         "id": "9be8c84f-9ef6-4847-827a-03ab36d24c7d",
@@ -58,62 +38,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Brown University Health",
-        "id": "9ff17d19-4d2a-4f26-a2c4-5f76efc65984",
-        "title": "Applications Analyst",
-        "active": false,
-        "date_updated": 1769480929,
-        "date_posted": 1769480929,
-        "url": "https://brownhealth.wd12.myworkdayjobs.com/External_Careers/job/Brown-University-Health/Applications-Analyst_JR-80453",
-        "locations": [
-            "Providence, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/Brown-University-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "eadfac54-0e35-4881-94d7-f4f3833afbac",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769480259,
-        "date_posted": 1769480259,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047187",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1977f852-3451-4ce0-b1f9-03f4e299d5f9",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769480263,
-        "date_posted": 1769480263,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047186",
-        "locations": [
-            "Tunbridge Wells, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
