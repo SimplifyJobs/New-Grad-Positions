@@ -209509,7 +209509,7 @@
         "company_name": "RTX",
         "id": "70a25a5c-fceb-42fd-8775-06160a182225",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781217309,
         "date_posted": 1781215848,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01852152",
@@ -384933,7 +384933,7 @@
         "company_name": "ALTEN Technology",
         "id": "2650514c-446b-4e30-9cf5-345cde63cf67",
         "title": "Data Collection Operator 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789080471,
         "date_posted": 1789080205,
         "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5235055007",
@@ -400396,5 +400396,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Caterpillar",
+        "id": "ff69f8ce-2a41-499e-bf69-3d90507eb069",
+        "title": "Java Engineer",
+        "active": true,
+        "date_updated": 1790261641,
+        "date_posted": 1790208000,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Java-Engineer_R0000394560",
+        "locations": [
+            "Peoria, IL",
+            "Dallas, TX",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
