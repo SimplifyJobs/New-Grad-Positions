@@ -2,44 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Apex Fintech Solutions",
-        "id": "5a86b090-ac5d-4d51-87be-aa632f40e18c",
-        "title": "Software Engineer 1 - Java",
-        "active": false,
-        "date_updated": 1769809702,
-        "date_posted": 1769472652,
-        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--Java-_JR104035-1",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Apex-Fintech-Solutions",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Applied Materials",
-        "id": "6ab49a4d-dae4-4da4-9e68-2e4f290342e0",
-        "title": "2026 Field Service Engineer \u2013 New College Graduate Rotational Program \u2013 College Grad - Bachelor's Degree - US-Based",
-        "active": false,
-        "date_updated": 1769472167,
-        "date_posted": 1769472167,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Field-Service-Engineer---New-College-Graduate-Rotational-Program--College-Grad---Bachelor-s-Degree--US-Based-_R2516813",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Uber",
         "id": "22c0da63-7457-4862-9b30-49aa8ff9f3ad",
         "title": "Software Engineer 2 - Frontend",
