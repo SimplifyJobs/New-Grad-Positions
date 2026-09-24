@@ -315384,7 +315384,7 @@
         "company_name": "Deloitte",
         "id": "071ed622-765f-4844-a5d5-2482916aec1e",
         "title": "Cyber Software Engineering Analyst - Government & Public Services - Cyber Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786412257,
         "date_posted": 1786412033,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Cyber-Software-Engineering/362393",
@@ -318039,7 +318039,7 @@
         "company_name": "Deloitte",
         "id": "8cac9d6d-19e9-4c38-90cc-0b440a2424e9",
         "title": "Cyber Analytics Solutions Delivery Analyst - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1786487509,
         "date_posted": 1786487041,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Cyber-Analytics-Solutions/362502",
@@ -328484,7 +328484,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -400415,6 +400415,24 @@
             "Calgary, AB, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Xero",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Catch22",
+        "id": "5f5ba969-11f5-4f22-afec-0bcaa6f651af",
+        "title": "Administrator and Data Analyst",
+        "active": true,
+        "date_updated": 1790241122,
+        "date_posted": 1790240699,
+        "url": "https://jobs.smartrecruiters.com/Catch22/744000151555600",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Catch22",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
