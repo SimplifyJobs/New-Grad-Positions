@@ -328284,7 +328284,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -344496,7 +344496,7 @@
         "company_name": "L3Harris Technologies",
         "id": "3c7e6389-ba90-4b7f-90b4-f90421053e95",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1787655441,
         "date_posted": 1787648487,
         "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1422832500/?ats=successfactors",
@@ -345491,7 +345491,7 @@
         "company_name": "General Dynamics UK",
         "id": "e745f9f7-84b2-4962-af95-6e3faf61a307",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787701865,
         "date_posted": 1787701755,
         "url": "https://jobs.smartrecruiters.com/GDMSI/744000145530335",
@@ -398582,7 +398582,7 @@
         "company_name": "RTX",
         "id": "3cd2d4bf-83be-48d7-8ec6-013ff39cecab",
         "title": "Hardware Test Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790117097,
         "date_posted": 1790035200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Hardware-Test-Engineer-I--Onsite-_01877099",
@@ -400355,6 +400355,46 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kitware",
+        "id": "11592e4e-a518-4c9e-9f89-8c2340373f6b",
+        "title": "Annotation Specialist - Computer Vision",
+        "active": true,
+        "date_updated": 1790259489,
+        "date_posted": 1790259437,
+        "url": "https://jobs.lever.co/kitware/5b5accb2-beb3-4f83-8e25-05d91d3bf9dc/apply",
+        "locations": [
+            "Clifton Park, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Kitware",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "IPT Global",
+        "id": "4dc81515-1c83-4e6b-b045-6710480f8d74",
+        "title": "Junior Data Scientist - Petroleum Engineering & Well Integrity",
+        "active": true,
+        "date_updated": 1790258809,
+        "date_posted": 1790258719,
+        "url": "https://jobs.smartrecruiters.com/IPTGlobal/744000151598799",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/IPT-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
