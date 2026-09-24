@@ -227528,7 +227528,7 @@
         "company_name": "Roblox",
         "id": "b2121226-8983-4430-91a7-95bf8bc84e96",
         "title": "Senior Machine Learning Engineer - Systems - Embodied AI/Npcs",
-        "active": true,
+        "active": false,
         "date_updated": 1782858948,
         "date_posted": 1782857829,
         "url": "https://careers.roblox.com/jobs/8027587?gh_jid=8027587",
@@ -315266,7 +315266,7 @@
         "company_name": "Qualcomm",
         "id": "bf43a447-72a6-4c3d-a02f-6c1f20c138ea",
         "title": "Design Verification Engineer - ASICS Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786401280,
         "date_posted": 1786401123,
         "url": "https://qualcomm.eightfold.ai/careers/job/446720352855",
@@ -328759,7 +328759,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -361795,7 +361795,7 @@
         "company_name": "ViaSat",
         "id": "f65480d4-ea80-40b5-8df9-f91ba3d8d535",
         "title": "Software Engineer - Automation",
-        "active": true,
+        "active": false,
         "date_updated": 1788415122,
         "date_posted": 1788401668,
         "url": "https://careers.viasat.com/jobs/6330?icims=1",
@@ -398578,7 +398578,7 @@
         "company_name": "Adobe",
         "id": "b2627976-395e-42cd-8612-f81fe8d44b30",
         "title": "AI Forward Deployed Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790117739,
         "date_posted": 1790035200,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-University-Graduate---AI-Forward-Deployed-Engineer_R172018",
@@ -400511,6 +400511,68 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astranis",
+        "id": "c343edb5-a613-4009-b00b-9dda7f9a8fee",
+        "title": "Hardware Design Associate - Software Defined Radio Team",
+        "active": true,
+        "date_updated": 1790212448,
+        "date_posted": 1790212088,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4715983006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astranis",
+        "id": "f0864a1a-7c3b-4d88-a9a0-79306b36bd39",
+        "title": "Field-Programmable Gate Array Associate",
+        "active": true,
+        "date_updated": 1790212681,
+        "date_posted": 1790212086,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4704813006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astranis",
+        "id": "29d9952e-28db-4689-b511-f49fd7d06471",
+        "title": "FPGA Associate",
+        "active": true,
+        "date_updated": 1790212681,
+        "date_posted": 1790212086,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4704811006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
