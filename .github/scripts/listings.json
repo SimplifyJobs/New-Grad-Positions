@@ -1,150 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "cd76c8f5-8974-4739-8292-6ea4cbb34bbc",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769509665,
-        "date_posted": 1769509665,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047203",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Aramark",
-        "id": "89d6a37e-3665-4526-af7e-33129d287ef0",
-        "title": "Barista",
-        "active": false,
-        "date_updated": 1769509615,
-        "date_posted": 1769509615,
-        "url": "https://aramarkcareers.com/UnitedStates/job/Overland-Park-Barista-Shamrock-Trading-Corporation-KS-66212/1359057200/?ats=successfactors",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Aramark",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Aramark",
-        "id": "8050a9a1-2c2e-46d5-a175-40a8b09c3b7b",
-        "title": "Cook",
-        "active": false,
-        "date_updated": 1769509643,
-        "date_posted": 1769509643,
-        "url": "https://aramarkcareers.com/UnitedStates/job/Overland-Park-Cook-Shamrock-Trading-Corporation-KS-66212/1356610700/?ats=successfactors",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Aramark",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ServiceNow",
-        "id": "8b36c5cd-89df-466a-b1a7-61ac88a47543",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1769508281,
-        "date_posted": 1769508281,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000105800866",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "e38f7164-328c-48d4-af23-a936a3ddd5f7",
-        "title": "AI Data Specialist - Kansas - US",
-        "active": false,
-        "date_updated": 1769509738,
-        "date_posted": 1769509738,
-        "url": "https://jobs.lever.co/rws/8156d182-8db3-461d-8469-cc09beee6eb5/apply",
-        "locations": [
-            "Florida"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "5120f22c-4bca-424c-893a-d0828a8b9833",
-        "title": "AI Data Specialist - Iowa - US",
-        "active": false,
-        "date_updated": 1769509733,
-        "date_posted": 1769509733,
-        "url": "https://jobs.lever.co/rws/60cd073a-5a37-4c1f-a72d-285f156a510e/apply",
-        "locations": [
-            "Des Moines, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "47eeecb0-7dc8-48f9-a8c6-622e4a0e0e02",
-        "title": "AI Data Specialist - Kentucky - US",
-        "active": false,
-        "date_updated": 1769509734,
-        "date_posted": 1769509734,
-        "url": "https://jobs.lever.co/rws/0220192f-30e4-45af-84d3-2aa82ca6f833/apply",
-        "locations": [
-            "Florida"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "3dbcadb0-27b5-4998-bca6-1733b3a17fba",
-        "title": "AI Data Specialist-Oklahoma - US",
-        "active": false,
-        "date_updated": 1769509737,
-        "date_posted": 1769509737,
-        "url": "https://jobs.lever.co/rws/69ed1782-bbe5-4f7a-8a8c-b26e0ae89d78/apply",
-        "locations": [
-            "Florida"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lloyds Bank",
         "id": "42a6c4fb-43c2-4f93-a50d-8c855ad408b4",
@@ -4008,24 +3864,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "7d740565-1780-4d06-b412-b56727a8fb19",
-        "title": "AI Data Specialist - Louisana - US",
-        "active": false,
-        "date_updated": 1769680987,
-        "date_posted": 1769509735,
-        "url": "https://jobs.lever.co/rws/581ffd9f-1006-48c6-9c8e-085fce2aab62/apply",
-        "locations": [
-            "Florida"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -318950,7 +318788,7 @@
         "company_name": "ByteDance",
         "id": "dba5405f-12de-4a7e-a7b7-323dd31fc670",
         "title": "Research Engineer Graduate - Seed Infra - PhD",
-        "active": false,
+        "active": true,
         "date_updated": 1786505581,
         "date_posted": 1786505447,
         "url": "https://jobs.bytedance.com/en/position/7671034858089040181/detail",
@@ -335326,7 +335164,7 @@
         "company_name": "Duetto Research",
         "id": "818c0cd0-d0e6-4a8b-ad0d-80cf17c1f4ad",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787146561,
         "date_posted": 1787146399,
         "url": "https://job-boards.greenhouse.io/duettoresearch/jobs/8138628",
@@ -400436,5 +400274,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "d1de5351-a1c6-4497-bcfd-241a21eab0c3",
+        "title": "Student Researcher",
+        "active": true,
+        "date_updated": 1790245801,
+        "date_posted": 1780610904,
+        "url": "https://jobs.bytedance.com/en/position/7623544831999346997/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
