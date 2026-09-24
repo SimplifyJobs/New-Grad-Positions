@@ -144461,7 +144461,7 @@
         "company_name": "Marvell",
         "id": "cbb8ae25-63c9-43e3-a103-196e25005dd7",
         "title": "Accelerated Computing Solutions Analyst \u2013 Early Career",
-        "active": false,
+        "active": true,
         "date_updated": 1777068541,
         "date_posted": 1777068427,
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Accelerated-Computing-Solutions-Analyst---Early-Career_2601165",
@@ -248884,7 +248884,7 @@
         "company_name": "Altera Corporation",
         "id": "c7294155-f50e-42f7-94e5-23050ed09c3a",
         "title": "Physical Design Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783645921,
         "date_posted": 1783555200,
         "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Physical-Design-Engineer_R02760",
@@ -307890,7 +307890,7 @@
         "company_name": "Salesforce",
         "id": "90326487-43c7-4181-ac71-44e331484bf4",
         "title": "Software Engineer College Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1786026966,
         "date_posted": 1785974400,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1",
@@ -307933,7 +307933,7 @@
         "company_name": "Salesforce",
         "id": "c92fc7de-e326-4327-8f9c-5195b90591e9",
         "title": "Software Engineer College Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1786026841,
         "date_posted": 1785974400,
         "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250",
@@ -328028,7 +328028,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -353479,7 +353479,7 @@
         "company_name": "EisnerAmper",
         "id": "99ceee79-3f21-401d-8568-200921f46ba8",
         "title": "Outsourcing IT Staff 1",
-        "active": false,
+        "active": true,
         "date_updated": 1788209905,
         "date_posted": 1788134400,
         "url": "https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/New-York/XMLNAME-2026-Outsourcing-IT-Staff-I_Req-9328",
@@ -354236,7 +354236,7 @@
         "company_name": "L3Harris Technologies",
         "id": "349400a4-4185-470e-84eb-5b65b346c7e1",
         "title": "Software Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1788224370,
         "date_posted": 1788220645,
         "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1425107000/?ats=successfactors",
@@ -391022,7 +391022,7 @@
         "company_name": "Bruno Independent Living Aids",
         "id": "f65facdb-07b5-489d-bda0-a527041c6dd5",
         "title": "Junior Software Developer - AI Focus",
-        "active": false,
+        "active": true,
         "date_updated": 1789511041,
         "date_posted": 1789510393,
         "url": "https://careers-bruno.icims.com/jobs/3336/job?mobile=true&needsRedirect=false",
@@ -397522,7 +397522,7 @@
         "company_name": "Wise",
         "id": "d1ffc984-76b9-475f-9274-cc90c1c97125",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790086142,
         "date_posted": 1790086000,
         "url": "https://jobs.smartrecruiters.com/Wise/744000151030889",
@@ -400237,6 +400237,401 @@
             "Hanover, MD"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "4578a39b-4ffb-4224-8d71-8f1e9310819f",
+        "title": "Product Development Failure Analysis Engineer New Grad - HBM PYE",
+        "active": true,
+        "date_updated": 1790288773,
+        "date_posted": 1790287978,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Senior-or-Staff-HBM-PYE-Product-Development-Failure-Analysis-Engineer_JR110624",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Charles Schwab",
+        "id": "b1f4aae2-b800-4b1c-9024-8c1f9ccc8d18",
+        "title": "Java Software Engineer",
+        "active": true,
+        "date_updated": 1790288281,
+        "date_posted": 1790287790,
+        "url": "https://career-schwab.icims.com/jobs/125797/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Austin, TX",
+            "Southlake, TX",
+            "Jersey City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-Schwab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Goldbelt",
+        "id": "c1dc38f5-2da8-4e4d-ad87-f34626d3784b",
+        "title": "Junior Data Analyst",
+        "active": true,
+        "date_updated": 1790287741,
+        "date_posted": 1790287739,
+        "url": "https://talent.goldbelt.com/jobs/20717?icims=1",
+        "locations": [
+            "Falls Church, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldbelt",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Goldbelt",
+        "id": "2ae09d65-beba-4787-856a-03f2f1764a14",
+        "title": "Junior Data Analyst",
+        "active": true,
+        "date_updated": 1790287741,
+        "date_posted": 1790287738,
+        "url": "https://careers-goldbeltapex.icims.com/jobs/20717/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Falls Church, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldbelt",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AMD",
+        "id": "18ff49cc-90de-420e-b2ae-2d3a4f5d1b4e",
+        "title": "Engineering Lab Operator",
+        "active": true,
+        "date_updated": 1790287741,
+        "date_posted": 1790287704,
+        "url": "https://careers.amd.com/jobs/92633?icims=1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "2ec98858-3652-4512-8a10-1c0e588bac28",
+        "title": "Data Scientist New Grad - Bachelor's/Master's",
+        "active": true,
+        "date_updated": 1790288473,
+        "date_posted": 1790208000,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Data-Scientist-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2627684",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "8da770ee-b0ee-4c1d-b873-0b6c03063bfa",
+        "title": "Senior Associate Software Engineer - Software Engineer",
+        "active": true,
+        "date_updated": 1790288439,
+        "date_posted": 1790287678,
+        "url": "https://jobs.l3harris.com/job/Richardson-Senior-Associate,-Software-Engineer-TX-75080/1433422000/?ats=successfactors",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Atlassian",
+        "id": "f3d76dcb-9751-40d8-ac06-018260f42846",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1790288414,
+        "date_posted": 1790287661,
+        "url": "https://globalcareers-atlassian.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Atlassian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Atlassian",
+        "id": "0d1c69d1-e147-4307-a0d9-73744bf4a2cd",
+        "title": "Machine Learning Engineer - 2027 Graduate",
+        "active": true,
+        "date_updated": 1790288418,
+        "date_posted": 1790287661,
+        "url": "https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Atlassian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Renesas Electronics",
+        "id": "97c69bfd-6ab9-43e5-b0ab-19b254c22d0b",
+        "title": "Validation Engineer",
+        "active": true,
+        "date_updated": 1790287741,
+        "date_posted": 1790287700,
+        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000151689350",
+        "locations": [
+            "Duluth, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Renesas-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Milwaukee Brewers",
+        "id": "b4ad0256-da37-4975-8e88-39e5fe38dc88",
+        "title": "Associate \u2013 Baseball Systems",
+        "active": true,
+        "date_updated": 1790287741,
+        "date_posted": 1790287646,
+        "url": "https://careers-brewers.icims.com/jobs/2791/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Milwaukee-Brewers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "3248cc32-d514-472b-9277-9ee00783420d",
+        "title": "Machine Learning Engineer New Grad",
+        "active": true,
+        "date_updated": 1790288304,
+        "date_posted": 1790208000,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Austin, TX",
+            "San Jose, CA",
+            "Waltham, MA",
+            "NYC",
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Adobe",
+        "id": "da40134e-6ed8-474d-b847-3c1d3e24eea6",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1790288299,
+        "date_posted": 1790208000,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Product-Manager_R171844",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pacific Northwest National Laboratory",
+        "id": "2c5076f5-5bce-4c5e-ba14-309f96f6dd40",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "date_updated": 1790288281,
+        "date_posted": 1790287586,
+        "url": "https://careers.pnnl.gov/jobs/12171?icims=1",
+        "locations": [
+            "Richland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pacific-Northwest-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Astranis",
+        "id": "677e8f2d-1a4c-4b80-b630-cc24cd4ff3df",
+        "title": "Software Developer Associate - Network Software",
+        "active": true,
+        "date_updated": 1790288230,
+        "date_posted": 1790287587,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4705615006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Advantage Solutions",
+        "id": "3bdeb832-72eb-4459-9f0b-87d94252cb37",
+        "title": "Category Insights Analyst",
+        "active": true,
+        "date_updated": 1790287585,
+        "date_posted": 1790287529,
+        "url": "https://uscareers2-asm.icims.com/jobs/441116/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bentonville, AR",
+            "Charleston, SC",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Advantage-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CCC Intelligent Solutions",
+        "id": "eca8ea10-de85-4351-8b0b-063c1196b4da",
+        "title": "Financial Intelligence Analyst - Financial Intelligence",
+        "active": true,
+        "date_updated": 1790287585,
+        "date_posted": 1790287585,
+        "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Financial-Intelligence-Analyst_0014859",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/CCC-Intelligent-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sabre Systems",
+        "id": "ed272437-aba4-4a92-8804-b4d3c53922b4",
+        "title": "Metrology Junior Electronics Engineer",
+        "active": true,
+        "date_updated": 1790287585,
+        "date_posted": 1790287522,
+        "url": "https://careers.sabresystems.com/jobs/4749?icims=1",
+        "locations": [
+            "Lexington Park, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Sabre-Systems-LLC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kyndryl",
+        "id": "da3ba969-e181-470f-b17c-7b26176f07be",
+        "title": "Associate Creative Technologist",
+        "active": true,
+        "date_updated": 1790288713,
+        "date_posted": 1786579200,
+        "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Associate-Creative-Technologist_R-66763",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Kyndryl",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
