@@ -271463,7 +271463,7 @@
         "company_name": "Deloitte",
         "id": "e2d5e6c7-81fd-47e1-9fbb-e3e3a0cb9c27",
         "title": "Consultative Offerings - Government & Public Services - AI & Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1784682559,
         "date_posted": 1784672056,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-AI-Data-Engineering/350596",
@@ -375769,7 +375769,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "c1446912-2074-4a9b-a131-41d8d9c232cb",
         "title": "Systems Engineer - Muos",
-        "active": true,
+        "active": false,
         "date_updated": 1788491087,
         "date_posted": 1788474214,
         "url": "https://careers-gdms.icims.com/jobs/74778/job?mobile=true&needsRedirect=false",
@@ -400294,6 +400294,105 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Thomson Reuters",
+        "id": "932c8282-94e7-4738-b5a0-8a89018ff99c",
+        "title": "Conference Producer Graduate",
+        "active": true,
+        "date_updated": 1790247361,
+        "date_posted": 1788393600,
+        "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Conference-Producer_JREQ203200",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thomson-Reuters",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "d6145bb9-e227-4e58-93d0-88787216d111",
+        "title": "Associate Technical Training - Tactical Communications Multimedia Training",
+        "active": true,
+        "date_updated": 1790245966,
+        "date_posted": 1788289303,
+        "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Technical-Training-NY-14609/1425480300/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "7402d967-f0d4-417e-8818-d1342baa43dd",
+        "title": "Electrical Design Engineer New Grad - Design Method",
+        "active": true,
+        "date_updated": 1790247019,
+        "date_posted": 1784505600,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Sr-Design-Engineer--DEG-Design-Method_JR104060",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SDSU Research Foundation",
+        "id": "eeb53961-7042-4fec-9272-ed291c610f32",
+        "title": "Undergraduate Student 3 - Communications Division Engineering Support",
+        "active": true,
+        "date_updated": 1790246931,
+        "date_posted": 1782165771,
+        "url": "https://careers-sdsurf.icims.com/jobs/20550/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SDSU-Research-Foundation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "f5e5e7e7-1d95-4907-8ad0-5a40a783a6ba",
+        "title": "Research Scientist - Seed Model - Vision",
+        "active": true,
+        "date_updated": 1790246161,
+        "date_posted": 1773392929,
+        "url": "https://jobs.bytedance.com/en/position/7362026100950321459/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
