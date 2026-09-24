@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lloyds Bank",
-        "id": "42a6c4fb-43c2-4f93-a50d-8c855ad408b4",
-        "title": "Data Engineer",
-        "active": false,
-        "date_updated": 1769520594,
-        "date_posted": 1769520594,
-        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Data-Engineer_141010-2",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Latitude",
         "id": "21a944c3-c693-4c11-a86e-98891491a98f",
@@ -60411,7 +60393,7 @@
         "company_name": "Freedom Technology Solutions Group",
         "id": "bad45630-f141-4950-b2ee-198543fd7a29",
         "title": "Junior Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772551225,
         "date_posted": 1772551225,
         "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5067514007",
