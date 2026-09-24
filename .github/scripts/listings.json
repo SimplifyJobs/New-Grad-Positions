@@ -1,98 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Latitude",
-        "id": "21a944c3-c693-4c11-a86e-98891491a98f",
-        "title": "Manufacturing/ Electronics Technician - Pcbs",
-        "active": false,
-        "date_updated": 1769526997,
-        "date_posted": 1769526997,
-        "url": "https://jobs.lever.co/latitudeinc/0f41c9eb-e975-462d-a080-dbfa0352f499/apply",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Latitude",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "db637861-ed55-4031-aee5-e7573a9755dd",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769526737,
-        "date_posted": 1769526737,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047235",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d9435688-2e84-4d81-ab53-e8708dd17890",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769526730,
-        "date_posted": 1769526730,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047244",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a11b0e50-d2f1-4e51-8f96-fabf6a18df82",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769526736,
-        "date_posted": 1769526736,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047245",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Howmet Aerospace",
-        "id": "b46421ef-a694-4f7f-85e6-ae07c3bf9ee0",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1769526685,
-        "date_posted": 1769526685,
-        "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115897",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Howmet-Aerospace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Cleveland Clinic",
         "id": "ae3290c8-a728-4e97-8f83-b4e3d570aff4",
@@ -135,66 +43,6 @@
             "Master's",
             "MBA",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brenntag",
-        "id": "cf01020f-45a4-4a45-863c-391b594ed254",
-        "title": "Master Data Analyst - Mths FTC",
-        "active": false,
-        "date_updated": 1769527879,
-        "date_posted": 1769527879,
-        "url": "https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/LeedsUnited-Kingdom/Master-Data-Analyst---18-mths-FTC_JR107647",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Brenntag",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brenntag",
-        "id": "a6bec681-b778-43bf-912d-7914df4faeed",
-        "title": "Master Data Analyst - Mths FTC",
-        "active": false,
-        "date_updated": 1769527877,
-        "date_posted": 1769527877,
-        "url": "https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/LeedsUnited-Kingdom/SAP-Project-Temporary-Cover-12_JR107648",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Brenntag",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brenntag",
-        "id": "2b01baa2-0e05-4906-94e3-b0659787efc8",
-        "title": "Master Data Analyst - Mths FTC",
-        "active": false,
-        "date_updated": 1769527879,
-        "date_posted": 1769527879,
-        "url": "https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/LeedsUnited-Kingdom/Master-Data-Analyst---2-years-FTC_JR107646",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Brenntag",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -1877,24 +1725,6 @@
             "United Kingdom"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Schroders",
-        "id": "6ba5fe03-a217-4a98-8314-ee27c263a5a2",
-        "title": "Investment Product Analyst",
-        "active": false,
-        "date_updated": 1769526575,
-        "date_posted": 1769526575,
-        "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1075",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Schroders",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -3825,26 +3655,6 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citizens Financial Group",
-        "id": "6a72ddd5-9465-4e7e-a040-43cdf143c05c",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1769681295,
-        "date_posted": 1769526764,
-        "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44410",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Citizens-Financial-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -15833,26 +15643,6 @@
             "Tewksbury, MA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "bdcb5527-0ad0-414d-b4d1-7dbbf201aea0",
-        "title": "Advanced Configuration Management Associate",
-        "active": false,
-        "date_updated": 1770282442,
-        "date_posted": 1769526650,
-        "url": "https://careers-gdms.icims.com/jobs/70264/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -306609,7 +306399,7 @@
         "company_name": "RBI",
         "id": "1396eb39-3e96-4ac9-a060-7577d4308d5f",
         "title": "Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785969601,
         "date_posted": 1785888000,
         "url": "https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Miami-Corporate-Office/Data-Engineer-I--Burger-King_R3622",
@@ -387443,7 +387233,7 @@
         "company_name": "Quantinuum",
         "id": "aeb2d0c2-2d89-43bd-b0a9-28f9116d050f",
         "title": "Optics Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789165764,
         "date_posted": 1789164972,
         "url": "https://jobs.eu.lever.co/quantinuum/ebb030b7-6bc2-4807-81da-3afc252d900f/apply",
@@ -400416,5 +400206,66 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Motorola",
+        "id": "ff18e564-ff73-44fc-ab72-2096b2a49076",
+        "title": "Junior Product Manager - Product Management",
+        "active": true,
+        "date_updated": 1790263621,
+        "date_posted": 1790208000,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Cambridge-UK-ZUK140/Junior-Product-Manager_R68841",
+        "locations": [
+            "Cambridge, UK",
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ABB",
+        "id": "d60aa1f1-7edf-4114-8ff6-293dff4175b4",
+        "title": "Manufacturing Systems Engineer - Applications Specialist",
+        "active": true,
+        "date_updated": 1790262361,
+        "date_posted": 1783166699,
+        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Stonehouse-Gloucestershire-United-Kingdom/Manufacturing-Systems-Engineer---Applications-Specialist_JR00036050",
+        "locations": [
+            "Stonehouse, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ABB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Globus Medical",
+        "id": "4e1b31d6-ef07-46f9-9370-144cc014e0b0",
+        "title": "Associate Pricing Analyst",
+        "active": true,
+        "date_updated": 1790263441,
+        "date_posted": 1786406400,
+        "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Pennsylvania---Collegeville/Pricing-Analyst_JR107484",
+        "locations": [
+            "Collegeville, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Globus-Medical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
