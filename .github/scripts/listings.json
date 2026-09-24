@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Ameriprise Financial",
-        "id": "5527d87f-3f81-4fb2-a122-f8db337b5cec",
-        "title": "Associate Data Scientist",
-        "active": false,
-        "date_updated": 1769497600,
-        "date_posted": 1769497600,
-        "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Minneapolis-Minnesota/Associate-Data-Scientist_R26_0282-1",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Ameriprise-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Canadian Tire",
         "id": "f9121e60-94b1-4ec1-9eee-eeedf0529d3f",
         "title": "2026 New Grad Rotational Program - Data Science Associate",
@@ -54,26 +33,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Canadian-Tire",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Walt Disney Company",
-        "id": "6a9d48f3-98c2-48af-9136-83c1391bf5f7",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1769499048,
-        "date_posted": 1769499048,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Morrisville-NC-USA/Software-Engineer-I_10141027",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -11876,24 +11835,6 @@
             "Sheffield, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Oracle",
-        "id": "59f8ced1-42ea-484b-a996-4ef6556d003f",
-        "title": "Research Scientist",
-        "active": false,
-        "date_updated": 1770114125,
-        "date_posted": 1769498838,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/324368",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -318037,7 +317978,7 @@
         "company_name": "Deloitte",
         "id": "a9a2e369-3bce-45ed-ac8b-e9ea8ed3da85",
         "title": "Delivery Analyst - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1786487524,
         "date_posted": 1786487064,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Software-Engineering-Solutions/362516",
@@ -322690,7 +322631,7 @@
         "company_name": "Deloitte",
         "id": "9f472a68-b131-41db-abf0-48a1bbdcff63",
         "title": "Delivery Analyst - Discovery Solutions - Government & Public Services",
-        "active": true,
+        "active": false,
         "date_updated": 1786623344,
         "date_posted": 1786487058,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Discovery-Solutions/362504",
