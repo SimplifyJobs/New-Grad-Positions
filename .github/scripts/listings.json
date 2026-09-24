@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Canadian Tire",
-        "id": "f9121e60-94b1-4ec1-9eee-eeedf0529d3f",
-        "title": "2026 New Grad Rotational Program - Data Science Associate",
-        "active": false,
-        "date_updated": 1769499599,
-        "date_posted": 1769499599,
-        "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Calgary-AB/XMLNAME-2026-New-Grad-Rotational-Program---Data-Science-Associate_JR155314",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Canadian-Tire",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Canadian Tire",
-        "id": "32a4d54e-3bd1-4970-8915-cb71017a4a90",
-        "title": "New Graduate Rotational Program - Data Science Associate",
-        "active": false,
-        "date_updated": 1769499603,
-        "date_posted": 1769499603,
-        "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/XMLNAME-2026-New-Grad-Rotational-Program---Data-Science-Associate_JR155445",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Canadian-Tire",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "cd76c8f5-8974-4739-8292-6ea4cbb34bbc",
