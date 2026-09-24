@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Maritz",
-        "id": "9be8c84f-9ef6-4847-827a-03ab36d24c7d",
-        "title": "Web Producer 1",
-        "active": false,
-        "date_updated": 1769481811,
-        "date_posted": 1769481811,
-        "url": "https://maritz.wd1.myworkdayjobs.com/Maritz/job/Fenton-MO/Web-Producer-I_R15071",
-        "locations": [
-            "Fenton, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Maritz",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Information Technology",
-        "id": "eee0d75c-ff38-4d1e-895d-e85b9505f9b5",
-        "title": "Java Developer",
-        "active": false,
-        "date_updated": 1769481307,
-        "date_posted": 1769481307,
-        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Ashburn/Java-Developer---DHS-or-CBP-public-trust-or-Top-Secret-preferred_RQ213447-1",
-        "locations": [
-            "Ashburn, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/GDIT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "20afcb85-d827-4e38-a70f-d63cb0d04cbe",
@@ -94433,46 +94393,6 @@
         "date_updated": 1774056502,
         "date_posted": 1769728472,
         "url": "https://boards.greenhouse.io/spacex/jobs/8395307002",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SpaceX",
-        "id": "a64d97be-bbf3-4111-a2f4-250061da599b",
-        "title": "Software Engineer - Network Performance",
-        "active": false,
-        "date_updated": 1773958380,
-        "date_posted": 1769481391,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8391111002",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SpaceX",
-        "id": "38964605-b6fe-4cdf-b4e6-9228cbe6b05f",
-        "title": "Data Engineer",
-        "active": false,
-        "date_updated": 1773901105,
-        "date_posted": 1769481352,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8391768002",
         "locations": [
             "Redmond, WA"
         ],
@@ -361190,7 +361110,7 @@
         "company_name": "NXP Semiconductors",
         "id": "6106a504-c0e8-4770-a4a1-09edf4a03049",
         "title": "Entry Level Digital Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788410704,
         "date_posted": 1788307200,
         "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Verification-Engineer_R-10065556",
