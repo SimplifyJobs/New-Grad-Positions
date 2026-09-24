@@ -39597,26 +39597,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "IDEX",
-        "id": "b6c476e5-3dab-4ec5-a888-1a1bf3983290",
-        "title": "Precision Grinding - Optics",
-        "active": false,
-        "date_updated": 1771590981,
-        "date_posted": 1769514428,
-        "url": "https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Portage-Michigan/CNC-Machinist_R-08273",
-        "locations": [
-            "Portage, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/IDEX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "SS&C",
         "id": "8b6a60e9-9116-4c7c-8588-29c6400aab88",
@@ -271486,7 +271466,7 @@
         "company_name": "Deloitte",
         "id": "9119a940-c285-418f-8fad-397e77889ae6",
         "title": "Consultative Offerings Analyst - Government & Public Services - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1784683209,
         "date_posted": 1784672056,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering/350277",
@@ -389487,7 +389467,7 @@
         "company_name": "U.S. Bank",
         "id": "63c995b0-3122-45a1-8d57-e418f2c90068",
         "title": "Associate Software Engineer - C# - .NET Core",
-        "active": true,
+        "active": false,
         "date_updated": 1789424281,
         "date_posted": 1789344000,
         "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Associate-Software-Engineer--C---NET-Core-_2026-0028472",
@@ -390099,7 +390079,7 @@
         "company_name": "NJ Department of Environmental Protection",
         "id": "f4b94f36-054f-43a1-a7a3-eff6104aabc7",
         "title": "Analyst Trainee",
-        "active": true,
+        "active": false,
         "date_updated": 1789469174,
         "date_posted": 1789425168,
         "url": "https://njdepartmentofenvironmentalprotection.applytojob.com/apply/QWkLHLMMB3/WRM202624-Analyst-Trainee",
