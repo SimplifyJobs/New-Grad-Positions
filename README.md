@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 494 New Grad Roles by Category
+### Browse 493 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (285)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (284)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (14)
 
@@ -287,13 +287,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer - Early Career - Immediate Start</td>
 <td>Seattle, WA</br>SF</br>NYC</td>
 <td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=8212508&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5f473e5a-c08d-4e76-ae09-29c68b392aea?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Toyota?utm_source=GHList&utm_medium=company">Toyota</a></strong></td>
-<td>Software Engineer - Early Career Professional</td>
-<td>Plano, TX</td>
-<td><div align="center"><a href="https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325071?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/cc7c4f99-00f9-44a9-9e51-dc2f9d993851?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>7d</td>
 </tr>
 <tr>
@@ -2079,7 +2072,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1193)</summary>
+<summary>🗃️ Inactive roles (1194)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2117,6 +2110,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Accordience?utm_source=GHList&utm_medium=company">Accordience</a></strong></td>
 <td>Junior AI & Automation Specialist</td>
 <td>London, UK</td>
+<td>🔒</td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Toyota?utm_source=GHList&utm_medium=company">Toyota</a></strong></td>
+<td>Software Engineer - Early Career Professional</td>
+<td>Plano, TX</td>
 <td>🔒</td>
 <td>7d</td>
 </tr>
@@ -9209,7 +9209,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td><details><summary><strong>4 locations</strong></summary>Mountain View, CA</br>NYC</br>San Diego, CA</br>Atlanta, GA</details></td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company">Capital One</a></strong></td>
