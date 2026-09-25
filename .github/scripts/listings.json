@@ -399510,5 +399510,59 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "3547585e-17e7-4459-9ae9-f94dae83fcd3",
+        "title": "Data Collection Operator - Optimus",
+        "active": true,
+        "date_updated": 1790325231,
+        "date_posted": 1780813576,
+        "url": "https://www.tesla.com/careers/search/job/258944",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NielsenIQ",
+        "id": "36ddedee-c3f5-439a-82b6-c61b961292a0",
+        "title": "Dictionary Analyst",
+        "active": true,
+        "date_updated": 1790325364,
+        "date_posted": 1789049329,
+        "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000151778229",
+        "locations": [
+            "Stockport, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NielsenIQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sim",
+        "id": "57766fc6-4f77-4efb-ae12-02a6133da48d",
+        "title": "Software Engineer - Agent Harness",
+        "active": true,
+        "date_updated": 1790326622,
+        "date_posted": 1787755280,
+        "url": "https://jobs.ashbyhq.com/sim/8bb8c0ec-babf-4923-ae78-7e35bee2cca6/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sim-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
