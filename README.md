@@ -5,7 +5,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 498 New Grad Roles by Category
+### Browse 497 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (287)
 
@@ -15,7 +15,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (18)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (88)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (87)
 
 💼 **[Other](#-other-new-grad-roles)** (0)
 
@@ -1960,7 +1960,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Full Stack Developer</td>
 <td>Indianapolis, IN</td>
 <td><div align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4121413?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/be884771-8768-4d4e-8fe8-545efc9a2cb0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Wonderschool?utm_source=GHList&utm_medium=company">Wonderschool</a></strong></td>
@@ -14341,13 +14341,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>New Graduate Engineer - Silicon Engineering</td>
-<td>Redmond, WA</td>
-<td><div align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8706885002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1e5443b7-9106-40cd-ace8-a45d3bfe8afe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Panasonic?utm_source=GHList&utm_medium=company">Panasonic Holdings</a></strong></td>
 <td>Software Engineer 1 - Embedded Systems</td>
 <td>Irvine, CA</td>
@@ -14562,7 +14555,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (362)</summary>
+<summary>🗃️ Inactive roles (363)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -14894,6 +14887,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>↳</td>
 <td>New Grad Engineer - Silicon Engineering</td>
 <td>Palo Alto, CA</br>Irvine, CA</br>Redmond, WA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>New Graduate Engineer - Silicon Engineering</td>
+<td>Redmond, WA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
