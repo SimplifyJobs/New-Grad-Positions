@@ -2,29 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Walmart",
-        "id": "bb13930f-304b-4c91-9c1a-95a243309800",
-        "title": "Staff - Data Scientist",
-        "active": false,
-        "date_updated": 1769608952,
-        "date_posted": 1769608952,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME--USA--Staff--Data-Scientist_R-2350734",
-        "locations": [
-            "Bentonville, AR",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Ohio State University",
         "id": "c6bacbe3-9461-411a-a690-6e6d7e751781",
         "title": "Research Associate",
@@ -245273,7 +245250,7 @@
         "company_name": "Leidos",
         "id": "4ab2be7c-c405-42fa-9dbf-cb0e5ff6a73d",
         "title": "Software Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783559934,
         "date_posted": 1783559547,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Engineer_R-00186934-1",
@@ -305711,7 +305688,7 @@
         "company_name": "Accenture",
         "id": "61b9c823-c168-4748-9d94-8ae5a407a3da",
         "title": "AI Native Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1786010822,
         "date_posted": 1784160000,
         "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Native-Software-Engineering_R00343768-1",
@@ -326201,7 +326178,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -399514,6 +399491,139 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Winton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "WPP",
+        "id": "1bc02942-6a6f-4844-9fc3-a3338f6c3528",
+        "title": "Product Manager - Performance AI",
+        "active": true,
+        "date_updated": 1790345882,
+        "date_posted": 1790345731,
+        "url": "https://job-boards.greenhouse.io/wpp/jobs/8813051002",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/WPP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "d8b0a818-ae8f-42a9-b552-3d61c1542683",
+        "title": "Neural Engineer",
+        "active": true,
+        "date_updated": 1790346181,
+        "date_posted": 1790345705,
+        "url": "https://careers.jhuapl.edu/jobs/60068?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "8e324ffa-ab4d-4c89-9ae7-ddb325e42ea7",
+        "title": "Audio Rater - Generalist - English",
+        "active": true,
+        "date_updated": 1790345999,
+        "date_posted": 1790345571,
+        "url": "https://jobs.lever.co/weloglobal/a359138d-45e6-4e40-8818-9ea8c05c516f/apply",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "86767269-2fa8-4a5d-ac9c-845e5dd9f74a",
+        "title": "Audio Rater",
+        "active": true,
+        "date_updated": 1790345981,
+        "date_posted": 1790345540,
+        "url": "https://jobs.lever.co/weloglobal/444db572-9d62-49b4-a128-9988df73f571/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "eae0ee2d-9468-4d49-8f52-11431f4b81f8",
+        "title": "Audio Rater - Generalist - English",
+        "active": true,
+        "date_updated": 1790346004,
+        "date_posted": 1790345540,
+        "url": "https://jobs.lever.co/weloglobal/827dd5b6-033a-4d6b-84aa-bff3da5a4bbf/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "659789b0-9058-4fe5-8e23-fa681b7a609e",
+        "title": "Quality Assurance Audio Rater - British English",
+        "active": true,
+        "date_updated": 1790345980,
+        "date_posted": 1790345571,
+        "url": "https://jobs.lever.co/weloglobal/3b07a9ab-dde4-4d79-876e-226ba4762b06/apply",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "12a8e91a-ba38-4d9b-9ed5-2ab53af54c62",
+        "title": "Associate Integration/Test Engineering",
+        "active": true,
+        "date_updated": 1790345731,
+        "date_posted": 1790345314,
+        "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-IntegrationTest-Engineering-FL-32901/1433821200/?ats=successfactors",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
