@@ -321283,7 +321283,7 @@
         "company_name": "Autodesk",
         "id": "d4ae6451-b1b2-4a63-8dc6-e456e9f5bf19",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1786661281,
         "date_posted": 1786579200,
         "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100537",
@@ -326531,7 +326531,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -387918,7 +387918,7 @@
         "company_name": "SciTec",
         "id": "2c474c4a-eb30-4e75-8965-db455c575176",
         "title": "Mission Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1789425244,
         "date_posted": 1789425123,
         "url": "https://apply.workable.com/scitec/j/E2F2EB83B3/apply",
@@ -391431,7 +391431,7 @@
         "company_name": "Visa",
         "id": "2b74c4c8-12dc-47b6-a08b-acc3ea0ee0be",
         "title": "Associate Product Manager New Grad - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1789607704,
         "date_posted": 1789516800,
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088601W-1",
@@ -398895,7 +398895,7 @@
         "company_name": "Atlassian",
         "id": "f3d76dcb-9751-40d8-ac06-018260f42846",
         "title": "Machine Learning Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1790288414,
         "date_posted": 1790287661,
         "url": "https://globalcareers-atlassian.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
@@ -399699,5 +399699,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LSEG",
+        "id": "a9e71c35-d3e5-4e7f-80c9-2bde1d1f577f",
+        "title": "Business Graduate Programme - Data and Analytics",
+        "active": true,
+        "date_updated": 1790316541,
+        "date_posted": 1790294400,
+        "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Business-Graduate-Programme--Data-and-Analytics-_R0123713-2",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/LSEG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Information Services Corporation",
+        "id": "42a206f0-1b61-4216-9e0b-24806866d8e8",
+        "title": "Developer",
+        "active": true,
+        "date_updated": 1790316874,
+        "date_posted": 1790294400,
+        "url": "https://isc.wd10.myworkdayjobs.com/ISC/job/Toronto/Developer---ESC_JR0001009",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ISC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
