@@ -1,68 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amplitude",
-        "id": "af93d938-40b5-42ca-b1a7-f0ec90cf1eb6",
-        "title": "Software Engineer 1 - Data Pipeline",
-        "active": false,
-        "date_updated": 1769567864,
-        "date_posted": 1769567864,
-        "url": "https://job-boards.greenhouse.io/amplitude/jobs/8225014002",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Amplitude",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Talkdesk",
-        "id": "a79e5d51-3be0-485a-9148-643cb53acb0e",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1769567705,
-        "date_posted": 1769567705,
-        "url": "https://careers.talkdesk.com/jobs?id=7565583&gh_jid=7565583",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Talkdesk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Roblox",
-        "id": "8cd2a333-7260-4399-b3df-87a48fc9ef4d",
-        "title": "2026 Canada] Software Engineer \u2013 Early Career - Geometry",
-        "active": false,
-        "date_updated": 1769567559,
-        "date_posted": 1769567559,
-        "url": "https://careers.roblox.com/jobs/7558821?gh_jid=7558821",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Roblox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1769579818,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -18364,26 +18301,6 @@
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/Pitt-Ohio",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Roblox",
-        "id": "583cb07a-8a7a-4df7-a6b7-fcf73518c51e",
-        "title": "2026] Software Engineer \u2013 Early Career - Creator",
-        "active": false,
-        "date_updated": 1770455420,
-        "date_posted": 1769567552,
-        "url": "https://careers.roblox.com/jobs/7557909?gh_jid=7557909",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Roblox",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -311001,7 +310918,7 @@
         "company_name": "SentiLink",
         "id": "6dd7314e-401a-4dcc-9e85-8edf326cdbe1",
         "title": "Applied Scientist New Grad - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1786227441,
         "date_posted": 1786227201,
         "url": "https://jobs.ashbyhq.com/sentilink/cbe2397c-5e7a-4649-a8c0-07e5d1204e82/application?embed=true",
