@@ -311251,7 +311251,7 @@
         "company_name": "SentiLink",
         "id": "5526d232-bcb1-4da8-8ea8-a1119c798659",
         "title": "Quantitative Researcher New Grad - Emerging Products - Application Fraud",
-        "active": true,
+        "active": false,
         "date_updated": 1786227445,
         "date_posted": 1786227232,
         "url": "https://jobs.ashbyhq.com/sentilink/4e28d1a3-75a8-4031-85eb-82b7847d365a/application?embed=true",
@@ -326863,7 +326863,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -339722,7 +339722,7 @@
         "company_name": "Northrop Grumman",
         "id": "ceae13eb-b924-4361-af4e-095b72005dd5",
         "title": "Software Engineer - COR",
-        "active": false,
+        "active": true,
         "date_updated": 1787388061,
         "date_posted": 1787270400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Configurable-On-Board-Router--COR--Team---Software-Engineer--AHT-_R10247177",
@@ -361421,7 +361421,7 @@
         "company_name": "GrayMatter Robotics",
         "id": "7c5c7640-ef36-440b-9855-25bddab1fa99",
         "title": "Robotics Engineer New Grad - Government Projects",
-        "active": false,
+        "active": true,
         "date_updated": 1788026441,
         "date_posted": 1787640288,
         "url": "https://jobs.ashbyhq.com/graymatter-robotics/0f5acd77-6b34-4444-9ddc-1ce91cad177c/application?embed=true",
@@ -399377,7 +399377,7 @@
         "company_name": "Astranis",
         "id": "677e8f2d-1a4c-4b80-b630-cc24cd4ff3df",
         "title": "Software Developer Associate - Network Software",
-        "active": true,
+        "active": false,
         "date_updated": 1790288230,
         "date_posted": 1790287587,
         "url": "https://job-boards.greenhouse.io/astranis/jobs/4705615006",
@@ -399877,5 +399877,159 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sim",
+        "id": "37136fd4-099f-4274-9089-5506ab49a026",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1790299261,
+        "date_posted": 1790299163,
+        "url": "https://jobs.ashbyhq.com/sim/b26bbbec-f7cb-446a-8882-3f3d034c24d8/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sim-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prevail",
+        "id": "9941cd38-ef69-43dc-b32e-10eaa9e0cb44",
+        "title": "Graduate Intelligence Analyst",
+        "active": true,
+        "date_updated": 1790299261,
+        "date_posted": 1790299173,
+        "url": "https://apply.workable.com/prevail/j/B0A07D82DA/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Prevail",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Best Friend Finance",
+        "id": "b86328eb-2b0f-4ece-9e5c-81ffc05f624b",
+        "title": "Associate Product Manager - New Products",
+        "active": true,
+        "date_updated": 1790299081,
+        "date_posted": 1790299034,
+        "url": "https://apply.workable.com/bff/j/758B8CE1EB/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Best-Friend-Finance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tandem Diabetes Care",
+        "id": "812001d0-72b7-4682-9aeb-75f102e9feac",
+        "title": "Electrical Engineering Technician 1/2",
+        "active": true,
+        "date_updated": 1790298824,
+        "date_posted": 1790208000,
+        "url": "https://tandemdiabetes.wd12.myworkdayjobs.com/tandemdiabetes/job/California---High-Bluff/Electrical-Engineering-Technician-I-II_JR101562-1",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tandem-Diabetes-Care",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "4f84b4e2-87a7-4187-8d00-c27db2bdea0a",
+        "title": "Academic Graduate Appointee",
+        "active": true,
+        "date_updated": 1790298549,
+        "date_posted": 1790298449,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990015662656",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "d3c2d57b-c7ea-4194-ac33-731c72f64420",
+        "title": "Software Engineer - Applied AI",
+        "active": true,
+        "date_updated": 1790298549,
+        "date_posted": 1790298409,
+        "url": "https://jobs.apple.com/en-us/details/200684521",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "47eb66a0-c1b4-42b8-8125-c874089f6bad",
+        "title": "SoC Physical Design Engineer - PnR",
+        "active": true,
+        "date_updated": 1790298549,
+        "date_posted": 1790298407,
+        "url": "https://jobs.apple.com/en-us/details/200685702",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "84.51 Degrees",
+        "id": "cd40904e-cd98-42fc-a561-ca8a15ae2c90",
+        "title": "Product Manager - Data Domain",
+        "active": true,
+        "date_updated": 1790290324,
+        "date_posted": 1790289694,
+        "url": "https://job-boards.greenhouse.io/8451/jobs/8843248002",
+        "locations": [
+            "Chicago, IL",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/84-51",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
