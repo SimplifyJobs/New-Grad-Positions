@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "28206a1d-295c-4be4-8c26-3508593bc603",
-        "title": "2026 Full-time - Software Engineer I",
-        "active": false,
-        "date_updated": 1769585995,
-        "date_posted": 1769585995,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--TX-_01819777",
-        "locations": [
-            "McKinney, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "ef9bdbbc-dc08-4592-8556-56900e4f75ab",
@@ -349771,7 +349751,7 @@
         "company_name": "NVIDIA",
         "id": "0fbc0c07-29bd-40e7-9596-847314361138",
         "title": "GPU PCIe and Boot Architect New Grad - New College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1787951469,
         "date_posted": 1787875200,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-PCIe-and-Boot-Architect---New-College-Grad-2026_JR2021768",
@@ -378513,7 +378493,7 @@
         "company_name": "TD Bank",
         "id": "7e4e08f3-5ac3-4174-82b7-5885f9571bb6",
         "title": "Data Science Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1788848104,
         "date_posted": 1788825600,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Associate--Graduate-_R_1506343",
