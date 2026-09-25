@@ -2,66 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "CVS Health",
-        "id": "dc042740-5493-412a-8968-8be183bed3ec",
-        "title": "Associate Data Engineer - Enterprise Identity Services",
-        "active": false,
-        "date_updated": 1769559010,
-        "date_posted": 1769559010,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Work-from-home/Associate-Data-Engineer---Enterprise-Identity-Services_R0817070",
-        "locations": [
-            "Waterbury, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CVS Health",
-        "id": "ce737fe8-a375-4877-8577-2454ad873694",
-        "title": "Associate Software Development Engineer",
-        "active": false,
-        "date_updated": 1769559004,
-        "date_posted": 1769559004,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Wellesley/Associate-Software-Development-Engineer_R0822412",
-        "locations": [
-            "Needham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cleveland Clinic",
-        "id": "dab36062-bd65-4415-b84c-d1fc65c8aae1",
-        "title": "Research Engineer - Cerebrovascular Center",
-        "active": false,
-        "date_updated": 1769558531,
-        "date_posted": 1769558531,
-        "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Engineer---Cerebrovascular-Center_321182",
-        "locations": [
-            "Cleveland, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Cleveland-Clinic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Weld County",
         "id": "6c5d3898-7460-416d-a1c7-1c6064d19924",
         "title": "GIS Mapper 1",
@@ -300564,7 +300504,7 @@
         "company_name": "Rincon Consultants, Inc",
         "id": "a6ab9e56-a00a-4269-92c8-05893c6e0a86",
         "title": "GIS Analyst - Data and Technology Services - Utilities Program",
-        "active": true,
+        "active": false,
         "date_updated": 1785806102,
         "date_posted": 1785806091,
         "url": "https://rinconconsultants.applytojob.com/apply/mK4biw1nRt/GIS-Analyst",
@@ -390795,7 +390735,7 @@
         "company_name": "ICF International",
         "id": "fe0763db-c658-4003-84f4-cc7e0d8848a4",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789569344,
         "date_posted": 1789516800,
         "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Junior-Software-Engineer--Entry-level---Remote-US-_R2603054",
