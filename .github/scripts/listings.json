@@ -1,321 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Johnson Controls",
-        "id": "f729c36d-121b-4d3d-b36f-0d890ede157a",
-        "title": "Nextgen Software Engineer",
-        "active": false,
-        "date_updated": 1769558129,
-        "date_posted": 1769558129,
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30258779-1",
-        "locations": [
-            "Fishers, IN",
-            "Milwaukee, WI",
-            "Westford, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Controls",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "e1848794-c24d-41bc-b0b0-251c7eba2adf",
-        "title": "2026 Full-time - Software Integration Engineer I",
-        "active": false,
-        "date_updated": 1769558162,
-        "date_posted": 1769558162,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Full-time---Software-Integration-Engineer-I---Onsite--MA-_01819844",
-        "locations": [
-            "Marlborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "83213083-2cd9-4182-abfc-af71198e01ba",
-        "title": "Certified Assembly Tech B",
-        "active": false,
-        "date_updated": 1769558168,
-        "date_posted": 1769558168,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Certified-Assembly-Tech-B-452--Onsite-_01819741",
-        "locations": [
-            "Rockford, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Spectrum Control",
-        "id": "477164bf-530f-4de5-bc7b-75e4460b2a7e",
-        "title": "Digital Systems Technician",
-        "active": false,
-        "date_updated": 1769557899,
-        "date_posted": 1769557899,
-        "url": "https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Marlborough-MA/Digital-Systems-Technician_JR101264",
-        "locations": [
-            "Marlborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/673d4af5-d1fd-4cb6-b32e-e8897216cb37",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Per Scholas",
-        "id": "e901cd64-0e02-4c59-ba2d-5d78508f3b5a",
-        "title": "Instructional Assistant - Data Engineer",
-        "active": false,
-        "date_updated": 1769557701,
-        "date_posted": 1769557701,
-        "url": "https://job-boards.greenhouse.io/perscholashires/jobs/4646578006",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Per-Scholas",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Boeing Company",
-        "id": "44c60e7d-c659-42fa-a3ec-1a7c98f75f88",
-        "title": "Associate Product Data Management Specialist",
-        "active": false,
-        "date_updated": 1769557567,
-        "date_posted": 1769557567,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Associate-Product-Data-Management-Specialist_JR2026492824-1",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "2a8cd4f8-0349-4d84-93c8-a21e7257c183",
-        "title": "Linux System Administrator \u2013 Associate or Mid-Level",
-        "active": false,
-        "date_updated": 1769557596,
-        "date_posted": 1769557596,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Linux-System-Administrator--Associate-or-Mid-Level-_JR2025479786-1",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Caterpillar Inc.",
-        "id": "fccbbbe5-89ff-4997-8110-f5e3131866b9",
-        "title": "Mining Onboard Specialist",
-        "active": false,
-        "date_updated": 1769557428,
-        "date_posted": 1769557428,
-        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/British-Columbia-British-Columbia/Mining-Onboard-Specialist---Early-Career_R0000341191",
-        "locations": [
-            "Kamloops, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Mejuri",
-        "id": "a138f03c-eac2-4631-b55f-1be6c6223f45",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1769557175,
-        "date_posted": 1769557175,
-        "url": "https://job-boards.greenhouse.io/mejuri/jobs/4648650006",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Mejuri",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The City of Dallas",
-        "id": "578fc36f-1b4b-4404-919a-c84ec1f2c9f4",
-        "title": "Data Science Analyst 1 - Data Analytics and Business Intelligence",
-        "active": false,
-        "date_updated": 1769557116,
-        "date_posted": 1769557116,
-        "url": "https://dallascityhall.wd5.myworkdayjobs.com/CODCareers/job/1500-MARILLA/Data-Science-Analyst-I--Data-Analytics-and-Business-Intelligence---Non-Civil-Service-_26-26724",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/The-City-Of-Dallas",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Oodle Financial Services",
-        "id": "e0bde010-a753-4323-b9d1-efb166322dc4",
-        "title": "Graduate Quantitative Analyst - Pricing & Profitability",
-        "active": false,
-        "date_updated": 1769556863,
-        "date_posted": 1769556863,
-        "url": "https://job-boards.greenhouse.io/oodlefinance/jobs/8390803002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Oodle-Financial-Services",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CaptiveAire Systems",
-        "id": "d9b08630-982b-4b8c-99f1-c6ad6174aaf3",
-        "title": "Mechanical Application Engineer",
-        "active": false,
-        "date_updated": 1769556979,
-        "date_posted": 1769556979,
-        "url": "https://www.captiveaire.com/Careers/Opening.asp?id=8393085002&gh_jid=8393085002",
-        "locations": [
-            "St. George, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/CaptiveAire-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "WellSky",
-        "id": "1ab08ae1-6469-4c41-af07-36cd28b8a0d7",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1769556966,
-        "date_posted": 1769556966,
-        "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Software-Engineer_JR4242-1",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/WellSky",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "CliftonLarsonAllen",
-        "id": "ea98425e-0a8e-4a84-92fc-7ac7f262bacd",
-        "title": "Trading Associate - Wealth Advisory - Madison WI Minneapolis MN",
-        "active": false,
-        "date_updated": 1769556828,
-        "date_posted": 1769556828,
-        "url": "https://cliftonlarsonallen.wd1.myworkdayjobs.com/CLA/job/Madison-WI/Trading-Associate---Wealth-Advisory---Madison--WI-or-Minneapolis--MN_R16752",
-        "locations": [
-            "Madison, WI",
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/CliftonLarsonAllen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Carvana",
-        "id": "8135261f-ace0-4f34-9e6a-7a979e430526",
-        "title": "Engineering Apex",
-        "active": false,
-        "date_updated": 1769556702,
-        "date_posted": 1769556702,
-        "url": "https://www.carvana.com/careers/apply?gh_jid=7542940",
-        "locations": [
-            "Tempe, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Carvana",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Carvana",
-        "id": "2d745317-fa1f-439d-8164-15f67400c02b",
-        "title": "Product Manager",
-        "active": false,
-        "date_updated": 1769556739,
-        "date_posted": 1769556738,
-        "url": "https://www.carvana.com/careers/apply?gh_jid=7543098",
-        "locations": [
-            "Tempe, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Carvana",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "CVS Health",
         "id": "dc042740-5493-412a-8968-8be183bed3ec",
@@ -7095,24 +6780,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Mizzen+Main",
-        "id": "d62cb501-c041-4ca1-aa57-6d2e40e1dcee",
-        "title": "Assistant Merchandiser",
-        "active": false,
-        "date_updated": 1769816099,
-        "date_posted": 1769556839,
-        "url": "https://job-boards.greenhouse.io/mizzenandmain/jobs/4648465006",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Mizzen-Main",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -15163,26 +14830,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PPG Industries",
-        "id": "78be6c4f-837e-4c9a-860f-854f7ec94434",
-        "title": "Emerging Talent Program - Science & Technology",
-        "active": false,
-        "date_updated": 1770296199,
-        "date_posted": 1769557112,
-        "url": "https://ppg.wd5.myworkdayjobs.com/PPG_CAREERS/job/USA---Allison-Park-RD-Center/XMLNAME-2025-2026-Emerging-Talent-Program---Science---Technology_JR2512675",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/PPG-Industries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -70804,26 +70451,6 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Appian",
-        "id": "d8354c2d-50e3-4148-b1e1-2f6ff8509ba8",
-        "title": "Information Security Software Engineer",
-        "active": false,
-        "date_updated": 1773180967,
-        "date_posted": 1769556803,
-        "url": "https://job-boards.greenhouse.io/appian/jobs/7547394",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Appian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -325773,7 +325400,7 @@
         "company_name": "SpaceX",
         "id": "00592559-74bf-4659-b573-2b630465cfc8",
         "title": "New Grad Engineer - Silicon Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786746165,
         "date_posted": 1786745896,
         "url": "https://boards.greenhouse.io/spacex/jobs/8706884002",
@@ -360858,7 +360485,7 @@
         "company_name": "Trulioo",
         "id": "b70dd956-6085-4758-b5b8-1a3509421369",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788420786,
         "date_posted": 1788407546,
         "url": "https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e/application?embed=true",
@@ -393133,7 +392760,7 @@
         "company_name": "Advantage Solutions",
         "id": "c3d1b3a0-887a-48d2-a222-d55701f786d8",
         "title": "Client Dedicated Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1789682765,
         "date_posted": 1789682734,
         "url": "https://uscareers2-asm.icims.com/jobs/441050/job?mobile=true&needsRedirect=false",
@@ -396588,7 +396215,7 @@
         "company_name": "Amentum",
         "id": "b75d9a5e-5bbf-4016-8d19-1384e5528fdf",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790039701,
         "date_posted": 1789948800,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0171030",
