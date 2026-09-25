@@ -1,85 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ef9bdbbc-dc08-4592-8556-56900e4f75ab",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769595906,
-        "date_posted": 1769595906,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047308",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cummins",
-        "id": "af267ce7-72cb-4bb2-ba0b-1b93364e289e",
-        "title": "Graduate-Product Engineer",
-        "active": false,
-        "date_updated": 1769595957,
-        "date_posted": 1769595957,
-        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2422377",
-        "locations": [
-            "Canterbury, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cummins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sainsbury's",
-        "id": "7624d4dd-a4f5-4937-aa1a-f155575465e2",
-        "title": "Associate Data Scientist",
-        "active": false,
-        "date_updated": 1769595919,
-        "date_posted": 1769595919,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047127",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "57b656bd-bd2b-40b3-911c-10d0fefb4986",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769595891,
-        "date_posted": 1769595891,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047313",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AtkinsR\u00e9alis",
         "id": "67a80672-e295-46b8-a469-bc75838cbdd6",
@@ -208645,7 +208566,7 @@
         "company_name": "AlphaSights",
         "id": "d6d02f1d-f30b-49c8-9c02-5212411721fb",
         "title": "Graduate Product Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781273525,
         "date_posted": 1781273260,
         "url": "https://www.alphasights.com/careers/open-roles?gh_jid=7995035",
@@ -395311,7 +395232,7 @@
         "company_name": "Cox",
         "id": "96453d18-731d-4613-bb72-8b197bfbbcdb",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790030341,
         "date_posted": 1789948800,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202682766",
