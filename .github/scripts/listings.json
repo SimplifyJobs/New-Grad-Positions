@@ -326304,7 +326304,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -345639,7 +345639,7 @@
         "company_name": "Salesforce",
         "id": "3a25150a-382f-458a-8c79-deb248a24749",
         "title": "AI Builder - Emerging Talent",
-        "active": true,
+        "active": false,
         "date_updated": 1787782594,
         "date_posted": 1787702400,
         "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR357678",
@@ -375448,7 +375448,7 @@
         "company_name": "UL Solutions",
         "id": "77a40ad4-e59d-4be4-b308-809c8d32f9a9",
         "title": "Laboratory Technician - Specific Absorption Rate",
-        "active": true,
+        "active": false,
         "date_updated": 1788509701,
         "date_posted": 1781082152,
         "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/8175",
@@ -399564,5 +399564,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sim",
+        "id": "6b75f3dd-a8cd-46d9-a5ef-8f163c2be9fd",
+        "title": "Founding Design Engineer",
+        "active": true,
+        "date_updated": 1790328062,
+        "date_posted": 1782770897,
+        "url": "https://jobs.ashbyhq.com/sim/2aae9d88-23ae-4381-9591-8fe58574f86c/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sim-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GliaCell Technologies",
+        "id": "6521a00f-8b47-4195-a3ce-bdb80befcc30",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1790327528,
+        "date_posted": 1785737503,
+        "url": "https://gliacelltechnologies.applytojob.com/apply/F5wpzZFcry/Software-Engineer",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/GliaCell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
