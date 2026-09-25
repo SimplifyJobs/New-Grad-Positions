@@ -1,67 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mass General Brigham",
-        "id": "6b8813ec-b079-437f-8642-319870dfec84",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1769615229,
-        "date_posted": 1769615229,
-        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Charlestown-MA/Data-Analyst_RQ4048516",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Spectrum Control",
-        "id": "db3921ba-e93e-4ea7-820b-17f9ccbe48ad",
-        "title": "Production Operator",
-        "active": false,
-        "date_updated": 1769615150,
-        "date_posted": 1769615150,
-        "url": "https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Great-Yarmouth-UK/Production-Operator_JR101270",
-        "locations": [
-            "Norwich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/673d4af5-d1fd-4cb6-b32e-e8897216cb37",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CVS Health",
-        "id": "c347d76e-ad1a-4066-a16a-79a6a40ca751",
-        "title": "Associate Data Engineer",
-        "active": false,
-        "date_updated": 1769616088,
-        "date_posted": 1769616088,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Associate-Data-Engineer_R0821166",
-        "locations": [
-            "Wheeling, IL",
-            "Hartford, CT",
-            "NYC",
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "TD Bank",
         "id": "82d9cd61-3084-4b6b-80da-cef3a6830149",
@@ -1724,26 +1663,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Agilent Technologies",
-        "id": "04bed8e0-0187-4d57-b226-86993e04e6c7",
-        "title": "Graduate Field Service Engineer - South West UK - Chromatography and Spectroscopy",
-        "active": false,
-        "date_updated": 1769615446,
-        "date_posted": 1769615446,
-        "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/UK-Remote-Location-Harwell/Graduate-Field-Service-Engineer---South-West-UK---Chromatography-and-Spectroscopy_4034596",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Agilent-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -346226,7 +346145,7 @@
         "company_name": "GetHearth.com",
         "id": "3588169e-17ec-4faf-a06f-498add51cc22",
         "title": "Junior GTM Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787820543,
         "date_posted": 1785334553,
         "url": "https://ats.rippling.com/hearth-careers/jobs/1c9a88a3-3dde-4081-a4d4-293af5af6ea1",
@@ -351500,7 +351419,7 @@
         "company_name": "Pennymac",
         "id": "c6bdfac7-c89d-4e90-8fc5-b26e0b45f8ea",
         "title": "Digital Technology Organization Rotational Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788209101,
         "date_posted": 1788203516,
         "url": "https://careers.pennymac.com/jobs/40358?icims=1",
@@ -384668,7 +384587,7 @@
         "company_name": "Protech Group",
         "id": "7cb90b67-c1af-4e1f-a9a9-e50dc88da299",
         "title": "Junior Application Developer - Database Orientation",
-        "active": true,
+        "active": false,
         "date_updated": 1789170968,
         "date_posted": 1789170641,
         "url": "https://protechgroup.applytojob.com/apply/8TVPaSI84s/Programmeur-Junior-Dveloppeur-Applicatif-Orientation-Bases-De-Donnes",
