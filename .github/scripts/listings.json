@@ -315583,7 +315583,7 @@
         "company_name": "Quantcast",
         "id": "05907ddc-a984-4b76-88f3-e3a1de4c4425",
         "title": "Software Engineer - Full Stack",
-        "active": true,
+        "active": false,
         "date_updated": 1786487222,
         "date_posted": 1786486919,
         "url": "https://jobs.ashbyhq.com/quantcast/09271839-e273-472b-948d-3d362867f809/application?embed=true",
@@ -321418,7 +321418,7 @@
         "company_name": "PlanetArt",
         "id": "077176ea-84be-43ad-9204-26626feaa4df",
         "title": "Associate Product Manager - Web",
-        "active": true,
+        "active": false,
         "date_updated": 1786679461,
         "date_posted": 1786679339,
         "url": "https://apply.workable.com/planetart/j/2B193B2C30/apply",
@@ -324234,7 +324234,7 @@
         "company_name": "Fidelity Investments",
         "id": "dcaee8da-55dd-4649-9460-913115743ec6",
         "title": "Leap Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786746170,
         "date_posted": 1786665600,
         "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/January-2027---Leap-Software-Engineer_2133859",
@@ -391273,7 +391273,7 @@
         "company_name": "Visa",
         "id": "008bd1b1-83ef-4bce-b3d4-bdab9f25b76d",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1789653296,
         "date_posted": 1789603200,
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Software-Engineer--New-College-Grad--Bellevue---2027_REF088530W-3",
@@ -399623,6 +399623,405 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Woolpert",
+        "id": "02f9ffea-0fcf-46d4-9cfb-2a90be93c0da",
+        "title": "Bathymetric Remote Sensing Technician",
+        "active": true,
+        "date_updated": 1790376304,
+        "date_posted": 1790375919,
+        "url": "https://job-boards.greenhouse.io/woolpert/jobs/4408257009",
+        "locations": [
+            "Glendale, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Woolpert",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HumanSignal",
+        "id": "ac0c8721-2392-4dcf-8e91-1a09095f52d6",
+        "title": "Field Data Collection Specialist",
+        "active": true,
+        "date_updated": 1790376304,
+        "date_posted": 1790375080,
+        "url": "https://job-boards.greenhouse.io/humansignal/jobs/6208927004",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/HumanSignal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Analytical Mechanics Associates",
+        "id": "21b81f53-5650-43c1-9a84-f8887b3b2789",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1790376304,
+        "date_posted": 1790294400,
+        "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Data-Analyst_R-100777-1",
+        "locations": [
+            "Hampton, VA",
+            "NYC",
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/Analytical-Mechanics-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "62628bfa-62ae-4568-9b27-2a56376b6c62",
+        "title": "Digital Electronics Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1790376524,
+        "date_posted": 1790294400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Digital-Electronics-Electrical-Engineer-I--Onsite_01877283",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Varsity Brands",
+        "id": "452c607b-c2a8-4bee-8e65-237fd446b21a",
+        "title": "Front End Developer",
+        "active": true,
+        "date_updated": 1790375581,
+        "date_posted": 1790374801,
+        "url": "https://careers.varsitybrands.com/global/en/job/JR114521",
+        "locations": [
+            "Kansas",
+            "Texas",
+            "Indiana"
+        ],
+        "company_url": "https://simplify.jobs/c/Varsity-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "D.R. Horton",
+        "id": "64761fc3-fdb8-4fa2-b62b-7ff5f9ca07ab",
+        "title": "Application Developer 1",
+        "active": true,
+        "date_updated": 1790376401,
+        "date_posted": 1790374784,
+        "url": "https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2604887",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/DR-Horton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MintMCP",
+        "id": "9fba5000-2d16-4967-80f5-949b4a425578",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1790375581,
+        "date_posted": 1790374753,
+        "url": "https://jobs.ashbyhq.com/mintmcp/4f5bf102-6aae-4ccb-8e8d-af39082e68af/application?embed=true",
+        "locations": [
+            "SF",
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/MintMCP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Remitly",
+        "id": "e8ab226f-8423-49f7-85c4-d60aa8cfa381",
+        "title": "AI Native Software Engineer",
+        "active": true,
+        "date_updated": 1790375581,
+        "date_posted": 1790294400,
+        "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/AI-Native-Software-Engineer_R_106966",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Remitly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Aon",
+        "id": "1a833b9a-cd9d-4913-9264-69486710139b",
+        "title": "Financial Operations Associate",
+        "active": true,
+        "date_updated": 1790375581,
+        "date_posted": 1790374624,
+        "url": "https://jobs.aon.com/jobs/107566?icims=1",
+        "locations": [
+            "Chesterfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/AON",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Snap Finance",
+        "id": "704c0f96-f7de-423e-a880-0aae4d484562",
+        "title": "Software Engineer - Applied AI",
+        "active": true,
+        "date_updated": 1790375581,
+        "date_posted": 1790294400,
+        "url": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Metro-9---West-Valley-City/Software-Engineer---Applied-AI_R-2928",
+        "locations": [
+            "West Valley City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Snap-Finance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "8593e14d-835b-423d-8b1c-eb67b2318a92",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1790376010,
+        "date_posted": 1790294400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01875568",
+        "locations": [
+            "West Valley City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Humanoid",
+        "id": "3ff5187c-33b8-4c5a-8ff2-68727754cd60",
+        "title": "AI Data Collector - Night Shift",
+        "active": true,
+        "date_updated": 1790375581,
+        "date_posted": 1790374526,
+        "url": "https://jobs.ashbyhq.com/humanoid/4492b9f9-0dfd-46ca-94ef-10503f096c99/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Humanoid",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cone Health",
+        "id": "a4b5b77d-a239-413e-93f4-da80bbf4bc8a",
+        "title": "Analytic Developer",
+        "active": true,
+        "date_updated": 1790375581,
+        "date_posted": 1790294400,
+        "url": "https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/Market-Street---4411/Analytic-Developer_JR155338",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cone-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Primetals Technologies",
+        "id": "19ea4158-fc7b-4484-ab49-ae15ed481ed6",
+        "title": "Engineer 1 - Configuration",
+        "active": true,
+        "date_updated": 1790375834,
+        "date_posted": 1790374185,
+        "url": "https://mhicareers.com/job/Orlando-Engineer-I,-Configuration-FL-32809/1441572633/?ats=successfactors",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Primetals-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Applied Materials",
+        "id": "6ccb338c-b8fd-4f21-9196-d1d9b4768624",
+        "title": "Non-Technical Project/Program Manager New Grad",
+        "active": true,
+        "date_updated": 1790375867,
+        "date_posted": 1790294400,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Non-Technical-Project-Program-Management-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2628156",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Caesars Entertainment",
+        "id": "241b1208-5ea7-4ffd-a883-c82842e98fd7",
+        "title": "Data Analyst 1 Rotational Program - Corporate",
+        "active": true,
+        "date_updated": 1790375859,
+        "date_posted": 1790374435,
+        "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/90004",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Caesars-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wilbur-Ellis",
+        "id": "977ec010-277e-40ad-b4ae-b425b6e57651",
+        "title": "Agriculture Field Scout",
+        "active": true,
+        "date_updated": 1790375581,
+        "date_posted": 1790294400,
+        "url": "https://wilburellis.wd12.myworkdayjobs.com/wilbur-ellis/job/Edmore-Michigan-United-States/Agriculture-Field-Scout--Central-MI-_R1896",
+        "locations": [
+            "Edmore, MI",
+            "Pewamo, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Wilbur-Ellis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PPL",
+        "id": "5ccf002c-5f99-4bd1-9d4d-0928f68e2f36",
+        "title": "GIS Specialist 1\u20132 or Senior",
+        "active": true,
+        "date_updated": 1790375658,
+        "date_posted": 1790374372,
+        "url": "https://careers.pplweb.com/jobs/15240?icims=1",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/PPL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Nobull",
+        "id": "e1cc8de5-ba44-41ca-9a6c-62077be54e04",
+        "title": "Associate Product Line Manager - Temporary",
+        "active": true,
+        "date_updated": 1790375556,
+        "date_posted": 1790374302,
+        "url": "https://jobs.lever.co/nobullproject/03c04a0c-38d0-4c38-a3c5-b79bce1a8ca2/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nobull",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "014218c7-74e9-499b-888f-5ce3ebb739dd",
+        "title": "HBM Design Architect New Grad - MS or PhD",
+        "active": true,
+        "date_updated": 1790375451,
+        "date_posted": 1790294400,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---HBM-Design-Architect---MS-or-PhD_JR113482",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
