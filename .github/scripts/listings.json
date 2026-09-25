@@ -181787,7 +181787,7 @@
         "company_name": "DS Smith",
         "id": "9bcc89ee-44d5-4e23-b718-433e172b3bfa",
         "title": "Master Data Administrator",
-        "active": false,
+        "active": true,
         "date_updated": 1779891136,
         "date_posted": 1779890655,
         "url": "https://dssmith.wd3.myworkdayjobs.com/dss_internal/job/Caerphilly/Master-Data-Administrator_R-13925",
@@ -197737,7 +197737,7 @@
         "company_name": "GE Appliances",
         "id": "9c49f57d-6085-4172-b0ed-68b2a3041ef2",
         "title": "Engineering Development Program - Software",
-        "active": false,
+        "active": true,
         "date_updated": 1780752121,
         "date_posted": 1780740248,
         "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---January-2027_REQ-25806",
@@ -256130,7 +256130,7 @@
         "company_name": "Allegion",
         "id": "4920c8bb-024e-4b58-a4b9-58fe968ee612",
         "title": "Associate Analytics Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784242084,
         "date_posted": 1784160000,
         "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Associate-Analytics-Engineer_JR36667",
@@ -291651,7 +291651,7 @@
         "company_name": "Intel",
         "id": "e20aacdb-9613-4b2d-b0b5-dbfcb38aca81",
         "title": "CAD/EDA Tools Automation Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785596055,
         "date_posted": 1783161292,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0284432-1",
@@ -325907,7 +325907,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -339165,7 +339165,7 @@
         "company_name": "Leidos",
         "id": "8a00bccf-5acb-4f2d-bdb9-c398d864ed9c",
         "title": "Entry-Level Computer Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1787581382,
         "date_posted": 1787529600,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Computer-Scientist_R-00190248",
@@ -376548,7 +376548,7 @@
         "company_name": "Garmin",
         "id": "9cc24a1f-b139-49e8-ab0a-183f962a4b5a",
         "title": "Component Engineering Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1788559393,
         "date_posted": 1788559379,
         "url": "https://careers.garmin.com/jobs/19715?icims=1",
@@ -378016,7 +378016,7 @@
         "company_name": "TD Bank",
         "id": "f49c5b41-af69-455f-8dc8-71c64daec56c",
         "title": "Credit Cards & Personal Lending Associate - Associate Program",
-        "active": false,
+        "active": true,
         "date_updated": 1788848114,
         "date_posted": 1788825600,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/CPB-Credit-Cards---Personal-Lending-Associate-Program_R_1505123",
@@ -378036,7 +378036,7 @@
         "company_name": "TD Bank",
         "id": "e37ee641-33b9-4a52-bd84-23850b533624",
         "title": "Business Intelligence Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1788848092,
         "date_posted": 1788825600,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Business-Intelligence-Associate_R_1509034",
@@ -378056,7 +378056,7 @@
         "company_name": "TD Bank",
         "id": "12bfde82-572e-408d-b778-a19c8329abbf",
         "title": "Applied Machine Learning Scientist Graduate - Analytics Insights & AI",
-        "active": false,
+        "active": true,
         "date_updated": 1788848104,
         "date_posted": 1788825600,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist---Associate_R_1506714-1",
@@ -378076,7 +378076,7 @@
         "company_name": "TD Bank",
         "id": "809800c8-935e-467a-8a4c-0ddc4fbdecd9",
         "title": "Applied Machine Learning Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1788848103,
         "date_posted": 1788825600,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist--Graduate-_R_1506705",
@@ -378096,7 +378096,7 @@
         "company_name": "TD Bank",
         "id": "7e4e08f3-5ac3-4174-82b7-5885f9571bb6",
         "title": "Data Science Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1788848104,
         "date_posted": 1788825600,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Associate--Graduate-_R_1506343",
@@ -379318,7 +379318,7 @@
         "company_name": "RTX",
         "id": "c4530fad-9d74-432e-bc85-6f26c31a8c62",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1788907589,
         "date_posted": 1788825600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684",
@@ -379358,7 +379358,7 @@
         "company_name": "RTX",
         "id": "60bf5735-7aca-4f7f-a89d-fec901bb12bf",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1788907577,
         "date_posted": 1788825600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866752",
@@ -386989,7 +386989,7 @@
         "company_name": "Micron Technology",
         "id": "e1b9ccaa-f9f2-4ca4-9214-4e2a0d51dffe",
         "title": "HBM SoC Design Engineer/Architect New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1789424604,
         "date_posted": 1789344000,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/New-College-Grad---HBM-SoC-Design-Engineer-Architect_JR111456",
@@ -388473,7 +388473,7 @@
         "company_name": "U.S. Bank",
         "id": "2d214b83-1171-400a-95dd-669df4b10b66",
         "title": "Engineering Rotational Program",
-        "active": false,
+        "active": true,
         "date_updated": 1789512987,
         "date_posted": 1789430400,
         "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Rotational-Program_2026-0024618",
@@ -396448,7 +396448,7 @@
         "company_name": "Daimler Truck",
         "id": "e156668e-e925-4954-bb28-de057131545b",
         "title": "Manufacturing Data & AI Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1790115482,
         "date_posted": 1790035200,
         "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Manufacturing-Data---AI-Developer_DT-19752-1",
@@ -397001,7 +397001,7 @@
         "company_name": "Humana",
         "id": "5c662c18-a1fd-4227-99a3-140c17cabb69",
         "title": "Data Engineer - Platform Innovation and Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1790201342,
         "date_posted": 1788329613,
         "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Data-Engineer---Platform-Innovation-and-Engineering_R-423155",
@@ -399353,6 +399353,272 @@
             "Melbourne, FL"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wilbur-Ellis",
+        "id": "b96b19af-d124-40d0-b562-c6085b3d52e8",
+        "title": "Agriculture Field Scout",
+        "active": true,
+        "date_updated": 1790374861,
+        "date_posted": 1790294400,
+        "url": "https://wilburellis.wd12.myworkdayjobs.com/wilbur-ellis/job/Marlette-Michigan-United-States/Agriculture-Field-Scout--Eastern-MI-_R1897",
+        "locations": [
+            "Marlette, MI",
+            "Dundee, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Wilbur-Ellis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "e344723c-35b8-455f-8d38-4574293a2c8b",
+        "title": "Network Systems and Solutions Engineer",
+        "active": true,
+        "date_updated": 1790375124,
+        "date_posted": 1790374499,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Network-Systems-and-Solutions-Engineer_JR0285494",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "628819fc-d652-4fd1-9a14-5c20d1960230",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1790375025,
+        "date_posted": 1790294400,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0250368",
+        "locations": [
+            "Crane, IN",
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MSA Safety",
+        "id": "260f7e85-160f-4467-8b90-21e4b2b4acd1",
+        "title": "Test and Prototype Engineer",
+        "active": true,
+        "date_updated": 1790374145,
+        "date_posted": 1790374117,
+        "url": "https://careers.msasafety.com/jobs/9983?icims=1",
+        "locations": [
+            "Cranberry Township, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/MSA-Safety",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Abbott",
+        "id": "710de821-64c1-4cee-91fa-bb55f8498f3f",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1790375028,
+        "date_posted": 1790294400,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---La-Jolla/Software-Engineer-I_31162389",
+        "locations": [
+            "La Jolla, San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Charles Schwab",
+        "id": "40bf0d3e-456c-4a73-a81b-3767a13f72ea",
+        "title": "Associate Software Development Engineer",
+        "active": true,
+        "date_updated": 1790375033,
+        "date_posted": 1790374138,
+        "url": "https://career-schwab.icims.com/jobs/126526/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Orlando, FL",
+            "Southlake, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-Schwab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVS Health",
+        "id": "9a4e692e-1dc0-4654-b6d1-ae51cbec8546",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1790374145,
+        "date_posted": 1790294400,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Work-from-home/Software-Development-Engineer_R1038482",
+        "locations": [
+            "Pennsylvania"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVS Health",
+        "id": "197ca67f-b0d1-4876-ac51-5e065b16540a",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1790374145,
+        "date_posted": 1790294400,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WI---Work-from-home/Software-Development-Engineer_R1024749-1",
+        "locations": [
+            "Wisconsin"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Electric Power",
+        "id": "29e431c9-380c-4e0d-9f28-ad1ad8ca5ab7",
+        "title": "Asset Analyst - TFS",
+        "active": true,
+        "date_updated": 1790374788,
+        "date_posted": 1790294400,
+        "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Ashland-KY/TFS-Asset-Analyst_R18618",
+        "locations": [
+            "Hurricane, WV",
+            "Ashland, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Electric-Power",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ASSA ABLOY",
+        "id": "fd142f32-50e4-4408-92a1-f7ecf19afe7d",
+        "title": "AI Scientist",
+        "active": true,
+        "date_updated": 1790374145,
+        "date_posted": 1790374003,
+        "url": "https://assaabloy.jobs2web.com/job/Austin-AI-Scientist-TX-78753/1441539933/?ats=successfactors",
+        "locations": [
+            "Austin, TX",
+            "Palm Beach Gardens, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nasdaq",
+        "id": "c3e8d33d-4958-4563-9af0-270e22a2c81c",
+        "title": "Data Analyst - Surveillance",
+        "active": true,
+        "date_updated": 1790374145,
+        "date_posted": 1790294400,
+        "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Philadelphia---Pennsylvania/Data-Analyst---Surveillance_R0026966",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nasdaq",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UTHealth Houston",
+        "id": "d04ba501-38c1-4163-8d34-89b130766ac0",
+        "title": "Database Analyst Programmer Associate",
+        "active": true,
+        "date_updated": 1790374230,
+        "date_posted": 1790373860,
+        "url": "https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8007",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/UTHealth-Houston",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TSC",
+        "id": "792e817b-1338-4f44-9ec4-56c90fffb455",
+        "title": "Embedded Software Engineer - Product Solutions",
+        "active": true,
+        "date_updated": 1790374861,
+        "date_posted": 1787702400,
+        "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Huntsville-AL-Discovery/Junior-Embedded-Software-Engineer_JR2741",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/TSC",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
