@@ -295380,7 +295380,7 @@
         "company_name": "CWP Energy",
         "id": "8f43064f-52b2-499d-b908-003f3f6e989e",
         "title": "Junior Power Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1785737701,
         "date_posted": 1785737513,
         "url": "https://mcgillstlaurent.applytojob.com/apply/WVsPWyR55T/Junior-Power-Trader-Cohorte-2027",
@@ -344793,7 +344793,7 @@
         "company_name": "Salesforce",
         "id": "bde662ce-92c7-454f-baa5-c0f859f3f0aa",
         "title": "AI Builder - Emerging Talent",
-        "active": true,
+        "active": false,
         "date_updated": 1787760082,
         "date_posted": 1787702400,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR357678-1",
@@ -399597,6 +399597,26 @@
             "Annapolis Junction, MD"
         ],
         "company_url": "https://simplify.jobs/c/GliaCell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Winton",
+        "id": "aba193fc-7583-4aee-b734-cd9b12003e8c",
+        "title": "Quantitative Developer - Fundamental Commodities",
+        "active": true,
+        "date_updated": 1790329870,
+        "date_posted": 1790329539,
+        "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Winton",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
