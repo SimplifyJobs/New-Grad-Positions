@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Legrand NA",
-        "id": "26754532-8728-46b2-8375-3bb78714d7c2",
-        "title": "Product Manager",
-        "active": false,
-        "date_updated": 1769670370,
-        "date_posted": 1769670370,
-        "url": "https://jobs-legrand.icims.com/jobs/9778/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Legrand-NA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "RTX",
         "id": "0df700d3-fbc3-4c82-9b19-3f0306c35360",
@@ -38,24 +18,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "AT&T",
-        "id": "286fdf96-d6ae-44a6-8f61-97cf63048262",
-        "title": "Installation Technician",
-        "active": false,
-        "date_updated": 1769671713,
-        "date_posted": 1769671713,
-        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Cornelius-North-Carolina/Installation-Technician_R-99203",
-        "locations": [
-            "Huntersville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/ATT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -31377,26 +31339,6 @@
             "Burlington, WA"
         ],
         "company_url": "https://simplify.jobs/c/Silfab-Solar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "US Conec",
-        "id": "6d86420d-5ecb-4ee8-b36c-351c4cd2bff8",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1771456344,
-        "date_posted": 1769670832,
-        "url": "https://job-boards.greenhouse.io/usconec/jobs/4112451009",
-        "locations": [
-            "Hickory, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Conec",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
