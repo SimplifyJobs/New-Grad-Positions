@@ -2,324 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Insulet Corporation",
-        "id": "17937ba9-d2e1-4ddc-a1d3-9d788ddd17fb",
-        "title": "Associate Software Tools Engineer",
-        "active": false,
-        "date_updated": 1769644608,
-        "date_posted": 1769644608,
-        "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Associate-SW-Tools-Engineer--SDET---Hybrid---Acton--MA-_REQ-2026-14882",
-        "locations": [
-            "Acton, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Insulet-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "94c3ce59-545e-4a75-907b-c692544aa933",
-        "title": "Software Engineering 1",
-        "active": false,
-        "date_updated": 1769644472,
-        "date_posted": 1769644472,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineering-I--Onsite-_01820057",
-        "locations": [
-            "Marlborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "34cec50a-5a5a-4adc-9b82-bc39fc21d723",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1769644454,
-        "date_posted": 1769644454,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01801021",
-        "locations": [
-            "Fulton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Children's Hospital of Philadelphia",
-        "id": "055467d5-026e-4271-947d-58cab20e325b",
-        "title": "Research Data Analyst 1",
-        "active": false,
-        "date_updated": 1769644476,
-        "date_posted": 1769644476,
-        "url": "https://chop.wd5.myworkdayjobs.com/choppreboardonly/job/Philadelphia-Campus--Roberts-Center-for-Pediatric-Research/Research-Data-Analyst-I_1021666-3",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Childrens-Hospital-Of-Philadelphia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Johnson & Johnson",
-        "id": "53012698-2278-497a-8839-4c5c8decabc5",
-        "title": "R&D Software Engineer 1",
-        "active": false,
-        "date_updated": 1769644150,
-        "date_posted": 1769644150,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/R-D-Software-Engineer-I---Shockwave-Medical_R-054971-1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "KeyBank",
-        "id": "ff8fc7e5-a24d-41fa-9ba9-9d5158aba556",
-        "title": "Quant Analytics Associate-Trading & Counterparty Risk Analytics",
-        "active": false,
-        "date_updated": 1769643910,
-        "date_posted": 1769643910,
-        "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Quant-Analytics-Associate-Trading---Counterparty-Risk-Analytics_R-37525",
-        "locations": [
-            "Cleveland, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/KeyBank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Morgan Stanley",
-        "id": "bc5aea53-5b79-4fe5-ac19-b3892f60dfbe",
-        "title": "Fid \u2013 Commodities Quant Strat - Associate",
-        "active": false,
-        "date_updated": 1769644079,
-        "date_posted": 1769644079,
-        "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/FID--Commodities-Quant-Strat---Associate_JR028848",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Family Insurance Group",
-        "id": "24410440-8477-44f5-a502-057265241030",
-        "title": "Associate Salesforce Development Engineer",
-        "active": false,
-        "date_updated": 1769643930,
-        "date_posted": 1769643930,
-        "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Associate-Salesforce-Development-Engineer_R38081-1",
-        "locations": [
-            "Madison, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Family-Insurance-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "b048322d-c899-4adb-9635-a877f6f30af9",
-        "title": "SW Obsolescence Engineer",
-        "active": false,
-        "date_updated": 1769643762,
-        "date_posted": 1769643762,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/SW-Obsolescence-Engineer-2-3_R10221066",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SMX",
-        "id": "5711bd5c-516c-44be-b81a-58c2679c41bc",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1769643788,
-        "date_posted": 1769643788,
-        "url": "https://www.smxtech.com/careers/?gh_jid=7607443003",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Smx",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Precisely",
-        "id": "5ef26f37-d693-477e-b607-b4263c5fb2f5",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1769643516,
-        "date_posted": 1769643516,
-        "url": "https://www.precisely.com/careers-and-culture/us-jobs/job/4654302005?gh_jid=4654302005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Precisely",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Stryker",
-        "id": "77d64c12-c238-48aa-84e1-93a8da956338",
-        "title": "Associate Installation Technician",
-        "active": false,
-        "date_updated": 1769643359,
-        "date_posted": 1769643359,
-        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Chicago-Illinois/Associate-Installation-Technician---Chicago_R558752",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Stryker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "T-Mobile",
-        "id": "ffd242ea-33d6-47f6-89e4-b6d267d18d7a",
-        "title": "Associate Engineer - Software",
-        "active": false,
-        "date_updated": 1769643195,
-        "date_posted": 1769643195,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Assoc-Engineer--Software_REQ338082",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "T-Mobile",
-        "id": "f31b366e-be88-40d4-a0d7-9e638db5fa9a",
-        "title": "Assoc Engineer - Software",
-        "active": false,
-        "date_updated": 1769643188,
-        "date_posted": 1769643188,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Assoc-Engineer--Software_REQ335427-1",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "T-Mobile",
-        "id": "c44efd23-1cc0-4d9b-b581-38d38a26a752",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1769643191,
-        "date_posted": 1769643191,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Associate-Software-Engineer_REQ338143",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Land O'Lakes",
-        "id": "71af8f63-46d1-47b4-b4b4-bd85c7c5fbcc",
-        "title": "People Analytics Associate",
-        "active": false,
-        "date_updated": 1769643189,
-        "date_posted": 1769643189,
-        "url": "https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/People-Analytics-Associate_R-37829",
-        "locations": [
-            "Roseville, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Land-Olakes",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Sonos",
         "id": "5a845772-1507-4a81-b405-c28dea0c3b34",
         "title": "DSP Software Engineer",
@@ -3325,26 +3007,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Johnson Controls",
-        "id": "5cdbfb7e-d753-449e-8484-0aa0b4990833",
-        "title": "Air Handling Unit Application Engineer",
-        "active": false,
-        "date_updated": 1769771828,
-        "date_posted": 1769644343,
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/York-Pennsylvania-United-States-of-America/Application-Engineer-II_WD30259010-1",
-        "locations": [
-            "York, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Controls",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "73c6a49b-9a8c-4092-8f32-1b9082c668e2",
@@ -3357,29 +3019,6 @@
             "El Segundo, CA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Aptiv",
-        "id": "d5f7659e-c92f-4791-a1ec-c1b3b7a6f223",
-        "title": "Product Analyst-Open Source",
-        "active": false,
-        "date_updated": 1769784830,
-        "date_posted": 1769643952,
-        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Senior-Analyst--Linux-Systems-Adminstration_J000691840-1",
-        "locations": [
-            "Ontario, Canada",
-            "Troy, MI",
-            "Kanata, Ottawa, ON, Canada",
-            "Walnut Creek, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aptiv",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -22837,26 +22476,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "3da95615-64d5-49ac-900f-5b8bbda3d67e",
-        "title": "Associate or Experienced Product Review Engineer",
-        "active": false,
-        "date_updated": 1770819778,
-        "date_posted": 1769643855,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-or-Experienced-Level-Product-Review-Engineer_JR2025478284",
-        "locations": [
-            "Hazelwood, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -293124,7 +292743,7 @@
         "company_name": "AMD",
         "id": "7b44f44b-443f-4b5b-a132-f5f1622f232e",
         "title": "RTL Tools & Methodology Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785645181,
         "date_posted": 1785645157,
         "url": "https://careers.amd.com/jobs/85806?icims=1",
@@ -380055,7 +379674,7 @@
         "company_name": "Barclays",
         "id": "4302b921-466b-4ecc-91dc-bc3a4a3efb32",
         "title": "Technology Analyst Graduate Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1788994315,
         "date_posted": 1788912000,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Analyst-Graduate-Programme-Northampton_JR-0000129190",
@@ -387462,7 +387081,7 @@
         "company_name": "Cummins",
         "id": "c564af64-c6df-4d2b-b169-7279169a54c1",
         "title": "Vehicle Integration Systems Electronics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789512661,
         "date_posted": 1789510501,
         "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2436610",
@@ -397429,7 +397048,7 @@
         "company_name": "Adobe",
         "id": "da40134e-6ed8-474d-b847-3c1d3e24eea6",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1790288299,
         "date_posted": 1790208000,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Product-Manager_R171844",
