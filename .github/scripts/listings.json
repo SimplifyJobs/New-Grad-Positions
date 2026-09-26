@@ -1,116 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ercot",
-        "id": "342e66b2-e4dd-4370-adc6-d31b1e8aa702",
-        "title": "MMS Applications Engineer",
-        "active": false,
-        "date_updated": 1769655088,
-        "date_posted": 1769655088,
-        "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/GMS-Application-Engineer_R1983-1",
-        "locations": [
-            "Pflugerville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Ercot",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cambia Health Solutions",
-        "id": "2171d30d-c89e-4ec4-9420-ee75bbef1852",
-        "title": "Software Development Engineer 1",
-        "active": false,
-        "date_updated": 1769654612,
-        "date_posted": 1769654612,
-        "url": "https://cambiahealth.wd1.myworkdayjobs.com/External/job/Portland-OR/Software-Development-Engineer-I_R-6269",
-        "locations": [
-            "Salt Lake City, UT",
-            "Post Falls, ID",
-            "Medford, OR",
-            "Burlington, WA",
-            "Tukwila, WA",
-            "Boise, ID",
-            "Beaverton, OR",
-            "Moscow, ID",
-            "Portland, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Cambia-Health-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "62490b3e-d715-4b18-820d-6d8a95210085",
-        "title": "Mech Supply Engineer",
-        "active": false,
-        "date_updated": 1769654229,
-        "date_posted": 1769654229,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Mech-Supply-Engineer-2-3_R10221069",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Equifax",
-        "id": "4b36439d-b322-42cf-8bb3-77c97317efc1",
-        "title": "Data Analyst - Rdp",
-        "active": false,
-        "date_updated": 1769654135,
-        "date_posted": 1769654135,
-        "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Atlanta---One-Atlantic-Center/Data-Analyst---RDP_J00173044",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Equifax",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Equifax",
-        "id": "0ac8d16a-aff6-441a-8c33-c5adbfafb7d7",
-        "title": "D&a Rotational Development Program Associate",
-        "active": true,
-        "date_updated": 1769654132,
-        "date_posted": 1769654132,
-        "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/D-A-Rotational-Development-Program-Associate_J00171083",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Equifax",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Legrand NA",
         "id": "26754532-8728-46b2-8375-3bb78714d7c2",
@@ -379175,7 +379065,7 @@
         "company_name": "Barclays",
         "id": "6096fa0e-6af8-443d-b4e7-84a560092cf3",
         "title": "Technology Analyst Graduate Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1788994417,
         "date_posted": 1788912000,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Analyst-Graduate-Programme-Glasgow_JR-0000129339",
@@ -391120,7 +391010,7 @@
         "company_name": "Micron Technology",
         "id": "6e0688ef-afcd-41b8-88e4-a11a11519137",
         "title": "Memory System Architect New Grad - HBM Generative AI",
-        "active": true,
+        "active": false,
         "date_updated": 1789770019,
         "date_posted": 1789689600,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/New-College-Grad---Memory-System-Architect--HBM-Generative-AI_JR111840",
