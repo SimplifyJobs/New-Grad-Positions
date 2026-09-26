@@ -1,123 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Tri-State Generation and Transmission Association",
-        "id": "b02222c5-2695-4190-8c89-cbbe751736cf",
-        "title": "Resource Dispatch and Trading Trainee \u2013 Specialist 1 or Senior",
-        "active": false,
-        "date_updated": 1769652971,
-        "date_posted": 1769652971,
-        "url": "https://fa-exbd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/563",
-        "locations": [
-            "Westminster, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Tri-State-Generation-And-Transmission-Association",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Uber",
-        "id": "2259f523-7398-4234-ae9e-5a2a7fbd8cbe",
-        "title": "Graduate PhD Scientist 2 - Operations Research or Machine Learning - Mobility and Delivery Tech",
-        "active": false,
-        "date_updated": 1769652672,
-        "date_posted": 1769652672,
-        "url": "https://www.uber.com/global/en/careers/list/151820/",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b7a5dce0-d2b5-4da3-88d7-f82ec9857b69",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769652729,
-        "date_posted": 1769652729,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047439",
-        "locations": [
-            "Christchurch, UK",
-            "Dorchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Uber",
-        "id": "72a0c8e4-21c1-4d61-8560-d6eb72fb5263",
-        "title": "Graduate PhD Scientist 2 - Operations Research or ML - Mobility and Delivery Tech",
-        "active": false,
-        "date_updated": 1769652615,
-        "date_posted": 1769652615,
-        "url": "https://university-uber.icims.com/jobs/151820/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "dc1171cf-effa-487e-a283-f18abd67b8a5",
-        "title": "Cable Installation Technician - Infra Gnd Cabling Team",
-        "active": false,
-        "date_updated": 1769652425,
-        "date_posted": 1769652425,
-        "url": "https://amazon.jobs/en/jobs/3156731/cable-installation-technician-infra-gnd-gnd-cabling-team",
-        "locations": [
-            "South Bend, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "8a70a051-7eda-43b4-a1b5-c71085bff69b",
-        "title": "Engineering Operation Technician",
-        "active": false,
-        "date_updated": 1769652419,
-        "date_posted": 1769652419,
-        "url": "https://amazon.jobs/en/jobs/3164961/engineering-operation-technician-dcc-communities",
-        "locations": [
-            "Sparks, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Ercot",
         "id": "342e66b2-e4dd-4370-adc6-d31b1e8aa702",
@@ -220,26 +103,6 @@
             "Alpharetta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Equifax",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University Health",
-        "id": "e19f5ac2-caf5-469d-983c-ed753fd44eea",
-        "title": "Public Health Data Analyst",
-        "active": false,
-        "date_updated": 1769653688,
-        "date_posted": 1769653688,
-        "url": "https://trumed.wd1.myworkdayjobs.com/TMC_External_Career_Site/job/Jackson-County-Public-Health/Public-Health-Data-Analyst---Jackson-County-Health-Department----Mon-Fri--8a-4-30p-_R0016462-2",
-        "locations": [
-            "Lee's Summit, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -282509,7 +282372,7 @@
         "company_name": "Crusoe",
         "id": "a49ee478-2eea-4b54-af0a-c3ad5e31e66e",
         "title": "Software Engineer 1 - Storage",
-        "active": true,
+        "active": false,
         "date_updated": 1785280519,
         "date_posted": 1785277279,
         "url": "https://jobs.ashbyhq.com/Crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02/application?embed=true",
