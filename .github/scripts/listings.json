@@ -1,214 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "FanDuel",
-        "id": "34b45dc3-466f-4d76-a049-90c12d10f9a0",
-        "title": "Backend Engineer - Java/Kotlin",
-        "active": false,
-        "date_updated": 1769700373,
-        "date_posted": 1769700373,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7574438",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/FanDuel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CME Group",
-        "id": "031d5259-9dd1-4f08-a873-7134b109ddcd",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1769700303,
-        "date_posted": 1769700303,
-        "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/London---Fruit--Wool-Exchange/Software-Engineer-I_33812-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/CME-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fiserv",
-        "id": "62598d58-8c65-4284-9b6f-ee575e6312a9",
-        "title": "Technical Graduate - 2026",
-        "active": false,
-        "date_updated": 1769700051,
-        "date_posted": 1769700051,
-        "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Basildon-Endeavour-Drive/Technical-Graduate---2026_R-10386171",
-        "locations": [
-            "Essex, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Fiserv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f9a6faa2-6122-4e3b-a38c-aea8949d1679",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769699507,
-        "date_posted": 1769699507,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047488",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "890c36b6-715a-44da-a003-ca3514c61771",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769699520,
-        "date_posted": 1769699520,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047487",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "7b7ab934-752b-4a9d-8f51-280e48de13e8",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769699509,
-        "date_posted": 1769699509,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045560",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "65bfb37d-80b9-4a86-a543-48231753537c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769699511,
-        "date_posted": 1769699511,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047489",
-        "locations": [
-            "Bury Saint Edmunds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "54d24b54-1dc7-417f-a30b-7ef8accf78f5",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769699510,
-        "date_posted": 1769699510,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047469",
-        "locations": [
-            "Brighton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0a4a3742-4d3e-4591-a633-410353e15c4b",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769699507,
-        "date_posted": 1769699507,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047507",
-        "locations": [
-            "Rugby, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "b1e4ae52-246b-4d88-b446-fc036532acd0",
-        "title": "Associate Test/Integration Engineer",
-        "active": false,
-        "date_updated": 1769699179,
-        "date_posted": 1769699179,
-        "url": "https://jobs.l3harris.com/job/Waco-Associate,-TestIntegration-Engineering-TX-76705/1360310600/?ats=successfactors",
-        "locations": [
-            "Waco, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "a7437cdd-0a3b-413f-a1ee-5e313c7d030f",
-        "title": "Associate \u2013 Integration/Test Engineering",
-        "active": false,
-        "date_updated": 1769699187,
-        "date_posted": 1769699187,
-        "url": "https://jobs.l3harris.com/job/Waco-Associate,-IntegrationTest-Engineering-TX-76705/1360311400/?ats=successfactors",
-        "locations": [
-            "Waco, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Varex Imaging Corporation",
         "id": "db80e746-33f6-45de-a17e-1b1897dddec1",
@@ -288,24 +80,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Wells Fargo",
-        "id": "e29015e1-850f-4dd0-af6b-67ecb6eac57c",
-        "title": "Engineering Associate - Database Operations & Automation",
-        "active": false,
-        "date_updated": 1769700663,
-        "date_posted": 1769700663,
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Engineering-Associate---Database-Operations---Automation_R-517910",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Wells-Fargo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Clarivate",
         "id": "c56e1521-3563-4878-9f45-44f34bf3940d",
         "title": "Associate Data Science & AI",
@@ -321,46 +95,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "a4666a64-4257-4111-a985-d598337fd115",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1769700694,
-        "date_posted": 1769700694,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7572751",
-        "locations": [
-            "Olive Branch, MS"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "80233a03-02f5-4c80-b524-751146a697e0",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1769700697,
-        "date_posted": 1769700697,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7572771",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
         ]
     },
     {
@@ -13560,26 +13294,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Artefact",
-        "id": "fd961a41-2710-4b5f-8494-46c75c5dcf75",
-        "title": "Junior Data Analyst - Canada-based",
-        "active": false,
-        "date_updated": 1770305220,
-        "date_posted": 1769700102,
-        "url": "https://job-boards.greenhouse.io/artefactus/jobs/8395651002",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Artefact",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -44397,28 +44111,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Geosyntec Consultants",
-        "id": "b45a36fa-bf64-417f-b1f4-61d1592263fe",
-        "title": "Early-Career GIS Specialist",
-        "active": false,
-        "date_updated": 1772011883,
-        "date_posted": 1769699412,
-        "url": "https://careers-geosyntec.icims.com/jobs/3883/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Geosyntec-Consultants",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -289213,26 +288905,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Google",
-        "id": "e5fefe74-80dc-41e2-a377-4a0eefbf050e",
-        "title": "Software Engineer - TPU Compiler",
-        "active": true,
-        "date_updated": 1785584161,
-        "date_posted": 1769699484,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/130170340289454790",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
