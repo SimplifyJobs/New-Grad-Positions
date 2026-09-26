@@ -244339,7 +244339,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "76ba96f8-280e-4384-b6c8-6e2ba134ed44",
         "title": "Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1783635950,
         "date_posted": 1783555200,
         "url": "https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2026-Data-Scientist_R015833",
@@ -324377,7 +324377,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -390381,7 +390381,7 @@
         "company_name": "Space Dynamics Laboratory",
         "id": "8ffaacab-6263-4ba5-8264-0bba540664ef",
         "title": "FPGA Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789685325,
         "date_posted": 1789683738,
         "url": "https://spacedynamicslaboratory.applytojob.com/apply/swUDlZbedT/EntryLevel-FPGA-Design-Engineer",
@@ -398492,6 +398492,214 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aescape",
+        "id": "c142ee8b-0f3a-4016-8d97-2c454fca6b26",
+        "title": "Junior Electrical & Firmware Engineer",
+        "active": true,
+        "date_updated": 1790385481,
+        "date_posted": 1790385350,
+        "url": "https://jobs.ashbyhq.com/aescape/5ab3f804-c547-40e3-b496-53f1d3b5048e/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aescape",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Varsity Brands",
+        "id": "416e85c5-846c-4613-8d4d-2eccfbae2735",
+        "title": "Software Engineer 1 - .Net",
+        "active": true,
+        "date_updated": 1790385604,
+        "date_posted": 1790385444,
+        "url": "https://careers.varsitybrands.com/global/en/job/JR114518",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Varsity-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Quora",
+        "id": "3ecd14db-e4e2-468a-9cdf-c4007834664b",
+        "title": "Software Engineer New Grad - Machine Learning Platform",
+        "active": true,
+        "date_updated": 1790385301,
+        "date_posted": 1790385289,
+        "url": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Quora",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LeanTaaS",
+        "id": "b7d0be78-5e04-4394-8976-e71c58ef4fde",
+        "title": "Associate GTM Engineer",
+        "active": true,
+        "date_updated": 1790385301,
+        "date_posted": 1790385259,
+        "url": "https://jobs.lever.co/leantaas/c15b6de5-c2bf-4499-9b53-b41960551719/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/LeanTaaS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "777dc751-d5f0-4f2d-97c7-9d205411e8c1",
+        "title": "Software Engineer 1 - Gen4 Airborne Radar",
+        "active": true,
+        "date_updated": 1790385228,
+        "date_posted": 1790294400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Gen4-Airborne-Radar_01877039",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ZT Systems",
+        "id": "33f5b7c2-9c16-45c7-aa98-0d573badf59f",
+        "title": "Sustaining Electrical Validation Engineer",
+        "active": true,
+        "date_updated": 1790385121,
+        "date_posted": 1790294400,
+        "url": "https://connect.wd1.myworkdayjobs.com/ztsystemscareers/job/Secaucus-NJ/Sustaining-Electrical-Validation-Engineer_R-105432",
+        "locations": [
+            "Secaucus, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/ZT-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ZT Systems",
+        "id": "2be5fa77-4273-4ebd-a484-2bf7e554f543",
+        "title": "Sustaining Electrical Validation Engineer",
+        "active": true,
+        "date_updated": 1790385121,
+        "date_posted": 1790294400,
+        "url": "https://connect.wd1.myworkdayjobs.com/ztsystemscareers/job/Secaucus-NJ/Sustaining-Electrical-Validation-Engineer_R-105428",
+        "locations": [
+            "Secaucus, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/ZT-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ZT Systems",
+        "id": "39098b97-f356-4b57-b230-4678a2cdc9f8",
+        "title": "Sustaining Electrical Validation Engineer",
+        "active": true,
+        "date_updated": 1790385121,
+        "date_posted": 1790294400,
+        "url": "https://connect.wd1.myworkdayjobs.com/ztsystemscareers/job/Secaucus-NJ/Sustaining-Electrical-Validation-Engineer_R-105430",
+        "locations": [
+            "Secaucus, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/ZT-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "372dabb4-b681-4c6f-bc61-e5c936c3958f",
+        "title": "Hardware Development Engineer - AI/ML Server Development",
+        "active": true,
+        "date_updated": 1790385121,
+        "date_posted": 1790384776,
+        "url": "https://amazon.jobs/en/jobs/10482698/hardware-development-engineer-ai-ml-server-development",
+        "locations": [
+            "Seattle, WA",
+            "Cupertino, CA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "72f6e435-1060-4700-9b90-48d82c3b1972",
+        "title": "CAD Engineer - Signoff Infrastructure",
+        "active": true,
+        "date_updated": 1790384941,
+        "date_posted": 1790384785,
+        "url": "https://jobs.apple.com/en-us/details/200685871",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
