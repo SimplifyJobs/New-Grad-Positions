@@ -1,84 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sonos",
-        "id": "5a845772-1507-4a81-b405-c28dea0c3b34",
-        "title": "DSP Software Engineer",
-        "active": false,
-        "date_updated": 1769645267,
-        "date_posted": 1769645267,
-        "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/DSP-Software-Engineer_R2623-1",
-        "locations": [
-            "Boston, MA",
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sonos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Philips",
-        "id": "9b85d6f2-a010-47cc-9b39-55b51485b3b8",
-        "title": "Full Time \u2013 Field Engineer Program - Field Service Engineer - Birmingham, AL, July 2026",
-        "active": false,
-        "date_updated": 1769644947,
-        "date_posted": 1769644947,
-        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Birmingham-US-Alabama-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Birmingham--AL---July-2026_574028",
-        "locations": [
-            "Birmingham, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Philips",
-        "id": "80ad289b-4258-4e81-9a3b-a2c428efee2d",
-        "title": "Full Time \u2013 Field Engineer Program - Field Service Engineer - Boston, MA (removed)",
-        "active": false,
-        "date_updated": 1769644953,
-        "date_posted": 1769644953,
-        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Boston-Massachusetts-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Boston--MA---July-2026_574012",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Philips",
-        "id": "6e5f1b0e-b674-42e2-8b8e-ffcf329b6ebc",
-        "title": "Full Time - Field Engineer Program - Field Service Engineer",
-        "active": false,
-        "date_updated": 1769644949,
-        "date_posted": 1769644949,
-        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Louisville-Kentucky-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Louisville--KY---July-2026_573794",
-        "locations": [
-            "Louisville, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Tri-State Generation and Transmission Association",
         "id": "b02222c5-2695-4190-8c89-cbbe751736cf",
@@ -475,27 +397,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Philips",
-        "id": "4f2b020a-4a8a-4c9b-abda-a6552daaedea",
-        "title": "Field Engineer Program - Field Service Engineer",
-        "active": false,
-        "date_updated": 1769644950,
-        "date_posted": 1769644950,
-        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/St-Louis-Missouri-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---St-Louis--Missouri--July-2026_573793",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
         ]
     },
     {
@@ -14492,42 +14393,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Philips",
-        "id": "0c9e8f51-8623-4c21-9c85-122bdff54c95",
-        "title": "Full Time Field Engineer Program - Field Service Engineer",
-        "active": false,
-        "date_updated": 1770378722,
-        "date_posted": 1769644957,
-        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cincinnati-Ohio-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Cincinnati--OH---July-2026_573773",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Philips",
-        "id": "ce7595b9-692b-4f55-b865-913e05ff1d2f",
-        "title": "Full Time \u2013 Field Engineer Program - Field Service Engineer - Washington D.C",
-        "active": false,
-        "date_updated": 1770379748,
-        "date_posted": 1769644957,
-        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Washington-District-of-Columbia-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Washington-DC---July-2026_574008",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Morgan Stanley",
         "id": "d39bb0ea-d7dc-4e21-9fd3-19af7cd82fe2",
@@ -14583,69 +14448,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Philips",
-        "id": "9689de52-3e24-46c3-9a98-dbcd706716fa",
-        "title": "Full Time \u2013 Field Engineer Program - Field Service Engineer - Philadelphia', 'PA-July 2026",
-        "active": false,
-        "date_updated": 1770387145,
-        "date_posted": 1769644954,
-        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Philadelphia-Pennsylvania-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Philadelphia--PA--July-2026_574013",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Philips",
-        "id": "74174589-a825-4824-8778-56210df6492c",
-        "title": "Full Time \u2013 Field Engineer Program - Field Service Engineer - Seattle, WA (July 2026)",
-        "active": false,
-        "date_updated": 1770386415,
-        "date_posted": 1769644943,
-        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Seattle-Washington-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Seattle--WA---July-2026_574020-1",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Philips",
-        "id": "4a9813a9-57e0-4c8e-a44b-fcaed0aa0e6a",
-        "title": "Full Time \u2013 Field Engineer Program - Field Service Engineer - Nashville, TN",
-        "active": false,
-        "date_updated": 1770386395,
-        "date_posted": 1769644948,
-        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Nashville--TN---July-2026_574030",
-        "locations": [
-            "Nashville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
         ]
     },
     {
