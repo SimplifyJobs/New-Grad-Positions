@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Visa",
-        "id": "7eb1b44c-fae7-40a5-8de3-cc42f634b2fb",
-        "title": "Data Engineering Graduate",
-        "active": false,
-        "date_updated": 1769681216,
-        "date_posted": 1769681216,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000106245998",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "4cb5f52a-e68e-48c6-95d3-53ce0a574cfa",
@@ -348845,7 +348827,7 @@
         "company_name": "BP",
         "id": "f3712c28-2c57-4cc7-916e-abe3022d5a5c",
         "title": "Supply and Shipping Graduate Program - Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1788153039,
         "date_posted": 1788134400,
         "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Supply--Trading--and-Shipping-Graduate-Program--Trading--Houston--TX_RQ115338",
@@ -396394,7 +396376,7 @@
         "company_name": "Atlassian",
         "id": "f3d76dcb-9751-40d8-ac06-018260f42846",
         "title": "Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790288414,
         "date_posted": 1790287661,
         "url": "https://globalcareers-atlassian.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
