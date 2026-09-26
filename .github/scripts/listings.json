@@ -1,47 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CoStar Group",
-        "id": "68895d03-a869-4d59-b97b-c8e698de3478",
-        "title": "Data Operations Associate - Str - London",
-        "active": false,
-        "date_updated": 1769689650,
-        "date_posted": 1769689650,
-        "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/UK-London/Data-Operations-Associate--STR---London_R38223-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/CoStar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "55515f05-f170-4987-a265-ba377eb44b64",
-        "title": "Software Development Engineer 1 - Front End",
-        "active": false,
-        "date_updated": 1769689751,
-        "date_posted": 1769689751,
-        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineer-I_R-99742-2",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "FanDuel",
         "id": "34b45dc3-466f-4d76-a049-90c12d10f9a0",
@@ -350079,7 +350038,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "463dac28-460d-4595-9978-25193ec068c0",
         "title": "Digital Assurance and Transparency Artificial Intelligence Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1788215941,
         "date_posted": 1788134400,
         "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Digital-Assurance---Transparency--DAT----Artificial-Intelligence---Associate---Summer-Fall-2027_52926177EIB",
@@ -392203,7 +392162,7 @@
         "company_name": "RTX",
         "id": "551e52f2-65d3-4921-b08d-5f686b953112",
         "title": "Embedded Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790000450,
         "date_posted": 1789948800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01872627",
