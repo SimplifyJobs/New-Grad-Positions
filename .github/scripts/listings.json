@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "0df700d3-fbc3-4c82-9b19-3f0306c35360",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1769672610,
-        "date_posted": 1769672610,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--AL-_01819702",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Visa",
         "id": "7eb1b44c-fae7-40a5-8de3-cc42f634b2fb",
@@ -14082,28 +14062,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "United Parcel Service (UPS)",
-        "id": "9f817159-bf21-4594-9a6b-f0fb95f27df6",
-        "title": "Intermediate / Senior AI Engineer - Python - Rag",
-        "active": false,
-        "date_updated": 1770117149,
-        "date_posted": 1769673546,
-        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Intermediate---Senior-AI-Engineer---Python--RAG--Agentic-AI--ADK--MCP--GCP--Vertex-AI--IBM-Watsonx_R26002515",
-        "locations": [
-            "Indiana"
-        ],
-        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -214422,7 +214380,7 @@
         "company_name": "Microsoft",
         "id": "a6ab1df3-86d8-42bb-b220-97ec8c92cba2",
         "title": "Software Engineer - Ctj - Poly",
-        "active": true,
+        "active": false,
         "date_updated": 1781763081,
         "date_posted": 1781762785,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
@@ -349046,7 +349004,7 @@
         "company_name": "BP",
         "id": "4d0b83b5-2342-475a-b595-c3ace189ec81",
         "title": "Trading Graduate Program - Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1788156625,
         "date_posted": 1788134400,
         "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/Canada---Calgary/Supply--Trading--and-Shipping-Graduate-Program--Trading---Analytics--Calgary_RQ115339",
@@ -387008,7 +386966,7 @@
         "company_name": "AMD",
         "id": "ed4f981d-d849-462d-834f-2fde894a4fdb",
         "title": "Engineering Lab Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1789511041,
         "date_posted": 1789510543,
         "url": "https://careers.amd.com/jobs/91874?icims=1",
