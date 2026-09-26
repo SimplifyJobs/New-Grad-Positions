@@ -357331,7 +357331,7 @@
         "company_name": "WebMD",
         "id": "e5eed875-01da-462c-a299-e2ee5d2c1529",
         "title": "AI Automation Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788418051,
         "date_posted": 1788402122,
         "url": "https://jobs.jobvite.com/webmd/job/oepEAfwB?nl=1&nl=1&fr=false",
@@ -398453,6 +398453,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Equifax",
+        "id": "0ac8d16a-aff6-441a-8c33-c5adbfafb7d7",
+        "title": "Data & Analytics Rotational Development Program Associate",
+        "active": true,
+        "date_updated": 1788457158,
+        "date_posted": 1781345076,
+        "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/D-A-Rotational-Development-Program-Associate_J00171083",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equifax",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
