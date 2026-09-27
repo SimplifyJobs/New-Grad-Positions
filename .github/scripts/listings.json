@@ -2,47 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "KION Group",
-        "id": "dde231fe-aee5-46e0-bab8-6582656bb5f7",
-        "title": "Warehouse Automation Software Engineer",
-        "active": false,
-        "date_updated": 1769741108,
-        "date_posted": 1769741108,
-        "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/Software-Engineer_JR-0083243-1",
-        "locations": [
-            "Grand Rapids, MI",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/KION-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Twitch",
-        "id": "c8aa7569-ac97-45c3-99c3-bf6054f03dac",
-        "title": "Sde 1 \u2013 Creator Monetization",
-        "active": false,
-        "date_updated": 1769741157,
-        "date_posted": 1769741157,
-        "url": "https://job-boards.greenhouse.io/twitch/jobs/8397361002",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Twitch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Vanguard",
         "id": "8f747a9b-4b52-417a-9d0b-e1f750dcb692",
         "title": "Entry Level Application Engineer - 2026 Start Date",
@@ -392256,7 +392215,7 @@
         "company_name": "Southwest Airlines",
         "id": "8373f031-9eb9-45a6-9012-e95eca490eff",
         "title": "Associate Software Engineer - Direct College Hire",
-        "active": true,
+        "active": false,
         "date_updated": 1790115482,
         "date_posted": 1790035200,
         "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2026-72886",
