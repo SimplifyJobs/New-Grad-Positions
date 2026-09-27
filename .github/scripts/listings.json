@@ -1,106 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vanguard",
-        "id": "8f747a9b-4b52-417a-9d0b-e1f750dcb692",
-        "title": "Entry Level Application Engineer - 2026 Start Date",
-        "active": false,
-        "date_updated": 1769743266,
-        "date_posted": 1769743266,
-        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Entry-Level-Application-Engineer---2026-Start-Date_168908-1",
-        "locations": [
-            "Malvern, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vanguard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Flextronics International",
-        "id": "f77841f7-98fe-4ee3-b015-8ce6d107f1c2",
-        "title": "Engineering Technician",
-        "active": false,
-        "date_updated": 1769742261,
-        "date_posted": 1769742261,
-        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Engineering-Technician_WD214124",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Flextronics-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Flextronics International",
-        "id": "f5467220-0b68-4eb0-8d70-3fdc6507d26c",
-        "title": "Engineering Technician-1",
-        "active": false,
-        "date_updated": 1769742253,
-        "date_posted": 1769742253,
-        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Engineering-Technician-1_WD214126",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Flextronics-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Flextronics International",
-        "id": "7931be1f-b9f9-490f-8871-4b9efaa7be8a",
-        "title": "Engineering Technician-1",
-        "active": false,
-        "date_updated": 1769742250,
-        "date_posted": 1769742250,
-        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Engineering-Technician-1_WD214129",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Flextronics-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Flextronics International",
-        "id": "c49eab84-4ac2-4c03-ad25-1addfcdefa22",
-        "title": "Engineering Technician-1",
-        "active": false,
-        "date_updated": 1769742199,
-        "date_posted": 1769742199,
-        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Engineering-Technician-1_WD214475",
-        "locations": [
-            "Pflugerville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Flextronics-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Ameren",
         "id": "e3f89d61-1e1c-4a15-83d5-6ffc30533a07",
@@ -378016,7 +377916,7 @@
         "company_name": "Hastings Direct",
         "id": "1dda1979-d969-4d70-993f-2a200bbe3d19",
         "title": "Pricing Automation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789051501,
         "date_posted": 1788998400,
         "url": "https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/London/Pricing-Automation-Engineer_60014016-1",
