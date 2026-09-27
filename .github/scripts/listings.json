@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "73c6a49b-9a8c-4092-8f32-1b9082c668e2",
-        "title": "Embedded Software Engineer - Embedded Software Engineer 1",
-        "active": false,
-        "date_updated": 1769782472,
-        "date_posted": 1769782472,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/XMLNAME-2026-Full-time---Embedded-Software-Engineer-1---Onsite--CA-_01820531",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "BGIS",
         "id": "43a6b8f6-02df-493c-bb19-7dd63e13ca43",
@@ -395574,7 +395554,7 @@
         "company_name": "Amazon",
         "id": "372dabb4-b681-4c6f-bc61-e5c936c3958f",
         "title": "Hardware Development Engineer - AI/ML Server Development",
-        "active": true,
+        "active": false,
         "date_updated": 1790385121,
         "date_posted": 1790384776,
         "url": "https://amazon.jobs/en/jobs/10482698/hardware-development-engineer-ai-ml-server-development",
