@@ -394239,7 +394239,7 @@
         "company_name": "RTX",
         "id": "a88a93a2-3964-45b7-911a-720da6ee7efe",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790289750,
         "date_posted": 1790208000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866752-1",
@@ -395703,6 +395703,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rockwell Automation",
+        "id": "8b43283a-d9a8-4051-ba77-0ead77dca4c2",
+        "title": "Leadership Development Program - Product Engineering & Development",
+        "active": true,
+        "date_updated": 1790039701,
+        "date_posted": 1789948800,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Leadership-Development-Program--Product-Engineering---Development_R26-6888",
+        "locations": [
+            "Mayfield Heights, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
