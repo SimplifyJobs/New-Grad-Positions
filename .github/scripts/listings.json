@@ -1,67 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "fbbf3006-0083-417b-bc68-eb5f8d4cb680",
-        "title": "Software Development Engineer 1 - Front End",
-        "active": false,
-        "date_updated": 1769731757,
-        "date_posted": 1769731757,
-        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineer-I_R-99742-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genuine Parts Company",
-        "id": "d77a629d-dc8b-4b9f-9435-c9d72cdf6d79",
-        "title": "PIM Data Analyst - Enrichment",
-        "active": false,
-        "date_updated": 1769731500,
-        "date_posted": 1769731500,
-        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/PIM-Data-Analyst---Enrichment_R26_0000000220",
-        "locations": [
-            "Birmingham, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intel",
-        "id": "9ad3737e-2b08-4b56-a99e-7147dabd5308",
-        "title": "System Software Engineer",
-        "active": false,
-        "date_updated": 1769731433,
-        "date_posted": 1769731433,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/System-Software-Engineer_JR0280320",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Hewlett Packard (HP)",
         "id": "10a99b91-ff0d-464d-b490-a0f0f621674c",
