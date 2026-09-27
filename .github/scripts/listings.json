@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Brigham Young University - Provo",
-        "id": "30846374-ed7d-41a9-880b-520b053da005",
-        "title": "Software Development Specialist 3",
-        "active": false,
-        "date_updated": 1769735169,
-        "date_posted": 1769735169,
-        "url": "https://byu.wd1.myworkdayjobs.com/byu-careers/job/Provo-UT/Software-Development-Specialist-III_JR-7889",
-        "locations": [
-            "Provo, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Brigham-Young-University-Provo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Finning",
         "id": "38cf633c-ab48-4592-895d-a0e4b02c4ad7",
@@ -2518,26 +2497,6 @@
             "Palm Beach Gardens, FL"
         ],
         "company_url": "https://simplify.jobs/c/NextEra-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Vernova",
-        "id": "69b7d497-9fc7-4102-ae33-8bbe93bc9845",
-        "title": "Engineer \u2013 Inspection Engineering-Electrical and Controls",
-        "active": false,
-        "date_updated": 1769860903,
-        "date_posted": 1769735126,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/Engineer--Inspection-Engineering--Electrical-and-Controls_R5030929-3",
-        "locations": [
-            "Wilmington, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -321956,7 +321915,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -350632,7 +350591,7 @@
         "company_name": "General Motors",
         "id": "be2c7190-c561-4119-b5b4-43991b0e81c3",
         "title": "Entry Level Hardware Design and Validation - Vehicle Software and Electronics Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1788287774,
         "date_posted": 1788220800,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/Entry-Level-Hardware-Design-and-Validation_JR-202618739",
@@ -351499,7 +351458,7 @@
         "company_name": "General Motors",
         "id": "251dd790-b5bc-48d9-ab3e-9deb38e21b46",
         "title": "Entry Level Software Design Release Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788301778,
         "date_posted": 1788220800,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/GM-Global-Technical-Center---Cole-Engineering-Center-Tower/Entry-Level-Software-Design-Release-Engineer_JR-202618509",
@@ -377033,7 +376992,7 @@
         "company_name": "General Motors",
         "id": "f072e14c-284b-487b-8566-abe357532377",
         "title": "Entry Level Hardware Design and Validation",
-        "active": true,
+        "active": false,
         "date_updated": 1788994102,
         "date_posted": 1788912000,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Mountain-View-California-United-States-of-America/Entry-Level-Hardware-Design-and-Validation_JR-202619869",
