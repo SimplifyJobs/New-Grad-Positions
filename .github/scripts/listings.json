@@ -1,60 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "71135a94-cf35-4d5d-8525-0f7563c3958d",
-        "title": "AI Data Specialist - West Virginia - US",
-        "active": false,
-        "date_updated": 1769769237,
-        "date_posted": 1769769237,
-        "url": "https://jobs.lever.co/rws/5b55eb75-14da-4d25-922c-b88f4037c476/apply",
-        "locations": [
-            "Charleston, WV"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "56a4419c-0f9c-4df0-952e-7e716711f0f6",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769769243,
-        "date_posted": 1769769243,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047608",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "12c2fc8d-bb43-4337-ab58-72a96b2a8505",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769769245,
-        "date_posted": 1769769245,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047595",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "73c6a49b-9a8c-4092-8f32-1b9082c668e2",
@@ -24593,24 +24539,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "56f29a61-c1d7-4f5c-9486-af5bd05f692b",
-        "title": "AI Data Specialist - Nevada - US",
-        "active": false,
-        "date_updated": 1771171479,
-        "date_posted": 1769769237,
-        "url": "https://jobs.lever.co/rws/0b0b5758-aa4d-44d7-abf5-dc42a3a8ffc8/apply",
-        "locations": [
-            "Las Vegas, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
