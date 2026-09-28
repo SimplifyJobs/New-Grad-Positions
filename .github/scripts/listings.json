@@ -393634,5 +393634,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ZT Systems",
+        "id": "d75cb5c8-109f-4d64-b4b8-51339b98f5c6",
+        "title": "Sustaining Electrical Validation Engineer",
+        "active": true,
+        "date_updated": 1790605981,
+        "date_posted": 1790553600,
+        "url": "https://connect.wd1.myworkdayjobs.com/ztsystemscareers/job/Secaucus-NJ/Sustaining-Electrical-Validation-Engineer_R-105431",
+        "locations": [
+            "Secaucus, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/ZT-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
