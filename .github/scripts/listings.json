@@ -3,114 +3,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "ee40e23e-e2cc-4ff6-b7b4-f114e6908d95",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769901069,
-        "date_posted": 1769901069,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047787",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d98ae0cd-74d1-4c35-8624-c6f9084b80f8",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769901080,
-        "date_posted": 1769901080,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047803",
-        "locations": [
-            "Harlow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d56aa71e-a62a-4037-a3c1-2ee36f4f2bdc",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769901072,
-        "date_posted": 1769901072,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047804",
-        "locations": [
-            "Harlow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a28d5c14-e18d-4bb5-9a50-0015edb8c000",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769901084,
-        "date_posted": 1769901084,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047788",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "952cc8f3-5f84-42cb-a468-981b9ef7f3da",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769901077,
-        "date_posted": 1769901077,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047780",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "4869100d-6ce6-4ba4-b475-9c1336088f1c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769901089,
-        "date_posted": 1769901089,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047782",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "45dff06c-e271-4cb4-b750-00919be7562d",
         "title": "Trading Assistant - Shift",
         "active": false,
@@ -238993,7 +238885,7 @@
         "company_name": "iTradeNetwork",
         "id": "f9065db1-f62d-48a6-a8e4-54339556813e",
         "title": "AI/ML Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783636022,
         "date_posted": 1783635078,
         "url": "https://www.itradenetwork.com/jobs/5290252008?gh_jid=5290252008",
