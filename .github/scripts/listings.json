@@ -25444,26 +25444,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Miami",
-        "id": "62613347-1818-47ee-a45b-5af6584ffa54",
-        "title": "CAS-Sociology-Artificial Intelligence at the rank of Assistant Professor - Associate Professor",
-        "active": false,
-        "date_updated": 1771415771,
-        "date_posted": 1769866839,
-        "url": "https://umiami.wd1.myworkdayjobs.com/UMFaculty/job/Coral-Gables-FL/CAS-Sociology-Artificial-Intelligence-at-the-rank-of-Assistant-Professor---Associate-Professor_R100091735",
-        "locations": [
-            "Coral Gables, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Miami",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Baker Tilly",
         "id": "3eefb549-9be4-4967-a097-460ddef68d93",
@@ -30724,31 +30704,6 @@
         "degrees": [
             "Bachelor's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GlobalFoundries",
-        "id": "08e95179-4f48-4db4-84bd-c1510f1905af",
-        "title": "AI Enablement Strategist \u2013 New College Graduate",
-        "active": false,
-        "date_updated": 1771588742,
-        "date_posted": 1769867704,
-        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Austin/AI-Enablement-Strategist_JR-2600122",
-        "locations": [
-            "NYC",
-            "Bengaluru, Karnataka, India",
-            "Dresden, Germany",
-            "Austin, TX",
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/GlobalFoundries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -328435,7 +328390,7 @@
         "company_name": "Le Moyne College",
         "id": "9190f460-aac6-464a-b61b-065cafa8244e",
         "title": "Crime Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787235482,
         "date_posted": 1787184000,
         "url": "https://agilitas.wd503.myworkdayjobs.com/LMC/job/Syracuse-NY/Crime-Analyst_JR100336-1",
@@ -388219,7 +388174,7 @@
         "company_name": "Mass General Brigham",
         "id": "8069373b-f283-4324-aa23-f0dd044564f6",
         "title": "Data Analyst - TMS",
-        "active": true,
+        "active": false,
         "date_updated": 1790030883,
         "date_posted": 1789948800,
         "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Data-Analyst-TMS_RQ4078981",
@@ -390307,7 +390262,7 @@
         "company_name": "Advocate Health Care",
         "id": "48fa31a1-8714-413c-9943-2454cb1caf1e",
         "title": "Advanced Analytics Developer Associate - Enterprise Advanced Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1790202122,
         "date_posted": 1790121600,
         "url": "https://aah.wd5.myworkdayjobs.com/External/job/Remote/IT-Advanced-Analytics-Developer-Associate_R271506",
@@ -390388,7 +390343,7 @@
         "company_name": "Humana",
         "id": "5c662c18-a1fd-4227-99a3-140c17cabb69",
         "title": "Data Engineer - Platform Innovation and Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1790201342,
         "date_posted": 1788329613,
         "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Data-Engineer---Platform-Innovation-and-Engineering_R-423155",
