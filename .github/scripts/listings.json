@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Magnite",
-        "id": "1ab2c3ce-5b13-4f99-ac1c-d77f6c5bfd38",
-        "title": "Engineer 1 - Applied LLM Team",
-        "active": false,
-        "date_updated": 1769865223,
-        "date_posted": 1769865223,
-        "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Engineer-I--Applied-LLM-Team_R-01194",
-        "locations": [
-            "LA",
-            "NYC",
-            "Broomfield, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/ee8236a0-5b6a-4389-a774-e10fe29442a2",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "f68d668a-af59-473a-b108-9866750805f6",
@@ -387180,7 +387160,7 @@
         "company_name": "Anglian Water",
         "id": "92e9de56-6381-4b20-90ea-41ec1103cf1d",
         "title": "Digital Data and Technology Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1789415461,
         "date_posted": 1789344000,
         "url": "https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Huntingdon/Digital-Data-and-Technology-Graduate_R39598",
