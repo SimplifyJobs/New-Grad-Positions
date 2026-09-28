@@ -126,7 +126,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer Early Career - Cloud</td>
 <td>Remote in USA</br>Hanover, MD</td>
 <td><div align="center"><a href="https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ee5c8174-efce-40b3-a4d2-fd27931c66ec?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Parallel-Systems?utm_source=GHList&utm_medium=company">Parallel Systems</a></strong></td>
@@ -9160,7 +9160,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>C++ Junior Software Developer</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Anaplan?utm_source=GHList&utm_medium=company">Anaplan</a></strong></td>
