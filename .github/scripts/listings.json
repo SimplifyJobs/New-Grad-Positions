@@ -286075,7 +286075,7 @@
         "company_name": "NV5 Global",
         "id": "817a0d62-00b2-493d-bf54-8556f4a124ec",
         "title": "Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1785619441,
         "date_posted": 1785276509,
         "url": "https://careers-nv5.icims.com/jobs/12426/job?mobile=true&needsRedirect=false",
@@ -363426,7 +363426,7 @@
         "company_name": "EXL",
         "id": "6a6b0071-c08a-496e-b57c-519a4f0e624b",
         "title": "Lead Assistant Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1788460949,
         "date_posted": 1780610686,
         "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15146",
@@ -380564,7 +380564,7 @@
         "company_name": "SciTec",
         "id": "2c474c4a-eb30-4e75-8965-db455c575176",
         "title": "Mission Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789425244,
         "date_posted": 1789425123,
         "url": "https://apply.workable.com/scitec/j/E2F2EB83B3/apply",
@@ -393582,5 +393582,44 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "b8a0da3d-3c2c-4f9e-bced-378378271310",
+        "title": "AI Prompt Engineer",
+        "active": true,
+        "date_updated": 1790634601,
+        "date_posted": 1790553600,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer_332729-1",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MintMCP",
+        "id": "1a76f493-d46a-4e55-a726-506bb074303a",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1790634601,
+        "date_posted": 1790634230,
+        "url": "https://jobs.ashbyhq.com/mintmcp/83584770-dd7c-499d-973f-36829bed51ad/application?embed=true",
+        "locations": [
+            "SF",
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/MintMCP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
