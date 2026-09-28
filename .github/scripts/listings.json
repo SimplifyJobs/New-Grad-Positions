@@ -1,99 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f1a23e75-9487-4c87-bc67-42e4300171d5",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769825551,
-        "date_posted": 1769825551,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047716",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "cd8fe699-7fb8-4f54-a26b-52b302583781",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769825534,
-        "date_posted": 1769825534,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047715",
-        "locations": [
-            "Dundee, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Consolidated Edison",
-        "id": "69806759-208b-461e-aa6f-403736f36a9b",
-        "title": "Project Specialist - EH&S Safety and Data Analytics",
-        "active": false,
-        "date_updated": 1769825249,
-        "date_posted": 1769825249,
-        "url": "https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033/job/5680",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Consolidated-Edison",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ae4f748e-0797-4ed0-b442-d4c5ff67cd28",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769825508,
-        "date_posted": 1769825508,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047717",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "96cf96d6-cf96-4fc6-a3c3-1b67579dfea4",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769825499,
-        "date_posted": 1769825499,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047713",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Micron Technology",
         "id": "3fccaea6-723a-4a5a-b4b5-4893bb90a153",
@@ -283,28 +190,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Centene",
-        "id": "25618cdb-e39c-4f82-b577-66303a6aeb9e",
-        "title": "Enterprise Platforms Product Manager",
-        "active": false,
-        "date_updated": 1769826618,
-        "date_posted": 1769826618,
-        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Enterprise-Platforms-Product-Manager_1627585",
-        "locations": [
-            "North Carolina",
-            "Missouri",
-            "Illinois"
-        ],
-        "company_url": "https://simplify.jobs/c/Centene",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -7965,26 +7850,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/FourKites",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Domo",
-        "id": "c531842f-69c0-4bef-ba78-bc9a2bd97d13",
-        "title": "Associate Product Marketing Manager",
-        "active": false,
-        "date_updated": 1770291576,
-        "date_posted": 1769826610,
-        "url": "https://domo.wd12.myworkdayjobs.com/DomoCareers/job/American-Fork-Utah/Associate-Product-Marketing-Manager_JR100170",
-        "locations": [
-            "American Fork, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Domo",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
