@@ -390179,7 +390179,7 @@
         "company_name": "Data Intellect",
         "id": "e8249f6e-ca38-4ecd-b7e5-cc47d973905a",
         "title": "Graduate STEM Developer - October Start",
-        "active": true,
+        "active": false,
         "date_updated": 1790172901,
         "date_posted": 1790172555,
         "url": "https://jobs.smartrecruiters.com/DataIntellect/744000151366579",
@@ -393608,6 +393608,27 @@
             "Mayfield Heights, OH"
         ],
         "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Valeo Foods",
+        "id": "556e52ef-44fd-4fa9-9aa0-ddbb472a22ed",
+        "title": "Business Intelligence Analyst Graduate",
+        "active": true,
+        "date_updated": 1790604430,
+        "date_posted": 1790604344,
+        "url": "https://jobs.smartrecruiters.com/ValeoFoods/744000152178850",
+        "locations": [
+            "Leeds, UK",
+            "Wallingford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Valeo-Foods",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
