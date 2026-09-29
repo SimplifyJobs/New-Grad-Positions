@@ -98910,7 +98910,7 @@
         "company_name": "Ciena",
         "id": "be35a8e8-0046-42a6-a612-b34eab9848e1",
         "title": "Hardware Power Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1775084941,
         "date_posted": 1775081314,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Power-Engineer---New-Grad_R030580",
@@ -358445,7 +358445,7 @@
         "company_name": "Pennsylvania State University",
         "id": "802f609a-c9d2-4c79-9c01-31ba2acab753",
         "title": "Electrical Engineering Support Specialist - Electrical and Mechanical Solutions Department - Applied Research Laboratory",
-        "active": false,
+        "active": true,
         "date_updated": 1788345745,
         "date_posted": 1782955984,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Electrical-Engineering-Support-Specialist_REQ_0000077999-2",
@@ -394143,6 +394143,47 @@
             "Tucson, AZ"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "540edcca-d307-4690-b5d1-6f6ee69bff14",
+        "title": "Emulation Engineer New Grad",
+        "active": true,
+        "date_updated": 1790703427,
+        "date_posted": 1786342100,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Emulation-Engineer_JR-2600733",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TransPerfect",
+        "id": "f07f29b5-66d5-475e-adab-08954ba49c92",
+        "title": "Litigation Support Analyst",
+        "active": true,
+        "date_updated": 1790703290,
+        "date_posted": 1783168644,
+        "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY/Litigation-Support-Analyst_R2025-244091",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/TransPerfect",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
