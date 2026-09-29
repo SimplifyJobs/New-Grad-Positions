@@ -137858,7 +137858,7 @@
         "company_name": "Applied Materials",
         "id": "ed300ea4-02ed-4c67-bf93-bbe7c322bcb2",
         "title": "Hardware - Hw - Qualification and Development Support Team",
-        "active": true,
+        "active": false,
         "date_updated": 1777338786,
         "date_posted": 1777338542,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Hardware--HW--Qualification-and-Development-Support-Team--DST--Engineer-I_R2616611-1",
@@ -243839,7 +243839,7 @@
         "company_name": "Abridge",
         "id": "ccc30a08-187b-428e-a4e2-333c838dadaa",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783981876,
         "date_posted": 1783980751,
         "url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace/application",
@@ -284995,7 +284995,7 @@
         "company_name": "Avoca AI",
         "id": "5eac3b25-b6c5-4db1-a66d-f2745601de75",
         "title": "Senior Software Engineer - Product",
-        "active": true,
+        "active": false,
         "date_updated": 1785599112,
         "date_posted": 1782482876,
         "url": "https://jobs.ashbyhq.com/avoca/fd85e19f-12cf-421e-9ef5-afc4997c071e/application?embed=true",
@@ -357930,7 +357930,7 @@
         "company_name": "Analog Bits",
         "id": "c3f1885f-027a-4ba5-af79-a19c8caea727",
         "title": "CMOS Mixed-Signal Circuit Design Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1788349167,
         "date_posted": 1784596620,
         "url": "https://ats.rippling.com/analog-bits-inc/jobs/23a8e256-b226-4bae-8128-3c4d040e424d",
@@ -389994,7 +389994,7 @@
         "company_name": "Blue Origin",
         "id": "88d5ca4b-8e90-43bd-bee0-6dd4360f3511",
         "title": "Test Engineer 1 - Terawave",
-        "active": true,
+        "active": false,
         "date_updated": 1790202085,
         "date_posted": 1790121600,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Test-Engineer-I---TeraWave_R72943-1",
@@ -393802,6 +393802,184 @@
             "Tucson, AZ"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "a0778aed-3220-4d8c-9e84-9c474d2f3e73",
+        "title": "Associate Software Systems Engineer / Software Systems Engineer",
+        "active": true,
+        "date_updated": 1790700352,
+        "date_posted": 1790640000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Systems-Engineer---Software-Systems-Engineer---Huntsville-AL_R10253385-1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Quantcast",
+        "id": "b0fe5972-0ce7-4cbd-9e12-7eb974deba3b",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1790699761,
+        "date_posted": 1790691836,
+        "url": "https://jobs.ashbyhq.com/quantcast/c7c68a81-188a-463c-96b7-0bdfac6be655/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Quantcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zeta Global",
+        "id": "9fa4e978-2f91-40d0-98dc-4616e66d1c71",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1790700081,
+        "date_posted": 1790691707,
+        "url": "https://job-boards.greenhouse.io/zetaglobal/jobs/6210511004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Zeta-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Eurofins",
+        "id": "52a0653a-55a6-4e3b-a576-5103d8f8f95f",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1790699948,
+        "date_posted": 1790690986,
+        "url": "https://jobs.smartrecruiters.com/Eurofins/744000152416389",
+        "locations": [
+            "Lancaster, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eurofins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "09f77798-c3bb-40b8-8b28-a90ef55e1885",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1790699975,
+        "date_posted": 1790691101,
+        "url": "https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineer-NJ-07014/1434794500/?ats=successfactors",
+        "locations": [
+            "Clinton, MD",
+            "Clifton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EquipmentShare",
+        "id": "76edf07b-c9a8-44b6-93f2-183e21308392",
+        "title": "Master Data Management Parts Specialist",
+        "active": true,
+        "date_updated": 1790699771,
+        "date_posted": 1790690669,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8211757",
+        "locations": [
+            "Columbia, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EvolutionIQ",
+        "id": "13791686-28c1-4631-925b-a03b627e001c",
+        "title": "Associate Data Engineer - Python / AI Insurance SaaS",
+        "active": true,
+        "date_updated": 1790699751,
+        "date_posted": 1790634267,
+        "url": "https://job-boards.greenhouse.io/evolutioniq/jobs/6210230004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/EvolutionIQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "c26dbb43-0dc8-46a2-9570-58074dec9a76",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1790699838,
+        "date_posted": 1789344000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Systems-Engineer-I--Onsite_01874571",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pennsylvania State University",
+        "id": "24fc2077-0300-4a58-a333-f1771471f51e",
+        "title": "Materials Research and Development Engineer - Electronic Materials and Devices Department",
+        "active": true,
+        "date_updated": 1790701224,
+        "date_posted": 1784764800,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Centre-County/Materials-Research-and-Development-Engineer_REQ_0000080099-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
