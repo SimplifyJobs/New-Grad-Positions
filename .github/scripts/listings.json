@@ -319069,7 +319069,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -331907,7 +331907,7 @@
         "company_name": "Northrop Grumman",
         "id": "f6b37c2b-7ce8-46be-9bd2-52ee453ee815",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1787388047,
         "date_posted": 1787270400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Resource-Control-Team-Software-Engineer--Level-1-or-2----AHT_R10247178",
@@ -331949,7 +331949,7 @@
         "company_name": "Northrop Grumman",
         "id": "fa498077-f142-46a6-a6fe-22fb26b81663",
         "title": "Software Systems Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1787388042,
         "date_posted": 1787270400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Software-System-Engineer--Level-1-or-2----AHT_R10247180",
@@ -335706,7 +335706,7 @@
         "company_name": "RTX",
         "id": "57ebe73c-5293-496b-9bf5-1b38081d2cdf",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1787682172,
         "date_posted": 1787616000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I---Onsite-_01868242",
@@ -393510,6 +393510,63 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/MintMCP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Goldman Sachs",
+        "id": "7d050728-7de3-411e-a5c4-80af3092d319",
+        "title": "Product Manager Analyst - Transaction Banking - API",
+        "active": true,
+        "date_updated": 1790645339,
+        "date_posted": 1790605206,
+        "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/185198",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Aerospace Corporation",
+        "id": "9a58659d-b77f-4cfb-a906-b4c93c609038",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1790645300,
+        "date_posted": 1790553600,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/IC-2027-Data-Engineer_R016664",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "ece4d591-fc39-4e6b-9c60-acd545f74ec0",
+        "title": "Electronic Test Technician - Level 1",
+        "active": true,
+        "date_updated": 1790645221,
+        "date_posted": 1790553600,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Electronic-Test-Technician--Level-1-_R10252061",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
