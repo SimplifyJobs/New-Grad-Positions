@@ -383106,7 +383106,7 @@
         "company_name": "AECOM",
         "id": "dffa63b5-6248-41c4-9f4c-c9bf57e31c18",
         "title": "Assistant Project Information Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1789596543,
         "date_posted": 1789596476,
         "url": "https://jobs.smartrecruiters.com/AECOM2/744000149885190",
@@ -383146,7 +383146,7 @@
         "company_name": "AECOM",
         "id": "ff60ae34-0917-4588-9db1-c906ce09a87a",
         "title": "Assistant Project Information Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1789596543,
         "date_posted": 1789596476,
         "url": "https://jobs.smartrecruiters.com/AECOM2/744000149885232",
@@ -383166,7 +383166,7 @@
         "company_name": "AECOM",
         "id": "e95eca42-220c-42df-a259-3ae54bb5b325",
         "title": "Assistant Project Information Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1789596543,
         "date_posted": 1789596476,
         "url": "https://jobs.smartrecruiters.com/AECOM2/744000149887099",
@@ -383186,7 +383186,7 @@
         "company_name": "AECOM",
         "id": "d6b630cb-f201-45b5-8d17-14b61f51a32a",
         "title": "Assistant Project Information Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1789596543,
         "date_posted": 1789596474,
         "url": "https://jobs.smartrecruiters.com/AECOM2/744000149885636",
@@ -393652,6 +393652,66 @@
             "Goleta, CA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Elwood Technologies",
+        "id": "fbc49cc1-5ab6-44a4-9f07-d64cab4ee8ac",
+        "title": "Graduate Software Engineer - Backend",
+        "active": true,
+        "date_updated": 1790674212,
+        "date_posted": 1790673890,
+        "url": "https://job-boards.greenhouse.io/elwoodtechnologies/jobs/6209718004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Elwood-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "040018c5-1fa3-4eb9-a3d3-22417ae5a8d9",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1790674201,
+        "date_posted": 1790121600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Systems-Engineer-I--Onsite_01877321",
+        "locations": [
+            "Woburn, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Airbus",
+        "id": "03c6863e-83a5-42ae-b8cc-efa8c99ef6bf",
+        "title": "RF Test System Engineer - Airbus Global Graduate Programme",
+        "active": true,
+        "date_updated": 1790673980,
+        "date_posted": 1788393600,
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/AGGP-2027-Graduate-RF-Test-System-Engineer_JR10427013",
+        "locations": [
+            "Portsmouth, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbus",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
