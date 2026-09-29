@@ -331107,7 +331107,7 @@
         "company_name": "Marsh",
         "id": "a45d0443-7d8f-4499-975c-cd7b6aef159f",
         "title": "Government Health Consulting Informatics Analyst - College Program",
-        "active": true,
+        "active": false,
         "date_updated": 1787343199,
         "date_posted": 1787270400,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Analyst---College-Program-2027_R_362067",
@@ -344200,7 +344200,7 @@
         "company_name": "Capital One",
         "id": "64f281cc-18df-415d-bb14-075f5729e24d",
         "title": "Technology Development Program Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1788202263,
         "date_posted": 1788134400,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Development-Program-Associate---February-2027_R244320-1",
@@ -371116,7 +371116,7 @@
         "company_name": "Marsh & McLennan",
         "id": "f80908ff-93c5-490a-939f-d31be3accb2c",
         "title": "Data & Analytics Analyst - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1788830267,
         "date_posted": 1788566400,
         "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics---Analyst---Newcastle-2027_R_364950-1",
@@ -374884,7 +374884,7 @@
         "company_name": "ASML",
         "id": "6ceff462-4e9d-4315-a2ae-5f61afa5f559",
         "title": "System Integration and Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789003698,
         "date_posted": 1788912000,
         "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/System-Integration-and-Test-Engineer_J-00351917",
@@ -383792,7 +383792,7 @@
         "company_name": "Marsh",
         "id": "ee777099-bf44-4c58-9704-40fd3b6bbe5a",
         "title": "Government Health Consulting Financial Analyst - College Program 2027",
-        "active": true,
+        "active": false,
         "date_updated": 1789598539,
         "date_posted": 1787270400,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Phoenix---E-Camelback/Government-Health-Consulting-Financial-Analyst---College-Program-2027_R_362064",
@@ -393585,6 +393585,109 @@
             "Hawthorne, CA"
         ],
         "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Anduril",
+        "id": "7d9873a2-afea-4254-9ea2-9239888b1e16",
+        "title": "Data Analyst - Quality",
+        "active": true,
+        "date_updated": 1790662861,
+        "date_posted": 1790662837,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5251234007",
+        "locations": [
+            "Ashville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "d523429f-8df9-4f2d-9a2b-6741778f4027",
+        "title": "Processor ASIC RTL Design Engineer - ASICS Engineering",
+        "active": true,
+        "date_updated": 1790662861,
+        "date_posted": 1790662717,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721303445",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OneImaging",
+        "id": "eedc9ed3-2ed7-4088-8fb7-f7a83b9ce541",
+        "title": "Associate Data Engineer",
+        "active": true,
+        "date_updated": 1790662681,
+        "date_posted": 1790662565,
+        "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4423646009",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/OneImaging",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OneImaging",
+        "id": "7443e2ee-d487-4319-a352-cc1779444a7f",
+        "title": "Full Stack Associate Software Engineer",
+        "active": true,
+        "date_updated": 1790662681,
+        "date_posted": 1790662565,
+        "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4423640009",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/OneImaging",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "d82876b1-0aad-423c-a0ae-8cddb479fe16",
+        "title": "Test Engineer 1 - Vision Systems",
+        "active": true,
+        "date_updated": 1790662619,
+        "date_posted": 1790553600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Vision-Systems---Test-Engineer-I_01877795",
+        "locations": [
+            "Goleta, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
