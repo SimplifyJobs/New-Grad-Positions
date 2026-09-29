@@ -350792,7 +350792,7 @@
         "company_name": "Textron",
         "id": "abec6d74-fafd-46c0-8d9d-6c6f136b8ee0",
         "title": "Cyber Security Engineer - Air Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1788406926,
         "date_posted": 1788255604,
         "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342900",
@@ -351916,7 +351916,7 @@
         "company_name": "Pennsylvania State University",
         "id": "879bdccf-1f2d-4f19-89ff-ecad039c6997",
         "title": "Electrical Technical Engineering Specialist - Electrical",
-        "active": false,
+        "active": true,
         "date_updated": 1788416493,
         "date_posted": 1788307200,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Technical-Engineering-Specialist--Electrical_REQ_0000081362-2",
@@ -352180,7 +352180,7 @@
         "company_name": "RTX",
         "id": "3b4c2120-432b-4597-aaf6-664e0a1d9b8d",
         "title": "Electrical Engineer 2 - Advanced Effector Guidance Systems",
-        "active": false,
+        "active": true,
         "date_updated": 1788416286,
         "date_posted": 1787875200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/Advanced-Effector-Guidance-Systems-Electrical-Engineer-II--Onsite-_01870395",
@@ -360187,7 +360187,7 @@
         "company_name": "RTX",
         "id": "bf79ce83-617f-414c-a109-b3809235df00",
         "title": "Systems Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1788447948,
         "date_posted": 1786579200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineer-I_01866673",
@@ -371250,7 +371250,7 @@
         "company_name": "KeyBank",
         "id": "c83aee2f-51e7-4be2-9a59-1c28d344fa61",
         "title": "Consumer Analyst Development Program - Consumer Bank",
-        "active": true,
+        "active": false,
         "date_updated": 1788870539,
         "date_posted": 1788134400,
         "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Buffalo-NY/XMLNAME-2027-KeyBank-Consumer-Analyst-Development-Program---Buffalo--NY_R-41889",
@@ -377031,7 +377031,7 @@
         "company_name": "RTX",
         "id": "ec4227af-611c-46c7-9a7f-76344a6757a1",
         "title": "Electrical Engineer 1 - Test Solutions",
-        "active": false,
+        "active": true,
         "date_updated": 1789165493,
         "date_posted": 1789084800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-I---Test-Solutions_01874306",
@@ -380043,7 +380043,7 @@
         "company_name": "Micron Technology",
         "id": "e1b9ccaa-f9f2-4ca4-9214-4e2a0d51dffe",
         "title": "HBM SoC Design Engineer/Architect New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1789424604,
         "date_posted": 1789344000,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/New-College-Grad---HBM-SoC-Design-Engineer-Architect_JR111456",
@@ -380634,7 +380634,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "a5ac682b-5ea2-4a17-9ad8-ce5ac3f21465",
         "title": "Entry Electrical Engineering Embedded Power Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1789452901,
         "date_posted": 1788912000,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Entry-Electrical-Engineering-Embedded-Power-Solutions_1211914",
@@ -383727,7 +383727,7 @@
         "company_name": "CoStar Group",
         "id": "9e0a1a0a-cd53-4d04-b331-d0befbd16a1a",
         "title": "Field Researcher - Zonda",
-        "active": true,
+        "active": false,
         "date_updated": 1789599670,
         "date_posted": 1789516800,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-AL-Field-Based/Part-Time-Field-Researcher---Zonda---Robertsdale-AL_R39835",
@@ -384902,7 +384902,7 @@
         "company_name": "Fidelity National Information Services",
         "id": "b6cca024-2719-434d-a3fd-db2f9f663d4a",
         "title": "Data Analytics and AI - FIS University Program",
-        "active": true,
+        "active": false,
         "date_updated": 1789682581,
         "date_posted": 1789603200,
         "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Data-Analytics-and-AI--FIS-University-Program_JR0309689",
@@ -388190,7 +388190,7 @@
         "company_name": "AbbVie",
         "id": "0b77664d-6d83-4a32-9f73-6037dd7f0288",
         "title": "Associate AI Data Scientist 1 - FAiM Team",
-        "active": true,
+        "active": false,
         "date_updated": 1790030122,
         "date_posted": 1790028304,
         "url": "https://jobs.smartrecruiters.com/AbbVie/3743990015538268",
@@ -392000,7 +392000,7 @@
         "company_name": "Prevail",
         "id": "9941cd38-ef69-43dc-b32e-10eaa9e0cb44",
         "title": "Graduate Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1790299261,
         "date_posted": 1790299173,
         "url": "https://apply.workable.com/prevail/j/B0A07D82DA/apply",
@@ -393980,6 +393980,169 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TripAdvisor",
+        "id": "b1e25a04-c0cf-4584-9b3c-cb00a33139c3",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1790702916,
+        "date_posted": 1790692199,
+        "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/6903058",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TripAdvisor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "5e53dcd6-2301-48d9-8010-f0ddb4a2a434",
+        "title": "Associate Software Engineer - McClellan CA",
+        "active": true,
+        "date_updated": 1790702881,
+        "date_posted": 1790640000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10253394",
+        "locations": [
+            "McClellan Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wash U",
+        "id": "82cd14c1-19c6-4a97-9269-66a14b578ede",
+        "title": "Neuroimaging Engineer - Neurology",
+        "active": true,
+        "date_updated": 1790702666,
+        "date_posted": 1790035200,
+        "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Neuroimaging-Engineer---Neurology_JR97672",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Wash-U",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pennsylvania State University",
+        "id": "765df062-4c56-437f-b00d-e521eb0026cd",
+        "title": "Engineering Technologist - Electrical",
+        "active": true,
+        "date_updated": 1790702571,
+        "date_posted": 1789948800,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Technologist--Electrical_REQ_0000081913-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "dfd0d59f-a419-45ea-ada0-92b1316ddcbe",
+        "title": "Physicist/Scientist New Grad - 2027 Summer Cohort",
+        "active": true,
+        "date_updated": 1790702358,
+        "date_posted": 1789430400,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad---Physicist-Scientist-III---PhD--2027-Summer-Cohort-_R2627969",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "714561f6-d9ec-4a2f-b686-e60990d31cc4",
+        "title": "System Engineer 1",
+        "active": true,
+        "date_updated": 1790701550,
+        "date_posted": 1786579200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/System-Engineer-I_01866674",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "5d73a160-f02b-4d71-b081-048e1144793c",
+        "title": "Receiver \u2013 Exciter & Processing Architecture Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1790702193,
+        "date_posted": 1788912000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-I---Onsite_01873435",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "e7cf680b-381b-4de9-bedd-cb170b5beaec",
+        "title": "Electrical Engineer 1 - Advanced Effector Guidance Systems",
+        "active": true,
+        "date_updated": 1790702102,
+        "date_posted": 1788825600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/AEGS-Pro-Electrical-Engineer-I--On-Site-_01872096",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
