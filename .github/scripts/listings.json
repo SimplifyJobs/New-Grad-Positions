@@ -324388,7 +324388,7 @@
         "company_name": "Citylogix",
         "id": "10dc0728-ebb9-4b22-b529-89f376b30e93",
         "title": "Field Data Collections Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787093943,
         "date_posted": 1787093786,
         "url": "https://ats.rippling.com/citylogix/jobs/1d58c812-9c4a-4f17-b86a-eebe62619272",
@@ -374890,7 +374890,7 @@
         "company_name": "42dot",
         "id": "330917fa-5f52-4c91-9e45-d3090740fbf8",
         "title": "Speech Data Transcriber",
-        "active": true,
+        "active": false,
         "date_updated": 1789021756,
         "date_posted": 1789021599,
         "url": "https://jobs.ashbyhq.com/42dot/bbd16c94-361a-4086-ab0c-7b21fc8b8833/application?embed=true",
@@ -383126,7 +383126,7 @@
         "company_name": "AECOM",
         "id": "51e5d8a0-3efc-4a3f-b710-8a498fb498fd",
         "title": "Assistant Project Information Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1789596543,
         "date_posted": 1789596475,
         "url": "https://jobs.smartrecruiters.com/AECOM2/744000149885110",
@@ -387753,7 +387753,7 @@
         "company_name": "Dallas College",
         "id": "09db6daa-b07a-453c-b001-6132824494c5",
         "title": "Schedule Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1790031119,
         "date_posted": 1789948800,
         "url": "https://dallascollege.wd1.myworkdayjobs.com/Dallas_College_Careers/job/El-Centro-Campus-R-Building/Part-time-Schedule-Analyst_R14049",
@@ -390226,7 +390226,7 @@
         "company_name": "Citylogix",
         "id": "16e29757-05dc-4f51-8460-e2a252307603",
         "title": "Field Survey Technician - Temporary",
-        "active": true,
+        "active": false,
         "date_updated": 1790204011,
         "date_posted": 1790202369,
         "url": "https://ats.rippling.com/citylogix/jobs/94f77241-48f4-4a18-85d6-ff6c6ec76fb6",
@@ -390974,7 +390974,7 @@
         "company_name": "Catch22",
         "id": "5f5ba969-11f5-4f22-afec-0bcaa6f651af",
         "title": "Administrator and Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1790241122,
         "date_posted": 1790240699,
         "url": "https://jobs.smartrecruiters.com/Catch22/744000151555600",
@@ -393404,7 +393404,7 @@
         "company_name": "Valeo Foods",
         "id": "556e52ef-44fd-4fa9-9aa0-ddbb472a22ed",
         "title": "Business Intelligence Analyst Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1790604430,
         "date_posted": 1790604344,
         "url": "https://jobs.smartrecruiters.com/ValeoFoods/744000152178850",
@@ -393716,6 +393716,70 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AMD",
+        "id": "28c3dc28-81a6-4715-a8bd-6c9fb8e8dd12",
+        "title": "RTL/Firmware Design Engineer",
+        "active": true,
+        "date_updated": 1790674744,
+        "date_posted": 1790604794,
+        "url": "https://careers.amd.com/jobs/90713?icims=1",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "0f08639c-b083-4d01-ad9d-3135aa74c059",
+        "title": "Electronics Technician",
+        "active": true,
+        "date_updated": 1790675382,
+        "date_posted": 1783987200,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Electronics-Technician--1st-Shift---M-F-6-15-AM---3-00-PM-_R4043619-1",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Foundation ",
+        "id": "141be276-45a8-4c54-9329-770037f214ce",
+        "title": "Robotics Build Engineer",
+        "active": true,
+        "date_updated": 1790674562,
+        "date_posted": 1781935680,
+        "url": "https://ats.rippling.com/foundation-robotics/jobs/ea786091-a229-45bb-ab72-db0a49e6e91c",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Foundation-Future-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
