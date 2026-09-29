@@ -209331,7 +209331,7 @@
         "company_name": "Microsoft",
         "id": "a6ab1df3-86d8-42bb-b220-97ec8c92cba2",
         "title": "Software Engineer - Ctj - Poly",
-        "active": false,
+        "active": true,
         "date_updated": 1781763081,
         "date_posted": 1781762785,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
@@ -319000,7 +319000,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -374140,7 +374140,7 @@
         "company_name": "Boeing",
         "id": "96ce500e-5e6d-4796-8787-89a69ab30d04",
         "title": "Software Engineer - Associate - Bixby",
-        "active": false,
+        "active": true,
         "date_updated": 1788994167,
         "date_posted": 1788912000,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Software-Engineer--Associate--Experienced-or-Senior----Bixby_JR2026524250",
@@ -377378,7 +377378,7 @@
         "company_name": "NXP Semiconductors",
         "id": "b8e99c43-8e02-4d04-89d1-f5bd150c6cfc",
         "title": "Entry Level Semiconductor Test Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1789165441,
         "date_posted": 1789084800,
         "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Entry-Level-Semiconductor-Test-Engineer_R-10064969-1",
@@ -394188,6 +394188,295 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Early Warning",
+        "id": "b81ad8d8-409c-4563-b87b-1aa4661b4937",
+        "title": "Software Engineer - Java - Paze",
+        "active": true,
+        "date_updated": 1790720282,
+        "date_posted": 1790640000,
+        "url": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Software-Engineer---Java--Paze_REQ2026933",
+        "locations": [
+            "SF",
+            "Chicago, IL",
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Early-Warning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "9b3fedd9-3970-4a58-a273-097e63969794",
+        "title": "HBM SoC Design Engineer/Architect New Grad - HBM SoC Design Engineer/Architect",
+        "active": true,
+        "date_updated": 1790720809,
+        "date_posted": 1790640000,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/New-College-Grad---HBM-SoC-Design-Engineer-Architect_JR113782",
+        "locations": [
+            "Folsom, CA",
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Laminar",
+        "id": "f4e3ff63-d803-48e6-a0a1-1a2716fc3d76",
+        "title": "Junior Machine Learning Engineer - ML - Developer",
+        "active": true,
+        "date_updated": 1790720782,
+        "date_posted": 1790720037,
+        "url": "https://jobs.lever.co/runlaminar/827f30da-67cd-4274-91e7-87fb12019a23/apply",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Laminar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CTG",
+        "id": "c4f55563-1069-419b-b01e-3e54c1fc802c",
+        "title": "Technician 1",
+        "active": true,
+        "date_updated": 1790720799,
+        "date_posted": 1790720042,
+        "url": "https://careers.ctg.com/jobs/17716?icims=1",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CTG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ASSA ABLOY",
+        "id": "73a73ca6-2b65-48a8-ae4e-bd56c127f358",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1790720282,
+        "date_posted": 1790719980,
+        "url": "https://assaabloy.jobs2web.com/job/Phoenix-Associate-Software-Engineer-AZ-85044/1442458033/?ats=successfactors",
+        "locations": [
+            "Phoenix, AZ",
+            "New Haven, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University System",
+        "id": "05bdbb1d-58ac-4a71-b4f5-86705e3398d9",
+        "title": "Postdoctoral Researcher - AI-Powered Multi-Agent System",
+        "active": true,
+        "date_updated": 1790719925,
+        "date_posted": 1790640000,
+        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Postdoctoral-Researcher--AI-Powered-Multi-Agent-System-_R-097601",
+        "locations": [
+            "Prairie View, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AIG",
+        "id": "bfb5f9ca-d36d-43d2-9b24-9e77e7d36585",
+        "title": "Data Office: Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1790720415,
+        "date_posted": 1790640000,
+        "url": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Data-Office--Business-Intelligence---United-States--Multiple-Cities_JR2604219",
+        "locations": [
+            "Jersey City, NJ",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/AIG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AIG",
+        "id": "1336c150-d79e-42da-bba7-8523833b096d",
+        "title": "Data Office: Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1790720415,
+        "date_posted": 1790640000,
+        "url": "https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Data-Office--Business-Intelligence---United-States--Multiple-Cities_JR2604219-1",
+        "locations": [
+            "Jersey City, NJ",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/AIG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "92f02a6c-abe5-4113-a080-6f7e53861b95",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1790720366,
+        "date_posted": 1790719842,
+        "url": "https://jobs.l3harris.com/job/Yorba-Linda-Associate,-Software-Engineer-CA-92887/1434953800/?ats=successfactors",
+        "locations": [
+            "Yorba Linda, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stryker",
+        "id": "d97af790-cffa-4bad-9bbc-43cf21c683b9",
+        "title": "Electrical Design Engineer",
+        "active": true,
+        "date_updated": 1790719925,
+        "date_posted": 1790719905,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Electrical-Design-Engineer_R569333",
+        "locations": [
+            "Portage, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SOCOTEC UK & Ireland",
+        "id": "33cd12b1-bc34-4679-99fa-08ef9204498c",
+        "title": "Survey Data Processor and Analyst",
+        "active": true,
+        "date_updated": 1790719742,
+        "date_posted": 1790719658,
+        "url": "https://jobs.smartrecruiters.com/SOCOTECUKIreland/744000152460059",
+        "locations": [
+            "Burton upon Trent, Burton-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SOCOTEC-UK-And-Ireland",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuitive Surgical",
+        "id": "f91b1924-d624-401a-b807-2ddc1e14c988",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1790720282,
+        "date_posted": 1790719592,
+        "url": "https://jobs.smartrecruiters.com/Intuitive/744000152472854",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prairie View A&M University",
+        "id": "1730a615-0bc8-4f38-9370-6e135571b9bf",
+        "title": "Postdoctoral Researcher - AI-Powered Multi-Agent System",
+        "active": true,
+        "date_updated": 1790719742,
+        "date_posted": 1790640000,
+        "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--AI-Powered-Multi-Agent-System-_R-097601-1",
+        "locations": [
+            "Prairie View, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Prairie-View-AM-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Broadcom",
+        "id": "392c17c6-0962-4a3d-8e45-399a6513ebcd",
+        "title": "Test Engineer - Ate",
+        "active": true,
+        "date_updated": 1790719561,
+        "date_posted": 1790640000,
+        "url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA-San-Jose-Innovation-Drive/Test-Engineer--ATE-_R027196-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Broadcom-Limited",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
