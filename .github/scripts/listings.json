@@ -1,96 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "eea95e58-b209-44d9-8927-e7f12b9e7d5a",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769987491,
-        "date_posted": 1769987491,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047858",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "75567918-83ac-483b-b83b-bb02c3b337fa",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769987517,
-        "date_posted": 1769987517,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047865",
-        "locations": [
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "6d0e6d78-0f2c-43f7-b45a-f42bfc0e1d34",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769987508,
-        "date_posted": 1769987508,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047857",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "69778df0-f6f9-4467-ad57-b96f26f566a3",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769987479,
-        "date_posted": 1769987479,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047864",
-        "locations": [
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "586d68ab-687d-4251-ab8b-aa2dbfed632d",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769987497,
-        "date_posted": 1769987497,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047861",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "S&P Global ",
         "id": "030e627a-11c9-4210-878e-687e97c648d1",
@@ -284809,7 +284719,7 @@
         "company_name": "Peraton",
         "id": "58ef82e0-8648-4b2b-8976-fee15467601b",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785597841,
         "date_posted": 1782137179,
         "url": "https://careers-peraton.icims.com/jobs/167887/job?mobile=true&needsRedirect=false",
@@ -390396,7 +390306,7 @@
         "company_name": "iManage",
         "id": "cc4a8dbb-c15d-4fd8-a1fe-4ac7bffa903e",
         "title": "Applied AI Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1790203624,
         "date_posted": 1790202075,
         "url": "https://imanagecom.applytojob.com/apply/r4huAJvEWl/Applied-AI-Engineer-New-Or-Recent-Grad",
