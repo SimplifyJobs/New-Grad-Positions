@@ -310526,7 +310526,7 @@
         "company_name": "NVIDIA",
         "id": "c5d7115a-0381-48fe-937d-74497a7da062",
         "title": "GPU Verification Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1786573233,
         "date_posted": 1786492800,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2023187",
@@ -363420,7 +363420,7 @@
         "company_name": "DaVita",
         "id": "216ef271-9605-4ed8-ae68-30e54c4b88f5",
         "title": "Clinical Programs Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788463466,
         "date_posted": 1783555200,
         "url": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Clinical-Programs-Analyst--IKC-_R0467376",
@@ -393570,5 +393570,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "23dfd8e4-f91c-43b3-87fc-4ea57c85e129",
+        "title": "Software Engineer New Grad - Software - Starfall",
+        "active": true,
+        "date_updated": 1790645435,
+        "date_posted": 1790645193,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8854394002",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
