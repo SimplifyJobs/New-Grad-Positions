@@ -2,163 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Greenheck Group",
-        "id": "c524afac-8619-459b-950b-07bd99962d48",
-        "title": "Application Developer 1",
-        "active": false,
-        "date_updated": 1770017090,
-        "date_posted": 1770017090,
-        "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Remote---Wisconsin/Application-Developer-I_JR102821",
-        "locations": [
-            "Wisconsin"
-        ],
-        "company_url": "https://simplify.jobs/c/Greenheck-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "G-Research",
-        "id": "b17fdd08-3496-4475-9ba3-8dba031a464e",
-        "title": "Quantitative Researcher",
-        "active": false,
-        "date_updated": 1770017114,
-        "date_posted": 1770017114,
-        "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quantitative-Researcher--Data-Science-Machine-Learning-Mathematical-Modelling-_R2269",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/G-Research",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Greenheck Group",
-        "id": "8c2be8af-f08b-481d-80ff-d797b9dea024",
-        "title": "Application Developer 1",
-        "active": false,
-        "date_updated": 1770017091,
-        "date_posted": 1770017091,
-        "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-I_JR103120-1",
-        "locations": [
-            "Plover, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Greenheck-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "25e7a209-ac4b-4de8-b16b-dc40dab6b415",
-        "title": "Systems Software Engineer",
-        "active": false,
-        "date_updated": 1770016914,
-        "date_posted": 1770016914,
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Systems-Software-Engineer_1199612-2",
-        "locations": [
-            "Roseville, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CrowdGen by Appen",
-        "id": "5e68b6ba-9217-499f-abd7-17611e1e739c",
-        "title": "iOS Users - Join Project Mavara",
-        "active": false,
-        "date_updated": 1770016624,
-        "date_posted": 1770016624,
-        "url": "https://jobs.lever.co/appen/ca2ef740-f9de-45cf-a3b4-e48325ca8025/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/CrowdGen-By-Appen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "724d9896-6f64-4662-bf01-0a47cb48d37f",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770016265,
-        "date_posted": 1770016265,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047875",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "238723ee-0986-4ba3-bb3b-572df0750855",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770016252,
-        "date_posted": 1770016252,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047874",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "844391b9-8516-42d1-9596-f7c753981f8b",
-        "title": "Software Engineer 1 - Integration & Test",
-        "active": false,
-        "date_updated": 1770074109,
-        "date_posted": 1770017986,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Full-time---Software-Engineer-I---Integration---Test---Onsite--MA-_01820758",
-        "locations": [
-            "Concord, MA",
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Stripe",
         "id": "f8e9f90e-4ebf-4435-ab91-785ab4ba499f",
         "title": "Software Engineer \u2013 New Grad",
@@ -24803,26 +24646,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Graco",
-        "id": "67c1ccc5-d399-4934-9b61-7737b4cb3ce8",
-        "title": "Product Manager",
-        "active": false,
-        "date_updated": 1771414697,
-        "date_posted": 1770017145,
-        "url": "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Rogers-Minnesota-USA-David-Koch-Center/Product-Manager_R0021924",
-        "locations": [
-            "Albertville, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Graco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -267514,7 +267337,7 @@
         "company_name": "RTX",
         "id": "05265820-1130-4644-9da5-87524303c14b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784819994,
         "date_posted": 1784764800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525",
@@ -287507,7 +287330,7 @@
         "company_name": "ABEC",
         "id": "19e4f3e2-8068-46e5-b5f9-879b2594bd38",
         "title": "Product Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785680461,
         "date_posted": 1785517785,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4372257",
@@ -318671,7 +318494,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -331946,7 +331769,7 @@
         "company_name": "Mastercard",
         "id": "b948ef8c-99af-4850-940a-ca3b8506efb3",
         "title": "Software Engineer - Launch Program",
-        "active": false,
+        "active": true,
         "date_updated": 1787580931,
         "date_posted": 1787529600,
         "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1",
@@ -344840,7 +344663,7 @@
         "company_name": "L3Harris Technologies",
         "id": "349400a4-4185-470e-84eb-5b65b346c7e1",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1788224370,
         "date_posted": 1788220645,
         "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1425107000/?ats=successfactors",
@@ -364234,7 +364057,7 @@
         "company_name": "Marshall Wace",
         "id": "2869e42a-aa24-4c96-a6af-93fc142804cd",
         "title": "Software/Infrastructure Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1788467962,
         "date_posted": 1785489221,
         "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646937002",
@@ -384981,7 +384804,7 @@
         "company_name": "Boeing",
         "id": "3c3042e7-5ae0-40cf-81b1-b30d3324068c",
         "title": "Space Electronics Test Systems Design Engineer - Special Test Equipment - Space Electronics",
-        "active": true,
+        "active": false,
         "date_updated": 1789684463,
         "date_posted": 1789603200,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Space-Electronics-Test-Systems-Design-Engineer--Experienced-Lead-_JR2026524763",
@@ -389293,7 +389116,7 @@
         "company_name": "Cisco",
         "id": "6a0248da-3508-46b4-90f1-07d13627e1c1",
         "title": "Software Engineer Compiler 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790115497,
         "date_posted": 1790035200,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Austin-Texas-US/Software-Engineer-Complier-I--Full-Time----United-States_2025313",
@@ -394886,7 +394709,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": false,
+        "active": true,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -395084,5 +394907,211 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Google",
+        "id": "0375a46c-6d12-45d5-b9c2-fe879a4ec1f7",
+        "title": "Silicon Engineer",
+        "active": true,
+        "date_updated": 1790757346,
+        "date_posted": 1790604972,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/127950560631366342",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "5d0db3cd-a552-47cd-9299-149b07657705",
+        "title": "Associate Hardware Electronics Engineer",
+        "active": true,
+        "date_updated": 1790749177,
+        "date_posted": 1790726400,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Hardware-Electronics-Engineer---Rolling-Meadows-IL_R10252183",
+        "locations": [
+            "Rolling Meadows, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "142dab0a-1dc8-4019-b25f-4e4439bafa24",
+        "title": "Associate Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1790749170,
+        "date_posted": 1790726400,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Embedded-Software-Engineer_R10252185",
+        "locations": [
+            "Rolling Meadows, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "1f2f92ef-4765-4730-b29c-a7f5dff8437a",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1790748952,
+        "date_posted": 1790640000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Systems-Engineer-I--Onsite-_01876828",
+        "locations": [
+            "Fulton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "4a3dcb84-bb07-46ac-8987-16d0282e6779",
+        "title": "Foundry Advanced Device Development Engineer",
+        "active": true,
+        "date_updated": 1790748947,
+        "date_posted": 1790640000,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Intel-Foundry-Advanced--Device-Development-Engineer_JR0287391",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "a6f7f303-154d-474b-9c89-6444843b509d",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1790748946,
+        "date_posted": 1790640000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01874924-1",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "95424707-6f2c-4445-b12e-6210ef442404",
+        "title": "Deals Analytics Senior Associate - DTDS",
+        "active": true,
+        "date_updated": 1790748802,
+        "date_posted": 1787529600,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Deals---DTDS---Analytics-Senior-Associate---Summer-Fall-2027_753778WD-1",
+        "locations": [
+            "Washington, DC",
+            "SF",
+            "LA",
+            "Rosemont, IL",
+            "Silicon Valley, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AHEAD",
+        "id": "103d67f5-f9fb-44d8-8a7e-a4cfe462d1f2",
+        "title": "Launch Associate - Product Engineer",
+        "active": true,
+        "date_updated": 1790757721,
+        "date_posted": 1789769961,
+        "url": "https://jobs.lever.co/thinkahead/e38c7c5d-83f3-4873-91bb-bfe50239280e/apply",
+        "locations": [
+            "Libertyville, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AHEAD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Morse Micro",
+        "id": "1c592680-03f1-41bf-8a70-eeaffc486a95",
+        "title": "Product Quality Engineer 1",
+        "active": true,
+        "date_updated": 1790758120,
+        "date_posted": 1784124691,
+        "url": "https://jobs.ashbyhq.com/morse-micro/ca01644b-bb2f-4dda-8ea3-b3c3085e62fc/application?embed=true",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Morse-Micro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aurelian",
+        "id": "10dfa9c3-f163-4d07-a147-2e457a8c3e6b",
+        "title": "Backend Engineer \u2013 New Grad to Staff Level",
+        "active": true,
+        "date_updated": 1790757736,
+        "date_posted": 1784067222,
+        "url": "https://jobs.ashbyhq.com/aurelian/25273778-0cdc-4bfe-9b37-4a735d534cd5/application?embed=true",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurelian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
