@@ -1,102 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "S&P Global ",
-        "id": "030e627a-11c9-4210-878e-687e97c648d1",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1769999330,
-        "date_posted": 1769999330,
-        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/London-UK/Associate-Product-Manager_324582-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/SP-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Emerson Electric",
-        "id": "171192b8-94f0-4348-b386-42d897d772f7",
-        "title": "Manufacturing Software Engineer",
-        "active": false,
-        "date_updated": 1769998379,
-        "date_posted": 1769998379,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26000800",
-        "locations": [
-            "Eden Prairie, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "eb217d1a-11a2-4c36-9361-855534cc2f28",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769998256,
-        "date_posted": 1769998256,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047872",
-        "locations": [
-            "Milton Keynes, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a92a0961-cf13-4215-8413-28f962ea903e",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769998228,
-        "date_posted": 1769998228,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047873",
-        "locations": [
-            "Milton Keynes, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Vernova",
-        "id": "c7142277-f589-4669-b7e6-315a6375df14",
-        "title": "1&C \u2013 Instrumentation & Controls - Embedded Software Engineer",
-        "active": false,
-        "date_updated": 1769999435,
-        "date_posted": 1769999435,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Wilmington-NC-USA/I-C--Instrumentation---Controls--Software-Engineer_R5030229-2",
-        "locations": [
-            "Wilmington, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Bank of America",
         "id": "956021e0-fb52-4672-ab62-04c9cfcdeae7",
@@ -116,24 +20,6 @@
             "Addison, TX"
         ],
         "company_url": "https://simplify.jobs/c/Bank-Of-America",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Vernova",
-        "id": "de685bba-4564-4f55-aac4-1acc04443e71",
-        "title": "Embedded SW Development",
-        "active": false,
-        "date_updated": 1769999384,
-        "date_posted": 1769999384,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/Embedded-SW-Development_R5030299-2",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -160,26 +46,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Vernova",
-        "id": "6357316c-ae9e-4fa9-9040-f7d0359d9ab9",
-        "title": "Engineer \u2013 Inspection Engineering-Electrical and Controls",
-        "active": false,
-        "date_updated": 1769999362,
-        "date_posted": 1769999362,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Wilmington-NC-USA/Engineer--Inspection-Engineering--Electrical-and-Controls_R5030929",
-        "locations": [
-            "Wilmington, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Toshiba Global Commerce",
         "id": "2b42533c-2309-462a-8f7b-79dfec094f38",
@@ -192,46 +58,6 @@
             "Durham, NC"
         ],
         "company_url": "https://simplify.jobs/c/Toshiba-Global-Commerce",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Vernova",
-        "id": "25150388-eac1-4f00-b502-dbd4d396302c",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1769999428,
-        "date_posted": 1769999428,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Roanoke-US-VA-3/Software-Engineer_R5030434-3",
-        "locations": [
-            "Roanoke, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "d0df0ab9-f9b5-4f5b-8c4f-4c63abafb90a",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1769999063,
-        "date_posted": 1769999063,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineer-I--Onsite-_01814829-2",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -190721,7 +190547,7 @@
         "company_name": "GE Appliances",
         "id": "9c49f57d-6085-4172-b0ed-68b2a3041ef2",
         "title": "Engineering Development Program - Software",
-        "active": true,
+        "active": false,
         "date_updated": 1780752121,
         "date_posted": 1780740248,
         "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---January-2027_REQ-25806",
@@ -369599,7 +369425,7 @@
         "company_name": "Credence",
         "id": "78d9bccf-8fd2-497a-80a4-f3b00fed7d3a",
         "title": "Entry-Level AI Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788561901,
         "date_posted": 1788561842,
         "url": "https://apply.workable.com/credence/j/BAD39E80E0/apply",
@@ -388566,7 +388392,7 @@
         "company_name": "JP Morgan Chase",
         "id": "78b43528-9f63-4fe7-9fd3-b20d58a0a218",
         "title": "Market Risk Time Series Analytics Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1790126379,
         "date_posted": 1790125762,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785457",
@@ -393542,7 +393368,7 @@
         "company_name": "Airbus",
         "id": "03c6863e-83a5-42ae-b8cc-efa8c99ef6bf",
         "title": "RF Test System Engineer - Airbus Global Graduate Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1790673980,
         "date_posted": 1788393600,
         "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/AGGP-2027-Graduate-RF-Test-System-Engineer_JR10427013",
