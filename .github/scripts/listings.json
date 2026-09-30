@@ -27266,7 +27266,7 @@
         "company_name": "NVIDIA",
         "id": "7fb2f96e-3662-4a02-a0c2-e7bbd2663ce9",
         "title": "System Design Engineer \u2013 New College Grad 2026",
-        "active": false,
+        "active": true,
         "date_updated": 1771543465,
         "date_posted": 1771543465,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Design-Engineer---New-College-Grad-2026_JR2011879",
@@ -251148,7 +251148,7 @@
         "company_name": "SpaceX",
         "id": "b9eb627c-cc95-42eb-a6d2-f2b33c57b4af",
         "title": "Full Stack Software Engineer Observability - Observability - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1784332329,
         "date_posted": 1784326460,
         "url": "https://boards.greenhouse.io/spacex/jobs/8638457002",
@@ -315621,7 +315621,7 @@
         "company_name": "Urban Science",
         "id": "bdb1ace7-404b-42cb-93b4-39b7dca37ea8",
         "title": "Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786687021,
         "date_posted": 1786686942,
         "url": "https://careers-urbanscience.icims.com/jobs/5218/job?mobile=true&needsRedirect=false",
@@ -318132,7 +318132,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -329988,7 +329988,7 @@
         "company_name": "General Motors",
         "id": "53ce3bb2-f715-4b48-a55a-31dcb2506112",
         "title": "Software Engineer - AV Data Collection",
-        "active": false,
+        "active": true,
         "date_updated": 1787341613,
         "date_posted": 1787270400,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529",
@@ -340120,7 +340120,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "92e26ac8-dfc6-42c8-867f-6c96fb1a9e63",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1787870901,
         "date_posted": 1787788800,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030526",
@@ -342711,7 +342711,7 @@
         "company_name": "RTX",
         "id": "d8fcefa4-be4d-476c-89c8-dae303547940",
         "title": "Digital Hardware Design Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1788037064,
         "date_posted": 1787875200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Electrical--RCP-HW-Engineer-1--Onsite-_01869283",
@@ -367512,7 +367512,7 @@
         "company_name": "Wachter",
         "id": "ecc381e3-c967-4ac1-87a4-8bacaef3c518",
         "title": "Audio Visual Staging and Configuration Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1788522749,
         "date_posted": 1785794814,
         "url": "https://jobs.lever.co/wachter/5a23a293-dff8-4013-b152-a7d5c9118668/apply",
@@ -379316,7 +379316,7 @@
         "company_name": "Renesas Electronics",
         "id": "ec59822b-1ce3-45e9-bbea-6bc20d0c4418",
         "title": "Senior Staff Applications Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789423922,
         "date_posted": 1789423767,
         "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000149393880",
@@ -380416,7 +380416,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "5e57ccae-7277-4587-8079-77b7bae18c57",
         "title": "Graduate Data Scientist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1789510819,
         "date_posted": 1789430400,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Aspire-Tech-Graduate-Data-Scientist-I_R118695",
@@ -394347,7 +394347,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": false,
+        "active": true,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -395114,6 +395114,429 @@
             "Charlotte, NC"
         ],
         "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "9f8d956a-d347-446a-8bce-af7f346d0960",
+        "title": "Design Validation Product Engineer New Grad - Engineering - HIG HBM PSE Design Validation",
+        "active": true,
+        "date_updated": 1790807381,
+        "date_posted": 1790726400,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---ENG--HIG-HBM-PSE-Design-Validation_JR112995",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "686707fe-5543-4aa2-9614-e8dc1052fd57",
+        "title": "Operations Analyst",
+        "active": true,
+        "date_updated": 1790806718,
+        "date_posted": 1790806512,
+        "url": "https://careers-gdms.icims.com/jobs/75274/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Southern Company",
+        "id": "3d00be97-0582-45ae-a8eb-87b75501dddc",
+        "title": "Application Developer 1 - Integrations",
+        "active": true,
+        "date_updated": 1790807349,
+        "date_posted": 1790806487,
+        "url": "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/21843",
+        "locations": [
+            "Naperville, IL",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Southern-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mastercard",
+        "id": "2769aa70-1382-4688-a523-01231176c4df",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1790807336,
+        "date_posted": 1790726400,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "AMERICAN SYSTEMS",
+        "id": "9ef396c2-66dc-41d7-a13d-baba313ff8be",
+        "title": "Junior Operations Research Analyst",
+        "active": true,
+        "date_updated": 1790807258,
+        "date_posted": 1790806355,
+        "url": "https://careers-americansystems.icims.com/jobs/5007/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/AMERICAN-SYSTEMS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MUFG",
+        "id": "071bc04c-3864-41c3-8c8c-7d69df018fce",
+        "title": "Business Data Analyst",
+        "active": true,
+        "date_updated": 1790806718,
+        "date_posted": 1790726400,
+        "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Business-Data-Analyst_10079330-WD-1",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/MUFG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "b016d09f-fc02-4100-8d49-a3f02020ed71",
+        "title": "Design Validation Product Engineer New Grad - Engineering - HIG HBM PSE Design Validation",
+        "active": true,
+        "date_updated": 1790807226,
+        "date_posted": 1790726400,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Engineer---HIG-HBM-PSE---Design-Validation_JR112996",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "e97ed1eb-86ee-4af5-ace9-3f7b789a19ba",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1790807065,
+        "date_posted": 1790806056,
+        "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1435324600/?ats=successfactors",
+        "locations": [
+            "Palm Bay, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HELLBENDER",
+        "id": "13ba423b-b67d-4b79-a96b-6e8f0425688f",
+        "title": "Linux Device Driver Engineer",
+        "active": true,
+        "date_updated": 1790806718,
+        "date_posted": 1790635555,
+        "url": "https://job-boards.greenhouse.io/hellbenderinc/jobs/5436436008",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/HELLBENDER",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Westinghouse Electric Company",
+        "id": "a57355cf-b70a-48e3-a0c3-e45a4daf3283",
+        "title": "Hardware Engineer",
+        "active": true,
+        "date_updated": 1790806718,
+        "date_posted": 1789416283,
+        "url": "https://careers.westinghousenuclear.com/job/Warrendale-Hardware-Engineer-OR/1429619600/?ats=successfactors",
+        "locations": [
+            "Cranberry Township, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "9549623e-f257-4575-a319-f06abcb98648",
+        "title": "ATD QEV Product Engineer",
+        "active": true,
+        "date_updated": 1790806141,
+        "date_posted": 1790806110,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015860",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Emerson Electric",
+        "id": "dbddf080-ae69-47b8-9240-51846a1e1429",
+        "title": "Hardware Digital Engineer",
+        "active": true,
+        "date_updated": 1790806141,
+        "date_posted": 1790806102,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011627",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Frontier Technology",
+        "id": "441e1cb7-e771-4195-8f30-ab85f0750b89",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1790806141,
+        "date_posted": 1790806038,
+        "url": "https://careers-ftidefense.icims.com/jobs/7095/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Norfolk, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Frontier-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Frontier Technology",
+        "id": "ba67045a-ca8a-4f4a-b1a7-ab42def6be77",
+        "title": "Early Career Associate Data Scientist",
+        "active": true,
+        "date_updated": 1790806141,
+        "date_posted": 1790806037,
+        "url": "https://careers-ftidefense.icims.com/jobs/7093/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Norfolk, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Frontier-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Renesas Electronics",
+        "id": "0cbf2755-99a0-43de-b82e-80c03b4ac364",
+        "title": "Engineer \u2013 Physical AI",
+        "active": true,
+        "date_updated": 1790806141,
+        "date_posted": 1790806036,
+        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000152732242",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Renesas-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Frontier Technology",
+        "id": "9a553838-a007-4071-b969-45ccfd1b81cb",
+        "title": "Associate Software Developer",
+        "active": true,
+        "date_updated": 1790806141,
+        "date_posted": 1790806036,
+        "url": "https://careers-ftidefense.icims.com/jobs/7097/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Norfolk, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Frontier-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Frontier Technology",
+        "id": "81d7b657-1262-44db-a9aa-bb8d4d01ee55",
+        "title": "Associate Software Developer",
+        "active": true,
+        "date_updated": 1790806627,
+        "date_posted": 1790806035,
+        "url": "https://careers-ftidefense.icims.com/jobs/7096/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Norfolk, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Frontier-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "cea6352a-da56-4d24-a4d4-4a5f5833eeec",
+        "title": "Undergrad Software Engineer - Oracle Cloud Infrastructure",
+        "active": true,
+        "date_updated": 1790806576,
+        "date_posted": 1790806019,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346357",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Atlassian",
+        "id": "d739b0c1-7de2-4820-8075-fc8cf49855fd",
+        "title": "Data Scientist Graduate",
+        "active": true,
+        "date_updated": 1790806546,
+        "date_posted": 1790806007,
+        "url": "https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Atlassian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "751984c5-133f-4c38-825a-4ef6e23d9f56",
+        "title": "Associate \u2013 Integration / Test Engineer",
+        "active": true,
+        "date_updated": 1790806718,
+        "date_posted": 1790806064,
+        "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Integration-Test-Engineer-VA-20171/1419940000/?ats=successfactors",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PG&E",
+        "id": "de2e7aef-3f85-4d5d-a785-80237b864ee3",
+        "title": "Product Engineer Associate",
+        "active": true,
+        "date_updated": 1790806277,
+        "date_posted": 1790805935,
+        "url": "https://careers.pge.com/job/Oakland-Product-Engineer,-Associate-CA-94612/1435363700/?ats=successfactors",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PGE",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
