@@ -1008,7 +1008,7 @@
         "company_name": "General Dynamics",
         "id": "736601ef-d2f7-440f-81d2-25467641ae04",
         "title": "Newport Engineering Office - Embedded SW Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1770073922,
         "date_posted": 1770073922,
         "url": "https://careers-gdeb.icims.com/jobs/17555/job?mobile=true&needsRedirect=false",
@@ -267377,7 +267377,7 @@
         "company_name": "Zurich Insurance",
         "id": "ac56ab22-4e58-404f-bd27-334854dd766c",
         "title": "Software Engineer Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1784819368,
         "date_posted": 1784815795,
         "url": "https://www.careers.zurich.com/job/Bath-Associate-Software-Engineer-GB-E/1367510657/?ats=successfactors",
@@ -318472,7 +318472,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -376503,7 +376503,7 @@
         "company_name": "RTX",
         "id": "ec4227af-611c-46c7-9a7f-76344a6757a1",
         "title": "Electrical Engineer 1 - Test Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1789165493,
         "date_posted": 1789084800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-I---Test-Solutions_01874306",
@@ -394687,7 +394687,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": true,
+        "active": false,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -395229,6 +395229,170 @@
             "Vancouver, WA"
         ],
         "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EvenUp",
+        "id": "5d0c84fa-1994-4946-a104-4a9b317a3f9c",
+        "title": "Software Engineer New Grad - AI Entities",
+        "active": true,
+        "date_updated": 1790778540,
+        "date_posted": 1790778062,
+        "url": "https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true",
+        "locations": [
+            "Toronto, ON, Canada",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/EvenUp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lucid Computing",
+        "id": "822b37cc-a0a6-437f-94cb-e1d7221ab0e9",
+        "title": "Member of Technical Staff",
+        "active": true,
+        "date_updated": 1790778062,
+        "date_posted": 1790777935,
+        "url": "https://jobs.ashbyhq.com/lucidcomputing/a19cd7c3-6ed2-4659-bf9a-1c27200319d7/application?embed=true",
+        "locations": [
+            "London, UK",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Positron",
+        "id": "5045aa09-fb9d-4f84-99c2-5f33a01c871f",
+        "title": "ASIC Design Engineer",
+        "active": true,
+        "date_updated": 1790778197,
+        "date_posted": 1790777892,
+        "url": "https://ats.rippling.com/positron/jobs/4238837d-83e8-4bab-996e-0702fecb4337",
+        "locations": [
+            "Canada",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Positron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Positron",
+        "id": "c0424315-47e7-408f-ac0b-a9fed7564cc3",
+        "title": "ASIC Physical Design Engineer",
+        "active": true,
+        "date_updated": 1790778119,
+        "date_posted": 1790777892,
+        "url": "https://ats.rippling.com/positron/jobs/6ae9b265-03e8-41b7-95fd-8310e324c571",
+        "locations": [
+            "Canada",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Positron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "8241dd7c-e911-4078-85d3-5095ff275c0d",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1790778048,
+        "date_posted": 1790777682,
+        "url": "https://careers-gdms.icims.com/jobs/75205/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Middletown, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jobs for Humanity",
+        "id": "1dad5d4a-16aa-4c28-810f-df2ac23bfae5",
+        "title": "Quality Assurance Rater - German",
+        "active": true,
+        "date_updated": 1790777881,
+        "date_posted": 1790777368,
+        "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000152653291",
+        "locations": [
+            "Germantown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobs-For-Humanity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "International",
+        "id": "fc4e65f3-51dc-4ed5-bbd3-4d0d40a18ce5",
+        "title": "Entry-Level Vehicle Powertrain Integration Engineer",
+        "active": true,
+        "date_updated": 1790777522,
+        "date_posted": 1790633419,
+        "url": "https://careers.international.com/jobs/59979?icims=1",
+        "locations": [
+            "Lisle, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/International-Motors-LLC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Valeo Foods",
+        "id": "1ed8de79-8a8e-43ec-b211-2394351d0c4d",
+        "title": "Business Intelligence Analyst Graduate",
+        "active": true,
+        "date_updated": 1790777348,
+        "date_posted": 1790777149,
+        "url": "https://jobs.smartrecruiters.com/ValeoFoods/744000152680854",
+        "locations": [
+            "Leeds, UK",
+            "Wallingford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Valeo-Foods",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
