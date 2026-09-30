@@ -1,68 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "OCC",
-        "id": "46988a24-f1e9-43fe-a982-b04f382e981e",
-        "title": "Associate \u2013 Software Engineering: Java",
-        "active": false,
-        "date_updated": 1770046931,
-        "date_posted": 1770046931,
-        "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Associate--Software-Engineering--Java_REQ-4555-2",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/OptionsClearingCorporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Clarivate",
-        "id": "4d3a8d19-b441-44e8-9208-b5ec49479470",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1770046873,
-        "date_posted": 1770046873,
-        "url": "https://clarivate.wd3.myworkdayjobs.com/Clarivate_Careers/job/USA---Philadelphia-PA/Software-Engineer_JREQ134681-1",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Clarivate",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "AltaGas",
-        "id": "d19653b3-3a81-4067-87ae-e90ea64d30c9",
-        "title": "Marketing & Trading Analyst - Marketing & Trading",
-        "active": false,
-        "date_updated": 1770046527,
-        "date_posted": 1770046527,
-        "url": "https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/AltaGas---Analyst--Marketing---Trading_R6590",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/AltaGas",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Moog ",
         "id": "d923dff6-21be-4953-bcdc-250e0ea05272",
@@ -352362,7 +352300,7 @@
         "company_name": "RELX",
         "id": "178d9615-bc39-4703-ae8c-1092812192f3",
         "title": "News Taxonomist",
-        "active": true,
+        "active": false,
         "date_updated": 1788426036,
         "date_posted": 1786487544,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Farringdon/Senior-News-Taxonomist_R115261",
@@ -393863,7 +393801,7 @@
         "company_name": "Northrop Grumman",
         "id": "1f46e6a3-3744-43c2-9134-351d79f7b5ad",
         "title": "Associate Software Engineer / Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790721864,
         "date_posted": 1790640000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10253396",
