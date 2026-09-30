@@ -393506,7 +393506,7 @@
         "company_name": "Wash U",
         "id": "82cd14c1-19c6-4a97-9269-66a14b578ede",
         "title": "Neuroimaging Engineer - Neurology",
-        "active": true,
+        "active": false,
         "date_updated": 1790702666,
         "date_posted": 1790035200,
         "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Neuroimaging-Engineer---Neurology_JR97672",
@@ -395192,5 +395192,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard",
+        "id": "f954dc3c-0a9f-4083-acd4-848332bf036b",
+        "title": "Channel Enablement and Digital Entry",
+        "active": true,
+        "date_updated": 1790773757,
+        "date_posted": 1785715200,
+        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Vancouver-Washington-United-States-of-America/Digital-and-eCommerce--Partner-Sales-Manager_3166619-1",
+        "locations": [
+            "Spring, TX",
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
