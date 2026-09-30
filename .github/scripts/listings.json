@@ -1,71 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Bank of America",
-        "id": "956021e0-fb52-4672-ab62-04c9cfcdeae7",
-        "title": "Client Quantitative Analyst 1",
-        "active": false,
-        "date_updated": 1769999684,
-        "date_posted": 1769999684,
-        "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Plano/Client-Quantitative-Analyst-I_25045539-1",
-        "locations": [
-            "Plano, TX",
-            "Newark, NJ",
-            "Charlotte, NC",
-            "Fort Worth, TX",
-            "Greensboro, NC",
-            "Phoenix, AZ",
-            "Chandler, AZ",
-            "Addison, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Bank-Of-America",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GE Vernova",
-        "id": "75011aec-0d04-4917-93b6-9d818efa5653",
-        "title": "GE Vernova Advanced Research Edison Rotational Program",
-        "active": false,
-        "date_updated": 1769999518,
-        "date_posted": 1769999518,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/GE-Vernova-Advanced-Research-2026-Edison-Rotational-Program_R5015939-2",
-        "locations": [
-            "Schenectady, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Toshiba Global Commerce",
-        "id": "2b42533c-2309-462a-8f7b-79dfec094f38",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1769999503,
-        "date_posted": 1769999503,
-        "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5039154007",
-        "locations": [
-            "Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Toshiba-Global-Commerce",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Greenheck Group",
         "id": "c524afac-8619-459b-950b-07bd99962d48",
@@ -348103,7 +348038,7 @@
         "company_name": "Publicis Groupe",
         "id": "b4682ab9-72f7-456c-ac79-7897c7c053b8",
         "title": "Audience & Insights Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788291001,
         "date_posted": 1788290826,
         "url": "https://careers.publicisgroupe.com/jobs/172081?icims=1",
@@ -390519,7 +390454,7 @@
         "company_name": "Graphcore",
         "id": "c6cb2d15-dacd-4636-a6bb-c9daad5a5a76",
         "title": "Graduate Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790213941,
         "date_posted": 1790213881,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8842006002",
