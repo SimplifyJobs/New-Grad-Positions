@@ -125198,7 +125198,7 @@
         "company_name": "Equifax",
         "id": "3e140e24-914a-47bb-907d-a78fd0345f62",
         "title": "Rotational Technology Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1776523501,
         "date_posted": 1776523385,
         "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Rotational-Technology-Associate_J00170954",
@@ -395393,6 +395393,67 @@
             "Wallingford, UK"
         ],
         "company_url": "https://simplify.jobs/c/Valeo-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Torch Technologies",
+        "id": "688f2ebb-1fef-4424-a9f4-04a953688db8",
+        "title": "Software Analyst",
+        "active": true,
+        "date_updated": 1790779026,
+        "date_posted": 1790726400,
+        "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Arnold-AFB/AEDC-Software-Analyst--Arnold-AFB-_R1948",
+        "locations": [
+            "Tullahoma, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Torch-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "46e62f6c-7b97-4f8d-9051-71a57d8297b0",
+        "title": "FPGA Engineer 1",
+        "active": true,
+        "date_updated": 1790778887,
+        "date_posted": 1790726400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/FPGA-Engineer-I--Onsite-_01878710",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wells Fargo",
+        "id": "9ab3e6b9-b8cd-4bee-94d4-b877937beb96",
+        "title": "Engineering Associate - CIB Operations Technology",
+        "active": true,
+        "date_updated": 1790778664,
+        "date_posted": 1790778575,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Engineering-Associate---CIB-Operations-Technology_R-572941",
+        "locations": [
+            "Iselin, Woodbridge Township, NJ",
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
