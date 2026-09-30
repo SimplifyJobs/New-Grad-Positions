@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Stripe",
-        "id": "f8e9f90e-4ebf-4435-ab91-785ab4ba499f",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1770029038,
-        "date_posted": 1770029038,
-        "url": "https://stripe.com/jobs/search?gh_jid=7372144",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "DV Trading",
         "id": "647defe0-29b6-4eb3-9112-fc045a538e66",
@@ -109423,7 +109401,7 @@
         "company_name": "RTX",
         "id": "4d8ade89-7d74-491e-a5cb-4fe36798e3d5",
         "title": "Software Engineer 1 - Test Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1775689534,
         "date_posted": 1775686138,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492",
@@ -305297,7 +305275,7 @@
         "company_name": "Arch Aerial",
         "id": "b6d3d4b8-3f64-48cc-8eaf-ba6c2cdc2c20",
         "title": "Junior GIS Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786412161,
         "date_posted": 1786412047,
         "url": "https://apply.workable.com/arch-aerial-llc/j/28C1BA8804/apply",
@@ -384374,7 +384352,7 @@
         "company_name": "Fidelity National Information Services",
         "id": "c5774551-104c-4443-a63d-d11221910355",
         "title": "Product Manager - FIS University Program",
-        "active": true,
+        "active": false,
         "date_updated": 1789682720,
         "date_posted": 1789603200,
         "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Product-Management--FIS-University-Program_JR0309693",
@@ -384784,7 +384762,7 @@
         "company_name": "Boeing",
         "id": "85b3b03a-f976-4c32-933b-c7aa79c27481",
         "title": "Space Electronics Test Systems Design Engineer - Special Test Equipment - Space Electronics",
-        "active": true,
+        "active": false,
         "date_updated": 1789684465,
         "date_posted": 1789603200,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Space-Electronics-Test-Systems-Design-Engineer--Experienced-Lead-_JR2026524763-1",
@@ -385534,7 +385512,7 @@
         "company_name": "SteerBridge",
         "id": "d5267215-c2b5-483d-bda8-414a7ec2c1f1",
         "title": "Junior Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789770062,
         "date_posted": 1789769897,
         "url": "https://jobs.lever.co/steerbridge/a49cfd8c-c7ec-4378-9233-412eb16dd96a/apply",
@@ -388627,7 +388605,7 @@
         "company_name": "Cisco",
         "id": "4592c922-5f50-4174-9938-79cc848b1e39",
         "title": "Compiler Software Engineer 1 - Core Platform Software and Toolchains",
-        "active": true,
+        "active": false,
         "date_updated": 1790117287,
         "date_posted": 1790115641,
         "url": "https://careers.cisco.com/global/en/job/2025313",
@@ -388794,7 +388772,7 @@
         "company_name": "Quantinuum",
         "id": "58dd4289-8b24-42b6-9c25-4d2a093b22eb",
         "title": "Optics Engineer 1 - Contractor",
-        "active": true,
+        "active": false,
         "date_updated": 1790116994,
         "date_posted": 1790115435,
         "url": "https://jobs.eu.lever.co/quantinuum/992e1677-5c9a-49db-bdd5-0269ab0bf50a/apply",
@@ -390378,7 +390356,7 @@
         "company_name": "Xero",
         "id": "9860b985-32f5-4061-92b6-53b33bacbe0c",
         "title": "Associate Engineer - Back End",
-        "active": true,
+        "active": false,
         "date_updated": 1790230681,
         "date_posted": 1790230516,
         "url": "https://jobs.ashbyhq.com/xero/8f7f41b3-85db-4029-ab1a-70c88c5dc987/application?embed=true",
@@ -392378,7 +392356,7 @@
         "company_name": "RTX",
         "id": "8593e14d-835b-423d-8b1c-eb67b2318a92",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790376010,
         "date_posted": 1790294400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01875568",
@@ -393249,7 +393227,7 @@
         "company_name": "RTX",
         "id": "22ae3e48-7760-4996-9cd8-e0e7e2536c75",
         "title": "Test Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1790699371,
         "date_posted": 1789689600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/XMLNAME-341---Test-Technician-2nd-Shift--onsite-_01876383",
@@ -393446,7 +393424,7 @@
         "company_name": "RTX",
         "id": "c26dbb43-0dc8-46a2-9570-58074dec9a76",
         "title": "Systems Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790699838,
         "date_posted": 1789344000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Systems-Engineer-I--Onsite_01874571",
@@ -395106,6 +395084,107 @@
         "date_updated": 1790757736,
         "date_posted": 1784067222,
         "url": "https://jobs.ashbyhq.com/aurelian/25273778-0cdc-4bfe-9b37-4a735d534cd5/application?embed=true",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurelian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Synhawk",
+        "id": "8ffb7cb4-3135-424a-be7f-812eb7049a39",
+        "title": "Member of Technical Staff: Junior AI Researcher",
+        "active": true,
+        "date_updated": 1790760601,
+        "date_posted": 1784596565,
+        "url": "https://jobs.ashbyhq.com/synhawk/4f6cca01-cf7d-4cb6-8f18-b9c5acf7d540/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Synhawk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fidelity Investments",
+        "id": "be220962-337b-458d-9bf5-631a762cc07b",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1790766206,
+        "date_posted": 1790640000,
+        "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/April-2027---Leap-Software-Engineer_2133870-1",
+        "locations": [
+            "Boston, MA",
+            "Westlake, TX",
+            "Durham, NC",
+            "Merrimack, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "3b38426e-3cc3-4a96-9277-6756b25e6d6f",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1790765461,
+        "date_posted": 1790208000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer-I-onsite_01877314",
+        "locations": [
+            "Andover, MA",
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "906688ee-c568-4d28-ba9f-ec7ac7e5772a",
+        "title": "Vision Engineering Technician - Energy",
+        "active": true,
+        "date_updated": 1790762149,
+        "date_posted": 1790115452,
+        "url": "https://www.tesla.com/careers/search/job/284030",
+        "locations": [
+            "Sparks, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aurelian",
+        "id": "4bfa4cd6-fbd4-4d12-a70b-e839ea0925e8",
+        "title": "Product Engineer New Grad",
+        "active": true,
+        "date_updated": 1790760643,
+        "date_posted": 1784067224,
+        "url": "https://jobs.ashbyhq.com/aurelian/216c8538-1778-4aa4-bcce-21ebf1149734/application?embed=true",
         "locations": [
             "Seattle, WA"
         ],
