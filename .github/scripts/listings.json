@@ -222740,7 +222740,7 @@
         "company_name": "Optiver",
         "id": "1e2b7529-adf7-49ab-8d4a-8979fab4e3e9",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782944642,
         "date_posted": 1782943968,
         "url": "https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002",
@@ -357232,7 +357232,7 @@
         "company_name": "IonQ",
         "id": "c028b98f-7d2f-41f3-bd86-61daed617bdc",
         "title": "Senior Research Scientist - Fault Tolerant Quantum Algorithms",
-        "active": true,
+        "active": false,
         "date_updated": 1784839861,
         "date_posted": 1784239548,
         "url": "https://job-boards.greenhouse.io/ionq/jobs/6019179004",
@@ -382347,7 +382347,7 @@
         "company_name": "IonQ",
         "id": "fd811d5a-6d82-4fef-8c32-aa66ff3c5de3",
         "title": "Quantum Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1789596576,
         "date_posted": 1786678869,
         "url": "https://job-boards.greenhouse.io/ionq/jobs/6137809004",
@@ -393738,7 +393738,7 @@
         "company_name": "21Shares",
         "id": "e29bd470-7eba-4d68-af2d-e4cf82b5b091",
         "title": "Front-Office Data Support Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1790722021,
         "date_posted": 1790720827,
         "url": "https://job-boards.greenhouse.io/21shares/jobs/6210735004",
@@ -395542,5 +395542,531 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Atlas Energy Solutions",
+        "id": "84b7e139-e250-4722-9c0c-3b35d48ac62f",
+        "title": "AI Developer",
+        "active": true,
+        "date_updated": 1790808301,
+        "date_posted": 1790808158,
+        "url": "https://job-boards.greenhouse.io/atlassand/jobs/8858449002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Atlas-Energy-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Ebury",
+        "id": "6e1bbfdf-5174-48d6-af3a-aa734d89d066",
+        "title": "Product Graduate - Payments",
+        "active": true,
+        "date_updated": 1790808140,
+        "date_posted": 1790807940,
+        "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4994389101",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ebury",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "aeab4fea-e485-4034-9b78-77335cbd2a83",
+        "title": "Verification Software Engineer - ASICS Engineering",
+        "active": true,
+        "date_updated": 1790807762,
+        "date_posted": 1790807066,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721344196",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rivian",
+        "id": "65631f60-2928-47c7-a3b3-2c66d4748283",
+        "title": "Attributes Method Engineer",
+        "active": true,
+        "date_updated": 1790808073,
+        "date_posted": 1790807021,
+        "url": "https://careers.rivian.com/jobs/34080?icims=1",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Torus",
+        "id": "fefd9fb3-c182-4db8-bb1f-8a467a989de8",
+        "title": "Test Engineer Technician",
+        "active": true,
+        "date_updated": 1790808045,
+        "date_posted": 1790806994,
+        "url": "https://ats.rippling.com/torus/jobs/9f017330-7256-4a17-b4e8-d7bc3ce13ad8",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Torus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital Group",
+        "id": "e4e918db-5887-4c36-ac16-d33a4872b8b2",
+        "title": "Data & Technology Track Associate - Rotational Program",
+        "active": true,
+        "date_updated": 1790808000,
+        "date_posted": 1790726400,
+        "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/New-York/CAMPUS--Capital-Group-Rotational-Program---Data---Tech-Track-Associate---US---New-York_JR7427-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital Group",
+        "id": "cbf8908a-c4a2-49f3-8b2d-220edb8a3a99",
+        "title": "Capital Group Rotational Program Associate - Data & Tech Track",
+        "active": true,
+        "date_updated": 1790808002,
+        "date_posted": 1790726400,
+        "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Charlotte/CAMPUS--Capital-Group-Rotational-Program---Data---Tech-Track-Associate---US---Charlotte_JR7430-1",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital Group",
+        "id": "3a465fc5-1275-40a2-9356-56a834952bce",
+        "title": "Capital Group Rotational Program - Data & Tech Track Associate",
+        "active": true,
+        "date_updated": 1790808001,
+        "date_posted": 1790726400,
+        "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Los-Angeles/CAMPUS--Capital-Group-Rotational-Program---Data---Tech-Track-Associate---US---Los-Angeles_JR7424-1",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Koch Industries",
+        "id": "e91850fc-13c6-4d13-9271-805f8b19962c",
+        "title": "Test Technician - Engineering Department",
+        "active": true,
+        "date_updated": 1790807762,
+        "date_posted": 1790806868,
+        "url": "https://koch.avature.net/en_US/careers/JobDetail/195315",
+        "locations": [
+            "Georgetown, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Koch-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Anduril",
+        "id": "ebf3420f-6713-4032-af7f-74495c424af5",
+        "title": "Electrical Engineer - Power & Mixed-Signal",
+        "active": true,
+        "date_updated": 1790808140,
+        "date_posted": 1790806816,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5253503007",
+        "locations": [
+            "Costa Mesa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Anduril",
+        "id": "c6b92f8d-093d-42cf-b0f1-2af0a9217aec",
+        "title": "Electrical Engineer - Weapon Systems",
+        "active": true,
+        "date_updated": 1790808140,
+        "date_posted": 1790806816,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5253515007",
+        "locations": [
+            "Costa Mesa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "8e1c4d71-6011-41b4-8948-e9bef181663f",
+        "title": "Software Developer Engineer 1",
+        "active": true,
+        "date_updated": 1790807941,
+        "date_posted": 1790726400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Developer-Engineer-I--Onsite-_01878887",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intel",
+        "id": "bca58c51-be34-45a1-b5f9-44afd1115280",
+        "title": "Finance Data Scientist",
+        "active": true,
+        "date_updated": 1790807939,
+        "date_posted": 1790726400,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Finance-Data-Scientist_JR0287625",
+        "locations": [
+            "Santa Clara, CA",
+            "Hillsboro, OR",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "ab4c9ca3-73cb-48b3-a095-093c436e265e",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1790807820,
+        "date_posted": 1790726400,
+        "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Engr--Software-1_2641480",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Allegro MicroSystems",
+        "id": "f4675ce1-bee6-4404-90ab-0847423dfb89",
+        "title": "Systems Engineer",
+        "active": true,
+        "date_updated": 1790807401,
+        "date_posted": 1790726400,
+        "url": "https://allegromicro.wd5.myworkdayjobs.com/allegrocareers/job/Manchester-NH/Systems-Engineer_R6918",
+        "locations": [
+            "Manchester, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Allegro-MicroSystems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "iManage",
+        "id": "9f70bf51-8203-4e85-85f8-f1b6a62f09a1",
+        "title": "Applied AI Engineer New Grad",
+        "active": true,
+        "date_updated": 1790807807,
+        "date_posted": 1790806721,
+        "url": "https://imanagecom.applytojob.com/apply/2sEdqwy08T/Applied-AI-Engineer-New-Or-Recent-Grad",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IManage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CTC Group",
+        "id": "bedec746-617b-42a5-aecd-8de5af5bed9c",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1790807401,
+        "date_posted": 1790806722,
+        "url": "https://ctcgroup.applytojob.com/apply/hY7mtkP4Eq/Software-Engineer",
+        "locations": [
+            "Fort Meade, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/CTC-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "da5add3d-df09-436a-b370-0fae4cb326df",
+        "title": "Software Engineer/Developer 1",
+        "active": true,
+        "date_updated": 1790807747,
+        "date_posted": 1790726400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Developer-I--Onsite-_01879028",
+        "locations": [
+            "Woburn, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "f6047d64-9f62-4688-8e91-7010bdb36b16",
+        "title": "Software Engineer/Developer 1",
+        "active": true,
+        "date_updated": 1790807756,
+        "date_posted": 1790726400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Developer-I---Onsite-_01879030",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "35893c47-402b-4538-9d53-6d41d4ee9a72",
+        "title": "Software Engineer/Developer 1",
+        "active": true,
+        "date_updated": 1790807750,
+        "date_posted": 1790726400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Developer-I---Onsite-_01879022",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "5d6bccf2-e43c-401c-bbe5-1b689f6fbe85",
+        "title": "Software Engineer/Developer 1",
+        "active": true,
+        "date_updated": 1790807751,
+        "date_posted": 1790726400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Developer-I--Onsite-_01879024",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "cbe8cba9-03c9-4878-b4a8-473573b61e21",
+        "title": "Software Engineer/Developer 1",
+        "active": true,
+        "date_updated": 1790807762,
+        "date_posted": 1790726400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineer-Developer-I--Onsite-_01879018",
+        "locations": [
+            "Portsmouth, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "7e8877cc-8675-477d-8147-3f5443d85bb6",
+        "title": "Software/Developer Engineer 1",
+        "active": true,
+        "date_updated": 1790807738,
+        "date_posted": 1790726400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Developer-Engineer-I--Onsite-_01878880",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "6162982e-4ddb-4316-b2dc-5ab2cb383340",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1790807737,
+        "date_posted": 1790726400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01879214",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "18782699-1727-4769-95ec-f5e37ca325e2",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1790807762,
+        "date_posted": 1790726400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Developer-Engineer-I--Onsite-_01878881",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Schmidt Sciences",
+        "id": "3724ee59-aac4-4ac9-be93-856f113748c0",
+        "title": "Fellow in Residence",
+        "active": true,
+        "date_updated": 1790807401,
+        "date_posted": 1790806621,
+        "url": "https://jobs.lever.co/schmidt-entities/6bef9879-f540-475e-ad26-5254fa4e1ad7/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Schmidt-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
