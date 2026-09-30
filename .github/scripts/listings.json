@@ -318910,7 +318910,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -370619,7 +370619,7 @@
         "company_name": "NXP Semiconductors",
         "id": "d308e020-a5b4-43af-96f0-dd3978bc7b6f",
         "title": "Digital Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788774903,
         "date_posted": 1788739200,
         "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Verification-Engineer_R-10065543",
@@ -381194,7 +381194,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "5e57ccae-7277-4587-8079-77b7bae18c57",
         "title": "Graduate Data Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789510819,
         "date_posted": 1789430400,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Aspire-Tech-Graduate-Data-Scientist-I_R118695",
@@ -391987,7 +391987,7 @@
         "company_name": "Apple",
         "id": "d3c2d57b-c7ea-4194-ac33-731c72f64420",
         "title": "Software Engineer - Applied AI",
-        "active": true,
+        "active": false,
         "date_updated": 1790298549,
         "date_posted": 1790298409,
         "url": "https://jobs.apple.com/en-us/details/200684521",
@@ -395125,7 +395125,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": true,
+        "active": false,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -395157,5 +395157,171 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Superhuman",
+        "id": "87a2b795-2c66-490a-880d-84caf597bf5e",
+        "title": "Software Engineer - Full-Stack - Agents Cross-FA",
+        "active": true,
+        "date_updated": 1790731261,
+        "date_posted": 1790731112,
+        "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/134c282c-2837-44a8-9f7c-74ca39486490/application?embed=true",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Superhuman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nu Quantum",
+        "id": "67237975-8891-4de6-b5a1-d4fce1c74c8e",
+        "title": "FPGA & Embedded Systems Engineer - Quantum Networking",
+        "active": true,
+        "date_updated": 1790731365,
+        "date_posted": 1790731123,
+        "url": "https://apply.workable.com/nu-quantum/j/834B821BDB/apply",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Nu-Quantum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "97d3e16d-4c5c-4908-8dc2-3d180fcd42ac",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1790730995,
+        "date_posted": 1790640000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineer-I--Onsite-_01878730",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "661fd3ba-fd67-40f3-ba69-777b4ebb2413",
+        "title": "Engineer 2 - Design",
+        "active": true,
+        "date_updated": 1790730790,
+        "date_posted": 1790640000,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Canada---Burnaby/Engineer-II--Design_R4077-26",
+        "locations": [
+            "Burnaby, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "e60e9a94-ba50-4649-b502-e7203a9eb65f",
+        "title": "Software Engineer New Grad - DGX Cloud AI Infrastructure",
+        "active": true,
+        "date_updated": 1790730901,
+        "date_posted": 1790640000,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure---New-College-Grad-2026_JR2026477",
+        "locations": [
+            "Washington",
+            "Oregon",
+            "Austin, TX",
+            "Redmond, WA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "c1c8b013-9191-4695-964c-db3034bbf04d",
+        "title": "Physicist/Scientist: FEP chamber Optics engineer",
+        "active": true,
+        "date_updated": 1790730545,
+        "date_posted": 1790640000,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Physicist-Scientist--FEP-chamber-Optics-engineer--E3-_R2628769",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "480e2374-a639-4f3a-aab8-ccdf1c18ef44",
+        "title": "Device Compact Modeling Engineer",
+        "active": true,
+        "date_updated": 1790730751,
+        "date_posted": 1790640000,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Compact-Modeling-Engineer--2027-New-College-Graduate-_JR-2604318",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "122de6b6-a5fb-47fe-a89c-8b620399e46b",
+        "title": "System Engineer New Grad - Material Characterization",
+        "active": true,
+        "date_updated": 1790730760,
+        "date_posted": 1790640000,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-System-Engineer--Material-Characterization--PhD---Santa-Clara--CA-_R2629147",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
