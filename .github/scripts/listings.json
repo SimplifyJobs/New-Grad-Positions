@@ -371905,7 +371905,7 @@
         "company_name": "Intel",
         "id": "8cbcc60f-c2ba-403d-b165-2100b0b1b85a",
         "title": "Semiconductor Packaging Research Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789003373,
         "date_posted": 1788912000,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Semiconductor-Packaging-Research-Engineer_JR0286871",
@@ -394373,6 +394373,27 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "1f7345cd-0fc4-4a7a-9d82-bff23f6eba2a",
+        "title": "Machine Learning Engineer - Generative AI",
+        "active": true,
+        "date_updated": 1788457158,
+        "date_posted": 1781360368,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Research-Scientist--Generative-Models-for-Scientific-Discovery-_R2611980-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
             "PhD"
         ]
     }
