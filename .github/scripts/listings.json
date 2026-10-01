@@ -1,60 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9cd8ea84-48e9-4aef-a9f1-9c4c7e01aa82",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770114269,
-        "date_posted": 1770114269,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048025",
-        "locations": [
-            "Bath, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "78d6f60c-f7b4-4edf-8ab7-fc7f47c5f835",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770114287,
-        "date_posted": 1770114287,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048023",
-        "locations": [
-            "Bath, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "061f88f4-2c91-4bb5-b32a-86f8d50e86c8",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770114270,
-        "date_posted": 1770114270,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047833",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Samsung",
         "id": "504181cb-e6dc-4101-b2c7-998ca0c96169",
@@ -1924,26 +1870,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "707c5bc9-5eb1-42db-bb83-2bcb6b2223cc",
-        "title": "Engineering Technician",
-        "active": false,
-        "date_updated": 1770197016,
-        "date_posted": 1770114229,
-        "url": "https://jobs.l3harris.com/job/State-College-Engineering-Technician-PA-16803/1361436200/?ats=successfactors",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
     },
     {
         "source": "Simplify",
@@ -315958,7 +315884,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -337106,7 +337032,7 @@
         "company_name": "Beyondsoft",
         "id": "773b7df0-1922-4c5d-aff1-24d116f5203c",
         "title": "Printer Hardware Tester",
-        "active": true,
+        "active": false,
         "date_updated": 1787848381,
         "date_posted": 1787848313,
         "url": "https://careers-beyondsoft.icims.com/jobs/10949/job?mobile=true&needsRedirect=false",
@@ -394371,6 +394297,29 @@
             "Princeton, NJ"
         ],
         "company_url": "https://simplify.jobs/c/ZS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Navy Federal",
+        "id": "79b4ab76-ac28-422e-950b-a7bb59cf21e4",
+        "title": "Data Scientist Fellow",
+        "active": true,
+        "date_updated": 1790848926,
+        "date_posted": 1789741071,
+        "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32683",
+        "locations": [
+            "Winchester, VA",
+            "Pensacola, FL",
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Navy-Federal",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
