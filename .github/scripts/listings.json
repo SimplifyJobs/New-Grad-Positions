@@ -1,90 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Alteryx",
-        "id": "ff724e21-d13d-41d8-960f-1e8a032ad42b",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1770085425,
-        "date_posted": 1770085425,
-        "url": "https://alteryx.wd108.myworkdayjobs.com/AlteryxCareers/job/US---Remote/Software-Engineer_R11780",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Alteryx",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Analog Devices",
-        "id": "28729da1-fdcf-4664-9130-d45fad6cbd53",
-        "title": "Associate Engineer - Physical Design Engineering",
-        "active": false,
-        "date_updated": 1770084904,
-        "date_posted": 1770084904,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Associate-Engineer---Physical-Design-Engineering_R260395",
-        "locations": [
-            "California",
-            "San Jose, CA",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Greene Tweed",
-        "id": "1ba2879a-2ea3-4abc-b2f0-66b8d539e442",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1770085146,
-        "date_posted": 1770085146,
-        "url": "https://gtweed.wd1.myworkdayjobs.com/Careers/job/Houston-TX-United-States-of-America/Associate-Product-Manager_R4068-1",
-        "locations": [
-            "Houston, TX",
-            "North Wales, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Greene-Tweed",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Colorado School of Mines",
-        "id": "619f470f-66e4-4396-8ab2-d7cba57a44d2",
-        "title": "Assistant Professor or Professor of Practice - AI/Machine Learning",
-        "active": false,
-        "date_updated": 1770084801,
-        "date_posted": 1770084801,
-        "url": "https://mines.wd1.myworkdayjobs.com/mines_careers/job/Colorado/Assistant-Professor-or-Professor-of-Practice--AI-Machine-Learning_JR108102",
-        "locations": [
-            "Golden, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Colorado-School-Of-Mines",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Blue Origin",
         "id": "364a0235-1556-4845-b1de-bb3b0965798a",
@@ -6728,26 +6644,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "DoseSpot",
-        "id": "6ea5ff17-a817-4492-b5d4-defb705704e6",
-        "title": "Product Analyst 2",
-        "active": false,
-        "date_updated": 1770371943,
-        "date_posted": 1770084758,
-        "url": "https://jobs.ashbyhq.com/dosespot/2b869657-335f-4dcf-a09e-06e54a2285ce/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/DoseSpot",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -63364,29 +63260,6 @@
         "date_posted": 1773325109,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hudson River Trading",
-        "id": "65d9dfbd-5d39-42b0-988c-dd59701000db",
-        "title": "Software Engineer - Python",
-        "active": false,
-        "date_updated": 1773307996,
-        "date_posted": 1770085762,
-        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7398013",
-        "locations": [
-            "London, UK",
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
