@@ -332131,7 +332131,7 @@
         "company_name": "L3Harris Technologies",
         "id": "3c7e6389-ba90-4b7f-90b4-f90421053e95",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787655441,
         "date_posted": 1787648487,
         "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1422832500/?ats=successfactors",
@@ -391463,7 +391463,7 @@
         "company_name": "Qualcomm",
         "id": "3cf47594-3e9a-4a0f-aa35-fba24edc5570",
         "title": "Verification Software Engineer - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1790722081,
         "date_posted": 1790720946,
         "url": "https://qualcomm.eightfold.ai/careers/job/446721328943",
@@ -394299,6 +394299,82 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blenheim Chalcot",
+        "id": "a34dfa97-4569-4fdb-a61c-25d5561c8ec4",
+        "title": "Graduate Marketing Scientist",
+        "active": true,
+        "date_updated": 1790847725,
+        "date_posted": 1790847285,
+        "url": "https://job-boards.greenhouse.io/blenheimchalcot/jobs/8245355",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Blenheim-Chalcot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blenheim Chalcot",
+        "id": "d1bc98c1-fc29-4d3f-b90f-cfda4e03a02f",
+        "title": "Graduate Marketing Scientist",
+        "active": true,
+        "date_updated": 1790848068,
+        "date_posted": 1790847289,
+        "url": "https://job-boards.greenhouse.io/blenheimchalcot/jobs/8245354",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Blenheim-Chalcot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fospha",
+        "id": "230fb8ba-26d1-49ac-a49a-8126c1503213",
+        "title": "Graduate Marketing Scientist",
+        "active": true,
+        "date_updated": 1790847207,
+        "date_posted": 1790846926,
+        "url": "https://job-boards.greenhouse.io/fosphamarketing/jobs/8245353",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fospha",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ZS",
+        "id": "38c76de4-70f2-4574-8eec-c61c26f0b76b",
+        "title": "Business Technology Solutions Associate",
+        "active": true,
+        "date_updated": 1790848096,
+        "date_posted": 1790115427,
+        "url": "https://jobs.zs.com/jobs/67648?icims=1",
+        "locations": [
+            "Chicago, IL",
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/ZS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Master's"
         ]
     }
