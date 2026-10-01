@@ -297811,7 +297811,7 @@
         "company_name": "Google",
         "id": "089391ad-ee52-4c4f-993a-e79f42219682",
         "title": "Software Engineer - Campus",
-        "active": true,
+        "active": false,
         "date_updated": 1786093639,
         "date_posted": 1786093497,
         "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750",
@@ -315884,7 +315884,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -371110,7 +371110,7 @@
         "company_name": "WorldStrides",
         "id": "5a283cb6-d2dc-4b0b-b57a-c6d5fe463dc8",
         "title": "Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788993910,
         "date_posted": 1788993665,
         "url": "https://job-boards.greenhouse.io/world4822stri986des/jobs/5351873008",
@@ -394325,6 +394325,28 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "ce8da1bf-1f37-4dae-8814-a1fba9205a40",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1790864182,
+        "date_posted": 1790863924,
+        "url": "https://jobs.l3harris.com/job/Richardson-Associate,-Software-Engineer-TX-75080/1435709900/?ats=successfactors",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
