@@ -369063,7 +369063,7 @@
         "company_name": "StepStone Group",
         "id": "b818264a-299b-4c71-804c-e8f00d359ecd",
         "title": "Junior Analyst - AI Solutions - R&D & Coding",
-        "active": false,
+        "active": true,
         "date_updated": 1788907167,
         "date_posted": 1788906320,
         "url": "https://boards.greenhouse.io/embed/job_app?token=8171272",
@@ -390602,7 +390602,7 @@
         "company_name": "Northrop Grumman",
         "id": "5e53dcd6-2301-48d9-8010-f0ddb4a2a434",
         "title": "Associate Software Engineer - McClellan CA",
-        "active": false,
+        "active": true,
         "date_updated": 1790702881,
         "date_posted": 1790640000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10253394",
@@ -394428,6 +394428,432 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bot Auto",
+        "id": "b4df86c1-9b8c-47ba-aca7-359d0536e73c",
+        "title": "Planning & Control Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1790894013,
+        "date_posted": 1790893858,
+        "url": "https://job-boards.greenhouse.io/botauto/jobs/5441694008",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Bot-Auto",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "928fcdb7-9888-4c94-a40c-66ea5e296b69",
+        "title": "Pre-Silicon Validation Engineer - ASICS Engineering",
+        "active": true,
+        "date_updated": 1790894013,
+        "date_posted": 1790893474,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721363946",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CoStar Group",
+        "id": "4430d739-ddf1-4b1c-966a-d5e29f89a980",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1790894493,
+        "date_posted": 1790812800,
+        "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CoStar Group",
+        "id": "0f1bea68-104b-4a4a-b7e1-562e9c4a1b50",
+        "title": "Associate Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1790894492,
+        "date_posted": 1790812800,
+        "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Embedded-Software-Engineer_R39949",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SeatGeek",
+        "id": "5406c7be-0d9c-4f93-a891-3b0f0154d106",
+        "title": "Data Analyst New Grad",
+        "active": true,
+        "date_updated": 1790894476,
+        "date_posted": 1790893429,
+        "url": "https://seatgeek.com/jobs/8247550?gh_jid=8247550",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SeatGeek",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Torch Technologies",
+        "id": "7ffd3d23-3792-4109-944f-003c27bae59c",
+        "title": "Test Engineer 1",
+        "active": true,
+        "date_updated": 1790894013,
+        "date_posted": 1790812800,
+        "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Test-Engineer-1_R1910",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Torch-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mach9",
+        "id": "b29ab07a-2549-4294-91a7-a0d88f6967b3",
+        "title": "Machine Learning Engineer - Product",
+        "active": true,
+        "date_updated": 1790894402,
+        "date_posted": 1790893303,
+        "url": "https://jobs.ashbyhq.com/mach9/622a014b-ff77-45bd-9caa-61a6506884ed/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Mach9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Waste Management",
+        "id": "a6a9076e-faaa-429f-8643-9ed36ee417bc",
+        "title": "Operations Analyst 1",
+        "active": true,
+        "date_updated": 1790894355,
+        "date_posted": 1790893270,
+        "url": "https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2353900",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Waste-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pinterest",
+        "id": "ec6cf12a-dd02-4416-9eb0-6b01646dca5d",
+        "title": "Master's University Graduate Data Scientist",
+        "active": true,
+        "date_updated": 1790894117,
+        "date_posted": 1790893159,
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140389",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pinterest",
+        "id": "ebb9d3fe-42a0-4635-8ed7-e7da82f8f3d7",
+        "title": "University Grad Software Engineer",
+        "active": true,
+        "date_updated": 1790893460,
+        "date_posted": 1790893159,
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138049",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pinterest",
+        "id": "a39e1ab4-97ce-4efb-8c4d-ef0c9cdda486",
+        "title": "Data Scientist New Grad",
+        "active": true,
+        "date_updated": 1790894118,
+        "date_posted": 1790893159,
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8157351",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pinterest",
+        "id": "c1aff4b4-bedf-4c66-b282-a592990ba632",
+        "title": "University Grad Software Engineer",
+        "active": true,
+        "date_updated": 1790894117,
+        "date_posted": 1790893159,
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591",
+        "locations": [
+            "SF",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pinterest",
+        "id": "1a3b34bc-9ccc-4b1b-bd70-8a58ee981a22",
+        "title": "University Grad Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1790894118,
+        "date_posted": 1790893159,
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138065",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Clay",
+        "id": "2bdc9b65-ae92-4477-b012-6fd3d78589be",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "date_updated": 1790893460,
+        "date_posted": 1790893158,
+        "url": "https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Clay",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Acuity International",
+        "id": "96d58925-a30c-4f80-a64a-6d7f7846bfe4",
+        "title": "Software/Application Developer",
+        "active": true,
+        "date_updated": 1790893460,
+        "date_posted": 1790812800,
+        "url": "https://acuityinternational.wd5.myworkdayjobs.com/external/job/Remote-WA/Software-Application-Developer_JR9606",
+        "locations": [
+            "Washington"
+        ],
+        "company_url": "https://simplify.jobs/c/Acuity-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ingram Micro",
+        "id": "66e013d8-f45a-4545-8edd-9d96b1b2de08",
+        "title": "Associate Repair",
+        "active": true,
+        "date_updated": 1790893899,
+        "date_posted": 1790812800,
+        "url": "https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro/job/Plainfield-IN-United-States-of-America/Associate--Repair_R-117382-1",
+        "locations": [
+            "Plainfield, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Ingram-Micro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "MUFG",
+        "id": "95d082c6-f1fc-4a1f-929b-dc4e0aa369db",
+        "title": "Product Analyst - Enterprise Data Catalog",
+        "active": true,
+        "date_updated": 1790893460,
+        "date_posted": 1790812800,
+        "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Product-Analyst--Enterprise-Data-Catalog_10079328-WD-1",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/MUFG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Acushnet Holdings",
+        "id": "1d6dcd17-203c-4cd4-a427-10d6d183aae8",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1790893460,
+        "date_posted": 1790812800,
+        "url": "https://acushnetgolf.wd12.myworkdayjobs.com/ACU/job/St-Ives-Cambridgeshire-United-Kingdom/Data-Analyst---Fixed-Term-Contract_Req101746",
+        "locations": [
+            "St Ives, St. Ives, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Acushnet-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nutanix",
+        "id": "e3e3594d-4b3e-49cc-b3db-5a0015281ace",
+        "title": "Software Engineer New Grad - Master\u2019s - Bachelor\u2019s + 2",
+        "active": true,
+        "date_updated": 1790893843,
+        "date_posted": 1790374523,
+        "url": "https://jobs.jobvite.com/nutanix/job/oZPOAfwW?nl=1&nl=1&fr=false",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Major League Baseball",
+        "id": "390a6808-5602-4d86-a669-20805fb97d38",
+        "title": "Associate \u2013 Baseball Technology & Video",
+        "active": true,
+        "date_updated": 1790893460,
+        "date_posted": 1790294400,
+        "url": "https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Clover-Park--Port-Saint-Lucie-Florida/Associate--Baseball-Technology---Video_R1509",
+        "locations": [
+            "Binghamton, NY",
+            "Syracuse, NY",
+            "Brooklyn, NY",
+            "Port St. Lucie, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/MLB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nimble Robotics",
+        "id": "2410dace-7767-4d7b-bc08-a0ed0641d70f",
+        "title": "Integration Test Technician",
+        "active": true,
+        "date_updated": 1790894013,
+        "date_posted": 1785537003,
+        "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4332241009",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Nimble-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
