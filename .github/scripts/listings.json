@@ -1,88 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "SpaceX",
-        "id": "11300faa-161b-483b-9520-12054a5957e6",
-        "title": "Full Stack Software Engineer - Top Secret Clearance",
-        "active": false,
-        "date_updated": 1770103404,
-        "date_posted": 1770103404,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8397609002",
-        "locations": [
-            "West Athens, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Duke Energy",
-        "id": "6309a316-b234-4110-9e74-01dc6c00b79e",
-        "title": "Data Engineer",
-        "active": false,
-        "date_updated": 1770102989,
-        "date_posted": 1770102989,
-        "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Data-Engineer_R38279",
-        "locations": [
-            "Raleigh, NC",
-            "Charlotte, NC",
-            "St. Petersburg, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Duke-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "9393a3b0-c8a2-4b4f-bbcd-daa057bb7cc9",
-        "title": "Engineering Operations Technician - DCC Communities",
-        "active": false,
-        "date_updated": 1770102411,
-        "date_posted": 1770102411,
-        "url": "https://amazon.jobs/en/jobs/3150756/engineering-operations-technician-dcc-communities",
-        "locations": [
-            "New Albany, OH",
-            "Dublin, OH",
-            "Jeffersonville, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Maryland Medical System",
-        "id": "73423be1-ad06-4588-a1fd-74596642b9ac",
-        "title": "Revenue Integrity Data Analyst 1",
-        "active": false,
-        "date_updated": 1770102316,
-        "date_posted": 1770102316,
-        "url": "https://jobs.smartrecruiters.com/UniversityOfMarylandMedicalSystem/3743990011478631",
-        "locations": [
-            "Halethorpe, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Mary-And-Medical-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Hewlett Packard (HP)",
         "id": "3a6a96d4-f0de-4b16-9449-e056c9ac4740",
@@ -126250,26 +126168,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "SpaceX",
-        "id": "7c62841d-30f4-4097-a855-992a259bd823",
-        "title": "Software Engineer - Data",
-        "active": false,
-        "date_updated": 1776725281,
-        "date_posted": 1770103450,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8397673002",
-        "locations": [
-            "West Athens, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Resmed",
         "id": "4926f455-1df1-4f56-8695-d85821591c9c",
         "title": "Associate Software Engineer",
@@ -212424,7 +212322,7 @@
         "company_name": "Peraton",
         "id": "2573aeed-7da0-4b44-b555-e95d00f6563b",
         "title": "Software Engineering - Ignite Innovator Program",
-        "active": true,
+        "active": false,
         "date_updated": 1782165961,
         "date_posted": 1782165840,
         "url": "https://careers-peraton.icims.com/jobs/167926/job?mobile=true&needsRedirect=false",
@@ -380649,7 +380547,7 @@
         "company_name": "Cenovus Energy",
         "id": "3de6e33f-20c3-4967-8e22-6dfc761efe34",
         "title": "Commercial & Development Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789598161,
         "date_posted": 1789516800,
         "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Commercial---Development-Analyst_R-411124",
