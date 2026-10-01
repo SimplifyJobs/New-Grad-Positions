@@ -5,13 +5,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 485 New Grad Roles by Category
+### Browse 484 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (277)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (14)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (85)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (84)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (17)
 
@@ -714,7 +714,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Developer New Grad - Engagement Optimization</td>
 <td>Laurel, MD</td>
 <td><div align="center"><a href="https://careers.jhuapl.edu/jobs/59510?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/44c6ed71-01ca-4794-a690-e71ae479b79b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>29d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company">American Express</a></strong></td>
@@ -10731,13 +10731,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>17d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/BDO-Canada?utm_source=GHList&utm_medium=company">BDO Canada</a></strong></td>
-<td>Business Analyst New Grad - Data & Analytics</td>
-<td><details><summary><strong>7 locations</strong></summary>Montreal, QC, Canada</br>Toronto, ON, Canada</br>Calgary, AB, Canada</br>Oakville, ON, Canada</br>Edmonton, AB, Canada</br>Ottawa, ON, Canada</br>Halifax Regional Municipality, NS, Canada</details></td>
-<td><div align="center"><a href="https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Business-Analyst---Data---Analytics---New-Grad--January-2027-_JR7065?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3b3dccea-25c2-472f-969a-b666ef6a2afd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>17d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Qualcomm?utm_source=GHList&utm_medium=company">Qualcomm</a></strong></td>
 <td>Machine Learning Engineer New Grad - AI Processors - Machine Learning Engineering</td>
 <td>Markham, ON, Canada</td>
@@ -10812,7 +10805,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Data Analyst New Grad - Engagement Optimization</td>
 <td>Laurel, MD</td>
 <td><div align="center"><a href="https://careers.jhuapl.edu/jobs/59507?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ff669f83-a6e2-46a9-90ca-5d3dfbad37ae?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>29d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company">American Express</a></strong></td>
@@ -11232,7 +11225,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (316)</summary>
+<summary>🗃️ Inactive roles (317)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -11305,6 +11298,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Research Engineer 1 - Analytics and Machine Intelligence - AMI</td>
 <td>Cambridge, MA</br>Arlington County, Arlington, VA</td>
+<td>🔒</td>
+<td>17d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/BDO-Canada?utm_source=GHList&utm_medium=company">BDO Canada</a></strong></td>
+<td>Business Analyst New Grad - Data & Analytics</td>
+<td><details><summary><strong>7 locations</strong></summary>Montreal, QC, Canada</br>Toronto, ON, Canada</br>Calgary, AB, Canada</br>Oakville, ON, Canada</br>Edmonton, AB, Canada</br>Ottawa, ON, Canada</br>Halifax Regional Municipality, NS, Canada</details></td>
 <td>🔒</td>
 <td>17d</td>
 </tr>
