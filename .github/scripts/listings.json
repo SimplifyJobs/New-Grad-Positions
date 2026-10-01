@@ -1,67 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Truist Bank",
-        "id": "202c53a9-8e89-4440-a8e0-6a172f3aee48",
-        "title": "Data Scientist 1 - Data Engineer",
-        "active": false,
-        "date_updated": 1770077159,
-        "date_posted": 1770077159,
-        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Data-Scientist-1--Data-Engineer_R0110887",
-        "locations": [
-            "Charlotte, NC",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Truist-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Applied Materials",
-        "id": "1f7345cd-0fc4-4a7a-9d82-bff23f6eba2a",
-        "title": "AI Research Scientist - Generative Models for Scientific Discovery",
-        "active": true,
-        "date_updated": 1770077088,
-        "date_posted": 1770077088,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Research-Scientist--Generative-Models-for-Scientific-Discovery-_R2611980-1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Ecolab",
-        "id": "8f9f1eda-79b2-4093-9169-96417aec1fff",
-        "title": "TPM Engineer",
-        "active": false,
-        "date_updated": 1770076938,
-        "date_posted": 1770076938,
-        "url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---North-Carolina---Greensboro/TPM-Engineer_R00277701-1",
-        "locations": [
-            "Greensboro, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Ecolab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Alteryx",
         "id": "ff724e21-d13d-41d8-960f-1e8a032ad42b",
@@ -394414,6 +394353,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Expedia Group",
+        "id": "caf77277-3e8d-485a-96f4-3169239df38e",
+        "title": "Graduate Machine Learning Scientist - PhD",
+        "active": true,
+        "date_updated": 1788496921,
+        "date_posted": 1779516339,
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Machine-Learning-Science-Graduate---PhD---2026---San-Jose--Seattle_R-98587-1",
+        "locations": [
+            "Seattle, WA",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
