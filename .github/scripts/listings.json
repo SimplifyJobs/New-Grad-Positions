@@ -316398,7 +316398,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -335355,7 +335355,7 @@
         "company_name": "Health Services Advisory Group",
         "id": "12a3b7d1-090a-40ac-aa68-6b353cf34dc1",
         "title": "Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1787781069,
         "date_posted": 1787780644,
         "url": "https://jobs.lever.co/hsag/2937f26a-3e66-4d42-ba61-c26e5b52f488/apply",
@@ -392613,7 +392613,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": true,
+        "active": false,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -394396,5 +394396,146 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Texas Sports Academy",
+        "id": "986968af-4a3a-4038-96dc-9caaa8a58066",
+        "title": "Junior AI Software Engineer",
+        "active": true,
+        "date_updated": 1790817495,
+        "date_posted": 1790817425,
+        "url": "https://apply.workable.com/texas-sports-academy-main/j/A9A9F4A25A/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Sports-Academy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kent",
+        "id": "8141e2d2-391a-4aa8-9e86-fabdb2855350",
+        "title": "Software Engineer - Engineering & Consulting Software Development",
+        "active": true,
+        "date_updated": 1790817370,
+        "date_posted": 1790817269,
+        "url": "https://fa-emqh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7198",
+        "locations": [
+            "Aberdeen, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Kent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "42079b38-2a81-4395-8380-8127f696afaf",
+        "title": "Software Engineer Graduate",
+        "active": true,
+        "date_updated": 1790817142,
+        "date_posted": 1790817111,
+        "url": "https://jobs.bytedance.com/en/position/7689561253011097909/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "7e5f1121-5fb4-4ef7-a71e-727b0e183363",
+        "title": "Cloud Hardware Development Engineer 1 \u2013 Early Career",
+        "active": true,
+        "date_updated": 1790817197,
+        "date_posted": 1790816952,
+        "url": "https://amazon.jobs/en/jobs/10558923/cloud-hardware-development-engineer-i-annapurna-labs-early-career-2027",
+        "locations": [
+            "Austin, TX",
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Procter & Gamble",
+        "id": "6b963855-e5c3-43d3-a4ce-61cd43b35b2c",
+        "title": "Analytics & Insights Manager",
+        "active": true,
+        "date_updated": 1790816954,
+        "date_posted": 1790726400,
+        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Analytics---Insights-Manager_R000159869",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Aerospace Corporation",
+        "id": "8c760c8a-6d74-45b7-9e1d-7a38c47336e4",
+        "title": "Research Associate - Space Photovoltaic Hardware/Device Testing",
+        "active": true,
+        "date_updated": 1790817176,
+        "date_posted": 1790726400,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Research-Associate---Space-Photovoltaic-Hardware-Device-Testing_R016757",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Utah State University",
+        "id": "76668e47-f0e1-4546-b526-9b97a508ff6d",
+        "title": "Student Statistician",
+        "active": true,
+        "date_updated": 1790816954,
+        "date_posted": 1790816711,
+        "url": "https://careers-usu.icims.com/jobs/10774/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Logan, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Utah-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
