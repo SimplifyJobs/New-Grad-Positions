@@ -379877,7 +379877,7 @@
         "company_name": "Hewlett Packard",
         "id": "33fe63dd-1bac-4066-9daf-78d978fc6385",
         "title": "Junior Data Analyst / Project Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1789569083,
         "date_posted": 1789516800,
         "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Data-Analyst_3160884-1",
@@ -394347,6 +394347,46 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Motorola",
+        "id": "38b4190d-5bb0-4abd-b2fb-18a68bfc16ca",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1790865361,
+        "date_posted": 1790812800,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Cambridge-UK-ZUK140/Graduate-Software-Engineer_R69299-1",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "d2e06213-6aca-4345-9032-f8bcc772475f",
+        "title": "Bread Board Technician 1",
+        "active": true,
+        "date_updated": 1790866113,
+        "date_posted": 1789344000,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Bread-Board-Technician-1_R0170582",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
