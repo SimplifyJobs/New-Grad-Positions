@@ -189,7 +189,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer Early Career - Cloud</td>
 <td>Remote in USA</br>Hanover, MD</td>
 <td><div align="center"><a href="https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ee5c8174-efce-40b3-a4d2-fd27931c66ec?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Parallel-Systems?utm_source=GHList&utm_medium=company">Parallel Systems</a></strong></td>
@@ -2023,7 +2023,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1179)</summary>
+<summary>🗃️ Inactive roles (1178)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -10279,13 +10279,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Verisk?utm_source=GHList&utm_medium=company">Verisk</a></strong></td>
 <td>Technical Rotational Analyst – 2026 Early Career Foundations Program</td>
 <td>Boston, MA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company">American Express</a></strong></td>
-<td>Software Engineer 1 - Enterprise Architecture 🎓</td>
-<td>London, UK</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
