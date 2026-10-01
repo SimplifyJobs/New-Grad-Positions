@@ -2,159 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Samsung",
-        "id": "504181cb-e6dc-4101-b2c7-998ca0c96169",
-        "title": "Photo Equipment Technician",
-        "active": false,
-        "date_updated": 1770131980,
-        "date_posted": 1770131980,
-        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Photo-Equipment-Technician_R113279",
-        "locations": [
-            "Pflugerville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "e110b79e-006d-439b-b05a-fc6a780df138",
-        "title": "Software Engineer 1 - Enterprise Architecture",
-        "active": false,
-        "date_updated": 1770131800,
-        "date_posted": 1770131800,
-        "url": "https://aexp.eightfold.ai/careers/job/39560752",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Norfolk Southern",
-        "id": "ebeed74b-f509-49ae-8495-5a07dd864804",
-        "title": "2026 Communications Electronic Technician - Bellevue - OH",
-        "active": false,
-        "date_updated": 1770131686,
-        "date_posted": 1770131686,
-        "url": "https://jobs.nscorp.com/job/Bellevue-2026-Communications-Electronic-Technician-(Bellevue,-OH)-OH-44811/1361473000/?ats=successfactors",
-        "locations": [
-            "Troy Township, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Norfolk-Southern",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "beb3bb94-344d-4d0c-920c-efed2416c724",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770131511,
-        "date_posted": 1770131511,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048074",
-        "locations": [
-            "Workington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8a49a178-26fe-4a48-ac0e-8e17650e0e2e",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770131510,
-        "date_posted": 1770131510,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048065",
-        "locations": [
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5814fcc4-0c2d-462c-a740-16ee3004ff56",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770131512,
-        "date_posted": 1770131512,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047853",
-        "locations": [
-            "Tunbridge Wells, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Medpace, Inc.",
-        "id": "23c3f668-098e-4f24-a412-52544831bb78",
-        "title": "Business Intelligence Analyst - Data Engineering",
-        "active": true,
-        "date_updated": 1770131359,
-        "date_posted": 1770131359,
-        "url": "https://careers.medpace.com/jobs/12564?lang=en-us&icims=1",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Medpace-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "14f9ab91-9740-40c3-8f6e-747123d5cfe0",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770131518,
-        "date_posted": 1770131518,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048056",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Amentum",
         "id": "6594a285-d423-48ce-b9bf-ebe9ea9b2024",
         "title": "Radar System Operator Associate",
@@ -2966,24 +2813,6 @@
         "degrees": [
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Maven Securities",
-        "id": "d4bc7cda-3670-45c6-92f5-c5007b343dbb",
-        "title": "Quantitative Trading Analyst",
-        "active": false,
-        "date_updated": 1770246954,
-        "date_posted": 1770131567,
-        "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7582506",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Maven-Securities",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -327984,7 +327813,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "d3dabef7-abe2-4f2c-adcc-bcc8fe657013",
         "title": "Data Enablement Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1787350890,
         "date_posted": 1787270400,
         "url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Montreal/January-2027---Data-Enablement--Non-CPA----Full-time---Montreal_754060WD",
@@ -340540,7 +340369,7 @@
         "company_name": "Koch Industries",
         "id": "ce65b40a-38c7-43ea-8dac-7f8d96755290",
         "title": "Business Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1788042421,
         "date_posted": 1788042400,
         "url": "https://koch.avature.net/en_US/careers/JobDetail/193502",
@@ -349911,7 +349740,7 @@
         "company_name": "Focal Systems",
         "id": "1ba8cb92-8e38-4aa3-8528-4c7e4a02db1f",
         "title": "Field Data Collector",
-        "active": true,
+        "active": false,
         "date_updated": 1788422948,
         "date_posted": 1787781478,
         "url": "https://job-boards.greenhouse.io/focalsystems/jobs/6163411004",
@@ -394387,6 +394216,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "103ecf7c-5027-49d5-a306-442afe343a2f",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1790868182,
+        "date_posted": 1790812800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-II--Onsite-_01879240",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
