@@ -360857,7 +360857,7 @@
         "company_name": "Intel",
         "id": "6d6a3ee8-39c1-4c9d-b0bb-4bc6bb8953c5",
         "title": "CAD/EDA Tools Automation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788491502,
         "date_posted": 1788393600,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0286595",
@@ -373306,7 +373306,7 @@
         "company_name": "CoStar Group",
         "id": "722f99a1-34ff-426d-8ea6-596d9b287119",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789399409,
         "date_posted": 1789344000,
         "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Associate-Software-Engineer---Arlington--VA_R39668",
@@ -391112,7 +391112,7 @@
         "company_name": "Ebury",
         "id": "6e1bbfdf-5174-48d6-af3a-aa734d89d066",
         "title": "Product Graduate - Payments",
-        "active": true,
+        "active": false,
         "date_updated": 1790808140,
         "date_posted": 1790807940,
         "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4994389101",
@@ -392828,7 +392828,7 @@
         "company_name": "Ingram Micro",
         "id": "66e013d8-f45a-4545-8edd-9d96b1b2de08",
         "title": "Associate Repair",
-        "active": true,
+        "active": false,
         "date_updated": 1790893899,
         "date_posted": 1790812800,
         "url": "https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro/job/Plainfield-IN-United-States-of-America/Associate--Repair_R-117382-1",
@@ -393285,5 +393285,23 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Global Web Index",
+        "id": "3efe2568-d218-4a6f-b3ff-105db324660f",
+        "title": "Insight Analyst",
+        "active": true,
+        "date_updated": 1790952481,
+        "date_posted": 1790952421,
+        "url": "https://job-boards.greenhouse.io/globalwebindex/jobs/8783784002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Web-Index",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
