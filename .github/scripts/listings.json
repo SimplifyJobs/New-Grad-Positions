@@ -2,66 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "7fc25a2f-3933-4a77-aa4a-79e8169532c4",
-        "title": "Application Engineer",
-        "active": false,
-        "date_updated": 1770164051,
-        "date_posted": 1770164051,
-        "url": "https://cadence.wd1.myworkdayjobs.com/University_CST/job/SAN-JOSE/Application-Engineer_R53122",
-        "locations": [
-            "Morrisville, NC",
-            "Austin, TX",
-            "San Jose, CA",
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CVS Health",
-        "id": "508aba24-d761-46e1-af92-09cbfbce16b2",
-        "title": "Associate Data Engineer - Data Lakehouse Building",
-        "active": false,
-        "date_updated": 1770163847,
-        "date_posted": 1770163847,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Associate-Data-Engineer--Data-Lakehouse-Building_R0822842",
-        "locations": [
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cleveland Clinic",
-        "id": "76989cce-252d-48ab-b339-8c41d6f37d6e",
-        "title": "Systems Analyst 1 - Audit Transformation",
-        "active": false,
-        "date_updated": 1770163475,
-        "date_posted": 1770163475,
-        "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Independence-West-Creek/Systems-Analyst-I---Audit-Transformation_327846",
-        "locations": [
-            "Seven Hills, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Cleveland-Clinic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Awardco",
         "id": "53e2a0fe-8bec-4790-8632-33c773ce3525",
         "title": "Back-End Software Engineer",
@@ -320580,7 +320520,7 @@
         "company_name": "Seeq",
         "id": "048a4ff3-3e1e-4263-befe-a0355b1afce4",
         "title": "AI Customer Insights Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787104981,
         "date_posted": 1787104920,
         "url": "https://apply.workable.com/seeq/j/6F40FF632B/apply",
@@ -346425,7 +346365,7 @@
         "company_name": "Keysight Technologies",
         "id": "008db5e5-ebd4-4f30-b485-da1b91e6a917",
         "title": "Software Engineer - Measurement Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1788411786,
         "date_posted": 1788401238,
         "url": "https://jobs.keysight.com/jobs/54139?icims=1",
