@@ -1,65 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Awardco",
-        "id": "53e2a0fe-8bec-4790-8632-33c773ce3525",
-        "title": "Back-End Software Engineer",
-        "active": false,
-        "date_updated": 1770171627,
-        "date_posted": 1770171627,
-        "url": "https://award.co/position?gh_jid=4118198004",
-        "locations": [
-            "Orem, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Awardco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RELEX Solutions",
-        "id": "e967dee8-513c-42e9-bee2-5c5b4ad850a7",
-        "title": "Business Analyst / Data Analyst - RELEX North America",
-        "active": false,
-        "date_updated": 1770171506,
-        "date_posted": 1770171506,
-        "url": "https://www.relexsolutions.com/careers/jobs/?gh_jid=7484005003",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/RELEX-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Persona",
-        "id": "24fb788f-d019-4468-a337-ab36d0e99b0b",
-        "title": "Product Analyst - Fraud",
-        "active": false,
-        "date_updated": 1770171484,
-        "date_posted": 1770171484,
-        "url": "https://jobs.ashbyhq.com/persona/8d788998-16c0-47d6-b074-52c2c4fc3007/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Persona",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "iHeartMedia",
         "id": "856a2c80-78a2-4514-a370-fa30224c583a",
@@ -80052,26 +79993,6 @@
         "degrees": [
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SpaceX",
-        "id": "cebfd81e-c968-4386-ad63-a2b232bae8fa",
-        "title": "Application Software Engineer",
-        "active": false,
-        "date_updated": 1773969075,
-        "date_posted": 1770171781,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8402778002",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -339755,7 +339676,7 @@
         "company_name": "CapTech Consulting",
         "id": "fa1ba128-0d4c-4ead-9efc-ce304a13ce25",
         "title": "Data Engineering Associate Consultant - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1788207661,
         "date_posted": 1788202931,
         "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000146448860",
@@ -390018,7 +389939,7 @@
         "company_name": "Newrez",
         "id": "5e5781fe-744c-46c0-98f7-570ee4f3759e",
         "title": "Operations Support & Reporting Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1790721542,
         "date_posted": 1790640000,
         "url": "https://newrez.wd1.myworkdayjobs.com/NRZ/job/PA-Fort-Washington/Operations-Support---Reporting-Assistant_R10536",
