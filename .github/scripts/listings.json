@@ -1,115 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Johnson Controls",
-        "id": "8f7534fe-1c41-4a29-8d7a-8078cf4fd5e2",
-        "title": "Nextgen Software Engineer",
-        "active": false,
-        "date_updated": 1770189655,
-        "date_posted": 1770189655,
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30258779",
-        "locations": [
-            "Fishers, IN",
-            "Milwaukee, WI",
-            "Westford, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Controls",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Johnson Controls",
-        "id": "557183e7-81aa-4d9b-8e80-2b6b8d75f14f",
-        "title": "Nextgen Hardware Engineer - Fire Detection",
-        "active": false,
-        "date_updated": 1770189655,
-        "date_posted": 1770189655,
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Westford-Massachusetts-United-States-of-America/NextGen-Hardware-Engineer---Fire-Detection_WD30258659",
-        "locations": [
-            "Lubbock, TX",
-            "Providence, RI",
-            "Westford, MA",
-            "Sister Bay, WI",
-            "Weslaco, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Controls",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Johnson Controls",
-        "id": "31e3941a-821c-4ad6-b962-0fe82b1fc585",
-        "title": "Nextgen Hardware Engineer - Hvacr",
-        "active": false,
-        "date_updated": 1770189656,
-        "date_posted": 1770189656,
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/New-Freedom-Pennsylvania-United-States-of-America/NextGen-Hardware-Engineer---HVACR_WD30258686",
-        "locations": [
-            "Indianapolis, IN",
-            "Detroit, MI",
-            "San Antonio, TX",
-            "York, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Controls",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Port of Seattle",
-        "id": "f1990e88-ee6b-49f2-b850-053eb36b25b9",
-        "title": "Business Intelligence Analyst 1",
-        "active": false,
-        "date_updated": 1770189087,
-        "date_posted": 1770189087,
-        "url": "https://aa243.taleo.net/careersection/ex/jobdetail.ftl?job=003935",
-        "locations": [
-            "Washington"
-        ],
-        "company_url": "https://simplify.jobs/c/Port-Of-Seattle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e095763c-a4df-4722-9d94-6cc68ec29391",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770189046,
-        "date_posted": 1770189046,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048137",
-        "locations": [
-            "Harlow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Jain Global",
         "id": "e162fe2f-b8fa-4f4f-9e29-415bc0f8068d",
@@ -148,45 +39,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "JINGDONG",
-        "id": "26235c12-915d-4a39-ba09-ac583587eb00",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1770190139,
-        "date_posted": 1770190139,
-        "url": "https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/London/Software-Engineer--JD-Star-Program-_JR101687",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JINGDONG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "JCDecaux",
-        "id": "00912d48-dc96-4ba5-b1d9-693a18f774a5",
-        "title": "Account Planner - Trading",
-        "active": false,
-        "date_updated": 1770190147,
-        "date_posted": 1770190147,
-        "url": "https://jcdecaux.wd3.myworkdayjobs.com/ExternalSiteJCDUK/job/GB-London-Office---Sale-Place/Account-Planner---Trading_JR101600",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JCDecaux",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -11129,24 +10981,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "JCDecaux",
-        "id": "2083861c-a66c-42f1-9641-ddcffb7e7907",
-        "title": "Digital Technician",
-        "active": false,
-        "date_updated": 1770818703,
-        "date_posted": 1770190159,
-        "url": "https://jcdecaux.wd3.myworkdayjobs.com/ExternalSiteJCDUK/job/London---Brentford/Digital---Technician_JR101566",
-        "locations": [
-            "Hammersmith, London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JCDecaux",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -315252,7 +315086,7 @@
         "company_name": "KeyBank",
         "id": "477f4a29-918e-4971-aa80-59cac674f192",
         "title": "Analytics and Quantitative Modeling Rotational Analyst - Rotational Program",
-        "active": true,
+        "active": false,
         "date_updated": 1787005248,
         "date_posted": 1786924800,
         "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Analytics-and-Quantitative-Modeling-Rotational-Analyst-Program--Cleveland_R-41381-1",
@@ -376535,7 +376369,7 @@
         "company_name": "U.S. Bank",
         "id": "2d214b83-1171-400a-95dd-669df4b10b66",
         "title": "Engineering Rotational Program",
-        "active": true,
+        "active": false,
         "date_updated": 1789512987,
         "date_posted": 1789430400,
         "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Rotational-Program_2026-0024618",
@@ -387508,7 +387342,7 @@
         "company_name": "Abbott",
         "id": "710de821-64c1-4cee-91fa-bb55f8498f3f",
         "title": "Software Engineer 1 - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1790375028,
         "date_posted": 1790294400,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---La-Jolla/Software-Engineer-I_31162389",
