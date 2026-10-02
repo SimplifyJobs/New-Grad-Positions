@@ -1,165 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Guidehouse",
-        "id": "8681e97b-7155-4592-b18e-751fa8e1b603",
-        "title": "Operations Research Analyst",
-        "active": false,
-        "date_updated": 1770220460,
-        "date_posted": 1770220460,
-        "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Operations-Research-Analyst_35332",
-        "locations": [
-            "San Antonio, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Guidehouse",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amentum",
-        "id": "ce603273-441d-4bcc-8273-0b4e04809ea5",
-        "title": "Software Configuration Management Specialist/Software Tester",
-        "active": false,
-        "date_updated": 1770220297,
-        "date_posted": 1770220297,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Software-Configuration-Management-Specialist-Software-Tester_R0153325",
-        "locations": [
-            "Fredericksburg, VA",
-            "Dahlgren, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Dallas College",
-        "id": "e38a4f39-4360-47fa-b20b-8e5b233d68d9",
-        "title": "Data Engineer",
-        "active": false,
-        "date_updated": 1770220036,
-        "date_posted": 1770220036,
-        "url": "https://dallascollege.wd1.myworkdayjobs.com/Dallas_College_Careers/job/Dallas-College-Administration/Data-Engineer_R11904",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Dallas-College",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CBC/Radio-Canada",
-        "id": "5eaea5c6-336c-4e87-bde0-b2c077bfd7ea",
-        "title": "Staging Technician - On Call - French Services",
-        "active": false,
-        "date_updated": 1770219816,
-        "date_posted": 1770219816,
-        "url": "https://cbcrc.wd3.myworkdayjobs.com/CBC_Radio-Canada_Jobs/job/Montreal-QC/Technicienne-ou-Technicien-de-plateau--Surnumraire---Services-franais-_JR00006847-1",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/CBC-Radio-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "a69a8f4d-91e9-471d-9693-a3b5563ad2cf",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1770219542,
-        "date_posted": 1770219542,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7582804",
-        "locations": [
-            "Tulsa, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Carnegie Mellon University",
-        "id": "827ee515-ad26-4995-aed0-8bc03d7180d0",
-        "title": "Research Associate - Lti - School of Computer Science",
-        "active": false,
-        "date_updated": 1770219597,
-        "date_posted": 1770219597,
-        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate----LTI---School-of-Computer-Science_2024127",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "2c21c106-be9f-47fe-8b42-3b36e0839fba",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1770219522,
-        "date_posted": 1770219522,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7588467",
-        "locations": [
-            "Newark, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cox",
-        "id": "d8c1ae81-7b7a-4427-aef2-962812779cfd",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1770219158,
-        "date_posted": 1770219158,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202672721",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Royal Bank of Canada",
         "id": "ad832d6a-bdbc-4d4d-bd7f-40477f9fc2ce",
@@ -297939,7 +297780,7 @@
         "company_name": "Cummins",
         "id": "607c0322-55ec-4777-815b-f66588579d34",
         "title": "Electronic Systems Engineer - Software",
-        "active": true,
+        "active": false,
         "date_updated": 1786342681,
         "date_posted": 1786342534,
         "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434473",
@@ -393019,5 +392860,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Power Design",
+        "id": "99c9261f-9794-4deb-8e15-9bb47dc0ab42",
+        "title": "AI Innovation Engineer - BIM",
+        "active": true,
+        "date_updated": 1790955001,
+        "date_posted": 1790899200,
+        "url": "https://powerdesigninc.wd5.myworkdayjobs.com/PDI/job/FL-St-Petersburg/AI-Innovation-Engineer---BIM_R12319-1",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Power-Design-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
