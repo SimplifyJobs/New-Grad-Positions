@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "iHeartMedia",
-        "id": "856a2c80-78a2-4514-a370-fa30224c583a",
-        "title": "Board Operator/Producer - Board Operations - Production",
-        "active": false,
-        "date_updated": 1770172339,
-        "date_posted": 1770172339,
-        "url": "https://iheartmedia.wd5.myworkdayjobs.com/iHM_Technology_Site/job/Austin-TX-5001-Plaza-On-the-Lake-Suite-105-78746/Board-Operator-Producer_Req37748-1",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/IHeartMedia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Johnson Controls",
         "id": "8f7534fe-1c41-4a29-8d7a-8078cf4fd5e2",
         "title": "Nextgen Software Engineer",
@@ -391443,7 +391425,7 @@
         "company_name": "Atlas Energy Solutions",
         "id": "84b7e139-e250-4722-9c0c-3b35d48ac62f",
         "title": "AI Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1790808301,
         "date_posted": 1790808158,
         "url": "https://job-boards.greenhouse.io/atlassand/jobs/8858449002",
