@@ -313819,7 +313819,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -338535,7 +338535,7 @@
         "company_name": "BP",
         "id": "fdddd164-950c-4f27-9548-8be436131b72",
         "title": "Analytics Graduate Program - Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1788153041,
         "date_posted": 1788134400,
         "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Supply--Trading--and-Shipping-Graduate-Program--Analytics--Houston--TX_RQ115335",
@@ -365468,7 +365468,7 @@
         "company_name": "NXP Semiconductors",
         "id": "f6552574-8bd8-4bcb-856a-f3131dfdad9f",
         "title": "Entry Level DFT Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788774842,
         "date_posted": 1788739200,
         "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Design-Engineer_R-10065554",
@@ -390016,7 +390016,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": false,
+        "active": true,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -393231,6 +393231,51 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Element Materials Technology",
+        "id": "716df615-70e1-4f68-a1ad-04ce2e6c83d4",
+        "title": "Seasonal Specific Absorption Rate Technician - Specific Absorption Rate Testing",
+        "active": true,
+        "date_updated": 1790932124,
+        "date_posted": 1790931894,
+        "url": "https://element-ext-row.icims.com/jobs/20111/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Guildford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Element-Materials-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Normal Computing",
+        "id": "1005bf9b-20cc-4e7e-a770-9c2ce6ed1a37",
+        "title": "Thermodynamic Hardware Resident",
+        "active": true,
+        "date_updated": 1790933221,
+        "date_posted": 1787127897,
+        "url": "https://jobs.ashbyhq.com/normalcomputing/5d57d8b1-612d-4ee0-941e-78a032a1ada2/application?embed=true",
+        "locations": [
+            "Palo Alto, CA",
+            "Silicon Valley, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/NormalComputing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
