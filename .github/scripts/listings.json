@@ -365696,7 +365696,7 @@
         "company_name": "NXP Semiconductors",
         "id": "d389b7cc-93fb-4b96-a37b-c0f8cf9a2416",
         "title": "Digital Validation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788774902,
         "date_posted": 1788739200,
         "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Validation-Engineer_R-10065559",
@@ -393350,6 +393350,70 @@
             "Tucson, AZ"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Financeit",
+        "id": "ca5fe671-c3d6-471a-956e-07ca8a50495a",
+        "title": "Data Scientist - Risk Modeling & Analytics",
+        "active": true,
+        "date_updated": 1790921881,
+        "date_posted": 1790921735,
+        "url": "https://apply.workable.com/financeit/j/D3CF97088A/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Financeit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sandvik",
+        "id": "86d61b4b-0780-49a6-9bbd-a5448f91236b",
+        "title": "Remote Monitoring Analyst",
+        "active": true,
+        "date_updated": 1790921341,
+        "date_posted": 1790812800,
+        "url": "https://sandvik.wd3.myworkdayjobs.com/sandvik-jobs/job/USA-TN-White-Pine/Remote-Monitoring-Analyst--White-Pine--TN_R0098120-1",
+        "locations": [
+            "White Pine, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Sandvik",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "169846aa-cf8c-463a-9721-b9826b79a129",
+        "title": "Software Development Engineer \u2013 Early Career - Amazon Dedicated Cloud - ADC",
+        "active": true,
+        "date_updated": 1790921341,
+        "date_posted": 1790921279,
+        "url": "https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc",
+        "locations": [
+            "Seattle, WA",
+            "Jessup, MD",
+            "Arlington County, Arlington, VA",
+            "Denver, CO",
+            "Herndon, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
