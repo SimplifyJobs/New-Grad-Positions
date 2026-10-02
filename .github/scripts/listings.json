@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "d876a576-5b5f-4892-938f-bd12bfe506b4",
-        "title": "Graduate Data Scientist",
-        "active": false,
-        "date_updated": 1770212463,
-        "date_posted": 1770212463,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/GB-BIR-BIRMINGHAM-001--1-Marston-Green--GOODRICH-CONTROL-SYS/Graduate-Data-Scientist_01821738-1",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Ohio State University",
         "id": "98cdbeb2-bc0e-4691-ae71-d5d3340f3778",
         "title": "Reporting and Analytics Specialist",
@@ -278529,7 +278509,7 @@
         "company_name": "Power Design, Inc",
         "id": "0052ea09-d7ee-44ff-929d-418fc69ac588",
         "title": "AI Innovation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785573682,
         "date_posted": 1785369600,
         "url": "https://powerdesigninc.wd5.myworkdayjobs.com/PDI/job/FL-St-Petersburg/AI-Innovation-Engineer_R12316-2",
@@ -389252,7 +389232,7 @@
         "company_name": "Northrop Grumman",
         "id": "f1208480-1147-48ce-9646-846da02f7bc8",
         "title": "Associate Software Engineer or Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790722045,
         "date_posted": 1790640000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437",
