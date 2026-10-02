@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Quant",
-        "company_name": "Royal Bank of Canada",
-        "id": "ad832d6a-bdbc-4d4d-bd7f-40477f9fc2ce",
-        "title": "Analyst \u2013 Credit Trading",
-        "active": false,
-        "date_updated": 1770221038,
-        "date_posted": 1770221038,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Analyst--Credit-Trading_R-0000157452-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
         "company_name": "BlackRock",
         "id": "4f344759-1a21-4010-a885-9ae9e7d8ba26",
         "title": "Portfolio Risk Modeling",
@@ -325987,7 +325967,7 @@
         "company_name": "Maven Securities",
         "id": "24751870-3351-4625-9977-345222746d6e",
         "title": "Graduate Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1787388719,
         "date_posted": 1785767388,
         "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048802",
