@@ -1,60 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "4d41b64a-6ee2-4a2f-ba64-6f68f412d250",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770200653,
-        "date_posted": 1770200653,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048146",
-        "locations": [
-            "Maidstone, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "18763572-6730-40ab-855c-0be43f2ee695",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770200653,
-        "date_posted": 1770200653,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048156",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "American Express",
-        "id": "ca98230f-d6eb-4120-b38f-f074713bb7eb",
-        "title": "Analyst-Loyalty Transformation",
-        "active": false,
-        "date_updated": 1770200884,
-        "date_posted": 1770200884,
-        "url": "https://aexp.eightfold.ai/careers/job/39684158",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "913882b3-f305-4a46-b5b0-e0fcd244ecb2",
@@ -235125,7 +235071,7 @@
         "company_name": "Cadence Design Systems",
         "id": "222a9169-ad29-4c31-ae33-30a683f7f5a4",
         "title": "Software Engineer 2 - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1783693502,
         "date_posted": 1783347159,
         "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CAMBRIDGE/Software-Engineer-II_R55345",
@@ -296195,7 +296141,7 @@
         "company_name": "Charles Schwab",
         "id": "952bbac0-18af-4767-b6a2-6d9e3639a5af",
         "title": "Software Development and Engineering Associate - Wealth and Advice Solutions Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1786141448,
         "date_posted": 1786140812,
         "url": "https://career-schwab.icims.com/jobs/124804/job?mobile=true&needsRedirect=false",
@@ -320429,7 +320375,7 @@
         "company_name": "Expleo",
         "id": "64878c33-4a70-42ab-ae45-00f9e436e82b",
         "title": "Automotive Integration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787133961,
         "date_posted": 1786680110,
         "url": "https://expleo-jobs-gb-en.icims.com/jobs/50174/job?mobile=true&needsRedirect=false",
@@ -363119,7 +363065,7 @@
         "company_name": "MCI",
         "id": "5f408047-88ae-4f85-bf70-201836d5c74a",
         "title": "AI Data Annotator",
-        "active": true,
+        "active": false,
         "date_updated": 1788519241,
         "date_posted": 1786680111,
         "url": "https://careers-mci2.icims.com/jobs/50188/job?mobile=true&needsRedirect=false",
@@ -393276,6 +393222,80 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LiRo",
+        "id": "c44dfddf-d8a0-4e60-a533-5147649e8a88",
+        "title": "Environmental Technical Support",
+        "active": true,
+        "date_updated": 1790805961,
+        "date_posted": 1790805921,
+        "url": "https://careers-liro.icims.com/jobs/3408/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Mineola, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/LiRo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Formlabs",
+        "id": "2c5ec5b1-b23d-406f-a083-a6c9148ea875",
+        "title": "R&D Reliability/Test Engineer - R&D Reliability Engineering Team",
+        "active": true,
+        "date_updated": 1790936008,
+        "date_posted": 1790720428,
+        "url": "https://careers.formlabs.com/job/8241465/apply/?gh_jid=8241465",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Formlabs",
+        "id": "5fdde354-d087-4028-b735-d446f17f1e6b",
+        "title": "R&D Reliability/Test Engineer",
+        "active": true,
+        "date_updated": 1790936788,
+        "date_posted": 1790720420,
+        "url": "https://careers.formlabs.com/job/8241472/apply/?gh_jid=8241472",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "af356dc5-6ece-45f4-9cbf-7e378944c633",
+        "title": "Applied Scientist - Operations",
+        "active": true,
+        "date_updated": 1790935977,
+        "date_posted": 1785881630,
+        "url": "https://amazon.jobs/en/jobs/10492292/applied-scientist-na-operations",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
