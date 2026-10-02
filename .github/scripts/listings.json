@@ -355648,7 +355648,7 @@
         "company_name": "Relay Technologies",
         "id": "c48dfc27-a60d-4aab-9f9e-1775aa1a6167",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788452113,
         "date_posted": 1788452089,
         "url": "https://jobs.ashbyhq.com/relay/5a6ed15f-e610-4d09-9fd7-f18cd639c4e7/application?embed=true",
@@ -393207,6 +393207,26 @@
             "Herndon, VA"
         ],
         "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Jain Global",
+        "id": "e162fe2f-b8fa-4f4f-9e29-415bc0f8068d",
+        "title": "Developer",
+        "active": true,
+        "date_updated": 1788505932,
+        "date_posted": 1783160515,
+        "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Developer_JR100255",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Jain-Global",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
