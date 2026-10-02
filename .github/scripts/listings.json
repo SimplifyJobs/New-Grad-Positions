@@ -6015,39 +6015,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Thermo Fisher Scientific",
-        "id": "2dc42f08-6bb7-477c-adf8-cdfdbe909b36",
-        "title": "Field Service Engineer",
-        "active": false,
-        "date_updated": 1770458591,
-        "date_posted": 1770214098,
-        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-France/Field-Service-Engineer_R-01341803",
-        "locations": [
-            "Remote in UK",
-            "Remote in Italy",
-            "Remote in Germany",
-            "Remote in France"
-        ],
-        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PharmD",
-            "PhD",
-            "Associate's",
-            "JD",
-            "MD",
-            "Bootcamp",
-            "Certificate",
-            "Incomplete"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "a6482392-3b2d-4e14-ab77-caf42e733c44",
@@ -256889,7 +256856,7 @@
         "company_name": "Deloitte",
         "id": "9119a940-c285-418f-8fad-397e77889ae6",
         "title": "Consultative Offerings Analyst - Government & Public Services - Software Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1784683209,
         "date_posted": 1784672056,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering/350277",
@@ -300092,7 +300059,7 @@
         "company_name": "Deloitte",
         "id": "db040850-9b1f-4c19-93d8-de0c16003f79",
         "title": "Delivery Analyst - Government & Public Services - AI & Data Engineering Solutions",
-        "active": false,
+        "active": true,
         "date_updated": 1786401575,
         "date_posted": 1786401422,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-AI-Data-Engineering-Solutions/357022",
@@ -303221,7 +303188,7 @@
         "company_name": "Deloitte",
         "id": "8ce351e6-944c-4e61-8422-e151a5a7baf2",
         "title": "Delivery Analyst - Government & Public Services - Cyber Software Engineering Solutions",
-        "active": false,
+        "active": true,
         "date_updated": 1786487517,
         "date_posted": 1786487046,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Cyber-Software-Engineering-Solutions/362503",
@@ -384087,7 +384054,7 @@
         "company_name": "Fermilab",
         "id": "523f8c96-624c-475c-aa97-bae7bee72f35",
         "title": "Quantum Computing Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790115482,
         "date_posted": 1790035200,
         "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Quantum-Computing-Engineer_R_009685-1",
@@ -389922,7 +389889,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": false,
+        "active": true,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -393252,6 +393219,67 @@
             "Bellevue, WA"
         ],
         "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Focusrite Group",
+        "id": "4aa4ef77-f438-4487-80c5-dc276a222c41",
+        "title": "Electronics and Hardware Engineer",
+        "active": true,
+        "date_updated": 1790950861,
+        "date_posted": 1790950829,
+        "url": "https://apply.workable.com/focusrite/j/ABAEFDB6E0/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Focusrite-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Renesas Electronics",
+        "id": "9bb11b3a-a83a-4e32-a074-3a83294d7aad",
+        "title": "Engineer \u2013 Physical AI",
+        "active": true,
+        "date_updated": 1790950141,
+        "date_posted": 1790950068,
+        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153176614",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Renesas-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "L3Harris Technologies",
+        "id": "5513d80b-b633-45c6-bb08-4a72d78cd073",
+        "title": "Senior Associate, Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1790950330,
+        "date_posted": 1790950062,
+        "url": "https://jobs.l3harris.com/job/Palm-Bay-Senior-Associate,-Business-Intel-Analyst-FL-32905/1436168100/?ats=successfactors",
+        "locations": [
+            "Palm Bay, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
