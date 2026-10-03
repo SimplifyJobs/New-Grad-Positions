@@ -1,109 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Cox",
-        "id": "ec4ddc7e-7d70-4e83-aa53-c80772751c41",
-        "title": "Product Manager 1",
-        "active": false,
-        "date_updated": 1770258274,
-        "date_posted": 1770258274,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Manager-I_R202672640",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "aa214bba-830c-4d3c-8953-df9b44eff420",
-        "title": "Engineer 1 - Design",
-        "active": false,
-        "date_updated": 1770258027,
-        "date_posted": 1770258027,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I-Design_R2422-25",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zip",
-        "id": "d9afd19e-fc7d-4360-8228-887866b2e5e2",
-        "title": "Software Engineer New Grad - 2026 Start",
-        "active": false,
-        "date_updated": 1770257626,
-        "date_posted": 1770257626,
-        "url": "https://jobs.ashbyhq.com/zip/b261b0d9-bebd-4da1-a3b9-7a674f0616ac/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Zip",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8c074af1-7783-4703-af75-efcb7ae2ee06",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770257516,
-        "date_posted": 1770257516,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048274",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WEC Energy Group",
-        "id": "35b74db2-e36c-4812-99c7-a79750139d8c",
-        "title": "Gas System Associate Analyst",
-        "active": false,
-        "date_updated": 1770257445,
-        "date_posted": 1770257445,
-        "url": "https://careers.wecenergygroup.com/Michigan_Gas_Utilities/job/Coldwater-Gas-System-Associate-Analyst-MI-49036/1362161600/?ats=successfactors",
-        "locations": [
-            "Marshall, MI",
-            "Muskegon, MI",
-            "Dundee, MI",
-            "Kalamazoo, MI",
-            "South Bend, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/WEC-Energy-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "F5",
         "id": "ff11b388-80d0-499f-88f1-08453f978f8e",
@@ -365338,7 +365235,7 @@
         "company_name": "CTG",
         "id": "2be6f759-96be-4dc7-a468-cf02a80bdef5",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788907071,
         "date_posted": 1788905963,
         "url": "https://careers.ctg.com/jobs/17557?icims=1",
@@ -377305,7 +377202,7 @@
         "company_name": "Noblis",
         "id": "625f51dc-1a95-4ae9-9f96-09e55251c768",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789655221,
         "date_posted": 1789654865,
         "url": "https://careers.noblis.org/jobs/27850?icims=1",
