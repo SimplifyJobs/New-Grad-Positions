@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "FourKites",
-        "id": "4613e7f0-39e1-406a-9fc7-312851df0139",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1770289197,
-        "date_posted": 1770289197,
-        "url": "https://job-boards.greenhouse.io/fourkites/jobs/7543873",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/FourKites",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "NCR Voyix",
         "id": "b6693a55-3d12-43bc-b716-9f62849b8a21",
@@ -278362,7 +278342,7 @@
         "company_name": "Cadence Design Systems",
         "id": "b75b33ad-8ca9-41fa-93dd-45a8df47f6c1",
         "title": "Computational Aeroelasticity Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1785618721,
         "date_posted": 1784851200,
         "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/IRVINE/Computational-Aeroelasticity-Developer_R55697",
@@ -387475,7 +387455,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": true,
+        "active": false,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
