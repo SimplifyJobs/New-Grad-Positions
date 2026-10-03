@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cloudera",
-        "id": "b9164a4f-3c74-45fc-af33-adc313e3505e",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1770311380,
-        "date_posted": 1770311380,
-        "url": "https://cloudera.wd5.myworkdayjobs.com/external_career/job/US-California-San-Jose/Software-Engineer_251356-1",
-        "locations": [
-            "Austin, TX",
-            "San Jose, CA",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/07fb1ce1-0bfb-478c-89b9-2a010130e807",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "LPL Financial Holdings",
         "id": "7b355857-39d2-4289-bc81-b93cf2ea7a93",
@@ -1459,27 +1437,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Walmart",
-        "id": "7587752c-1ec7-4d19-ac46-f4c7e9da56a2",
-        "title": "Senior Software Engineer",
-        "active": false,
-        "date_updated": 1770311719,
-        "date_posted": 1770311719,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior-Software-Engineer_R-2398024-1",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
