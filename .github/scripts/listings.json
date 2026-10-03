@@ -31050,7 +31050,7 @@
         "company_name": "SpaceX",
         "id": "7a30fdfc-b4b3-48bb-b4b9-d379a5e7a087",
         "title": "Diamond Turning Machinist - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1771985930,
         "date_posted": 1771985930,
         "url": "https://boards.greenhouse.io/spacex/jobs/8428913002",
@@ -57481,7 +57481,7 @@
         "company_name": "SpaceX",
         "id": "7ac9326f-37b2-436b-9e22-dc571c015743",
         "title": "Software Engineer - Embedded Software",
-        "active": false,
+        "active": true,
         "date_updated": 1773296841,
         "date_posted": 1773296841,
         "url": "https://boards.greenhouse.io/spacex/jobs/8436708002",
@@ -104838,7 +104838,7 @@
         "company_name": "SpaceX",
         "id": "221eab43-824d-4a90-bc17-87dc2c30270a",
         "title": "Software Engineer - Starshield",
-        "active": false,
+        "active": true,
         "date_updated": 1775861108,
         "date_posted": 1775859452,
         "url": "https://boards.greenhouse.io/spacex/jobs/8501199002",
@@ -138428,7 +138428,7 @@
         "company_name": "SpaceX",
         "id": "d3a2d6b4-b92c-41cd-8608-e1d2d5e108ff",
         "title": "Embedded Software Engineer - OS/Platform - Starshield",
-        "active": false,
+        "active": true,
         "date_updated": 1778029741,
         "date_posted": 1778029571,
         "url": "https://boards.greenhouse.io/spacex/jobs/8530798002",
@@ -155242,7 +155242,7 @@
         "company_name": "SpaceX",
         "id": "84714d32-005b-48ea-8f5c-b4cf769c7deb",
         "title": "Software Engineer - Platform Team",
-        "active": false,
+        "active": true,
         "date_updated": 1779315841,
         "date_posted": 1779315080,
         "url": "https://boards.greenhouse.io/spacex/jobs/8558858002",
@@ -168302,7 +168302,7 @@
         "company_name": "SpaceX",
         "id": "2aec360c-7d97-44c9-90e1-5ad25913c551",
         "title": "Software Engineer - Hardware Test & Automation - Starlink",
-        "active": false,
+        "active": true,
         "date_updated": 1779921017,
         "date_posted": 1779919835,
         "url": "https://boards.greenhouse.io/spacex/jobs/8565155002",
@@ -187036,7 +187036,7 @@
         "company_name": "SpaceX",
         "id": "ab5425fe-34cf-4b24-ace3-73fdb7eb3b44",
         "title": "Software Engineer - Test Infrastructure - Application Software",
-        "active": true,
+        "active": false,
         "date_updated": 1781053741,
         "date_posted": 1781053721,
         "url": "https://boards.greenhouse.io/spacex/jobs/8585072002",
@@ -189603,7 +189603,7 @@
         "company_name": "Innodata",
         "id": "fa1cdf9a-7c9c-4127-bbce-c1c902f86e32",
         "title": "Generative AI Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781169539,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248719009",
@@ -189665,7 +189665,7 @@
         "company_name": "Innodata",
         "id": "e97ab4c1-64b9-4afa-a02e-dfa8f2f73ad3",
         "title": "Applied AI Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781169534,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266634009",
@@ -189687,7 +189687,7 @@
         "company_name": "Innodata",
         "id": "dc9b0e8b-1928-4f3b-8d50-5c43e45b2c36",
         "title": "Generative AI Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781170923,
         "date_posted": 1781169538,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266674009",
@@ -189707,7 +189707,7 @@
         "company_name": "Innodata",
         "id": "db3f66eb-8ee7-410b-8042-bcb56e4981d6",
         "title": "Generative AI Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781169537,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248686009",
@@ -189803,7 +189803,7 @@
         "company_name": "Innodata",
         "id": "878a5b4f-7d93-4585-98ac-c79568e9f476",
         "title": "Data AI Annotator",
-        "active": true,
+        "active": false,
         "date_updated": 1781171642,
         "date_posted": 1781169534,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266784009",
@@ -189867,7 +189867,7 @@
         "company_name": "Innodata",
         "id": "5a91397a-6a0d-45a4-b4c5-829dc33e3fe3",
         "title": "AI Workflow Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781169534,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266793009",
@@ -190001,7 +190001,7 @@
         "company_name": "Innodata",
         "id": "edfef0ea-e0fe-4174-9a96-1100949c938e",
         "title": "Generative AI Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781170923,
         "date_posted": 1781169536,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248751009",
@@ -190061,7 +190061,7 @@
         "company_name": "Innodata",
         "id": "d71136b8-4c71-4a40-9a37-7cb70f9afaee",
         "title": "Generative AI Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781169536,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248773009",
@@ -190105,7 +190105,7 @@
         "company_name": "Innodata",
         "id": "b9924f81-622f-4aea-8a48-f2b1aa2914e5",
         "title": "AI Data Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1781170923,
         "date_posted": 1781169533,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266786009",
@@ -190189,7 +190189,7 @@
         "company_name": "Innodata",
         "id": "66e410a1-7469-4536-a3b0-bb5a86f56155",
         "title": "Generative AI Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781169537,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266654009",
@@ -190357,7 +190357,7 @@
         "company_name": "Innodata",
         "id": "0868acf3-1670-4cb2-92b7-83c3c8f3eb31",
         "title": "Generative AI Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781169538,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266677009",
@@ -190442,7 +190442,7 @@
         "company_name": "Innodata",
         "id": "2ba8103c-3beb-4f2f-af97-f3d927bfa508",
         "title": "Generative AI Associate - SME on Demand - Contributor Community",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781169536,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248758009",
@@ -190761,7 +190761,7 @@
         "company_name": "Innodata",
         "id": "b9ba08a6-903a-46d4-9103-ba6528e580da",
         "title": "Generative AI Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781170923,
         "date_posted": 1781169538,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248684009",
@@ -190863,7 +190863,7 @@
         "company_name": "Innodata",
         "id": "347ad34c-98ce-4245-9703-f274852392e9",
         "title": "Generative AI Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1781170202,
         "date_posted": 1781169538,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248729009",
@@ -190927,7 +190927,7 @@
         "company_name": "Innodata",
         "id": "0e70152a-1276-4025-805a-c75e8bdda220",
         "title": "Generative AI Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781169538,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248723009",
@@ -190969,7 +190969,7 @@
         "company_name": "Innodata",
         "id": "08781203-b887-478f-87f2-1ad8745a5394",
         "title": "Generative AI Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781169538,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248726009",
@@ -191072,7 +191072,7 @@
         "company_name": "Innodata",
         "id": "cbfaa67c-d916-46e0-8fa2-7b09c1622c2d",
         "title": "Generative AI Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781170923,
         "date_posted": 1781169538,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266676009",
@@ -191130,7 +191130,7 @@
         "company_name": "Innodata",
         "id": "b0c1fce6-a504-4605-bd96-60c68d541ad2",
         "title": "Generative AI Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781169538,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266678009",
@@ -191192,7 +191192,7 @@
         "company_name": "Innodata",
         "id": "725d5cdb-6ceb-4218-9b86-3dd4fcaf533a",
         "title": "Generative AI Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781169539,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248694009",
@@ -191212,7 +191212,7 @@
         "company_name": "Innodata",
         "id": "64143855-33c3-40de-8f0f-51058c6f74b6",
         "title": "Generative AI Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781169537,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266671009",
@@ -191272,7 +191272,7 @@
         "company_name": "Innodata",
         "id": "4dbd5e3f-f89e-49b3-8208-85556c40ae19",
         "title": "Generative AI Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781169538,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248681009",
@@ -191334,7 +191334,7 @@
         "company_name": "Innodata",
         "id": "1b3ee553-3abc-4f9f-9639-21234da78621",
         "title": "Generative AI Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781169537,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266670009",
@@ -224418,7 +224418,7 @@
         "company_name": "SpaceX",
         "id": "5ca64b1d-da84-4768-a279-1f3101c07ac8",
         "title": "Software Engineer - Starshield",
-        "active": true,
+        "active": false,
         "date_updated": 1783387081,
         "date_posted": 1783386847,
         "url": "https://boards.greenhouse.io/spacex/jobs/8621649002",
@@ -224458,7 +224458,7 @@
         "company_name": "SpaceX",
         "id": "5e9a8812-4cb4-4dc5-be3e-8698a2453275",
         "title": "Software Engineer - Product Development - Starshield",
-        "active": true,
+        "active": false,
         "date_updated": 1783386901,
         "date_posted": 1783386844,
         "url": "https://boards.greenhouse.io/spacex/jobs/8621621002",
@@ -236949,7 +236949,7 @@
         "company_name": "SpaceX",
         "id": "d850c719-af9b-44cb-8cc7-e0bd1c72ee50",
         "title": "Design Verification Engineer - Silicon Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1784068021,
         "date_posted": 1784067197,
         "url": "https://boards.greenhouse.io/spacex/jobs/8632971002",
@@ -241658,7 +241658,7 @@
         "company_name": "SpaceX",
         "id": "5cb1d020-580f-4457-ad97-f82309db2eca",
         "title": "Software Engineer - Test Infrastructure - C/C++",
-        "active": true,
+        "active": false,
         "date_updated": 1784240641,
         "date_posted": 1784240032,
         "url": "https://boards.greenhouse.io/spacex/jobs/8637049002",
@@ -243417,7 +243417,7 @@
         "company_name": "Innodata",
         "id": "c8020056-34c8-48e8-be6a-c3106371d41f",
         "title": "Generative AI Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1784327764,
         "date_posted": 1784326807,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4323350009",
@@ -244436,7 +244436,7 @@
         "company_name": "SpaceX",
         "id": "c8945595-20d2-46f8-8647-88f20add37e6",
         "title": "Software Engineer - Applied AI - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1784453221,
         "date_posted": 1784452385,
         "url": "https://boards.greenhouse.io/spacex/jobs/8637712002",
@@ -246216,7 +246216,7 @@
         "company_name": "SpaceX",
         "id": "81f9d6d8-76eb-434a-aef9-4c176940d9f8",
         "title": "Wireless Software Engineer - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1784587864,
         "date_posted": 1784587541,
         "url": "https://boards.greenhouse.io/spacex/jobs/8637814002",
@@ -251357,7 +251357,7 @@
         "company_name": "SpaceX",
         "id": "2cc55124-4613-4f77-b226-6eb616f18ca8",
         "title": "Software Engineer - Starfall",
-        "active": true,
+        "active": false,
         "date_updated": 1784653742,
         "date_posted": 1784614975,
         "url": "https://boards.greenhouse.io/spacex/jobs/8642274002",
@@ -265382,7 +265382,7 @@
         "company_name": "Notability",
         "id": "33c29f4d-ba3e-4b4e-8d7f-ba31f0fe0e0b",
         "title": "Engineer \u2013 Web Apps",
-        "active": false,
+        "active": true,
         "date_updated": 1785143701,
         "date_posted": 1785143651,
         "url": "https://job-boards.greenhouse.io/gingerlabsinc/jobs/4928821008",
@@ -283296,7 +283296,7 @@
         "company_name": "Texas Sports Academy",
         "id": "9ee25097-f93f-4cf5-94fc-b8071589bf17",
         "title": "Junior AI Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785766681,
         "date_posted": 1785766493,
         "url": "https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply",
@@ -330293,7 +330293,7 @@
         "company_name": "TeleTracking",
         "id": "aa9c2e24-8baf-48cc-92ec-a9624e201b7e",
         "title": "Software Engineer 1 - Logistics Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1787781759,
         "date_posted": 1787772638,
         "url": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5397299008",
@@ -341859,7 +341859,7 @@
         "company_name": "Latitude AI",
         "id": "0a783569-3524-4b42-bced-6d8fa868b454",
         "title": "Triage Associate 1 - Platform Triage",
-        "active": true,
+        "active": false,
         "date_updated": 1788356553,
         "date_posted": 1783117924,
         "url": "https://job-boards.greenhouse.io/latitude/jobs/8030930",
@@ -354804,7 +354804,7 @@
         "company_name": "Ludo Robotics",
         "id": "f260d958-2fe6-4427-ae08-399bc954ba23",
         "title": "Postdoctoral Fellowship - Robotics and AI",
-        "active": true,
+        "active": false,
         "date_updated": 1788461659,
         "date_posted": 1781676587,
         "url": "https://job-boards.greenhouse.io/ludorobotics/jobs/8558962002",
@@ -354865,7 +354865,7 @@
         "company_name": "Innodata",
         "id": "cf45f7e6-9cb8-49f3-8cd4-024cb216673b",
         "title": "AI Quality Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788461302,
         "date_posted": 1781169534,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266629009",
@@ -355562,7 +355562,7 @@
         "company_name": "SpaceX",
         "id": "ff0be0ee-d145-491c-8841-2fc76be15dab",
         "title": "Business Analyst - Customer Success",
-        "active": true,
+        "active": false,
         "date_updated": 1788465446,
         "date_posted": 1784672489,
         "url": "https://boards.greenhouse.io/spacex/jobs/8641250002",
@@ -358402,7 +358402,7 @@
         "company_name": "SpaceX",
         "id": "7b95e1f4-11b8-47ad-bbd7-84d0807fd67e",
         "title": "Hardware Test Engineer - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1788499081,
         "date_posted": 1779919809,
         "url": "https://boards.greenhouse.io/spacex/jobs/8565090002",
@@ -358423,7 +358423,7 @@
         "company_name": "SpaceX",
         "id": "22ddb367-7b17-4124-a5c3-14337136b4d6",
         "title": "Electrical Design Engineer - Starlink Mobile",
-        "active": true,
+        "active": false,
         "date_updated": 1788499081,
         "date_posted": 1779833385,
         "url": "https://boards.greenhouse.io/spacex/jobs/8563212002",
@@ -363837,7 +363837,7 @@
         "company_name": "Think Academy International Education",
         "id": "069f80fa-80a9-437a-8c72-5d9cb0dfa43b",
         "title": "PreK to K Math Teacher",
-        "active": true,
+        "active": false,
         "date_updated": 1788908057,
         "date_posted": 1788906835,
         "url": "https://job-boards.greenhouse.io/thinkacademyus/jobs/7989528003",
@@ -369897,7 +369897,7 @@
         "company_name": "Insurify",
         "id": "0434742b-0c20-4b93-b7e3-bda6c349f5f8",
         "title": "Technical Business Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788456622,
         "date_posted": 1781129126,
         "url": "https://job-boards.greenhouse.io/insurify/jobs/5743828004",
@@ -380600,7 +380600,7 @@
         "company_name": "Jump Trading",
         "id": "95b7110e-12cf-466a-8c11-28c72de75408",
         "title": "Quantitative Researcher - Trading Team",
-        "active": true,
+        "active": false,
         "date_updated": 1790117751,
         "date_posted": 1790116376,
         "url": "https://boards.greenhouse.io/embed/job_app?token=8209424",
@@ -382603,7 +382603,7 @@
         "company_name": "Parallel Systems",
         "id": "e52a13ce-a653-4971-8d74-8ac2a350f68f",
         "title": "Full Stack Software Engineer 1 - Interfaces",
-        "active": true,
+        "active": false,
         "date_updated": 1790213433,
         "date_posted": 1790213395,
         "url": "https://boards.greenhouse.io/parallel/jobs/5247800007",
@@ -384442,7 +384442,7 @@
         "company_name": "Woolpert",
         "id": "02f9ffea-0fcf-46d4-9cfb-2a90be93c0da",
         "title": "Bathymetric Remote Sensing Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1790376304,
         "date_posted": 1790375919,
         "url": "https://job-boards.greenhouse.io/woolpert/jobs/4408257009",
@@ -391482,6 +391482,529 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/XPengMotors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "1b0ed45f-daff-44e4-96e2-551ed31d329e",
+        "title": "Product Operations Engineer - Government Applications - Special Programs",
+        "active": true,
+        "date_updated": 1791066601,
+        "date_posted": 1790990823,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8864991002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "True Anomaly",
+        "id": "671a49e2-eb30-4a14-a25b-bc7caf81e364",
+        "title": "Hardware and Environments Test Engineer - I-II",
+        "active": true,
+        "date_updated": 1791066781,
+        "date_posted": 1776896562,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5023898007",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TrueAnomaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lightmatter",
+        "id": "1e8644d0-127c-4750-bfbf-36aa12cae932",
+        "title": "Silicon Packaging Engineer Intern & New Grad",
+        "active": true,
+        "date_updated": 1791067569,
+        "date_posted": 1789170896,
+        "url": "https://boards.greenhouse.io/lightmatter/jobs/5422712008",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lightmatter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nimble Robotics",
+        "id": "cf1e6f61-de4a-4aaf-ade0-09962cc13b33",
+        "title": "Robotics Field Engineer",
+        "active": true,
+        "date_updated": 1791066936,
+        "date_posted": 1790029987,
+        "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4204567009",
+        "locations": [
+            "Haslet, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Nimble-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Fin",
+        "id": "082f7ed1-14b9-45d9-bf98-b9f91125c659",
+        "title": "Senior Forward Deployed Product Manager",
+        "active": true,
+        "date_updated": 1791066601,
+        "date_posted": 1789031764,
+        "url": "https://job-boards.greenhouse.io/intercom/jobs/7111007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Fin-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "e49aa991-ccca-47e8-9561-11cabf65f0a1",
+        "title": "Embedded Software Engineer - OS/Platform - Starlink",
+        "active": true,
+        "date_updated": 1791066601,
+        "date_posted": 1787869234,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8752935002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "6eab19d8-8453-44ae-9268-15dac78bd24e",
+        "title": "Software Engineer - Flight Software - Starlink",
+        "active": true,
+        "date_updated": 1791066601,
+        "date_posted": 1787784117,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8752581002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "146bae8c-834e-463d-8c6d-3a9dd02ff10c",
+        "title": "Software Engineer - Embedded Software - Starlink",
+        "active": true,
+        "date_updated": 1791066601,
+        "date_posted": 1787784116,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8752598002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "K2 Space",
+        "id": "89febf4d-f2d8-4447-9ee9-00af04d5c6b4",
+        "title": "Flight Software Engineer",
+        "active": true,
+        "date_updated": 1791067141,
+        "date_posted": 1786389123,
+        "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5373556008",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/K2-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "K2 Space",
+        "id": "a840420b-b4ca-4303-905a-df709dbd8929",
+        "title": "Ground Software Engineer",
+        "active": true,
+        "date_updated": 1791067141,
+        "date_posted": 1786141859,
+        "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5373554008",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/K2-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "4b9ddebc-2055-4985-b5fc-dda6a3c768c8",
+        "title": "Software Engineer - Power Optimization",
+        "active": true,
+        "date_updated": 1791066601,
+        "date_posted": 1785277387,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8647459002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "cad7a15f-e678-4d62-9441-0ce4a150ddc7",
+        "title": "Wireless Software Engineer",
+        "active": true,
+        "date_updated": 1791066601,
+        "date_posted": 1784587535,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8637826002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Freedom Technology Solutions Group",
+        "id": "cf11e0ff-3bd0-4b96-81b0-54ce5ab3b266",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1791066601,
+        "date_posted": 1784557090,
+        "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5190737007",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Freedom-Technology-Solutions-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AttoTude",
+        "id": "71637990-12a7-4389-a113-3b80ccc3be80",
+        "title": "Process Engineer",
+        "active": true,
+        "date_updated": 1791067141,
+        "date_posted": 1783635909,
+        "url": "https://job-boards.greenhouse.io/attotude/jobs/4237505009?gh_jid=4237505009",
+        "locations": [
+            "Berkeley, CA",
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AttoTude",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "8e4af5eb-1169-42d9-b552-ba119fb9f0a0",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791066601,
+        "date_posted": 1782512927,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8605075002",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "09d603c7-e482-4043-9064-d02624ab5b71",
+        "title": "Software Engineer - Starlink Mobile",
+        "active": true,
+        "date_updated": 1791066601,
+        "date_posted": 1780006233,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8568939002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "a2caf0cf-c90c-43b1-9914-3f9987389c30",
+        "title": "Full Stack Software Engineer",
+        "active": true,
+        "date_updated": 1791066601,
+        "date_posted": 1782523611,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8610872002",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "True Anomaly",
+        "id": "f4a1644a-9004-40ea-81a6-7d0272c9d007",
+        "title": "Platform Engineer - AI",
+        "active": true,
+        "date_updated": 1791066781,
+        "date_posted": 1781658700,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166540007",
+        "locations": [
+            "Long Beach, CA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/TrueAnomaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "2c89530c-ce0a-4c04-87dc-01829b06c01a",
+        "title": "Software Engineer, Flight Software",
+        "active": true,
+        "date_updated": 1791066672,
+        "date_posted": 1781639216,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8593183002",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "a8e70c86-3344-423b-a2e2-82220206389b",
+        "title": "Applied AI Analyst",
+        "active": true,
+        "date_updated": 1791066961,
+        "date_posted": 1781169534,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266798009",
+        "locations": [
+            "Maryland"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "7a35029d-b31d-4808-b832-684d33277c1f",
+        "title": "Software Engineer - Beam Planning - Starlink",
+        "active": true,
+        "date_updated": 1791066601,
+        "date_posted": 1781042862,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8578907002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "06f2652b-d13a-433f-9b93-9a30c7780f51",
+        "title": "Software Engineer - High Performance Computing - Starlink",
+        "active": true,
+        "date_updated": 1791066961,
+        "date_posted": 1781042862,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8578909002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "6fa62977-b0ec-4696-8bb4-0fb81d933016",
+        "title": "Software Engineer - Flight Software - Starship",
+        "active": true,
+        "date_updated": 1791066601,
+        "date_posted": 1779487807,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8562450002",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Kikoff",
+        "id": "6b3d77c8-af47-4a6c-968a-904c67d2026e",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1791066601,
+        "date_posted": 1777943983,
+        "url": "https://job-boards.greenhouse.io/kikoff/jobs/4147830009",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Kikoff",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "4fca2642-4ddf-41a9-8439-1496b93b64a3",
+        "title": "Software Engineer - Starlink Network",
+        "active": true,
+        "date_updated": 1791066601,
+        "date_posted": 1774476937,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8477137002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "2bb5706b-4324-4071-a17e-a48ae281bc88",
+        "title": "Software Engineer, C++ - C++ - Starlink",
+        "active": true,
+        "date_updated": 1791066632,
+        "date_posted": 1773277731,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8451960002",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
