@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "acd70588-9715-4973-b0a2-d557bd80e54e",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770275476,
-        "date_posted": 1770275476,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048277",
-        "locations": [
-            "Bicester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Markon",
-        "id": "ff3f1ee5-33ec-4fed-9e35-d0b1b58e1c58",
-        "title": "Software Engineer Level 0",
-        "active": false,
-        "date_updated": 1770275376,
-        "date_posted": 1770275376,
-        "url": "https://careers-markon.icims.com/jobs/8090/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Odenton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Markon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "dbf29774-0cee-4ded-8773-db6f974f1ea3",
