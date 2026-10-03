@@ -391552,5 +391552,27 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intact",
+        "id": "2701a7fb-2fe3-45b1-b197-f7f80f435f82",
+        "title": "Tech Development Program New Grad - Software Development & Cloud Stream",
+        "active": true,
+        "date_updated": 1791028117,
+        "date_posted": 1790553600,
+        "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/New-Grad-Tech-Development-Program---Software-Development---Cloud-Stream_R155934",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intact",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
