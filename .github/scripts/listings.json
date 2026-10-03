@@ -2,101 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Visa",
-        "id": "32b19fd4-1081-4227-b7b9-74dbe3558fbe",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1770286025,
-        "date_posted": 1770286025,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000107473075",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f03abcb8-b2bc-4ad8-b660-2de92a42c234",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770287245,
-        "date_posted": 1770287245,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048288",
-        "locations": [
-            "Leicester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "cf987c89-1716-44ba-9662-1bbbea2f6276",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770287245,
-        "date_posted": 1770287245,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048273",
-        "locations": [
-            "Newcastle upon Tyne, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "74e4dcea-4343-4489-aabe-0319fa8b26b5",
-        "title": "Risk Management - Data Scientist Associate",
-        "active": false,
-        "date_updated": 1770287343,
-        "date_posted": 1770287343,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706552",
-        "locations": [
-            "Christchurch, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5a9fbc0f-142d-409a-80f0-c2e643a2058f",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770287241,
-        "date_posted": 1770287241,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048292",
-        "locations": [
-            "Bath, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "FourKites",
         "id": "4613e7f0-39e1-406a-9fc7-312851df0139",
         "title": "Software Engineer 1",
@@ -3771,26 +3676,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Grayce",
-        "id": "5d2d33b0-9e07-47e9-bce1-d4e89d7af77e",
-        "title": "Graduate Tech Analyst - London",
-        "active": false,
-        "date_updated": 1770460540,
-        "date_posted": 1770287477,
-        "url": "https://apply.workable.com/grayce/j/B2ADEA7F67/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -387897,7 +387782,7 @@
         "company_name": "RTX",
         "id": "a6f7f303-154d-474b-9c89-6444843b509d",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790748946,
         "date_posted": 1790640000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01874924-1",
