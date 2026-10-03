@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NCR Voyix",
-        "id": "b6693a55-3d12-43bc-b716-9f62849b8a21",
-        "title": "Customer Engineer 1-Leominster - MA",
-        "active": false,
-        "date_updated": 1770294579,
-        "date_posted": 1770294579,
-        "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/MASSACHUSETTS-VIRTUAL-USA/Customer-Engineer-I--Leominster--MA_R0156213",
-        "locations": [
-            "Leominster, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/NCR-Voyix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Stanley Black & Decker",
         "id": "2794d444-a451-471d-92d4-4e9ec3c41ad4",
@@ -324057,7 +324039,7 @@
         "company_name": "Northrop Grumman",
         "id": "f6b37c2b-7ce8-46be-9bd2-52ee453ee815",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787388047,
         "date_posted": 1787270400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Resource-Control-Team-Software-Engineer--Level-1-or-2----AHT_R10247178",
