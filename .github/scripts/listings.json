@@ -1,87 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "dbf29774-0cee-4ded-8773-db6f974f1ea3",
-        "title": "Systems Engineer 1",
-        "active": false,
-        "date_updated": 1770277031,
-        "date_posted": 1770277031,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Systems-Engineer-I_01821689",
-        "locations": [
-            "Andover, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "b4c29812-b5a8-44df-bf1e-492557401312",
-        "title": "2026 \u2013 Fulltime-Systems Engineer 1",
-        "active": false,
-        "date_updated": 1770277032,
-        "date_posted": 1770277032,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/XMLNAME-2026--Fulltime-Systems-Engineer-I--Onsite_01821691",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "ab89e37a-31f6-4830-ac0f-8460c7d32ac9",
-        "title": "System Engineer 1",
-        "active": false,
-        "date_updated": 1770277029,
-        "date_posted": 1770277029,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-System-Engineer-I---Onsite---Tucson--AZ_01821009",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "42ee92b5-8f36-4e80-bc3b-3ecf8ea37f52",
-        "title": "2026 Full-time - Software Engineer I",
-        "active": false,
-        "date_updated": 1770277037,
-        "date_posted": 1770277037,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--MA-_01815214",
-        "locations": [
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Visa",
         "id": "32b19fd4-1081-4227-b7b9-74dbe3558fbe",
@@ -99,26 +18,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "MORSE Corp",
-        "id": "6f20a65a-0931-40ea-922f-8b6f4b849c3b",
-        "title": "R&D Technician",
-        "active": false,
-        "date_updated": 1770277142,
-        "date_posted": 1770277142,
-        "url": "https://boards.greenhouse.io/morsecorp/jobs/7619943003",
-        "locations": [
-            "Cambridge, MA",
-            "Seattle, WA",
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/MORSECorp",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -388449,7 +388348,7 @@
         "company_name": "Wells Fargo",
         "id": "9ab3e6b9-b8cd-4bee-94d4-b877937beb96",
         "title": "Engineering Associate - CIB Operations Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1790778664,
         "date_posted": 1790778575,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Engineering-Associate---CIB-Operations-Technology_R-572941",
