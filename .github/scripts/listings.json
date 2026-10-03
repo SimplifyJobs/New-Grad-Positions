@@ -307521,7 +307521,7 @@
         "company_name": "International Motors, LLC",
         "id": "03f6dca1-a185-4cea-9fdc-a7804e7ad3fc",
         "title": "Supply Chain Analytics Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1786681130,
         "date_posted": 1786680260,
         "url": "https://careers.navistar.com/jobs/59467?icims=1",
@@ -311532,7 +311532,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -369709,7 +369709,7 @@
         "company_name": "REI Systems",
         "id": "33b49b9d-1aed-41bb-ba49-d0567c7f2f94",
         "title": "Associate Software Engineer - Java",
-        "active": false,
+        "active": true,
         "date_updated": 1789164540,
         "date_posted": 1789164244,
         "url": "https://careers-reisystems.icims.com/jobs/3496/job?mobile=true&needsRedirect=false",
@@ -391763,6 +391763,47 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AMD",
+        "id": "55881e21-9521-47b4-a27d-a7663f53b785",
+        "title": "Silicon Design Engineer",
+        "active": true,
+        "date_updated": 1791007741,
+        "date_posted": 1791007698,
+        "url": "https://careers.amd.com/jobs/89974?icims=1",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Shield AI",
+        "id": "3475b503-f817-4fc4-abcb-50091a89cfe8",
+        "title": "Senior Engineer - Research-to-Product Perception",
+        "active": true,
+        "date_updated": 1791007741,
+        "date_posted": 1791007578,
+        "url": "https://jobs.lever.co/shieldai/8c213d66-730b-4604-91b1-97dca42a59e3/apply",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "PhD"
         ]
     }
