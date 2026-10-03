@@ -1,67 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "RELX",
-        "id": "538a46b4-b549-44c0-91ad-712d7959eb69",
-        "title": "Senior Associate Product Manager",
-        "active": false,
-        "date_updated": 1770306003,
-        "date_posted": 1770306003,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Senior-Associate-Product-Mgr--Hybrid-Alpharetta-_R105211-1",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/RELX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Wells Fargo",
-        "id": "07988ed2-6d81-4e5d-adc1-49543d9fcb4b",
-        "title": "Quantitative Analytics Specialist",
-        "active": false,
-        "date_updated": 1770306120,
-        "date_posted": 1770306120,
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/Quantitative-Analytics-Specialist--Ref-000846-_R-520189-1",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Wells-Fargo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cerebras",
-        "id": "4d3b2ac3-67c4-4d64-bb32-02b701098e58",
-        "title": "Inference Frontend",
-        "active": false,
-        "date_updated": 1770305950,
-        "date_posted": 1770305950,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7619102003",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Cloudera",
         "id": "b9164a4f-3c74-45fc-af33-adc313e3505e",
@@ -29495,27 +29434,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "50f0dc5e-2485-4d89-8279-8b8a6eb4f746",
-        "title": "Field Engineer - Imaging",
-        "active": false,
-        "date_updated": 1771939641,
-        "date_posted": 1770305885,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Associate-Field-Engineer-1--Denver--CO-_R4035664-1",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
         ]
     },
     {
