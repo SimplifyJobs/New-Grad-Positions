@@ -311675,7 +311675,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -373941,7 +373941,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "5e57ccae-7277-4587-8079-77b7bae18c57",
         "title": "Graduate Data Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789510819,
         "date_posted": 1789430400,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Aspire-Tech-Graduate-Data-Scientist-I_R118695",
@@ -373962,7 +373962,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "767cfec3-b8cd-4c09-9e3f-fd524457f140",
         "title": "Software Engineer 1 - Aspire Graduate Program",
-        "active": true,
+        "active": false,
         "date_updated": 1789510835,
         "date_posted": 1789430400,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Aspire-Tech-Graduate-Software-Engineer-I_R118694",
@@ -391844,5 +391844,69 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Parasail",
+        "id": "1b4b4857-a0e7-40ae-911b-03e1528c4c9f",
+        "title": "Software Engineer New Grad - Forward Deploy",
+        "active": true,
+        "date_updated": 1790990393,
+        "date_posted": 1790990235,
+        "url": "https://jobs.ashbyhq.com/parasail/da595923-4e35-4ba1-875d-383276069cf7/application?embed=true",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Parasail",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Koch Industries",
+        "id": "3f4f0a33-7d23-4062-ad6b-47a6d5194539",
+        "title": "AI Solutions Engineer",
+        "active": true,
+        "date_updated": 1790990281,
+        "date_posted": 1790990232,
+        "url": "https://koch.avature.net/en_US/careers/JobDetail/195477",
+        "locations": [
+            "Rochester Hills, MI",
+            "Lisle, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Koch-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Interdigital",
+        "id": "865bf71e-5c86-49eb-a0c8-9f04b6ed9aeb",
+        "title": "Research Engineer - 6G AI-Enabled Systems and Testbeds",
+        "active": true,
+        "date_updated": 1790990281,
+        "date_posted": 1790899200,
+        "url": "https://interdigital.wd5.myworkdayjobs.com/InterDigital_Career/job/Conshohocken-PA/Research-Engineer---6G-AI-Enabled-Systems-and-Testbeds_REQ26-1144",
+        "locations": [
+            "Conshohocken, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Interdigital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
