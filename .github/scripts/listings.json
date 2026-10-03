@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Royal Bank of Canada",
-        "id": "1627b944-9788-407d-aa3c-af1fdc31d8e8",
-        "title": "Software Developer - Java/Vue.js",
-        "active": false,
-        "date_updated": 1770250446,
-        "date_posted": 1770250446,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/Software-Developer--Java-Vuejs-_R-0000158174-1",
-        "locations": [
-            "Montreal, QC, Canada",
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Cox",
         "id": "ec4ddc7e-7d70-4e83-aa53-c80772751c41",
@@ -282315,7 +282294,7 @@
         "company_name": "Retell AI",
         "id": "8c11caf7-066b-4d00-9145-8f92263ae8bb",
         "title": "Software Engineer - Founders Initiatives",
-        "active": true,
+        "active": false,
         "date_updated": 1785740221,
         "date_posted": 1785738229,
         "url": "https://jobs.ashbyhq.com/retell-ai/46400d61-feca-45f9-9000-563b8994f60f/application?embed=true",
