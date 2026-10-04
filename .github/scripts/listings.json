@@ -189239,7 +189239,7 @@
         "company_name": "The Voleon Group",
         "id": "227e984c-6907-420a-919f-aa6d92ed97d6",
         "title": "Associate Member of Trading Staff",
-        "active": false,
+        "active": true,
         "date_updated": 1781168941,
         "date_posted": 1781168812,
         "url": "https://jobs.ashbyhq.com/voleon/27f604ea-306f-4c8e-a86f-de50a28a6125/application",
@@ -252617,7 +252617,7 @@
         "company_name": "Northrop Grumman",
         "id": "0c04873f-7b39-41a5-9b89-ab2769aadc55",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784682559,
         "date_posted": 1781362126,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer_R10234799",
@@ -276195,7 +276195,7 @@
         "company_name": "Lambda",
         "id": "0bcc64f4-6cb6-4fd6-8cd8-6972e9ef69da",
         "title": "Internal Tools & Data Product Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785618721,
         "date_posted": 1784931788,
         "url": "https://jobs.ashbyhq.com/lambda/c0116ab6-9ec2-4189-9f07-e9dd284222b6/application?embed=true",
@@ -276546,7 +276546,7 @@
         "company_name": "Invesco",
         "id": "03f21060-0f3b-4d8c-b3e7-d49a1584cbbf",
         "title": "Software Engineer - Strategy, Innovation & Planning",
-        "active": false,
+        "active": true,
         "date_updated": 1785622599,
         "date_posted": 1785456000,
         "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Engineer--SIP_R-13716-1",
@@ -351052,7 +351052,7 @@
         "company_name": "National Research Group",
         "id": "07d9d482-be09-4dbf-872b-28ea73cd8fe2",
         "title": "Market Research Analyst or Senior Analyst - Technology Practice",
-        "active": true,
+        "active": false,
         "date_updated": 1788451574,
         "date_posted": 1786686246,
         "url": "https://careers-nrgmr.icims.com/jobs/8575/job?mobile=true&needsRedirect=false",
@@ -367122,7 +367122,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "0622f674-3eef-44f4-bf1e-4e2298e489dc",
         "title": "Measurement Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789165501,
         "date_posted": 1789164883,
         "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005726",
@@ -372586,7 +372586,7 @@
         "company_name": "Oratomic",
         "id": "08b8d057-b201-4fc6-ac31-5dfc4755467e",
         "title": "AI Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1789547401,
         "date_posted": 1784596470,
         "url": "https://jobs.ashbyhq.com/oratomic/241a16be-3b49-4fb7-afce-6b3dc462f64a/application?embed=true",
@@ -388571,7 +388571,7 @@
         "company_name": "Normal Computing",
         "id": "1005bf9b-20cc-4e7e-a770-9c2ce6ed1a37",
         "title": "Thermodynamic Hardware Resident",
-        "active": true,
+        "active": false,
         "date_updated": 1790933221,
         "date_posted": 1787127897,
         "url": "https://jobs.ashbyhq.com/normalcomputing/5d57d8b1-612d-4ee0-941e-78a032a1ada2/application?embed=true",
@@ -390422,6 +390422,67 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "0523ccf9-780c-4410-bcbb-60c3ebfa059b",
+        "title": "Software Engineer - Intune",
+        "active": true,
+        "date_updated": 1791102597,
+        "date_posted": 1790979174,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RoviSys",
+        "id": "d916f556-bb84-4113-9e95-d93632918d6e",
+        "title": "Software Engineer/Developer",
+        "active": true,
+        "date_updated": 1790864543,
+        "date_posted": 1790864367,
+        "url": "https://careers-additionalrovisysopportunities.icims.com/jobs/2179/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Thousand Oaks, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RoviSys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peterson Technologies",
+        "id": "073e7d98-b339-4d7a-8580-cd80afc5eb39",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1791102604,
+        "date_posted": 1785737523,
+        "url": "https://petersontechnologies.applytojob.com/apply/Y3TD9CDM0V/Junior-Software-Engineer",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Peterson-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
