@@ -320342,7 +320342,7 @@
         "company_name": "Northrop Grumman",
         "id": "739e3a06-487c-46cd-b8f8-4a816f5e2257",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787319939,
         "date_posted": 1786579200,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Calling-all-Secret-Cleared-Embedded-Software-Engineers---Chandler-_R10245585-1",
@@ -352874,7 +352874,7 @@
         "company_name": "TSC",
         "id": "3fa13a7e-c5ff-44e8-982b-19a4d1129b16",
         "title": "Systems Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788460041,
         "date_posted": 1778941407,
         "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Systems-Engineer-I_JR2566",
@@ -352998,7 +352998,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "54311374-2184-4393-8e33-d5b5924fb292",
         "title": "Postdoctoral Appointee - AI for Biomedical Discovery",
-        "active": true,
+        "active": false,
         "date_updated": 1788460949,
         "date_posted": 1781360861,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---AI-for-Biomedical-Discovery_422855",
@@ -362901,7 +362901,7 @@
         "company_name": "Applied Materials",
         "id": "60e7f036-b17a-443f-b582-146a0ad2e28d",
         "title": "Product Line Management 1 New College Grad - Bachelor's",
-        "active": true,
+        "active": false,
         "date_updated": 1788917065,
         "date_posted": 1788825600,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-I--New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2622280",
@@ -373642,7 +373642,7 @@
         "company_name": "RTX",
         "id": "938e545a-d865-454b-a353-80ef26b0f317",
         "title": "Electrical Computer-Aided Design Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789598177,
         "date_posted": 1789516800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/ECAD-Engineer-I---Onsite_01834011",
@@ -375367,7 +375367,7 @@
         "company_name": "Boeing",
         "id": "3c3042e7-5ae0-40cf-81b1-b30d3324068c",
         "title": "Space Electronics Test Systems Design Engineer - Special Test Equipment - Space Electronics",
-        "active": true,
+        "active": false,
         "date_updated": 1789684463,
         "date_posted": 1789603200,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Space-Electronics-Test-Systems-Design-Engineer--Experienced-Lead-_JR2026524763",
@@ -377166,7 +377166,7 @@
         "company_name": "Northrop Grumman",
         "id": "afb82944-38ae-4d1b-b546-109f688848c8",
         "title": "Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789992105,
         "date_posted": 1789603200,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Electrical-Engineer-1_R10251603",
@@ -379252,7 +379252,7 @@
         "company_name": "Applied Materials",
         "id": "c4273d65-dc1d-4985-8ba7-0489271edb90",
         "title": "Product Line Management New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1790117244,
         "date_posted": 1790035200,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626625",
@@ -385272,7 +385272,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": false,
+        "active": true,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -389213,7 +389213,7 @@
         "company_name": "Peraton",
         "id": "979c2a8d-5e79-4fc8-b155-4081978b94aa",
         "title": "Artificial Intelligence/Machine Learning Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790980246,
         "date_posted": 1790979416,
         "url": "https://careers-peraton.icims.com/jobs/171539/job?mobile=true&needsRedirect=false",
@@ -393049,6 +393049,260 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "7ae02cc5-970a-4988-9bbb-8503d1693e87",
+        "title": "SOC Design Verification Engineer - ASICS Engineering",
+        "active": true,
+        "date_updated": 1791124921,
+        "date_posted": 1791008633,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721378285",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "a3f0cde5-d90d-4d0a-a423-c4a3323e0ba3",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791125103,
+        "date_posted": 1789078006,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/SW-Engineer_REF081049W",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "f7a49f5e-9e77-4384-862f-b5575135ec64",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791124958,
+        "date_posted": 1790979171,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557016400",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "BlackRock",
+        "id": "0f4135ae-4dd4-46ba-a3d6-46eddc4045d2",
+        "title": "Technical Product Manager - Aladdin Next - Analyst",
+        "active": true,
+        "date_updated": 1791124969,
+        "date_posted": 1790899200,
+        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/NY7---50-Hudson-Yards-New-York/Technical-Product-Manager--Aladdin-Next---Analyst_R266696",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackRock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "996a2707-5719-4616-8d8c-4e2cc8af6e98",
+        "title": "Model Context Protocol/AI Developer",
+        "active": true,
+        "date_updated": 1791124523,
+        "date_posted": 1790899200,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/MCP-AI-Developer_26WD99785-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "f88093bb-d2d0-4394-a197-5b0f1159eec8",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791124405,
+        "date_posted": 1790903398,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557022395",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CareSource",
+        "id": "bfa99c43-e89a-4fde-a192-85e47f139084",
+        "title": "Data Scientist 1",
+        "active": true,
+        "date_updated": 1791125888,
+        "date_posted": 1790812800,
+        "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Data-Scientist-I_R13840",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Care-Source",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Aerospace Corporation",
+        "id": "a6f1aae8-9627-4c66-ac76-94985e1de31a",
+        "title": "Microelectronics Device Scientist",
+        "active": true,
+        "date_updated": 1791125647,
+        "date_posted": 1789689600,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Microelectronics-Device-Scientist_R016645",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Crowe",
+        "id": "3df6994b-faea-4585-a01c-50090660e390",
+        "title": "Machine Learning Software Engineer 1",
+        "active": true,
+        "date_updated": 1791124568,
+        "date_posted": 1786665600,
+        "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Machine-Learning-Software-Engineer-1_R-71006",
+        "locations": [
+            "Lexington, KY",
+            "Boston, MA",
+            "Indianapolis, IN",
+            "Houston, TX",
+            "Louisville, KY",
+            "Knoxville, TN",
+            "Nashville, TN",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "Cleveland, OH",
+            "LA",
+            "Tampa, FL",
+            "San Jose, CA",
+            "Livingston, NJ",
+            "Grand Rapids, MI",
+            "Miami, FL",
+            "Dallas, TX",
+            "The Woodlands, TX",
+            "Plano, TX",
+            "Boca Raton, FL",
+            "Chicago, IL",
+            "Tallahassee, FL",
+            "Charlotte, NC",
+            "Oakbrook Terrace, IL",
+            "Burlington, VT",
+            "Sacramento, CA",
+            "Columbus, OH",
+            "Hartford, CT",
+            "Springfield, IL",
+            "NYC",
+            "Denver, CO",
+            "Fort Wayne, IN",
+            "South Bend, IN",
+            "Sarasota, FL",
+            "Costa Mesa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "3ce5cf64-9204-4e5e-87ed-5aa0a82b0181",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791124568,
+        "date_posted": 1782943824,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011515",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "caaee00c-197e-430a-b95b-f3d01ae0fb6a",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791125464,
+        "date_posted": 1783165052,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_324349",
+        "locations": [
+            "Ypsilanti, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
