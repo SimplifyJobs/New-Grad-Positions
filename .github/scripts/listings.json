@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Walmart",
-        "id": "f3f4b1d7-023d-4908-981d-46ad84987c3e",
-        "title": "Staff Product Manager",
-        "active": false,
-        "date_updated": 1770336287,
-        "date_posted": 1770336287,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Staff-Product-Manager_R-2398042-1",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Walmart",
-        "id": "73a6f042-9e20-4c2a-afc1-fdcaed6a6aa7",
-        "title": "Senior Software Engineer",
-        "active": false,
-        "date_updated": 1770336305,
-        "date_posted": 1770336305,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Senior-Software-Engineer_R-2398029-1",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Snap",
         "id": "effb419f-75ca-46b2-aefd-41eb27a6d8b1",
@@ -298897,7 +298855,7 @@
         "company_name": "Deloitte",
         "id": "a9a2e369-3bce-45ed-ac8b-e9ea8ed3da85",
         "title": "Delivery Analyst - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1786487524,
         "date_posted": 1786487064,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Software-Engineering-Solutions/362516",
