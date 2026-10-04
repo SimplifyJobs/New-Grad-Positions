@@ -1,227 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mass General Brigham",
-        "id": "8eb50a1f-ee58-40d3-8a57-cc217d9f9ee6",
-        "title": "Research Data Analyst - Heart Vascular Institute",
-        "active": false,
-        "date_updated": 1770335668,
-        "date_posted": 1770335668,
-        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Research-Data-Analyst--Heart-Vascular-Institute_RQ4050164",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fidelity Investments",
-        "id": "7410e913-b705-4682-a390-0e1ea9899c36",
-        "title": "Associate \u2013 Marketing Technologist",
-        "active": false,
-        "date_updated": 1770335532,
-        "date_posted": 1770335532,
-        "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Smithfield-RI/Associate--Marketing-Technologist_2122316",
-        "locations": [
-            "Smithfield, RI",
-            "Merrimack, NH",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ovative",
-        "id": "f517cdd2-002b-4541-8f74-c9ac8e95a3a1",
-        "title": "Analyst - Digital Experience Optimization",
-        "active": false,
-        "date_updated": 1770335493,
-        "date_posted": 1770335493,
-        "url": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Digital-Experience-Optimization_JR100183",
-        "locations": [
-            "Chicago, IL",
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Ovative",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "M&T Bank",
-        "id": "4d5043cf-e562-4149-8544-73c761cc503e",
-        "title": "Technology Development Program - Software Engineering",
-        "active": false,
-        "date_updated": 1770335118,
-        "date_posted": 1770335118,
-        "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2026-Technology-Development-Program---Software-Engineering--Buffalo-_R80408",
-        "locations": [
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/M-And-T-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "143b959e-232c-40b6-b3b7-6d74eed14181",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1770335163,
-        "date_posted": 1770335163,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Full-time---Software-Engineer-I---Advance-Product-Solutions---Onsite--IN-_01821821",
-        "locations": [
-            "Fort Wayne, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AAA Club Alliance",
-        "id": "dc0ebacf-6d53-4e76-bbde-5c564dbb8bbf",
-        "title": "Associate Guidewire Developer",
-        "active": false,
-        "date_updated": 1770334903,
-        "date_posted": 1770334903,
-        "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX-Remote/Associate-Guidewire-Developer_JR202634501",
-        "locations": [
-            "Coppell, TX",
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/AAA-Club-Alliance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nasdaq",
-        "id": "6098892d-a1f7-4c00-b126-2d73d27d3daf",
-        "title": "Graduate Software Engineer",
-        "active": false,
-        "date_updated": 1770334974,
-        "date_posted": 1770334974,
-        "url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Canada---Toronto---Ontario/Software-Engineer---Graduate_R0025100",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nasdaq",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Carnegie Mellon University",
-        "id": "4b03b9c7-5546-46e9-a803-63a9a011838d",
-        "title": "Research Associate - Lti - School of Computer Science",
-        "active": false,
-        "date_updated": 1770334915,
-        "date_posted": 1770334915,
-        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Washington-DC/Research-Associate---LTI---School-of-Computer-Science_2024142",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Chamberlain Group",
-        "id": "17cd526a-e9d0-49c4-b8c3-e23c0800ce1e",
-        "title": "Technician 1 - Test",
-        "active": false,
-        "date_updated": 1770334841,
-        "date_posted": 1770334841,
-        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Elmhurst-IL/Technician-1--Test_JR30161",
-        "locations": [
-            "Elmhurst, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "DraftKings",
-        "id": "7c773996-1d7c-4f66-b907-6530a3ea18b7",
-        "title": "Product Manager 1",
-        "active": false,
-        "date_updated": 1770334632,
-        "date_posted": 1770334632,
-        "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Remote---US/Product-Manager-I_JR13189",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/DraftKings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Flexport",
-        "id": "574b60bd-1627-4de3-9f49-9e0cf2b0beee",
-        "title": "Software Engineer 1 - Generalist",
-        "active": false,
-        "date_updated": 1770334459,
-        "date_posted": 1770334459,
-        "url": "https://boards.greenhouse.io/flexport/jobs/7580661",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Flexport",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Walmart",
         "id": "f3f4b1d7-023d-4908-981d-46ad84987c3e",
@@ -7045,26 +6824,6 @@
             "Niagara Falls, NY"
         ],
         "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Oklahoma State Government",
-        "id": "91d23213-4a43-4f32-93c3-c80a0444edc7",
-        "title": "Oil and Gas Specialist 1",
-        "active": false,
-        "date_updated": 1770819072,
-        "date_posted": 1770334934,
-        "url": "https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/Oil-and-Gas-Specialist-I_JR55973",
-        "locations": [
-            "Oklahoma"
-        ],
-        "company_url": "https://simplify.jobs/c/Oklahoma-State-Government",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -83380,24 +83139,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Zipline",
-        "id": "fbf40373-ebef-4e0f-aceb-4a55a45c875a",
-        "title": "Field Service and Construction Support Technician",
-        "active": false,
-        "date_updated": 1774844020,
-        "date_posted": 1770334726,
-        "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=7621125003",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Zipline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -390975,6 +390716,47 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "8ee26259-5914-4601-981d-94d0d0a886ae",
+        "title": "ASIC Verification Engineer \u2013 New College Grad 2026",
+        "active": true,
+        "date_updated": 1788505932,
+        "date_posted": 1781952597,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2026_JR2012573",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "5ae265bc-0a46-4ba1-8a04-b138bd21b1b7",
+        "title": "Research Scientist New Grad - Electronic Design Automation",
+        "active": true,
+        "date_updated": 1788457523,
+        "date_posted": 1781952599,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
