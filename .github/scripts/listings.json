@@ -2,101 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Snap",
-        "id": "effb419f-75ca-46b2-aefd-41eb27a6d8b1",
-        "title": "Embedded Software Engineer - Level 3",
-        "active": false,
-        "date_updated": 1770344626,
-        "date_posted": 1770344626,
-        "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/San-Diego-California/Embedded-Software-Engineer--Level-3_R0044475-1",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Snap",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EOS IT Solutions",
-        "id": "3d0043f4-4f63-4e40-84c1-534d94e09938",
-        "title": "CST-AV Technician",
-        "active": false,
-        "date_updated": 1770344319,
-        "date_posted": 1770344319,
-        "url": "https://eosits.com/company/careers/?gh_jid=8403118002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "6ace8225-775f-4f36-8dd8-2d1a8742d2db",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770343730,
-        "date_posted": 1770343730,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048436",
-        "locations": [
-            "Kelso, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "USAA",
-        "id": "4212aee2-c968-4286-9eb1-cb5b70bfa2e1",
-        "title": "Kafka Software Engineer Entry Level",
-        "active": false,
-        "date_updated": 1770343803,
-        "date_posted": 1770343803,
-        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Kafka-Software-Engineer-Entry-Level_R0114747",
-        "locations": [
-            "Plano, TX",
-            "San Antonio, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/USAA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "193a637f-cfd7-459f-94c0-6db7457c5ebb",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770343733,
-        "date_posted": 1770343733,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047306",
-        "locations": [
-            "Christchurch, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "RTX",
         "id": "6d717f77-0df8-4239-b5c3-3407363916a4",
         "title": "Systems Engineer 2",
@@ -112,27 +17,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "7e8ede78-047c-4fd2-9614-43c04fe00093",
-        "title": "Mechanical/Hardware Engineer",
-        "active": false,
-        "date_updated": 1770345029,
-        "date_posted": 1770345029,
-        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Chippewa-Falls-Wisconsin-United-States-of-America/Mechanical-Hardware-Engineer_1202987",
-        "locations": [
-            "Eau Claire, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
             "Master's"
         ]
     },
@@ -2227,26 +2111,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "8a8a1aa0-ab34-451b-b414-5bbfc0f083ca",
-        "title": "Manufacturing Specialist",
-        "active": false,
-        "date_updated": 1770544491,
-        "date_posted": 1770343726,
-        "url": "https://careers-gdms.icims.com/jobs/70715/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Manassas, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
     },
     {
         "source": "Simplify",
@@ -14161,28 +14025,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "dffcc1b5-152b-4bfe-a10f-edfeeeab936c",
-        "title": "Principal Engineer Software - San Diego CA",
-        "active": false,
-        "date_updated": 1771339193,
-        "date_posted": 1770344286,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Engineer-Software---User-Experience-Applications--San-Diego-CA-_R10221825",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -215506,7 +215348,7 @@
         "company_name": "GE Vernova",
         "id": "e10b2cda-4d20-4210-83d8-f845503f8fb6",
         "title": "Software Engineering Graduate Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1782956462,
         "date_posted": 1782955928,
         "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rugby/Software-Engineering-Graduate-Programme-1_R5045896-2",
@@ -382728,7 +382570,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "d8b0a818-ae8f-42a9-b552-3d61c1542683",
         "title": "Neural Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790346181,
         "date_posted": 1790345705,
         "url": "https://careers.jhuapl.edu/jobs/60068?icims=1",
