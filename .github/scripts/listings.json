@@ -1,100 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ef94e327-b2b4-400c-af16-d41ac08c6430",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770361745,
-        "date_posted": 1770361745,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045763",
-        "locations": [
-            "Edinburgh, UK",
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oracle",
-        "id": "e96ccd2e-5f0e-4f05-a00e-3da1d07134ad",
-        "title": "PhD Software Engineer - Database Technologies",
-        "active": false,
-        "date_updated": 1770361699,
-        "date_posted": 1770361699,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325816",
-        "locations": [
-            "San Carlos, CA",
-            "Nashua, NH"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a51780fe-c659-4b61-b76e-3ad2773d6c84",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770361744,
-        "date_posted": 1770361744,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048442",
-        "locations": [
-            "Tunbridge Wells, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "86346f56-4dbd-4584-8d7b-d753dd0ffdaf",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770361748,
-        "date_posted": 1770361748,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048438",
-        "locations": [
-            "Bedford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Broccoli AI",
-        "id": "6f239ba6-7cda-4f08-a6ee-8827af0eb7a4",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1770361681,
-        "date_posted": 1770361681,
-        "url": "https://jobs.ashbyhq.com/broccoli/3e59cf67-61dd-4210-b5dc-c7338fa91eba/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Broccoli-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Micron Technology",
         "id": "34c845ce-ac74-4a28-8afb-4f0bfe3294f1",
@@ -112,24 +18,6 @@
         "degrees": [
             "Associate's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software Engineering",
-        "company_name": "Motorola",
-        "id": "0aeed641-fd7a-4ba0-b7f0-86ad92c75cd3",
-        "title": "Software Engineer 1 - Quality Assurance",
-        "active": false,
-        "date_updated": 1770939625,
-        "date_posted": 1770362899,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Software-Engineer-I---SQA_R61857",
-        "locations": [
-            "Los Angeles, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -385643,7 +385531,7 @@
         "company_name": "Applied Materials",
         "id": "122de6b6-a5fb-47fe-a89c-8b620399e46b",
         "title": "System Engineer New Grad - Material Characterization",
-        "active": true,
+        "active": false,
         "date_updated": 1790730760,
         "date_posted": 1790640000,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-System-Engineer--Material-Characterization--PhD---Santa-Clara--CA-_R2629147",
