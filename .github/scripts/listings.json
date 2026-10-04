@@ -276885,7 +276885,7 @@
         "company_name": "Noblis",
         "id": "000e3171-0168-4592-b285-67bb8e84a6a9",
         "title": "Data Analyst - Network Security",
-        "active": true,
+        "active": false,
         "date_updated": 1785623401,
         "date_posted": 1785577443,
         "url": "https://careers.noblis.org/jobs/27318?icims=1",
@@ -375670,7 +375670,7 @@
         "company_name": "Qualcomm",
         "id": "0323e548-0c85-4a82-8973-ae8faa214117",
         "title": "Machine Learning Compiler Engineer - Machine Learning Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1789720202,
         "date_posted": 1785910569,
         "url": "https://qualcomm.eightfold.ai/careers/job/446717346550",
@@ -390404,6 +390404,28 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "03bcc190-297d-4f25-b85d-749b57da6016",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791102297,
+        "date_posted": 1788560182,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+        "locations": [
+            "Annapolis Junction, MD",
+            "Redmond, WA",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
