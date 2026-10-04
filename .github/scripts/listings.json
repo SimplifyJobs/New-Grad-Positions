@@ -118961,7 +118961,7 @@
         "company_name": "KBR",
         "id": "a3234be6-d59c-401e-85b3-634d691ce11f",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776723481,
         "date_posted": 1776723456,
         "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2122294",
@@ -250657,7 +250657,7 @@
         "company_name": "Northrop Grumman",
         "id": "64e4132f-4013-4cca-8734-977dba502024",
         "title": "Software Engineer/Principal Software Engineer - Java",
-        "active": true,
+        "active": false,
         "date_updated": 1784668862,
         "date_posted": 1783555200,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer-Principal-Software-Engineer---Java_R10239296-1",
@@ -309093,7 +309093,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -353018,7 +353018,7 @@
         "company_name": "Boeing",
         "id": "298781ae-0a51-4901-9e19-8ebfda5f5b5f",
         "title": "Entry Level Designer",
-        "active": true,
+        "active": false,
         "date_updated": 1788460041,
         "date_posted": 1781361625,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-or-Experienced-Design--Analysis-and-Test-Engineer---Sign-on-Bonus-Potential--_JR2026510865",
@@ -358884,7 +358884,7 @@
         "company_name": "Aspen Dental",
         "id": "ff313f99-6f78-4b7b-b3a6-de599d2e995f",
         "title": "Patient Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1788533281,
         "date_posted": 1788480000,
         "url": "https://aspendental.wd1.myworkdayjobs.com/careers_aspen_dental/job/Topsham-Maine/Patient-Coordinator_R2026-011122",
@@ -379744,7 +379744,7 @@
         "company_name": "American University",
         "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
         "title": "Graduate Event Data Assistant - Student",
-        "active": true,
+        "active": false,
         "date_updated": 1790114862,
         "date_posted": 1790114691,
         "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Graduate-Event-Data-Assistant--Student-_R4326",
@@ -383773,7 +383773,7 @@
         "company_name": "Applied Materials",
         "id": "5d072195-d69d-4732-970a-f50cd73fa1eb",
         "title": "Systems Engineer 3",
-        "active": true,
+        "active": false,
         "date_updated": 1790678482,
         "date_posted": 1790294400,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer-III--E3-_R2629158",
@@ -387568,7 +387568,7 @@
         "company_name": "RTX",
         "id": "103ecf7c-5027-49d5-a306-442afe343a2f",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1790868182,
         "date_posted": 1790812800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-II--Onsite-_01879240",
@@ -387946,7 +387946,7 @@
         "company_name": "CoStar Group",
         "id": "4430d739-ddf1-4b1c-966a-d5e29f89a980",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790894493,
         "date_posted": 1790812800,
         "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942",
@@ -392806,6 +392806,249 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "cbadca45-0525-464c-b31d-188a726e2a2a",
+        "title": "ASIC Design Engineer - Low Power Audio AI Subsystems - ASICS Engineering",
+        "active": true,
+        "date_updated": 1791123482,
+        "date_posted": 1790893484,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721361739",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LMI",
+        "id": "2edd4fc6-b185-4137-b320-c3162dd57ed3",
+        "title": "Junior Power BI Developer",
+        "active": true,
+        "date_updated": 1791122803,
+        "date_posted": 1790893127,
+        "url": "https://careers-lmi.icims.com/jobs/14673/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/LMI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "T-Mobile",
+        "id": "ff3ebe3a-a2ea-4860-b79e-d2c8e21819dd",
+        "title": "Associate Engineer - AI",
+        "active": true,
+        "date_updated": 1791123983,
+        "date_posted": 1790812800,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Assoc-Engineer--AI_REQ375927",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ancestry",
+        "id": "ffe9321b-c2b1-4448-bbb7-8a1b6bd245ca",
+        "title": "Imaging Data Technician - Imaging Operations",
+        "active": true,
+        "date_updated": 1791123482,
+        "date_posted": 1788480000,
+        "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Draper-UT/Content-Prep-Technician_R003443",
+        "locations": [
+            "Draper, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Ancestry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "fe14fd5d-c834-4c22-bc27-c3807e210b18",
+        "title": "Software Engineer - Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1791123484,
+        "date_posted": 1790892628,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bruker",
+        "id": "4294df17-4967-44c5-a065-2fcba73800d5",
+        "title": "Electromechanical Assembly and Test Engineer - Microscope Production",
+        "active": true,
+        "date_updated": 1791122803,
+        "date_posted": 1790892563,
+        "url": "https://uscareers-bruker.icims.com/jobs/19957/job?hub=12&mobile=true&needsRedirect=false",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bruker-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hudson Pacific Properties",
+        "id": "2fae6e26-3b88-487f-9a29-0870857a87b9",
+        "title": "AI Enablement Specialist",
+        "active": true,
+        "date_updated": 1791123482,
+        "date_posted": 1790817426,
+        "url": "https://jobs.ashbyhq.com/hudson-pacific-properties/1b36e1f9-2847-47cd-920e-0ce881deb6cf/application?embed=true",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudson-Pacific-Properties",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "af37ffb2-82fc-4e40-91e1-c719bb1ce684",
+        "title": "GIS Technician",
+        "active": true,
+        "date_updated": 1791123270,
+        "date_posted": 1790726400,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/10606-Raleigh-NC-Home-Office/GIS-Technician_R-00193517-1",
+        "locations": [
+            "Raleigh, NC",
+            "Durham, NC",
+            "Chapel Hill, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "a3488e6f-c542-4279-9aef-97a3f424a008",
+        "title": "Research Software Engineer 1",
+        "active": true,
+        "date_updated": 1791123917,
+        "date_posted": 1790553600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I---Onsite_01878338",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Underwriters Laboratories",
+        "id": "fb6be028-b7a7-4de9-af53-4f291bb3aa67",
+        "title": "Postdoctoral Researcher - Energy & AI",
+        "active": true,
+        "date_updated": 1791123887,
+        "date_posted": 1789689600,
+        "url": "https://ulse.wd5.myworkdayjobs.com/ulricareers/job/Rockville-MD/Post-Doctoral-Researcher--Energy---AI---Electrochemical-Safety-Research-Institute_JR1595-1",
+        "locations": [
+            "Rockville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Underwriters-Laboratories",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AeroVironment",
+        "id": "83a81125-8501-43a2-b0c7-82b520ae9102",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1791122401,
+        "date_posted": 1785801600,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322",
+        "locations": [
+            "Jessup, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "3c009b4f-77db-4adf-a566-988bc63d5ba6",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791123060,
+        "date_posted": 1783376223,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Software-Engineer_REQ_0000079261-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
