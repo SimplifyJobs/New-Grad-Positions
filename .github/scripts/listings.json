@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "34c845ce-ac74-4a28-8afb-4f0bfe3294f1",
-        "title": "Equip Maint Technician - Probe - Manassas VA",
-        "active": false,
-        "date_updated": 1770363424,
-        "date_posted": 1770363424,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Equip-Maint-Technician--Probe---Manassas-VA-_JR89647",
-        "locations": [
-            "Manassas, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "69212627-308a-4df4-99c3-9691eabd60ce",
@@ -383582,7 +383562,7 @@
         "company_name": "Northrop Grumman",
         "id": "ece4d591-fc39-4e6b-9c60-acd545f74ec0",
         "title": "Electronic Test Technician - Level 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790645221,
         "date_posted": 1790553600,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Electronic-Test-Technician--Level-1-_R10252061",
@@ -384145,7 +384125,7 @@
         "company_name": "Northrop Grumman",
         "id": "5e53dcd6-2301-48d9-8010-f0ddb4a2a434",
         "title": "Associate Software Engineer - McClellan CA",
-        "active": true,
+        "active": false,
         "date_updated": 1790702881,
         "date_posted": 1790640000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10253394",
