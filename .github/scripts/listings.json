@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "American University",
-        "id": "f041c0e0-4f4e-4562-98c1-05bb379e602b",
-        "title": "Research Assistant - Institute for Applied Artificial Intelligence",
-        "active": false,
-        "date_updated": 1770470240,
-        "date_posted": 1770470240,
-        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Part-Time-Research-Assistant--Institute-for-Applied-Artificial-Intelligence-_R3866",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "0939c8d0-69c7-4660-8d5b-5359d1786893",
@@ -367285,7 +367264,7 @@
         "company_name": "Motorola",
         "id": "c0063e62-5350-4eb8-9b21-952d683c518c",
         "title": "GTM Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789415821,
         "date_posted": 1789344000,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/GTM-Business-Intelligence-Analyst_R68659",
@@ -377091,7 +377070,7 @@
         "company_name": "Draper",
         "id": "bd14a09e-ba4e-4688-94c9-90a0132e97d5",
         "title": "Machine Learning Engineer MTS1",
-        "active": true,
+        "active": false,
         "date_updated": 1790117314,
         "date_posted": 1790035200,
         "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Machine-Learning-Engineer-MTS1_JR002949",
