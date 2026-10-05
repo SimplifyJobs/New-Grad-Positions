@@ -221722,7 +221722,7 @@
         "company_name": "The Access Group",
         "id": "093cdbb8-4410-448c-a982-8ac9a9d866f2",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1783435326,
         "date_posted": 1783433573,
         "url": "https://theaccessgroup.wd103.myworkdayjobs.com/Access_Group_External_Careers/job/United-Kingdom-Remote/Product-Manager_JR004229-2",
@@ -349160,7 +349160,7 @@
         "company_name": "The Cheesecake Factory",
         "id": "1db7b2b4-b81c-4466-9716-5f561acf99e9",
         "title": "Host/Hostess",
-        "active": true,
+        "active": false,
         "date_updated": 1788452477,
         "date_posted": 1786680426,
         "url": "https://www.cakecareers.com/jobs/6138?icims=1",
@@ -375348,7 +375348,7 @@
         "company_name": "Arcfield",
         "id": "2b7698da-ccad-415d-be19-f8cd939f6521",
         "title": "Model-Based Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790000380,
         "date_posted": 1789999646,
         "url": "https://careers.arcfield.com/jobs/8669?icims=1",
@@ -391722,5 +391722,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pacific Northwest National Laboratory",
+        "id": "45965c67-999d-4244-8047-ce33dd6ce045",
+        "title": "Post-Master\u2019s Research Associate - Spatial & Mass Spec Imaging Data Science",
+        "active": true,
+        "date_updated": 1791190621,
+        "date_posted": 1790039191,
+        "url": "https://careers.pnnl.gov/jobs/12158?icims=1",
+        "locations": [
+            "Richland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pacific-Northwest-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "32840b1f-85f1-43a7-86fe-57d7e965e241",
+        "title": "Software Assurance/Formal Methods Developer",
+        "active": true,
+        "date_updated": 1791190621,
+        "date_posted": 1786679974,
+        "url": "https://careers.jhuapl.edu/jobs/58612?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
