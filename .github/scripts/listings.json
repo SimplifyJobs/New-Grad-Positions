@@ -308343,7 +308343,7 @@
         "company_name": "KeyBank",
         "id": "477f4a29-918e-4971-aa80-59cac674f192",
         "title": "Analytics and Quantitative Modeling Rotational Analyst - Rotational Program",
-        "active": false,
+        "active": true,
         "date_updated": 1787005248,
         "date_posted": 1786924800,
         "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Analytics-and-Quantitative-Modeling-Rotational-Analyst-Program--Cleveland_R-41381-1",
@@ -383873,7 +383873,7 @@
         "company_name": "Positron",
         "id": "5045aa09-fb9d-4f84-99c2-5f33a01c871f",
         "title": "ASIC Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790778197,
         "date_posted": 1790777892,
         "url": "https://ats.rippling.com/positron/jobs/4238837d-83e8-4bab-996e-0702fecb4337",
@@ -391786,5 +391786,83 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KeyBank",
+        "id": "6b1f9464-5638-4f1b-907d-f525edb6c4fb",
+        "title": "Consumer Analyst Development Program",
+        "active": true,
+        "date_updated": 1791211735,
+        "date_posted": 1788452386,
+        "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-KeyBank-Consumer-Analyst-Development-Program---Brooklyn--OH_R-41414",
+        "locations": [
+            "Brooklyn, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/KeyBank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "dfd7743c-b0f2-4e6e-b632-d83d62d785d4",
+        "title": "Software/Developer Engineer 1",
+        "active": true,
+        "date_updated": 1791211625,
+        "date_posted": 1791158400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Developer-Engineer-I--Onsite-_01879932",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "bbe1f504-c422-467f-a5b9-81c03d329917",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1791211615,
+        "date_posted": 1791158400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OH-UNIONTOWN-1555--1555-Corporate-Woods-Pkwy--CORP-WOODS/Electrical-Engineer-1--Onsite-_01865398-1",
+        "locations": [
+            "Uniontown, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "G-Research",
+        "id": "41c610fc-ef83-4d99-94f8-8a20caf0fe0c",
+        "title": "Graduate Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1791211501,
+        "date_posted": 1791158400,
+        "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Graduate-Machine-Learning-Engineer_R3760",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/G-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
