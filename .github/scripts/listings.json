@@ -304087,7 +304087,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "9841d195-19c9-4d37-8876-6d72b9dec5af",
         "title": "PhD Graduate - Distributed Tactical Awareness",
-        "active": false,
+        "active": true,
         "date_updated": 1786680170,
         "date_posted": 1786679923,
         "url": "https://careers.jhuapl.edu/jobs/59533?icims=1",
@@ -332706,7 +332706,7 @@
         "company_name": "Noblis",
         "id": "97f13f8b-db75-49a5-8714-def7a600da0d",
         "title": "Software Developer - Full-Stack - Multiple Levels",
-        "active": true,
+        "active": false,
         "date_updated": 1788209732,
         "date_posted": 1788203358,
         "url": "https://careers.noblis.org/jobs/27747?icims=1",
@@ -349124,7 +349124,7 @@
         "company_name": "The Cheesecake Factory",
         "id": "9293fc9e-17c3-4075-9216-9d52ebaa3250",
         "title": "Host",
-        "active": true,
+        "active": false,
         "date_updated": 1788452113,
         "date_posted": 1786680620,
         "url": "https://www.cakecareers.com/jobs/2708?icims=1",
@@ -366911,7 +366911,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "63be50b3-ad2c-4e52-889f-a54037b0da8c",
         "title": "Developer Cyber-Physical Systems New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1789407772,
         "date_posted": 1789407577,
         "url": "https://careers.jhuapl.edu/jobs/60022?icims=1",
@@ -380274,7 +380274,7 @@
         "company_name": "Information Services Corporation",
         "id": "42a206f0-1b61-4216-9e0b-24806866d8e8",
         "title": "Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1790316874,
         "date_posted": 1790294400,
         "url": "https://isc.wd10.myworkdayjobs.com/ISC/job/Toronto/Developer---ESC_JR0001009",
@@ -383335,7 +383335,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": false,
+        "active": true,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -391761,6 +391761,26 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Aptean",
+        "id": "65f7b670-3781-41dd-be44-6173a52f0451",
+        "title": "Product Portfolio Coordinator",
+        "active": true,
+        "date_updated": 1791191890,
+        "date_posted": 1790259357,
+        "url": "https://careers.aptean.com/jobs/7110?icims=1",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aptean",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
