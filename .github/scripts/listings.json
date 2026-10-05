@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a6482392-3b2d-4e14-ab77-caf42e733c44",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770460563,
-        "date_posted": 1770460563,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048564",
-        "locations": [
-            "Warrington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8a799f7f-830d-47cc-8f8f-d9ccd55d13f9",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770460561,
-        "date_posted": 1770460561,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048569",
-        "locations": [
-            "Maidenhead, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "American University",
         "id": "f041c0e0-4f4e-4562-98c1-05bb379e602b",
