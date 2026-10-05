@@ -1,111 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capital One",
-        "id": "55f6ec0c-6b91-46c9-b7e9-c046043f6a0d",
-        "title": "Associate - Software Engineer",
-        "active": false,
-        "date_updated": 1770423708,
-        "date_posted": 1770423708,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R235371",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Walmart",
-        "id": "ee33298a-ae4c-4e0c-9276-d7a1f0d10d48",
-        "title": "Senior \u2013 Data Analyst - Walmart Brands",
-        "active": false,
-        "date_updated": 1770423064,
-        "date_posted": 1770423064,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Hula-Building-Bentonville-AR-Home-Office/Senior--Data-Analyst---Walmart-Brands_R-2408667",
-        "locations": [
-            "Bentonville, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Walmart",
-        "id": "9971beb7-5d6d-4cae-af4c-76a6e332aa50",
-        "title": "Software Engineer 3",
-        "active": false,
-        "date_updated": 1770423054,
-        "date_posted": 1770423054,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III_R-2398900",
-        "locations": [
-            "Bentonville, AR",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Citi",
-        "id": "7562c96a-74a9-4027-8406-5c160dedf931",
-        "title": "Entry Level Wholesale Lending Data Concern Management Analyst",
-        "active": false,
-        "date_updated": 1770422918,
-        "date_posted": 1770422918,
-        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Data-Governance-Analyst_26935260",
-        "locations": [
-            "Cheektowaga, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Citigroup",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cleveland Clinic",
-        "id": "a76e7fcf-dcd5-404f-9c2e-a06d7287e672",
-        "title": "Data Scientist 1 - Cancer Center",
-        "active": false,
-        "date_updated": 1770422732,
-        "date_posted": 1770422732,
-        "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Data-Scientist-I---Cancer-Center_312181-1",
-        "locations": [
-            "Cleveland, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Cleveland-Clinic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "e7936394-46c4-4bd4-8151-66ab482d1bc1",
@@ -5530,26 +5425,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Macys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Insulet Corporation",
-        "id": "eb6afee7-2740-4ce6-8faa-40e96cd0c390",
-        "title": "Software Engineer - Full Stack",
-        "active": false,
-        "date_updated": 1770852851,
-        "date_posted": 1770422569,
-        "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Guadalajara-Jalisco/Software-Engineer_REQ-2026-15050",
-        "locations": [
-            "Newton, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Insulet-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -15902,27 +15777,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Danaher Corporation",
-        "id": "efc60c2b-ff2d-48c5-b911-095ee3f1a710",
-        "title": "Field Service Engineer",
-        "active": false,
-        "date_updated": 1771458673,
-        "date_posted": 1770422774,
-        "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/San-Diego-California-United-States/Field-Service-Engineer---San-Diego_R1302930",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
         ]
     },
     {
@@ -391647,5 +391501,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Oscar Health",
+        "id": "f0d04f2a-c1f3-4612-b51a-8721f5dfcdfc",
+        "title": "Data Scientist 1",
+        "active": true,
+        "date_updated": 1791065565,
+        "date_posted": 1786488124,
+        "url": "https://job-boards.greenhouse.io/oscar/jobs/7592274",
+        "locations": [
+            "LA",
+            "Tempe, AZ",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Oscar-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
