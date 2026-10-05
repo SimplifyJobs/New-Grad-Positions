@@ -301185,7 +301185,7 @@
         "company_name": "Deloitte",
         "id": "9f472a68-b131-41db-abf0-48a1bbdcff63",
         "title": "Delivery Analyst - Discovery Solutions - Government & Public Services",
-        "active": false,
+        "active": true,
         "date_updated": 1786623344,
         "date_posted": 1786487058,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Discovery-Solutions/362504",
@@ -307117,7 +307117,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -374765,7 +374765,7 @@
         "company_name": "Deloitte",
         "id": "acfd75f6-b373-4747-aa03-88912b01fa48",
         "title": "Data & AI Solutions Engineering Analyst - Consultative Offerings",
-        "active": false,
+        "active": true,
         "date_updated": 1789812458,
         "date_posted": 1785536782,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Analyst-Data-AI-Solutions-Engineering/361306",
@@ -391184,7 +391184,7 @@
         "company_name": "CareSource",
         "id": "bfa99c43-e89a-4fde-a192-85e47f139084",
         "title": "Data Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791125888,
         "date_posted": 1790812800,
         "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Data-Scientist-I_R13840",
@@ -391720,6 +391720,67 @@
             "Alpharetta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Aptean",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "122d4821-7d9d-4473-b0af-0ed5e7062161",
+        "title": "Electrical Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1791209881,
+        "date_posted": 1791209878,
+        "url": "https://careers-gdms.icims.com/jobs/75339/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "McLeansville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AMD",
+        "id": "67c01d5f-728d-49eb-b75f-e783fa8fc898",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791209888,
+        "date_posted": 1791209680,
+        "url": "https://careers.amd.com/jobs/79898?icims=1",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jobs for Humanity",
+        "id": "df162dd7-e1d9-4487-bdbb-f394807a974d",
+        "title": "AI Safety & Policy Associate",
+        "active": true,
+        "date_updated": 1791209525,
+        "date_posted": 1791209350,
+        "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000153472079",
+        "locations": [
+            "Texas City, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobs-For-Humanity",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
