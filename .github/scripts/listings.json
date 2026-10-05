@@ -134415,7 +134415,7 @@
         "company_name": "L3Harris Technologies",
         "id": "68176720-7261-49d3-ad4b-acb19c94dc46",
         "title": "Associate \u2013 Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778019661,
         "date_posted": 1778018841,
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-FL-32919/1388173900/?ats=successfactors",
@@ -360785,7 +360785,7 @@
         "company_name": "State Street",
         "id": "f79114e4-14f4-4b37-9f55-d001dab2d6af",
         "title": "AI Developer Senior Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1788906639,
         "date_posted": 1783161968,
         "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/AI-Developer--SA_R-792362-1",
@@ -391846,5 +391846,333 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intertek",
+        "id": "893d4d0b-2e34-4e36-8fbd-1ebc63321252",
+        "title": "Medical Safety Engineer",
+        "active": true,
+        "date_updated": 1791238861,
+        "date_posted": 1791238444,
+        "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15997",
+        "locations": [
+            "Boxborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intertek",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Metergy Solutions",
+        "id": "6eb47d8d-6cf6-4df7-9a7f-1650fdec50f6",
+        "title": "Energy Specialist - Engineering",
+        "active": true,
+        "date_updated": 1791238861,
+        "date_posted": 1791238341,
+        "url": "https://jobs.lever.co/metergysolutions/f15254cd-f0d8-464a-aa17-c00dae9954d7/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Metergy-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Konrad Group",
+        "id": "b4cff1e7-a4d8-4e21-b22d-f5f5dd9e020f",
+        "title": "Mobile Developer Entry Level",
+        "active": true,
+        "date_updated": 1791239342,
+        "date_posted": 1791238371,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7976082003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Konrad-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "ff684380-5d65-429e-81f1-38235852655c",
+        "title": "Reporting Analyst",
+        "active": true,
+        "date_updated": 1791238336,
+        "date_posted": 1791158400,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Arizona/Reporting-Analyst_R1051672-1",
+        "locations": [
+            "New Mexico",
+            "Washington",
+            "Kansas",
+            "Pennsylvania",
+            "North Dakota",
+            "Oregon",
+            "Delaware",
+            "Iowa",
+            "California",
+            "Washington, DC",
+            "Vermont",
+            "Wyoming",
+            "Connecticut",
+            "Texas",
+            "Montana",
+            "Florida",
+            "New Hampshire",
+            "Nevada",
+            "South Carolina",
+            "South Dakota",
+            "Georgia",
+            "Arizona",
+            "Mississippi",
+            "Tennessee",
+            "Virginia",
+            "Arkansas",
+            "Minnesota",
+            "Colorado",
+            "Nebraska",
+            "Rhode Island",
+            "Utah",
+            "Kentucky",
+            "West Virginia",
+            "NYC",
+            "Maryland",
+            "Wisconsin",
+            "Maine",
+            "Massachusetts",
+            "North Carolina",
+            "Oklahoma",
+            "Missouri",
+            "Ohio",
+            "New Jersey",
+            "Indiana",
+            "Louisiana",
+            "Michigan",
+            "Illinois",
+            "Alabama",
+            "Idaho"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rocket Lab USA",
+        "id": "5c0f2bf8-d822-47f3-ba65-b7e177d47252",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1791238827,
+        "date_posted": 1791238234,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8013383003",
+        "locations": [
+            "Pasadena, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Avison Young",
+        "id": "f68a74f0-ffde-43d8-b4f5-2cf015546605",
+        "title": "Data Administrator - Market Intelligence",
+        "active": true,
+        "date_updated": 1791238336,
+        "date_posted": 1791238155,
+        "url": "https://canada-english-avisonyoung.icims.com/jobs/5950/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Avison-Young",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Milwaukee Tool",
+        "id": "600e3e85-1d23-48fe-bdd7-c5d9db2209e5",
+        "title": "Electrical Engineering Technician 1",
+        "active": true,
+        "date_updated": 1791238720,
+        "date_posted": 1791158400,
+        "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Menomonee-Falls-WI/Electrical-Engineering-Technician-I---2nd-Shift_R78104",
+        "locations": [
+            "Menomonee Falls, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Milwaukee-Tool",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HCSC",
+        "id": "c71bd072-5c5d-4aff-8934-94abc3c6dd32",
+        "title": "Early Careers New Grad - Analytics Development Program",
+        "active": true,
+        "date_updated": 1791238620,
+        "date_posted": 1791158400,
+        "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/National-Remote/Early-Careers-New-Grad---Analytics-Development-Program--REMOTE-_R0059520",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/HCSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Corning",
+        "id": "22376e19-d7d9-4048-b3ee-200ec514ad4f",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791238597,
+        "date_posted": 1791238119,
+        "url": "https://corningjobs.corning.com/job/Corning-Engineer,-Software-Developer-NY-14831/1436741900/?ats=successfactors",
+        "locations": [
+            "Corning, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Corning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LSEG",
+        "id": "617f05a7-e40b-4c9a-b24b-a6096a0fde86",
+        "title": "Real-Time Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1791238144,
+        "date_posted": 1791158400,
+        "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/LSEG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Renesas Electronics",
+        "id": "0b9eccfe-9da8-44ef-9b06-b17b8871b7af",
+        "title": "Engineer \u2013 Physical AI",
+        "active": true,
+        "date_updated": 1791238861,
+        "date_posted": 1791238016,
+        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153612249",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Renesas-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Barrios",
+        "id": "1da991c6-5a00-44e6-a94b-7c66094b1b6e",
+        "title": "Data Analytics Developer 1",
+        "active": true,
+        "date_updated": 1791238121,
+        "date_posted": 1791237831,
+        "url": "https://careers-barrios.icims.com/jobs/2904/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Barrios",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Atlassian",
+        "id": "eba32eeb-b7a1-4b27-b3c2-1fdaa04d3bd9",
+        "title": "Data Engineer New Grad",
+        "active": true,
+        "date_updated": 1791238100,
+        "date_posted": 1791237839,
+        "url": "https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Atlassian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Barrios",
+        "id": "6c4161c2-957e-42b2-b760-2d2ad98ab8b2",
+        "title": "Software Developer 1 - Applications and Data",
+        "active": true,
+        "date_updated": 1791238144,
+        "date_posted": 1791237833,
+        "url": "https://careers-barrios.icims.com/jobs/2903/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Barrios",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
