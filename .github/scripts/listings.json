@@ -306947,7 +306947,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -326306,7 +326306,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "8c97b8d5-94b5-4ecf-ac2a-134ff0e3a3da",
         "title": "AI/ML Research Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1787782128,
         "date_posted": 1787781888,
         "url": "https://careers.jhuapl.edu/jobs/59548?icims=1",
@@ -343365,7 +343365,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "c8bdf836-b69b-4d19-8641-a3cd7be1c5df",
         "title": "Robotics Engineer - Research and Exploratory Development",
-        "active": false,
+        "active": true,
         "date_updated": 1786680168,
         "date_posted": 1786679924,
         "url": "https://careers.jhuapl.edu/jobs/59458?icims=1",
@@ -360574,7 +360574,7 @@
         "company_name": "CTG",
         "id": "2be6f759-96be-4dc7-a468-cf02a80bdef5",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1788907071,
         "date_posted": 1788905963,
         "url": "https://careers.ctg.com/jobs/17557?icims=1",
@@ -380199,7 +380199,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "d8b0a818-ae8f-42a9-b552-3d61c1542683",
         "title": "Neural Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1790346181,
         "date_posted": 1790345705,
         "url": "https://careers.jhuapl.edu/jobs/60068?icims=1",
@@ -383108,7 +383108,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": false,
+        "active": true,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -394571,6 +394571,72 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Teserac",
+        "id": "5b1dcb48-f2c5-4a0e-b2cf-be4285c160f0",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1791296641,
+        "date_posted": 1791296563,
+        "url": "https://apply.workable.com/teserac-inc/j/01F1C3E218/apply",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Teserac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capgemini",
+        "id": "614d69aa-cada-486b-8e62-b164a933b266",
+        "title": "Graduate Software Developer",
+        "active": true,
+        "date_updated": 1791296581,
+        "date_posted": 1791296342,
+        "url": "https://careers.capgemini.com/job/London-Graduate-Software-Developer-2027/1444710733/?ats=successfactors",
+        "locations": [
+            "London, UK",
+            "Cardiff, UK",
+            "Birmingham, UK",
+            "Inverness, UK",
+            "Woking, UK",
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Capgemini",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Southern Star Central Gas Pipeline",
+        "id": "52d14524-3436-4572-b566-794db4872e46",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1791296281,
+        "date_posted": 1791295785,
+        "url": "https://careers-sscgp.icims.com/jobs/3060/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Owensboro, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Southern-Star-Central-Gas-Pipeline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
