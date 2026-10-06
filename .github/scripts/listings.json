@@ -118396,7 +118396,7 @@
         "company_name": "Catapult",
         "id": "09ecbd59-57e6-43c3-87e9-2c2d92f3bcb5",
         "title": "Graduate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776763793,
         "date_posted": 1776763477,
         "url": "https://job-boards.greenhouse.io/catapultsports/jobs/7821130",
@@ -246453,7 +246453,7 @@
         "company_name": "Baker Tilly",
         "id": "e8cc1f0b-b9c4-4556-9174-cb286c1e23f3",
         "title": "Associate Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784623502,
         "date_posted": 1783159580,
         "url": "https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-TX-Frisco/Associate-Data-Engineer_JR106581",
@@ -270520,7 +270520,7 @@
         "company_name": "Vizient ",
         "id": "6f7e6d7d-3b34-415c-a603-66cfbe9bf425",
         "title": "Data Science Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1785506944,
         "date_posted": 1785196800,
         "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Data-Science-Fellow_34535R",
@@ -384554,7 +384554,7 @@
         "company_name": "Intel",
         "id": "bca58c51-be34-45a1-b5f9-44afd1115280",
         "title": "Finance Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1790807939,
         "date_posted": 1790726400,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Finance-Data-Scientist_JR0287625",
@@ -394638,5 +394638,259 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Accenture",
+        "id": "624f8a95-2d83-4fe9-b7bf-65a21526ec21",
+        "title": "Data & AI Engineer",
+        "active": true,
+        "date_updated": 1791298261,
+        "date_posted": 1791244800,
+        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Leeds/Data---AI-Engineer_R00355262",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Accenture",
+        "id": "c952031f-5e31-4e67-b914-c49b40b43ca4",
+        "title": "Data & AI Engineer",
+        "active": true,
+        "date_updated": 1791298621,
+        "date_posted": 1791244800,
+        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Glasgow/Data---AI-Engineer_R00355319",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Accenture",
+        "id": "8113e7ea-e9cc-43a3-954a-fc16e84b2b59",
+        "title": "Finance Data Platform Consultant",
+        "active": true,
+        "date_updated": 1791298261,
+        "date_posted": 1791244800,
+        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Finance-Data-Platform-Consultant_R00361082",
+        "locations": [
+            "London, UK",
+            "Edinburgh, UK",
+            "Birmingham, UK",
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Accenture",
+        "id": "e059f96a-4ae6-48b4-81ba-832e5ebb5247",
+        "title": "Data & AI Engineer",
+        "active": true,
+        "date_updated": 1791298261,
+        "date_posted": 1791244800,
+        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bristol/Data---AI-Engineer_R00355282",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Accenture",
+        "id": "0d796dd4-8646-420d-a720-5fd6d4a732bc",
+        "title": "Data & AI Engineer",
+        "active": true,
+        "date_updated": 1791298261,
+        "date_posted": 1791244800,
+        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Glasgow/Data---AI-Engineer_R00355320",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northrop Grumman",
+        "id": "b06a41a5-fd2e-44d7-977b-811778f66053",
+        "title": "Modeling and Simulation Engineer",
+        "active": true,
+        "date_updated": 1791298081,
+        "date_posted": 1791244800,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Modeling-and-Simulation-Engineer--1-2-_R10250968",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pennsylvania State University",
+        "id": "4106ca6f-40f2-4ea5-85c9-c9c19fbc11e3",
+        "title": "Engineering Technologist - Electrical",
+        "active": true,
+        "date_updated": 1791297901,
+        "date_posted": 1791244800,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Technologist--Electrical_REQ_0000081611-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "6ffabb0b-4dbb-49a3-bb98-10fd85f1898b",
+        "title": "Software Engineer 1 - Test",
+        "active": true,
+        "date_updated": 1791297760,
+        "date_posted": 1789516800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I---Test_01873961",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "005d6bd1-909d-4bab-a19c-5c00733fdc7e",
+        "title": "Engineer \u2013 Reliability Engineering",
+        "active": true,
+        "date_updated": 1791297541,
+        "date_posted": 1791244800,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Engineer--Reliability-Engineering_R266737",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "5d1246b5-b5d2-4acf-ab78-4d1950dfc998",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1791297681,
+        "date_posted": 1791244800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Electrical-Engineer-I--Onsite-_01879011",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "29effb61-85e3-4439-8865-2ab592084d1b",
+        "title": "Electrical Engineer 1 - Test",
+        "active": true,
+        "date_updated": 1791297722,
+        "date_posted": 1789516800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-I---Test_01873950",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HNTB",
+        "id": "51b5a86a-51da-42be-8a94-7ce5f41d5501",
+        "title": "GIS Analyst 1",
+        "active": true,
+        "date_updated": 1791297161,
+        "date_posted": 1791244800,
+        "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Baton-Rouge-LA/GIS-Analyst-I_R-31791",
+        "locations": [
+            "New Orleans, LA",
+            "Baton Rouge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/HNTB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Foundation Health",
+        "id": "2ed8bb0c-78f4-4867-8153-c160ca581eaf",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791297005,
+        "date_posted": 1791296856,
+        "url": "https://jobs.ashbyhq.com/foundationhealthcareers/cb0b5a3f-de52-40bd-b485-4f2b243bdee1/application?embed=true",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Foundation-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
