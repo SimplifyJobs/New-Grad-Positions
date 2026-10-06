@@ -184174,7 +184174,7 @@
         "company_name": "RTX",
         "id": "0d467785-7605-490e-8478-cd894e0ef1f1",
         "title": "Raytheon Software Engineer 1 - Electro-Optical/Infrared Advanced Products and Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1781101483,
         "date_posted": 1781100525,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/XMLNAME-2026-Raytheon-Full-Time-Software-Engineer-I---EOIR-Advanced-Products-and-Solutions--Onsite-_01851718",
@@ -338470,7 +338470,7 @@
         "company_name": "Avalore",
         "id": "06ca4b2a-461d-4f6e-8785-2ff502e03556",
         "title": "Configuration Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1788401529,
         "date_posted": 1788296936,
         "url": "https://apply.workable.com/avalore/j/B0B5647E68/apply",
@@ -364254,7 +364254,7 @@
         "company_name": "Callan",
         "id": "0864b161-0ae8-4d7e-9b81-de591ee256e2",
         "title": "Performance Analyst - Client Report Services",
-        "active": true,
+        "active": false,
         "date_updated": 1789089381,
         "date_posted": 1789089217,
         "url": "https://jobs.lever.co/callan/a56cc421-3784-4bff-922a-3d72dcb22465/apply",
@@ -383501,7 +383501,7 @@
         "company_name": "Aurelian",
         "id": "10dfa9c3-f163-4d07-a147-2e457a8c3e6b",
         "title": "Backend Engineer \u2013 New Grad to Staff Level",
-        "active": true,
+        "active": false,
         "date_updated": 1790757736,
         "date_posted": 1784067222,
         "url": "https://jobs.ashbyhq.com/aurelian/25273778-0cdc-4bfe-9b37-4a735d534cd5/application?embed=true",
@@ -394440,6 +394440,26 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "MSA Safety",
+        "id": "0e01f1a3-584b-49b2-a1b0-80144daa3e68",
+        "title": "Industrial PPE Product Line Manager",
+        "active": true,
+        "date_updated": 1791276124,
+        "date_posted": 1786680167,
+        "url": "https://careers.msasafety.com/jobs/9820?icims=1",
+        "locations": [
+            "Cranberry Township, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/MSA-Safety",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
