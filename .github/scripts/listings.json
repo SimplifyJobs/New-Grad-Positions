@@ -362812,7 +362812,7 @@
         "company_name": "RTX",
         "id": "40052f73-c028-410f-8693-2219d4c4b1b9",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789021016,
         "date_posted": 1788912000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I---Onsite-_01872452",
@@ -385444,7 +385444,7 @@
         "company_name": "RWS",
         "id": "fb6054b8-38c4-4fee-8021-d1997d1a55d1",
         "title": "General AI Data Annotator - German - United States",
-        "active": true,
+        "active": false,
         "date_updated": 1790893460,
         "date_posted": 1790893077,
         "url": "https://jobs.lever.co/rws/cd843b41-a48b-4fa5-aae7-ead7b0a27d51/apply",
@@ -389635,7 +389635,7 @@
         "company_name": "DwyerOmega",
         "id": "d53b26d8-f227-4dc6-a7f9-0f827072448c",
         "title": "Circuit Board Tester",
-        "active": true,
+        "active": false,
         "date_updated": 1791116108,
         "date_posted": 1788906714,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4486927",
@@ -390728,7 +390728,7 @@
         "company_name": "Microsoft",
         "id": "fe14fd5d-c834-4c22-bc27-c3807e210b18",
         "title": "Software Engineer - Forward Deployed Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791123484,
         "date_posted": 1790892628,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
@@ -394481,6 +394481,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Avalore",
+        "id": "ef213512-2c5b-4f23-99a0-db6b5d87f182",
+        "title": "API Architect",
+        "active": true,
+        "date_updated": 1791283861,
+        "date_posted": 1788296145,
+        "url": "https://apply.workable.com/avalore/j/A1FB722C18/apply",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Avalore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
