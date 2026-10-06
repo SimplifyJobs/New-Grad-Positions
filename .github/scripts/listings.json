@@ -3,24 +3,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "efabd73c-54fb-466b-8c36-76baed22c320",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770516697,
-        "date_posted": 1770516697,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048666",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "09f85471-7bae-42ab-9371-7a9ac6b047ca",
         "title": "Trading Assistant - Shift",
         "active": false,
@@ -16659,7 +16641,7 @@
         "company_name": "NVIDIA",
         "id": "7fb2f96e-3662-4a02-a0c2-e7bbd2663ce9",
         "title": "System Design Engineer \u2013 New College Grad 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1771543465,
         "date_posted": 1771543465,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Design-Engineer---New-College-Grad-2026_JR2011879",
@@ -34184,30 +34166,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ernst & Young",
-        "id": "2947961a-c71c-450a-a8db-7081cccd06bc",
-        "title": "Data Architecture & Engineering \u2013 Senior - Financial Services - Consulting",
-        "active": false,
-        "date_updated": 1770517091,
-        "date_posted": 1770517091,
-        "url": "https://careers.ey.com/ey/job/New-York-Data-Architecture-&-Engineering-Senior-Financial-Services-Consulting-NYC-NY-10001-8604/1258471601/",
-        "locations": [
-            "NYC",
-            "Charlotte, NC",
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Ernst-And-Young",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA"
         ]
     },
     {
@@ -133130,7 +133088,7 @@
         "company_name": "General Motors",
         "id": "1867969a-db0e-4b61-bcfe-810cf5e1f73c",
         "title": "Machine Learning Engineer - AI Inference Solutions",
-        "active": false,
+        "active": true,
         "date_updated": 1777944061,
         "date_posted": 1777943397,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103",
@@ -177585,7 +177543,7 @@
         "company_name": "VITAS Healthcare",
         "id": "828ccc35-8623-4370-af61-9309b318fcc3",
         "title": "Junior Strategy & Innovation Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780650361,
         "date_posted": 1780092494,
         "url": "https://ejrz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/44324",
@@ -210799,7 +210757,7 @@
         "company_name": "Citadel Securities",
         "id": "666b0c8f-87da-42d0-9e44-23ac5f6ad445",
         "title": "Machine Learning Researcher \u2013 PhD Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1782886501,
         "date_posted": 1782886131,
         "url": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-europe/",
@@ -210841,7 +210799,7 @@
         "company_name": "Citadel Securities",
         "id": "f23fe117-836c-45d4-bd59-0ea9d9ddf7f7",
         "title": "Machine Learning Researcher \u2013 PhD Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1782886321,
         "date_posted": 1782886138,
         "url": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us/",
@@ -226388,7 +226346,7 @@
         "company_name": "Ford Motor Company",
         "id": "f3a393b1-15b5-4af2-8adb-58662f1338b2",
         "title": "Product Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783592461,
         "date_posted": 1783375705,
         "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/64134",
@@ -228371,7 +228329,7 @@
         "company_name": "Citadel Securities",
         "id": "79054f04-0e8b-45fb-865d-bc789b4acfe9",
         "title": "Quantitative Research Analyst \u2013 University Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1783692721,
         "date_posted": 1783692474,
         "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
@@ -252168,7 +252126,7 @@
         "company_name": "Citadel Securities",
         "id": "f2abc99e-93ba-424e-8d7c-0e3382978e05",
         "title": "Quantitative AI Technical Staff",
-        "active": false,
+        "active": true,
         "date_updated": 1784758880,
         "date_posted": 1784758384,
         "url": "https://www.citadelsecurities.com/careers/details/quantitative-ai-technical-staff/",
@@ -256105,7 +256063,7 @@
         "company_name": "RTX",
         "id": "13fdfa41-fb60-4de0-a16b-e9aa63f71bd8",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784823151,
         "date_posted": 1784764800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196",
@@ -256308,7 +256266,7 @@
         "company_name": "Citi",
         "id": "c8b1494a-3262-4b95-a356-612e9c1e1dd9",
         "title": "Junior Generative AI Application Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1784845081,
         "date_posted": 1784844835,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Junior-Generative-AI-Application-Developer_26962476",
@@ -307045,7 +307003,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -317236,7 +317194,7 @@
         "company_name": "Mulligan Funding",
         "id": "5f5099f5-0766-4d0d-af8b-125f9332bf2d",
         "title": "Data Scientist 1 - Management Trainee",
-        "active": true,
+        "active": false,
         "date_updated": 1787263487,
         "date_posted": 1787263308,
         "url": "https://jobs.lever.co/mulliganfunding/53531dc7-9593-44ea-8b42-2995664968a3/apply",
@@ -373444,7 +373402,7 @@
         "company_name": "Citadel Securities",
         "id": "d34efe5f-8b16-4631-abb7-2997d0702bcd",
         "title": "Quantitative Researcher",
-        "active": false,
+        "active": true,
         "date_updated": 1788505021,
         "date_posted": 1782886114,
         "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/",
@@ -374693,7 +374651,7 @@
         "company_name": "Deloitte",
         "id": "acfd75f6-b373-4747-aa03-88912b01fa48",
         "title": "Data & AI Solutions Engineering Analyst - Consultative Offerings",
-        "active": true,
+        "active": false,
         "date_updated": 1789812458,
         "date_posted": 1785536782,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Analyst-Data-AI-Solutions-Engineering/361306",
@@ -376244,7 +376202,7 @@
         "company_name": "Amentum",
         "id": "b75d9a5e-5bbf-4016-8d19-1384e5528fdf",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1790039701,
         "date_posted": 1789948800,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0171030",
@@ -390748,7 +390706,7 @@
         "company_name": "Qualcomm",
         "id": "cbadca45-0525-464c-b31d-188a726e2a2a",
         "title": "ASIC Design Engineer - Low Power Audio AI Subsystems - ASICS Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1791123482,
         "date_posted": 1790893484,
         "url": "https://qualcomm.eightfold.ai/careers/job/446721361739",
@@ -393129,5 +393087,82 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ID.me",
+        "id": "92f62700-6eed-40f6-aba4-e478ba9afdee",
+        "title": "Software Engineer 2 New Grad - Developer Portal",
+        "active": true,
+        "date_updated": 1791249818,
+        "date_posted": 1791249650,
+        "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IDme",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JP Morgan Chase",
+        "id": "69c7639c-c15d-4df3-8d5b-a8df024bd29e",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1791249739,
+        "date_posted": 1791248812,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794232",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Resmed",
+        "id": "eeb61a55-e885-45c8-a56f-8a173d4848d6",
+        "title": "Associate Android Developer",
+        "active": true,
+        "date_updated": 1791249134,
+        "date_posted": 1791158400,
+        "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Resmed",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "74f23be6-961c-4635-8a88-b9779934f8a5",
+        "title": "Software Developer Associate",
+        "active": true,
+        "date_updated": 1791238861,
+        "date_posted": 1791158400,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Software-Developer-Associate---TS-SCI-with-Polygraph_RQ229852-1",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
