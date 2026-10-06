@@ -376369,7 +376369,7 @@
         "company_name": "MBDA",
         "id": "729e0655-7375-40c2-8743-9005bfda3209",
         "title": "Operational Analysis Graduate Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1790089006,
         "date_posted": 1790035200,
         "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Operational-Analysis---Graduate-Programme-2027_R38197",
@@ -394497,6 +394497,26 @@
             "Arlington County, Arlington, VA"
         ],
         "company_url": "https://simplify.jobs/c/Avalore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Advocate Health Care",
+        "id": "abf46b1e-8c1b-477b-ac8a-1cc5a9cfa456",
+        "title": "Data Solutions Developer - Associate",
+        "active": true,
+        "date_updated": 1791289477,
+        "date_posted": 1791158400,
+        "url": "https://aah.wd5.myworkdayjobs.com/External/job/Milwaukee-WI---7800-N-113th-St/Data-Solutions-Developer---Associate_R249061",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Advocate-Health-Care",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
