@@ -356150,7 +356150,7 @@
         "company_name": "Unisys",
         "id": "47365994-d392-4502-8a95-530e2273f746",
         "title": "Support Services Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788515641,
         "date_posted": 1784764800,
         "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/USA-MN-Remote/Support-Services-Engineer---USA_REQ574472",
@@ -394521,6 +394521,56 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "af09294d-e31f-49d1-abb4-9a9ec0631b19",
+        "title": "Data Science Graduate",
+        "active": true,
+        "date_updated": 1791268024,
+        "date_posted": 1787875200,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1213631-1",
+        "locations": [
+            "Andover, MA",
+            "Bloomington, MN",
+            "San Jose, CA",
+            "Spring, TX",
+            "Durham, NC",
+            "Westford, MA",
+            "Chippewa Falls, WI",
+            "Fort Collins, CO",
+            "Sunnyvale, CA",
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Raymond James Financial",
+        "id": "6aac56dc-c46b-4f51-8af7-a2f2b345cf78",
+        "title": "Senior Analyst - Model Validator - Model Risk Management",
+        "active": true,
+        "date_updated": 1791292681,
+        "date_posted": 1787702400,
+        "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Senior-Analyst--BSA-AML-and-Fraud-Model-Risk-Management_R-0012761",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Raymond-James-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
