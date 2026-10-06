@@ -212941,7 +212941,7 @@
         "company_name": "GE Vernova",
         "id": "e10b2cda-4d20-4210-83d8-f845503f8fb6",
         "title": "Software Engineering Graduate Programme",
-        "active": false,
+        "active": true,
         "date_updated": 1782956462,
         "date_posted": 1782955928,
         "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rugby/Software-Engineering-Graduate-Programme-1_R5045896-2",
@@ -227427,7 +227427,7 @@
         "company_name": "NVIDIA",
         "id": "4a36cab4-1a4a-43ac-90cd-c832659395c5",
         "title": "Formal Verification Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783636562,
         "date_posted": 1783555200,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2020837",
@@ -260905,7 +260905,7 @@
         "company_name": "Tesla",
         "id": "5bba1eb0-8e8f-4a1d-891d-12fc7a1f1f65",
         "title": "Data Labeler",
-        "active": false,
+        "active": true,
         "date_updated": 1785028491,
         "date_posted": 1785028231,
         "url": "https://www.tesla.com/careers/search/job/278079",
@@ -283514,7 +283514,7 @@
         "company_name": "L3Harris Technologies",
         "id": "6ddb8adb-ad8e-4cb9-9c50-bb88be88f2a6",
         "title": "Associate Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1785910226,
         "date_posted": 1785909859,
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-1-FL-32919/1416023200/?ats=successfactors",
@@ -304143,7 +304143,7 @@
         "company_name": "The Boeing Company",
         "id": "e13d8c02-7038-49a2-87d5-9034b52718f8",
         "title": "Embedded Software Engineer - Government Training",
-        "active": false,
+        "active": true,
         "date_updated": 1786683635,
         "date_posted": 1786579200,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089",
@@ -315049,7 +315049,7 @@
         "company_name": "AeroVironment",
         "id": "74b2d4ff-f0ec-41d4-bc51-c06875faa9b7",
         "title": "Computer Network Operations Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1785582552,
         "date_posted": 1781361312,
         "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/420-National-Business-Parkway-Jessup-MD/CNO-Developer_6358",
@@ -321639,7 +321639,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "47850bfd-3afa-4073-a5b7-3a8734f3c0eb",
         "title": "Artificial Intelligence and Complex Systems BS/MS",
-        "active": false,
+        "active": true,
         "date_updated": 1787608726,
         "date_posted": 1787608160,
         "url": "https://careers.jhuapl.edu/jobs/59664?icims=1",
@@ -323337,7 +323337,7 @@
         "company_name": "Analog Devices",
         "id": "7b3404a7-c130-4dd8-b4c3-2edeb5fe414d",
         "title": "Associate Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787682422,
         "date_posted": 1787616000,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Dallas-Tollway/Associate-Design-Verification-Engineer_R265415",
@@ -381133,7 +381133,7 @@
         "company_name": "Rockwell Automation",
         "id": "8b43283a-d9a8-4051-ba77-0ead77dca4c2",
         "title": "Leadership Development Program - Product Engineering & Development",
-        "active": false,
+        "active": true,
         "date_updated": 1790039701,
         "date_posted": 1789948800,
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Leadership-Development-Program--Product-Engineering---Development_R26-6888",
@@ -388529,7 +388529,7 @@
         "company_name": "Microsoft",
         "id": "b4e7a187-9537-4e72-8b27-c8d54faf0118",
         "title": "Software Engineering - Commercial Engineering & AI - Ceai",
-        "active": false,
+        "active": true,
         "date_updated": 1791108236,
         "date_posted": 1789425238,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
@@ -393025,7 +393025,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "74f23be6-961c-4635-8a88-b9779934f8a5",
         "title": "Software Developer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1791238861,
         "date_posted": 1791158400,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Software-Developer-Associate---TS-SCI-with-Polygraph_RQ229852-1",
@@ -393124,7 +393124,7 @@
         "company_name": "Astera Labs",
         "id": "259f0bd5-6015-4c62-a48b-7b4a3879f845",
         "title": "Product Quality Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1791268045,
         "date_posted": 1791267449,
         "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733438005",
@@ -394820,5 +394820,263 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "8f10b6f0-2928-424e-a17c-75735e3a5380",
+        "title": "High Speed Serdes Validation Engineer",
+        "active": true,
+        "date_updated": 1791325448,
+        "date_posted": 1791244800,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Speed-SerDes-Validation-Engineer---New-College-Grad-2026_JR2026800",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "47eb1934-2557-49ae-8469-e63718c6f7f0",
+        "title": "GPU PCIe and Boot Architect New Grad",
+        "active": true,
+        "date_updated": 1791325438,
+        "date_posted": 1791244800,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-PCIe-and-Boot-Architect---New-College-Grad-2027_JR2026276",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Federal Reserve System",
+        "id": "834fe4c4-f68e-4dbc-bf7d-5c3c22356240",
+        "title": "AI Solutions Engineer Associate",
+        "active": true,
+        "date_updated": 1791325230,
+        "date_posted": 1791244800,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/AI-Solutions-Engineer---Associate_R-0000033675-1",
+        "locations": [
+            "Boston, MA",
+            "SF",
+            "Cleveland, OH",
+            "Dallas, TX",
+            "Philadelphia, PA",
+            "Richmond, VA",
+            "Chicago, IL",
+            "St. Louis, MO",
+            "Kansas City, MO",
+            "NYC",
+            "Minneapolis, MN",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Federal-Reserve-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "2e77fdb4-933b-41b1-8fe2-253cdec7bb57",
+        "title": "CAD Engineer - Signoff Infrastructure",
+        "active": true,
+        "date_updated": 1791324541,
+        "date_posted": 1791324460,
+        "url": "https://jobs.apple.com/en-us/details/200687472",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "impact.com",
+        "id": "b28c693d-dc9a-4021-9f62-fd2020e5f18f",
+        "title": "Associate Product Manager - Contracting/Action Processing",
+        "active": true,
+        "date_updated": 1791324541,
+        "date_posted": 1791324402,
+        "url": "https://job-boards.greenhouse.io/impact/jobs/8871230002",
+        "locations": [
+            "Seattle, WA",
+            "Santa Barbara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Impact",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AeroVironment",
+        "id": "60306e7f-505d-46e5-9416-d35214b79936",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1791324541,
+        "date_posted": 1791244800,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Associate-Software-Engineer_9016",
+        "locations": [
+            "Moorpark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AeroVironment",
+        "id": "d3ea3d3e-5e55-495e-912d-ee8f42c44a60",
+        "title": "Software Engineer 1 (Embedded)",
+        "active": true,
+        "date_updated": 1791325195,
+        "date_posted": 1791244800,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineer--EMB--I_9054",
+        "locations": [
+            "Moorpark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AeroVironment",
+        "id": "1398d74c-5a13-49bd-a0e8-fd772d6bfdd4",
+        "title": "Software Engineer - Embedded",
+        "active": true,
+        "date_updated": 1791324541,
+        "date_posted": 1791244800,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineer--EMB---I_9055",
+        "locations": [
+            "Moorpark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AeroVironment",
+        "id": "51c261e9-1fea-45ad-85fd-4990228b923a",
+        "title": "RF Collection Specialist",
+        "active": true,
+        "date_updated": 1791324541,
+        "date_posted": 1791244800,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/San-Diego-CA/RF-Collection-Specialist_9056",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AstraZeneca",
+        "id": "32940edd-0167-475c-9413-f85db6514344",
+        "title": "Agentic AI Senior Engineer",
+        "active": true,
+        "date_updated": 1791324826,
+        "date_posted": 1790726400,
+        "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Cambridge-Kendall-SQ---MA/Agentic-AI-Sr-Engineer_R-260943-1",
+        "locations": [
+            "Cambridge, MA",
+            "Gaithersburg, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/AstraZeneca",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "6d98507e-f9d3-4151-8068-c847abca4557",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1791325300,
+        "date_posted": 1791244800,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Software-Engineer-I--For-2026-Interns-Only-_R0030889",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "VTG",
+        "id": "079c49ad-86ee-4d90-80de-5d7ec4d99c4a",
+        "title": "Intelligence Analyst 1",
+        "active": true,
+        "date_updated": 1791324728,
+        "date_posted": 1786680249,
+        "url": "https://careers.vtgdefense.com/jobs/9223?icims=1",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/VTG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Incomplete"
+        ]
     }
 ]
