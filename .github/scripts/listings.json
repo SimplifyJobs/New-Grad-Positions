@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "09f85471-7bae-42ab-9371-7a9ac6b047ca",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770534681,
-        "date_posted": 1770534681,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048665",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "General Dynamics Information Technology",
         "id": "901f951f-7dc0-4383-a0c8-22481843805e",
@@ -383882,7 +383864,7 @@
         "company_name": "Torch Technologies",
         "id": "688f2ebb-1fef-4424-a9f4-04a953688db8",
         "title": "Software Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1790779026,
         "date_posted": 1790726400,
         "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Arnold-AFB/AEDC-Software-Analyst--Arnold-AFB-_R1948",
