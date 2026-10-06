@@ -386243,7 +386243,7 @@
         "company_name": "RTX",
         "id": "2053c593-1305-4042-a320-4a22dd690ec4",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1790903969,
         "date_posted": 1790812800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01875418",
@@ -393463,6 +393463,1039 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mach Industries",
+        "id": "55cfdca4-f693-4680-abca-5c927e3394e4",
+        "title": "Software Engineer New Grad - Software",
+        "active": true,
+        "date_updated": 1791269346,
+        "date_posted": 1791269278,
+        "url": "https://job-boards.greenhouse.io/machindustries/jobs/4401995009",
+        "locations": [
+            "Huntington Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mach-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "West Monroe",
+        "id": "cdf47e28-03ea-4592-a36c-dd58f8f073c3",
+        "title": "Software Engineering Consultant - AI Concentration",
+        "active": true,
+        "date_updated": 1791269338,
+        "date_posted": 1791269207,
+        "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6183016004",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/West-Monroe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "West Monroe",
+        "id": "b4b473bb-f9f9-4c11-a4fe-a750bcf42b87",
+        "title": "Product Management Consultant",
+        "active": true,
+        "date_updated": 1791269340,
+        "date_posted": 1791269207,
+        "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6183043004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/West-Monroe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "West Monroe",
+        "id": "9af24976-afb3-443f-8436-3e6e1d2d782e",
+        "title": "Data & Analytics Consultant",
+        "active": true,
+        "date_updated": 1791269329,
+        "date_posted": 1791269203,
+        "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6167376004",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/West-Monroe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Mach Industries",
+        "id": "890216cb-7898-4b8c-be8f-fba61101c52f",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1791269341,
+        "date_posted": 1791269276,
+        "url": "https://job-boards.greenhouse.io/machindustries/jobs/4390274009",
+        "locations": [
+            "Huntington Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mach-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "West Monroe",
+        "id": "67af29a3-58ac-47dc-9fc4-c94be1828e2f",
+        "title": "Software Engineering - AI Concentration - Consultant",
+        "active": true,
+        "date_updated": 1791269340,
+        "date_posted": 1791269207,
+        "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6181199004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/West-Monroe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "West Monroe",
+        "id": "5b49154e-6a94-4573-8ee3-d729c7b0d509",
+        "title": "Data & Analytics Consultant",
+        "active": true,
+        "date_updated": 1791269327,
+        "date_posted": 1791269203,
+        "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6167515004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/West-Monroe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Mach Industries",
+        "id": "3e8ba7bc-6b12-47ea-8a31-0092c5bf1706",
+        "title": "Flight Software Engineer",
+        "active": true,
+        "date_updated": 1791269281,
+        "date_posted": 1791269277,
+        "url": "https://job-boards.greenhouse.io/machindustries/jobs/4385531009",
+        "locations": [
+            "Huntington Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mach-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "West Monroe",
+        "id": "23ce9adc-a57c-4d91-a4cc-2228d91a6350",
+        "title": "Data & Analytics Consultant",
+        "active": true,
+        "date_updated": 1791269342,
+        "date_posted": 1791269204,
+        "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6167508004",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/West-Monroe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "West Monroe",
+        "id": "20973a23-d0cf-4cbf-ac75-122dc243504b",
+        "title": "Data & Analytics Consultant",
+        "active": true,
+        "date_updated": 1791269330,
+        "date_posted": 1791269204,
+        "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6167503004",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/West-Monroe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "West Monroe",
+        "id": "1ff35b3f-f93c-4589-8ba9-d96ddc2265fd",
+        "title": "Product Management Consultant",
+        "active": true,
+        "date_updated": 1791269337,
+        "date_posted": 1791269207,
+        "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6182632004",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/West-Monroe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "West Monroe",
+        "id": "0d01a397-1edb-4e74-bd8b-693ed991b97c",
+        "title": "Data & Analytics Consultant",
+        "active": true,
+        "date_updated": 1791269329,
+        "date_posted": 1791269203,
+        "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6167522004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/West-Monroe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "2K",
+        "id": "fcfcb545-1466-416b-85e1-73809d84a6d0",
+        "title": "Technical Art Graduate Program",
+        "active": true,
+        "date_updated": 1791269124,
+        "date_posted": 1791268934,
+        "url": "https://job-boards.greenhouse.io/2kearlycareers/jobs/7992134003",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/2k",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "2K",
+        "id": "99dd68d2-e39a-42ac-98e6-c5cd06566053",
+        "title": "Engineering Graduate Program",
+        "active": true,
+        "date_updated": 1791269121,
+        "date_posted": 1791268934,
+        "url": "https://job-boards.greenhouse.io/2kearlycareers/jobs/7992140003",
+        "locations": [
+            "Vancouver, BC, Canada",
+            "Dublin, Ireland",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/2k",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "2K",
+        "id": "3ca99741-7b70-4628-8134-9ab4e5dfeb80",
+        "title": "Technical Art New Grad",
+        "active": true,
+        "date_updated": 1791269124,
+        "date_posted": 1791268934,
+        "url": "https://job-boards.greenhouse.io/2kearlycareers/jobs/7992131003",
+        "locations": [
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/2k",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Roku",
+        "id": "099d2b2d-cbfc-40bd-957b-563be9992d9e",
+        "title": "Software Engineer - AI/UI",
+        "active": true,
+        "date_updated": 1791268381,
+        "date_posted": 1791268204,
+        "url": "https://www.weareroku.com/jobs/8188704?gh_jid=8188704",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Whoop",
+        "id": "6293dd37-4fdd-4c11-b3f9-b55360f7b93a",
+        "title": "Software Engineer 1 - Backend",
+        "active": true,
+        "date_updated": 1791268518,
+        "date_posted": 1791267680,
+        "url": "https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133/application?embed=true",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Whoop",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "29ae1a99-6563-4613-a5c1-f749981317bf",
+        "title": "Research Engineer",
+        "active": true,
+        "date_updated": 1791268508,
+        "date_posted": 1779148800,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Research-Engineer_1206781-2",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "7547208c-b206-48cf-bf2b-86a347e7984b",
+        "title": "ASIC Design Engineer 2",
+        "active": true,
+        "date_updated": 1791268024,
+        "date_posted": 1787702400,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Design-Engineer-2_1211208-2",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "03667310-46b4-4663-a480-5a96a77ed61d",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791268024,
+        "date_posted": 1787702400,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1208691-2",
+        "locations": [
+            "Westford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "8969f844-fe6a-41f6-bee5-f9da81f290ee",
+        "title": "Product Management Graduate",
+        "active": true,
+        "date_updated": 1791268024,
+        "date_posted": 1787875200,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633-1",
+        "locations": [
+            "Andover, MA",
+            "Bloomington, MN",
+            "San Jose, CA",
+            "Spring, TX",
+            "Durham, NC",
+            "Westford, MA",
+            "Chippewa Falls, WI",
+            "Fort Collins, CO",
+            "Sunnyvale, CA",
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "e1fd5ad3-2dc9-4ade-a37a-4c22238f630d",
+        "title": "Firmware Engineer Graduate",
+        "active": true,
+        "date_updated": 1791268024,
+        "date_posted": 1787875200,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Graduate_1213626-1",
+        "locations": [
+            "Andover, MA",
+            "Bloomington, MN",
+            "San Jose, CA",
+            "Spring, TX",
+            "Durham, NC",
+            "Westford, MA",
+            "Chippewa Falls, WI",
+            "Fort Collins, CO",
+            "Sunnyvale, CA",
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "555d705f-986a-4d7a-bc14-484c1a624c40",
+        "title": "Electrical Design Engineer Graduate",
+        "active": true,
+        "date_updated": 1791268024,
+        "date_posted": 1788307200,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Design-Engineer-Graduate_1213429-1",
+        "locations": [
+            "Spring, TX",
+            "Chippewa Falls, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "09bc78f8-3e98-40cf-a2da-ff01543d1c8d",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1791268453,
+        "date_posted": 1787875200,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624-1",
+        "locations": [
+            "Andover, MA",
+            "Bloomington, MN",
+            "San Jose, CA",
+            "Spring, TX",
+            "Durham, NC",
+            "Westford, MA",
+            "Chippewa Falls, WI",
+            "Fort Collins, CO",
+            "Sunnyvale, CA",
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "6b3531fa-c404-461a-8f2b-f0688b34bdc2",
+        "title": "AI and Machine Learning Engineering Graduate",
+        "active": true,
+        "date_updated": 1791268024,
+        "date_posted": 1789257600,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Durham-North-Carolina-United-States-of-America/AI-and-Machine-Learning-Engineering-Graduate_1213475",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "140557f3-fbce-48b7-abe4-9024b2370417",
+        "title": "AI Workflow Specialist Graduate",
+        "active": true,
+        "date_updated": 1791268024,
+        "date_posted": 1789430400,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California-United-States-of-America/AI-Workflow-Specialist-Graduate_1211885",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Whoop",
+        "id": "ef70254f-651b-4cd4-b821-487b711b3052",
+        "title": "iOS Engineer 1",
+        "active": true,
+        "date_updated": 1791268409,
+        "date_posted": 1791267844,
+        "url": "https://jobs.ashbyhq.com/whoop/f9985943-da11-4cbd-9c44-d2f7e421f65e/application?embed=true",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Whoop",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "d95895c3-934b-48d5-bdcf-18b5c322274a",
+        "title": "Electrical/Hardware Engineer 1",
+        "active": true,
+        "date_updated": 1791268438,
+        "date_posted": 1790035200,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer-I_1213860-2",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Innovative Defense Technologies",
+        "id": "d749b796-98cf-4cdb-adce-bcb09ceee8ab",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791268024,
+        "date_posted": 1791267834,
+        "url": "https://idtus.pinpointhq.com/en/postings/3682c16a-648b-40c6-b3c2-3f99df29628f?ats=pinpointhq",
+        "locations": [
+            "Mt Laurel Township, NJ",
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Innovative-Defense-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fireworks AI",
+        "id": "92154dd4-75de-4b54-b71e-74c5d9d5e54e",
+        "title": "Member of Technical Staff New Grad - Research",
+        "active": true,
+        "date_updated": 1791268397,
+        "date_posted": 1791267827,
+        "url": "https://jobs.ashbyhq.com/fireworks/82b41f4a-a945-4aee-a1fd-1ef9ab513e58/application?embed=true",
+        "locations": [
+            "San Mateo, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fireworks-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "71209c58-8629-4d44-bfd3-c8075ab11f90",
+        "title": "Systems / Software Engineer 1 Graduate",
+        "active": true,
+        "date_updated": 1791268443,
+        "date_posted": 1789948800,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Systems---Software-Engineer-I-Graduate_1214984",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Fireworks AI",
+        "id": "2fe008c6-a902-4295-bf8d-b42eec551e68",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1791268024,
+        "date_posted": 1791267826,
+        "url": "https://jobs.ashbyhq.com/fireworks/69375f41-258a-4c25-ad78-5985606c438a/application?embed=true",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fireworks-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "1f3f2e83-3acf-402d-9096-2fd79fc7d1e1",
+        "title": "Electrical Hardware Engineer Graduate",
+        "active": true,
+        "date_updated": 1791268024,
+        "date_posted": 1790035200,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer-Graduate_1213434-2",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Aurora Innovation",
+        "id": "00c4d224-217e-46d3-b9f3-feb7981d3dfc",
+        "title": "Applied Researcher",
+        "active": true,
+        "date_updated": 1791268024,
+        "date_posted": 1791267828,
+        "url": "https://jobs.ashbyhq.com/aurora-operations-inc/eb7ed3f2-a8f5-416d-b880-4ed7c930f9c3/application?embed=true",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Pittsburgh, PA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "4a4ec7cc-a958-4c9b-91dc-88badf3c2593",
+        "title": "VLSI Engineer 2 New Grad",
+        "active": true,
+        "date_updated": 1791268442,
+        "date_posted": 1789948800,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/VLSI-Engineer-II-Graduate_1214955",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Innovative Defense Technologies",
+        "id": "25571f94-4ebf-437d-948c-23b90accec3a",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791268024,
+        "date_posted": 1791267834,
+        "url": "https://idtus.pinpointhq.com/en/postings/9afa5b50-f47e-4839-9653-5f66dd0090f0?ats=pinpointhq",
+        "locations": [
+            "Mt Laurel Township, NJ",
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Innovative-Defense-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fireworks AI",
+        "id": "52003851-c92f-4b80-85d1-0cfbfde820cd",
+        "title": "Member of Technical Staff New Grad",
+        "active": true,
+        "date_updated": 1791268400,
+        "date_posted": 1791267827,
+        "url": "https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e/application?embed=true",
+        "locations": [
+            "San Mateo, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fireworks-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "69291463-0d2a-4b48-9237-460794b735b2",
+        "title": "Platform System/Hardware Engineer - Customer Solutions Engineering",
+        "active": true,
+        "date_updated": 1791268024,
+        "date_posted": 1790035200,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Platform-System-Hardware-Engineer---Customer-Solutions-Engineering_1213922-2",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "6f1f1cfb-0e2b-4656-a32f-d7b6bace44f7",
+        "title": "VLSI Engineer 1 Graduate",
+        "active": true,
+        "date_updated": 1791268444,
+        "date_posted": 1789948800,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/VLSI-Engineer-I-Graduate_1214995",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "8b7185a5-3e0d-4d5f-b7d9-fe587a8cfb28",
+        "title": "Manageability Firmware Engineer",
+        "active": true,
+        "date_updated": 1791268024,
+        "date_posted": 1790553600,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Manageability-Firmware-Engineer_1214522-3",
+        "locations": [
+            "Bloomington, MN",
+            "Spring, TX",
+            "Chippewa Falls, WI",
+            "Fort Collins, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "96c79328-6473-4bfc-90c5-d588b0520811",
+        "title": "Electrical Hardware Engineer 1 Graduate",
+        "active": true,
+        "date_updated": 1791268368,
+        "date_posted": 1791072000,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electrical-Hardware-Engineer-I---Graduate_1213428",
+        "locations": [
+            "Chippewa Falls, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "40ea1169-bb74-4d83-a641-e491930f9aea",
+        "title": "Electrical Hardware Engineer 1",
+        "active": true,
+        "date_updated": 1791268364,
+        "date_posted": 1791158400,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Electrical-Hardware-Engineer-I_1215003",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "5ca6ffaa-b127-49e1-b986-4aaa08139fb3",
+        "title": "Graduate Systems/Software Engineer 1",
+        "active": true,
+        "date_updated": 1791268364,
+        "date_posted": 1791158400,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Graduate-Systems-Software-Engineer-I_1213439",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Whoop",
+        "id": "bdd26867-ca52-4259-8854-4b2f11893171",
+        "title": "Android Engineer 1",
+        "active": true,
+        "date_updated": 1791268334,
+        "date_posted": 1791267673,
+        "url": "https://jobs.ashbyhq.com/whoop/2910a5f6-fb5e-4fe6-bb9a-24d6995d8173/application?embed=true",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Whoop",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Whoop",
+        "id": "8dc34a98-6cba-4361-b5ab-d5e64d0e8b2e",
+        "title": "Software Engineer 1 - Frontend - AI Platform",
+        "active": true,
+        "date_updated": 1791268342,
+        "date_posted": 1791267680,
+        "url": "https://jobs.ashbyhq.com/whoop/b9dc032d-3fd9-4da4-ba2d-175d17bfaf80/application?embed=true",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Whoop",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Morningstar",
+        "id": "dfb61b68-f048-4f2c-b42c-151895a1fdc0",
+        "title": "Associate Quantitative Analyst",
+        "active": true,
+        "date_updated": 1791268326,
+        "date_posted": 1790640000,
+        "url": "https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Chicago/Morningstar-Development-Program---Quant-Track--Jan-2027-_REQ-058621",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Morningstar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "7ae12ead-4910-4bec-ac00-08d0fe1eb6e9",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1791268294,
+        "date_posted": 1791158400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineer-I--Onsite-_01874537",
+        "locations": [
+            "East Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Fanatics",
+        "id": "459741c2-bf49-4c03-9bd5-dd10cd671201",
+        "title": "Quantitative Analyst 1",
+        "active": true,
+        "date_updated": 1791268381,
+        "date_posted": 1791267338,
+        "url": "https://job-boards.greenhouse.io/fanaticsfbg/jobs/4426177009",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Fanatics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "KKR",
+        "id": "ccfd0124-7076-4c0e-b0ae-fc0f7712ccb8",
+        "title": "Insurance Portfolio Optimization & Construction",
+        "active": true,
+        "date_updated": 1791268024,
+        "date_posted": 1791267261,
+        "url": "https://www.kkr.com/careers/career-opportunities/post?gh_jid=5973472004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/KKR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
