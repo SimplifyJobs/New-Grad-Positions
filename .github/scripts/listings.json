@@ -1,68 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e73a030c-060b-43f5-b342-cb2036db54da",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770592309,
-        "date_posted": 1770592309,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048721",
-        "locations": [
-            "Chesterfield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cummins",
-        "id": "fb32e50b-7225-45b6-a968-376a5592570a",
-        "title": "Product Functional Test Technology Engineer",
-        "active": false,
-        "date_updated": 1770592074,
-        "date_posted": 1770592074,
-        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420156",
-        "locations": [
-            "Columbus, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Cummins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "LinkedIn",
-        "id": "19b9e8d0-9bcc-4b8d-8465-b3f7b7c9166c",
-        "title": "Software Engineer - Frontend - Media SDK Team",
-        "active": false,
-        "date_updated": 1770592083,
-        "date_posted": 1770592083,
-        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000108014435",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/LinkedIn",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Hewlett Packard Enterprise",
         "id": "8eb662f0-6128-4008-be14-9ba1cde370e8",
@@ -145327,7 +145265,7 @@
         "company_name": "Integrity",
         "id": "b065707e-df8b-4ae6-9436-f71afb2dfe41",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778797656,
         "date_posted": 1778796251,
         "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Urbandale-IA/Software-Engineer-I_JR4072",
@@ -284306,7 +284244,7 @@
         "company_name": "Hexagon AB ",
         "id": "b39239d0-829e-4eba-912a-0db837607248",
         "title": "Software Engineer - Algorithms",
-        "active": true,
+        "active": false,
         "date_updated": 1785968103,
         "date_posted": 1785968011,
         "url": "https://careers-hexagonpositioning.icims.com/jobs/3050/job?mobile=true&needsRedirect=false",
@@ -314543,7 +314481,7 @@
         "company_name": "CACI",
         "id": "4fe03bf3-4c12-4115-b009-2020faa2de23",
         "title": "AI Prompt Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787177882,
         "date_posted": 1787097600,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer_330802",
@@ -333104,7 +333042,7 @@
         "company_name": "Booz Allen",
         "id": "a1207d00-acc5-4c19-81b1-f641537fd9fd",
         "title": "Full-Stack Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1788223523,
         "date_posted": 1788134400,
         "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---Full-Stack-Developer_R0248330",
@@ -377732,7 +377670,7 @@
         "company_name": "Vanasse Hangen Brustlin",
         "id": "cfb9fca3-22b5-49d5-aa22-bdb43af80cbb",
         "title": "Transportation Safety Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1790172734,
         "date_posted": 1790172508,
         "url": "https://careers-vhb.icims.com/jobs/6362/job?mobile=true&needsRedirect=false",
@@ -380925,7 +380863,7 @@
         "company_name": "Varsity Brands",
         "id": "416e85c5-846c-4613-8d4d-2eccfbae2735",
         "title": "Software Engineer 1 - .Net",
-        "active": true,
+        "active": false,
         "date_updated": 1790385604,
         "date_posted": 1790385444,
         "url": "https://careers.varsitybrands.com/global/en/job/JR114518",
@@ -388730,7 +388668,7 @@
         "company_name": "AeroVironment",
         "id": "c1e61779-111b-4ecd-9669-2ec4ed62789a",
         "title": "Electrical, Electronic, and Electromechanical Parts Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791114679,
         "date_posted": 1787875200,
         "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/Electrical--Electronic--and-Electromechanical--EEE--Parts-Engineer_8584-1",
@@ -389003,7 +388941,7 @@
         "company_name": "Micron Technology",
         "id": "bb919aac-4319-42f6-ad73-3cba24157561",
         "title": "Senior HBM Design Architect",
-        "active": true,
+        "active": false,
         "date_updated": 1791110832,
         "date_posted": 1786060800,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Sr-HBM-Design-Architect--PhD-NCG_JR107044",
@@ -390004,7 +389942,7 @@
         "company_name": "Dext Capital",
         "id": "bd1ffadf-bcaf-4817-9838-d14aa8dfc7db",
         "title": "AI Engineering Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1791120553,
         "date_posted": 1790288681,
         "url": "https://ats.rippling.com/dext-capital-llc/jobs/ec6ab4a9-fd67-4acd-8e86-778db20fa8b7",
@@ -395822,6 +395760,106 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Dynamics",
+        "id": "eedf8923-da07-43c5-bcf4-f2f179992d85",
+        "title": "Configuration and Logistics Data Analyst 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1791327806,
+        "date_posted": 1791325323,
+        "url": "https://careers-gdbiw.icims.com/jobs/5403/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Brunswick, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "True Anomaly",
+        "id": "e3c0cc9c-ac7f-4225-a8aa-0ee526a4c063",
+        "title": "Software Engineer 1 to 3 - Digital Engineering",
+        "active": true,
+        "date_updated": 1791327766,
+        "date_posted": 1791327285,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007",
+        "locations": [
+            "Long Beach, CA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/TrueAnomaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RA Capital Management",
+        "id": "9badfac1-7ddd-47de-8976-a015cb441b3f",
+        "title": "Software Engineer - Data/AI",
+        "active": true,
+        "date_updated": 1791327424,
+        "date_posted": 1791326967,
+        "url": "https://job-boards.greenhouse.io/racapitalmanagementllc/jobs/5445201008",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RA-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Watershed",
+        "id": "65e29fb0-df7c-4d8b-975d-70cb0479b5a3",
+        "title": "Customer Data Specialist",
+        "active": true,
+        "date_updated": 1791327802,
+        "date_posted": 1791325911,
+        "url": "https://jobs.ashbyhq.com/Watershed/94a4a3bf-5a8c-44e4-ab78-de855d875d23/application?embed=true",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Watershed",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "549f3317-e3f3-4cb9-941f-293c4c097a51",
+        "title": "Software Engineer - ARINC661 Graphics",
+        "active": true,
+        "date_updated": 1791327637,
+        "date_posted": 1791244800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer---ARINC661-Graphics_01880175",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
