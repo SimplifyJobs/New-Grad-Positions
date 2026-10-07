@@ -307016,7 +307016,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -374427,7 +374427,7 @@
         "company_name": "Google",
         "id": "f85a296e-5acc-4a94-8a58-4c89081eeda7",
         "title": "Hardware Architecture Modeling Engineer - PhD - 2027 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1789482002,
         "date_posted": 1789481752,
         "url": "https://www.google.com/about/careers/applications/jobs/results/107494065192215238",
@@ -381357,7 +381357,7 @@
         "company_name": "Laminar",
         "id": "db2d8da9-7228-40f5-b73b-207cef46965b",
         "title": "Hardware Engineer - Research and Development",
-        "active": true,
+        "active": false,
         "date_updated": 1790678054,
         "date_posted": 1790298865,
         "url": "https://jobs.lever.co/runlaminar/facb7705-9d9e-406a-b053-02068a8c059a/apply",
@@ -395932,7 +395932,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa71e901-808c-47e5-ab2d-32344fa2c4e7",
         "title": "Engineering Apprentice",
-        "active": false,
+        "active": true,
         "date_updated": 1791353752,
         "date_posted": 1790201057,
         "url": "https://higher.gs.com/roles/174814?type=students",
@@ -396234,5 +396234,46 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Systems Planning and Analysis",
+        "id": "a54c604c-7d2b-4184-8be8-d1c7ead6f9f7",
+        "title": "Junior Targeting Analyst",
+        "active": true,
+        "date_updated": 1791370478,
+        "date_posted": 1790932032,
+        "url": "https://spa.jibeapply.com/jobs/23563?icims=1",
+        "locations": [
+            "Sterling, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/System-Planning-And-Analysis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian",
+        "id": "c6de9e69-3c38-46eb-8533-e55050dcce1b",
+        "title": "Early Career Validation Engineer - Vehicle Hardware",
+        "active": true,
+        "date_updated": 1791369912,
+        "date_posted": 1783548570,
+        "url": "https://careers.rivian.com/jobs/32131?icims=1",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
