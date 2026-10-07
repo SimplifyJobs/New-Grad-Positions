@@ -396373,5 +396373,65 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "c470d3f7-8434-4bde-b108-52aa94d886e9",
+        "title": "Power Electronics Test Engineer 1",
+        "active": true,
+        "date_updated": 1791375515,
+        "date_posted": 1791158400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Power-Electronics-Test-Engineer-I---Onsite_01879531",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johnson Controls",
+        "id": "b86bf1a1-7527-477a-80d3-a9a1cbf29c78",
+        "title": "Nextgen Hardware Engineer: Fire Suppression",
+        "active": true,
+        "date_updated": 1791375506,
+        "date_posted": 1789344000,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Cranston-Rhode-Island-United-States-of-America/NextGen-Hardware-Engineer--Fire-Suppression_WD30279367",
+        "locations": [
+            "Cranston, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Omnicom Group",
+        "id": "87af3741-b7cb-43fd-b696-2903c7914802",
+        "title": "Associate Marketing Science",
+        "active": true,
+        "date_updated": 1791374613,
+        "date_posted": 1785456000,
+        "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/Chicago-Illinois-United-States-of-America/Data-Science-and-Analytics-NEX-03_R11427",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Omnicom-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
