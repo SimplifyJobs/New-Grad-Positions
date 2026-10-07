@@ -312008,7 +312008,7 @@
         "company_name": "Citylogix",
         "id": "10dc0728-ebb9-4b22-b529-89f376b30e93",
         "title": "Field Data Collections Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1787093943,
         "date_posted": 1787093786,
         "url": "https://ats.rippling.com/citylogix/jobs/1d58c812-9c4a-4f17-b86a-eebe62619272",
@@ -340333,7 +340333,7 @@
         "company_name": "Mastercard",
         "id": "304edc4b-549b-4911-a0b2-84a984d579d2",
         "title": "Software Engineer - Launch Program",
-        "active": true,
+        "active": false,
         "date_updated": 1788420786,
         "date_posted": 1788307200,
         "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Vancouver-Canada/Software-Engineer--Launch-Program-2027---Vancouver--Canada_R-287622",
@@ -396093,5 +396093,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TT Electronics",
+        "id": "121fb45d-468d-4199-aca3-d5daa9d50220",
+        "title": "Electronics Test Engineer",
+        "active": true,
+        "date_updated": 1791363502,
+        "date_posted": 1786687091,
+        "url": "https://global-portal-ttelectronics.icims.com/jobs/6179/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Barnstaple, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TT-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
