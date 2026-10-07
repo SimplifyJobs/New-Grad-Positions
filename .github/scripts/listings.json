@@ -230158,7 +230158,7 @@
         "company_name": "Akuna Capital University",
         "id": "5ea8412e-6f15-4f24-b9a2-a32f48b02a27",
         "title": "Software Engineer - Python",
-        "active": false,
+        "active": true,
         "date_updated": 1783981441,
         "date_posted": 1783980578,
         "url": "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230",
@@ -230180,7 +230180,7 @@
         "company_name": "Akuna Capital University",
         "id": "0ddd865a-c11f-4160-8014-9d9cb6889252",
         "title": "Junior Quantitative Researcher",
-        "active": false,
+        "active": true,
         "date_updated": 1783981441,
         "date_posted": 1783980595,
         "url": "https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541",
@@ -230467,7 +230467,7 @@
         "company_name": "Akuna Capital University",
         "id": "a92f1e72-634c-4222-886a-0b93307f9477",
         "title": "Junior Quantitative Developer & Strategist",
-        "active": false,
+        "active": true,
         "date_updated": 1783980724,
         "date_posted": 1783980586,
         "url": "https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687",
@@ -231116,7 +231116,7 @@
         "company_name": "Akuna Capital University",
         "id": "73cbd0da-d5af-4887-a89e-c404bc218ef3",
         "title": "Junior Trader",
-        "active": false,
+        "active": true,
         "date_updated": 1783982164,
         "date_posted": 1783980602,
         "url": "https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141",
@@ -387496,7 +387496,7 @@
         "company_name": "SpaceX",
         "id": "1b0ed45f-daff-44e4-96e2-551ed31d329e",
         "title": "Product Operations Engineer - Government Applications - Special Programs",
-        "active": true,
+        "active": false,
         "date_updated": 1791066601,
         "date_posted": 1790990823,
         "url": "https://boards.greenhouse.io/spacex/jobs/8864991002",
@@ -395979,6 +395979,44 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Figure",
+        "id": "4442183a-a206-4d3f-a9ed-68d6b06b452f",
+        "title": "Humanoid Robot Operator - Commercial Site Team",
+        "active": true,
+        "date_updated": 1791337346,
+        "date_posted": 1776464494,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4674402006",
+        "locations": [
+            "Reno, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Figure-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "f9c39daf-9f62-4431-bf7d-acc89559372a",
+        "title": "Software Engineer - Starshield Products",
+        "active": true,
+        "date_updated": 1791336601,
+        "date_posted": 1790990823,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8865057002",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
