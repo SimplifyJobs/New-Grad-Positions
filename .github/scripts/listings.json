@@ -1,68 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "8eb662f0-6128-4008-be14-9ba1cde370e8",
-        "title": "General Engineering - Chippewa Falls - Wisconsin",
-        "active": false,
-        "date_updated": 1770604077,
-        "date_posted": 1770604077,
-        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Chippewa-Falls-Wisconsin-United-States-of-America/General-Engineering--Chippewa-Falls--Wisconsin_1201459",
-        "locations": [
-            "Eau Claire, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "046e6135-45a0-4e94-a20a-91653c5fa6ea",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1770604074,
-        "date_posted": 1770604074,
-        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/Software-Engineer-I_1202397",
-        "locations": [
-            "Roseville, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Huntington Ingalls Industries",
-        "id": "4ea8fcdf-dd84-4d24-8098-caa377d16368",
-        "title": "Software Development Engineer",
-        "active": false,
-        "date_updated": 1770602992,
-        "date_posted": 1770602992,
-        "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-Virg/1362993700/?ats=successfactors",
-        "locations": [
-            "Newport News, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "fc515074-80e1-4e09-9d58-1d4bd8cd5a55",
