@@ -187489,7 +187489,7 @@
         "company_name": "Viridien",
         "id": "ba9a6dcc-a160-4ada-a8fb-35dc158ac085",
         "title": "Seismic Imaging Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1781186761,
         "date_posted": 1781186582,
         "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Seismic-Imaging-Analyst_JR101333-2",
@@ -311613,7 +311613,7 @@
         "company_name": "SAM",
         "id": "560db1fb-22f5-4680-b792-9bf27494b76e",
         "title": "Lidar Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787091516,
         "date_posted": 1787090779,
         "url": "https://careers.sam.biz/jobs/7967?icims=1",
@@ -355725,7 +355725,7 @@
         "company_name": "Houlihan Lokey",
         "id": "02d4962a-c9a6-4016-9dc4-6d0e8850bcaf",
         "title": "Financial Analyst - Structured Products",
-        "active": false,
+        "active": true,
         "date_updated": 1788511641,
         "date_posted": 1783375593,
         "url": "https://hl.wd1.myworkdayjobs.com/Campus/job/London-UK/Financial-Analyst--Portfolio-Valuation-and-Fund-Advisory-Services--Structured-Products---2026-Graduate---London_R3390",
@@ -396509,6 +396509,71 @@
             "Olathe, KS"
         ],
         "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Snorkel AI",
+        "id": "ca427b99-8e92-4e4b-bde3-282eb027cad0",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791384661,
+        "date_posted": 1791384452,
+        "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6219198004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Snorkel-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uline",
+        "id": "a698dd4a-2fd0-4d86-950a-9943757dc891",
+        "title": "Direct Marketing Analyst",
+        "active": true,
+        "date_updated": 1791384121,
+        "date_posted": 1791331200,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Direct-Marketing-Analyst_R268053-2",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Glenview, IL",
+            "Pleasant Prairie, WI",
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "4dbd811e-0477-41e7-b085-cba2d9e1cb62",
+        "title": "Junior Systems Engineer",
+        "active": true,
+        "date_updated": 1791384748,
+        "date_posted": 1790899200,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Junior-Systems-Engineer_R-00193784",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
