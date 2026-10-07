@@ -186823,7 +186823,7 @@
         "company_name": "The Voleon Group",
         "id": "227e984c-6907-420a-919f-aa6d92ed97d6",
         "title": "Associate Member of Trading Staff",
-        "active": true,
+        "active": false,
         "date_updated": 1781168941,
         "date_posted": 1781168812,
         "url": "https://jobs.ashbyhq.com/voleon/27f604ea-306f-4c8e-a86f-de50a28a6125/application",
@@ -306653,7 +306653,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -307034,7 +307034,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -381333,7 +381333,7 @@
         "company_name": "Foundation ",
         "id": "141be276-45a8-4c54-9329-770037f214ce",
         "title": "Robotics Build Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790674562,
         "date_posted": 1781935680,
         "url": "https://ats.rippling.com/foundation-robotics/jobs/ea786091-a229-45bb-ab72-db0a49e6e91c",
@@ -395950,7 +395950,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa71e901-808c-47e5-ab2d-32344fa2c4e7",
         "title": "Engineering Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1791353752,
         "date_posted": 1790201057,
         "url": "https://higher.gs.com/roles/174814?type=students",
@@ -396111,5 +396111,86 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "7ef78771-a2e4-4642-88ef-6a719ad563eb",
+        "title": "Associate Systems Engineer",
+        "active": true,
+        "date_updated": 1791364523,
+        "date_posted": 1791364025,
+        "url": "https://jobs.l3harris.com/job/Waco-Associate,-Systems-Engineering-TX-76705/1437638600/?ats=successfactors",
+        "locations": [
+            "Waco, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "The Federal Reserve System",
+        "id": "1045399f-ac4f-4a03-b613-601f3ff8daa0",
+        "title": "Research Associate",
+        "active": true,
+        "date_updated": 1791364823,
+        "date_posted": 1788134400,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Kansas-City-MO/Research-Associate_R-0000033197-1",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Federal-Reserve-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AMD",
+        "id": "20c5756e-32c3-4959-976f-f219f348efb2",
+        "title": "Electronics Engineering Technician",
+        "active": true,
+        "date_updated": 1791364322,
+        "date_posted": 1788021789,
+        "url": "https://careers.amd.com/jobs/91410?icims=1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Systems Planning and Analysis",
+        "id": "3177c7b6-7131-40a1-8a03-ba816d93d084",
+        "title": "Junior Foreign Military Sales Test Engineer",
+        "active": true,
+        "date_updated": 1791365041,
+        "date_posted": 1785575352,
+        "url": "https://spa.jibeapply.com/jobs/22655?icims=1",
+        "locations": [
+            "Redstone Arsenal, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/System-Planning-And-Analysis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
