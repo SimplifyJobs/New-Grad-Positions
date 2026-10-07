@@ -265771,7 +265771,7 @@
         "company_name": "Observable Space",
         "id": "ae72d45f-8a3a-45db-9cf2-c1cdb945e21e",
         "title": "Junior Electrical Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1785319922,
         "date_posted": 1775254165,
         "url": "https://jobs.ashbyhq.com/observable-space/18d4da43-e393-466f-9f81-47c97b51d0ac/application?embed=true",
@@ -339874,7 +339874,7 @@
         "company_name": "RTX",
         "id": "93f17a30-5861-4a48-b301-7aed69379a4d",
         "title": "Advanced Effector Guidance Systems Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788416286,
         "date_posted": 1787875200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/Advanced-Effector-Guidance-Systems-Electrical-Engineer-I--Onsite-_01870445",
@@ -378845,7 +378845,7 @@
         "company_name": "Goldbelt",
         "id": "c1dc38f5-2da8-4e4d-ad87-f34626d3784b",
         "title": "Junior Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1790287741,
         "date_posted": 1790287739,
         "url": "https://talent.goldbelt.com/jobs/20717?icims=1",
@@ -385954,7 +385954,7 @@
         "company_name": "RTX",
         "id": "7525137e-4f3a-4f97-9fbb-f2d715545fb4",
         "title": "Software Test Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790903881,
         "date_posted": 1790812800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Test-Engineer-I_01879609",
@@ -390293,7 +390293,7 @@
         "company_name": "Leidos",
         "id": "ab04c6a1-e90b-4544-b69d-40557f39a1d7",
         "title": "Radar Modeling Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791121597,
         "date_posted": 1786320000,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Radar-Modeling-Engineer_R-00189109",
@@ -390517,7 +390517,7 @@
         "company_name": "Leidos",
         "id": "af37ffb2-82fc-4e40-91e1-c719bb1ce684",
         "title": "GIS Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1791123270,
         "date_posted": 1790726400,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/10606-Raleigh-NC-Home-Office/GIS-Technician_R-00193517-1",
@@ -396275,5 +396275,63 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medpace",
+        "id": "f14c1fc7-86d6-4b66-b3d6-dc24eb16ea06",
+        "title": "Junior Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1791370992,
+        "date_posted": 1791036753,
+        "url": "https://careers.medpace.com/jobs/12986?icims=1",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Medpace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Trane Technologies",
+        "id": "95ade040-1076-421e-993e-0a2fd827acda",
+        "title": "Electronics Technician 1",
+        "active": true,
+        "date_updated": 1791370961,
+        "date_posted": 1790720642,
+        "url": "https://careers.tranetechnologies.com/global/en/job/JR-16431",
+        "locations": [
+            "La Crosse, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Critical Response Group",
+        "id": "9bd996c7-37aa-436a-b394-85ec16b51869",
+        "title": "Field Mapping Associate",
+        "active": true,
+        "date_updated": 1791371274,
+        "date_posted": 1790720527,
+        "url": "https://ats.rippling.com/critical-response-group/jobs/4285f96c-c3f4-434c-bcf3-3efd5dc50739",
+        "locations": [
+            "East Lansing, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Critical-Response-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
