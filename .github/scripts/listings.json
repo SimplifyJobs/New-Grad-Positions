@@ -392162,7 +392162,7 @@
         "company_name": "RTX",
         "id": "cec36906-9fef-4814-9cda-ebc1501ab28e",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791240279,
         "date_posted": 1791158400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineer-I--Onsite-_01878730-1",
@@ -396333,5 +396333,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "5e587a0f-d8a6-406d-86ea-e03614e44b24",
+        "title": "Electrical Engineer 1 - Effector Guidance Sections",
+        "active": true,
+        "date_updated": 1791374080,
+        "date_posted": 1790812800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Electrical-Engineer-I---Effector-Guidance-Sections_01834583",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "ea20da73-0ade-4917-8fbf-e5b54c76a12d",
+        "title": "Systems Engineer 2",
+        "active": true,
+        "date_updated": 1791373369,
+        "date_posted": 1788393600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Systems-Engineer-II--Onsite_01872209",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
