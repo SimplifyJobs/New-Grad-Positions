@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 531 New Grad Roles by Category
+### Browse 530 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (308)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (307)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (12)
 
@@ -337,13 +337,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>NYC</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2bdc9b65-ae92-4477-b012-6fd3d78589be?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>5d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Software Engineer 1</td>
-<td>Richardson, TX</td>
-<td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01875418?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2053c593-1305-4042-a320-4a22dd690ec4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/EvenUp?utm_source=GHList&utm_medium=company">EvenUp</a></strong></td>
@@ -2240,7 +2233,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1192)</summary>
+<summary>🗃️ Inactive roles (1193)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2320,6 +2313,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Texas-Sports-Academy?utm_source=GHList&utm_medium=company">Texas Sports Academy</a></strong></td>
 <td>Junior AI Software Engineer</td>
 <td>Austin, TX</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Software Engineer 1</td>
+<td>Richardson, TX</td>
 <td>🔒</td>
 <td>6d</td>
 </tr>
@@ -14443,7 +14443,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Software Engineer - Research & Development Engineering</td>
 <td>Wimborne Minster, Wimborne, UK</td>
 <td><div align="center"><a href="https://eaton.eightfold.ai/careers/job/687239270493?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ad94e698-73da-45ef-a454-9ae7ba1a268b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
