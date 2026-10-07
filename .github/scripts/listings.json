@@ -347807,7 +347807,7 @@
         "company_name": "RTX",
         "id": "bf79ce83-617f-414c-a109-b3809235df00",
         "title": "Systems Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788447948,
         "date_posted": 1786579200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineer-I_01866673",
@@ -381674,7 +381674,7 @@
         "company_name": "Pennsylvania State University",
         "id": "765df062-4c56-437f-b00d-e521eb0026cd",
         "title": "Engineering Technologist - Electrical",
-        "active": true,
+        "active": false,
         "date_updated": 1790702571,
         "date_posted": 1789948800,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Technologist--Electrical_REQ_0000081913-2",
@@ -381796,7 +381796,7 @@
         "company_name": "TransPerfect",
         "id": "f07f29b5-66d5-475e-adab-08954ba49c92",
         "title": "Litigation Support Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1790703290,
         "date_posted": 1783168644,
         "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY/Litigation-Support-Analyst_R2025-244091",
@@ -394567,7 +394567,7 @@
         "company_name": "RTX",
         "id": "29effb61-85e3-4439-8865-2ab592084d1b",
         "title": "Electrical Engineer 1 - Test",
-        "active": true,
+        "active": false,
         "date_updated": 1791297722,
         "date_posted": 1789516800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-I---Test_01873950",
@@ -395408,7 +395408,7 @@
         "company_name": "Capital One",
         "id": "59736ed0-38bb-4862-b4f8-b416c14876f4",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1791326809,
         "date_posted": 1791244800,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R1003048",
@@ -396432,6 +396432,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Home Depot",
+        "id": "6c781675-4fa2-4831-8d63-86cc4fb198f1",
+        "title": "Associate Data Scientist - Supply Chain",
+        "active": true,
+        "date_updated": 1791378541,
+        "date_posted": 1790899200,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist_Req195136",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Home-Depot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
