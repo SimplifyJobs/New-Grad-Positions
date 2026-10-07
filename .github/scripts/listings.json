@@ -306653,7 +306653,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -340354,7 +340354,7 @@
         "company_name": "Mastercard",
         "id": "20cf24f4-5879-4261-9b6a-216881df3264",
         "title": "Software Engineer - Launch Program",
-        "active": true,
+        "active": false,
         "date_updated": 1788420786,
         "date_posted": 1788307200,
         "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Toronto-Canada/Software-Engineer--Launch-Program-2027---Toronto--Canada_R-287621",
@@ -368556,7 +368556,7 @@
         "company_name": "Leviton",
         "id": "57762e0c-9f4e-4751-a01e-dc445678ec9c",
         "title": "Associate Electrical Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789481881,
         "date_posted": 1789481764,
         "url": "https://careers.leviton.com/jobs/6019?icims=1",
@@ -385932,7 +385932,7 @@
         "company_name": "RTX",
         "id": "2053c593-1305-4042-a320-4a22dd690ec4",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790903969,
         "date_posted": 1790812800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01875418",
@@ -396187,6 +396187,48 @@
             "Redstone Arsenal, AL"
         ],
         "company_url": "https://simplify.jobs/c/System-Planning-And-Analysis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "be3d4ee8-4dc8-4c20-bae9-49826174e869",
+        "title": "Systems Software Engineer - AI and Cloud",
+        "active": true,
+        "date_updated": 1791367136,
+        "date_posted": 1791244800,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "59e18143-8042-4a91-96f7-4d3bbed0be51",
+        "title": "Screening and Integration Engineer - Watch Software, Sensing and Connectivity",
+        "active": true,
+        "date_updated": 1791366281,
+        "date_posted": 1782972393,
+        "url": "https://jobs.apple.com/en-us/details/200670523",
+        "locations": [
+            "Cupertino, CA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
