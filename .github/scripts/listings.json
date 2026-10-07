@@ -1,110 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Bass Pro Shops",
-        "id": "328e89a9-23b4-4112-895e-6ac3480281e2",
-        "title": "Marine Service Technician",
-        "active": false,
-        "date_updated": 1770652083,
-        "date_posted": 1770652083,
-        "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Richfield-WI/Marine-Service-Technician_R247504",
-        "locations": [
-            "Menomonee Falls, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Bass-Pro-Shops",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Allstate Insurance Company",
-        "id": "b3b743ac-c13f-417d-befd-df0c203c47f8",
-        "title": "Graduate Product Engineers - Registration of Interest",
-        "active": false,
-        "date_updated": 1770651913,
-        "date_posted": 1770651913,
-        "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Belfast-10-Mays-Meadow/Graduate-Product-Engineers---Registration-of-Interest_R26289",
-        "locations": [
-            "Londonderry, UK",
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Boeing Company",
-        "id": "fc28a1d7-0af7-4345-8586-41f45ddf716c",
-        "title": "Associate Finance Analytics Analyst - Finance Analytics",
-        "active": false,
-        "date_updated": 1770651701,
-        "date_posted": 1770651701,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Associate-Finance-Analytics-Analyst_JR2026495245-1",
-        "locations": [
-            "Tukwila, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD",
-            "JD",
-            "MD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "940bd01e-1ce3-4c78-831f-03d40fd904ad",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1770651389,
-        "date_posted": 1770651389,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7599076",
-        "locations": [
-            "Gainesville, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Howard County Public School System",
-        "id": "17b79faf-d948-4209-891f-dadc5e5e50b0",
-        "title": "Programmer Analyst 1",
-        "active": false,
-        "date_updated": 1770651157,
-        "date_posted": 1770651157,
-        "url": "https://hcpss.wd1.myworkdayjobs.com/hcpss/job/Central-Office/Programmer-Analyst-I_R0001914",
-        "locations": [
-            "Maryland"
-        ],
-        "company_url": "https://simplify.jobs/c/HCPSS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Louisiana State University (LSU)",
         "id": "d13701ad-6f7f-49ca-9f37-6b6ee1015678",
@@ -221066,7 +220962,7 @@
         "company_name": "The Access Group",
         "id": "093cdbb8-4410-448c-a982-8ac9a9d866f2",
         "title": "Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783435326,
         "date_posted": 1783433573,
         "url": "https://theaccessgroup.wd103.myworkdayjobs.com/Access_Group_External_Careers/job/United-Kingdom-Remote/Product-Manager_JR004229-2",
@@ -230821,7 +230717,7 @@
         "company_name": "Akuna Capital University",
         "id": "73cbd0da-d5af-4887-a89e-c404bc218ef3",
         "title": "Junior Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1783982164,
         "date_posted": 1783980602,
         "url": "https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141",
@@ -308835,7 +308731,7 @@
         "company_name": "Leviton",
         "id": "be06f131-99fe-4408-a086-e9b782d98bcd",
         "title": "Associate Embedded Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787005802,
         "date_posted": 1787005707,
         "url": "https://careers.leviton.com/jobs/5991?icims=1",
@@ -338178,7 +338074,7 @@
         "company_name": "Citi",
         "id": "45f17891-1cd5-45a2-b597-b2e563ab034b",
         "title": "Quantitative Analysis Associate - Markets",
-        "active": true,
+        "active": false,
         "date_updated": 1788405846,
         "date_posted": 1788220800,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Markets--Quantitative-Analysis--Full-Time-Associate--London--2027_26984782",
@@ -378625,7 +378521,7 @@
         "company_name": "CACI",
         "id": "ee5c8174-efce-40b3-a4d2-fd27931c66ec",
         "title": "Software Engineer Early Career - Cloud",
-        "active": true,
+        "active": false,
         "date_updated": 1790263981,
         "date_posted": 1790263648,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679",
@@ -388091,7 +387987,7 @@
         "company_name": "Jefferies",
         "id": "4fa29ba6-6d5b-4946-8b7b-fd5360d5ee2b",
         "title": "Equity Derivatives Risk Quant - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1791105662,
         "date_posted": 1783375446,
         "url": "https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4582",
