@@ -3,65 +3,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "fc515074-80e1-4e09-9d58-1d4bd8cd5a55",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770621063,
-        "date_posted": 1770621063,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048732",
-        "locations": [
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CivilGrid",
-        "id": "cdc4e083-a34f-4cd7-9893-cf0c92b0137d",
-        "title": "GIS Analyst 1",
-        "active": false,
-        "date_updated": 1770621151,
-        "date_posted": 1770621151,
-        "url": "https://jobs.ashbyhq.com/civilgrid/a81b2748-e239-4752-962d-b64316cb3382/application",
-        "locations": [
-            "Kansas City, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/CivilGrid",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "University of Central Florida",
-        "id": "2768df52-54e8-4b6c-9ad7-489f14b8c767",
-        "title": "Research Embedded Training Assistant / Software Engineer",
-        "active": false,
-        "date_updated": 1770622141,
-        "date_posted": 1770622141,
-        "url": "https://ucf.wd1.myworkdayjobs.com/careers/job/RESEARCH-PARK/Assistant-In-Research-Embedded-Training---Software-Engineer_R112596-2",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/UCF",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "80d8e321-82fc-4d02-b275-0c5b5e722cf0",
         "title": "Trading Assistant - Shift",
         "active": false,
@@ -384094,7 +384035,7 @@
         "company_name": "PG&E",
         "id": "de2e7aef-3f85-4d5d-a785-80237b864ee3",
         "title": "Product Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1790806277,
         "date_posted": 1790805935,
         "url": "https://careers.pge.com/job/Oakland-Product-Engineer,-Associate-CA-94612/1435363700/?ats=successfactors",
@@ -389799,7 +389740,7 @@
         "company_name": "Arcfield",
         "id": "6b7f15e6-d3e2-479a-a930-500b30ef65b5",
         "title": "Software Engineer-On Call",
-        "active": true,
+        "active": false,
         "date_updated": 1791119341,
         "date_posted": 1790125627,
         "url": "https://careers.arcfield.com/jobs/8675?icims=1",
@@ -390797,7 +390738,7 @@
         "company_name": "Microsoft",
         "id": "f88093bb-d2d0-4394-a197-5b0f1159eec8",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791124405,
         "date_posted": 1790903398,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557022395",
