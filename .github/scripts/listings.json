@@ -16052,7 +16052,7 @@
         "company_name": "NVIDIA",
         "id": "7fb2f96e-3662-4a02-a0c2-e7bbd2663ce9",
         "title": "System Design Engineer \u2013 New College Grad 2026",
-        "active": false,
+        "active": true,
         "date_updated": 1771543465,
         "date_posted": 1771543465,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Design-Engineer---New-College-Grad-2026_JR2011879",
@@ -218928,7 +218928,7 @@
         "company_name": "Everfox",
         "id": "5b51e676-8b92-4a35-a771-c5e6ce70e43c",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783348324,
         "date_posted": 1783347131,
         "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/GBR_WS_Malvern/Software-Engineer-I_JR500693-1",
@@ -292483,7 +292483,7 @@
         "company_name": "Voya Financial",
         "id": "0c0c2d34-0467-4be2-a6e1-dcfb4d5fedb0",
         "title": "Quantitative Research Analyst - Systematic Equities",
-        "active": false,
+        "active": true,
         "date_updated": 1786400102,
         "date_posted": 1786400099,
         "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/New-York-NY/AVP-Quantitative-Research-Analyst_JR0031863",
@@ -306375,7 +306375,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -306756,7 +306756,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -315861,7 +315861,7 @@
         "company_name": "L3Harris Technologies",
         "id": "fee08a6e-e0de-4bb8-84ad-c51e7658c69d",
         "title": "Software Engineering Senior Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1787238113,
         "date_posted": 1787237894,
         "url": "https://jobs.l3harris.com/job/Tulsa-Senior-Associate,-Software-Engineering-OK-74115/1421451700/?ats=successfactors",
@@ -333460,7 +333460,7 @@
         "company_name": "IXL Learning",
         "id": "1cf2b338-7870-42b6-a290-49ed01eb12cd",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1788239101,
         "date_posted": 1788238177,
         "url": "https://www.ixl.com/company/jobs?gh_jid=8765715002",
@@ -396378,5 +396378,313 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "57799ea2-a163-43b4-a26c-1a91102d737e",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791412162,
+        "date_posted": 1791411135,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557022926",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JP Morgan Chase",
+        "id": "e188d38a-7ef5-41b5-8e5b-67ef8459e9c2",
+        "title": "Full-stack Software Engineer 1 - AI Engineering",
+        "active": true,
+        "date_updated": 1791412067,
+        "date_posted": 1791411066,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792897",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "2b3eca81-2577-435b-bff1-4b7a0b5a3e9a",
+        "title": "Simulation Framework Engineer 1",
+        "active": true,
+        "date_updated": 1791412070,
+        "date_posted": 1791411064,
+        "url": "https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "b2bf950b-bf97-4b9c-8ab7-e96bfd87276a",
+        "title": "Simulation Framework Engineer 2 - Simulation Framework",
+        "active": true,
+        "date_updated": 1791412072,
+        "date_posted": 1791411064,
+        "url": "https://jobs.lever.co/shieldai/39a7aa1b-9988-4ac7-ade9-12dd16cbae62/apply",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "4f1c3a3a-978c-456b-855b-50eaf8efdb9e",
+        "title": "Associate Systems Engineer",
+        "active": true,
+        "date_updated": 1791411975,
+        "date_posted": 1791410998,
+        "url": "https://jobs.l3harris.com/job/Plano-Associate,-Systems-Engineering-TX-75074/1437945300/?ats=successfactors",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "f3b1a57c-3417-445f-a783-33548934141a",
+        "title": "Associate Software Engineering",
+        "active": true,
+        "date_updated": 1791411969,
+        "date_posted": 1791410998,
+        "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1437963000/?ats=successfactors",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "26312bf9-da72-4a4d-bd0d-d68bbce60496",
+        "title": "Screening & Integration Engineer - Watch Software - Sensing & Connectivity",
+        "active": true,
+        "date_updated": 1791411496,
+        "date_posted": 1791410960,
+        "url": "https://jobs.apple.com/en-us/details/200687790",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVS Health",
+        "id": "4748bdac-ebc0-4811-92fb-dc2456155fd2",
+        "title": "Associate Software Development Engineer - Conversion",
+        "active": true,
+        "date_updated": 1791411496,
+        "date_posted": 1791331200,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Work-from-home/Associate-Software-Development-Engineer--Conversion-_R1056490",
+        "locations": [
+            "New Mexico",
+            "Washington",
+            "Kansas",
+            "Pennsylvania",
+            "North Dakota",
+            "Oregon",
+            "Delaware",
+            "Iowa",
+            "California",
+            "Washington, DC",
+            "Vermont",
+            "Wyoming",
+            "Connecticut",
+            "Texas",
+            "Montana",
+            "Florida",
+            "New Hampshire",
+            "Nevada",
+            "South Carolina",
+            "South Dakota",
+            "Georgia",
+            "Arizona",
+            "Mississippi",
+            "Tennessee",
+            "Virginia",
+            "Arkansas",
+            "Minnesota",
+            "Colorado",
+            "Nebraska",
+            "Rhode Island",
+            "Utah",
+            "Kentucky",
+            "West Virginia",
+            "NYC",
+            "Maryland",
+            "Hawaii",
+            "Wisconsin",
+            "Maine",
+            "Massachusetts",
+            "North Carolina",
+            "Oklahoma",
+            "Missouri",
+            "Ohio",
+            "New Jersey",
+            "Indiana",
+            "Louisiana",
+            "Alaska",
+            "Michigan",
+            "Illinois",
+            "Alabama",
+            "Idaho"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Monolithic Power Systems",
+        "id": "9fb89ebd-308d-44a4-801c-466765cbad8c",
+        "title": "Software Engineer - Building Automation",
+        "active": true,
+        "date_updated": 1791411496,
+        "date_posted": 1791331200,
+        "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Software-Engineer--Building-Automation_R-2037",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Monolithic-Power-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lightcast",
+        "id": "35c44a71-2cec-49fb-9bd4-234c09d098e5",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791410943,
+        "date_posted": 1791410855,
+        "url": "https://jobs.lever.co/economicmodeling/bbd08018-de36-4c25-b259-8e4cc6c91ecc/apply",
+        "locations": [
+            "Moscow, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Lightcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Turner & Townsend",
+        "id": "4e1a6592-51f3-4901-af1c-8c2dd60c51a8",
+        "title": "Corporate Responsibility Level 4 Data Analyst Apprentice",
+        "active": true,
+        "date_updated": 1791410943,
+        "date_posted": 1791410942,
+        "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000154125779",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Turner-And-Townsend",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "d76fbe12-b84b-46ff-9963-f1995dbcadea",
+        "title": "Research Scientist PhD New Grad - Autonomous Systems and Physical AI Research",
+        "active": true,
+        "date_updated": 1791411481,
+        "date_posted": 1791331200,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "4cb94cd1-4f52-44d4-bcd3-709b0ce1871d",
+        "title": "Computational Chemistry and Data Analytics",
+        "active": true,
+        "date_updated": 1791411442,
+        "date_posted": 1791410883,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990015960159",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
