@@ -1,142 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "d617fb4e-a5ed-460e-a621-8a68e7915a71",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1770650302,
-        "date_posted": 1770650302,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/b294635c-eb2c-45f2-a4b4-5e042fd19d65/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "c839ec7c-1757-4156-afc3-8c70636e4db1",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1770650302,
-        "date_posted": 1770650302,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/d393cae7-b653-4abd-afef-f88241741630/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "95557801-c7da-4634-8ada-4c36f7ef874a",
-        "title": "Software Engineer - Entry",
-        "active": false,
-        "date_updated": 1770650319,
-        "date_posted": 1770650319,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/7bb23133-e09d-4804-be90-4217fd951738/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "6cda5e2f-1d70-43b0-9413-f63eb2aa4631",
-        "title": "Software Engineer - Entry",
-        "active": false,
-        "date_updated": 1770650290,
-        "date_posted": 1770650290,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/6a0dd919-cede-4047-bfc1-2e055bbdebed/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "40a24235-0ab1-41f6-bfba-fc1f4087cd27",
-        "title": "Assembly B",
-        "active": false,
-        "date_updated": 1770650289,
-        "date_posted": 1770650289,
-        "url": "https://jobs.l3harris.com/job/Rochester-Assembly-B-NY-14623/1363074700/?ats=successfactors",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "City Electrical Factors",
-        "id": "9bb7cf95-fb87-42fd-a6dc-1845a1ac1931",
-        "title": "Data Administrator",
-        "active": false,
-        "date_updated": 1770650130,
-        "date_posted": 1770650130,
-        "url": "https://jobs.lever.co/cef/9b6ddcc0-d32d-4c56-8724-743054f4c2fd/apply",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/City-Electrical-Factors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "General Dynamics",
-        "id": "eea53c5f-6f30-4532-b56b-9e5018e1e36b",
-        "title": "Configuration and Logistics Data Analyst 1 - II - Engineering",
-        "active": false,
-        "date_updated": 1770649986,
-        "date_posted": 1770649986,
-        "url": "https://careers-gdbiw.icims.com/jobs/5035/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Brunswick, ME"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Bass Pro Shops",
         "id": "328e89a9-23b4-4112-895e-6ac3480281e2",
@@ -197542,7 +197406,7 @@
         "company_name": "Lexical Intelligence",
         "id": "ce1541f7-9a61-42c0-a010-de52ed8698a1",
         "title": "NLM Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781792601,
         "date_posted": 1781791784,
         "url": "https://lexical.bamboohr.com/careers/73/",
@@ -210938,7 +210802,7 @@
         "company_name": "The Walt Disney Company",
         "id": "12634088-9777-452c-9095-9f2de268d1e0",
         "title": "Product Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1782916089,
         "date_posted": 1782914899,
         "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2",
@@ -363190,7 +363054,7 @@
         "company_name": "John Gore Organization",
         "id": "fec139d8-c548-4e2a-9c88-d054a2eaa0f9",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789077964,
         "date_posted": 1788998400,
         "url": "https://johngore.wd1.myworkdayjobs.com/Careers/job/Boca-Raton-FL-Mon---Th-in-Office/Software-Engineer_R100723",
@@ -396579,5 +396443,44 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "96c65a15-841f-4ff3-85f5-ac9291e3bb35",
+        "title": "Web Application Developer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1791386821,
+        "date_posted": 1791331200,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Web-Application-Developer---Early-Career_333158",
+        "locations": [
+            "Chantilly, VA",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leonardo",
+        "id": "5234e11e-5fa0-4d14-87c6-33a1a67ca56f",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791386821,
+        "date_posted": 1791331200,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Software-Engineer_R0033726",
+        "locations": [
+            "Basildon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
