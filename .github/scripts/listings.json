@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "80d8e321-82fc-4d02-b275-0c5b5e722cf0",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770632854,
-        "date_posted": 1770632854,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048722",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "f3f9c84c-482f-4228-813d-677cbd0eb932",
@@ -278719,7 +278701,7 @@
         "company_name": "Publicis Groupe",
         "id": "7e6a0a88-e55d-4d89-87c4-bbe0877862bf",
         "title": "Data Activation Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1785766864,
         "date_posted": 1785766257,
         "url": "https://careers.publicisgroupe.com/jobs/155173?icims=1",
@@ -302818,7 +302800,7 @@
         "company_name": "Arcfield",
         "id": "6ac532c5-ea4a-482c-a553-d99d6024e9af",
         "title": "Data Analyst / Applied Mathematician",
-        "active": true,
+        "active": false,
         "date_updated": 1786680721,
         "date_posted": 1786680185,
         "url": "https://careers.arcfield.com/jobs/8469?icims=1",
@@ -318250,7 +318232,7 @@
         "company_name": "Susquehanna International Group",
         "id": "adfcb3a2-2763-48e0-b417-77f931e4fcda",
         "title": "Software Developer Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1787333469,
         "date_posted": 1787333318,
         "url": "https://careers-sig.icims.com/jobs/11336/job?mobile=true&needsRedirect=false",
@@ -343152,7 +343134,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "6ff39e7e-0685-4928-bee4-584b5a81518a",
         "title": "Engineer/Scientist/Analyst Sensor Systems - Sensor Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1786680126,
         "date_posted": 1786679905,
         "url": "https://careers.jhuapl.edu/jobs/59696?icims=1",
@@ -386533,7 +386515,7 @@
         "company_name": "GE Healthcare",
         "id": "38672ad6-31aa-4d54-b2ad-06c0df9ddf7c",
         "title": "Electronics Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1790979239,
         "date_posted": 1790978785,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Electronics-Technician--2nd-Shift---M-F-3-30-PM---12-00-AM-_R4042918-1",
@@ -396234,5 +396216,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TT Electronics",
+        "id": "83d6de59-6d87-4fb7-9bfb-9854c4ccd7c4",
+        "title": "Electronics Test Engineer",
+        "active": true,
+        "date_updated": 1791368284,
+        "date_posted": 1786687089,
+        "url": "https://global-portal-ttelectronics.icims.com/jobs/6218/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Barnstaple, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TT-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
