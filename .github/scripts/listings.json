@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Applied Materials",
-        "id": "15aa5a64-af85-4d54-8f9b-89634ac9af19",
-        "title": "Software Engineer - New College Grad-Master's",
-        "active": false,
-        "date_updated": 1770691882,
-        "date_posted": 1770691882,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2612590",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "IDEX",
         "id": "8b115e4f-d29c-47e6-8186-4f49bd625457",
@@ -365167,7 +365147,7 @@
         "company_name": "OneImaging",
         "id": "e4c34531-51aa-4c08-a508-deaecce4fed4",
         "title": "Associate Data Engineer - Georgia Tech Only",
-        "active": true,
+        "active": false,
         "date_updated": 1789415101,
         "date_posted": 1789414926,
         "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4405032009",
@@ -367041,7 +367021,7 @@
         "company_name": "PeopleTec",
         "id": "54c270cc-ece5-4a51-9ac6-47e6877451ae",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789510322,
         "date_posted": 1789510052,
         "url": "https://careers-peopletec.icims.com/jobs/5315/job?mobile=true&needsRedirect=false",
@@ -396185,6 +396165,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dyna Robotics",
+        "id": "7fe90a2a-0330-4ae9-9898-f398dc5bad9e",
+        "title": "Data Annotation Specialist",
+        "active": true,
+        "date_updated": 1791108549,
+        "date_posted": 1778882969,
+        "url": "https://jobs.ashbyhq.com/dyna-robotics/080a2b88-f724-4585-8d16-2d4839a1d563/application?embed=true",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dyna-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
