@@ -153102,7 +153102,7 @@
         "company_name": "GlobalFoundries",
         "id": "1146b7db-d86a-4314-a87f-42d5440c2862",
         "title": "3D Heterogeneous Integration Design Enablement Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779528096,
         "date_posted": 1779527761,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/XMLNAME-3D-Heterogeneous-Integration-Design-Enablement-Engineer--2025-New-College-Graduate-_JR-2501678",
@@ -300349,7 +300349,7 @@
         "company_name": "Dexcom",
         "id": "a9facee3-51ba-46e7-8ce7-3f9b3d0c85d6",
         "title": "Software Development Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1786660201,
         "date_posted": 1786579200,
         "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540",
@@ -305103,7 +305103,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -305484,7 +305484,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -381283,7 +381283,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": false,
+        "active": true,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -392560,7 +392560,7 @@
         "company_name": "RTX",
         "id": "7ae12ead-4910-4bec-ac00-08d0fe1eb6e9",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1791268294,
         "date_posted": 1791158400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineer-I--Onsite-_01874537",
@@ -394380,7 +394380,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa71e901-808c-47e5-ab2d-32344fa2c4e7",
         "title": "Engineering Apprentice",
-        "active": false,
+        "active": true,
         "date_updated": 1791353752,
         "date_posted": 1790201057,
         "url": "https://higher.gs.com/roles/174814?type=students",
@@ -396245,5 +396245,196 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chalk",
+        "id": "30d31584-e527-4263-b462-ed87f955068d",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1791422625,
+        "date_posted": 1791422426,
+        "url": "https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f/application?embed=true",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Chalk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Niantic Spatial",
+        "id": "aeab73a2-30a9-4a0b-a25d-d708a9901f29",
+        "title": "AI Engineer - Computer Vision",
+        "active": true,
+        "date_updated": 1791422461,
+        "date_posted": 1791422387,
+        "url": "https://jobs.ashbyhq.com/niantic-spatial/aa5cac58-e677-4238-9d90-f05f3da9cd4f/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Niantic-Spatial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "edc4278f-b222-4879-adc6-0a1a97a007a6",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Knowledge Graph",
+        "active": true,
+        "date_updated": 1791422281,
+        "date_posted": 1791422026,
+        "url": "https://lifeattiktok.com/search/7694054165508557109",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Motorola",
+        "id": "d0d05487-d765-426b-a293-991f4cb2c8f1",
+        "title": "FPGA Design Engineer",
+        "active": true,
+        "date_updated": 1791421937,
+        "date_posted": 1791331200,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/FPGA-Design-Engineer_R69281-1",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Harbor Foods",
+        "id": "54109d7b-e383-4172-8aba-eda5ce54188b",
+        "title": "WMS Software Developer 1",
+        "active": true,
+        "date_updated": 1791422129,
+        "date_posted": 1791421544,
+        "url": "https://wholesale-harborfoods.icims.com/jobs/7921/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Lacey, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Harbor-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Applied Materials",
+        "id": "fb28f8ed-6ba3-46c4-97a9-f8c6137a546d",
+        "title": "Product Manager 2",
+        "active": true,
+        "date_updated": 1791421997,
+        "date_posted": 1791331200,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Manager-II--New-College-Grad--Master-s--Santa-Clara--CA-_R2629463",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Materials",
+        "id": "cf43075d-b9ba-4cce-b884-1d0b1597dcd4",
+        "title": "Software Engineer 1 New Grad",
+        "active": true,
+        "date_updated": 1791422281,
+        "date_posted": 1791331200,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Materials",
+        "id": "0750f5ca-d84f-422e-a917-baccdf94d7b1",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1791421948,
+        "date_posted": 1791331200,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Development-Engineer--Bachelors---Santa-Clara--CA-_R2628997",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Barry-Wehmiller",
+        "id": "ec1b1f5a-50dd-40e3-88f4-c7842d37754c",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1791421937,
+        "date_posted": 1791331200,
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R023049",
+        "locations": [
+            "Eau Claire, WI",
+            "Dallas, TX",
+            "Raleigh, NC",
+            "St. Louis, MO",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Barry-Wehmiller",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
