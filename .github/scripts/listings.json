@@ -1,124 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "iCapital Network",
-        "id": "6ffe00f9-72f8-46da-a7ab-02705435b403",
-        "title": "Data Solutions - Integrations - Analyst",
-        "active": false,
-        "date_updated": 1770738167,
-        "date_posted": 1770738167,
-        "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8405580002",
-        "locations": [
-            "Stamford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/ICapital-Network",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Teledyne",
-        "id": "a12e0a45-fe43-4961-804d-18caaceddd0b",
-        "title": "Assembly Technician",
-        "active": false,
-        "date_updated": 1770738009,
-        "date_posted": 1770738009,
-        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Salem-MA/Assembly-Technician_REQ33193",
-        "locations": [
-            "Peabody, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "ea9923ec-86ab-4e53-a376-02d83a07f2c7",
-        "title": "Simulation Software Engineer \u2013 Entry level",
-        "active": false,
-        "date_updated": 1770737756,
-        "date_posted": 1770737756,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Crawley-UK/Simulation-Software-Engineer--Entry-level-_JR2026495723-2",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sierra Nevada Corporation",
-        "id": "de8d8454-0475-4362-9604-166b310b5056",
-        "title": "Business Intelligence Developer 1",
-        "active": false,
-        "date_updated": 1770737727,
-        "date_posted": 1770737727,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Business-Intelligence-Developer-I_R0029315",
-        "locations": [
-            "Hagerstown, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Raymond James Financial",
-        "id": "35fdb3f7-7975-471e-8620-141add484f15",
-        "title": "Senior Product Consultant - RJ Bank Operations",
-        "active": false,
-        "date_updated": 1770737737,
-        "date_posted": 1770737737,
-        "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Sr-Product-Consultant---RJ-Bank-Operations_R-0009462",
-        "locations": [
-            "St. Petersburg, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Raymond-James-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Rogers Behavioral Health",
-        "id": "1f206c0f-c5a8-47fa-9498-6e3a957ce6b2",
-        "title": "Therapist - PHP/Iop",
-        "active": false,
-        "date_updated": 1770737821,
-        "date_posted": 1770737821,
-        "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Brown-Deer-Area/Therapist---PHP-IOP_R6259-1",
-        "locations": [
-            "Brown Deer, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/b92a810e-00da-4d83-9a36-b7d609699d59",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "The Toro Company",
         "id": "611daba0-ff1c-4f47-b266-5a74fa38d078",
@@ -319919,7 +319801,7 @@
         "company_name": "Pryzm",
         "id": "2c8d4660-6467-4fcd-8dcd-05c5cbc86604",
         "title": "Federal Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787616918,
         "date_posted": 1787616296,
         "url": "https://jobs.ashbyhq.com/pryzm/2c40f0bb-e559-49b3-9831-81d7484cc6dc/application?embed=true",
@@ -396012,6 +395894,103 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/American-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "4939e8a4-f378-418b-bf25-abaebfdf3b33",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1791474301,
+        "date_posted": 1791417600,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171606",
+        "locations": [
+            "Hanover, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citi",
+        "id": "9efe2b17-2ed5-4042-8a3e-cb27c0bb8c32",
+        "title": "Junior Software Engineer - Generative AI Platforms",
+        "active": true,
+        "date_updated": 1791474121,
+        "date_posted": 1791417600,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Junior-Software-Engineer---Generative-AI-Platforms_26989233",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "eca699ea-4b3d-45f9-bfb7-6f596296fddc",
+        "title": "Embedded Software Engineer 1",
+        "active": true,
+        "date_updated": 1791474232,
+        "date_posted": 1791417600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Embedded-Software-Engineer-I--Onsite-_01881232",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "6948b98f-c979-4ba0-87d6-d3c0391df2a8",
+        "title": "Embedded Software Engineer 1",
+        "active": true,
+        "date_updated": 1791474232,
+        "date_posted": 1791417600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Embedded-Software-Engineer-I--Onsite-_01881234",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Virginia",
+        "id": "e3fdb2df-5e0d-4317-9acc-91d19f0c62f1",
+        "title": "Direct Marketing Data Assistant",
+        "active": true,
+        "date_updated": 1791473982,
+        "date_posted": 1790121600,
+        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Federal-Work-Study---Direct-Marketing-Data-Assistant--Student-Wage-_R0087659",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
