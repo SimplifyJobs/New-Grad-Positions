@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "bd8044ec-00b0-45e6-8812-a77e188d252a",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770719222,
-        "date_posted": 1770719222,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048870",
-        "locations": [
-            "Chesterfield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9189c6e7-f4e8-4741-bb12-d849c5491d20",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770719219,
-        "date_posted": 1770719219,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048868",
-        "locations": [
-            "Chesterfield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Wellington Management",
         "id": "8a684452-06e5-4b3f-b3b8-65315a2f9133",
@@ -379232,7 +379196,7 @@
         "company_name": "OneImaging",
         "id": "7443e2ee-d487-4319-a352-cc1779444a7f",
         "title": "Full Stack Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790662681,
         "date_posted": 1790662565,
         "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4423640009",
