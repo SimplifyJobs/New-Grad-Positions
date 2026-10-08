@@ -255171,7 +255171,7 @@
         "company_name": "Anthelion Capital",
         "id": "46282d1e-a7a8-486b-9fca-570d0e0cbd01",
         "title": "Quant Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1784846702,
         "date_posted": 1784845475,
         "url": "https://jobs.ashbyhq.com/anthelioncap/9b798aa7-3fd3-4a4a-8fa3-34a0d13e4b9a/application?embed=true",
@@ -304640,7 +304640,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -305021,7 +305021,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -328713,7 +328713,7 @@
         "company_name": "DefenseStorm",
         "id": "50e60fbf-697c-49e1-88be-1f24e17fa22d",
         "title": "Junior Product Engineer - Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787957101,
         "date_posted": 1787956978,
         "url": "https://defensestorm.applytojob.com/apply/VI1cWuBKQ3/Junior-Product-Engineer-Software-Engineer-I",
@@ -338222,7 +338222,7 @@
         "company_name": "Arch",
         "id": "dd719782-2aa3-4a4b-831e-f3da699bf6a4",
         "title": "Operations Engineer - Early Careers",
-        "active": false,
+        "active": true,
         "date_updated": 1788420786,
         "date_posted": 1788407570,
         "url": "https://jobs.ashbyhq.com/arch.co/3600530a-7f41-4583-8d92-443f6978c847/application?embed=true",
@@ -338240,7 +338240,7 @@
         "company_name": "Arch",
         "id": "d9ab191f-a642-4db2-9b5d-d6e566d0a2b8",
         "title": "Software Engineer - Early Careers",
-        "active": false,
+        "active": true,
         "date_updated": 1788420786,
         "date_posted": 1788407570,
         "url": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d/application?embed=true",
@@ -389471,7 +389471,7 @@
         "company_name": "CVS Health",
         "id": "ff684380-5d65-429e-81f1-38235852655c",
         "title": "Reporting Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1791238336,
         "date_posted": 1791158400,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Arizona/Reporting-Analyst_R1051672-1",
@@ -392311,7 +392311,7 @@
         "company_name": "Capgemini",
         "id": "614d69aa-cada-486b-8e62-b164a933b266",
         "title": "Graduate Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1791296581,
         "date_posted": 1791296342,
         "url": "https://careers.capgemini.com/job/London-Graduate-Software-Developer-2027/1444710733/?ats=successfactors",
@@ -396054,5 +396054,84 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Universal Health Services",
+        "id": "537aaa04-0077-4de4-9a8d-d828c5d80978",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1791469621,
+        "date_posted": 1791469593,
+        "url": "https://jobs.uhsinc.com/jobs/368933?icims=1",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Universal-Health-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "b4831404-8a53-4ca5-9a71-ff46c4ea8550",
+        "title": "Robot Wrangler",
+        "active": true,
+        "date_updated": 1791469439,
+        "date_posted": 1791469171,
+        "url": "https://jobs.lever.co/tsmg/801fa039-a184-4a6c-b5b4-c7fbe41e5d3a/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "England Rugby",
+        "id": "90b298d2-1b5e-4a23-84c6-267e6abbf2db",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1791468903,
+        "date_posted": 1791468876,
+        "url": "https://ecer.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/553",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/England-Rugby",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Systems Planning and Analysis",
+        "id": "d2a243f7-5ac3-48d5-8f20-94a3e4cd5a9c",
+        "title": "Associate Operations Research Analyst",
+        "active": true,
+        "date_updated": 1791468903,
+        "date_posted": 1791468391,
+        "url": "https://spa.jibeapply.com/jobs/23601?icims=1",
+        "locations": [
+            "Nebraska"
+        ],
+        "company_url": "https://simplify.jobs/c/System-Planning-And-Analysis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
