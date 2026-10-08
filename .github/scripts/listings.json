@@ -115257,7 +115257,7 @@
         "company_name": "AcuityMD",
         "id": "965243dc-f0f0-4c79-9b26-39cab8571d71",
         "title": "Data Program Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1776734159,
         "date_posted": 1774477964,
         "url": "https://job-boards.greenhouse.io/acuitymd/jobs/5819631004",
@@ -271924,7 +271924,7 @@
         "company_name": "Bank of Montreal",
         "id": "021114e1-c556-4de3-ac71-007b3f8adb26",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1785621967,
         "date_posted": 1785456000,
         "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1",
@@ -271944,7 +271944,7 @@
         "company_name": "Bank of Montreal",
         "id": "d10d917c-bc5a-4b18-8f26-0bd664956f32",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1785622016,
         "date_posted": 1785456000,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450",
@@ -304386,7 +304386,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -304767,7 +304767,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -377525,7 +377525,7 @@
         "company_name": "Tesla",
         "id": "3547585e-17e7-4459-9ae9-f94dae83fcd3",
         "title": "Data Collection Operator - Optimus",
-        "active": false,
+        "active": true,
         "date_updated": 1790325231,
         "date_posted": 1780813576,
         "url": "https://www.tesla.com/careers/search/job/258944",
@@ -389217,7 +389217,7 @@
         "company_name": "CVS Health",
         "id": "ff684380-5d65-429e-81f1-38235852655c",
         "title": "Reporting Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1791238336,
         "date_posted": 1791158400,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Arizona/Reporting-Analyst_R1051672-1",
@@ -395994,5 +395994,266 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AMD",
+        "id": "dc10adda-2c89-48d4-9795-93dd3a4eb87e",
+        "title": "Systems Design Engineer New Grad",
+        "active": true,
+        "date_updated": 1791498607,
+        "date_posted": 1791497944,
+        "url": "https://careers.amd.com/jobs/92338?icims=1",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Allstate Insurance Company",
+        "id": "d6cb0ffd-5f72-4378-ac35-53241d665b5d",
+        "title": "AI Product Engineer - Copilot & Power Platform",
+        "active": true,
+        "date_updated": 1791498062,
+        "date_posted": 1791417600,
+        "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/AI-Product-Engineer--Copilot---Power-Platform---Remote---US-_R35481-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "e2182c1b-5804-476c-b3e7-fd9a76bfa949",
+        "title": "Machine Learning Engineer New Grad - E-Commerce User Growth",
+        "active": true,
+        "date_updated": 1791498589,
+        "date_posted": 1791497917,
+        "url": "https://lifeattiktok.com/search/7694352871949682997",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "18a4d979-0dfb-4e04-b57b-34966be64717",
+        "title": "Machine Learning Engineer Graduate - E-Commerce User Growth",
+        "active": true,
+        "date_updated": 1791498062,
+        "date_posted": 1791497917,
+        "url": "https://lifeattiktok.com/search/7694351754099804469",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "568e0356-3be1-4ed8-ae1a-58d223aff38b",
+        "title": "Machine Learning Engineer Graduate - E-Commerce User Growth",
+        "active": true,
+        "date_updated": 1791498062,
+        "date_posted": 1791497917,
+        "url": "https://lifeattiktok.com/search/7694346612567214389",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "8dc8094b-3378-4b61-b2e0-e96ca5a69fc5",
+        "title": "Machine Learning Engineer Graduate - E-Commerce User Growth",
+        "active": true,
+        "date_updated": 1791498062,
+        "date_posted": 1791497917,
+        "url": "https://lifeattiktok.com/search/7694353236283935029",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microsoft",
+        "id": "6ef2db46-c8cc-46ac-8016-a25e596e7c76",
+        "title": "Quantum Systems Stability & Sensitivity Engineer",
+        "active": true,
+        "date_updated": 1791498535,
+        "date_posted": 1791497851,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557026782",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "fa94c35b-fcdd-4481-b510-d9d27045e0ba",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1791498408,
+        "date_posted": 1791497717,
+        "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineer-CO-80916/1438456800/?ats=successfactors",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KCI Technologies",
+        "id": "01584801-773d-4d38-908a-130b9a966751",
+        "title": "GIS Technician 1 - Energy",
+        "active": true,
+        "date_updated": 1791498180,
+        "date_posted": 1791497696,
+        "url": "https://careers-kci.icims.com/jobs/8152/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/KCI-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AeroVironment",
+        "id": "09f6b921-fbe7-407a-b2b8-644f344aa041",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1791497909,
+        "date_posted": 1791417600,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Petaluma-CA/Electrical-Engineer-I_9066",
+        "locations": [
+            "Petaluma, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boston Engineering",
+        "id": "0c449493-9d3a-41b1-9a65-eab3cbe9095e",
+        "title": "Electrical Engineer - Embedded Hardware",
+        "active": true,
+        "date_updated": 1791497161,
+        "date_posted": 1791497131,
+        "url": "https://jobs.smartrecruiters.com/BostonEngineeringCorporation/744000154495159",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "a1a47707-43a0-48d4-97ae-3e9bbfd16000",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1791497211,
+        "date_posted": 1791417600,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031014",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "ed89cec3-85af-4dc1-b995-723631cf6b3d",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1791497208,
+        "date_posted": 1791417600,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031025",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
