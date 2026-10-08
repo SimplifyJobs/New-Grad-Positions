@@ -330579,7 +330579,7 @@
         "company_name": "NXP Semiconductors",
         "id": "93e23ebc-4de9-4648-9968-98e302f94a59",
         "title": "Systems & Applications Engineer - Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1788214326,
         "date_posted": 1788134400,
         "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/Systems---Applications-Engineer--Entry-Level_R-10066402-1",
@@ -365893,7 +365893,7 @@
         "company_name": "Broadridge",
         "id": "c1d96799-80da-4d1e-b19c-ca476ca5e53f",
         "title": "Product Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789423561,
         "date_posted": 1789344000,
         "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Newark-NJ/Product-Analyst--Hybrid-_JR1085596",
@@ -396133,5 +396133,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American University",
+        "id": "47b95dc3-a50e-4956-855b-b8163f839175",
+        "title": "Geospatial Research Lab Assistant",
+        "active": true,
+        "date_updated": 1791470237,
+        "date_posted": 1791417600,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Geospatial-Research-Lab-Assistant--Student-_R5073",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
