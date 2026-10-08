@@ -305061,7 +305061,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -358996,7 +358996,7 @@
         "company_name": "Apple",
         "id": "ad1f4cfb-ab29-47db-ad35-cab7341ec885",
         "title": "Silicon Validation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788992288,
         "date_posted": 1788991776,
         "url": "https://jobs.apple.com/en-us/details/200682708",
@@ -378688,7 +378688,7 @@
         "company_name": "Nobull",
         "id": "e1cc8de5-ba44-41ca-9a6c-62077be54e04",
         "title": "Associate Product Line Manager - Temporary",
-        "active": true,
+        "active": false,
         "date_updated": 1790375556,
         "date_posted": 1790374302,
         "url": "https://jobs.lever.co/nobullproject/03c04a0c-38d0-4c38-a3c5-b79bce1a8ca2/apply",
@@ -393957,7 +393957,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa71e901-808c-47e5-ab2d-32344fa2c4e7",
         "title": "Engineering Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1791353752,
         "date_posted": 1790201057,
         "url": "https://higher.gs.com/roles/174814?type=students",
@@ -396034,5 +396034,65 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Publicis Groupe",
+        "id": "dc46f541-6903-43ea-b70a-97dc3277f119",
+        "title": "Junior Digital Media Analyst",
+        "active": true,
+        "date_updated": 1791456661,
+        "date_posted": 1790644894,
+        "url": "https://careers.publicisgroupe.com/jobs/175744?icims=1",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "64dbc7d4-46a3-4627-a1ec-aa04bbe1208c",
+        "title": "Design Verification Engineer - ASICS Engineering",
+        "active": true,
+        "date_updated": 1791456661,
+        "date_posted": 1787275258,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446720501243",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EMCOR Group",
+        "id": "f2187143-a43e-42c2-9a8e-930285548323",
+        "title": "Engineering Tech Specialist",
+        "active": true,
+        "date_updated": 1791457202,
+        "date_posted": 1786683434,
+        "url": "https://careers-emcorgroup.icims.com/jobs/50316/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Roanoke Rapids, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/EMCOR-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
