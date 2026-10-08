@@ -1,105 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "IDEX",
-        "id": "8b115e4f-d29c-47e6-8186-4f49bd625457",
-        "title": "Optical Technician",
-        "active": false,
-        "date_updated": 1770707940,
-        "date_posted": 1770707940,
-        "url": "https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Longmont-Colorado/Optical-Technician_R-08516",
-        "locations": [
-            "Longmont, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/IDEX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "70918bac-d59d-4987-9444-4ca23b655ac2",
-        "title": "Applied AI/ML Associate",
-        "active": false,
-        "date_updated": 1770707707,
-        "date_posted": 1770707707,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210710290",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Faculty AI",
-        "id": "af167c7b-5780-4a52-ad60-7f665cece17b",
-        "title": "Faculty Fellowship Programme - Data Science - May 2026",
-        "active": false,
-        "date_updated": 1770707613,
-        "date_posted": 1770707613,
-        "url": "https://jobs.ashbyhq.com/faculty/766f9d2a-d40e-4ba3-a407-5157eda242c1/application",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Faculty-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AT&T",
-        "id": "5d08e2ae-cbb1-4920-b240-211e76b40cda",
-        "title": "Software Developer - Asset Management - Software Engineer I",
-        "active": false,
-        "date_updated": 1770939701,
-        "date_posted": 1770708617,
-        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Columbia-Maryland/Software-Developer---Asset-Management--SWE-I---Government-_R-100811",
-        "locations": [
-            "Columbia, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/ATT",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "aa0b4bb2-e4d4-4698-87a6-5eb40bc6eef2",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1770708541,
-        "date_posted": 1770708541,
-        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/Software-Engineer-I_1202393",
-        "locations": [
-            "Roseville, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "bd8044ec-00b0-45e6-8812-a77e188d252a",
@@ -227464,24 +227365,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Exa",
-        "id": "5ca6e3f4-660c-4df4-9fef-a5aa2098af1e",
-        "title": "Research \u2013 ML",
-        "active": true,
-        "date_updated": 1783761841,
-        "date_posted": 1770707724,
-        "url": "https://jobs.ashbyhq.com/exa/fcebd301-b473-40dc-b733-362883ac1f37/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Exa-Labs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "GE Healthcare",
         "id": "211d5160-dd5b-403d-aa71-3b6dd6378ee9",
@@ -381937,7 +381820,7 @@
         "company_name": "L3Harris Technologies",
         "id": "e97ed1eb-86ee-4af5-ace9-3f7b789a19ba",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790807065,
         "date_posted": 1790806056,
         "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1435324600/?ats=successfactors",
