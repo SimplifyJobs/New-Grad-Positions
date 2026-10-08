@@ -1,124 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "3d82aa12-a9da-4cd6-9872-44a8f2bd70d3",
-        "title": "Graduate CAD Engineer",
-        "active": false,
-        "date_updated": 1770736711,
-        "date_posted": 1770736711,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/United-Kingdom---Caldicot/Graduate---CAD-Engineer_R625-26",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WSP",
-        "id": "809ec791-238b-40f4-96dd-95a4240b136e",
-        "title": "Assistant GIS Consultant",
-        "active": false,
-        "date_updated": 1770736625,
-        "date_posted": 1770736625,
-        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/80364",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/WSP",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Grayce",
-        "id": "46d1f722-3c69-498b-87e9-2cf41c5c95f4",
-        "title": "Graduate Data Analyst",
-        "active": false,
-        "date_updated": 1770736601,
-        "date_posted": 1770736601,
-        "url": "https://apply.workable.com/grayce/j/7016D40EA8/apply",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "706cafd6-04ea-4a24-b71e-00088661ba82",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770736284,
-        "date_posted": 1770736284,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048905",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ramboll",
-        "id": "5aa4cdb1-a9c7-40c4-ae18-c2ef404a7087",
-        "title": "Associate Air Quality Consultant",
-        "active": false,
-        "date_updated": 1770736343,
-        "date_posted": 1770736343,
-        "url": "https://jobs.smartrecruiters.com/Ramboll3/744000108538985",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ramboll",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sysmex",
-        "id": "4dc0c272-2d74-4e4c-8ab8-975472ba2170",
-        "title": "Technician - Field Service - Regional",
-        "active": false,
-        "date_updated": 1770736099,
-        "date_posted": 1770736099,
-        "url": "https://careers-sysmex.icims.com/jobs/4543/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sysmex",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "iCapital Network",
         "id": "6ffe00f9-72f8-46da-a7ab-02705435b403",
@@ -2050,24 +1932,6 @@
             "Harrogate, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Goucher College",
-        "id": "734df251-0f3a-4f10-93be-2f5857dd4240",
-        "title": "Data Analyst/Programmer",
-        "active": false,
-        "date_updated": 1770810639,
-        "date_posted": 1770736441,
-        "url": "https://goucher.wd1.myworkdayjobs.com/Goucher_Careers/job/Goucher-College-Campus/Data-Analyst-Programmer_R-0000000720",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Goucher-College",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -223787,7 +223651,7 @@
         "company_name": "Leidos",
         "id": "4ab2be7c-c405-42fa-9dbf-cb0e5ff6a73d",
         "title": "Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783559934,
         "date_posted": 1783559547,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Engineer_R-00186934-1",
@@ -384946,7 +384810,7 @@
         "company_name": "Global Payments",
         "id": "36558cdc-f38d-4014-af8f-85fa6563c46c",
         "title": "Payments Data Scientist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1791065819,
         "date_posted": 1790899200,
         "url": "https://tsys.wd1.myworkdayjobs.com/tsys/job/CINCINNATI-OHIO/Payments-Data-Scientist_R0075515-1",
