@@ -213938,7 +213938,7 @@
         "company_name": "Welo Global",
         "id": "d90de82b-95ea-4ea1-9e0e-f1aecda3da9a",
         "title": "Data Labeling Analyst - Speech & Voice AI Analyst - German Speakers",
-        "active": true,
+        "active": false,
         "date_updated": 1783203419,
         "date_posted": 1783202822,
         "url": "https://jobs.lever.co/weloglobal/876de2c2-ea50-45f7-81ae-bb1d046fe979/apply",
@@ -302629,7 +302629,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -380867,7 +380867,7 @@
         "company_name": "United Launch Alliance",
         "id": "db3417bd-b16e-4797-b4f6-4a38ef7d6e26",
         "title": "Embedded Flight Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790892911,
         "date_posted": 1790892669,
         "url": "https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1436016400/?ats=successfactors",
@@ -381869,7 +381869,7 @@
         "company_name": "Expedia Group",
         "id": "819788dd-4ad4-477b-9a53-cea660803173",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790954743,
         "date_posted": 1790899200,
         "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Canada---British-Columbia---Vancouver/Software-Development-Engineer-I_R-109478",
@@ -391525,7 +391525,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa71e901-808c-47e5-ab2d-32344fa2c4e7",
         "title": "Engineering Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1791353752,
         "date_posted": 1790201057,
         "url": "https://higher.gs.com/roles/174814?type=students",
@@ -395135,5 +395135,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "60fcabe8-a994-4e16-81d7-d07d913c4f68",
+        "title": "Embedded Security Software Engineer 1",
+        "active": true,
+        "date_updated": 1791543612,
+        "date_posted": 1791417600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Security-Software-Engineer--Onsite-_01881362",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
