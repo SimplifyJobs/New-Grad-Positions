@@ -299164,7 +299164,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "9841d195-19c9-4d37-8876-6d72b9dec5af",
         "title": "PhD Graduate - Distributed Tactical Awareness",
-        "active": true,
+        "active": false,
         "date_updated": 1786680170,
         "date_posted": 1786679923,
         "url": "https://careers.jhuapl.edu/jobs/59533?icims=1",
@@ -378392,7 +378392,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": false,
+        "active": true,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -380626,7 +380626,7 @@
         "company_name": "L3Harris Technologies",
         "id": "ce8da1bf-1f37-4dae-8814-a1fba9205a40",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790864182,
         "date_posted": 1790863924,
         "url": "https://jobs.l3harris.com/job/Richardson-Associate,-Software-Engineer-TX-75080/1435709900/?ats=successfactors",
@@ -395139,6 +395139,171 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics",
+        "id": "41d4c5b0-dc1d-488f-8c59-2d88880e974d",
+        "title": "Entry Level Engineer - Embedded Software / Systems",
+        "active": true,
+        "date_updated": 1791555841,
+        "date_posted": 1791555698,
+        "url": "https://careers-gdeb.icims.com/jobs/21062/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "New London, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Noblis",
+        "id": "dd0150f7-23b9-4963-bbe4-e4ba906e8500",
+        "title": "Software Developer - Multiple levels",
+        "active": true,
+        "date_updated": 1791555841,
+        "date_posted": 1791555699,
+        "url": "https://careers.noblis.org/jobs/27974?icims=1",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Noblis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AmTrust Financial",
+        "id": "da2b778d-65f8-4ed5-a654-3acc8baa425a",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1791555965,
+        "date_posted": 1791555287,
+        "url": "https://careers-amtrustgroup.icims.com/jobs/21073/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/AmTrust-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ford Motor Company",
+        "id": "56bc590e-3ded-4a5e-a2a2-b872fdfaf778",
+        "title": "Accounting Technology Analyst",
+        "active": true,
+        "date_updated": 1791555482,
+        "date_posted": 1791555032,
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72451",
+        "locations": [
+            "Dearborn, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "UK Atomic Energy Authority",
+        "id": "818f5d16-9bae-4cf7-958e-1ca99f850fa1",
+        "title": "Graduate HPC Computational Engineer",
+        "active": true,
+        "date_updated": 1791555301,
+        "date_posted": 1791554930,
+        "url": "https://jobs.smartrecruiters.com/UKAtomicEnergyAuthority/744000154649080",
+        "locations": [
+            "Abingdon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/UK-Atomic-Energy-Authority",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UK Atomic Energy Authority",
+        "id": "3c884079-cbcd-4502-8a43-cf5e5f314c4d",
+        "title": "Graduate Knowledge Engineer",
+        "active": true,
+        "date_updated": 1791554941,
+        "date_posted": 1791554930,
+        "url": "https://jobs.smartrecruiters.com/UKAtomicEnergyAuthority/744000154650259",
+        "locations": [
+            "Abingdon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/UK-Atomic-Energy-Authority",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "UK Atomic Energy Authority",
+        "id": "3178144b-682a-48f0-945e-9641657fe6f8",
+        "title": "Graduate Advanced Control Engineer",
+        "active": true,
+        "date_updated": 1791555301,
+        "date_posted": 1791554930,
+        "url": "https://jobs.smartrecruiters.com/UKAtomicEnergyAuthority/744000154649749",
+        "locations": [
+            "Abingdon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/UK-Atomic-Energy-Authority",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Advantage Solutions",
+        "id": "b3a4254f-7841-468a-afc5-650b7ea761c6",
+        "title": "Category Insights Analyst",
+        "active": true,
+        "date_updated": 1791554941,
+        "date_posted": 1791554925,
+        "url": "https://uscareers2-asm.icims.com/jobs/441209/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Chicago, IL",
+            "St. Louis, MO",
+            "Trenton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Advantage-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
