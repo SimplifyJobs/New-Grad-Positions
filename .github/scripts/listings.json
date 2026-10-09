@@ -1788,26 +1788,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Motorola",
-        "id": "5a43d065-d24c-4ee2-a70c-32d6243f33e4",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1770777365,
-        "date_posted": 1770777365,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer-I_R60996",
-        "locations": [
-            "Hoffman Estates, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "d0566368-18ed-4ef2-9151-c6deddfc97ce",
@@ -1841,27 +1821,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "QuinStreet",
-        "id": "aa35a7a8-19f5-4183-9fcf-feaea5431942",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1770891977,
-        "date_posted": 1770777440,
-        "url": "https://www.quinstreet.com/careers/?gh_jid=7605753",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/QuinStreet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
