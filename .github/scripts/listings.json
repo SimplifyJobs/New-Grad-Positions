@@ -295646,7 +295646,7 @@
         "company_name": "Panasonic Holdings",
         "id": "9c569a74-622f-4862-8f43-84f0e63f9893",
         "title": "Software Engineer 1 - Embedded Systems",
-        "active": false,
+        "active": true,
         "date_updated": 1786583420,
         "date_posted": 1786583265,
         "url": "https://careers.na.panasonic.com/jobs/50269?icims=1",
@@ -302852,7 +302852,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -303233,7 +303233,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -314747,7 +314747,7 @@
         "company_name": "General Motors",
         "id": "53ce3bb2-f715-4b48-a55a-31dcb2506112",
         "title": "Software Engineer - AV Data Collection",
-        "active": true,
+        "active": false,
         "date_updated": 1787341613,
         "date_posted": 1787270400,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529",
@@ -357999,7 +357999,7 @@
         "company_name": "General Motors",
         "id": "cab7d392-b643-4122-8740-452bad253389",
         "title": "Software Engineer Early Career - AV Launch",
-        "active": true,
+        "active": false,
         "date_updated": 1788994055,
         "date_posted": 1788912000,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/oftware-Engineer--AV-Launch---Early-Career_JR-202619888",
@@ -358021,7 +358021,7 @@
         "company_name": "General Motors",
         "id": "5e2d9124-8197-4d17-9026-14c8fc221406",
         "title": "Machine Learning Systems Engineer - Data Labeling Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1788994038,
         "date_posted": 1788912000,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939",
@@ -358366,7 +358366,7 @@
         "company_name": "General Motors",
         "id": "4a9a8fa6-eefe-49e2-8c22-6c2e4a2b5cdb",
         "title": "Software Engineer - AV Frameworks",
-        "active": true,
+        "active": false,
         "date_updated": 1789003300,
         "date_posted": 1788912000,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
@@ -368328,7 +368328,7 @@
         "company_name": "UK-Med",
         "id": "919d7df4-6e5d-49d5-b3ac-9cb00f0a7172",
         "title": "Humanitarian Trainee - Monitoring, Evaluation, Accountability and Learning",
-        "active": true,
+        "active": false,
         "date_updated": 1789654625,
         "date_posted": 1789654305,
         "url": "https://www.uk-med.org/vacancies/?gh_jid=6197599004",
@@ -379032,7 +379032,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": false,
+        "active": true,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -395362,6 +395362,205 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Two Circles",
+        "id": "a7c142e9-aed8-4191-ae81-16bfd8c59d8f",
+        "title": "Marketing Analyst - Early Careers Programme",
+        "active": true,
+        "date_updated": 1791509041,
+        "date_posted": 1791508935,
+        "url": "https://apply.workable.com/twocircles/j/EFF3A1D282/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Circles",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aurelian",
+        "id": "7aabe808-d12f-4399-b2f0-e348094fa171",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1791509131,
+        "date_posted": 1791508992,
+        "url": "https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e/application?embed=true",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurelian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Snowflake",
+        "id": "07705204-70be-436b-85af-c48fd1f5e63d",
+        "title": "Software Engineer - Customer Experience Engineering",
+        "active": true,
+        "date_updated": 1791508861,
+        "date_posted": 1791508811,
+        "url": "https://jobs.ashbyhq.com/snowflake/5ca0fa74-9e43-4468-8f1c-0a3aa0a993ec/application?embed=true",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CWILL",
+        "id": "dd8d37d0-d1d4-4688-8a01-5635c2f4c07b",
+        "title": "Order Tracking Product Management Trainee",
+        "active": true,
+        "date_updated": 1791508861,
+        "date_posted": 1791508719,
+        "url": "https://apply.workable.com/cwill-us/j/DD1A0BECB1/apply",
+        "locations": [
+            "Cary, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/CWILL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "8b8dc826-3218-45b8-82b5-d2f23a25402f",
+        "title": "Verification and Field Application Engineer New Grad",
+        "active": true,
+        "date_updated": 1791508771,
+        "date_posted": 1791417600,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-and-Field-Application-Engineer---New-Grad_R031840",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Forge Nano",
+        "id": "b6cfb1a4-f1f9-4894-a725-982afa329551",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1791508563,
+        "date_posted": 1791508212,
+        "url": "https://forge-nano.breezy.hr/p/66630c61f7e4/apply",
+        "locations": [
+            "Thornton, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Forge-Nano",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howden",
+        "id": "0189dc69-ca60-4a14-861c-099c1754d6db",
+        "title": "Data Analyst Apprentice",
+        "active": true,
+        "date_updated": 1791508685,
+        "date_posted": 1791504000,
+        "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Cheltenham---St-James-House/Data-Analyst-Apprenticeship-Programme-2027---Cheltenham_R0019722-1",
+        "locations": [
+            "Cheltenham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Howden",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AeroVironment",
+        "id": "6f752ecb-e434-47f8-b6cc-34d63ebefaa5",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791508502,
+        "date_posted": 1791417600,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/Software-Engineer_9081",
+        "locations": [
+            "Albuquerque, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AeroVironment",
+        "id": "d2f4c18d-c287-4a3d-bfdd-f8fa7dfe7c6f",
+        "title": "Software Engineer 1 - Apps",
+        "active": true,
+        "date_updated": 1791508320,
+        "date_posted": 1791417600,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/7540-Metropolitan-Dr-San-Diego-CA/Software-Engineer--Apps---I_8655",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "fd2239be-54e7-4647-96fb-ab88ab37e8e1",
+        "title": "Embedded Software Engineer 1",
+        "active": true,
+        "date_updated": 1791499217,
+        "date_posted": 1791417600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-POINT-MUGU-TR20--13th-St-and-S-L-St--BLDG-TR20/Embedded-Software-Engineer-I--Onsite-_01881385",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
