@@ -354571,7 +354571,7 @@
         "company_name": "Accenture",
         "id": "5cec425a-d9fb-468b-97d1-d5006c0f5694",
         "title": "Product & Platform Engineering Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788877623,
         "date_posted": 1788877539,
         "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4711191006",
@@ -380363,7 +380363,7 @@
         "company_name": "Kyndryl",
         "id": "b854e2c6-81d3-4144-bb7a-86fcec931fc1",
         "title": "Data Analyst New Grad - Data Operations Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1790835141,
         "date_posted": 1790726400,
         "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Careers-Consult-Program---Data-Operations-Associate_R-69022-2",
@@ -395300,6 +395300,64 @@
             "Trenton, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Advantage-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LSEG",
+        "id": "b3eee1b2-d471-4596-8f0c-b9fbbac6d8b0",
+        "title": "Business New Grad - Data and Analytics",
+        "active": true,
+        "date_updated": 1791556662,
+        "date_posted": 1791504000,
+        "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Business-Graduate-Programme--Data-and-Analytics-_R0123714-2",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/LSEG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Freedom Technology Solutions Group",
+        "id": "e2216fd3-a972-4f1f-be6c-56a736fc3dc1",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1791556201,
+        "date_posted": 1791556076,
+        "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5248064007",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Freedom-Technology-Solutions-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "efd12c2b-ee8c-4336-b12d-d2cfad76be41",
+        "title": "Quantitative Strategist - Investment Strategy Group - SQAA Research Associate",
+        "active": true,
+        "date_updated": 1791556201,
+        "date_posted": 1791555824,
+        "url": "https://higher.gs.com/roles/185943",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
