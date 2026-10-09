@@ -23412,24 +23412,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "FourKites",
-        "id": "caa7a014-355a-4496-91ec-9c03c2481f90",
-        "title": "Forward Deployment Engineer",
-        "active": false,
-        "date_updated": 1772004354,
-        "date_posted": 1770807823,
-        "url": "https://job-boards.greenhouse.io/fourkites/jobs/7506270",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/FourKites",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "The Home Depot",
         "id": "e6db640b-7d58-457c-92c2-dad2a03d7821",
@@ -389829,7 +389811,7 @@
         "company_name": "Advocate Health Care",
         "id": "abf46b1e-8c1b-477b-ac8a-1cc5a9cfa456",
         "title": "Data Solutions Developer - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1791289477,
         "date_posted": 1791158400,
         "url": "https://aah.wd5.myworkdayjobs.com/External/job/Milwaukee-WI---7800-N-113th-St/Data-Solutions-Developer---Associate_R249061",
@@ -392487,7 +392469,7 @@
         "company_name": "Turner & Townsend",
         "id": "4e1a6592-51f3-4901-af1c-8c2dd60c51a8",
         "title": "Corporate Responsibility Level 4 Data Analyst Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1791410943,
         "date_posted": 1791410942,
         "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000154125779",
