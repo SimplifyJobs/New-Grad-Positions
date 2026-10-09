@@ -1,102 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Saviynt",
-        "id": "d947e316-a9bd-44c2-9ec8-a0fc6a899121",
-        "title": "Associate Engineer \u2013 New College Graduate - Software Engineering",
-        "active": false,
-        "date_updated": 1770775934,
-        "date_posted": 1770775934,
-        "url": "https://jobs.lever.co/saviynt/84a1db6f-6b4c-4915-a5f6-2759ee1b933e/apply",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Saviynt",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8f8c53c0-7f91-4e05-86c6-c107425e4604",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770775868,
-        "date_posted": 1770775868,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048985",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "61a09c8a-3061-46cf-a40f-67287e9d567d",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770775864,
-        "date_posted": 1770775864,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048986",
-        "locations": [
-            "Essex, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "48d7052c-5be8-4976-bb60-9b5c3d25b879",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770775879,
-        "date_posted": 1770775879,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048989",
-        "locations": [
-            "Basingstoke, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Texas - Austin",
-        "id": "c79a202f-361f-4e67-a8c9-c7926b5194f8",
-        "title": "Data Analysis Engineering Scientist Associate",
-        "active": false,
-        "date_updated": 1770775387,
-        "date_posted": 1770775387,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Data-Analysis-Engineering-Scientist-Associate_R_00044440",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Fuse Energy",
         "id": "e9cd071d-84ea-4f4f-8544-16b8883f5be0",
@@ -1896,87 +1800,6 @@
             "Hoffman Estates, IL"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Takeda",
-        "id": "f59ecde6-8dc9-41ca-9274-32a0aedc2f20",
-        "title": "Software Engineering Analyst",
-        "active": false,
-        "date_updated": 1770776512,
-        "date_posted": 1770776512,
-        "url": "https://takeda.wd3.myworkdayjobs.com/external/job/MEX---Santa-Fe/Software-Engineering-Analyst_R0174002",
-        "locations": [
-            "Santa Fe, NM"
-        ],
-        "company_url": "https://simplify.jobs/c/Takeda",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "6f3de7e9-f676-43a4-99a3-a53aaae8382d",
-        "title": "Embedded Real-time Software Engineer 1",
-        "active": false,
-        "date_updated": 1770777002,
-        "date_posted": 1770777002,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Embedded-Real-time-Software-Engineer-I_01823140",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sierra Nevada Corporation",
-        "id": "1f051ec7-3d45-4eba-b8b9-45e794e4ac71",
-        "title": "Data Scientist 1",
-        "active": false,
-        "date_updated": 1770777069,
-        "date_posted": 1770777069,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Data-Scientist-I_R0029331",
-        "locations": [
-            "Lone Tree, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Texas Capital Bank",
-        "id": "3e42a034-d11d-4f24-b875-be5ec71de287",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1770776263,
-        "date_posted": 1770776263,
-        "url": "https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Richardson-TX/Associate-Software-Engineer_JR104964-1",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Texas-Capital-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -12476,32 +12299,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "0202d268-924c-4cb5-abaf-86899e75e777",
-        "title": "Senior Data Center Technician - Dco 4 - DCC Communities",
-        "active": false,
-        "date_updated": 1771495582,
-        "date_posted": 1770775629,
-        "url": "https://amazon.jobs/en/jobs/3178411/data-center-technician-dcc-communities",
-        "locations": [
-            "Ridgeland, MS",
-            "Levittown, PA",
-            "Atlanta, GA",
-            "Nanticoke, PA",
-            "Ashburn, VA",
-            "Dulles, VA",
-            "New Albany, OH",
-            "Manassas, VA",
-            "Chantilly, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -36411,26 +36208,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "North Wind Group",
-        "id": "8b35e9b1-d5c5-4fb5-9a89-be83eed9f79a",
-        "title": "Engineering Technician 5 - Target Diagnostics Systems Operator - Nws",
-        "active": false,
-        "date_updated": 1770776443,
-        "date_posted": 1770776443,
-        "url": "https://north-wind-group.breezy.hr/p/89176a7adc89/apply",
-        "locations": [
-            "Livermore, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/North-Wind-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
     },
     {
         "source": "Simplify",
