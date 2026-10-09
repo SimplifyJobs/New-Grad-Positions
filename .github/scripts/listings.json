@@ -1,65 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Fuse Energy",
-        "id": "e9cd071d-84ea-4f4f-8544-16b8883f5be0",
-        "title": "Tech Team Alpha Technician",
-        "active": false,
-        "date_updated": 1770794062,
-        "date_posted": 1770794062,
-        "url": "https://jobs.ashbyhq.com/Fuse/4172e615-802b-4af2-bc94-18018b5b40e7/application",
-        "locations": [
-            "San Leandro, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fuse-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Giga AI",
-        "id": "e83508cd-799c-4ddd-bba7-57d96394e3e3",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1770794173,
-        "date_posted": 1770794173,
-        "url": "https://jobs.ashbyhq.com/gigaml/cb74c445-322b-47fc-804c-b0565e18ca3a/application",
-        "locations": [
-            "NYC",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Giga-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Markforged",
-        "id": "8e9726e8-9475-422c-ac18-958e6d737e8a",
-        "title": "Systems Print Engineer",
-        "active": false,
-        "date_updated": 1770795075,
-        "date_posted": 1770795075,
-        "url": "https://job-boards.greenhouse.io/markforged/jobs/5799795004",
-        "locations": [
-            "Waltham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Markforged",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "f59b0de4-d8a6-4264-8fc8-cb06f44cfafe",
@@ -1703,83 +1644,6 @@
             "Phoenixville, PA"
         ],
         "company_url": "https://simplify.jobs/c/Proconex",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Chubb",
-        "id": "81676bb0-e21f-4e15-821c-64f175679477",
-        "title": "Global Digital and Analytics Rotation Analyst",
-        "active": false,
-        "date_updated": 1770793663,
-        "date_posted": 1770793663,
-        "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/30385",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Chubb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Giga AI",
-        "id": "38218558-17c2-4539-98bd-c9a69e00303e",
-        "title": "Software Engineer 1/2",
-        "active": false,
-        "date_updated": 1770793812,
-        "date_posted": 1770793812,
-        "url": "https://jobs.ashbyhq.com/gigaml/96f0c2f8-3d97-4763-ab46-b6af6ad8b2e7/application",
-        "locations": [
-            "NYC",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Giga-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3449e090-a0df-44bb-9d57-5a22988a8504",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770793780,
-        "date_posted": 1770793780,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048993",
-        "locations": [
-            "Winchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Chubb",
-        "id": "1d462009-eca4-4ea2-b310-affb51871de2",
-        "title": "Global Digital and Analytics Rotation Analyst",
-        "active": false,
-        "date_updated": 1770793667,
-        "date_posted": 1770793667,
-        "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/30386",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Chubb",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -11296,26 +11160,6 @@
             "Nottingham, UK"
         ],
         "company_url": "https://simplify.jobs/c/ONYX-Insight",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Breeze.cash",
-        "id": "42d33008-d4bc-43e3-b2ca-ecd8899ebf0d",
-        "title": "Software Engineer - Recent Grad - AI Native",
-        "active": false,
-        "date_updated": 1771457494,
-        "date_posted": 1770794935,
-        "url": "https://job-boards.greenhouse.io/breezecash/jobs/5116784008",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Breezecash",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -81862,24 +81706,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "GovSignals",
-        "id": "37c46199-78e6-4b60-9679-3a53fdb4cf5a",
-        "title": "Product Engineer",
-        "active": false,
-        "date_updated": 1775035621,
-        "date_posted": 1770793814,
-        "url": "https://jobs.ashbyhq.com/GovSignals/935e94f7-1e15-4b90-8005-1522fc9baadc/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/GovSignals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Northeastern University",
         "id": "928da4e1-e6b1-46f4-8582-2a99f0a6de26",
@@ -121725,24 +121551,6 @@
             "Stratford-upon-Avon, UK"
         ],
         "company_url": "https://simplify.jobs/c/Bosch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Giga AI",
-        "id": "68441536-c76d-4c50-86ba-263ef9b9d00e",
-        "title": "Forward Deployed Engineer",
-        "active": false,
-        "date_updated": 1777366441,
-        "date_posted": 1770793809,
-        "url": "https://jobs.ashbyhq.com/gigaml/cbe0ddad-a47c-420b-bf77-73721959d4fa/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Giga-AI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -390045,7 +389853,7 @@
         "company_name": "RTX",
         "id": "7ae12ead-4910-4bec-ac00-08d0fe1eb6e9",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791268294,
         "date_posted": 1791158400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineer-I--Onsite-_01874537",
