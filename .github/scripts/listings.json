@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Husqvarna Group",
-        "id": "8100be62-a30f-41ba-a41f-539948f8a734",
-        "title": "Workshop Technician",
-        "active": false,
-        "date_updated": 1770813775,
-        "date_posted": 1770813775,
-        "url": "https://husqvarnagroup.wd3.myworkdayjobs.com/External_Career_Site/job/Newton-Aycliffe/Workshop-Technician_R-16082",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Husqvarna-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Caesars Entertainment",
         "id": "ec4f307d-e699-40f3-962c-d162b6bca4e3",
         "title": "Slot Technician",
@@ -359392,7 +359374,7 @@
         "company_name": "Truist Bank",
         "id": "e036ba80-9a16-417a-8691-0fb0daf8b7dd",
         "title": "Data Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789079582,
         "date_posted": 1788998400,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Raleigh-NC/Data-Scientist-I_R0118840",
