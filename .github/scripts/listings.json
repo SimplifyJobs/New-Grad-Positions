@@ -1,172 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Caesars Entertainment",
-        "id": "ec4f307d-e699-40f3-962c-d162b6bca4e3",
-        "title": "Slot Technician",
-        "active": false,
-        "date_updated": 1770823039,
-        "date_posted": 1770823039,
-        "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/79699",
-        "locations": [
-            "Franklin, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Caesars-Entertainment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Southern Company",
-        "id": "026721ba-090e-428f-809a-49efbe0f3570",
-        "title": "Marketing Data Analyst",
-        "active": false,
-        "date_updated": 1770823046,
-        "date_posted": 1770823046,
-        "url": "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/17040",
-        "locations": [
-            "Birmingham, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Southern-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ef2a7cfe-848e-419d-8418-a1d534fdff36",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770822656,
-        "date_posted": 1770822656,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049018",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ec112456-6300-4dbf-ba76-ddd0a4c164be",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770822650,
-        "date_posted": 1770822650,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049029",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d6c51031-360e-4c7e-a843-34aacb78f56f",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770822643,
-        "date_posted": 1770822643,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049034",
-        "locations": [
-            "Harlow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d6a795e3-7bf4-4a0d-be4b-e3cb1e64a59b",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770822632,
-        "date_posted": 1770822632,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049001",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9986ca45-97c4-436c-9116-e35039b2ab0b",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770822659,
-        "date_posted": 1770822659,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049035",
-        "locations": [
-            "Harlow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Michigan Farm Bureau",
-        "id": "3c7d7d46-4275-4650-b572-3a0dc1101ca8",
-        "title": "Associate IT Data Analyst",
-        "active": false,
-        "date_updated": 1770822496,
-        "date_posted": 1770822496,
-        "url": "https://careers-michfb.icims.com/jobs/8544/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "East Lansing, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Michigan-Farm-Bureau",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ServiceNow",
-        "id": "6bd765f5-e77a-4787-be3c-636bcbffa994",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1770822309,
-        "date_posted": 1770822309,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000108759985",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Amentum",
         "id": "e5e5a42f-6d19-40f2-b761-0151a8b6ddb6",
@@ -223,26 +57,6 @@
         "is_visible": true,
         "sponsorship": "U.S. Citizenship is Required",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "fda2f0e8-f0bf-4b0b-9193-8db3517f3869",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1770823794,
-        "date_posted": 1770823794,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7603732",
-        "locations": [
-            "Niagara Falls, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -354447,7 +354261,7 @@
         "company_name": "Accenture",
         "id": "86f8df7e-9b3c-41db-b77b-305fe131d4ad",
         "title": "AI & Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788877623,
         "date_posted": 1788877522,
         "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4711195006",
@@ -380383,7 +380197,7 @@
         "company_name": "Kyndryl",
         "id": "45323d80-9f3f-4d24-ab2c-353be224433c",
         "title": "Early Careers Consult Program - Data Operations Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1790834942,
         "date_posted": 1790726400,
         "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Careers-Consult-Program---Data-Operations-Associate_R-69022-1",
