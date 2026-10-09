@@ -302396,7 +302396,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -382619,7 +382619,7 @@
         "company_name": "AMD",
         "id": "55881e21-9521-47b4-a27d-a7663f53b785",
         "title": "Silicon Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791007741,
         "date_posted": 1791007698,
         "url": "https://careers.amd.com/jobs/89974?icims=1",
@@ -393630,7 +393630,7 @@
         "company_name": "Harbor Foods",
         "id": "54109d7b-e383-4172-8aba-eda5ce54188b",
         "title": "WMS Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791422129,
         "date_posted": 1791421544,
         "url": "https://wholesale-harborfoods.icims.com/jobs/7921/job?mobile=true&needsRedirect=false",
@@ -395223,5 +395223,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Appen",
+        "id": "2033636a-6fe2-4479-9f48-bdb3f2c0eca6",
+        "title": "3D & LiDAR Data Annotation Analyst",
+        "active": true,
+        "date_updated": 1791538813,
+        "date_posted": 1789942395,
+        "url": "https://jobs.lever.co/appen-2/b66cbdf1-684b-449b-8779-5859fa4419fa/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Appen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
     }
 ]
