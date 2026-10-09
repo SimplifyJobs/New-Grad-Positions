@@ -1,154 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f59b0de4-d8a6-4264-8fc8-cb06f44cfafe",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770805815,
-        "date_posted": 1770805815,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048948",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e6a7c3aa-a2c4-45a1-86dd-ef143d95babe",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770805816,
-        "date_posted": 1770805816,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048992",
-        "locations": [
-            "Harrogate, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e0c7a364-3aad-4e6f-a123-386e2935a852",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770805812,
-        "date_posted": 1770805812,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048990",
-        "locations": [
-            "Harrogate, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "be37b2c1-3684-4323-a7b0-0b29c3b4fe6f",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770805811,
-        "date_posted": 1770805811,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048651",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8c3d2d63-5d58-4fb0-9fd0-38c11d44cef3",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770805816,
-        "date_posted": 1770805816,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048949",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "85daa521-7d51-432c-89cd-c190dfa7c304",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770805816,
-        "date_posted": 1770805816,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048947",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Howmet Aerospace",
-        "id": "47695da9-b23d-4956-b087-1a7460295402",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1770805779,
-        "date_posted": 1770805779,
-        "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116117",
-        "locations": [
-            "Wichita County, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Howmet-Aerospace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "42f1b3be-602e-4d82-bd6a-f1edd6569c07",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770805813,
-        "date_posted": 1770805813,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048991",
-        "locations": [
-            "Harrogate, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Husqvarna Group",
         "id": "8100be62-a30f-41ba-a41f-539948f8a734",
@@ -92169,7 +92021,7 @@
         "company_name": "TikTok",
         "id": "c9ab7f92-f6ec-42d1-b42e-d04835febdf0",
         "title": "Graduate Research Scientist - Global E-commerce Content Recommendation",
-        "active": true,
+        "active": false,
         "date_updated": 1775629392,
         "date_posted": 1775628705,
         "url": "https://lifeattiktok.com/search/7521987177107589384",
@@ -395244,5 +395096,44 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BIP Ventures",
+        "id": "3b795f89-6464-4dce-bc94-f55a4821c04f",
+        "title": "Associate AI Engineer",
+        "active": true,
+        "date_updated": 1791541082,
+        "date_posted": 1789597194,
+        "url": "https://apply.workable.com/bipventures/j/75C9D6B9AF/apply",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/BIP-Ventures",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Clark",
+        "id": "3c6f3dde-a27b-4f3c-b6a8-fdc22c5627ba",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1791540725,
+        "date_posted": 1785795449,
+        "url": "https://jobs.ashbyhq.com/clark/78fae57b-98da-46c2-be2e-11a1ca5bb5eb/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Clark-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
