@@ -334705,7 +334705,7 @@
         "company_name": "Textron",
         "id": "9f7d4dd2-ab79-4bbd-80d9-36bd21be6d5f",
         "title": "Electrical Engineer 1 - Electronic Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1788406926,
         "date_posted": 1788255602,
         "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342663",
@@ -395323,5 +395323,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uber",
+        "id": "b23ab408-a460-4f25-ae85-aafc1f84a447",
+        "title": "PhD Software Engineer 2",
+        "active": true,
+        "date_updated": 1791506208,
+        "date_posted": 1791506003,
+        "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/300813",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uber",
+        "id": "303c8256-045c-4c80-8d9a-aec169bed304",
+        "title": "Graduate Software Engineer 2",
+        "active": true,
+        "date_updated": 1791506190,
+        "date_posted": 1791505993,
+        "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/301355",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
