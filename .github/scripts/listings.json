@@ -130623,7 +130623,7 @@
         "company_name": "SpaceX",
         "id": "d3a2d6b4-b92c-41cd-8608-e1d2d5e108ff",
         "title": "Embedded Software Engineer - OS/Platform - Starshield",
-        "active": true,
+        "active": false,
         "date_updated": 1778029741,
         "date_posted": 1778029571,
         "url": "https://boards.greenhouse.io/spacex/jobs/8530798002",
@@ -349763,7 +349763,7 @@
         "company_name": "Micron Technology",
         "id": "d524ecf8-071b-4ee2-8461-4ae3e02bf245",
         "title": "HBM Product Development Failure Analysis Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1788490110,
         "date_posted": 1788393600,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---HBM-Product-Development-Failure-Analysis-Engineer_JR110630",
@@ -395562,5 +395562,44 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lucid Motors",
+        "id": "120709b5-ed04-4080-906e-7c8a7adfb299",
+        "title": "Software Engineer - ADAS Behavior Planning and Integration",
+        "active": true,
+        "date_updated": 1791509955,
+        "date_posted": 1791509800,
+        "url": "https://lucidmotors.com/careers/search/5242854007?gh_jid=5242854007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "b755d123-86cf-4289-a26a-836575a6526a",
+        "title": "Engineering Technician - CW",
+        "active": true,
+        "date_updated": 1791498062,
+        "date_posted": 1791417600,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Orlando-FL/Engineering-Technician---CW_REQ37369",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Teledyne",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
