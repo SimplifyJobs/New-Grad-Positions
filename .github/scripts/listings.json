@@ -300900,7 +300900,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -389796,7 +389796,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa71e901-808c-47e5-ab2d-32344fa2c4e7",
         "title": "Engineering Apprentice",
-        "active": false,
+        "active": true,
         "date_updated": 1791353752,
         "date_posted": 1790201057,
         "url": "https://higher.gs.com/roles/174814?type=students",
@@ -394419,7 +394419,7 @@
         "company_name": "Triumph",
         "id": "a26c7b74-1550-4e9f-bc9a-ed3c7465b92e",
         "title": "Software Engineer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1791585554,
         "date_posted": 1791584817,
         "url": "https://jobs.ashbyhq.com/triumph-arcade/2d8c5061-2419-4755-80d8-c808eef4a82b/application?embed=true",
@@ -395195,6 +395195,24 @@
             "Sweetwater, TX"
         ],
         "company_url": "https://simplify.jobs/c/Ludlum-Measurements",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AI Security Institute",
+        "id": "cd115c90-9d98-445e-871d-c8858e45ec5d",
+        "title": "Software Engineer - Cyber & Autonomous Systems Team",
+        "active": true,
+        "date_updated": 1791628637,
+        "date_posted": 1789654379,
+        "url": "https://job-boards.eu.greenhouse.io/aisi/jobs/4977896101",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AI-Security-Institute",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
