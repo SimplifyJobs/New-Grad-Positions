@@ -114,7 +114,7 @@ def mark_urls_as_inactive(urls):
     
     try:
         # Load current listings
-        with open(".github/scripts/listings.json", "r") as f:
+        with open(".github/scripts/listings.json", "r", encoding="utf-8") as f:
             listings = json.load(f)
     except Exception as e:
         util.fail(f"Failed to load listings.json: {str(e)}")
@@ -159,7 +159,7 @@ def mark_urls_as_inactive(urls):
     
     # Save the updated listings
     try:
-        with open(".github/scripts/listings.json", "w") as f:
+        with open(".github/scripts/listings.json", "w", encoding="utf-8") as f:
             json.dump(listings, f, indent=4)
     except Exception as e:
         util.fail(f"Failed to save listings.json: {str(e)}")

@@ -321,7 +321,7 @@ def main():
         return listing_text
 
     try:
-        with open(".github/scripts/listings.json", "r") as f:
+        with open(".github/scripts/listings.json", "r", encoding="utf-8") as f:
             listings = json.load(f)
 
         if listing_to_update := next(
@@ -346,7 +346,7 @@ def main():
 
             util.setOutput("commit_message", "added listing: " + get_commit_text(data))
 
-        with open(".github/scripts/listings.json", "w") as f:
+        with open(".github/scripts/listings.json", "w", encoding="utf-8") as f:
             f.write(json.dumps(listings, indent=4))
     except Exception as e:
         util.fail(f"Error updating listings: {str(e)}")
