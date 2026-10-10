@@ -1,62 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Thales",
-        "id": "e13087e0-2368-4cdb-ac8a-12b6c017da60",
-        "title": "Software Developer \u2013 New Grad - C#/C++ - Wpf",
-        "active": false,
-        "date_updated": 1770862918,
-        "date_posted": 1770862918,
-        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Fredericton---Knowledge-Park/Software-Developer--New-Grad---C--C----WPF_R0314958-1",
-        "locations": [
-            "Fredericton, NB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Thales",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5071e2dc-d355-4894-9218-cbbec44dbf67",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770862211,
-        "date_posted": 1770862211,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049125",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "URBN",
-        "id": "5b050305-4a41-485b-b281-c14f3d7c5405",
-        "title": "FP Movement Product Development Coordinator",
-        "active": false,
-        "date_updated": 1770862097,
-        "date_posted": 1770862097,
-        "url": "https://homeoffice-na-urbn.icims.com/jobs/24548/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/URBN",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Gensler",
         "id": "63766d22-3391-4d5b-b830-c9784dc3bd2a",
@@ -34595,24 +34539,6 @@
             "Frederick, MD"
         ],
         "company_url": "https://simplify.jobs/c/Stulz",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "2174507d-b3cb-49df-8d6b-756be257de04",
-        "title": "Manufacturing Technician a",
-        "active": false,
-        "date_updated": 1772620695,
-        "date_posted": 1770862313,
-        "url": "https://jobs.l3harris.com/job/Redmond-Manufacturing-Technician-A-WA-98052/1364230000/?ats=successfactors",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -370429,7 +370355,7 @@
         "company_name": "JP Morgan Chase",
         "id": "78b43528-9f63-4fe7-9fd3-b20d58a0a218",
         "title": "Market Risk Time Series Analytics Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1790126379,
         "date_posted": 1790125762,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785457",
@@ -394597,7 +394523,7 @@
         "company_name": "CVS Health",
         "id": "784ec0c4-a853-4f22-a2e6-437ab3932836",
         "title": "Associate Software Development Engineer - Conversion",
-        "active": true,
+        "active": false,
         "date_updated": 1791584462,
         "date_posted": 1791504000,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/GA---Work-from-home/Associate-Software-Development-Engineer--Conversion-_R1056399",
