@@ -385478,7 +385478,7 @@
         "company_name": "HCSC",
         "id": "c71bd072-5c5d-4aff-8934-94abc3c6dd32",
         "title": "Early Careers New Grad - Analytics Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1791238620,
         "date_posted": 1791158400,
         "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/National-Remote/Early-Careers-New-Grad---Analytics-Development-Program--REMOTE-_R0059520",
@@ -395216,5 +395216,46 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "e3ed9a37-c604-426c-b77d-5177622b8632",
+        "title": "Design Verification Engineer",
+        "active": true,
+        "date_updated": 1791497701,
+        "date_posted": 1791497575,
+        "url": "https://jobs.apple.com/en-us/details/200687828",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SHI International",
+        "id": "f5ad722d-a6dc-41a4-b20e-69f2c9143e0a",
+        "title": "Integration Center Technician 1",
+        "active": true,
+        "date_updated": 1791637044,
+        "date_posted": 1789084800,
+        "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/Piscataway-NJ-USA/Integration-Center-Tech-I_JR3722",
+        "locations": [
+            "Piscataway, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/SHI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
