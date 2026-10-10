@@ -1,62 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d0566368-18ed-4ef2-9151-c6deddfc97ce",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770892076,
-        "date_posted": 1770892076,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048647",
-        "locations": [
-            "Tunbridge Wells, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "09c8cacf-e1e0-4a75-98c1-d9b69194596c",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770892079,
-        "date_posted": 1770892079,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049134",
-        "locations": [
-            "Southampton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "7948b935-4bba-44b3-8907-7e5a942c3bb4",
-        "title": "AI Data Associate - Portuguese - Artificial General Intelligence",
-        "active": false,
-        "date_updated": 1770892110,
-        "date_posted": 1770892110,
-        "url": "https://amazon.jobs/en/jobs/3150263/ai-data-associate-portuguese-artificial-general-intelligence",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Caterpillar Inc.",
         "id": "1265c333-e385-44ba-a466-af823cf1bdc3",
@@ -311232,7 +311176,7 @@
         "company_name": "Analog Devices",
         "id": "e65ecc81-280d-4bcd-9c79-2cbe1b01bd23",
         "title": "Associate Digital Design Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1787274901,
         "date_posted": 1787184000,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Digital-Design-Engineer_R265286",
