@@ -2,86 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Gensler",
-        "id": "63766d22-3391-4d5b-b830-c9784dc3bd2a",
-        "title": "Visualization Specialist - Junior",
-        "active": false,
-        "date_updated": 1770863697,
-        "date_posted": 1770863697,
-        "url": "https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Washington-DC-US/Visualization-Specialist---Junior_R-17007",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Gensler",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EOS IT Solutions",
-        "id": "adb426a5-16df-4add-9369-069e92f075ef",
-        "title": "Infrastructure Repair Technician - Data Center",
-        "active": false,
-        "date_updated": 1770863618,
-        "date_posted": 1770863618,
-        "url": "https://eosits.com/company/careers/?gh_jid=8419846002",
-        "locations": [
-            "Tualatin, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EOS IT Solutions",
-        "id": "4e520f50-943b-4dd7-81da-4e3188efe4d1",
-        "title": "Infrastructure Repair Technician - Data Center",
-        "active": false,
-        "date_updated": 1770863617,
-        "date_posted": 1770863617,
-        "url": "https://eosits.com/company/careers/?gh_jid=8419845002",
-        "locations": [
-            "Portland, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EOS IT Solutions",
-        "id": "0b6bb669-a1e7-4a3d-bf5f-a72fbea4c475",
-        "title": "Infrastructure Repair Technician - Data Center",
-        "active": false,
-        "date_updated": 1770863619,
-        "date_posted": 1770863619,
-        "url": "https://eosits.com/company/careers/?gh_jid=8419843002",
-        "locations": [
-            "Beaverton, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "American Electric Power",
         "id": "a30669ac-ae30-4266-97e3-e8f4cf76fca0",
         "title": "Generation Applications Support Specialist - Multiple Teams",
@@ -388984,7 +388904,7 @@
         "company_name": "Qualcomm",
         "id": "697bf57d-540e-4ef5-a49b-e5acbe480b78",
         "title": "Video Design Engineer - Video Systems - HW Architecture",
-        "active": true,
+        "active": false,
         "date_updated": 1791327549,
         "date_posted": 1791325806,
         "url": "https://qualcomm.eightfold.ai/careers/job/446721425815",
