@@ -395235,5 +395235,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vigil Labs",
+        "id": "bdc069d8-947d-4e4c-8a1c-78356f9b366f",
+        "title": "Founding Software Engineer",
+        "active": true,
+        "date_updated": 1791603636,
+        "date_posted": 1791603636,
+        "url": "https://simplify.jobs/p/bdc069d8-947d-4e4c-8a1c-78356f9b366f",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vigil-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
