@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AT&T",
-        "id": "4d51a622-fd25-4d01-afeb-eb85d2077373",
-        "title": "Lead Advanced Analytics",
-        "active": false,
-        "date_updated": 1770882199,
-        "date_posted": 1770882199,
-        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Lead-Advanced-Analytics_R-100137",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/ATT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Toast",
-        "id": "3410f22b-b35c-4b2d-973e-a2b8b9040ca2",
-        "title": "Software Engineer 1 - Backend - Employee Lifecycle Management",
-        "active": false,
-        "date_updated": 1770881520,
-        "date_posted": 1770881520,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7592625",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Toast",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "d0566368-18ed-4ef2-9151-c6deddfc97ce",
@@ -297941,7 +297903,7 @@
         "company_name": "The Boeing Company",
         "id": "7fdbff33-ffe2-4d3f-b846-0ae624da19ff",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786683635,
         "date_posted": 1786579200,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1",
