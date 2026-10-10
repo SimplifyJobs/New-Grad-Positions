@@ -1,66 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Airbus",
-        "id": "ee9a1e64-0ec4-4ab8-bfb9-7b306e1af5d7",
-        "title": "Cabin Installer",
-        "active": false,
-        "date_updated": 1770854492,
-        "date_posted": 1770854492,
-        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Cabin-Installer_JR10389176-1",
-        "locations": [
-            "Mobile, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Airbus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Airbus",
-        "id": "a5333041-8815-43a8-83f9-9280db0330cb",
-        "title": "Systems Installer",
-        "active": false,
-        "date_updated": 1770854498,
-        "date_posted": 1770854498,
-        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Systems-Installer_JR10389147",
-        "locations": [
-            "Mobile, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Airbus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Applied Materials",
-        "id": "96c24300-0c19-4356-b32c-0c48ad8a1c3f",
-        "title": "Computational Physicist AI/ML - Fluid/Thermal Modeling",
-        "active": false,
-        "date_updated": 1770854540,
-        "date_posted": 1770854540,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Computational-Physicist---Fluid-Thermal-Modeling--AI-ML-New-College-Grad---Doctorate-Degree--Santa-Clara--CA-_R2612850",
-        "locations": [
-            "Santa Clara, CA",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Thales",
         "id": "e13087e0-2368-4cdb-ac8a-12b6c017da60",
@@ -349,24 +289,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Airbus",
-        "id": "f54427fc-c50e-49b0-9461-fb2aeee8d649",
-        "title": "Cabin Installer",
-        "active": false,
-        "date_updated": 1770854491,
-        "date_posted": 1770854491,
-        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Cabin-Installer_JR10389180",
-        "locations": [
-            "Mobile, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Airbus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -389034,7 +388956,7 @@
         "company_name": "AeroVironment",
         "id": "51c261e9-1fea-45ad-85fd-4990228b923a",
         "title": "RF Collection Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1791324541,
         "date_posted": 1791244800,
         "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/San-Diego-CA/RF-Collection-Specialist_9056",
