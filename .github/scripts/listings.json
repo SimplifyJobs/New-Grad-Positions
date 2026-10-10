@@ -216469,7 +216469,7 @@
         "company_name": "IMA Financial Group",
         "id": "6a9378a8-2a47-4aa5-9d9b-5187d45c7f4d",
         "title": "Business Intelligence Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1783463761,
         "date_posted": 1783462726,
         "url": "https://imacorp.com/careers/openings/5181420007?gh_jid=5181420007",
@@ -300808,7 +300808,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -301189,7 +301189,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -376988,7 +376988,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": false,
+        "active": true,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -390085,7 +390085,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa71e901-808c-47e5-ab2d-32344fa2c4e7",
         "title": "Engineering Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1791353752,
         "date_posted": 1790201057,
         "url": "https://higher.gs.com/roles/174814?type=students",
@@ -395205,6 +395205,189 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "dd326320-d6f5-48a8-b099-4786ab792973",
+        "title": "DFT Engineer - ASICS Engineering",
+        "active": true,
+        "date_updated": 1791595261,
+        "date_posted": 1791595089,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721493810",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Mini-Circuits",
+        "id": "d856f183-f660-451c-8972-276b01c7158b",
+        "title": "Test Engineer",
+        "active": true,
+        "date_updated": 1791595081,
+        "date_posted": 1791595001,
+        "url": "https://jobs.jobvite.com/mini-circuits-review/job/opcWAfwR?nl=1&nl=1&fr=false",
+        "locations": [
+            "Hialeah, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Mini-Circuits",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Perr&Knight",
+        "id": "1f76312f-1032-4bed-9c8d-8dec5f268526",
+        "title": "Associate Programmer",
+        "active": true,
+        "date_updated": 1791594901,
+        "date_posted": 1791594830,
+        "url": "https://jobs.lever.co/perrknight/b15ed1e0-a7f1-444a-8130-6047c4cbcf44/apply",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Perr-And-Knight",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Becton Dickinson",
+        "id": "98c33fd8-dca1-426d-a419-74413b56996d",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1791594869,
+        "date_posted": 1791504000,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I_R-557002-1",
+        "locations": [
+            "Sparks, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "82fb089b-e0cb-414d-9953-9f5d35538486",
+        "title": "C++ Software Engineer New Grad - Infrastructure Tools",
+        "active": true,
+        "date_updated": 1791594876,
+        "date_posted": 1791504000,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "5011b571-fd51-4f1a-903a-43b3328e3cff",
+        "title": "ASIC Clocks Verification Engineer New Grad",
+        "active": true,
+        "date_updated": 1791594862,
+        "date_posted": 1791504000,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2027579",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "6a2ed12f-7233-49b7-80af-74bb4795ed0e",
+        "title": "Software Engineer 2 - Factory",
+        "active": true,
+        "date_updated": 1791594741,
+        "date_posted": 1791594528,
+        "url": "https://jobs.lever.co/shieldai/681efe7f-2c2a-4830-8976-9a6f77d9d3e5/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "38f7065d-2724-49d3-a9d6-ce99942d1563",
+        "title": "AMS Lab Operations",
+        "active": true,
+        "date_updated": 1791594541,
+        "date_posted": 1791594526,
+        "url": "https://jobs.apple.com/en-us/details/200688294",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Xcel Energy",
+        "id": "b80904c4-3f7d-4e91-b636-fd2b0c6ac3ff",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1791584462,
+        "date_posted": 1791504000,
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Associate-Data-Scientist_JR116914-2",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Xcel-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
