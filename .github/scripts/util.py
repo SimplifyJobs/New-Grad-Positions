@@ -249,7 +249,7 @@ def filterListings(listings, earliest_date):
     return final_listings
 
 def getListingsFromJSON(filename=".github/scripts/listings.json"):
-    with open(filename) as f:
+    with open(filename, "r", encoding="utf-8") as f:
         listings = json.load(f)
         print("Recieved " + str(len(listings)) +
               " listings from listings.json")
@@ -396,7 +396,7 @@ def embedTable(listings):
     browse_section_replaced = False
     in_table_section = False
     
-    with open(filepath, "r") as f:
+    with open(filepath, "r", encoding="utf-8") as f:
         for line in f.readlines():
             if not browse_section_replaced and line.startswith("### Browse"):
                 # Start of Browse section
@@ -433,7 +433,7 @@ def embedTable(listings):
             if not in_browse_section and not in_table_section:
                 newText += line
 
-    with open(filepath, "w") as f:
+    with open(filepath, "w", encoding="utf-8") as f:
         f.write(newText)
 
 def sortListings(listings):
