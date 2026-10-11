@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Equinix",
-        "id": "77c5f274-e403-4537-abb0-f60ed72d1767",
-        "title": "Analytics & Communications Specialist",
-        "active": false,
-        "date_updated": 1770941674,
-        "date_posted": 1770941674,
-        "url": "https://equinix.wd1.myworkdayjobs.com/External/job/Ashburn/Analytics---Communications-Specialist_JR-157403",
-        "locations": [
-            "Ashburn, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Equinix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Applied Materials",
-        "id": "06def1a3-f95d-4552-87fd-fbae555b6dcd",
-        "title": "Data Scientist New College Grad - Masters Degree - Santa Clara CA",
-        "active": false,
-        "date_updated": 1770941101,
-        "date_posted": 1770941101,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist-New-College-Grad---Masters-Degree--Santa-Clara--CA-_R2612272",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "NVIDIA",
         "id": "d25fc693-17f5-4111-adf5-419f904a333c",
