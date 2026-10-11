@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Wells Fargo",
-        "id": "d55024af-891a-41c7-89d8-176c372a32eb",
-        "title": "Engineering Associate - .Net",
-        "active": false,
-        "date_updated": 1770998738,
-        "date_posted": 1770998738,
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/WEST-DES-MOINES-IA/Engineering-Associate---NET_R-517668",
-        "locations": [
-            "West Des Moines, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wells-Fargo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "ed668ab8-4293-4975-94f4-94b534f1d11e",
@@ -346670,7 +346652,7 @@
         "company_name": "CSC Generation",
         "id": "2643154c-81da-4e50-a255-f026c03f0324",
         "title": "AI Solutions Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788514922,
         "date_posted": 1784671755,
         "url": "https://jobs.lever.co/cscgeneration-2/40715594-0edc-4909-967c-71d252215c51/apply",
