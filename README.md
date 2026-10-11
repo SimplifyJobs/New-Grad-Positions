@@ -2268,7 +2268,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1195)</summary>
+<summary>🗃️ Inactive roles (1194)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -10636,13 +10636,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Lindy?utm_source=GHList&utm_medium=company">Lindy</a></strong></td>
 <td>Full Stack Software Engineer – Early Career</td>
 <td>SF</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Anduril?utm_source=GHList&utm_medium=company">Anduril</a></strong></td>
-<td>Early Career Software Engineer - Mixed Reality</td>
-<td>United States</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
