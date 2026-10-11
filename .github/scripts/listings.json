@@ -1,98 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mercor",
-        "id": "b7de0ef1-2ccb-400c-8e09-b5078a36aa4d",
-        "title": "Data Scientist",
-        "active": false,
-        "date_updated": 1770967083,
-        "date_posted": 1770967083,
-        "url": "https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Mercor",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Maple AI",
-        "id": "2d46d675-43a4-49b2-8886-d3e7b43dd3a9",
-        "title": "GTM Engineer",
-        "active": false,
-        "date_updated": 1770967111,
-        "date_posted": 1770967111,
-        "url": "https://jobs.ashbyhq.com/maple/99c07e10-f81a-4b62-97c7-9388128c708a/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Maple-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mudflap",
-        "id": "46e82831-0ad8-4735-8586-00543f539fa3",
-        "title": "Software Engineer - Ruby on Rails",
-        "active": false,
-        "date_updated": 1770967002,
-        "date_posted": 1770967002,
-        "url": "https://jobs.ashbyhq.com/mudflap/6d599ccc-4566-4cd3-9721-2273601acba6/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mudflap",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f294fd48-41aa-4e2e-add9-5fb479e1710a",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770966641,
-        "date_posted": 1770966641,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049281",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "056d967c-9f21-4126-8a05-76b639f5dd64",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770966641,
-        "date_posted": 1770966641,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049282",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "02d771f1-c654-4585-bc6c-96b59a657c1a",
@@ -62607,24 +62515,6 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Accenture-FS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lindy",
-        "id": "a278668b-f235-49a5-91fc-ca5c540e8e3c",
-        "title": "Full Stack Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1773822396,
-        "date_posted": 1770966504,
-        "url": "https://jobs.ashbyhq.com/lindy/a5100dbe-d851-4544-bb4c-0428d77940eb/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Lindy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -338470,27 +338360,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Array Labs",
-        "id": "f33f5a4d-4696-415b-be73-ebe05ddaa7f2",
-        "title": "Electrical Design Engineer",
-        "active": true,
-        "date_updated": 1773825035,
-        "date_posted": 1770966867,
-        "url": "https://jobs.lever.co/arraylabs.io/a8aeea90-4aa4-47af-a2ed-1ca5bd4126df/apply",
-        "locations": [
-            "San Carlos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Array-Labs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
