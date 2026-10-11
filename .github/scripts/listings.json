@@ -1,66 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Fellow",
-        "id": "b50602ac-999b-4033-a430-4fd6612337d5",
-        "title": "Technician - Temp",
-        "active": false,
-        "date_updated": 1770950645,
-        "date_posted": 1770950645,
-        "url": "https://fellowproducts.com/pages/careers?gh_jid=5051869007",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Fellow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Anduril",
-        "id": "ab4bfc6b-77aa-445f-a333-2e3f7c3a338b",
-        "title": "Senior Software Engineer - Warfighter Systems",
-        "active": false,
-        "date_updated": 1770950168,
-        "date_posted": 1770950168,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5050193007",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Anduril",
-        "id": "fd13c0b8-1391-4ef9-93c7-ddd1da098dc1",
-        "title": "Early Career Software Engineer - Mixed Reality",
-        "active": false,
-        "date_updated": 1770950160,
-        "date_posted": 1770950160,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5051227007",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Mercor",
         "id": "b7de0ef1-2ccb-400c-8e09-b5078a36aa4d",
