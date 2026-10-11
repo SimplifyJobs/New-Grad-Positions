@@ -714,7 +714,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer New Grad - AI-Native</td>
 <td>Mountain View, CA</td>
 <td><div align="center"><a href="https://study.com/pages/jobApplication.html/?gh_jid=5429313008&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/11510869-ac93-4ce2-85d4-2787fe2b2cb2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Perseus-Group?utm_source=GHList&utm_medium=company">Perseus Group</a></strong></td>
@@ -15185,7 +15185,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (349)</summary>
+<summary>🗃️ Inactive roles (348)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -17631,13 +17631,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/LatitudeAI?utm_source=GHList&utm_medium=company">Latitude AI</a></strong></td>
 <td>Hardware Engineer 1</td>
 <td>Palo Alto, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Software Engineer 1 - Effectors</td>
-<td>Tucson, AZ</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
