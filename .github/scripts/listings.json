@@ -220746,7 +220746,7 @@
         "company_name": "Akuna Capital University",
         "id": "73cbd0da-d5af-4887-a89e-c404bc218ef3",
         "title": "Junior Trader",
-        "active": false,
+        "active": true,
         "date_updated": 1783982164,
         "date_posted": 1783980602,
         "url": "https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141",
@@ -255142,7 +255142,7 @@
         "company_name": "NVIDIA",
         "id": "30612f5b-226b-4ab8-9610-ae2ae82ca2a0",
         "title": "Developer Technology Engineer New Grad - Public Sector",
-        "active": false,
+        "active": true,
         "date_updated": 1784760166,
         "date_posted": 1784758590,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
@@ -293973,7 +293973,7 @@
         "company_name": "Invenergy",
         "id": "5603bb21-2506-46bb-90cf-2cc47b3c471e",
         "title": "Analyst \u2013 Applied AI",
-        "active": false,
+        "active": true,
         "date_updated": 1786686301,
         "date_posted": 1786665600,
         "url": "https://invenergyllc.wd1.myworkdayjobs.com/en-US/invenergycareers/job/Chicago-IL/Analyst--Applied-AI_R11094-1",
@@ -382128,7 +382128,7 @@
         "company_name": "ID.me",
         "id": "96e1951b-5f22-4c47-8da1-269eee7486fa",
         "title": "Software Development Engineer 2 New Grad - Life Hub - Super App",
-        "active": false,
+        "active": true,
         "date_updated": 1791240302,
         "date_posted": 1791238953,
         "url": "https://job-boards.greenhouse.io/idme/jobs/8011095003",
@@ -385660,7 +385660,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa71e901-808c-47e5-ab2d-32344fa2c4e7",
         "title": "Engineering Apprentice",
-        "active": false,
+        "active": true,
         "date_updated": 1791353752,
         "date_posted": 1790201057,
         "url": "https://higher.gs.com/roles/174814?type=students",
@@ -391494,6 +391494,214 @@
             "Pennsylvania"
         ],
         "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cox",
+        "id": "695405ef-24d8-4b85-9b40-efba7544ff78",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1791843521,
+        "date_posted": 1791763200,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Data-Engineer-I_R202683561-1",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "c8d29e73-aa91-42fb-92af-482d6cdb70d4",
+        "title": "System Architect",
+        "active": true,
+        "date_updated": 1791842948,
+        "date_posted": 1791842918,
+        "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4721109006",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "STR",
+        "id": "bb65ac0a-307a-4a41-976e-1baeafd3355f",
+        "title": "Associate Embedded Systems Emulation Engineer",
+        "active": true,
+        "date_updated": 1791842948,
+        "date_posted": 1791842845,
+        "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4721162006",
+        "locations": [
+            "Woburn, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Duolingo",
+        "id": "ba43adfb-cd21-4662-9f8e-7ace578f3cfd",
+        "title": "AI Research Engineer New Grad",
+        "active": true,
+        "date_updated": 1791843322,
+        "date_posted": 1791842791,
+        "url": "https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002",
+        "locations": [
+            "Pittsburgh, PA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Duolingo",
+        "id": "f466d67b-9634-442d-ab44-147c27ae3808",
+        "title": "AI Research Engineer New Grad",
+        "active": true,
+        "date_updated": 1791843362,
+        "date_posted": 1791842811,
+        "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8883870002",
+        "locations": [
+            "Pittsburgh, PA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TriNet",
+        "id": "b2923a29-715c-4b61-b190-c00f11a10529",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791842782,
+        "date_posted": 1791842782,
+        "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004087",
+        "locations": [
+            "Remote in USA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/TriNet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dexcom",
+        "id": "c5f0ccae-5750-4c3e-9954-d45d8150a0a2",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1791843239,
+        "date_posted": 1791763200,
+        "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote-California/SW-Development-Engineer-1_JR121427",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Dexcoma",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astera Labs",
+        "id": "be5aa192-e20b-4a22-9a79-6b3bdab70ba2",
+        "title": "Analog Mixed Signal Engineer",
+        "active": true,
+        "date_updated": 1791843178,
+        "date_posted": 1791842747,
+        "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739771005",
+        "locations": [
+            "San Jose, CA",
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AsteraLabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blue Origin",
+        "id": "0de20248-a35f-4a5d-96df-053574c2078e",
+        "title": "Robotics Engineer 1",
+        "active": true,
+        "date_updated": 1791843176,
+        "date_posted": 1791763200,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Robotics-Engineer-I_R73861",
+        "locations": [
+            "Washington"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AbbVie",
+        "id": "bc3e53cc-9c7a-49fa-afa7-8bede1da1df5",
+        "title": "Associate Engineer - Technology 1",
+        "active": true,
+        "date_updated": 1791843481,
+        "date_posted": 1791842737,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016054796",
+        "locations": [
+            "North Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AbbVie",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
