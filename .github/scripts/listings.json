@@ -391459,5 +391459,45 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howden",
+        "id": "a762184f-4a33-462a-8220-7c82e54b505e",
+        "title": "Data Analyst - Specialty",
+        "active": true,
+        "date_updated": 1791819112,
+        "date_posted": 1791763200,
+        "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London/Data-Analyst---Specialty_R0019598-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Howden",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pennsylvania State University",
+        "id": "7f383064-96bb-4d13-ba4c-b4b9565a2cc4",
+        "title": "Electrical Engineering Technologist - Electrical - Applied Research Laboratory",
+        "active": true,
+        "date_updated": 1791819091,
+        "date_posted": 1791763200,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Technologist--Electrical--ARL-_REQ_0000083183-1",
+        "locations": [
+            "Pennsylvania"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
