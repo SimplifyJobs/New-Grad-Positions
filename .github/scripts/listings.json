@@ -71500,7 +71500,7 @@
         "company_name": "TikTok",
         "id": "714f26ab-28dd-4f39-8b84-f3869099f68f",
         "title": "Vision Language Models/Vision Language Models Research Scientist Graduate - Trust and Safety - PhD",
-        "active": false,
+        "active": true,
         "date_updated": 1774919992,
         "date_posted": 1774919590,
         "url": "https://lifeattiktok.com/search/7594895259798325557",
@@ -224715,7 +224715,7 @@
         "company_name": "Cisco",
         "id": "7a41b37b-bd8a-4927-901d-15da9744cdcf",
         "title": "Failure Analysis Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784154435,
         "date_posted": 1784153503,
         "url": "https://careers.cisco.com/global/en/job/2018947",
@@ -296404,7 +296404,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -296785,7 +296785,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -391321,5 +391321,105 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wolverine Trading",
+        "id": "1935c5df-770d-45f2-bbde-4d4a462ad5cb",
+        "title": "Early Career C++ Software Engineer",
+        "active": true,
+        "date_updated": 1791814987,
+        "date_posted": 1791814756,
+        "url": "https://wolve.pinpointhq.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648?ats=pinpointhq",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Wolverine-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Hut Group",
+        "id": "86e139d6-3ba5-4965-bf73-a9a2243099f6",
+        "title": "Data Engineer - Customer",
+        "active": true,
+        "date_updated": 1791814682,
+        "date_posted": 1791814675,
+        "url": "https://www.thg.com/talent/job-search?gh_jid=5003312101",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Hut-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "e25d2576-d751-4033-9fa1-ed32e9bec327",
+        "title": "ASIC Design Engineer - Fabric/Interconnect",
+        "active": true,
+        "date_updated": 1791814501,
+        "date_posted": 1791814276,
+        "url": "https://jobs.apple.com/en-us/details/200688304",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Data Intellect",
+        "id": "b056989f-6174-46ac-97e8-ab2037a94c27",
+        "title": "STEM Developer New Grad",
+        "active": true,
+        "date_updated": 1791814143,
+        "date_posted": 1791813922,
+        "url": "https://jobs.smartrecruiters.com/DataIntellect/744000154938759",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Data-Intellect",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Data Intellect",
+        "id": "a5e3e6a9-c7ea-4b56-822e-5ac9d108ab9e",
+        "title": "Graduate STEM Developer",
+        "active": true,
+        "date_updated": 1791813962,
+        "date_posted": 1791813923,
+        "url": "https://jobs.smartrecruiters.com/DataIntellect/744000154937120",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Data-Intellect",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
