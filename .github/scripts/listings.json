@@ -387084,7 +387084,7 @@
         "company_name": "Cisco",
         "id": "4a6bf39f-096b-480d-b7f0-2ad50e2998df",
         "title": "Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791413234,
         "date_posted": 1791411876,
         "url": "https://careers.cisco.com/global/en/job/2026806",
@@ -391265,5 +391265,43 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Crown Innovations",
+        "id": "df030492-3a72-4388-a440-77952fc6c3d3",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1791800790,
+        "date_posted": 1791800313,
+        "url": "https://jobs.smartrecruiters.com/TBD20261012CrownInnovationsInc/744000144160949",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crown-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Droyd Robotics",
+        "id": "5afe8b8d-b52d-4de6-92c6-fffa8d40b7b3",
+        "title": "Robotics Operator",
+        "active": true,
+        "date_updated": 1791800321,
+        "date_posted": 1783174065,
+        "url": "https://jobs.ashbyhq.com/droyd/3a9741f7-b408-4e0a-8360-2b23b4397e5a/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Droyd-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
