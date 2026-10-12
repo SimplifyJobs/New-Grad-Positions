@@ -2268,7 +2268,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1188)</summary>
+<summary>🗃️ Inactive roles (1187)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -10587,13 +10587,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Giga-AI?utm_source=GHList&utm_medium=company">Giga AI</a></strong></td>
 <td>Software Engineer 1 / 2 - New York</td>
 <td>NYC</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Murj?utm_source=GHList&utm_medium=company">Murj</a></strong></td>
-<td>Software Engineer 1</td>
-<td>Remote in USA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
