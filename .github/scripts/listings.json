@@ -21,26 +21,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Honeywell",
-        "id": "aa03d250-d300-4b2f-9c9b-eecd756e30c4",
-        "title": "Data Analyst 1",
-        "active": false,
-        "date_updated": 1771035101,
-        "date_posted": 1771035101,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/139407",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "b3101469-bea4-42c1-b4d7-021c4582928d",
@@ -8945,26 +8925,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Maven-Securities",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Banco Bilbao Vizcaya Argentaria",
-        "id": "0f881a05-d2ce-487b-ae2a-6737ace68f39",
-        "title": "Data & AI Enablement - CIB Risk Unit Associate",
-        "active": false,
-        "date_updated": 1771584940,
-        "date_posted": 1771035695,
-        "url": "https://bbva.wd3.myworkdayjobs.com/BBVA/job/LONDON/Data---AI-Enablement---CIB-Risk-Unit-Associate_JR00095049-2",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Banco-Bilbao-Vizcaya-Argentaria",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
