@@ -352247,7 +352247,7 @@
         "company_name": "RTX",
         "id": "e794a35b-2127-44e9-87c4-e486c2c351b7",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789021032,
         "date_posted": 1788912000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I---Onsite-_01872447",
@@ -370920,7 +370920,7 @@
         "company_name": "RTX",
         "id": "d82876b1-0aad-423c-a0ae-8cddb479fe16",
         "title": "Test Engineer 1 - Vision Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1790662619,
         "date_posted": 1790553600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Vision-Systems---Test-Engineer-I_01877795",
@@ -391300,6 +391300,24 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Droyd-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thales",
+        "id": "8a5808de-fc5a-43b1-9df4-8f4d85229c70",
+        "title": "Hardware Engineer Apprentice",
+        "active": true,
+        "date_updated": 1791803424,
+        "date_posted": 1791158400,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-Hardware-Engineering-Apprentice_R0337712",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
