@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Murj",
-        "id": "d77a5a39-ab3a-4aba-abae-cb81f7ff8423",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1771037023,
-        "date_posted": 1771037023,
-        "url": "https://job-boards.greenhouse.io/murj/jobs/5114652008",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Murj",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "b3101469-bea4-42c1-b4d7-021c4582928d",
