@@ -331446,7 +331446,7 @@
         "company_name": "Allegro MicroSystems",
         "id": "6394d713-b7f5-48a5-8b48-fbe4373cdda6",
         "title": "Systems Engineer - Robotics",
-        "active": true,
+        "active": false,
         "date_updated": 1788343742,
         "date_posted": 1787184000,
         "url": "https://allegromicro.wd5.myworkdayjobs.com/allegrocareers/job/Manchester-NH/Senior-Systems-Engineer---Robotics_R6647",
@@ -381382,7 +381382,7 @@
         "company_name": "LSEG",
         "id": "617f05a7-e40b-4c9a-b24b-a6096a0fde86",
         "title": "Real-Time Software Engineer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1791238144,
         "date_posted": 1791158400,
         "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057",
@@ -385176,7 +385176,7 @@
         "company_name": "Barclays",
         "id": "2328fbc7-73f3-4860-9981-9ea499afed83",
         "title": "AI Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1791326161,
         "date_posted": 1791325581,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Entitlements-Engineer---Data-Platform_JR-0000104461-2",
@@ -391416,6 +391416,44 @@
             "Belfast, UK"
         ],
         "company_url": "https://simplify.jobs/c/Data-Intellect",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Baird",
+        "id": "b9a11e4e-8254-4a9d-b74c-34d899439058",
+        "title": "Salesforce & Data Coordinator",
+        "active": true,
+        "date_updated": 1791818821,
+        "date_posted": 1791763200,
+        "url": "https://baird.wd1.myworkdayjobs.com/careers/job/EUR-London/Salesforce---Data-Coordinator_R20261153-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Baird",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aderant",
+        "id": "2081ec0c-9ef0-4e78-8859-84739cedab0c",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1791818821,
+        "date_posted": 1791763200,
+        "url": "https://aderant.wd5.myworkdayjobs.com/Aderant_External_Careers/job/Atlanta-Georgia/Associate-Software-Engineer_REQ_100000484",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aderant",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
