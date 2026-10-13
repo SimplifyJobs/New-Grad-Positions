@@ -215166,7 +215166,7 @@
         "company_name": "Gotion",
         "id": "9ee895f9-f3c4-4415-9d51-558e1881b398",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780957457,
         "date_posted": 1780956626,
         "url": "https://job-boards.greenhouse.io/gotion/jobs/8282912002",
@@ -283310,7 +283310,7 @@
         "company_name": "CWILL",
         "id": "a793a502-be13-4c61-a978-d990f3122ad0",
         "title": "R&D Trainee - Full-Stack Engineer - Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1786412125,
         "date_posted": 1786411923,
         "url": "https://apply.workable.com/cwill-us/j/1D51B4DDFC/apply",
@@ -393605,5 +393605,83 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CWILL",
+        "id": "b43a9cbe-374d-4942-a0f6-41ac7cb52fc6",
+        "title": "Product Management Trainee",
+        "active": true,
+        "date_updated": 1791930790,
+        "date_posted": 1791930037,
+        "url": "https://apply.workable.com/cwill-us/j/DC0FEF1210/apply",
+        "locations": [
+            "Cary, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/CWILL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Monti Inc",
+        "id": "662a9504-a02e-4a49-b186-8619c9b721c5",
+        "title": "Associate Software Engineer - Intelligence Systems",
+        "active": true,
+        "date_updated": 1791930496,
+        "date_posted": 1791921162,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4581611",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Monti-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NTT DATA AIVista",
+        "id": "410c85e8-0bb5-492d-8e8d-b44d4cd4807d",
+        "title": "Member of Technical Staff - Enterprise Engineering 1",
+        "active": true,
+        "date_updated": 1791930496,
+        "date_posted": 1791930068,
+        "url": "https://jobs.ashbyhq.com/ntt-data-aivista/eef8b2f4-c13e-4e28-80c0-3008d3937991/application?embed=true",
+        "locations": [
+            "Palo Alto, CA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/NTT-DATA-AIVista",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RWS",
+        "id": "01ef998c-4690-4445-b13a-883aa4b806f2",
+        "title": "Search Engine Evaluator",
+        "active": true,
+        "date_updated": 1791930496,
+        "date_posted": 1791930037,
+        "url": "https://jobs.lever.co/rws/d7df8e27-c2a5-4fdd-ae8b-47bb8e69e96b/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/RWS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
