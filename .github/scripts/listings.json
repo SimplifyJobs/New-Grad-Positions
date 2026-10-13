@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Uhaul",
-        "id": "d6ac9e8a-f925-4e8d-bfff-20deffd7d3b0",
-        "title": "Hitch Professional",
-        "active": false,
-        "date_updated": 1771175698,
-        "date_posted": 1771175698,
-        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Truro-Nova-Scotia/Hitch-Professional_R237882",
-        "locations": [
-            "New Glasgow, NS, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Uhaul",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "e0f83a21-96d3-48cb-ba07-186f9f4ef056",
@@ -171433,7 +171415,7 @@
         "company_name": "Excellus BCBS",
         "id": "030e0c4e-3f6c-467d-9966-5b65027b03da",
         "title": "AI Engineer 1/2",
-        "active": true,
+        "active": false,
         "date_updated": 1781014972,
         "date_posted": 1781014374,
         "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/AI-Engineer-I-II_JR103556-2",
@@ -387273,7 +387255,7 @@
         "company_name": "Otter.ai",
         "id": "24901885-b792-4344-a66a-26907a743ebc",
         "title": "Software Engineer New Grad - Front-End",
-        "active": true,
+        "active": false,
         "date_updated": 1791412285,
         "date_posted": 1791411293,
         "url": "https://otter.ai/careers?gh_jid=8016078003",
@@ -391773,7 +391755,7 @@
         "company_name": "Marigold",
         "id": "2568859c-6383-4f07-a5dc-5350765a1d3a",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791843481,
         "date_posted": 1791763200,
         "url": "https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487",
