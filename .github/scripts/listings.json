@@ -354944,7 +354944,7 @@
         "company_name": "Capital One",
         "id": "3483db30-db09-486a-bdaa-16eee2551d91",
         "title": "Data Scientist New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1789171066,
         "date_posted": 1789084800,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
@@ -392235,6 +392235,26 @@
         "degrees": [
             "Bachelor's",
             "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "c44348ab-171d-4478-a512-7114f6e00ca0",
+        "title": "Research Scientist New Grad",
+        "active": true,
+        "date_updated": 1791854172,
+        "date_posted": 1791854064,
+        "url": "https://lifeattiktok.com/search/7695927144126253317",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "PhD"
         ]
     }
