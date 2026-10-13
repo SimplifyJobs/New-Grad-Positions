@@ -243533,7 +243533,7 @@
         "company_name": "Spotify",
         "id": "51bd7e73-1db0-4c51-b148-7e0fba619dfe",
         "title": "Android Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784798101,
         "date_posted": 1782223664,
         "url": "https://jobs.lever.co/spotify/2193db3f-77c5-43b8-b030-8f92c9882bf1/apply",
@@ -296404,7 +296404,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -376407,7 +376407,7 @@
         "company_name": "Watershed",
         "id": "49b7fe41-9bae-4028-9de4-d4bfef628bd3",
         "title": "Customer Data Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1790980702,
         "date_posted": 1790979664,
         "url": "https://jobs.ashbyhq.com/Watershed/24e7019e-6b70-42f4-b581-0a2689d3b939/application?embed=true",
@@ -392404,6 +392404,34 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "46c385ad-61c8-4e3f-abe7-4e3c5205c5e0",
+        "title": "Speech & Voice AI Analyst",
+        "active": true,
+        "date_updated": 1791885267,
+        "date_posted": 1783202823,
+        "url": "https://jobs.lever.co/weloglobal/eeac933d-5dfc-4783-9533-807e3b92b0f6/apply",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "SF",
+            "LA",
+            "Redmond, WA",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
