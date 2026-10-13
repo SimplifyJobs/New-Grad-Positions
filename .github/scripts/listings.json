@@ -392433,5 +392433,49 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zoox",
+        "id": "7f24593d-1433-4515-9bd7-2e99e1078d7d",
+        "title": "Contract Student Worker - Autonomy Safety Data Engineer",
+        "active": true,
+        "date_updated": 1791886503,
+        "date_posted": 1788483939,
+        "url": "https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819/apply",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AMD",
+        "id": "5ebd65b1-4b74-4418-944b-eb8ece8999e7",
+        "title": "Mixed Signal Circuit Design Analysis & CAD Engineer",
+        "active": true,
+        "date_updated": 1791885728,
+        "date_posted": 1787752047,
+        "url": "https://careers.amd.com/jobs/91052?icims=1",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
