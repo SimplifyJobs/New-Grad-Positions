@@ -389561,7 +389561,7 @@
         "company_name": "Milwaukee Tool",
         "id": "ceac84a9-766d-4228-b6bc-652edff7de8f",
         "title": "EMC Electrical Engineering Technician 2",
-        "active": true,
+        "active": false,
         "date_updated": 1791560605,
         "date_posted": 1791504000,
         "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Menomonee-Falls-WI/EMC-Electrical-Engineering-Technician-II---1st-Shift_R78106",
@@ -392534,5 +392534,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fidelity Investments",
+        "id": "af62fb52-ee0e-4b3a-a867-510c76bde7bb",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791893742,
+        "date_posted": 1790380800,
+        "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/January-2027---Leap-Software-Engineer_2133859-1",
+        "locations": [
+            "Boston, MA",
+            "Westlake, TX",
+            "Durham, NC",
+            "Merrimack, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
