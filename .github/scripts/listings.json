@@ -22893,7 +22893,7 @@
         "company_name": "Merative",
         "id": "c551daed-04ac-42cb-a745-9664938e00da",
         "title": "Software Engineering Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1772205777,
         "date_posted": 1772205777,
         "url": "https://jobs.smartrecruiters.com/TruvenHealthAnalyticsanIBMCompany/93930814",
@@ -296785,7 +296785,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -337833,7 +337833,7 @@
         "company_name": "Iteris",
         "id": "d02f23b9-13a9-4b1c-8d46-be61f855abcf",
         "title": "Traffic Data Editor",
-        "active": true,
+        "active": false,
         "date_updated": 1788449412,
         "date_posted": 1787015454,
         "url": "https://jobs.smartrecruiters.com/TrafficCast/743999957101629",
@@ -357512,7 +357512,7 @@
         "company_name": "Dow Jones",
         "id": "7bea32ac-9cc6-4c66-9ddc-1c0bfaf45b1f",
         "title": "Research Analyst 1 - Chemical Market Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1789424574,
         "date_posted": 1789344000,
         "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Research-Analyst-I---Chemical-Market-Analytics_Job_Req_54978",
@@ -392471,6 +392471,27 @@
             "Markham, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HR&A Advisors",
+        "id": "c3632d75-fd9d-4073-a4cd-d3721cfaf5d4",
+        "title": "Data Science and Analytics Specialist",
+        "active": true,
+        "date_updated": 1791888481,
+        "date_posted": 1786574690,
+        "url": "https://hraadvisors.applytojob.com/apply/TsAhPSZWRW/Data-Science-And-Analytics-Specialist",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/HR-And-A-Advisors",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
