@@ -296404,7 +296404,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -296785,7 +296785,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -361559,7 +361559,7 @@
         "company_name": "Quantum",
         "id": "8f661c59-262d-4efa-a0f0-fa1477eeb966",
         "title": "Graduate Business Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1789637583,
         "date_posted": 1789637428,
         "url": "https://jobs.ashbyhq.com/quantum/75dae293-00ca-4cb4-a546-680d78d3b022/application?embed=true",
@@ -372563,7 +372563,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": true,
+        "active": false,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -388199,7 +388199,7 @@
         "company_name": "Boston Engineering",
         "id": "0c449493-9d3a-41b1-9a65-eab3cbe9095e",
         "title": "Electrical Engineer - Embedded Hardware",
-        "active": true,
+        "active": false,
         "date_updated": 1791497161,
         "date_posted": 1791497131,
         "url": "https://jobs.smartrecruiters.com/BostonEngineeringCorporation/744000154495159",
@@ -392347,6 +392347,63 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "MUFG",
+        "id": "633f04e4-dd5c-4013-898d-03838ab06b2c",
+        "title": "Global Markets Analyst - Markets Engineering",
+        "active": true,
+        "date_updated": 1791882988,
+        "date_posted": 1791849600,
+        "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-earlycareers/job/London/XMLNAME-2027-MUFG-UK--Analyst-Programme--Global-Markets---Markets-Engineering_10080108-WD",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MUFG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "MUFG",
+        "id": "7c58cf0b-4882-43a7-851d-a25d01fbe5df",
+        "title": "Global Markets Analyst - Markets Engineering",
+        "active": true,
+        "date_updated": 1791882991,
+        "date_posted": 1791849600,
+        "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/XMLNAME-2027-MUFG-UK--Analyst-Programme--Global-Markets---Markets-Engineering_10080108-WD-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MUFG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "b1fd26e3-db3d-4f5c-8677-163fd6d481c6",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791882695,
+        "date_posted": 1791882535,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556985571",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
