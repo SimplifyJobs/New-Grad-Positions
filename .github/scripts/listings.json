@@ -300677,7 +300677,7 @@
         "company_name": "Zoox",
         "id": "f3263689-d515-4c9c-9631-2adeab1cf950",
         "title": "Analyst Student Worker",
-        "active": true,
+        "active": false,
         "date_updated": 1787053898,
         "date_posted": 1785881273,
         "url": "https://jobs.lever.co/zoox/737259b5-4258-4557-b7e0-0627b3d870a5/apply",
@@ -372563,7 +372563,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": false,
+        "active": true,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -392498,5 +392498,41 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "VivSoft Technologies",
+        "id": "f9e63e18-4478-4ee4-944c-305f98a747b1",
+        "title": "Front-End Developer",
+        "active": true,
+        "date_updated": 1791889797,
+        "date_posted": 1791498472,
+        "url": "https://vivsofttechnologiesfa.applytojob.com/apply/B29sOighJr/Front-End-Developer",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/VivSoft-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "xAI",
+        "id": "fe8a65ad-c24a-4a94-a75b-425547fe1f9d",
+        "title": "AI Tutor \u2013 Polish",
+        "active": true,
+        "date_updated": 1791889495,
+        "date_posted": 1790633826,
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5090218007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/XAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
