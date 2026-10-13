@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Giga AI",
-        "id": "b13af309-1d30-490d-9736-e4888986a562",
-        "title": "Software Engineer 1 / 2 - New York",
-        "active": false,
-        "date_updated": 1771166817,
-        "date_posted": 1771166817,
-        "url": "https://jobs.ashbyhq.com/gigaml/e37bdddd-2647-403e-850c-9cfe7684069c/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Giga-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "d090b8f2-8bcc-4a2e-bc66-4f777d11e256",
-        "title": "Telematics Installer - Telematics",
-        "active": false,
-        "date_updated": 1771166035,
-        "date_posted": 1771166035,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7606900",
-        "locations": [
-            "Billings, MT"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Vantage Point Solutions",
         "id": "f19a3081-4f91-4684-920d-8b526ae4471c",
@@ -314356,7 +314318,7 @@
         "company_name": "Rochester Institute of Technology",
         "id": "98cc0339-dbcb-44ab-ad89-790f2ee6fd87",
         "title": "Crime Analyst - RIT College of Liberal Arts",
-        "active": true,
+        "active": false,
         "date_updated": 1787752366,
         "date_posted": 1787702400,
         "url": "https://rit.wd12.myworkdayjobs.com/careers/job/Rochester-NY/GIVE-Crime-Analyst--RIT-College-of-Liberal-Arts_JR102529",
@@ -345992,7 +345954,7 @@
         "company_name": "Global",
         "id": "ca6c2e42-fafa-4bc6-8cbc-0eeaebb22af0",
         "title": "Analytics Engineer - Technology",
-        "active": false,
+        "active": true,
         "date_updated": 1788533568,
         "date_posted": 1788480000,
         "url": "https://thisisglobal.wd3.myworkdayjobs.com/Global/job/Holborn---London/Senior-Analytics-Engineer_R0009733",
@@ -392568,6 +392530,66 @@
             "Farmington Hills, MI"
         ],
         "company_url": "https://simplify.jobs/c/North-Star-Staffing-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Draper",
+        "id": "ae9b1467-ed6d-448c-9261-eada07a6b558",
+        "title": "Integration and Test Engineer",
+        "active": true,
+        "date_updated": 1791902521,
+        "date_posted": 1791849600,
+        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Integration-and-Test-Engineer_JR003013",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Draper",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "d07f09aa-7420-4d89-a2c9-15d67e1c3f5d",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1791902612,
+        "date_posted": 1791849600,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-Cheltenham/Evergreen-Cyber-and-Intelligence-Software-Engineering-Graduate_R10255705",
+        "locations": [
+            "Cheltenham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ICF International",
+        "id": "730d38da-aff4-4770-896b-533e318ef109",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1791902521,
+        "date_posted": 1791849600,
+        "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/London-GB80/Associate-Data-Scientist_R2603454-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ICF-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
