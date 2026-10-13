@@ -296404,7 +296404,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -363850,7 +363850,7 @@
         "company_name": "Together AI",
         "id": "af76c7bd-9c7f-4bb7-8258-217044808327",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1789771178,
         "date_posted": 1789770003,
         "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
@@ -372563,7 +372563,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": false,
+        "active": true,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -385828,7 +385828,7 @@
         "company_name": "L3Harris Technologies",
         "id": "7ef78771-a2e4-4642-88ef-6a719ad563eb",
         "title": "Associate Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791364523,
         "date_posted": 1791364025,
         "url": "https://jobs.l3harris.com/job/Waco-Associate,-Systems-Engineering-TX-76705/1437638600/?ats=successfactors",
@@ -392256,6 +392256,97 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Zimmer Biomet Holdings",
+        "id": "58f05999-85b0-4335-9086-d24f062a5363",
+        "title": "Associate Product Manager - Upstream Marketing - NPI Strategy",
+        "active": true,
+        "date_updated": 1791872166,
+        "date_posted": 1791871984,
+        "url": "https://careers.zimmerbiomet.com/us/en/job/13127",
+        "locations": [
+            "Englewood, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Zimmer-Biomet-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chewy",
+        "id": "ebf51f93-d06e-4429-9906-1f9bacaf4c20",
+        "title": "Business Intelligence Analyst 1",
+        "active": true,
+        "date_updated": 1791871878,
+        "date_posted": 1791849600,
+        "url": "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Clayton-IN/Business-Intelligence-Analyst-I_R31111",
+        "locations": [
+            "Dayton, OH",
+            "Houston, TX",
+            "Ocala, FL",
+            "Clayton, IN",
+            "Reno, NV",
+            "Goodyear, AZ",
+            "Salisbury, NC",
+            "Jessup, PA",
+            "Belton, MO",
+            "Lewisberry, PA",
+            "Wilkes-Barre, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "30181b98-ce23-4ce5-90e6-0c4dc19de4f9",
+        "title": "Ethernet System Integration Engineer",
+        "active": true,
+        "date_updated": 1791871878,
+        "date_posted": 1791763200,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Ethernet-System-Integration-Engineer_JR0287496",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dexcom",
+        "id": "9d4bdf3b-b23d-4858-80f0-a8d8279cdc65",
+        "title": "Hardware Engineer 1",
+        "active": true,
+        "date_updated": 1791871645,
+        "date_posted": 1791871529,
+        "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Hardware-Engineer-1_JR119889-1",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dexcoma",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
