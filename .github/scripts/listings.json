@@ -119776,7 +119776,7 @@
         "company_name": "The Boeing Company",
         "id": "31ac1bea-e976-40b4-83d2-322d74703e39",
         "title": "ASIC/FPGA Verification Engineer Lead - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1777621301,
         "date_posted": 1777327680,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/ASIC-FPGA-Verification-Engineer----Associate--Experienced--or-Lead----SoCal_JR2025480380",
@@ -260744,7 +260744,7 @@
         "company_name": "Cadence Design Systems",
         "id": "cfeb11b9-ce3a-4296-9dba-69307b8df18d",
         "title": "Application Software Developer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1785540039,
         "date_posted": 1785456000,
         "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-3",
@@ -296404,7 +296404,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -318453,7 +318453,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "07bd103c-1d70-4013-a353-134890eb3530",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1787870904,
         "date_posted": 1787788800,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030529",
@@ -383110,7 +383110,7 @@
         "company_name": "2K",
         "id": "fcfcb545-1466-416b-85e1-73809d84a6d0",
         "title": "Technical Art Graduate Program",
-        "active": true,
+        "active": false,
         "date_updated": 1791269124,
         "date_posted": 1791268934,
         "url": "https://job-boards.greenhouse.io/2kearlycareers/jobs/7992134003",
@@ -385699,7 +385699,7 @@
         "company_name": "Apple",
         "id": "03a16469-429d-4f34-a718-e27b73e3b992",
         "title": "Software Engineer - Siri User Experiences",
-        "active": true,
+        "active": false,
         "date_updated": 1791353522,
         "date_posted": 1791353230,
         "url": "https://jobs.apple.com/en-us/details/200687375",
@@ -392110,6 +392110,132 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Netic",
+        "id": "c922394e-fefa-48bc-88e6-16e52ab6de44",
+        "title": "Software Engineer - Gap Year",
+        "active": true,
+        "date_updated": 1791854281,
+        "date_posted": 1791854120,
+        "url": "https://jobs.ashbyhq.com/netic/e645059a-a2e8-4cfd-84e8-085d92da6e62/application?embed=true",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Netic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "22b439fe-1f57-4be3-b47f-046920ffad7a",
+        "title": "Research Scientist Graduate",
+        "active": true,
+        "date_updated": 1791854101,
+        "date_posted": 1791854064,
+        "url": "https://lifeattiktok.com/search/7695929967028750645",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "fec7968c-91fe-4ade-983d-583b559de0dd",
+        "title": "Product Development Engineer",
+        "active": true,
+        "date_updated": 1791854175,
+        "date_posted": 1791763200,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Product-Development-Engineer_2638039",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Akuna Capital",
+        "id": "b8ab8dd4-4f46-4952-8f29-40cda530b0d2",
+        "title": "Junior Trader",
+        "active": true,
+        "date_updated": 1791854101,
+        "date_posted": 1791854089,
+        "url": "https://www.akunacapital.com/careers/job/8275358/?gh_jid=8275358",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Regeneron Pharmaceuticals",
+        "id": "3f2315b2-3a33-4a28-8481-9dfab94b16a8",
+        "title": "Associate IOPS AI Engineer",
+        "active": true,
+        "date_updated": 1791854172,
+        "date_posted": 1791763200,
+        "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSS---GLOBAL-VIEW/Assoc-IOPS-AI-Engineer_R51390",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Regeneron-Pharmaceuticals",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astera Labs",
+        "id": "c984a77f-4d05-4b24-b960-c84b766ecf30",
+        "title": "Analog/Mixed Signal System Test Engineer",
+        "active": true,
+        "date_updated": 1791853923,
+        "date_posted": 1791853651,
+        "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4742217005",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AsteraLabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
