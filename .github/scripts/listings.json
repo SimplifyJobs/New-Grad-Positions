@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Altice USA",
-        "id": "e13754a5-bbec-4fc1-aca8-1bc287d02040",
-        "title": "Product Analyst 1",
-        "active": false,
-        "date_updated": 1771164632,
-        "date_posted": 1771164632,
-        "url": "https://www.optimumcareers.com/job/Bethpage-Product-Analyst-I-NY-11714/1363541800/?ats=successfactors",
-        "locations": [
-            "Plainview, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Altice-USA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Giga AI",
         "id": "b13af309-1d30-490d-9736-e4888986a562",
@@ -22767,7 +22749,7 @@
         "company_name": "Merative",
         "id": "c551daed-04ac-42cb-a745-9664938e00da",
         "title": "Software Engineering Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1772205777,
         "date_posted": 1772205777,
         "url": "https://jobs.smartrecruiters.com/TruvenHealthAnalyticsanIBMCompany/93930814",
@@ -296278,7 +296260,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -296659,7 +296641,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -343248,7 +343230,7 @@
         "company_name": "Sherwin-Williams",
         "id": "6477c48f-f236-4372-b752-4dc347dd417a",
         "title": "Associate Full Stack Application Developer - Industrial Automation",
-        "active": false,
+        "active": true,
         "date_updated": 1788489741,
         "date_posted": 1788473134,
         "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622642",
@@ -372437,7 +372419,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": true,
+        "active": false,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -374027,7 +374009,7 @@
         "company_name": "RTX",
         "id": "35893c47-402b-4538-9d53-6d41d4ee9a72",
         "title": "Software Engineer/Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790807750,
         "date_posted": 1790726400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Developer-I---Onsite-_01879022",
@@ -374067,7 +374049,7 @@
         "company_name": "RTX",
         "id": "cbe8cba9-03c9-4878-b4a8-473573b61e21",
         "title": "Software Engineer/Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790807762,
         "date_posted": 1790726400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineer-Developer-I--Onsite-_01879018",
@@ -392426,6 +392408,166 @@
             "Merrimack, NH"
         ],
         "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Visa",
+        "id": "648d7cde-25d8-46e5-9725-432f9031314c",
+        "title": "Data Science Graduate",
+        "active": true,
+        "date_updated": 1791901661,
+        "date_posted": 1791849600,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---London-United-Kingdom/Data-Science-Graduate_REF93870J",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JD.com",
+        "id": "815416c2-86ab-4701-82c6-9100b4fc3394",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1791901261,
+        "date_posted": 1791849600,
+        "url": "https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/Graduate-Software-Engineer_JR104096",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JINGDONG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Axtria",
+        "id": "3e119ceb-7d1f-4864-8562-8d26336e1d0b",
+        "title": "AI & Data Associate",
+        "active": true,
+        "date_updated": 1791901163,
+        "date_posted": 1791900975,
+        "url": "https://axtriainc.applytojob.com/apply/WvWFVnBuU0/Campus-2027-AI-Data",
+        "locations": [
+            "Berkeley Heights, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Axtria",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sigma Defense",
+        "id": "1a0886f4-50a5-4cd9-b34a-19b40a719143",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791901081,
+        "date_posted": 1791901057,
+        "url": "https://apply.workable.com/sigmadefense/j/F207C966C1/apply",
+        "locations": [
+            "Fairmont, WV"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Defense",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "John Deere",
+        "id": "bf6717aa-b46e-43e9-b07f-69e6785375e2",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791901177,
+        "date_posted": 1791901078,
+        "url": "https://johndeere.eightfold.ai/careers/job/137483701899",
+        "locations": [
+            "Waterloo, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Liberty Mutual Canada",
+        "id": "442f74df-bb53-4a98-b1d0-2513a5e31985",
+        "title": "Associate Software Developer - Node.js & Python",
+        "active": true,
+        "date_updated": 1791901081,
+        "date_posted": 1791900987,
+        "url": "https://apply.workable.com/liberty-mutual-canada/j/A60F74CB9D/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Liberty-Mutual-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GoodPower",
+        "id": "46d3f3d3-84d2-4e34-85dc-b832e129d892",
+        "title": "Machine Learning Scientist",
+        "active": true,
+        "date_updated": 1791901081,
+        "date_posted": 1791900915,
+        "url": "https://goodpower.applytojob.com/apply/HK1iqPLsBu/Machine-Learning-Scientist",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/GoodPower",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "North Star Staffing Solutions",
+        "id": "c582e886-3d4d-4430-bc49-148e35bfa47f",
+        "title": "Functional Safety Engineer",
+        "active": true,
+        "date_updated": 1791900362,
+        "date_posted": 1772003715,
+        "url": "https://jobs.smartrecruiters.com/NorthStarStaffingSolutions1/83099523",
+        "locations": [
+            "Farmington Hills, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/North-Star-Staffing-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
