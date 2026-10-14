@@ -393575,5 +393575,44 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Space Tango",
+        "id": "cbbb7f51-7564-48f8-93c7-f822d8b5a568",
+        "title": "Software Engineer - Level 1, 2, or 3",
+        "active": true,
+        "date_updated": 1791940693,
+        "date_posted": 1791940580,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4584333",
+        "locations": [
+            "Lexington, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Space-Tango",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Meta",
+        "id": "96f4312a-37af-4609-8d5e-e3fd90643296",
+        "title": "ASIC Engineer New Grad - Design",
+        "active": true,
+        "date_updated": 1791940067,
+        "date_posted": 1791939891,
+        "url": "https://www.metacareers.com/jobs/1084023187741651",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
