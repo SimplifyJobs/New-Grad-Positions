@@ -312932,7 +312932,7 @@
         "company_name": "True Anomaly",
         "id": "5516fbba-d287-4ee8-b391-dd0e5a0c4797",
         "title": "Flight Software Engineer 1 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1787692551,
         "date_posted": 1787692372,
         "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007",
@@ -368450,7 +368450,7 @@
         "company_name": "Slice (slicelife.com)",
         "id": "845f6b5a-4840-47d7-ae70-0c81ee81d46a",
         "title": "Software Developer - Services",
-        "active": true,
+        "active": false,
         "date_updated": 1790290261,
         "date_posted": 1790290069,
         "url": "https://slice.careers/careers-listing?gh_jid=7228671",
@@ -377315,7 +377315,7 @@
         "company_name": "GE Vernova",
         "id": "1438d3e2-f060-46fe-a4a1-07793fc91e18",
         "title": "Electrical Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1791104583,
         "date_posted": 1782956187,
         "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/Electrical-Engineering-Technician_R5036809-1",
@@ -393874,5 +393874,43 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "WisdomTree",
+        "id": "4dbb3441-019c-4e7e-a7e0-fb084f9406ba",
+        "title": "Product Manager - Digital Assets - Digital Investment Products",
+        "active": true,
+        "date_updated": 1791966783,
+        "date_posted": 1785190237,
+        "url": "https://jobs.lever.co/wisdomtree/bc16f38e-8613-43b6-bb9b-33d24f2da299/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/WisdomTree",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Google",
+        "id": "42f706ad-c2f4-4190-9175-61c8b63fda22",
+        "title": "Research Engineer",
+        "active": true,
+        "date_updated": 1791966603,
+        "date_posted": 1789164755,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/114077679900074694",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
