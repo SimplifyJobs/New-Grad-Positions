@@ -10196,7 +10196,7 @@
         "company_name": "Salesforce",
         "id": "9c9d72e2-4773-4a77-b5c5-5776ba645c14",
         "title": "Software Engineering AMTS/MTS \u2013 College Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1784768695,
         "date_posted": 1771640186,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1",
@@ -349105,7 +349105,7 @@
         "company_name": "Barr",
         "id": "32302c2d-ca4d-4a2f-9ce1-14817125baa7",
         "title": "GIS Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1788916874,
         "date_posted": 1788825600,
         "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/GIS-Specialist---Entry-Level--Hybrid-_R-102332-1",
@@ -392664,7 +392664,7 @@
         "company_name": "Kyndryl",
         "id": "d44657fe-b7e8-4618-ad61-98359c3e62ef",
         "title": "Forward Deployed Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1791929172,
         "date_posted": 1791849600,
         "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Forward-Deployed-Engineer_R-68529",
@@ -393009,7 +393009,7 @@
         "company_name": "BP",
         "id": "fad2efaf-2726-4528-b3ec-446d3bf13d05",
         "title": "Graduate Subsurface Technology",
-        "active": false,
+        "active": true,
         "date_updated": 1791941476,
         "date_posted": 1791936000,
         "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Graduate---Subsurface-Technology---Geology_RQ117087",
@@ -393071,7 +393071,7 @@
         "company_name": "BP",
         "id": "62278059-565b-4279-a981-1a590d8585c5",
         "title": "Graduate Supplier - Trading & Shipping - Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1791941468,
         "date_posted": 1791936000,
         "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---London/Graduate---Supply--Trading---Shipping---Analytics--UK_RQ115974",
@@ -393334,7 +393334,7 @@
         "company_name": "BP",
         "id": "e182497d-faeb-4cac-9de9-4db3935647ad",
         "title": "Graduate Digital - Data, AI & Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1791973126,
         "date_posted": 1791936000,
         "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Graduate---Digital---Data--AI---Engineering---UK_RQ117184",
@@ -394229,6 +394229,423 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Visa",
+        "id": "d2b5e401-ead0-4446-9111-af88ddd44f75",
+        "title": "Data Science Graduate",
+        "active": true,
+        "date_updated": 1792017985,
+        "date_posted": 1791936000,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/Data-Science-Graduate_REF089498W-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "7c806c99-c744-4e3b-a4ed-1d082c153f4d",
+        "title": "Superconducting Circuit Quantum Engineer",
+        "active": true,
+        "date_updated": 1792017911,
+        "date_posted": 1791936000,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Superconducting-Circuit-Quantum-Engineer_R2630761-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "a6635562-b768-4870-a2d2-3e1802de470d",
+        "title": "Software Engineer/Developer 1",
+        "active": true,
+        "date_updated": 1792017815,
+        "date_posted": 1791936000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Developer-I--Onsite-_01879028-1",
+        "locations": [
+            "Woburn, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boeing",
+        "id": "72a32a13-b44c-41dd-888b-9e2622f4fade",
+        "title": "Entry-Level Flight Simulation Software Engineer",
+        "active": true,
+        "date_updated": 1792017732,
+        "date_posted": 1791936000,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155",
+        "locations": [
+            "Berkeley, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cvent",
+        "id": "2a88a21e-cd50-4b95-9a88-f579b5c14d79",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1792017814,
+        "date_posted": 1792017595,
+        "url": "https://careers.cvent.com/jobs/8265?icims=1",
+        "locations": [
+            "Tysons, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cvent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kraft Heinz",
+        "id": "113ad25d-2135-4d3b-a684-d451379d0584",
+        "title": "Plant Digital Technician",
+        "active": true,
+        "date_updated": 1792017732,
+        "date_posted": 1791936000,
+        "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_BC/job/Jacksonville-FL/Plant-Digital-Technician_R-107647",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Kraft-Heinz",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boeing",
+        "id": "0e3abfb3-6f86-490b-b9d0-84e59edc84e6",
+        "title": "Entry Level Software Engineer-Developer - Development",
+        "active": true,
+        "date_updated": 1792017732,
+        "date_posted": 1791936000,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522764",
+        "locations": [
+            "Tinker Air Force Base, Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "c440c071-0612-4db0-b149-50dcb1876b45",
+        "title": "Software Engineer Graduate - Data Ecosystem - 2027 Start",
+        "active": true,
+        "date_updated": 1792017732,
+        "date_posted": 1792017648,
+        "url": "https://lifeattiktok.com/search/7685769994391832837",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "be8360f1-7c95-458e-8ada-6f6d4a2a31b8",
+        "title": "Research Engineer New Grad - Realtime Codec Optimizations-Video Codec",
+        "active": true,
+        "date_updated": 1792017827,
+        "date_posted": 1792017648,
+        "url": "https://lifeattiktok.com/search/7670335888371927349",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Visa",
+        "id": "0f88f505-fae1-429a-8c85-3ee2109a1dbd",
+        "title": "Data Science Graduate",
+        "active": true,
+        "date_updated": 1792017833,
+        "date_posted": 1791936000,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---London-United-Kingdom/Data-Science-Graduate_REF089498W",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boeing",
+        "id": "172bdac1-ef4f-4891-8afb-b8676d403818",
+        "title": "Entry Level Software Engineer-Developer - Development",
+        "active": true,
+        "date_updated": 1792017732,
+        "date_posted": 1791936000,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boeing",
+        "id": "6b9b13bc-c64f-47ce-84e0-4b98e4dec369",
+        "title": "B1 Software Systems Engineer",
+        "active": true,
+        "date_updated": 1792017814,
+        "date_posted": 1791936000,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-B1-Software-Systems-Engineer_JR2026521428-1",
+        "locations": [
+            "Oklahoma City, OK",
+            "Tinker Air Force Base, Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Synchrony Financial",
+        "id": "0f3ae8ce-99c8-4a36-bc64-276a71e7dd7d",
+        "title": "API Engineer 1 - Credit",
+        "active": true,
+        "date_updated": 1792017622,
+        "date_posted": 1791936000,
+        "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Atlanta-Hub/API-Engineer-I---Credit_2602674",
+        "locations": [
+            "Orlando, FL",
+            "Stamford, CT",
+            "Dallas, TX",
+            "Chicago, IL",
+            "Charlotte, NC",
+            "NYC",
+            "Phoenix, AZ",
+            "Kansas City, KS",
+            "Canton, OH",
+            "Atlanta, GA",
+            "Cincinnati, OH",
+            "Costa Mesa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Synchrony-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Normal Computing",
+        "id": "006605a5-8ff8-4cbe-bcb2-dd5ac6499c5f",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1792017543,
+        "date_posted": 1792017468,
+        "url": "https://jobs.ashbyhq.com/normalcomputing/acc80301-3574-4cc8-904a-fb66a346ebd4/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/NormalComputing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Health Research",
+        "id": "4505681e-b750-4ce3-85d2-d1b429cfbac4",
+        "title": "Hourly Project Assistant 2",
+        "active": true,
+        "date_updated": 1792017461,
+        "date_posted": 1791936000,
+        "url": "https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Hourly-Project-Assistant-II_JR-0002355",
+        "locations": [
+            "Albany, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Health-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amgen",
+        "id": "4507ea53-dc59-459a-b48e-4a52fd7f2964",
+        "title": "Commercial Data and Analytics Data Scientist - Obesity",
+        "active": true,
+        "date_updated": 1792017214,
+        "date_posted": 1791936000,
+        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Associate---Hybrid---Thousand-Oaks_R-258217",
+        "locations": [
+            "Thousand Oaks, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amgen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qualcomm",
+        "id": "e2e74d29-f67c-4468-808e-766ee1fd7616",
+        "title": "Compiler Toolchain Engineer - Compiler Toolchain Software",
+        "active": true,
+        "date_updated": 1792017185,
+        "date_posted": 1792017109,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721572291",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Electric Power",
+        "id": "836c9597-251e-4f23-9233-6c0632f40401",
+        "title": "TSOE Tools & Analytics Engineer",
+        "active": true,
+        "date_updated": 1792017003,
+        "date_posted": 1791936000,
+        "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/TSOE-Tools---Analytics-Engineer_R19939",
+        "locations": [
+            "Corpus Christi, TX",
+            "New Albany, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Electric-Power",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BDO Canada",
+        "id": "5c5fc62e-abf7-4944-a1ef-7941a70c803c",
+        "title": "Data, Analytics & AI Consultant",
+        "active": true,
+        "date_updated": 1792017034,
+        "date_posted": 1791936000,
+        "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Consultant--Data--Analytics---AI_JR7209",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BDO-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Analog Devices",
+        "id": "5213f441-13c0-44bc-b8b9-3aa1d5e0a19b",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1792017003,
+        "date_posted": 1792017002,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Android-Mobile-Developer_R262556",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
