@@ -1,60 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f508bdde-e798-4f39-8821-d53df1ae4b70",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1771207712,
-        "date_posted": 1771207712,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049575",
-        "locations": [
-            "York, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "c7f4d619-5caf-4540-a9db-f14c307db162",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1771207698,
-        "date_posted": 1771207698,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049577",
-        "locations": [
-            "Beaconsfield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b27ac67a-0f1a-4a5d-9eb3-f202580b7d66",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1771207724,
-        "date_posted": 1771207724,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049576",
-        "locations": [
-            "York, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Chaucer Group",
         "id": "a1fe4a33-6537-4b9c-a4ad-4924867f7122",
@@ -70,26 +16,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "dd56aecb-662e-48e4-a691-78bba47fa6b5",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1771208678,
-        "date_posted": 1771208678,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7618404",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
