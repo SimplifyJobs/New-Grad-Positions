@@ -2,44 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Jabil",
-        "id": "64d4ed11-f3d5-4dcf-86f1-d8242656d925",
-        "title": "Test Engineering Technician 1",
-        "active": false,
-        "date_updated": 1771256573,
-        "date_posted": 1771256573,
-        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Test-Engineering-Technician-I_J2440162-1",
-        "locations": [
-            "St. Petersburg, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "McGill University",
-        "id": "6476356e-49de-44ad-a53a-2ec1e7c8b18e",
-        "title": "Research Assistant 1",
-        "active": false,
-        "date_updated": 1771256655,
-        "date_posted": 1771256655,
-        "url": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/McGill-College-2001/Research-Assistant-1_JR0000073744",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/McGill-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Astro Mechanica",
         "id": "e20f6849-08c5-44dc-8dbe-9b211c7e9cc8",
         "title": "Flight Software Engineer",
