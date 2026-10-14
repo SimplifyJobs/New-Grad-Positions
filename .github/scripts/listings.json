@@ -272664,7 +272664,7 @@
         "company_name": "L3Harris Technologies",
         "id": "6ddb8adb-ad8e-4cb9-9c50-bb88be88f2a6",
         "title": "Associate Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785910226,
         "date_posted": 1785909859,
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-1-FL-32919/1416023200/?ats=successfactors",
@@ -295986,7 +295986,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -296367,7 +296367,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -355482,7 +355482,7 @@
         "company_name": "Robinhood",
         "id": "e31298c9-b0ff-4750-94e9-d167842aa42e",
         "title": "Associate Product Manager New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1789397149,
         "date_posted": 1789396943,
         "url": "https://boards.greenhouse.io/robinhood/jobs/8199973",
@@ -385242,7 +385242,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa71e901-808c-47e5-ab2d-32344fa2c4e7",
         "title": "Engineering Apprentice",
-        "active": false,
+        "active": true,
         "date_updated": 1791353752,
         "date_posted": 1790201057,
         "url": "https://higher.gs.com/roles/174814?type=students",
@@ -388184,7 +388184,7 @@
         "company_name": "RTX",
         "id": "8f5969a4-3110-40a1-a716-4be02797a8c3",
         "title": "Display Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791499221,
         "date_posted": 1791417600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Electrical-Engineer-1_01870080",
@@ -390669,7 +390669,7 @@
         "company_name": "Apple",
         "id": "e3ed9a37-c604-426c-b77d-5177622b8632",
         "title": "Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791497701,
         "date_posted": 1791497575,
         "url": "https://jobs.apple.com/en-us/details/200687828",
@@ -393766,6 +393766,86 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/BP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Semtech",
+        "id": "df3fee7e-6a02-448c-a6f3-f3953f1f2727",
+        "title": "Associate Engineer - Software Engineering",
+        "active": true,
+        "date_updated": 1791958333,
+        "date_posted": 1791849600,
+        "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Associate-Engineer--Software-Engineering_REQ3652",
+        "locations": [
+            "Burlington, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Semtech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jabil",
+        "id": "18d884be-500d-4ea1-8486-4edd9f37b5b7",
+        "title": "AI and Data Solutions Developer - Global Supply Chain",
+        "active": true,
+        "date_updated": 1791958239,
+        "date_posted": 1791936000,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Solutions-Developer-Global-Supply-Chain_J2467953",
+        "locations": [
+            "Tampa, FL",
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CWILL",
+        "id": "6fb7f111-261e-4a19-87fe-186d6dfaaae1",
+        "title": "Product Management Trainee",
+        "active": true,
+        "date_updated": 1791958112,
+        "date_posted": 1791957946,
+        "url": "https://apply.workable.com/cwill-us/j/06A1E720C7/apply",
+        "locations": [
+            "Cary, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/CWILL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Redwood Materials",
+        "id": "33ae4f5c-d020-4d6b-b33d-591c0f7da237",
+        "title": "Electrical Engineering Associate - Energy Storage",
+        "active": true,
+        "date_updated": 1791957963,
+        "date_posted": 1791957807,
+        "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6223627004",
+        "locations": [
+            "Carson City, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Redwood-Materials",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
