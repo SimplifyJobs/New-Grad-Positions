@@ -188601,7 +188601,7 @@
         "company_name": "PIMCO",
         "id": "746805fc-c4a4-4947-a1d2-05472f648692",
         "title": "Client Solutions & Analytics: Quantitative Research Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781878862,
         "date_posted": 1781878332,
         "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R106487",
@@ -239396,7 +239396,7 @@
         "company_name": "Onto Innovation",
         "id": "269848d0-7a8d-45ef-8519-06340de9f7fc",
         "title": "Senior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784682559,
         "date_posted": 1781360766,
         "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Wilmington-MA-Upton/Senior-Software-Engineer_R-5554",
@@ -275275,7 +275275,7 @@
         "company_name": "Accenture",
         "id": "61b9c823-c168-4748-9d94-8ae5a407a3da",
         "title": "AI Native Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1786010822,
         "date_posted": 1784160000,
         "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Native-Software-Engineering_R00343768-1",
@@ -393813,5 +393813,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JD.com",
+        "id": "c7e27fa1-2768-4384-b053-db1c2b5fb36f",
+        "title": "Software Development New Grad",
+        "active": true,
+        "date_updated": 1791978526,
+        "date_posted": 1791936000,
+        "url": "https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/Software-Development_JR104327",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JINGDONG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
