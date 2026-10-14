@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "0c43e175-bd12-44fd-8cee-013df2691f65",
-        "title": "SCA Engineering Technician 1",
-        "active": false,
-        "date_updated": 1771199401,
-        "date_posted": 1771199401,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/SCA-Engineering-Technician-1_R10222672",
-        "locations": [
-            "Warner Robins, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Magnite",
         "id": "306b3082-8707-415f-9f91-5aa4d03c3b72",
@@ -126,24 +108,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "3ab8432a-8cc9-436c-902d-510fc36806b5",
-        "title": "SCA Engineering Technician 1",
-        "active": false,
-        "date_updated": 1771199398,
-        "date_posted": 1771199398,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/SCA-Engineering-Technician-1_R10222651",
-        "locations": [
-            "Warner Robins, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -152475,7 +152439,7 @@
         "company_name": "Schonfeld",
         "id": "d38d8afe-32db-45d8-9a8f-7234263617cf",
         "title": "Quantitative Developer - Fundamental Equities",
-        "active": true,
+        "active": false,
         "date_updated": 1779837662,
         "date_posted": 1779834175,
         "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7957690",
@@ -212114,7 +212078,7 @@
         "company_name": "NVIDIA",
         "id": "f5893e69-dd4b-4dc3-a8ff-6cd0a24bde9f",
         "title": "ASIC Verification Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1783473414,
         "date_posted": 1783472913,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2026_JR2020640",
@@ -283234,7 +283198,7 @@
         "company_name": "CWILL",
         "id": "d5c21e08-73a2-4aa6-a0fb-2f50d36ad3a0",
         "title": "Product Management Trainee - Bilingual Mandarin Required",
-        "active": true,
+        "active": false,
         "date_updated": 1786411981,
         "date_posted": 1786411922,
         "url": "https://apply.workable.com/cwill-us/j/0AF59B8964/apply",
@@ -377055,7 +377019,7 @@
         "company_name": "Freedom Technology Solutions Group",
         "id": "cf11e0ff-3bd0-4b96-81b0-54ce5ab3b266",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791066601,
         "date_posted": 1784557090,
         "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5190737007",
@@ -388208,7 +388172,7 @@
         "company_name": "Microchip Technology",
         "id": "bd0de0f6-0ab4-453b-8361-4ced104c07fe",
         "title": "Engineer 1 - Product/Test",
-        "active": true,
+        "active": false,
         "date_updated": 1791499615,
         "date_posted": 1791417600,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Austin---Park-Centre/Engineer-I-Product-Test_R4288-26",
