@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Dimensional Fund Advisors",
-        "id": "d4cee94a-846a-457e-b099-9323ee16f080",
-        "title": "Associate Product Management",
-        "active": false,
-        "date_updated": 1771251769,
-        "date_posted": 1771251769,
-        "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/London/Associate--Product-Management_2026-8673",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/3d361434-7ac4-4284-b2ef-078b0bc92808",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "State Street",
-        "id": "c7481b7c-ea89-4418-a0b7-3f7798316788",
-        "title": "Quantitative Research",
-        "active": false,
-        "date_updated": 1771252089,
-        "date_posted": 1771252089,
-        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/Quantitative-Research--a-k-a-Researcher-_R-784329",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Graphcore",
         "id": "70ebf47f-a814-4cdb-88bb-41122f34c301",
@@ -393739,7 +393699,7 @@
         "company_name": "BP",
         "id": "e182497d-faeb-4cac-9de9-4db3935647ad",
         "title": "Graduate Digital - Data, AI & Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1791973126,
         "date_posted": 1791936000,
         "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Graduate---Digital---Data--AI---Engineering---UK_RQ117184",
@@ -393767,6 +393727,206 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/JINGDONG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "f43be495-fced-4bcb-b872-d0dd3fd2a01b",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1791987894,
+        "date_posted": 1791936000,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/Graduate-Engineer---Software_R5046974-2",
+        "locations": [
+            "Rugby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "b79711bc-96c5-422c-a128-8b8b238ca2e2",
+        "title": "Graduate Engineer - Software",
+        "active": true,
+        "date_updated": 1791987852,
+        "date_posted": 1791936000,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rugby/Graduate-Engineer---Software_R5046974-3",
+        "locations": [
+            "Rugby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eurofins",
+        "id": "db9fb7a7-e6a2-4dee-9c2f-bd25a2ebac5d",
+        "title": "Automation Technician",
+        "active": true,
+        "date_updated": 1791987662,
+        "date_posted": 1791987520,
+        "url": "https://jobs.smartrecruiters.com/Eurofins/744000155524286",
+        "locations": [
+            "Groton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Eurofins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Agilent Technologies",
+        "id": "3b23d87f-05be-4c67-93cf-cb0b4d96bb86",
+        "title": "Junior Full Stack R&D Software Developer",
+        "active": true,
+        "date_updated": 1791987700,
+        "date_posted": 1791936000,
+        "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/UK-Harwell/Junior-Full-Stack-R-D-Software-Developer_4039765-1",
+        "locations": [
+            "Harwell, Didcot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Agilent-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AeroVironment",
+        "id": "d40d3812-f19c-401b-b283-a95fecf03462",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1791987535,
+        "date_posted": 1791936000,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Jessup-MD/Jr-Software-Engineer_9123-1",
+        "locations": [
+            "Jessup, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "978ae261-9fe1-407c-a650-d771ba39ab6d",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1791987539,
+        "date_posted": 1791936000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01874953-1",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "WPP",
+        "id": "0d6988f8-8040-4552-8ee5-4927a26448e7",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1791987495,
+        "date_posted": 1791987325,
+        "url": "https://job-boards.greenhouse.io/wpp/jobs/8887554002",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/WPP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "BP",
+        "id": "44d0df34-0b7a-4215-b57e-31fa1388cb75",
+        "title": "Graduate Supplier - Trading & Shipping - Analytics",
+        "active": true,
+        "date_updated": 1791987164,
+        "date_posted": 1791936000,
+        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-Kingdom---London/Graduate---Supply--Trading---Shipping---Analytics--UK_RQ115974-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/BP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oxford Quantum Circuits",
+        "id": "390e1f47-ef47-47e3-b4ca-e364ebcb864f",
+        "title": "Associate Quantum Software Engineer",
+        "active": true,
+        "date_updated": 1791986944,
+        "date_posted": 1791986897,
+        "url": "https://apply.workable.com/oxford-quantum-circuits-8/j/5A9494E612/apply",
+        "locations": [
+            "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Oxford-Quantum-Circuits",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Signet Jewelers",
+        "id": "ccf805e9-e970-4b46-bde0-96d9de47c8a6",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1791986903,
+        "date_posted": 1791936000,
+        "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1",
+        "locations": [
+            "Akron, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Signet-Jewelers",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
