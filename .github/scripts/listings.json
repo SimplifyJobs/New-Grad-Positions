@@ -327680,7 +327680,7 @@
         "company_name": "L3Harris Technologies",
         "id": "4b199fc4-bfd3-4425-aa91-79a9a9ea0882",
         "title": "Associate \u2013 Integration / Test Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1788403147,
         "date_posted": 1787648489,
         "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Integration-Test-Engineer-FL-32905/1422832600/?ats=successfactors",
@@ -356435,7 +356435,7 @@
         "company_name": "L3Harris Technologies",
         "id": "ad311ae1-a99f-4b42-ae3b-e62abc592cf9",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1789415461,
         "date_posted": 1788906058,
         "url": "https://jobs.l3harris.com/job/Montreal-Software-Engineer-Queb-H4T-1G5/1427503700/?ats=successfactors",
@@ -393614,5 +393614,254 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "a6ebe285-2d68-426a-ba9a-4c6d1c683388",
+        "title": "Associate \u2013 Integration / Test Engineer",
+        "active": true,
+        "date_updated": 1791941941,
+        "date_posted": 1791941821,
+        "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Integration-Test-Engineer-FL-32919/1419938400/?ats=successfactors",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "5402edff-285f-4440-9371-4a38361a8513",
+        "title": "Associate Software Engineering",
+        "active": true,
+        "date_updated": 1791941975,
+        "date_posted": 1791941819,
+        "url": "https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1439515500/?ats=successfactors",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "f04443f2-cd0f-40dd-b8c7-d6ee6e987cb0",
+        "title": "SRAM Circuit Design Engineer New Grad",
+        "active": true,
+        "date_updated": 1791941878,
+        "date_posted": 1791849600,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "ba8fdcd6-9d0e-4e4e-af99-3487bc7dea39",
+        "title": "ASIC Verification Engineer New Grad",
+        "active": true,
+        "date_updated": 1791941877,
+        "date_posted": 1791849600,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "664f484e-e080-4fb3-be9b-ace5f9872240",
+        "title": "SoC Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1791941883,
+        "date_posted": 1791849600,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "0445156a-9385-408e-b304-e789f27cd106",
+        "title": "Associate Test Engineer - Product Development",
+        "active": true,
+        "date_updated": 1791941814,
+        "date_posted": 1791849600,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-AZ-Chandler-East-Elliot/Product-Development_R265969",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "24af82b2-28c3-4bbd-b3e7-f190ea697dbb",
+        "title": "Low Power ASIC Engineer New Grad",
+        "active": true,
+        "date_updated": 1791941883,
+        "date_posted": 1791849600,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "1d634e6a-9473-4a3b-b0a7-4dcaec951731",
+        "title": "SoC Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1791941884,
+        "date_posted": 1791849600,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BP",
+        "id": "fad2efaf-2726-4528-b3ec-446d3bf13d05",
+        "title": "Graduate Subsurface Technology",
+        "active": true,
+        "date_updated": 1791941476,
+        "date_posted": 1791936000,
+        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Graduate---Subsurface-Technology---Geology_RQ117087",
+        "locations": [
+            "Sunbury-on-Thames, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/BP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Trove Brands",
+        "id": "aa4c7794-175b-4ae7-bf8f-4aed8e487ed3",
+        "title": "Brand Marketing Associate - Core & Campaign",
+        "active": true,
+        "date_updated": 1791941467,
+        "date_posted": 1791941339,
+        "url": "https://job-boards.greenhouse.io/trovebrands/jobs/4450961009",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Trove-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BP",
+        "id": "6b513cde-2599-470b-b925-b5ac264427d2",
+        "title": "Graduate Digital",
+        "active": true,
+        "date_updated": 1791941469,
+        "date_posted": 1791936000,
+        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Graduate---Digital---Data--AI---Engineering---UK_RQ116985",
+        "locations": [
+            "Sunbury-on-Thames, UK",
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/BP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "BP",
+        "id": "62278059-565b-4279-a981-1a590d8585c5",
+        "title": "Graduate Supplier - Trading & Shipping - Analytics",
+        "active": true,
+        "date_updated": 1791941468,
+        "date_posted": 1791936000,
+        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---London/Graduate---Supply--Trading---Shipping---Analytics--UK_RQ115974",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/BP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
