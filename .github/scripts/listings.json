@@ -295664,7 +295664,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -296045,7 +296045,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -384920,7 +384920,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa71e901-808c-47e5-ab2d-32344fa2c4e7",
         "title": "Engineering Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1791353752,
         "date_posted": 1790201057,
         "url": "https://higher.gs.com/roles/174814?type=students",
@@ -393930,5 +393930,103 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Check",
+        "id": "fe8f92c8-cf1e-4d48-a2fa-65d895096b5a",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791989113,
+        "date_posted": 1791989017,
+        "url": "https://jobs.ashbyhq.com/check-technologies/1647b178-a07b-4e62-b2e1-122e6fdbd134/application?embed=true",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Check",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WEC Energy Group",
+        "id": "5bec06b4-9cd8-4828-b37e-24fdbd89d744",
+        "title": "GIS Associate Analyst",
+        "active": true,
+        "date_updated": 1791989113,
+        "date_posted": 1791988934,
+        "url": "https://careers.wecenergygroup.com/Wisconsin_Public_Service/job/Green-Bay-GIS-Associate-Analyst-WI-54307-9001/1439991400/?ats=successfactors",
+        "locations": [
+            "Green Bay, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/WEC-Energy-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Molson Coors Beverage Company",
+        "id": "042808d5-95ef-4825-b062-d532575c3c25",
+        "title": "Data Apprentice",
+        "active": true,
+        "date_updated": 1791989113,
+        "date_posted": 1791989112,
+        "url": "https://careers.molsoncoors.com/global/en/job/40190",
+        "locations": [
+            "Burton upon Trent, Burton-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Molson-Coors-Beverage-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "EDFT",
+        "id": "dd693b3a-4392-42d2-ad37-96aa7adcb617",
+        "title": "Junior Pricing Analyst",
+        "active": true,
+        "date_updated": 1791988928,
+        "date_posted": 1791988805,
+        "url": "https://edftrading.wd1.myworkdayjobs.com/en-US/EDFTrading/job/London/Junior-Pricing-Analyst_JR1001483",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/EDFT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Axtria",
+        "id": "b007b90e-0724-41c0-b320-e77f85ae3baa",
+        "title": "Decision Intelligence Analyst",
+        "active": true,
+        "date_updated": 1791988776,
+        "date_posted": 1791988605,
+        "url": "https://axtriainc.applytojob.com/apply/pw4tXgyRFb/Campus-2027-Decision-Intelligence-DI-Analyst",
+        "locations": [
+            "Berkeley Heights, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Axtria",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
