@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capco",
-        "id": "9b001040-8a4e-486b-94cc-8f8eeee4d577",
-        "title": "Capco Associate Talent Program",
-        "active": false,
-        "date_updated": 1771296400,
-        "date_posted": 1771296400,
-        "url": "https://job-boards.greenhouse.io/capco/jobs/7621240",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Capco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "c43480f1-8387-4261-8953-a08b84b3cdee",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1771296241,
-        "date_posted": 1771296241,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7621307",
-        "locations": [
-            "Hobbs, NM"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "The Boeing Company",
         "id": "05153f21-e2d5-45b1-8438-2d9f5a91f9ae",
