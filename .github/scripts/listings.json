@@ -389153,7 +389153,7 @@
         "company_name": "Manulife Financial",
         "id": "7ba9bcef-d5ba-4840-9510-0b066fb622bb",
         "title": "GRO Program - Data",
-        "active": false,
+        "active": true,
         "date_updated": 1791623881,
         "date_posted": 1791590400,
         "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/GRO-Program---Data_JR26091145-1",
@@ -394097,6 +394097,27 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "19107d15-9629-4efe-b0f5-7e1cc38dd47d",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1792045284,
+        "date_posted": 1792045225,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557026652",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
