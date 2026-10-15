@@ -9,9 +9,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (301)
 
-📱 **[Product Management](#-product-management-new-grad-roles)** (9)
+📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (95)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (94)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (14)
 
@@ -9261,46 +9261,46 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Ivo</strong></td>
 <td>Software Engineer, Backend</td>
 <td>San Francisco, CA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong>Giftogram</strong></td>
 <td>Junior Full Stack Developer</td>
 <td>Whippany, NJ</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
 <td>Simulation Software Engineer - Early Career</td>
 <td>Austin, TX</br>Mountain View, CA</br>Warren, MI</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
 <td>Junior Embedded Software Engineer (cleared) 🇺🇸</td>
 <td>Dedham, MA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong>First Advantage</strong></td>
 <td>Associate Software Engineer</td>
 <td>Remote in US</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CVS-Health?utm_source=GHList&utm_medium=company">CVS Health</a></strong></td>
 <td>Associate Software Development Engineer (Enterprise Applications)</td>
 <td>Remote in US</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Microchip-Technology?utm_source=GHList&utm_medium=company">Microchip Technology</a></strong></td>
@@ -10742,6 +10742,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/IDme?utm_source=GHList&utm_medium=company">ID.me</a></strong></td>
+<td>Associate Product Manager New Grad</td>
+<td>McLean, VA</br>Mountain View, CA</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986694003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4dd3e095-652b-420e-ac75-fd7089db30f1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Roblox?utm_source=GHList&utm_medium=company">🔥 Roblox</a></strong></td>
 <td>Associate Product Manager - Early Career</td>
 <td>San Mateo, CA</td>
@@ -11410,13 +11417,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/National-Software-Management?utm_source=GHList&utm_medium=company">National Software Management</a></strong></td>
-<td>Entry Level Data Analyst / Business Analyst</td>
-<td>Jersey City, NJ</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000144639269?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/70421d78-d83e-48d7-8165-62f184e1ce7f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Datalab-USA?utm_source=GHList&utm_medium=company">Datalab USA</a></strong></td>
 <td>Production Programmer – Entry Level SQL Developer</td>
 <td>Germantown, MD</td>
@@ -11722,7 +11722,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (331)</summary>
+<summary>🗃️ Inactive roles (332)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -12131,6 +12131,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/LPL-Financial-Holdings?utm_source=GHList&utm_medium=company">LPL Financial Holdings</a></strong></td>
 <td>Data Analytics New Grad - Multiple Teams</td>
 <td>Fort Mill, SC</br>Charlotte, NC</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/National-Software-Management?utm_source=GHList&utm_medium=company">National Software Management</a></strong></td>
+<td>Entry Level Data Analyst / Business Analyst</td>
+<td>Jersey City, NJ</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -13714,7 +13721,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Algorithm Systems Engineer II 🎓 🇺🇸</td>
 <td>Plano, TX</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
