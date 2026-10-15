@@ -394203,5 +394203,127 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zipline",
+        "id": "87734593-8df4-4646-b129-60db438b12f4",
+        "title": "Electrical Engineer - Avionics",
+        "active": true,
+        "date_updated": 1792075502,
+        "date_posted": 1792075380,
+        "url": "https://www.zipline.com/open-roles/8034605003?gh_jid=8034605003",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Apple",
+        "id": "4b1b1e85-54b1-4ae5-a45e-981beb99f72a",
+        "title": "Generative AI Research Engineer - Siri Speech",
+        "active": true,
+        "date_updated": 1792075502,
+        "date_posted": 1792075449,
+        "url": "https://jobs.apple.com/en-us/details/200688766",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gas South",
+        "id": "94d0210e-29ce-4a8c-9d29-b71d93621417",
+        "title": "Marketing Analyst 1",
+        "active": true,
+        "date_updated": 1792075538,
+        "date_posted": 1792075335,
+        "url": "https://job-boards.greenhouse.io/gassouth/jobs/8139174",
+        "locations": [
+            "Gainesville, FL",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gas-South",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boeing",
+        "id": "cc5f8f12-49b2-4ed7-a4ea-f15345eb95e7",
+        "title": "Associate Simulation Software Engineer",
+        "active": true,
+        "date_updated": 1792075325,
+        "date_posted": 1792022400,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Crawley-UK/Associate-Simulation-Software-Engineer_JR2026526967-1",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Arcfield",
+        "id": "e3dc3916-c56e-4402-833e-d675b99b9d0c",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1792075175,
+        "date_posted": 1792075011,
+        "url": "https://careers.arcfield.com/jobs/8780?icims=1",
+        "locations": [
+            "Rome, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcfield",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Western Alliance",
+        "id": "8fb0dded-666d-47fa-9cab-28bc7ada4f75",
+        "title": "Engineer 1",
+        "active": true,
+        "date_updated": 1792074638,
+        "date_posted": 1792022400,
+        "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Engineer-I_R14052",
+        "locations": [
+            "Dallas, TX",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
