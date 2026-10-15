@@ -375250,7 +375250,7 @@
         "company_name": "Amgen",
         "id": "04730f4f-d673-42b6-933d-dd493520e068",
         "title": "Full Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1791102858,
         "date_posted": 1787691782,
         "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Full-Stack-Software-Engineer_R-216946",
@@ -393053,7 +393053,7 @@
         "company_name": "Qualcomm",
         "id": "e2e74d29-f67c-4468-808e-766ee1fd7616",
         "title": "Compiler Toolchain Engineer - Compiler Toolchain Software",
-        "active": false,
+        "active": true,
         "date_updated": 1792017185,
         "date_posted": 1792017109,
         "url": "https://qualcomm.eightfold.ai/careers/job/446721572291",
@@ -394246,6 +394246,270 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "adeb5e48-26bb-401d-a863-437f163ce851",
+        "title": "Microarchitecture and Design Engineer - AI SoC",
+        "active": true,
+        "date_updated": 1792104324,
+        "date_posted": 1792022400,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Microarchitecture-and-Design-Engineer---AI-SoC_JR0287996",
+        "locations": [
+            "Santa Clara, CA",
+            "Folsom, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "5788b6dc-21b4-4d4c-b5fb-b9627bebc50f",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1792104121,
+        "date_posted": 1792103978,
+        "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer_2023271",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "86c9474f-6e5a-412d-86b0-43966e80038a",
+        "title": "Graphics Software Content Engineer",
+        "active": true,
+        "date_updated": 1792103761,
+        "date_posted": 1792103632,
+        "url": "https://jobs.apple.com/en-us/details/200689345",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "State Street",
+        "id": "78215cb9-84de-40e6-bdbc-713c38cf8262",
+        "title": "Quantitative Analyst",
+        "active": true,
+        "date_updated": 1792103761,
+        "date_posted": 1792022400,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Quantitative-Analyst--Officer_R-799704",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bealls",
+        "id": "c2a411f8-4726-4620-99b6-c07454596fc3",
+        "title": "AI Specialist",
+        "active": true,
+        "date_updated": 1792103761,
+        "date_posted": 1792103644,
+        "url": "https://beallsinc.taleo.net/careersection/bealls+outlet+mobile/jobdetail.ftl?job=260000GI",
+        "locations": [
+            "Bradenton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Bealls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SAIC",
+        "id": "33de7871-0f55-4b66-9566-f7498df75863",
+        "title": "Software Test Engineer",
+        "active": true,
+        "date_updated": 1792103761,
+        "date_posted": 1792103628,
+        "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618025",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/SAIC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "95a2bb1c-4f09-4884-b286-5b57b51f6b0f",
+        "title": "ASIC Engineer - ASIC Engineering",
+        "active": true,
+        "date_updated": 1792103823,
+        "date_posted": 1792103739,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721593246",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "6cc731c9-fe26-428a-b956-5b0133bceb40",
+        "title": "DSP System Engineer",
+        "active": true,
+        "date_updated": 1792103761,
+        "date_posted": 1792103739,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721595845",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "6533ec56-0033-4492-a8bf-00b73a80fc55",
+        "title": "DSP Micro-Architect RTL Engineer - ASIC Engineering",
+        "active": true,
+        "date_updated": 1792103761,
+        "date_posted": 1792103739,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721591743",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CACI",
+        "id": "7ee7c0a9-f84b-4461-9236-3dbba79845af",
+        "title": "Junior Dashboard Administrator",
+        "active": true,
+        "date_updated": 1792103617,
+        "date_posted": 1792022400,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Dashboard-Administrator--Junior-_333487",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "6cc4c7d3-c87f-4e22-bb70-d4060e5fd944",
+        "title": "Validation Engineer",
+        "active": true,
+        "date_updated": 1792103581,
+        "date_posted": 1792103481,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018716",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Renesas Electronics",
+        "id": "c3711c68-8abe-45f4-a751-cd6365b0af07",
+        "title": "Graduate Validation Engineer",
+        "active": true,
+        "date_updated": 1792103448,
+        "date_posted": 1792103367,
+        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000155825610",
+        "locations": [
+            "Duluth, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Renesas-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nutanix",
+        "id": "65368a41-05c8-40d7-91eb-041dfe59df54",
+        "title": "Staff Engineer - DataHub",
+        "active": true,
+        "date_updated": 1792103401,
+        "date_posted": 1790374523,
+        "url": "https://jobs.jobvite.com/nutanix/job/omPOAfwj?nl=1&nl=1&fr=false",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Master's"
         ]
     }
