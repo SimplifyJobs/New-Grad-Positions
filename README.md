@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 551 New Grad Roles by Category
+### Browse 550 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (303)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (302)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
@@ -259,13 +259,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Richardson, TX</td>
 <td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01875410?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4bcb1987-5e3a-4180-a0c2-7a9a7bf3ad04?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
-<td>C++ Software Engineer New Grad - Infrastructure Tools</td>
-<td>Santa Clara, CA</td>
-<td><div align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/82fb089b-e0cb-414d-9953-9f5d35538486?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>6d</td>
 </tr>
 <tr>
@@ -2205,7 +2198,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1211)</summary>
+<summary>🗃️ Inactive roles (1212)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2236,6 +2229,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Web/Full Stack Software Engineer 1</td>
 <td>Fullerton, CA</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
+<td>C++ Software Engineer New Grad - Infrastructure Tools</td>
+<td>Santa Clara, CA</td>
 <td>🔒</td>
 <td>6d</td>
 </tr>
@@ -3570,7 +3570,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Honeywell?utm_source=GHList&utm_medium=company">Honeywell</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Richmond, VA</td>
 <td>🔒</td>
@@ -8848,7 +8848,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
 <td>Junior Full Stack Engineer (Java/React) 🇺🇸</td>
 <td>Dedham, MA</td>
 <td>🔒</td>
@@ -11106,7 +11106,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Founding Software Engineer</td>
 <td>Palo Alto, CA</td>
 <td><div align="center"><a href="https://simplify.jobs/p/bdc069d8-947d-4e4c-8a1c-78356f9b366f?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/bdc069d8-947d-4e4c-8a1c-78356f9b366f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Americas-Tire?utm_source=GHList&utm_medium=company">America's Tire</a></strong></td>
