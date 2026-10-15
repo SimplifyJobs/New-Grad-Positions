@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Xylem",
-        "id": "e458eb0d-8810-4494-bd1f-2e2013c97828",
-        "title": "Engineering Lab Technician",
-        "active": false,
-        "date_updated": 1771332394,
-        "date_posted": 1771332394,
-        "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Irvine-California/Engineering-Lab-Technician_R46434",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Xylem",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Ocean Optics",
         "id": "f80683c9-7b99-4155-86b5-85daecc424d3",
         "title": "Field Services Engineer - South West & Midlands",
@@ -373898,7 +373878,7 @@
         "company_name": "Formlabs",
         "id": "5fdde354-d087-4028-b735-d446f17f1e6b",
         "title": "R&D Reliability/Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790936788,
         "date_posted": 1790720420,
         "url": "https://careers.formlabs.com/job/8241472/apply/?gh_jid=8241472",
@@ -385991,7 +385971,7 @@
         "company_name": "RTX",
         "id": "6948b98f-c979-4ba0-87d6-d3c0391df2a8",
         "title": "Embedded Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791474232,
         "date_posted": 1791417600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Embedded-Software-Engineer-I--Onsite-_01881234",
@@ -387111,7 +387091,7 @@
         "company_name": "RTX",
         "id": "fd2239be-54e7-4647-96fb-ab88ab37e8e1",
         "title": "Embedded Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791499217,
         "date_posted": 1791417600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-POINT-MUGU-TR20--13th-St-and-S-L-St--BLDG-TR20/Embedded-Software-Engineer-I--Onsite-_01881385",
