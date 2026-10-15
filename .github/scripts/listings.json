@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Crowdstrike",
-        "id": "0ae685f9-3f6f-4b8d-b52e-2eb72c7119cc",
-        "title": "Engineer 1 - Sensor - Ssp",
-        "active": false,
-        "date_updated": 1771336067,
-        "date_posted": 1771336067,
-        "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Canada---Toronto/Engineer-I---Sensor--SSP--Hybrid-_R27318",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Crowdstrike",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Leidos",
         "id": "92392efd-e08f-462d-bb3e-640e3574c201",
@@ -267541,7 +267523,7 @@
         "company_name": "PNC Financial Services",
         "id": "e42a5fe5-3f15-46c9-9909-55a1df494a5e",
         "title": "Product Innovation Analyst/Associate - Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1785796438,
         "date_posted": 1785715200,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Product-Innovation-Development-Program-Analyst-Associate_R230924-1",
