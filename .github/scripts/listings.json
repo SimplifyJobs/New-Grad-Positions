@@ -202807,7 +202807,7 @@
         "company_name": "Apple",
         "id": "67261498-8687-4b27-9544-79877952e397",
         "title": "Graphics Software Content Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782972543,
         "date_posted": 1782972459,
         "url": "https://jobs.apple.com/en-us/details/200669452",
@@ -391815,7 +391815,7 @@
         "company_name": "Rocket Lab USA",
         "id": "c40b3c97-baba-47ca-9d41-d7df35c91c27",
         "title": "Data Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791929705,
         "date_posted": 1791929265,
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8031475003",
@@ -393860,7 +393860,7 @@
         "company_name": "Qualcomm",
         "id": "e2e74d29-f67c-4468-808e-766ee1fd7616",
         "title": "Compiler Toolchain Engineer - Compiler Toolchain Software",
-        "active": true,
+        "active": false,
         "date_updated": 1792017185,
         "date_posted": 1792017109,
         "url": "https://qualcomm.eightfold.ai/careers/job/446721572291",
@@ -393937,6 +393937,126 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Toro Company",
+        "id": "fe69c4cf-e300-4ca2-bdc0-8adbfa2a2924",
+        "title": "Electrical Design Engineer",
+        "active": true,
+        "date_updated": 1792027445,
+        "date_posted": 1791936000,
+        "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Electrical-Design-Engineer---Ditch-Witch_JR17643",
+        "locations": [
+            "Perry, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Toro-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "be0b08b4-7b53-49d9-8d1b-6e9f9fa458d8",
+        "title": "Electro-Optics Systems Engineer 1",
+        "active": true,
+        "date_updated": 1792027329,
+        "date_posted": 1791936000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Electro-Optics-Systems-Engineer-I--Onsite-_01880584",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SirenOpt",
+        "id": "a254c38f-5fae-467c-9cff-3dd2e72094f5",
+        "title": "Software Engineer - Early Career - C++ & Systems",
+        "active": true,
+        "date_updated": 1792026925,
+        "date_posted": 1792026786,
+        "url": "https://job-boards.greenhouse.io/sirenopt/jobs/4452002009",
+        "locations": [
+            "San Leandro, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SirenOpt",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mozilla",
+        "id": "2a035b52-c3c9-42cc-bcdc-5ec6580ae2bc",
+        "title": "Software Engineer - Firefox Desktop Integrations",
+        "active": true,
+        "date_updated": 1792026814,
+        "date_posted": 1792026611,
+        "url": "https://job-boards.greenhouse.io/mozilla/jobs/8268333",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mozilla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moog",
+        "id": "a17612ff-21f3-4260-8636-fab4f5f2c660",
+        "title": "Associate Electrical Engineer / Electronic Design Engineer",
+        "active": true,
+        "date_updated": 1792026366,
+        "date_posted": 1791936000,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Phoenix-AZ/Eng--Design--Electronic_R-26-20419",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ZS",
+        "id": "de0250e1-0963-49f6-91fa-1fa33cfe8528",
+        "title": "Decision Analytics Associate",
+        "active": true,
+        "date_updated": 1792026183,
+        "date_posted": 1792026123,
+        "url": "https://jobs.zs.com/jobs/63654?icims=1",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/ZS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
