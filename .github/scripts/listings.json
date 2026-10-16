@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Talkdesk",
-        "id": "93db0f5f-7083-430b-a2cd-707041399319",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1771413643,
-        "date_posted": 1771413643,
-        "url": "https://careers.talkdesk.com/jobs?id=7617427&gh_jid=7617427",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Talkdesk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Baker Tilly",
         "id": "3eefb549-9be4-4967-a097-460ddef68d93",
         "title": "RPA Developer - Consultant",
