@@ -348976,7 +348976,7 @@
         "company_name": "Omnicom Group",
         "id": "be298fbc-4563-4946-a4d7-ed14bdc367ac",
         "title": "Data Science Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789080071,
         "date_posted": 1788998400,
         "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/Toronto-Ontario-Canada/Analyst--Data-Science_R11132",
@@ -368445,7 +368445,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": true,
+        "active": false,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -377709,7 +377709,7 @@
         "company_name": "Healf",
         "id": "d97226de-1676-4ea5-8f90-a11ccae6e0bd",
         "title": "Graduate Software Engineer - Supply Chain + Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1791239622,
         "date_posted": 1791239170,
         "url": "https://jobs.ashbyhq.com/healf/9ac2b799-646f-48c3-93a2-2e235644eace/application?embed=true",
@@ -393201,6 +393201,92 @@
             "Bristol, UK"
         ],
         "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capgemini",
+        "id": "774e9af4-befb-4743-b61d-6f1bc8e9a566",
+        "title": "Graduate Insights & Data Consultant",
+        "active": true,
+        "date_updated": 1792160882,
+        "date_posted": 1792160820,
+        "url": "https://careers.capgemini.com/job/London-Graduate-Insights-&-Data-Consultant-2027/1448536533/?ats=successfactors",
+        "locations": [
+            "London, UK",
+            "Cardiff, UK",
+            "Birmingham, UK",
+            "Woking, UK",
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Capgemini",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "baa00ee8-4fec-4f3e-9df3-703c01b4b803",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1792160505,
+        "date_posted": 1790553600,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer_REF088588W",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "5db5ee71-523e-4e86-99ec-09801720c4ec",
+        "title": "Firmware Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1792160282,
+        "date_posted": 1792108800,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Roanoke-US-VA-3/Firmware-Engineer---Early-Career_R5055844-1",
+        "locations": [
+            "Roanoke, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "32af9ea4-1196-4610-8f88-3614979eb9c7",
+        "title": "Firmware Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1792160282,
+        "date_posted": 1792108800,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Roanoke-US-VA-3/Firmware-Engineer---Early-Career_R5055842-1",
+        "locations": [
+            "Roanoke, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
