@@ -392204,7 +392204,7 @@
         "company_name": "ZS",
         "id": "de0250e1-0963-49f6-91fa-1fa33cfe8528",
         "title": "Decision Analytics Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1792026183,
         "date_posted": 1792026123,
         "url": "https://jobs.zs.com/jobs/63654?icims=1",
@@ -393518,6 +393518,46 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blissway",
+        "id": "24187aee-3574-4cb9-8ac2-4a5b4d2b12d5",
+        "title": "Electrical or Embedded Systems Engineer",
+        "active": true,
+        "date_updated": 1792114935,
+        "date_posted": 1792114743,
+        "url": "https://jobs.ashbyhq.com/blissway/9cc9751f-5995-422b-baa9-3ac57f3d24e1/application?embed=true",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Blissway",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CoStar Group",
+        "id": "9047dd23-9bb9-4503-8b3a-3792489b8b50",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1792114790,
+        "date_posted": 1792022400,
+        "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-CA-San-Francisco/Software-Engineer-I---BizBuySell---San-Francisco--CA_R40158-1",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
