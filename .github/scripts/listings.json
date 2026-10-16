@@ -384118,7 +384118,7 @@
         "company_name": "Microsoft",
         "id": "6ef2db46-c8cc-46ac-8016-a25e596e7c76",
         "title": "Quantum Systems Stability & Sensitivity Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791498535,
         "date_posted": 1791497851,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557026782",
@@ -393212,6 +393212,27 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Periodic Labs",
+        "id": "4fa11d47-e066-4706-be18-9b9b784bcd1a",
+        "title": "Research Scientist - Scaling RL",
+        "active": true,
+        "date_updated": 1792139941,
+        "date_posted": 1790817445,
+        "url": "https://jobs.ashbyhq.com/periodic-labs/20b122c9-b8ec-4fb0-aaf4-9b45902affe0/application?embed=true",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Periodic-Labs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
