@@ -1,81 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "db242e4e-b693-43f2-bb68-ddf6844b2561",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1771411236,
-        "date_posted": 1771411236,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050012",
-        "locations": [
-            "Beaconsfield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "caa222f0-f34c-49f8-b43b-04ca96e375ac",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1771411259,
-        "date_posted": 1771411259,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050015",
-        "locations": [
-            "Bury Saint Edmunds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2363936b-750a-4f4c-b508-b51237368829",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1771411237,
-        "date_posted": 1771411237,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050011",
-        "locations": [
-            "Beaconsfield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Google",
-        "id": "2215bd53-d37f-4a6e-9aca-327738b65d9c",
-        "title": "Product Manager 1",
-        "active": false,
-        "date_updated": 1771411219,
-        "date_posted": 1771411219,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/89956133074019014",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Talkdesk",
         "id": "93db0f5f-7083-430b-a2cd-707041399319",
@@ -393282,6 +393207,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "b181d434-4520-480e-97cf-1114edbb9d60",
+        "title": "Software Engineer - Block Storage",
+        "active": true,
+        "date_updated": 1792146613,
+        "date_posted": 1792108800,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bristol-Avon-United-Kingdom/Software-Engineer---Block-Storage-UK_1214489-1",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
