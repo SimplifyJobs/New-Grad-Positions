@@ -93195,7 +93195,7 @@
         "company_name": "Applied Materials",
         "id": "91c6469e-874d-43c0-8e4b-3d048400dac0",
         "title": "TPS Engineer - Early In Career",
-        "active": true,
+        "active": false,
         "date_updated": 1776294739,
         "date_posted": 1776290958,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/TPS-Engineer--Early-In-Career-_R2615689",
@@ -296979,7 +296979,7 @@
         "company_name": "The Campbell's Company",
         "id": "b8351f3d-ebec-4c3d-8709-81a2cb4edf2d",
         "title": "Deductions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787090762,
         "date_posted": 1787011200,
         "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---PA---Hanover/Deductions-Analyst_Req-67367",
@@ -311077,7 +311077,7 @@
         "company_name": "Anduril",
         "id": "ad7fc6cf-4649-4523-8f4a-2b113297ea41",
         "title": "Agentic AI Engineer - Automation",
-        "active": true,
+        "active": false,
         "date_updated": 1787783041,
         "date_posted": 1787782878,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219383007",
@@ -364865,7 +364865,7 @@
         "company_name": "84.51 Degrees",
         "id": "cd40904e-cd98-42fc-a561-ca8a15ae2c90",
         "title": "Product Manager - Data Domain",
-        "active": true,
+        "active": false,
         "date_updated": 1790290324,
         "date_posted": 1790289694,
         "url": "https://job-boards.greenhouse.io/8451/jobs/8843248002",
@@ -366542,7 +366542,7 @@
         "company_name": "RTX",
         "id": "99047f12-3c04-4630-a25c-7bc2fe267e38",
         "title": "Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790698668,
         "date_posted": 1788307200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Production-Hardware---Electrical-Engineer-I--Onsite-_01871817",
@@ -374911,7 +374911,7 @@
         "company_name": "RTX",
         "id": "9c0aa30d-d426-43c7-a629-0ec4268286c7",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1791118087,
         "date_posted": 1788825600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-II--Onsite-_01872779",
@@ -387010,7 +387010,7 @@
         "company_name": "TriNet",
         "id": "b2923a29-715c-4b61-b190-c00f11a10529",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791842782,
         "date_posted": 1791842782,
         "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004087",
@@ -388726,7 +388726,7 @@
         "company_name": "Ambarella",
         "id": "9d977794-cabe-4c1d-ab87-bbd0959debbc",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791929717,
         "date_posted": 1791849600,
         "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Ohio/Software-Engineer_JR100384",
@@ -388948,7 +388948,7 @@
         "company_name": "Southwest Airlines",
         "id": "bc598eaf-9d97-4bc0-a87e-2f1194087279",
         "title": "Operations Research Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1791929356,
         "date_posted": 1791849600,
         "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Operations-Research-Developer_R-2026-73737",
@@ -392933,5 +392933,44 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ActioNet",
+        "id": "798b7c48-2d01-4bf9-84e8-e1b45ba8c797",
+        "title": "Junior Developer",
+        "active": true,
+        "date_updated": 1792187642,
+        "date_posted": 1782943858,
+        "url": "https://jobs.jobvite.com/actionet/job/ofYQzfwm?nl=1&nl=1&fr=false",
+        "locations": [
+            "Rosslyn, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ActioNet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesco",
+        "id": "5a420988-960a-4b0e-bbf5-a96d759ef302",
+        "title": "Engineering New Grad",
+        "active": true,
+        "date_updated": 1792187645,
+        "date_posted": 1790039895,
+        "url": "https://tesco.avature.net/en_GB/careers/JobDetail/209131",
+        "locations": [
+            "Edinburgh, UK",
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
