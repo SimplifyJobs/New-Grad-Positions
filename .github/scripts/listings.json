@@ -192860,7 +192860,7 @@
         "company_name": "GlobalFoundries",
         "id": "a2b45a60-8ee3-4c7a-9e53-e95d40fb400c",
         "title": "Tapeout Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1782771815,
         "date_posted": 1782770855,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Tapeout-Engineer--2026-New-College-Graduate_JR-2602561",
@@ -362350,7 +362350,7 @@
         "company_name": "JP Morgan Chase",
         "id": "78b43528-9f63-4fe7-9fd3-b20d58a0a218",
         "title": "Market Risk Time Series Analytics Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1790126379,
         "date_posted": 1790125762,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785457",
@@ -385006,7 +385006,7 @@
         "company_name": "RTX",
         "id": "9199e425-2144-4178-bac6-c9f1802f9f1e",
         "title": "Embedded Security Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791499216,
         "date_posted": 1791417600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Embedded-Security-Software-Engineer-I--Onsite-_01881370",
@@ -387977,7 +387977,7 @@
         "company_name": "Dexcom",
         "id": "c5f0ccae-5750-4c3e-9954-d45d8150a0a2",
         "title": "Software Development Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1791843239,
         "date_posted": 1791763200,
         "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote-California/SW-Development-Engineer-1_JR121427",
@@ -389997,7 +389997,7 @@
         "company_name": "Thales",
         "id": "cdd83d13-afda-431e-80dd-c7d9481d304d",
         "title": "Graduate AI Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1791929639,
         "date_posted": 1791849600,
         "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Orlando/AI-Engineer---Graduate_R0341851-1",
@@ -393478,6 +393478,50 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Applied Materials",
+        "id": "80d5322d-a777-4522-99d6-f1589e858077",
+        "title": "Product Management 2 New Grad",
+        "active": true,
+        "date_updated": 1792114063,
+        "date_posted": 1792022400,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Management-II-New-College-Grad--Master-s--Santa-Clara--CA-_R2629882",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "d1f50127-9dc7-4b88-a4ae-bffdc7c84812",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1792113876,
+        "date_posted": 1792113725,
+        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536",
+        "locations": [
+            "Charlotte, NC",
+            "NYC",
+            "Mountain View, CA",
+            "Atlanta, GA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
