@@ -292404,7 +292404,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -292785,7 +292785,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -368563,7 +368563,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": false,
+        "active": true,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -380694,7 +380694,7 @@
         "company_name": "Deloitte",
         "id": "d5b7d966-e703-4f27-ac8a-2d39fe89c0ff",
         "title": "Data Scientist - AI and Data Science Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791326881,
         "date_posted": 1791325679,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist-AI-and-Data-Science-Engineer-I/369586",
@@ -381660,7 +381660,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa71e901-808c-47e5-ab2d-32344fa2c4e7",
         "title": "Engineering Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1791353752,
         "date_posted": 1790201057,
         "url": "https://higher.gs.com/roles/174814?type=students",
@@ -393260,5 +393260,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Aon",
+        "id": "dfd53f60-20b1-47bb-ad68-1ef389daccae",
+        "title": "Actuarial Consulting Graduate - Pensions",
+        "active": true,
+        "date_updated": 1792143087,
+        "date_posted": 1791813937,
+        "url": "https://jobs.aon.com/jobs/108014?icims=1",
+        "locations": [
+            "Leeds, UK",
+            "Epsom, UK",
+            "Glasgow, UK",
+            "St Albans, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AON",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
