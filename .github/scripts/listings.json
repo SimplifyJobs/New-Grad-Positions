@@ -387370,7 +387370,7 @@
         "company_name": "Howden",
         "id": "a762184f-4a33-462a-8220-7c82e54b505e",
         "title": "Data Analyst - Specialty",
-        "active": true,
+        "active": false,
         "date_updated": 1791819112,
         "date_posted": 1791763200,
         "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London/Data-Analyst---Specialty_R0019598-1",
@@ -393198,6 +393198,27 @@
         "date_updated": 1792146613,
         "date_posted": 1792108800,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bristol-Avon-United-Kingdom/Software-Engineer---Block-Storage-UK_1214489-1",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "82c3e17d-b1b7-4c37-9aa1-e64089e53038",
+        "title": "Software Engineer - Block Storage",
+        "active": true,
+        "date_updated": 1792154703,
+        "date_posted": 1792108800,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bristol-Avon-United-Kingdom/Software-Engineer---Block-Storage-UK_1214489-3",
         "locations": [
             "Bristol, UK"
         ],
