@@ -271914,7 +271914,7 @@
         "company_name": "Accenture",
         "id": "61b9c823-c168-4748-9d94-8ae5a407a3da",
         "title": "AI Native Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786010822,
         "date_posted": 1784160000,
         "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Native-Software-Engineering_R00343768-1",
@@ -368563,7 +368563,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": true,
+        "active": false,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -387694,7 +387694,7 @@
         "company_name": "AbbVie",
         "id": "bc3e53cc-9c7a-49fa-afa7-8bede1da1df5",
         "title": "Associate Engineer - Technology 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791843481,
         "date_posted": 1791842737,
         "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016054796",
@@ -393238,5 +393238,27 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Axon",
+        "id": "9ab5126a-5ff7-4eaa-9a53-cb901dc3185c",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1792141622,
+        "date_posted": 1790893080,
+        "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8010994003",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Sterling, VA",
+            "Scottsdale, AZ",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Axon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
