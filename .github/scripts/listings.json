@@ -2,28 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Baker Tilly",
-        "id": "3eefb549-9be4-4967-a097-460ddef68d93",
-        "title": "RPA Developer - Consultant",
-        "active": false,
-        "date_updated": 1771423298,
-        "date_posted": 1771423298,
-        "url": "https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-DC-Washington-DC/RPA-Developer---Consultant_JR105350",
-        "locations": [
-            "Washington, DC",
-            "Remote in USA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Baker-Tilly",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Rockstar Games",
         "id": "4fd20f6f-0113-41b2-9c46-a51498be47d6",
         "title": "Associate Game Systems Engineer",
@@ -85704,7 +85682,7 @@
         "company_name": "KLA",
         "id": "a107f00e-5d3d-47dc-9008-d64ff6a5124a",
         "title": "Product Development Engineer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1775785156,
         "date_posted": 1775783153,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Product-Development-Engineer--Optical-Metrology-Inspection-_2635499-2",
@@ -250859,7 +250837,7 @@
         "company_name": "Freddie Mac",
         "id": "d3680ba2-c14d-4200-9aec-fbfcf6ab8214",
         "title": "Capital Markets Analyst - Quantitative",
-        "active": true,
+        "active": false,
         "date_updated": 1785278881,
         "date_posted": 1785196800,
         "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Capital-Markets-Analyst---Quantitative_JR17437",
@@ -389594,7 +389572,7 @@
         "company_name": "Jabil",
         "id": "bdccd310-944d-47a9-8965-cbcfb8c98da8",
         "title": "Electronic Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1791929617,
         "date_posted": 1791849600,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Electronic-Engineer-II_J2468045",
