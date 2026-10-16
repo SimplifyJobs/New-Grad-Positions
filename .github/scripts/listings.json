@@ -204434,7 +204434,7 @@
         "company_name": "Everfox",
         "id": "5b51e676-8b92-4a35-a771-c5e6ce70e43c",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783348324,
         "date_posted": 1783347131,
         "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/GBR_WS_Malvern/Software-Engineer-I_JR500693-1",
@@ -256085,7 +256085,7 @@
         "company_name": "State Street",
         "id": "a1b78398-f928-4540-906d-107312019bc7",
         "title": "Junior SIEM Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785540241,
         "date_posted": 1785456000,
         "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Junior-SIEM-Data-Engineer_R-794329",
@@ -262957,7 +262957,7 @@
         "company_name": "ByteDance",
         "id": "e568e4b0-521c-46fd-9755-b2d6ee6b85f3",
         "title": "Backend Software Engineer Graduate - Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1785748681,
         "date_posted": 1785748598,
         "url": "https://jobs.bytedance.com/en/position/7667269919588321541/detail",
@@ -310547,7 +310547,7 @@
         "company_name": "Booz Allen",
         "id": "da75a7d6-8ed2-4054-805c-35806d1e50de",
         "title": "Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787772632,
         "date_posted": 1787702400,
         "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/Atlanta-GA/University---Business-Intelligence-Analyst_R0247965",
@@ -345120,7 +345120,7 @@
         "company_name": "RTX",
         "id": "c4530fad-9d74-432e-bc85-6f26c31a8c62",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788907589,
         "date_posted": 1788825600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684",
@@ -374586,7 +374586,7 @@
         "company_name": "RTX",
         "id": "e126fdcd-a202-40c9-b693-49955539b6c8",
         "title": "Production Hardware Electrical Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1791115359,
         "date_posted": 1788307200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Production-Hardware---Electrical-Engineer-II--Onsite-_01871819",
@@ -380214,7 +380214,7 @@
         "company_name": "Ciena",
         "id": "49fad5f7-8159-47be-8139-91fd5ee5d213",
         "title": "Signal and Power Integrity Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1791327291,
         "date_posted": 1791244800,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Signal-and-Power-Integrity-Engineer---New-Grad_R031795",
@@ -389329,7 +389329,7 @@
         "company_name": "Meta",
         "id": "96f4312a-37af-4609-8d5e-e3fd90643296",
         "title": "ASIC Engineer New Grad - Design",
-        "active": true,
+        "active": false,
         "date_updated": 1791940067,
         "date_posted": 1791939891,
         "url": "https://www.metacareers.com/jobs/1084023187741651",
@@ -390059,7 +390059,7 @@
         "company_name": "Signet Jewelers",
         "id": "ccf805e9-e970-4b46-bde0-96d9de47c8a6",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791986903,
         "date_posted": 1791936000,
         "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1",
@@ -391716,7 +391716,7 @@
         "company_name": "Arcfield",
         "id": "e3dc3916-c56e-4402-833e-d675b99b9d0c",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792075175,
         "date_posted": 1792075011,
         "url": "https://careers.arcfield.com/jobs/8780?icims=1",
@@ -392972,5 +392972,102 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Tesco",
+        "id": "5ae67d5f-b5b5-4ec4-8216-2ef58e65de57",
+        "title": "Technology Graduate Scheme - Tech Product and Programme Management",
+        "active": true,
+        "date_updated": 1792189275,
+        "date_posted": 1790040044,
+        "url": "https://tesco.avature.net/en_GB/careers/JobDetail/209108",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prolific",
+        "id": "7a44ce6b-b849-4e9b-b996-e52fa534ec7d",
+        "title": "AI Trainer",
+        "active": true,
+        "date_updated": 1792189189,
+        "date_posted": 1789636364,
+        "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4974878101",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Prolific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Frequentis",
+        "id": "73485b89-ad04-45d3-be35-4e3601512083",
+        "title": "Junior Systems Integration Engineer",
+        "active": true,
+        "date_updated": 1792188722,
+        "date_posted": 1788884241,
+        "url": "https://frequentis.avature.net/careers/JobDetail/3648",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Frequentis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Oak View Group",
+        "id": "11628380-1092-4a0f-bf59-9c68f01ec3df",
+        "title": "Sports Stats Specialist",
+        "active": true,
+        "date_updated": 1792188722,
+        "date_posted": 1787963222,
+        "url": "https://careers-ovg.icims.com/jobs/34469/job",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Oak-View-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Synopsys",
+        "id": "1f04c592-d034-4ffc-961b-a1817f0969b1",
+        "title": "R&D Engineering - Staff Engineer",
+        "active": true,
+        "date_updated": 1792188722,
+        "date_posted": 1788254738,
+        "url": "https://synopsys.avature.net/careers/JobDetail/18519",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Synopsys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
