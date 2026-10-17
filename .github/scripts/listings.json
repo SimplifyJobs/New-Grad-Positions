@@ -1,436 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "TransUnion",
-        "id": "7026dd8c-503f-400c-bbb6-de389f8e7281",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1771459000,
-        "date_posted": 1771459000,
-        "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Boca-Raton-Florida/Entry-Level-Software-Engineer_19038868",
-        "locations": [
-            "Boca Raton, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/TransUnion",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Sun Life",
-        "id": "544bc946-d82a-46c9-a915-91b74a32edf0",
-        "title": "Associate Product Manager - Life Insurance",
-        "active": false,
-        "date_updated": 1771457646,
-        "date_posted": 1771457646,
-        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Waterloo-Ontario/Associate-Product-Manager--Life-Insurance_JR00120636",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sun-Life",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "b2f9b880-e1cf-4ce3-b2e9-fd7a3bcce7bb",
-        "title": "Support Technician",
-        "active": false,
-        "date_updated": 1771458612,
-        "date_posted": 1771458612,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Bellevue-WA/Support-Technician_R-1006602",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DaVita",
-        "id": "70fccc55-fa88-435e-894e-d3ae94450158",
-        "title": "Epic Analyst 1",
-        "active": false,
-        "date_updated": 1771458674,
-        "date_posted": 1771458674,
-        "url": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/06797---DPS-CKD-OPS/Epic-Analyst-I_R0444011",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/DaVita",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "6397809d-3750-4620-a8fb-58ad6f70ed3c",
-        "title": "Support Technician",
-        "active": false,
-        "date_updated": 1771458715,
-        "date_posted": 1771458715,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Westminster-CO/Support-Technician_R-1005470",
-        "locations": [
-            "Westminster, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Milwaukee Tool",
-        "id": "373639a2-2508-4a99-a843-38736fb8f36d",
-        "title": "Engineering Technician",
-        "active": false,
-        "date_updated": 1771458608,
-        "date_posted": 1771458608,
-        "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Menomonee-Falls-WI/Engineering-Technician_R71075",
-        "locations": [
-            "Menomonee Falls, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Milwaukee-Tool",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "10a Labs",
-        "id": "e795e771-f292-493b-ab0e-9e4411c3797e",
-        "title": "AI Engineer - Contract",
-        "active": false,
-        "date_updated": 1771458371,
-        "date_posted": 1771458371,
-        "url": "https://job-boards.greenhouse.io/10alabs/jobs/4136404009",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/10a-Labs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Solera Holdings",
-        "id": "e34f8d9e-18fd-4a87-86bb-96b9c23c647b",
-        "title": "Data Quality Analyst",
-        "active": false,
-        "date_updated": 1771458399,
-        "date_posted": 1771458399,
-        "url": "https://solera.wd5.myworkdayjobs.com/global_career_site/job/Eagan-Minnesota/Data-Quality-Analyst---Eagan--MN_JR-018974",
-        "locations": [
-            "Eagan, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/63e7c5e8-d41d-4c0b-98f9-f293a5bf3e26",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Milwaukee Tool",
-        "id": "b2522257-0a22-4587-a6d5-4a12f69cec29",
-        "title": "Repair Technician 1",
-        "active": false,
-        "date_updated": 1771458594,
-        "date_posted": 1771458594,
-        "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Greenwood-MS/Repair-Tech-1_R70040",
-        "locations": [
-            "Greenwood, MS"
-        ],
-        "company_url": "https://simplify.jobs/c/Milwaukee-Tool",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Carter's",
-        "id": "ad28f851-0d60-4ac6-8d72-03b6730714d2",
-        "title": "Assistant Merchant",
-        "active": false,
-        "date_updated": 1771458357,
-        "date_posted": 1771458357,
-        "url": "https://carters.wd1.myworkdayjobs.com/en-US/CartersCareers/job/Atlanta-GA/Assistant-Merchant_JR54433",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Carters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Milwaukee Tool",
-        "id": "4aeda916-6ca3-4305-999a-d6f29593960f",
-        "title": "Repair Technician 1",
-        "active": false,
-        "date_updated": 1771458594,
-        "date_posted": 1771458594,
-        "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Greenwood-MS/Repair-Tech-1_R70739",
-        "locations": [
-            "Greenwood, MS"
-        ],
-        "company_url": "https://simplify.jobs/c/Milwaukee-Tool",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Milwaukee Tool",
-        "id": "07a6e5bf-4067-4b93-9eee-c3bb3e2a262d",
-        "title": "Repair Technician 1",
-        "active": false,
-        "date_updated": 1771458594,
-        "date_posted": 1771458594,
-        "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Greenwood-MS/Repair-Tech-1_R70039",
-        "locations": [
-            "Greenwood, MS"
-        ],
-        "company_url": "https://simplify.jobs/c/Milwaukee-Tool",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "xAI",
-        "id": "df3f15fa-87ea-4bc4-bbf0-2a426132f10e",
-        "title": "Member of Technical Staff",
-        "active": false,
-        "date_updated": 1771458202,
-        "date_posted": 1771458202,
-        "url": "https://job-boards.greenhouse.io/xai/jobs/5052356007",
-        "locations": [
-            "Washington, DC",
-            "Palo Alto, CA",
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/XAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Microchip Technology",
-        "id": "a7a62d0f-dc03-498a-9bb1-8d889285a801",
-        "title": "Engineer 1 - Software AI/ML",
-        "active": false,
-        "date_updated": 1771458182,
-        "date_posted": 1771458182,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--Software-AI-ML_R617-26",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "LexisNexis Risk Solutions",
-        "id": "827d7298-7e57-4555-9612-c2bab4dd61ea",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1771458296,
-        "date_posted": 1771458296,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Software-Engineer-I_R104483",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mass General Brigham",
-        "id": "4946613c-d0c2-405f-b06a-9ffdb4c04dbc",
-        "title": "Applications Analyst 1",
-        "active": false,
-        "date_updated": 1771458120,
-        "date_posted": 1771458120,
-        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Applications-Analyst-I_RQ4052696",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "20f041be-06de-45ed-bf5e-91910bbfb765",
-        "title": "Engineer 1 - Design",
-        "active": false,
-        "date_updated": 1771458176,
-        "date_posted": 1771458176,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I---Design_R663-26",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "STR",
-        "id": "688d94bf-54eb-463a-9466-6bca1b5e2ad6",
-        "title": "Associate Algorithm and Signal Processing Researcher",
-        "active": false,
-        "date_updated": 1771457617,
-        "date_posted": 1771457617,
-        "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4655605006",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/STR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "506b179d-1bbb-4be7-8261-9cd47d7fe76c",
-        "title": "Embedded Software Engineer 1",
-        "active": false,
-        "date_updated": 1771457716,
-        "date_posted": 1771457716,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Fulltime-Raytheon-Embedded-Software-Engineer-I-Onsite-_01825236",
-        "locations": [
-            "Marlborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "28d55b7f-8c18-4251-ae2e-f7722064eeab",
-        "title": "System Integration Software Engineer 1",
-        "active": false,
-        "date_updated": 1771457729,
-        "date_posted": 1771457729,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/System-Integration-Software-Engineer-I--Onsite-_01822583",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Rolls-Royce",
-        "id": "23453980-0972-4b26-badf-949a62a33588",
-        "title": "Test and Measurement Software Engineer",
-        "active": false,
-        "date_updated": 1771457751,
-        "date_posted": 1771457751,
-        "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Test-and-Measurement-Software-Engineer_JR6150780",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Rolls-Royce",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Aerospace Corporation",
-        "id": "235cc7b5-8105-48ab-8838-4af6d569784b",
-        "title": "OPIR/Sensing Algorithm Analyst",
-        "active": false,
-        "date_updated": 1771457566,
-        "date_posted": 1771457566,
-        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-OPIR-Remote-Sensing-Algorithm-Analyst_R014576-1",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "GAP",
         "id": "3608ddfb-15c8-4e20-ba59-6663959e1dbe",
@@ -944,26 +514,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Axon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Boeing Company",
-        "id": "b5509517-9392-44f1-b9c5-a76c66ed7e67",
-        "title": "Product Data Management Engineer \u2013 Associate or Mid-Level - Config & Data Mgmt/Tech Integ",
-        "active": false,
-        "date_updated": 1771499761,
-        "date_posted": 1771459017,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Renton-WA/Product-Data-Management-Engineer---Config---Data-Mgmt-Tech-Integ--Associate-or-Mid-Level-_JR2026491114-1",
-        "locations": [
-            "Tukwila, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -3651,26 +3201,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "777ba8e7-2854-478a-be99-fe3b2a7836e0",
-        "title": "Fulltime-Systems Engineer 2",
-        "active": false,
-        "date_updated": 1771590318,
-        "date_posted": 1771457716,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026--Fulltime--Electronic-Systems-Engineer-II-Onsite_01825193",
-        "locations": [
-            "Fort Wayne, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
         ]
     },
     {
@@ -339456,27 +338986,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "AppLovin",
-        "id": "a93b5d0b-3988-4995-9ba0-da6e6621b640",
-        "title": "ML Infrastructure Engineer",
-        "active": true,
-        "date_updated": 1788506642,
-        "date_posted": 1771457985,
-        "url": "https://boards.greenhouse.io/applovin/jobs/4655740006",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AppLovin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "1279feae-7d14-4f6b-88d8-b80509080cd2",
         "title": "Research Scientist - Multiple Teams",
@@ -392957,6 +392466,26 @@
             "Cincinnati, OH"
         ],
         "company_url": "https://simplify.jobs/c/Total-Quality-Logistics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "a4aad8c4-9986-41fb-a34f-cc96716c834f",
+        "title": "Martech Product Manager - Associate",
+        "active": true,
+        "date_updated": 1788457523,
+        "date_posted": 1778249100,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210713064",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
