@@ -273454,7 +273454,7 @@
         "company_name": "Flexcompute",
         "id": "78eb2dca-9b33-4b7e-a27e-6ac21fe1b6ff",
         "title": "Software Engineer - Infrastructure",
-        "active": false,
+        "active": true,
         "date_updated": 1786151881,
         "date_posted": 1786151872,
         "url": "https://apply.workable.com/flexcompute/j/143ECD1848/apply",
@@ -355472,7 +355472,7 @@
         "company_name": "Stafford Gray",
         "id": "3e987eca-2504-4d6a-9d3c-ad762da4a132",
         "title": "Full Stack .NET Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1789684563,
         "date_posted": 1789683591,
         "url": "https://apply.workable.com/staffordgray/j/13A72A78A0/apply",
@@ -386045,7 +386045,7 @@
         "company_name": "Siemens",
         "id": "67257e1c-0c0e-4806-be26-e049ce9d65d1",
         "title": "Digital Degree Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1791930169,
         "date_posted": 1791929813,
         "url": "https://siemens.avature.net/en_US/externaljobs/JobDetail/518834",
@@ -391712,6 +391712,84 @@
             "Hutto, TX"
         ],
         "company_url": "https://simplify.jobs/c/CloudFactory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keycafe",
+        "id": "475be3c4-1e19-4293-882c-3195a5abb14e",
+        "title": "Hardware Development Associate",
+        "active": true,
+        "date_updated": 1792225981,
+        "date_posted": 1788906910,
+        "url": "https://apply.workable.com/keycafe/j/4708F2848E/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Keycafe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Avalore",
+        "id": "7ca735aa-9419-4bb3-aee2-59ff92b695e6",
+        "title": "Innovation Engineer",
+        "active": true,
+        "date_updated": 1792227061,
+        "date_posted": 1788218944,
+        "url": "https://apply.workable.com/avalore/j/EF492F2BE9/apply",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Avalore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVector",
+        "id": "5e801b15-781c-4f79-8630-11096eed5278",
+        "title": "Full Stack Software Engineer 1 or 2",
+        "active": true,
+        "date_updated": 1792226381,
+        "date_posted": 1786411959,
+        "url": "https://apply.workable.com/cvector/j/0D0DE27033/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CVector",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DataVisor",
+        "id": "3ff58ee3-57ee-4c32-bd77-33c440963c04",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1792225801,
+        "date_posted": 1785277003,
+        "url": "https://apply.workable.com/datavisor-jobs/j/95134ABE3C/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DataVisor",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
