@@ -2,63 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Jabil",
-        "id": "0cc1e3ca-acbe-4b04-ba63-9809c3067fe4",
-        "title": "Diagnostic Technician 1",
-        "active": false,
-        "date_updated": 1771515840,
-        "date_posted": 1771515840,
-        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I---401_J2440263",
-        "locations": [
-            "Florence, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "StubHub",
-        "id": "059c42ec-56f4-4e9c-8446-f499ae7e157f",
-        "title": "Associate Product Manager - Marketing Operations",
-        "active": false,
-        "date_updated": 1771515447,
-        "date_posted": 1771515447,
-        "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4784900101",
-        "locations": [
-            "NYC",
-            "Culver City, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/StubHub",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "a954b525-39ed-411b-990b-860654bcb406",
-        "title": "Graduate Product Manager-Consumer Print",
-        "active": false,
-        "date_updated": 1771516629,
-        "date_posted": 1771516629,
-        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Reading-Berkshire-United-Kingdom/Category-Sales-Rep-Grad_3158428",
-        "locations": [
-            "Reading, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "NVIDIA",
         "id": "c1a5203d-78f0-412d-9ae6-4c21f149b5a8",
         "title": "CPU Verification Engineer",
