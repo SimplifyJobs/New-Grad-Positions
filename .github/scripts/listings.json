@@ -3207,26 +3207,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "8b67f1b8-3ca5-4b37-b38c-b0a972832ca3",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1771467935,
-        "date_posted": 1771467935,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7630603",
-        "locations": [
-            "Newark, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Fora",
         "id": "6aa1d6a7-e8f7-498a-b465-07ae95d5d0fa",
@@ -4158,26 +4138,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "b72b7d26-b0b8-45a4-92b8-0026293f2ecb",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1771467935,
-        "date_posted": 1771467935,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7630584",
-        "locations": [
-            "Gainesville, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
