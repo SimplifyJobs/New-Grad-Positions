@@ -211150,7 +211150,7 @@
         "company_name": "The Allen Institute for AI",
         "id": "0a82dc54-725b-4222-9f22-2a0b904f79f8",
         "title": "Predoctoral Young Investigator - Open Ecosystem",
-        "active": false,
+        "active": true,
         "date_updated": 1783722242,
         "date_posted": 1783721535,
         "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/8054878",
@@ -271087,7 +271087,7 @@
         "company_name": "InterImage",
         "id": "0483a44f-f140-427e-a301-9d87c2344515",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786083481,
         "date_posted": 1786083399,
         "url": "https://apply.workable.com/interimage/j/50AEE969C4/apply",
@@ -271286,7 +271286,7 @@
         "company_name": "CloudFactory",
         "id": "3b770c4c-dd8c-43b4-9025-9b6df53c193c",
         "title": "Data Capture Technician - Construction",
-        "active": true,
+        "active": false,
         "date_updated": 1786084314,
         "date_posted": 1786083746,
         "url": "https://apply.workable.com/cloudfactory/j/25D2609FDB/apply",
@@ -273126,7 +273126,7 @@
         "company_name": "Montreal Institute for Learning Algorithms",
         "id": "3306d8fb-6c29-4d88-94cb-972dc1945579",
         "title": "AI Applications Developer Junior - AI Applications Development",
-        "active": true,
+        "active": false,
         "date_updated": 1786152533,
         "date_posted": 1786151995,
         "url": "https://apply.workable.com/mila-2/j/F73F31C5FD/apply",
@@ -276595,7 +276595,7 @@
         "company_name": "Eagle Seven",
         "id": "33a16e34-5d7a-424b-92c0-004469c7970a",
         "title": "Junior Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1786411981,
         "date_posted": 1786411959,
         "url": "https://apply.workable.com/eagle-seven/j/787BE44E7A/apply",
@@ -335749,7 +335749,7 @@
         "company_name": "CloudFactory",
         "id": "25a32dd8-22bd-4f7d-be0d-b34c848ce2d1",
         "title": "Video Data Capture Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1788483081,
         "date_posted": 1786083746,
         "url": "https://apply.workable.com/cloudfactory/j/B252F1932E/apply",
@@ -391652,5 +391652,68 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "G-20 Group",
+        "id": "059d01a4-e62e-4abd-8ea7-e58f0bc27e98",
+        "title": "Low Latency Market Making Engineer",
+        "active": true,
+        "date_updated": 1792224633,
+        "date_posted": 1786686802,
+        "url": "https://apply.workable.com/g-20-advisors-ag/j/0ECB7CAFDA/apply",
+        "locations": [
+            "London, UK",
+            "NYC",
+            "Hong Kong",
+            "Z\u00fcrich, Switzerland"
+        ],
+        "company_url": "https://simplify.jobs/c/G-20-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Scientific Systems",
+        "id": "1e71a3ad-b0cf-4e53-a601-f6e1b737e2a6",
+        "title": "Autonomy Software Engineer 1",
+        "active": true,
+        "date_updated": 1792225143,
+        "date_posted": 1789597415,
+        "url": "https://apply.workable.com/ssci/j/B3FED12AAD/apply",
+        "locations": [
+            "Burlington, VT"
+        ],
+        "company_url": "https://simplify.jobs/c/Scientific-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CloudFactory",
+        "id": "1f95d992-0d39-478e-ad42-348e38ab6484",
+        "title": "Video Data Capture for AI in Construction",
+        "active": true,
+        "date_updated": 1792225081,
+        "date_posted": 1786083753,
+        "url": "https://apply.workable.com/cloudfactory/j/29588ED9A0/apply",
+        "locations": [
+            "Hutto, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CloudFactory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
