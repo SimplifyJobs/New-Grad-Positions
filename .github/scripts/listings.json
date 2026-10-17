@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1771505037,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/batoncorporation/bb3ab630-5e59-48b5-9794-00a225879a66",
-        "company_name": "Baton Corporation",
-        "title": "Junior Full Stack Engineer",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "SuhaanCoding",
-        "id": "b3298ec2-a195-4322-b6bc-40539c93421f",
-        "date_posted": 1771505037,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Northrop Grumman",
@@ -382651,7 +382633,7 @@
         "company_name": "RTX",
         "id": "4bcb1987-5e3a-4180-a0c2-7a9a7bf3ad04",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791560440,
         "date_posted": 1791504000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01875410",
