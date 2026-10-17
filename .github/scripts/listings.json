@@ -1,53 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Uline",
-        "id": "ed69d4ae-c262-4c29-a8d3-5e3a988b5aab",
-        "title": "Corporate Analyst Rotational Program",
-        "active": false,
-        "date_updated": 1771503550,
-        "date_posted": 1771503550,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Corporate-Analyst-Rotational-Program_R261548",
-        "locations": [
-            "Kenosha, WI",
-            "Waukegan, IL",
-            "Morton Grove, IL",
-            "Pleasant Prairie, WI",
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Uline",
-        "id": "9778d507-4a7e-4e71-9cbb-06e2f901ed13",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1771503550,
-        "date_posted": 1771503550,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-Product-Manager_R261550-2",
-        "locations": [
-            "Kenosha, WI",
-            "Waukegan, IL",
-            "Morton Grove, IL",
-            "Pleasant Prairie, WI",
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1771505037,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -383949,7 +383901,7 @@
         "company_name": "Xcel Energy",
         "id": "b80904c4-3f7d-4e91-b636-fd2b0c6ac3ff",
         "title": "Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1791584462,
         "date_posted": 1791504000,
         "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Associate-Data-Scientist_JR116914-2",
