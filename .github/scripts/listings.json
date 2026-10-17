@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "GAP",
-        "id": "3608ddfb-15c8-4e20-ba59-6663959e1dbe",
-        "title": "Assistant Merchandiser - Women's",
-        "active": false,
-        "date_updated": 1771459479,
-        "date_posted": 1771459479,
-        "url": "https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Assistant-Merchandiser--Women-s_R206789",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/GAP",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Atria Group",
         "id": "8c724b23-b84c-4c2a-899a-7d67be816fb9",
@@ -355458,7 +355440,7 @@
         "company_name": "ALTEN Mexico",
         "id": "2af896c9-51fc-4c26-a5f9-cb9fbf030bae",
         "title": "HIL Testing Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789636129,
         "date_posted": 1789635881,
         "url": "https://jobs.smartrecruiters.com/ALTEN/744000150043430",
@@ -387765,7 +387747,7 @@
         "company_name": "AVEVA",
         "id": "2500e2f7-e88f-499d-aa0c-99fcc6697cb0",
         "title": "Cloud Operations & Infrastructure Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1791929172,
         "date_posted": 1791849600,
         "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Cloud-Operations---Infrastructure-Graduate---USA_R014948-2",
