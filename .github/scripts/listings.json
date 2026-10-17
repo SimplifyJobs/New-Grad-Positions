@@ -386148,7 +386148,7 @@
         "company_name": "Boeing",
         "id": "a5785364-41bc-49ce-9e8f-78f6b1bcae79",
         "title": "Entry Level ASIC/FPGA Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791929717,
         "date_posted": 1791849600,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-Level-ASIC-FPGA-Design-Verification-Engineer_JR2026524660-1",
@@ -387274,7 +387274,7 @@
         "company_name": "Northrop Grumman",
         "id": "ecd7a692-695c-44a9-924e-e9eb773917b8",
         "title": "Associate Software Embedded Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791959630,
         "date_posted": 1791936000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Associate-S-W-Embedded-Engineer---Annapolis-MD_R10254909",
@@ -391144,7 +391144,7 @@
         "company_name": "Northrop Grumman",
         "id": "b5a395ae-42f1-46ba-a288-7d34298231bc",
         "title": "Associate Software Engineer - Pathways",
-        "active": true,
+        "active": false,
         "date_updated": 1792190280,
         "date_posted": 1792108800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
@@ -391846,5 +391846,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Accuray",
+        "id": "cae61d2f-04b5-43ee-a03b-5b8b983c1b88",
+        "title": "Motion Controls & Robotics Software Engineer",
+        "active": true,
+        "date_updated": 1792238231,
+        "date_posted": 1790899200,
+        "url": "https://accuray.wd5.myworkdayjobs.com/external/job/Madison-WI/Motion-Controls---Robotics-Software-Engineer_3259-1",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Accuray",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
