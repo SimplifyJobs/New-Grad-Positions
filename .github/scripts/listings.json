@@ -330729,7 +330729,7 @@
         "company_name": "Cisco",
         "id": "9a88516a-75d8-4bc7-92fe-82826eff3fab",
         "title": "Electrical Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1788436204,
         "date_posted": 1786602573,
         "url": "https://careers.cisco.com/global/en/job/2020283",
@@ -392468,6 +392468,46 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "e6dd9201-55c5-46cf-a0bc-b9d1b81d9359",
+        "title": "Systems Development Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1792200421,
+        "date_posted": 1792200310,
+        "url": "https://amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Faraday Future",
+        "id": "4b7d9212-ac43-4c9a-8377-465403c23615",
+        "title": "SDK Platform Engineer",
+        "active": true,
+        "date_updated": 1792199374,
+        "date_posted": 1792199187,
+        "url": "https://job-boards.greenhouse.io/faradayfuture/jobs/8036218003",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Faraday-Future",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
