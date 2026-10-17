@@ -1,47 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amentum",
-        "id": "d55d6241-35aa-4a28-982a-ac3a6e48fa27",
-        "title": "Electro/Mech Technician 1",
-        "active": false,
-        "date_updated": 1771497674,
-        "date_posted": 1771497674,
-        "url": "https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000CKH",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "WTW",
-        "id": "0fe64760-3e3f-4b6f-a607-94458b47a7d5",
-        "title": "Investment Analyst - Wealth Management",
-        "active": false,
-        "date_updated": 1771497442,
-        "date_posted": 1771497442,
-        "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202601176",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/WTW",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Axon",
         "id": "5e01b73c-fb23-4866-a4da-8999702383fb",
