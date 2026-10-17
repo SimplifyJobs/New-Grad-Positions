@@ -42,24 +42,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "7d570136-3dec-407f-913d-e912cbaabee1",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1771497079,
-        "date_posted": 1771497079,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050142",
-        "locations": [
-            "Chesterfield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Axon",
         "id": "5e01b73c-fb23-4866-a4da-8999702383fb",
@@ -365454,7 +365436,7 @@
         "company_name": "RTX",
         "id": "ccabd2dc-da52-47d9-b9e4-1c5478b1406f",
         "title": "FPGA/ASIC Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790721416,
         "date_posted": 1790640000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/FPGA-ASIC-Engineer-I_01876996",
@@ -384708,7 +384690,7 @@
         "company_name": "Dexcom",
         "id": "c5f0ccae-5750-4c3e-9954-d45d8150a0a2",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791843239,
         "date_posted": 1791763200,
         "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote-California/SW-Development-Engineer-1_JR121427",
