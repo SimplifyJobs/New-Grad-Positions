@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Axon",
-        "id": "5e01b73c-fb23-4866-a4da-8999702383fb",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1772431282,
-        "date_posted": 1771498962,
-        "url": "https://job-boards.greenhouse.io/axon/jobs/7620148003",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Axon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Uline",
         "id": "ed69d4ae-c262-4c29-a8d3-5e3a988b5aab",
