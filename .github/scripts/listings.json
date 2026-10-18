@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Philips",
-        "id": "e5cdb51d-0a0f-47cb-8433-c8f69e908c03",
-        "title": "Usability & Human Factors Engineer",
-        "active": false,
-        "date_updated": 1771545836,
-        "date_posted": 1771545836,
-        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Engineer--Usability---Human-Factors_576317-1",
-        "locations": [
-            "Tarentum, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Equip Health",
         "id": "e517a70f-d995-4b36-8f7d-dc3e710fd608",
         "title": "Product Support Associate",
@@ -769,49 +749,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Walmart",
-        "id": "f8040dc6-a47d-4099-9943-632c3a0165de",
-        "title": "Staff Data Scientist",
-        "active": false,
-        "date_updated": 1771546084,
-        "date_posted": 1771546084,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Staff--Data-Scientist_R-2416855",
-        "locations": [
-            "Bentonville, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CVS Health",
-        "id": "ba929db8-dd9c-41f9-bf75-c1a7b28b5156",
-        "title": "Data Scientist",
-        "active": false,
-        "date_updated": 1771546212,
-        "date_posted": 1771546212,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Scientist_R0837452",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
             "Master's"
         ]
     },
