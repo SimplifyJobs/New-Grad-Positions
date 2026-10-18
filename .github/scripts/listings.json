@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0d7d44a4-4853-412f-86c5-3ba2f7327715",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1771583249,
-        "date_posted": 1771583249,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049768",
-        "locations": [
-            "Essex, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
         "company_name": "Maven Securities",
         "id": "323ae085-bca0-41b4-aaf5-12697ce1a76a",
         "title": "Trading Analyst",
