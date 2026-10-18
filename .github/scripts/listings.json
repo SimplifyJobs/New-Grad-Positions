@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Maven Securities",
-        "id": "323ae085-bca0-41b4-aaf5-12697ce1a76a",
-        "title": "Trading Analyst",
-        "active": false,
-        "date_updated": 1771584657,
-        "date_posted": 1771584657,
-        "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7633996",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Maven-Securities",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Aptiv",
         "id": "6b7370a3-0424-4079-b851-38fe61391ae4",
