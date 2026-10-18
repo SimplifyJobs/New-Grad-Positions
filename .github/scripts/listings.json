@@ -286672,7 +286672,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -387912,7 +387912,7 @@
         "company_name": "Dexcom",
         "id": "7b2a26dd-7916-4ee7-ba75-e35c445c25b0",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792190772,
         "date_posted": 1792108800,
         "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote-California/SW-Development-Engineer-1_JR121398",
@@ -387953,7 +387953,7 @@
         "company_name": "Dexcom",
         "id": "1bc634d6-9cdf-426b-bcd4-73ff0d7389a7",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792190622,
         "date_posted": 1792108800,
         "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote-Oregon/SW-Development-Engineer-1_JR121399",
@@ -389259,6 +389259,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leonardo",
+        "id": "72942882-0bfb-48a4-a88a-5cbf7e511932",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1792317426,
+        "date_posted": 1792281600,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Graduate-Software-Engineer_R0033863",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
