@@ -1,45 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Equip Health",
-        "id": "e517a70f-d995-4b36-8f7d-dc3e710fd608",
-        "title": "Product Support Associate",
-        "active": false,
-        "date_updated": 1771553650,
-        "date_posted": 1771553650,
-        "url": "https://jobs.ashbyhq.com/equip/56316fdb-35e1-4fa2-a23b-d512fda9388a/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Equip-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "4833c303-bbd4-455b-9390-6d18c567f60c",
-        "title": "Lead Scripter",
-        "active": false,
-        "date_updated": 1771553652,
-        "date_posted": 1771553652,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Lead-Scripter/212835",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Applied Materials",
         "id": "8016ba22-80d3-4fbe-86e5-b593c075bd70",
@@ -116,46 +77,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "d71e76af-5fa6-469f-b9a5-992df66e6b01",
-        "title": "Software Development Engineer 1",
-        "active": false,
-        "date_updated": 1771554674,
-        "date_posted": 1771554674,
-        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-102463-2",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "9d0be779-7d1d-42b9-b26a-e895e46f136e",
-        "title": "Software Development Engineer 1",
-        "active": false,
-        "date_updated": 1771554676,
-        "date_posted": 1771554676,
-        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-102463",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
