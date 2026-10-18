@@ -348221,7 +348221,7 @@
         "company_name": "The Walt Disney Company",
         "id": "1bf4253a-4ba5-4a65-8728-b70e5acdeb6a",
         "title": "Associate Product Manager - Program",
-        "active": true,
+        "active": false,
         "date_updated": 1789467657,
         "date_posted": 1789430400,
         "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Associate-Product-Manager-Program_10160554",
@@ -389219,6 +389219,46 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TJX",
+        "id": "a2948d5d-0733-4548-8351-e4a5d082b4dd",
+        "title": "IT Engineer Graduate",
+        "active": true,
+        "date_updated": 1791844662,
+        "date_posted": 1791763200,
+        "url": "https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Watford-HER-WD17-1TX/IT-Engineer-Graduate_REQ156568-1",
+        "locations": [
+            "Watford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TJX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Hut Group",
+        "id": "a10af0a6-a819-4543-af5b-03a215f28763",
+        "title": "Graduate Data & Insight Analyst",
+        "active": true,
+        "date_updated": 1791842948,
+        "date_posted": 1791842826,
+        "url": "https://www.thg.com/talent/job-search?gh_jid=5003320101",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Hut-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
