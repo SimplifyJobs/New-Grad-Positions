@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "O'Reilly Auto Parts",
-        "id": "c4e7c571-c61d-4a8a-a6ab-6415de632355",
-        "title": "Electronic Catalog Technician",
-        "active": false,
-        "date_updated": 1771632705,
-        "date_posted": 1771632705,
-        "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Store-03149-Phoenix-AZ/Electronic-Catalog-Technician-1_R165324",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/OReilly-Auto-Parts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "NVIDIA",
         "id": "55dd328c-ae78-4740-870d-9f942c28651f",
