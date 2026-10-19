@@ -386806,5 +386806,46 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Conviva",
+        "id": "6bd34346-4e1e-4d5b-8ba1-9f643f4e6571",
+        "title": "AI/ML Engineer",
+        "active": true,
+        "date_updated": 1792392121,
+        "date_posted": 1792392013,
+        "url": "https://www.conviva.ai/careers/job/8036615003?gh_jid=8036615003",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Conviva",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "ebc9825c-1eff-4957-846a-a6c77915283b",
+        "title": "VLSI Engineer 1",
+        "active": true,
+        "date_updated": 1792391808,
+        "date_posted": 1792281600,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/VLSI-Engineer-I--_1214985-1",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
