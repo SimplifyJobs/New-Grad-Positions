@@ -1,78 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "6cb14239-3a9d-495c-b4ab-0673e21563fa",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1771686969,
-        "date_posted": 1771686969,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050534",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "eca0ab99-e73d-4188-84fc-df92660e41c4",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1771686617,
-        "date_posted": 1771686617,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050517",
-        "locations": [
-            "Yeovil, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8c75a18c-6ed2-44fb-8a11-fa1341f666f6",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1771686607,
-        "date_posted": 1771686607,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050529",
-        "locations": [
-            "Canterbury, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9755b20d-25e7-4a08-b48e-7daf23d699dd",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1771686602,
-        "date_posted": 1771686602,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050536",
-        "locations": [
-            "Guildford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "HNTB",
         "id": "50d35fe3-44df-402f-991f-ed8bc4693dd1",
@@ -34637,26 +34565,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Plexus",
-        "id": "b28ab799-b6e2-4b9b-b161-f8f9095da54f",
-        "title": "Product Engineer",
-        "active": false,
-        "date_updated": 1773391904,
-        "date_posted": 1771687155,
-        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Nampa-ID/Product-Engineer-II_R034605-2",
-        "locations": [
-            "Nampa, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Plexus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "e920c61c-4e36-466e-91fb-f7e56b5192c2",
@@ -68606,24 +68514,6 @@
             "Aberdeen, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Texas at Austin",
-        "id": "171c690b-9929-4ef0-8c2d-9ccb8bff82c7",
-        "title": "Postdoctoral Fellow in Water Systems - Ml",
-        "active": false,
-        "date_updated": 1771686678,
-        "date_posted": 1771686678,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow-in-Water-Systems--ml-_R_00041178-1",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
