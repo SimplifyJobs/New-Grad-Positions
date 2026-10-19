@@ -349518,7 +349518,7 @@
         "company_name": "Northrop Grumman",
         "id": "a30b6cf3-5eb4-475b-984a-9aa30e8c34be",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789655221,
         "date_posted": 1789603200,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-New-Malden/Graduate-Software-Engineer_R10251080",
@@ -385082,7 +385082,7 @@
         "company_name": "Avis Budget Group",
         "id": "d2fa06cd-8550-41f8-98c1-1ced0147ea65",
         "title": "Graduate HR Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1792161043,
         "date_posted": 1792108800,
         "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Avis-Budget-House-HQ/Graduate-HR-Analyst_R0191440",
@@ -386846,6 +386846,27 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Wise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Expedia Group",
+        "id": "22d264c1-a7cc-4340-a28d-c5cdad8ca6bd",
+        "title": "Data Scientist 1 - Competitive Intelligence",
+        "active": true,
+        "date_updated": 1792405143,
+        "date_posted": 1792368000,
+        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Data-Scientist-I--Competitive-Intelligence_R-110175-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
