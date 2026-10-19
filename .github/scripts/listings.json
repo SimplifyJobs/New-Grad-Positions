@@ -386911,5 +386911,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "6b020294-dd07-4368-8e44-a6ec90bcb635",
+        "title": "VLSI Engineer 1",
+        "active": true,
+        "date_updated": 1792374360,
+        "date_posted": 1792281600,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/VLSI-Engineer-I--_1214985",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
