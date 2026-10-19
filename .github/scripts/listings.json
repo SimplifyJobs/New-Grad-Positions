@@ -25,44 +25,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "512d506b-d983-49e1-b8c3-c4247f81a28b",
-        "title": "Electrical Network and Digital Connectivity System Design Engineer",
-        "active": false,
-        "date_updated": 1771693723,
-        "date_posted": 1771693723,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Electrical-Network-and-Digital-Connectivity-System-Design-Engineer--Entry-Level-or-Associate-_JR2026497450-2",
-        "locations": [
-            "Everett, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "DraftKings",
-        "id": "e90a4d3f-aa0b-4bb3-abde-36ddd70985f6",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1771693767,
-        "date_posted": 1771693767,
-        "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Remote---US/Associate-Product-Manager_JR13455",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/DraftKings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "3c074da3-8c51-4bc2-8cdd-4daff0f6bdb0",
@@ -225,29 +187,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "95c35385-60e2-4721-a95f-b0c532fb7bb9",
-        "title": "Principal Engineer Software - Embedded and Real Time - Florida & Oklahoma",
-        "active": false,
-        "date_updated": 1771693998,
-        "date_posted": 1771693998,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Engineer-Software---Embedded-and-Real-Time--Florida---Oklahoma-_R10222588",
-        "locations": [
-            "Melbourne, FL",
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -16669,26 +16608,6 @@
             "Oxford, UK"
         ],
         "company_url": "https://simplify.jobs/c/Agilent-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sonos",
-        "id": "95d55ccf-ffcc-469f-b37c-d62194806765",
-        "title": "Software Development Engineer 1 - Embedded Quality",
-        "active": false,
-        "date_updated": 1772538415,
-        "date_posted": 1771694989,
-        "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Development-Engineer---Embedded-Quality_R2641",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sonos",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -84682,26 +84601,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bird Construction",
-        "id": "8c48c632-ed07-4a64-845c-d545ba53ea81",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1776242712,
-        "date_posted": 1771694983,
-        "url": "https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Data-Analyst_JR-8311",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Bird-Construction",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -251654,7 +251553,7 @@
         "company_name": "Bowman Consulting Group",
         "id": "543a202a-fc96-4ffa-9ea6-6d489f78c581",
         "title": "LiDAR Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785623887,
         "date_posted": 1785575481,
         "url": "https://careers.bowman.com/jobs/11556?icims=1",
@@ -304487,7 +304386,7 @@
         "company_name": "Ciena",
         "id": "67918f68-ac64-470f-a00b-81c89c23d4d3",
         "title": "ASIC Synthesis and STA Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1787840955,
         "date_posted": 1787788800,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Synthesis-and-STA-Engineer---New-Grad_R030893",
@@ -383593,7 +383492,7 @@
         "company_name": "1Password",
         "id": "5a0765ab-4584-4368-a6b7-5253647fb5f1",
         "title": "Junior Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1792102861,
         "date_posted": 1792102700,
         "url": "https://jobs.ashbyhq.com/1password/a492badd-a02f-4360-aa15-7ea8c6e2c85e/application?embed=true",
@@ -386390,7 +386289,7 @@
         "company_name": "Conviva",
         "id": "6bd34346-4e1e-4d5b-8ba1-9f643f4e6571",
         "title": "AI/ML Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792392121,
         "date_posted": 1792392013,
         "url": "https://www.conviva.ai/careers/job/8036615003?gh_jid=8036615003",
