@@ -25,26 +25,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Comcast",
-        "id": "a37a4d19-15ce-488c-ab81-b718ae9ced8c",
-        "title": "Telemetry Application Developer - Golang/Python",
-        "active": false,
-        "date_updated": 1771692880,
-        "date_posted": 1771692880,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Cloud-Telemetry-Development-Engineer_R429398",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "The Boeing Company",
         "id": "512d506b-d983-49e1-b8c3-c4247f81a28b",
@@ -18840,26 +18820,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "FactSet",
-        "id": "b49efe67-b00c-40df-a03a-3565f7288687",
-        "title": "Junior Machine Learning Engineer - Multiple Teams",
-        "active": false,
-        "date_updated": 1771692223,
-        "date_posted": 1771692223,
-        "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/London-GBR/Junior-Machine-Learning-Engineer--Python--Docker--and-API-development--Cloud-Architecture--AWS---AI-ML----Hybrid_R31340",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/FactSet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -207855,7 +207815,7 @@
         "company_name": "Old Mission",
         "id": "41d187c2-7c7d-4c78-bfeb-532bbe7ca543",
         "title": "Quantitative Trader \u2013 Graduate Program - August Start",
-        "active": true,
+        "active": false,
         "date_updated": 1783983290,
         "date_posted": 1783981823,
         "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796058003",
@@ -208323,7 +208283,7 @@
         "company_name": "Old Mission",
         "id": "460b6640-45d1-4a42-94ac-6d460f1287b6",
         "title": "Quantitative Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1783982588,
         "date_posted": 1783981823,
         "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796031003",
@@ -294827,7 +294787,7 @@
         "company_name": "Old Mission",
         "id": "2ca0d217-e975-4083-899f-44860ed7f19a",
         "title": "Quantitative Researcher - Ph.D",
-        "active": true,
+        "active": false,
         "date_updated": 1787303010,
         "date_posted": 1785449007,
         "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7814534003",
@@ -379899,7 +379859,7 @@
         "company_name": "Liberty Mutual Canada",
         "id": "442f74df-bb53-4a98-b1d0-2513a5e31985",
         "title": "Associate Software Developer - Node.js & Python",
-        "active": true,
+        "active": false,
         "date_updated": 1791901081,
         "date_posted": 1791900987,
         "url": "https://apply.workable.com/liberty-mutual-canada/j/A60F74CB9D/apply",
@@ -386677,7 +386637,7 @@
         "company_name": "OU Health",
         "id": "1fe3e540-8e80-409c-b103-5cac44e6b76f",
         "title": "Business Intelligence Developer 1-3",
-        "active": true,
+        "active": false,
         "date_updated": 1792419018,
         "date_posted": 1792368000,
         "url": "https://oumedicine.wd5.myworkdayjobs.com/OUHealthCareers/job/Oklahoma-City/Business-Intelligence-Developer_R0069420",
