@@ -385688,7 +385688,7 @@
         "company_name": "Northrop Grumman",
         "id": "b5a395ae-42f1-46ba-a288-7d34298231bc",
         "title": "Associate Software Engineer - Pathways",
-        "active": false,
+        "active": true,
         "date_updated": 1792190280,
         "date_posted": 1792108800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
@@ -387016,6 +387016,128 @@
             "Manchester, UK"
         ],
         "company_url": "https://simplify.jobs/c/PA-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "945d226f-b0df-4b79-adae-78707211dc8e",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1792421101,
+        "date_posted": 1792368000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-Cheltenham/Software-Engineer_R10256025",
+        "locations": [
+            "Cheltenham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leonardo",
+        "id": "862fbdb7-6487-4764-90d9-007607410271",
+        "title": "Digital and Data Graduate",
+        "active": true,
+        "date_updated": 1792420921,
+        "date_posted": 1792368000,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Yeovil---Lysander-Rd/Digital-and-Data-Graduate_R0034160",
+        "locations": [
+            "Yeovil, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leonardo",
+        "id": "6396db23-aa49-4c70-b941-411baa6626f6",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1792420921,
+        "date_posted": 1792368000,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Graduate-Software-Engineer_R0032976",
+        "locations": [
+            "Luton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mariana Minerals",
+        "id": "7da86929-8396-4214-8250-79bcaeaa609d",
+        "title": "Analytical Lab Chemist",
+        "active": true,
+        "date_updated": 1792420742,
+        "date_posted": 1790903840,
+        "url": "https://jobs.ashbyhq.com/marianaminerals/71a58eed-e2d5-41b7-bb3d-8f6d0cdb8a89/application?embed=true",
+        "locations": [
+            "Moab, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Mariana-Minerals",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Porsche",
+        "id": "fb375314-d4b3-4782-ae9a-bfb535164144",
+        "title": "Advisor \u2013 Business Analyst",
+        "active": true,
+        "date_updated": 1792420381,
+        "date_posted": 1792420240,
+        "url": "https://apply.workable.com/porsche-retail-group/j/554165A1E9/apply",
+        "locations": [
+            "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Porsche",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citizens Financial Group",
+        "id": "0a4cd2e5-65b4-4298-ab71-d0c7705a376c",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1792420307,
+        "date_posted": 1792420174,
+        "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49903",
+        "locations": [
+            "Johnston, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/Citizens-Financial-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
