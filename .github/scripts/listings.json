@@ -360621,7 +360621,7 @@
         "company_name": "Tesla",
         "id": "906688ee-c568-4d28-ba9f-ec7ac7e5772a",
         "title": "Vision Engineering Technician - Energy",
-        "active": true,
+        "active": false,
         "date_updated": 1790762149,
         "date_posted": 1790115452,
         "url": "https://www.tesla.com/careers/search/job/284030",
@@ -362280,7 +362280,7 @@
         "company_name": "Blenheim Chalcot",
         "id": "a34dfa97-4569-4fdb-a61c-25d5561c8ec4",
         "title": "Graduate Marketing Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1790847725,
         "date_posted": 1790847285,
         "url": "https://job-boards.greenhouse.io/blenheimchalcot/jobs/8245355",
@@ -362298,7 +362298,7 @@
         "company_name": "Blenheim Chalcot",
         "id": "d1bc98c1-fc29-4d3f-b90f-cfda4e03a02f",
         "title": "Graduate Marketing Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1790848068,
         "date_posted": 1790847289,
         "url": "https://job-boards.greenhouse.io/blenheimchalcot/jobs/8245354",
@@ -386805,6 +386805,67 @@
             "Roseville, CA"
         ],
         "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PA Consulting",
+        "id": "04f19d9e-583b-4508-8c9a-b60f84d7de84",
+        "title": "Digital Graduate Analyst - Digital & Data",
+        "active": true,
+        "date_updated": 1792401732,
+        "date_posted": 1792401564,
+        "url": "https://jobs.smartrecruiters.com/PAConsulting/744000156256529",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PA-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PA Consulting",
+        "id": "00d9b277-bd9c-4738-a9dd-dc41fb214de6",
+        "title": "Graduate Analyst - Digital - Digital & Data",
+        "active": true,
+        "date_updated": 1792401733,
+        "date_posted": 1792401564,
+        "url": "https://jobs.smartrecruiters.com/PAConsulting/744000156265474",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PA-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wise",
+        "id": "6e69dbab-f1c4-4514-9cef-dcd5e034f435",
+        "title": "Graduate Data Scientist",
+        "active": true,
+        "date_updated": 1792400943,
+        "date_posted": 1792400812,
+        "url": "https://jobs.smartrecruiters.com/Wise/744000156265098",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wise",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
