@@ -1,79 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3c074da3-8c51-4bc2-8cdd-4daff0f6bdb0",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1771715642,
-        "date_posted": 1771715642,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050557",
-        "locations": [
-            "Wellington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b1bb7ad6-94da-4c90-b082-013e371369b8",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1771715383,
-        "date_posted": 1771715383,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050538",
-        "locations": [
-            "Hereford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "306d7684-64ea-47cf-a907-1a1129f17499",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1771715359,
-        "date_posted": 1771715359,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050554",
-        "locations": [
-            "Durham, UK",
-            "Thirsk, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0040c744-6b3b-43c1-8da4-0237ae1a4b1c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1771715345,
-        "date_posted": 1771715345,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050564",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Brown & Brown Insurance",
         "id": "40979dac-fef5-4ab1-bdb5-78bc5e6d87a2",
@@ -109,42 +36,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "be9071b4-4d02-4231-8e65-442a1ffa80a0",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1771715639,
-        "date_posted": 1771715639,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050572",
-        "locations": [
-            "Tunbridge Wells, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "21d57b3e-7b87-4cbe-b904-45bea617fb71",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1771715640,
-        "date_posted": 1771715640,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050559",
-        "locations": [
-            "Wellington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -49176,29 +49067,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Fortive",
-        "id": "aff32944-fe60-4a6f-987c-262b34263b71",
-        "title": "Field Service Engineer",
-        "active": false,
-        "date_updated": 1774084372,
-        "date_posted": 1771715547,
-        "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9021",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fortive",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD",
-            "Associate's"
         ]
     },
     {
