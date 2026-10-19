@@ -244536,7 +244536,7 @@
         "company_name": "Everfox",
         "id": "e477c19e-0543-43fc-af92-9a394bca77e5",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785365182,
         "date_posted": 1785283200,
         "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500749-1",
@@ -284081,7 +284081,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -284462,7 +284462,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -286120,7 +286120,7 @@
         "company_name": "CACI",
         "id": "f51e5542-ea5b-4d42-ad6a-c67d116afbbe",
         "title": "Data Scientist - Science",
-        "active": true,
+        "active": false,
         "date_updated": 1787006701,
         "date_posted": 1786924800,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/Bethesda-MD-US/Data-Scientist_330691",
@@ -361695,7 +361695,7 @@
         "company_name": "RTX",
         "id": "35893c47-402b-4538-9d53-6d41d4ee9a72",
         "title": "Software Engineer/Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1790807750,
         "date_posted": 1790726400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Developer-I---Onsite-_01879022",
@@ -373202,7 +373202,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa71e901-808c-47e5-ab2d-32344fa2c4e7",
         "title": "Engineering Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1791353752,
         "date_posted": 1790201057,
         "url": "https://higher.gs.com/roles/174814?type=students",
@@ -386871,5 +386871,155 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "7bc8eddc-c786-49cc-808a-354ef2f68127",
+        "title": "Software Engineer 1 - Aircraft Interiors",
+        "active": true,
+        "date_updated": 1792420041,
+        "date_posted": 1792419992,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-WINSTON-SALEM-175--175-Oak-Plaza-Blvd--BLDG-175/Software-Engineer-I---Aircraft-Interiors_01867177",
+        "locations": [
+            "Jamestown, ND",
+            "Winston-Salem, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wise",
+        "id": "fa9a97e6-f7c0-4329-9d92-42fc2fd0acc5",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1792419841,
+        "date_posted": 1792419802,
+        "url": "https://jobs.smartrecruiters.com/Wise/744000156312360",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wise",
+        "id": "8982c276-3471-4e45-b3d4-15d35b2c5de3",
+        "title": "Graduate Product Analyst",
+        "active": true,
+        "date_updated": 1792419841,
+        "date_posted": 1792419800,
+        "url": "https://jobs.smartrecruiters.com/Wise/744000156266546",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sallie Mae",
+        "id": "6bd9b720-b688-4436-b0fe-a96710105de2",
+        "title": "Engineer 1",
+        "active": true,
+        "date_updated": 1792419538,
+        "date_posted": 1792368000,
+        "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Engineer-I_R26_000476",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Sallie-Mae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Graviton",
+        "id": "c2c36dd3-83d2-4c9e-90e4-adea9272ec4c",
+        "title": "Quantitative Researcher",
+        "active": true,
+        "date_updated": 1792419029,
+        "date_posted": 1792418902,
+        "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899670002",
+        "locations": [
+            "London, UK",
+            "Amsterdam, Netherlands",
+            "NYC",
+            "Singapore"
+        ],
+        "company_url": "https://simplify.jobs/c/Graviton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OU Health",
+        "id": "1fe3e540-8e80-409c-b103-5cac44e6b76f",
+        "title": "Business Intelligence Developer 1-3",
+        "active": true,
+        "date_updated": 1792419018,
+        "date_posted": 1792368000,
+        "url": "https://oumedicine.wd5.myworkdayjobs.com/OUHealthCareers/job/Oklahoma-City/Business-Intelligence-Developer_R0069420",
+        "locations": [
+            "Kansas",
+            "Texas",
+            "Arkansas",
+            "Oklahoma City, OK",
+            "Missouri"
+        ],
+        "company_url": "https://simplify.jobs/c/OU-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PA Consulting",
+        "id": "a2a16702-d4f6-4606-8b38-ff0306553401",
+        "title": "Graduate Digital & Data Analyst",
+        "active": true,
+        "date_updated": 1792418886,
+        "date_posted": 1792418733,
+        "url": "https://jobs.smartrecruiters.com/PAConsulting/744000156307844",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PA-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
