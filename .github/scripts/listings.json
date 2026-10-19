@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "HNTB",
-        "id": "50d35fe3-44df-402f-991f-ed8bc4693dd1",
-        "title": "Aviation Planner Entry Level",
-        "active": false,
-        "date_updated": 1771696167,
-        "date_posted": 1771696167,
-        "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Boston-MA/Aviation-Planner---Entry-Level_R-29216",
-        "locations": [
-            "Orange, CA",
-            "LA",
-            "Oakland, CA",
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/HNTB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "3c074da3-8c51-4bc2-8cdd-4daff0f6bdb0",
@@ -48895,24 +48871,6 @@
             "Wayzata, MN"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Alberta Blue Cross",
-        "id": "c1af2d4c-99eb-41c0-941c-0e97683684e3",
-        "title": "Reporting Analyst - Reporting & Insights",
-        "active": false,
-        "date_updated": 1773996484,
-        "date_posted": 1771696644,
-        "url": "https://abbluecross.wd3.myworkdayjobs.com/careers/job/Hybrid/Reporting-Analyst---Reporting---Insights_R1076",
-        "locations": [
-            "Edmonton, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Alberta-Blue-Cross",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -207799,7 +207757,7 @@
         "company_name": "Old Mission",
         "id": "d0a9a917-c584-4609-9cdb-f603bc663215",
         "title": "Software Engineer \u2013 Graduate Program - August Start",
-        "active": true,
+        "active": false,
         "date_updated": 1783983038,
         "date_posted": 1783981824,
         "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796048003",
@@ -258533,7 +258491,7 @@
         "company_name": "PNC Financial Services",
         "id": "fe420397-a888-4b18-9542-70d65ec4c190",
         "title": "Data Modeling Analyst/Associate - Analytics Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1785853570,
         "date_posted": 1785801600,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data--Modeling--and-Analytics-Development-Program-Analyst-Associate_R231525-1",
@@ -278265,7 +278223,7 @@
         "company_name": "Andrew Morgan",
         "id": "eaa09253-ead5-4d61-9b1c-6aaeeb8e0187",
         "title": "OneStream Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1786661891,
         "date_posted": 1786661669,
         "url": "https://andrew-morgan.com/current-openings/?gh_jid=5389586008",
@@ -367259,7 +367217,7 @@
         "company_name": "Ancestry",
         "id": "ffe9321b-c2b1-4448-bbb7-8a1b6bd245ca",
         "title": "Imaging Data Technician - Imaging Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1791123482,
         "date_posted": 1788480000,
         "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Draper-UT/Content-Prep-Technician_R003443",
