@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Abbott",
-        "id": "b2a2aa46-988e-4b81-9ebb-d2ac7e3e6864",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1771641866,
-        "date_posted": 1771641866,
-        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31142661-1",
-        "locations": [
-            "Wayzata, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Abbott",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Abbott",
-        "id": "2c1704d9-ad18-426b-be05-91d12e29648d",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1771641278,
-        "date_posted": 1771641278,
-        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31142661",
-        "locations": [
-            "Wayzata, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Abbott",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "b6d0bf9c-acd9-4ee1-83d7-aff9f924990f",
