@@ -386853,5 +386853,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Unilever",
+        "id": "e00648e9-b709-449f-beb7-10dafb402e04",
+        "title": "Unilever Future Leadership Programme - Data & Analytics",
+        "active": true,
+        "date_updated": 1792409761,
+        "date_posted": 1792368000,
+        "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Early_Careers/job/United-Kingdom/Unilever-Future-Leadership-Programme---Data---Analytics-UK_R-1188847",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Unilever",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
