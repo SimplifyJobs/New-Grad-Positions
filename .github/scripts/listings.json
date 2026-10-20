@@ -283343,7 +283343,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -283724,7 +283724,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -293295,7 +293295,7 @@
         "company_name": "Apple",
         "id": "f58075d4-27db-4102-bd57-53ec0e1878fb",
         "title": "Darwin Runtime Engineer - Core OS",
-        "active": true,
+        "active": false,
         "date_updated": 1787264109,
         "date_posted": 1787263809,
         "url": "https://jobs.apple.com/en-us/details/200662330",
@@ -310031,7 +310031,7 @@
         "company_name": "Avalore",
         "id": "e538360c-214c-490b-9d61-6b8333dc6b1c",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788239161,
         "date_posted": 1788238872,
         "url": "https://apply.workable.com/avalore/j/EDADB6562A/apply",
@@ -359511,7 +359511,7 @@
         "company_name": "Applied Materials",
         "id": "c1c8b013-9191-4695-964c-db3034bbf04d",
         "title": "Physicist/Scientist: FEP chamber Optics engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790730545,
         "date_posted": 1790640000,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Physicist-Scientist--FEP-chamber-Optics-engineer--E3-_R2628769",
@@ -360671,7 +360671,7 @@
         "company_name": "Capital Group",
         "id": "e4e918db-5887-4c36-ac16-d33a4872b8b2",
         "title": "Data & Technology Track Associate - Rotational Program",
-        "active": true,
+        "active": false,
         "date_updated": 1790808000,
         "date_posted": 1790726400,
         "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/New-York/CAMPUS--Capital-Group-Rotational-Program---Data---Tech-Track-Associate---US---New-York_JR7427-1",
@@ -360691,7 +360691,7 @@
         "company_name": "Capital Group",
         "id": "cbf8908a-c4a2-49f3-8b2d-220edb8a3a99",
         "title": "Capital Group Rotational Program Associate - Data & Tech Track",
-        "active": true,
+        "active": false,
         "date_updated": 1790808002,
         "date_posted": 1790726400,
         "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Charlotte/CAMPUS--Capital-Group-Rotational-Program---Data---Tech-Track-Associate---US---Charlotte_JR7430-1",
@@ -366010,7 +366010,7 @@
         "company_name": "Avalore",
         "id": "d68216d8-e538-4756-a1e8-8ecaa7185ebe",
         "title": "Software Developer/Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791114841,
         "date_posted": 1788296937,
         "url": "https://apply.workable.com/avalore/j/937906E572/apply",
@@ -370748,7 +370748,7 @@
         "company_name": "Avalore",
         "id": "ef213512-2c5b-4f23-99a0-db6b5d87f182",
         "title": "API Architect",
-        "active": true,
+        "active": false,
         "date_updated": 1791283861,
         "date_posted": 1788296145,
         "url": "https://apply.workable.com/avalore/j/A1FB722C18/apply",
@@ -372464,7 +372464,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa71e901-808c-47e5-ab2d-32344fa2c4e7",
         "title": "Engineering Apprentice",
-        "active": false,
+        "active": true,
         "date_updated": 1791353752,
         "date_posted": 1790201057,
         "url": "https://higher.gs.com/roles/174814?type=students",
@@ -385999,7 +385999,7 @@
         "company_name": "Conviva",
         "id": "6bd34346-4e1e-4d5b-8ba1-9f643f4e6571",
         "title": "AI/ML Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1792392121,
         "date_posted": 1792392013,
         "url": "https://www.conviva.ai/careers/job/8036615003?gh_jid=8036615003",
@@ -387284,6 +387284,68 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Clerkie",
+        "id": "3e8ba698-cb5b-4c12-a0af-8d7cb8171be7",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1792460521,
+        "date_posted": 1792460470,
+        "url": "http://getfiber.ai/careers?gh_jid=5269011007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Clerkie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "35669be8-a2d4-451a-b732-d404c89defe7",
+        "title": "Software Engineer New Grad - Query Engines",
+        "active": true,
+        "date_updated": 1792460049,
+        "date_posted": 1792459831,
+        "url": "https://jobs.lever.co/palantir/0f7d1e01-1f74-4786-944d-910208d390fa/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "814742fa-a084-4b5c-8a86-88b5c02f9b2f",
+        "title": "Software Engineer New Grad - Query Engines",
+        "active": true,
+        "date_updated": 1792460038,
+        "date_posted": 1792459830,
+        "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
