@@ -560,7 +560,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer New Grad - Software</td>
 <td>Huntington Beach, CA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4401995009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/55cfdca4-f693-4680-abca-5c927e3394e4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Whoop?utm_source=GHList&utm_medium=company">Whoop</a></strong></td>
@@ -2289,7 +2289,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1195)</summary>
+<summary>🗃️ Inactive roles (1194)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -10164,7 +10164,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Integration Engineer 1 - Software Integration Engineer 1 - Radar Digital Product Line</td>
 <td>Marlborough, MA</td>
 <td>🔒</td>
@@ -10657,13 +10657,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
 <td>Software Engineer – New College Grad 2026 - Distributed Systems</td>
 <td>Santa Clara, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Western-Digital?utm_source=GHList&utm_medium=company">Western Digital</a></strong></td>
-<td>Early Career Talent - Software Development Engineering - Apps</td>
-<td>Irvine, CA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -14534,7 +14527,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer New Grad</td>
 <td>Huntington Beach, CA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4390274009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/890216cb-7898-4b8c-be8f-fba61101c52f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SAIC?utm_source=GHList&utm_medium=company">SAIC</a></strong></td>
@@ -15129,7 +15122,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (378)</summary>
+<summary>🗃️ Inactive roles (376)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -17771,20 +17764,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Medtronic?utm_source=GHList&utm_medium=company">Medtronic</a></strong></td>
 <td>Product Engineer 1</td>
 <td>Lafayette, CO</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Western-Digital?utm_source=GHList&utm_medium=company">Western Digital</a></strong></td>
-<td>Early Career Talent - Software Engineering - Apps</td>
-<td>Irvine, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Early Career Talent - Software Development Engineer - Firmware</td>
-<td>Irvine, CA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
