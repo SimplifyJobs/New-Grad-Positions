@@ -186247,7 +186247,7 @@
         "company_name": "Meticulous",
         "id": "92c26057-9592-415c-b861-32bd0ce19d43",
         "title": "Forward Deployed Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1782483398,
         "date_posted": 1782482880,
         "url": "https://jobs.ashbyhq.com/meticulous/e6d1e0ab-8a28-49ee-94ed-d232886cd7d5/application",
@@ -378518,7 +378518,7 @@
         "company_name": "Aon",
         "id": "c06bc064-a1fd-4014-803f-5768dea55a84",
         "title": "Data Solutions New Grad - Wealth Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1791844881,
         "date_posted": 1791843504,
         "url": "https://jobs.aon.com/jobs/108020?icims=1",
@@ -387326,5 +387326,69 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mendix",
+        "id": "b8b208fc-1a24-46b3-a41b-b69249a8b359",
+        "title": "Intelligence Center X Engineer",
+        "active": true,
+        "date_updated": 1792488421,
+        "date_posted": 1792488317,
+        "url": "https://jobs.lever.co/mendix/3be1cbcf-1ab4-4309-a764-2c336d1f7f37/apply",
+        "locations": [
+            "London, UK",
+            "Nuremberg, Germany",
+            "Paris, France",
+            "Cologne, Germany",
+            "France",
+            "Frankfurt, Germany",
+            "Stuttgart, Germany",
+            "Munich, Germany",
+            "Rotterdam, Netherlands"
+        ],
+        "company_url": "https://simplify.jobs/c/Mendix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Humble Robotics",
+        "id": "cd99e89a-1d5f-4c16-96ba-8cb7f7ee8eec",
+        "title": "Hardware Integration Engineer",
+        "active": true,
+        "date_updated": 1792488493,
+        "date_posted": 1792488321,
+        "url": "https://jobs.lever.co/humble-robotics/beaebb31-e332-4fe8-b29a-5c111e5adcc0/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Humble-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Schonfeld",
+        "id": "9688e18b-53f3-4354-aea8-0f59f30f3431",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1792487178,
+        "date_posted": 1777558638,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7843962",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Schonfeld",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
