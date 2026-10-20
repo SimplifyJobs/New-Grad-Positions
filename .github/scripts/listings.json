@@ -380554,7 +380554,7 @@
         "company_name": "Monti Inc",
         "id": "662a9504-a02e-4a49-b186-8619c9b721c5",
         "title": "Associate Software Engineer - Intelligence Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1791930496,
         "date_posted": 1791921162,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4581611",
@@ -385858,7 +385858,7 @@
         "company_name": "OSF HealthCare",
         "id": "5a59f0ee-1571-4abb-9f4a-04fb4914313a",
         "title": "Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792391265,
         "date_posted": 1792391133,
         "url": "https://www.osfcareers.org/jobs/112750?icims=1",
@@ -387284,6 +387284,47 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fortinet",
+        "id": "4d3bf7a0-d637-4f21-8c80-06621d2022bf",
+        "title": "Embedded Software Developer",
+        "active": true,
+        "date_updated": 1792485517,
+        "date_posted": 1790114715,
+        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24441",
+        "locations": [
+            "Burnaby, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortinet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fortinet",
+        "id": "8638d86d-9f3a-4759-b7fc-cf57e0ab7815",
+        "title": "Senior Software Development Engineer",
+        "active": true,
+        "date_updated": 1792486621,
+        "date_posted": 1779228473,
+        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22913",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortinet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
