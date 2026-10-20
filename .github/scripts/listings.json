@@ -235937,7 +235937,7 @@
         "company_name": "BlackEdge Capital",
         "id": "88cb97d9-9fe8-4c8f-b221-0c0805af5ca0",
         "title": "Graduate Quantitative Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1784933190,
         "date_posted": 1784932785,
         "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4703827005",
@@ -266171,7 +266171,7 @@
         "company_name": "DRW",
         "id": "8409f053-0a2e-4db0-a442-df2b158519eb",
         "title": "Quantitative Trading Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786142341,
         "date_posted": 1786141839,
         "url": "https://job-boards.greenhouse.io/drweng/jobs/7957241",
@@ -327750,7 +327750,7 @@
         "company_name": "Clerkie",
         "id": "75bcead3-bc36-4555-933e-eb57ee8d05bb",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1788462383,
         "date_posted": 1782771321,
         "url": "http://getfiber.ai/careers?gh_jid=5176565007",
@@ -365002,7 +365002,7 @@
         "company_name": "Avalore",
         "id": "85c35b46-0ff4-4121-b3b2-b7c67f05adf0",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791114339,
         "date_posted": 1788218944,
         "url": "https://apply.workable.com/avalore/j/B542E4DD72/apply",
@@ -377165,7 +377165,7 @@
         "company_name": "Microchip Technology",
         "id": "7f32863e-1314-4eb3-8549-dfd4adca1745",
         "title": "Engineer 1 - Design",
-        "active": true,
+        "active": false,
         "date_updated": 1791585540,
         "date_posted": 1791504000,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Allentown---Winchester-Rd/Engineer-I-Design_R4315-26",
@@ -383487,7 +383487,7 @@
         "company_name": "Luminai",
         "id": "73d0508d-dd1e-4792-919a-46002cc966b1",
         "title": "Forward Deployed Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1792102221,
         "date_posted": 1792102092,
         "url": "https://jobs.ashbyhq.com/luminai/ba606839-0f3b-47db-bd36-12406aec5a37/application?embed=true",
@@ -385469,7 +385469,7 @@
         "company_name": "Avalore",
         "id": "7ca735aa-9419-4bb3-aee2-59ff92b695e6",
         "title": "Innovation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792227061,
         "date_posted": 1788218944,
         "url": "https://apply.workable.com/avalore/j/EF492F2BE9/apply",
@@ -387206,6 +387206,84 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Jerry",
+        "id": "7e892840-f91d-48d2-a1c5-07ff0eef7c3a",
+        "title": "Product Manager-in-Training",
+        "active": true,
+        "date_updated": 1792459441,
+        "date_posted": 1792459368,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/8ef6fafc-3527-42ff-86f8-5f087b4edc64/application?embed=true",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cenovus Energy",
+        "id": "8320929c-57bb-464e-991b-98401d2c8c87",
+        "title": "Process Data Solutions New Grad",
+        "active": true,
+        "date_updated": 1792459105,
+        "date_posted": 1792368000,
+        "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/New-Grad--Process-Data-Solutions--Calgary--June-2027-_R-411229-1",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cenovus-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Kikoff",
+        "id": "2d82eac7-1903-473d-8ae7-53561c77688c",
+        "title": "Product Manager - Retention & Monetization",
+        "active": true,
+        "date_updated": 1792458780,
+        "date_posted": 1792458546,
+        "url": "https://job-boards.greenhouse.io/kikoff/jobs/4458616009",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Kikoff",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "062331a8-f84b-4a25-9c39-ccabcb6a0371",
+        "title": "Electrical Engineer New Grad - Electrical",
+        "active": true,
+        "date_updated": 1792458637,
+        "date_posted": 1792458371,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8900641002",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
