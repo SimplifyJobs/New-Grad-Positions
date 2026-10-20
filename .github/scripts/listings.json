@@ -218370,7 +218370,7 @@
         "company_name": "Capital One",
         "id": "d03ac761-2dfa-4cd7-bd7c-797b6ff89c19",
         "title": "Software Engineer New Grad - Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784587302,
         "date_posted": 1784505600,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
@@ -308657,7 +308657,7 @@
         "company_name": "EisnerAmper",
         "id": "99ceee79-3f21-401d-8568-200921f46ba8",
         "title": "Outsourcing IT Staff 1",
-        "active": false,
+        "active": true,
         "date_updated": 1788209905,
         "date_posted": 1788134400,
         "url": "https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/New-York/XMLNAME-2026-Outsourcing-IT-Staff-I_Req-9328",
@@ -384940,7 +384940,7 @@
         "company_name": "T-Mobile",
         "id": "261d38fb-d89b-4d4e-8f69-57bb0c3586f9",
         "title": "Associate Engineer - Software - Mobile App Development",
-        "active": false,
+        "active": true,
         "date_updated": 1792189804,
         "date_posted": 1792108800,
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Associate-Engineer---Software---Mobile-App-Development_REQ370392-1",
@@ -387634,6 +387634,318 @@
             "Jupiter, FL"
         ],
         "company_url": "https://simplify.jobs/c/PopStroke-Holdings-LLC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Octopus Energy",
+        "id": "b607ca14-0423-4f94-b891-30982d05f168",
+        "title": "Graduate Hardware Engineer",
+        "active": true,
+        "date_updated": 1792506962,
+        "date_posted": 1792506932,
+        "url": "https://jobs.lever.co/octoenergy/e8a3afb6-dad5-4820-a601-f1a549b1f827/apply",
+        "locations": [
+            "Remote in UK",
+            "Slough, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Octopus-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVS Health",
+        "id": "1583766b-60b6-44e5-b135-0ebadcdcaee0",
+        "title": "Full-Stack Engineer Training Program",
+        "active": true,
+        "date_updated": 1792506603,
+        "date_posted": 1792454400,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Work-from-home/Full-Stack-Engineer-Training-Program---June-2027-Cohort_R1066830",
+        "locations": [
+            "New Mexico",
+            "Washington",
+            "Kansas",
+            "Pennsylvania",
+            "North Dakota",
+            "Oregon",
+            "Delaware",
+            "Iowa",
+            "California",
+            "Washington, DC",
+            "Vermont",
+            "Wyoming",
+            "Connecticut",
+            "Texas",
+            "Montana",
+            "Florida",
+            "New Hampshire",
+            "Nevada",
+            "South Carolina",
+            "South Dakota",
+            "Georgia",
+            "Arizona",
+            "Mississippi",
+            "Tennessee",
+            "Virginia",
+            "Arkansas",
+            "Minnesota",
+            "Colorado",
+            "Nebraska",
+            "Rhode Island",
+            "Utah",
+            "Kentucky",
+            "West Virginia",
+            "NYC",
+            "Maryland",
+            "Wisconsin",
+            "Maine",
+            "Massachusetts",
+            "North Carolina",
+            "Oklahoma",
+            "Missouri",
+            "Ohio",
+            "New Jersey",
+            "Indiana",
+            "Louisiana",
+            "Alaska",
+            "Michigan",
+            "Illinois",
+            "Alabama",
+            "Idaho"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "f66d4e14-621c-44d2-b1e7-0b554b3f9993",
+        "title": "Graduate Hardware Engineer",
+        "active": true,
+        "date_updated": 1792506660,
+        "date_posted": 1792506466,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894149002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "f5b840f2-1240-4f45-bc1d-c7c23fe1e24d",
+        "title": "Graduate Silicon Engineer",
+        "active": true,
+        "date_updated": 1792506661,
+        "date_posted": 1792506470,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8843258002",
+        "locations": [
+            "Bristol, UK",
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Graphcore",
+        "id": "d9e469da-03cc-4e75-b815-d57e9036c392",
+        "title": "Graduate Software Engineer New Grad - AI Compute Libraries & Performance",
+        "active": true,
+        "date_updated": 1792506659,
+        "date_posted": 1792506467,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894177002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Graphcore",
+        "id": "c9d6c211-6f65-4b53-ac71-6b1b9aeaff36",
+        "title": "Graduate Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1792506658,
+        "date_posted": 1792506466,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894041002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Graphcore",
+        "id": "bada8fff-3e65-4d24-96d8-d438f022b5fe",
+        "title": "Graduate Software Engineer - Analysis Tools",
+        "active": true,
+        "date_updated": 1792506603,
+        "date_posted": 1792506467,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894145002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Graphcore",
+        "id": "7fe517f1-666e-4254-9197-ffddf4517b66",
+        "title": "Graduate Systems Software Engineer - Drivers and Utilities",
+        "active": true,
+        "date_updated": 1792506658,
+        "date_posted": 1792506469,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894887002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Graphcore",
+        "id": "c6d19a4b-fa35-4981-b784-fbf8ddccd957",
+        "title": "Graduate Software Engineer - Accelerator Modelling",
+        "active": true,
+        "date_updated": 1792506603,
+        "date_posted": 1792506467,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894310002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Graphcore",
+        "id": "8df87a27-5493-456e-a7b5-d96eed5e09e2",
+        "title": "Graduate Software Engineer - Frameworks",
+        "active": true,
+        "date_updated": 1792506603,
+        "date_posted": 1792506468,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894466002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "7ce4affd-d940-4b3d-bdee-81fa1a080638",
+        "title": "Graduate Firmware Engineer",
+        "active": true,
+        "date_updated": 1792506658,
+        "date_posted": 1792506465,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894608002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pearson",
+        "id": "6b408f2c-5220-4f13-94bd-39aeb2baec26",
+        "title": "Responsible AI Specialist - Technology Workstreams",
+        "active": true,
+        "date_updated": 1792506664,
+        "date_posted": 1792506548,
+        "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26323",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Pearson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "511298c0-51b4-4e6a-b652-7668b948d3c8",
+        "title": "Graduate SoC Architecture Engineer",
+        "active": true,
+        "date_updated": 1792506658,
+        "date_posted": 1792506467,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894348002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
