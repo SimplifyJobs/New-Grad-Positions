@@ -2,44 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Brown & Brown Insurance",
-        "id": "40979dac-fef5-4ab1-bdb5-78bc5e6d87a2",
-        "title": "Healthcare Data and Operations Analyst",
-        "active": false,
-        "date_updated": 1771717113,
-        "date_posted": 1771717113,
-        "url": "https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---Georgia/Healthcare-Data-and-Operations-Analyst_R26_0000000672",
-        "locations": [
-            "Georgia"
-        ],
-        "company_url": "https://simplify.jobs/c/Brown-And-Brown-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hy-Vee",
-        "id": "2557f845-e9ba-4efb-9d37-d2802b5a00e1",
-        "title": "IT Data Analyst 1",
-        "active": false,
-        "date_updated": 1771716780,
-        "date_posted": 1771716780,
-        "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Helpful-Smiles-Technology-Center-HST-James-Street-Grimes-IA/IT-Data-Analyst-II_R216052",
-        "locations": [
-            "Grimes, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hy-Vee",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Northrop Grumman",
         "id": "5a267649-90e5-43bf-9eb7-3f245f5dd43c",
         "title": "Configuration Data Management Controller",
