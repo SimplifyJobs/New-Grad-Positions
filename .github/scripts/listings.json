@@ -387431,5 +387431,46 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Novanta",
+        "id": "d113c8ab-732f-4958-adf2-d67a78606239",
+        "title": "Graduate Electronics Engineer",
+        "active": true,
+        "date_updated": 1792492065,
+        "date_posted": 1792454400,
+        "url": "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Stockport-United-Kingdom/Graduate-Electronics-Engineering-Scheme_R009802",
+        "locations": [
+            "Stockport, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Novanta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intel",
+        "id": "14dca508-6481-402d-a5d6-943f5efb9a58",
+        "title": "CAD/EDA Tools Software Engineer",
+        "active": true,
+        "date_updated": 1792490807,
+        "date_posted": 1792368000,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Software-Engineer_JR0288234-1",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
