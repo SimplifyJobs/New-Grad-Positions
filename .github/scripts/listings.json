@@ -338356,7 +338356,7 @@
         "company_name": "RTX",
         "id": "defbd7fe-a840-4d36-a1b3-d7e40c890408",
         "title": "Flight Control Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1788993912,
         "date_posted": 1788912000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871083",
@@ -338497,7 +338497,7 @@
         "company_name": "RTX",
         "id": "62c00688-5b72-4f44-b37d-c0a319fb3acd",
         "title": "Flight Control Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1788993912,
         "date_posted": 1788912000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871038",
@@ -346601,7 +346601,7 @@
         "company_name": "Tesla",
         "id": "dbf82fe3-1901-4d97-adce-7e1ace7dc958",
         "title": "Data Collection Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1789554309,
         "date_posted": 1780812707,
         "url": "https://www.tesla.com/careers/search/job/270206",
@@ -366886,7 +366886,7 @@
         "company_name": "Microsoft",
         "id": "fe14fd5d-c834-4c22-bc27-c3807e210b18",
         "title": "Software Engineer - Forward Deployed Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1791123484,
         "date_posted": 1790892628,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
@@ -385426,7 +385426,7 @@
         "company_name": "Galatea Associates",
         "id": "dc1736a5-1d63-4f9d-b1cb-88598e3fa554",
         "title": "Entry-Level Financial Software Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1792229222,
         "date_posted": 1791929737,
         "url": "https://jobs.lever.co/galatea-associates/d5bceaf1-0137-4cc3-9353-72cc7a4f937b/apply",
@@ -385484,7 +385484,7 @@
         "company_name": "Saalex",
         "id": "c962eb59-df2d-4d2d-8188-daeb44ec9f83",
         "title": "Engineering Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792228930,
         "date_posted": 1788477132,
         "url": "https://apply.workable.com/saalex/j/B4101AB996/apply",
@@ -387390,5 +387390,46 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Saalex",
+        "id": "fa86f83b-d953-4b1c-96dd-dfd4c96de55b",
+        "title": "Junior Data Integrity Engineer - Avionics Software & Data Analysis",
+        "active": true,
+        "date_updated": 1792489861,
+        "date_posted": 1785979077,
+        "url": "https://apply.workable.com/saalex/j/2D1B9D4A3C/apply",
+        "locations": [
+            "Patuxent River, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Saalex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fortinet",
+        "id": "eca1024e-adc2-4413-964d-c0c4d61d2a5f",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1792489141,
+        "date_posted": 1782857246,
+        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23408",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortinet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
