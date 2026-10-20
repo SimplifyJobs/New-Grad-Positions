@@ -131338,7 +131338,7 @@
         "company_name": "GlobalFoundries",
         "id": "1146b7db-d86a-4314-a87f-42d5440c2862",
         "title": "3D Heterogeneous Integration Design Enablement Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779528096,
         "date_posted": 1779527761,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/XMLNAME-3D-Heterogeneous-Integration-Design-Enablement-Engineer--2025-New-College-Graduate-_JR-2501678",
@@ -209457,7 +209457,7 @@
         "company_name": "Voloridge",
         "id": "0249bfec-1a6f-4190-997e-bc255f2ad8c9",
         "title": "Quantitative Research Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1784066656,
         "date_posted": 1784066474,
         "url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224950009",
@@ -334209,7 +334209,7 @@
         "company_name": "Domino's",
         "id": "0541ea68-a2d7-4fe4-b3e4-f7e4d677fe3c",
         "title": "Customer Service Representative",
-        "active": true,
+        "active": false,
         "date_updated": 1788571462,
         "date_posted": 1788571298,
         "url": "https://jobs.smartrecruiters.com/Dominos/744000147617924",
@@ -370229,7 +370229,7 @@
         "company_name": "Fireworks AI",
         "id": "2fe008c6-a902-4295-bf8d-b42eec551e68",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1791268024,
         "date_posted": 1791267826,
         "url": "https://jobs.ashbyhq.com/fireworks/69375f41-258a-4c25-ad78-5985606c438a/application?embed=true",
@@ -378800,7 +378800,7 @@
         "company_name": "Microsoft",
         "id": "1d54b27d-8a8b-4037-85f3-347baff81004",
         "title": "Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1791844238,
         "date_posted": 1791843002,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556999878",
@@ -387245,6 +387245,45 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chubb",
+        "id": "0557e7b9-859d-4a33-a43e-21e7ff5bb8ab",
+        "title": "Technology Associate",
+        "active": true,
+        "date_updated": 1792483561,
+        "date_posted": 1789740570,
+        "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/36864",
+        "locations": [
+            "Philadelphia, PA",
+            "Jersey City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Chubb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fortinet",
+        "id": "2ec2d3b8-1016-4a8d-9dcf-b9f16abe4c6d",
+        "title": "Senior Software Developer",
+        "active": true,
+        "date_updated": 1792484641,
+        "date_posted": 1779746833,
+        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22910",
+        "locations": [
+            "Burnaby, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortinet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
