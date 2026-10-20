@@ -208854,7 +208854,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -387807,5 +387807,470 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "a7309900-70f4-42e4-a032-fd7570013f54",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1792535314,
+        "date_posted": 1792454400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01875410-1",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of America",
+        "id": "968f8a3e-1bbb-49f8-863e-2988ccbb3cd3",
+        "title": "Risk Analysis Analyst",
+        "active": true,
+        "date_updated": 1792535222,
+        "date_posted": 1792454400,
+        "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Newark/Risk-Analysis-Analyst_26038601",
+        "locations": [
+            "Newark, NJ",
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bank-Of-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "ca7b6f2d-22c2-4d9a-baab-b5e91077acc8",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1792535141,
+        "date_posted": 1792535028,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557039399",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "cfa9e9a7-7d54-4f72-ab81-1485d300ae55",
+        "title": "Member of Technical Staff - Platform",
+        "active": true,
+        "date_updated": 1792535143,
+        "date_posted": 1792535016,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557042199",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WTW",
+        "id": "bf357e7e-5047-410b-a11a-b939b5f31b63",
+        "title": "Software Developer New Grad",
+        "active": true,
+        "date_updated": 1792535138,
+        "date_posted": 1792535015,
+        "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606689",
+        "locations": [
+            "Reigate, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/WTW",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AQR Capital Management",
+        "id": "b13f54cd-bea8-496e-90d2-fc9e388ea1ab",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1792535142,
+        "date_posted": 1792535030,
+        "url": "https://careers.aqr.com/jobs?gh_jid=8284812&gh_jid=8284812",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microsoft",
+        "id": "50e54046-7978-470b-a5b3-7f2786a8c4d4",
+        "title": "Quantum Systems Stability & Sensitivity Engineer",
+        "active": true,
+        "date_updated": 1792535140,
+        "date_posted": 1792535018,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557041573",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "33da640d-5eb4-4a66-b577-c2ec5f60bcf3",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1792535141,
+        "date_posted": 1792535014,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557043616",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Quora",
+        "id": "1fac2631-0a51-44d0-9af9-209c670e1742",
+        "title": "Full Stack Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1792535142,
+        "date_posted": 1792535027,
+        "url": "https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Quora",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "ba94ebcb-0a90-49ae-a618-acf2b2c015b8",
+        "title": "SoC Design Verification Engineer",
+        "active": true,
+        "date_updated": 1792535098,
+        "date_posted": 1792454400,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/SoC-Design-Verification-Engineer_JR0288228",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Guidehouse",
+        "id": "ccab2756-570c-49fa-bace-317726f3b86a",
+        "title": "Intelligence Analyst",
+        "active": true,
+        "date_updated": 1792534870,
+        "date_posted": 1792454400,
+        "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---AL-Huntsville/Intelligence-Analyst_45623-1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidehouse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "iCapital Network",
+        "id": "3c3ebea2-2295-48b9-9150-700414ddb4e5",
+        "title": "Alternative Data Management Analyst",
+        "active": true,
+        "date_updated": 1792534909,
+        "date_posted": 1792534748,
+        "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8903193002",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/ICapital-Network",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Anduril",
+        "id": "26755021-3a26-43eb-ad99-bdd5422a829f",
+        "title": "Electrical Test Technician - Dive-XL",
+        "active": true,
+        "date_updated": 1792534870,
+        "date_posted": 1792534694,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270349007",
+        "locations": [
+            "North Kingstown, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "e85971c7-fc74-4cf9-b661-6b4bde36305a",
+        "title": "Software Engineer 1-Embedded Linux",
+        "active": true,
+        "date_updated": 1792534738,
+        "date_posted": 1792454400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I-Embedded-Linux--Onsite-_01883477",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "caf2c40d-930b-4a27-9c3e-b4d2e80026bf",
+        "title": "Software Engineer 1 - Core Services and Libraries",
+        "active": true,
+        "date_updated": 1792534739,
+        "date_posted": 1792454400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineer-I--Core-Services-and-Libraries--Onsite-_01883494",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "95b3dfd1-411e-4ccf-bb03-ce35e28541c5",
+        "title": "Product Development Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1792534741,
+        "date_posted": 1792454400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Product-Development-Electrical-Engineer-I--Onsite-_01880626",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SAIC",
+        "id": "e916e10b-3589-4d4e-8b62-fb9348bc3c03",
+        "title": "Software Test Engineer",
+        "active": true,
+        "date_updated": 1792534505,
+        "date_posted": 1792534333,
+        "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618210",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/SAIC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blockhouse",
+        "id": "f85253cb-dca3-4867-ab55-198869bfb119",
+        "title": "RL Environments Engineer",
+        "active": true,
+        "date_updated": 1792534327,
+        "date_posted": 1792534210,
+        "url": "https://jobs.ashbyhq.com/blockhouse/f0e609b1-5237-407d-afe2-281b824ec25c/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Blockhouse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Materials",
+        "id": "bcc5917d-14c6-476e-8eb3-06d5f398ff78",
+        "title": "Algorithm Developer New Grad",
+        "active": true,
+        "date_updated": 1792534574,
+        "date_posted": 1792454400,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer--Masters-Degree--New-College-Grad--Santa-Clara-_R2631780",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "7a4c4359-4bc9-45ad-bf3d-a530294be35a",
+        "title": "Programmer Analyst",
+        "active": true,
+        "date_updated": 1792534505,
+        "date_posted": 1792454400,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Programmer-Analyst_R0172394",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "John Deere",
+        "id": "f1044ef9-7da2-4a5b-a8e5-c26f1e2efd68",
+        "title": "Information Technology Development Program - Software Engineering",
+        "active": true,
+        "date_updated": 1792534456,
+        "date_posted": 1792534049,
+        "url": "https://johndeere.eightfold.ai/careers/job/137482532344",
+        "locations": [
+            "Moline, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SambaNova Systems",
+        "id": "79eb7a85-c4c3-4b07-b781-f8a67ec940c5",
+        "title": "AI Performance Engineer New Grad",
+        "active": true,
+        "date_updated": 1792534372,
+        "date_posted": 1792533887,
+        "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SambaNova-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sierra",
+        "id": "6b15ca10-3cd5-4765-9e64-4234045a3ebd",
+        "title": "Software Engineer New Grad - Agent",
+        "active": true,
+        "date_updated": 1792534160,
+        "date_posted": 1792533981,
+        "url": "https://jobs.ashbyhq.com/sierra/0ff928f7-cca0-4d2b-ae64-c07277ff5252/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
