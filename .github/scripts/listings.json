@@ -370901,7 +370901,7 @@
         "company_name": "RTX",
         "id": "6ffabb0b-4dbb-49a3-bb98-10fd85f1898b",
         "title": "Software Engineer 1 - Test",
-        "active": true,
+        "active": false,
         "date_updated": 1791297760,
         "date_posted": 1789516800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I---Test_01873961",
@@ -384855,7 +384855,7 @@
         "company_name": "Motorola Solutions",
         "id": "f5559cae-1474-4951-90f8-f4b1e0efcd2c",
         "title": "Marketing Data & AI Analytics Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1792189804,
         "date_posted": 1792108800,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Toronto-Canada-ONT40/Marketing-Data---AI-Analytics-Specialist_R69524",
@@ -387457,6 +387457,26 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Oshkosh",
+        "id": "bb18e26a-3382-4972-8a50-4f81fbd70e63",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1792495337,
+        "date_posted": 1792454400,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Engineer---Software_R50645",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
