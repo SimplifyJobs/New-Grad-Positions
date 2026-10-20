@@ -853,42 +853,6 @@
     {
         "source": "Simplify",
         "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5fbc5390-99ba-4c36-a718-b28eaab3c6b0",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1771756474,
-        "date_posted": 1771756474,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050558",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5e3a2258-0ebe-436d-8c11-b3d17be8ac47",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1771756481,
-        "date_posted": 1771756481,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050580",
-        "locations": [
-            "York, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
         "company_name": "Cambridge Associates",
         "id": "bae2bc8e-b4c7-428e-8d23-5c043680e8d7",
         "title": "Investment Analyst - Hedge Funds Research",
@@ -381200,7 +381164,7 @@
         "company_name": "GE Vernova",
         "id": "b79711bc-96c5-422c-a128-8b8b238ca2e2",
         "title": "Graduate Engineer - Software",
-        "active": true,
+        "active": false,
         "date_updated": 1791987852,
         "date_posted": 1791936000,
         "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rugby/Graduate-Engineer---Software_R5046974-3",
@@ -387469,6 +387433,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Aerospace Corporation",
+        "id": "7fd94ec3-5daf-4bb7-a478-aa599eada760",
+        "title": "Aerospace Software and Simulation Engineer",
+        "active": true,
+        "date_updated": 1792492604,
+        "date_posted": 1792368000,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-and-Simulation-Engineer_R016883",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Master's",
             "PhD"
         ]
