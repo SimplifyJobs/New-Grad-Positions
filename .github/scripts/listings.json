@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fugro",
-        "id": "d40e41cd-439c-4782-adda-73c0d8707fc7",
-        "title": "Staff GIS Specialist",
-        "active": false,
-        "date_updated": 1771854297,
-        "date_posted": 1771854297,
-        "url": "https://fugro.wd3.myworkdayjobs.com/broadbean_external/job/Wallingford-UK-United-Kingdom/Staff-GIS-Specialist_R0030412",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Fugro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Global Channel Management",
         "id": "9553a951-94b2-441a-ac0d-cccc7205d37d",
@@ -377838,7 +377818,7 @@
         "company_name": "RTX",
         "id": "a2d8c9a4-b8cb-4299-a621-7c8f004488ab",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791844526,
         "date_posted": 1791763200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01873100",
@@ -388339,6 +388319,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "f5b3c391-90c8-454b-9468-802ac550a0d3",
+        "title": "Embedded Software Engineer 2",
+        "active": true,
+        "date_updated": 1792584072,
+        "date_posted": 1791417600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Embedded-Software-Engineer-II--Onsite-_01881237",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
