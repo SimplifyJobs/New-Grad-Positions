@@ -9300,7 +9300,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Agentic Ops Intern 🛂</td>
 <td><details><summary><strong>8 locations</strong></summary>Toronto, ON, CAN</br>Austin, TX</br>Chicago, IL</br>Miami, FL</br>New York, NY</br>San Francisco, CA</br>Vancouver, BC, CAN</br>Victoria, BC, CAN</details></td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Truist-Bank?utm_source=GHList&utm_medium=company">Truist Bank</a></strong></td>
