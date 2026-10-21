@@ -278510,7 +278510,7 @@
         "company_name": "International Motors, LLC",
         "id": "03f6dca1-a185-4cea-9fdc-a7804e7ad3fc",
         "title": "Supply Chain Analytics Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1786681130,
         "date_posted": 1786680260,
         "url": "https://careers.navistar.com/jobs/59467?icims=1",
@@ -298555,7 +298555,7 @@
         "company_name": "L3Harris Technologies",
         "id": "77ce4406-421d-4a67-89e6-431d60b1c981",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1787654209,
         "date_posted": 1787648488,
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-FL-32934/1422829800/?ats=successfactors",
@@ -316144,7 +316144,7 @@
         "company_name": "Accenture",
         "id": "afa6e892-ee06-4fbc-917b-d6376b37e6fc",
         "title": "Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1788420786,
         "date_posted": 1788403428,
         "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4710646006",
@@ -370137,7 +370137,7 @@
         "company_name": "RTX",
         "id": "6ffabb0b-4dbb-49a3-bb98-10fd85f1898b",
         "title": "Software Engineer 1 - Test",
-        "active": false,
+        "active": true,
         "date_updated": 1791297760,
         "date_posted": 1789516800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I---Test_01873961",
@@ -379053,7 +379053,7 @@
         "company_name": "Boeing",
         "id": "a5785364-41bc-49ce-9e8f-78f6b1bcae79",
         "title": "Entry Level ASIC/FPGA Design Verification Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1791929717,
         "date_posted": 1791849600,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-Level-ASIC-FPGA-Design-Verification-Engineer_JR2026524660-1",
@@ -388434,6 +388434,46 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Provectus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ekimetrics",
+        "id": "499eed21-6c70-456b-baa2-1ef4468de5f0",
+        "title": "Junior Data Scientist & Marketing Effectiveness",
+        "active": true,
+        "date_updated": 1792593364,
+        "date_posted": 1792593278,
+        "url": "https://jobs.lever.co/ekimetrics/23ede62a-a4c9-41e9-924f-0bb283438b5f/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ekimetrics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "9283a980-98e0-4f9f-af72-d7087c27870c",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1792593232,
+        "date_posted": 1792540800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-I--Onsite-_01883922",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
