@@ -242020,7 +242020,7 @@
         "company_name": "Pennsylvania State University",
         "id": "bea57c4a-be73-42eb-b6da-e93a1735c880",
         "title": "Software Research and Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785329271,
         "date_posted": 1783168662,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Software-Research-and-Development-Engineer_REQ_0000073411-2",
@@ -275935,7 +275935,7 @@
         "company_name": "Picton Mahoney Asset Management",
         "id": "626ecf45-a7a7-4ebc-aeb8-fe97ed05b66b",
         "title": "Associate \u2013 Trading Strategy",
-        "active": true,
+        "active": false,
         "date_updated": 1786602781,
         "date_posted": 1786602216,
         "url": "https://pictonmahoney.bamboohr.com/careers/371/",
@@ -276067,7 +276067,7 @@
         "company_name": "PHIHONG USA",
         "id": "53dd3daa-13cd-4e52-b973-fb3582e01fda",
         "title": "Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786602781,
         "date_posted": 1786602118,
         "url": "https://phihong.bamboohr.com/careers/446/",
@@ -365661,7 +365661,7 @@
         "company_name": "RTX",
         "id": "fa716cbb-e8b7-4d46-87ee-3aaf3b287641",
         "title": "Software Engineer 2 - Receiver \u2013 Exciter & Processing Architecture",
-        "active": true,
+        "active": false,
         "date_updated": 1791121168,
         "date_posted": 1789516800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-II---Onsite_01873479",
@@ -388298,6 +388298,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "3fe242be-2b6f-42eb-8096-61ad3ec489e7",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1792587092,
+        "date_posted": 1788912000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Systems-Engineer-I--Onsite-Portsmouth--RI_01872102",
+        "locations": [
+            "Portsmouth, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
