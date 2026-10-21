@@ -276047,7 +276047,7 @@
         "company_name": "Apollo Mission Critical Engineering",
         "id": "7fa184d8-1d6e-474e-afac-7571cf147fe7",
         "title": "Software Engineering Associate - Software Development Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1786602781,
         "date_posted": 1786602116,
         "url": "https://apollomce.bamboohr.com/careers/96/",
@@ -276107,7 +276107,7 @@
         "company_name": "Epos Now Group",
         "id": "670d458a-456d-4e42-8032-bcf187bd3649",
         "title": "Software Engineer 3",
-        "active": true,
+        "active": false,
         "date_updated": 1786602832,
         "date_posted": 1786602082,
         "url": "https://eposnowgroup.bamboohr.com/careers/567/",
@@ -364021,7 +364021,7 @@
         "company_name": "RTX",
         "id": "a1af0753-bdbe-4550-9c55-3597160592ec",
         "title": "Digital ASIC/FPGA Design Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1791114583,
         "date_posted": 1787875200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Digital-ASIC-FPGA-Design-Engineer-II---Onsite_01870697",
@@ -382406,7 +382406,7 @@
         "company_name": "RTX",
         "id": "ff2d1b33-f961-40da-8987-bc3acdae007b",
         "title": "Reliability Analyst & Test Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792102529,
         "date_posted": 1792022400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Reliability-Analyst---Test-Engineer-1--Onsite-_01881446",
@@ -382799,7 +382799,7 @@
         "company_name": "Intel",
         "id": "adeb5e48-26bb-401d-a863-437f163ce851",
         "title": "Microarchitecture and Design Engineer - AI SoC",
-        "active": true,
+        "active": false,
         "date_updated": 1792104324,
         "date_posted": 1792022400,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Microarchitecture-and-Design-Engineer---AI-SoC_JR0287996",
@@ -383967,7 +383967,7 @@
         "company_name": "Northrop Grumman",
         "id": "8655fcea-d832-492b-8d23-6c72571ce040",
         "title": "Electronic Technician 1 / 2",
-        "active": true,
+        "active": false,
         "date_updated": 1792190161,
         "date_posted": 1792108800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Electronic-Technician-1---2_R10252685-1",
@@ -388318,6 +388318,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "0ac04b5c-cd94-4e69-b532-c62eb19b9fa9",
+        "title": "System Software Engineer, Automotive Cybersecurity - Tegra Security Software",
+        "active": true,
+        "date_updated": 1792588912,
+        "date_posted": 1792540800,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/System-Software-Engineer--Tegra-Security-Software_JR2028405",
+        "locations": [
+            "Bristol, UK",
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
