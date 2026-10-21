@@ -1,87 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amentum",
-        "id": "61897b58-573c-49ad-a044-fcd6c9abde98",
-        "title": "Electronic Technician - Ior - Optics (Sfrc)",
-        "active": false,
-        "date_updated": 1771861901,
-        "date_posted": 1771861901,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Canaveral/Electronic-Technician--IOR----Optics_R0152734-1",
-        "locations": [
-            "Cape Canaveral, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TEGNA ",
-        "id": "477aad97-fb7d-4f5f-b832-cdf1be26ed79",
-        "title": "Digital Campaign Specialist",
-        "active": false,
-        "date_updated": 1771861633,
-        "date_posted": 1771861633,
-        "url": "https://boards.greenhouse.io/tegnainc/jobs/5057250007",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/TEGNA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northeastern University",
-        "id": "320868d6-74ae-45c2-9144-2735d67d06e5",
-        "title": "Research Engineer",
-        "active": false,
-        "date_updated": 1771861207,
-        "date_posted": 1771861207,
-        "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Research-Engineer_R138783",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northeastern-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "edfb21aa-29f9-45f7-ba03-9e0850658b0d",
-        "title": "Associate Engineer 1 - AI Platform",
-        "active": false,
-        "date_updated": 1771860753,
-        "date_posted": 1771860753,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Engineer-I_R_1471784",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Cambridge Associates",
         "id": "bae2bc8e-b4c7-428e-8d23-5c043680e8d7",
@@ -99,42 +18,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Milwaukee Tool",
-        "id": "0fe5664c-28bb-451b-b3d3-4d6d349acbeb",
-        "title": "Repair Technician 1",
-        "active": false,
-        "date_updated": 1771862304,
-        "date_posted": 1771862304,
-        "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Greenwood-MS/Repair-Tech-1_R69377",
-        "locations": [
-            "Greenwood, MS"
-        ],
-        "company_url": "https://simplify.jobs/c/Milwaukee-Tool",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "BlackRock",
-        "id": "a85fe9f4-8464-4676-b652-c3e73615a4ec",
-        "title": "Product Manager - Associate",
-        "active": false,
-        "date_updated": 1771862161,
-        "date_posted": 1771862161,
-        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Product-Manager--Associate-_R260931",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/BlackRock",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
