@@ -235247,7 +235247,7 @@
         "company_name": "Blue Cross of Idaho",
         "id": "95049413-d496-4bfa-9d12-e16f926251e5",
         "title": "AI Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1784931560,
         "date_posted": 1784851200,
         "url": "https://bcidaho.wd5.myworkdayjobs.com/BCI/job/Meridian---Main/AI-Engineer-I_R3397",
@@ -241433,7 +241433,7 @@
         "company_name": "Freddie Mac",
         "id": "d3680ba2-c14d-4200-9aec-fbfcf6ab8214",
         "title": "Capital Markets Analyst - Quantitative",
-        "active": true,
+        "active": false,
         "date_updated": 1785278881,
         "date_posted": 1785196800,
         "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Capital-Markets-Analyst---Quantitative_JR17437",
@@ -282882,7 +282882,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -283263,7 +283263,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -304110,7 +304110,7 @@
         "company_name": "Global Lending Services",
         "id": "a7dd04c6-c880-41f3-9f62-e1a48155eb37",
         "title": "Data Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1787848381,
         "date_posted": 1787848359,
         "url": "https://jobs.lever.co/glsllc/bf8d09cd-8858-4ce4-98c1-5b685b5bf238/apply",
@@ -354372,7 +354372,7 @@
         "company_name": "Trace3",
         "id": "bcc577ef-5958-4321-821d-9405a58357c8",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790203501,
         "date_posted": 1789166051,
         "url": "https://job-boards.greenhouse.io/trace3/jobs/8197955",
@@ -372003,7 +372003,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa71e901-808c-47e5-ab2d-32344fa2c4e7",
         "title": "Engineering Apprentice",
-        "active": false,
+        "active": true,
         "date_updated": 1791353752,
         "date_posted": 1790201057,
         "url": "https://higher.gs.com/roles/174814?type=students",
@@ -388479,5 +388479,67 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wellmark",
+        "id": "b3dc0fe4-e07d-4a79-ac44-eddaf4d4abd0",
+        "title": "Data Wrangler",
+        "active": true,
+        "date_updated": 1792547154,
+        "date_posted": 1792547007,
+        "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000156421724",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellmark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "26d84509-a16b-4556-99f7-18329fa61191",
+        "title": "Software Development Engineer 1 - AI/ML Network Infrastructure",
+        "active": true,
+        "date_updated": 1792546803,
+        "date_posted": 1792546696,
+        "url": "https://amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Axos Bank",
+        "id": "e7be217f-fe8f-47ee-a0f5-bb01d5ad5782",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1792546731,
+        "date_posted": 1792454400,
+        "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---Data-Engineer_JR5390",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Axos-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
