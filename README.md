@@ -5,7 +5,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 548 New Grad Roles by Category
+### Browse 547 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (320)
 
@@ -15,7 +15,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (13)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (114)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (113)
 
 💼 **[Other](#-other-new-grad-roles)** (0)
 
@@ -14483,13 +14483,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company">Boeing</a></strong></td>
 <td>Entry Level Software Engineer-Developer - Development</td>
-<td>Tinker Air Force Base, Oklahoma City, OK</td>
-<td><div align="center"><a href="https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522764?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0e3abfb3-6f86-490b-b9d0-84e59edc84e6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Entry Level Software Engineer-Developer - Development</td>
 <td>Oklahoma City, OK</td>
 <td><div align="center"><a href="https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/172bdac1-ef4f-4891-8afb-b8676d403818?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>7d</td>
@@ -15227,7 +15220,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (374)</summary>
+<summary>🗃️ Inactive roles (375)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -15286,6 +15279,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>↳</td>
 <td>Electrical Hardware Engineer 1</td>
 <td>Roseville, CA</td>
+<td>🔒</td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company">Boeing</a></strong></td>
+<td>Entry Level Software Engineer-Developer - Development</td>
+<td>Tinker Air Force Base, Oklahoma City, OK</td>
 <td>🔒</td>
 <td>7d</td>
 </tr>
