@@ -388600,5 +388600,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mach9",
+        "id": "0e335514-6e0b-4932-bba0-5e2e0d8c9375",
+        "title": "Software Engineer - 3D Graphics",
+        "active": true,
+        "date_updated": 1792564233,
+        "date_posted": 1792564083,
+        "url": "https://jobs.ashbyhq.com/mach9/b5aaabd0-d286-440c-8e95-c650fceb0fa8/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Mach9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
