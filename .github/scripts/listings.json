@@ -1,150 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Global Channel Management",
-        "id": "9553a951-94b2-441a-ac0d-cccc7205d37d",
-        "title": "Quantitative Analyst 1",
-        "active": false,
-        "date_updated": 1771859601,
-        "date_posted": 1771859601,
-        "url": "https://jobs.smartrecruiters.com/GlobalChannelManagementInc/107765878",
-        "locations": [
-            "Columbia, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Global-Channel-Management",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "JP Morgan Chase",
-        "id": "8d3eb758-3edb-485b-9bd0-0110af4f4ec2",
-        "title": "Asset & Wealth Management - Product Manager - Associate",
-        "active": false,
-        "date_updated": 1771859658,
-        "date_posted": 1771859658,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210715513",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8eee8f3c-9ace-49b9-9313-aea923c55d42",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1771859368,
-        "date_posted": 1771859368,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050716",
-        "locations": [
-            "Portadown, Craigavon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "89bbdb2e-92e0-4309-b681-4c973cd1d004",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1771859367,
-        "date_posted": 1771859367,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050606",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "70f6e928-3295-43bd-bef4-29eaf018335c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1771859340,
-        "date_posted": 1771859340,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050704",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "6239c6dc-74e6-4b83-83a8-1bbc05167198",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1771859353,
-        "date_posted": 1771859353,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050565",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Keysight Technologies",
-        "id": "feccf71d-3854-43d2-b943-e99be4400e6a",
-        "title": "Trainee Repair Engineer",
-        "active": false,
-        "date_updated": 1771859054,
-        "date_posted": 1771859054,
-        "url": "https://jobs.keysight.com/jobs/51111?lang=en-us&icims=1",
-        "locations": [
-            "Twyford, Reading, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Coinbase",
-        "id": "52b651c8-be46-4b6c-9ef9-7c8d7bd812d3",
-        "title": "Product Manager 1 - Growth",
-        "active": false,
-        "date_updated": 1771859120,
-        "date_posted": 1771859120,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7623211",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Coinbase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Amentum",
         "id": "61897b58-573c-49ad-a044-fcd6c9abde98",
@@ -58970,24 +58826,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Global Channel Management",
-        "id": "7514d118-d429-4377-bfc4-2ce5317d4db7",
-        "title": "Data Processing",
-        "active": false,
-        "date_updated": 1774965096,
-        "date_posted": 1771859542,
-        "url": "https://jobs.smartrecruiters.com/GlobalChannelManagementInc/743999654250838",
-        "locations": [
-            "Grove City, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Global-Channel-Management",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Integrated Resources",
         "id": "a8d05e18-f7fd-4930-9cae-3350e97c2031",
@@ -59045,27 +58883,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Global Channel Management",
-        "id": "d2921f23-5304-401c-9a61-3f50038cc19e",
-        "title": "Marketing Analyst",
-        "active": false,
-        "date_updated": 1774962361,
-        "date_posted": 1771860164,
-        "url": "https://jobs.smartrecruiters.com/GlobalChannelManagementInc/108947150",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Global-Channel-Management",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "MBA"
         ]
     },
     {
