@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 533 New Grad Roles by Category
+### Browse 531 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (313)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (311)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (12)
 
@@ -759,13 +759,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>23d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Varsity-Brands?utm_source=GHList&utm_medium=company">Varsity Brands</a></strong></td>
-<td>Software Engineer 1 - .Net</td>
-<td>Memphis, TN</td>
-<td><div align="center"><a href="https://careers.varsitybrands.com/global/en/job/JR114518?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/416e85c5-846c-4613-8d4d-2eccfbae2735?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>25d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company">Nutanix</a></strong></td>
 <td>Software Engineer New Grad - Master’s - Bachelor’s + 2 🎓</td>
 <td>Vancouver, BC, Canada</td>
@@ -1036,13 +1029,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>C++ Software Developer New Grad - Rotational Program</td>
 <td>Montreal, QC, Canada</td>
 <td><div align="center"><a href="https://www.tower-research.com/open-positions/?gh_jid=8126667&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/fa14cffa-3145-47cb-9d4e-8e9db9974a51?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Nexthopai?utm_source=GHList&utm_medium=company">Nexthop.ai</a></strong></td>
-<td>Software Engineer New Grad</td>
-<td>Burnaby, BC, Canada</td>
-<td><div align="center"><a href="https://nexthopai.bamboohr.com/careers/62/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/36340c4d-5f81-4c62-876c-3159e88b62c3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -2275,7 +2261,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1206)</summary>
+<summary>🗃️ Inactive roles (1208)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2709,6 +2695,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>23d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Varsity-Brands?utm_source=GHList&utm_medium=company">Varsity Brands</a></strong></td>
+<td>Software Engineer 1 - .Net</td>
+<td>Memphis, TN</td>
+<td>🔒</td>
+<td>25d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Toronto, ON, Canada</td>
@@ -2950,6 +2943,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/LexisNexis-Legal-And-Professional?utm_source=GHList&utm_medium=company">LexisNexis Legal & Professional</a></strong></td>
 <td>Software Engineer 1 - Aspire Graduate Program</td>
 <td>Raleigh, NC</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Nexthopai?utm_source=GHList&utm_medium=company">Nexthop.ai</a></strong></td>
+<td>Software Engineer New Grad</td>
+<td>Burnaby, BC, Canada</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
