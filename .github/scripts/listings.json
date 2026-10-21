@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fidelity Investments",
-        "id": "25991656-0036-4b4d-8c29-b6dc5e107669",
-        "title": "Associate Full Stack Engineer",
-        "active": false,
-        "date_updated": 1771832199,
-        "date_posted": 1771832199,
-        "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Associate-Full-Stack-Engineer_2124333",
-        "locations": [
-            "Merrimack, NH"
-        ],
-        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Blue Sky Innovators",
-        "id": "7c6ce81f-93d1-46b9-a710-cd27563baf97",
-        "title": "Radio Frequency Machine Learning - Rfml - Product Workflow Engineer",
-        "active": false,
-        "date_updated": 1771832087,
-        "date_posted": 1771832087,
-        "url": "https://job-boards.greenhouse.io/blueskyinnovators/jobs/5128729008",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Sky-Innovators",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "8524ba95-cea7-45cc-8199-374cd6583895",
