@@ -185152,7 +185152,7 @@
         "company_name": "NCR Voyix",
         "id": "880e56e4-25c9-471f-b83a-aba5765b085f",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782512584,
         "date_posted": 1782511768,
         "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/SW-Engineer-I_R0157595",
@@ -208674,7 +208674,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -331678,7 +331678,7 @@
         "company_name": "The Trade Desk",
         "id": "6d42fde3-3d24-4d55-9b22-4bf3648adfc6",
         "title": "Data Support Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788509701,
         "date_posted": 1787091258,
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5165780007",
@@ -360332,7 +360332,7 @@
         "company_name": "RTX",
         "id": "8e1c4d71-6011-41b4-8948-e9bef181663f",
         "title": "Software Developer Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790807941,
         "date_posted": 1790726400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Developer-Engineer-I--Onsite-_01878887",
@@ -368715,7 +368715,7 @@
         "company_name": "Microsoft",
         "id": "79755c06-fd7a-4dea-ada1-9a9bf9eea208",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1791239565,
         "date_posted": 1791238620,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557021766",
@@ -377551,7 +377551,7 @@
         "company_name": "NVIDIA",
         "id": "8944e3f6-18d2-4e20-b86a-23223ceba88f",
         "title": "Software Engineer New Grad - DL Kernel Libraries",
-        "active": true,
+        "active": false,
         "date_updated": 1791767507,
         "date_posted": 1791676800,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
@@ -385477,7 +385477,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "6b020294-dd07-4368-8e44-a6ec90bcb635",
         "title": "VLSI Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792374360,
         "date_posted": 1792281600,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/VLSI-Engineer-I--_1214985",
@@ -386405,7 +386405,7 @@
         "company_name": "SAIC",
         "id": "8ccf1424-6b62-470f-93e0-ad607c1f232d",
         "title": "Software Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792449734,
         "date_posted": 1792449608,
         "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618125",
@@ -388337,5 +388337,147 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "d848615a-0d50-478c-a92e-2dda9489542c",
+        "title": "Software Engineer New Grad - Agent Performance Modeling",
+        "active": true,
+        "date_updated": 1792545166,
+        "date_posted": 1792454400,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Renesas Electronics",
+        "id": "c4c2f239-c9e6-4aa6-ba14-68423bd6c45d",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1792545127,
+        "date_posted": 1792545108,
+        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000156404329",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Renesas-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brain Co.",
+        "id": "a012a300-cb95-495b-9875-a2f2d0a8a1f0",
+        "title": "Machine Learning Engineer New Grad",
+        "active": true,
+        "date_updated": 1792545156,
+        "date_posted": 1792544959,
+        "url": "https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Brain-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Brain Co.",
+        "id": "96705002-95d7-4a17-8292-87bbaea60a95",
+        "title": "AI Platform Engineer New Grad",
+        "active": true,
+        "date_updated": 1792545157,
+        "date_posted": 1792544960,
+        "url": "https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Brain-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Brain Co.",
+        "id": "7654bad4-ebff-466a-bd2d-63a5d167ba11",
+        "title": "AI Product Engineer New Grad",
+        "active": true,
+        "date_updated": 1792545149,
+        "date_posted": 1792544959,
+        "url": "https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Brain-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "5f2478e7-cb53-4cf3-821d-9acf12aa4f9a",
+        "title": "Power Architect",
+        "active": true,
+        "date_updated": 1792545148,
+        "date_posted": 1792454400,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Power-Architect---New-College-Grad-2027_JR2027718",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RoboForce",
+        "id": "236f1366-9b33-4f75-bc9b-0495fa17b755",
+        "title": "AI Resident",
+        "active": true,
+        "date_updated": 1792544768,
+        "date_posted": 1792544648,
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/5459229008",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RoboForce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
