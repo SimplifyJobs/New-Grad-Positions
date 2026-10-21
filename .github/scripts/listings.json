@@ -346856,7 +346856,7 @@
         "company_name": "RTX",
         "id": "938e545a-d865-454b-a353-80ef26b0f317",
         "title": "Electrical Computer-Aided Design Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1789598177,
         "date_posted": 1789516800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/ECAD-Engineer-I---Onsite_01834011",
@@ -367913,7 +367913,7 @@
         "company_name": "RTX",
         "id": "9bc65f57-e01d-490a-8a88-2a5990ce2444",
         "title": "FPGA/Digital Design Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1791240291,
         "date_posted": 1791158400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB4--836-North-St--INNOVATION-BLDG/FPGA--Digital-Design-Engineer-II---Onsite_01879345",
@@ -385241,7 +385241,7 @@
         "company_name": "Unilever",
         "id": "e00648e9-b709-449f-beb7-10dafb402e04",
         "title": "Unilever Future Leadership Programme - Data & Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1792409761,
         "date_posted": 1792368000,
         "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Early_Careers/job/United-Kingdom/Unilever-Future-Leadership-Programme---Data---Analytics-UK_R-1188847",
@@ -388255,6 +388255,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Omnicom Group",
+        "id": "6d99930e-e83d-4504-b53f-6c1b9a8698a5",
+        "title": "Senior Director, Data Science",
+        "active": true,
+        "date_updated": 1792583155,
+        "date_posted": 1790208000,
+        "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/Chicago-Illinois-United-States-of-America/Senior-Director--Data-Science_R13752",
+        "locations": [
+            "SF",
+            "LA",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Omnicom-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
