@@ -243029,7 +243029,7 @@
         "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
         "id": "21891d00-3597-4abe-b856-02cb924e0f6c",
         "title": "Software Developer 1 - Psychiatry",
-        "active": false,
+        "active": true,
         "date_updated": 1785365250,
         "date_posted": 1785283200,
         "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Developer-I_JR223867",
@@ -381558,7 +381558,7 @@
         "company_name": "Boeing",
         "id": "172bdac1-ef4f-4891-8afb-b8676d403818",
         "title": "Entry Level Software Engineer-Developer - Development",
-        "active": true,
+        "active": false,
         "date_updated": 1792017732,
         "date_posted": 1791936000,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577",
@@ -388287,6 +388287,24 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Mach9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "UL Solutions",
+        "id": "4a2f11cc-6ffc-4035-947c-2df8fb154332",
+        "title": "Laboratory Technician - Electronic Controls",
+        "active": true,
+        "date_updated": 1792571584,
+        "date_posted": 1790201205,
+        "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10958",
+        "locations": [
+            "Northbrook, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/UL-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
