@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "WPP Media",
-        "id": "eda1b6fd-f22e-4bf1-b2bc-1b2df3d79e84",
-        "title": "Data Executive",
-        "active": false,
-        "date_updated": 1771845561,
-        "date_posted": 1771845561,
-        "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5117302008",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/WPP-Media",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Fugro",
         "id": "d40e41cd-439c-4782-adda-73c0d8707fc7",
         "title": "Staff GIS Specialist",
@@ -158980,7 +158960,7 @@
         "company_name": "KLA Corporation",
         "id": "1995623f-8e76-4000-a296-e7c737caff44",
         "title": "Software Engineer - Embedded Software/Firmware Development - Embedded Image Processing",
-        "active": true,
+        "active": false,
         "date_updated": 1781053741,
         "date_posted": 1781053662,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineer---Embedded-Software-Firmware-Development---Embedded-Image-Processing--_2636711-1",
@@ -365701,7 +365681,7 @@
         "company_name": "RTX",
         "id": "f4abd014-83a4-4f62-b404-1fe28a2f422a",
         "title": "Receiver \u2013 Exciter - & Processing Architecture Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1791118130,
         "date_posted": 1789516800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-I---Onsite_01873475",
@@ -380893,7 +380873,7 @@
         "company_name": "Boeing",
         "id": "9c7fd5ef-e102-4131-9530-64b9f976d432",
         "title": "Entry Level Software Engineer-Developer - Development",
-        "active": true,
+        "active": false,
         "date_updated": 1792016462,
         "date_posted": 1791936000,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577-1",
@@ -387541,7 +387521,7 @@
         "company_name": "RTX",
         "id": "95b3dfd1-411e-4ccf-bb03-ce35e28541c5",
         "title": "Product Development Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792534741,
         "date_posted": 1792454400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Product-Development-Electrical-Engineer-I--Onsite-_01880626",
@@ -388249,6 +388229,26 @@
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA--Digital-Design-Engineer-II---Onsite_01879327",
         "locations": [
             "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "f4c039c8-2722-4a57-958d-8c31a82955f1",
+        "title": "Systems Engineer 2",
+        "active": true,
+        "date_updated": 1792581173,
+        "date_posted": 1790726400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer-II--Onsite_01878214",
+        "locations": [
+            "Tewksbury, MA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
