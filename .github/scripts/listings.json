@@ -143102,7 +143102,7 @@
         "company_name": "Pennsylvania State University",
         "id": "f3ff741f-77be-4b2a-b009-89ebdaa0cbec",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779963040,
         "date_posted": 1778946351,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Embedded-Software-Engineer_REQ_0000078042-1",
@@ -243901,7 +243901,7 @@
         "company_name": "Pennsylvania State University",
         "id": "f205101a-c504-424c-a768-a9e0ebb3adf3",
         "title": "Computer Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785414681,
         "date_posted": 1783163077,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Computer-Engineer_REQ_0000077378-2",
@@ -314865,7 +314865,7 @@
         "company_name": "RTX",
         "id": "2731c2cc-55cc-4d95-9f8c-4151e213d7ac",
         "title": "Electrical Components Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1788413039,
         "date_posted": 1788307200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Electrical-Components-Engineer-I---Onsite_01871856",
@@ -322965,7 +322965,7 @@
         "company_name": "Johnson & Johnson",
         "id": "99db0e09-f672-4d8a-942d-ea95fb704ed8",
         "title": "Translational Postdoctoral Researcher - Agentic AI for Neurodegeneration",
-        "active": true,
+        "active": false,
         "date_updated": 1788435190,
         "date_posted": 1783473196,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Translational-Post-Doctoral-Researcher---Agentic-AI-for-Neurodegeneration_R-074853-1",
@@ -338555,7 +338555,7 @@
         "company_name": "Pennsylvania State University",
         "id": "4115edde-4ae5-4920-b782-86b84818fcc2",
         "title": "Software Engineer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1789050816,
         "date_posted": 1788998400,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/R-D-Engineer--Software-Engineer_REQ_0000081569-2",
@@ -365051,7 +365051,7 @@
         "company_name": "RTX",
         "id": "6b61b376-6a68-4957-ad6a-d044c1d16214",
         "title": "Systems Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1791115723,
         "date_posted": 1788393600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineer-II--Onsite_01872207",
@@ -365964,7 +365964,7 @@
         "company_name": "AVEVA",
         "id": "51946334-d494-46ce-8822-427fb8722c49",
         "title": "Principal Research Scientist - Frontier Industrial AI",
-        "active": true,
+        "active": false,
         "date_updated": 1791121599,
         "date_posted": 1785974400,
         "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/San-Leandro-California-United-States-of-America/Principal-Research-Scientist---Frontier-Industrial-AI_R015024",
@@ -380853,7 +380853,7 @@
         "company_name": "Boeing",
         "id": "2834c42b-eb29-4665-86b5-a65ef7b48f9f",
         "title": "Entry Level Software Engineer-Developer - Development",
-        "active": true,
+        "active": false,
         "date_updated": 1792016462,
         "date_posted": 1791936000,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522764-1",
@@ -388278,6 +388278,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "607f542d-7038-47f1-8a20-26215c68cd91",
+        "title": "FPGA/Digital Design Engineer 2",
+        "active": true,
+        "date_updated": 1792584236,
+        "date_posted": 1791158400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/FPGA--Digital-Design-Engineer-II---Onsite_01879342",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
