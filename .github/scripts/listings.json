@@ -164892,7 +164892,7 @@
         "company_name": "Guidehouse",
         "id": "73c86849-e681-4218-9129-b45765e95871",
         "title": "Border Security AI/ML Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781369101,
         "date_posted": 1781361222,
         "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Sterling/Border-Security-AI-ML-Engineer_40006",
@@ -387546,6 +387546,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "4cfab2b8-f3f3-4b5e-b36a-df9c1747f11b",
+        "title": "Research Scientist",
+        "active": true,
+        "date_updated": 1792631706,
+        "date_posted": 1792631601,
+        "url": "https://jobs.bytedance.com/en/position/7698902624003229957/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
