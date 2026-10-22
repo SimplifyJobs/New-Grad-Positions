@@ -213634,7 +213634,7 @@
         "company_name": "Capital One",
         "id": "d03ac761-2dfa-4cd7-bd7c-797b6ff89c19",
         "title": "Software Engineer New Grad - Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784587302,
         "date_posted": 1784505600,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
@@ -361292,7 +361292,7 @@
         "company_name": "RTX",
         "id": "9c0aa30d-d426-43c7-a629-0ec4268286c7",
         "title": "Software Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1791118087,
         "date_posted": 1788825600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-II--Onsite-_01872779",
@@ -368989,7 +368989,7 @@
         "company_name": "RTX",
         "id": "e5467def-2b54-4bda-90a0-cdb22e92de7f",
         "title": "Embedded Software Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1791412931,
         "date_posted": 1791331200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909",
@@ -385743,6 +385743,47 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Draper",
+        "id": "ceafe55a-b038-4f84-97a8-40d747032438",
+        "title": "Software Machine Learning Engineer - GNSS - Software Defined Radio",
+        "active": true,
+        "date_updated": 1792680146,
+        "date_posted": 1792627200,
+        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Mach-Learn-Engr--GNSS--Software-Defined-Radio-_JR003064",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Draper",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aerotech",
+        "id": "696b3354-b0bb-4ad0-bd2d-554d875e4e12",
+        "title": "Software Engineer - Embedded Development",
+        "active": true,
+        "date_updated": 1792679582,
+        "date_posted": 1792679442,
+        "url": "https://aerotech.applytojob.com/apply/qvl9WUuH2i/Software-Engineer-Embedded-Development",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aerotech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
