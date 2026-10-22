@@ -272093,7 +272093,7 @@
         "company_name": "Epos Now Group",
         "id": "670d458a-456d-4e42-8032-bcf187bd3649",
         "title": "Software Engineer 3",
-        "active": true,
+        "active": false,
         "date_updated": 1786602832,
         "date_posted": 1786602082,
         "url": "https://eposnowgroup.bamboohr.com/careers/567/",
@@ -296410,7 +296410,7 @@
         "company_name": "Tesla",
         "id": "4313018c-b18f-43d6-93e3-df7efe66ba77",
         "title": "Data Collection Operator - Optimus",
-        "active": true,
+        "active": false,
         "date_updated": 1787736107,
         "date_posted": 1785593848,
         "url": "https://www.tesla.com/careers/search/job/270213",
@@ -327505,7 +327505,7 @@
         "company_name": "Deepgram",
         "id": "65489b2c-dccf-4a4b-b089-0a049511d131",
         "title": "Forward-Deployed Engineer - Strategic Accounts",
-        "active": true,
+        "active": false,
         "date_updated": 1788521614,
         "date_posted": 1787366146,
         "url": "https://jobs.ashbyhq.com/deepgram/4bfadd29-fa58-4e06-bbf0-7b5dbc41a621/application?embed=true",
@@ -373513,7 +373513,7 @@
         "company_name": "Momentum Engineering",
         "id": "62ab028d-331e-41a8-95de-eb17fc746284",
         "title": "Software Engineer 0",
-        "active": true,
+        "active": false,
         "date_updated": 1791845004,
         "date_posted": 1791843774,
         "url": "https://ats.rippling.com/momentumcareers/jobs/dbcd3c46-e2fa-4d75-8da1-ac8d15d3771e",
@@ -377892,7 +377892,7 @@
         "company_name": "Microsoft",
         "id": "50161eef-2c7f-459c-a201-280410aae6c7",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1792055266,
         "date_posted": 1792055063,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557027388",
@@ -380072,7 +380072,7 @@
         "company_name": "T-Mobile",
         "id": "261d38fb-d89b-4d4e-8f69-57bb0c3586f9",
         "title": "Associate Engineer - Software - Mobile App Development",
-        "active": true,
+        "active": false,
         "date_updated": 1792189804,
         "date_posted": 1792108800,
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Associate-Engineer---Software---Mobile-App-Development_REQ370392-1",
@@ -385411,6 +385411,89 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "23c417dd-4a2d-4c26-a7d1-380d2a7f24fe",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1792659146,
+        "date_posted": 1792454400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-II--Onsite-_01883050",
+        "locations": [
+            "West Valley City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "HavocAI",
+        "id": "81ba82ab-8b99-4b0a-8930-e44fbd524c1f",
+        "title": "Vehicle Autonomy Integration Engineer",
+        "active": true,
+        "date_updated": 1792659423,
+        "date_posted": 1791584756,
+        "url": "https://jobs.ashbyhq.com/havocai/a5644e94-3367-4040-9b36-62a76efcb8da/application?embed=true",
+        "locations": [
+            "North Kingstown, RI",
+            "Austin, TX",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Havoc-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cruise Planners",
+        "id": "7a81fe60-44f7-45e8-87de-aedbc27b7a73",
+        "title": "Data & AI Engineer",
+        "active": true,
+        "date_updated": 1792659317,
+        "date_posted": 1791555960,
+        "url": "https://ats.rippling.com/cruiseplanners/jobs/414d04d4-f099-4a35-8fbc-1cc7bec70462",
+        "locations": [
+            "Coral Springs, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Cruise-Planners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "79ffd196-4b5a-418e-84d3-1d4a49cd136d",
+        "title": "PCB Designer New Grad",
+        "active": true,
+        "date_updated": 1792659300,
+        "date_posted": 1790287510,
+        "url": "https://jobs.lever.co/shieldai/d4f68b62-871c-4c83-9c28-85591147907f/apply",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
