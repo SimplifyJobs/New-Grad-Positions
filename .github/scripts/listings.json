@@ -1,87 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "AeroVironment",
-        "id": "f4738f77-7902-4794-90e0-72dce0928ffc",
-        "title": "Production Technician 1",
-        "active": false,
-        "date_updated": 1771891642,
-        "date_posted": 1771891642,
-        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Production-Technician-I_6583",
-        "locations": [
-            "Simi Valley, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AeroVironment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Boeing Company",
-        "id": "8bedc19b-7eb0-4235-b460-14231c0a66fd",
-        "title": "Associate Engineering Data Specialist",
-        "active": false,
-        "date_updated": 1771891306,
-        "date_posted": 1771891306,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Associate-Engineering-Data-Specialist_JR2026497358-1",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "6e8cb3af-a4cb-42e0-bcd8-93925ca1f442",
-        "title": "Programmer Analyst \u2013 Associate or Mid-Level",
-        "active": false,
-        "date_updated": 1771891348,
-        "date_posted": 1771891348,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Programmer-Analyst--Associate-or-Mid-Level-_JR2026497877-1",
-        "locations": [
-            "North Charleston, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "2e04b7ae-bc33-4ec0-ac6a-02fb2ac76b0e",
-        "title": "Software Engineers-Hardware Emulation \u2013 Senior - Associate",
-        "active": false,
-        "date_updated": 1771891293,
-        "date_posted": 1771891293,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Software-Engineers-Hardware-Emulation--Associate--Experienced--Senior-_JR2026497732-3",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Royal Bank of Canada",
         "id": "994c7dea-1b93-4530-9438-b0ec84225bcb",
@@ -94,26 +13,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CVS Health",
-        "id": "12c8747d-61cc-4b84-b3d4-56af644a7290",
-        "title": "Associate Data Engineer",
-        "active": false,
-        "date_updated": 1771893053,
-        "date_posted": 1771893053,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Associate-Data-Engineer_R0794390",
-        "locations": [
-            "Texas"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -48693,26 +48592,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Thermo Fisher Scientific",
-        "id": "6b4caae9-e3ca-4d5c-acf5-ef1199e76e9d",
-        "title": "Field Service Representative 2",
-        "active": false,
-        "date_updated": 1774430801,
-        "date_posted": 1771892197,
-        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Toronto-Canada/Field-Service-Representative-II_R-01343156-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -312735,7 +312614,7 @@
         "company_name": "RTX",
         "id": "0a17411a-4f4c-4cdb-ba9c-4798c8a8eb96",
         "title": "Power & Analog Design Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788408727,
         "date_posted": 1788220800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WH--2501-W-University-Dr--WING-H-BLDG/Power---Analog-Design-Electrical-Engineer-I--Onsite-_01871484",
@@ -343845,7 +343724,7 @@
         "company_name": "Emerson Electric",
         "id": "3613890a-a6cc-4909-9aa1-7a2f658282c2",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789521302,
         "date_posted": 1789521147,
         "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010937",
@@ -369397,7 +369276,7 @@
         "company_name": "Barclays",
         "id": "2328fbc7-73f3-4860-9981-9ea499afed83",
         "title": "AI Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791326161,
         "date_posted": 1791325581,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Entitlements-Engineer---Data-Platform_JR-0000104461-2",
@@ -370940,7 +370819,7 @@
         "company_name": "Figma",
         "id": "32d5ea79-a210-4514-b23e-8525cb8c6a24",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1791413572,
         "date_posted": 1791412835,
         "url": "https://boards.greenhouse.io/figma/jobs/6180116004",
@@ -373642,7 +373521,7 @@
         "company_name": "UK Atomic Energy Authority",
         "id": "3c884079-cbcd-4502-8a43-cf5e5f314c4d",
         "title": "Graduate Knowledge Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791554941,
         "date_posted": 1791554930,
         "url": "https://jobs.smartrecruiters.com/UKAtomicEnergyAuthority/744000154650259",
