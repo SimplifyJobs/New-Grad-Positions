@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Royal Bank of Canada",
-        "id": "994c7dea-1b93-4530-9438-b0ec84225bcb",
-        "title": "Manager \u2013 Analytics Engineer",
-        "active": false,
-        "date_updated": 1771893137,
-        "date_posted": 1771893137,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager---Analytics-Engineer_R-0000160543-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "56cff4c4-bf56-46b7-9fa2-1f314a9762c0",
@@ -373501,7 +373481,7 @@
         "company_name": "UK Atomic Energy Authority",
         "id": "818f5d16-9bae-4cf7-958e-1ca99f850fa1",
         "title": "Graduate HPC Computational Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791555301,
         "date_posted": 1791554930,
         "url": "https://jobs.smartrecruiters.com/UKAtomicEnergyAuthority/744000154649080",
@@ -377606,7 +377586,7 @@
         "company_name": "NVIDIA",
         "id": "4cde3e80-0447-49b4-a9a7-0cbb52511d19",
         "title": "Formal Verification Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1791929825,
         "date_posted": 1791929507,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2007627",
