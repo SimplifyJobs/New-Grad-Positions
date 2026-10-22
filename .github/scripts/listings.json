@@ -224234,7 +224234,7 @@
         "company_name": "McMaster-Carr",
         "id": "4600d580-8dad-49ce-93c7-89ae51839461",
         "title": "Technology - Development - Design",
-        "active": true,
+        "active": false,
         "date_updated": 1784763200,
         "date_posted": 1784759219,
         "url": "https://job-boards.greenhouse.io/mcmastercarr/jobs/4250906009",
@@ -385604,5 +385604,24 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "R1 RCM",
+        "id": "636691a8-a377-4b9f-9540-af9a315361cc",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1792672268,
+        "date_posted": 1791417600,
+        "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Remote-USA/ML-Engineer--R37-_R260000007540",
+        "locations": [
+            "Remote in USA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/R1-RCM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
