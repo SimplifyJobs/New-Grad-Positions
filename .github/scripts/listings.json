@@ -357056,7 +357056,7 @@
         "company_name": "CoStar Group",
         "id": "0f1bea68-104b-4a4a-b7e1-562e9c4a1b50",
         "title": "Associate Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790894492,
         "date_posted": 1790812800,
         "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Embedded-Software-Engineer_R39949",
@@ -357648,7 +357648,7 @@
         "company_name": "Formlabs",
         "id": "2c5ec5b1-b23d-406f-a083-a6c9148ea875",
         "title": "R&D Reliability/Test Engineer - R&D Reliability Engineering Team",
-        "active": true,
+        "active": false,
         "date_updated": 1790936008,
         "date_posted": 1790720428,
         "url": "https://careers.formlabs.com/job/8241465/apply/?gh_jid=8241465",
@@ -377781,7 +377781,7 @@
         "company_name": "Microsoft",
         "id": "19107d15-9629-4efe-b0f5-7e1cc38dd47d",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792045284,
         "date_posted": 1792045225,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557026652",
@@ -385369,6 +385369,48 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Petfolk",
+        "id": "101d6598-2e85-4e94-89dd-6aaf227ae221",
+        "title": "Strategy Lead, AI - AI-Operations/Medops",
+        "active": true,
+        "date_updated": 1792656936,
+        "date_posted": 1784596680,
+        "url": "https://ats.rippling.com/petfolk/jobs/0d50eac0-a5ca-4094-a14d-98a48b702c81",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Petfolk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "0894c370-d7cf-4f20-88db-13b20a159da2",
+        "title": "CPU Performance Architect",
+        "active": true,
+        "date_updated": 1792656925,
+        "date_posted": 1782561248,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/CPU-Performance-Architect_JR0281596",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
