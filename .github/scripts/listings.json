@@ -176914,7 +176914,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "7bd6d4b2-7f58-44d8-b17b-c9825db464b0",
         "title": "Application Developer Analyst Level 1 - Information Technology",
-        "active": false,
+        "active": true,
         "date_updated": 1782339256,
         "date_posted": 1782338984,
         "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/otANzfw9?nl=1&nl=1&fr=false",
@@ -203919,7 +203919,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -325432,7 +325432,7 @@
         "company_name": "Applied Materials",
         "id": "12729453-987e-41d4-8d5e-86bc51fb6af7",
         "title": "Software Engineer - New College Grad-Master's",
-        "active": false,
+        "active": true,
         "date_updated": 1788490284,
         "date_posted": 1788393600,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911",
@@ -355427,7 +355427,7 @@
         "company_name": "RTX",
         "id": "8e1c4d71-6011-41b4-8948-e9bef181663f",
         "title": "Software Developer Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1790807941,
         "date_posted": 1790726400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Developer-Engineer-I--Onsite-_01878887",
@@ -370098,7 +370098,7 @@
         "company_name": "RTX",
         "id": "9199e425-2144-4178-bac6-c9f1802f9f1e",
         "title": "Embedded Security Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1791499216,
         "date_posted": 1791417600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Embedded-Security-Software-Engineer-I--Onsite-_01881370",
@@ -376981,7 +376981,7 @@
         "company_name": "Boeing",
         "id": "172bdac1-ef4f-4891-8afb-b8676d403818",
         "title": "Entry Level Software Engineer-Developer - Development",
-        "active": false,
+        "active": true,
         "date_updated": 1792017732,
         "date_posted": 1791936000,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577",
@@ -386028,6 +386028,255 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/CDK-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Thermo Fisher Scientific",
+        "id": "dad4f37f-c017-4f05-82a4-52de0ab189cd",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1792708922,
+        "date_posted": 1792627200,
+        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Data-Engineer_R-01372756",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "b160c2da-eab8-4a59-9b66-181feed9fbdb",
+        "title": "Forward Deployed Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1792708793,
+        "date_posted": 1792708611,
+        "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "4eb9eb5f-174e-45ca-8f44-81a59f82cdeb",
+        "title": "Firmware Engineer",
+        "active": true,
+        "date_updated": 1792708383,
+        "date_posted": 1792708297,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41408",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "d08ff05d-2f93-43d0-9be9-3828ab60c15b",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1792708276,
+        "date_posted": 1792627200,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252280",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "5b0e9d21-c3ae-4d90-942f-5d0d6ac9c90b",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1792708276,
+        "date_posted": 1792627200,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Data-Scientist_R0252282",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "5dd20db4-2a48-4210-930a-e6630cac52bc",
+        "title": "Systems Engineer",
+        "active": true,
+        "date_updated": 1792708272,
+        "date_posted": 1792627200,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Systems-Engineer_R0252284",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RWS",
+        "id": "42feb0a6-35b9-4697-a15c-c7ad4d3cb314",
+        "title": "AI Conversation Recording Contributor",
+        "active": true,
+        "date_updated": 1792708207,
+        "date_posted": 1792708185,
+        "url": "https://jobs.lever.co/rws/8d40e2c0-ace5-4626-9c78-1e743ad1b8b0/apply",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RWS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boeing",
+        "id": "b710876f-4996-45f0-a639-9cb3be5ac486",
+        "title": "Entry-Level Software Engineer",
+        "active": true,
+        "date_updated": 1792708207,
+        "date_posted": 1792627200,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321",
+        "locations": [
+            "Maryland Heights, MO",
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "30863c37-396f-42bc-abfa-8e774138d558",
+        "title": "Electrical Design Engineer 1",
+        "active": true,
+        "date_updated": 1792708260,
+        "date_posted": 1792627200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-KY-LOUISVILLE-102--6201-Strawberry-Ln--STRAWBERRY/Electrical-Engineer-I--Onsite-_01884305",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Motorola Solutions",
+        "id": "9ee86925-122c-488b-bf18-97791c65a34a",
+        "title": "Entry Level Control Hardware Development Engineer",
+        "active": true,
+        "date_updated": 1792708207,
+        "date_posted": 1792627200,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Entry-Level-Control-Hardware-Development-Engineer_R67706",
+        "locations": [
+            "Schaumburg, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Williams",
+        "id": "5b4f8b91-38da-4838-89f4-c17901384470",
+        "title": "IT Analyst 1",
+        "active": true,
+        "date_updated": 1792708256,
+        "date_posted": 1792627200,
+        "url": "https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/IT-Analyst-I_R112897",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Williams",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
