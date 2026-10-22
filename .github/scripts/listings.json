@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5675dea8-90c5-4499-88c7-db06de435350",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1771928487,
-        "date_posted": 1771928487,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050600",
-        "locations": [
-            "Bath, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Confluent",
         "id": "03f7c033-9c89-432f-9e62-5cce0e037ae6",
@@ -384820,7 +384802,7 @@
         "company_name": "AIG",
         "id": "92a80010-86da-474e-b0da-0b7d1a8b556c",
         "title": "Junior Data Analyst - Fraud and Recovery",
-        "active": true,
+        "active": false,
         "date_updated": 1792622529,
         "date_posted": 1792540800,
         "url": "https://aig.wd1.myworkdayjobs.com/aig/job/London/Junior-Data-Analyst--Fraud-and-Recovery-_JR2604029-1",
