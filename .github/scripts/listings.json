@@ -154969,7 +154969,7 @@
         "company_name": "KLA Corporation",
         "id": "4e49b75b-8d0c-4303-9116-f609c29b3324",
         "title": "Software Engineer - Embedded Software/Firmware Development - Embedded Image Processing",
-        "active": true,
+        "active": false,
         "date_updated": 1781053741,
         "date_posted": 1781053631,
         "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Software-Engineer---Embedded-Software-Firmware-Development---Embedded-Image-Processing--_2636711",
@@ -385582,6 +385582,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "cfb5c410-4f53-4c7d-ac5a-eafa72cfbe58",
+        "title": "Electronic Warfare Software Engineer",
+        "active": true,
+        "date_updated": 1792671151,
+        "date_posted": 1787616000,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/2682-Huntsville-AL/Electronic-Warfare-Software-Engineer_R-00190536",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
