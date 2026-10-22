@@ -284621,7 +284621,7 @@
         "company_name": "L3Harris Technologies",
         "id": "a424b4b3-571e-4a67-a90c-6c2f388a61a1",
         "title": "Associate Integration/Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787063612,
         "date_posted": 1787063560,
         "url": "https://jobs.l3harris.com/job/Greenville-Associate,-IntegrationTest-Engineering-(Greenville,-TX)-TX-75402/1420469200/?ats=successfactors",
@@ -380372,7 +380372,7 @@
         "company_name": "Northrop Grumman",
         "id": "894104d6-66ef-4390-a36e-71f2891576fc",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792102225,
         "date_posted": 1792022400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineer-Dulles-VA_R10256306",
@@ -382109,7 +382109,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "ffb877b3-213f-40b4-aad9-17cb2cd90278",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792189953,
         "date_posted": 1792188446,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1440976000/?ats=successfactors",
@@ -387177,6 +387177,69 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "f0af7b08-4219-47f9-bdb7-9ff2e900dcc8",
+        "title": "Software Development Engineer 1 - AI/ML Network Infrastructure",
+        "active": true,
+        "date_updated": 1792649919,
+        "date_posted": 1792649750,
+        "url": "https://amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "f970364b-ba46-4607-8459-05ce7311e1b5",
+        "title": "Robotics Embedded Software Development Engineer",
+        "active": true,
+        "date_updated": 1792649924,
+        "date_posted": 1792649751,
+        "url": "https://amazon.jobs/en/jobs/10522935/robotics-embedded-software-development-engineer",
+        "locations": [
+            "North Reading, MA",
+            "Westborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TD Bank",
+        "id": "506eb155-e5c6-4192-abc5-fe5c6c71310b",
+        "title": "Technology New Grad",
+        "active": true,
+        "date_updated": 1792649755,
+        "date_posted": 1792627200,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Technology-Graduate-Programme_R_1518238",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
