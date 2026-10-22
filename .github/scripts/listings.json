@@ -241753,7 +241753,7 @@
         "company_name": "Pennsylvania State University",
         "id": "d49d4a3f-dcd1-4699-9cad-00b2bbc628dc",
         "title": "Simulation Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785498009,
         "date_posted": 1783163790,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Simulation-Software-Engineer_REQ_0000076942-2",
@@ -361173,7 +361173,7 @@
         "company_name": "Intel",
         "id": "9d1f281b-127a-49be-8b6e-980d97055a8f",
         "title": "Advanced Device Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791122239,
         "date_posted": 1790640000,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Intel-Foundry-Advanced-Device-Development-Engineer_JR0287390",
@@ -367929,7 +367929,7 @@
         "company_name": "Omnicom Group",
         "id": "87af3741-b7cb-43fd-b696-2903c7914802",
         "title": "Associate Marketing Science",
-        "active": true,
+        "active": false,
         "date_updated": 1791374613,
         "date_posted": 1785456000,
         "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/Chicago-Illinois-United-States-of-America/Data-Science-and-Analytics-NEX-03_R11427",
@@ -385338,7 +385338,7 @@
         "company_name": "TD Bank",
         "id": "506eb155-e5c6-4192-abc5-fe5c6c71310b",
         "title": "Technology New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1792649755,
         "date_posted": 1792627200,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Technology-Graduate-Programme_R_1518238",
@@ -385562,6 +385562,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Curtiss-Wright",
+        "id": "bcd91c49-57ee-49ef-912f-7a444e4e3741",
+        "title": "Graduate Electronics Engineer",
+        "active": true,
+        "date_updated": 1792668966,
+        "date_posted": 1787702400,
+        "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/UK-Wimborne-Nuclear/Electronics-Engineer_JR12401-1",
+        "locations": [
+            "Wimborne Minster, Wimborne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Curtiss-Wright",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
