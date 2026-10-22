@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 532 New Grad Roles by Category
+### Browse 531 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (312)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (311)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (12)
 
@@ -1655,13 +1655,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Pariveda-Solutions?utm_source=GHList&utm_medium=company">Pariveda Solutions</a></strong></td>
-<td>Entry Level Software Engineer</td>
-<td><details><summary><strong>9 locations</strong></summary>Seattle, WA</br>Houston, TX</br>SF</br>LA</br>Dallas, TX</br>Philadelphia, PA</br>Chicago, IL</br>NYC</br>Atlanta, GA</details></td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1b2d5e3a-9ab3-42a9-ab25-8ade9c457825?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/SOCOTEC-Global?utm_source=GHList&utm_medium=company">SOCOTEC Global</a></strong></td>
 <td>Junior Software Engineer</td>
 <td>NYC</td>
@@ -2268,7 +2261,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1207)</summary>
+<summary>🗃️ Inactive roles (1208)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -4343,6 +4336,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Clark-AI?utm_source=GHList&utm_medium=company">Clark</a></strong></td>
 <td>Junior Software Engineer</td>
 <td>NYC</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Pariveda-Solutions?utm_source=GHList&utm_medium=company">Pariveda Solutions</a></strong></td>
+<td>Entry Level Software Engineer</td>
+<td><details><summary><strong>9 locations</strong></summary>Seattle, WA</br>Houston, TX</br>SF</br>LA</br>Dallas, TX</br>Philadelphia, PA</br>Chicago, IL</br>NYC</br>Atlanta, GA</details></td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
