@@ -1,120 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "06a3ad28-778e-4eee-9353-85d16a2c4ee4",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1771985344,
-        "date_posted": 1771985344,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050986",
-        "locations": [
-            "Tunbridge Wells, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mindlance",
-        "id": "9d4d3c24-151d-4061-ab4c-61fcc0f6ad56",
-        "title": "Database Coordinator",
-        "active": false,
-        "date_updated": 1771986069,
-        "date_posted": 1771986069,
-        "url": "https://jobs.smartrecruiters.com/Mindlance2/92047024",
-        "locations": [
-            "Paramus, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Mindlance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mindlance",
-        "id": "b30aef5e-0da3-4f16-8353-a69402a9941f",
-        "title": "Entry Level Database Developer",
-        "active": false,
-        "date_updated": 1771985921,
-        "date_posted": 1771985921,
-        "url": "https://jobs.smartrecruiters.com/Mindlance2/743999656707257",
-        "locations": [
-            "Frisco, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Mindlance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mindlance",
-        "id": "7a5fb4fd-b566-4712-8377-b3dfcbd2df38",
-        "title": "Web/Marketing Analytics",
-        "active": false,
-        "date_updated": 1771985938,
-        "date_posted": 1771985938,
-        "url": "https://jobs.smartrecruiters.com/Mindlance2/743999657437717",
-        "locations": [
-            "Western Springs, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Mindlance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SpaceX",
-        "id": "7a30fdfc-b4b3-48bb-b4b9-d379a5e7a087",
-        "title": "Diamond Turning Machinist - Starlink",
-        "active": false,
-        "date_updated": 1771985930,
-        "date_posted": 1771985930,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8428913002",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "c1a5338d-1892-4030-8df9-7136ad52b982",
-        "title": "Engineering Technician A",
-        "active": false,
-        "date_updated": 1771985601,
-        "date_posted": 1771985601,
-        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-A-UT-84116/1367522500/?ats=successfactors",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "General Motors",
         "id": "9625e78d-5698-46ee-b54e-749e328b0095",
@@ -137,24 +23,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mindlance",
-        "id": "ea3db61c-719a-4562-a053-f71825957f10",
-        "title": "Maps and Records Technician",
-        "active": false,
-        "date_updated": 1771985931,
-        "date_posted": 1771985931,
-        "url": "https://jobs.smartrecruiters.com/Mindlance2/743999654969247",
-        "locations": [
-            "Syracuse, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Mindlance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "PVH",
         "id": "b2cf1817-384b-4b3a-9852-2def4c845867",
@@ -167,46 +35,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/PVH",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "f4dc7b42-37de-4758-8e11-0e952932b80f",
-        "title": "Engineering Technician A",
-        "active": false,
-        "date_updated": 1771985613,
-        "date_posted": 1771985613,
-        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-A-UT-84116/1367521700/?ats=successfactors",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Miracle Software Systems",
-        "id": "a5639007-e5ff-4da1-9359-39d1c379df96",
-        "title": "Software Developer - Full time",
-        "active": true,
-        "date_updated": 1771985640,
-        "date_posted": 1771985640,
-        "url": "https://jobs.smartrecruiters.com/MiracleSoftwareSystem1/743999691008059",
-        "locations": [
-            "Bentonville, AR",
-            "Novi, MI",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Miracle-Software-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -232,64 +60,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "MAT Holdings",
-        "id": "981f2626-8819-4648-86c1-d1ab6a6bb5c9",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1771985621,
-        "date_posted": 1771985621,
-        "url": "https://jobs.smartrecruiters.com/MATHoldings/744000086453031",
-        "locations": [
-            "Jackson, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/MAT-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Mindlance",
-        "id": "544d479c-79d2-4942-bc29-de87eeef8c1b",
-        "title": "Technical Product Owner",
-        "active": false,
-        "date_updated": 1771986055,
-        "date_posted": 1771986055,
-        "url": "https://jobs.smartrecruiters.com/Mindlance2/93714841",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Mindlance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "PermitFlow",
-        "id": "7fa1d4d8-c83e-4dbb-8172-66eff3bb6363",
-        "title": "Fullstack Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1771985297,
-        "date_posted": 1771985297,
-        "url": "https://jobs.ashbyhq.com/permitflow/78b1fccf-2ed9-4485-bd40-4a5aea3907d4/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/PermitFlow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -53759,44 +53529,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Mindlance",
-        "id": "068c5fee-26f7-4a95-99b5-995267dbf0df",
-        "title": "Digital Marketing or Technology/ Project Assistant",
-        "active": false,
-        "date_updated": 1774975141,
-        "date_posted": 1771986074,
-        "url": "https://jobs.smartrecruiters.com/Mindlance2/90941747",
-        "locations": [
-            "Livingston, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Mindlance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Myriad Genetics",
-        "id": "c112be05-b84b-4171-a4f6-6179189e0a5d",
-        "title": "Genetic Data Analyst",
-        "active": false,
-        "date_updated": 1774975141,
-        "date_posted": 1771985590,
-        "url": "https://jobs.smartrecruiters.com/MyriadGenetics1/743999837980179",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Myriad-Genetics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Saxon Global",
         "id": "ff5eb60f-ea2d-43d7-971e-fd3ac3915d43",
@@ -54001,26 +53733,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mindlance",
-        "id": "68c9c709-6701-42c1-b4a1-7dc087873405",
-        "title": "iOS Developer",
-        "active": false,
-        "date_updated": 1774976121,
-        "date_posted": 1771986024,
-        "url": "https://jobs.smartrecruiters.com/Mindlance2/95046468",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Mindlance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -54600,24 +54312,6 @@
             "Princeton, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Tech-Tammina",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mindlance",
-        "id": "53d494d3-bfed-4996-9165-15ffb7c486f6",
-        "title": "Senior Business System Analyst/ Production Support/ Data Analyst",
-        "active": false,
-        "date_updated": 1775001578,
-        "date_posted": 1771986066,
-        "url": "https://jobs.smartrecruiters.com/Mindlance2/91589875",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Mindlance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -56112,24 +55806,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mindlance",
-        "id": "2e79b2fe-c212-4a91-ae33-f27118f41aa7",
-        "title": "Digital Production Coordinator",
-        "active": false,
-        "date_updated": 1774981261,
-        "date_posted": 1771986014,
-        "url": "https://jobs.smartrecruiters.com/Mindlance2/98883048",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Mindlance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -319475,48 +319151,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Myriad Genetics",
-        "id": "ea89eb5d-1ce4-4b97-855e-ecb9edab70ab",
-        "title": "Bioinformatics Analyst 1",
-        "active": true,
-        "date_updated": 1788458060,
-        "date_posted": 1771986271,
-        "url": "https://jobs.smartrecruiters.com/MyriadGenetics1/743999840346818",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Myriad-Genetics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Myriad Genetics",
-        "id": "8fd4f758-40e0-49b6-8857-15b1a8965479",
-        "title": "Bioinformatics Analyst 1",
-        "active": true,
-        "date_updated": 1788458060,
-        "date_posted": 1771985589,
-        "url": "https://jobs.smartrecruiters.com/MyriadGenetics1/743999840020171",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Myriad-Genetics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
