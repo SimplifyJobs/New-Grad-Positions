@@ -2,68 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "General Motors",
-        "id": "9625e78d-5698-46ee-b54e-749e328b0095",
-        "title": "Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1771987738,
-        "date_posted": 1771987738,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
-        "locations": [
-            "Warren, MI",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "PVH",
-        "id": "b2cf1817-384b-4b3a-9852-2def4c845867",
-        "title": "Assistant Merchandiser",
-        "active": false,
-        "date_updated": 1771987324,
-        "date_posted": 1771987324,
-        "url": "https://pvh.wd1.myworkdayjobs.com/en-US/PVH_Careers/job/New-York-NY-Calvin-Klein-Office/Assistant-Merchandiser--Men-s-Apparel-Woven-Tops-and-Bottoms_R57837",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/PVH",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Aristocrat Leisure",
-        "id": "9b2e6700-09fb-412d-8c0f-c9cba7d636e7",
-        "title": "Digital Games Coordinator",
-        "active": false,
-        "date_updated": 1771986990,
-        "date_posted": 1771986990,
-        "url": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Charleston-WV-US/Digital-Games-Coordinator_R0020661",
-        "locations": [
-            "Charleston, WV"
-        ],
-        "company_url": "https://simplify.jobs/c/Aristocrat-Leisure",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "NVIDIA",
         "id": "2186dfd7-23b0-4041-809c-bb98ccfe8e98",
         "title": "Software Development Engineer - CAD Infrastructure",
