@@ -74881,7 +74881,7 @@
         "company_name": "Ascensus",
         "id": "c66fca3e-27e8-42e5-a6c7-38a60f39230b",
         "title": "Associate Software Engineer - Software Development",
-        "active": false,
+        "active": true,
         "date_updated": 1776120310,
         "date_posted": 1776117949,
         "url": "https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Dresher-PA/Associate-Software-Engineer_R0021231",
@@ -83066,7 +83066,7 @@
         "company_name": "Equifax",
         "id": "797283a3-845d-4408-9a7b-b3fad3eb78fb",
         "title": "Rotational Technology Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1776528902,
         "date_posted": 1776527351,
         "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Rotational-Technology-Associate_J00170962",
@@ -209513,7 +209513,7 @@
         "company_name": "The Boeing Company",
         "id": "a6aaef17-692b-47d3-b343-0592b9b8d586",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784423881,
         "date_posted": 1784332800,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Omaha-NE/Software-Engineer_JR2026517990-1",
@@ -216169,7 +216169,7 @@
         "company_name": "Pennsylvania State University",
         "id": "c2f5393e-5085-4e0d-abeb-baab50cf1601",
         "title": "Research Assistant/Programmer",
-        "active": true,
+        "active": false,
         "date_updated": 1784647948,
         "date_posted": 1783167402,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant-Programmer---Yanxi-Liu_REQ_0000078620",
@@ -294809,7 +294809,7 @@
         "company_name": "Health Services Advisory Group",
         "id": "12a3b7d1-090a-40ac-aa68-6b353cf34dc1",
         "title": "Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787781069,
         "date_posted": 1787780644,
         "url": "https://jobs.lever.co/hsag/2937f26a-3e66-4d42-ba61-c26e5b52f488/apply",
@@ -297137,7 +297137,7 @@
         "company_name": "Ernst & Young",
         "id": "e7428679-0ff4-45b7-8a59-135cb9b646cc",
         "title": "Agent Development Architect Senior",
-        "active": false,
+        "active": true,
         "date_updated": 1787869782,
         "date_posted": 1787869306,
         "url": "https://careers.ey.com/ey/job/Atlanta-Agent-Development-Architect-Senior-GA-30309/1431249733/",
@@ -298809,7 +298809,7 @@
         "company_name": "Verne Robotics",
         "id": "c30cb093-fd08-4b69-8630-8625bb0c89a3",
         "title": "Robot Pilot",
-        "active": false,
+        "active": true,
         "date_updated": 1787927401,
         "date_posted": 1787927298,
         "url": "https://jobs.ashbyhq.com/Verne%20Robotics/8bb2da10-4622-4111-99a7-a8f3a996c79e/application?embed=true",
@@ -302245,7 +302245,7 @@
         "company_name": "RTX",
         "id": "3bf8847d-0521-4245-b295-9395916e4a5b",
         "title": "Digital Hardware Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1788226004,
         "date_posted": 1788134400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Digital-Hardware-Engineering-I---Onsite_01870657",
@@ -304368,7 +304368,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "29bb6cd6-e553-402f-830b-ce2d4b9b15e1",
         "title": "Systems Engineer/Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1788288753,
         "date_posted": 1788288489,
         "url": "https://careers.jhuapl.edu/jobs/59373?icims=1",
@@ -308422,7 +308422,7 @@
         "company_name": "Watts Water",
         "id": "49f21606-3411-4ca0-83e3-4c9434d818e6",
         "title": "Product Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1788413227,
         "date_posted": 1788307200,
         "url": "https://wattswater.wd5.myworkdayjobs.com/external/job/Fort-Worth-TX/Product-Specialist_10017482",
@@ -309314,7 +309314,7 @@
         "company_name": "Leviton",
         "id": "2f512118-0dc9-4b79-be34-86a02e9063ca",
         "title": "Associate Electrical Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1788419886,
         "date_posted": 1787840127,
         "url": "https://careers.leviton.com/jobs/5996?icims=1",
@@ -309684,7 +309684,7 @@
         "company_name": "Innodata",
         "id": "73d4d73e-eb89-4866-adb4-29041dfafa54",
         "title": "Content Evaluator - Bilingual, Vietnamese and English",
-        "active": true,
+        "active": false,
         "date_updated": 1788420786,
         "date_posted": 1787795923,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4384507009",
@@ -356210,7 +356210,7 @@
         "company_name": "SpaceX",
         "id": "e49aa991-ccca-47e8-9561-11cabf65f0a1",
         "title": "Embedded Software Engineer - OS/Platform - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1791066601,
         "date_posted": 1787869234,
         "url": "https://boards.greenhouse.io/spacex/jobs/8752935002",
@@ -356230,7 +356230,7 @@
         "company_name": "SpaceX",
         "id": "6eab19d8-8453-44ae-9268-15dac78bd24e",
         "title": "Software Engineer - Flight Software - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1791066601,
         "date_posted": 1787784117,
         "url": "https://boards.greenhouse.io/spacex/jobs/8752581002",
@@ -358963,7 +358963,7 @@
         "company_name": "RTX",
         "id": "a89ac81c-9f79-4eb7-9652-c742ae0c8eb8",
         "title": "Digital Design Hardware Electrical Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1791121632,
         "date_posted": 1788220800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Digital-Design-Hardware-Electrical-Engineer-II--Onsite-_01868033",
@@ -361555,7 +361555,7 @@
         "company_name": "Resmed",
         "id": "eeb61a55-e885-45c8-a56f-8a173d4848d6",
         "title": "Associate Android Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1791249134,
         "date_posted": 1791158400,
         "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1",
@@ -376658,7 +376658,7 @@
         "company_name": "Synopsys",
         "id": "1f04c592-d034-4ffc-961b-a1817f0969b1",
         "title": "R&D Engineering - Staff Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792188722,
         "date_posted": 1788254738,
         "url": "https://synopsys.avature.net/careers/JobDetail/18519",
@@ -382772,7 +382772,7 @@
         "company_name": "RTX",
         "id": "29007636-36cc-4fa5-87d1-57f0e8ea834c",
         "title": "Power & Analog Design Electrical Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1792666290,
         "date_posted": 1788220800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WH--2501-W-University-Dr--WING-H-BLDG/Power---Analog-Design-Electrical-Engineer-II--Onsite-_01871535",
@@ -386259,5 +386259,440 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zipline",
+        "id": "7c8a439b-e2f4-43c5-ba65-d13c50932baf",
+        "title": "Hardware Test & Prototype Technician",
+        "active": true,
+        "date_updated": 1792755363,
+        "date_posted": 1792103079,
+        "url": "https://www.zipline.com/open-roles/7978940003?gh_jid=7978940003",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SimVentions",
+        "id": "0baf47ca-1855-4cb6-ba42-8212b73f6566",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1792756322,
+        "date_posted": 1788277475,
+        "url": "https://simventions.jibeapply.com/jobs/1626?icims=1",
+        "locations": [
+            "Fredericksburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/SimVentions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "fcfc69f5-3d8d-4739-9d07-a6bd5f9b93f0",
+        "title": "Associate Systems Engineering",
+        "active": true,
+        "date_updated": 1792756317,
+        "date_posted": 1788277166,
+        "url": "https://jobs.l3harris.com/job/Forest-Associate,-Systems-Engineering-VA-24551/1425416000/?ats=successfactors",
+        "locations": [
+            "Forest, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "67fff904-04d3-4acb-8ba7-360676860670",
+        "title": "Digital IC Design Engineer",
+        "active": true,
+        "date_updated": 1792756799,
+        "date_posted": 1788402968,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017552",
+        "locations": [
+            "Knoxville, TN",
+            "Dallas, TX",
+            "Phoenix, AZ",
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "27414c0d-d640-42fd-b3f7-8a08acbfff70",
+        "title": "Career Accelerator Program - Design Verification Engineer",
+        "active": true,
+        "date_updated": 1792756446,
+        "date_posted": 1788402938,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017554",
+        "locations": [
+            "Knoxville, TN",
+            "Dallas, TX",
+            "Phoenix, AZ",
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PTC",
+        "id": "21f7144e-f7d3-4dc0-9e59-5a49f5f04f28",
+        "title": "Associate Enterprise Integration Engineer",
+        "active": true,
+        "date_updated": 1792756446,
+        "date_posted": 1788307200,
+        "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Associate-Enterprise-Integration-Engineer_JR112677",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/PTC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Jupiter Intelligence",
+        "id": "c9f015cd-7bf5-4af8-b2dc-53d11a4ed4aa",
+        "title": "Quantitative Economic Modeler",
+        "active": true,
+        "date_updated": 1792756082,
+        "date_posted": 1788286213,
+        "url": "https://jobs.lever.co/jupiterintel/a5004b2b-3724-417d-bdca-eaba0d760e93/apply",
+        "locations": [
+            "San Mateo, CA",
+            "NYC",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Jupiter-Intelligence",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "571f8da6-0d05-4c5e-8b55-97207004aad8",
+        "title": "Commercial & Investment Banking - Innovation Development Program - Full-Time Analyst",
+        "active": true,
+        "date_updated": 1792756004,
+        "date_posted": 1788238296,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785427",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Express",
+        "id": "b8148e0d-633c-495b-9994-e1ec99b84c23",
+        "title": "Data Science Manager - Global Decision Science - Credit & Fraud Risk",
+        "active": true,
+        "date_updated": 1792755683,
+        "date_posted": 1788154008,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012699",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "AI Fund",
+        "id": "431ceca2-b8ad-40a5-ad8c-53a0db7e5c48",
+        "title": "Product Manager - B2B",
+        "active": true,
+        "date_updated": 1792755363,
+        "date_posted": 1787950409,
+        "url": "https://jobs.lever.co/AIFund/5649f7d0-8a6e-4da1-854b-14de8469dcc2/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AI-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "0f039a36-45a3-4f8c-a085-04eb2b938378",
+        "title": "Principal Engineer Device Engineering",
+        "active": true,
+        "date_updated": 1792755316,
+        "date_posted": 1787788800,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Principal-Eng-Device-Engineering_JR-2604444",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "e25826ec-3025-47d4-a2f3-764658079478",
+        "title": "ASIC Design Engineer 2",
+        "active": true,
+        "date_updated": 1792755011,
+        "date_posted": 1787702400,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/ASIC-Design-Engineer-2_1211208",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lucid Motors",
+        "id": "6d99567a-c323-4f04-a361-fa8f80e6adb9",
+        "title": "Power Electronics Technician - Power Electronics",
+        "active": true,
+        "date_updated": 1792755211,
+        "date_posted": 1787785986,
+        "url": "https://lucidmotors.com/careers/search/5216300007?gh_jid=5216300007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NewRocket",
+        "id": "a7b4ad9a-c794-4583-b22f-a118d879807c",
+        "title": "AI Engineer New Grad",
+        "active": true,
+        "date_updated": 1792755218,
+        "date_posted": 1787785023,
+        "url": "https://www.newrocket.com/careers/job?gh_jid=6164687004&gh_jid=6164687004",
+        "locations": [
+            "Remote in Finland",
+            "Remote in Poland",
+            "Remote in Portugal",
+            "Remote in Russia",
+            "Remote in Czechia",
+            "Remote in Slovenia",
+            "Remote in Germany",
+            "Remote in Belgium",
+            "Remote in North Macedonia",
+            "Remote in Norway",
+            "Remote in Slovakia",
+            "Remote in Belarus",
+            "Remote in Iceland",
+            "Remote in Monaco",
+            "Remote in Guernsey",
+            "Remote in Jersey",
+            "Remote in UK",
+            "Remote in Ireland",
+            "Remote in Ukraine",
+            "Remote in Greece",
+            "Remote in Faroe Islands",
+            "Remote in Andorra",
+            "Remote in Netherlands",
+            "Remote in Svalbard and Jan Mayen",
+            "Remote in Liechtenstein",
+            "Remote in Hungary",
+            "Remote in San Marino",
+            "Remote in Holy See (Vatican City State)",
+            "Remote in Bulgaria",
+            "Remote in Denmark",
+            "Remote in Malta",
+            "Remote in Albania",
+            "Remote in Serbia",
+            "Remote in Moldova",
+            "Remote in Isle of Man",
+            "Remote in Spain",
+            "Remote in Luxembourg",
+            "Remote in Sweden",
+            "Remote in Switzerland",
+            "Remote in \u00c5land Islands",
+            "Remote in Gibraltar",
+            "Remote in Croatia",
+            "Remote in Montenegro",
+            "Remote in Romania",
+            "Remote in Latvia",
+            "Remote in Bosnia and Herzegovina",
+            "Remote in Austria",
+            "Remote in Italy",
+            "Remote in Lithuania",
+            "Remote in Estonia",
+            "Remote in France"
+        ],
+        "company_url": "https://simplify.jobs/c/NewRocket",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Crane Co.",
+        "id": "9c3d73c1-63a7-4398-8983-ec5e79aaedb1",
+        "title": "Test & Measurement Associate Software Engineer",
+        "active": true,
+        "date_updated": 1792755011,
+        "date_posted": 1786924800,
+        "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Leicester-UK/Test---Measurement-Associate-Software-Engineer_JR102334",
+        "locations": [
+            "Leicester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Crane-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "National Laboratory of the Rockies",
+        "id": "b029fcfd-ff2f-4d16-a816-40b483ae5aca",
+        "title": "Postdoctoral Researcher - Molecular Beam Epitaxy of Ultra-Wide Bandgap Oxide and Nitride Materials",
+        "active": true,
+        "date_updated": 1792755363,
+        "date_posted": 1785888000,
+        "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Postdoctoral-Researcher---Molecular-Beam-Epitaxy-of-Ultra-Wide-Bandgap-Oxide-and-Nitride-Materials_R14451",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Laboratory-Of-The-Rockies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palo Alto Networks",
+        "id": "a5b917ab-9391-450c-bfc5-59a62a120ae6",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1792755363,
+        "date_posted": 1782943835,
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-013397",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "f6ed3c12-937d-4acf-932c-a7075534da17",
+        "title": "Research Assistant - Analyst",
+        "active": true,
+        "date_updated": 1792755036,
+        "date_posted": 1783159991,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time---Axson-Nursing-Lab---Analyst_REQ_0000054009-1",
+        "locations": [
+            "University Park, State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leonardo",
+        "id": "9d91f528-6859-4888-8348-836a8c6ee3f8",
+        "title": "Firmware/FPGA Engineer",
+        "active": true,
+        "date_updated": 1792755794,
+        "date_posted": 1782137254,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Firmware--FPGA-Engineers---all-levels_R0030762",
+        "locations": [
+            "Edinburgh, UK",
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
