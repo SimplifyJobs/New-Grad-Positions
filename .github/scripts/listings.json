@@ -1,47 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "9666eed6-2c60-41d8-b695-06caf6d430fa",
-        "title": "Software Engineer 1 - Software Engineer I",
-        "active": false,
-        "date_updated": 1772035748,
-        "date_posted": 1772035748,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/XMLNAME-2026-Full-time---Software-Engineer-I---RDPL---Onsite--CA-_01826305",
-        "locations": [
-            "Anaheim, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CACI",
-        "id": "8dc88895-f90a-4246-8aea-8129de0acbfd",
-        "title": "Engineering Technician 1",
-        "active": false,
-        "date_updated": 1772035391,
-        "date_posted": 1772035391,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-St-Inigoes/Engineering-Technician-I_322160",
-        "locations": [
-            "Patuxent River, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Fiserv",
         "id": "aaec7113-1da2-44fc-919b-b4986c930962",
@@ -181348,7 +181307,7 @@
         "company_name": "IMC Trading",
         "id": "1c8d5fb4-7d30-4fff-adcc-7926baadf184",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782945541,
         "date_posted": 1782944921,
         "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
@@ -368322,7 +368281,7 @@
         "company_name": "UK Atomic Energy Authority",
         "id": "3178144b-682a-48f0-945e-9641657fe6f8",
         "title": "Graduate Advanced Control Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791555301,
         "date_posted": 1791554930,
         "url": "https://jobs.smartrecruiters.com/UKAtomicEnergyAuthority/744000154649749",
@@ -373557,7 +373516,7 @@
         "company_name": "WEC Energy Group",
         "id": "5bec06b4-9cd8-4828-b37e-24fdbd89d744",
         "title": "GIS Associate Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1791989113,
         "date_posted": 1791988934,
         "url": "https://careers.wecenergygroup.com/Wisconsin_Public_Service/job/Green-Bay-GIS-Associate-Analyst-WI-54307-9001/1439991400/?ats=successfactors",
@@ -373851,7 +373810,7 @@
         "company_name": "Kairos Power",
         "id": "acd3a097-121f-4cd6-9056-d07f551dd0fb",
         "title": "Applications Integration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792016288,
         "date_posted": 1792016183,
         "url": "https://job-boards.greenhouse.io/kairospower/jobs/6206174004",
@@ -374033,7 +373992,7 @@
         "company_name": "RTX",
         "id": "acbb275f-fe6f-4f39-af1a-c079a2a2e18a",
         "title": "Electro-Optics Systems Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792015818,
         "date_posted": 1791936000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electro-Optics-Systems-Engineer-I--Onsite-_01880578",
@@ -374182,7 +374141,7 @@
         "company_name": "Entergy",
         "id": "14b34521-b2aa-4971-b19f-4fbc2cc1efea",
         "title": "Data Integrity Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1792015454,
         "date_posted": 1792015403,
         "url": "https://jobs.entergy.com/job/New-Orleans-Data-Integrity-Analyst-Loui/1440044700/?ats=successfactors",
@@ -374640,7 +374599,7 @@
         "company_name": "RTX",
         "id": "be0b08b4-7b53-49d9-8d1b-6e9f9fa458d8",
         "title": "Electro-Optics Systems Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1792027329,
         "date_posted": 1791936000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Electro-Optics-Systems-Engineer-I--Onsite-_01880584",
@@ -382710,7 +382669,7 @@
         "company_name": "RTX",
         "id": "d279ec74-5ebb-4fb9-8ff3-92b0b3af0891",
         "title": "Electro-Optics Systems Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1792674403,
         "date_posted": 1791936000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Electro-Optics-Systems-Engineer-II--Onsite-_01880585",
@@ -383220,7 +383179,7 @@
         "company_name": "Memorial Sloan Kettering Cancer Center",
         "id": "025ab3a4-c3a2-432b-a205-d415f311bccb",
         "title": "Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792707187,
         "date_posted": 1792627200,
         "url": "https://msk.wd108.myworkdayjobs.com/MSKCC_Careers_Primary/job/New-York-NY/Data-Analyst-I_103335-1",
@@ -388193,7 +388152,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "0f9f1d1f-b0cd-4b74-b678-41c0646bb6dc",
         "title": "Test Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792769259,
         "date_posted": 1791417600,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Test-Engineer-I--For-SNC-Summer-2026-Interns-Only-_R0030967",
@@ -388543,6 +388502,104 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Omnicom Group",
+        "id": "5d1195d4-0515-4a01-827a-a33c1c7d790b",
+        "title": "Programme Executive - Research",
+        "active": true,
+        "date_updated": 1792772832,
+        "date_posted": 1792108800,
+        "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/Macclesfield-Cheshire-United-Kingdom/Programme-Executive_R12038",
+        "locations": [
+            "Macclesfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Omnicom-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Niantic Spatial",
+        "id": "4397a648-dce9-4a0f-94ea-159fb5ee1702",
+        "title": "3D Reconstruction Research Scientist/Engineer",
+        "active": true,
+        "date_updated": 1792772466,
+        "date_posted": 1792113561,
+        "url": "https://jobs.ashbyhq.com/niantic-spatial/63ea8a24-5d45-4b76-824f-aff4f4b50427/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Niantic-Spatial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "8ac92cbc-5a9a-4f95-8951-f4b165d58a53",
+        "title": "Affordability Engineer",
+        "active": true,
+        "date_updated": 1792772558,
+        "date_posted": 1792022400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805A--1151-E-Hermans-Rd--BLDG-805A/Affordability-Theory-of-Constraint--TOC--Engineer_01881598",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "82b9b534-5821-4221-a411-921d4751ae32",
+        "title": "Associate Software Engineering",
+        "active": true,
+        "date_updated": 1792772135,
+        "date_posted": 1792017457,
+        "url": "https://jobs.l3harris.com/job/Mason-Associate,-Software-Engineer-OH-45040/1440282700/?ats=successfactors",
+        "locations": [
+            "Mason, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "68a8db52-bc77-4d26-a755-f80315884f5f",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1792771945,
+        "date_posted": 1791936000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-II---Onsite_01881529",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
