@@ -1,104 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "American Express",
-        "id": "5351fd55-3b86-431b-8f86-5ed949236097",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1772032703,
-        "date_posted": 1772032703,
-        "url": "https://aexp.eightfold.ai/careers/job/40259469",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Booz Allen",
-        "id": "4263de72-f40a-4a9c-a785-60d9181638c7",
-        "title": "Software Developer",
-        "active": false,
-        "date_updated": 1772032791,
-        "date_posted": 1772032791,
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/Software-Developer_R0234695",
-        "locations": [
-            "Charleston, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "6fe2f337-50fc-4ffe-9b7a-f84ea42ff374",
-        "title": "Manufacturing Technician A",
-        "active": false,
-        "date_updated": 1772032662,
-        "date_posted": 1772032662,
-        "url": "https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-A-NY-14623/1367791400/?ats=successfactors",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "2e7d8208-4631-4207-ab85-d1b8783f96e9",
-        "title": "Manufacturing Technician A",
-        "active": false,
-        "date_updated": 1772032661,
-        "date_posted": 1772032661,
-        "url": "https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-A-NY-14623/1367791200/?ats=successfactors",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "bf09058b-a329-4e96-afd4-735e093bd66a",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1772032222,
-        "date_posted": 1772032222,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051018",
-        "locations": [
-            "Cardiff, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Analytical Mechanics Associates",
         "id": "fc41fa22-d3d8-4c18-8233-84d556b131e4",
@@ -360524,7 +360426,7 @@
         "company_name": "Truveta",
         "id": "32777707-730c-4a86-9176-5c9df02552c7",
         "title": "Principal Software Engineer - Clinical Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1791241118,
         "date_posted": 1791240866,
         "url": "https://job-boards.greenhouse.io/truveta/jobs/6217536004",
@@ -361931,7 +361833,7 @@
         "company_name": "West Monroe",
         "id": "9af24976-afb3-443f-8436-3e6e1d2d782e",
         "title": "Data & Analytics Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1791269329,
         "date_posted": 1791269203,
         "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6167376004",
@@ -362029,7 +361931,7 @@
         "company_name": "West Monroe",
         "id": "23ce9adc-a57c-4d91-a4cc-2228d91a6350",
         "title": "Data & Analytics Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1791269342,
         "date_posted": 1791269204,
         "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6167508004",
@@ -362880,7 +362782,7 @@
         "company_name": "KKR",
         "id": "ccfd0124-7076-4c0e-b0ae-fc0f7712ccb8",
         "title": "Insurance Portfolio Optimization & Construction",
-        "active": true,
+        "active": false,
         "date_updated": 1791268024,
         "date_posted": 1791267261,
         "url": "https://www.kkr.com/careers/career-opportunities/post?gh_jid=5973472004",
@@ -363734,7 +363636,7 @@
         "company_name": "CAE",
         "id": "97a859bd-1aef-427f-9ffe-f8687989c427",
         "title": "Embedded System Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1791326881,
         "date_posted": 1791244800,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Mirabel/Embedded-System-Specialist---CF-18-Fighter-Jet--North-Shore-_123517",
@@ -363855,7 +363757,7 @@
         "company_name": "KLA",
         "id": "14ae359c-61a1-4881-8252-aeb9c5035f9f",
         "title": "Electrical Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791327270,
         "date_posted": 1791244800,
         "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Electrical-Engineer_2641883",
@@ -364538,7 +364440,7 @@
         "company_name": "Rocket Lab USA",
         "id": "a4191e18-6043-43f5-86de-22a03e3a89c1",
         "title": "HITL Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791335586,
         "date_posted": 1791335312,
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8015149003",
@@ -364677,7 +364579,7 @@
         "company_name": "L3Harris Technologies",
         "id": "c977c519-0e77-41fa-bc32-6ae73ce0cf85",
         "title": "Associate Integration & Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791353490,
         "date_posted": 1791353216,
         "url": "https://jobs.l3harris.com/job/Clifton-Associate,-Integration-&-Test-Engineer-NJ-07014/1437605100/?ats=successfactors",
@@ -365354,7 +365256,7 @@
         "company_name": "Leonardo",
         "id": "5234e11e-5fa0-4d14-87c6-33a1a67ca56f",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791386821,
         "date_posted": 1791331200,
         "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Software-Engineer_R0033726",
@@ -366247,7 +366149,7 @@
         "company_name": "RTX",
         "id": "416cc7e5-bb3d-4312-a770-70e4372137bd",
         "title": "Systems Engineer 2 - Integration & Test",
-        "active": true,
+        "active": false,
         "date_updated": 1791412917,
         "date_posted": 1791331200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer-II---Integration---Test--Onsite_01880168",
@@ -388282,5 +388184,167 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Field AI",
+        "id": "ed624db3-77bc-4efe-ae68-94eb25f34845",
+        "title": "Mechatronics Engineer - Robotics Hardware",
+        "active": true,
+        "date_updated": 1792769042,
+        "date_posted": 1791497522,
+        "url": "https://jobs.lever.co/field-ai/7e41ac8f-4269-492b-9e1d-97b30a00c92b/apply",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Field-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "0f9f1d1f-b0cd-4b74-b678-41c0646bb6dc",
+        "title": "Test Engineer 1",
+        "active": true,
+        "date_updated": 1792769259,
+        "date_posted": 1791417600,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Test-Engineer-I--For-SNC-Summer-2026-Interns-Only-_R0030967",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CAE",
+        "id": "e2230fbe-8777-4bdd-a0a1-b2c6e6f893e2",
+        "title": "Junior Software Developer - System Integration Labs",
+        "active": true,
+        "date_updated": 1792768682,
+        "date_posted": 1791331200,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Mirabel/Dveloppeureuse-logiciel-junior---Bancs-d-essais--Rive-Nord-_123921-1",
+        "locations": [
+            "Mirabel, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CAE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "efc6d4dd-07a5-479a-9ef3-13ef36009e35",
+        "title": "Systems Engineer 1 - Integration & Test",
+        "active": true,
+        "date_updated": 1792768923,
+        "date_posted": 1791331200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer-I---Integration---Test--Onsite_01880788",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "6e1bbe95-8042-4358-809b-38088ef4297b",
+        "title": "Software Test Engineer 2",
+        "active": true,
+        "date_updated": 1792768431,
+        "date_posted": 1791244800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Test-Engineer-II_01880024",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Hunter Douglas",
+        "id": "d11a9728-411c-4013-93cc-b94e21122729",
+        "title": "Product Specialist",
+        "active": true,
+        "date_updated": 1792768322,
+        "date_posted": 1791326573,
+        "url": "https://jobs.hunterdouglas.com/division/hunterdouglas/job/8014814003?gh_jid=8014814003",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Hunter-Douglas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "West Monroe",
+        "id": "a874d62c-c49a-400e-a7fa-4dc1c2c2e359",
+        "title": "Data & Analytics Consultant",
+        "active": true,
+        "date_updated": 1792767928,
+        "date_posted": 1791269203,
+        "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6167513004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/West-Monroe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Energy Transfer Partners",
+        "id": "e172acd4-0ff4-4d01-9872-89b5cc0a0a03",
+        "title": "Engineer \u2013 Data Initiatives",
+        "active": true,
+        "date_updated": 1792767242,
+        "date_posted": 1791239564,
+        "url": "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003747",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Energy-Transfer-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
