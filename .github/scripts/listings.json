@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Analytical Mechanics Associates",
-        "id": "fc41fa22-d3d8-4c18-8233-84d556b131e4",
-        "title": "Early Career Software Engineer",
-        "active": false,
-        "date_updated": 1772033712,
-        "date_posted": 1772033712,
-        "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Early-Career-Software-Engineer_R-100493",
-        "locations": [
-            "Hampton, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Analytical-Mechanics-Associates",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "9666eed6-2c60-41d8-b695-06caf6d430fa",
@@ -367543,7 +367523,7 @@
         "company_name": "R1 RCM",
         "id": "ab1c9134-c407-4e0a-8adc-34b305b02505",
         "title": "Software Engineer - ML Ops",
-        "active": true,
+        "active": false,
         "date_updated": 1791499217,
         "date_posted": 1791417600,
         "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Remote-USA/Software-Engineer---ML-Ops--R37-_R260000007542",
@@ -367601,7 +367581,7 @@
         "company_name": "RTX",
         "id": "6c72404b-9ee0-44e5-af22-0d7ecc4dd5c4",
         "title": "Systems Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1791499209,
         "date_posted": 1791417600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer-II---SE--Onsite_01880765",
@@ -369202,7 +369182,7 @@
         "company_name": "Microchip Technology",
         "id": "956f1edd-86f1-406b-9453-79bdf099f187",
         "title": "Engineer 1 - Test",
-        "active": true,
+        "active": false,
         "date_updated": 1791585551,
         "date_posted": 1791504000,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/NY---Hauppauge/Engineer-I---Test_R4309-26",
@@ -369627,7 +369607,7 @@
         "company_name": "RTX",
         "id": "163f5a86-962d-4262-90c6-f705251b185f",
         "title": "Test Solutions Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791585088,
         "date_posted": 1791504000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Test-Solutions-Electrical-Engineer-I_01881565",
@@ -371545,7 +371525,7 @@
         "company_name": "John Deere",
         "id": "bf6717aa-b46e-43e9-b07f-69e6785375e2",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791901177,
         "date_posted": 1791901078,
         "url": "https://johndeere.eightfold.ai/careers/job/137483701899",
@@ -373217,7 +373197,7 @@
         "company_name": "SimVentions",
         "id": "2811b58f-5918-42f5-bcb0-73989dbc4f33",
         "title": "AI/Machine Learning Engineer - RAG Pipeline Development",
-        "active": true,
+        "active": false,
         "date_updated": 1791966132,
         "date_posted": 1791929878,
         "url": "https://simventions.jibeapply.com/jobs/1650?icims=1",
@@ -376148,7 +376128,7 @@
         "company_name": "Aon",
         "id": "dfd53f60-20b1-47bb-ad68-1ef389daccae",
         "title": "Actuarial Consulting Graduate - Pensions",
-        "active": true,
+        "active": false,
         "date_updated": 1792143087,
         "date_posted": 1791813937,
         "url": "https://jobs.aon.com/jobs/108014?icims=1",
@@ -381306,7 +381286,7 @@
         "company_name": "RTX",
         "id": "f5b3c391-90c8-454b-9468-802ac550a0d3",
         "title": "Embedded Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1792584072,
         "date_posted": 1791417600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Embedded-Software-Engineer-II--Onsite-_01881237",
@@ -382711,7 +382691,7 @@
         "company_name": "R1 RCM",
         "id": "636691a8-a377-4b9f-9540-af9a315361cc",
         "title": "Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792672268,
         "date_posted": 1791417600,
         "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Remote-USA/ML-Engineer--R37-_R260000007540",
@@ -388341,6 +388321,224 @@
             "Houston, TX"
         ],
         "company_url": "https://simplify.jobs/c/Energy-Transfer-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Moxxi Digital",
+        "id": "b97f7672-c951-4e97-9b56-f73ad605eb1a",
+        "title": "Junior Optimization Analyst",
+        "active": true,
+        "date_updated": 1792770842,
+        "date_posted": 1791929790,
+        "url": "https://job-boards.greenhouse.io/moxxidigital/jobs/5451237008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Moxxi-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capgemini",
+        "id": "6ad571cf-4f40-450e-a33b-7c70cf9100df",
+        "title": "Java Engineer",
+        "active": true,
+        "date_updated": 1792771105,
+        "date_posted": 1791941117,
+        "url": "https://careers.capgemini.com/job/Telford-Relaunch-Java-Engineer/1446799533/?ats=successfactors",
+        "locations": [
+            "Telford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Capgemini",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "6758a87a-3390-4a31-aedb-02d2e64ed054",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1792770930,
+        "date_posted": 1791849600,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer_REF089187W",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "688e54c8-22bb-43a5-a3dd-16636738d4b3",
+        "title": "Technology Apprentice - FNIM",
+        "active": true,
+        "date_updated": 1792770769,
+        "date_posted": 1791849600,
+        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ottawa-150-Elgin-St-Corp/Canada-Indigenous--FNIM--Technology-Apprenticeship-Program_R00362767",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Calgary, AB, Canada",
+            "Ottawa, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sony",
+        "id": "8b4dde72-d76e-44fb-ae3b-880b0760daf7",
+        "title": "BI Specialist",
+        "active": true,
+        "date_updated": 1792770482,
+        "date_posted": 1791849600,
+        "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Weybridge/BI-Specialist_JR-119725-1",
+        "locations": [
+            "Weybridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "2780a2a8-56d6-431a-bd95-b6deb4a47dd4",
+        "title": "Mechanical Engineer 1",
+        "active": true,
+        "date_updated": 1792770400,
+        "date_posted": 1791763200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Mechanical-Engineer-I--Onsite-_01881575",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T. Rowe Price",
+        "id": "520038e7-bfdd-42f9-aa50-aac4b5ab037d",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1792769762,
+        "date_posted": 1791504000,
+        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/Associate-Software-Engineer_83767-1",
+        "locations": [
+            "Owings Mills, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Rowe-Price",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flex",
+        "id": "234240a5-b3d8-4d75-90f6-106d6e8fa33d",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1792769906,
+        "date_posted": 1791504000,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Engineering-Technician_WD231216",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Flex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "a653bb09-7353-489d-b3f1-618426aeaba8",
+        "title": "Embedded Software Developer 2",
+        "active": true,
+        "date_updated": 1792769408,
+        "date_posted": 1791417600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-II--Onsite-_01881180",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Laboratory of the Rockies",
+        "id": "67d1a616-5130-4c19-987a-7243887ef840",
+        "title": "Postdoctoral Researcher - Vision Machine Learning",
+        "active": true,
+        "date_updated": 1792769042,
+        "date_posted": 1791417600,
+        "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Postdoctoral-Researcher---Vision-Machine-Learning_R14557",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Laboratory-Of-The-Rockies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Appian",
+        "id": "47eebf42-243b-4d68-8beb-0204c6bfec0b",
+        "title": "Associate Product Engineer",
+        "active": true,
+        "date_updated": 1792769352,
+        "date_posted": 1791497949,
+        "url": "https://job-boards.greenhouse.io/appian/jobs/8264454",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Appian",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
