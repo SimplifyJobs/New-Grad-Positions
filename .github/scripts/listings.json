@@ -343820,7 +343820,7 @@
         "company_name": "Applied Materials",
         "id": "fe444a2e-411b-4a40-b6f4-9098bbd980bb",
         "title": "Software Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1789942379,
         "date_posted": 1789862400,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914",
@@ -377565,7 +377565,7 @@
         "company_name": "Northrop Grumman",
         "id": "e374fb09-f7c7-45b4-9e48-31df368bc466",
         "title": "Associate Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792190287,
         "date_posted": 1792108800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate--Embedded-Software-Engineer---Rolling-Meadows-IL_R10256390-1",
@@ -380854,7 +380854,7 @@
         "company_name": "RTX",
         "id": "a7309900-70f4-42e4-a032-fd7570013f54",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792535314,
         "date_posted": 1792454400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01875410-1",
@@ -381121,7 +381121,7 @@
         "company_name": "RTX",
         "id": "e85971c7-fc74-4cf9-b661-6b4bde36305a",
         "title": "Software Engineer 1-Embedded Linux",
-        "active": true,
+        "active": false,
         "date_updated": 1792534738,
         "date_posted": 1792454400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I-Embedded-Linux--Onsite-_01883477",
@@ -385102,6 +385102,26 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "8acaba1b-7236-409b-b936-aa2cfe23469a",
+        "title": "Graduate Electrical Hardware Engineer 1",
+        "active": true,
+        "date_updated": 1792735737,
+        "date_posted": 1792627200,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Graduate-Electrical-Hdwr-Engineer-I_1213433",
+        "locations": [
+            "Chippewa Falls, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
