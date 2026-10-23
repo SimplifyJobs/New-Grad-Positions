@@ -194830,7 +194830,7 @@
         "company_name": "Generac",
         "id": "6323b048-4972-4a8b-820a-ad28bd5ab688",
         "title": "Data Science Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783549622,
         "date_posted": 1783548749,
         "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Data-Science-Analyst_JR15318",
@@ -271365,7 +271365,7 @@
         "company_name": "Broadcom Limited",
         "id": "539ddb97-a187-4681-9626-955ac26196f8",
         "title": "Support Engineer - Mainframe",
-        "active": true,
+        "active": false,
         "date_updated": 1786679101,
         "date_posted": 1786579200,
         "url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-IL-Lisle-Warrenville-Road/Support-Engineer---Mainframe_R026779",
@@ -290529,7 +290529,7 @@
         "company_name": "KBR",
         "id": "8d357db3-4bed-433c-8281-3e0775e1be25",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1787608901,
         "date_posted": 1787529600,
         "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/JR-Software-Engineer_R2128745",
@@ -292676,7 +292676,7 @@
         "company_name": "AQR Capital Management",
         "id": "ce9b5601-f631-40d5-93f2-c131bea80fdd",
         "title": "Trading Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787682655,
         "date_posted": 1787682504,
         "url": "https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709",
@@ -292816,7 +292816,7 @@
         "company_name": "True Anomaly",
         "id": "5516fbba-d287-4ee8-b391-dd0e5a0c4797",
         "title": "Flight Software Engineer 1 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1787692551,
         "date_posted": 1787692372,
         "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007",
@@ -310758,7 +310758,7 @@
         "company_name": "Technergetics",
         "id": "e84d4819-7b4e-48c9-bc1f-9a2e7145b2c1",
         "title": "Integrated Photonics Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1787342133,
         "date_posted": 1787341923,
         "url": "https://job-boards.greenhouse.io/technergetics/jobs/4707318006",
@@ -311094,7 +311094,7 @@
         "company_name": "Qorvo",
         "id": "2e23d95d-f63c-41d8-b1e4-7026cb3cfb87",
         "title": "Semiconductor Modeling, ESD, and Characterization Engineer - Modeling and ESD",
-        "active": false,
+        "active": true,
         "date_updated": 1787303240,
         "date_posted": 1787186655,
         "url": "https://careers.qorvo.com/job/Greensboro-Staff-Engineer,-Modeling-and-ESD-NC-27409/1421354000/?ats=successfactors",
@@ -317108,7 +317108,7 @@
         "company_name": "CROSSMARK",
         "id": "aa1f9e60-c448-45b5-aeb8-6f3cefcf159a",
         "title": "Retail Reset Merchandiser",
-        "active": true,
+        "active": false,
         "date_updated": 1788448695,
         "date_posted": 1787016571,
         "url": "https://jobs.smartrecruiters.com/CROSSMARK1/743999658151715",
@@ -356047,7 +356047,7 @@
         "company_name": "Xaira Therapeutics",
         "id": "a823e254-be91-45c0-8ab2-e277f65857d0",
         "title": "AI Resident - Computational Protein Design",
-        "active": true,
+        "active": false,
         "date_updated": 1791066036,
         "date_posted": 1787275508,
         "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5156238007",
@@ -365171,7 +365171,7 @@
         "company_name": "Omnicom Group",
         "id": "87af3741-b7cb-43fd-b696-2903c7914802",
         "title": "Associate Marketing Science",
-        "active": false,
+        "active": true,
         "date_updated": 1791374613,
         "date_posted": 1785456000,
         "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/Chicago-Illinois-United-States-of-America/Data-Science-and-Analytics-NEX-03_R11427",
@@ -386151,6 +386151,108 @@
         "date_posted": 1781360959,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant-Sivasubramaniam-Group_REQ_0000078962-2",
         "locations": [
+            "University Park, State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Base Power",
+        "id": "da2177cc-6203-4303-a70b-313a3b992e07",
+        "title": "Field Reliability Technician",
+        "active": true,
+        "date_updated": 1792754283,
+        "date_posted": 1790979524,
+        "url": "https://jobs.ashbyhq.com/base-power/12aa53c2-f9e1-4de5-96e0-b4d6337a33d9/application?embed=true",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Base-Power",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "e5efd84d-ee5e-47b6-8b5c-f101e7094c9f",
+        "title": "Software Engineer - Infrastructure Services - Cloud Network Fault Tolerance",
+        "active": true,
+        "date_updated": 1792754643,
+        "date_posted": 1787626810,
+        "url": "https://jobs.apple.com/en-us/details/200679765",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Infinitum",
+        "id": "d46c78a4-f8d4-473c-8337-6067c4511c8e",
+        "title": "Test Development Engineer",
+        "active": true,
+        "date_updated": 1792753924,
+        "date_posted": 1787264589,
+        "url": "https://job-boards.greenhouse.io/infinitumelectric/jobs/5216958007",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Infinitum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Datalab USA",
+        "id": "78322ed4-24c0-4260-b2dd-a704d220ee08",
+        "title": "Programmer Analyst - Marketing Analytics",
+        "active": true,
+        "date_updated": 1792753924,
+        "date_posted": 1787193515,
+        "url": "https://jobs.lever.co/datalabusa/4163de7b-bcdf-40e5-8df2-13d79461cda7/apply",
+        "locations": [
+            "Germantown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Datalab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "8491157e-ce81-4f76-baab-038206c23ae6",
+        "title": "Data Extraction Programming",
+        "active": true,
+        "date_updated": 1792754730,
+        "date_posted": 1781952334,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Data-Extraction-Programming_REQ_0000075672-1",
+        "locations": [
+            "State College, PA",
             "University Park, State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
