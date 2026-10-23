@@ -275828,7 +275828,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -347387,7 +347387,7 @@
         "company_name": "Kitware",
         "id": "11592e4e-a518-4c9e-9f89-8c2340373f6b",
         "title": "Annotation Specialist - Computer Vision",
-        "active": true,
+        "active": false,
         "date_updated": 1790259489,
         "date_posted": 1790259437,
         "url": "https://jobs.lever.co/kitware/5b5accb2-beb3-4f83-8e25-05d91d3bf9dc/apply",
@@ -347822,7 +347822,7 @@
         "company_name": "Astranis",
         "id": "677e8f2d-1a4c-4b80-b630-cc24cd4ff3df",
         "title": "Software Developer Associate - Network Software",
-        "active": false,
+        "active": true,
         "date_updated": 1790288230,
         "date_posted": 1790287587,
         "url": "https://job-boards.greenhouse.io/astranis/jobs/4705615006",
@@ -348766,7 +348766,7 @@
         "company_name": "Wilbur-Ellis",
         "id": "b96b19af-d124-40d0-b562-c6085b3d52e8",
         "title": "Agriculture Field Scout",
-        "active": true,
+        "active": false,
         "date_updated": 1790374861,
         "date_posted": 1790294400,
         "url": "https://wilburellis.wd12.myworkdayjobs.com/wilbur-ellis/job/Marlette-Michigan-United-States/Agriculture-Field-Scout--Eastern-MI-_R1897",
@@ -349173,7 +349173,7 @@
         "company_name": "Remitly",
         "id": "e8ab226f-8423-49f7-85c4-d60aa8cfa381",
         "title": "AI Native Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790375581,
         "date_posted": 1790294400,
         "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/AI-Native-Software-Engineer_R_106966",
@@ -349351,7 +349351,7 @@
         "company_name": "Wilbur-Ellis",
         "id": "977ec010-277e-40ad-b4ae-b425b6e57651",
         "title": "Agriculture Field Scout",
-        "active": true,
+        "active": false,
         "date_updated": 1790375581,
         "date_posted": 1790294400,
         "url": "https://wilburellis.wd12.myworkdayjobs.com/wilbur-ellis/job/Edmore-Michigan-United-States/Agriculture-Field-Scout--Central-MI-_R1896",
@@ -350063,7 +350063,7 @@
         "company_name": "Applied Materials",
         "id": "5d072195-d69d-4732-970a-f50cd73fa1eb",
         "title": "Systems Engineer 3",
-        "active": false,
+        "active": true,
         "date_updated": 1790678482,
         "date_posted": 1790294400,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer-III--E3-_R2629158",
@@ -350911,7 +350911,7 @@
         "company_name": "NVIDIA",
         "id": "c629b4e6-c4f2-414a-9bfa-e7be4219dd59",
         "title": "Applied Machine Learning Engineer - AI for VLSI Design",
-        "active": true,
+        "active": false,
         "date_updated": 1790722045,
         "date_posted": 1790640000,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576",
@@ -350974,7 +350974,7 @@
         "company_name": "NVIDIA",
         "id": "19c77b2e-6966-4b3e-a6da-b7c093d51151",
         "title": "Research Scientist - Fundamental Generative AI",
-        "active": true,
+        "active": false,
         "date_updated": 1790722008,
         "date_posted": 1790640000,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739",
@@ -351158,7 +351158,7 @@
         "company_name": "Viatris",
         "id": "f1e0a5b1-cd00-4864-9585-52fb514ec81f",
         "title": "Student Worker",
-        "active": true,
+        "active": false,
         "date_updated": 1790720825,
         "date_posted": 1790640000,
         "url": "https://viatris.wd5.myworkdayjobs.com/External/job/United-States-Remote-Office/Student-Worker_R5674339",
@@ -352017,7 +352017,7 @@
         "company_name": "RTX",
         "id": "3b38426e-3cc3-4a96-9277-6756b25e6d6f",
         "title": "Systems Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1790765461,
         "date_posted": 1790208000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer-I-onsite_01877314",
@@ -355834,7 +355834,7 @@
         "company_name": "Astranis",
         "id": "4f3bddc6-477e-4fa8-aafc-7c37712f3a05",
         "title": "Software Developer - Network Software Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1791066064,
         "date_posted": 1790287587,
         "url": "https://job-boards.greenhouse.io/astranis/jobs/4705617006",
@@ -364659,7 +364659,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa71e901-808c-47e5-ab2d-32344fa2c4e7",
         "title": "Engineering Apprentice",
-        "active": false,
+        "active": true,
         "date_updated": 1791353752,
         "date_posted": 1790201057,
         "url": "https://higher.gs.com/roles/174814?type=students",
@@ -387598,6 +387598,379 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola Solutions",
+        "id": "4749eed9-dd34-4ec5-b20d-18276b56dd7b",
+        "title": "Mid Level Software Engineer",
+        "active": true,
+        "date_updated": 1792765262,
+        "date_posted": 1792765209,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Mid-Level-Back-End-Software-Engineer_R65766",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "70a2bd03-052e-4163-b668-0d7b79766e19",
+        "title": "Product Validation Engineer New Grad",
+        "active": true,
+        "date_updated": 1792765086,
+        "date_posted": 1790553600,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Ingnieur-de-Validation-de-Composant--Product-Validation-Engineer---New-Grad_R031778",
+        "locations": [
+            "Qu\u00e9bec City, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "fb279e12-e945-4d94-9c1e-f3cf3206bf85",
+        "title": "Software Test Engineer 1",
+        "active": true,
+        "date_updated": 1792765064,
+        "date_posted": 1790553600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-POINT-MUGU-TR20--13th-St-and-S-L-St--BLDG-TR20/Software-Test-Engineer-I---Onsite_01876562",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "V2X",
+        "id": "1d0a852a-855e-4165-b60b-567817a6ed7b",
+        "title": "Embedded Firmware Engineer",
+        "active": true,
+        "date_updated": 1792764902,
+        "date_posted": 1790633801,
+        "url": "https://careers.gov2x.com/jobs/63173?icims=1",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/V2X",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AMD",
+        "id": "c37cb4e0-1fbc-40b2-8b44-d608a1388631",
+        "title": "Silicon Design Engineer",
+        "active": true,
+        "date_updated": 1792764902,
+        "date_posted": 1790633492,
+        "url": "https://careers.amd.com/jobs/90603?icims=1",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ercot",
+        "id": "16002037-6c01-492b-8883-204bec2edbb1",
+        "title": "Entry Level Power & Computer Engineer",
+        "active": true,
+        "date_updated": 1792764944,
+        "date_posted": 1790553600,
+        "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/GMS-Development-Program---Entry-Level-Power---Computer-Engineer_R2513-1",
+        "locations": [
+            "Taylor, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Ercot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "9905609e-165a-45de-bae3-247bb43c03ce",
+        "title": "CMOS FEOL Reliability Principal Engineer",
+        "active": true,
+        "date_updated": 1792764917,
+        "date_posted": 1790553600,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/CMOS-FEOL-Reliability-Principal-Engineer--2027-New-College-Graduate-_JR-2604364",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "M&T Bank",
+        "id": "285b4498-ba93-4a58-af21-59a146c6c5b7",
+        "title": "Forward Deployed Digital Product Analyst New Grad - IS",
+        "active": true,
+        "date_updated": 1792764914,
+        "date_posted": 1790553600,
+        "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Wilmington-DE/XMLNAME-2027-Management-Development-Program---IS-Forward-Deployed-Product-Analyst---Wilmington--DE-_R89998",
+        "locations": [
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/M-And-T-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "M&T Bank",
+        "id": "37eac507-f568-4419-a1fa-1a0853849de4",
+        "title": "Management Development Program New Grad - IS Forward Deployed Product Analyst",
+        "active": true,
+        "date_updated": 1792764909,
+        "date_posted": 1790553600,
+        "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Wilmington-DE/XMLNAME-2027-Management-Development-Program---IS-Forward-Deployed-Product-Analyst--Wilmington--DE-_R89997",
+        "locations": [
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/M-And-T-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Harbor",
+        "id": "59ea968c-caa6-409c-a2c7-e001618e44c3",
+        "title": "Junior Developer - Finance Systems",
+        "active": true,
+        "date_updated": 1792764542,
+        "date_posted": 1790633270,
+        "url": "https://job-boards.greenhouse.io/harborglobal/jobs/5238900007",
+        "locations": [
+            "Remote in UK",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Harbor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "050cd8b1-f06b-466b-a254-1e0a44a31088",
+        "title": "Reliability Test Engineer",
+        "active": true,
+        "date_updated": 1792764849,
+        "date_posted": 1790553600,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Reliability-Test-Engineer--2027-New-College-Graduate-_JR-2604333",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "8c3db362-d08e-4a08-b8a0-33eac2cff22e",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1792764770,
+        "date_posted": 1790553600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-I---AVI-MIL-FMS-DAS---Onsite_01872244",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "86d1818a-fd4a-4a79-a42b-d8de19fdd439",
+        "title": "Device Engineer - ULP CMOS",
+        "active": true,
+        "date_updated": 1792764750,
+        "date_posted": 1790467200,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineer--ULP-CMOS--2026-New-College-Graduate-_JR-2604336",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "62b12319-6d0b-464c-b8a5-65f958a10b82",
+        "title": "Senior Software Engineer - Amazon Tax",
+        "active": true,
+        "date_updated": 1792764643,
+        "date_posted": 1790413564,
+        "url": "https://amazon.jobs/en/jobs/10471522/senior-sde-amazon-tax",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Clearway Energy",
+        "id": "3308aac6-4a66-4e7a-a236-e21d3f6b3328",
+        "title": "Analyst: Market Optimization & Trading",
+        "active": true,
+        "date_updated": 1792764932,
+        "date_posted": 1790633353,
+        "url": "https://job-boards.greenhouse.io/clearwayjobs/jobs/5242740007",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Clearway-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "HP Inc.",
+        "id": "c472dd7f-34f9-4cb1-8109-a0c22bbdc9f2",
+        "title": "E-Test Product Engineering",
+        "active": true,
+        "date_updated": 1792765262,
+        "date_posted": 1790640000,
+        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Corvallis-Oregon-United-States-of-America/E-Test-Product-Engineering_UNI4758-1",
+        "locations": [
+            "Corvallis, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TripAdvisor",
+        "id": "6844034a-5c74-47b5-9e3b-fce4315573aa",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1792765670,
+        "date_posted": 1790721048,
+        "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/8239945",
+        "locations": [
+            "London, UK",
+            "Krak\u00f3w, Poland",
+            "Oxford, UK",
+            "Lisbon, Portugal"
+        ],
+        "company_url": "https://simplify.jobs/c/TripAdvisor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NCR Voyix",
+        "id": "99b14664-1bdf-4b69-b627-0fd226013c5b",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1792764364,
+        "date_posted": 1790294400,
+        "url": "https://ncr.wd1.myworkdayjobs.com/ext_non_us/job/BATH-GBR/Software-Developer-I_R0157940",
+        "locations": [
+            "Bath, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NCR-Voyix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
