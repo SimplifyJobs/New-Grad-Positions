@@ -275828,7 +275828,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -352988,7 +352988,7 @@
         "company_name": "RTX",
         "id": "8e1c4d71-6011-41b4-8948-e9bef181663f",
         "title": "Software Developer Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790807941,
         "date_posted": 1790726400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Developer-Engineer-I--Onsite-_01878887",
@@ -354236,7 +354236,7 @@
         "company_name": "CoStar Group",
         "id": "4430d739-ddf1-4b1c-966a-d5e29f89a980",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1790894493,
         "date_posted": 1790812800,
         "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942",
@@ -354681,7 +354681,7 @@
         "company_name": "RTX",
         "id": "7525137e-4f3a-4f97-9fbb-f2d715545fb4",
         "title": "Software Test Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1790903881,
         "date_posted": 1790812800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Test-Engineer-I_01879609",
@@ -354721,7 +354721,7 @@
         "company_name": "Sandvik",
         "id": "86d61b4b-0780-49a6-9bbd-a5448f91236b",
         "title": "Remote Monitoring Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1790921341,
         "date_posted": 1790812800,
         "url": "https://sandvik.wd3.myworkdayjobs.com/sandvik-jobs/job/USA-TN-White-Pine/Remote-Monitoring-Analyst--White-Pine--TN_R0098120-1",
@@ -355080,7 +355080,7 @@
         "company_name": "Southern Company",
         "id": "d770e443-db89-4dc1-b59b-e4b412d8ecd4",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1790979503,
         "date_posted": 1790979270,
         "url": "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/21914",
@@ -359224,7 +359224,7 @@
         "company_name": "Hudson Pacific Properties",
         "id": "2fae6e26-3b88-487f-9a29-0870857a87b9",
         "title": "AI Enablement Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1791123482,
         "date_posted": 1790817426,
         "url": "https://jobs.ashbyhq.com/hudson-pacific-properties/1b36e1f9-2847-47cd-920e-0ce881deb6cf/application?embed=true",
@@ -359660,7 +359660,7 @@
         "company_name": "ElevenLabs",
         "id": "32cdce62-6a21-42ca-84ec-34847bb88240",
         "title": "Forward Deployed Engineer - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791152281,
         "date_posted": 1791152117,
         "url": "https://jobs.ashbyhq.com/elevenlabs/2d0016e0-3cc2-4ec7-b164-bc2b83990fb6/application?embed=true",
@@ -360989,7 +360989,7 @@
         "company_name": "RTX",
         "id": "9bc65f57-e01d-490a-8a88-2a5990ce2444",
         "title": "FPGA/Digital Design Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1791240291,
         "date_posted": 1791158400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB4--836-North-St--INNOVATION-BLDG/FPGA--Digital-Design-Engineer-II---Onsite_01879345",
@@ -361089,7 +361089,7 @@
         "company_name": "RTX",
         "id": "325dffa8-8b92-47b7-9678-005ac63529c4",
         "title": "Digital Design Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1791240294,
         "date_posted": 1791158400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/FPGA--Digital-Design-Engineer-II---Onsite_01879334",
@@ -361226,7 +361226,7 @@
         "company_name": "Rheem",
         "id": "27245c70-ed58-4c1d-9d81-f6c7de0aa783",
         "title": "Marketing Insights Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791240072,
         "date_posted": 1791238299,
         "url": "https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4403",
@@ -364659,7 +364659,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa71e901-808c-47e5-ab2d-32344fa2c4e7",
         "title": "Engineering Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1791353752,
         "date_posted": 1790201057,
         "url": "https://higher.gs.com/roles/174814?type=students",
@@ -370309,7 +370309,7 @@
         "company_name": "Thales",
         "id": "8a5808de-fc5a-43b1-9df4-8f4d85229c70",
         "title": "Hardware Engineer Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1791803424,
         "date_posted": 1791158400,
         "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-Hardware-Engineering-Apprentice_R0337712",
@@ -376224,7 +376224,7 @@
         "company_name": "Axon",
         "id": "9ab5126a-5ff7-4eaa-9a53-cb901dc3185c",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792141622,
         "date_posted": 1790893080,
         "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8010994003",
@@ -381299,7 +381299,7 @@
         "company_name": "RTX",
         "id": "f4c039c8-2722-4a57-958d-8c31a82955f1",
         "title": "Systems Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1792581173,
         "date_posted": 1790726400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer-II--Onsite_01878214",
@@ -387972,5 +387972,315 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thales",
+        "id": "d64a3add-2995-4b47-a628-2b3289b6047e",
+        "title": "Development Operations Engineer New Grad",
+        "active": true,
+        "date_updated": 1792767208,
+        "date_posted": 1791158400,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Glasgow/XMLNAME-2027-Development-Operations-Engineering-Graduate_R0337885",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Osmo",
+        "id": "67f368d8-8e94-4a38-9537-7fb927054d41",
+        "title": "Contract Sensory Panelist (Fragrance)",
+        "active": true,
+        "date_updated": 1792767136,
+        "date_posted": 1791008017,
+        "url": "https://jobs.ashbyhq.com/osmo/323fc5b0-9282-48f9-97a9-da496cd2fa59/application?embed=true",
+        "locations": [
+            "Elizabeth, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Osmo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Osmo",
+        "id": "527add68-88e5-4725-9db7-f6b3da95060a",
+        "title": "Trained Sensory Panelist - Fragrance",
+        "active": true,
+        "date_updated": 1792767134,
+        "date_posted": 1791008018,
+        "url": "https://jobs.ashbyhq.com/osmo/c74344f4-65d7-4bd6-99f8-d6b3b69da32c/application?embed=true",
+        "locations": [
+            "Elizabeth, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Osmo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Optimove",
+        "id": "7cb10ef4-87fc-4385-8003-149c3839686b",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1792766882,
+        "date_posted": 1790980328,
+        "url": "https://job-boards.eu.greenhouse.io/optimove/jobs/4986565101",
+        "locations": [
+            "Dundee, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Optimove",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citco",
+        "id": "e0399094-ed27-493f-9e45-697db407532b",
+        "title": "Junior AI Engineer",
+        "active": true,
+        "date_updated": 1792766882,
+        "date_posted": 1790979839,
+        "url": "https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20545",
+        "locations": [
+            "Halifax Regional Municipality, NS, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Citco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "4762fbd9-94a7-4b2c-8845-8a1829a2df71",
+        "title": "Software Test Engineer 1",
+        "active": true,
+        "date_updated": 1792766535,
+        "date_posted": 1790812800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Software-Test-Engineer-I_01879607",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ema",
+        "id": "119fc4cb-f9b7-4e2f-b40e-0a1885e0aa33",
+        "title": "AI Resident",
+        "active": true,
+        "date_updated": 1792766470,
+        "date_posted": 1790893309,
+        "url": "https://jobs.ashbyhq.com/ema/c6ec72b0-dce1-422c-895f-9f22c4762a76/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ema",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keysight Technologies",
+        "id": "a42f00fc-d6ef-48b6-a7d1-946cd8870180",
+        "title": "ASIC Digital / Digital Signal Processing Design Engineer",
+        "active": true,
+        "date_updated": 1792766358,
+        "date_posted": 1790892804,
+        "url": "https://jobs.keysight.com/jobs/54744?icims=1",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Detroit Tigers",
+        "id": "01437b0f-33cd-4dfc-9272-34a96bda8a5a",
+        "title": "Major League Advance Scouting Associate",
+        "active": true,
+        "date_updated": 1792765981,
+        "date_posted": 1790812800,
+        "url": "https://ilitch.wd5.myworkdayjobs.com/detroit-tigers/job/Detroit-MI/Major-League-Advance-Scouting-Associate--Seasonal-_R9508",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Detroit-Tigers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Honeywell",
+        "id": "e10abe22-d86c-4013-8837-85549f42804d",
+        "title": "Materials Management Analyst 2 - SAP S/4HANA",
+        "active": true,
+        "date_updated": 1792766232,
+        "date_posted": 1790864424,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153542",
+        "locations": [
+            "Bracknell, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Versant",
+        "id": "0fa18f3f-2e07-49e9-98b0-e1e76ecb51a6",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1792765981,
+        "date_posted": 1790863672,
+        "url": "https://jobs.smartrecruiters.com/Versant3/744000152879999",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Versant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Freedom Technology Solutions Group",
+        "id": "9c56cba3-9b43-4bdb-a6dc-9cf12b83e51d",
+        "title": "Junior Backend Developer",
+        "active": true,
+        "date_updated": 1792766098,
+        "date_posted": 1790807203,
+        "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5252868007",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Freedom-Technology-Solutions-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Focused",
+        "id": "8a3267af-3b96-43d7-af8e-c866e07527ed",
+        "title": "Prototype Engineer",
+        "active": true,
+        "date_updated": 1792765622,
+        "date_posted": 1790806891,
+        "url": "https://jobs.ashbyhq.com/focused/dac4ee5b-0004-42d2-a6e2-0f1fffe60ce9/application?embed=true",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Focused",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "7598c6c3-dbc5-42ec-8ee8-238d2e8d4cf7",
+        "title": "ECAD Librarian - PCB Designer - ECAD Technician",
+        "active": true,
+        "date_updated": 1792765622,
+        "date_posted": 1790726400,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/ECAD-Librarian--PCB-Designer---ECAD-Technician-_2636535",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CACI",
+        "id": "7d836994-ac06-4bd6-aca0-5de0e4356d97",
+        "title": "Data Engineering/Analytics Support",
+        "active": true,
+        "date_updated": 1792765622,
+        "date_posted": 1790726400,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Norco-CA-US/Data-Engineering-Analytics-Support_332939",
+        "locations": [
+            "Norco, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "JCDecaux",
+        "id": "7f35b9d4-e399-46c2-ba33-8fea896aacb3",
+        "title": "Digital Hardware Technician Apprentice",
+        "active": true,
+        "date_updated": 1792765837,
+        "date_posted": 1790726400,
+        "url": "https://jcdecaux.wd3.myworkdayjobs.com/ExternalSiteJCDUK/job/London---Brentford/Technician-Digital-Hardware---Apprentice_JR101760-1",
+        "locations": [
+            "Brentford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JCDecaux",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
