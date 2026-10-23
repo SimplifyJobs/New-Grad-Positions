@@ -130413,7 +130413,7 @@
         "company_name": "Amazon",
         "id": "5353b527-0cda-43e8-a9ef-cdfa8f45bcd8",
         "title": "Front-End Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779834527,
         "date_posted": 1779487538,
         "url": "https://amazon.jobs/en/jobs/10428762/front-end-engineer-2026-us",
@@ -320879,7 +320879,7 @@
         "company_name": "AECOM",
         "id": "d78207a4-b67f-45c0-8743-fcdae0cf6380",
         "title": "Environmental Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1788463101,
         "date_posted": 1783461924,
         "url": "https://jobs.smartrecruiters.com/AECOM2/744000136328351",
@@ -322417,7 +322417,7 @@
         "company_name": "Savers",
         "id": "15ce1ff8-ad90-43cc-b8d5-33840b96e550",
         "title": "Retail Warehouse and Production Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1788473545,
         "date_posted": 1785824438,
         "url": "https://jobs.jobvite.com/savers/job/oWbyAfwZ?nl=1&nl=1&fr=false",
@@ -332949,7 +332949,7 @@
         "company_name": "ALTEN Technology",
         "id": "2650514c-446b-4e30-9cf5-345cde63cf67",
         "title": "Data Collection Operator 1",
-        "active": false,
+        "active": true,
         "date_updated": 1789080471,
         "date_posted": 1789080205,
         "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5235055007",
@@ -342346,7 +342346,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "3941f029-2c78-4ed1-877d-01f301f3c389",
         "title": "Staff Analyst Trainee 1/2 - Operations Planning - Bus Schedules",
-        "active": true,
+        "active": false,
         "date_updated": 1789685306,
         "date_posted": 1789683735,
         "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oF7MAfwS?nl=1&nl=1&fr=false",
@@ -346430,7 +346430,7 @@
         "company_name": "KLA",
         "id": "a15cd33f-5258-43e3-b120-a25360dadb38",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1790126433,
         "date_posted": 1790035200,
         "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Engr--Software-2_2640148",
@@ -347514,7 +347514,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "da44aa23-67e0-4e92-ae56-f1b14e345e48",
         "title": "Staff Analyst Trainee",
-        "active": true,
+        "active": false,
         "date_updated": 1790203941,
         "date_posted": 1790202346,
         "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oVtPAfwx?nl=1&nl=1&fr=false",
@@ -352575,7 +352575,7 @@
         "company_name": "ALTEN Technology",
         "id": "d1d75618-ef58-4ece-9acd-720d49cfb4d1",
         "title": "Data Collector",
-        "active": false,
+        "active": true,
         "date_updated": 1790722262,
         "date_posted": 1789080205,
         "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5235034007",
@@ -385166,6 +385166,374 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "c5a7d1fe-6c08-40a0-818f-a6981dc0e2ac",
+        "title": "AI Data Associate - Dutch - Artificial General Intelligence",
+        "active": true,
+        "date_updated": 1792720451,
+        "date_posted": 1792720283,
+        "url": "https://amazon.jobs/en/jobs/10469778/ai-data-associate-dutch-artificial-general-intelligence",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "312b7b27-dc1b-4ccc-a582-f20be014c2e9",
+        "title": "Software Development Engineer - Prime Video Personalization & Discovery",
+        "active": true,
+        "date_updated": 1792720485,
+        "date_posted": 1792720347,
+        "url": "https://amazon.jobs/en/jobs/10412948/software-dev-engineer-prime-video-personalization-discovery",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "2b5665cf-ffeb-4c91-adce-7d9357641676",
+        "title": "Software Development Engineer 1 Early Career - Annapurna Labs",
+        "active": true,
+        "date_updated": 1792720308,
+        "date_posted": 1792720223,
+        "url": "https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
+        "locations": [
+            "Seattle, WA",
+            "Austin, TX",
+            "NYC",
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "beb3809f-7e70-4921-8048-c14921c4ba78",
+        "title": "Software Development Engineer - Prime Video Personalization & Discovery",
+        "active": true,
+        "date_updated": 1792720291,
+        "date_posted": 1792720171,
+        "url": "https://amazon.jobs/en/jobs/10576161/software-dev-engineer-prime-video-personalization-discovery",
+        "locations": [
+            "Seattle, WA",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "4d59f74a-c96d-4f88-bf07-1f3df967b2de",
+        "title": "System Development Engineer - Region Reliability Engineering",
+        "active": true,
+        "date_updated": 1792720091,
+        "date_posted": 1792720056,
+        "url": "https://amazon.jobs/en/jobs/10550753/system-development-engineer-region-reliability-engineering",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "2c0d014e-b3e2-4777-a2cf-3a3a7c8e3908",
+        "title": "ASIC Engineer Early Career",
+        "active": true,
+        "date_updated": 1792720091,
+        "date_posted": 1792719938,
+        "url": "https://amazon.jobs/en/jobs/10576621/asic-engineer-early-career-2027-project-leo",
+        "locations": [
+            "Redmond, WA",
+            "Cupertino, CA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "0c3a5965-3804-48e8-90e2-300c3512c9ee",
+        "title": "Cloud Hardware Development Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1792720091,
+        "date_posted": 1792719938,
+        "url": "https://amazon.jobs/en/jobs/10530353/cloud-hardware-development-engineer-aws-early-career-2026",
+        "locations": [
+            "Seattle, WA",
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "d7450d6f-7ade-4e48-a679-77133f787850",
+        "title": "Software Development Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1792720091,
+        "date_posted": 1792719937,
+        "url": "https://amazon.jobs/en/jobs/10583004/software-development-engineer-early-career-2027-can",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "4ea9a15d-8827-4c79-a444-9729292915db",
+        "title": "Data Engineer Early Career",
+        "active": true,
+        "date_updated": 1792720113,
+        "date_posted": 1792719941,
+        "url": "https://amazon.jobs/en/jobs/10559101/data-engineer-early-career-2026-can",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "4c0abf87-95c1-4acf-87c2-b2791ec281a8",
+        "title": "ASIC Formal Verification Engineer 1",
+        "active": true,
+        "date_updated": 1792720118,
+        "date_posted": 1792719955,
+        "url": "https://amazon.jobs/en/jobs/10586351/asic-formal-verification-engineer-i-annapurna-labs",
+        "locations": [
+            "Austin, TX",
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "c0816dec-673c-45d8-a446-a24e1ded92f0",
+        "title": "ASIC Engineer - Project Leo",
+        "active": true,
+        "date_updated": 1792720091,
+        "date_posted": 1792719938,
+        "url": "https://amazon.jobs/en/jobs/3176560/asic-engineer-project-leo",
+        "locations": [
+            "Austin, TX",
+            "Redmond, WA",
+            "Sunnyvale, CA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "99e8b672-5e35-4fbe-a857-fa9a8fece7a5",
+        "title": "Software Development Engineer - Embedded Systems",
+        "active": true,
+        "date_updated": 1792720091,
+        "date_posted": 1792719944,
+        "url": "https://amazon.jobs/en/jobs/3183020/software-development-engineer-embedded-systems-2026-us",
+        "locations": [
+            "Seattle, WA",
+            "Austin, TX",
+            "Redmond, WA",
+            "Santa Clara, CA",
+            "Northridge, LA",
+            "Hudson, MA",
+            "Cupertino, CA",
+            "Sunnyvale, CA",
+            "Herndon, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Internet Brands",
+        "id": "852ad061-3275-418f-8c79-73af87ba089b",
+        "title": "Associate AI Research & Operations Analyst",
+        "active": true,
+        "date_updated": 1792719765,
+        "date_posted": 1790634009,
+        "url": "https://jobs.jobvite.com/internetbrands/job/onLOAfwg?nl=1&nl=1&fr=false",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Internet-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Internet Brands",
+        "id": "a3a1c5c1-54f5-4e78-91a2-6b283f2333fd",
+        "title": "Associate AI Research & Operations Analyst",
+        "active": true,
+        "date_updated": 1792719765,
+        "date_posted": 1790634010,
+        "url": "https://jobs.jobvite.com/internetbrands/job/ouLOAfwn?nl=1&nl=1&fr=false",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Internet-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Copart",
+        "id": "7c080985-a384-4155-8ac3-1e4fd47ef3c2",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1792719013,
+        "date_posted": 1792627200,
+        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/San-Francisco-CA/Associate-Product-Manager_JR112367",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Copart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nutanix",
+        "id": "15e66070-2fc0-44df-a26c-aa4c4303217d",
+        "title": "Member of Technical Staff 2",
+        "active": true,
+        "date_updated": 1792719729,
+        "date_posted": 1790374523,
+        "url": "https://jobs.jobvite.com/nutanix/job/o4POAfw1?nl=1&nl=1&fr=false",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Metropolitan Transportation Authority",
+        "id": "d7d2b059-61d2-4d3c-9eaa-8429779593d4",
+        "title": "Application Developer Analyst Level 1 - Revenue Applications",
+        "active": true,
+        "date_updated": 1792719223,
+        "date_posted": 1786686730,
+        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oufJzfwL?nl=1&nl=1&fr=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
