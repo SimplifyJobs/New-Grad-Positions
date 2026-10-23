@@ -1,107 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CVS Health",
-        "id": "6df0cec5-2f1d-4fb7-b23d-06eae146b9d6",
-        "title": "Associate Data Engineer",
-        "active": false,
-        "date_updated": 1771978335,
-        "date_posted": 1771978335,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Richardson/Associate-Data-Engineer_R0841402",
-        "locations": [
-            "Irving, TX",
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "T-Mobile",
-        "id": "aa996f2a-f534-4b7f-89e8-40e208d9e50d",
-        "title": "Associate Engineer - Software",
-        "active": false,
-        "date_updated": 1771977863,
-        "date_posted": 1771977863,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Engineer--Software_REQ344233-1",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "T-Mobile",
-        "id": "47963e3c-f3e5-4a88-a3ba-bd4d05cf0f0f",
-        "title": "Associate Engineer - Software",
-        "active": false,
-        "date_updated": 1771977861,
-        "date_posted": 1771977861,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Engineer--Software_REQ343122-1",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Target",
-        "id": "0bc3e39a-0b39-4970-a7de-2545698bb354",
-        "title": "Technology Leadership Program - Starting August 2026",
-        "active": false,
-        "date_updated": 1771977971,
-        "date_posted": 1771977971,
-        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Technology-Leadership-Program---Hybrid--Starting-August-2026-_R0000430779",
-        "locations": [
-            "Brooklyn Park, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Target",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Banner Health",
-        "id": "3807499b-800c-4628-b6fb-4e6f297b8eb8",
-        "title": "Diagnostic Imaging Equipment Services Engineer",
-        "active": false,
-        "date_updated": 1771977829,
-        "date_posted": 1771977829,
-        "url": "https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-North-Colorado-Medical-Center-1801-16th-St/Diagnostic-Imaging-Equipment-Services-Engineer_R4433441-1",
-        "locations": [
-            "Greeley, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Banner-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "06a3ad28-778e-4eee-9353-85d16a2c4ee4",
@@ -348705,7 +348604,7 @@
         "company_name": "AMD",
         "id": "18ff49cc-90de-420e-b2ae-2d3a4f5d1b4e",
         "title": "Engineering Lab Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1790287741,
         "date_posted": 1790287704,
         "url": "https://careers.amd.com/jobs/92633?icims=1",
