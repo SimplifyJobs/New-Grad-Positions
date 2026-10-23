@@ -325548,7 +325548,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "787a34fe-7bf8-4c55-b010-f4c0d496b5b3",
         "title": "Robotic/Autonomous Systems Engineer - Maritime Robotics",
-        "active": true,
+        "active": false,
         "date_updated": 1788560318,
         "date_posted": 1788559649,
         "url": "https://careers.jhuapl.edu/jobs/59967?icims=1",
@@ -377505,7 +377505,7 @@
         "company_name": "CVector",
         "id": "5e801b15-781c-4f79-8630-11096eed5278",
         "title": "Full Stack Software Engineer 1 or 2",
-        "active": true,
+        "active": false,
         "date_updated": 1792226381,
         "date_posted": 1786411959,
         "url": "https://apply.workable.com/cvector/j/0D0DE27033/apply",
@@ -379230,7 +379230,7 @@
         "company_name": "Jerry",
         "id": "7e892840-f91d-48d2-a1c5-07ff0eef7c3a",
         "title": "Product Manager-in-Training",
-        "active": true,
+        "active": false,
         "date_updated": 1792459441,
         "date_posted": 1792459368,
         "url": "https://jobs.ashbyhq.com/jerry.ai/8ef6fafc-3527-42ff-86f8-5f087b4edc64/application?embed=true",
@@ -380841,7 +380841,7 @@
         "company_name": "Renesas Electronics",
         "id": "c4c2f239-c9e6-4aa6-ba14-68423bd6c45d",
         "title": "Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792545127,
         "date_posted": 1792545108,
         "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000156404329",
@@ -380963,7 +380963,7 @@
         "company_name": "Wellmark",
         "id": "b3dc0fe4-e07d-4a79-ac44-eddaf4d4abd0",
         "title": "Data Wrangler",
-        "active": true,
+        "active": false,
         "date_updated": 1792547154,
         "date_posted": 1792547007,
         "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000156421724",
@@ -388716,5 +388716,256 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RSM",
+        "id": "ed5d8236-8fcb-4304-a50f-c4acfdd5f275",
+        "title": "AI Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1792776063,
+        "date_posted": 1792713600,
+        "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/AI-Machine-Learning-Engineer_JR122103",
+        "locations": [
+            "Orlando, FL",
+            "Dallas, TX",
+            "Raleigh, NC",
+            "Chicago, IL",
+            "Georgia",
+            "Minneapolis, MN",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/RSM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "U.S. Bank",
+        "id": "7d4e3c1c-51f7-47f5-bc7d-eb4769c86f3a",
+        "title": "Software Engineer 1 - Python",
+        "active": true,
+        "date_updated": 1792776108,
+        "date_posted": 1792713600,
+        "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Software-Engineer-1---Python_2026-0033403-1",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/US-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "e53296b3-3f0e-49eb-b885-76a6319f2071",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1792775716,
+        "date_posted": 1792713600,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0173916",
+        "locations": [
+            "Hanover, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "b29c852f-50f9-42bc-a4b6-65ef06b990be",
+        "title": "Software Engineer 1 New Grad",
+        "active": true,
+        "date_updated": 1792776037,
+        "date_posted": 1792765162,
+        "url": "https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196/apply",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "5896551e-238e-4a97-9d39-565f5fc25173",
+        "title": "Entry-Level Environmental Statistician",
+        "active": true,
+        "date_updated": 1792775716,
+        "date_posted": 1792765346,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000157479969",
+        "locations": [
+            "Grand Rapids, MI",
+            "Novi, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "beac125a-716c-4932-b655-12d09a149f60",
+        "title": "Entry-Level Environmental Statistician",
+        "active": true,
+        "date_updated": 1792775716,
+        "date_posted": 1792765345,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000157479574",
+        "locations": [
+            "Grand Rapids, MI",
+            "Novi, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Regal Rexnord",
+        "id": "f9362869-73aa-4cd5-a7a1-de352622465b",
+        "title": "Electronics Lab Technician 1",
+        "active": true,
+        "date_updated": 1792775976,
+        "date_posted": 1792713600,
+        "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Radford-Virginia-United-States/Electronics-Lab-Technician-I_R26_04131-1",
+        "locations": [
+            "Radford, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Regal-Rexnord",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GSK",
+        "id": "7e988982-3b95-4232-9764-1dc02305e318",
+        "title": "Analyst AI ML and Cloud Security",
+        "active": true,
+        "date_updated": 1792775948,
+        "date_posted": 1792713600,
+        "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK--London--New-Oxford-Street/Analyst--AI-ML-and-Cloud-Security_450144-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GSK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Addepar",
+        "id": "1aca142d-fcc8-4cfe-b6c6-d06c5b55c36f",
+        "title": "Product Manager \u2013 Early Career - AI Platform",
+        "active": true,
+        "date_updated": 1792775716,
+        "date_posted": 1792764656,
+        "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910404002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Addepar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lowe's",
+        "id": "5ac0b294-ae11-4f57-ae06-078081ad89d2",
+        "title": "Associate Analyst-Digital - Launchpad",
+        "active": true,
+        "date_updated": 1792775716,
+        "date_posted": 1792713600,
+        "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Associate-Analyst-Digital---Launchpad_JR-02681696",
+        "locations": [
+            "Mooresville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Lowes",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Visa",
+        "id": "a80913f5-4817-4c04-9939-019a13698d11",
+        "title": "Associate Product Manager New Grad",
+        "active": true,
+        "date_updated": 1792775918,
+        "date_posted": 1792713600,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---London-United-Kingdom/Associate-Product-Manager--APM--Rotational-Graduate-Programme_REF089323W-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "3167672a-e1c4-4ae7-b6ea-0efe93998060",
+        "title": "Staff Product Test Capability Engineer",
+        "active": true,
+        "date_updated": 1792775716,
+        "date_posted": 1792746222,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41675",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
