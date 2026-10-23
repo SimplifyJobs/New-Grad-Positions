@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Uline",
-        "id": "3a0844cd-c02e-41f1-8ee6-ed2da7652168",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1772026857,
-        "date_posted": 1772026857,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Data-Analyst_R261670",
-        "locations": [
-            "Kenosha, WI",
-            "Waukegan, IL",
-            "Morton Grove, IL",
-            "Pleasant Prairie, WI",
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "American Express",
         "id": "5351fd55-3b86-431b-8f86-5ed949236097",
@@ -290411,7 +290387,7 @@
         "company_name": "Procter & Gamble",
         "id": "5cf6a02b-38a8-432f-83c2-dd50f3e8d46c",
         "title": "IT Project & Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1787609556,
         "date_posted": 1787529600,
         "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Project---Product-Manager--2027-Grads-_R000157914",
@@ -317488,7 +317464,7 @@
         "company_name": "University of Southern California",
         "id": "49883607-02d4-4f26-9e79-51f558b6b8ef",
         "title": "Dental Assistant - Pediatric Dentistry",
-        "active": true,
+        "active": false,
         "date_updated": 1788450497,
         "date_posted": 1786665600,
         "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Dental-Assistant_REQ20178843-1",
@@ -318049,7 +318025,7 @@
         "company_name": "Arcfield",
         "id": "d8c603d6-d2bb-43f9-a8d3-e6465b17a28b",
         "title": "Physicist / Image Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1788453203,
         "date_posted": 1786680184,
         "url": "https://careers.arcfield.com/jobs/8468?icims=1",
@@ -340192,7 +340168,7 @@
         "company_name": "CoStar Group",
         "id": "fec5c82d-3e40-46de-bad2-93a1b2669f21",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789607904,
         "date_posted": 1789516800,
         "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736",
@@ -341742,7 +341718,7 @@
         "company_name": "Phoenix Group",
         "id": "5d398704-553c-4c17-9df5-2a39e456b5c6",
         "title": "Data Governance and Quality Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789684029,
         "date_posted": 1789682747,
         "url": "https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20839",
@@ -342132,7 +342108,7 @@
         "company_name": "Dutch Bros",
         "id": "fc07dff3-003e-4b98-9b0e-4a85be9d7489",
         "title": "Broista",
-        "active": true,
+        "active": false,
         "date_updated": 1789770035,
         "date_posted": 1789689600,
         "url": "https://dutchbros.wd1.myworkdayjobs.com/en-US/DBShops/job/1208-E-Park-St-Hollister-CA-95023/Broista---Hollister--CA_REQ-20130",
@@ -342294,7 +342270,7 @@
         "company_name": "MSI Express",
         "id": "0898f2ca-d1f9-4270-b125-3c13ef3486b3",
         "title": "Batch Mixer",
-        "active": true,
+        "active": false,
         "date_updated": 1789769934,
         "date_posted": 1789689600,
         "url": "https://msiexpress.wd5.myworkdayjobs.com/MSI_Express_External_Careers/job/Rosendale-WI/Batch-Mixer-1st-shift_R-101861",
@@ -342634,7 +342610,7 @@
         "company_name": "University of Texas at Austin",
         "id": "79b78a42-8a31-4079-8009-476fa7ac4cde",
         "title": "Senior Student Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1789769531,
         "date_posted": 1789689600,
         "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/Senior-Student-Consultant_R_00048933",
@@ -343702,7 +343678,7 @@
         "company_name": "TeleTracking",
         "id": "9fb6b0de-372e-45a8-a4fe-f4d29ae406ea",
         "title": "Software Engineer 1 - Logistics Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1790001565,
         "date_posted": 1790001531,
         "url": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5425154008",
@@ -343738,7 +343714,7 @@
         "company_name": "Moog",
         "id": "39cdd786-c89d-45a8-a08e-238f6b6b5c61",
         "title": "Associate FPGA Engineer - Defense Electrical Group",
-        "active": true,
+        "active": false,
         "date_updated": 1790028902,
         "date_posted": 1789948800,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-FPGA-Engineer_R-26-17419",
@@ -345651,7 +345627,7 @@
         "company_name": "Datalab USA",
         "id": "0ee4a6bf-f582-487c-9319-eda96265fdd0",
         "title": "Production Programmer - SQL Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1790117040,
         "date_posted": 1790115488,
         "url": "https://jobs.lever.co/datalabusa/9254110c-d83f-4921-aca6-b26d203bbc53/apply",
@@ -346972,7 +346948,7 @@
         "company_name": "PIMCO",
         "id": "e3c3c487-aa48-4f10-a913-34e11d19d591",
         "title": "Product Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1790201915,
         "date_posted": 1790121600,
         "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Product-Analyst_R106837-1",
@@ -355898,7 +355874,7 @@
         "company_name": "Astranis",
         "id": "e35df427-23d0-43d1-b060-dbcebce024ec",
         "title": "Electrical Reliability Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1791066064,
         "date_posted": 1790144223,
         "url": "https://job-boards.greenhouse.io/astranis/jobs/4704793006",
@@ -358701,7 +358677,7 @@
         "company_name": "Apple",
         "id": "d5950b95-26bd-42c5-9ba5-e1b1da440e3b",
         "title": "Front-End Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791118288,
         "date_posted": 1789682599,
         "url": "https://jobs.apple.com/en-us/details/200682948",
@@ -359310,7 +359286,7 @@
         "company_name": "Underwriters Laboratories",
         "id": "fb6be028-b7a7-4de9-af53-4f291bb3aa67",
         "title": "Postdoctoral Researcher - Energy & AI",
-        "active": true,
+        "active": false,
         "date_updated": 1791123887,
         "date_posted": 1789689600,
         "url": "https://ulse.wd5.myworkdayjobs.com/ulricareers/job/Rockville-MD/Post-Doctoral-Researcher--Energy---AI---Electrochemical-Safety-Research-Institute_JR1595-1",
@@ -367003,7 +366979,7 @@
         "company_name": "University of Virginia",
         "id": "e3fdb2df-5e0d-4317-9acc-91d19f0c62f1",
         "title": "Direct Marketing Data Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1791473982,
         "date_posted": 1790121600,
         "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Federal-Work-Study---Direct-Marketing-Data-Assistant--Student-Wage-_R0087659",
@@ -379044,7 +379020,7 @@
         "company_name": "Checkout.com",
         "id": "d52f1ac4-3174-447a-ac23-ea74bfabc6fb",
         "title": "Nextgen Technology New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1792449819,
         "date_posted": 1792449669,
         "url": "https://jobs.ashbyhq.com/checkout.com/47033ca7-ffd7-466a-8d53-0e033f0283ba/application?embed=true",
@@ -381924,7 +381900,7 @@
         "company_name": "NCR Voyix",
         "id": "d899f8fd-9b88-4410-8fe0-21f2f0ac1d3d",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792620568,
         "date_posted": 1792540800,
         "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Software-Engineer---NCR-Voyix-for-Department-and-Specialty-Retail_R0159033",
@@ -382169,7 +382145,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "b57d46f0-383f-4fd8-a530-e5e1c2bb0424",
         "title": "Software Engineer New Grad - Applications, Analysis, And Services Group",
-        "active": true,
+        "active": false,
         "date_updated": 1792622427,
         "date_posted": 1792622242,
         "url": "https://careers.jhuapl.edu/jobs/60586?icims=1",
@@ -382812,7 +382788,7 @@
         "company_name": "Leidos",
         "id": "cfb5c410-4f53-4c7d-ac5a-eafa72cfbe58",
         "title": "Electronic Warfare Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792671151,
         "date_posted": 1787616000,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/2682-Huntsville-AL/Electronic-Warfare-Software-Engineer_R-00190536",
@@ -387342,5 +387318,286 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "InterSystems",
+        "id": "33bf8d04-5439-4fc4-b50f-5393b810e9a0",
+        "title": "Technical Graduate",
+        "active": true,
+        "date_updated": 1792762747,
+        "date_posted": 1790001657,
+        "url": "https://job-boards.greenhouse.io/intersystems/jobs/7998006003",
+        "locations": [
+            "Edinburgh, UK",
+            "Windsor, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/InterSystems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "213245fd-01d7-48ad-8a63-d1e7934925ff",
+        "title": "Full Stack Software Engineer - Components",
+        "active": true,
+        "date_updated": 1792763821,
+        "date_posted": 1790213197,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8839057002",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "0d9a16ce-9ebb-485e-9b09-1f0f5aba5737",
+        "title": "System Integration Test Technician",
+        "active": true,
+        "date_updated": 1792763463,
+        "date_posted": 1790125612,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000151148909",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "3b8f074f-c302-490f-9e27-2b4def9638f3",
+        "title": "System Integration Test Technician",
+        "active": true,
+        "date_updated": 1792763463,
+        "date_posted": 1790125613,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000151148999",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Gentex",
+        "id": "0677bed5-1b8f-4820-a49a-46cc1a4965c2",
+        "title": "Systems Engineer 1 - Sensing",
+        "active": true,
+        "date_updated": 1792763358,
+        "date_posted": 1790035200,
+        "url": "https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Systems-Engineer---Sensing_REQ026687",
+        "locations": [
+            "Zeeland, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Gentex-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Skechers",
+        "id": "3d487b84-f8ef-4994-89fb-59ccfe156806",
+        "title": "Associate Analyst",
+        "active": true,
+        "date_updated": 1792763103,
+        "date_posted": 1789948800,
+        "url": "https://skechers.wd5.myworkdayjobs.com/One-career-site/job/Manhattan-Beach-CA/Associate-Analyst_JR133282",
+        "locations": [
+            "Manhattan Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skechers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "a2dc3660-4c67-4466-aabf-0f6d39125974",
+        "title": "Junior Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1792762747,
+        "date_posted": 1790028906,
+        "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4715182006",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Exiger",
+        "id": "b8386828-ffbf-455a-9c3b-c2254f0eb005",
+        "title": "AI Product Builder",
+        "active": true,
+        "date_updated": 1792762747,
+        "date_posted": 1790028846,
+        "url": "https://www.exiger.com/careers/6202657004?gh_jid=6202657004",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Exiger",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "5f33de29-15e8-4906-b915-9ba5f2e2d858",
+        "title": "Applied Scientist - Amazon Cryptographic Libraries",
+        "active": true,
+        "date_updated": 1792762747,
+        "date_posted": 1789884363,
+        "url": "https://amazon.jobs/en/jobs/10522632/applied-scientist-amazon-cryptographic-libraries",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "0e95c4d8-4cf7-4cd4-b75a-f3de798448de",
+        "title": "Senior Applied Scientist - Amazon Cryptographic Libraries",
+        "active": true,
+        "date_updated": 1792762838,
+        "date_posted": 1789884361,
+        "url": "https://amazon.jobs/en/jobs/10524925/sr-applied-scientist-amazon-cryptographic-libraries",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thales",
+        "id": "2f51e800-8122-447f-905e-203d26f17fb1",
+        "title": "Software DevSecOps Engineer Graduate",
+        "active": true,
+        "date_updated": 1792762819,
+        "date_posted": 1789689600,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Orlando/Software-DevOps-Engineer---Grad_R0340353-2",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "National Laboratory of the Rockies",
+        "id": "40b2f659-5719-4771-b764-33a331e39df6",
+        "title": "Postdoctoral Researcher - Quantum Dot Carrier Dynamics",
+        "active": true,
+        "date_updated": 1792762747,
+        "date_posted": 1789689600,
+        "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Postdoctoral-Researcher---Quantum-Dot-Carrier-Dynamics_R14512",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Laboratory-Of-The-Rockies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Detroit Tigers",
+        "id": "69a1702c-2310-45b1-96f7-5349223cbd64",
+        "title": "Baseball Analytics Associate",
+        "active": true,
+        "date_updated": 1792762383,
+        "date_posted": 1789689600,
+        "url": "https://ilitch.wd5.myworkdayjobs.com/detroit-tigers/job/Detroit-MI/Baseball-Analytics-Associate--Seasonal-_R9419",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Detroit-Tigers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RFCUNY",
+        "id": "fe5b9568-d263-4e88-88b2-c64e0df91511",
+        "title": "Postdoc Researcher",
+        "active": true,
+        "date_updated": 1792762026,
+        "date_posted": 1788480000,
+        "url": "https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/PostDoc-Researcher_JR4206",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/RFCUNY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
