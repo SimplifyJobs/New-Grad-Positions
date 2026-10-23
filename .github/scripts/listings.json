@@ -201442,7 +201442,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -275669,7 +275669,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -327318,7 +327318,7 @@
         "company_name": "TD Bank",
         "id": "809800c8-935e-467a-8a4c-0ddc4fbdecd9",
         "title": "Applied Machine Learning Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1788848103,
         "date_posted": 1788825600,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist--Graduate-_R_1506705",
@@ -328029,7 +328029,7 @@
         "company_name": "DraftKings",
         "id": "9a809790-74bd-49ef-ac89-b2d28ff7e591",
         "title": "Data Science Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1788906192,
         "date_posted": 1788825600,
         "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Engineer--December-2026-and-May-2027-Grads-_JR14959",
@@ -364500,7 +364500,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa71e901-808c-47e5-ab2d-32344fa2c4e7",
         "title": "Engineering Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1791353752,
         "date_posted": 1790201057,
         "url": "https://higher.gs.com/roles/174814?type=students",
@@ -389478,6 +389478,390 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citi",
+        "id": "ac6aa9c2-ad7f-4788-9694-b6b784eb53a2",
+        "title": "Technology Analyst - Application Development",
+        "active": true,
+        "date_updated": 1792795568,
+        "date_posted": 1792713600,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2027_261004424",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citi",
+        "id": "77f2b65f-83db-4a7e-a880-4259149c8a12",
+        "title": "Technology Cyber Security",
+        "active": true,
+        "date_updated": 1792795577,
+        "date_posted": 1792713600,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Cyber-Security--Full-Time-Analyst--Irving-2027-_26999831",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citi",
+        "id": "4f9778d0-63a0-48b6-a131-8e89364ea80b",
+        "title": "Software Developer New Grad - Application Development",
+        "active": true,
+        "date_updated": 1792795565,
+        "date_posted": 1792713600,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2027_261004412",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citi",
+        "id": "137833a6-d0c0-4d94-bb13-3d3f2bab8c3e",
+        "title": "Application Development Technology Analyst",
+        "active": true,
+        "date_updated": 1792795566,
+        "date_posted": 1792713600,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Full-Time-Analyst--Mississauga--Canada--2027_261003395",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citi",
+        "id": "11b1b607-fb40-4f0d-974e-b074e6549698",
+        "title": "Technology Analyst - Application Development",
+        "active": true,
+        "date_updated": 1792795567,
+        "date_posted": 1792713600,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Application-Development--Full-Time-Analyst--Irving---USA--2027_261004387",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citi",
+        "id": "43b8e015-cd30-4fd8-888c-7a2f618cb919",
+        "title": "Application Development Analyst New Grad",
+        "active": true,
+        "date_updated": 1792795560,
+        "date_posted": 1792713600,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Full-Time-Analyst--New-York-or-New-Jersey---USA--2027_261004399-1",
+        "locations": [
+            "Jersey City, NJ",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fuel Cycle",
+        "id": "127bc03f-ece8-439b-afc6-f12063bfd838",
+        "title": "Associate AI Engineer",
+        "active": true,
+        "date_updated": 1792795515,
+        "date_posted": 1792713600,
+        "url": "https://jobs.ashbyhq.com/fuel-cycle/0d24c1b6-e79b-4880-890f-a8ddb53b6d0d/application?embed=true",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fuel-Cycle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boeing",
+        "id": "9c419d63-e801-49ea-b32c-d22bcfcd2b97",
+        "title": "Entry-Level Software Engineer",
+        "active": true,
+        "date_updated": 1792795515,
+        "date_posted": 1792713600,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526418-1",
+        "locations": [
+            "Maryland Heights, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "9d5e6f80-ce26-4d6c-9b38-e69626426496",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1792795388,
+        "date_posted": 1792795214,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557045536",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Meijer",
+        "id": "ec3e9690-f766-4512-af30-a7ff06ba310d",
+        "title": "Software Engineer 1, AI",
+        "active": true,
+        "date_updated": 1792795217,
+        "date_posted": 1792713600,
+        "url": "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Software-Engineer_R000692154",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Meijer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BeyondTrust",
+        "id": "afc381bd-a720-48e2-9119-10766e6c7d5c",
+        "title": "Associate Data Engineer",
+        "active": true,
+        "date_updated": 1792795183,
+        "date_posted": 1792773440,
+        "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8300876",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/BeyondTrust",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DraftKings",
+        "id": "9a696e3a-4340-4ce7-94eb-e2770b5d3992",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1792795191,
+        "date_posted": 1792713600,
+        "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Remote---Canada/Software-Engineer--December-2026-Grads-_JR15324",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DraftKings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Affirm",
+        "id": "850876ae-8b94-413e-b8a4-a0ffdc45be3a",
+        "title": "Software Engineer New Grad - Instruments team",
+        "active": true,
+        "date_updated": 1792795201,
+        "date_posted": 1791794592,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/8011718003",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dell Technologies",
+        "id": "bf76a3f8-5091-4571-bda7-999deb6382dd",
+        "title": "AI Performance Test Technician",
+        "active": true,
+        "date_updated": 1792794964,
+        "date_posted": 1792794930,
+        "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300880",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "d4136527-95f3-42f5-beaf-aaf2f8948265",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1792795029,
+        "date_posted": 1792713600,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/Arlington-VA/University---Data-Scientist_R0252257",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "Arlington County, Arlington, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "4bc29ce7-c70b-431d-adbb-37113e6559d3",
+        "title": "Pricingdirect Evaluator - Securitized Products Group - Analyst",
+        "active": true,
+        "date_updated": 1792794964,
+        "date_posted": 1792794856,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803400",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sola",
+        "id": "19cab4c6-8cb4-4890-8917-5ee1650aaea3",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1792794784,
+        "date_posted": 1792713600,
+        "url": "https://jobs.ashbyhq.com/sola/cf2b27be-7dc8-4e14-aff0-512639bac918/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sola",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "New York Mets",
+        "id": "5f761cf2-ff4a-483d-81fe-021419690c6c",
+        "title": "Associate Amateur Scouting",
+        "active": true,
+        "date_updated": 1792794834,
+        "date_posted": 1792713600,
+        "url": "https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Associate--Amateur-Scouting_R1530",
+        "locations": [
+            "Queens, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/New-York-Mets",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HNTB",
+        "id": "f7981568-cea1-46d1-a9bc-e93bccdbe4c3",
+        "title": "GIS Analyst 1 New Grad",
+        "active": true,
+        "date_updated": 1792794657,
+        "date_posted": 1792713600,
+        "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/New-Grad-GIS-Analyst-I_R-32164",
+        "locations": [
+            "Tallahassee, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/HNTB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
