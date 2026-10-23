@@ -384835,5 +384835,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Liminal (Menyala)",
+        "id": "eba5276d-5b21-4699-a535-ccc06b21084c",
+        "title": "Product Management Apprentice",
+        "active": true,
+        "date_updated": 1792716842,
+        "date_posted": 1784519414,
+        "url": "https://liminal.careers.hibob.com/jobs/2fd6df7d-cb2d-45a3-8564-0b71d06b0bf8",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Liminal-Menyala",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
