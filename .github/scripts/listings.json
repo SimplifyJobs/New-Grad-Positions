@@ -372191,7 +372191,7 @@
         "company_name": "Boeing",
         "id": "172bdac1-ef4f-4891-8afb-b8676d403818",
         "title": "Entry Level Software Engineer-Developer - Development",
-        "active": true,
+        "active": false,
         "date_updated": 1792017732,
         "date_posted": 1791936000,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577",
@@ -381089,7 +381089,7 @@
         "company_name": "SAIC",
         "id": "3bf8d80d-6f9a-4ec3-972f-1dc57c45db7e",
         "title": "SCA Engineering Technician 4",
-        "active": true,
+        "active": false,
         "date_updated": 1792707092,
         "date_posted": 1792706902,
         "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618316",
@@ -387906,6 +387906,26 @@
             "Long Beach, CA"
         ],
         "company_url": "https://simplify.jobs/c/VastSpace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dell Technologies",
+        "id": "4c051e4b-6347-4cf8-9fb7-abfc0d3bb7db",
+        "title": "AI Performance Engineer",
+        "active": true,
+        "date_updated": 1792830962,
+        "date_posted": 1792706725,
+        "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299245",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
