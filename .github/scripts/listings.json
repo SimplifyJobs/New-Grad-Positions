@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Uline",
-        "id": "4305486a-d429-4b22-81a2-badb6c84ae70",
-        "title": "Associate Ecommerce Data Analyst",
-        "active": false,
-        "date_updated": 1772110548,
-        "date_posted": 1772110548,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-eCommerce-Data-Analyst_R261735-1",
-        "locations": [
-            "Kenosha, WI",
-            "Waukegan, IL",
-            "Morton Grove, IL",
-            "Pleasant Prairie, WI",
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Walmart",
         "id": "21d6d49c-1b58-4c06-b263-e017f0133313",
@@ -386664,7 +386640,7 @@
         "company_name": "Regal Rexnord",
         "id": "f9362869-73aa-4cd5-a7a1-de352622465b",
         "title": "Electronics Lab Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792775976,
         "date_posted": 1792713600,
         "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Radford-Virginia-United-States/Electronics-Lab-Technician-I_R26_04131-1",
