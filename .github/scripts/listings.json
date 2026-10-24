@@ -350514,7 +350514,7 @@
         "company_name": "Torus",
         "id": "fefd9fb3-c182-4db8-bb1f-8a467a989de8",
         "title": "Test Engineer Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1790808045,
         "date_posted": 1790806994,
         "url": "https://ats.rippling.com/torus/jobs/9f017330-7256-4a17-b4e8-d7bc3ce13ad8",
@@ -366611,7 +366611,7 @@
         "company_name": "GlobalFoundries",
         "id": "b0755243-0db2-4f3a-99fa-5d6544dc202b",
         "title": "Principal Engineer - Device Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1791584486,
         "date_posted": 1791504000,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Principal-Engineer--Device-Engineering--2027-New-College-Graduate-_JR-2604445",
@@ -374611,7 +374611,7 @@
         "company_name": "Northrop Grumman",
         "id": "88e2232b-48ee-46cd-b16c-5a73c3ed9208",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792190291,
         "date_posted": 1792108800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Morrisville-NC_R10256380",
@@ -384764,7 +384764,7 @@
         "company_name": "Prolific",
         "id": "d714c848-6ac9-4b7d-bdaa-ee62d5f0c31a",
         "title": "AI Trainer",
-        "active": true,
+        "active": false,
         "date_updated": 1792761924,
         "date_posted": 1789636499,
         "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4978536101",
@@ -387931,5 +387931,81 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dell Technologies",
+        "id": "e47a73e2-c0e4-4b76-90a4-bd1bced3be1d",
+        "title": "AI Performance Engineer",
+        "active": true,
+        "date_updated": 1792834381,
+        "date_posted": 1792706727,
+        "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300865",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "9ab92ebe-2d68-49c3-9ab3-0fad2d7eae2e",
+        "title": "Electrical Design and Integration Engineer",
+        "active": true,
+        "date_updated": 1792834967,
+        "date_posted": 1792540800,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design---Integration-Engineer_R-00195117",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Encore Auctions",
+        "id": "ea8ee1a5-5020-4aa2-9bd7-6371e6f23ccc",
+        "title": "Technical Hardware Specialist",
+        "active": true,
+        "date_updated": 1792834949,
+        "date_posted": 1788993127,
+        "url": "https://ats.rippling.com/encore-auctions/jobs/ada6afa2-0739-4c9d-b8ae-cb61f706978a",
+        "locations": [
+            "London, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Encore-Auctions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Medra",
+        "id": "fdf80d73-de6e-4798-b6c4-e5da733ed881",
+        "title": "Systems Test Engineer",
+        "active": true,
+        "date_updated": 1792835461,
+        "date_posted": 1785132609,
+        "url": "https://jobs.ashbyhq.com/medraai/cfaca7f4-d35b-4b5e-a5f4-5dd08abc8b5d/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Medra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
