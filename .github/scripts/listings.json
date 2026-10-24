@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Softpath System",
-        "id": "6a5f9159-a26c-4e28-b048-7689b1b75794",
-        "title": "Internet / Web Engineer",
-        "active": false,
-        "date_updated": 1772091137,
-        "date_posted": 1772091137,
-        "url": "https://jobs.smartrecruiters.com/SoftpathSystemLLC/101875033",
-        "locations": [
-            "Columbia, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Softpath-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "d4ce2d2b-eead-43a4-aa65-92fcf9d83d82",
@@ -50881,26 +50863,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sonsoft",
-        "id": "8fc02c15-dba2-46e1-b020-fc0badf93c0c",
-        "title": "Perl Developer - Java - Sybase DB",
-        "active": false,
-        "date_updated": 1774981261,
-        "date_posted": 1772091095,
-        "url": "https://jobs.smartrecruiters.com/SonsoftInc/96175145",
-        "locations": [
-            "Stamford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Sonsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
