@@ -368545,7 +368545,7 @@
         "company_name": "Kainos",
         "id": "ed5f64a8-5b5d-41df-8ac6-f0a2d296041f",
         "title": "Technologist New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1791767612,
         "date_posted": 1791763200,
         "url": "https://kainos.wd3.myworkdayjobs.com/kainos/job/Belfast/Graduate-Technologist--Belfast----August-2027-Start-Date_JR_18544",
@@ -379091,7 +379091,7 @@
         "company_name": "John Deere",
         "id": "f1044ef9-7da2-4a5b-a8e5-c26f1e2efd68",
         "title": "Information Technology Development Program - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1792534456,
         "date_posted": 1792534049,
         "url": "https://johndeere.eightfold.ai/careers/job/137482532344",
@@ -388601,5 +388601,24 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Perplexity AI",
+        "id": "78e650dd-5e32-4200-83e1-7ef0d9d92b0a",
+        "title": "Member of Technical Staff - AI Policy and Strategic Initiatives",
+        "active": true,
+        "date_updated": 1792822353,
+        "date_posted": 1792800000,
+        "url": "https://jobs.ashbyhq.com/perplexity/7e4a95c3-6322-4300-9455-96c511ab2621/application?embed=true",
+        "locations": [
+            "Washington, DC",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/PerplexityAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
