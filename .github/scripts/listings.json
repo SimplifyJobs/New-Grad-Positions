@@ -57973,7 +57973,7 @@
         "company_name": "Observable Space",
         "id": "2b06a568-e62e-4895-be8b-8eb922cb5288",
         "title": "Junior Optical Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1775257381,
         "date_posted": 1775254164,
         "url": "https://jobs.ashbyhq.com/observable-space/5c3952b2-9533-46d7-97c2-a0c4fa1a90b1/application",
@@ -344170,7 +344170,7 @@
         "company_name": "Citylogix",
         "id": "16e29757-05dc-4f51-8460-e2a252307603",
         "title": "Field Survey Technician - Temporary",
-        "active": false,
+        "active": true,
         "date_updated": 1790204011,
         "date_posted": 1790202369,
         "url": "https://ats.rippling.com/citylogix/jobs/94f77241-48f4-4a18-85d6-ff6c6ec76fb6",
@@ -358030,7 +358030,7 @@
         "company_name": "Corning",
         "id": "22376e19-d7d9-4048-b3ee-200ec514ad4f",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791238597,
         "date_posted": 1791238119,
         "url": "https://corningjobs.corning.com/job/Corning-Engineer,-Software-Developer-NY-14831/1436741900/?ats=successfactors",
@@ -362516,7 +362516,7 @@
         "company_name": "The Federal Reserve System",
         "id": "1045399f-ac4f-4a03-b613-601f3ff8daa0",
         "title": "Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1791364823,
         "date_posted": 1788134400,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Kansas-City-MO/Research-Associate_R-0000033197-1",
@@ -387871,5 +387871,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UCSF",
+        "id": "25f0ff56-0ef3-4cea-8a0f-ae88483a537f",
+        "title": "Research Data Analyst 1",
+        "active": true,
+        "date_updated": 1792830121,
+        "date_posted": 1792546312,
+        "url": "https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10078",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/UCSF",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "VAST",
+        "id": "049ee53b-659d-4638-9b5c-0eee2b2ef463",
+        "title": "Electrical Engineer - Crew Avionics",
+        "active": true,
+        "date_updated": 1792829164,
+        "date_posted": 1788215714,
+        "url": "https://boards.greenhouse.io/vast/jobs/4616608006",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/VastSpace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
