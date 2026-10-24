@@ -270891,7 +270891,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "8dc89094-3aea-4bac-9d27-dfbd32fba20c",
         "title": "Synthetic Aperture Radar Machine Learning Engineer - Imaging Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1786680235,
         "date_posted": 1786679956,
         "url": "https://careers.jhuapl.edu/jobs/58971?icims=1",
@@ -274243,7 +274243,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -274624,7 +274624,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -284514,7 +284514,7 @@
         "company_name": "Ciena",
         "id": "c82c1758-9605-466f-878f-d5077a225f51",
         "title": "Embedded Software Developer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1787265915,
         "date_posted": 1787184000,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481",
@@ -351967,7 +351967,7 @@
         "company_name": "Emerson Electric",
         "id": "8ec152ad-60df-44f3-8f06-cdc62ddea548",
         "title": "Software Engineer - AI Enablement & Engineering Productivity",
-        "active": true,
+        "active": false,
         "date_updated": 1790834942,
         "date_posted": 1790834846,
         "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010922",
@@ -379011,7 +379011,7 @@
         "company_name": "RTX",
         "id": "caf2c40d-930b-4a27-9c3e-b4d2e80026bf",
         "title": "Software Engineer 1 - Core Services and Libraries",
-        "active": true,
+        "active": false,
         "date_updated": 1792534739,
         "date_posted": 1792454400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineer-I--Core-Services-and-Libraries--Onsite-_01883494",
@@ -388554,5 +388554,88 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "caf1ce87-4304-475f-9332-e9ae965a8557",
+        "title": "Deep Learning Hardware Engineer",
+        "active": true,
+        "date_updated": 1792805984,
+        "date_posted": 1792713600,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Deep-Learning-Hardware-Engineer_JR0288400",
+        "locations": [
+            "Santa Clara, CA",
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Farther",
+        "id": "9e08800b-29d9-481b-b8c2-3a1025b1e37c",
+        "title": "Business Intelligence Associate",
+        "active": true,
+        "date_updated": 1792805973,
+        "date_posted": 1792795636,
+        "url": "https://job-boards.greenhouse.io/fartherfinance/jobs/4746642005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Farther",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TruStage",
+        "id": "110cc6b8-f9bf-4999-b76e-978ccc2363b9",
+        "title": "Annuity Product Analyst",
+        "active": true,
+        "date_updated": 1792805943,
+        "date_posted": 1792713600,
+        "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/Annuity-Product-Analyst_R-012250-1",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/TruStage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boeing",
+        "id": "0a84a020-20f0-4f81-904e-c3582b0d20f0",
+        "title": "Entry-Level Software Engineer",
+        "active": true,
+        "date_updated": 1792805404,
+        "date_posted": 1792713600,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526418",
+        "locations": [
+            "Maryland Heights, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
