@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d4ce2d2b-eead-43a4-aa65-92fcf9d83d82",
-        "title": "Nightshift Trading Assistant",
-        "active": false,
-        "date_updated": 1772102538,
-        "date_posted": 1772102538,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050817",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Uline",
         "id": "4305486a-d429-4b22-81a2-badb6c84ae70",
