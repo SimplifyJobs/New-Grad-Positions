@@ -267676,7 +267676,7 @@
         "company_name": "Picton Mahoney Asset Management",
         "id": "626ecf45-a7a7-4ebc-aeb8-fe97ed05b66b",
         "title": "Associate \u2013 Trading Strategy",
-        "active": true,
+        "active": false,
         "date_updated": 1786602781,
         "date_posted": 1786602216,
         "url": "https://pictonmahoney.bamboohr.com/careers/371/",
@@ -282514,7 +282514,7 @@
         "company_name": "Crusoe",
         "id": "929cfe45-2ac9-4d39-80b3-b3fa750e2ceb",
         "title": "Software Engineer 1 - Network",
-        "active": true,
+        "active": false,
         "date_updated": 1787187298,
         "date_posted": 1787187240,
         "url": "https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true",
@@ -334459,7 +334459,7 @@
         "company_name": "KLA Corporation",
         "id": "5aedcb8b-a661-4cdd-8872-3b81f748b454",
         "title": "Optical Engineer - EBeam",
-        "active": false,
+        "active": true,
         "date_updated": 1789417394,
         "date_posted": 1789344000,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Optical-Engineer_2640298-1",
@@ -356367,7 +356367,7 @@
         "company_name": "Applied Materials",
         "id": "86874620-8ad2-46de-8a18-5f6063af9db0",
         "title": "Aix Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1791109441,
         "date_posted": 1783559499,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AIx-Product-Manager_R2622833",
@@ -360937,7 +360937,7 @@
         "company_name": "Fireworks AI",
         "id": "92154dd4-75de-4b54-b71e-74c5d9d5e54e",
         "title": "Member of Technical Staff New Grad - Research",
-        "active": true,
+        "active": false,
         "date_updated": 1791268397,
         "date_posted": 1791267827,
         "url": "https://jobs.ashbyhq.com/fireworks/82b41f4a-a945-4aee-a1fd-1ef9ab513e58/application?embed=true",
@@ -368601,7 +368601,7 @@
         "company_name": "Kainos",
         "id": "831b35aa-0a44-476a-9422-41907d60a5fd",
         "title": "Graduate Technologist",
-        "active": true,
+        "active": false,
         "date_updated": 1791767521,
         "date_posted": 1791763200,
         "url": "https://kainos.wd3.myworkdayjobs.com/kainos/job/Derry-Londonderry/Graduate-Technologist--L-Derry----May-2027-Start-Date_JR_18545",
@@ -377160,7 +377160,7 @@
         "company_name": "KLA Corporation",
         "id": "47e8f9c4-77b2-4538-8f65-ffcd067d9d37",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792448302,
         "date_posted": 1792368000,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-1",
@@ -381812,7 +381812,7 @@
         "company_name": "Boeing",
         "id": "7a61173c-4b74-46ad-bf86-831048ae1170",
         "title": "Entry-Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792707129,
         "date_posted": 1792627200,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1",
@@ -387362,7 +387362,7 @@
         "company_name": "U.S. Bank",
         "id": "7d4e3c1c-51f7-47f5-bc7d-eb4769c86f3a",
         "title": "Software Engineer 1 - Python",
-        "active": true,
+        "active": false,
         "date_updated": 1792776108,
         "date_posted": 1792713600,
         "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Software-Engineer-1---Python_2026-0033403-1",
@@ -387873,7 +387873,7 @@
         "company_name": "Marsh",
         "id": "14a78f7c-acea-4166-9cdd-6d143b74f864",
         "title": "Government Financial Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1792793920,
         "date_posted": 1792713600,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Phoenix---E-Camelback/Government-Financial-Analyst---College-Program-2027_R_362998",
@@ -388476,5 +388476,83 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mercury",
+        "id": "a509cc99-b862-4bd9-8c30-49393b371170",
+        "title": "Frontend Engineer - Design Systems",
+        "active": true,
+        "date_updated": 1792803963,
+        "date_posted": 1792796421,
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6233910004",
+        "locations": [
+            "SF",
+            "Remote in USA",
+            "NYC",
+            "Portland, OR",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercury",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Oracle",
+        "id": "10b87c52-ce84-40be-b48f-f03d8a683189",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1792803963,
+        "date_posted": 1792803952,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/348719",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Carvana",
+        "id": "8135261f-ace0-4f34-9e6a-7a979e430526",
+        "title": "Software Engineering",
+        "active": true,
+        "date_updated": 1792803837,
+        "date_posted": 1792803733,
+        "url": "https://www.carvana.com/careers/apply?gh_jid=7542940",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Carvana",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Carvana",
+        "id": "2d745317-fa1f-439d-8164-15f67400c02b",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1792803836,
+        "date_posted": 1792803736,
+        "url": "https://www.carvana.com/careers/apply?gh_jid=7543098",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Carvana",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
