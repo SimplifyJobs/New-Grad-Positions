@@ -1,105 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Invesco",
-        "id": "ea0a50b2-c250-4b15-a700-a4883483c955",
-        "title": "Early Career Analyst - Technology",
-        "active": false,
-        "date_updated": 1772065050,
-        "date_posted": 1772065050,
-        "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Analyst---Technology_R-11041-1",
-        "locations": [
-            "Houston, TX",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Invesco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "o9 Solutions",
-        "id": "aebda41c-4fa4-407d-a7cb-32c564921e2f",
-        "title": "Associate Architect",
-        "active": false,
-        "date_updated": 1772064852,
-        "date_posted": 1772064852,
-        "url": "https://o9solutions.wd5.myworkdayjobs.com/o9SolutionsExternal/job/Dallas-Texas-United-States/Associate-Architect_JR102243",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/O9-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Johnson & Johnson",
-        "id": "6582817a-f0ec-4bff-8510-6d14fcb87258",
-        "title": "ISRM 2026 Data & Analytics GEM Fellow",
-        "active": false,
-        "date_updated": 1772065069,
-        "date_posted": 1772065069,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/ISRM-2026-Data---Analytics-GEM-Fellow_R-059353",
-        "locations": [
-            "Bridgewater Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CVS Health",
-        "id": "9e858da6-5c9d-4e61-a71f-b019c8478a9f",
-        "title": "Trade Finance Data Analyst",
-        "active": false,
-        "date_updated": 1772064561,
-        "date_posted": 1772064561,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Trade-Finance-Data-Analyst_R0835760",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "CVS Health",
-        "id": "61f563e2-5584-4142-bf98-39262b523816",
-        "title": "Product Manager Analyst",
-        "active": false,
-        "date_updated": 1772064573,
-        "date_posted": 1772064573,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Product-Manager-Analyst_R0839485",
-        "locations": [
-            "Illinois"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Holman",
         "id": "3ce7151b-5fda-4053-aa1f-8137f18352eb",
@@ -367455,7 +367356,7 @@
         "company_name": "Stifel",
         "id": "06fc68bb-527a-4611-b8ca-117c9305d842",
         "title": "Developer \u2013 Credit Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1791584620,
         "date_posted": 1791584043,
         "url": "https://careers-stifel.icims.com/jobs/10047/job?mobile=true&needsRedirect=false",
