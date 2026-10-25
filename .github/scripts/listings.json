@@ -2,160 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Testing Xperts",
-        "id": "3eca92b4-243e-46d3-8c37-f3ff7281168f",
-        "title": "Java 8 Developer",
-        "active": false,
-        "date_updated": 1772177062,
-        "date_posted": 1772177062,
-        "url": "https://jobs.smartrecruiters.com/TestingXperts/743999655468616",
-        "locations": [
-            "Eagan, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Testing-Xperts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "STEM Expert",
-        "id": "fcebbc1d-18ee-4894-b4f7-a41e11d5f1a7",
-        "title": "Software Developer",
-        "active": false,
-        "date_updated": 1772176385,
-        "date_posted": 1772176385,
-        "url": "https://jobs.smartrecruiters.com/StemXpert1/80211272",
-        "locations": [
-            "Portland, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/STEM-Expert",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "STEM Expert",
-        "id": "84815ec7-87e6-4dab-b4b1-a8ce1101643a",
-        "title": "Customer Engineer/Field Service Tech-Dallas - TX",
-        "active": false,
-        "date_updated": 1772176374,
-        "date_posted": 1772176374,
-        "url": "https://jobs.smartrecruiters.com/StemXpert1/81482639",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/STEM-Expert",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Testing Xperts",
-        "id": "ef9e0f33-1078-45dc-b96b-17e6dca86073",
-        "title": "Big Data/Scala Developer",
-        "active": false,
-        "date_updated": 1772176152,
-        "date_posted": 1772176152,
-        "url": "https://jobs.smartrecruiters.com/TestingXperts/743999655943582",
-        "locations": [
-            "Eagan, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Testing-Xperts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Testing Xperts",
-        "id": "7dc394d2-f995-43f7-8f5b-b7ff42eca585",
-        "title": "Datastage Administration",
-        "active": false,
-        "date_updated": 1772176160,
-        "date_posted": 1772176160,
-        "url": "https://jobs.smartrecruiters.com/TestingXperts/743999657154606",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Testing-Xperts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Testing Xperts",
-        "id": "1b014c6d-16f7-4573-a4f5-7afe869d2962",
-        "title": "Friedman Frontier Technical Expert",
-        "active": false,
-        "date_updated": 1772176166,
-        "date_posted": 1772176166,
-        "url": "https://jobs.smartrecruiters.com/TestingXperts/109989495",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Testing-Xperts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Testing Xperts",
-        "id": "fc45a7f4-374b-4923-93f1-e6d64d9426dd",
-        "title": "SAP Functional - Sap PM",
-        "active": false,
-        "date_updated": 1772177062,
-        "date_posted": 1772177062,
-        "url": "https://jobs.smartrecruiters.com/TestingXperts/115207543",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Testing-Xperts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "STEM Expert",
-        "id": "9d4eba4c-265c-4927-8f61-64bae5fc64d4",
-        "title": ".net developer",
-        "active": false,
-        "date_updated": 1772176351,
-        "date_posted": 1772176351,
-        "url": "https://jobs.smartrecruiters.com/StemXpert1/88992015",
-        "locations": [
-            "South Jordan, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/STEM-Expert",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Intuit",
         "id": "e670be82-cf2f-40e5-bdff-fe27daa6213d",
         "title": "Software Engineer 1",
@@ -48625,24 +48471,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "System Canada Technologies",
-        "id": "d53eee07-0e15-482c-8a9b-e7be5a9deb57",
-        "title": "iOS Mobile Developer",
-        "active": false,
-        "date_updated": 1774983253,
-        "date_posted": 1772175980,
-        "url": "https://jobs.smartrecruiters.com/systemCanadaTechnologies/1388781",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/System-Canada-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ASOS plc",
         "id": "fb08a0bc-478e-410e-90d7-6b5c28afaf33",
@@ -48655,24 +48483,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/ASOS-Plc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "System Canada Technologies",
-        "id": "ff508a3d-9b87-4b72-99dc-9c087cc8d0ef",
-        "title": "Core Java \u2013 Multithreading - Socket Programming",
-        "active": false,
-        "date_updated": 1774981261,
-        "date_posted": 1772175901,
-        "url": "https://jobs.smartrecruiters.com/systemCanadaTechnologies/72248172",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/System-Canada-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -50637,24 +50447,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "STEM Xpert",
-        "id": "58f49f58-9f53-4416-bc96-5bafb2a1f5f9",
-        "title": "Jaspersoft Resource",
-        "active": false,
-        "date_updated": 1774981261,
-        "date_posted": 1772176360,
-        "url": "https://jobs.smartrecruiters.com/StemXpert1/81928856",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/STEM-Xpert",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -52681,26 +52473,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "OpusClip",
-        "id": "a35028c5-d648-4a10-8182-45ba4da456ba",
-        "title": "Full Stack Engineer",
-        "active": false,
-        "date_updated": 1775122561,
-        "date_posted": 1772176760,
-        "url": "https://jobs.ashbyhq.com/opusclip/b4fe8c5d-ef27-4e56-b5bb-b8df3b47301f/application",
-        "locations": [
-            "Burnaby, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/OpusClip",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -314240,98 +314012,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Testing Xperts",
-        "id": "4fafb0b2-e40a-4fae-8d26-efafc8a30ac1",
-        "title": "Java Tech Lead",
-        "active": false,
-        "date_updated": 1788458060,
-        "date_posted": 1772176156,
-        "url": "https://jobs.smartrecruiters.com/TestingXperts/115213575",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Testing-Xperts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "STEM Xpert",
-        "id": "19a5cc92-9a47-4f1a-80fd-42aff0d2ac63",
-        "title": "Java Developer",
-        "active": false,
-        "date_updated": 1788458060,
-        "date_posted": 1772176391,
-        "url": "https://jobs.smartrecruiters.com/StemXpert1/76511434",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/STEM-Xpert",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Testing Xperts",
-        "id": "f61d9f79-83cb-4f65-a724-e14eb2ca30de",
-        "title": "Big Data Architect",
-        "active": false,
-        "date_updated": 1788458060,
-        "date_posted": 1772176176,
-        "url": "https://jobs.smartrecruiters.com/TestingXperts/104755652",
-        "locations": [
-            "Hillsboro, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Testing-Xperts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Testing Xperts",
-        "id": "53eeee26-857f-401e-8600-9b4498aa3bb1",
-        "title": "Java Technical Lead",
-        "active": false,
-        "date_updated": 1788458349,
-        "date_posted": 1772176159,
-        "url": "https://jobs.smartrecruiters.com/TestingXperts/115146216",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Testing-Xperts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Testing Xperts",
-        "id": "40528ffd-a9d4-4749-8527-e9282a352120",
-        "title": "Manhattan WMOS Developer",
-        "active": false,
-        "date_updated": 1788458348,
-        "date_posted": 1772176171,
-        "url": "https://jobs.smartrecruiters.com/TestingXperts/110249930",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Testing-Xperts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
