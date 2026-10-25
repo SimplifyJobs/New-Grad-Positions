@@ -1,47 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "e670be82-cf2f-40e5-bdff-fe27daa6213d",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1772189367,
-        "date_posted": 1772189367,
-        "url": "https://jobs.intuit.com/job/mountain-view/senior-product-designer/27595/87369442064",
-        "locations": [
-            "Mountain View, CA",
-            "NYC",
-            "San Diego, CA",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9d6d1ef2-8466-40d5-8263-febcc1bf7da6",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1772188856,
-        "date_posted": 1772188856,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051215",
-        "locations": [
-            "Portadown, Craigavon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1772431282,
         "sponsorship": "Offers Sponsorship",
         "active": false,
