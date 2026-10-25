@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tower Research Capital",
-        "id": "abe09edc-f848-4592-9a3e-17672d62e78e",
-        "title": "Senior Data Analyst",
-        "active": false,
-        "date_updated": 1772160042,
-        "date_posted": 1772160042,
-        "url": "https://www.tower-research.com/open-positions/?gh_jid=7655792",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Tower Research Capital",
-        "id": "76338ee1-134d-41bc-9983-f330ff6061f7",
-        "title": "Quantitative Researcher",
-        "active": false,
-        "date_updated": 1772160042,
-        "date_posted": 1772160042,
-        "url": "https://www.tower-research.com/open-positions/?gh_jid=7659865",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Testing Xperts",
         "id": "3eca92b4-243e-46d3-8c37-f3ff7281168f",
