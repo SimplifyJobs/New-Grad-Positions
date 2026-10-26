@@ -475,28 +475,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "ba98aa13-f065-472a-8929-4c44bb58f747",
-        "title": "Principal Software Engineer - Software Integration & Test Automation",
-        "active": false,
-        "date_updated": 1772286329,
-        "date_posted": 1772286329,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Engineer-Software---Software-Integration---Test-Automation--San-Diego-CA-_R10222486",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "vTech Solution",
         "id": "cbeb7ddb-e921-4ff3-8cff-b87082835025",
@@ -3104,28 +3082,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "16632bc0-caa8-4a0a-99af-2268a738cbda",
-        "title": "Energetics MFG Engineer/Princ Energetics MFG Engineer - Level 2 or Level 3",
-        "active": false,
-        "date_updated": 1772542055,
-        "date_posted": 1772286224,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Salt-Lake-City/Energetics-MFG-Engineer-Princ-Energetics-MFG-Engineer---Level-2-or-Level-3_R10222551",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -339996,7 +339952,7 @@
         "company_name": "CCC Intelligent Solutions",
         "id": "eca8ea10-de85-4351-8b0b-063c1196b4da",
         "title": "Financial Intelligence Analyst - Financial Intelligence",
-        "active": true,
+        "active": false,
         "date_updated": 1790287585,
         "date_posted": 1790287585,
         "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Financial-Intelligence-Analyst_0014859",
@@ -359487,7 +359443,7 @@
         "company_name": "Leidos",
         "id": "c983d97d-884a-45c6-b32b-9e1fbc3c4f50",
         "title": "Entry-Level Electrical Hardware Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791499780,
         "date_posted": 1791417600,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Electrical-Hardware-Design-Engineer_R-00194096",
@@ -365570,7 +365526,7 @@
         "company_name": "JD.com",
         "id": "c7e27fa1-2768-4384-b053-db1c2b5fb36f",
         "title": "Software Development New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1791978526,
         "date_posted": 1791936000,
         "url": "https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/Software-Development_JR104327",
@@ -371274,7 +371230,7 @@
         "company_name": "NRG Energy",
         "id": "de6d9257-4392-4f79-ae24-69394af73162",
         "title": "Data Science Analyst - Agentic AI Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1792449433,
         "date_posted": 1792449316,
         "url": "https://careers.nrgenergy.com/nrg/job/Houston-Data-Science-Analyst-Agentic-AI-Developer-TX-77010/1441481900/?ats=successfactors",
@@ -381491,7 +381447,7 @@
         "company_name": "Applied Underwriters",
         "id": "ee3a8d08-0634-4977-978a-3073541eb055",
         "title": "AI Engineer - Application Development",
-        "active": true,
+        "active": false,
         "date_updated": 1792793525,
         "date_posted": 1792793384,
         "url": "https://jobs.lever.co/auw/9234d6e2-f306-48d9-9cd6-9192d34d889c/apply",
@@ -381936,7 +381892,7 @@
         "company_name": "Meijer",
         "id": "ec3e9690-f766-4512-af30-a7ff06ba310d",
         "title": "Software Engineer 1, AI",
-        "active": true,
+        "active": false,
         "date_updated": 1792795217,
         "date_posted": 1792713600,
         "url": "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Software-Engineer_R000692154",
