@@ -1,67 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CVS Health",
-        "id": "a2745728-382b-4cb6-ab0a-76d0accf3487",
-        "title": "Analyst \u2013 Development Program",
-        "active": false,
-        "date_updated": 1772237292,
-        "date_posted": 1772237292,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Chicago/Analyst--Development-Program_R0834053",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Airbus",
-        "id": "fded530b-40eb-4275-bf67-80cad61f0abf",
-        "title": "VIE \u2013 Gestion de l'Offre produit",
-        "active": false,
-        "date_updated": 1772237213,
-        "date_posted": 1772237213,
-        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/VIE-2026---Canada--Gestion-de-l-Offre-produit---Coordinnateur-Marketing-produit-et-donnes-digitales---H-F--H-F_JR10393117",
-        "locations": [
-            "Laval, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Airbus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "AtkinsR\u00e9alis",
-        "id": "7ee6282d-d371-4c88-b02f-5ad899fddb96",
-        "title": "Metrology Technician/Technologist",
-        "active": false,
-        "date_updated": 1772237040,
-        "date_posted": 1772237040,
-        "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONPickering1340-Pickering-Parkway/Metrology-Technician--Technologist_R-149540-2",
-        "locations": [
-            "Scarborough, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/AtkinsRealis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "NVIDIA",
         "id": "df46c47f-eefd-4c80-ace7-e57db972ffd5",
@@ -382810,6 +382749,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "441c3d0c-ee76-4f06-85bc-5c015f9c7452",
+        "title": "Memory Design Engineer New Grad - HBM",
+        "active": true,
+        "date_updated": 1788458060,
+        "date_posted": 1781361801,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Memory-Design-Engineer--HBM_JR93183-1",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
