@@ -211332,7 +211332,7 @@
         "company_name": "Deloitte",
         "id": "e2d5e6c7-81fd-47e1-9fbb-e3e3a0cb9c27",
         "title": "Consultative Offerings - Government & Public Services - AI & Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1784682559,
         "date_posted": 1784672056,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-AI-Data-Engineering/350596",
@@ -338915,7 +338915,7 @@
         "company_name": "The Home Depot",
         "id": "9a40945e-c409-40bb-80ea-513ab8d85839",
         "title": "Associate Data Scientist - People Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1790202962,
         "date_posted": 1790121600,
         "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---People-Analytics_Req194104",
@@ -363672,7 +363672,7 @@
         "company_name": "JD.com",
         "id": "815416c2-86ab-4701-82c6-9100b4fc3394",
         "title": "Graduate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1791901261,
         "date_posted": 1791849600,
         "url": "https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/Graduate-Software-Engineer_JR104096",
@@ -375388,7 +375388,7 @@
         "company_name": "GE Aerospace",
         "id": "e3bad092-7807-41e6-b124-2c0c7c7f3d56",
         "title": "Engineer \u2013 Robotics and Autonomy",
-        "active": true,
+        "active": false,
         "date_updated": 1792707559,
         "date_posted": 1792627200,
         "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Niskayuna/Research-Engineer---Robotics---Autonomy_R5042077-1",
@@ -380950,7 +380950,7 @@
         "company_name": "RSM",
         "id": "ed5d8236-8fcb-4304-a50f-c4acfdd5f275",
         "title": "AI Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792776063,
         "date_posted": 1792713600,
         "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/AI-Machine-Learning-Engineer_JR122103",
@@ -382563,6 +382563,186 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Westinghouse Electric Company",
+        "id": "2dbc5fbf-96d2-4509-90fa-766da5424256",
+        "title": "Hardware Engineer",
+        "active": true,
+        "date_updated": 1793024824,
+        "date_posted": 1793024721,
+        "url": "https://careers.westinghousenuclear.com/job/Warrendale-Hardware-Engineer-OR/1443490900/?ats=successfactors",
+        "locations": [
+            "Cranberry Township, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RELX",
+        "id": "92271fcd-c5ba-4a82-aae4-92bc952be01b",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1793024683,
+        "date_posted": 1792972800,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/London-Wall/Tech-Accelerate-Graduate-Program---Software-Engineer_R119818-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "173e402a-974c-4a05-a0d5-6cc9c6324a6f",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1793024138,
+        "date_posted": 1792972800,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Scientist--Junior_R0252270",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "c6a9be94-d5f8-4644-9170-cd986afc5557",
+        "title": "Associate Software Engineering",
+        "active": true,
+        "date_updated": 1793023875,
+        "date_posted": 1793023624,
+        "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1443517100/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leonardo",
+        "id": "024414d5-bdb5-43d0-800b-54a9a6d31bcb",
+        "title": "Graduate FPGA/Firmware Engineer",
+        "active": true,
+        "date_updated": 1793023742,
+        "date_posted": 1792972800,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Graduate-FPGA-Firmware-Engineer_R0034561",
+        "locations": [
+            "Edinburgh, UK",
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leonardo",
+        "id": "6f86ab91-2ef7-42ab-a454-4511a011759d",
+        "title": "Graduate Electronics Engineer",
+        "active": true,
+        "date_updated": 1793023742,
+        "date_posted": 1792972800,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Graduate-Electronics-Engineer_R0034559",
+        "locations": [
+            "Edinburgh, UK",
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Interface",
+        "id": "c0ef6333-a128-4753-99d7-a0f5f50ff3da",
+        "title": "Data Coordinator",
+        "active": true,
+        "date_updated": 1793023566,
+        "date_posted": 1792972800,
+        "url": "https://interface.wd1.myworkdayjobs.com/interface/job/LaGrange-GA/Data-Coordinator_R4332",
+        "locations": [
+            "LaGrange, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Interface-Commercial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fife Council",
+        "id": "2e46bdd4-7f22-406a-8d89-7edb68f1ff91",
+        "title": "Geographical Information Systems/Spatial Data Officer",
+        "active": true,
+        "date_updated": 1793023566,
+        "date_posted": 1793023515,
+        "url": "https://ekmu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_6009/job/24919",
+        "locations": [
+            "Glenrothes, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Fife-Council",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "c5e57b36-c4df-4c41-8f7b-3710a0fa455f",
+        "title": "Robotics Teleoperator",
+        "active": true,
+        "date_updated": 1793023770,
+        "date_posted": 1793023506,
+        "url": "https://jobs.lever.co/weloglobal/bfe28852-4fab-41fb-a2eb-5365dc0fdc82/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
