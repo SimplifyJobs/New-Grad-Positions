@@ -374597,7 +374597,7 @@
         "company_name": "Northrop Grumman",
         "id": "dee014fe-0e7c-46bd-bc12-4da1d303b633",
         "title": "Associate Electromechanical Engineer / Electromechanical Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792621853,
         "date_posted": 1792540800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Electromechanical-Engineer---Electromechanical-Engineer---Rolling-Meadows-IL_R10257089",
@@ -382627,6 +382627,66 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "d6a611ad-6577-4727-bad6-a4aa05ad24ec",
+        "title": "Product Manager New Grad - Platform Trust and Ecosystem",
+        "active": true,
+        "date_updated": 1792995881,
+        "date_posted": 1792995751,
+        "url": "https://lifeattiktok.com/search/7680761598014015797",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Internet Brands",
+        "id": "5c53901d-0c0e-4372-b4d5-891e090adcf1",
+        "title": "Associate AI Research & Operations Analyst",
+        "active": true,
+        "date_updated": 1792995174,
+        "date_posted": 1792994964,
+        "url": "https://jobs.jobvite.com/internetbrands/job/oChZAfwc?nl=1&nl=1&fr=false",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Internet-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Evolent",
+        "id": "7fb4df11-724b-4388-80ba-7b185189f957",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1792994941,
+        "date_posted": 1792972800,
+        "url": "https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Associate-Software-Engineer_JR-916896",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Evolent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
