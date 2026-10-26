@@ -3130,26 +3130,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Samsung",
-        "id": "1c0ad14f-24cb-4e5c-a945-81075f751fe2",
-        "title": "AMHS Engineer",
-        "active": false,
-        "date_updated": 1772542469,
-        "date_posted": 1772284068,
-        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/AMHS-System-Engineer_R112953-1",
-        "locations": [
-            "Pflugerville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "EquipmentShare",
         "id": "23baed5e-9e59-464d-b5cd-496acc21e230",
         "title": "Telematics Installer",
@@ -370488,7 +370468,7 @@
         "company_name": "Wise",
         "id": "fa9a97e6-f7c0-4329-9d92-42fc2fd0acc5",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792419841,
         "date_posted": 1792419802,
         "url": "https://jobs.smartrecruiters.com/Wise/744000156312360",
