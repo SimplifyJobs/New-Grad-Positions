@@ -13650,26 +13650,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Worldpay",
-        "id": "ec0357bf-c8a7-42a5-92ea-17d7dce8b3fd",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1773109749,
-        "date_posted": 1772280555,
-        "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Statistician-Data-Analyst-II_JR0608725",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Worldpay",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Pearson",
         "id": "14b2bb6d-74c1-4dac-9870-336d43169a16",
         "title": "Specialist - Service Provider - Intelligence and Data Analysis",
@@ -347173,7 +347153,7 @@
         "company_name": "NCR Voyix",
         "id": "2fb142a3-94d3-4f29-91b2-d95a17392dfa",
         "title": "Junior DevOps Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790954918,
         "date_posted": 1790899200,
         "url": "https://ncr.wd1.myworkdayjobs.com/ext_non_us/job/BATH-GBR/Junior-DevOps-Engineer_R0158519",
@@ -365283,7 +365263,7 @@
         "company_name": "BP",
         "id": "fad2efaf-2726-4528-b3ec-446d3bf13d05",
         "title": "Graduate Subsurface Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1791941476,
         "date_posted": 1791936000,
         "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Graduate---Subsurface-Technology---Geology_RQ117087",
