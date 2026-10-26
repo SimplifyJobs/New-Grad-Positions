@@ -49087,7 +49087,7 @@
         "company_name": "Aquatic Capital Management",
         "id": "d54312d4-b724-4f31-8edc-89a45c0f4ef5",
         "title": "Software Engineer \u2013 Early Career",
-        "active": false,
+        "active": true,
         "date_updated": 1775085661,
         "date_posted": 1775081547,
         "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002",
@@ -267843,7 +267843,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -268224,7 +268224,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -301945,7 +301945,7 @@
         "company_name": "Tesla",
         "id": "ab5d3be5-287f-4cbd-9990-bd3a9705d95c",
         "title": "Field Reliability Engineer - Infotainment Hardware",
-        "active": false,
+        "active": true,
         "date_updated": 1788422948,
         "date_posted": 1787772025,
         "url": "https://www.tesla.com/careers/search/job/281290",
@@ -375116,7 +375116,7 @@
         "company_name": "Hive",
         "id": "b986a7c9-3df1-4739-9c5a-a68338dbe477",
         "title": "Associate Product Manager - Deploy Models",
-        "active": false,
+        "active": true,
         "date_updated": 1792708026,
         "date_posted": 1792707861,
         "url": "https://jobs.lever.co/hive/d5b22ed0-fdd2-4be1-8e6c-b6d734c17986/apply",
@@ -375503,7 +375503,7 @@
         "company_name": "UT Southwestern Medical Center",
         "id": "cc259ac7-d903-41ef-8372-0b9bff0ba883",
         "title": "Clinical Quality Data Coordinator 1",
-        "active": false,
+        "active": true,
         "date_updated": 1792706977,
         "date_posted": 1792706720,
         "url": "https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=973896",
@@ -383191,5 +383191,381 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "8cbf8bd8-ce20-44af-a4c4-233cb9eb144e",
+        "title": "Senior Signal Processing and Algorithm Engineer New Grad",
+        "active": true,
+        "date_updated": 1793054765,
+        "date_posted": 1792972800,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NJ-Somerset/Senior-Signal-Processing-and-Algorithm-Engineer_R267093",
+        "locations": [
+            "Wilmington, MA",
+            "Somerset County, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Jerry",
+        "id": "ff28280e-f670-4bb7-94f3-f7a0238e6a38",
+        "title": "Product Manager-in-Training",
+        "active": true,
+        "date_updated": 1793054701,
+        "date_posted": 1792972800,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/0de2cc4d-8ddc-41a9-adc7-321560f57b9a/application?embed=true",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Harbinger Motors",
+        "id": "976447af-aaff-4145-b747-fb255172d137",
+        "title": "Associate Design Release Engineer - Low Voltage",
+        "active": true,
+        "date_updated": 1793054753,
+        "date_posted": 1793053071,
+        "url": "https://job-boards.greenhouse.io/harbingermotors/jobs/5275723007",
+        "locations": [
+            "Garden Grove, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Harbinger-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Oracle",
+        "id": "27fb7bbc-e0c7-42da-a231-5c5a2a8af54f",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1793054701,
+        "date_posted": 1793054561,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/348765",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "add2af69-d211-451e-87a2-8feb56317943",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1793054576,
+        "date_posted": 1793054508,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557025694",
+        "locations": [
+            "Redmond, WA",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Electric Power",
+        "id": "f2fdfdee-f28f-41c8-8839-801ba1e80ee0",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1793054347,
+        "date_posted": 1792972800,
+        "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Tulsa-OK/Data-Scientist_R20444",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Electric-Power",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kled AI",
+        "id": "bd27436a-a426-4203-aff8-a195a56b1733",
+        "title": "AI-Generated Images Found in the Wild",
+        "active": true,
+        "date_updated": 1793054347,
+        "date_posted": 1792972800,
+        "url": "https://jobs.ashbyhq.com/kled-ai/9eb333fc-9443-47b8-b7c7-3bc36f9376c1/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kled-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kled AI",
+        "id": "b6fbadb5-7e07-4805-9726-58f9d3db88ef",
+        "title": "Screen Record a Task in an App",
+        "active": true,
+        "date_updated": 1793054347,
+        "date_posted": 1792972800,
+        "url": "https://jobs.ashbyhq.com/kled-ai/a5bacae8-b8a3-4983-9854-c44250d31cd8/application?embed=true",
+        "locations": [
+            "California",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kled-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kled AI",
+        "id": "ace7f477-ec40-4ce7-9b0e-cff7cd39d041",
+        "title": "Cluttered Surfaces for Counting - Contract",
+        "active": true,
+        "date_updated": 1793054347,
+        "date_posted": 1792972800,
+        "url": "https://jobs.ashbyhq.com/kled-ai/41a82324-02a6-4786-8569-6b32720da8a8/application?embed=true",
+        "locations": [
+            "California",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kled-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "31a6bf14-9763-4970-809b-61366bc8c547",
+        "title": "Electronic Systems Engineer - Software",
+        "active": true,
+        "date_updated": 1793054163,
+        "date_posted": 1793054132,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2427178",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Farcast",
+        "id": "7d6b508e-1b9e-4159-b55b-e5735e924a6a",
+        "title": "Electrical Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1793054163,
+        "date_posted": 1793054061,
+        "url": "https://jobs.lever.co/Farcast/c6bc53ba-77cf-4980-a401-4fd7ab7ad1c0/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Farcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Madhive",
+        "id": "f5c56e74-6403-4a4b-9708-7ec43edb0886",
+        "title": "Software Engineer - Financial Systems",
+        "active": true,
+        "date_updated": 1793053981,
+        "date_posted": 1792972800,
+        "url": "https://jobs.ashbyhq.com/madhive/b95e6485-c017-49a0-a966-61f68404279c/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Madhive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fermilab",
+        "id": "ba817379-8019-4183-a9eb-c66d9bf0075e",
+        "title": "Artificial Intelligence Associate",
+        "active": true,
+        "date_updated": 1793054000,
+        "date_posted": 1793053898,
+        "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/AI-Associates_R_009869",
+        "locations": [
+            "Batavia, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Fermilab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "7bcfad82-e6d1-4487-99f3-b5a5fd979f5c",
+        "title": "Graduate Electronic Design Engineer",
+        "active": true,
+        "date_updated": 1793053997,
+        "date_posted": 1793053898,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---St-Asaph/Graduate-Electronic-Engineer_REQ36110",
+        "locations": [
+            "St Asaph, Saint Asaph, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Teledyne",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Everfox",
+        "id": "2f49a679-e4b5-41e5-9ff7-7c3cf645c769",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1793053865,
+        "date_posted": 1792972800,
+        "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500927",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Everfox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Torc Robotics",
+        "id": "b16dfbb4-b8ae-4434-8189-f507ecd86983",
+        "title": "Data Annotator",
+        "active": true,
+        "date_updated": 1793053847,
+        "date_posted": 1793024254,
+        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8916771002",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Torc-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "881a59a5-91b7-453d-a86e-a73f4684462e",
+        "title": "Data Collection Coordinator - Optimus",
+        "active": true,
+        "date_updated": 1793053804,
+        "date_posted": 1793053638,
+        "url": "https://www.tesla.com/careers/search/job/257533",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "17167eb4-da3f-41d8-be5b-6f5993633d22",
+        "title": "Software Engineer New Grad - Security",
+        "active": true,
+        "date_updated": 1793053839,
+        "date_posted": 1792972800,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Torc Robotics",
+        "id": "15c0e485-4da6-47c8-811b-c7adfc1cd7ff",
+        "title": "Data Annotator 1",
+        "active": true,
+        "date_updated": 1793053847,
+        "date_posted": 1793024258,
+        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8916327002",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Torc-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
