@@ -267641,7 +267641,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -268022,7 +268022,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -343136,7 +343136,7 @@
         "company_name": "RTX",
         "id": "ccabd2dc-da52-47d9-b9e4-1c5478b1406f",
         "title": "FPGA/ASIC Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1790721416,
         "date_posted": 1790640000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/FPGA-ASIC-Engineer-I_01876996",
@@ -373760,7 +373760,7 @@
         "company_name": "AIG",
         "id": "92a80010-86da-474e-b0da-0b7d1a8b556c",
         "title": "Junior Data Analyst - Fraud and Recovery",
-        "active": false,
+        "active": true,
         "date_updated": 1792622529,
         "date_posted": 1792540800,
         "url": "https://aig.wd1.myworkdayjobs.com/aig/job/London/Junior-Data-Analyst--Fraud-and-Recovery-_JR2604029-1",
@@ -381264,7 +381264,7 @@
         "company_name": "State Employees' Credit Union",
         "id": "fe549bbb-6151-4740-b2fa-39a8101b032b",
         "title": "Associate Credit Review Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1792793168,
         "date_posted": 1792713600,
         "url": "https://ncsecu.wd1.myworkdayjobs.com/secu/job/Operations-Wake-Forest-Road/Associate-Credit-Review-Data-Scientist_JR-16697",
@@ -383954,6 +383954,123 @@
             "Remote in Costa Rica"
         ],
         "company_url": "https://simplify.jobs/c/Expedock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "dd78d693-5a46-4ccf-8fec-2c46920e2d0d",
+        "title": "Associate Software Engineer / Software Engineer",
+        "active": true,
+        "date_updated": 1793111240,
+        "date_posted": 1793059200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "f47f4ba2-822f-4cde-913d-eec0d71230ee",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1793110861,
+        "date_posted": 1793110808,
+        "url": "https://amazon.jobs/en/jobs/10589773/software-development-engineer-2027",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "80195a05-cc11-4881-b06e-25871d943709",
+        "title": "Software Developer Engineer",
+        "active": true,
+        "date_updated": 1793110892,
+        "date_posted": 1793110811,
+        "url": "https://amazon.jobs/en/jobs/10589671/software-dev-engineer-ed-amazon-devices-ring-blink",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CrossCountry Consulting",
+        "id": "9f9295eb-a51e-49d6-8755-2fbe6cd5e3fe",
+        "title": "Forward Deployed Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1793110699,
+        "date_posted": 1793110509,
+        "url": "https://jobs.lever.co/crosscountry-consulting/f294b6dd-b2dc-46c5-9139-9ba93163ba5c/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CrossCountry-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CrossCountry Consulting",
+        "id": "51468c5a-b033-4207-9b74-f29b742bc364",
+        "title": "Forward Deployed Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1793110701,
+        "date_posted": 1793110514,
+        "url": "https://jobs.lever.co/crosscountry-consulting/10ecb553-0393-4e7b-af5a-88a1947a0769/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/CrossCountry-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CrossCountry Consulting",
+        "id": "0f024c1d-f24e-4a1a-a323-1b0c81568fcb",
+        "title": "Forward Deployed Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1793110542,
+        "date_posted": 1793110495,
+        "url": "https://jobs.lever.co/crosscountry-consulting/eb6ab6cf-6f93-486f-b4bf-6137bc67feb7/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/CrossCountry-Consulting",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
