@@ -267641,7 +267641,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -268022,7 +268022,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -327785,7 +327785,7 @@
         "company_name": "Boeing",
         "id": "56278d8a-c505-46f4-a85b-5be6b79b6e44",
         "title": "Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer - Space Digital Products & Electronics",
-        "active": false,
+        "active": true,
         "date_updated": 1789418341,
         "date_posted": 1789344000,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-level-Digital-Electronics-Circuit---Unit-Hardware-Design-Engineer_JR2026523829-1",
@@ -384789,6 +384789,527 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Databricks",
+        "id": "6229e804-43a5-47a4-882c-c7bf3dc4968f",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1793141118,
+        "date_posted": 1793141065,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6865698002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Databricks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "0af66fc6-5a79-4524-b470-471d3313cb64",
+        "title": "Lead Software Engineer - Mesh Generation",
+        "active": true,
+        "date_updated": 1793141108,
+        "date_posted": 1793059200,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Lead-Software-Engineer---Mesh-Generation_R56961-4",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Databricks",
+        "id": "992ceb83-2b59-4901-b82d-8ca2b8edc498",
+        "title": "Software Engineer New Grad - Distributed Data Systems",
+        "active": true,
+        "date_updated": 1793141117,
+        "date_posted": 1793141063,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6865704002",
+        "locations": [
+            "Bellevue, WA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Databricks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Resurgent Industries",
+        "id": "6ca614d0-0aed-481c-b1a5-835333090dc0",
+        "title": "Entry-Level Embedded Firmware and Controls Engineer Intern",
+        "active": true,
+        "date_updated": 1793141132,
+        "date_posted": 1793059200,
+        "url": "https://jobs.ashbyhq.com/resurgent-industries/cf80a6e9-02db-4f0b-88cf-6bebd61fd3bf/application?embed=true",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Resurgent-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "O'Reilly Auto Parts",
+        "id": "d2acd998-8300-4877-b737-0becc2b0e433",
+        "title": "Electronic Catalog Technician",
+        "active": true,
+        "date_updated": 1793140959,
+        "date_posted": 1793059200,
+        "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Regional-Office-PHX/Electronic-Catalog-Technician-1_R208463",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/OReilly-Auto-Parts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "459640c9-5c1f-4230-970e-3acd1ff8a147",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1793140984,
+        "date_posted": 1793059200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I----Onsite-_01884645",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Generate Capital",
+        "id": "23773bfd-0553-4838-b39f-c60292f77807",
+        "title": "Software Engineer - Data",
+        "active": true,
+        "date_updated": 1793140927,
+        "date_posted": 1793059200,
+        "url": "https://jobs.ashbyhq.com/generate/91d20c40-c3e8-46f2-bea8-a42b565e31c8/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/GenerateCapital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "548d7a4b-0a2f-4342-848e-c23ed720b562",
+        "title": "Electrical Engineer - Test Engineer I",
+        "active": true,
+        "date_updated": 1793140927,
+        "date_posted": 1793059200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Electrical-Engineer--Test-Engineer-I--Onsite-_01885421",
+        "locations": [
+            "Largo, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "62b8de32-f16e-413e-9a67-dbb6ce1a61b8",
+        "title": "SOC Design Verification Engineer - ASICS Engineering",
+        "active": true,
+        "date_updated": 1793140742,
+        "date_posted": 1793140618,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721689444",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SambaNova Systems",
+        "id": "2ca476b1-e283-4e45-8f5d-12dcfa6b20e8",
+        "title": "ML Infrastructure Engineer New Grad",
+        "active": true,
+        "date_updated": 1793140768,
+        "date_posted": 1793129086,
+        "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SambaNova-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ServiceNow",
+        "id": "ffedf0e5-2d73-47af-aa9d-0ef0ae4b42d6",
+        "title": "Software Engineer New Grad - AI/ML",
+        "active": true,
+        "date_updated": 1793140776,
+        "date_posted": 1793043857,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157900224",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SambaNova Systems",
+        "id": "74737e11-7997-42ce-8911-1628466217e5",
+        "title": "Compiler Engineer New Grad",
+        "active": true,
+        "date_updated": 1793140767,
+        "date_posted": 1793129050,
+        "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SambaNova-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "c00e49e3-1cb9-4459-b70f-d8df2e569bac",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1793140791,
+        "date_posted": 1793059200,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-CA-Vandenberg-AFB/Software-Engineer-Junior_R0173629",
+        "locations": [
+            "Vandenberg Space Force Base, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sierra",
+        "id": "3cb76e87-4978-48cf-88c2-baef50b5bc3a",
+        "title": "Software Engineer New Grad - Agent",
+        "active": true,
+        "date_updated": 1793140790,
+        "date_posted": 1793059200,
+        "url": "https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SambaNova Systems",
+        "id": "574ed495-74af-4f04-bd8a-3d57aa8a2151",
+        "title": "Runtime Engineer New Grad",
+        "active": true,
+        "date_updated": 1793140765,
+        "date_posted": 1793129061,
+        "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224843004",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SambaNova-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SambaNova Systems",
+        "id": "36028ef5-8c93-4ee0-9528-a9430fbd27ff",
+        "title": "Physical Design Engineer New Grad",
+        "active": true,
+        "date_updated": 1793140767,
+        "date_posted": 1793138362,
+        "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6236609004",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SambaNova-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD",
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SambaNova Systems",
+        "id": "547d5998-0d2e-4681-b0b9-175de9824134",
+        "title": "Post-Silicon Validation Engineer New Grad",
+        "active": true,
+        "date_updated": 1793140764,
+        "date_posted": 1793138384,
+        "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6236619004",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SambaNova-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SambaNova Systems",
+        "id": "496e4a89-aec2-4140-9d31-bbe243daa7cb",
+        "title": "Design Verification Engineer New Grad",
+        "active": true,
+        "date_updated": 1793140766,
+        "date_posted": 1793138336,
+        "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6236595004",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SambaNova-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TSC",
+        "id": "70e82cc3-75ea-49cc-ba32-56ba5b297758",
+        "title": "Electrical Engineer - Radar",
+        "active": true,
+        "date_updated": 1793140570,
+        "date_posted": 1793059200,
+        "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Electrical-Engineer--Radar--I_JR2884",
+        "locations": [
+            "Silver Spring, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/TSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TSC",
+        "id": "50277aac-4c9e-4481-a0ea-eb20f219068e",
+        "title": "Computer/Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1793140594,
+        "date_posted": 1793059200,
+        "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Bloomington-IN/Computer-Electrical-Engineer-I_JR2883",
+        "locations": [
+            "Bloomington, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/TSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SAIC",
+        "id": "d44746d7-c177-4559-9ee3-2777ba0c3986",
+        "title": "Software Engineer Associate",
+        "active": true,
+        "date_updated": 1793140381,
+        "date_posted": 1793140380,
+        "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618492",
+        "locations": [
+            "Crane, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/SAIC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "b5b550d8-07b7-48d1-a1ba-9aa09a1cc8c1",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1793140461,
+        "date_posted": 1793140378,
+        "url": "https://jobs.intuit.com/job/toronto/software-developer-1/27595/102521439744",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "a279fba6-3495-4e9c-ac89-769269250310",
+        "title": "Software Developer 1 - API Management Platform",
+        "active": true,
+        "date_updated": 1793140462,
+        "date_posted": 1793140376,
+        "url": "https://jobs.intuit.com/job/toronto/software-developer-1-api-management-platform/27595/102521440064",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HNTB",
+        "id": "aebbff53-f3c6-4660-b99c-578fb42e00ad",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1793140434,
+        "date_posted": 1793059200,
+        "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Miami-FL/Data-Analyst-I_R-32186",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/HNTB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Xcellent Technology Solutions",
+        "id": "ff5be97f-a619-45a3-a121-d3fe44b56a61",
+        "title": "GIS Specialist",
+        "active": true,
+        "date_updated": 1793140292,
+        "date_posted": 1793140152,
+        "url": "https://xtscareers.applytojob.com/apply/MZt8X0adyM/GIS-Specialist-Entry-Level",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Xcellent-Technology-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
