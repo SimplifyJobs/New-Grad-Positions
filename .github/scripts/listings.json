@@ -185561,7 +185561,7 @@
         "company_name": "Western Digital",
         "id": "8fd1ca89-f47b-40e1-9bb8-ada39c40be9f",
         "title": "Drive Failure Analysis and Reliability Integration Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783548712,
         "date_posted": 1783548305,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000136546820",
@@ -196155,7 +196155,7 @@
         "company_name": "Cisco",
         "id": "7a41b37b-bd8a-4927-901d-15da9744cdcf",
         "title": "Failure Analysis Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784154435,
         "date_posted": 1784153503,
         "url": "https://careers.cisco.com/global/en/job/2018947",
@@ -226960,7 +226960,7 @@
         "company_name": "Observable Space",
         "id": "ae72d45f-8a3a-45db-9cf2-c1cdb945e21e",
         "title": "Junior Electrical Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1785319922,
         "date_posted": 1775254165,
         "url": "https://jobs.ashbyhq.com/observable-space/18d4da43-e393-466f-9f81-47c97b51d0ac/application?embed=true",
@@ -252789,7 +252789,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "8e8f7392-2530-41cd-b2fe-8ba9e55a6f68",
         "title": "Software Engineering New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1786389103,
         "date_posted": 1786320000,
         "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475",
@@ -252812,7 +252812,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "6e1de79a-7eda-4b86-ae66-4edba96f4c12",
         "title": "Data Engineering New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1786389124,
         "date_posted": 1786320000,
         "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1",
@@ -267661,7 +267661,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -268042,7 +268042,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -326998,7 +326998,7 @@
         "company_name": "LSEG",
         "id": "8c0a75e5-6d0a-483c-9075-3347c814e23f",
         "title": "Engineering Graduate Programme - New York",
-        "active": false,
+        "active": true,
         "date_updated": 1789409701,
         "date_posted": 1789344000,
         "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/USA-New-York-28-Liberty-Street/Engineering-Graduate-Programme--New-York-_R0123409",
@@ -337407,7 +337407,7 @@
         "company_name": "Datalab USA",
         "id": "0ee4a6bf-f582-487c-9319-eda96265fdd0",
         "title": "Production Programmer - SQL Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1790117040,
         "date_posted": 1790115488,
         "url": "https://jobs.lever.co/datalabusa/9254110c-d83f-4921-aca6-b26d203bbc53/apply",
@@ -341294,7 +341294,7 @@
         "company_name": "RTX",
         "id": "777dc751-d5f0-4f2d-97c7-9d205411e8c1",
         "title": "Software Engineer 1 - Gen4 Airborne Radar",
-        "active": false,
+        "active": true,
         "date_updated": 1790385228,
         "date_posted": 1790294400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Gen4-Airborne-Radar_01877039",
@@ -360744,7 +360744,7 @@
         "company_name": "Circle Logistics",
         "id": "fb6da2a2-3bc3-441e-8157-8b01a3021a05",
         "title": "Entry Level Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791584109,
         "date_posted": 1791583950,
         "url": "https://jobs.smartrecruiters.com/CircleLogistics1/3743990016023696",
@@ -373322,7 +373322,7 @@
         "company_name": "RTX",
         "id": "9283a980-98e0-4f9f-af72-d7087c27870c",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792593232,
         "date_posted": 1792540800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-I--Onsite-_01883922",
@@ -375702,7 +375702,7 @@
         "company_name": "Guidehouse",
         "id": "972b80b8-e865-4003-afae-31d91851fd02",
         "title": "Technical Associate Application Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1792718657,
         "date_posted": 1792627200,
         "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783",
@@ -380916,7 +380916,7 @@
         "company_name": "Jerry",
         "id": "7336a6d7-e9ad-449d-a4d6-5df142b06f58",
         "title": "Product Manager-in-Training",
-        "active": true,
+        "active": false,
         "date_updated": 1792794243,
         "date_posted": 1792713600,
         "url": "https://jobs.ashbyhq.com/jerry.ai/827b77fc-8777-4908-bcf9-b7a8c19c306d/application?embed=true",
@@ -382953,7 +382953,7 @@
         "company_name": "International Flavors & Fragrances",
         "id": "994f87d9-76cf-40c8-b39e-0c53c21c76d8",
         "title": "Industrial AI Decision Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1793052363,
         "date_posted": 1792972800,
         "url": "https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Haverhill-United-Kingdom/Industrial-AI-Decision-Scientist_R22895",
@@ -383385,5 +383385,186 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "9288d3f9-b0e5-4d21-8dd2-6910da83436f",
+        "title": "Data Visualization Software Engineer",
+        "active": true,
+        "date_updated": 1793064421,
+        "date_posted": 1793059218,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990016422126",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nutanix",
+        "id": "357b4fdc-c3ec-4ebf-8828-c49a27da35e9",
+        "title": "Forward Deployed Engineer - AI Inference Systems Research",
+        "active": true,
+        "date_updated": 1793064061,
+        "date_posted": 1791843471,
+        "url": "https://jobs.jobvite.com/nutanix/job/oLmVAfwm?nl=1&nl=1&fr=false",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "The Wharton School",
+        "id": "838440a9-118a-45fa-a769-329e95332ca1",
+        "title": "Predoctoral Research Specialist - Rodney White Center for Financial Research - Wharton School",
+        "active": true,
+        "date_updated": 1793063882,
+        "date_posted": 1789430400,
+        "url": "https://wd1.myworkdaysite.com/recruiting/upenn/Wharton/job/SteinbergDietrich-Hall---3rd-Floor/Predoctoral-Research-Specialist--Rodney-White-Center-for-Financial-Research--Wharton-School_JR00127509",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Wharton-School",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Abacus Insights",
+        "id": "83774569-427b-4fdc-8cdf-d17695ad5ae4",
+        "title": "Associate Data Engineer",
+        "active": true,
+        "date_updated": 1793063882,
+        "date_posted": 1793033894,
+        "url": "https://boards.greenhouse.io/abacusinsights/jobs/8917379002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Abacus-Insights",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Super Micro Computer",
+        "id": "9095c00d-1e37-4392-a8e2-d8bf9cd759dd",
+        "title": "Service Technician",
+        "active": true,
+        "date_updated": 1793063882,
+        "date_posted": 1793063832,
+        "url": "https://jobs.supermicro.com/job/Houston-Service-Technician-Texa/1443918000/?ats=successfactors",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Super-Micro-Computer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sampura Research",
+        "id": "9fe507c0-fe3a-44e4-8e7d-238340757cae",
+        "title": "Founding Member of Technical Staff",
+        "active": true,
+        "date_updated": 1793063882,
+        "date_posted": 1790777935,
+        "url": "https://jobs.ashbyhq.com/sampura/a83213a5-6d70-4ed1-8f79-542a34051637/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sampura-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Planview",
+        "id": "f62e793a-1644-4b8d-a76d-ed67face4722",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1793063413,
+        "date_posted": 1793053740,
+        "url": "https://careers.planview.com/jobs/5182?icims=1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Planview",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Aerospace Corporation",
+        "id": "2504b83a-b236-4dd0-a755-bd49281455a5",
+        "title": "Photonic Integrated Circuit Engineer",
+        "active": true,
+        "date_updated": 1793063408,
+        "date_posted": 1792972800,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Photonic-Integrated-Circuits-Engineer_R016928",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "bf110288-6bfb-43b4-b8dd-66c020222e16",
+        "title": "Systems Engineer 1 - Datalinks",
+        "active": true,
+        "date_updated": 1793063401,
+        "date_posted": 1792972800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I---Datalinks---Onsite_01881112",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
