@@ -327560,7 +327560,7 @@
         "company_name": "Boeing",
         "id": "638f7b48-645b-4838-b62d-be92a72bb467",
         "title": "Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer - Space Digital Products & Electronics",
-        "active": false,
+        "active": true,
         "date_updated": 1789417081,
         "date_posted": 1789344000,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-level-Digital-Electronics-Circuit---Unit-Hardware-Design-Engineer_JR2026523829-2",
@@ -338122,7 +338122,7 @@
         "company_name": "Amgen",
         "id": "2d23863f-49e1-4783-aab6-4f76106c7d8d",
         "title": "Associate AI Engineer - OI&A",
-        "active": false,
+        "active": true,
         "date_updated": 1790201872,
         "date_posted": 1790121600,
         "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Associate-AI-Engineer--OI-A_R-255988",
@@ -358232,7 +358232,7 @@
         "company_name": "Otter.ai",
         "id": "24901885-b792-4344-a66a-26907a743ebc",
         "title": "Software Engineer New Grad - Front-End",
-        "active": false,
+        "active": true,
         "date_updated": 1791412285,
         "date_posted": 1791411293,
         "url": "https://otter.ai/careers?gh_jid=8016078003",
@@ -381564,7 +381564,7 @@
         "company_name": "Meijer",
         "id": "ec3e9690-f766-4512-af30-a7ff06ba310d",
         "title": "Software Engineer 1, AI",
-        "active": false,
+        "active": true,
         "date_updated": 1792795217,
         "date_posted": 1792713600,
         "url": "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Software-Engineer_R000692154",
@@ -384133,6 +384133,662 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Milwaukee Tool",
+        "id": "f564158d-5e47-4729-b4d4-442d3ffb5087",
+        "title": "Operations Data Analyst",
+        "active": true,
+        "date_updated": 1793140023,
+        "date_posted": 1793059200,
+        "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Greenwood-MS/Operations-Data-Analyst_R79129",
+        "locations": [
+            "Greenwood, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Milwaukee-Tool",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Samsung Research America",
+        "id": "a9b5d6ff-de58-4d8a-8d1b-7fafcf154301",
+        "title": "Health AI Scholar - Digital Health Algorithms Team",
+        "active": true,
+        "date_updated": 1793140096,
+        "date_posted": 1793131719,
+        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung-Research-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "825b083b-ac71-42e9-a164-c6b1b0081f01",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1793140023,
+        "date_posted": 1793059200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer--BM-SRM---26-464-_R10257823",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "90c10d80-558b-4325-9b3e-e883b3db1a7d",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1793140023,
+        "date_posted": 1793059200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "4fe0fff9-5005-4bef-a6ba-278e25c94a1b",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1793140049,
+        "date_posted": 1793059200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890",
+        "locations": [
+            "Azusa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "5cb614bd-a490-404d-9f15-01f7d1583f71",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1793140054,
+        "date_posted": 1793059200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Abbott",
+        "id": "f1f4e7cd-6d4f-4ddc-8b00-0bacea04046e",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1793139876,
+        "date_posted": 1793059200,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Abbott-Park/Data-Scientist--Abbott-Park--IL_31165701",
+        "locations": [
+            "Abbott Park, Green Oaks, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "f0056630-4271-461e-8d6f-fcc066c9c144",
+        "title": "New Technology Introduction Leader",
+        "active": true,
+        "date_updated": 1793139662,
+        "date_posted": 1793059200,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/New-Technology-Introduction-Leader_R5056508-2",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Abbott",
+        "id": "8dc91cb2-cfee-4a46-a828-5c8a5780caa3",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1793139702,
+        "date_posted": 1793059200,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Data-Scientist--Abbott-Park--IL_31165701-1",
+        "locations": [
+            "Abbott Park, Green Oaks, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "09b9b75a-4724-4a31-92a8-aeefde0948c4",
+        "title": "AI Engineer New Grad",
+        "active": true,
+        "date_updated": 1793139687,
+        "date_posted": 1793059200,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-AI-Engineer_R5057133-2",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "1dca2d55-0ffe-4943-b1b6-9911806d1614",
+        "title": "Engineering Technician Trainee",
+        "active": true,
+        "date_updated": 1793139692,
+        "date_posted": 1793139529,
+        "url": "https://www.tesla.com/careers/search/job/287928",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pacific Northwest National Laboratory",
+        "id": "181f008b-979c-4133-835f-94bb3b4f1910",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1793139662,
+        "date_posted": 1793121360,
+        "url": "https://careers.pnnl.gov/jobs/12640?icims=1",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Pacific-Northwest-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AT&T",
+        "id": "08793a1b-056f-4a21-9867-6c550f09d1d5",
+        "title": "AI-Native Software Engineer Analyst - Full-Stack Python",
+        "active": true,
+        "date_updated": 1793139662,
+        "date_posted": 1793059200,
+        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATXDallas--208-S-Akard-St---Concourse208-S-Akard-St--Concourse/AI-Native-Software-Engineer-Analyst--Full-Stack-Python_R-124488-1",
+        "locations": [
+            "Bothell, WA",
+            "Dallas, TX",
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/ATT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "016eae38-5090-4e92-950b-163438ec3391",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1793139686,
+        "date_posted": 1793059200,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Data-Scientist_R5057035-2",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rocket Lab Corporation",
+        "id": "5a23ef81-7989-49d3-8bf1-b6d7d3ec668a",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1793139557,
+        "date_posted": 1793117025,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8046148003",
+        "locations": [
+            "Pasadena, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Agile Defense",
+        "id": "84ee1b8e-a18b-47c7-a497-5a7e53a2ea04",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1793139522,
+        "date_posted": 1793139350,
+        "url": "https://jobs.lever.co/agile-defense/0d603eca-2337-4122-8e53-07b22a4077f8/apply",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Agile-Defense",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fab2",
+        "id": "e794c4ea-160b-4797-b9b5-fb899b4763bc",
+        "title": "Computer Vision Software Engineer",
+        "active": true,
+        "date_updated": 1793139304,
+        "date_posted": 1793059200,
+        "url": "https://jobs.ashbyhq.com/fab2/d9edb922-6cae-4e65-9b20-ba452f3e2edf/application?embed=true",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fab2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "b78f0072-9140-443e-915e-a7ab2b4d2c0a",
+        "title": "Deep Learning Performance Architect New Grad",
+        "active": true,
+        "date_updated": 1793139381,
+        "date_posted": 1793059200,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Performance-Architect---New-College-Grad-2027_JR2028177",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "9a09291b-b6c0-4d1a-b639-702e847b90fe",
+        "title": "Formal Verification Engineer New Grad",
+        "active": true,
+        "date_updated": 1793139379,
+        "date_posted": 1793059200,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2027_JR2028554",
+        "locations": [
+            "Santa Clara, CA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Emerson Electric",
+        "id": "2f04cf36-aee9-49fa-845e-326106818d30",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1793139304,
+        "date_posted": 1793139144,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013042",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RainFocus",
+        "id": "40f1cb6d-ba5b-4991-8b2a-dd09c54f239a",
+        "title": "Junior UI Developer",
+        "active": true,
+        "date_updated": 1793139250,
+        "date_posted": 1793139084,
+        "url": "https://jobs.lever.co/rainfocus/ae4ee26f-6b97-4e15-9072-433d92a82798/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/RainFocus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BraveBison",
+        "id": "87bc18fa-af6a-4672-8408-f7a6d2f098f7",
+        "title": "Analyst \u2013 3 Reasons",
+        "active": true,
+        "date_updated": 1793139122,
+        "date_posted": 1793139091,
+        "url": "https://bravebison.bamboohr.com/careers/510/",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/BraveBison",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "97d314f4-19a1-468c-8be8-df5c629eb237",
+        "title": "AI Engineer New Grad",
+        "active": true,
+        "date_updated": 1793139219,
+        "date_posted": 1793059200,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-AI-Engineer_R5057133-1",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "2c6246f2-bb9b-44f1-b71c-65864bc35eea",
+        "title": "New Technology Introduction Leader",
+        "active": true,
+        "date_updated": 1793139122,
+        "date_posted": 1793059200,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/New-Technology-Introduction-Leader_R5056508-1",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "efa868e9-ac9f-40ab-99a2-86b6b7a8181b",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1793139216,
+        "date_posted": 1793059200,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Data-Scientist_R5057035-1",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "d775c1eb-869a-43d8-998a-e9a02dcd9997",
+        "title": "Lead Software Engineer - Mesh Generation",
+        "active": true,
+        "date_updated": 1793138943,
+        "date_posted": 1793059200,
+        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Lead-Software-Engineer---Mesh-Generation_R56961-2",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "dc874144-b255-49cc-81bf-11a6d9aed4dd",
+        "title": "Lead Software Engineer - Mesh Generation",
+        "active": true,
+        "date_updated": 1793138943,
+        "date_posted": 1793059200,
+        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE/Lead-Software-Engineer---Mesh-Generation_R56961-3",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UCSF",
+        "id": "f4c97e7a-d9d4-4fc4-9626-f111cd4bf0fc",
+        "title": "Research Data Analyst 1",
+        "active": true,
+        "date_updated": 1793139009,
+        "date_posted": 1793138718,
+        "url": "https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10802",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/UCSF",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "d5910549-eb52-40ba-b088-80a45d6fe141",
+        "title": "SoC Physical Design Engineer - Place and Route",
+        "active": true,
+        "date_updated": 1793138763,
+        "date_posted": 1793138715,
+        "url": "https://jobs.apple.com/en-us/details/200691320",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "9a6685e2-0aaf-400a-92b9-ec98a727cbf4",
+        "title": "Software Developer Engineer 1 - Graviton Software - Annapurna Labs",
+        "active": true,
+        "date_updated": 1793138949,
+        "date_posted": 1793138655,
+        "url": "https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Inworld AI",
+        "id": "fe7165af-c5bc-4e81-acc3-fb7246eee1eb",
+        "title": "AI Trainer - Voice and Speech Evaluation",
+        "active": true,
+        "date_updated": 1793138763,
+        "date_posted": 1793059200,
+        "url": "https://jobs.ashbyhq.com/inworld-ai/c8308fd9-36a4-482e-8516-c1901603da94/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Inworld-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "324ab7bb-eeb0-4c3a-979f-1dc91887b923",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1793138763,
+        "date_posted": 1793138660,
+        "url": "https://amazon.jobs/en/jobs/10590147/software-development-engineer-2027",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
