@@ -267641,7 +267641,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -268022,7 +268022,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -358699,7 +358699,7 @@
         "company_name": "RTX",
         "id": "eca699ea-4b3d-45f9-bfb7-6f596296fddc",
         "title": "Embedded Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1791474232,
         "date_posted": 1791417600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Embedded-Software-Engineer-I--Onsite-_01881232",
@@ -384074,5 +384074,65 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Octasic",
+        "id": "40d9cb1c-4889-42ab-9f06-5cb268a44a28",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1793111427,
+        "date_posted": 1793111295,
+        "url": "https://ats.rippling.com/octasic-inc/jobs/305ddc8c-b484-41d0-97dc-6c6940cf0570",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Octasic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Octasic",
+        "id": "7354d862-cc19-489e-b25d-901c28817e47",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1793111436,
+        "date_posted": 1793111295,
+        "url": "https://ats.rippling.com/octasic-inc/jobs/04058654-6cb5-436e-8790-6e5ce37f2be1",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Octasic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "6e5c3139-4a80-4c65-9018-d5bd9e544a9e",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1793111426,
+        "date_posted": 1793059200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-II--Onsite-_01885126",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
