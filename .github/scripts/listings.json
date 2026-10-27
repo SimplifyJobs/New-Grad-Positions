@@ -336742,7 +336742,7 @@
         "company_name": "Keysight Technologies",
         "id": "bcd64fac-014e-43fd-87bc-027ac1a14199",
         "title": "R&D Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790125922,
         "date_posted": 1790125918,
         "url": "https://jobs.keysight.com/jobs/54405?icims=1",
@@ -347634,7 +347634,7 @@
         "company_name": "Astranis",
         "id": "e35df427-23d0-43d1-b060-dbcebce024ec",
         "title": "Electrical Reliability Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1791066064,
         "date_posted": 1790144223,
         "url": "https://job-boards.greenhouse.io/astranis/jobs/4704793006",
@@ -383755,5 +383755,67 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fortinet",
+        "id": "9775f7b2-989f-4829-8ba4-4039b4334a4c",
+        "title": "AI Automation Engineer",
+        "active": true,
+        "date_updated": 1793091674,
+        "date_posted": 1792805650,
+        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24771",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortinet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astranis",
+        "id": "c52cc7c0-a4c3-4e69-9a96-3d56b8ddc27a",
+        "title": "Software Defined Radio Hardware Associate",
+        "active": true,
+        "date_updated": 1793092501,
+        "date_posted": 1790212088,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4715985006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "9e6275a1-cf04-4bd1-b477-7016e96a3b06",
+        "title": "Data Platform Engineering",
+        "active": true,
+        "date_updated": 1793091781,
+        "date_posted": 1787090998,
+        "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/181810",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
