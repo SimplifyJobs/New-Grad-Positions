@@ -119624,7 +119624,7 @@
         "company_name": "Field AI",
         "id": "485c1542-a323-4709-ac14-7c87c55175e9",
         "title": "Embedded Systems Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779821821,
         "date_posted": 1778565997,
         "url": "https://jobs.lever.co/field-ai/5aa0a3ef-b693-4404-829a-63d8b9dad776/apply",
@@ -323558,7 +323558,7 @@
         "company_name": "Keysight Technologies",
         "id": "70e0cf6f-abc6-4b38-ad63-795ce7e872cc",
         "title": "R&D Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789078141,
         "date_posted": 1789078141,
         "url": "https://jobs.keysight.com/jobs/54213?icims=1",
@@ -339582,7 +339582,7 @@
         "company_name": "Astranis",
         "id": "677e8f2d-1a4c-4b80-b630-cc24cd4ff3df",
         "title": "Software Developer Associate - Network Software",
-        "active": true,
+        "active": false,
         "date_updated": 1790288230,
         "date_posted": 1790287587,
         "url": "https://job-boards.greenhouse.io/astranis/jobs/4705615006",
@@ -346626,7 +346626,7 @@
         "company_name": "Formlabs",
         "id": "5fdde354-d087-4028-b735-d446f17f1e6b",
         "title": "R&D Reliability/Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790936788,
         "date_posted": 1790720420,
         "url": "https://careers.formlabs.com/job/8241472/apply/?gh_jid=8241472",
@@ -347491,7 +347491,7 @@
         "company_name": "Astranis",
         "id": "8829a1c0-3369-4ffa-ad10-13cbf936c3c7",
         "title": "Radiation Effects Associate Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791066064,
         "date_posted": 1790817443,
         "url": "https://job-boards.greenhouse.io/astranis/jobs/4704282006",
@@ -363523,7 +363523,7 @@
         "company_name": "Northrop Grumman",
         "id": "220ebe6a-b4c3-4df9-ae47-b15716b1b0b3",
         "title": "Associate Cloud Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791930526,
         "date_posted": 1791849600,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Associate-Cloud-Software-Engineer--Level-1-_R10255928",
@@ -368496,7 +368496,7 @@
         "company_name": "Microsoft",
         "id": "5aac86eb-5f0c-4bf5-b902-cd78aa3278a1",
         "title": "Software Engineer - Forward Deployed Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792190598,
         "date_posted": 1792190432,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557027406",
@@ -370672,7 +370672,7 @@
         "company_name": "Electronic Arts",
         "id": "5d914152-b9b5-4947-beba-e7d6c0cced5e",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792449940,
         "date_posted": 1792449800,
         "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-I/216357",
@@ -380427,7 +380427,7 @@
         "company_name": "Niantic Spatial",
         "id": "4397a648-dce9-4a0f-94ea-159fb5ee1702",
         "title": "3D Reconstruction Research Scientist/Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792772466,
         "date_posted": 1792113561,
         "url": "https://jobs.ashbyhq.com/niantic-spatial/63ea8a24-5d45-4b76-824f-aff4f4b50427/application?embed=true",
@@ -383675,5 +383675,85 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Swarm Aero",
+        "id": "6c7f3e00-a634-46ac-9d87-ab5df240dfe2",
+        "title": "Software Engineer Early Career - Real-Time Systems",
+        "active": true,
+        "date_updated": 1793090735,
+        "date_posted": 1790634237,
+        "url": "https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Swarm-Aero",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vanderbilt University",
+        "id": "68712f66-a919-4c4c-b9df-bdbb084f37c5",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1793090749,
+        "date_posted": 1792620235,
+        "url": "https://ecsr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10009027",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanderbilt-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "47048299-bbc1-47d6-9473-633b8726c4f4",
+        "title": "Graduate Manufacturing Operations - Product Test",
+        "active": true,
+        "date_updated": 1793090028,
+        "date_posted": 1792506466,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894081002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CoreWeave",
+        "id": "70c66cee-4da9-4920-9fa3-bc55fae14123",
+        "title": "Software Engineer - Inference",
+        "active": true,
+        "date_updated": 1793090882,
+        "date_posted": 1790374261,
+        "url": "https://coreweave.com/careers/job?4703438006&board=coreweave&gh_jid=4703438006",
+        "locations": [
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CoreWeave",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
