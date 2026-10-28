@@ -1,116 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "fa320188-62a8-4b8c-ad11-3c6c633718fe",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1772447028,
-        "date_posted": 1772447028,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051553",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f03e5ba5-7265-4ca8-b374-c7755b3dbaae",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1772447025,
-        "date_posted": 1772447025,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051579",
-        "locations": [
-            "Harlow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "adb84138-61b2-4e09-a34f-9cc3d3cc568e",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1772447022,
-        "date_posted": 1772447022,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051554",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "45b06ed2-bdfd-47d7-b617-6eeb52240f58",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1772447038,
-        "date_posted": 1772447038,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051556",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2c3389c0-f1a9-4f34-b505-313032023d57",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1772447025,
-        "date_posted": 1772447025,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051577",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AECOM",
-        "id": "83b23b25-d169-455c-b4bb-d82672d8712f",
-        "title": "Hydrogeology/ Groundwater Specialist Graduate - Environment - Birmingham",
-        "active": false,
-        "date_updated": 1772447438,
-        "date_posted": 1772447438,
-        "url": "https://jobs.smartrecruiters.com/AECOM2/744000112122232",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/AECOM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Anaplan",
         "id": "895e55c8-1748-43fd-ae12-9aee8d440a76",
@@ -372301,7 +372191,7 @@
         "company_name": "NVIDIA",
         "id": "d848615a-0d50-478c-a92e-2dda9489542c",
         "title": "Software Engineer New Grad - Agent Performance Modeling",
-        "active": true,
+        "active": false,
         "date_updated": 1792545166,
         "date_posted": 1792454400,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350",
@@ -382168,7 +382058,7 @@
         "company_name": "Intel",
         "id": "e8555f4b-2626-461e-9614-e07bb7ce9cee",
         "title": "SoC Logic Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793053292,
         "date_posted": 1792972800,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/SoC-Logic-Design-Engineer_JR0288394",
