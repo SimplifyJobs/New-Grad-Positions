@@ -267495,7 +267495,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -267876,7 +267876,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -348242,7 +348242,7 @@
         "company_name": "NVIDIA",
         "id": "5ae265bc-0a46-4ba1-8a04-b138bd21b1b7",
         "title": "Research Scientist New Grad - Electronic Design Automation",
-        "active": false,
+        "active": true,
         "date_updated": 1788457523,
         "date_posted": 1781952599,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979",
@@ -373983,7 +373983,7 @@
         "company_name": "Northrop Grumman",
         "id": "dee014fe-0e7c-46bd-bc12-4da1d303b633",
         "title": "Associate Electromechanical Engineer / Electromechanical Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1792621853,
         "date_posted": 1792540800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Electromechanical-Engineer---Electromechanical-Engineer---Rolling-Meadows-IL_R10257089",
@@ -384858,7 +384858,7 @@
         "company_name": "ServiceNow",
         "id": "ffedf0e5-2d73-47af-aa9d-0ef0ae4b42d6",
         "title": "Software Engineer New Grad - AI/ML",
-        "active": true,
+        "active": false,
         "date_updated": 1793140776,
         "date_posted": 1793043857,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157900224",
@@ -385160,6 +385160,386 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Xcellent-Technology-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Elveo",
+        "id": "913c7106-5fff-4cfb-baa8-e22f46406cf1",
+        "title": "Flight Software Engineer",
+        "active": true,
+        "date_updated": 1793150822,
+        "date_posted": 1789171200,
+        "url": "https://jobs.ashbyhq.com/elveo/5ff6f792-dbe9-49ed-80df-52f0079e0189/application?embed=true",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Elveo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Elveo",
+        "id": "42d24974-dbc4-4f3b-8560-cd2fd828cf28",
+        "title": "Electrical Engineer - Satellite Hardware",
+        "active": true,
+        "date_updated": 1793150822,
+        "date_posted": 1789171200,
+        "url": "https://jobs.ashbyhq.com/elveo/91da7c62-6815-4a8e-9fd0-0056e82388b6/application?embed=true",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Elveo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Viggle AI",
+        "id": "366fbb61-7a96-4f27-b9bd-bf5aa16fea31",
+        "title": "Full-Stack Software Engineer New Grad - AI & 3D Creator Tools",
+        "active": true,
+        "date_updated": 1793150871,
+        "date_posted": 1789516800,
+        "url": "https://jobs.ashbyhq.com/viggle/98352e43-0f84-4df8-9f17-88520fe8314a/application?embed=true",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Viggle-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kled AI",
+        "id": "007371d3-3f4d-4b47-8826-067555505a91",
+        "title": "AI-Generated Images Found in the Wild - Paid Data Task",
+        "active": true,
+        "date_updated": 1793150642,
+        "date_posted": 1793059200,
+        "url": "https://jobs.ashbyhq.com/kled-ai/b7185462-9760-4c36-aa11-121a7e1c3f66/application?embed=true",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kled-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Alchemi",
+        "id": "905eb459-d660-44a9-a5fb-815dd3ae4d15",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1793150461,
+        "date_posted": 1792540800,
+        "url": "https://jobs.ashbyhq.com/alchemi/0b6d993e-e29f-4102-a055-34db1f2797a0/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Alchemi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "92ed232b-c9f2-451b-b0ce-31ae57ae6118",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1793150359,
+        "date_posted": 1793059200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10257957",
+        "locations": [
+            "Redondo Beach, CA",
+            "Palmdale, CA",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hyphenate",
+        "id": "63acbea3-5828-4315-8daa-d1b33d6b868c",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1793150341,
+        "date_posted": 1787616000,
+        "url": "https://jobs.ashbyhq.com/hyphenate/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Hyphenate",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Old Mission",
+        "id": "d748fe65-2e87-4157-a947-98b7a43888eb",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1793150130,
+        "date_posted": 1783900800,
+        "url": "https://jobs.ashbyhq.com/old-mission-capital/78e433a8-cd5f-404d-8f58-3fcb61e9837d/application?embed=true",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Old Mission",
+        "id": "b4842701-de13-460d-b2af-72f9e329b077",
+        "title": "Quantitative Trader New Grad",
+        "active": true,
+        "date_updated": 1793150127,
+        "date_posted": 1783900800,
+        "url": "https://jobs.ashbyhq.com/old-mission-capital/cec17eab-6e17-4248-aa35-3824392c056d/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Old Mission",
+        "id": "527bab13-5dc2-4e1f-9314-b3c0b7d33c83",
+        "title": "Quantitative Researcher - Ph.D.",
+        "active": true,
+        "date_updated": 1793150131,
+        "date_posted": 1785369600,
+        "url": "https://jobs.ashbyhq.com/old-mission-capital/e307627e-98e6-47ac-924e-b0dbef1984c8/application?embed=true",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Old Mission",
+        "id": "2ae614dc-2a34-4282-a49f-eaade2ca8180",
+        "title": "Quantitative Trader New Grad",
+        "active": true,
+        "date_updated": 1793150129,
+        "date_posted": 1783900800,
+        "url": "https://jobs.ashbyhq.com/old-mission-capital/a7b34fe6-cd82-4f17-b5d7-983aa354b505/application?embed=true",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Old Mission",
+        "id": "0af222fe-d297-4bd0-b4d2-f9bdfb0708ac",
+        "title": "Floor Trader New Grad",
+        "active": true,
+        "date_updated": 1793150127,
+        "date_posted": 1789516800,
+        "url": "https://jobs.ashbyhq.com/old-mission-capital/f41d3ded-526b-49e2-9cad-21223b048161/application?embed=true",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Old Mission",
+        "id": "21030bab-c5d4-4034-a637-c9d294bf3a24",
+        "title": "Quantitative Trader New Grad",
+        "active": true,
+        "date_updated": 1793150129,
+        "date_posted": 1783900800,
+        "url": "https://jobs.ashbyhq.com/old-mission-capital/a8bad54c-405b-469c-8a7d-b7794dfb54b3/application?embed=true",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "onsemi",
+        "id": "623e89d8-861a-4ddb-a378-91c8f5ea36c5",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1793149750,
+        "date_posted": 1793149674,
+        "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506767",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Onsemi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prima",
+        "id": "c84e6b02-cc87-49bb-8e97-82df20580890",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1793149843,
+        "date_posted": 1793149628,
+        "url": "https://jobs.eu.lever.co/prima/7235919b-0049-4a96-8b1f-8c3650a1c823/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Prima",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Prima",
+        "id": "b11fffdb-830c-45c1-a3b0-208dd78a48c0",
+        "title": "Quantitative Analyst",
+        "active": true,
+        "date_updated": 1793149750,
+        "date_posted": 1793149628,
+        "url": "https://jobs.eu.lever.co/prima/e3a6b540-1cff-436b-bdc1-1289284d187d/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Prima",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Xapien",
+        "id": "d7b4c1d2-d7c5-441a-b2e5-23eb9d6b0145",
+        "title": "Graduate Applied Research Engineer",
+        "active": true,
+        "date_updated": 1793149750,
+        "date_posted": 1775088000,
+        "url": "https://jobs.ashbyhq.com/xapien/e26295dd-2401-4497-af02-ea30c173f0eb/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Xapien",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Humble Robotics",
+        "id": "11e8fcd8-8f17-4000-a3a7-de4ed5928b00",
+        "title": "Autonomy Engineer - Data",
+        "active": true,
+        "date_updated": 1793149750,
+        "date_posted": 1793149606,
+        "url": "https://jobs.lever.co/humble-robotics/93ca2ae3-c549-402f-b6a6-ff0b84f554f9/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Humble-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Abbott",
+        "id": "8407387d-20ee-459b-aba3-7ce70613492d",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1793149561,
+        "date_posted": 1793059200,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--1-Exact-Lane/Associate-Product-Manager_31165697-1",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
