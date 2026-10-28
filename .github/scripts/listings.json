@@ -2,47 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "KBR",
-        "id": "304e334d-99fc-4385-8eaf-7b0818c8852f",
-        "title": "Data Manager",
-        "active": false,
-        "date_updated": 1772466414,
-        "date_posted": 1772466414,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Data-Manager_R2119731",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Bank of Montreal",
-        "id": "f87afa85-2004-41a4-b51e-1eefe2c6a6d3",
-        "title": "Analyst \u2013 Software Engineer - C#",
-        "active": false,
-        "date_updated": 1772466845,
-        "date_posted": 1772466845,
-        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Software-Engineer--C--_R260006682",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Allstate Insurance Company",
         "id": "ffc5a216-1cde-4dee-be13-17d5ef4e1dba",
         "title": "Catastrophe Modeling Analyst",
