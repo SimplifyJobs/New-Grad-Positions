@@ -267054,7 +267054,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -267435,7 +267435,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -386400,6 +386400,141 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Travis Perkins",
+        "id": "810d5e74-8083-4436-bc36-278b715b54af",
+        "title": "Pricing Analyst",
+        "active": true,
+        "date_updated": 1793198529,
+        "date_posted": 1793198416,
+        "url": "https://travisperkins.avature.net/careers/JobDetail/77242",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Travis-Perkins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Illuminate USA",
+        "id": "766c134f-c8a5-4283-bd03-314b52e7db34",
+        "title": "Business Intelligence Analyst Associate",
+        "active": true,
+        "date_updated": 1793198348,
+        "date_posted": 1793145600,
+        "url": "https://illuminateusa.wd503.myworkdayjobs.com/en-US/Illuminate_Careers/job/OH---Pataskala/Business-Intelligence-Analyst-Associate_R1423",
+        "locations": [
+            "Pataskala, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Illuminate-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USAA",
+        "id": "ef912e83-5396-42ce-b372-3e501ffa4a19",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1793198016,
+        "date_posted": 1793145600,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Entry-Level_R0121057-1",
+        "locations": [
+            "Plano, TX",
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/USAA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Project Healthy Minds",
+        "id": "96928042-71c9-4ee8-9207-cec264daff3f",
+        "title": "Services Researcher",
+        "active": true,
+        "date_updated": 1793197981,
+        "date_posted": 1793197823,
+        "url": "https://jobs.lever.co/project-healthy-minds/8733fda8-1834-466e-8cf4-06115729ddab/apply",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Project-Healthy-Minds",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intetics",
+        "id": "bf93f43a-d757-41b2-85ca-fc98d3213d99",
+        "title": "Data Collector",
+        "active": true,
+        "date_updated": 1793197841,
+        "date_posted": 1793197692,
+        "url": "https://apply.workable.com/intetics-2/j/DC0AF92115/apply",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Intetics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intetics",
+        "id": "38a71f1f-19a2-4839-9092-609c2f710dcc",
+        "title": "City Explorer",
+        "active": true,
+        "date_updated": 1793197854,
+        "date_posted": 1793197692,
+        "url": "https://apply.workable.com/intetics-2/j/FCE7AD54C4/apply",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Intetics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Leversys",
+        "id": "76dd4abb-424a-487d-a150-bf255195d7b4",
+        "title": "Quantitative Analyst",
+        "active": true,
+        "date_updated": 1793197807,
+        "date_posted": 1793197710,
+        "url": "https://jobs.lever.co/leversys/72aabed1-8525-4d14-9c61-42ade1c9c5ec/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leversys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
