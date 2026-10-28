@@ -267495,7 +267495,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -267876,7 +267876,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -385545,5 +385545,352 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Relling",
+        "id": "b239b64e-30e5-4f51-b91a-8e3aae1ced66",
+        "title": "Robotics Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1793151930,
+        "date_posted": 1790899200,
+        "url": "https://jobs.ashbyhq.com/relling/a31f91ae-30f9-4e36-b9d2-2cb74c398d2e/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Relling",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amplitude",
+        "id": "4ae0b156-0dee-4cd8-9586-be6ccba61655",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1793151932,
+        "date_posted": 1791331200,
+        "url": "https://jobs.ashbyhq.com/amplitude/9c43576b-d16f-4192-a366-7c9eb689c4be/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Amplitude",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CoreTech Security Services",
+        "id": "6db079a2-0f0f-4c58-a32a-601a9c866d01",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1793151902,
+        "date_posted": 1793151823,
+        "url": "https://jobs.eu.lever.co/coretechsecurity/31809178-6182-46d2-9baf-700f410a45de/apply",
+        "locations": [
+            "Cheltenham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/CoreTech-Security-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Goaly",
+        "id": "adde2d06-7fa6-434d-8ec2-7c83bdd99c41",
+        "title": "Founding Senior AI Infrastructure Engineer",
+        "active": true,
+        "date_updated": 1793151723,
+        "date_posted": 1787875200,
+        "url": "https://jobs.ashbyhq.com/goaly/ce5f6b51-0258-4956-87cf-c630a08323c7/application?embed=true",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Goaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MatX",
+        "id": "954fed38-8d60-4f66-bc8f-65e0af1a115c",
+        "title": "Performance Modeling Engineer",
+        "active": true,
+        "date_updated": 1793151723,
+        "date_posted": 1790035200,
+        "url": "https://jobs.ashbyhq.com/matx/58ee5bab-5f8c-48b3-a223-fb7183f1e895/application?embed=true",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/MatX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NUVACORE",
+        "id": "df1715c7-c4ca-4ad5-ba8f-c81d18ad7449",
+        "title": "CPU Design & Verification Engineer",
+        "active": true,
+        "date_updated": 1793151753,
+        "date_posted": 1793151700,
+        "url": "https://jobs.lever.co/nuvacore/0fa8362f-cff1-408b-a55f-18725dc311a1/apply",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/NUVACORE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Goaly",
+        "id": "dd34b526-672b-4db5-b552-1a3c468ccdc4",
+        "title": "Applied AI Engineer Early Career",
+        "active": true,
+        "date_updated": 1793151744,
+        "date_posted": 1786147200,
+        "url": "https://jobs.ashbyhq.com/goaly/ff6ec280-f5c6-4151-8bfd-e75ff8004c89/application?embed=true",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Goaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Goaly",
+        "id": "cd6f30ae-cfcf-4975-8371-655f5f3c95f4",
+        "title": "Founding Senior Applied AI Engineer",
+        "active": true,
+        "date_updated": 1793151723,
+        "date_posted": 1790208000,
+        "url": "https://jobs.ashbyhq.com/goaly/70f6bbdd-e300-4a47-9875-ba2dfa4ded18/application?embed=true",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Goaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Goaly",
+        "id": "6e17f37b-bf04-4365-bb04-224484e6f616",
+        "title": "AI Research Scientist \u2013 Early Career",
+        "active": true,
+        "date_updated": 1793151744,
+        "date_posted": 1786147200,
+        "url": "https://jobs.ashbyhq.com/goaly/ffc80152-df35-45d6-8c2c-36ea8b67eb37/application?embed=true",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Goaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Goaly",
+        "id": "2b77d777-7be3-4239-ab13-da43d7a3c73e",
+        "title": "Founding Senior AI Researcher - Reinforcement Learning",
+        "active": true,
+        "date_updated": 1793151723,
+        "date_posted": 1786233600,
+        "url": "https://jobs.ashbyhq.com/goaly/454a9c6b-a30c-4fe5-9ac8-1d4eabdd65d2/application?embed=true",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Goaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Engramme",
+        "id": "5ccdc3cc-1870-441e-8671-033d3f75cd97",
+        "title": "Part-Time AI Research Evaluator",
+        "active": true,
+        "date_updated": 1793151602,
+        "date_posted": 1793059200,
+        "url": "https://jobs.ashbyhq.com/engramme/19941069-b865-48ad-a19f-0de38745817f/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Engramme",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Options Technology",
+        "id": "ab0b03b0-bca9-4a7a-9a92-ed44ec9b0054",
+        "title": "PHP/SQL Web Developer",
+        "active": true,
+        "date_updated": 1793151557,
+        "date_posted": 1790035200,
+        "url": "https://jobs.ashbyhq.com/options-it/cb8e50e4-5ef8-4140-bcb6-2193e047cfb8/application?embed=true",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Options-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "FanDuel",
+        "id": "53ed91bd-f03e-423c-8424-452d1ff6122f",
+        "title": "Basketball Pricing Analyst - Sports Trader - NBA/WNBA",
+        "active": true,
+        "date_updated": 1793151557,
+        "date_posted": 1793148112,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=8318950",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/FanDuel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Abbott",
+        "id": "6435e1ac-de63-4ffa-b342-050538e09151",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1793151557,
+        "date_posted": 1793059200,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States--Madison--1-Exact-Lane/Associate-Product-Manager_31165697",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lumaril",
+        "id": "24bb49cb-168e-4f7f-aef6-fc5fe1503447",
+        "title": "Engineer \u2013 Generalist",
+        "active": true,
+        "date_updated": 1793151363,
+        "date_posted": 1793151202,
+        "url": "https://jobs.lever.co/lumaril-corporation/bf68ec9b-b6a6-48da-b532-b3254dec1cd1/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Lumaril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Spectral Labs",
+        "id": "d46d2d06-e165-43aa-935a-3100862bc19e",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1793151181,
+        "date_posted": 1791936000,
+        "url": "https://jobs.ashbyhq.com/spectral%20labs/c7d4c871-2b72-4096-b6c2-df210d6fcb5f/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Spectral-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Spectral Labs",
+        "id": "d36946f5-b93c-478d-ba69-c1d6d51f1106",
+        "title": "Engineer New Grad",
+        "active": true,
+        "date_updated": 1793151196,
+        "date_posted": 1788220800,
+        "url": "https://jobs.ashbyhq.com/spectral%20labs/99c79fda-2125-4e09-9313-97e91b730d75/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Spectral-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Spectral Labs",
+        "id": "937524a4-cf26-475d-a761-03ba7dc0fc54",
+        "title": "Research Engineer",
+        "active": true,
+        "date_updated": 1793151181,
+        "date_posted": 1791936000,
+        "url": "https://jobs.ashbyhq.com/spectral%20labs/4264fa52-0d24-4871-b76b-907221e7df6c/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Spectral-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
