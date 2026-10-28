@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Jones Lang LaSalle (JLL)",
-        "id": "8c837096-f54e-4598-9627-7f9e45c62d92",
-        "title": "Shift Technician - Data Centre",
-        "active": false,
-        "date_updated": 1772460024,
-        "date_posted": 1772460024,
-        "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/London-GBR/Shift-Technician--Data-Centre_REQ481516",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Nevados",
         "id": "5ea5e685-028c-4a4c-a2c8-c58a4ab259f3",
@@ -329594,7 +329576,7 @@
         "company_name": "Wyetech",
         "id": "fcba025b-7ee1-430b-9e21-9d26659e462c",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789511041,
         "date_posted": 1789509881,
         "url": "https://jobs.lever.co/wyetechllc/636a5fb4-0967-491d-9993-b8a44a47e832/apply",
