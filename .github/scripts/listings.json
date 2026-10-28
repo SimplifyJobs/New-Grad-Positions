@@ -267202,7 +267202,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -267583,7 +267583,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -366079,7 +366079,7 @@
         "company_name": "RTX",
         "id": "be0b08b4-7b53-49d9-8d1b-6e9f9fa458d8",
         "title": "Electro-Optics Systems Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792027329,
         "date_posted": 1791936000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Electro-Optics-Systems-Engineer-I--Onsite-_01880584",
@@ -370994,7 +370994,7 @@
         "company_name": "Saalex",
         "id": "fa86f83b-d953-4b1c-96dd-dfd4c96de55b",
         "title": "Junior Data Integrity Engineer - Avionics Software & Data Analysis",
-        "active": true,
+        "active": false,
         "date_updated": 1792489861,
         "date_posted": 1785979077,
         "url": "https://apply.workable.com/saalex/j/2D1B9D4A3C/apply",
@@ -371780,7 +371780,7 @@
         "company_name": "Intel",
         "id": "ba94ebcb-0a90-49ae-a618-acf2b2c015b8",
         "title": "SoC Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792535098,
         "date_posted": 1792454400,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/SoC-Design-Verification-Engineer_JR0288228",
@@ -379455,7 +379455,7 @@
         "company_name": "Honeywell",
         "id": "e10abe22-d86c-4013-8837-85549f42804d",
         "title": "Materials Management Analyst 2 - SAP S/4HANA",
-        "active": true,
+        "active": false,
         "date_updated": 1792766232,
         "date_posted": 1790864424,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153542",
@@ -386286,5 +386286,85 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RosaicLabs",
+        "id": "7349b535-e74c-4eca-b0ec-668b3058e6ad",
+        "title": "AI Accelerator RTL Microarchitecture/Design Engineer",
+        "active": true,
+        "date_updated": 1793180345,
+        "date_posted": 1793180295,
+        "url": "https://jobs.lever.co/rosaiclabs/261df0f6-b4c6-4711-a5ee-a0bb67bcb840/apply",
+        "locations": [
+            "Remote in India",
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RosaicLabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "c0361545-bbda-4672-a587-19b105f0cef7",
+        "title": "Lead Software Engineer - Mesh Generation",
+        "active": true,
+        "date_updated": 1793181241,
+        "date_posted": 1792713600,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Lead-Software-Engineer---Mesh-Generation_R56961",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Grayce",
+        "id": "fabf8881-9392-4594-8303-a4d34402502f",
+        "title": "Mobile Software Developer - Android / iOS",
+        "active": true,
+        "date_updated": 1793180881,
+        "date_posted": 1792189783,
+        "url": "https://apply.workable.com/grayce/j/9D6835622E/apply",
+        "locations": [
+            "Burgess Hill, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Grayce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "f428030f-d610-4652-83f7-2fdf20003d43",
+        "title": "Data Collection Operator - Optimus",
+        "active": true,
+        "date_updated": 1793180162,
+        "date_posted": 1785996967,
+        "url": "https://www.tesla.com/careers/search/job/279354",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
