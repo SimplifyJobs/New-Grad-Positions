@@ -386332,5 +386332,120 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boeing",
+        "id": "e2eac5a5-35e8-4a56-850a-cafbaba2c767",
+        "title": "Entry-Level Software Engineer",
+        "active": true,
+        "date_updated": 1793169901,
+        "date_posted": 1793059200,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026527992",
+        "locations": [
+            "Maryland Heights, MO",
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fellow",
+        "id": "a6e5a64c-570c-4fca-8cc5-0898c9615be4",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1793169930,
+        "date_posted": 1790899200,
+        "url": "https://jobs.ashbyhq.com/fellowai/f932dda0-8ad0-45d6-a327-d2143b7d82aa/application?embed=true",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Fellow-Ai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nexus Intelligence",
+        "id": "57a309e5-7707-4ec6-bfe7-d87ac8aa3725",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1793169901,
+        "date_posted": 1787270400,
+        "url": "https://jobs.ashbyhq.com/nexus-intelligence/24d777e5-c584-4c8d-9e4b-f5fe788a9614/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Nexus-Intelligence",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Takt",
+        "id": "ab0a47b6-2df0-4f41-9831-30a37a7e44e2",
+        "title": "Associate Software Engineer - Frontend",
+        "active": true,
+        "date_updated": 1793169181,
+        "date_posted": 1787529600,
+        "url": "https://jobs.ashbyhq.com/takt/e1e94261-9016-42c8-ab86-3b5adaf3cb98/application?embed=true",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Takt",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "StarTree",
+        "id": "22ce9849-b0be-4484-be20-b79a507e2c6f",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1793169201,
+        "date_posted": 1793165413,
+        "url": "https://job-boards.greenhouse.io/startree/jobs/6235909004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/StarTree",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Xterra AI",
+        "id": "76c6d0ba-1cab-4cdb-8e39-9a395f75c213",
+        "title": "Founding Research Scientist",
+        "active": true,
+        "date_updated": 1793169001,
+        "date_posted": 1784505600,
+        "url": "https://jobs.ashbyhq.com/xterra%20ai/468e9870-0d18-468c-8fad-241b1a7566c0/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Xterra-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
