@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amentum",
-        "id": "7ac9190e-6548-4d60-9e55-b5eb15d299d2",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1772636779,
-        "date_posted": 1772505999,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Entry-Level-Software-Engineer_R0155505",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "KLA",
         "id": "d2145930-6a58-4c54-ade1-87c4f0d0c97a",
@@ -4989,26 +4971,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Daybreak Games",
-        "id": "49713325-fb02-4ee3-92c6-f00e462814f5",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1772703933,
-        "date_posted": 1772505281,
-        "url": "https://www.daybreakgames.com/careers?gh_jid=8445528002",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/Daybreak-Games",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
