@@ -17089,7 +17089,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
+<td>↳</td>
 <td>ASIC Verification Engineer – New College Grad 2026</td>
 <td>Austin, TX</br>Santa Clara, CA</td>
 <td>🔒</td>
