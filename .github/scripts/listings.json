@@ -264513,7 +264513,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -264894,7 +264894,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -342247,7 +342247,7 @@
         "company_name": "ION Group",
         "id": "fff88dea-356b-4db6-8aa2-4f103f1909c6",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1790845921,
         "date_posted": 1790845862,
         "url": "https://jobs.lever.co/ion/e973fefd-7180-4da9-a323-c212fc98cc05/apply",
@@ -386076,6 +386076,283 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "First Due",
+        "id": "735db69e-c591-4f36-8a68-480a6492a64b",
+        "title": "Cloud Security Software Engineer",
+        "active": true,
+        "date_updated": 1793284022,
+        "date_posted": 1786663150,
+        "url": "https://job-boards.greenhouse.io/localitymediallcdbafirstdue/jobs/4364212009",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/First-Due",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Anton Paar",
+        "id": "33961c60-73af-41fc-94e6-741daa5ffc64",
+        "title": "Hardware Test Engineer",
+        "active": true,
+        "date_updated": 1793284022,
+        "date_posted": 1793278858,
+        "url": "https://jobs.smartrecruiters.com/AntonPaar1/744000158512881",
+        "locations": [
+            "Boynton Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Anton-Paar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Beauhurst",
+        "id": "ce7870f3-9963-4b74-8606-25e5eefe83b5",
+        "title": "Junior Web Developer",
+        "active": true,
+        "date_updated": 1793283484,
+        "date_posted": 1792771581,
+        "url": "https://job-boards.greenhouse.io/beauhurst/jobs/8375802002",
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Beauhurst",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Quantiq",
+        "id": "e8c065bb-38a4-449d-a3c5-01e4519c1fef",
+        "title": "Software Developer New Grad",
+        "active": true,
+        "date_updated": 1793283352,
+        "date_posted": 1781213190,
+        "url": "https://job-boards.greenhouse.io/quantiq/jobs/4280650009",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Quantiq",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Riverlane",
+        "id": "82bec8a9-ec01-4b76-8b37-2700ee8c35b6",
+        "title": "Engineering Graduate Scheme",
+        "active": true,
+        "date_updated": 1793283354,
+        "date_posted": 1791555836,
+        "url": "https://www.riverlane.com/jobs?gh_jid=5000685101#vacancies",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Riverlane",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Quantiq",
+        "id": "614cdebd-f4ce-47ff-b32d-3f21d883493c",
+        "title": "Hardware Developer New Grad",
+        "active": true,
+        "date_updated": 1793283351,
+        "date_posted": 1781213188,
+        "url": "https://job-boards.greenhouse.io/quantiq/jobs/4280673009",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Quantiq",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AST SpaceMobile",
+        "id": "44732cdf-9042-4a73-9043-0c56b1cd3e1e",
+        "title": "Associate Electrical Test Engineer",
+        "active": true,
+        "date_updated": 1793283148,
+        "date_posted": 1789575926,
+        "url": "https://ast-science.com/company/careers/?gh_jid=4734515005",
+        "locations": [
+            "Midland, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AST-SpaceMobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SiTime",
+        "id": "6a96c0df-0c74-4f4b-9cf6-4b23de653dfb",
+        "title": "Senior Test Engineer",
+        "active": true,
+        "date_updated": 1793283173,
+        "date_posted": 1792112674,
+        "url": "https://job-boards.greenhouse.io/sitimecorporation/jobs/4452324009",
+        "locations": [
+            "California",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SiTime",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astronics",
+        "id": "06049813-4f99-4972-9dc0-bfc69c3532ff",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1793283092,
+        "date_posted": 1793222642,
+        "url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4470247009",
+        "locations": [
+            "Clackamas County, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Astronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TobogganLabs",
+        "id": "9a5b3491-8814-46d6-a763-011f3dcbc487",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1793283065,
+        "date_posted": 1791315039,
+        "url": "https://job-boards.greenhouse.io/tobogganlabs/jobs/8014569003",
+        "locations": [
+            "Qu\u00e9bec City, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TobogganLabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thoughtworks",
+        "id": "a78b3bae-270e-40f5-888b-ab2cae4598ea",
+        "title": "Associate Developer",
+        "active": true,
+        "date_updated": 1793283051,
+        "date_posted": 1793270503,
+        "url": "https://www.thoughtworks.com/careers/jobs/8333236?gh_jid=8333236",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Thoughtworks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thoughtworks",
+        "id": "756f5acb-ee83-4d78-8f4b-7cbbdaff4b18",
+        "title": "Software Developer New Grad",
+        "active": true,
+        "date_updated": 1793283063,
+        "date_posted": 1793270498,
+        "url": "https://www.thoughtworks.com/careers/jobs/8333235?gh_jid=8333235",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Thoughtworks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "6f288574-280b-4364-8224-4e4a2586171e",
+        "title": "Software Security Engineer 1",
+        "active": true,
+        "date_updated": 1793283015,
+        "date_posted": 1793232000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Security-Engineer-I_01885443",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lodestar",
+        "id": "fe1906d8-f670-4a3c-8fdf-278ca22f798f",
+        "title": "Graduate Software Engineer - State Estimation & Prediction - III",
+        "active": true,
+        "date_updated": 1793282998,
+        "date_posted": 1788784541,
+        "url": "https://job-boards.eu.greenhouse.io/lodestarspace/jobs/4965825101",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lodestar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
