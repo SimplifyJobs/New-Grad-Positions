@@ -2324,7 +2324,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1215)</summary>
+<summary>🗃️ Inactive roles (1214)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -10832,13 +10832,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Uareai?utm_source=GHList&utm_medium=company">Uare.ai</a></strong></td>
 <td>Software Engineer – Early Career</td>
 <td>Mountain View, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Amentum?utm_source=GHList&utm_medium=company">Amentum</a></strong></td>
-<td>Entry Level Software Engineer 🇺🇸</td>
-<td>Huntsville, AL</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
