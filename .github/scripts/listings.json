@@ -385995,5 +385995,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA Corporation",
+        "id": "72b18e7d-621d-41bb-8752-697fd3edb89d",
+        "title": "System Software Engineer - Distributed Computing",
+        "active": true,
+        "date_updated": 1793275308,
+        "date_posted": 1793232000,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
