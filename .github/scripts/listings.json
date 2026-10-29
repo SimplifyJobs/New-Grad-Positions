@@ -284262,7 +284262,7 @@
         "company_name": "Bridgewater Associates",
         "id": "2c1a920f-ed76-4384-9a74-6cf0d01a9123",
         "title": "Trading Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1787784301,
         "date_posted": 1787784238,
         "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/8750718002",
@@ -295326,7 +295326,7 @@
         "company_name": "Deloitte",
         "id": "17f07991-3767-45b5-b4c0-6b1d4822464a",
         "title": "AI and Data Engineering Analyst - Government & Public Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788314986,
         "date_posted": 1788314794,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-AI-Data-Engineering-Winter-2027/365230",
@@ -350773,7 +350773,7 @@
         "company_name": "West Monroe",
         "id": "23ce9adc-a57c-4d91-a4cc-2228d91a6350",
         "title": "Data & Analytics Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1791269342,
         "date_posted": 1791269204,
         "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6167508004",
@@ -385936,5 +385936,41 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cloudflare",
+        "id": "1fa2c9e1-e059-42a4-b327-8391cb6596fc",
+        "title": "Systems Engineer - Browser Isolation",
+        "active": true,
+        "date_updated": 1793262062,
+        "date_posted": 1791929196,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/8276155",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Osmo",
+        "id": "189939a5-677d-49db-b869-65cd42c66924",
+        "title": "Contract Sensory Panelist - Fragrance",
+        "active": true,
+        "date_updated": 1793261953,
+        "date_posted": 1791008017,
+        "url": "https://jobs.ashbyhq.com/osmo/b4c3d221-9539-447e-b916-799060abb346/application?embed=true",
+        "locations": [
+            "Elizabeth, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Osmo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
