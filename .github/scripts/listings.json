@@ -118079,7 +118079,7 @@
         "company_name": "Amazon",
         "id": "5353b527-0cda-43e8-a9ef-cdfa8f45bcd8",
         "title": "Front-End Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779834527,
         "date_posted": 1779487538,
         "url": "https://amazon.jobs/en/jobs/10428762/front-end-engineer-2026-us",
@@ -264103,7 +264103,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -264484,7 +264484,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -305214,7 +305214,7 @@
         "company_name": "RTX",
         "id": "bf79ce83-617f-414c-a109-b3809235df00",
         "title": "Systems Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1788447948,
         "date_posted": 1786579200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineer-I_01866673",
@@ -386290,6 +386290,761 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Exelixis",
+        "id": "d9f83773-a7de-4a80-aae5-533beced44db",
+        "title": "Associate AI and Agentic Engineer",
+        "active": true,
+        "date_updated": 1793312821,
+        "date_posted": 1793232000,
+        "url": "https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/Associate-AI-and-Agentic-Engineer_JR7184",
+        "locations": [
+            "Alameda, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Exelixis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Exelixis",
+        "id": "36461149-80a8-4e6d-b3a1-8dd4eb08c37e",
+        "title": "Associate AI and Agentic Engineer",
+        "active": true,
+        "date_updated": 1793312821,
+        "date_posted": 1793232000,
+        "url": "https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/Associate-AI-and-Agentic-Engineer_JR7185",
+        "locations": [
+            "Alameda, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Exelixis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Exelixis",
+        "id": "07094ae9-493c-4bbc-a623-42555d77865c",
+        "title": "Associate Engineer - AI and Agentics",
+        "active": true,
+        "date_updated": 1793312892,
+        "date_posted": 1793232000,
+        "url": "https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/Associate-Engineer--AI-and-Agentics_JR7183",
+        "locations": [
+            "Alameda, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Exelixis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hitachi",
+        "id": "42593d18-326b-43f2-8773-a7f85e4fc45a",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1793312821,
+        "date_posted": 1793232000,
+        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Norman-Oklahoma-United-States/Data-Analyst_R0150190",
+        "locations": [
+            "Norman, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hitachi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UtiliSave",
+        "id": "3708ca93-5d5b-4e4a-b5a7-24888d41515e",
+        "title": "Forensic Regulatory Data Analyst",
+        "active": true,
+        "date_updated": 1793312821,
+        "date_posted": 1793312679,
+        "url": "https://apply.workable.com/utilisave-llc-1/j/9ED27658CC/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/UtiliSave",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wash U",
+        "id": "251d3531-273c-4faf-9c7e-9fa77817e2da",
+        "title": "Statistical Data Analyst - Infectious Diseases",
+        "active": true,
+        "date_updated": 1793312821,
+        "date_posted": 1793232000,
+        "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Statistical-Data-Analyst--Hybrid----Infectious-Diseases_JR98343",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Wash-U",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zoox",
+        "id": "09245a39-078b-476f-a779-34881b444f91",
+        "title": "Contract Student Worker - Software Engineer",
+        "active": true,
+        "date_updated": 1793312642,
+        "date_posted": 1793312633,
+        "url": "https://jobs.lever.co/zoox/67982bee-811b-453b-8596-b53c13f7a78d/apply",
+        "locations": [
+            "Foster City, CA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Argonne National Laboratory",
+        "id": "3aef27f1-81a0-4132-86e8-047f408b4c2c",
+        "title": "Robotics Software Developer Postbaccalaureate Appointee - Rapid Prototyping Laboratory",
+        "active": true,
+        "date_updated": 1793312715,
+        "date_posted": 1793232000,
+        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postbaccalaureate-Appointee---Robotics-Software-Developer--Rapid-Prototyping-Laboratory_423629-1",
+        "locations": [
+            "Lemont, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "c51c9374-db0a-4c26-a464-2abd19228e64",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1793312680,
+        "date_posted": 1793232000,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252601",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "8d8c7ddb-0cfd-453f-9bb6-33cc705ca846",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1793312664,
+        "date_posted": 1793232000,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Data-Scientist_R0252610",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "1e522b83-c1fe-4341-840b-cfe5d4b04790",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1793312670,
+        "date_posted": 1793232000,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Data-Scientist_R0252604",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Continuum Resource Network",
+        "id": "ef66d490-7936-4766-b3ff-c35618c6c2ba",
+        "title": "Hardware Integration Technician - Autonomous Systems",
+        "active": true,
+        "date_updated": 1793312461,
+        "date_posted": 1793312379,
+        "url": "https://apply.workable.com/continuum-resource-network/j/A4E3E8337D/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Continuum-Resource-Network",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Entergy",
+        "id": "c6265837-cb48-446a-b61c-4d95ac8bbce3",
+        "title": "Customer Service Analyst",
+        "active": true,
+        "date_updated": 1793312461,
+        "date_posted": 1793312416,
+        "url": "https://jobs.entergy.com/job/Baton-Rouge-Customer-Service-Analyst-Loui/1444947700/?ats=successfactors",
+        "locations": [
+            "Monroe, LA",
+            "Baton Rouge, LA",
+            "Jefferson, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Entergy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Continuum Resource Network",
+        "id": "4f210f43-5dc2-41a0-9868-20cac5753edd",
+        "title": "Robot Operator",
+        "active": true,
+        "date_updated": 1793312461,
+        "date_posted": 1793312378,
+        "url": "https://apply.workable.com/continuum-resource-network/j/A289FB82DF/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Continuum-Resource-Network",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intelliforce-IT Solutions Group",
+        "id": "5f5642d8-8973-4b72-8adb-bce8f7de7ef9",
+        "title": "Junior Software Engineer - Prime",
+        "active": true,
+        "date_updated": 1793312461,
+        "date_posted": 1793312424,
+        "url": "https://intelliforceitsolutionsgroup.applytojob.com/apply/vrH8MYXO9u/Junior-Software-Engineer-Prime",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Intelliforce-IT-Solutions-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "3ccb296d-3dba-417c-9bc3-558d8aac3382",
+        "title": "Photonic Card Software Developer New Grad",
+        "active": true,
+        "date_updated": 1793312479,
+        "date_posted": 1786406400,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NoGigiddy",
+        "id": "c2c81961-65b2-4788-9342-bcb5523d95b2",
+        "title": "Data Annotator - AI Training",
+        "active": true,
+        "date_updated": 1793312281,
+        "date_posted": 1793312271,
+        "url": "https://apply.workable.com/nogigiddy/j/EEFA76F1E9/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/NoGigiddy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NoGigiddy",
+        "id": "43ad7250-0c4a-47c4-851f-9c4593930cd9",
+        "title": "Data Annotator - AI Training",
+        "active": true,
+        "date_updated": 1793312281,
+        "date_posted": 1793312272,
+        "url": "https://apply.workable.com/nogigiddy/j/D3C6325FC4/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/NoGigiddy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NoGigiddy",
+        "id": "1cd90716-dcb3-46ef-849c-5135d022f4dd",
+        "title": "Data Annotator - AI Training",
+        "active": true,
+        "date_updated": 1793312281,
+        "date_posted": 1793312271,
+        "url": "https://apply.workable.com/nogigiddy/j/005FFFFCC2/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/NoGigiddy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NoGigiddy",
+        "id": "e88cf510-020e-46c1-b6e1-b9746905f77d",
+        "title": "Data Annotator - AI Training",
+        "active": true,
+        "date_updated": 1793312281,
+        "date_posted": 1793312273,
+        "url": "https://apply.workable.com/nogigiddy/j/A9CF117076/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/NoGigiddy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NoGigiddy",
+        "id": "ac13c6a5-2234-4e67-8a4e-17c5fcf6c29a",
+        "title": "Data Annotator - AI Training",
+        "active": true,
+        "date_updated": 1793312281,
+        "date_posted": 1793312271,
+        "url": "https://apply.workable.com/nogigiddy/j/463F911FF6/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/NoGigiddy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NoGigiddy",
+        "id": "642b037e-ed91-4763-ae25-fdadc2f8ac33",
+        "title": "Data Annotator - AI Training",
+        "active": true,
+        "date_updated": 1793312281,
+        "date_posted": 1793312274,
+        "url": "https://apply.workable.com/nogigiddy/j/51307E2975/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/NoGigiddy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NoGigiddy",
+        "id": "59e57060-acc2-48f1-a1bc-0a6da8d4bf2f",
+        "title": "Data Annotator - AI Training",
+        "active": true,
+        "date_updated": 1793312281,
+        "date_posted": 1793312271,
+        "url": "https://apply.workable.com/nogigiddy/j/E20DB81C72/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/NoGigiddy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NoGigiddy",
+        "id": "33a462f5-7af9-4588-bd4a-e13245d2917c",
+        "title": "Data Annotator - AI Training",
+        "active": true,
+        "date_updated": 1793312281,
+        "date_posted": 1793312272,
+        "url": "https://apply.workable.com/nogigiddy/j/D09BA189E3/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/NoGigiddy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NoGigiddy",
+        "id": "1182ef3c-121e-4b88-a62f-336802ec938a",
+        "title": "Data Annotator - AI Training",
+        "active": true,
+        "date_updated": 1793312281,
+        "date_posted": 1793312271,
+        "url": "https://apply.workable.com/nogigiddy/j/A54334F9EC/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/NoGigiddy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "ed2e35ec-54b8-4797-8f36-95db4ea2b090",
+        "title": "Electrical Engineer 1 - Parts, Libraries, and Obsolescence - Components Engineering",
+        "active": true,
+        "date_updated": 1793312329,
+        "date_posted": 1793232000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Component-Electrical-Engineer-I--Hybrid-_01884915",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "5ac0dd10-7d7f-429a-bca4-9c7e2de2999b",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1793312327,
+        "date_posted": 1793232000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical-Engineer-I_01884551",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "ce244491-27f0-46a5-a5b8-76f1b4952100",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1793312326,
+        "date_posted": 1793232000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "3ed20d66-f630-44ba-bc1b-6571b2baf79e",
+        "title": "Electrical Production Support REA Engineer 1",
+        "active": true,
+        "date_updated": 1793312325,
+        "date_posted": 1793232000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Electrical-Production-Support-REA-Engineer-I---Onsite_01885401",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stryker",
+        "id": "f9a53b5b-8373-43ec-8c47-35fe53c2dfa8",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1793312101,
+        "date_posted": 1793232000,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Hamilton-Canada/Data-Analyst--Contract---Part-Time-_R575023",
+        "locations": [
+            "Waterdown, Hamilton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Queueco",
+        "id": "a32f2d13-b542-4650-be59-0801e482c23e",
+        "title": "Quantitative Developer Graduate",
+        "active": true,
+        "date_updated": 1793312142,
+        "date_posted": 1793311943,
+        "url": "https://apply.workable.com/queueco/j/4E1AB7A939/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Queueco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Aerospace Corporation",
+        "id": "f28a763a-58cb-49ce-8088-3dbca4279481",
+        "title": "Enterprise Kill Chain Modeling & Simulation Staff Analyst",
+        "active": true,
+        "date_updated": 1793312095,
+        "date_posted": 1793232000,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Enterprise-Kill-Chain-M-S-Staff-Analyst_R017066",
+        "locations": [
+            "Colorado Springs, CO",
+            "Chantilly, VA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Volga Partners",
+        "id": "886faca9-b8b0-40ae-b0a0-e4cd84789f54",
+        "title": "Data Annotation Specialist - Object Detection",
+        "active": true,
+        "date_updated": 1793311921,
+        "date_posted": 1793311842,
+        "url": "https://apply.workable.com/volga-partners/j/6371769632/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Volga-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Volga Partners",
+        "id": "25fa6318-f60b-4be3-b96b-93d74f7e8aef",
+        "title": "German Language Data Evaluator",
+        "active": true,
+        "date_updated": 1793311921,
+        "date_posted": 1793311843,
+        "url": "https://apply.workable.com/volga-partners/j/FB12EECB3D/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Volga-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Morningstar",
+        "id": "b33c5a17-df42-4ff2-9e82-03b3e187c624",
+        "title": "Structured Finance Analytics Analyst - Methodology & AI Solutions",
+        "active": true,
+        "date_updated": 1793311940,
+        "date_posted": 1793232000,
+        "url": "https://morningstar.wd5.myworkdayjobs.com/MorningstarDBRS/job/New-York/Structured-Finance-Analytics--Methodology---AI-Solutions--Analyst---New-York_REQ-058936-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Morningstar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Micron Technology",
+        "id": "23656e12-b4f7-407c-aa31-bfc1c7f3a9f9",
+        "title": "Data Scientist - AI for Business Functions",
+        "active": true,
+        "date_updated": 1793311853,
+        "date_posted": 1793232000,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flex",
+        "id": "1b421ab4-b302-46be-8308-43d1bf2e970d",
+        "title": "Debug Technician",
+        "active": true,
+        "date_updated": 1793311859,
+        "date_posted": 1793232000,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Debug-Technician_WD232894",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Flex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
