@@ -2,85 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Philips",
-        "id": "44fac81c-bf64-44d5-8feb-195aedd18871",
-        "title": "Systems Engineer - Src",
-        "active": false,
-        "date_updated": 1772552984,
-        "date_posted": 1772552984,
-        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Systems-Engineer--SRC_577214-1",
-        "locations": [
-            "Tarentum, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Roswell Park Comprehensive Cancer Center",
-        "id": "2b476e1b-cec6-4494-a2ba-7a98966e56ff",
-        "title": "Programmer Analyst",
-        "active": false,
-        "date_updated": 1772553063,
-        "date_posted": 1772553063,
-        "url": "https://roswellpark.wd5.myworkdayjobs.com/ExternalCareers/job/Grace-Cancer-Drug-Cntr-GCDC/Programmer-Analyst_R-20600",
-        "locations": [
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Roswell-Park-Comprehensive-Cancer-Center",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "BlackRock",
-        "id": "929c4bca-4aec-4160-98ae-d31bafdaeb4d",
-        "title": "Product Manager ETF - Associate",
-        "active": false,
-        "date_updated": 1772552213,
-        "date_posted": 1772552213,
-        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Product-Manager-ETF--Associate_R261173",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/BlackRock",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RAPP",
-        "id": "6b9b3035-c7f0-4dd6-adf0-59db6f3c1e25",
-        "title": "Data Analyst-Luxury Automotive",
-        "active": false,
-        "date_updated": 1772552039,
-        "date_posted": 1772552038,
-        "url": "https://job-boards.greenhouse.io/rapp/jobs/7609895",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/RAPP",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Veolia",
         "id": "732690a4-570d-4925-b91a-64fe237846f0",
         "title": "Repr\u00e9sentant - Field Services Representative",
@@ -217731,24 +217652,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/The-New-York-Times",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uare.ai",
-        "id": "b013d54d-e343-4859-badb-79f7e0e59c09",
-        "title": "Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1772552664,
-        "date_posted": 1772552664,
-        "url": "https://job-boards.greenhouse.io/uareai/jobs/4036519009",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Uareai",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
