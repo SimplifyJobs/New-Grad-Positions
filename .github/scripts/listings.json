@@ -264625,7 +264625,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -265006,7 +265006,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -284064,7 +284064,7 @@
         "company_name": "Bridgewater Associates",
         "id": "bbfd547f-84e0-4194-8f94-d9fd13af41da",
         "title": "Trading Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1787781963,
         "date_posted": 1787781886,
         "url": "https://job-boards.greenhouse.io/bwaltpostings/jobs/8750719002",
@@ -337736,7 +337736,7 @@
         "company_name": "UTHealth Houston",
         "id": "d04ba501-38c1-4163-8d34-89b130766ac0",
         "title": "Database Analyst Programmer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1790374230,
         "date_posted": 1790373860,
         "url": "https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8007",
@@ -339350,7 +339350,7 @@
         "company_name": "CTG",
         "id": "c4f55563-1069-419b-b01e-3e54c1fc802c",
         "title": "Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790720799,
         "date_posted": 1790720042,
         "url": "https://careers.ctg.com/jobs/17716?icims=1",
@@ -350675,7 +350675,7 @@
         "company_name": "West Monroe",
         "id": "9af24976-afb3-443f-8436-3e6e1d2d782e",
         "title": "Data & Analytics Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1791269329,
         "date_posted": 1791269203,
         "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6167376004",
@@ -358206,7 +358206,7 @@
         "company_name": "Illinois Secretary of State",
         "id": "8f70ebe0-0547-4409-b537-1f2d643e2774",
         "title": "Information Systems Technician 1 - Business Services Office",
-        "active": true,
+        "active": false,
         "date_updated": 1791585460,
         "date_posted": 1791584546,
         "url": "https://ilsos.applytojob.com/apply/OvFQ8chh0P/Information-Systems-Technician-I-Business-Services-Office",
@@ -372906,7 +372906,7 @@
         "company_name": "Amazon",
         "id": "c5a7d1fe-6c08-40a0-818f-a6981dc0e2ac",
         "title": "AI Data Associate - Dutch - Artificial General Intelligence",
-        "active": true,
+        "active": false,
         "date_updated": 1792720451,
         "date_posted": 1792720283,
         "url": "https://amazon.jobs/en/jobs/10469778/ai-data-associate-dutch-artificial-general-intelligence",
@@ -381145,7 +381145,7 @@
         "company_name": "Samsung Research America",
         "id": "a9b5d6ff-de58-4d8a-8d1b-7fafcf154301",
         "title": "Health AI Scholar - Digital Health Algorithms Team",
-        "active": true,
+        "active": false,
         "date_updated": 1793140096,
         "date_posted": 1793131719,
         "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002",
@@ -381557,7 +381557,7 @@
         "company_name": "BraveBison",
         "id": "87bc18fa-af6a-4672-8408-f7a6d2f098f7",
         "title": "Analyst \u2013 3 Reasons",
-        "active": true,
+        "active": false,
         "date_updated": 1793139122,
         "date_posted": 1793139091,
         "url": "https://bravebison.bamboohr.com/careers/510/",
@@ -385990,5 +385990,63 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital de Recherche Tower",
+        "id": "6f6e177e-6489-412b-b087-1cdcceb47a7a",
+        "title": "C++ Software Developer New Grad",
+        "active": true,
+        "date_updated": 1793265894,
+        "date_posted": 1789480714,
+        "url": "https://www.tower-research.ca/postes-vacants/?gh_jid=8126668",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-De-Recherche-Tower",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dynamic Lifecycle Innovations",
+        "id": "37cf91fa-52fc-4f63-b4b1-4d4e23fcc600",
+        "title": "IT Hardware Technician",
+        "active": true,
+        "date_updated": 1793265170,
+        "date_posted": 1788536606,
+        "url": "https://thinkdynamic.com/job-openings/?gh_jid=8180050",
+        "locations": [
+            "Onalaska, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Dynamic-Lifecycle-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "APCON",
+        "id": "6ae5b324-5985-41c0-afd0-bed384b67af7",
+        "title": "Test Specialist",
+        "active": true,
+        "date_updated": 1793265002,
+        "date_posted": 1779482504,
+        "url": "https://job-boards.greenhouse.io/apcon/jobs/4257976009",
+        "locations": [
+            "Wilsonville, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/APCON",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
