@@ -309193,7 +309193,7 @@
         "company_name": "Cleveland-Cliffs",
         "id": "d0934e48-ad28-481d-9c3c-0a1688314c9b",
         "title": "Commercial Sales Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788466522,
         "date_posted": 1785283200,
         "url": "https://aksteel.wd1.myworkdayjobs.com/careers/job/Ferrous-Processing-and-Trading-Regional-Office/Commercial-Sales-Analyst_R13163",
@@ -356908,7 +356908,7 @@
         "company_name": "RTX",
         "id": "60fcabe8-a994-4e16-81d7-d07d913c4f68",
         "title": "Embedded Security Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791543612,
         "date_posted": 1791417600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Security-Software-Engineer--Onsite-_01881362",
@@ -375825,7 +375825,7 @@
         "company_name": "Quantum",
         "id": "6109a270-976e-4cfb-a271-eec783810f11",
         "title": "Business Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1792761663,
         "date_posted": 1789637428,
         "url": "https://jobs.ashbyhq.com/quantum/56edc854-6844-4126-b150-ce9a9b6efee6/application?embed=true",
@@ -386015,6 +386015,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PPG Industries",
+        "id": "6ec66b85-86ab-4ce2-9ef2-147ce7587553",
+        "title": "Operations Analytics Specialist",
+        "active": true,
+        "date_updated": 1793277903,
+        "date_posted": 1790812800,
+        "url": "https://ppg.wd5.myworkdayjobs.com/PPG_CAREERS/job/USA---Delaware-Plant/Manufacturing-Data-Analyst_JR2611628",
+        "locations": [
+            "Delaware, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/PPG-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
