@@ -279857,7 +279857,7 @@
         "company_name": "Tesla",
         "id": "d8128313-1a27-4475-bfe7-ccff7edc883d",
         "title": "Electronic Hardware Validation - Low Voltage Systems",
-        "active": false,
+        "active": true,
         "date_updated": 1787616918,
         "date_posted": 1787616728,
         "url": "https://www.tesla.com/careers/search/job/280969",
@@ -305956,7 +305956,7 @@
         "company_name": "Tesla",
         "id": "e90d9c67-e0f0-4b96-a8b1-608b8ed4d3b2",
         "title": "Field Reliability Engineer - Autopilot Hardware",
-        "active": false,
+        "active": true,
         "date_updated": 1788448695,
         "date_posted": 1787016543,
         "url": "https://www.tesla.com/careers/search/job/280217",
@@ -381864,7 +381864,7 @@
         "company_name": "O'Reilly Auto Parts",
         "id": "d2acd998-8300-4877-b737-0becc2b0e433",
         "title": "Electronic Catalog Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1793140959,
         "date_posted": 1793059200,
         "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Regional-Office-PHX/Electronic-Catalog-Technician-1_R208463",
@@ -386068,5 +386068,44 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "92bf3646-4a8c-41d1-b24c-c18e53318dfd",
+        "title": "System Software Engineer - Distributed Computing",
+        "active": true,
+        "date_updated": 1793268187,
+        "date_posted": 1793232000,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "35c079db-ffa5-41be-b7e2-d2deae850814",
+        "title": "Data Collection Operator - Optimus",
+        "active": true,
+        "date_updated": 1793268187,
+        "date_posted": 1793268010,
+        "url": "https://www.tesla.com/careers/search/job/287960",
+        "locations": [
+            "Littleton, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
