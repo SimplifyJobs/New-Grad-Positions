@@ -5,7 +5,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 569 New Grad Roles by Category
+### Browse 568 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (321)
 
@@ -15,7 +15,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (25)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (114)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (113)
 
 💼 **[Other](#-other-new-grad-roles)** (0)
 
@@ -14875,13 +14875,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Embedded Security Software Engineer 1</td>
-<td>El Segundo, CA</td>
-<td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Security-Software-Engineer--Onsite-_01881362?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/60fcabe8-a994-4e16-81d7-d07d913c4f68?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Embedded Security Software Engineer 1</td>
 <td>Tucson, AZ</td>
 <td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Embedded-Security-Software-Engineer-I--Onsite-_01881370?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9199e425-2144-4178-bac6-c9f1802f9f1e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>21d</td>
@@ -15521,7 +15514,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (378)</summary>
+<summary>🗃️ Inactive roles (379)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -15739,6 +15732,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Embedded Security Software Engineer 1</td>
+<td>El Segundo, CA</td>
+<td>🔒</td>
+<td>21d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Software Engineer 1</td>
 <td>Fort Wayne, IN</td>
 <td>🔒</td>
@@ -17005,7 +17005,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
+<td>↳</td>
 <td>Circuit Design Engineer New Grad 🎓</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
