@@ -306254,7 +306254,7 @@
         "company_name": "RTX",
         "id": "bf79ce83-617f-414c-a109-b3809235df00",
         "title": "Systems Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788447948,
         "date_posted": 1786579200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineer-I_01866673",
@@ -347535,7 +347535,7 @@
         "company_name": "Nasdaq",
         "id": "c062a422-c70f-4464-9f55-a3ccbdaa7287",
         "title": "Analyst Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1791116270,
         "date_posted": 1783158499,
         "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Atlanta---Georgia/Analyst---Software-Developer_R0025662",
@@ -355366,7 +355366,7 @@
         "company_name": "Nordstrom",
         "id": "addc9110-286b-45d0-9b03-24ea2d3042c6",
         "title": "Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791412957,
         "date_posted": 1791331200,
         "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1--Hybrid---Seattle--WA-_R-884936",
@@ -363272,7 +363272,7 @@
         "company_name": "Centrica",
         "id": "ce6a633b-2224-4242-9823-401791e0a6cc",
         "title": "Technology Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1792016104,
         "date_posted": 1791936000,
         "url": "https://centrica.wd3.myworkdayjobs.com/Centrica/job/Flexible/Technology-Graduate_R0090937",
@@ -369897,7 +369897,7 @@
         "company_name": "Applied Materials",
         "id": "bcc5917d-14c6-476e-8eb3-06d5f398ff78",
         "title": "Algorithm Developer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1792534574,
         "date_posted": 1792454400,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer--Masters-Degree--New-College-Grad--Santa-Clara-_R2631780",
@@ -383432,7 +383432,7 @@
         "company_name": "FanDuel",
         "id": "53ed91bd-f03e-423c-8424-452d1ff6122f",
         "title": "Basketball Pricing Analyst - Sports Trader - NBA/WNBA",
-        "active": false,
+        "active": true,
         "date_updated": 1793151557,
         "date_posted": 1793148112,
         "url": "https://boards.greenhouse.io/embed/job_app?token=8318950",
@@ -386142,6 +386142,148 @@
             "Bristol, UK"
         ],
         "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pure",
+        "id": "4410c5c1-b6aa-4a86-af4c-c5ea5ee6b824",
+        "title": "iOS / UI Engineer",
+        "active": true,
+        "date_updated": 1793238336,
+        "date_posted": 1793232000,
+        "url": "https://jobs.ashbyhq.com/pureapp/86b9bbba-268a-49d0-8c07-904ee802ceb4/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Pure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Indeed Flex",
+        "id": "0eab1b63-64ee-4583-972e-059f51e40b5e",
+        "title": "Product Builder",
+        "active": true,
+        "date_updated": 1793238130,
+        "date_posted": 1791360954,
+        "url": "https://job-boards.eu.greenhouse.io/indeedflex/jobs/4994921101",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Indeed-Flex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Human Interest",
+        "id": "326debcd-2734-42c8-91bd-bef6be0556e5",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1793237835,
+        "date_posted": 1787165629,
+        "url": "https://job-boards.greenhouse.io/humaninterestswe1/jobs/8083833",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Human-Interest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rocket Lab Corporation",
+        "id": "1d38abfa-a627-47bb-915b-392ec638832a",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1793237835,
+        "date_posted": 1793228325,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8055708003",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rocket Lab Corporation",
+        "id": "00541c11-5082-412d-b278-829473505007",
+        "title": "Harness Design Engineer 1",
+        "active": true,
+        "date_updated": 1793237837,
+        "date_posted": 1793228684,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8055821003",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "i360technologies",
+        "id": "2331133d-deba-41ac-9bfc-8972ef00c147",
+        "title": "Oracle Analytics FDI Developer",
+        "active": true,
+        "date_updated": 1793237586,
+        "date_posted": 1792019072,
+        "url": "https://job-boards.greenhouse.io/i360technologiesinc/jobs/4452547009",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/I360technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "S&P Global",
+        "id": "2598ba6a-238d-4150-9ce0-3d34ef2fb37f",
+        "title": "Investment Reporting Specialist - Quantitative Analysis",
+        "active": true,
+        "date_updated": 1793237652,
+        "date_posted": 1793232000,
+        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Guernsey-GG/Specialist--Quantitative-Analysis_332357-1",
+        "locations": [
+            "London, UK",
+            "Guernsey"
+        ],
+        "company_url": "https://simplify.jobs/c/SP-Global",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
