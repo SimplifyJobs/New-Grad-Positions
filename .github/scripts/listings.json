@@ -264513,7 +264513,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -264894,7 +264894,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -372173,7 +372173,7 @@
         "company_name": "UT Southwestern Medical Center",
         "id": "cc259ac7-d903-41ef-8372-0b9bff0ba883",
         "title": "Clinical Quality Data Coordinator 1",
-        "active": false,
+        "active": true,
         "date_updated": 1792706977,
         "date_posted": 1792706720,
         "url": "https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=973896",
@@ -386353,6 +386353,353 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dell Technologies",
+        "id": "d840c912-8132-4067-918d-723702757692",
+        "title": "Test Engineer 1",
+        "active": true,
+        "date_updated": 1793285462,
+        "date_posted": 1793285293,
+        "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/296584",
+        "locations": [
+            "Franklin, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dell Technologies",
+        "id": "3fa19032-9a60-4980-aa90-789e3fd58171",
+        "title": "Test Engineer 1",
+        "active": true,
+        "date_updated": 1793285462,
+        "date_posted": 1793285293,
+        "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/296581",
+        "locations": [
+            "Franklin, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centene",
+        "id": "d859b53b-c05b-44b0-93ae-67ec1172431b",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1793285177,
+        "date_posted": 1793232000,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Analyst--I_1659018-1",
+        "locations": [
+            "Kansas",
+            "Pennsylvania",
+            "North Dakota",
+            "Delaware",
+            "Iowa",
+            "Washington, DC",
+            "Vermont",
+            "Connecticut",
+            "Texas",
+            "Florida",
+            "New Hampshire",
+            "South Carolina",
+            "South Dakota",
+            "Georgia",
+            "Mississippi",
+            "Tennessee",
+            "Virginia",
+            "Arkansas",
+            "Minnesota",
+            "Nebraska",
+            "Rhode Island",
+            "Kentucky",
+            "West Virginia",
+            "NYC",
+            "Maryland",
+            "Wisconsin",
+            "Maine",
+            "Massachusetts",
+            "North Carolina",
+            "Oklahoma",
+            "Missouri",
+            "Ohio",
+            "New Jersey",
+            "Indiana",
+            "Louisiana",
+            "Michigan",
+            "Illinois",
+            "Alabama"
+        ],
+        "company_url": "https://simplify.jobs/c/Centene",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cisco",
+        "id": "94962866-c898-459f-8b53-e0bfc4dcc25e",
+        "title": "Data Science Analyst 1",
+        "active": true,
+        "date_updated": 1793285167,
+        "date_posted": 1793285067,
+        "url": "https://careers.cisco.com/global/en/job/2028889",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citi",
+        "id": "0f6fba47-42cc-4485-89af-6ea48098bcd2",
+        "title": "Application Development Analyst",
+        "active": true,
+        "date_updated": 1793285150,
+        "date_posted": 1793232000,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Technology---Application-Development--Full-Time-Analyst--Belfast-2027_261005116",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qube Research & Technologies",
+        "id": "ec8b98e6-66a4-4e29-89bf-b3bfe466df73",
+        "title": "FPGA Engineering Intern",
+        "active": true,
+        "date_updated": 1793285131,
+        "date_posted": 1788875877,
+        "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777855002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Qube-Research-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BarkleyOKRP",
+        "id": "98265b8a-b1d8-4e72-8fb3-ea7d40f6341c",
+        "title": "Analyst \u2013 Reporting",
+        "active": true,
+        "date_updated": 1793285102,
+        "date_posted": 1788798937,
+        "url": "https://job-boards.greenhouse.io/barkleyokrp/jobs/6184401004",
+        "locations": [
+            "Chicago, IL",
+            "Kansas City, MO",
+            "NYC",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/BarkleyOKRP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Reach3 Insights",
+        "id": "347cf6c9-b286-4371-a27a-3aea305408c5",
+        "title": "Research Associate",
+        "active": true,
+        "date_updated": 1793285102,
+        "date_posted": 1790204397,
+        "url": "https://job-boards.greenhouse.io/reach3insights/jobs/5433674008",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Reach3-Insights",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "dca9592e-b1b7-46c3-8d13-f62684d3eaea",
+        "title": "Associate Test Engineer",
+        "active": true,
+        "date_updated": 1793284924,
+        "date_posted": 1793232000,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Associate-Test-Engineer_R268237",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA",
+            "Canada",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Omen AI",
+        "id": "b2972fae-a36b-454e-859f-b0e97ae896dc",
+        "title": "GTM Wizard",
+        "active": true,
+        "date_updated": 1793284742,
+        "date_posted": 1791301467,
+        "url": "https://www.omen.ai/careers?gh_jid=4435132009",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Omen-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MissionOne Media",
+        "id": "3ea8b1a1-169c-46c3-8ed1-4ac1d1cca2f6",
+        "title": "Analyst \u2013 Reporting",
+        "active": true,
+        "date_updated": 1793284580,
+        "date_posted": 1788895719,
+        "url": "https://job-boards.greenhouse.io/missiononemedia/jobs/6185658004",
+        "locations": [
+            "Chicago, IL",
+            "Kansas City, MO",
+            "NYC",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/MissionOne-Media",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TSC",
+        "id": "a0303bf2-78ec-4e3f-88ed-874ac7a7aaca",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1793284406,
+        "date_posted": 1793232000,
+        "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2890",
+        "locations": [
+            "Plymouth, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/TSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fractile",
+        "id": "d0e083de-4d52-4236-b975-3f1499d7fd40",
+        "title": "Early Career SoC Architect",
+        "active": true,
+        "date_updated": 1793284224,
+        "date_posted": 1793232000,
+        "url": "https://jobs.ashbyhq.com/fractile/70813816-3050-4100-944d-9de5c2c0fab0/application?embed=true",
+        "locations": [
+            "London, UK",
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Fractile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fractile",
+        "id": "2b6607d0-73bb-44f6-b977-28c83e8ea7a0",
+        "title": "Junior Compute Architect",
+        "active": true,
+        "date_updated": 1793284224,
+        "date_posted": 1793232000,
+        "url": "https://jobs.ashbyhq.com/fractile/31b5ab05-7d41-485d-b04b-38f3923e4de7/application?embed=true",
+        "locations": [
+            "London, UK",
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Fractile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fractile",
+        "id": "4980d404-088f-44fa-b01b-2c92138bf715",
+        "title": "Early Career System Architect",
+        "active": true,
+        "date_updated": 1793284224,
+        "date_posted": 1793232000,
+        "url": "https://jobs.ashbyhq.com/fractile/c3de27ea-9cb5-4e96-80c6-4adc2bf87792/application?embed=true",
+        "locations": [
+            "London, UK",
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Fractile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
