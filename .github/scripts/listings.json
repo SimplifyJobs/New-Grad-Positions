@@ -1,100 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "JP Morgan Chase",
-        "id": "245c3b69-5aec-4d0c-99e0-b9acd7ecc4d7",
-        "title": "Digital Markets - Digital Product Manager Efxo - Associate",
-        "active": false,
-        "date_updated": 1772534817,
-        "date_posted": 1772534817,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719285",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "0e6d9fa4-ef28-4df1-8208-37fdfb19f8d1",
-        "title": "Corporate \u2013 Risk Management - Market Risk FRTB - Analytics','Analyst / Associate",
-        "active": false,
-        "date_updated": 1772534810,
-        "date_posted": 1772534810,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718966",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "64b5a93b-d5e1-448f-b7d3-4107baffe9b9",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1772534658,
-        "date_posted": 1772534658,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051765",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5073984a-1e02-4de0-93c3-24f2fdea0ef4",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1772534660,
-        "date_posted": 1772534660,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051744",
-        "locations": [
-            "Durham, UK",
-            "Thirsk, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "173b2bed-920b-4d05-9297-8665c26aa05f",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1772534657,
-        "date_posted": 1772534657,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051741",
-        "locations": [
-            "Buxton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "EquipmentShare",
         "id": "23baed5e-9e59-464d-b5cd-496acc21e230",
@@ -1915,24 +1821,6 @@
         "degrees": [
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hawk-Eye Innovations",
-        "id": "a2c84b74-2810-4783-8f9e-82637d56d092",
-        "title": "College Sports Systems Technician - Michigan State University",
-        "active": false,
-        "date_updated": 1772535322,
-        "date_posted": 1772535322,
-        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/b206c133-baef-4ac1-8cc3-60d6fc6bf114/application",
-        "locations": [
-            "East Lansing, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -371943,7 +371831,7 @@
         "company_name": "Crescent Energy",
         "id": "308d7d0e-34ed-4c86-9997-1b2c9cc3df0d",
         "title": "Master Data Management Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1792708026,
         "date_posted": 1792627200,
         "url": "https://crescentenergyco.wd108.myworkdayjobs.com/crescent_energy_careers/job/Houston-TX/Master-Data-Management-Analyst_R504",
