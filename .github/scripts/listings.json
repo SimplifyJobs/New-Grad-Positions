@@ -182864,7 +182864,7 @@
         "company_name": "Red Ventures",
         "id": "9a28e7b4-e887-4ab7-b5d2-839bdb0a9d53",
         "title": "Associate Data Scientist - Home Client Services",
-        "active": true,
+        "active": false,
         "date_updated": 1783550345,
         "date_posted": 1783549731,
         "url": "https://www.redventures.com/careers/positions/open?gh_jid=8043811",
@@ -384002,7 +384002,7 @@
         "company_name": "Barclays",
         "id": "76dfc9fa-2273-4b3a-8af4-4ce49e92d964",
         "title": "Full Stack Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1793226421,
         "date_posted": 1793226384,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Full-Stack-Developer_JR-0000098421-1",
@@ -386031,6 +386031,47 @@
             "Delaware, OH"
         ],
         "company_url": "https://simplify.jobs/c/PPG-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salesforce",
+        "id": "fcd88c67-d6d6-41a6-9f32-1b0db5954dd6",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1793279189,
+        "date_posted": 1793059200,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR363598",
+        "locations": [
+            "Indianapolis, IN",
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola Solutions",
+        "id": "4ac8a904-55c8-41a8-bf6f-024654bfb82b",
+        "title": "Mid Level Back End Engineer",
+        "active": true,
+        "date_updated": 1793278982,
+        "date_posted": 1790345368,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Software-Engineer--Frontend--TypeScript-_R65793",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
