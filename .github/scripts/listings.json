@@ -2,47 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Accenture",
-        "id": "a879aabf-4be7-44e0-8922-b8be7e87732b",
-        "title": "ATC AI and Data Analyst",
-        "active": false,
-        "date_updated": 1772645972,
-        "date_posted": 1772645972,
-        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/St-Pete-140-Fountain-Pkwy-Tampa-Corp/ATC---AI---Data-Analyst---NAELFY26_R00316914",
-        "locations": [
-            "St. Petersburg, FL",
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Accenture-FS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Jabil",
-        "id": "ccf9bfc7-b721-4410-8f66-6006fbeea6d4",
-        "title": "Automation Technician 2 - 11pm-7:30am",
-        "active": false,
-        "date_updated": 1772645824,
-        "date_posted": 1772645824,
-        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Salt-Lake-CityGrantsville-UT/Automation-Technician-ll--Monday-Friday--11pm-7-30am-_J2441768",
-        "locations": [
-            "Tooele, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Devon Energy",
         "id": "c08f39a1-dff7-4471-84ab-c7ec93021da7",
         "title": "Master Data Maintainer",
@@ -317996,7 +317955,7 @@
         "company_name": "Rover",
         "id": "9377f3dd-8421-4a2c-8af8-4be42ec6b607",
         "title": "Software Engineer - Recommendations",
-        "active": true,
+        "active": false,
         "date_updated": 1789078536,
         "date_posted": 1789077978,
         "url": "https://jobs.lever.co/rover/303b3b2f-9679-4a77-8908-456e29240486/apply",
@@ -353077,7 +353036,7 @@
         "company_name": "AMD",
         "id": "dc10adda-2c89-48d4-9795-93dd3a4eb87e",
         "title": "Systems Design Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1791498607,
         "date_posted": 1791497944,
         "url": "https://careers.amd.com/jobs/92338?icims=1",
@@ -373746,7 +373705,7 @@
         "company_name": "AMD",
         "id": "c37cb4e0-1fbc-40b2-8b44-d608a1388631",
         "title": "Silicon Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792764902,
         "date_posted": 1790633492,
         "url": "https://careers.amd.com/jobs/90603?icims=1",
@@ -382222,7 +382181,7 @@
         "company_name": "Motorola Solutions",
         "id": "af1c8d02-38a6-434d-9011-8739541c301c",
         "title": "Software Engineer - Java / Python",
-        "active": true,
+        "active": false,
         "date_updated": 1793227322,
         "date_posted": 1793145600,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer---Java---Python_R69271",
