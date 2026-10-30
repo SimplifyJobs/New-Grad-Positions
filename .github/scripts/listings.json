@@ -306985,7 +306985,7 @@
         "company_name": "Surge AI",
         "id": "4fd3fead-8472-411d-a7fa-886c16655cf8",
         "title": "AI Operations Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788465082,
         "date_posted": 1784596349,
         "url": "https://jobs.ashbyhq.com/surge-ai/73c5fe8d-0cb6-40e1-a634-d46928702f85/application?embed=true",
@@ -386865,6 +386865,84 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/XAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "xAI",
+        "id": "67f581ee-ba46-4d73-915e-8eb8377bf155",
+        "title": "AI Tutor \u2013 German",
+        "active": true,
+        "date_updated": 1793350082,
+        "date_posted": 1791440152,
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5090120007",
+        "locations": [
+            "Remote in USA",
+            "Remote in UK",
+            "Remote in Australia",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/XAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "xAI",
+        "id": "409dfbad-b9e8-4879-b658-d5024592e208",
+        "title": "AI Tutor \u2013 Portuguese",
+        "active": true,
+        "date_updated": 1793349182,
+        "date_posted": 1775023511,
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5090221007",
+        "locations": [
+            "Remote in USA",
+            "Remote in UK",
+            "Remote in Australia",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/XAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Formlabs",
+        "id": "6d2d8f72-8478-41cb-84fa-214910aebb99",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1793350272,
+        "date_posted": 1782512405,
+        "url": "https://careers.formlabs.com/job/7909577/apply/?gh_jid=7909577",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CLEAR",
+        "id": "41b6d874-c6e0-42f4-943c-19dd808bc3c0",
+        "title": "Forward Deployed AI Engineer 1",
+        "active": true,
+        "date_updated": 1793349204,
+        "date_posted": 1791382390,
+        "url": "https://job-boards.greenhouse.io/clear/jobs/8259786",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CLEAR",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
