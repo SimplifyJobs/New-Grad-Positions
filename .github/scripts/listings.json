@@ -263016,7 +263016,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -263397,7 +263397,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -313640,7 +313640,7 @@
         "company_name": "ZRS Management",
         "id": "8552ff06-eb32-409f-99be-6b83447122b3",
         "title": "Housekeeper",
-        "active": true,
+        "active": false,
         "date_updated": 1788571082,
         "date_posted": 1788480000,
         "url": "https://zrsmanagement.wd5.myworkdayjobs.com/zrs_careers/job/Austin-TX-78721/Housekeeper_R-108236",
@@ -316754,7 +316754,7 @@
         "company_name": "Domino Data Lab",
         "id": "7b2a1e78-a6a7-42e9-8120-2e4b3187e580",
         "title": "Forward Deployed Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1788992848,
         "date_posted": 1788991995,
         "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992530?gh_jid=7992530",
@@ -374272,7 +374272,7 @@
         "company_name": "RTX",
         "id": "53ccbdf2-b041-4aea-b5ec-d091b05d3b48",
         "title": "Systems Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1792761116,
         "date_posted": 1789430400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Systems-Engineer-I_01874215",
@@ -384768,7 +384768,7 @@
         "company_name": "Thoughtworks",
         "id": "756f5acb-ee83-4d78-8f4b-7cbbdaff4b18",
         "title": "Software Developer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1793283063,
         "date_posted": 1793270498,
         "url": "https://www.thoughtworks.com/careers/jobs/8333235?gh_jid=8333235",
@@ -387117,7 +387117,7 @@
         "company_name": "General Motors",
         "id": "0a4def13-9b3a-4f3a-b3c9-5a90b20c870b",
         "title": "Software Engineer AV HIL Platform and Services Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1792718295,
         "date_posted": 1790201127,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577",
@@ -387130,6 +387130,47 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bass Pro Shops",
+        "id": "c760016f-d540-4982-8d2f-26a62165a988",
+        "title": "Product Specialist Apparel",
+        "active": true,
+        "date_updated": 1793322579,
+        "date_posted": 1793232000,
+        "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Product-Specialist-Apparel_R271531",
+        "locations": [
+            "Springfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Bass-Pro-Shops",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TSC",
+        "id": "5c4d2a11-3b2b-42e0-9642-76a48bd79428",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1793322543,
+        "date_posted": 1793232000,
+        "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Arlington-VA/Junior-Software-Engineer--UAS-_JR2896",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/TSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
