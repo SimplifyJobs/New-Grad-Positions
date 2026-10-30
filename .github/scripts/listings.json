@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Microsoft",
-        "id": "ff72e85e-810e-4d61-913a-d46fd379bad2",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1772623960,
-        "date_posted": 1772623960,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556819805",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Hawk-Eye Innovations",
         "id": "f57e12b2-d1a2-45aa-a4a7-0800ebf5637c",
@@ -88,78 +67,6 @@
             "Portland, OR"
         ],
         "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b0301e3d-e7ea-480b-84d6-751d506633bf",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1772625623,
-        "date_posted": 1772625623,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051911",
-        "locations": [
-            "Harlow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a3f40d94-8c0b-451e-b3a8-102322d10bec",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1772625618,
-        "date_posted": 1772625618,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051922",
-        "locations": [
-            "Trafford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "67e0be47-727b-4c89-afdf-cb48c8418f96",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1772625625,
-        "date_posted": 1772625625,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051917",
-        "locations": [
-            "Essex, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Appen",
-        "id": "253059ce-a0e2-47a2-990b-12ee752ed450",
-        "title": "Annotator",
-        "active": false,
-        "date_updated": 1772625658,
-        "date_posted": 1772625658,
-        "url": "https://jobs.lever.co/appen-2/1f8d6868-2f02-4f25-b8f0-464e7fccb036/apply",
-        "locations": [
-            "Lafayette, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Appen",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -349867,7 +349774,7 @@
         "company_name": "RTX",
         "id": "6ffabb0b-4dbb-49a3-bb98-10fd85f1898b",
         "title": "Software Engineer 1 - Test",
-        "active": true,
+        "active": false,
         "date_updated": 1791297760,
         "date_posted": 1789516800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I---Test_01873961",
@@ -358801,7 +358708,7 @@
         "company_name": "Boeing",
         "id": "9864b3ec-765c-40f0-9db9-5dc911daed42",
         "title": "Entry Level Design and Analysis Engineer - Support Equipt Design, Elect",
-        "active": true,
+        "active": false,
         "date_updated": 1791929717,
         "date_posted": 1791849600,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Saint-Charles-MO/Entry-Level-Design-and-Analysis-Engineer--Support-Equipt-Design---Elect-_JR2026518227",
