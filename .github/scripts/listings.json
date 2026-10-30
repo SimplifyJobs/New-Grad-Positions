@@ -197281,7 +197281,7 @@
         "company_name": "Capital One",
         "id": "d03ac761-2dfa-4cd7-bd7c-797b6ff89c19",
         "title": "Software Engineer New Grad - Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784587302,
         "date_posted": 1784505600,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
@@ -368472,7 +368472,7 @@
         "company_name": "Motorola Solutions",
         "id": "3a1a2560-3ee7-4b44-81e4-8b0a679c2b07",
         "title": "Embedded Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1792621802,
         "date_posted": 1792540800,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Embedded-Software-Engineer_R68965-1",
@@ -381548,7 +381548,7 @@
         "company_name": "Intel",
         "id": "c76bdf45-b985-490a-83f2-38586bb77ae5",
         "title": "Compiler Engineer for AI DSLs",
-        "active": false,
+        "active": true,
         "date_updated": 1793225765,
         "date_posted": 1793145600,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Compiler-Engineer-for-AI-DSLs_JR0288433",
@@ -386585,5 +386585,345 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DaVita",
+        "id": "00a3eb6a-a19b-4677-8e02-e2ba85d7f4e3",
+        "title": "People Analytics Analyst",
+        "active": true,
+        "date_updated": 1793399227,
+        "date_posted": 1793318400,
+        "url": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/People-Analytics-Analyst_R0483553",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/DaVita",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dyna Robotics",
+        "id": "91d36c35-e61d-4094-ba3d-26378c3caa5e",
+        "title": "Robot Safety Operator",
+        "active": true,
+        "date_updated": 1793399227,
+        "date_posted": 1793318400,
+        "url": "https://jobs.ashbyhq.com/dyna-robotics/cf28c8a4-da64-4f2e-9533-8df37ec46496/application?embed=true",
+        "locations": [
+            "Anaheim, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dyna-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Network Bio",
+        "id": "698e8473-f9d4-4f6b-904b-311fbb0a626e",
+        "title": "AI Scientist",
+        "active": true,
+        "date_updated": 1793399227,
+        "date_posted": 1791320565,
+        "url": "https://job-boards.greenhouse.io/networkbio/jobs/5445891008",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Network-Bio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mitsubishi UFG",
+        "id": "4ce3cced-69a2-4048-a613-815d54d5b704",
+        "title": "Data Governance Coordinator",
+        "active": true,
+        "date_updated": 1793399043,
+        "date_posted": 1793318400,
+        "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Data-Governance-Coordinator---NY-NJ_10080368-WD",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Mitsubishi-UFG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Frazer-Nash Consultancy",
+        "id": "b444ca13-c9b4-4176-8cad-9c221305e515",
+        "title": "Data Science and Software Graduate",
+        "active": true,
+        "date_updated": 1793399077,
+        "date_posted": 1793398885,
+        "url": "https://apply.workable.com/frazer-nash-15/j/37A3E1F4E3/apply",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Frazer-Nash-Consultancy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Roblox",
+        "id": "487d6bab-a6f6-4568-915e-7058332e43c8",
+        "title": "Senior Software Engineer \u2013 Data Acquisition PhD Early Career",
+        "active": true,
+        "date_updated": 1793399094,
+        "date_posted": 1793376257,
+        "url": "https://careers.roblox.com/jobs/8315883?gh_jid=8315883",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roblox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTI International",
+        "id": "d56cc19f-886c-4018-82d6-852700f3065d",
+        "title": "Early-Career Marketing Intelligence Analyst",
+        "active": true,
+        "date_updated": 1793398682,
+        "date_posted": 1793371980,
+        "url": "https://careers.rti.org/jobs/13685?icims=1",
+        "locations": [
+            "Research Triangle Park, Durham, NC",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mitel Networks",
+        "id": "0405cce9-0d25-4dd2-b6ef-9cfe7bb03f89",
+        "title": "Junior Full Stack Web Developer",
+        "active": true,
+        "date_updated": 1793398325,
+        "date_posted": 1793318400,
+        "url": "https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Ottawa/Junior-Full-Stack-Web-Developer_R013211",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mitel-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intel",
+        "id": "07e8db57-fe7c-4076-83fc-01a3b6f9b55b",
+        "title": "Software Application Development Engineer New Grad",
+        "active": true,
+        "date_updated": 1793398291,
+        "date_posted": 1793318400,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0288523",
+        "locations": [
+            "Hillsboro, OR",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Kairos Power",
+        "id": "2c9669bc-815a-4c3c-82bf-77b804b9fe70",
+        "title": "Firmware Development Engineer",
+        "active": true,
+        "date_updated": 1793398147,
+        "date_posted": 1793380723,
+        "url": "https://job-boards.greenhouse.io/kairospower/jobs/6193295004",
+        "locations": [
+            "Alameda, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KairosPower",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "d379f70f-2ee0-4561-bd8e-ee5d4795e25c",
+        "title": "Entry-Level Software Developer - Application Support & Sustainment",
+        "active": true,
+        "date_updated": 1793398147,
+        "date_posted": 1793318400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Entry-Level-Software-Developer---Application-Support---Sustainment--Remote-_01885356",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "0b6b7fca-d59f-4d68-876b-15e06a9d2591",
+        "title": "CCA/PCB Product Development Engineer 1",
+        "active": true,
+        "date_updated": 1793398245,
+        "date_posted": 1793318400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/CCA-PCB-Product-Development-Engineer-I--Onsite-_01886239",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BlackLine",
+        "id": "73292424-f766-4523-9adf-574b6dcc5a53",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1793398147,
+        "date_posted": 1793318400,
+        "url": "https://blackline.wd108.myworkdayjobs.com/BlackLineCareers/job/Toronto/Associate-Software-Engineer_002014",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackLine",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "iSAM",
+        "id": "c8f6fe74-f65c-4030-aafd-ec16a770942e",
+        "title": "Quantitative Research New Grad - PhD Graduate",
+        "active": true,
+        "date_updated": 1793398180,
+        "date_posted": 1785328193,
+        "url": "https://job-boards.eu.greenhouse.io/isam/jobs/4940752101",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ISAM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "iSAM",
+        "id": "d0f143f6-4c23-4b8b-9321-f931c57b436a",
+        "title": "Quantitative Researcher - Isam Vector",
+        "active": true,
+        "date_updated": 1793398183,
+        "date_posted": 1783939090,
+        "url": "https://job-boards.eu.greenhouse.io/isam/jobs/4908321101",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ISAM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Chicago Trading Company",
+        "id": "6f52487e-12cd-4596-910d-b86917451347",
+        "title": "Quant Trading Associate - Options Theory Intensive",
+        "active": true,
+        "date_updated": 1793397963,
+        "date_posted": 1793385621,
+        "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4749020005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Moxxi Digital",
+        "id": "3a6b4274-7d80-44df-b407-ee50f47c5345",
+        "title": "Junior Optimization Specialist",
+        "active": true,
+        "date_updated": 1793397963,
+        "date_posted": 1793384210,
+        "url": "https://job-boards.greenhouse.io/moxxidigital/jobs/5468587008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Moxxi-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
