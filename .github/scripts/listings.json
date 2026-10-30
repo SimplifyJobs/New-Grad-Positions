@@ -1,78 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hawk-Eye Innovations",
-        "id": "f57e12b2-d1a2-45aa-a4a7-0800ebf5637c",
-        "title": "Basketball Replay Operator - Wnba - Brooklyn','NY",
-        "active": false,
-        "date_updated": 1772626533,
-        "date_posted": 1772626533,
-        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/a600e478-4aae-4c08-91f8-726fc564b42d/application",
-        "locations": [
-            "Brooklyn, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hawk-Eye Innovations",
-        "id": "64ffaa3d-7e13-45f8-95ae-aa0cde39bd91",
-        "title": "Basketball Replay Operator - Wnba - Dallas TX",
-        "active": false,
-        "date_updated": 1772626535,
-        "date_posted": 1772626535,
-        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/7dbb4954-ae4b-4e20-a93c-911d4fe0943d/application",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hawk-Eye Innovations",
-        "id": "2f7df351-d67a-4122-b5e5-f298941dd170",
-        "title": "Basketball Replay Operator - Wnba - Phoenix (location) eliminated",
-        "active": false,
-        "date_updated": 1772626550,
-        "date_posted": 1772626550,
-        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/42526df5-ce0a-42ae-af9d-e54489fdd3e5/application",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hawk-Eye Innovations",
-        "id": "2764e72a-dfcc-483f-b0d4-d5d234270e07",
-        "title": "Basketball Replay Operator - Wnba - Portland OR",
-        "active": false,
-        "date_updated": 1772626542,
-        "date_posted": 1772626542,
-        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/52e951fa-1a2d-4f5b-8bd8-e03ecda41b5e/application",
-        "locations": [
-            "Portland, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "SpaceX",
         "id": "5a89b36a-15cb-426f-8483-93092c9b170e",
@@ -123178,24 +123106,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "JP Morgan Chase",
-        "id": "cd205058-1ea8-40b6-ab52-e88336b9f266",
-        "title": "Credit Trading Associate",
-        "active": false,
-        "date_updated": 1779961431,
-        "date_posted": 1772626192,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210720029",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -349835,7 +349745,7 @@
         "company_name": "RTX",
         "id": "29effb61-85e3-4439-8865-2ab592084d1b",
         "title": "Electrical Engineer 1 - Test",
-        "active": true,
+        "active": false,
         "date_updated": 1791297722,
         "date_posted": 1789516800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-I---Test_01873950",
@@ -368242,7 +368152,7 @@
         "company_name": "Varian",
         "id": "04c60e91-d01a-4064-8c1d-ca70d2b2a05c",
         "title": "Systems Engineer 1 - Robotics & Automation",
-        "active": true,
+        "active": false,
         "date_updated": 1792621263,
         "date_posted": 1792540800,
         "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/TAR-B/Systems-Engineer-1---Robotics---Automation_R-31137-1",
