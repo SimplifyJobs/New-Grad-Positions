@@ -199624,7 +199624,7 @@
         "company_name": "Firetiger",
         "id": "ded7326e-5564-41be-adf4-964fe99051d7",
         "title": "Product Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1784597791,
         "date_posted": 1784596520,
         "url": "https://jobs.ashbyhq.com/firetiger/a65c30a8-6bdb-4258-9d6a-5e6e90ff86e6/application?embed=true",
@@ -377319,7 +377319,7 @@
         "company_name": "Motia",
         "id": "d88515c5-27c1-4151-849e-66ee6c00bec5",
         "title": "Graduate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1793025367,
         "date_posted": 1793025234,
         "url": "https://apply.workable.com/motia/j/137370758D/apply",
@@ -386998,6 +386998,42 @@
         "date_updated": 1793351376,
         "date_posted": 1790720420,
         "url": "https://careers.formlabs.com/job/8241461/apply/?gh_jid=8241461",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Formlabs",
+        "id": "e466a05a-bb0b-489e-b0d5-8532c71138b9",
+        "title": "Electrical Engineer",
+        "active": true,
+        "date_updated": 1793353010,
+        "date_posted": 1793212730,
+        "url": "https://careers.formlabs.com/job/8331686/apply/?gh_jid=8331686",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Formlabs",
+        "id": "ec6fd198-cc20-410d-9dc2-9e5ab1f904f0",
+        "title": "Robotic Systems Integration Engineer - Sla - SLS",
+        "active": true,
+        "date_updated": 1793353173,
+        "date_posted": 1790720425,
+        "url": "https://careers.formlabs.com/job/8241436/apply/?gh_jid=8241436",
         "locations": [
             "Boston, MA"
         ],
