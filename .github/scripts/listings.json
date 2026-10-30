@@ -1,25 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Caterpillar Inc.",
-        "id": "5041f189-1842-4d5b-b36c-7eb5f3cf5b17",
-        "title": "Associate Product Owner - Electrification Applications",
-        "active": false,
-        "date_updated": 1772584415,
-        "date_posted": 1772584415,
-        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Associate-Product-Owner--Electrification-Applications_R0000354270",
-        "locations": [
-            "Chicago, IL",
-            "Peoria, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "L3Harris Technologies",
         "id": "714d46af-d79f-483b-b986-09329c4a021f",
@@ -280060,7 +280041,7 @@
         "company_name": "True Anomaly",
         "id": "2b100e48-0d13-4ce4-84ba-7549d0d15f9b",
         "title": "Data Science Software Engineer 1 New Grad - Data Science",
-        "active": true,
+        "active": false,
         "date_updated": 1787692550,
         "date_posted": 1787692373,
         "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007",
@@ -387128,6 +387109,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Motors",
+        "id": "0a4def13-9b3a-4f3a-b3c9-5a90b20c870b",
+        "title": "Software Engineer AV HIL Platform and Services Early Career",
+        "active": true,
+        "date_updated": 1792718295,
+        "date_posted": 1790201127,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
