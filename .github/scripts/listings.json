@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Axsome Therapeutics Inc",
-        "id": "903d115a-7d71-4507-98cf-6d4e2e02b112",
-        "title": "Associate/Senior Associate - Market Access Data Science",
-        "active": false,
-        "date_updated": 1772609050,
-        "date_posted": 1772609050,
-        "url": "https://job-boards.greenhouse.io/axsometherapeutics/jobs/5818066004",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Axsome-Therapeutics-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "032fb2be-0d55-461c-adc6-008596badc99",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1772608120,
-        "date_posted": 1772608120,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051904",
-        "locations": [
-            "Basingstoke, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Abbott",
         "id": "d38a58f5-8cce-4227-91b8-1bcd129ab8dc",
