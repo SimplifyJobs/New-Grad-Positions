@@ -386883,5 +386883,104 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Verizon Communications",
+        "id": "23eb3ce6-e1fc-472c-a546-e4b2a19212cd",
+        "title": "Engineer 1 - Systems Engineering (Generative AI & Agentic Systems)",
+        "active": true,
+        "date_updated": 1793342896,
+        "date_posted": 1793318400,
+        "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I-Systems-Engineering_R-1103177-1",
+        "locations": [
+            "Temple Terrace, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Verizon-Communications",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Alpha FMC",
+        "id": "7b60df8a-219b-4823-b868-c215faedebd5",
+        "title": "Digital Engineering Analyst Graduate - Data - AI",
+        "active": true,
+        "date_updated": 1793342743,
+        "date_posted": 1790957329,
+        "url": "https://job-boards.greenhouse.io/alphafmcrolesearlycareers/jobs/8855289002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Alpha-FMC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microsoft",
+        "id": "744cbad0-fb7b-4d61-bd7e-98bb423c0513",
+        "title": "Firmware Engineer",
+        "active": true,
+        "date_updated": 1793342203,
+        "date_posted": 1793342000,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557039426",
+        "locations": [
+            "Redmond, WA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TrellisWare Technologies",
+        "id": "bffe4a66-1642-41af-985c-2ef4d0b2da75",
+        "title": "Software Engineer - Applications - Real-Time",
+        "active": true,
+        "date_updated": 1793341836,
+        "date_posted": 1787678210,
+        "url": "https://job-boards.greenhouse.io/trelliswaretechnologies-newgrads/jobs/4381984009",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TrellisWare-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TrellisWare Technologies",
+        "id": "b555bc62-dfd0-4fd9-8a93-f49da1b4e38e",
+        "title": "Hardware Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1793341846,
+        "date_posted": 1787678213,
+        "url": "https://job-boards.greenhouse.io/trelliswaretechnologies-newgrads/jobs/4382014009",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TrellisWare-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
