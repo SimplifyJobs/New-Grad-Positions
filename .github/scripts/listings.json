@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Barclays",
-        "id": "a36f5417-77b5-402c-b02b-e9bf0cb016f1",
-        "title": "Quantitative Analytics Associate Graduate Programme",
-        "active": false,
-        "date_updated": 1772709091,
-        "date_posted": 1772709091,
-        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Analytics-Associate-Graduate-Programme-2026-London_JR-0000070826",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Barclays",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Best Buy",
         "id": "9c908116-0ca7-44bb-ba4e-eeeeed73121a",
@@ -291191,7 +291170,7 @@
         "company_name": "RTX",
         "id": "32ecf2c9-7c90-4e62-8314-ba3518805f67",
         "title": "FPGA Electrical Engineer 1 - Multi-Product Power & Digital",
-        "active": true,
+        "active": false,
         "date_updated": 1788408727,
         "date_posted": 1788220800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Electrical-Engineer-I--Onsite-_01871238",
