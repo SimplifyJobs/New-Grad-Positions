@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Roljobs Technology Services",
-        "id": "8249b725-1a4b-4e2c-8f51-41af20fa20a0",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1772705374,
-        "date_posted": 1772705374,
-        "url": "https://jobs.smartrecruiters.com/RA2/82680831",
-        "locations": [
-            "Princeton, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Roljobs-Technology-Services",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "e5905fff-5eaa-4100-85f9-c123e42e858f",
@@ -337363,7 +337345,7 @@
         "company_name": "RTX",
         "id": "9ec626e4-7181-4117-9116-7e27adc84cfe",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1790893813,
         "date_posted": 1788825600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-II--Onsite-_01866754",
