@@ -385377,5 +385377,148 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kinaxis",
+        "id": "9a6dcae3-32b0-494e-a7c2-badc43b133bf",
+        "title": "Software Developer - Data Ingestion - Developer Framework",
+        "active": true,
+        "date_updated": 1793427484,
+        "date_posted": 1778788260,
+        "url": "https://kinaxis.jibeapply.com/jobs/34791?icims=1",
+        "locations": [
+            "Canada",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Orbis Operations",
+        "id": "844c1760-dfb8-4559-a3a8-832a2d23951c",
+        "title": "Research Engineer - AI",
+        "active": true,
+        "date_updated": 1793427484,
+        "date_posted": 1792611351,
+        "url": "https://job-boards.greenhouse.io/orbisoperations/jobs/4436220009",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Orbis-Operations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Schneider Electric",
+        "id": "e6191eb8-e04d-4109-a695-a444a60b7474",
+        "title": "Electromechanical Test Technician - Electromechanics / Electrotechnology Test",
+        "active": true,
+        "date_updated": 1793427197,
+        "date_posted": 1791478440,
+        "url": "https://se.jibeapply.com/jobs/137014?icims=1",
+        "locations": [
+            "North Haven, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Schneider-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integration Innovation (i3)",
+        "id": "cf547e85-5607-4457-a12f-eb707df91203",
+        "title": "Data Analyst - Junior-Associate",
+        "active": true,
+        "date_updated": 1793426942,
+        "date_posted": 1791904560,
+        "url": "https://i3-corps.jibeapply.com/jobs/5307?icims=1",
+        "locations": [
+            "Orlando, FL",
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/I3",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Integration Innovation (i3)",
+        "id": "7d4ee985-9d3b-40be-9364-3d7f5c9cee84",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1793426942,
+        "date_posted": 1787318460,
+        "url": "https://i3-corps.jibeapply.com/jobs/5218?icims=1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/I3",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Publicis Groupe",
+        "id": "6130cb8f-229a-4ad9-9042-04dbaa415019",
+        "title": "Media Analytics Analyst",
+        "active": true,
+        "date_updated": 1793426885,
+        "date_posted": 1793127900,
+        "url": "https://publicisgroupe.jibeapply.com/jobs/178975?icims=1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "59e492d8-9a78-49f0-9711-2eb8ffbc14b3",
+        "title": "Analog Design Engineer",
+        "active": true,
+        "date_updated": 1793426762,
+        "date_posted": 1793404800,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Dallas-Tollway/Analog-Design-Engineer_R266775",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
