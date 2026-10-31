@@ -1,101 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Best Buy",
-        "id": "9c908116-0ca7-44bb-ba4e-eeeeed73121a",
-        "title": "Product Tester AV",
-        "active": false,
-        "date_updated": 1772724208,
-        "date_posted": 1772724208,
-        "url": "https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career/job/40002-Brampton-DC-1/Product-Tester-AV_R-49527",
-        "locations": [
-            "Brampton, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Best-Buy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Acuity",
-        "id": "717e0565-6753-4065-b763-f2d0ffb70c72",
-        "title": "Leadership Program - Data Engineering & Artificial Intelligence",
-        "active": false,
-        "date_updated": 1772724210,
-        "date_posted": 1772724210,
-        "url": "https://careers.acuityinc.com/job/Atlanta-Leadership-Program-Data-Engineering-&-Artificial-Intelligence-(Atlanta,-GA)-GA-30309/1370445000/?ats=successfactors",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Acuity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Huntington Ingalls Industries",
-        "id": "9cfe16e6-1278-4743-9293-159178b6fa1d",
-        "title": "Visual Instruction Developer 1",
-        "active": false,
-        "date_updated": 1772723640,
-        "date_posted": 1772723640,
-        "url": "https://careers.huntingtoningalls.com/job/Newport-News-VISUAL-INSTRUCTION-DEVELOPER-1-Virg/1370456900/?ats=successfactors",
-        "locations": [
-            "Newport News, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e5a2f9f3-0cc2-4f07-b518-785e7ef4aa47",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1772723423,
-        "date_posted": 1772723423,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052112",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8670bd90-e5ae-4950-b0cc-c46c926e64db",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1772723447,
-        "date_posted": 1772723447,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052108",
-        "locations": [
-            "Harlow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Truist Bank",
         "id": "414efc62-ad2f-44c4-91ef-8dc630a6966e",
@@ -153,46 +58,6 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "J.Crew",
-        "id": "8d35d507-922e-4542-ab47-29f4153c5f73",
-        "title": "Ecommerce Assistant",
-        "active": false,
-        "date_updated": 1772724624,
-        "date_posted": 1772724624,
-        "url": "https://jcrew.wd1.myworkdayjobs.com/MadewellCareers/job/New-York-NY-USA-Headquarters/Ecommerce-Assistant_123388",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/JCrew",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Cambridge Associates",
-        "id": "71736e75-ff73-4c5b-8c85-4567e81a66f5",
-        "title": "Investment Analyst Program",
-        "active": false,
-        "date_updated": 1772724637,
-        "date_posted": 1772724637,
-        "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/Investment-Analyst-Program---Summer-2026-Class_JR0000016",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cambridge-Associates",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -63087,28 +62952,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cisco",
-        "id": "d13824fa-a600-41bb-bfde-87089cad7974",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1776334583,
-        "date_posted": 1772724286,
-        "url": "https://careers.cisco.com/global/en/job/2006629",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cisco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
