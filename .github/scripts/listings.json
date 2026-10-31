@@ -227929,27 +227929,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Block Imaging",
-        "id": "fb6b7b5f-f1d7-4180-953e-398b004659b3",
-        "title": "Field Service Engineer 1 - X-Ray",
-        "active": false,
-        "date_updated": 1785681338,
-        "date_posted": 1772750945,
-        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3905555",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/9627faa4-4c5f-4914-b567-28b6b90b32f0",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Lightfield",
         "id": "e3cfe515-6df5-4847-9b31-0a9b950a8524",
@@ -385316,6 +385295,26 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Open Vision Engineering",
+        "id": "49378e0e-54a7-4e84-89f5-2288243c496e",
+        "title": "Firmware Engineer",
+        "active": true,
+        "date_updated": 1793485988,
+        "date_posted": 1793404800,
+        "url": "https://jobs.ashbyhq.com/pocket/dcb3b89f-d6b9-4c2d-aa70-4b8d01bf0848/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Open-Vision-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
