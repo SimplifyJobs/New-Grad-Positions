@@ -259734,7 +259734,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -260115,7 +260115,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -385519,6 +385519,453 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "7fb700ca-fd7e-419b-ad41-9969c81c94b6",
+        "title": "Hardware Development Engineer 1 - Drone Engineering",
+        "active": true,
+        "date_updated": 1793429483,
+        "date_posted": 1793429375,
+        "url": "https://amazon.jobs/en/jobs/10593930/hardware-dev-engineer-i-prime-air-drone-engineering",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Neptune North",
+        "id": "c5025403-6265-427a-a5b9-7633280c5bce",
+        "title": "Graduate Software Developer",
+        "active": true,
+        "date_updated": 1793429478,
+        "date_posted": 1777037659,
+        "url": "https://job-boards.eu.greenhouse.io/neptunenorth/jobs/4847890101",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Neptune-North",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Deliveroo",
+        "id": "8c0e4885-6127-43aa-87bf-feb4c2d73be8",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1793428780,
+        "date_posted": 1789739754,
+        "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202627",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Deliveroo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cambridge Consultants",
+        "id": "98513caa-9d83-4dfc-98c9-a34a20e9fbf4",
+        "title": "PhD Graduate AI and Algorithms Engineer",
+        "active": true,
+        "date_updated": 1793428407,
+        "date_posted": 1776767198,
+        "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4718809101",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cambridge Consultants",
+        "id": "bcaf4e57-40fa-4c99-9553-6d4422df3a4e",
+        "title": "Graduate AI Engineer",
+        "active": true,
+        "date_updated": 1793428382,
+        "date_posted": 1790877044,
+        "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995814101",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cambridge Consultants",
+        "id": "ba7a8de1-55e9-4707-ac9c-b356de90fd5e",
+        "title": "Graduate Software Engineer - Defence & Security - 2027 start",
+        "active": true,
+        "date_updated": 1793428382,
+        "date_posted": 1790848250,
+        "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4908188101",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cambridge Consultants",
+        "id": "91c1de81-f4f2-40e6-90ec-f9c797b1459c",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1793428382,
+        "date_posted": 1790848310,
+        "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4908176101",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cambridge Consultants",
+        "id": "871c29cc-848b-4560-8a5e-ed8a3250b44f",
+        "title": "Graduate Electronics Engineer",
+        "active": true,
+        "date_updated": 1793428382,
+        "date_posted": 1790862654,
+        "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4976268101",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cambridge Consultants",
+        "id": "64845232-3231-4fbe-975b-30b646572185",
+        "title": "Graduate Electronics & Software Engineer",
+        "active": true,
+        "date_updated": 1793428382,
+        "date_posted": 1777468075,
+        "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4854472101",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cambridge Consultants",
+        "id": "6386a4b2-8830-4541-b5c4-64d2c8a98d73",
+        "title": "Graduate Electronics Engineer - Telecommunications",
+        "active": true,
+        "date_updated": 1793428382,
+        "date_posted": 1779264359,
+        "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4871466101",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cambridge Consultants",
+        "id": "1fe52eba-4aaa-4857-9286-d90dd4b544a4",
+        "title": "Graduate Human-Centric AI Engineer",
+        "active": true,
+        "date_updated": 1793428382,
+        "date_posted": 1790862910,
+        "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4971959101",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cambridge Consultants",
+        "id": "1dfd72ce-7bc8-4afd-83a5-d9f25fa3365c",
+        "title": "Graduate Software Engineer - Healthcare",
+        "active": true,
+        "date_updated": 1793428407,
+        "date_posted": 1791982954,
+        "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4908214101",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cambridge Consultants",
+        "id": "11c8c1a0-f4a4-4196-90fc-2891b9267251",
+        "title": "Graduate Electronics and Software Engineer",
+        "active": true,
+        "date_updated": 1793428408,
+        "date_posted": 1790862131,
+        "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4908205101",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cambridge Consultants",
+        "id": "45f2aa09-22d7-4b90-b3b9-b5da182e8cdc",
+        "title": "Graduate DSP Engineer",
+        "active": true,
+        "date_updated": 1793428382,
+        "date_posted": 1790863408,
+        "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4908229101",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cambridge Consultants",
+        "id": "1257b80c-986b-4e3a-9d16-00a5437f5eb2",
+        "title": "Graduate Cloud Software Engineer",
+        "active": true,
+        "date_updated": 1793428382,
+        "date_posted": 1790862846,
+        "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4908202101",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Peraton",
+        "id": "86b9a2cc-8f56-4ad1-b7a0-70772dcaa461",
+        "title": "Artificial Intelligence/Machine Learning Engineer 1",
+        "active": true,
+        "date_updated": 1793428302,
+        "date_posted": 1790081340,
+        "url": "https://peraton.jibeapply.com/jobs/171011?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "3044c216-bdf5-4c91-af38-8b4b2030d9bb",
+        "title": "COBOL Software Developer",
+        "active": true,
+        "date_updated": 1793428312,
+        "date_posted": 1787241660,
+        "url": "https://peraton.jibeapply.com/jobs/169891?icims=1",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Peraton",
+        "id": "d75e4831-45fb-4724-81c5-15fd96805076",
+        "title": "Artificial Intelligence/Machine Learning Engineer 1 - Top Secret/SCI w/Poly",
+        "active": true,
+        "date_updated": 1793428297,
+        "date_posted": 1790962200,
+        "url": "https://peraton.jibeapply.com/jobs/171539?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "f3ee621a-d5b2-460b-9930-e8995ffc0b3f",
+        "title": "Software Engineer - Ignite Innovator Program",
+        "active": true,
+        "date_updated": 1793428306,
+        "date_posted": 1788962160,
+        "url": "https://peraton.jibeapply.com/jobs/169664?icims=1",
+        "locations": [
+            "Blacksburg, VA",
+            "Herndon, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "cb9e10b5-3524-40e2-a375-e126d098812e",
+        "title": "Software Engineering Associate",
+        "active": true,
+        "date_updated": 1793428304,
+        "date_posted": 1789071840,
+        "url": "https://peraton.jibeapply.com/jobs/170478?icims=1",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Peraton",
+        "id": "21a3051d-13bb-453c-b031-b40c7a514a3d",
+        "title": "Image Scientist",
+        "active": true,
+        "date_updated": 1793428202,
+        "date_posted": 1776102060,
+        "url": "https://peraton.jibeapply.com/jobs/165728?icims=1",
+        "locations": [
+            "Springfield, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stifel",
+        "id": "c4f21ea8-447d-4766-9ef6-dc1e32dd3be5",
+        "title": "Developer Credit Analytics",
+        "active": true,
+        "date_updated": 1793428290,
+        "date_posted": 1791578160,
+        "url": "https://stifel.jibeapply.com/jobs/10047?icims=1",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Stifel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
