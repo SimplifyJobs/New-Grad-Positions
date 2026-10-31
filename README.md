@@ -2387,7 +2387,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1214)</summary>
+<summary>🗃️ Inactive roles (1211)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -10874,27 +10874,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Anaplan?utm_source=GHList&utm_medium=company">Anaplan</a></strong></td>
 <td>Junior Software Engineer</td>
 <td>York, UK</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company">mthree</a></strong></td>
-<td>Junior Software Developer</td>
-<td>Montreal, QC, Canada</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Junior Software Developer</td>
-<td>Montreal, QC, Canada</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/KRG-Technologies?utm_source=GHList&utm_medium=company">KRG Technologies</a></strong></td>
-<td>Junior Software Engineer</td>
-<td>Redmond, WA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
