@@ -1,78 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Analytical Mechanics Associates",
-        "id": "71815af9-388a-4368-baa3-bd37b7aab788",
-        "title": "AI/ML Research Associate",
-        "active": false,
-        "date_updated": 1772672028,
-        "date_posted": 1772672028,
-        "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Mary-W-Jackson-NASA-Headquarters/AI-ML-Research-Associate_R-100499",
-        "locations": [
-            "California",
-            "Hampton, VA",
-            "Huntsville, AL",
-            "Washington, DC",
-            "Lanham, MD",
-            "John C. Stennis Space Center, MS",
-            "Mountain View, CA",
-            "Edwards AFB, CA",
-            "New Orleans, LA",
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Analytical-Mechanics-Associates",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nelnet",
-        "id": "018ba654-94c9-4135-b5d1-cf83917feeb4",
-        "title": "Data Analyst 1 - Consumer Loan Analytics",
-        "active": false,
-        "date_updated": 1772671898,
-        "date_posted": 1772671898,
-        "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Data-Analyst-I---Consumer-Loan-Analytics_R22385",
-        "locations": [
-            "Centennial, CO",
-            "Lincoln, NE",
-            "Madison, WI",
-            "Brownsville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Nelnet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "9bb55013-cf40-477c-a139-903fc73ab6c8",
-        "title": "Test and Evaluation Lab Technician",
-        "active": false,
-        "date_updated": 1772671586,
-        "date_posted": 1772671586,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Test---Evaluation-Lab-Technician--Associate-or-Experienced-_JR2026499040-1",
-        "locations": [
-            "Hazelwood, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Northrop Grumman",
         "id": "d9373335-a34c-4fb1-9582-63ef042b22f3",
@@ -300233,7 +300161,7 @@
         "company_name": "Pyka",
         "id": "3cb3eac8-215d-4c7f-a18f-3139d681d1d5",
         "title": "Associate Electrical Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784840221,
         "date_posted": 1784336953,
         "url": "https://jobs.lever.co/pyka/91c448a1-158a-4cb3-a334-9aa42ddd7d42/apply",
@@ -382768,7 +382696,7 @@
         "company_name": "AST SpaceMobile",
         "id": "44732cdf-9042-4a73-9043-0c56b1cd3e1e",
         "title": "Associate Electrical Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793283148,
         "date_posted": 1789575926,
         "url": "https://ast-science.com/company/careers/?gh_jid=4734515005",
@@ -385277,7 +385205,7 @@
         "company_name": "Dexcom",
         "id": "55ba0956-0e09-42c8-8f97-48e07265c5d3",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1793341690,
         "date_posted": 1793232000,
         "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/SW-Development-Engineer-1_JR121808",
