@@ -1,101 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "d9373335-a34c-4fb1-9582-63ef042b22f3",
-        "title": "Engineering Technician 1",
-        "active": false,
-        "date_updated": 1772672716,
-        "date_posted": 1772672716,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/Engineering-Technician-1_R10224843-1",
-        "locations": [
-            "Wayzata, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "a1c99329-dd5e-4b39-8cbc-51a0f536ab77",
-        "title": "Training Device Technician - Training Device Maintenance",
-        "active": false,
-        "date_updated": 1772672693,
-        "date_posted": 1772672693,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Wattisham-Airfield-UK/Training-Device-Technician--Training-Device-Maintenance-_JR2026498766-2",
-        "locations": [
-            "Ipswich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "95c566d4-fe35-46d7-aebc-84fea696206e",
-        "title": "Engineering Technician 1",
-        "active": false,
-        "date_updated": 1772672711,
-        "date_posted": 1772672711,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/Engineering-Tech-1_R10224850",
-        "locations": [
-            "Wayzata, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Boeing Company",
-        "id": "5a804625-fd1e-4461-b447-6689e4932d26",
-        "title": "Entry Level Illustrated Parts Catalog Data Author",
-        "active": false,
-        "date_updated": 1772672571,
-        "date_posted": 1772672571,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Entry-Level-Illustrated-Parts-Catalog-Data-Author_JR2026498373-2",
-        "locations": [
-            "Seal Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "33db2130-d898-42ed-bfdc-99e8b9aa2245",
-        "title": "Embedded Software Engineer - Software Products and Capabilities - Common Embedded Team",
-        "active": false,
-        "date_updated": 1772672571,
-        "date_posted": 1772672571,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/Software-Engineer-Embedded--Associate--Experienced-or-Senior--Virtual_JR2026497391-1",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Cantina",
         "id": "f7f13be6-0cb5-48f8-8085-43e54d7714d8",
@@ -16819,26 +16724,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Johnson & Johnson",
-        "id": "cd63100b-31a5-431b-b8c8-4e59ad809d85",
-        "title": "Associate Design Engineer - R&D - Advanced Energy",
-        "active": false,
-        "date_updated": 1773475973,
-        "date_posted": 1772672818,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Associate-Design-Engineer--R-D---Advanced-Energy_R-061305-1",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -52905,7 +52790,7 @@
         "company_name": "Zettabyte",
         "id": "72d0319a-682a-47d0-b6d8-19168039b6f4",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775689912,
         "date_posted": 1775686204,
         "url": "https://jobs.ashbyhq.com/zettabyte-space/50a9c6dc-7225-4ff0-a914-69d1dd325d6a/application",
@@ -97108,7 +96993,7 @@
         "company_name": "NVIDIA",
         "id": "69fae8a8-fe9d-4a65-ac46-321fd29f3a4a",
         "title": "DFT Engineer \u2013 New College Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1778708881,
         "date_posted": 1778623823,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DFT-Engineer---New-College-Grad_JR2016865",
@@ -181319,7 +181204,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "76ba96f8-280e-4384-b6c8-6e2ba134ed44",
         "title": "Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1783635950,
         "date_posted": 1783555200,
         "url": "https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2026-Data-Scientist_R015833",
@@ -181586,7 +181471,7 @@
         "company_name": "NVIDIA",
         "id": "896852cc-417e-4bba-ba7f-1e1cb726008d",
         "title": "ASIC Design Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1783636947,
         "date_posted": 1783555200,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309",
@@ -261042,7 +260927,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -261423,7 +261308,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -285361,7 +285246,7 @@
         "company_name": "Altice USA",
         "id": "ed1c1803-cea0-4778-8d48-8ba69bc0716a",
         "title": "Software Development Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1787963968,
         "date_posted": 1787304182,
         "url": "https://www.optimumcareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1420351500/?ats=successfactors",
@@ -352985,7 +352870,7 @@
         "company_name": "Uber",
         "id": "b23ab408-a460-4f25-ae85-aafc1f84a447",
         "title": "PhD Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1791506208,
         "date_posted": 1791506003,
         "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/300813",
@@ -358175,7 +358060,7 @@
         "company_name": "NVIDIA",
         "id": "24af82b2-28c3-4bbd-b3e7-f190ea697dbb",
         "title": "Low Power ASIC Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1791941883,
         "date_posted": 1791849600,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850",
@@ -376983,7 +376868,7 @@
         "company_name": "NVIDIA",
         "id": "20c07b7e-aa45-47e0-8030-a611fb769115",
         "title": "ASIC Verification Engineer New Grad - Memory Management",
-        "active": false,
+        "active": true,
         "date_updated": 1793064800,
         "date_posted": 1790553600,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Durham/ASIC-Verification-Engineer--Memory-Management---New-College-Grad-2027_JR2026341",
@@ -386555,6 +386440,135 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ascension",
+        "id": "09533cd4-5b6e-4ab1-a1cd-8839de5efca7",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1793408949,
+        "date_posted": 1793408780,
+        "url": "https://jobs.ascension.org/us/en/job/24746",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Ascension",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "e4f220c5-d1cd-4d93-a67f-226a45f70d26",
+        "title": "ASIC Design Verification Engineer",
+        "active": true,
+        "date_updated": 1793408965,
+        "date_posted": 1793408860,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Verification-Engineer---New-College-Grad-2026_JR2010391",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "dc799011-53dd-40eb-a0b4-033ea01b7cb4",
+        "title": "Research Scientist New Grad - ML Systems",
+        "active": true,
+        "date_updated": 1793408965,
+        "date_posted": 1793408862,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161",
+        "locations": [
+            "Seattle, WA",
+            "Austin, TX",
+            "Santa Clara, CA",
+            "Westford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "cb5c29ed-d3aa-44c6-b0fc-430c82877b0e",
+        "title": "Research Scientist New Grad - AI for Graphics and Gaming",
+        "active": true,
+        "date_updated": 1793408972,
+        "date_posted": 1793408861,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267",
+        "locations": [
+            "Canada",
+            "Santa Clara, CA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Broadcom",
+        "id": "ae6baad0-3a12-4b53-b36b-6945784eaa54",
+        "title": "Physical Design Engineer New Grad - ASIC Products Division (APD)",
+        "active": true,
+        "date_updated": 1793408825,
+        "date_posted": 1793318400,
+        "url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA-San-Jose-Innovation-Drive/Physical-Design-Engineer_R027516",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Broadcom-Limited",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Broadcom",
+        "id": "2424faae-2d88-4a7a-b652-93428ba59088",
+        "title": "Physical Design Engineer - ASIC Products Division",
+        "active": true,
+        "date_updated": 1793408762,
+        "date_posted": 1793318400,
+        "url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA-San-Jose-Innovation-Drive/Physical-Design-Engineer_R027588",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Broadcom-Limited",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
