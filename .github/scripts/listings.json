@@ -1,274 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "American Express",
-        "id": "b201ef9a-4c07-4166-b4d2-82c9d26fea27",
-        "title": "Associate \u2013 Product Development",
-        "active": false,
-        "date_updated": 1772810853,
-        "date_posted": 1772810853,
-        "url": "https://aexp.eightfold.ai/careers/job/40176600",
-        "locations": [
-            "Brighton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Applied Fluid Power",
-        "id": "58706829-c20e-4c46-a17a-a132019c9c67",
-        "title": "Data Analyst 1",
-        "active": false,
-        "date_updated": 1772810805,
-        "date_posted": 1772810805,
-        "url": "https://applied.wd501.myworkdayjobs.com/applied/job/9360---PCI-Raleigh-NC/Data-Analyst-I_JR103703",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Fluid-Power",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Titan",
-        "id": "b0de04a6-86de-4f47-b55b-b49784fc6c07",
-        "title": "New Grad Product Engineer",
-        "active": false,
-        "date_updated": 1772810586,
-        "date_posted": 1772810586,
-        "url": "https://jobs.ashbyhq.com/titan-msp/6ba1f660-6436-42f6-aaab-80ca931e8339/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Titan-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Constellation",
-        "id": "03310ae2-a44b-4005-a3fa-01ec69d3503a",
-        "title": "AI Analyst",
-        "active": false,
-        "date_updated": 1772810699,
-        "date_posted": 1772810699,
-        "url": "https://job-boards.greenhouse.io/constellationsoftwareinc/jobs/4575936006",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Constellation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Caesars Entertainment",
-        "id": "8c5872ab-b4eb-4785-8582-b8133306f486",
-        "title": "Slot Technician",
-        "active": false,
-        "date_updated": 1772810494,
-        "date_posted": 1772810494,
-        "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/80678",
-        "locations": [
-            "Franklin, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Caesars-Entertainment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5f998ec3-234a-4f57-a903-ede86b17fdb7",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1772810459,
-        "date_posted": 1772810459,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052211",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1f33283e-d92e-4c0c-853b-bb74ef7ca690",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1772810461,
-        "date_posted": 1772810461,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052219",
-        "locations": [
-            "Stratford-upon-Avon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Path Robotics",
-        "id": "e32bd55d-71f6-4894-ae36-6a565f5155d0",
-        "title": "Software Support Engineer",
-        "active": false,
-        "date_updated": 1772810298,
-        "date_posted": 1772810298,
-        "url": "https://boards.greenhouse.io/pathrobotics/jobs/8362574002",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/PathRobotics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "J.S. Held",
-        "id": "7646c96d-ea3e-470b-a309-9438c65007aa",
-        "title": "Data Analyst - Health Sciences",
-        "active": false,
-        "date_updated": 1772810327,
-        "date_posted": 1772810327,
-        "url": "https://jobs.smartrecruiters.com/JSHeldLLC/744000113160247",
-        "locations": [
-            "New Orleans, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/JS-Held",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "MANN+HUMMEL",
-        "id": "63686713-cf17-459a-a1f3-fa3e1105117b",
-        "title": "R&D Lab Technician",
-        "active": false,
-        "date_updated": 1772810133,
-        "date_posted": 1772810133,
-        "url": "https://mann-hummel-careers.com/job/Washington-R&D-Lab-Technician-27889/1371050433/?ats=successfactors",
-        "locations": [
-            "Goldsboro, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/MANN-HUMMEL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ba8dfd43-04a4-4857-808d-cc09b22ed445",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1772809900,
-        "date_posted": 1772809900,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052202",
-        "locations": [
-            "Hereford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9db17224-7585-4ff6-89fc-609ee84bd071",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1772809898,
-        "date_posted": 1772809898,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052224",
-        "locations": [
-            "Weybridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "MSG Entertainment",
-        "id": "3e8095f2-ccf5-45e0-9e83-a5d81cf0016e",
-        "title": "Analyst Business Intelligence",
-        "active": false,
-        "date_updated": 1772809998,
-        "date_posted": 1772809998,
-        "url": "https://msgentertainment.com/job/5069013007?gh_jid=5069013007",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/MSG-Entertainment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Northumbria University",
-        "id": "9a2e7722-c7de-4bb2-84bd-6a18ac186b05",
-        "title": "Postdoctoral Research Fellow in Solar Physics",
-        "active": false,
-        "date_updated": 1772809580,
-        "date_posted": 1772809580,
-        "url": "https://fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3966",
-        "locations": [
-            "Newcastle upon Tyne, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Northumbria-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Excellus BCBS",
         "id": "b83b83cc-c13d-4c1c-a766-338bea37bbd9",
@@ -26687,24 +26419,6 @@
             "Basingstoke, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Data Systems Analysts",
-        "id": "d8977810-219c-4273-ab11-dffcedbf8317",
-        "title": "Junior Power Platform Developer",
-        "active": false,
-        "date_updated": 1773710169,
-        "date_posted": 1772810677,
-        "url": "https://job-boards.greenhouse.io/datasystemsanalystsinc/jobs/5119860008",
-        "locations": [
-            "Aberdeen, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Data-Systems-Analysts",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -64647,24 +64361,6 @@
             "Ann Arbor, MI"
         ],
         "company_url": "https://simplify.jobs/c/KLA-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Two Dots",
-        "id": "a8c51203-78f4-446b-ba7c-77c7231ef83f",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1776504421,
-        "date_posted": 1772809778,
-        "url": "https://jobs.ashbyhq.com/two-dots/085636cd-d0af-43f5-ae83-94fac6559580/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Two-Dots",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -257195,7 +256891,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -257576,7 +257272,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -383608,6 +383304,26 @@
             "Newport News, VA"
         ],
         "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SAIC",
+        "id": "8b78e2f8-35f6-4abc-bada-954fe7cc7779",
+        "title": "Geographic Information Systems Analyst",
+        "active": true,
+        "date_updated": 1793546295,
+        "date_posted": 1793546186,
+        "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618675",
+        "locations": [
+            "California, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/SAIC",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
