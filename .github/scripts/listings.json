@@ -1,64 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Theodo",
-        "id": "6125e236-e946-4c45-b55e-264a5e5bb993",
-        "title": "Full Stack Engineer",
-        "active": false,
-        "date_updated": 1772781961,
-        "date_posted": 1772781961,
-        "url": "https://jobs.lever.co/theodo/1592b48f-9207-46f2-908e-d835cc6121ad/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Theodo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "289119e0-e5e7-4a88-936e-b7e7663589a3",
-        "title": "Associate Product Manager - TikTok Safety Product",
-        "active": false,
-        "date_updated": 1772781674,
-        "date_posted": 1772781674,
-        "url": "https://lifeattiktok.com/search/7613569281146947893",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Tangram Interiors",
-        "id": "5fa68bb3-f394-40f1-9531-d6304c794886",
-        "title": "AV Technician - Tangram Technology",
-        "active": false,
-        "date_updated": 1772780940,
-        "date_posted": 1772780940,
-        "url": "https://jobs.lever.co/tangraminteriors/c4999340-67da-4a68-99ec-da99f555abfc/apply",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Tangram-Interiors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Shield AI",
         "id": "c50d5a57-9e14-4d42-a68c-8a1c1dbed02d",
@@ -13519,24 +13461,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Information Lab",
-        "id": "ca0e46bd-3d87-4ea3-ae5c-3f8c475e3706",
-        "title": "The Data School",
-        "active": false,
-        "date_updated": 1773477735,
-        "date_posted": 1772781089,
-        "url": "https://jobs.lever.co/theinformationlab/eaa64bb6-30b9-44bf-a490-3a2ea9754c13/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Information-Lab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
