@@ -257619,7 +257619,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -258000,7 +258000,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -383939,5 +383939,43 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kaluza",
+        "id": "16ae835b-6956-4247-b9a5-e8906e1273f2",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1793495883,
+        "date_posted": 1790121600,
+        "url": "https://jobs.ashbyhq.com/kaluza/5ef79ceb-c6eb-4d46-abca-ddb532cf8739/application?embed=true",
+        "locations": [
+            "London, UK",
+            "Edinburgh, UK",
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Kaluza",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cambridge Aerospace",
+        "id": "2b59ac9b-8583-4b69-9cb7-1a6a831fef3b",
+        "title": "Test Technician - Instrumentation",
+        "active": true,
+        "date_updated": 1793495341,
+        "date_posted": 1788949409,
+        "url": "https://cambridgeaerospace.careers.hibob.com/jobs/8ff231cd-d033-4ca5-9423-244e4591d3aa",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
