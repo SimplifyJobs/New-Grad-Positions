@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Wheely",
-        "id": "fc8b8739-1b1e-457f-9a51-024e85f733da",
-        "title": "Associate Data Scientist - Operations Research",
-        "active": false,
-        "date_updated": 1772793154,
-        "date_posted": 1772793154,
-        "url": "https://boards.greenhouse.io/wheely/jobs/7655292003",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Wheely",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Capital One",
         "id": "ba9c075c-1eb9-405d-a1f7-4e0346979b0b",
@@ -332818,7 +332797,7 @@
         "company_name": "ConocoPhillips",
         "id": "35bc5d9a-2ee8-403f-b5b0-872bdee6bb26",
         "title": "Graduate Analyst - Trading Analytics 2027",
-        "active": true,
+        "active": false,
         "date_updated": 1790721542,
         "date_posted": 1790640000,
         "url": "https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Graduate-Analyst--Trading-Analytics-2027_REQ-006637",
