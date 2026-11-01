@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capital One",
-        "id": "ba9c075c-1eb9-405d-a1f7-4e0346979b0b",
-        "title": "Technology Graduate",
-        "active": false,
-        "date_updated": 1772795538,
-        "date_posted": 1772795538,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Technology-Graduate---Nottingham_R226926",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "American Express",
         "id": "b201ef9a-4c07-4166-b4d2-82c9d26fea27",
@@ -349218,7 +349200,7 @@
         "company_name": "Ciena",
         "id": "8b8dc826-3218-45b8-82b5-d2f23a25402f",
         "title": "Verification and Field Application Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1791508771,
         "date_posted": 1791417600,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-and-Field-Application-Engineer---New-Grad_R031840",
