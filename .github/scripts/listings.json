@@ -1,32 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Excellus BCBS",
-        "id": "b83b83cc-c13d-4c1c-a766-338bea37bbd9",
-        "title": "Software Engineer 2",
-        "active": false,
-        "date_updated": 1772811323,
-        "date_posted": 1772811323,
-        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/Software-Engineer-II-III-IV_JR102945-2",
-        "locations": [
-            "Rochester, NY",
-            "Utica, NY",
-            "Elmira, NY",
-            "Albany, NY",
-            "Binghamton, NY",
-            "Syracuse, NY",
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Excellus-BCBS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
         "date_updated": 1775482024,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -383328,6 +383301,48 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analogue Insight",
+        "id": "bc4a79b7-5bc4-4b71-a9c3-1cfe72c1249b",
+        "title": "Custom Layout Engineer Graduate",
+        "active": true,
+        "date_updated": 1793548143,
+        "date_posted": 1793544413,
+        "url": "https://analogueinsight.careers.hibob.com/jobs/37087e78-8866-45b4-b36e-8c24290b9ec2",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Analogue-Insight",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analogue Insight",
+        "id": "9299d717-5c9a-425c-b6c7-20401b8001b6",
+        "title": "Graduate Analog Design Engineer",
+        "active": true,
+        "date_updated": 1793548139,
+        "date_posted": 1793544785,
+        "url": "https://analogueinsight.careers.hibob.com/jobs/17a0dcbf-8b0f-4db4-b61d-eb6a5657ac67",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Analogue-Insight",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
