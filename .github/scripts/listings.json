@@ -225559,7 +225559,7 @@
         "company_name": "TikTok",
         "id": "cdbfa910-357e-4c17-bf09-f7bb3cd80d34",
         "title": "Research Scientist/Engineer \u2013 Neural Graphics and World Models Graduate - Engine & Tools",
-        "active": false,
+        "active": true,
         "date_updated": 1785738601,
         "date_posted": 1785737698,
         "url": "https://lifeattiktok.com/search/7668831188103481605",
@@ -263844,7 +263844,7 @@
         "company_name": "TikTok",
         "id": "4d3acee9-3b15-433a-a4c9-4ca461058f7a",
         "title": "Research Scientist/Software Engineer - Neural Graphics and World Models",
-        "active": false,
+        "active": true,
         "date_updated": 1787190481,
         "date_posted": 1787190347,
         "url": "https://lifeattiktok.com/search/7668854153882011957",
@@ -381820,6 +381820,46 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "572e9184-7dd8-4308-a264-ad51089e3281",
+        "title": "IT Software Engineer 1 - Robotic Process Automation",
+        "active": true,
+        "date_updated": 1793606042,
+        "date_posted": 1793605887,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-IT-SOFTWARE-ENGINEER-1-ROBOTIC-PROCESS-AUTOMATION-(RPA)-Virg/1445226800/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "06f0b873-f9bb-451e-9ca2-4ff2262d4bf7",
+        "title": "Associate Calibration Engineer - Calibration Engineering",
+        "active": true,
+        "date_updated": 1793605788,
+        "date_posted": 1793605617,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721831785",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
