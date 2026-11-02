@@ -241674,7 +241674,7 @@
         "company_name": "Deloitte",
         "id": "db040850-9b1f-4c19-93d8-de0c16003f79",
         "title": "Delivery Analyst - Government & Public Services - AI & Data Engineering Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1786401575,
         "date_posted": 1786401422,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-AI-Data-Engineering-Solutions/357022",
@@ -312549,7 +312549,7 @@
         "company_name": "L3Harris Technologies",
         "id": "f76ac25c-ff59-415c-abce-d62003816873",
         "title": "Senior Associate - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789165708,
         "date_posted": 1789164972,
         "url": "https://jobs.l3harris.com/job/Carlsbad-Sr-Associate,-Software-Engineer-CA-92009/1429219000/?ats=successfactors",
@@ -365556,7 +365556,7 @@
         "company_name": "L3Harris Technologies",
         "id": "fcfc69f5-3d8d-4739-9d07-a6bd5f9b93f0",
         "title": "Associate Systems Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1792756317,
         "date_posted": 1788277166,
         "url": "https://jobs.l3harris.com/job/Forest-Associate,-Systems-Engineering-VA-24551/1425416000/?ats=successfactors",
@@ -371735,7 +371735,7 @@
         "company_name": "Northrop Grumman",
         "id": "90c10d80-558b-4325-9b3e-e883b3db1a7d",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793140023,
         "date_posted": 1793059200,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912",
@@ -372250,7 +372250,7 @@
         "company_name": "Apple",
         "id": "d5910549-eb52-40ba-b088-80a45d6fe141",
         "title": "SoC Physical Design Engineer - Place and Route",
-        "active": true,
+        "active": false,
         "date_updated": 1793138763,
         "date_posted": 1793138715,
         "url": "https://jobs.apple.com/en-us/details/200691320",
@@ -381763,6 +381763,58 @@
             "Remote in UK"
         ],
         "company_url": "https://simplify.jobs/c/Analogue-Insight",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Brown & Brown Insurance",
+        "id": "50699bdf-eacb-419e-8a11-b9803c46092e",
+        "title": "Junior HubSpot Developer",
+        "active": true,
+        "date_updated": 1793603759,
+        "date_posted": 1793491200,
+        "url": "https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Brown-And-Brown-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Google",
+        "id": "da1ac264-d20e-4ad8-b630-709c0ae8cd5e",
+        "title": "Software Engineer 2 \u2013 Early Career",
+        "active": true,
+        "date_updated": 1793603601,
+        "date_posted": 1793603487,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318",
+        "locations": [
+            "Palo Alto, CA",
+            "Madison, WI",
+            "Seattle, WA",
+            "LA",
+            "Raleigh, NC",
+            "San Bruno, CA",
+            "Durham, NC",
+            "Pittsburgh, PA",
+            "Kirkland, WA",
+            "NYC",
+            "Sunnyvale, CA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
