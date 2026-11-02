@@ -255268,7 +255268,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -255649,7 +255649,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -309594,7 +309594,7 @@
         "company_name": "Barclays",
         "id": "f612cb13-7962-4424-bf9a-37050a197d91",
         "title": "Quantitative Analytics Associate Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1788994305,
         "date_posted": 1788912000,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Quantitative-Analytics-Associate-Graduate-Programme-Glasgow_JR-0000129392",
@@ -309614,7 +309614,7 @@
         "company_name": "Barclays",
         "id": "de612dd0-b7b6-47d1-b04a-c71a0e2b1bc1",
         "title": "Technology Developer Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1788994287,
         "date_posted": 1788912000,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Graduate-Programme-Northampton_JR-0000129374",
@@ -309634,7 +309634,7 @@
         "company_name": "Barclays",
         "id": "75af429c-8e03-496d-9fd9-59a3f5333cc7",
         "title": "Graduate Technology Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1788994299,
         "date_posted": 1788912000,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Graduate-Programme-Glasgow_JR-0000129313",
@@ -309654,7 +309654,7 @@
         "company_name": "Barclays",
         "id": "586167ce-912f-44b5-a84b-e767d2ba013e",
         "title": "Quantitative Analytics Associate Graduate - Risk Quantitative Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1788994314,
         "date_posted": 1788912000,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Quantitative-Analytics-Associate-Graduate-Programme-London_JR-0000129352",
@@ -309758,7 +309758,7 @@
         "company_name": "Barclays",
         "id": "0c491fd8-af0e-4083-a67f-3227daff2f2c",
         "title": "Technology Developer Graduate Programme",
-        "active": false,
+        "active": true,
         "date_updated": 1788994334,
         "date_posted": 1788912000,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Graduate-Programme-Knutsford_JR-0000129319",
@@ -347893,7 +347893,7 @@
         "company_name": "RTX",
         "id": "5c0127a5-b356-4cb2-9c05-080f60e3dfeb",
         "title": "Embedded Security Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1791560446,
         "date_posted": 1791504000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440",
@@ -366169,7 +366169,7 @@
         "company_name": "Barclays",
         "id": "999c4ce7-c078-4671-af20-af4781f19526",
         "title": "Technology Developer Apprentice",
-        "active": false,
+        "active": true,
         "date_updated": 1792759402,
         "date_posted": 1788912000,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Northampton_JR-0000129431",
@@ -366187,7 +366187,7 @@
         "company_name": "Barclays",
         "id": "1be31250-7c2e-4be6-8e3d-c3c5b791655a",
         "title": "Technology Developer Apprentice",
-        "active": false,
+        "active": true,
         "date_updated": 1792759402,
         "date_posted": 1788912000,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Knutsford_JR-0000129443",
@@ -382023,5 +382023,164 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johnson & Johnson",
+        "id": "0a4ea5d5-6b5d-487f-8b24-b2d4b068e397",
+        "title": "Associate Electrical Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1793634662,
+        "date_posted": 1793634567,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Associate-Electrical-Engineer--Capital-Equipment--R-D---MedTech_R-069395-1",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integration Innovation (i3)",
+        "id": "dede37bf-07c6-40e1-9c50-541b1cb5d7d1",
+        "title": "Junior Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1793634482,
+        "date_posted": 1793632740,
+        "url": "https://i3-corps.jibeapply.com/jobs/5417?icims=1",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/I3",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Martin's Point Health Care",
+        "id": "5c040685-d1e0-4cc2-8e72-620b4ed182d4",
+        "title": "Associate Enterprise Data Engineer",
+        "active": true,
+        "date_updated": 1793634482,
+        "date_posted": 1793577600,
+        "url": "https://martin.wd1.myworkdayjobs.com/mphc/job/Portland-ME/Associate-Enterprise-Data-Engineer---Remote_REQ-2026-384",
+        "locations": [
+            "Portland, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/Martins-Point-Health-Care",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ocado Group",
+        "id": "5a361146-c417-435f-aa29-21e4fca3ba06",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1793634352,
+        "date_posted": 1793628920,
+        "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5018802101&gh_jid=5018802101",
+        "locations": [
+            "Hatfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ocado-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citizens Financial Group",
+        "id": "615bcd78-1d05-45a4-be29-1aab7e2a874c",
+        "title": "Business Insights Analyst: Branch Network Distribution",
+        "active": true,
+        "date_updated": 1793634163,
+        "date_posted": 1793634002,
+        "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50057",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Citizens-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "d1b2bb51-6a06-4eac-a2a3-b2f9b039dde0",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1793633775,
+        "date_posted": 1793633656,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MS-FOREST-430--19859-Hwy-80--BLDG-430/Electrical-Engineer-I--Onsite-_01877017",
+        "locations": [
+            "Forest, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Phlo",
+        "id": "ee9c6075-0a08-4dbf-83ca-218f932bd79e",
+        "title": "Junior Product Owner",
+        "active": true,
+        "date_updated": 1793633762,
+        "date_posted": 1793621545,
+        "url": "https://phlo.careers.hibob.com/jobs/0ac8f855-d719-4d6e-a74c-8a100d7e0cb3",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Phlo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Barclays",
+        "id": "e3d70ac5-dc1d-4c06-b733-8c76af99ef70",
+        "title": "Technology Developer Apprentice",
+        "active": true,
+        "date_updated": 1793633598,
+        "date_posted": 1788912000,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Graduate-Apprenticeship-Programme-Glasgow_JR-0000129447",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Barclays",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
