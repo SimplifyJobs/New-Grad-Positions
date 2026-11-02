@@ -288930,7 +288930,7 @@
         "company_name": "Accenture",
         "id": "afa6e892-ee06-4fbc-917b-d6376b37e6fc",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788420786,
         "date_posted": 1788403428,
         "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4710646006",
@@ -316026,7 +316026,7 @@
         "company_name": "SciTec",
         "id": "2c474c4a-eb30-4e75-8965-db455c575176",
         "title": "Mission Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1789425244,
         "date_posted": 1789425123,
         "url": "https://apply.workable.com/scitec/j/E2F2EB83B3/apply",
@@ -332946,7 +332946,7 @@
         "company_name": "ION Group",
         "id": "fff88dea-356b-4db6-8aa2-4f103f1909c6",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1790845921,
         "date_posted": 1790845862,
         "url": "https://jobs.lever.co/ion/e973fefd-7180-4da9-a323-c212fc98cc05/apply",
@@ -366288,7 +366288,7 @@
         "company_name": "Axcelis Technologies",
         "id": "994dc88d-ce91-458d-a45d-0303c6b1e7d0",
         "title": "Process Engineer - Ion Implant",
-        "active": true,
+        "active": false,
         "date_updated": 1792760224,
         "date_posted": 1779148800,
         "url": "https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Process-Engineer---Ion-Implant_11697",
@@ -370632,7 +370632,7 @@
         "company_name": "American Electric Power",
         "id": "f2fdfdee-f28f-41c8-8839-801ba1e80ee0",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1793054347,
         "date_posted": 1792972800,
         "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Tulsa-OK/Data-Scientist_R20444",
@@ -381876,6 +381876,146 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "715f1265-78d3-430d-b127-dca00de731a6",
+        "title": "Graduate AI & Automation Engineer",
+        "active": true,
+        "date_updated": 1793633227,
+        "date_posted": 1793633031,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159172560",
+        "locations": [
+            "Nuneaton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "1ffcff00-a92b-4393-850a-1accadb25edc",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1793633042,
+        "date_posted": 1793577600,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/Software-Engineer_REQ_0000083537-2",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "THG Ingenuity",
+        "id": "4e85d37b-ff0e-4de1-b619-cf8ea6ac1e74",
+        "title": "Graduate / Junior Data Scientist",
+        "active": true,
+        "date_updated": 1793633042,
+        "date_posted": 1789391564,
+        "url": "https://job-boards.eu.greenhouse.io/thgingenuity/jobs/4975587101",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/THG-Ingenuity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Philips",
+        "id": "b2cd045f-1f2b-4cef-8692-5f27dad834bb",
+        "title": "Associate Data & AI Engineer - Medical Imaging",
+        "active": true,
+        "date_updated": 1793632865,
+        "date_posted": 1793577600,
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Associate-Data---AI-Engineer---Medical-Imaging--Bedford--MA-_594180",
+        "locations": [
+            "Bedford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Philips",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sperry Rail",
+        "id": "7fa9740c-93cd-49bc-ad87-66d26199fe29",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1793632889,
+        "date_posted": 1793632814,
+        "url": "https://ats.rippling.com/sperry-rail-inc/jobs/7fc77434-4211-480b-82f8-41c6ebc82fd8",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Sperry-Rail",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Element Solutions",
+        "id": "10be1db7-3520-4bf0-bf9b-642f5e2f703b",
+        "title": "Junior Data Engineer",
+        "active": true,
+        "date_updated": 1793632325,
+        "date_posted": 1793632168,
+        "url": "https://jobs.lever.co/elementsolutions/88f248fb-459a-4d4e-8f6a-80e1671bf86e/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Element-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capula",
+        "id": "189a60d5-6bc4-424e-98f8-d8e751902753",
+        "title": "Technology Graduate Program",
+        "active": true,
+        "date_updated": 1793632407,
+        "date_posted": 1793632322,
+        "url": "https://apply.workable.com/capula-investment-management-ltd/j/F315E7E4CB/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Capula",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
