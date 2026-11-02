@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Milwaukee Tool",
-        "id": "85f0b038-8701-454d-b49e-017d59e73c72",
-        "title": "Product Owner",
-        "active": false,
-        "date_updated": 1772850756,
-        "date_posted": 1772850756,
-        "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Menomonee-Falls-WI/Product-Owner_R71452",
-        "locations": [
-            "Menomonee Falls, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Milwaukee-Tool",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "6be0cbab-0819-4d12-9317-d153d1de3524",
@@ -370945,7 +370925,7 @@
         "company_name": "Nutanix",
         "id": "357b4fdc-c3ec-4ebf-8828-c49a27da35e9",
         "title": "Forward Deployed Engineer - AI Inference Systems Research",
-        "active": true,
+        "active": false,
         "date_updated": 1793064061,
         "date_posted": 1791843471,
         "url": "https://jobs.jobvite.com/nutanix/job/oLmVAfwm?nl=1&nl=1&fr=false",
