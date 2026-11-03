@@ -346431,7 +346431,7 @@
         "company_name": "L3Harris Technologies",
         "id": "fa94c35b-fcdd-4481-b510-d9d27045e0ba",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791498408,
         "date_posted": 1791497717,
         "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineer-CO-80916/1438456800/?ats=successfactors",
@@ -383047,5 +383047,23 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lloyds Bank",
+        "id": "02b566e8-0af0-4040-b175-ba10f1f872d4",
+        "title": "Applied Data and AI Apprentice",
+        "active": true,
+        "date_updated": 1793690281,
+        "date_posted": 1793664000,
+        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/Applied-Data-and-AI-Apprentice---Bristol_165590",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
