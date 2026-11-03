@@ -288284,7 +288284,7 @@
         "company_name": "Baker Hughes",
         "id": "059058e6-a3de-4daa-b2ed-dacf926dffc8",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788414127,
         "date_posted": 1788307200,
         "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272",
@@ -360935,7 +360935,7 @@
         "company_name": "Caterpillar",
         "id": "03e3488f-bdec-49ba-875b-b5128864ae39",
         "title": "Operations Automation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1792621443,
         "date_posted": 1792540800,
         "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Champaign-Illinois/Operations-Automation-Technician_R0000400033",
@@ -371194,7 +371194,7 @@
         "company_name": "Microsoft",
         "id": "12b37514-55d3-4d2b-889d-499ef0584772",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793082983,
         "date_posted": 1793082825,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557045516",
@@ -383101,6 +383101,44 @@
             "Frisco, TX"
         ],
         "company_url": "https://simplify.jobs/c/Brillio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SAIC",
+        "id": "06c8c130-3c3e-4959-b34f-09aa4d4bdb1d",
+        "title": "Systems Engineer Associate",
+        "active": true,
+        "date_updated": 1793696949,
+        "date_posted": 1793399958,
+        "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618656",
+        "locations": [
+            "Panama City Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/SAIC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "0420c0b2-7792-4c65-880c-32c254c69712",
+        "title": "Staff Technician - Hardware Test",
+        "active": true,
+        "date_updated": 1793696762,
+        "date_posted": 1793400018,
+        "url": "https://jobs.lever.co/shieldai/aeda55ce-1adb-4760-9190-b4366df12edf/apply",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
