@@ -255268,7 +255268,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -255649,7 +255649,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -350877,7 +350877,7 @@
         "company_name": "JD.com",
         "id": "815416c2-86ab-4701-82c6-9100b4fc3394",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791901261,
         "date_posted": 1791849600,
         "url": "https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/Graduate-Software-Engineer_JR104096",
@@ -356995,7 +356995,7 @@
         "company_name": "Galatea Associates",
         "id": "dc1736a5-1d63-4f9d-b1cb-88598e3fa554",
         "title": "Entry-Level Financial Software Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1792229222,
         "date_posted": 1791929737,
         "url": "https://jobs.lever.co/galatea-associates/d5bceaf1-0137-4cc3-9353-72cc7a4f937b/apply",
@@ -358702,7 +358702,7 @@
         "company_name": "Cenovus Energy",
         "id": "8320929c-57bb-464e-991b-98401d2c8c87",
         "title": "Process Data Solutions New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1792459105,
         "date_posted": 1792368000,
         "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/New-Grad--Process-Data-Solutions--Calgary--June-2027-_R-411229-1",
@@ -383142,5 +383142,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Publicis Groupe",
+        "id": "b350b91c-a822-4f7d-84d8-1a87b6ade55c",
+        "title": "Martech & Data Intelligence Coordinator",
+        "active": true,
+        "date_updated": 1793702200,
+        "date_posted": 1793390100,
+        "url": "https://publicisgroupe.jibeapply.com/jobs/180527?icims=1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
