@@ -383065,5 +383065,44 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "5027c348-d0cf-4730-8787-7a1aabbc6611",
+        "title": "Engineer New Grad - Edge Systems Architecture",
+        "active": true,
+        "date_updated": 1793691768,
+        "date_posted": 1793664000,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad--Engineer--Edge-Systems-Architecture_JR116433",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brillio",
+        "id": "eb83c731-b7fa-48a9-ae84-e2b8d4591878",
+        "title": "Data Acquisition Analyst",
+        "active": true,
+        "date_updated": 1793691181,
+        "date_posted": 1793691064,
+        "url": "https://jobs.lever.co/brillio-2/0663c1d8-d32a-4f52-a0ce-71fb6b5f0966/apply",
+        "locations": [
+            "Frisco, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Brillio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
