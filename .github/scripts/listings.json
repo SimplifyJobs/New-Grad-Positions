@@ -345500,7 +345500,7 @@
         "company_name": "RTX",
         "id": "e5467def-2b54-4bda-90a0-cdb22e92de7f",
         "title": "Embedded Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791412931,
         "date_posted": 1791331200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909",
@@ -383193,6 +383193,24 @@
         "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Data---AI-Apprenticeship---Edinburgh_164880",
         "locations": [
             "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lloyds Bank",
+        "id": "9b46a2b8-ed52-44d4-98c8-1869132cd397",
+        "title": "Data & AI Apprentice",
+        "active": true,
+        "date_updated": 1793706324,
+        "date_posted": 1793664000,
+        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Data---AI-Apprenticeship---Leeds_164878",
+        "locations": [
+            "Leeds, UK"
         ],
         "company_url": "https://simplify.jobs/c/Lloyds-Bank",
         "is_visible": true,
