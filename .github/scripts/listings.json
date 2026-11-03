@@ -383216,5 +383216,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lloyds Bank",
+        "id": "9c2ba35d-73ce-49a8-8cee-29048f814c46",
+        "title": "Software Development New Grad Apprentice",
+        "active": true,
+        "date_updated": 1793709559,
+        "date_posted": 1793664000,
+        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Software-Development-Graduate-Apprenticeship---Edinburgh_164882",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
