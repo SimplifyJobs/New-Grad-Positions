@@ -15455,7 +15455,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Post-Silicon Validation Engineer New Grad</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
