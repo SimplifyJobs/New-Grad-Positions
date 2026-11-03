@@ -255649,7 +255649,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -369600,7 +369600,7 @@
         "company_name": "Medra",
         "id": "fdf80d73-de6e-4798-b6c4-e5da733ed881",
         "title": "Systems Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792835461,
         "date_posted": 1785132609,
         "url": "https://jobs.ashbyhq.com/medraai/cfaca7f4-d35b-4b5e-a5f4-5dd08abc8b5d/application?embed=true",
@@ -381552,7 +381552,7 @@
         "company_name": "Verisk",
         "id": "f8132bd9-b6f0-40a3-8199-b5d339caac61",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1793456112,
         "date_posted": 1793455981,
         "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5093",
@@ -383162,5 +383162,41 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Lloyds Bank",
+        "id": "87000669-e241-440b-b332-154890f61624",
+        "title": "Digital Product Manager Apprentice",
+        "active": true,
+        "date_updated": 1793704321,
+        "date_posted": 1793664000,
+        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Digital-Product-Manager-Apprentice---Edinburgh_165549",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lloyds Bank",
+        "id": "2ac5b48e-6e40-4544-ba2d-73cb432f5bf7",
+        "title": "Data & AI Apprentice",
+        "active": true,
+        "date_updated": 1793704356,
+        "date_posted": 1793664000,
+        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Data---AI-Apprenticeship---Edinburgh_164880",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
