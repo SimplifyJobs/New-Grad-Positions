@@ -255268,7 +255268,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -255649,7 +255649,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -284049,7 +284049,7 @@
         "company_name": "American Express",
         "id": "042c934f-3d19-4615-bcc7-f10fe3a00bea",
         "title": "AI Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1788287744,
         "date_posted": 1788287452,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013254",
@@ -284229,7 +284229,7 @@
         "company_name": "American Express",
         "id": "20b23b0e-0297-4641-ae32-6db0fea0aef5",
         "title": "AI Engineer 1 - Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1788287740,
         "date_posted": 1788287452,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013255",
@@ -346972,7 +346972,7 @@
         "company_name": "RTX",
         "id": "767b6430-777a-473d-9c98-51637b7dbec5",
         "title": "Embedded Security Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1791499216,
         "date_posted": 1791417600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Security-Software-Engineer-I--Onsite-_01881355",
@@ -355231,7 +355231,7 @@
         "company_name": "Bealls",
         "id": "c2a411f8-4726-4620-99b6-c07454596fc3",
         "title": "AI Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1792103761,
         "date_posted": 1792103644,
         "url": "https://beallsinc.taleo.net/careersection/bealls+outlet+mobile/jobdetail.ftl?job=260000GI",
@@ -383291,6 +383291,108 @@
             "Newport, RI"
         ],
         "company_url": "https://simplify.jobs/c/Arcfield",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Duke Energy",
+        "id": "67943a4c-cfaf-4278-9d0e-3a6904802e3c",
+        "title": "Associate Geographic Information Systems Technologist - GIS - Geographic Information Systems",
+        "active": true,
+        "date_updated": 1793721101,
+        "date_posted": 1793664000,
+        "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Associate-Geographic-Information-Systems--GIS--Technologist-or-Geographic-Information-Systems--GIS--Technologist_R42293",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Duke-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "fb29fcfc-780f-4938-b6c8-9d73ba45b207",
+        "title": "Leadership Development Program - Engineering - Software Discipline",
+        "active": true,
+        "date_updated": 1793720888,
+        "date_posted": 1793664000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Leadership-Development-Program---Engineering--Software-Discipline--Starts-June-2027-_01873618-1",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leonardo",
+        "id": "3c9538b8-2d46-4547-a744-d9c1af7c510a",
+        "title": "Detector IC Design Engineer New Grad",
+        "active": true,
+        "date_updated": 1793720367,
+        "date_posted": 1793664000,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Southampton/Graduate-Detector-IC-Design-Engineer_R0034823",
+        "locations": [
+            "Southampton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Home Depot",
+        "id": "2f9e9265-ad74-4ad3-bc06-3b2268949360",
+        "title": "Data Analyst - Supply Chain",
+        "active": true,
+        "date_updated": 1793719981,
+        "date_posted": 1793664000,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Data-Analyst---Supply-Chain_Req197256",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Home-Depot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AeroVironment",
+        "id": "eb9b2d2e-3c96-4060-80d9-7281b0e9ad15",
+        "title": "Test Engineer",
+        "active": true,
+        "date_updated": 1793719802,
+        "date_posted": 1793664000,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/Test-Engineer---Multiple-Levels_9293",
+        "locations": [
+            "Albuquerque, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
