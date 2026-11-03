@@ -315499,7 +315499,7 @@
         "company_name": "MBDA",
         "id": "7a3bc98d-8348-42c8-9e7f-c14d66a75d0a",
         "title": "Computer Vision and Artificial Intelligence Engineer - Image Processing UK",
-        "active": true,
+        "active": false,
         "date_updated": 1789418041,
         "date_posted": 1789344000,
         "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Computer-Vision-and-Artificial-Intelligence-Engineer---Graduate-Programme-2027_R37479",
@@ -340099,7 +340099,7 @@
         "company_name": "RTX",
         "id": "77959f3c-0ceb-4e21-9204-1e92e503c692",
         "title": "HWIL Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791240360,
         "date_posted": 1789344000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Electrical-Engineer-I_01874563",
@@ -340282,7 +340282,7 @@
         "company_name": "RTX",
         "id": "9bc65f57-e01d-490a-8a88-2a5990ce2444",
         "title": "FPGA/Digital Design Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1791240291,
         "date_posted": 1791158400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB4--836-North-St--INNOVATION-BLDG/FPGA--Digital-Design-Engineer-II---Onsite_01879345",
@@ -352507,7 +352507,7 @@
         "company_name": "CWILL",
         "id": "6fb7f111-261e-4a19-87fe-186d6dfaaae1",
         "title": "Product Management Trainee",
-        "active": true,
+        "active": false,
         "date_updated": 1791958112,
         "date_posted": 1791957946,
         "url": "https://apply.workable.com/cwill-us/j/06A1E720C7/apply",
@@ -364471,7 +364471,7 @@
         "company_name": "SpaceX",
         "id": "93f06264-8ea5-441e-a022-4af8ad2b9eb1",
         "title": "Test Specialist - Components - Starshield",
-        "active": true,
+        "active": false,
         "date_updated": 1792746903,
         "date_posted": 1778393284,
         "url": "https://boards.greenhouse.io/spacex/jobs/8537897002",
@@ -382960,6 +382960,26 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Lineage-Logistics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AMAX",
+        "id": "a6f318a0-e5c1-4146-8ce3-18d29595f8b9",
+        "title": "Junior System Engineer",
+        "active": true,
+        "date_updated": 1793672461,
+        "date_posted": 1793672441,
+        "url": "https://apply.workable.com/amax-1/j/C8FD3B365F/apply",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AMAX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
