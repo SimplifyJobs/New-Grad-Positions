@@ -161896,7 +161896,7 @@
         "company_name": "JP Morgan Chase",
         "id": "24979bc4-d08f-4065-b61b-3441f6415ba6",
         "title": "Product Associate - Brokerage",
-        "active": true,
+        "active": false,
         "date_updated": 1782961023,
         "date_posted": 1782956149,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762291",
@@ -375542,7 +375542,7 @@
         "company_name": "Cushman & Wakefield",
         "id": "6d4e28f9-68dc-4dfe-94f4-4a3d971e1a46",
         "title": "Assistant Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1793226961,
         "date_posted": 1793226872,
         "url": "https://cw.wd1.myworkdayjobs.com/external/job/Leeds-West-Yorkshire-United-Kingdom/Assistant-Data-Analyst_R337647",
@@ -383234,5 +383234,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "e3ea805e-e601-4af0-8412-32329f54ee2e",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1793712250,
+        "date_posted": 1793232000,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Engineer_R0252565",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
