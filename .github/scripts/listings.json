@@ -255268,7 +255268,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -325525,7 +325525,7 @@
         "company_name": "Honeywell",
         "id": "ea902b82-59c8-4454-b4d9-e8acf43bf75b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790173477,
         "date_posted": 1790173112,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157648",
@@ -383223,7 +383223,7 @@
         "company_name": "Lloyds Bank",
         "id": "9c2ba35d-73ce-49a8-8cee-29048f814c46",
         "title": "Software Development New Grad Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1793709559,
         "date_posted": 1793664000,
         "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Software-Development-Graduate-Apprenticeship---Edinburgh_164882",
@@ -383254,6 +383254,47 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capgemini",
+        "id": "1fa93b8e-4b8b-44a2-abe2-7e44cf150d8e",
+        "title": "Campus 1&D: Associate Application Consultant",
+        "active": true,
+        "date_updated": 1793719658,
+        "date_posted": 1793719577,
+        "url": "https://careers.capgemini.com/job/Mississauga-Campus-I&D-Associate-Application-Consultant-ON/1453920933/?ats=successfactors",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capgemini",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Arcfield",
+        "id": "c36318b4-89d3-4481-b56b-505a896badaf",
+        "title": "Systems Engineer-Navy Submarine Combat Systems",
+        "active": true,
+        "date_updated": 1793718902,
+        "date_posted": 1793710860,
+        "url": "https://careers.arcfield.com/jobs/8869?icims=1",
+        "locations": [
+            "Newport, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcfield",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
