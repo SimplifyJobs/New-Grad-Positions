@@ -255268,7 +255268,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -255649,7 +255649,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -272850,7 +272850,7 @@
         "company_name": "Micron Technology",
         "id": "dbef86f9-fcbd-4750-b16a-e8062c8541bf",
         "title": "Embedded Firmware Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1787704006,
         "date_posted": 1787616000,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/New-College-Grad---Embedded-Firmware-Engineer_JR109306",
@@ -315437,7 +315437,7 @@
         "company_name": "MBDA",
         "id": "a1e7acba-8ab8-465d-96ef-b9311e989cd7",
         "title": "Weapon Systems Algorithms Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1789418090,
         "date_posted": 1789344000,
         "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Weapon-Systems-Algorithms-Engineer---Graduate-Programme-2027_R37707",
@@ -375274,7 +375274,7 @@
         "company_name": "Apple",
         "id": "b6726dc7-340b-4cf0-a326-13ab7d9f331d",
         "title": "Custom CAD Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793227682,
         "date_posted": 1793227512,
         "url": "https://jobs.apple.com/en-us/details/200691947",
@@ -382984,6 +382984,68 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keysight Technologies",
+        "id": "99e7e544-14d1-4282-bff9-c3005cf04034",
+        "title": "IC Test Engineer",
+        "active": true,
+        "date_updated": 1793673901,
+        "date_posted": 1793668860,
+        "url": "https://jobs.keysight.com/jobs/55322?icims=1",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Aerospace Corporation",
+        "id": "a10a11b6-dfda-4529-8ca8-ec9f8cd50756",
+        "title": "Electronics Technology Specialist",
+        "active": true,
+        "date_updated": 1793673575,
+        "date_posted": 1793577600,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Electronics-Technology-Specialist-PMP_R017093",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "3957c799-b0c3-4de5-9eed-280b23e5637d",
+        "title": "Silicon Photonics Process Integration Engineer",
+        "active": true,
+        "date_updated": 1793673001,
+        "date_posted": 1793672983,
+        "url": "https://jobs.apple.com/en-us/details/200693031",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
