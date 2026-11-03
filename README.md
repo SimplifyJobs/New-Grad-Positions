@@ -5,7 +5,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 574 New Grad Roles by Category
+### Browse 573 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (324)
 
@@ -15,7 +15,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (25)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (111)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (110)
 
 💼 **[Other](#-other-new-grad-roles)** (0)
 
@@ -13294,7 +13294,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Chinese Open-Source Intelligence Junior/Entry Level - Open-Source Intelligence Analyst</td>
 <td>Remote in USA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/LG-Ad-Solutions?utm_source=GHList&utm_medium=company">LG Ad Solutions</a></strong></td>
@@ -15412,13 +15412,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Northwood-Space?utm_source=GHList&utm_medium=company">Northwood Space</a></strong></td>
-<td>Software Engineer – New grad / early career</td>
-<td>Carson, CA</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/NorthwoodSpace/b960b661-e1cc-40d0-bde3-290cd1b58ede/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6805a542-b373-4362-a01b-1340de5ba6db?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>6mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
 <td>Accelerated Computing Solutions Analyst – Early Career 🎓</td>
 <td>Santa Clara, CA</td>
@@ -15437,7 +15430,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (386)</summary>
+<summary>🗃️ Inactive roles (387)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -16060,7 +16053,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Micron-Technology?utm_source=GHList&utm_medium=company">Micron Technology</a></strong></td>
+<td>↳</td>
 <td>HBM Product Development Failure Analysis Engineer New Grad</td>
 <td>Boise, ID</td>
 <td>🔒</td>
@@ -17589,6 +17582,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Embedded Software Engineer 1</td>
 <td>El Segundo, CA</td>
+<td>🔒</td>
+<td>6mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Northwood-Space?utm_source=GHList&utm_medium=company">Northwood Space</a></strong></td>
+<td>Software Engineer – New grad / early career</td>
+<td>Carson, CA</td>
 <td>🔒</td>
 <td>6mo</td>
 </tr>
