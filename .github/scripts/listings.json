@@ -255268,7 +255268,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -255649,7 +255649,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -268127,7 +268127,7 @@
         "company_name": "Northrop Grumman",
         "id": "ceae13eb-b924-4361-af4e-095b72005dd5",
         "title": "Software Engineer - COR",
-        "active": false,
+        "active": true,
         "date_updated": 1787388061,
         "date_posted": 1787270400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Configurable-On-Board-Router--COR--Team---Software-Engineer--AHT-_R10247177",
@@ -320866,7 +320866,7 @@
         "company_name": "CACI",
         "id": "eae93800-40a8-4227-9f19-052dc7031c20",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1789684029,
         "date_posted": 1789603200,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/Lisle-IL-US/Software-Engineer_332199",
@@ -342607,7 +342607,7 @@
         "company_name": "HNTB",
         "id": "51b5a86a-51da-42be-8a94-7ce5f41d5501",
         "title": "GIS Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1791297161,
         "date_posted": 1791244800,
         "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Baton-Rouge-LA/GIS-Analyst-I_R-31791",
@@ -345500,7 +345500,7 @@
         "company_name": "RTX",
         "id": "e5467def-2b54-4bda-90a0-cdb22e92de7f",
         "title": "Embedded Software Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1791412931,
         "date_posted": 1791331200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909",
@@ -347893,7 +347893,7 @@
         "company_name": "RTX",
         "id": "5c0127a5-b356-4cb2-9c05-080f60e3dfeb",
         "title": "Embedded Security Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1791560446,
         "date_posted": 1791504000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440",
@@ -361094,7 +361094,7 @@
         "company_name": "SMX",
         "id": "f1d22398-ec8e-4424-a78c-79bb14eaf463",
         "title": "Engineering Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1792620763,
         "date_posted": 1792620474,
         "url": "https://www.smxtech.com/careers/?gh_jid=8033737003",
@@ -371735,7 +371735,7 @@
         "company_name": "Northrop Grumman",
         "id": "90c10d80-558b-4325-9b3e-e883b3db1a7d",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1793140023,
         "date_posted": 1793059200,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912",
@@ -371777,7 +371777,7 @@
         "company_name": "Northrop Grumman",
         "id": "5cb614bd-a490-404d-9f15-01f7d1583f71",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1793140054,
         "date_posted": 1793059200,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908",
@@ -382952,7 +382952,7 @@
         "company_name": "Lineage Logistics",
         "id": "0bf5e13d-96ec-48a1-9fa0-02cdedbac143",
         "title": "Associate Report Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1793662201,
         "date_posted": 1793577600,
         "url": "https://onelineage.wd1.myworkdayjobs.com/external/job/Novi-MI-Humboldt-Drive/Associate-Report-Developer_R0111033",
@@ -383910,6 +383910,411 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Deloitte",
+        "id": "98a5f175-c19c-4fcc-8c0f-64e9911dad00",
+        "title": "Tax Technology Services Consultant",
+        "active": true,
+        "date_updated": 1793750059,
+        "date_posted": 1793749888,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Tax-Tax-Technology-Services-Consultant-Summer-2027-Winter-2028/374101",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "24153815-0d45-4038-a5c6-505641180482",
+        "title": "Conversions Diagnostic Technician 2",
+        "active": true,
+        "date_updated": 1793749718,
+        "date_posted": 1793664000,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/CVG300-Conversions-Diagnostic-Technician-II---403_J2469801",
+        "locations": [
+            "Florence, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vestwell",
+        "id": "be79eb94-affb-4e0a-8d40-c2d2b2987b53",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1793749502,
+        "date_posted": 1793721054,
+        "url": "https://job-boards.greenhouse.io/vestwell/jobs/8108684003",
+        "locations": [
+            "King of Prussia, PA",
+            "Austin, TX",
+            "Scottsdale, AZ",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vestwell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Medtronic",
+        "id": "53066c28-3249-4a5b-994d-b5effa92d655",
+        "title": "Reliability Engineer 1 - Hardware / Electrical",
+        "active": true,
+        "date_updated": 1793749512,
+        "date_posted": 1793749497,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Reliability-Engineer-I---Hardware---Electrical_R68475",
+        "locations": [
+            "Mounds View, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hospital for Special Surgery",
+        "id": "174afdd8-2e42-4a3a-a8f4-6b3f619da79c",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1793749502,
+        "date_posted": 1793664000,
+        "url": "https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Data-Scientist_JR2026-106598",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/HSS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "0cec02b3-ff62-4d80-a261-00b08bf13994",
+        "title": "Video/Image AI/ML Software Engineer Graduate - Video and Edge - Multimedia Lab",
+        "active": true,
+        "date_updated": 1793749363,
+        "date_posted": 1793749226,
+        "url": "https://jobs.bytedance.com/en/position/7704089625815468293/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Resonance",
+        "id": "55968052-44df-41bb-9697-6b6be5aae4dc",
+        "title": "Graduate Applied AI Engineer",
+        "active": true,
+        "date_updated": 1793749322,
+        "date_posted": 1793664000,
+        "url": "https://jobs.ashbyhq.com/resonance/548a6de0-18d2-43df-88e4-a132e91d2089/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Resonance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ferrovial",
+        "id": "ca451b92-46d4-4926-98d3-a17667ff0f49",
+        "title": "Toll Operations Analyst",
+        "active": true,
+        "date_updated": 1793749141,
+        "date_posted": 1793664000,
+        "url": "https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Charlotte/Toll-Operations-Analyst_JR20260",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ferrovial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "37c84d96-583c-4cf6-8a0d-a95d42b05b9b",
+        "title": "ECAD Librarian",
+        "active": true,
+        "date_updated": 1793748961,
+        "date_posted": 1793664000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-REMOTE/ECAD-Librarian--Remote-_01886946",
+        "locations": [
+            "Arizona"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "6005a169-fcc9-47e6-bc4b-5cfd55f15a15",
+        "title": "Software Engineer 1 - Embedded",
+        "active": true,
+        "date_updated": 1793749019,
+        "date_posted": 1793664000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Software-Engineer-l---Embedded--Onsite_01886765",
+        "locations": [
+            "Goleta, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AstraZeneca",
+        "id": "d612d086-97bc-4978-a864-867a361e1d09",
+        "title": "Digital Automation Engineer - Cell Therapy",
+        "active": true,
+        "date_updated": 1793748782,
+        "date_posted": 1792713600,
+        "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US--Tarzana--CA/Digital-Automation-Engineer--Cell-Therapy_R-262614",
+        "locations": [
+            "Tarzana, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/AstraZeneca",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LinkedIn",
+        "id": "c9942f0a-e3da-4b00-9ee2-be611a85daca",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1793748782,
+        "date_posted": 1793745192,
+        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000159509679",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LinkedIn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "GAF",
+        "id": "821f1406-4511-49cb-9c9c-3b6d405bf222",
+        "title": "Product Management Rotational Associate",
+        "active": true,
+        "date_updated": 1793748799,
+        "date_posted": 1793664000,
+        "url": "https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/Product-Management-Rotational-Associate_26458",
+        "locations": [
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/GAF",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "GAF",
+        "id": "384c9c44-0d30-4067-903d-5445dacdd4ea",
+        "title": "Product Management Rotational Associate",
+        "active": true,
+        "date_updated": 1793748804,
+        "date_posted": 1793664000,
+        "url": "https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/Product-Management-Rotational-Associate_26459",
+        "locations": [
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/GAF",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "e5621469-d49a-465d-a557-2ef4692874ce",
+        "title": "Associate Flight Software Engineer",
+        "active": true,
+        "date_updated": 1793748639,
+        "date_posted": 1793664000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Associate-Flight-Software-Engineer---Manhattan-Beach-CA_R10259061",
+        "locations": [
+            "Manhattan Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "M&T Bank",
+        "id": "9e4645b8-cad7-4732-b187-3646d5944df0",
+        "title": "Technology Development Program - Software Engineering - Digital Banking Applications & Platforms",
+        "active": true,
+        "date_updated": 1793748628,
+        "date_posted": 1793664000,
+        "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Digital-Banking-Applications---Platforms-_R91883",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/M-And-T-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "M&T Bank",
+        "id": "dd676495-705e-42f9-b036-e687837386ad",
+        "title": "Technology Development Program - Software Engineering - Data Engineering",
+        "active": true,
+        "date_updated": 1793748629,
+        "date_posted": 1793664000,
+        "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data-Engineering-_R91882",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/M-And-T-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Smithfield Foods",
+        "id": "9c08b054-a9cf-43c2-a550-a88c9c2939e8",
+        "title": "Data Analytics Associate",
+        "active": true,
+        "date_updated": 1793748632,
+        "date_posted": 1793664000,
+        "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Career-Foundation-Program--CFP----Data-Analytics---May-Spring-2027-Graduates_R-2026-15044",
+        "locations": [
+            "Smithfield, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Smithfield-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "9908aecb-a428-4834-8d70-c12be03cbe2c",
+        "title": "Associate Electrical Engineer",
+        "active": true,
+        "date_updated": 1793748639,
+        "date_posted": 1793664000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Associate-Electrical-Engineers---Plymouth-MN_R10259145",
+        "locations": [
+            "Plymouth, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "M&T Bank",
+        "id": "6e2116eb-4d99-45ba-b3ca-5568f10a6873",
+        "title": "Technology Development Program - Software Engineering - Consumer & Marketing Application Development",
+        "active": true,
+        "date_updated": 1793748629,
+        "date_posted": 1793664000,
+        "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Consumer---Marketing-Application-Development-_R91881",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/M-And-T-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
