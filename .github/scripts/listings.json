@@ -2,165 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Teledyne",
-        "id": "f630664c-c63f-4e4e-b78a-1d0b9e83955e",
-        "title": "Solder Technician",
-        "active": false,
-        "date_updated": 1773098498,
-        "date_posted": 1773098498,
-        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Daytona-Beach-FL-TDY/Solder-Technician_REQ33063-1",
-        "locations": [
-            "Daytona Beach, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "University of Texas - Austin",
-        "id": "eebda676-e46f-4fb6-abd5-929f651c35f0",
-        "title": "Linux Network Engineering Scientist Associate",
-        "active": false,
-        "date_updated": 1773097580,
-        "date_posted": 1773097580,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Linux-Network-Engineering-Scientist-Associate_R_00044918",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "MatX",
-        "id": "e9b29e7b-8dc5-4d35-bc74-9fd19c31e0f2",
-        "title": "AI Tooling Engineer",
-        "active": false,
-        "date_updated": 1773097654,
-        "date_posted": 1773097654,
-        "url": "https://job-boards.greenhouse.io/matx/jobs/5146786008",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/MatX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "University of Texas - Austin",
-        "id": "ab2b0d5d-9913-4a6a-af9b-f7cd5227b371",
-        "title": "System Software Engineering Scientist Associate",
-        "active": false,
-        "date_updated": 1773097587,
-        "date_posted": 1773097587,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/System-Software-Engineering-Scientist-Associate_R_00044920",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "cfef4b24-cdaa-4c39-9e7d-f38c25ccfeeb",
-        "title": "Entry-Level Product Review Engineer - Liaison Engineering",
-        "active": false,
-        "date_updated": 1773097465,
-        "date_posted": 1773097465,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Entry-Level-Product-Review-Engineer--Liaison-Engineering-_JR2026498150",
-        "locations": [
-            "North Charleston, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "c4daabd2-06d4-423b-adf3-56fc37c880d5",
-        "title": "ATLO Assembly",
-        "active": false,
-        "date_updated": 1773097474,
-        "date_posted": 1773097474,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/ATLO--assembly--test--launch----operations--Engineer---Millennium-Space-Systems_JR2026489945-1",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "87b4ae1b-7483-496b-a59c-fba8f95209ff",
-        "title": "Fabrication Specialist",
-        "active": false,
-        "date_updated": 1773097473,
-        "date_posted": 1773097473,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Salt-Lake-City-UT/Fabrication-Specialist_JR2026499951-1",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Brink",
-        "id": "607b3501-64ed-4c3b-a891-04efd3752e5d",
-        "title": "ATM Technician",
-        "active": false,
-        "date_updated": 1773097522,
-        "date_posted": 1773097522,
-        "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Atlanta-GA/ATM-Technician_R71169",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Brink",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Analog Devices",
         "id": "d6cc1d50-521a-4e2e-9d34-ac1a29813932",
         "title": "Wafer Fab Operator - All Shifts Available",
@@ -331,28 +172,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leonardo",
-        "id": "9d213f02-a387-4abc-8d0f-1197b6a5471b",
-        "title": "Graduate Software Engineer",
-        "active": false,
-        "date_updated": 1773098709,
-        "date_posted": 1773098709,
-        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Graduate-Software-Engineer_R0021337-1",
-        "locations": [
-            "Welwyn Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Leonardo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -32469,26 +32288,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Adobe",
-        "id": "f2a59cd3-fbf5-48ff-be4b-c41d4181142c",
-        "title": "Software Development Engineer",
-        "active": false,
-        "date_updated": 1774981621,
-        "date_posted": 1773097817,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R166371",
-        "locations": [
-            "Lehi, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -216089,7 +215888,7 @@
         "company_name": "AtkinsR\u00e9alis",
         "id": "ec02e8b6-7bd1-43be-bb36-2db3118194e5",
         "title": "Controls System ACCIS Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785449162,
         "date_posted": 1785369600,
         "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONMississauga2251-Speakman-Drive/Controls-System-ACCIS-Engineer_R-160676-2",
@@ -347658,7 +347457,7 @@
         "company_name": "Becton Dickinson",
         "id": "98c33fd8-dca1-426d-a419-74413b56996d",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791594869,
         "date_posted": 1791504000,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I_R-557002-1",
