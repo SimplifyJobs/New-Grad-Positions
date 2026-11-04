@@ -255649,7 +255649,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -315842,7 +315842,7 @@
         "company_name": "Dow Jones",
         "id": "7bea32ac-9cc6-4c66-9ddc-1c0bfaf45b1f",
         "title": "Research Analyst 1 - Chemical Market Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1789424574,
         "date_posted": 1789344000,
         "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Research-Analyst-I---Chemical-Market-Analytics_Job_Req_54978",
@@ -352789,7 +352789,7 @@
         "company_name": "Eurofins",
         "id": "db9fb7a7-e6a2-4dee-9c2f-bd25a2ebac5d",
         "title": "Automation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1791987662,
         "date_posted": 1791987520,
         "url": "https://jobs.smartrecruiters.com/Eurofins/744000155524286",
@@ -367207,7 +367207,7 @@
         "company_name": "TripAdvisor",
         "id": "6844034a-5c74-47b5-9e3b-fce4315573aa",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792765670,
         "date_posted": 1790721048,
         "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/8239945",
@@ -368756,7 +368756,7 @@
         "company_name": "Glydways",
         "id": "77deaeaa-82f0-4ae5-9432-78d8bfde45f9",
         "title": "Autonomous Vehicle Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1792793525,
         "date_posted": 1787602795,
         "url": "https://job-boards.greenhouse.io/glydways/jobs/5215430007",
@@ -374265,7 +374265,7 @@
         "company_name": "RosaicLabs",
         "id": "7349b535-e74c-4eca-b0ec-668b3058e6ad",
         "title": "AI Accelerator RTL Microarchitecture/Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793180345,
         "date_posted": 1793180295,
         "url": "https://jobs.lever.co/rosaiclabs/261df0f6-b4c6-4711-a5ee-a0bb67bcb840/apply",
@@ -384311,6 +384311,46 @@
             "Buffalo, NY"
         ],
         "company_url": "https://simplify.jobs/c/M-And-T-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pacific Northwest National Laboratory",
+        "id": "90860b66-dcd2-4e7f-a44a-33ef29bdd357",
+        "title": "Post-Masters Research Associate - Large Language Models",
+        "active": true,
+        "date_updated": 1793759257,
+        "date_posted": 1793748960,
+        "url": "https://careers.pnnl.gov/jobs/12956?icims=1",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Pacific-Northwest-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "9315f44c-3088-404e-bf3c-14babfe43407",
+        "title": "Associate Optical Subsystem Integration and Test Engineer 1",
+        "active": true,
+        "date_updated": 1793758040,
+        "date_posted": 1793664000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Optical-Subsystem-I-T-Engineer---Level-1_R10259164",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
