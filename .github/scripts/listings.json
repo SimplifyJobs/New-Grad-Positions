@@ -376528,7 +376528,7 @@
         "company_name": "Intetics",
         "id": "67522462-66e8-4ad0-af94-102f769210e5",
         "title": "Job for Students",
-        "active": true,
+        "active": false,
         "date_updated": 1793263726,
         "date_posted": 1793197692,
         "url": "https://apply.workable.com/intetics-2/j/B5349D5307/apply",
@@ -384599,6 +384599,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Roche",
+        "id": "e4729bc6-ba4d-4ede-a588-31b468dc32ae",
+        "title": "Senior Machine Learning Scientist",
+        "active": true,
+        "date_updated": 1793801532,
+        "date_posted": 1793750400,
+        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior-Machine-Learning-Scientist_202610-127404-1",
+        "locations": [
+            "Basel, Switzerland",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Roche",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
