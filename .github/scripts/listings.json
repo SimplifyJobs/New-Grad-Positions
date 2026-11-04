@@ -384580,5 +384580,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Medtronic",
+        "id": "ca10972b-e18a-4d63-9fdc-cd16d4d75015",
+        "title": "Reliability Engineer 1 - Hardware / Electrical",
+        "active": true,
+        "date_updated": 1793794162,
+        "date_posted": 1793664000,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Reliability-Engineer-I---Hardware---Electrical_R68475-1",
+        "locations": [
+            "Mounds View, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
