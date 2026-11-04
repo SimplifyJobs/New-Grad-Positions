@@ -366740,7 +366740,7 @@
         "company_name": "Exiger",
         "id": "b8386828-ffbf-455a-9c3b-c2254f0eb005",
         "title": "AI Product Builder",
-        "active": false,
+        "active": true,
         "date_updated": 1792762747,
         "date_posted": 1790028846,
         "url": "https://www.exiger.com/careers/6202657004?gh_jid=6202657004",
@@ -375151,7 +375151,7 @@
         "company_name": "Bank of Montreal",
         "id": "eacfdfa1-04e0-4e36-95ce-94979c96c373",
         "title": "Senior Analyst - Data Analytics & Automation Solutions",
-        "active": false,
+        "active": true,
         "date_updated": 1793225342,
         "date_posted": 1793145600,
         "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Senior-Analyst--Data-Analytics---Automation-Solutions_R260026408-2",
@@ -384724,6 +384724,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AeroVironment",
+        "id": "61d868f4-41c6-451e-b0fa-079616f0dcb6",
+        "title": "RF PCB Layout Engineer",
+        "active": true,
+        "date_updated": 1793807103,
+        "date_posted": 1793750400,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/RF-PCB-Layout-Engineer_9319",
+        "locations": [
+            "Germantown, MD",
+            "Albuquerque, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
