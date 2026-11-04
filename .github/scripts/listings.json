@@ -133,29 +133,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Markon",
-        "id": "15098c6e-b3f1-4ebf-8cf2-66dc4f038e9f",
-        "title": "Reverse Engineer",
-        "active": false,
-        "date_updated": 1773091814,
-        "date_posted": 1773091814,
-        "url": "https://careers-markon.icims.com/jobs/8199/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Odenton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Markon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Huntington Ingalls Industries",
         "id": "518dc13a-a2e0-44ff-b0b1-3b3aa594aab9",
@@ -285864,7 +285841,7 @@
         "company_name": "Versant",
         "id": "0272e0de-c540-444a-9e2e-63cc98f621e8",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1788311423,
         "date_posted": 1788311223,
         "url": "https://jobs.smartrecruiters.com/Versant3/744000146840259",
@@ -380711,7 +380688,7 @@
         "company_name": "Jabil",
         "id": "01258b5f-e69a-42f9-8ac0-101a68e45b0b",
         "title": "Operations Business Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1793399418,
         "date_posted": 1793318400,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Operations-Business-Analyst_J2470556",
