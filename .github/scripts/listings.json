@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ad59a76e-09d9-4bfb-b0e8-b30a59eb7688",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773093728,
-        "date_posted": 1773093728,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052612",
-        "locations": [
-            "Harrogate, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Boyd Gaming",
-        "id": "236fb97a-090f-4f2e-ba50-d1c76592f65a",
-        "title": "Slot Technician 1",
-        "active": false,
-        "date_updated": 1773093769,
-        "date_posted": 1773093769,
-        "url": "https://jobs.smartrecruiters.com/BoydGaming/3743990012030036",
-        "locations": [
-            "Mason City, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boyd-Gaming",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Crowdstrike",
         "id": "4144d115-2df3-4a2d-826d-a730e1e814fb",
@@ -416,42 +380,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9744824b-d51b-426e-8cd9-5a8e2462709a",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773094045,
-        "date_posted": 1773094045,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052625",
-        "locations": [
-            "Warwick, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8ac2521b-a35b-4f38-8350-c9f9cbff26c3",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773093725,
-        "date_posted": 1773093725,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052399",
-        "locations": [
-            "Basingstoke, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "FISPAN",
         "id": "779ad37e-a8dc-4fae-8427-f2e32174dc82",
@@ -507,261 +435,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "4d6d6f04-7ab0-4651-867b-268136be19d9",
-        "title": "Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1773094200,
-        "date_posted": 1773094200,
-        "url": "https://lifeattiktok.com/search/7613814565077928197",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Henry Schein",
-        "id": "0e4bf410-aed3-45b0-a2a2-44f89b03a439",
-        "title": "Equipment Service Technician",
-        "active": false,
-        "date_updated": 1773094528,
-        "date_posted": 1773094528,
-        "url": "https://henryschein.wd1.myworkdayjobs.com/External_Careers/job/Concord---Canada/Equipment-Service-Technician_R133078",
-        "locations": [
-            "Vaughan, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Henry-Schein",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "daeaf4aa-d107-4b95-a445-77712388f5f0",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773093724,
-        "date_posted": 1773093724,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052301",
-        "locations": [
-            "Trowbridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Anduril",
-        "id": "eddfaeec-649e-451d-a2f4-b1d598097bcc",
-        "title": "Micro-electronics Technician",
-        "active": false,
-        "date_updated": 1773094899,
-        "date_posted": 1773094899,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5071873007",
-        "locations": [
-            "Nashua, NH"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bootcamp",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amentum",
-        "id": "cb2628a2-fa2a-49ae-ad5e-5c6b16d8e11f",
-        "title": "Physical Analysis Lab Technician",
-        "active": false,
-        "date_updated": 1773094349,
-        "date_posted": 1773094349,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Physical-Analysis-Lab-Technician_R0155635",
-        "locations": [
-            "Bedford, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CLEAResult",
-        "id": "ba8b4962-985e-4006-a69f-6de3c9fc1aed",
-        "title": "Residential Energy Auditor",
-        "active": false,
-        "date_updated": 1773093764,
-        "date_posted": 1773093764,
-        "url": "https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Evansville-IN---East-Sycamore-Street/Residential-Energy-Auditor_R0017057",
-        "locations": [
-            "Evansville, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/CLEAResult",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ankura Consulting Group",
-        "id": "a1576510-05cb-477f-9acc-7c7d5464b67d",
-        "title": "University Associate - Analytics & Data Strategy",
-        "active": false,
-        "date_updated": 1773095473,
-        "date_posted": 1773095473,
-        "url": "https://ankura.wd5.myworkdayjobs.com/ankura/job/Washington-DC/University-Associate--Analytics---Data-Strategy_R104246",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Ankura-Consulting-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5e036dda-515f-4e10-b461-29f9f2d496e7",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773093723,
-        "date_posted": 1773093723,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052647",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "BTI Solutions",
-        "id": "46210468-3b16-4ac6-87c3-2fae2b7bf16f",
-        "title": "Korean Bilingual Cello WMS Developer",
-        "active": false,
-        "date_updated": 1773095206,
-        "date_posted": 1773095206,
-        "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Santa-Ana-CA/Korean-Bilingual-Cello-WMS-Developer_JR101679",
-        "locations": [
-            "Orange, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/BTI-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "223afe35-2fd9-4484-970d-c5341778519b",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773093723,
-        "date_posted": 1773093723,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052390",
-        "locations": [
-            "Aylesbury, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Arcadis",
-        "id": "2f72ee65-f98f-4cab-af0d-af913f22fa80",
-        "title": "Graduate Air Quality Specialist",
-        "active": false,
-        "date_updated": 1773094200,
-        "date_posted": 1773094200,
-        "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38996",
-        "locations": [
-            "Leeds, UK",
-            "Warrington, UK",
-            "York, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Arcadis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1259edec-196d-4558-81b9-29c163e4472b",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773095309,
-        "date_posted": 1773095309,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052660",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "0d60604f-1de8-4eaa-8853-bd927d188506",
-        "title": "Full-time",
-        "active": false,
-        "date_updated": 1773095403,
-        "date_posted": 1773095403,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Fulltime---Raytheon-Simulation-Analysis-Engineer-I---Onsite_01827957",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -22936,24 +22609,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Fanatics",
-        "id": "ebf764a0-c52b-4a77-98c3-63ad8d43f0c6",
-        "title": "Product Administrator",
-        "active": false,
-        "date_updated": 1773094261,
-        "date_posted": 1773094261,
-        "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27071",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Fanatics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Softheon",
         "id": "f91e50dc-b9ca-4493-84b8-e48c1a67fd07",
@@ -33194,24 +32849,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "JP Morgan Chase",
-        "id": "841f3a2e-94ce-47b8-855b-d708b71ff87e",
-        "title": "Product Manager - Product Manager - Associate",
-        "active": false,
-        "date_updated": 1774965633,
-        "date_posted": 1773094244,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210712043",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -297865,24 +297502,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Jobs for Humanity",
-        "id": "5ffc46fa-3b9d-40d3-b926-075b55b7acf1",
-        "title": "Search Quality Rater - Spanish",
-        "active": false,
-        "date_updated": 1788458727,
-        "date_posted": 1773094582,
-        "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000040251636",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Jobs-For-Humanity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "d4392862-42d3-47ad-a55f-87708184e917",
         "title": "Research Scientist - Model Capability Boundary Exploration and AI Data Flywheel System Development - Global Frontier Tech Recruitment Program - 2027 Start - PhD",
@@ -357576,7 +357195,7 @@
         "company_name": "RTX",
         "id": "810595e2-eb8d-4f91-aaab-f0405b52b2d7",
         "title": "Systems Engineer 2 - Integration and Test",
-        "active": true,
+        "active": false,
         "date_updated": 1792449934,
         "date_posted": 1792449762,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Systems-Engineer-II---Integration-and-Test--Onsite_01874521",
@@ -360206,7 +359825,7 @@
         "company_name": "Frost",
         "id": "918d30c3-15c3-40d4-9b7e-046d5b46152c",
         "title": "Trust Programmer Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792592151,
         "date_posted": 1792540800,
         "url": "https://frostbank.wd5.myworkdayjobs.com/External/job/San-Antonio-TX---Downtown/Trust-Programmer-Analyst-I_R262045",
@@ -372738,7 +372357,7 @@
         "company_name": "MatX",
         "id": "954fed38-8d60-4f66-bc8f-65e0af1a115c",
         "title": "Performance Modeling Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793151723,
         "date_posted": 1790035200,
         "url": "https://jobs.ashbyhq.com/matx/58ee5bab-5f8c-48b3-a223-fb7183f1e895/application?embed=true",
