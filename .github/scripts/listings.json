@@ -255649,7 +255649,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -343667,7 +343667,7 @@
         "company_name": "True Anomaly",
         "id": "e3c0cc9c-ac7f-4225-a8aa-0ee526a4c063",
         "title": "Software Engineer 1 to 3 - Digital Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1791327766,
         "date_posted": 1791327285,
         "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007",
@@ -384562,5 +384562,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Publicis Groupe",
+        "id": "54a19931-6ab5-4ebc-ae93-304287f66c89",
+        "title": "Junior Data Analyst - Social Data & Automation",
+        "active": true,
+        "date_updated": 1793788747,
+        "date_posted": 1793784900,
+        "url": "https://publicisgroupe.jibeapply.com/jobs/179413?icims=1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
