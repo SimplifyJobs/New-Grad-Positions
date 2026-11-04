@@ -255649,7 +255649,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -329670,7 +329670,7 @@
         "company_name": "TripAdvisor",
         "id": "b1e25a04-c0cf-4584-9b3c-cb00a33139c3",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790702916,
         "date_posted": 1790692199,
         "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/6903058",
@@ -384356,5 +384356,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "endeavorai.com",
+        "id": "b9a6c4af-0de6-42ab-bf01-0698fa0f5bf1",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1793760151,
+        "date_posted": 1793750400,
+        "url": "https://jobs.ashbyhq.com/endeavorai/00a6bb4f-fccb-4948-a2e9-71b736c2b0b4/application?embed=true",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Endeavorai-Com",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
