@@ -314112,7 +314112,7 @@
         "company_name": "American Express",
         "id": "0a86151e-ccc1-45a9-a266-21e0e321de55",
         "title": "Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1789395215,
         "date_posted": 1789394954,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013780",
@@ -378563,7 +378563,7 @@
         "company_name": "Northrop Grumman",
         "id": "8a45df0f-a34d-4f7f-8489-65afb38cd04e",
         "title": "Associate Data Scientist - Pathways",
-        "active": true,
+        "active": false,
         "date_updated": 1793313541,
         "date_posted": 1793232000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Data-Scientist---Pathways---Aurora-CO_R10258253-1",
@@ -381511,7 +381511,7 @@
         "company_name": "Northrop Grumman",
         "id": "dc6e6af1-c573-4952-aef5-9791f94fcd44",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793452511,
         "date_posted": 1793404800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018",
@@ -384374,5 +384374,27 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nooks",
+        "id": "2188ec4a-987f-4736-b3c9-2173a826ad74",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1793776862,
+        "date_posted": 1793750400,
+        "url": "https://jobs.ashbyhq.com/nooks/6cdc7c9c-d782-415c-91c5-12bdcc31a7b0/application?embed=true",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Nooks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
