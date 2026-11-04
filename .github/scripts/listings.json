@@ -233278,7 +233278,7 @@
         "company_name": "Samsara",
         "id": "acf63671-cd3d-494b-bf84-c31eb6ae78e5",
         "title": "Software Engineer 1 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1785970154,
         "date_posted": 1785969248,
         "url": "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345",
@@ -349818,7 +349818,7 @@
         "company_name": "Accenture",
         "id": "c8d29e73-aa91-42fb-92af-482d6cdb70d4",
         "title": "System Architect",
-        "active": true,
+        "active": false,
         "date_updated": 1791842948,
         "date_posted": 1791842918,
         "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4721109006",
@@ -376785,7 +376785,7 @@
         "company_name": "Beauhurst",
         "id": "ce7870f3-9963-4b74-8606-25e5eefe83b5",
         "title": "Junior Web Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1793283484,
         "date_posted": 1792771581,
         "url": "https://job-boards.greenhouse.io/beauhurst/jobs/8375802002",
@@ -384522,6 +384522,45 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ShadowDragon",
+        "id": "7c16f1bd-bd39-4a42-a12c-2e49647c85cd",
+        "title": "Junior AI/Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1793787170,
+        "date_posted": 1793787093,
+        "url": "https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c",
+        "locations": [
+            "Remote in USA",
+            "Hoover, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/ShadowDragon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MSA Safety",
+        "id": "9e33637f-f543-4b41-abf9-d8f6c4c8ffea",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1793786761,
+        "date_posted": 1786680161,
+        "url": "https://careers.msasafety.com/jobs/10038?icims=1",
+        "locations": [
+            "Cranberry Township, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/MSA-Safety",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
