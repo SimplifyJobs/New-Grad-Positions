@@ -363782,7 +363782,7 @@
         "company_name": "Nutanix",
         "id": "15e66070-2fc0-44df-a26c-aa4c4303217d",
         "title": "Member of Technical Staff 2",
-        "active": true,
+        "active": false,
         "date_updated": 1792719729,
         "date_posted": 1790374523,
         "url": "https://jobs.jobvite.com/nutanix/job/o4POAfw1?nl=1&nl=1&fr=false",
@@ -376103,7 +376103,7 @@
         "company_name": "Graphcore",
         "id": "33cbbd8e-6de2-476a-ae13-397930a6f399",
         "title": "Graduate Manufacturing Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1793236165,
         "date_posted": 1792491677,
         "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902064002",
@@ -384452,6 +384452,47 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "23f1c2c3-62c7-4b59-ad95-85d0505c58dc",
+        "title": "Software Engineer 1 New Grad - Software - Factory Team",
+        "active": true,
+        "date_updated": 1793784109,
+        "date_posted": 1791763200,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nooks",
+        "id": "27eff2d2-a7ab-477e-b561-728947abe09b",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1793784244,
+        "date_posted": 1778882920,
+        "url": "https://jobs.ashbyhq.com/nooks/a46fd3d9-400c-4f99-bb83-2042a4e12ab3/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Nooks",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
