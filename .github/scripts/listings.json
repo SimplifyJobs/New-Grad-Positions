@@ -1,25 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "50e42aea-1f5b-4b7e-9dc7-36a31d1d7351",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773104825,
-        "date_posted": 1773104825,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051674",
-        "locations": [
-            "Edinburgh, UK",
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Walmart",
         "id": "11036f1f-bc99-4d86-807c-3798385c655b",
@@ -322299,7 +322280,7 @@
         "company_name": "Super Micro Computer",
         "id": "348585cc-c838-4fc7-987f-01c95bb18e67",
         "title": "Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790125922,
         "date_posted": 1790125716,
         "url": "https://jobs.supermicro.com/job/San-Jose-Product-Engineer-Cali/1432791100/?ats=successfactors",
@@ -344393,7 +344374,7 @@
         "company_name": "AeroVironment",
         "id": "09f6b921-fbe7-407a-b2b8-644f344aa041",
         "title": "Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791497909,
         "date_posted": 1791417600,
         "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Petaluma-CA/Electrical-Engineer-I_9066",
