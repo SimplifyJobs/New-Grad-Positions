@@ -253249,7 +253249,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -329537,7 +329537,7 @@
         "company_name": "Frontier Technology",
         "id": "9a553838-a007-4071-b969-45ccfd1b81cb",
         "title": "Associate Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1790806141,
         "date_posted": 1790806036,
         "url": "https://careers-ftidefense.icims.com/jobs/7097/job?mobile=true&needsRedirect=false",
@@ -384682,6 +384682,24 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Imbue",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "OpenEye",
+        "id": "d66afc61-58d9-408c-9945-2705337a9b0d",
+        "title": "RMA Technician",
+        "active": true,
+        "date_updated": 1793875861,
+        "date_posted": 1790722224,
+        "url": "https://job-boards.greenhouse.io/openeye/jobs/8853400002",
+        "locations": [
+            "Liberty Lake, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenEye",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
