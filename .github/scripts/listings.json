@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Comcast",
-        "id": "78b68c39-9bfe-4b32-b075-cde42fb1bc6b",
-        "title": "Junior Full Stack Developer",
-        "active": false,
-        "date_updated": 1773103026,
-        "date_posted": 1773103026,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Junior-Full-Stack-Developer--Eng1-_R430946",
-        "locations": [
-            "Cherry Hills Village, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "50e42aea-1f5b-4b7e-9dc7-36a31d1d7351",
