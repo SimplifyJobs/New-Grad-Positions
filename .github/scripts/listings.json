@@ -1,138 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "West Virginia University",
-        "id": "3ccd5127-426c-4ad7-8fa1-15609ea42456",
-        "title": "Postdoctoral Research Associate - Department of Physics and Astronomy",
-        "active": false,
-        "date_updated": 1773152606,
-        "date_posted": 1773152606,
-        "url": "https://wvu.taleo.net/careersection/faculty/jobdetail.ftl?job=28736",
-        "locations": [
-            "Morgantown, WV"
-        ],
-        "company_url": "https://simplify.jobs/c/West-Virginia-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Greenheck Group",
-        "id": "03bcdee7-ec03-495a-b342-2d4ccf7afe55",
-        "title": "Application Engineer 1",
-        "active": false,
-        "date_updated": 1773152229,
-        "date_posted": 1773152229,
-        "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Clearwater-FL/Application-Engineer-I_JR103280",
-        "locations": [
-            "Clearwater, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Greenheck-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Radiance Technologies",
-        "id": "3c0a711e-0539-44fc-b3e2-d144a0950a61",
-        "title": "Bathymetric Imagery Analyst",
-        "active": false,
-        "date_updated": 1773151909,
-        "date_posted": 1773151909,
-        "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Stennis-Space-Center-MS/Bathymetric-Imagery-Analyst_HR102039-1",
-        "locations": [
-            "John C. Stennis Space Center, MS"
-        ],
-        "company_url": "https://simplify.jobs/c/Radiance-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d8cb8eb0-d22a-4175-874e-513a1c6c50ca",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773151825,
-        "date_posted": 1773151825,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052642",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d5dada12-7906-4927-9152-dd86d5014094",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773151824,
-        "date_posted": 1773151824,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052230",
-        "locations": [
-            "Solihull, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5f3025ce-3cac-41d5-95a2-b9c77525e33b",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773151853,
-        "date_posted": 1773151853,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052688",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2c2ee487-c5db-439c-ab24-6a7b19740bc7",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773151830,
-        "date_posted": 1773151830,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052769",
-        "locations": [
-            "Woking, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Ultra",
         "id": "1fd9b0dd-43ba-4e25-892a-11969b77c0be",
@@ -146,64 +14,6 @@
             "Dorchester, UK"
         ],
         "company_url": "https://simplify.jobs/c/Ultra",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Perle",
-        "id": "b368b35f-e2e3-45c6-be6f-653117b8cac1",
-        "title": "Hebrew Language Specialist",
-        "active": false,
-        "date_updated": 1773152658,
-        "date_posted": 1773152658,
-        "url": "https://ats.rippling.com/perle/jobs/df9140d7-3f1f-4d0b-9b96-5ea92ac4db75",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Perle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "52740a48-f9a8-43d5-be79-238d8584692c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773153020,
-        "date_posted": 1773153020,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052765",
-        "locations": [
-            "High Wycombe, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Howmet Aerospace",
-        "id": "2accf37d-7294-4a20-915e-8467a2253207",
-        "title": "Product Engineer",
-        "active": false,
-        "date_updated": 1773152945,
-        "date_posted": 1773152945,
-        "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116547",
-        "locations": [
-            "Hampton, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Howmet-Aerospace",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -3608,27 +3418,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "KLA Corporation",
-        "id": "1dcc0ac1-0486-43ab-9edb-530c948a3193",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1773269161,
-        "date_posted": 1773153077,
-        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer_2634918-2",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -365888,7 +365677,7 @@
         "company_name": "Lowe's",
         "id": "5ac0b294-ae11-4f57-ae06-078081ad89d2",
         "title": "Associate Analyst-Digital - Launchpad",
-        "active": true,
+        "active": false,
         "date_updated": 1792775716,
         "date_posted": 1792713600,
         "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Associate-Analyst-Digital---Launchpad_JR-02681696",
@@ -366341,7 +366130,7 @@
         "company_name": "State Employees' Credit Union",
         "id": "fe549bbb-6151-4740-b2fa-39a8101b032b",
         "title": "Associate Credit Review Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1792793168,
         "date_posted": 1792713600,
         "url": "https://ncsecu.wd1.myworkdayjobs.com/secu/job/Operations-Wake-Forest-Road/Associate-Credit-Review-Data-Scientist_JR-16697",
@@ -382623,7 +382412,7 @@
         "company_name": "Capital Health",
         "id": "715db6de-8ca3-4249-bbdc-44c8094d1cda",
         "title": "IT Data Engineer 1 - IT Data Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1793844943,
         "date_posted": 1793750400,
         "url": "https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/3131-Princeton-Pike/IT-Data-Engineer-I---IT-DATA-ANALYTICS---Full-time---Day---Lawrenceville--NJ_JR111855",
