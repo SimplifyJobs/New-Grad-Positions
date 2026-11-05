@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Micron Technology",
-        "id": "b3ac6b51-fe71-4bd7-88fe-1399ed187339",
-        "title": "Engineer \u2013 Quality Metro Real-time Defect Analysis",
-        "active": false,
-        "date_updated": 1773136916,
-        "date_posted": 1773136916,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Engineer--Quality-Metro-Real-time-Defect-Analysis_JR94374",
-        "locations": [
-            "Leander, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Air Liquide",
         "id": "cc2d75b2-d0ef-44c4-a501-b19754a503a8",
         "title": "VIE-Data Scientist",
@@ -2722,7 +2702,7 @@
         "company_name": "Waymo",
         "id": "97a2ec87-bbed-4c9b-9026-c59186fd59b1",
         "title": "Applied Research Scientist \u2013 New Grad - Perception Large Language Model/Vision-Language Model - PhD",
-        "active": true,
+        "active": false,
         "date_updated": 1773268640,
         "date_posted": 1773268640,
         "url": "https://careers.withwaymo.com/jobs?gh_jid=7488508",
@@ -86212,7 +86192,7 @@
         "company_name": "Dyna Robotics",
         "id": "701ada33-13fc-4c61-96d2-f3f71fa5f7a9",
         "title": "Data Collection Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1778278141,
         "date_posted": 1778278108,
         "url": "https://jobs.ashbyhq.com/dyna-robotics/3dc6a8a5-98fe-4e33-8a61-08ccff952985/application",
@@ -253269,7 +253249,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -303592,7 +303572,7 @@
         "company_name": "Dyna Robotics",
         "id": "8c775e3d-bd55-4375-86f3-e8416d7c56b7",
         "title": "Robot Safety Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1788606901,
         "date_posted": 1780006149,
         "url": "https://jobs.ashbyhq.com/dyna-robotics/dffc5988-f3f2-4d1e-8648-da249ebc035d/application?embed=true",
@@ -311694,7 +311674,7 @@
         "company_name": "American Express",
         "id": "0a86151e-ccc1-45a9-a266-21e0e321de55",
         "title": "Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1789395215,
         "date_posted": 1789394954,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013780",
@@ -325160,7 +325140,7 @@
         "company_name": "GM financial",
         "id": "63ee202c-e263-4273-bfef-b12583dfe8bb",
         "title": "Software Development Engineer 1 - Mobile",
-        "active": true,
+        "active": false,
         "date_updated": 1790289323,
         "date_posted": 1790288191,
         "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260957",
@@ -357916,7 +357896,7 @@
         "company_name": "Brain Co.",
         "id": "96705002-95d7-4a17-8292-87bbaea60a95",
         "title": "AI Platform Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1792545157,
         "date_posted": 1792544960,
         "url": "https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15/application?embed=true",
@@ -377448,7 +377428,7 @@
         "company_name": "Dyna Robotics",
         "id": "91d36c35-e61d-4094-ba3d-26378c3caa5e",
         "title": "Robot Safety Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1793399227,
         "date_posted": 1793318400,
         "url": "https://jobs.ashbyhq.com/dyna-robotics/cf28c8a4-da64-4f2e-9533-8df37ec46496/application?embed=true",
@@ -384647,5 +384627,63 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Glotech",
+        "id": "d89d9cb0-d6d1-4e1e-a0a5-4a67ab6ede4b",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1793873882,
+        "date_posted": 1793873726,
+        "url": "https://careers-glotech.icims.com/jobs/1958/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Glotech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Glotech",
+        "id": "05a1ee3f-0944-48ca-a424-ad91b773872d",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1793873882,
+        "date_posted": 1793873726,
+        "url": "https://careers-glotech.icims.com/jobs/1979/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Chesapeake, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Glotech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Imbue",
+        "id": "4a41c21f-cb37-47ca-8544-a14aade71286",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1793873215,
+        "date_posted": 1789168688,
+        "url": "https://job-boards.greenhouse.io/imbueunlisted/jobs/4404628009",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Imbue",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
