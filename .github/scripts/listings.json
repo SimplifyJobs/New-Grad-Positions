@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Walmart",
-        "id": "11036f1f-bc99-4d86-807c-3798385c655b",
-        "title": "Staff Data Scientist",
-        "active": false,
-        "date_updated": 1773106505,
-        "date_posted": 1773106505,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Staff--Data-Scientist_R-2434296",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "bf90ca08-f76f-4ba6-85c6-16ce15bdbfc0",
@@ -82781,7 +82760,7 @@
         "company_name": "Apple",
         "id": "746bb3be-a5aa-4167-9ec8-544500967491",
         "title": "Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778078161,
         "date_posted": 1778076699,
         "url": "https://jobs.apple.com/en-us/details/200657034",
@@ -237305,7 +237284,7 @@
         "company_name": "Apple",
         "id": "83116fa6-882c-4fa7-8844-5fdf4d862637",
         "title": "SoC Physical Design Engineer - PnR",
-        "active": true,
+        "active": false,
         "date_updated": 1786169701,
         "date_posted": 1786169680,
         "url": "https://jobs.apple.com/en-us/details/200676744",
@@ -326852,7 +326831,7 @@
         "company_name": "Apple",
         "id": "72f6e435-1060-4700-9b90-48d82c3b1972",
         "title": "CAD Engineer - Signoff Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1790384941,
         "date_posted": 1790384785,
         "url": "https://jobs.apple.com/en-us/details/200685871",
@@ -355842,7 +355821,7 @@
         "company_name": "NVIDIA",
         "id": "80493332-3c89-4c41-ac25-0143b349ecbc",
         "title": "Technical Product Marketing Engineer - Robotics Simulation",
-        "active": true,
+        "active": false,
         "date_updated": 1792448185,
         "date_posted": 1792368000,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742",
@@ -372148,7 +372127,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "9ce3fb07-e190-4d4e-b7aa-02d143af536f",
         "title": "Machine Learning Postdoctoral Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1793178376,
         "date_posted": 1783328544,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990016432706",
