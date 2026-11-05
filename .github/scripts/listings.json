@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Watts Water",
-        "id": "3f816c53-db18-4fbc-b82d-32267b446cde",
-        "title": "Electronic Repair Technologist 1",
-        "active": false,
-        "date_updated": 1773124802,
-        "date_posted": 1773124802,
-        "url": "https://wattswater.wd5.myworkdayjobs.com/external/job/Vernon-BC/Electronic-Repair-Technologist-I_10016455",
-        "locations": [
-            "Kelowna, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Watts-Water",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Applied Materials",
         "id": "36296cbc-a10f-474e-a378-13679080f081",
         "title": "New College Grad: Photonics Design Engineer 3",
@@ -232365,7 +232345,7 @@
         "company_name": "ByteDance",
         "id": "da8a18fa-889f-40b2-aed8-e47cf70f8f15",
         "title": "Graduate Software Engineer - Data-Intelligent Creation-AI Platform-Global Vision Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785996985,
         "date_posted": 1785996824,
         "url": "https://jobs.bytedance.com/en/position/7669859743775000885/detail",
