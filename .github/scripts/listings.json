@@ -2,63 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Royal Bank of Canada",
-        "id": "e3ebfdfc-c27e-46ca-b80c-4be99419c370",
-        "title": "Business Insights Associate",
-        "active": false,
-        "date_updated": 1773156077,
-        "date_posted": 1773156077,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-ST-HELENS-PLACELONDON/Business-Insights-Associate_R-0000163106",
-        "locations": [
-            "London, UK",
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "8a5030aa-c704-40c0-916a-175bf9b067e6",
-        "title": "SCA Engineering Technician 1",
-        "active": false,
-        "date_updated": 1773155535,
-        "date_posted": 1773155535,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/SCA-Engineering-Technician-1_R10225392",
-        "locations": [
-            "Warner Robins, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Allstate Insurance Company",
-        "id": "dd5c65ce-3d82-4536-a07a-5c577351420a",
-        "title": "ATS Technology Development Program",
-        "active": false,
-        "date_updated": 1773156500,
-        "date_posted": 1773156500,
-        "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---CA-Remote/XMLNAME-2026-ATS-Technology-Development-Program_R22128",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Schmidt Sciences",
         "id": "61755196-37af-4667-b39c-627b17968bff",
         "title": "AI Institute Fellow in Residence",
@@ -252958,7 +252901,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -272016,7 +271959,7 @@
         "company_name": "Bridgewater Associates",
         "id": "bbfd547f-84e0-4194-8f94-d9fd13af41da",
         "title": "Trading Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1787781963,
         "date_posted": 1787781886,
         "url": "https://job-boards.greenhouse.io/bwaltpostings/jobs/8750719002",
@@ -384534,6 +384477,105 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ring Power",
+        "id": "571cb87c-c084-4da8-816f-799861ce88f5",
+        "title": "Condition Monitor Analyst - Heavy Equipment",
+        "active": true,
+        "date_updated": 1793892061,
+        "date_posted": 1793836800,
+        "url": "https://careers-ringpower.icims.com/jobs/15628/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Riverview, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Ring-Power",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Smiths Detection Group",
+        "id": "ed313327-7c15-4fea-9ab1-05f7d9c542a2",
+        "title": "Data Analyst Apprentice",
+        "active": true,
+        "date_updated": 1793891883,
+        "date_posted": 1793885698,
+        "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000159869599",
+        "locations": [
+            "Slough, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Smiths-Detection-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ultra Intelligence and Communications",
+        "id": "793a4665-16a2-453a-9f19-f63750227711",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1793891344,
+        "date_posted": 1793836800,
+        "url": "https://ultra.wd3.myworkdayjobs.com/uiccareers/job/Maidenhead-GBR/Graduate-Software-Engineer_REQ-12499-1",
+        "locations": [
+            "Maidenhead, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ultra-Intelligence-And-Communications",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ultra Intelligence and Communications",
+        "id": "155bd3fe-865e-4655-a24e-2b14a72d99e5",
+        "title": "FPGA/Firmware Engineer New Grad",
+        "active": true,
+        "date_updated": 1793891530,
+        "date_posted": 1793836800,
+        "url": "https://ultra.wd3.myworkdayjobs.com/uiccareers/job/Maidenhead-GBR/Graduate-FPGA-Firmware-Engineer_REQ-12553-2",
+        "locations": [
+            "Maidenhead, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ultra-Intelligence-And-Communications",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ultra Intelligence and Communications",
+        "id": "14a114f7-c9ba-4e52-9f80-eafddcfe58a0",
+        "title": "Graduate Hardware Engineer",
+        "active": true,
+        "date_updated": 1793891344,
+        "date_posted": 1793836800,
+        "url": "https://ultra.wd3.myworkdayjobs.com/uiccareers/job/Maidenhead-GBR/Graduate-Hardware-Engineer_REQ-12491-1",
+        "locations": [
+            "Maidenhead, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ultra-Intelligence-And-Communications",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
