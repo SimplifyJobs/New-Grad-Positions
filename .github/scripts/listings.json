@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Applied Materials",
-        "id": "36296cbc-a10f-474e-a378-13679080f081",
-        "title": "New College Grad: Photonics Design Engineer 3",
-        "active": false,
-        "date_updated": 1773126327,
-        "date_posted": 1773126327,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad--Photonics-Design-Engineer-III---Doctorate--Santa-Clara--CA-_R2614488",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "fe994482-a69e-4dcd-a891-9e4cb54eac43",
@@ -154103,7 +154085,7 @@
         "company_name": "Peraton",
         "id": "3e18b0f3-e8d6-4b60-b92d-963abebca45b",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1782378938,
         "date_posted": 1780092557,
         "url": "https://careers-peraton.icims.com/jobs/147065/job?mobile=true&needsRedirect=false",
@@ -154424,7 +154406,7 @@
         "company_name": "SRI International",
         "id": "d521faad-b556-496c-b18b-8174ce12227b",
         "title": "Electronics Design Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1782275581,
         "date_posted": 1780005921,
         "url": "https://careers-sri.icims.com/jobs/6365/job?mobile=true&needsRedirect=false",
@@ -165906,7 +165888,7 @@
         "company_name": "Applied Systems, Inc.",
         "id": "51ca28a3-5501-448a-a399-6a1d14a4fcda",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783376949,
         "date_posted": 1783375535,
         "url": "https://careers-appliedsystems.icims.com/jobs/7318/job?mobile=true&needsRedirect=false",
@@ -205540,7 +205522,7 @@
         "company_name": "SRI International",
         "id": "69027049-de9f-4e0e-bdee-61811ae6424b",
         "title": "Analog IC Design Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784931122,
         "date_posted": 1784930844,
         "url": "https://careers-sri.icims.com/jobs/6441/job?mobile=true&needsRedirect=false",
@@ -239238,7 +239220,7 @@
         "company_name": "PAM Health",
         "id": "81f6102b-b17c-4792-8d73-f5f5b8783ac2",
         "title": "AI Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1786399741,
         "date_posted": 1786399700,
         "url": "https://careers-pamhealth.icims.com/jobs/91855/job?mobile=true&needsRedirect=false",
@@ -243701,7 +243683,7 @@
         "company_name": "Barrios",
         "id": "248bd865-39b3-4dab-8ccf-6a8fed297dc7",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1786526641,
         "date_posted": 1786140365,
         "url": "https://careers-barrios.icims.com/jobs/2840/job?mobile=true&needsRedirect=false",
@@ -249178,7 +249160,7 @@
         "company_name": "ITA International",
         "id": "df7ccad4-e94d-42b5-914a-8875029af2a8",
         "title": "Junior Power Platform Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1786680721,
         "date_posted": 1786680182,
         "url": "https://careers-ita-intl.icims.com/jobs/4470/job?mobile=true&needsRedirect=false",
@@ -260983,7 +260965,7 @@
         "company_name": "ViaSat",
         "id": "3773c43b-c721-49d4-a9ed-3cc2ed025d04",
         "title": "Embedded Software Engineer - Secure Network Systems",
-        "active": false,
+        "active": true,
         "date_updated": 1787177838,
         "date_posted": 1787177699,
         "url": "https://careers.viasat.com/jobs/6722?icims=1",
@@ -263712,7 +263694,7 @@
         "company_name": "Peraton",
         "id": "44c90e9f-c59c-4e93-b432-02dfb8511e62",
         "title": "COBOL Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1787275029,
         "date_posted": 1787274821,
         "url": "https://careers-peraton.icims.com/jobs/169891/job?mobile=true&needsRedirect=false",
@@ -333828,7 +333810,7 @@
         "company_name": "SRI International",
         "id": "2c845569-b5b9-4897-a41f-1b32531b8332",
         "title": "Test Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1791104438,
         "date_posted": 1784758117,
         "url": "https://careers-sri.icims.com/jobs/6439/job?mobile=true&needsRedirect=false",
@@ -333868,7 +333850,7 @@
         "company_name": "Peraton",
         "id": "58b31cf1-a146-494d-b944-3f9f3698ea79",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1791105288,
         "date_posted": 1783605985,
         "url": "https://careers-peraton.icims.com/jobs/168379/job?mobile=true&needsRedirect=false",
@@ -345481,7 +345463,7 @@
         "company_name": "Advantage Solutions",
         "id": "b3a4254f-7841-468a-afc5-650b7ea761c6",
         "title": "Category Insights Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1791554941,
         "date_posted": 1791554925,
         "url": "https://uscareers2-asm.icims.com/jobs/441209/job?mobile=true&needsRedirect=false",
@@ -366825,7 +366807,7 @@
         "company_name": "Meijer",
         "id": "ec3e9690-f766-4512-af30-a7ff06ba310d",
         "title": "Software Engineer 1, AI",
-        "active": true,
+        "active": false,
         "date_updated": 1792795217,
         "date_posted": 1792713600,
         "url": "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Software-Engineer_R000692154",
@@ -372879,7 +372861,7 @@
         "company_name": "Bank of Montreal",
         "id": "eacfdfa1-04e0-4e36-95ce-94979c96c373",
         "title": "Senior Analyst - Data Analytics & Automation Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1793225342,
         "date_posted": 1793145600,
         "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Senior-Analyst--Data-Analytics---Automation-Solutions_R260026408-2",
@@ -383565,6 +383547,103 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Connection",
+        "id": "0eca49b9-0851-4500-ad80-94a7d07e4e0b",
+        "title": "Product Data Editor",
+        "active": true,
+        "date_updated": 1793863261,
+        "date_posted": 1793863242,
+        "url": "https://careers-connection.icims.com/jobs/10118/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Merrimack, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Connection",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "b4c2db2d-3859-453b-823e-8dc517020ce3",
+        "title": "Cloud Software Engineer 1",
+        "active": true,
+        "date_updated": 1793862904,
+        "date_posted": 1793862593,
+        "url": "https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Fort Meade, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Advantage Solutions",
+        "id": "0fd72ebf-0693-460c-bac9-14413b2769fc",
+        "title": "Category Insights Analyst",
+        "active": true,
+        "date_updated": 1793862542,
+        "date_posted": 1793318400,
+        "url": "https://uscareers2-asm.icims.com/jobs/441553/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Advantage-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "84 Lumber",
+        "id": "6a81d31d-6a36-4f0e-bc20-897ebf83b76b",
+        "title": "Associate Web Developer",
+        "active": true,
+        "date_updated": 1793862542,
+        "date_posted": 1792418160,
+        "url": "https://careers.84lumber.com/jobs/26201?icims=1",
+        "locations": [
+            "Eighty Four, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/84-Lumber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Everwatch",
+        "id": "47b0bb99-c1c9-4aef-bd88-5e20f1582549",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1793862698,
+        "date_posted": 1793862415,
+        "url": "https://everwatch-everwatchsolutions.icims.com/jobs/3573/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Everwatch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
