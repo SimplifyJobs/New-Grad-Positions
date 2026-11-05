@@ -2,114 +2,6 @@
     {
         "source": "Simplify",
         "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "fe994482-a69e-4dcd-a891-9e4cb54eac43",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773134611,
-        "date_posted": 1773134611,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052300",
-        "locations": [
-            "Newcastle upon Tyne, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d8c465ff-2919-4ac4-80c2-9184ebf610d2",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773134612,
-        "date_posted": 1773134612,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052373",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d8383e4e-36ce-455c-811a-a0faebf6197b",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773134613,
-        "date_posted": 1773134613,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052675",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ab87d044-7d47-4bed-8adb-b877dd5ec39e",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773134611,
-        "date_posted": 1773134611,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052371",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "7054067a-043a-4bf3-8c47-8536523d920c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773134627,
-        "date_posted": 1773134627,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052682",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "8f337537-a742-49cd-8fd8-0525faeba9b0",
-        "title": "Support Technician",
-        "active": false,
-        "date_updated": 1773133906,
-        "date_posted": 1773133906,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Florence-KY/Support-Technician_R-1006137",
-        "locations": [
-            "Florence, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
         "company_name": "State Street",
         "id": "bf12a188-3e69-4d93-b29b-5d01a400cb0f",
         "title": "Front Office Trading Services - Foreign Exchange - Financing Solutions",
@@ -178629,7 +178521,7 @@
         "company_name": "Dyna Robotics",
         "id": "2b70eb5b-5b8d-4ff2-bd17-7885e217e855",
         "title": "Robot Safety Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1784018344,
         "date_posted": 1781849286,
         "url": "https://jobs.ashbyhq.com/dyna-robotics/07330a37-aa35-4825-9080-66b29256a2fb/application",
@@ -311822,7 +311714,7 @@
         "company_name": "American Express",
         "id": "0a86151e-ccc1-45a9-a266-21e0e321de55",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1789395215,
         "date_posted": 1789394954,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013780",
