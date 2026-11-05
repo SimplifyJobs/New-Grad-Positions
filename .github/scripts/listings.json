@@ -1,102 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "bf90ca08-f76f-4ba6-85c6-16ce15bdbfc0",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773122986,
-        "date_posted": 1773122986,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052670",
-        "locations": [
-            "Exeter, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "bb384d29-1461-484e-b34a-a6a27437dfb5",
-        "title": "Assembly/Wire",
-        "active": false,
-        "date_updated": 1773122871,
-        "date_posted": 1773122871,
-        "url": "https://careers-gdms.icims.com/jobs/70260/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Pittsfield, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "770f8d44-e5bc-4ccc-8f91-b1edcb3f84dc",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773122918,
-        "date_posted": 1773122918,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052669",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "438f098c-ca98-40ce-9c10-5046b47a5c49",
-        "title": "ML Data Associate 1",
-        "active": false,
-        "date_updated": 1773123008,
-        "date_posted": 1773123008,
-        "url": "https://amazon.jobs/en/jobs/3200360/ml-data-associate-i",
-        "locations": [
-            "Tiruchirappalli, Tamil Nadu, India",
-            "Tennessee",
-            "Indiana"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0a1b4f30-7865-460b-a5ae-a91407c5522b",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773122920,
-        "date_posted": 1773122920,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052671",
-        "locations": [
-            "Exeter, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Watts Water",
         "id": "3f816c53-db18-4fbc-b82d-32267b446cde",
@@ -114,24 +18,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Interstates",
-        "id": "80f2c21c-3fee-4af0-945f-9afdcdc272ae",
-        "title": "Manufacturing Production Technician",
-        "active": false,
-        "date_updated": 1773124233,
-        "date_posted": 1773124233,
-        "url": "https://www.interstates.com/careers/jobs?gh_jid=4178960009&gh_jid=4178960009",
-        "locations": [
-            "Sioux City, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Interstates",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -126455,26 +126341,6 @@
             "Richmond, VA"
         ],
         "company_url": "https://simplify.jobs/c/CoStar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Strala Group",
-        "id": "8fc60c09-fa44-4223-889e-377f0773f697",
-        "title": "Deployment Strategist",
-        "active": false,
-        "date_updated": 1780909936,
-        "date_posted": 1773123083,
-        "url": "https://jobs.ashbyhq.com/strala-ai/4f40b2ca-7e81-45ec-ba3a-e62136410184/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Strala-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -269243,7 +269109,7 @@
         "company_name": "RAVE Aerospace",
         "id": "7feb47d9-e494-43b7-b7f4-33b19d9f238e",
         "title": "Test Lab Technician 1 - System Test Lab - Rack Room",
-        "active": true,
+        "active": false,
         "date_updated": 1787654902,
         "date_posted": 1787648772,
         "url": "https://apply.workable.com/raveaerospace/j/D66A327E95/apply",
@@ -382164,7 +382030,7 @@
         "company_name": "Northrop Grumman",
         "id": "9908aecb-a428-4834-8d70-c12be03cbe2c",
         "title": "Associate Electrical Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793748639,
         "date_posted": 1793664000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Associate-Electrical-Engineers---Plymouth-MN_R10259145",
