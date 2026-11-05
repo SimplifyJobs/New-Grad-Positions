@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "State Street",
-        "id": "bf12a188-3e69-4d93-b29b-5d01a400cb0f",
-        "title": "Front Office Trading Services - Foreign Exchange - Financing Solutions",
-        "active": false,
-        "date_updated": 1773136032,
-        "date_posted": 1773136032,
-        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Front-Office-Trading-Services--FX-FS--Officer_R-785152-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Micron Technology",
         "id": "b3ac6b51-fe71-4bd7-88fe-1399ed187339",
@@ -178340,7 +178320,7 @@
         "company_name": "Dyna Robotics",
         "id": "a5a621ed-b394-49ec-adfa-ff0478038d0b",
         "title": "Robot Safety Operator",
-        "active": false,
+        "active": true,
         "date_updated": 1783991521,
         "date_posted": 1783991497,
         "url": "https://jobs.ashbyhq.com/dyna-robotics/179713ee-3f63-4904-8260-13a94dbe178a/application",
@@ -259402,7 +259382,7 @@
         "company_name": "Normal Computing",
         "id": "3163c14a-7b55-40a3-b21d-2696e2c37cd5",
         "title": "AI Research Resident",
-        "active": false,
+        "active": true,
         "date_updated": 1787128021,
         "date_posted": 1787127897,
         "url": "https://jobs.ashbyhq.com/normalcomputing/975c754f-e5dd-4137-9e3e-63c81405d84f/application?embed=true",
@@ -347186,7 +347166,7 @@
         "company_name": "Droyd Robotics",
         "id": "5afe8b8d-b52d-4de6-92c6-fffa8d40b7b3",
         "title": "Robotics Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1791800321,
         "date_posted": 1783174065,
         "url": "https://jobs.ashbyhq.com/droyd/3a9741f7-b408-4e0a-8360-2b23b4397e5a/application?embed=true",
@@ -384589,6 +384569,83 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Alarm.com",
+        "id": "41e6f433-baa6-44dd-8d6b-a2d6b6b250d7",
+        "title": "RMA Technician",
+        "active": true,
+        "date_updated": 1793871902,
+        "date_posted": 1793299765,
+        "url": "https://job-boards.greenhouse.io/alarmcom/jobs/8924188002",
+        "locations": [
+            "Liberty Lake, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alarm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Virginia",
+        "id": "20e281dd-0588-4bfa-9acf-46211e876ce9",
+        "title": "Statistical Associate New Grad",
+        "active": true,
+        "date_updated": 1793872116,
+        "date_posted": 1792540800,
+        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/StatLab-Graduate-Associate--Student-Wage-_R0088483",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "522cf0bf-958b-428f-baa2-25387cdd65a3",
+        "title": "Electrical Engineer 1 New Grad - X-BAT",
+        "active": true,
+        "date_updated": 1793872293,
+        "date_posted": 1790373966,
+        "url": "https://jobs.lever.co/shieldai/5dcaa8e8-df94-4655-9d75-462d497b6b6e/apply",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dyna Robotics",
+        "id": "7197b05a-0403-440c-b27b-656f344c4d18",
+        "title": "Robot Safety Operator",
+        "active": true,
+        "date_updated": 1793871368,
+        "date_posted": 1784326339,
+        "url": "https://jobs.ashbyhq.com/dyna-robotics/8a411884-1078-479d-b3b4-f81f0ef95a73/application?embed=true",
+        "locations": [
+            "Walnut Creek, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dyna-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
