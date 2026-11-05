@@ -1,129 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ciena",
-        "id": "353a9b03-577c-4a75-bc82-a28f90715adc",
-        "title": "Associate Data Analytics",
-        "active": false,
-        "date_updated": 1773183350,
-        "date_posted": 1773183350,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US/Associate--Data-Analytics_R030369",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Blue Origin",
-        "id": "e5f814c5-7100-42e7-96cf-55d2155581bd",
-        "title": "Cable Harness/Electronics Assembly Technician Level 1",
-        "active": false,
-        "date_updated": 1773182787,
-        "date_posted": 1773182787,
-        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Cable-Harness-Electronics-Assembly-Technician-Level-1_R61088",
-        "locations": [
-            "Washington"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Origin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Abbott",
-        "id": "d8d7fd5c-cc35-4d99-b1db-fc404ff24615",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1773182969,
-        "date_posted": 1773182969,
-        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---San-Diego/Software-Engineer_31142265",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Abbott",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Vanderbilt Health",
-        "id": "6abc0db9-2cfb-4006-9303-d29bb0629a8b",
-        "title": "Associate Product Manager - Clinical Engineering Products",
-        "active": false,
-        "date_updated": 1773182492,
-        "date_posted": 1773182492,
-        "url": "https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Associate-Product-Manager---Clinical-Engineering-Products--Local---Hybrid-_R-53983-1",
-        "locations": [
-            "Nashville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Vanderbilt-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "McGill University",
-        "id": "4d09c92f-ac0e-488f-865d-87331886b5ae",
-        "title": "Research Assistant 2",
-        "active": false,
-        "date_updated": 1773181997,
-        "date_posted": 1773181997,
-        "url": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Macdonald-Eng-Bldg/Research-Assistant-2_JR0000074365",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/McGill-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cleveland Clinic",
-        "id": "0ea120cc-a58b-4660-91d7-f17358e0d263",
-        "title": "EBI Database Developer 1",
-        "active": false,
-        "date_updated": 1773181960,
-        "date_posted": 1773181960,
-        "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/EBI-Database-Developer-I_327224",
-        "locations": [
-            "Florida",
-            "Nevada",
-            "Ohio"
-        ],
-        "company_url": "https://simplify.jobs/c/Cleveland-Clinic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Greenheck Group",
         "id": "addfc901-eaf4-4d1a-ab9f-b96737af38e4",
@@ -181,27 +58,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Abbott",
-        "id": "0e5a5814-33f2-4666-8f48-2d04f3decb9a",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1773183690,
-        "date_posted": 1773183690,
-        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Diego/Software-Engineer_31142265-1",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Abbott",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
             "Master's"
         ]
     },
@@ -535,48 +391,6 @@
             "Hartford, CT"
         ],
         "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "518b457f-d649-4bdb-a188-9705146ac6d2",
-        "title": "Manufacturing Engineer / Principal Manufacturing Engineer",
-        "active": false,
-        "date_updated": 1773183602,
-        "date_posted": 1773183602,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Salt-Lake-City/Engineer-Manufacturing-Principal-Engineer-Manufacturing_R10225125",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "41924624-56b4-4145-8faa-c06818268847",
-        "title": "Engineering Technician Level 2 or 3 - Active Secret Clearance Required",
-        "active": false,
-        "date_updated": 1773183591,
-        "date_posted": 1773183591,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Engineering-Technician-Level-2-or-3--Active-Secret-Clearance-Required-_R10225480",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -1285,24 +1099,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "OPTrust",
-        "id": "cbbc1a62-4907-4c7d-8817-a88c31f354ab",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1773182168,
-        "date_posted": 1773182168,
-        "url": "https://optrust.wd3.myworkdayjobs.com/OPTrust/job/Toronto-ON/Data-Analyst_R1169",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/OPTrust",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "54c7e6a2-0d1e-4477-84f1-ade982d0a3d6",
@@ -1318,27 +1114,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amentum",
-        "id": "8298fa01-a146-467b-aab9-b8f6171e2123",
-        "title": "Junior Software Engineer for Naval Research Technology",
-        "active": false,
-        "date_updated": 1773182259,
-        "date_posted": 1773182259,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Junior-Software-Engineer-for-Naval-Research-Technology_R0156107",
-        "locations": [
-            "Fredericksburg, VA",
-            "Dahlgren, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -2243,24 +2018,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CIBC",
-        "id": "6630d06e-beed-48e2-a3e0-373faeb4d118",
-        "title": "Application Developer",
-        "active": false,
-        "date_updated": 1773182658,
-        "date_posted": 1773182658,
-        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Developer_2605414-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/CIBC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -235196,7 +234953,7 @@
         "company_name": "Curtiss-Wright Corporation",
         "id": "b62812e2-241d-4fc7-810e-2726318274e3",
         "title": "Graduate Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786141261,
         "date_posted": 1786060800,
         "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MD-Frederick-Nuclear/Graduate-Engineer_JR13134",
@@ -273392,7 +273149,7 @@
         "company_name": "Instacart",
         "id": "be23128a-5c7b-4120-8bd1-f4887d7042ce",
         "title": "Senior Machine Learning Engineer - Economics",
-        "active": true,
+        "active": false,
         "date_updated": 1787869688,
         "date_posted": 1787869172,
         "url": "https://instacart.careers/job/?gh_jid=8157738",
@@ -341000,7 +340757,7 @@
         "company_name": "Emerson Electric",
         "id": "ab0226db-2b35-4814-8ffe-a19c08c043b6",
         "title": "Digital Hardware Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791382661,
         "date_posted": 1791382269,
         "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011531",
@@ -341937,7 +341694,7 @@
         "company_name": "Sierra Space",
         "id": "c677a8d5-3b0c-4799-888c-bea829d2a321",
         "title": "Software Engineer 1 - DevOps / DevSecOps",
-        "active": true,
+        "active": false,
         "date_updated": 1791413170,
         "date_posted": 1791331200,
         "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/Software-Engineer-I---DevOps---DevSecOps_R26394-1",
@@ -361912,7 +361669,7 @@
         "company_name": "Base Power",
         "id": "da2177cc-6203-4303-a70b-313a3b992e07",
         "title": "Field Reliability Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1792754283,
         "date_posted": 1790979524,
         "url": "https://jobs.ashbyhq.com/base-power/12aa53c2-f9e1-4de5-96e0-b4d6337a33d9/application?embed=true",
