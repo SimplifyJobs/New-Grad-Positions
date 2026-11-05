@@ -252901,7 +252901,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -308281,7 +308281,7 @@
         "company_name": "AllianceBernstein",
         "id": "ee7309ba-fb23-49f4-bcd1-cb34d3b4d7b4",
         "title": "Derivative Valuation Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789078501,
         "date_posted": 1788998400,
         "url": "https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Derivative-Valuation-Analyst_R0019733-2",
@@ -384576,6 +384576,246 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TSC",
+        "id": "b0cbe41f-2d97-4abe-ad47-6289dbbcc613",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1793893897,
+        "date_posted": 1793836800,
+        "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2915",
+        "locations": [
+            "Plymouth, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/TSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "7e8f108e-2c9a-44d6-a6c2-c45e1ec06ace",
+        "title": "Graduate Silicon Architect",
+        "active": true,
+        "date_updated": 1793893892,
+        "date_posted": 1793876651,
+        "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8931568002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisive",
+        "id": "8397a6f4-17a0-4389-94e9-190e720abe38",
+        "title": "Associate Software Developer",
+        "active": true,
+        "date_updated": 1793893861,
+        "date_posted": 1793836800,
+        "url": "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Headquarters-MD/Associate-Software-Developer_JR100449-1",
+        "locations": [
+            "Maryland"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "4c59213c-136f-41cc-89c2-8df6becaa89f",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1793893861,
+        "date_posted": 1793836800,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Junior-Software-Developer_334685",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TD Bank",
+        "id": "d4b9b290-bb1d-4cdc-9f50-5e446cbd9540",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1793893501,
+        "date_posted": 1793836800,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-Ontario/Associate-Software-Engineer_R_1520502",
+        "locations": [
+            "London, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "d443fe25-1d32-477b-ac73-07787d1cc05a",
+        "title": "Software Design/Engineer New Grad",
+        "active": true,
+        "date_updated": 1793893339,
+        "date_posted": 1793836800,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Design-Engineer---New-Grad_R032059",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pfizer",
+        "id": "07498047-bdce-4692-afb4-c717fed1b40c",
+        "title": "Associate AI Engineering",
+        "active": true,
+        "date_updated": 1793893337,
+        "date_posted": 1793836800,
+        "url": "https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-Kingdom---Walton-Oaks/Associate--AI-Engineering_4966818",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Pfizer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PA Consulting",
+        "id": "9db3ebf6-29f4-4a67-be0d-5ec98aa98a72",
+        "title": "Software Development Apprentice - Digital",
+        "active": true,
+        "date_updated": 1793892876,
+        "date_posted": 1793892584,
+        "url": "https://jobs.smartrecruiters.com/PAConsulting/744000159900154",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PA-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "8b389b63-42ed-4984-8afe-1c29b8be4ca4",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1793892884,
+        "date_posted": 1793836800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I_01885871-1",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "6ea2f223-5cd2-4417-acb5-e1428116b0a1",
+        "title": "HBM Design Architect New Grad",
+        "active": true,
+        "date_updated": 1793892876,
+        "date_posted": 1793836800,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---HBM-Design-Architect_JR116832",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Two Sigma",
+        "id": "69a2b80e-0007-44a1-9f87-b52f905dcc1b",
+        "title": "Systematic Strategies Oversight Analyst",
+        "active": true,
+        "date_updated": 1793892602,
+        "date_posted": 1793892601,
+        "url": "https://twosigma.avature.net/careers/JobDetail/14405",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Sigma",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EquipmentShare",
+        "id": "fb9cc829-2767-40a8-bca6-eeec81ba3135",
+        "title": "Junior Ecommerce Web Developer",
+        "active": true,
+        "date_updated": 1793892602,
+        "date_posted": 1793885069,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8319404",
+        "locations": [
+            "Columbia, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
