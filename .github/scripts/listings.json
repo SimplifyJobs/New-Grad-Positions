@@ -359987,7 +359987,7 @@
         "company_name": "Intel",
         "id": "dfc2225f-21bf-4c5e-9fa7-57b903732e6f",
         "title": "SoC Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792708080,
         "date_posted": 1792627200,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Colorado-Fort-Collins/SoC-Design-Verification-Engineer_JR0288393",
@@ -384703,5 +384703,128 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ultra",
+        "id": "cfae8c69-9e45-4609-991d-54aeb249d128",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1793877663,
+        "date_posted": 1793836800,
+        "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Maidenhead-GBR/Graduate-Software-Engineer_REQ-12499-2",
+        "locations": [
+            "Maidenhead, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ultra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ultra",
+        "id": "4f7b34dc-05f5-48b4-a349-d0a8f4dddb34",
+        "title": "Graduate Hardware Engineer",
+        "active": true,
+        "date_updated": 1793877663,
+        "date_posted": 1793836800,
+        "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Maidenhead-GBR/Graduate-Hardware-Engineer_REQ-12491-2",
+        "locations": [
+            "Maidenhead, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ultra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ultra",
+        "id": "1359fcef-d982-4e1f-8f71-538002067263",
+        "title": "FPGA/Firmware Engineer New Grad",
+        "active": true,
+        "date_updated": 1793877682,
+        "date_posted": 1793836800,
+        "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Maidenhead-GBR/Graduate-FPGA-Firmware-Engineer_REQ-12553-3",
+        "locations": [
+            "Maidenhead, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ultra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Google",
+        "id": "fc220677-a2f4-4242-869b-bc904b43547f",
+        "title": "Software Developer 2 \u2013 Early Career",
+        "active": true,
+        "date_updated": 1793876814,
+        "date_posted": 1793616986,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/93868335938052806",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Waterloo, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Didero",
+        "id": "f89a9922-e494-4caf-8db8-4ba1391447ec",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1793876947,
+        "date_posted": 1793059200,
+        "url": "https://jobs.ashbyhq.com/didero/02895105-d069-47cf-b1e2-be7d24909173/application?embed=true",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Didero",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "ebc371a4-4ac1-48dc-af70-51e49ba0f7d4",
+        "title": "Electrical Engineer 1 New Grad",
+        "active": true,
+        "date_updated": 1793876623,
+        "date_posted": 1792022400,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/10eb4e64-8f2d-473f-a53a-1dc53e90f1d6/application?embed=true",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
