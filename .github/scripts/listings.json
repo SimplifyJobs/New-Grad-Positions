@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ultra",
-        "id": "1fd9b0dd-43ba-4e25-892a-11969b77c0be",
-        "title": "Graduate Software Engineer",
-        "active": false,
-        "date_updated": 1773154189,
-        "date_posted": 1773154189,
-        "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Weymouth-Dorset-England-UK/Graduate-Software-Engineer_REQ-11623",
-        "locations": [
-            "Wembley, UK",
-            "Dorchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Ultra",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Royal Bank of Canada",
         "id": "e3ebfdfc-c27e-46ca-b80c-4be99419c370",
@@ -56,26 +35,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Techtronic Industries",
-        "id": "f83c3eab-50aa-4f08-a5d7-2fd1dfe55b8d",
-        "title": "Compliance Specialist",
-        "active": false,
-        "date_updated": 1773154814,
-        "date_posted": 1773154814,
-        "url": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Compliance-Specialist_R71594",
-        "locations": [
-            "Anderson, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/7b5dc30f-d4b0-4752-be0b-3844a8f590e9",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
     },
     {
         "source": "Simplify",
@@ -3826,27 +3785,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "KLA Corporation",
-        "id": "7bef4342-f4f4-466c-aea1-49298d49f62e",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1773305543,
-        "date_posted": 1773154116,
-        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2634918-1",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -283986,7 +283924,7 @@
         "company_name": "WisdomTree",
         "id": "8c9206af-791c-43de-a648-2e50a3be300b",
         "title": "AI Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788401529,
         "date_posted": 1788401513,
         "url": "https://jobs.lever.co/wisdomtree/621718c3-779f-4e9c-9681-be75dafc427e/apply",
@@ -324727,7 +324665,7 @@
         "company_name": "Block",
         "id": "98a6c5ef-8092-4dd4-b01c-ec1e567f5c20",
         "title": "Data Scientist - Payments",
-        "active": true,
+        "active": false,
         "date_updated": 1790289901,
         "date_posted": 1790288564,
         "url": "http://block.xyz/careers/jobs/5214784008?gh_jid=5214784008",
@@ -369915,7 +369853,7 @@
         "company_name": "Amentum",
         "id": "c00e49e3-1cb9-4459-b70f-d8df2e569bac",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793140791,
         "date_posted": 1793059200,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-CA-Vandenberg-AFB/Software-Engineer-Junior_R0173629",
@@ -378475,7 +378413,7 @@
         "company_name": "Cambridge Consultants",
         "id": "ba7a8de1-55e9-4707-ac9c-b356de90fd5e",
         "title": "Graduate Software Engineer - Defence & Security - 2027 start",
-        "active": true,
+        "active": false,
         "date_updated": 1793428382,
         "date_posted": 1790848250,
         "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4908188101",
