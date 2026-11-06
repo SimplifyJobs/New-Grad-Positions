@@ -343384,7 +343384,7 @@
         "company_name": "Goldman Sachs",
         "id": "efd12c2b-ee8c-4336-b12d-d2cfad76be41",
         "title": "Quantitative Strategist - Investment Strategy Group - SQAA Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1791556201,
         "date_posted": 1791555824,
         "url": "https://higher.gs.com/roles/185943",
@@ -383798,6 +383798,48 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "8d9f37dc-7e91-4b54-8583-f266af7d0c8a",
+        "title": "Research Engineer - Agentic Video Editing",
+        "active": true,
+        "date_updated": 1793950220,
+        "date_posted": 1793950131,
+        "url": "https://lifeattiktok.com/search/7704036750285867269",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "0559e77e-4693-4e8a-a1c3-177e65abdd9a",
+        "title": "Software Development Engineer - SoC Hardware Abstraction Layer",
+        "active": true,
+        "date_updated": 1793950220,
+        "date_posted": 1793950073,
+        "url": "https://amazon.jobs/en/jobs/10598432/software-development-engineer-soc-hal",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
