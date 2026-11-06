@@ -350576,7 +350576,7 @@
         "company_name": "Capgemini",
         "id": "774e9af4-befb-4743-b61d-6f1bc8e9a566",
         "title": "Graduate Insights & Data Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1792160882,
         "date_posted": 1792160820,
         "url": "https://careers.capgemini.com/job/London-Graduate-Insights-&-Data-Consultant-2027/1448536533/?ats=successfactors",
@@ -360020,7 +360020,7 @@
         "company_name": "Base Power",
         "id": "e59ade59-bf8e-45f5-8cae-5486b3446f93",
         "title": "Hardware Test Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1792749621,
         "date_posted": 1782770938,
         "url": "https://jobs.ashbyhq.com/base-power/464714c7-4ef4-4f1f-9348-3d009ba038d2/application?embed=true",
@@ -383420,6 +383420,89 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American College of Obstetricians and Gynecologists",
+        "id": "b144a963-f3de-4a6f-8839-795f8fa620b6",
+        "title": "Full-Stack Developer",
+        "active": true,
+        "date_updated": 1793979907,
+        "date_posted": 1790609025,
+        "url": "https://job-boards.greenhouse.io/acog/jobs/4401658009",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-College-Of-Obstetricians-And-Gynecologists",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Base Power",
+        "id": "c3b507d6-58b1-4621-92cc-d91cf21603d6",
+        "title": "Failure Analysis Technician",
+        "active": true,
+        "date_updated": 1793979722,
+        "date_posted": 1793923200,
+        "url": "https://jobs.ashbyhq.com/base-power/2fab77c3-d853-41db-8a77-e97761562030/application?embed=true",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Base-Power",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "a2b2e981-b6ad-4332-89d7-66aed007d477",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1793979039,
+        "date_posted": 1793978938,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1448477600/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Charles Schwab",
+        "id": "3894dc6f-4a40-46a7-a802-6df2df2be783",
+        "title": "Associate Software Development & Engineering",
+        "active": true,
+        "date_updated": 1793979037,
+        "date_posted": 1793923200,
+        "url": "https://career-schwab.icims.com/jobs/129593/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Austin, TX",
+            "Southlake, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-Schwab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Bootcamp"
         ]
     }
 ]
