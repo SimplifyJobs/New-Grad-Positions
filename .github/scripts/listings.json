@@ -251762,7 +251762,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -264219,7 +264219,7 @@
         "company_name": "Northrop Grumman",
         "id": "f6b37c2b-7ce8-46be-9bd2-52ee453ee815",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1787388047,
         "date_posted": 1787270400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Resource-Control-Team-Software-Engineer--Level-1-or-2----AHT_R10247178",
@@ -305451,7 +305451,7 @@
         "company_name": "John Deere",
         "id": "dd5ec129-4b7c-422b-8927-f7c265938023",
         "title": "Data and Analytics Development Program 2 - Data and Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1788994647,
         "date_posted": 1788993321,
         "url": "https://johndeere.eightfold.ai/careers/job/137482525937",
@@ -325949,7 +325949,7 @@
         "company_name": "Early Warning",
         "id": "b81ad8d8-409c-4563-b87b-1aa4661b4937",
         "title": "Software Engineer - Java - Paze",
-        "active": false,
+        "active": true,
         "date_updated": 1790720282,
         "date_posted": 1790640000,
         "url": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Software-Engineer---Java--Paze_REQ2026933",
@@ -332461,7 +332461,7 @@
         "company_name": "Microsoft",
         "id": "b4e7a187-9537-4e72-8b27-c8d54faf0118",
         "title": "Software Engineering - Commercial Engineering & AI - Ceai",
-        "active": false,
+        "active": true,
         "date_updated": 1791108236,
         "date_posted": 1789425238,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
@@ -357228,7 +357228,7 @@
         "company_name": "CVHCare",
         "id": "9ef668e2-fe67-4c92-8976-6ec59284b9f9",
         "title": "Marketing Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1792620542,
         "date_posted": 1792620364,
         "url": "https://cvhcare.applytojob.com/apply/05Fqu09KRR/Marketing-Analyst",
@@ -358297,7 +358297,7 @@
         "company_name": "Computershare",
         "id": "319cbcee-d50c-4be3-965d-86b2c09bdc4a",
         "title": "Graduate AI Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1792678142,
         "date_posted": 1792678054,
         "url": "https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/13282",
@@ -384005,7 +384005,7 @@
         "company_name": "AMD",
         "id": "d44e01c3-b8a5-4859-b95f-b36846c4ed64",
         "title": "Systems Design Engineer - Systems Validation Architecture",
-        "active": true,
+        "active": false,
         "date_updated": 1793920165,
         "date_posted": 1792448497,
         "url": "https://canadacareers-amd.icims.com/jobs/93474/job?mobile=true&needsRedirect=false",
@@ -384018,6 +384018,290 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Osaic",
+        "id": "0058acaf-e2b2-4ee0-a64d-dd519e6d4d8f",
+        "title": "Quantitative Analyst 2",
+        "active": true,
+        "date_updated": 1793922965,
+        "date_posted": 1793836800,
+        "url": "https://advisorgroup.wd1.myworkdayjobs.com/advisor_career_site/job/Scottsdale-AZ/Quantitative-Analyst-II_R0005358",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Osaic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BetterHelp",
+        "id": "648dc7ad-8b3e-4c59-b691-a9223a156a3f",
+        "title": "Data Science Extern",
+        "active": true,
+        "date_updated": 1793922661,
+        "date_posted": 1793899716,
+        "url": "https://job-boards.greenhouse.io/betterhelpcom/jobs/5439919008",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/BetterHelp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cardinal Health",
+        "id": "d8fc2aed-7724-4a66-999c-fadcd1da5162",
+        "title": "Data & Analytics Early Career Development Program",
+        "active": true,
+        "date_updated": 1793922661,
+        "date_posted": 1793836800,
+        "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Data---Analytics-Early-Career-Development-Program--Embark-_20190569",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Cardinal-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "07422e41-7637-4927-8de0-d6f20d75eda9",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1793922125,
+        "date_posted": 1793836800,
+        "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Holmdel-New-Jersey-US/Engineering-Technician---Acacia--Onsite-_2029469",
+        "locations": [
+            "Holmdel, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Regeneron Pharmaceuticals",
+        "id": "9a9fd8bb-c8ac-43e1-9508-984e213b5172",
+        "title": "Data Analyst - Quality Assurance",
+        "active": true,
+        "date_updated": 1793922125,
+        "date_posted": 1793836800,
+        "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSS---GLOBAL-VIEW/Data-Analyst--Quality-Assurance_R52701",
+        "locations": [
+            "Troy, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Regeneron-Pharmaceuticals",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Horizon3.ai",
+        "id": "eff77924-3a66-4e74-97fe-a82c3f014f68",
+        "title": "Research Staff - Adversarial Intelligence",
+        "active": true,
+        "date_updated": 1793921947,
+        "date_posted": 1793836800,
+        "url": "https://jobs.ashbyhq.com/horizon3ai/6134d6f9-4b78-47e9-a57a-93636bc4b666/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Horizon3ai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Unisys",
+        "id": "e6ee9bdf-544b-4d00-a331-f03481ecb95e",
+        "title": "Associate Engineer",
+        "active": true,
+        "date_updated": 1793922159,
+        "date_posted": 1793836800,
+        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-MN-United-States-of-America/Associate-Engineer-ClearPath_REQ575397",
+        "locations": [
+            "Eagan, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Unisys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital Automotive Group",
+        "id": "cfd1fc37-3582-4a60-9573-d2031927d1ed",
+        "title": "AI & Data Systems Specialist",
+        "active": true,
+        "date_updated": 1793921947,
+        "date_posted": 1793836800,
+        "url": "https://capitalauto.wd3.myworkdayjobs.com/capitalautogroupcareers/job/Regina-SK/AI---Data-Systems-Specialist_R3010",
+        "locations": [
+            "Regina, SK, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-Automotive-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "StubHub",
+        "id": "b6f8c62c-4d2c-44f5-8147-cca845fe05d3",
+        "title": "Software Engineer New Grad - Consumer Experience",
+        "active": true,
+        "date_updated": 1793921952,
+        "date_posted": 1793901366,
+        "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/StubHub",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Magnite",
+        "id": "fae59f96-5710-421a-bfae-8a351efd0dd7",
+        "title": "Engineer 1 - Automation and Custom Applications",
+        "active": true,
+        "date_updated": 1793921933,
+        "date_posted": 1793836800,
+        "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Engineer-I_R-01440",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Magnite",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Connecticut State Community College",
+        "id": "a81edb52-97d8-4e8f-a9e2-eb16d6d46179",
+        "title": "Web Developer",
+        "active": true,
+        "date_updated": 1793921762,
+        "date_posted": 1793921684,
+        "url": "https://ctstatecommunitycollege.applytojob.com/apply/eZ3iKftuW4/Web-Developer",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Connecticut-State-Community-College",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "54dc105e-04a3-467e-8c7f-b6bf88166ddc",
+        "title": "Electrical Engineer New Grad - Multiple Teams",
+        "active": true,
+        "date_updated": 1793921768,
+        "date_posted": 1793905824,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8931507002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Aerospace Corporation",
+        "id": "e37caf1c-8d8c-472e-9404-b37ec0454b04",
+        "title": "Operations Forecast Analyst",
+        "active": true,
+        "date_updated": 1793921728,
+        "date_posted": 1793836800,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Operations-Forecast-Analyst_R017089",
+        "locations": [
+            "Colorado Springs, CO",
+            "Chantilly, VA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "First National Bank",
+        "id": "d202058a-5fc5-4367-a227-1ac6460a5269",
+        "title": "Data Analytics Engineer 1",
+        "active": true,
+        "date_updated": 1793921424,
+        "date_posted": 1793836800,
+        "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Data-Analytics-Engineer-1---Pittsburgh-or-Hermitage--PA_2026-02664",
+        "locations": [
+            "Pittsburgh, PA",
+            "Hermitage, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/First-National-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
