@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Quant",
-        "company_name": "Morgan Stanley",
-        "id": "a4987406-9a38-4199-92b8-a60c6f7482b3",
-        "title": "Fid \u2013 Linear Rates Trading - An/As",
-        "active": false,
-        "date_updated": 1773241636,
-        "date_posted": 1773241636,
-        "url": "https://ms.wd5.myworkdayjobs.com/private/job/London-United-Kingdom/FID---Linear-Rates-Trading---An-As_JR029998-2",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "c0db1adc-2a42-46c2-b68b-61072799fc8a",
         "title": "Trading Assistant",
@@ -342805,7 +342785,7 @@
         "company_name": "Goldman Sachs",
         "id": "efd12c2b-ee8c-4336-b12d-d2cfad76be41",
         "title": "Quantitative Strategist - Investment Strategy Group - SQAA Research Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1791556201,
         "date_posted": 1791555824,
         "url": "https://higher.gs.com/roles/185943",
@@ -383316,6 +383296,126 @@
             "Cedar Rapids, IA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "neurohire.ai",
+        "id": "85aaae64-e026-46d9-aeab-35b8a7fc44f6",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1793978466,
+        "date_posted": 1793978431,
+        "url": "https://apply.workable.com/neurohire-dot-a-i/j/FC707275E0/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Neurohire-Ai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "b6863ca3-d3e2-4e91-83fd-6416642b015c",
+        "title": "Personal & Business Banking New Grad",
+        "active": true,
+        "date_updated": 1793977987,
+        "date_posted": 1793923200,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sopra Steria",
+        "id": "fc7dea4f-3945-4de4-a630-62d74a3935a3",
+        "title": "FPGA Verification Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1793977935,
+        "date_posted": 1793976174,
+        "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000160220699",
+        "locations": [
+            "East Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Sopra-Steria",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sopra Steria",
+        "id": "ee28d770-62c1-4e91-8a23-dfb9b4b89234",
+        "title": "FPGA Verification Engineer",
+        "active": true,
+        "date_updated": 1793977964,
+        "date_posted": 1793976761,
+        "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000160224361",
+        "locations": [
+            "Platteville, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Sopra-Steria",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "32cd20b5-fc75-40fb-86a8-f311c1c186fb",
+        "title": "Personal & Business Banking New Grad",
+        "active": true,
+        "date_updated": 1793977773,
+        "date_posted": 1793923200,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TSC",
+        "id": "35571d51-d3fa-46c2-8d2d-d6bc1b29af45",
+        "title": "Electronics Design Engineer",
+        "active": true,
+        "date_updated": 1793977745,
+        "date_posted": 1793923200,
+        "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Huntsville-AL/Electronics-Design-Engineer_JR2927",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/TSC",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
