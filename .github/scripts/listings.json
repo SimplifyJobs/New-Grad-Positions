@@ -221665,7 +221665,7 @@
         "company_name": "JP Morgan Chase",
         "id": "3d5a1762-f363-481e-8f1a-fe8b490d1e8e",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785740950,
         "date_posted": 1785738266,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774111",
