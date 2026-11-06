@@ -1,176 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Agilent Technologies",
-        "id": "ae7de1cd-f2ad-416f-8881-938a0adc525a",
-        "title": "Data Scientist - Integrated Business Planning",
-        "active": false,
-        "date_updated": 1773269619,
-        "date_posted": 1773269619,
-        "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Data-Scientist--Integrated-Business-Planning_4037132",
-        "locations": [
-            "Santa Clara, CA",
-            "Wilmington, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/Agilent-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Waymo",
-        "id": "97a2ec87-bbed-4c9b-9026-c59186fd59b1",
-        "title": "Applied Research Scientist \u2013 New Grad - Perception Large Language Model/Vision-Language Model - PhD",
-        "active": false,
-        "date_updated": 1773268640,
-        "date_posted": 1773268640,
-        "url": "https://careers.withwaymo.com/jobs?gh_jid=7488508",
-        "locations": [
-            "SF",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Waymo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Medtronic",
-        "id": "35319a53-fa3d-468d-bc7a-1e9cf2fb7e0f",
-        "title": "Materials Engineer 1 Neuro/Metal",
-        "active": false,
-        "date_updated": 1773268776,
-        "date_posted": 1773268776,
-        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Materials-Engineer-I-Neuro-Metal_R61332",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Medtronic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Agilent Technologies",
-        "id": "2b00b502-85d1-4bc3-9368-6cadf47b3e23",
-        "title": "Data Scientist - Integrated Business Planning",
-        "active": false,
-        "date_updated": 1773269619,
-        "date_posted": 1773269619,
-        "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Data-Scientist--Integrated-Business-Planning_4037133",
-        "locations": [
-            "Santa Clara, CA",
-            "Wilmington, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/Agilent-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Regal Rexnord",
-        "id": "4e830b2d-50f1-45d0-b67f-ecb1ee7699cc",
-        "title": "Application Engineer",
-        "active": false,
-        "date_updated": 1773268454,
-        "date_posted": 1773268454,
-        "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/United-States/Application-Engineer_R26_00893",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amentum",
-        "id": "635a28ee-a239-4b9f-8200-e32eface0d61",
-        "title": "C++ Junior Software Developer",
-        "active": false,
-        "date_updated": 1773268780,
-        "date_posted": 1773268780,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C---Junior-Software-Developer_R0156280",
-        "locations": [
-            "Dahlgren, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AgWest Farm Credit",
-        "id": "9706bb40-205e-4bb7-beda-52b8bbee30f5",
-        "title": "Data Operations Analyst",
-        "active": false,
-        "date_updated": 1773268326,
-        "date_posted": 1773268326,
-        "url": "https://job-boards.greenhouse.io/agwestfarmcredit/jobs/4178332009",
-        "locations": [
-            "Spokane, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/AgWest-Farm-Credit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "T-Mobile",
-        "id": "77711321-7bd2-46e9-b569-497cdb1821c3",
-        "title": "Associate AI Engineer",
-        "active": false,
-        "date_updated": 1773268343,
-        "date_posted": 1773268343,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Assoc-Engineer--AI-Modeling_REQ329919",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "23b94cd1-34c8-4cff-9151-3671381ab46f",
@@ -304,125 +134,6 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Baxter International",
-        "id": "72d27694-fc25-4808-8c65-80f562aae16d",
-        "title": "Embedded Software Engineer 1",
-        "active": false,
-        "date_updated": 1773268694,
-        "date_posted": 1773268694,
-        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Raleigh-North-Carolina/Embedded-Software-Engineer-I_JR-196893-1",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Baxter-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "General Motors",
-        "id": "bbd4fb62-ea0c-4903-9ff3-2886bf802efe",
-        "title": "ML Validation Research Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1773269693,
-        "date_posted": 1773269693,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Validation-Research-Engineer---Early-Career_JR-202605769",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "5e50d104-4b2a-4299-be1b-990dfc38d4c0",
-        "title": "Embedded Linux Software Engineer 1",
-        "active": false,
-        "date_updated": 1773269465,
-        "date_posted": 1773269465,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Embedded-Linux-Software-Engineer-I--Onsite-_01793223-2",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fiserv",
-        "id": "758af815-d60e-46c3-9ce6-780bda77660a",
-        "title": "Technology Analyst - Analyst Program I",
-        "active": false,
-        "date_updated": 1773268943,
-        "date_posted": 1773268943,
-        "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Technology---Analyst-Program-I_R-10381783",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fiserv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Globus Medical",
-        "id": "05d493ab-098c-46d8-aa5c-bafc4611c1a8",
-        "title": "Associate Product Manager",
-        "active": true,
-        "date_updated": 1773269329,
-        "date_posted": 1773269329,
-        "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Product-Manager_JR105815",
-        "locations": [
-            "King of Prussia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Globus-Medical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Draper",
-        "id": "09fa2e51-18e3-497d-96b0-8e534fcee1da",
-        "title": "Embedded Flight Software Engineer",
-        "active": false,
-        "date_updated": 1773268934,
-        "date_posted": 1773268934,
-        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Flight-Engr-S-W-MTS2_JR001642",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Draper",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -2819,27 +2530,6 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Thermo Fisher Scientific",
-        "id": "867f40e8-601c-4694-8986-c3ce494837e4",
-        "title": "Supply Chain Master Data Analyst",
-        "active": false,
-        "date_updated": 1773390138,
-        "date_posted": 1773269713,
-        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Covingham-Swindon-United-Kingdom/SAP-Manufacturing-Master-Data-Analyst---Planning---Execution_R-01344792-1",
-        "locations": [
-            "Swindon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -26556,26 +26246,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Booz Allen",
-        "id": "f8fbb94a-11c8-4808-ab10-498295d9e157",
-        "title": "Data Scientist",
-        "active": false,
-        "date_updated": 1773269866,
-        "date_posted": 1773269866,
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Monterey-CA/Data-Scientist_R0235523",
-        "locations": [
-            "Monterey, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -323998,7 +323668,7 @@
         "company_name": "Early Warning",
         "id": "b81ad8d8-409c-4563-b87b-1aa4661b4937",
         "title": "Software Engineer - Java - Paze",
-        "active": true,
+        "active": false,
         "date_updated": 1790720282,
         "date_posted": 1790640000,
         "url": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Software-Engineer---Java--Paze_REQ2026933",
@@ -355277,7 +354947,7 @@
         "company_name": "CVHCare",
         "id": "9ef668e2-fe67-4c92-8976-6ec59284b9f9",
         "title": "Marketing Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1792620542,
         "date_posted": 1792620364,
         "url": "https://cvhcare.applytojob.com/apply/05Fqu09KRR/Marketing-Analyst",
