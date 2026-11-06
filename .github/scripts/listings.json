@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fidelity Investments",
-        "id": "d7e65954-11aa-41fe-aa76-5aad55274d47",
-        "title": "Senior Software Engineer/Developer",
-        "active": false,
-        "date_updated": 1773211059,
-        "date_posted": 1773211059,
-        "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Senior-Software-Engineer-Developer_2125602",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Monolithic Power Systems",
         "id": "dcd323bc-7e40-413e-a80a-a2d381d63f81",
@@ -176056,7 +176035,7 @@
         "company_name": "Abridge",
         "id": "ccc30a08-187b-428e-a4e2-333c838dadaa",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783981876,
         "date_posted": 1783980751,
         "url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace/application",
@@ -216269,7 +216248,7 @@
         "company_name": "Apple",
         "id": "8f51a38c-99fe-4884-90b2-1ae463016323",
         "title": "CPU Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785580922,
         "date_posted": 1778076935,
         "url": "https://jobs.apple.com/en-us/details/200628300",
@@ -309683,7 +309662,7 @@
         "company_name": "American Express",
         "id": "a10f1a4a-5612-4fb1-9c86-ce19a91d358d",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1789395221,
         "date_posted": 1789394954,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013782",
@@ -347052,7 +347031,7 @@
         "company_name": "Boeing",
         "id": "9864b3ec-765c-40f0-9db9-5dc911daed42",
         "title": "Entry Level Design and Analysis Engineer - Support Equipt Design, Elect",
-        "active": true,
+        "active": false,
         "date_updated": 1791929717,
         "date_posted": 1791849600,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Saint-Charles-MO/Entry-Level-Design-and-Analysis-Engineer--Support-Equipt-Design---Elect-_JR2026518227",
