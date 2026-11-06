@@ -1,26 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Monolithic Power Systems",
-        "id": "dcd323bc-7e40-413e-a80a-a2d381d63f81",
-        "title": "New Grad Product Marketing Engineer",
-        "active": false,
-        "date_updated": 1773220690,
-        "date_posted": 1773220690,
-        "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/New-Grad-Product-Marketing-Engineer_R-463",
-        "locations": [
-            "San Jose, CA",
-            "Kirkland, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Monolithic-Power-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1774621688,
         "sponsorship": "U.S. Citizenship is Required",
         "active": false,
@@ -1558,44 +1537,6 @@
             "Brampton, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Loblaw-Companies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Betway",
-        "id": "a569f22c-538a-462d-96ee-b721a4378686",
-        "title": "Graduate Data Analyst",
-        "active": false,
-        "date_updated": 1773221209,
-        "date_posted": 1773221209,
-        "url": "https://myhcm.wd3.myworkdayjobs.com/Betway/job/North-London-UK/Graduate-Data-Analyst_JR12378",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Betway",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Betway",
-        "id": "2eaedffc-9dda-41bf-acb3-d4a699518468",
-        "title": "Senior Email Developer - CRM",
-        "active": false,
-        "date_updated": 1773221213,
-        "date_posted": 1773221213,
-        "url": "https://myhcm.wd3.myworkdayjobs.com/Betway/job/North-London-UK/Senior-Email-Developer_JR12379",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Betway",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -63163,7 +63104,7 @@
         "company_name": "Catapult",
         "id": "09ecbd59-57e6-43c3-87e9-2c2d92f3bcb5",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776763793,
         "date_posted": 1776763477,
         "url": "https://job-boards.greenhouse.io/catapultsports/jobs/7821130",
@@ -309683,7 +309624,7 @@
         "company_name": "American Express",
         "id": "0a86151e-ccc1-45a9-a266-21e0e321de55",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1789395215,
         "date_posted": 1789394954,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013780",
@@ -309704,7 +309645,7 @@
         "company_name": "American Express",
         "id": "148415bf-7afd-46b5-bf1f-14cc4f5c0116",
         "title": "Product Manager - Digital Product Management - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1789395224,
         "date_posted": 1789394954,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013779",
@@ -371859,7 +371800,7 @@
         "company_name": "i360technologies",
         "id": "2331133d-deba-41ac-9bfc-8972ef00c147",
         "title": "Oracle Analytics FDI Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1793237586,
         "date_posted": 1792019072,
         "url": "https://job-boards.greenhouse.io/i360technologiesinc/jobs/4452547009",
@@ -383835,6 +383776,45 @@
             "Cupertino, CA"
         ],
         "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Indra Group UK & Ireland",
+        "id": "2ac58140-8967-4799-92be-84f94c1f94ff",
+        "title": "Technician Engineer",
+        "active": true,
+        "date_updated": 1793957042,
+        "date_posted": 1793749192,
+        "url": "https://apply.workable.com/indra-uk/j/2AE335273C/apply",
+        "locations": [
+            "Market Deeping, Peterborough, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Indra-Group-UK-And-Ireland",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Xscape Photonics",
+        "id": "0c79cf7f-d84b-4395-9743-6dbec6a0ecb5",
+        "title": "System Validation Engineer - Photonics",
+        "active": true,
+        "date_updated": 1793956374,
+        "date_posted": 1785341174,
+        "url": "https://www.xscapephotonics.com/join-us?gh_jid=4323236009",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Xscape-Photonics",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
