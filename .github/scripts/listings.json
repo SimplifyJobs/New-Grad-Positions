@@ -1,105 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PermitFlow",
-        "id": "6995976e-4bef-4025-b0a5-99a6c2f868d6",
-        "title": "Analytics Engineer",
-        "active": false,
-        "date_updated": 1773209897,
-        "date_posted": 1773209897,
-        "url": "https://jobs.ashbyhq.com/permitflow/1a016b60-962b-4109-8eeb-6bec98306e6f/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/PermitFlow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "MKS Instruments",
-        "id": "8a064bf4-db4b-49f9-8b4f-e9ec1a76b0d6",
-        "title": "HR Data Analyst",
-        "active": false,
-        "date_updated": 1773209650,
-        "date_posted": 1773209650,
-        "url": "https://mksinst.wd1.myworkdayjobs.com/mkscareersamericas/job/Andover-MA/HR-Data-Analyst_R16774",
-        "locations": [
-            "Andover, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/MKS-Instruments",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "59d1cea8-4f85-44e7-875d-ac5375397281",
-        "title": "Early Career Talent - Software Development Engineer - Firmware",
-        "active": false,
-        "date_updated": 1773209514,
-        "date_posted": 1773209514,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000113887140",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "469a2989-8dfe-48bc-98ba-21b32a538931",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773209502,
-        "date_posted": 1773209502,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052891",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Eurofins",
-        "id": "23cef294-0022-4eaa-a1b9-ebd16424605a",
-        "title": "Application Engineer",
-        "active": false,
-        "date_updated": 1773209265,
-        "date_posted": 1773209265,
-        "url": "https://jobs.smartrecruiters.com/Eurofins/744000113809357",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Eurofins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Fidelity Investments",
         "id": "d7e65954-11aa-41fe-aa76-5aad55274d47",
@@ -139,24 +40,6 @@
         "degrees": [
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0abea9fe-5093-4f1c-8046-a531525b6b2b",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773209500,
-        "date_posted": 1773209500,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052892",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "date_updated": 1774621688,
@@ -347207,7 +347090,7 @@
         "company_name": "Boeing",
         "id": "67e50615-aefb-42db-9faa-45a6f990591b",
         "title": "Entry Level Design and Analysis Engineer - Support Equipt Design, Elect",
-        "active": true,
+        "active": false,
         "date_updated": 1791929717,
         "date_posted": 1791849600,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Entry-Level-Design-and-Analysis-Engineer--Support-Equipt-Design---Elect-_JR2026518227-1",
@@ -378021,7 +377904,7 @@
         "company_name": "AbbVie",
         "id": "d807ef83-bb32-4b77-8a67-894a9125e8f1",
         "title": "AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793661661,
         "date_posted": 1793648174,
         "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016565806",
@@ -383483,7 +383366,7 @@
         "company_name": "Johnson Controls",
         "id": "749ce433-6dfe-47e5-a8f9-807c36272e57",
         "title": "Nextgen Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793920150,
         "date_posted": 1793836800,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Westford-Massachusetts-United-States-of-America/NextGen-Software-Engineer_WD30279369-2",
