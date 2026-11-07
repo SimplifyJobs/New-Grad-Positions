@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sallie Mae",
-        "id": "4642d59a-de2d-455f-97b8-8dd33d12529b",
-        "title": "Data Engineer",
-        "active": false,
-        "date_updated": 1773328103,
-        "date_posted": 1773328103,
-        "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Engineer_R25_000780",
-        "locations": [
-            "Newark, DE",
-            "Dulles, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sallie-Mae",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Cisco",
         "id": "90a021cb-16fe-4e2e-b8a9-a0503a7a8755",
@@ -248446,7 +248425,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -380669,7 +380648,7 @@
         "company_name": "AMD",
         "id": "d44e01c3-b8a5-4859-b95f-b36846c4ed64",
         "title": "Systems Design Engineer - Systems Validation Architecture",
-        "active": false,
+        "active": true,
         "date_updated": 1793920165,
         "date_posted": 1792448497,
         "url": "https://canadacareers-amd.icims.com/jobs/93474/job?mobile=true&needsRedirect=false",
