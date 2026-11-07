@@ -61,122 +61,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "SpaceX",
-        "id": "7ac9326f-37b2-436b-9e22-dc571c015743",
-        "title": "Software Engineer - Embedded Software",
-        "active": true,
-        "date_updated": 1773296841,
-        "date_posted": 1773296841,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8436708002",
-        "locations": [
-            "West Athens, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "NJM Insurance Group",
-        "id": "050aeeed-e3e0-4a80-8608-a0d38abc50a2",
-        "title": "Solution Owner 2 - Personal Lines",
-        "active": false,
-        "date_updated": 1773296413,
-        "date_posted": 1773296413,
-        "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Solution-Owner-II---Personal-Lines_R2007664",
-        "locations": [
-            "Trenton, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/NJM-Insurance-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "c76979e7-3e47-42e4-a2b9-8114dc7dfdb7",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773295849,
-        "date_posted": 1773295849,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053104",
-        "locations": [
-            "Aberdeen, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NAV CANADA",
-        "id": "972073a8-11c8-4440-9363-2bfe7c429a3f",
-        "title": "Air Traffic Management Performance Analyst",
-        "active": false,
-        "date_updated": 1773295382,
-        "date_posted": 1773295382,
-        "url": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Air-Traffic-Management-Performance-Analyst_JR-7867-1",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/NAV-CANADA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lightship RV",
-        "id": "6bb70a81-fee9-4ceb-822d-c66c593943fe",
-        "title": "Field Service Engineer",
-        "active": false,
-        "date_updated": 1773295630,
-        "date_posted": 1773295630,
-        "url": "https://jobs.lever.co/lightship/c031b869-fa93-4544-bfc7-561dd6442559/apply",
-        "locations": [
-            "Broomfield, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/LightshipRV",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2d428c20-ba9d-4fa7-9632-55b9462fda5c",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773295841,
-        "date_posted": 1773295841,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053102",
-        "locations": [
-            "Trafford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Hewlett Packard Enterprise",
         "id": "af5146d7-85f9-4523-8533-0e6a9acf487f",
         "title": "SW Engineering - Systems - Software Engineer I-Embedded System",
@@ -83016,24 +82900,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Together AI",
-        "id": "c7a072a7-ca30-40e2-89d1-b1afc7288d05",
-        "title": "Data Warehouse Engineer",
-        "active": false,
-        "date_updated": 1778288941,
-        "date_posted": 1773296859,
-        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5074064007",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Together-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -372582,7 +372448,7 @@
         "company_name": "Raydar",
         "id": "8708bf87-af06-41ec-bc7f-8110ac41a5c5",
         "title": "Founding Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793313001,
         "date_posted": 1793312987,
         "url": "https://apply.workable.com/raydar/j/85776B356C/apply",
