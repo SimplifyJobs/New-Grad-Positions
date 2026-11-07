@@ -306676,7 +306676,7 @@
         "company_name": "Deepgram",
         "id": "56643b28-dde5-4741-8c6d-159dac2237f7",
         "title": "People AI & Automation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789170841,
         "date_posted": 1789170819,
         "url": "https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316/application?embed=true",
@@ -323809,7 +323809,7 @@
         "company_name": "NVIDIA",
         "id": "19c77b2e-6966-4b3e-a6da-b7c093d51151",
         "title": "Research Scientist - Fundamental Generative AI",
-        "active": false,
+        "active": true,
         "date_updated": 1790722008,
         "date_posted": 1790640000,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739",
@@ -381414,7 +381414,7 @@
         "company_name": "AMD",
         "id": "d44e01c3-b8a5-4859-b95f-b36846c4ed64",
         "title": "Systems Design Engineer - Systems Validation Architecture",
-        "active": true,
+        "active": false,
         "date_updated": 1793920165,
         "date_posted": 1792448497,
         "url": "https://canadacareers-amd.icims.com/jobs/93474/job?mobile=true&needsRedirect=false",
@@ -383055,6 +383055,107 @@
             "Laurel, MD"
         ],
         "company_url": "https://simplify.jobs/c/Visionist",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Subsense",
+        "id": "2d42317b-c10d-4927-bc20-dd43c84db244",
+        "title": "Electrical Engineer",
+        "active": true,
+        "date_updated": 1794017885,
+        "date_posted": 1794017778,
+        "url": "https://jobs.lever.co/subsense/5d721ba5-6aa5-4a62-8ae2-c938c836d7a1/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Subsense",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northwood Space",
+        "id": "45834bcf-a003-4ba2-84d2-aadffde847a4",
+        "title": "Electrical Engineer New Grad",
+        "active": true,
+        "date_updated": 1794017567,
+        "date_posted": 1794009600,
+        "url": "https://jobs.ashbyhq.com/NorthwoodSpace/ca73b132-2264-4649-ad83-73ea3e69fe5d/application?embed=true",
+        "locations": [
+            "LA",
+            "Torrance, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwood-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AbbVie",
+        "id": "4b5a24bb-4cb3-4d79-95d7-860287cc32b8",
+        "title": "Associate Software Engineer 1",
+        "active": true,
+        "date_updated": 1794017367,
+        "date_posted": 1794014714,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016715126",
+        "locations": [
+            "North Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AbbVie",
+        "id": "ace4e9cd-7570-4e01-9270-0686dce912d3",
+        "title": "Associate Engineer - Technology 1",
+        "active": true,
+        "date_updated": 1794017343,
+        "date_posted": 1794012592,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016714871",
+        "locations": [
+            "North Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Iowa State University",
+        "id": "ffa2113a-b45f-49c0-afa2-03a8614f1c28",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1794017299,
+        "date_posted": 1793923200,
+        "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Software-Developer-I_R20057",
+        "locations": [
+            "Ames, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Iowa-State-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
