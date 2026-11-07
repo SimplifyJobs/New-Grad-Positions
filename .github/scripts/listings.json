@@ -1,61 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Formlabs",
-        "id": "669939f6-138f-4751-99d9-7f59c6cb1912",
-        "title": "Engineering Technician",
-        "active": false,
-        "date_updated": 1773325993,
-        "date_posted": 1773325993,
-        "url": "https://careers.formlabs.com/job/7711077/apply/?gh_jid=7711077",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Formlabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Littelfuse",
-        "id": "c35de9e7-9a61-4ba7-ad43-c4e89eca6262",
-        "title": "Reliability Technician",
-        "active": false,
-        "date_updated": 1773327275,
-        "date_posted": 1773327275,
-        "url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Champaign---Oak-Street/Reliability-Technician_JR-111178",
-        "locations": [
-            "Urbana, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Littelfuse",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Barclays",
-        "id": "feb2005f-f9ed-4d08-9535-1283757ff309",
-        "title": "Data Modeller",
-        "active": false,
-        "date_updated": 1773326876,
-        "date_posted": 1773326876,
-        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Data-Modeller_JR-0000084644-1",
-        "locations": [
-            "Northwich, UK",
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Barclays",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sallie Mae",
         "id": "4642d59a-de2d-455f-97b8-8dd33d12529b",
