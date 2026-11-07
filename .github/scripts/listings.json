@@ -1,149 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "23b94cd1-34c8-4cff-9151-3671381ab46f",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773277873,
-        "date_posted": 1773277873,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052490",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Columbia Sportswear Company",
-        "id": "c2e8e16b-4e88-4a46-a28c-694bcee9a331",
-        "title": "Product Line Management Specialist 2 - Footwear",
-        "active": false,
-        "date_updated": 1773277974,
-        "date_posted": 1773277974,
-        "url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Product-Line-Management-Specialist-II---Footwear_R-021035-2",
-        "locations": [
-            "Portland, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Columbia-Sportswear-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Columbia Sportswear Company",
-        "id": "9df62d27-de0d-4c47-ba04-23b6388df8b4",
-        "title": "Product Line Management Specialist 2 - Footwear",
-        "active": false,
-        "date_updated": 1773277959,
-        "date_posted": 1773277959,
-        "url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/Columbia_Career_Site/job/Portland-Oregon-United-States-of-America/Product-Line-Management-Specialist-II---Footwear_R-021035-1",
-        "locations": [
-            "Portland, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Columbia-Sportswear-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "7204479d-891a-4306-b374-7d703f39024b",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773277886,
-        "date_posted": 1773277886,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053100",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Peraton",
-        "id": "05b14a15-e909-409f-9146-de156b350012",
-        "title": "Junior Software Developer",
-        "active": false,
-        "date_updated": 1773277542,
-        "date_posted": 1773277542,
-        "url": "https://careers-peraton.icims.com/jobs/164435/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Bowie, MD",
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Woongjin",
-        "id": "5d2e3058-e80a-41e7-90c4-9b6833082d5f",
-        "title": "WMS Developer - Java - English/Korean",
-        "active": false,
-        "date_updated": 1773277448,
-        "date_posted": 1773277448,
-        "url": "https://jobs.smartrecruiters.com/WJCompany/744000114161577",
-        "locations": [
-            "Orange, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Woongjin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Jerry",
-        "id": "6a462399-ae35-4976-8151-d1bbbf44d49b",
-        "title": "Applied Data Scientist",
-        "active": false,
-        "date_updated": 1773278271,
-        "date_posted": 1773278271,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/2b5810fb-ff0a-4a21-b330-b3669b2ab71f/application",
-        "locations": [
-            "Salt Lake City, UT",
-            "Austin, TX",
-            "Chicago, IL",
-            "NYC",
-            "Phoenix, AZ",
-            "Portland, OR",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Booz Allen",
         "id": "eb755911-d79c-4c7c-8000-2dd138db8962",
@@ -162,28 +19,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "X Development",
-        "id": "c584dd3c-41ef-4532-8e5c-2f7039ea2fce",
-        "title": "Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1773278056,
-        "date_posted": 1773278056,
-        "url": "https://x.company/careers/8456349002?gh_jid=8456349002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/X-Development",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -116296,7 +116131,7 @@
         "company_name": "Micron Technology",
         "id": "0d7e17ba-1903-46ba-bfa9-bf2aa26a1ba6",
         "title": "Mixed Signal Design Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1780474543,
         "date_posted": 1778945051,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Staff-Mixed-Signal-Design-Engine--HBM_JR93217",
@@ -307924,7 +307759,7 @@
         "company_name": "ServiceNow",
         "id": "13ed523b-577a-4fbe-a3da-032a28eb0207",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789394850,
         "date_posted": 1789394635,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000149338366",
@@ -326657,7 +326492,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "0ee73422-ac94-4f05-898c-8c0a21d20d22",
         "title": "Data Scientist/Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790835155,
         "date_posted": 1790726400,
         "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Data-Scientist-Machine-Learning-Engineer_R016761",
@@ -329657,26 +329492,6 @@
         "url": "https://boards.greenhouse.io/spacex/jobs/8477137002",
         "locations": [
             "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SpaceX",
-        "id": "2bb5706b-4324-4071-a17e-a48ae281bc88",
-        "title": "Software Engineer, C++ - C++ - Starlink",
-        "active": true,
-        "date_updated": 1791066632,
-        "date_posted": 1773277731,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8451960002",
-        "locations": [
-            "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/SpaceX",
         "is_visible": true,
@@ -376045,7 +375860,7 @@
         "company_name": "AbbVie",
         "id": "1376d78c-ace4-4a31-994c-9853b8444463",
         "title": "Associate Device Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793661661,
         "date_posted": 1793652081,
         "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016568546",
@@ -377015,7 +376830,7 @@
         "company_name": "Capgemini",
         "id": "1fa93b8e-4b8b-44a2-abe2-7e44cf150d8e",
         "title": "Campus 1&D: Associate Application Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1793719658,
         "date_posted": 1793719577,
         "url": "https://careers.capgemini.com/job/Mississauga-Campus-I&D-Associate-Application-Consultant-ON/1453920933/?ats=successfactors",
