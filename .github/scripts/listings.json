@@ -370750,7 +370750,7 @@
         "company_name": "Entergy",
         "id": "c6265837-cb48-446a-b61c-4d95ac8bbce3",
         "title": "Customer Service Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1793312461,
         "date_posted": 1793312416,
         "url": "https://jobs.entergy.com/job/Baton-Rouge-Customer-Service-Analyst-Loui/1444947700/?ats=successfactors",
@@ -382886,6 +382886,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "e4839ecb-2777-4886-93d2-c56612b08784",
+        "title": "Software Engineer 2 - Test Equipment",
+        "active": true,
+        "date_updated": 1792752883,
+        "date_posted": 1783167603,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-II---Test-Equipment---Onsite_01790413",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
