@@ -56,26 +56,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "e4839ecb-2777-4886-93d2-c56612b08784",
-        "title": "Software Engineer 2",
-        "active": true,
-        "date_updated": 1773310382,
-        "date_posted": 1773310382,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-II---Test-Equipment---Onsite_01790413",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "TWG Global",
         "id": "91484c21-7d21-4781-8d54-3fe7ea8b1db0",
@@ -299200,7 +299180,7 @@
         "company_name": "Dyna Robotics",
         "id": "962208a6-d342-4140-97ec-4cad99d1d9dd",
         "title": "Robot Safety Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1788607441,
         "date_posted": 1780553360,
         "url": "https://jobs.ashbyhq.com/dyna-robotics/d889c611-ab2e-4b5f-b6b6-56655e249561/application?embed=true",
@@ -329516,7 +329496,7 @@
         "company_name": "Microsoft",
         "id": "b4e7a187-9537-4e72-8b27-c8d54faf0118",
         "title": "Software Engineering - Commercial Engineering & AI - Ceai",
-        "active": true,
+        "active": false,
         "date_updated": 1791108236,
         "date_posted": 1789425238,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
@@ -341705,7 +341685,7 @@
         "company_name": "Triumph",
         "id": "a26c7b74-1550-4e9f-bc9a-ed3c7465b92e",
         "title": "Software Engineer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1791585554,
         "date_posted": 1791584817,
         "url": "https://jobs.ashbyhq.com/triumph-arcade/2d8c5061-2419-4755-80d8-c808eef4a82b/application?embed=true",
@@ -382886,6 +382866,27 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "HP Inc.",
+        "id": "9529a91a-0f92-4987-80c6-e2efaf3ba2f5",
+        "title": "Linux/Android Embedded Firmware Developer - Poly",
+        "active": true,
+        "date_updated": 1794046322,
+        "date_posted": 1792439467,
+        "url": "https://job-boards.greenhouse.io/hp/jobs/6228640004",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
