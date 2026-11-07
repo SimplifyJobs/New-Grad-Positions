@@ -1,66 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a6118683-7bfb-4870-87dd-5e2fab150af0",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773306463,
-        "date_posted": 1773306463,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052895",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "43dbbab0-c717-4ffe-8833-d487dbf6d52a",
-        "title": "Software Development Engineer 1",
-        "active": false,
-        "date_updated": 1773306391,
-        "date_posted": 1773306391,
-        "url": "https://amazon.jobs/en/jobs/3195341/software-development-engineer-i",
-        "locations": [
-            "India",
-            "Tennessee",
-            "Chennai, Tamil Nadu, India"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Busuu",
-        "id": "0b3c511b-e92c-4133-b579-fdcc5ad9a983",
-        "title": "Data Engineer",
-        "active": false,
-        "date_updated": 1773307001,
-        "date_posted": 1773307001,
-        "url": "https://osv-chegg.wd5.myworkdayjobs.com/en-US/Busuu/job/London---Busuu/Data-Engineer_R5099",
-        "locations": [
-            "London, UK",
-            "Madrid, Spain"
-        ],
-        "company_url": "https://simplify.jobs/c/Busuu",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1773413699,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -174130,7 +174069,7 @@
         "company_name": "Dyna Robotics",
         "id": "2b70eb5b-5b8d-4ff2-bd17-7885e217e855",
         "title": "Robot Safety Operator",
-        "active": false,
+        "active": true,
         "date_updated": 1784018344,
         "date_posted": 1781849286,
         "url": "https://jobs.ashbyhq.com/dyna-robotics/07330a37-aa35-4825-9080-66b29256a2fb/application",
@@ -313813,7 +313752,7 @@
         "company_name": "PerfectServe",
         "id": "075cb7e8-d845-460b-8465-3af3ab30f11b",
         "title": "Mobile Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789685465,
         "date_posted": 1789684222,
         "url": "https://job-boards.greenhouse.io/perfectserve/jobs/6188374004",
@@ -362634,7 +362573,7 @@
         "company_name": "Boeing",
         "id": "0a84a020-20f0-4f81-904e-c3582b0d20f0",
         "title": "Entry-Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792805404,
         "date_posted": 1792713600,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526418",
@@ -369457,7 +369396,7 @@
         "company_name": "Rocket Lab Corporation",
         "id": "00541c11-5082-412d-b278-829473505007",
         "title": "Harness Design Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1793237837,
         "date_posted": 1793228684,
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8055821003",
@@ -375786,7 +375725,7 @@
         "company_name": "Microsoft",
         "id": "04b02353-a9e6-4727-b867-58601de9c53b",
         "title": "Software Engineer IC2",
-        "active": true,
+        "active": false,
         "date_updated": 1793663484,
         "date_posted": 1793663300,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557050639",
@@ -382927,6 +382866,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tufts University",
+        "id": "1b406b39-21cb-4005-bed0-9b26f1f6d539",
+        "title": "Postdoctoral Scholar",
+        "active": true,
+        "date_updated": 1794043081,
+        "date_posted": 1793825280,
+        "url": "https://jobs.tufts.edu/jobs/24682?icims=1&lang=en-us",
+        "locations": [
+            "Medford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tufts-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
