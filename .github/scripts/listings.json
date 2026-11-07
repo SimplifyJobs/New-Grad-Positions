@@ -1,144 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Netflix",
-        "id": "5a3d9a3a-38b6-456b-98c5-82707b11c4be",
-        "title": "Rigging Technical Assistant",
-        "active": false,
-        "date_updated": 1773297573,
-        "date_posted": 1773297573,
-        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Vancouver/Rigging-Technical-Assistant_JR34738",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Netflix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "2a66c426-bfb9-4fe3-891d-1ad7f16deadb",
-        "title": "Associate Software Engineer/Software Engineer",
-        "active": false,
-        "date_updated": 1773297252,
-        "date_posted": 1773297252,
-        "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_restricted_site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2026-Associate-Software-Engineer-Software-Engineer_R10217878-2",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "13dcf884-d066-4b4b-a3c1-aac75c8eef89",
-        "title": "Associate Embedded Software Engineer",
-        "active": false,
-        "date_updated": 1773297251,
-        "date_posted": 1773297251,
-        "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_restricted_site/job/United-States-Virginia-Dulles/XMLNAME-2026-Associate-Embedded-Software--Embedded-Software-Engineer---Dulles-VA_R10207140-2",
-        "locations": [
-            "Dulles, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "af5146d7-85f9-4523-8533-0e6a9acf487f",
-        "title": "SW Engineering - Systems - Software Engineer I-Embedded System",
-        "active": false,
-        "date_updated": 1773298069,
-        "date_posted": 1773298069,
-        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/SW-Engineering--Systems----Software-Engineer-I--Embedded-System_1200169",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nightwing Intelligence Solutions",
-        "id": "8658e824-81fc-455b-9520-8b713f430fa6",
-        "title": "Entry Level Software Developer",
-        "active": false,
-        "date_updated": 1773298268,
-        "date_posted": 1773298268,
-        "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Developer---Intern_JR101193",
-        "locations": [
-            "Dulles, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nightwing-Intelligence-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Nordson",
-        "id": "af16138c-623f-406c-a33d-0ea9e9d4ffd0",
-        "title": "Product Line Manager 1",
-        "active": false,
-        "date_updated": 1773297903,
-        "date_posted": 1773297903,
-        "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Colorado---Loveland/Product-Line-Manager-I_REQ48525",
-        "locations": [
-            "Loveland, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Nordson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "GAP",
-        "id": "8b488c5f-73c8-43a1-a334-35a8f0fc2814",
-        "title": "Assistant Designer - Women's Apparel",
-        "active": false,
-        "date_updated": 1773297981,
-        "date_posted": 1773297981,
-        "url": "https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Assistant-Designer--Women-s-Apparel_R208178",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/GAP",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "a6118683-7bfb-4870-87dd-5e2fab150af0",
@@ -48836,27 +48698,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "c65d444c-ba74-4d44-bb44-285e864becef",
-        "title": "Electrical Engineer - Subsystems",
-        "active": false,
-        "date_updated": 1776159510,
-        "date_posted": 1773297773,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer-Electrical---Subsystems_R10225727",
-        "locations": [
-            "Palmdale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -310209,7 +310050,7 @@
         "company_name": "Charles Schwab",
         "id": "d6e19b01-22aa-46ab-a8b0-95bb1092f446",
         "title": "Associate Java Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1789510983,
         "date_posted": 1789510088,
         "url": "https://career-schwab.icims.com/jobs/126708/job?mobile=true&needsRedirect=false",
@@ -362407,7 +362248,7 @@
         "company_name": "Boeing",
         "id": "9c419d63-e801-49ea-b32c-d22bcfcd2b97",
         "title": "Entry-Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792795515,
         "date_posted": 1792713600,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526418-1",
@@ -383062,6 +382903,26 @@
             "Livermore, CA"
         ],
         "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "7ac9326f-37b2-436b-9e22-dc571c015743",
+        "title": "Software Engineer - Embedded Software",
+        "active": true,
+        "date_updated": 1792746182,
+        "date_posted": 1780524595,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8436708002",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
