@@ -1,90 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Booz Allen",
-        "id": "eb755911-d79c-4c7c-8000-2dd138db8962",
-        "title": "Data Scientist",
-        "active": false,
-        "date_updated": 1773279569,
-        "date_posted": 1773279569,
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0235691",
-        "locations": [
-            "Chantilly, VA",
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "9e02f77d-0f5a-4cb5-9b0c-25a14b83f5f6",
-        "title": "Long-Horizon Agents Software Engineer",
-        "active": false,
-        "date_updated": 1773280206,
-        "date_posted": 1773280206,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Long-Horizon-Agents-Software-Engineer---New-College-Grad-2026_JR2014184",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Loblaw Companies",
-        "id": "931c30af-96ae-41ec-a871-17dceb118ebc",
-        "title": "Product Analyst",
-        "active": false,
-        "date_updated": 1773279884,
-        "date_posted": 1773279884,
-        "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Product-Analyst--Technology-Application_R2000646991",
-        "locations": [
-            "Brampton, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Loblaw-Companies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Daimler Truck",
-        "id": "d33543a6-e7b2-4bba-bdc4-bbb26cbfd77b",
-        "title": "Supplier Quality Management Analyst 1",
-        "active": false,
-        "date_updated": 1773279745,
-        "date_posted": 1773279745,
-        "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Supplier-Quality-Management-Analyst-I_DT-16980",
-        "locations": [
-            "Portland, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Daimler-Truck",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Netflix",
         "id": "5a3d9a3a-38b6-456b-98c5-82707b11c4be",
@@ -281360,7 +281276,7 @@
         "company_name": "Kikoff",
         "id": "40e6062a-75db-489e-bb33-701876794fe7",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1788412132,
         "date_posted": 1788401198,
         "url": "https://job-boards.greenhouse.io/kikoff/jobs/4393822009",
@@ -336175,7 +336091,7 @@
         "company_name": "HNTB",
         "id": "51b5a86a-51da-42be-8a94-7ce5f41d5501",
         "title": "GIS Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791297161,
         "date_posted": 1791244800,
         "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Baton-Rouge-LA/GIS-Analyst-I_R-31791",
@@ -361874,7 +361790,7 @@
         "company_name": "GSK",
         "id": "7e988982-3b95-4232-9764-1dc02305e318",
         "title": "Analyst AI ML and Cloud Security",
-        "active": true,
+        "active": false,
         "date_updated": 1792775948,
         "date_posted": 1792713600,
         "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK--London--New-Oxford-Street/Analyst--AI-ML-and-Cloud-Security_450144-1",
