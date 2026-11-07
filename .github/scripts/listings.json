@@ -249191,7 +249191,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -337336,7 +337336,7 @@
         "company_name": "Visa",
         "id": "4c2d5f64-e8be-4bd2-b925-eea984ca00ab",
         "title": "Software Engineer Operations and Infrastructure",
-        "active": false,
+        "active": true,
         "date_updated": 1791335734,
         "date_posted": 1791335194,
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W",
@@ -364591,7 +364591,7 @@
         "company_name": "NVIDIA",
         "id": "909f8304-1d05-4145-83ff-7f823e9aedf0",
         "title": "Mixed Signal Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793064800,
         "date_posted": 1790553600,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Mixed-Signal-Design-Engineer---New-College-Grad-2026_JR2025693",
@@ -381414,7 +381414,7 @@
         "company_name": "AMD",
         "id": "d44e01c3-b8a5-4859-b95f-b36846c4ed64",
         "title": "Systems Design Engineer - Systems Validation Architecture",
-        "active": false,
+        "active": true,
         "date_updated": 1793920165,
         "date_posted": 1792448497,
         "url": "https://canadacareers-amd.icims.com/jobs/93474/job?mobile=true&needsRedirect=false",
@@ -383156,6 +383156,46 @@
             "Ames, IA"
         ],
         "company_url": "https://simplify.jobs/c/Iowa-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lumentum",
+        "id": "4c35ea86-4881-4a1a-8263-44df9a6b8c5b",
+        "title": "Process Automation Software Engineer - MEMS",
+        "active": true,
+        "date_updated": 1794018786,
+        "date_posted": 1793923200,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Process-Automation-Software-Engineer---MEMS_20261527",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lumentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "1394a2d1-a410-42ee-ba22-80962c84f4b1",
+        "title": "Embedded Systems Engineer - Super Intelligence Integration",
+        "active": true,
+        "date_updated": 1794018786,
+        "date_posted": 1794007114,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990016713546",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
