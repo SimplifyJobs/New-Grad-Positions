@@ -1,64 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "e920c61c-4e36-466e-91fb-f7e56b5192c2",
-        "title": "Graduate Research Scientist",
-        "active": false,
-        "date_updated": 1773392941,
-        "date_posted": 1773392941,
-        "url": "https://jobs.bytedance.com/en/position/7397590567570426162/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d2a2aeb8-a2a5-4724-b646-5235d1a62e33",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773392825,
-        "date_posted": 1773392825,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053287",
-        "locations": [
-            "Northern Ireland, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Trading212",
-        "id": "2fcb4d3e-597c-4d80-8343-9b9ec840ec02",
-        "title": "Graduate Trading Operations Analyst",
-        "active": false,
-        "date_updated": 1773392849,
-        "date_posted": 1773392849,
-        "url": "https://jobs.ashbyhq.com/trading212/3869cbd3-5700-4a3f-b32c-ac386518ee9a/application",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Trading212",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "GE Vernova",
         "id": "864b1c6f-7b8f-4d7b-9233-04c32b767c63",
@@ -317474,27 +317416,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "f5e5e7e7-1d95-4907-8ad0-5a40a783a6ba",
-        "title": "Research Scientist - Seed Model - Vision",
-        "active": true,
-        "date_updated": 1790246161,
-        "date_posted": 1773392929,
-        "url": "https://jobs.bytedance.com/en/position/7362026100950321459/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Kitware",
         "id": "11592e4e-a518-4c9e-9f89-8c2340373f6b",
         "title": "Annotation Specialist - Computer Vision",
@@ -334921,7 +334842,7 @@
         "company_name": "AMD",
         "id": "20c5756e-32c3-4959-976f-f219f348efb2",
         "title": "Electronics Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1791364322,
         "date_posted": 1788021789,
         "url": "https://careers.amd.com/jobs/91410?icims=1",
@@ -379721,7 +379642,7 @@
         "company_name": "Charles Schwab",
         "id": "206ba36a-050c-448b-b880-2b4c5ab214d4",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794006363,
         "date_posted": 1793923200,
         "url": "https://career-schwab.icims.com/jobs/127949/job?mobile=true&needsRedirect=false",
