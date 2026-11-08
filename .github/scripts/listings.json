@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Adobe",
-        "id": "fddcab17-1476-4ab7-9b29-71e8a89c74d1",
-        "title": "Software Development Engineer",
-        "active": false,
-        "date_updated": 1773365526,
-        "date_posted": 1773365526,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R165849-1",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Analog Devices",
         "id": "4e3d822b-3407-4d92-be03-3d1b812cb4da",
@@ -38,46 +17,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TransUnion",
-        "id": "a0e74b8d-688e-4230-b7d1-b3c1a5521d61",
-        "title": "Developer",
-        "active": false,
-        "date_updated": 1773366865,
-        "date_posted": 1773366865,
-        "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Boca-Raton-Florida/Developer_19038021",
-        "locations": [
-            "Boca Raton, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/TransUnion",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "27c3c5db-66a5-4d74-a0aa-47aa321436fd",
-        "title": "Field Service Engineer 1",
-        "active": false,
-        "date_updated": 1773366660,
-        "date_posted": 1773366660,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Toledo--OH_R4037719-1",
-        "locations": [
-            "Toledo, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
         ]
     },
     {
