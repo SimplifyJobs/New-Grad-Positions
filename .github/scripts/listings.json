@@ -22,26 +22,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "American University",
-        "id": "8cc1f1f3-e8c6-4750-b448-2e17f5b5af4b",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1773385373,
-        "date_posted": 1773385373,
-        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Data-Analyst--IRW_R4028",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "e920c61c-4e36-466e-91fb-f7e56b5192c2",
         "title": "Graduate Research Scientist",
