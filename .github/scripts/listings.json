@@ -1,71 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Walmart",
-        "id": "973ba62b-6aef-4412-87f8-e6be5ba18499",
-        "title": "Software Engineer 3",
-        "active": false,
-        "date_updated": 1773443168,
-        "date_posted": 1773443168,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-III_R-2392718",
-        "locations": [
-            "Bentonville, AR",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "White Cap Supply Holdings",
-        "id": "b30ef89a-04fc-4e6a-b208-3151efb2b926",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1773443641,
-        "date_posted": 1773443641,
-        "url": "https://whitecap.wd1.myworkdayjobs.com/careers/job/REMOTE-TN/Data-Analyst_WCJR-031138-1",
-        "locations": [
-            "Remote in USA",
-            "Doraville, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/White-Cap-Supply-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "nVent",
-        "id": "a71590f2-2c07-4e4c-aefe-dd5da0b5ee4a",
-        "title": "Associate R&D Lab Technician",
-        "active": false,
-        "date_updated": 1773443645,
-        "date_posted": 1773443645,
-        "url": "https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Associate-R-D-Lab-Technician_R20953",
-        "locations": [
-            "Andover, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/bfdacd80-1593-4655-8b3a-da62394b5fff",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "1X",
         "id": "612596b6-9042-4431-a1c0-35d64314813a",
@@ -379050,5 +378985,159 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "cb9057c1-ead7-42d2-8535-e6ee376a8005",
+        "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
+        "active": true,
+        "date_updated": 1794180471,
+        "date_posted": 1794096000,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "5443fedc-d890-4929-9ace-e2ce40d1b5a6",
+        "title": "Engineer 1 New Grad - Software - Autonomous Pilot Integration",
+        "active": true,
+        "date_updated": 1794180471,
+        "date_posted": 1794096000,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/29917792-e504-4cb5-9e70-9d74212d3b1f/application?embed=true",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "2a02aac8-141d-448e-bdf4-a6842f1f372e",
+        "title": "Engineer 1 New Grad - Software - Perception",
+        "active": true,
+        "date_updated": 1794180472,
+        "date_posted": 1794096000,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "07edd5c1-ff46-4123-aaab-3b21723aefff",
+        "title": "Engineer 2 New Grad - Multiple Teams",
+        "active": true,
+        "date_updated": 1794180475,
+        "date_posted": 1794096000,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e7cb113f-9656-452c-a214-40241dfc04b0/application?embed=true",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "cbd9ea2f-0c98-4c65-b81a-72290dca5c9c",
+        "title": "Engineer 1 New Grad - Software - Autonomy Capabilities",
+        "active": true,
+        "date_updated": 1794179556,
+        "date_posted": 1794179352,
+        "url": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896/apply",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "978b9780-aeb1-4efa-a91f-a2184ed0d0d9",
+        "title": "Engineer 1 New Grad - Software - Autonomous Pilot Integration",
+        "active": true,
+        "date_updated": 1794179559,
+        "date_posted": 1794179354,
+        "url": "https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Shield AI",
+        "id": "4ec3d85d-62a9-4b10-8936-7508a8f35bac",
+        "title": "Engineer 1 New Grad - Software - Perception",
+        "active": true,
+        "date_updated": 1794179558,
+        "date_posted": 1794179352,
+        "url": "https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
