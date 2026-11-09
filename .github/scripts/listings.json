@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Varian",
-        "id": "b737ca01-e7bc-45b5-940c-17323baf6335",
-        "title": "Field Service Engineer - Proton Therapy",
-        "active": false,
-        "date_updated": 1773483495,
-        "date_posted": 1773483495,
-        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ATL-G/Field-Service-Engineer--Proton-Therapy----Atlanta--GA_R-27202-1",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "DXC Technology",
         "id": "367a4804-2d31-4c7f-b8d8-453f7a94bf87",
@@ -165,26 +145,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Canadian Tire",
-        "id": "69e75d41-ca5c-4dcf-aa35-cbb393476693",
-        "title": "New Grad Rotational Program - Next Generation Talent - Technology Associate",
-        "active": false,
-        "date_updated": 1773484188,
-        "date_posted": 1773484188,
-        "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/XMLNAME-2026-New-Grad-Rotational-Program---Next-Generation-Talent--Technology-Associate_JR159100-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Canadian-Tire",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -560,26 +520,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Chicago",
-        "id": "72786552-220d-4b78-aed7-0ac6384f19d4",
-        "title": "Data Management Coordinator",
-        "active": false,
-        "date_updated": 1773483365,
-        "date_posted": 1773483365,
-        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Hyde-Park-Campus/Data-Management-Coordinator_JR32682",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Ercot",
         "id": "e4c19383-3748-4153-b806-5b96c8eb9d0b",
@@ -621,27 +561,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Chicago",
-        "id": "90def8d1-3208-4551-9b53-70b3b1acb518",
-        "title": "Research Professional",
-        "active": false,
-        "date_updated": 1773483395,
-        "date_posted": 1773483395,
-        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Professional--EPIC_JR32161",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -721,30 +640,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TD Bank",
-        "id": "a6dee434-c6bd-4a86-8602-cae71b6b4675",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1773483621,
-        "date_posted": 1773483621,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Software-Engineer-I_R_1471732",
-        "locations": [
-            "Montreal, QC, Canada",
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD",
-            "Certificate"
         ]
     },
     {
@@ -1016,24 +911,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Prysmian Cables & Systems",
-        "id": "9ccca75f-28b2-44b0-b22b-d3bfe8574596",
-        "title": "Materials Testing Trainee Technician",
-        "active": false,
-        "date_updated": 1773483403,
-        "date_posted": 1773483403,
-        "url": "https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Bishopstoke/Materials-Testing-Trainee-Technician_R-29743-1",
-        "locations": [
-            "Southampton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/de2a7df6-c0fa-4813-9fba-f1d7a2fb0149",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "AeroVironment",
         "id": "d750ace8-baca-4ad8-8ddb-a516b71b7957",
         "title": "Project Engineer 1",
@@ -1073,26 +950,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Harris Computer",
-        "id": "f0d5bfa9-b592-426d-b122-6084e482e7d5",
-        "title": "Junior Software Developer - UI/UX - Software Development",
-        "active": false,
-        "date_updated": 1773484115,
-        "date_posted": 1773484115,
-        "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ontario-Canada/Junior-Software-Developer_R0040525",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Harris-Computer",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Generac",
         "id": "9f573533-39c1-4a80-bdd1-3878e9171167",
@@ -1113,28 +970,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "TD Bank",
-        "id": "b8037914-8c82-4a04-a49a-dc0cfa249397",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1773483249,
-        "date_posted": 1773483249,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1474811",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Micron Technology",
         "id": "1b084ee5-3448-42f1-819d-c4fc903c9b23",
@@ -1150,26 +985,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Stanley Black & Decker",
-        "id": "e6db1a56-27b0-4734-ae86-d204b7d67ff7",
-        "title": "Engineering Technician - Engines",
-        "active": false,
-        "date_updated": 1773483309,
-        "date_posted": 1773483309,
-        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Technician--Engines_REQ-1000046253",
-        "locations": [
-            "Strongsville, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -301040,7 +300855,7 @@
         "company_name": "Microsoft",
         "id": "a9b5356a-b658-407e-858e-29e74df5f581",
         "title": "Software Engineer - CoreAI",
-        "active": true,
+        "active": false,
         "date_updated": 1789109909,
         "date_posted": 1789109816,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
@@ -336670,7 +336485,7 @@
         "company_name": "Goldman Sachs",
         "id": "efd12c2b-ee8c-4336-b12d-d2cfad76be41",
         "title": "Quantitative Strategist - Investment Strategy Group - SQAA Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1791556201,
         "date_posted": 1791555824,
         "url": "https://higher.gs.com/roles/185943",
