@@ -277,26 +277,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Florida Atlantic University",
-        "id": "c1774400-39f4-4aae-b6c9-6092ff5a3b30",
-        "title": "Postdoctoral Fellow - Ucii",
-        "active": false,
-        "date_updated": 1773481879,
-        "date_posted": 1773481879,
-        "url": "https://fau.wd1.myworkdayjobs.com/FAU/job/Boca-Raton/Postdoctoral-Fellow---Computational-Geomatics---3D-Geospatial-Systems-Ubicquia-Center-for-Intelligent-Infrastructure--UCII-_REQ21743",
-        "locations": [
-            "Boca Raton, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Florida-Atlantic-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Milwaukee Tool",
         "id": "b18f6234-ada1-4d36-a83e-6a0b541f9a6b",
@@ -499,24 +479,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "QTS",
-        "id": "faf3a91e-6c87-4cb3-9e7f-78d13a114ed0",
-        "title": "Critical Operations Technician",
-        "active": false,
-        "date_updated": 1773482512,
-        "date_posted": 1773482512,
-        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Cedar-Rapids-IA/Critical-Operations-Technician_R2025-1155",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/QTS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -943,27 +905,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Texas - Austin",
-        "id": "332b7f1a-9679-41f3-b1f9-5ed2537ae9fa",
-        "title": "Research Scientist Associate 2",
-        "active": false,
-        "date_updated": 1773481704,
-        "date_posted": 1773481704,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Research-Scientist-Associate-II_R_00042047",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "NVIDIA",
         "id": "4abde8fd-c043-447c-9b29-b3af382c19ad",
@@ -1191,24 +1132,6 @@
             "Master's",
             "Certificate"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ee3f0199-d366-450b-8c8e-32b4219d63f2",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773482121,
-        "date_posted": 1773482121,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053424",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -172835,7 +172758,7 @@
         "company_name": "Cisco",
         "id": "7a41b37b-bd8a-4927-901d-15da9744cdcf",
         "title": "Failure Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784154435,
         "date_posted": 1784153503,
         "url": "https://careers.cisco.com/global/en/job/2018947",
@@ -353043,7 +352966,7 @@
         "company_name": "Verne Robotics",
         "id": "4407704d-e239-4257-ac13-403d75458d63",
         "title": "Robot Operations Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792744928,
         "date_posted": 1783174067,
         "url": "https://jobs.ashbyhq.com/Verne%20Robotics/e8d61490-789c-4912-a445-2095d438a147/application?embed=true",
@@ -378963,5 +378886,28 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capgemini",
+        "id": "6bec143b-993b-452d-9160-eaf0e3084331",
+        "title": "Fabric / Power BI Analytics Consultant",
+        "active": true,
+        "date_updated": 1794217683,
+        "date_posted": 1793920492,
+        "url": "https://careers.capgemini.com/job/London-Fabric-Power-BI-Analytics-Consultant/1454855333/?ats=successfactors",
+        "locations": [
+            "London, UK",
+            "Bristol, UK",
+            "Newcastle upon Tyne, UK",
+            "Birmingham, UK",
+            "Glasgow, UK",
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Capgemini",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
