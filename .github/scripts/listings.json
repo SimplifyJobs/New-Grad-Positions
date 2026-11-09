@@ -21,27 +21,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "SOTI",
-        "id": "97a391eb-fe03-4889-9688-0349bb28d3e7",
-        "title": "Software Developer \u2013 New Grad - 8-month Contract",
-        "active": false,
-        "date_updated": 1773499220,
-        "date_posted": 1773499220,
-        "url": "https://soti.wd3.myworkdayjobs.com/Careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer---New-Grad--8-month-Contracts-_R09861-1",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/SOTI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "4151e27a-3ece-4b1e-88da-21db5848d36a",
@@ -233785,7 +233764,7 @@
         "company_name": "KnowBe4",
         "id": "b39547aa-c7c4-4e49-b274-5de7e8f3b7f3",
         "title": "Graduate Data Scientist - Cyber Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1786545361,
         "date_posted": 1786545215,
         "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8700231002",
@@ -376028,7 +376007,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "a2b2e981-b6ad-4332-89d7-66aed007d477",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1793979039,
         "date_posted": 1793978938,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1448477600/?ats=successfactors",
