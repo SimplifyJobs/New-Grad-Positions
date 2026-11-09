@@ -21,24 +21,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "BlackRock",
-        "id": "085433c4-c864-4166-9b62-c8b9d2cf546a",
-        "title": "Quantitative Technology & Implementation",
-        "active": false,
-        "date_updated": 1773484942,
-        "date_posted": 1773484942,
-        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Quantitative-Technology---Implementation--Associate_R261522",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/BlackRock",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "c3c26a4c-0d6f-4026-a69a-f773bf7875a7",
@@ -229,26 +211,6 @@
             "Clearwater, FL"
         ],
         "company_url": "https://simplify.jobs/c/TD-Synnex",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Milwaukee Tool",
-        "id": "b18f6234-ada1-4d36-a83e-6a0b541f9a6b",
-        "title": "Motor Engineer",
-        "active": false,
-        "date_updated": 1773486096,
-        "date_posted": 1773486096,
-        "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Brookfield-WI/Motor-Engineer_R71391",
-        "locations": [
-            "Brookfield, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Milwaukee-Tool",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -462,46 +424,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "PVH",
-        "id": "9f5625fb-e00a-47a8-9222-37d060c4e53b",
-        "title": "Designer 1 Mens Wovens",
-        "active": false,
-        "date_updated": 1773485878,
-        "date_posted": 1773485878,
-        "url": "https://pvh.wd1.myworkdayjobs.com/en-US/PVH_Careers/job/New-York-NY-Calvin-Klein-Office/Designer-I-Mens-Wovens_R57528",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/PVH",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "AeroVironment",
-        "id": "570bbdd2-3972-4136-b70e-6e4956df7ae7",
-        "title": "Electrical",
-        "active": false,
-        "date_updated": 1773485833,
-        "date_posted": 1773485833,
-        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/1300-Britt-Street-Southeast-Albuquerque-NM/Electrical--Electronic--and-Electromechanical--EEE--Parts-Engineer_7028",
-        "locations": [
-            "Albuquerque, NM"
-        ],
-        "company_url": "https://simplify.jobs/c/AeroVironment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "OneDigital",
         "id": "fc51c313-ce03-4b26-88c5-4d785cd05cc6",
@@ -561,27 +483,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Allison Transmission",
-        "id": "ce7a6dff-58d5-4e3c-b3da-52a865318a2f",
-        "title": "Embedded Controls Software Engineer",
-        "active": false,
-        "date_updated": 1773485358,
-        "date_posted": 1773485358,
-        "url": "https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Engineer--Embedded-Controls-Software_R006904-1",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Allison-Transmission",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -722,24 +623,6 @@
         "degrees": [
             "Associate's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hyve Solutions",
-        "id": "a5e53a3d-8104-4e3f-b158-5a63134dcae0",
-        "title": "Quality Technician",
-        "active": false,
-        "date_updated": 1773484377,
-        "date_posted": 1773484377,
-        "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Olive-Branch-MS/Quality-Technician_R42790",
-        "locations": [
-            "Olive Branch, MS"
-        ],
-        "company_url": "https://simplify.jobs/c/100a87e3-2540-44fd-9de7-caea9e8b2cfa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -902,26 +785,6 @@
             "Huntsville, AL"
         ],
         "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "AeroVironment",
-        "id": "d750ace8-baca-4ad8-8ddb-a516b71b7957",
-        "title": "Project Engineer 1",
-        "active": false,
-        "date_updated": 1773485831,
-        "date_posted": 1773485831,
-        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Project-Engineer-II_6540",
-        "locations": [
-            "Simi Valley, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AeroVironment",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -266997,7 +266860,7 @@
         "company_name": "Verne Robotics",
         "id": "ca004f32-b456-4cae-ba94-82034c00e338",
         "title": "Robot Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1787927401,
         "date_posted": 1787927299,
         "url": "https://jobs.ashbyhq.com/Verne%20Robotics/6659c10a-7b48-44f6-a3c4-0c0ab00c11c6/application?embed=true",
@@ -267015,7 +266878,7 @@
         "company_name": "Verne Robotics",
         "id": "c30cb093-fd08-4b69-8630-8625bb0c89a3",
         "title": "Robot Pilot",
-        "active": true,
+        "active": false,
         "date_updated": 1787927401,
         "date_posted": 1787927298,
         "url": "https://jobs.ashbyhq.com/Verne%20Robotics/8bb2da10-4622-4111-99a7-a8f3a996c79e/application?embed=true",
@@ -336485,7 +336348,7 @@
         "company_name": "Goldman Sachs",
         "id": "efd12c2b-ee8c-4336-b12d-d2cfad76be41",
         "title": "Quantitative Strategist - Investment Strategy Group - SQAA Research Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1791556201,
         "date_posted": 1791555824,
         "url": "https://higher.gs.com/roles/185943",
