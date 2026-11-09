@@ -111,27 +111,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "848d8c63-8d7e-4df0-b116-c6d859202dbc",
-        "title": "Scientific Software Developer 2 - Modeler",
-        "active": false,
-        "date_updated": 1773490285,
-        "date_posted": 1773490285,
-        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SANTA-FE-01/Scientific-Software-Developer-II---Modeler_R53423-2",
-        "locations": [
-            "Boston, MA",
-            "Santa Fe, NM"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Northrop Grumman",
         "id": "98812211-b162-41da-a0a2-8a8335143772",
@@ -173,27 +152,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "dc75d2c8-494c-4f61-924e-854d0dd502b6",
-        "title": "Scientific Software Developer 2 - Modeler",
-        "active": false,
-        "date_updated": 1773491492,
-        "date_posted": 1773491492,
-        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SANTA-FE-01/Scientific-Software-Developer-II---Modeler_R53423-1",
-        "locations": [
-            "Boston, MA",
-            "Santa Fe, NM"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Airbus",
         "id": "4953bc01-dd47-4876-95bf-10c6efb863f1",
@@ -206,26 +164,6 @@
             "Bristol, UK"
         ],
         "company_url": "https://simplify.jobs/c/Airbus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Mondelez International",
-        "id": "a7433e60-58fd-43fd-974a-7b59f61e0812",
-        "title": "Scientist 1",
-        "active": false,
-        "date_updated": 1773490689,
-        "date_posted": 1773490689,
-        "url": "https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/East-Hanover-New-Jersey-United-States/Scientist-I_R-160945",
-        "locations": [
-            "Livingston, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Mondelez-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -255,28 +193,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "The Travelers Companies",
-        "id": "00532bdf-8502-46be-bfe7-5cfe112f8dae",
-        "title": "Data Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1773491012,
-        "date_posted": 1773491012,
-        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python--Databricks-_R-48908",
-        "locations": [
-            "Hartford, CT",
-            "Richardson, TX",
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Travelers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "United Parcel Service (UPS)",
         "id": "ea153d3e-3a29-43f5-b28f-2578381b45d7",
         "title": "PT Sup \u2013 F&A Analyst - F&A",
@@ -292,27 +208,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ercot",
-        "id": "e4c19383-3748-4153-b806-5b96c8eb9d0b",
-        "title": "GMS Development Program Entry Level Power & Computer Engineer",
-        "active": false,
-        "date_updated": 1773490043,
-        "date_posted": 1773490043,
-        "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/GMS-Development-Program---Entry-Level-Power---Computer-Engineer_R2189-1",
-        "locations": [
-            "Pflugerville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Ercot",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -333,47 +228,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Adtran",
-        "id": "3026e392-29ef-4e78-80af-43a60b61e1d0",
-        "title": "Test Engineer - Linux Administrator",
-        "active": false,
-        "date_updated": 1773489998,
-        "date_posted": 1773489998,
-        "url": "https://adtran.wd3.myworkdayjobs.com/adtran/job/Adtran-Huntsville-HQ/Test-Engineer---Linux-Admin_R005295",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Adtran",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Travelers Companies",
-        "id": "2bdec219-d6d6-49da-8dee-72d8a08f5612",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1773490836,
-        "date_posted": 1773490836,
-        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--Salesforce-CRM--Copado--Test-Automation-_R-49089",
-        "locations": [
-            "Hartford, CT",
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Travelers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -414,27 +268,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ribbon",
-        "id": "55a31bf5-3610-4d91-8745-efebd23ff9b8",
-        "title": "Junior Software Developer - Cloud Services Development Team",
-        "active": false,
-        "date_updated": 1773491176,
-        "date_posted": 1773491176,
-        "url": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Quebec-Montreal/Junior-Software-Developer---Cloud-Services-Development-Team---Full-time-Position_REQ-2025-2793",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ribbon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -510,46 +343,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "90f4c77b-2166-4a1d-bf3b-e2076cdbc1cf",
-        "title": "Analyst 1: Data & Analytics",
-        "active": false,
-        "date_updated": 1773490914,
-        "date_posted": 1773490914,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-REMOTE/Analyst-I--Data---Analytics--Remote-_01830083",
-        "locations": [
-            "Texas"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "3e5bc178-40c1-4293-a1d5-e82d0b8cbd47",
-        "title": "Electrical Components Engineer 1",
-        "active": false,
-        "date_updated": 1773490902,
-        "date_posted": 1773490902,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/XMLNAME-2026-Fulltime-Raytheon-Electrical-Components-Engineer-I--Onsite-_01830287",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
