@@ -229062,7 +229062,7 @@
         "company_name": "PAM Health",
         "id": "81f6102b-b17c-4792-8d73-f5f5b8783ac2",
         "title": "AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786399741,
         "date_posted": 1786399700,
         "url": "https://careers-pamhealth.icims.com/jobs/91855/job?mobile=true&needsRedirect=false",
@@ -243239,7 +243239,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -333011,7 +333011,7 @@
         "company_name": "RTX",
         "id": "e5467def-2b54-4bda-90a0-cdb22e92de7f",
         "title": "Embedded Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791412931,
         "date_posted": 1791331200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909",
@@ -357469,7 +357469,7 @@
         "company_name": "RTX",
         "id": "f18572f0-ccd6-4309-b276-d13a861f7db2",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1793025575,
         "date_posted": 1792972800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01883492",
@@ -375441,7 +375441,7 @@
         "company_name": "AMD",
         "id": "d44e01c3-b8a5-4859-b95f-b36846c4ed64",
         "title": "Systems Design Engineer - Systems Validation Architecture",
-        "active": true,
+        "active": false,
         "date_updated": 1793920165,
         "date_posted": 1792448497,
         "url": "https://canadacareers-amd.icims.com/jobs/93474/job?mobile=true&needsRedirect=false",
@@ -377602,5 +377602,120 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesco",
+        "id": "43496f04-aeb1-4310-88db-f32b55cca837",
+        "title": "Data Scientist - Simulation & Digital Twins",
+        "active": true,
+        "date_updated": 1794239461,
+        "date_posted": 1794239341,
+        "url": "https://tesco.avature.net/en_GB/careers/JobDetail/210371",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Adidas",
+        "id": "b6d660a3-34f6-4c5c-be7e-a5f17d6eeb1d",
+        "title": "Product & Ranging New Grad",
+        "active": true,
+        "date_updated": 1794239363,
+        "date_posted": 1794239141,
+        "url": "https://jobs.adidas-group.com/job/Stockport-PRODUCT-&-RANGING-GRADUATE-2027-MANCHESTER/1455579633/?ats=successfactors",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Adidas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adidas",
+        "id": "51d76cb5-4b77-4d0e-a6cd-60ff7074a388",
+        "title": "Business Insights New Grad",
+        "active": true,
+        "date_updated": 1794239356,
+        "date_posted": 1794239142,
+        "url": "https://jobs.adidas-group.com/job/Stockport-BUSINESS-INSIGHTS-GRADUATE-2027-MANCHESTER/1455581533/?ats=successfactors",
+        "locations": [
+            "Stockport, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Adidas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CarMax",
+        "id": "84b3a617-5b43-4e9a-ae21-d04c8cb03a09",
+        "title": "Technology Rotation Program",
+        "active": true,
+        "date_updated": 1794238561,
+        "date_posted": 1794182400,
+        "url": "https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Technology-Rotation-Program_JR-189585",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CarMax",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Abbott",
+        "id": "98b9dfcb-30af-4f24-88ee-d581295352ac",
+        "title": "Senior Software Developer",
+        "active": true,
+        "date_updated": 1794238381,
+        "date_posted": 1794182400,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/Senior-Software-Developer_31167234",
+        "locations": [
+            "Witney, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Netholabs",
+        "id": "6f424929-8ec3-4853-902f-a11ffcc2f277",
+        "title": "Junior AI/ML Engineer",
+        "active": true,
+        "date_updated": 1794238381,
+        "date_posted": 1794182400,
+        "url": "https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Netholabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
