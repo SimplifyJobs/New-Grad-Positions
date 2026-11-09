@@ -112,74 +112,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "iHeartMedia",
-        "id": "f39b4b38-717a-4ac1-a0f6-79d5d32632de",
-        "title": "Board Operator - Board Operator",
-        "active": false,
-        "date_updated": 1773488873,
-        "date_posted": 1773488873,
-        "url": "https://iheartmedia.wd5.myworkdayjobs.com/iHM_Technology_Site/job/Dayton-OH-31-S-Main-St-Suite-208-45402/Part-Time-Board-Operator_Req37885",
-        "locations": [
-            "Dayton, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/IHeartMedia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Travelers Companies",
-        "id": "30011f8c-5982-4446-b1a6-5e8e55ac2642",
-        "title": "Data Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1773489051,
-        "date_posted": 1773489051,
-        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I---BI-Data-Modernization--AWS--Databricks--Python-_R-48854-1",
-        "locations": [
-            "Hartford, CT",
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Travelers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TD Synnex",
-        "id": "f6381f46-9044-4871-a9f7-e6f5476f6420",
-        "title": "Business Systems Engineer",
-        "active": false,
-        "date_updated": 1773489677,
-        "date_posted": 1773489677,
-        "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/Business-Systems-Engineer---Spcialiste-en-systmes-d-affaires_R46480",
-        "locations": [
-            "Washington",
-            "Texas",
-            "Remote in USA",
-            "Mississauga, ON, Canada",
-            "Greenville, SC",
-            "Phoenix, AZ",
-            "Remote in Canada",
-            "Clearwater, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Synnex",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Cadence Design Systems",
         "id": "848d8c63-8d7e-4df0-b116-c6d859202dbc",
         "title": "Scientific Software Developer 2 - Modeler",
@@ -237,26 +169,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "iHeartMedia",
-        "id": "007ce2a7-b34d-410a-8fef-2a755f359832",
-        "title": "Board Operator - Board Operator",
-        "active": false,
-        "date_updated": 1773489129,
-        "date_posted": 1773489129,
-        "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Dayton-OH-31-S-Main-St-Suite-208-45402/Part-Time-Board-Operator_Req37885-4",
-        "locations": [
-            "Dayton, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/IHeartMedia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -426,24 +338,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "The Walt Disney Company",
-        "id": "ae4def34-06b6-4eca-a02e-d93406bcba6d",
-        "title": "Technical Assistant 1",
-        "active": false,
-        "date_updated": 1773488397,
-        "date_posted": 1773488397,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/London-United-Kingdom/Technical-Assistant-I_10036223",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Adtran",
         "id": "3026e392-29ef-4e78-80af-43a60b61e1d0",
         "title": "Test Engineer - Linux Administrator",
@@ -582,27 +476,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "4abde8fd-c043-447c-9b29-b3af382c19ad",
-        "title": "ASIC Hardware Design Engineer",
-        "active": false,
-        "date_updated": 1773489521,
-        "date_posted": 1773489521,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Hardware-Design-Engineer---New-College-Grad-2026_JR2011787",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "RTX",
         "id": "15bfcc07-6976-4ef9-b3be-e02ab51fc348",
         "title": "Electrical Computer Aided Designer",
@@ -618,36 +491,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bank of America",
-        "id": "f9d6bf78-99b1-483c-a095-904cf31802aa",
-        "title": "Data Scientist 1 - Client Protection",
-        "active": false,
-        "date_updated": 1773488558,
-        "date_posted": 1773488558,
-        "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Data-Scientist-I---Client-Protection_26004726",
-        "locations": [
-            "Boston, MA",
-            "Tampa, FL",
-            "Plano, TX",
-            "Newark, NJ",
-            "Chicago, IL",
-            "Charlotte, NC",
-            "Fort Worth, TX",
-            "Phoenix, AZ",
-            "Jacksonville, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Bank-Of-America",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
