@@ -1,67 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "a4b21653-eb05-46ff-9fdc-d731cc03ba8a",
-        "title": "Sentinel Nuclear Surety Systems / Principal Systems Engineer - 1",
-        "active": false,
-        "date_updated": 1773494642,
-        "date_posted": 1773494642,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Nuclear-Surety-Systems---Principal-Systems-Engineer---7752-1_R10225063",
-        "locations": [
-            "Hill AFB, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "a7e9ade7-c661-4373-a66f-14a7d6b8fccc",
-        "title": "Field Engineer 1",
-        "active": false,
-        "date_updated": 1773493394,
-        "date_posted": 1773493394,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1--Sioux-Falls--SD_R4034109-2",
-        "locations": [
-            "Sioux Falls, SD"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ann & Robert H. Lurie Children\u2019s Hospital of Chicago",
-        "id": "1dde5207-eaa0-48cd-938f-94adb054304b",
-        "title": "Data Architect 1",
-        "active": false,
-        "date_updated": 1773494623,
-        "date_posted": 1773494623,
-        "url": "https://luriechildrens.wd1.myworkdayjobs.com/externalportal/job/Streeterville-Chicago-IL/Data-Architect-I_JR2025-2972",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Ann-Robert-H-Lurie-Childrens-Hospital-Of-Chicago",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Carnegie Mellon University",
         "id": "764d003a-5a6f-4bf8-942d-bbff43ca46e9",
@@ -371644,7 +371583,7 @@
         "company_name": "Medtronic",
         "id": "53066c28-3249-4a5b-994d-b5effa92d655",
         "title": "Reliability Engineer 1 - Hardware / Electrical",
-        "active": true,
+        "active": false,
         "date_updated": 1793749512,
         "date_posted": 1793749497,
         "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Reliability-Engineer-I---Hardware---Electrical_R68475",
