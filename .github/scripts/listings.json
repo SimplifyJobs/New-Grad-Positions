@@ -72548,7 +72548,7 @@
         "company_name": "Apple",
         "id": "2df0d44a-46c2-4457-a83f-be58471fcd4b",
         "title": "Design Verification Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778078161,
         "date_posted": 1778076685,
         "url": "https://jobs.apple.com/en-us/details/200657224",
@@ -277168,7 +277168,7 @@
         "company_name": "Cisco",
         "id": "6fc52e99-15ec-474d-badb-f26015b0d0bb",
         "title": "Electrical Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1788207672,
         "date_posted": 1786492800,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Electrical-Engineer_2020283",
@@ -283128,7 +283128,7 @@
         "company_name": "Cisco",
         "id": "9a88516a-75d8-4bc7-92fe-82826eff3fab",
         "title": "Electrical Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1788436204,
         "date_posted": 1786602573,
         "url": "https://careers.cisco.com/global/en/job/2020283",
@@ -356004,7 +356004,7 @@
         "company_name": "Lightcast",
         "id": "04eb3a23-ce51-4cd6-98d8-d07da555aff7",
         "title": "Associate Applied Machine Learning Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1792793794,
         "date_posted": 1792793659,
         "url": "https://jobs.lever.co/economicmodeling/ac72eba1-48f4-46e5-b0c6-93b6780b2618/apply",
@@ -375403,7 +375403,7 @@
         "company_name": "AMD",
         "id": "d44e01c3-b8a5-4859-b95f-b36846c4ed64",
         "title": "Systems Design Engineer - Systems Validation Architecture",
-        "active": false,
+        "active": true,
         "date_updated": 1793920165,
         "date_posted": 1792448497,
         "url": "https://canadacareers-amd.icims.com/jobs/93474/job?mobile=true&needsRedirect=false",
@@ -377589,7 +377589,7 @@
         "company_name": "Adidas",
         "id": "b6d660a3-34f6-4c5c-be7e-a5f17d6eeb1d",
         "title": "Product & Ranging New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1794239363,
         "date_posted": 1794239141,
         "url": "https://jobs.adidas-group.com/job/Stockport-PRODUCT-&-RANGING-GRADUATE-2027-MANCHESTER/1455579633/?ats=successfactors",
@@ -377679,5 +377679,407 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Guidehouse",
+        "id": "c64728e0-894f-4440-ac65-00a417c89528",
+        "title": "Data Scientist - Consultant - Utilities",
+        "active": true,
+        "date_updated": 1794266832,
+        "date_posted": 1794182400,
+        "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---GA-Atlanta/Data-Scientist--Consultant--Utilities-_46382",
+        "locations": [
+            "Remote in USA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidehouse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AO Globe Life",
+        "id": "3412319c-9c56-4b35-8b4a-d636b3b258b0",
+        "title": "Business Insights Assistant \u2013 Entry Level - Start Your Career",
+        "active": true,
+        "date_updated": 1794266700,
+        "date_posted": 1794266560,
+        "url": "https://aoglobelifebrittmarieyarian.applytojob.com/apply/3xbEH2HrCY/---------------------------------Remote-Business-Insights-Assistant-Entry-Level-Start-Your-Career",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/AO-Globe-Life",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sur La Table",
+        "id": "7c4d202a-5223-4dae-849f-21fa7489315e",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1794266463,
+        "date_posted": 1794266373,
+        "url": "https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185/apply",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sur-La-Table",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kyndryl",
+        "id": "7e76f4ab-d701-446b-b1ee-ec844bfc91eb",
+        "title": "Associate Data Engineer",
+        "active": true,
+        "date_updated": 1794266299,
+        "date_posted": 1794266124,
+        "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870-1",
+        "locations": [
+            "Frisco, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Kyndryl",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Broadcom",
+        "id": "dddeea12-7f69-4aa5-97a6-f4eeaaa0a4aa",
+        "title": "DFT Engineer",
+        "active": true,
+        "date_updated": 1794266285,
+        "date_posted": 1794182400,
+        "url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA-San-Jose-Innovation-Drive/DFT-Engineer_R027651-4",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Broadcom-Limited",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kleinfelder",
+        "id": "a22ea6eb-2a79-4f51-b698-f5726fefdb3d",
+        "title": "GIS / CAD Specialist",
+        "active": true,
+        "date_updated": 1794266105,
+        "date_posted": 1794182400,
+        "url": "https://careers-kleinfelder.icims.com/jobs/10860/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Houston, TX",
+            "Kingsville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Kleinfelder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AECOM",
+        "id": "4152640b-1b6d-4621-9de2-e197c7cd336e",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1794266138,
+        "date_posted": 1794255869,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000160723419",
+        "locations": [
+            "Tallahassee, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intuitive Surgical",
+        "id": "61f88263-c7da-41f6-ba6a-e371bb36e49e",
+        "title": "Planning Analyst",
+        "active": true,
+        "date_updated": 1794266105,
+        "date_posted": 1794250464,
+        "url": "https://jobs.smartrecruiters.com/Intuitive/744000160693897",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Whoop",
+        "id": "8311a236-895c-4bee-b40e-ed11cf6127e8",
+        "title": "Software Engineer 1 - Backend - Growth",
+        "active": true,
+        "date_updated": 1794266160,
+        "date_posted": 1794182400,
+        "url": "https://jobs.ashbyhq.com/whoop/d31312c2-236a-45f1-8da7-61a7ca8d1622/application?embed=true",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Whoop",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Interstate Waste Services",
+        "id": "00241f24-2d23-4c78-b13c-3c5dc6911de0",
+        "title": "Power BI Analyst",
+        "active": true,
+        "date_updated": 1794265933,
+        "date_posted": 1794182400,
+        "url": "https://careers-interstatewaste.icims.com/jobs/5982/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Teaneck, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Interstate-Waste-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mercury Insurance",
+        "id": "8fdeb561-a8db-4d1a-a92f-1065c24f4d9d",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1794265832,
+        "date_posted": 1794182400,
+        "url": "https://careers-mercuryinsurance.icims.com/jobs/6943/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercury-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Circuit Clinical",
+        "id": "4320012a-f2bc-451f-8831-7f2d241541c9",
+        "title": "Clinical Informatics Analyst",
+        "active": true,
+        "date_updated": 1794265751,
+        "date_posted": 1794265617,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4651814",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Circuit-Clinical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wolverine Trading",
+        "id": "3dbb6972-d6ac-421f-a585-0e73f702f92a",
+        "title": "C++ Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1794265858,
+        "date_posted": 1794242819,
+        "url": "https://wolve.pinpointhq.com/en/postings/33228344-bcc7-4bcd-b3cb-22b60aaee82c?ats=pinpointhq",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Wolverine-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The New School",
+        "id": "46a34168-7e0a-4689-af1e-92e12d1e2411",
+        "title": "Research Assistant - Quantitative Analysis & Data Research",
+        "active": true,
+        "date_updated": 1794265566,
+        "date_posted": 1794182400,
+        "url": "https://newschool.wd1.myworkdayjobs.com/external/job/L---2-West-13th-Street/Research-Assistant---Quantitative-Analysis---Data-Research_JR110111",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/The-New-School",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "D.R. Horton",
+        "id": "102184b9-d71f-4afa-8f8e-48699a21e735",
+        "title": "Application Developer 1",
+        "active": true,
+        "date_updated": 1794265763,
+        "date_posted": 1794265511,
+        "url": "https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605503",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/DR-Horton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "73ba133c-07e6-4734-b6d6-0204000cf760",
+        "title": "Associate Software Engineering",
+        "active": true,
+        "date_updated": 1794265738,
+        "date_posted": 1794265483,
+        "url": "https://jobs.l3harris.com/job/Anaheim-Associate,-Software-Engineering-CA-92805/1449146200/?ats=successfactors",
+        "locations": [
+            "Anaheim, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Laboratory of the Rockies",
+        "id": "4957c257-64c5-4224-bb33-b22955a73c55",
+        "title": "Postdoctoral Researcher in Numerical Optimization and Experimental Design",
+        "active": true,
+        "date_updated": 1794265391,
+        "date_posted": 1794182400,
+        "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Postdoctoral-Researcher-in-Numerical-Optimization-and-Experimental-Design_R14605",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Laboratory-Of-The-Rockies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Laboratory of the Rockies",
+        "id": "b25bfdc4-f51f-4a5c-8882-9efe6bc5b0d3",
+        "title": "Postdoctoral Researcher in Scientific Machine Learning and Cross-scale Predictive Modeling",
+        "active": true,
+        "date_updated": 1794265391,
+        "date_posted": 1794182400,
+        "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Postdoctoral-Researcher-in-Scientific-Machine-Learning-and-Cross-scale-Predictive-Modeling_R14604",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Laboratory-Of-The-Rockies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Laboratory of the Rockies",
+        "id": "6e6388d0-914c-40fa-bd4f-e230ef373e8d",
+        "title": "Postdoctoral Researcher in Uncertainty Quantification and Prediction Reliability",
+        "active": true,
+        "date_updated": 1794265474,
+        "date_posted": 1794182400,
+        "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Postdoctoral-Researcher-in-uncertainty-quantification-and-prediction-reliability_R14603",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Laboratory-Of-The-Rockies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "3ab617a6-87c9-444b-9ee1-14921a74b0ae",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1794265656,
+        "date_posted": 1794006630,
+        "url": "https://jobs.l3harris.com/job/Carlsbad-Specialist,-Software-Engineering-1-1-CA-92009/1448651700/?ats=successfactors",
+        "locations": [
+            "Salt Lake City, UT",
+            "Carlsbad, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
