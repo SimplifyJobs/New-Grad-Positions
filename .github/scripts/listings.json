@@ -292832,7 +292832,7 @@
         "company_name": "Garmin",
         "id": "9cc24a1f-b139-49e8-ab0a-183f962a4b5a",
         "title": "Component Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1788559393,
         "date_posted": 1788559379,
         "url": "https://careers.garmin.com/jobs/19715?icims=1",
@@ -331160,7 +331160,7 @@
         "company_name": "General Dynamics",
         "id": "eedf8923-da07-43c5-bcf4-f2f179992d85",
         "title": "Configuration and Logistics Data Analyst 1 - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1791327806,
         "date_posted": 1791325323,
         "url": "https://careers-gdbiw.icims.com/jobs/5403/job?mobile=true&needsRedirect=false",
@@ -370752,7 +370752,7 @@
         "company_name": "Booz Allen",
         "id": "e3ea805e-e601-4af0-8412-32329f54ee2e",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793712250,
         "date_posted": 1793232000,
         "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Engineer_R0252565",
@@ -375543,7 +375543,7 @@
         "company_name": "Regeneron Pharmaceuticals",
         "id": "9a9fd8bb-c8ac-43e1-9508-984e213b5172",
         "title": "Data Analyst - Quality Assurance",
-        "active": true,
+        "active": false,
         "date_updated": 1793922125,
         "date_posted": 1793836800,
         "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSS---GLOBAL-VIEW/Data-Analyst--Quality-Assurance_R52701",
@@ -376755,7 +376755,7 @@
         "company_name": "RTX",
         "id": "baa7db80-093c-476c-98be-1c4418831513",
         "title": "Software Security Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794008521,
         "date_posted": 1793923200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Security-Engineer-1--Onsite-_01887029",
@@ -377581,5 +377581,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Space Kinetic",
+        "id": "e3e80d71-b2bb-475b-8cec-c943c8ba8d2f",
+        "title": "Electrical Design Engineer",
+        "active": true,
+        "date_updated": 1794237661,
+        "date_posted": 1794234015,
+        "url": "https://job-boards.greenhouse.io/spacekinetic/jobs/5476158008",
+        "locations": [
+            "Albuquerque, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/Space-Kinetic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
