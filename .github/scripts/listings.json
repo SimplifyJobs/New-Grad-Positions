@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "DXC Technology",
-        "id": "367a4804-2d31-4c7f-b8d8-453f7a94bf87",
-        "title": "DXC Graduate Programme",
-        "active": false,
-        "date_updated": 1773487520,
-        "date_posted": 1773487520,
-        "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---ENG---LONDON/DXC-Graduate-Programme-2026_51567282",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DXC-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "c3c26a4c-0d6f-4026-a69a-f773bf7875a7",
         "title": "Software Development Analyst",
@@ -168,26 +148,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "a64f5810-74a1-4b63-859d-0c26dfd668a1",
-        "title": "Postdoctoral Research Scholar - General Particle Theory",
-        "active": false,
-        "date_updated": 1773486619,
-        "date_posted": 1773486619,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Research-Scholar---General-Particle-Theory_421553",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -424,24 +384,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "OneDigital",
-        "id": "fc51c313-ce03-4b26-88c5-4d785cd05cc6",
-        "title": "Senior Investment Analyst",
-        "active": false,
-        "date_updated": 1773487411,
-        "date_posted": 1773487411,
-        "url": "https://onedigital.wd5.myworkdayjobs.com/onedigital/job/RIA-Overland-Park-KS/Senior-Investment-Analyst_R8437-1",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/OneDigital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Ercot",
         "id": "e4c19383-3748-4153-b806-5b96c8eb9d0b",
@@ -459,30 +401,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TelevisaUnivision",
-        "id": "b98de3fd-b04c-457f-a8bd-f58e83561d64",
-        "title": "Digital Analyst",
-        "active": false,
-        "date_updated": 1773486588,
-        "date_posted": 1773486588,
-        "url": "https://univision.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Digital-Analyst_R019734",
-        "locations": [
-            "Austin, TX",
-            "Miami, FL",
-            "Chicago, IL",
-            "NYC",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/TelevisaUnivision",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -558,26 +476,6 @@
             "St Paul, MN"
         ],
         "company_url": "https://simplify.jobs/c/Travelers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AIG",
-        "id": "4789ad3e-3e48-47a9-a80a-d4229e6ba377",
-        "title": "Early Career - Gen AI - Data Engineering Analyst",
-        "active": false,
-        "date_updated": 1773486648,
-        "date_posted": 1773486648,
-        "url": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2026-Early-Career---Gen-AI---Data-Engineering-Analyst---United-States--Atlanta--GA--_JR2505609",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/AIG",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -704,25 +602,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Vantage Data Centers",
-        "id": "5aa1dcd4-e824-47e9-a9af-8f56b2b34982",
-        "title": "Senior Billing & Telemetry Engineer",
-        "active": false,
-        "date_updated": 1773487488,
-        "date_posted": 1773487488,
-        "url": "https://vantagedc.wd1.myworkdayjobs.com/en-US/Vantage/job/Remote---CO/Senior-Billing---Telemetry-Engineer--NA_R19594",
-        "locations": [
-            "Remote in USA",
-            "Colorado"
-        ],
-        "company_url": "https://simplify.jobs/c/62df3370-bf7b-46b7-8619-e32dcd7d3fb3",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "15bfcc07-6976-4ef9-b3be-e02ab51fc348",
@@ -773,66 +652,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Teledyne",
-        "id": "a02dee97-5426-4bc9-b61c-bbc74db0ec03",
-        "title": "Junior Modeling and Simulation Developer",
-        "active": false,
-        "date_updated": 1773486708,
-        "date_posted": 1773486708,
-        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Modeling-and-Simulation-Developer_REQ32730",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Pennsylvania State University",
-        "id": "35881f08-d8c0-4d9b-9fd6-570f2aaad685",
-        "title": "Postdoctoral Scholar - MOCVD Thin Films",
-        "active": false,
-        "date_updated": 1773487043,
-        "date_posted": 1773487043,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar---MOCVD-Thin-Films_REQ_0000068894-2",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Generac",
-        "id": "9f573533-39c1-4a80-bdd1-3878e9171167",
-        "title": "Product Certification Engineer",
-        "active": false,
-        "date_updated": 1773487775,
-        "date_posted": 1773487775,
-        "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Product-Certification-Engineer_JR12882",
-        "locations": [
-            "Waukesha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Generac",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Micron Technology",
         "id": "1b084ee5-3448-42f1-819d-c4fc903c9b23",
@@ -848,26 +667,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Airgas",
-        "id": "1150212b-0c7d-4c28-bc9d-b1247c30d0fd",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1773487536,
-        "date_posted": 1773487536,
-        "url": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Cheshire-CT-ATS---Management/Software-Engineer_R10086763",
-        "locations": [
-            "Cheshire, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Airgas",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -376465,7 +376264,7 @@
         "company_name": "AMD",
         "id": "d44e01c3-b8a5-4859-b95f-b36846c4ed64",
         "title": "Systems Design Engineer - Systems Validation Architecture",
-        "active": false,
+        "active": true,
         "date_updated": 1793920165,
         "date_posted": 1792448497,
         "url": "https://canadacareers-amd.icims.com/jobs/93474/job?mobile=true&needsRedirect=false",
