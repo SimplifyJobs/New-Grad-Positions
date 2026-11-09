@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Carnegie Mellon University",
-        "id": "764d003a-5a6f-4bf8-942d-bbff43ca46e9",
-        "title": "Postdoctoral Research Associate - Print & Probability Project - Dietrich College",
-        "active": false,
-        "date_updated": 1773527085,
-        "date_posted": 1773527085,
-        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Postdoctoral-Research-Associate---Print---Probability-Project---Dietrich-College_2024060",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "4151e27a-3ece-4b1e-88da-21db5848d36a",
@@ -15011,24 +14991,6 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053486",
         "locations": [
             "Wellington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "830f0adc-f2f2-49c0-b6e4-c4349b2d25d7",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773526371,
-        "date_posted": 1773526371,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053506",
-        "locations": [
-            "Croydon, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
@@ -326292,7 +326254,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "a6f1aae8-9627-4c66-ac76-94985e1de31a",
         "title": "Microelectronics Device Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1791125647,
         "date_posted": 1789689600,
         "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Microelectronics-Device-Scientist_R016645",
@@ -343885,7 +343847,7 @@
         "company_name": "Broadcom",
         "id": "da12b57e-2125-4564-b98f-7834918af83b",
         "title": "Test Engineer - Ate",
-        "active": true,
+        "active": false,
         "date_updated": 1792190161,
         "date_posted": 1792108800,
         "url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA-San-Jose-Innovation-Drive/Test-Engineer--ATE-_R027448",
@@ -371347,7 +371309,7 @@
         "company_name": "L3Harris Technologies",
         "id": "cf6d0b91-f77f-41cd-890f-806944e97c6a",
         "title": "Associate Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1793747288,
         "date_posted": 1793747067,
         "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905/1447244000/?ats=successfactors",
