@@ -168144,7 +168144,7 @@
         "company_name": "Dyna Robotics",
         "id": "a5a621ed-b394-49ec-adfa-ff0478038d0b",
         "title": "Robot Safety Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1783991521,
         "date_posted": 1783991497,
         "url": "https://jobs.ashbyhq.com/dyna-robotics/179713ee-3f63-4904-8260-13a94dbe178a/application",
@@ -243093,7 +243093,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -293456,7 +293456,7 @@
         "company_name": "Dyna Robotics",
         "id": "962208a6-d342-4140-97ec-4cad99d1d9dd",
         "title": "Robot Safety Operator",
-        "active": false,
+        "active": true,
         "date_updated": 1788607441,
         "date_posted": 1780553360,
         "url": "https://jobs.ashbyhq.com/dyna-robotics/d889c611-ab2e-4b5f-b6b6-56655e249561/application?embed=true",
@@ -297736,7 +297736,7 @@
         "company_name": "Dell Technologies",
         "id": "8b6e869f-0e48-4953-b3b8-ecc61221ace3",
         "title": "Software Engineer 1 - IT",
-        "active": true,
+        "active": false,
         "date_updated": 1789002389,
         "date_posted": 1789002223,
         "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298784",
@@ -366878,7 +366878,7 @@
         "company_name": "xAI",
         "id": "02ac8a2d-f366-4013-9348-467a4d1a5e6a",
         "title": "AI Tutor \u2013 Estonian",
-        "active": false,
+        "active": true,
         "date_updated": 1793347742,
         "date_posted": 1793007968,
         "url": "https://job-boards.greenhouse.io/xai/jobs/5270902007",
@@ -376910,7 +376910,7 @@
         "company_name": "SpryPoint",
         "id": "8a5792ca-e91d-46de-baa4-1081901c9e94",
         "title": "Data Conversion Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794008162,
         "date_posted": 1794008105,
         "url": "https://jobs.lever.co/sprypointservices/ea33fe62-4334-4eac-9b05-9eac7f6312cc/apply",
@@ -379029,5 +379029,83 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "xAI",
+        "id": "264dcc23-f8cc-4727-878c-256ca9b41d00",
+        "title": "AI Tutor \u2013 Uzbek",
+        "active": true,
+        "date_updated": 1794304982,
+        "date_posted": 1793008046,
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5270905007",
+        "locations": [
+            "Remote in USA",
+            "Remote in UK",
+            "Remote in Australia",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/XAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "xAI",
+        "id": "220072b1-824c-49db-a6f5-d64e018448a5",
+        "title": "AI Tutor \u2013 Amharic",
+        "active": true,
+        "date_updated": 1794304982,
+        "date_posted": 1793007955,
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5270906007",
+        "locations": [
+            "Remote in USA",
+            "Remote in UK",
+            "Remote in Australia",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/XAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ALTEN Technology",
+        "id": "8179d615-9d9f-4bc6-9641-ce4fc319a93b",
+        "title": "Robotics Lab Technician",
+        "active": true,
+        "date_updated": 1794305163,
+        "date_posted": 1793924482,
+        "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5286844007",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/ALTEN-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Translation",
+        "id": "93653740-1b17-4398-9636-83230c035a55",
+        "title": "Software Engineer - Product",
+        "active": true,
+        "date_updated": 1794305882,
+        "date_posted": 1784596560,
+        "url": "https://jobs.ashbyhq.com/generaltranslation/e8b7eb44-f36b-4032-a5f4-fff189f29f51/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Translation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
