@@ -144916,7 +144916,7 @@
         "company_name": "Generalist",
         "id": "cb8edb0f-8f6b-416e-a997-106f4ca1f009",
         "title": "Research Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1782556562,
         "date_posted": 1782436134,
         "url": "https://jobs.ashbyhq.com/generalist/fc7c7b49-248a-4849-a473-a0bd246e5486/application",
@@ -359563,7 +359563,7 @@
         "company_name": "GE Vernova",
         "id": "97d314f4-19a1-468c-8be8-df5c629eb237",
         "title": "AI Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1793139219,
         "date_posted": 1793059200,
         "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-AI-Engineer_R5057133-1",
@@ -365665,7 +365665,7 @@
         "company_name": "Analog Devices",
         "id": "a25df86a-6734-4a15-ad57-eb4e6f3692a3",
         "title": "Associate System Platforms Engineer - FPGA - Software",
-        "active": true,
+        "active": false,
         "date_updated": 1793314263,
         "date_posted": 1793232000,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-System-Platforms-Engineer--FPGA-and-Software-_R266680",
@@ -369385,7 +369385,7 @@
         "company_name": "Philips",
         "id": "b2cd045f-1f2b-4cef-8692-5f27dad834bb",
         "title": "Associate Data & AI Engineer - Medical Imaging",
-        "active": true,
+        "active": false,
         "date_updated": 1793632865,
         "date_posted": 1793577600,
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Associate-Data---AI-Engineer---Medical-Imaging--Bedford--MA-_594180",
@@ -372498,7 +372498,7 @@
         "company_name": "Anderson Merchandisers",
         "id": "c5064763-1e7d-4712-a2ed-356e98b44688",
         "title": "Data Validation Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1793844904,
         "date_posted": 1793750400,
         "url": "https://amerch.wd1.myworkdayjobs.com/amerchcareers/job/AMERCH-Remote-Workers/Data-Validation-Specialist_R0078210-1",
@@ -378688,6 +378688,47 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "1ad297e0-77dd-4070-947e-d7d32359b808",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1794278961,
+        "date_posted": 1794182400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01888514",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "673d31c7-a215-4c46-9e47-14c342dd33fe",
+        "title": "Engineer 1 - Device/Test - Parametric/Etest",
+        "active": true,
+        "date_updated": 1794278184,
+        "date_posted": 1794182400,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Engineer-I--Device-Test--Parametric-Etest-_R4730-26",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Master's"
         ]
     }
