@@ -243093,7 +243093,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -294436,7 +294436,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "a9b29fe5-49d0-4198-8037-ebf9c8ef0bd2",
         "title": "Software Developer / RF Systems Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1788877173,
         "date_posted": 1788876555,
         "url": "https://careers.jhuapl.edu/jobs/59975?icims=1",
@@ -375295,7 +375295,7 @@
         "company_name": "AMD",
         "id": "d44e01c3-b8a5-4859-b95f-b36846c4ed64",
         "title": "Systems Design Engineer - Systems Validation Architecture",
-        "active": true,
+        "active": false,
         "date_updated": 1793920165,
         "date_posted": 1792448497,
         "url": "https://canadacareers-amd.icims.com/jobs/93474/job?mobile=true&needsRedirect=false",
@@ -379345,5 +379345,103 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "321b8448-8bae-4dbf-a481-4f65e850cffb",
+        "title": "Software Engineer - Application Development",
+        "active": true,
+        "date_updated": 1794326295,
+        "date_posted": 1794268800,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bristol-Gloucestershire-UK/Software-Engineer---Application-Development_R-00194447",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vizient",
+        "id": "4eb69d88-9d79-4e01-80a1-bd85252cc29f",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1794325861,
+        "date_posted": 1794268800,
+        "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Vizient",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kalshi",
+        "id": "e5ddb274-9f36-4709-abfb-02a004dccbc1",
+        "title": "Software Engineer - Marketing",
+        "active": true,
+        "date_updated": 1794325501,
+        "date_posted": 1794268800,
+        "url": "https://jobs.ashbyhq.com/kalshi/49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Kalshi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fidelity National Information Services",
+        "id": "c1ff6cc7-a1ca-4fa9-8175-f705039e837f",
+        "title": "Mainframe Software Engineer 1",
+        "active": true,
+        "date_updated": 1794325017,
+        "date_posted": 1794268800,
+        "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0310604-1",
+        "locations": [
+            "Columbus, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-National-Information-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "7669c719-33f8-4c66-b28f-c9a8f1df5d10",
+        "title": "Entry-Level GIS Specialist",
+        "active": true,
+        "date_updated": 1794324961,
+        "date_posted": 1794323818,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000160900745",
+        "locations": [
+            "Honolulu, HI"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
