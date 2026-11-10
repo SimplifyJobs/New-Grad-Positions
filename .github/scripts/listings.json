@@ -3,42 +3,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "ef91e31e-a8ee-4939-b8c7-11c1dc8866a2",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773565716,
-        "date_posted": 1773565716,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053529",
-        "locations": [
-            "York, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0ee25fae-4063-4bab-8c8c-19bb91ddea0e",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773565714,
-        "date_posted": 1773565714,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053408",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "c0c45309-8bed-4328-ba4e-694125bd1ea5",
         "title": "Trading Assistant - Shift",
         "active": false,
@@ -28056,7 +28020,7 @@
         "company_name": "Observable Space",
         "id": "2b06a568-e62e-4895-be8b-8eb922cb5288",
         "title": "Junior Optical Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775257381,
         "date_posted": 1775254164,
         "url": "https://jobs.ashbyhq.com/observable-space/5c3952b2-9533-46d7-97c2-a0c4fa1a90b1/application",
@@ -314139,7 +314103,7 @@
         "company_name": "Kitware",
         "id": "11592e4e-a518-4c9e-9f89-8c2340373f6b",
         "title": "Annotation Specialist - Computer Vision",
-        "active": false,
+        "active": true,
         "date_updated": 1790259489,
         "date_posted": 1790259437,
         "url": "https://jobs.lever.co/kitware/5b5accb2-beb3-4f83-8e25-05d91d3bf9dc/apply",
@@ -328865,7 +328829,7 @@
         "company_name": "Roku",
         "id": "099d2b2d-cbfc-40bd-957b-563be9992d9e",
         "title": "Software Engineer - AI/UI",
-        "active": true,
+        "active": false,
         "date_updated": 1791268381,
         "date_posted": 1791268204,
         "url": "https://www.weareroku.com/jobs/8188704?gh_jid=8188704",
@@ -356903,7 +356867,7 @@
         "company_name": "VAST",
         "id": "049ee53b-659d-4638-9b5c-0eee2b2ef463",
         "title": "Electrical Engineer - Crew Avionics",
-        "active": true,
+        "active": false,
         "date_updated": 1792829164,
         "date_posted": 1788215714,
         "url": "https://boards.greenhouse.io/vast/jobs/4616608006",
@@ -376846,7 +376810,7 @@
         "company_name": "Microchip Technology",
         "id": "07603023-45cb-43c3-9c3a-9276d9e90221",
         "title": "Reliability Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794008395,
         "date_posted": 1793923200,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--Reliability_R4708-26",
@@ -378986,5 +378950,63 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ande",
+        "id": "1b06d46c-1d95-462b-a362-76624d029916",
+        "title": "Software Engineer \u2013 Early Career - AI",
+        "active": true,
+        "date_updated": 1794302292,
+        "date_posted": 1794009600,
+        "url": "https://jobs.ashbyhq.com/ande/8ff8145e-8040-4a7a-a90c-cc1fdc36deb1/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ande",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "20102156-230a-4d18-a3eb-dcc6a46d3a14",
+        "title": "Software Development Engineer Apprentice",
+        "active": true,
+        "date_updated": 1794302462,
+        "date_posted": 1793977604,
+        "url": "https://amazon.jobs/en/jobs/10598613/software-development-engineer-apprentice-42-month-fixed-term-contract",
+        "locations": [
+            "Swansea, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huckberry",
+        "id": "091abfc0-7ed5-44ab-96fc-ac5fc591839b",
+        "title": "Business Analyst - AI & Automation",
+        "active": true,
+        "date_updated": 1794301926,
+        "date_posted": 1791941901,
+        "url": "https://apply.workable.com/huckberry/j/76FD110308/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Huckberry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
