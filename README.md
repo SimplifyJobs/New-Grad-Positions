@@ -2110,7 +2110,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Cybernetic-Labs?utm_source=GHList&utm_medium=company">Cybernetic Labs</a></strong></td>
+<td>↳</td>
 <td>Full-Stack Software Engineer New Grad - Product</td>
 <td>SF</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d24846e3-7ab0-4dc5-8419-0d070719ad82?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
@@ -2503,7 +2503,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Newport News, VA</td>
 <td>🔒</td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Roblox?utm_source=GHList&utm_medium=company">🔥 Roblox</a></strong></td>
@@ -2650,7 +2650,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Development Engineer 1 - AI/ML Network Infrastructure</td>
 <td>Cupertino, CA</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory?utm_source=GHList&utm_medium=company">Johns Hopkins Applied Physics Laboratory</a></strong></td>
@@ -2748,7 +2748,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Newport News, VA</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -10900,7 +10900,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Product Manager New Grad - Platform Trust and Ecosystem</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://lifeattiktok.com/search/7680761598014015797?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d6a611ad-6577-4727-bad6-a4aa05ad24ec?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Addepar?utm_source=GHList&utm_medium=company">Addepar</a></strong></td>
@@ -11746,14 +11746,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
 <td>Machine Learning Engineer New Grad - Search Ads</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://lifeattiktok.com/search/7669698543896054069?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0e9e78f5-653e-4e42-bda0-7183bbd7045a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
+<td>↳</td>
 <td>Machine Learning Engineer New Grad - Recommendation</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://lifeattiktok.com/search/7663389745178757429?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6877141a-26a2-42c6-affa-8795287920b8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
@@ -12041,7 +12041,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Data Engineer 1</td>
 <td>Peoria, IL</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Skanska?utm_source=GHList&utm_medium=company">Skanska</a></strong></td>
@@ -13623,7 +13623,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Machine Learning Engineer 1</td>
 <td>Conshohocken, PA</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Climate-Ai?utm_source=GHList&utm_medium=company">ClimateAI</a></strong></td>
@@ -15440,7 +15440,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Garmin?utm_source=GHList&utm_medium=company">Garmin</a></strong></td>
+<td>↳</td>
 <td>Embedded Software Engineer 1</td>
 <td>Cary, NC</td>
 <td><div align="center"><a href="https://careers.garmin.com/jobs/17783?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/243d9414-8ab4-4ca2-b1d1-79505d3f970c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
@@ -15756,7 +15756,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Hardware Engineer 1</td>
 <td>San Diego, CA</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company">Boeing</a></strong></td>
@@ -16837,7 +16837,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Garmin?utm_source=GHList&utm_medium=company">Garmin</a></strong></td>
+<td>↳</td>
 <td>Sensor Algorithms Software Engineer 1 - Core Platform Technology - Sensor Algorithms Team</td>
 <td>Olathe, KS</td>
 <td>🔒</td>
