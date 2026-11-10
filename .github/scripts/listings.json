@@ -15260,24 +15260,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "331f7ea9-bff4-4c54-8f60-96a236aba021",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773537206,
-        "date_posted": 1773537206,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053519",
-        "locations": [
-            "Cardiff, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Applied Materials",
         "id": "0d407e80-c6cf-4d12-8db4-701340f9f7b0",
@@ -21505,24 +21487,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AJ Bell",
-        "id": "767e8051-4f81-4377-a705-4f685ddcae07",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1774939141,
-        "date_posted": 1773536824,
-        "url": "https://jobs.smartrecruiters.com/AJBell1/744000113776247",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/AJ-Bell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -293190,7 +293154,7 @@
         "company_name": "ID.me",
         "id": "271f04b2-4017-4e86-b67f-387e7a47b5fe",
         "title": "Software Development Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1788561054,
         "date_posted": 1788560433,
         "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003",
@@ -359334,7 +359298,7 @@
         "company_name": "GE Vernova",
         "id": "09b9b75a-4724-4a31-92a8-aeefde0948c4",
         "title": "AI Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1793139687,
         "date_posted": 1793059200,
         "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-AI-Engineer_R5057133-2",
@@ -359415,7 +359379,7 @@
         "company_name": "GE Vernova",
         "id": "016eae38-5090-4e92-950b-163438ec3391",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1793139686,
         "date_posted": 1793059200,
         "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Data-Scientist_R5057035-2",
@@ -376535,7 +376499,7 @@
         "company_name": "ViaSat",
         "id": "02cbd470-9f01-40bc-8248-e801a175f001",
         "title": "Associate Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794009390,
         "date_posted": 1794004320,
         "url": "https://careers.viasat.com/jobs/7118?icims=1&lang=en-us",
