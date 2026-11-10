@@ -255571,7 +255571,7 @@
         "company_name": "Northrop Grumman",
         "id": "ceae13eb-b924-4361-af4e-095b72005dd5",
         "title": "Software Engineer - COR",
-        "active": true,
+        "active": false,
         "date_updated": 1787388061,
         "date_posted": 1787270400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Configurable-On-Board-Router--COR--Team---Software-Engineer--AHT-_R10247177",
@@ -379182,6 +379182,26 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Anysphere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "VAST",
+        "id": "e2ac3a54-655a-44b4-a995-76719b727df9",
+        "title": "Battery Electronics Engineer 2 - Battery",
+        "active": true,
+        "date_updated": 1794308602,
+        "date_posted": 1777673381,
+        "url": "https://boards.greenhouse.io/vast/jobs/4678064006",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/VastSpace",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
