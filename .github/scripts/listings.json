@@ -163082,7 +163082,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "76ba96f8-280e-4384-b6c8-6e2ba134ed44",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1783635950,
         "date_posted": 1783555200,
         "url": "https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2026-Data-Scientist_R015833",
@@ -297787,7 +297787,7 @@
         "company_name": "Zoox",
         "id": "765bfb9d-9f78-412c-8357-d831024c3885",
         "title": "Data Analyst - Hrs/wk",
-        "active": true,
+        "active": false,
         "date_updated": 1789002736,
         "date_posted": 1789002250,
         "url": "https://jobs.lever.co/zoox/ae2785ae-dfee-484b-8add-3cf32ca2d10e/apply",
@@ -297869,7 +297869,7 @@
         "company_name": "Anysphere",
         "id": "8f1666d8-5267-460a-9e6f-0b622ef9f60d",
         "title": "Software Engineer New Grad - 2027",
-        "active": true,
+        "active": false,
         "date_updated": 1789004031,
         "date_posted": 1789003401,
         "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application?embed=true",
@@ -331897,7 +331897,7 @@
         "company_name": "The Home Depot",
         "id": "6c781675-4fa2-4831-8d63-86cc4fb198f1",
         "title": "Associate Data Scientist - Supply Chain",
-        "active": true,
+        "active": false,
         "date_updated": 1791378541,
         "date_posted": 1790899200,
         "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist_Req195136",
@@ -333493,7 +333493,7 @@
         "company_name": "Qualcomm",
         "id": "64dbc7d4-46a3-4627-a1ec-aa04bbe1208c",
         "title": "Design Verification Engineer - ASICS Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1791456661,
         "date_posted": 1787275258,
         "url": "https://qualcomm.eightfold.ai/careers/job/446720501243",
@@ -342149,7 +342149,7 @@
         "company_name": "Goldman Sachs",
         "id": "61b65123-f2ca-4671-894e-b9ad4f79013c",
         "title": "Asset & Wealth Management - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1792103221,
         "date_posted": 1792102654,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/186421",
@@ -350730,7 +350730,7 @@
         "company_name": "Intel",
         "id": "881822dc-3ace-47a7-9373-3217b977a5c8",
         "title": "IP Design Verification Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1792718143,
         "date_posted": 1792627200,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/IP-Design-Verification-Engineer_JR0288395",
@@ -355339,7 +355339,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "67d1a616-5130-4c19-987a-7243887ef840",
         "title": "Postdoctoral Researcher - Vision Machine Learning",
-        "active": true,
+        "active": false,
         "date_updated": 1792769042,
         "date_posted": 1791417600,
         "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Postdoctoral-Researcher---Vision-Machine-Learning_R14557",
@@ -371577,7 +371577,7 @@
         "company_name": "LinkedIn",
         "id": "c9942f0a-e3da-4b00-9ee2-be611a85daca",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1793748782,
         "date_posted": 1793745192,
         "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000159509679",
@@ -375347,7 +375347,7 @@
         "company_name": "WGU",
         "id": "8f149d85-b629-4740-9b12-64e280bb4520",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793919964,
         "date_posted": 1793836800,
         "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Associate-Software-Engineer_JR-026548",
@@ -378649,6 +378649,46 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Multi Media",
+        "id": "12e1fe90-2686-45e5-a2cb-28ea043f4489",
+        "title": "Software Engineer 1/2",
+        "active": true,
+        "date_updated": 1794277186,
+        "date_posted": 1794276968,
+        "url": "https://apply.workable.com/multimediallc/j/24DBCDDF27/apply#jobs",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Multi-Media",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "ded112bd-4f5e-4d89-b639-f9d2c4bb02f8",
+        "title": "Senior Associate, Integration / Test Engineer",
+        "active": true,
+        "date_updated": 1794276914,
+        "date_posted": 1794276836,
+        "url": "https://jobs.l3harris.com/job/Colorado-Springs-Sr_-Associate,-Integration-Test-Engineer-CO-80916/1423113700/?ats=successfactors",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
