@@ -243093,7 +243093,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -346413,7 +346413,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "7fd94ec3-5daf-4bb7-a478-aa599eada760",
         "title": "Aerospace Software and Simulation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792492604,
         "date_posted": 1792368000,
         "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-and-Simulation-Engineer_R016883",
@@ -359100,7 +359100,7 @@
         "company_name": "Northrop Grumman",
         "id": "90c10d80-558b-4325-9b3e-e883b3db1a7d",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793140023,
         "date_posted": 1793059200,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912",
@@ -379107,5 +379107,85 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Green Street",
+        "id": "0c5744fc-fce5-4fdb-af27-cb3b162c9731",
+        "title": "Covert Price Checker",
+        "active": true,
+        "date_updated": 1794307865,
+        "date_posted": 1794307853,
+        "url": "https://careers-greenstreet.icims.com/jobs/1328/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scotland, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Green-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ViaPath Technologies",
+        "id": "4283e02b-4f01-44b2-9517-574733586bbd",
+        "title": "Intelligence Associate 1",
+        "active": true,
+        "date_updated": 1794307384,
+        "date_posted": 1793232000,
+        "url": "https://careers-viapath.icims.com/jobs/3995/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/ViaPath-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "a51fd528-2971-4d22-9b34-736913586603",
+        "title": "Engineer/Analyst New Grad - ISRT and BMC2 Applications",
+        "active": true,
+        "date_updated": 1794307379,
+        "date_posted": 1794306000,
+        "url": "https://careers.jhuapl.edu/jobs/59851?icims=1&lang=en-us",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anysphere",
+        "id": "1d0612f6-6b43-47c4-9a7f-65017afa789c",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1794307198,
+        "date_posted": 1794268800,
+        "url": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application?embed=true",
+        "locations": [
+            "Palo Alto, CA",
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Anysphere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
