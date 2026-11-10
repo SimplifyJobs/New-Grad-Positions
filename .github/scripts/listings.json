@@ -243129,7 +243129,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -349063,7 +349063,7 @@
         "company_name": "Northrop Grumman",
         "id": "dee014fe-0e7c-46bd-bc12-4da1d303b633",
         "title": "Associate Electromechanical Engineer / Electromechanical Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792621853,
         "date_posted": 1792540800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Electromechanical-Engineer---Electromechanical-Engineer---Rolling-Meadows-IL_R10257089",
@@ -372051,7 +372051,7 @@
         "company_name": "L3Harris Technologies",
         "id": "e93752ca-2a48-4cd0-8e0c-5aa2860f28ad",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793805011,
         "date_posted": 1793804867,
         "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1447658800/?ats=successfactors",
@@ -378694,6 +378694,163 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "ac51c57f-9e2d-429b-82a0-cebdc1097d90",
+        "title": "SoC Design Verification Engineer",
+        "active": true,
+        "date_updated": 1794295299,
+        "date_posted": 1794182400,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/SoC-Design-Verification-Engineer_JR0288406",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "788c07d5-365e-4cd3-bd02-3414d364879c",
+        "title": "SoC Logic Design Engineer",
+        "active": true,
+        "date_updated": 1794295301,
+        "date_posted": 1794182400,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/SoC-Logic-Design-Engineer_JR0288396-1",
+        "locations": [
+            "Santa Clara, CA",
+            "Hillsboro, OR",
+            "Folsom, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Synopsys",
+        "id": "32826384-5a69-4b08-87a5-1569af0c6d83",
+        "title": "R&D Engineering - Engineer",
+        "active": true,
+        "date_updated": 1794295083,
+        "date_posted": 1794295024,
+        "url": "https://synopsys.avature.net/careers/JobDetail/19637",
+        "locations": [
+            "Sunnyvale, CA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Synopsys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Auburn University",
+        "id": "9e9618c5-cc03-438e-a758-3e5a6d379c79",
+        "title": "Student Developer & Data Analyst",
+        "active": true,
+        "date_updated": 1794294902,
+        "date_posted": 1786473180,
+        "url": "https://jobs.auburn.edu/jobs/10020?icims=1&lang=en-us",
+        "locations": [
+            "Auburn, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Auburn-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Auburn University",
+        "id": "88c264de-4903-4ae7-beb9-2273edd52fca",
+        "title": "Undergraduate Data Science and Operations Student Assistant",
+        "active": true,
+        "date_updated": 1794294902,
+        "date_posted": 1778707020,
+        "url": "https://jobs.auburn.edu/jobs/9061?icims=1&lang=en-us",
+        "locations": [
+            "Auburn, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Auburn-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Auburn University",
+        "id": "09468180-f39f-481e-a68c-d7bad3a7bd39",
+        "title": "ARC Program Student Employee",
+        "active": true,
+        "date_updated": 1794294902,
+        "date_posted": 1792702800,
+        "url": "https://jobs.auburn.edu/jobs/10694?icims=1&lang=en-us",
+        "locations": [
+            "Auburn, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Auburn-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Auburn University",
+        "id": "5feb83c0-ba7e-467d-b054-572229f8927d",
+        "title": "Student Employee - Data Validation",
+        "active": true,
+        "date_updated": 1794294902,
+        "date_posted": 1787242680,
+        "url": "https://jobs.auburn.edu/jobs/10134?icims=1&lang=en-us",
+        "locations": [
+            "Auburn, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Auburn-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kearney and Co.",
+        "id": "990a7fea-e1d3-4c62-8e66-4b0e50f3fbae",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1794294723,
+        "date_posted": 1790109660,
+        "url": "https://careers.kearneyco.com/jobs/5227?icims=1&lang=en-us",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kearney-And-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
