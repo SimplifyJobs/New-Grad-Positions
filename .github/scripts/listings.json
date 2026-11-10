@@ -291442,7 +291442,7 @@
         "company_name": "Deepgram",
         "id": "65489b2c-dccf-4a4b-b089-0a049511d131",
         "title": "Forward-Deployed Engineer - Strategic Accounts",
-        "active": false,
+        "active": true,
         "date_updated": 1788521614,
         "date_posted": 1787366146,
         "url": "https://jobs.ashbyhq.com/deepgram/4bfadd29-fa58-4e06-bbf0-7b5dbc41a621/application?embed=true",
@@ -344832,7 +344832,7 @@
         "company_name": "Conviva",
         "id": "6bd34346-4e1e-4d5b-8ba1-9f643f4e6571",
         "title": "AI/ML Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792392121,
         "date_posted": 1792392013,
         "url": "https://www.conviva.ai/careers/job/8036615003?gh_jid=8036615003",
@@ -358411,7 +358411,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "2504b83a-b236-4dd0-a755-bd49281455a5",
         "title": "Photonic Integrated Circuit Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793063408,
         "date_posted": 1792972800,
         "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Photonic-Integrated-Circuits-Engineer_R016928",
@@ -374416,7 +374416,7 @@
         "company_name": "Dyna Robotics",
         "id": "7197b05a-0403-440c-b27b-656f344c4d18",
         "title": "Robot Safety Operator",
-        "active": false,
+        "active": true,
         "date_updated": 1793871368,
         "date_posted": 1784326339,
         "url": "https://jobs.ashbyhq.com/dyna-robotics/8a411884-1078-479d-b3b4-f81f0ef95a73/application?embed=true",
@@ -377401,7 +377401,7 @@
         "company_name": "Capgemini",
         "id": "6bec143b-993b-452d-9160-eaf0e3084331",
         "title": "Fabric / Power BI Analytics Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1794217683,
         "date_posted": 1793920492,
         "url": "https://careers.capgemini.com/job/London-Fabric-Power-BI-Analytics-Consultant/1454855333/?ats=successfactors",
@@ -379007,6 +379007,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "XYZ Reality",
+        "id": "39cc6b0d-7e47-47ac-baea-8dd4e004d00f",
+        "title": "Robotics Engineer",
+        "active": true,
+        "date_updated": 1794303181,
+        "date_posted": 1792972800,
+        "url": "https://jobs.ashbyhq.com/xyz-reality/299e05ea-e33e-469b-904e-9ef5b21ba3a1/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/XYZ-Reality",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
