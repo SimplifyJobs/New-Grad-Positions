@@ -66862,7 +66862,7 @@
         "company_name": "The Boeing Company",
         "id": "31ac1bea-e976-40b4-83d2-322d74703e39",
         "title": "ASIC/FPGA Verification Engineer Lead - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1777621301,
         "date_posted": 1777327680,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/ASIC-FPGA-Verification-Engineer----Associate--Experienced--or-Lead----SoCal_JR2025480380",
@@ -319642,7 +319642,7 @@
         "company_name": "Koch Industries",
         "id": "e91850fc-13c6-4d13-9271-805f8b19962c",
         "title": "Test Technician - Engineering Department",
-        "active": true,
+        "active": false,
         "date_updated": 1790807762,
         "date_posted": 1790806868,
         "url": "https://koch.avature.net/en_US/careers/JobDetail/195315",
@@ -332865,7 +332865,7 @@
         "company_name": "RTX",
         "id": "e5467def-2b54-4bda-90a0-cdb22e92de7f",
         "title": "Embedded Software Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1791412931,
         "date_posted": 1791331200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909",
@@ -343456,7 +343456,7 @@
         "company_name": "Salesforce",
         "id": "8c732701-b682-414e-8968-708f8b132ff0",
         "title": "AI Labs Rotational Fellow - Emerging Talent",
-        "active": true,
+        "active": false,
         "date_updated": 1792190492,
         "date_posted": 1792108800,
         "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678",
@@ -353789,7 +353789,7 @@
         "company_name": "Boeing",
         "id": "840f362d-e7a1-4739-9961-fc1eeddaf55b",
         "title": "ASIC/FPGA Verification Engineer \u2013 Or Lead - Associate - Experienced",
-        "active": false,
+        "active": true,
         "date_updated": 1792760944,
         "date_posted": 1791853841,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/ASIC-FPGA-Verification-Engineer----Associate--Experienced--or-Lead----SoCal_JR2025480380-1",
@@ -374091,7 +374091,7 @@
         "company_name": "Cooper Norcross Health",
         "id": "d47253ca-2ffc-41f1-bc8c-7db81f39b18f",
         "title": "Reporting and Analytics Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1793868483,
         "date_posted": 1793491200,
         "url": "https://careers-cooperhealth.icims.com/jobs/86865/job?mobile=true&needsRedirect=false",
@@ -375295,7 +375295,7 @@
         "company_name": "AMD",
         "id": "d44e01c3-b8a5-4859-b95f-b36846c4ed64",
         "title": "Systems Design Engineer - Systems Validation Architecture",
-        "active": false,
+        "active": true,
         "date_updated": 1793920165,
         "date_posted": 1792448497,
         "url": "https://canadacareers-amd.icims.com/jobs/93474/job?mobile=true&needsRedirect=false",
@@ -379207,5 +379207,143 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "c6f90e83-7eac-49e1-9f69-534fb81bc0a4",
+        "title": "Metrology Database Support Engineer",
+        "active": true,
+        "date_updated": 1794324421,
+        "date_posted": 1793836800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-811--1151-E-Hermans-Rd--BLDG-811-External-Site/Metrology-Database-Support-Engineer_01885512-1",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Travelers",
+        "id": "7b1b8590-4ac8-48f1-b379-7ff9bc8067bb",
+        "title": "Business Insights Analyst",
+        "active": true,
+        "date_updated": 1794324241,
+        "date_posted": 1794268800,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/LON---London/Business-Insights-Analyst---12-months-FTC_R-53462",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Travelers",
+        "id": "5405b5e2-f6e3-47b0-a3fc-22bdbde27055",
+        "title": "Analyst \u2013 Business Insights",
+        "active": true,
+        "date_updated": 1794324241,
+        "date_posted": 1794268800,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/LON---London/Analyst---Business-Insights_R-53588-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PA Consulting",
+        "id": "505b8332-6a47-4be8-a898-d03e93941097",
+        "title": "Graduate Analyst - Digital - Digital & Data",
+        "active": true,
+        "date_updated": 1794324282,
+        "date_posted": 1794318196,
+        "url": "https://jobs.smartrecruiters.com/PAConsulting/744000160878550",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PA-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Eversource Energy",
+        "id": "a7c9e6c0-bf01-4bab-b40e-96d415a7f88d",
+        "title": "Associate Analyst - Transmission",
+        "active": true,
+        "date_updated": 1794323881,
+        "date_posted": 1794268800,
+        "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/Associate-Analyst--Transmission--hybrid-schedule-_R-032522",
+        "locations": [
+            "Westwood, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eversource-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "3f7d5207-8a9e-454d-86b7-883d015efaec",
+        "title": "Robotics Teleoperator",
+        "active": true,
+        "date_updated": 1794323577,
+        "date_posted": 1794323416,
+        "url": "https://jobs.lever.co/weloglobal/0b79c7f3-3097-4545-a728-dbd2b78564b6/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Legal & General",
+        "id": "538a0fce-1b59-4727-a516-808b8192cf4b",
+        "title": "Asset Management Data Apprentice",
+        "active": true,
+        "date_updated": 1794323260,
+        "date_posted": 1794310263,
+        "url": "https://jobs.smartrecruiters.com/LegalAndGeneral/744000160854169",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Legal-And-General",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
