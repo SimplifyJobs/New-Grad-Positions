@@ -3,24 +3,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "4151e27a-3ece-4b1e-88da-21db5848d36a",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773555075,
-        "date_posted": 1773555075,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053528",
-        "locations": [
-            "Essex, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "ef91e31e-a8ee-4939-b8c7-11c1dc8866a2",
         "title": "Trading Assistant",
         "active": false,
@@ -21611,24 +21593,6 @@
         "degrees": [
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ASOS plc",
-        "id": "fb08a0bc-478e-410e-90d7-6b5c28afaf33",
-        "title": "Business Automation Associate",
-        "active": false,
-        "date_updated": 1774975141,
-        "date_posted": 1773554825,
-        "url": "https://jobs.smartrecruiters.com/ASOS/744000111345526",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ASOS-Plc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -376078,7 +376042,7 @@
         "company_name": "Dominion Energy",
         "id": "608775a7-5dc7-475d-bd55-6bc3749e7985",
         "title": "Associate Business Performance Analyst - Contact Intelligence",
-        "active": true,
+        "active": false,
         "date_updated": 1794007262,
         "date_posted": 1794007118,
         "url": "https://careers.dominionenergy.com/job/RICHMOND-Associate-Business-Performance-Analyst-Contact-Intelligence-VA-23231/1448533300/?ats=successfactors",
