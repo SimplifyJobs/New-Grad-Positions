@@ -243129,7 +243129,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -378852,5 +378852,139 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Merrick",
+        "id": "1537e4f2-0f94-44b9-b2d7-3b975297c5c6",
+        "title": "GIS Technician 1",
+        "active": true,
+        "date_updated": 1794297228,
+        "date_posted": 1793662020,
+        "url": "https://careers.merrick.com/jobs/8519?icims=1&lang=en-us",
+        "locations": [
+            "Greenwood Village, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Merrick",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Eagle Wireless",
+        "id": "f145045a-af90-4af6-844d-430a822643df",
+        "title": "MES Software Engineer",
+        "active": true,
+        "date_updated": 1794296759,
+        "date_posted": 1794296658,
+        "url": "https://ats.rippling.com/eagle-wireless/jobs/98f304e6-3067-4d28-ba94-4c48d5c92434",
+        "locations": [
+            "Solon, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Eagle-Wireless",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eagle Wireless",
+        "id": "65eb132a-d750-44a0-a879-2007c75bc010",
+        "title": "Test Automation Engineer",
+        "active": true,
+        "date_updated": 1794296760,
+        "date_posted": 1794296658,
+        "url": "https://ats.rippling.com/eagle-wireless/jobs/ada461d3-5a62-4dcf-bf3f-c561bc264c38",
+        "locations": [
+            "St Louis Park, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Eagle-Wireless",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Colliers Engineering & Design",
+        "id": "18544295-9474-493d-971a-7608a5ada40f",
+        "title": "SUE Data Analyst",
+        "active": true,
+        "date_updated": 1794296588,
+        "date_posted": 1793643780,
+        "url": "https://careers.colliersengineering.com/jobs/14514?icims=1&lang=en-us",
+        "locations": [
+            "Albany, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Colliers-Engineering-And-Design",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Longshot Space Technologies",
+        "id": "ed4e92f2-433b-4afc-b17c-5abc1cad9d04",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1794296410,
+        "date_posted": 1794296211,
+        "url": "https://ats.rippling.com/longshot/jobs/4392677a-3d26-4049-845d-bb7fb04246fd",
+        "locations": [
+            "Alameda, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Longshot-Space-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Verne Robotics",
+        "id": "8e6742f5-59af-451b-a4fd-f5eeb9f88ceb",
+        "title": "Robot Technician",
+        "active": true,
+        "date_updated": 1794295986,
+        "date_posted": 1787875200,
+        "url": "https://jobs.ashbyhq.com/verne/6659c10a-7b48-44f6-a3c4-0c0ab00c11c6/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Verne-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sprout",
+        "id": "d96ca3e8-5109-4d00-b898-7c59f2fb89a4",
+        "title": "Hardware Tech Supervisor - Servers",
+        "active": true,
+        "date_updated": 1794295818,
+        "date_posted": 1791480480,
+        "url": "https://careers.sproutup.com/jobs/2704?icims=1&lang=en-us",
+        "locations": [
+            "Garland, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Sprout",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
