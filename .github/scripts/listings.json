@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3e240303-1bd8-49fe-9fec-7ab413b93e82",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773623769,
-        "date_posted": 1773623769,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053410",
-        "locations": [
-            "Peterborough, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "IBM",
         "id": "f5c7d23b-688f-4460-8bf8-9c73db57da26",
@@ -255196,7 +255178,7 @@
         "company_name": "Micron Technology",
         "id": "158354ff-729f-4923-845b-d4f59eea424f",
         "title": "Design for Test Engineer New Grad - HBM",
-        "active": true,
+        "active": false,
         "date_updated": 1787352680,
         "date_posted": 1787270400,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Engineer---HBM-Design-for-Test--DFT-_JR109696",
@@ -352954,7 +352936,7 @@
         "company_name": "GlobalFoundries",
         "id": "0f039a36-45a3-4f8c-a085-04eb2b938378",
         "title": "Principal Engineer Device Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1792755316,
         "date_posted": 1787788800,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Principal-Eng-Device-Engineering_JR-2604444",
@@ -358387,7 +358369,7 @@
         "company_name": "NVIDIA",
         "id": "20c07b7e-aa45-47e0-8030-a611fb769115",
         "title": "ASIC Verification Engineer New Grad - Memory Management",
-        "active": true,
+        "active": false,
         "date_updated": 1793064800,
         "date_posted": 1790553600,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Durham/ASIC-Verification-Engineer--Memory-Management---New-College-Grad-2027_JR2026341",
