@@ -242499,7 +242499,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -380546,5 +380546,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sirion",
+        "id": "828e0967-a10d-43b8-a626-6768e2d26833",
+        "title": "Junior AI Agent Builder",
+        "active": true,
+        "date_updated": 1794394866,
+        "date_posted": 1794388487,
+        "url": "https://job-boards.anz.greenhouse.io/sirionlabspteltd/jobs/4009600201",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sirion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
