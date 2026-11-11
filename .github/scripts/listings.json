@@ -327734,7 +327734,7 @@
         "company_name": "Astera Labs",
         "id": "93293229-4e3a-48c9-8204-6108c3325ea7",
         "title": "Data Analyst New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1791268030,
         "date_posted": 1791267443,
         "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731994005",
@@ -331494,7 +331494,7 @@
         "company_name": "Shield AI",
         "id": "b2bf950b-bf97-4b9c-8ab7-e96bfd87276a",
         "title": "Simulation Framework Engineer 2 - Simulation Framework",
-        "active": true,
+        "active": false,
         "date_updated": 1791412072,
         "date_posted": 1791411064,
         "url": "https://jobs.lever.co/shieldai/39a7aa1b-9988-4ac7-ade9-12dd16cbae62/apply",
@@ -335809,7 +335809,7 @@
         "company_name": "Shield AI",
         "id": "c2037c76-5c4e-47ec-bef7-a975a226c4a1",
         "title": "Software Integration Engineer 1 - Software Integration",
-        "active": true,
+        "active": false,
         "date_updated": 1791585195,
         "date_posted": 1791584047,
         "url": "https://jobs.lever.co/shieldai/7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69/apply",
@@ -336052,7 +336052,7 @@
         "company_name": "Shield AI",
         "id": "c0e68386-5f91-485f-86a7-c92db1919740",
         "title": "Software Engineer 1 - Factory Team",
-        "active": true,
+        "active": false,
         "date_updated": 1791612670,
         "date_posted": 1791612416,
         "url": "https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68/apply",
@@ -354274,7 +354274,7 @@
         "company_name": "KLA",
         "id": "7598c6c3-dbc5-42ec-8ee8-238d2e8d4cf7",
         "title": "ECAD Librarian - PCB Designer - ECAD Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1792765622,
         "date_posted": 1790726400,
         "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/ECAD-Librarian--PCB-Designer---ECAD-Technician-_2636535",
@@ -360542,7 +360542,7 @@
         "company_name": "Shield AI",
         "id": "b3968d77-3489-4bef-9ff3-acd12708ba23",
         "title": "Software Engineer 2 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1793167942,
         "date_posted": 1793059200,
         "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/0e7ecf76-b4f6-4159-aa44-4814af263c86/application?embed=true",
@@ -360584,7 +360584,7 @@
         "company_name": "Shield AI",
         "id": "9c20706d-1c36-49c7-a6d2-07c92520bf94",
         "title": "Simulation Framework Engineer - Simulation Framework",
-        "active": true,
+        "active": false,
         "date_updated": 1793167944,
         "date_posted": 1791331200,
         "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f5ea96c5-7d70-4058-adec-16be606f5ad3/application?embed=true",
@@ -380065,7 +380065,7 @@
         "company_name": "Shield AI",
         "id": "89561c7a-b727-412e-8723-030904cc22f3",
         "title": "Engineer 2 New Grad - Simulation Framework",
-        "active": true,
+        "active": false,
         "date_updated": 1794362891,
         "date_posted": 1793750400,
         "url": "https://jobs.ashbyhq.com/shield/a9e2509c-fa35-4bf7-b50d-a557666b629d/application?embed=true",
@@ -380467,5 +380467,64 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Allied Universal",
+        "id": "9f7c0bf3-6702-4114-abaa-76a18944ee5b",
+        "title": "Global Security Mapping Specialist",
+        "active": true,
+        "date_updated": 1794391958,
+        "date_posted": 1793318400,
+        "url": "https://securitycareers-aus.icims.com/jobs/1730709/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Allied-Universal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northwood Space",
+        "id": "8f7494c9-1493-4790-9f41-f6055954a0bc",
+        "title": "Lifecycle Electrical Engineer New Grad",
+        "active": true,
+        "date_updated": 1794391487,
+        "date_posted": 1793664000,
+        "url": "https://jobs.ashbyhq.com/NorthwoodSpace/ca559bda-f67e-4bbd-a9d8-4737b5fe02e0/application?embed=true",
+        "locations": [
+            "LA",
+            "Torrance, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwood-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rantec Power Systems Inc.",
+        "id": "851adb11-0836-479a-bcac-76dc480f3fff",
+        "title": "PCB Design Engineer",
+        "active": true,
+        "date_updated": 1794391227,
+        "date_posted": 1784787216,
+        "url": "https://rantecpowersystemsinc.applytojob.com/apply/nMOXhYH0yo/PCB-Design-Engineer",
+        "locations": [
+            "Baywood-Los Osos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rantec-Power-Systems-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
