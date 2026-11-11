@@ -1,173 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CACI",
-        "id": "bd38ab19-bcbb-4e79-a1f0-0322dc9b002a",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1773701787,
-        "date_posted": 1773701787,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-IL-Lisle/Software-Engineer_323375",
-        "locations": [
-            "Downers Grove, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Kith",
-        "id": "2edd27df-6cb9-42cb-b602-76e74cacd2f7",
-        "title": "Assistant Technical Designer",
-        "active": false,
-        "date_updated": 1773701652,
-        "date_posted": 1773701652,
-        "url": "https://kith.wd1.myworkdayjobs.com/kith_external_careers/job/Brooklyn-NY/Technical-Designer--Men-s_R-02137-1",
-        "locations": [
-            "Brooklyn, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Kith",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Miami",
-        "id": "cfa521f1-6d19-4da1-adff-1f333719b5a4",
-        "title": "Postdoctoral Associate",
-        "active": false,
-        "date_updated": 1773701471,
-        "date_posted": 1773701471,
-        "url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Postdoctoral-Associate---CIMAS_R100095472",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Miami",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ercot",
-        "id": "a1ee4d57-9eb7-4bd7-ad72-0f6dc040cc2f",
-        "title": "Data Operations Analyst Senior",
-        "active": false,
-        "date_updated": 1773701514,
-        "date_posted": 1773701514,
-        "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Data-Operations-Analyst-Sr_R2155",
-        "locations": [
-            "Austin, TX",
-            "Pflugerville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Ercot",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Netsmart",
-        "id": "847287d6-dcac-42a2-ade1-9eb146670908",
-        "title": "Software Engineer-Programming Knowledge",
-        "active": false,
-        "date_updated": 1773701222,
-        "date_posted": 1773701222,
-        "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Great-River-NY/Software-Engineer--Programming-Knowledge-Onsite-Great-River--NY_R015271",
-        "locations": [
-            "Bay Shore, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Netsmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cambia Health Solutions",
-        "id": "85679c1e-78df-4d20-8fb5-e8fc618a5443",
-        "title": "Systems Analyst 2 - Doe - IV",
-        "active": false,
-        "date_updated": 1773700584,
-        "date_posted": 1773700584,
-        "url": "https://cambiahealth.wd1.myworkdayjobs.com/External/job/Portland-OR/Systems-Analyst-II-IV--DOE-_R-6387-1",
-        "locations": [
-            "Salt Lake City, UT",
-            "Post Falls, ID",
-            "Medford, OR",
-            "Tukwila, WA",
-            "Boise, ID",
-            "Moscow, ID",
-            "Bellevue, WA",
-            "Portland, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Cambia-Health-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Autodesk",
-        "id": "61221b63-8dd3-491b-98e8-a414ab2278e7",
-        "title": "Senior Machine Learning Developer",
-        "active": false,
-        "date_updated": 1773700750,
-        "date_posted": 1773700750,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Ontario-CAN---Remote/Sr-Machine-Learning-Developer_26WD94926-1",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Howden",
-        "id": "511eec43-2523-4338-bee5-647663a0202b",
-        "title": "Product Analyst",
-        "active": false,
-        "date_updated": 1773700561,
-        "date_posted": 1773700561,
-        "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London/Product-Analyst_R0016639",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Howden",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Microsoft",
         "id": "ea0336b0-9983-4495-9c05-1f525d87a81c",
@@ -67248,7 +67081,7 @@
         "company_name": "Amazon",
         "id": "bfa6d860-85c2-4118-8d8c-e224b9e52584",
         "title": "Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777933081,
         "date_posted": 1777932230,
         "url": "https://amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us",
@@ -208778,7 +208611,7 @@
         "company_name": "Kearney",
         "id": "9e130b58-5f39-4a5b-b464-85ddbc71940d",
         "title": "Full Stack Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1785620101,
         "date_posted": 1785277454,
         "url": "https://kearney.taleo.net/careersection/01/jobdetail.ftl?job=006JX",
@@ -319458,7 +319291,7 @@
         "company_name": "Qualcomm",
         "id": "928fcdb7-9888-4c94-a40c-66ea5e296b69",
         "title": "Pre-Silicon Validation Engineer - ASICS Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1790894013,
         "date_posted": 1790893474,
         "url": "https://qualcomm.eightfold.ai/careers/job/446721363946",
@@ -348564,7 +348397,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "96b6092b-58e1-4305-a553-4a0f1784d9f2",
         "title": "Junior Full Stack Engineer - Associate Member of Technical Staff - Software Architecture Engineering and Cloud Computing Architecture",
-        "active": true,
+        "active": false,
         "date_updated": 1792706946,
         "date_posted": 1792627200,
         "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/Junior-Full-Stack-Engineer_R016972",
@@ -350550,7 +350383,7 @@
         "company_name": "SpaceX",
         "id": "9236ad89-47c2-44a8-9c30-36e97ab6d476",
         "title": "Software Engineer - C++ - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1792746903,
         "date_posted": 1774476932,
         "url": "https://boards.greenhouse.io/spacex/jobs/8477124002",
@@ -362797,7 +362630,7 @@
         "company_name": "TobogganLabs",
         "id": "9a5b3491-8814-46d6-a763-011f3dcbc487",
         "title": "Junior Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1793283065,
         "date_posted": 1791315039,
         "url": "https://job-boards.greenhouse.io/tobogganlabs/jobs/8014569003",
@@ -374772,7 +374605,7 @@
         "company_name": "Ciena",
         "id": "bad1627b-a028-4c63-b031-2648df51cfed",
         "title": "Embedded Security Software Developer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1794006576,
         "date_posted": 1793923200,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Security-Software-Developer---New-Grad_R032066",
@@ -378318,7 +378151,7 @@
         "company_name": "KLA Corporation",
         "id": "a98b2036-54da-4dd7-8d4e-cc56138087a7",
         "title": "Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1794352330,
         "date_posted": 1794268800,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Business-Intelligence-Analyst_2642995",
