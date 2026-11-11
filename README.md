@@ -5,17 +5,17 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 615 New Grad Roles by Category
+### Browse 616 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (339)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (340)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (19)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (102)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (101)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (28)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (127)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (128)
 
 💼 **[Other](#-other-new-grad-roles)** (0)
 
@@ -80,6 +80,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">🔥 Amazon</a></strong></td>
+<td>Software Development Engineer Early Career - Amazon Dedicated Cloud</td>
+<td><details><summary><strong>5 locations</strong></summary>Seattle, WA</br>Jessup, MD</br>Arlington County, Arlington, VA</br>Denver, CO</br>Herndon, VA</details></td>
+<td><div align="center"><a href="https://amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/794be3df-1425-488c-b884-a8d29f0732f1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Bask-Health?utm_source=GHList&utm_medium=company">Bask Health</a></strong></td>
 <td>Product Builder, Early Career</td>
 <td>Remote in USA</td>
@@ -91,6 +98,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1/2</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://apply.workable.com/multimediallc/j/24DBCDDF27/apply#jobs?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/12e1fe90-2686-45e5-a2cb-28ea043f4489?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Software Engineer 1</td>
+<td>Richardson, TX</td>
+<td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01888052?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/75ad26cf-c6b7-4225-8b8b-c4c2f0a34e40?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>1d</td>
 </tr>
 <tr>
@@ -266,7 +280,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1 - Finance Technology</td>
 <td>Scottsdale, AZ</td>
 <td><div align="center"><a href="https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5e00c561-b737-44bf-afa3-30cf44fe26a6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">🔥 Amazon</a></strong></td>
@@ -2110,13 +2124,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Color?utm_source=GHList&utm_medium=company">Color</a></strong></td>
-<td>Software Engineer New Grad</td>
-<td>San Bruno, CA</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a989c928-8174-43bf-9198-bcec981430c7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>3mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/c3939657-7662-4446-8f09-44707fee4020?utm_source=GHList&utm_medium=company">Bridger</a></strong></td>
 <td>Early Career Product Engineer</td>
 <td>NYC</td>
@@ -2457,7 +2464,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1204)</summary>
+<summary>🗃️ Inactive roles (1205)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -5589,6 +5596,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Crusoe?utm_source=GHList&utm_medium=company">Crusoe</a></strong></td>
 <td>Software Engineer 1 - Storage</td>
 <td>SF</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Color?utm_source=GHList&utm_medium=company">Color</a></strong></td>
+<td>Software Engineer New Grad</td>
+<td>San Bruno, CA</td>
 <td>🔒</td>
 <td>3mo</td>
 </tr>
@@ -11459,13 +11473,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>22d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company">GlobalFoundries</a></strong></td>
-<td>AI/ML Systems Engineer New Grad</td>
-<td>Richardson, TX</td>
-<td><div align="center"><a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/bbbda59f-3646-4dd0-a5af-ccd539e67f43?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Quora?utm_source=GHList&utm_medium=company">Quora</a></strong></td>
 <td>Machine Learning Engineer New Grad</td>
 <td>Remote in USA</br>Remote in Canada</td>
@@ -12037,7 +12044,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (328)</summary>
+<summary>🗃️ Inactive roles (329)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -12133,6 +12140,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Peoria, IL</td>
 <td>🔒</td>
 <td>22d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company">GlobalFoundries</a></strong></td>
+<td>AI/ML Systems Engineer New Grad</td>
+<td>Richardson, TX</td>
+<td>🔒</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Skanska?utm_source=GHList&utm_medium=company">Skanska</a></strong></td>
@@ -15195,6 +15209,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
+<td>↳</td>
+<td>FPGA/ Digital Design Engineer 1</td>
+<td>Tewksbury, MA</td>
+<td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB4--836-North-St--INNOVATION-BLDG/FPGA--Digital-Design-Engineer-I---Onsite_01879344?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/50d507c4-ba8c-42f7-b7a4-9aad49f6feeb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Micron-Technology?utm_source=GHList&utm_medium=company">Micron Technology</a></strong></td>
 <td>Semiconductor Design Engineer New Grad - DRAM Products Group</td>
 <td>Boise, ID</td>
@@ -15682,7 +15703,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (380)</summary>
+<summary>🗃️ Inactive roles (379)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -16028,13 +16049,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>FPGA/Digital Design Engineer 1</td>
 <td>McKinney, TX</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>FPGA/ Digital Design Engineer 1</td>
-<td>Tewksbury, MA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
