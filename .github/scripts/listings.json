@@ -1,156 +1,5 @@
 [
     {
-        "date_updated": 1773815629,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.baesystems.com/global/en/job/BAE1US122188BREXTERNAL/Software-Engineer-I-Entry-Level",
-        "company_name": "BAE Systems",
-        "title": "Software Engineer I (Entry Level)",
-        "locations": [
-            "Patuxent River, MD"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "9c624cdd-2c56-4197-abcf-968dc287de87",
-        "date_posted": 1773651998,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1773815629,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://belk.wd1.myworkdayjobs.com/en-US/careers-collegecampus/job/Charlotte-NC---Corporate-Office/June-2026---Retail-Development-Program---Software-Engineering--Front-End_JR-99495-2",
-        "company_name": "Belk",
-        "title": "Retail Development Program - Software Engineering, Front-End",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "8ca74465-ee54-4706-bf18-5571d78c76c8",
-        "date_posted": 1773652227,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1773911559,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Irving-Texas/Software-Engineer-1_R0000355583",
-        "company_name": "Caterpillar",
-        "title": "Software Engineer 1",
-        "locations": [
-            "Irving, TX",
-            "Peoria, IL",
-            "Mossville, IL"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "e6d8053a-1c94-4ff5-9080-2f88cc1e9769",
-        "date_posted": 1773652450,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1773911559,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://careers-gdms.icims.com/jobs/70002/software-engineer-%E2%80%93-entry-level/job",
-        "company_name": "General Dynamics Mission Systems",
-        "title": "Software Engineer \u2013 Entry Level",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "9fe34096-d4ce-4f15-8607-dbeae983477c",
-        "date_posted": 1773652692,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1773911559,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://careers-gdms.icims.com/jobs/71461/junior-software-engineer/job",
-        "company_name": "General Dynamics Mission Systems",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Dedham, MA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "6ab81e8f-9c5c-4ce9-8a78-822da50b4057",
-        "date_posted": 1773652748,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1776070548,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://intelliforceitsolutionsgroup.applytojob.com/apply/uVOPHbn9X0/Junior-Software-Engineer-Fully-Cleared",
-        "company_name": "Intelliforce",
-        "title": "Junior Software Engineer- Fully Cleared",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "b6e40a32-ffd7-4ca4-8c20-990663d99bd9",
-        "date_posted": 1773652884,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1773745479,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://labcorp.wd1.myworkdayjobs.com/en-US/external/job/USA---NC---Durham---10-Moore-Drive/Software-Engineer-I_265515",
-        "company_name": "Labcorp",
-        "title": "Software Engineer I",
-        "locations": [
-            "Durham, NC"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "65074ed1-7012-42c2-a5d9-94765b8a47cc",
-        "date_posted": 1773653010,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1774531713,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Newport-News-VA/Junior-Software-Engineer_R-00178244",
-        "company_name": "Leidos",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Newport News, VA",
-            "Omaha, NE",
-            "Orlando, FL",
-            "Charlottesville, VA",
-            "Lexington, MA",
-            "Morgantown, WV"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "2b06d879-d0ad-4948-84e0-6cd8c2aa36cb",
-        "date_posted": 1773653165,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1776439711,
         "sponsorship": "Other",
         "active": false,
@@ -275849,7 +275698,7 @@
         "company_name": "Leviton",
         "id": "2f512118-0dc9-4b79-be34-86a02e9063ca",
         "title": "Associate Electrical Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788419886,
         "date_posted": 1787840127,
         "url": "https://careers.leviton.com/jobs/5996?icims=1",
@@ -331704,7 +331553,7 @@
         "company_name": "Shield AI",
         "id": "2b3eca81-2577-435b-bff1-4b7a0b5a3e9a",
         "title": "Simulation Framework Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791412070,
         "date_posted": 1791411064,
         "url": "https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba/apply",
@@ -371466,7 +371315,7 @@
         "company_name": "Shield AI",
         "id": "23f1c2c3-62c7-4b59-ad95-85d0505c58dc",
         "title": "Software Engineer 1 New Grad - Software - Factory Team",
-        "active": true,
+        "active": false,
         "date_updated": 1793784109,
         "date_posted": 1791763200,
         "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true",
@@ -380357,7 +380206,7 @@
         "company_name": "Shield AI",
         "id": "2457b835-2e5e-4f15-b4e5-0a6ede932255",
         "title": "Engineer 2 New Grad - Software - Factory",
-        "active": true,
+        "active": false,
         "date_updated": 1794362891,
         "date_posted": 1793750400,
         "url": "https://jobs.ashbyhq.com/shield/0e7ecf76-b4f6-4159-aa44-4814af263c86/application?embed=true",
@@ -380377,7 +380226,7 @@
         "company_name": "Shield AI",
         "id": "0c74a352-4296-467a-9bcb-81c9ed7c8465",
         "title": "Engineer 1 New Grad - Software Integration",
-        "active": true,
+        "active": false,
         "date_updated": 1794362890,
         "date_posted": 1793750400,
         "url": "https://jobs.ashbyhq.com/shield/bffebf59-65b7-4f4f-805e-a9cdf0d2b252/application?embed=true",
@@ -380397,7 +380246,7 @@
         "company_name": "Shield AI",
         "id": "076316f1-2948-47b2-9ff6-f230f7065080",
         "title": "Software Engineer 1 New Grad - Software - Factory Team",
-        "active": true,
+        "active": false,
         "date_updated": 1794362891,
         "date_posted": 1793750400,
         "url": "https://jobs.ashbyhq.com/shield/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true",
@@ -380652,6 +380501,27 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Handshake",
+        "id": "2baed4b9-deb5-4cd6-a3c9-d9eed1d671b2",
+        "title": "Machine Learning Engineer 1",
+        "active": true,
+        "date_updated": 1794389081,
+        "date_posted": 1791498612,
+        "url": "https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Handshake",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
