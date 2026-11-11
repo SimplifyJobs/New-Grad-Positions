@@ -1,47 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "PNC Financial Services",
-        "id": "3e524801-a535-46d3-837c-bfeb733bc729",
-        "title": "Software Engineer - Associate",
-        "active": false,
-        "date_updated": 1773673415,
-        "date_posted": 1773673415,
-        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/CO---Lakewood-80215/Software-Engineer--Associate_R214913-1",
-        "locations": [
-            "Lakewood, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Accenture",
-        "id": "42000913-f8e5-4c45-916d-77c7a92ff540",
-        "title": "Oracle/PLSQL/APEX Level",
-        "active": false,
-        "date_updated": 1773673354,
-        "date_posted": 1773673354,
-        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sevilla-Bluenet/Oracle-PLSQL-APEX-Level-12_14207153",
-        "locations": [
-            "Seville, Spain",
-            "Eagan, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Accenture-FS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "fa2c1725-fe48-49ab-a61a-c359707f248f",
@@ -242168,7 +242127,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -301653,7 +301612,7 @@
         "company_name": "Rolls-Royce",
         "id": "681af5bb-e758-454d-9a75-68bf2214cbeb",
         "title": "Electrical Systems Design Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1789416953,
         "date_posted": 1789344000,
         "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/LibertyWorks-Electrical-Systems-Design-Engineer_JR6160143",
@@ -374512,7 +374471,7 @@
         "company_name": "Unisys",
         "id": "e6ee9bdf-544b-4d00-a331-f03481ecb95e",
         "title": "Associate Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793922159,
         "date_posted": 1793836800,
         "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-MN-United-States-of-America/Associate-Engineer-ClearPath_REQ575397",
@@ -380233,5 +380192,231 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SharkNinja",
+        "id": "1712cac2-b710-4c41-a381-3eb6e3155972",
+        "title": "Forward Deployed Engineer - Entry Level - THE FIN",
+        "active": true,
+        "date_updated": 1794410854,
+        "date_posted": 1794406823,
+        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4728305006",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Progeny Group",
+        "id": "2e2fb962-17db-4a2d-91cc-ed79e091a0ff",
+        "title": "Graduate Digital & Technology",
+        "active": true,
+        "date_updated": 1794410700,
+        "date_posted": 1794410590,
+        "url": "https://theprogenygroup.bamboohr.com/careers/307/",
+        "locations": [
+            "Midlothian, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Progeny-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Legal 500",
+        "id": "70fc8eb1-14d7-4867-a58b-a2d8cab57ce5",
+        "title": "Research & Data Analyst",
+        "active": true,
+        "date_updated": 1794410461,
+        "date_posted": 1794355200,
+        "url": "https://jobs.ashbyhq.com/legal-500/f1822ab8-fc6c-4bcc-aa8c-4c447e64c7e7/application?embed=true",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Legal-500",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salesforce",
+        "id": "c274d687-71f7-4484-8ae0-52884c72e8f8",
+        "title": "Software Engineering AMTS New Grad",
+        "active": true,
+        "date_updated": 1794410142,
+        "date_posted": 1794355200,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "Indianapolis, IN",
+            "SF",
+            "Dallas, TX",
+            "NYC",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salesforce",
+        "id": "5d1a3f0e-ab9b-430a-affb-25361ff9d644",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1794410158,
+        "date_posted": 1794355200,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "Indianapolis, IN",
+            "SF",
+            "Dallas, TX",
+            "NYC",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intercontinental Exchange",
+        "id": "08b6aa04-6182-4358-9dac-780dc740bfee",
+        "title": "Associate Software Developer",
+        "active": true,
+        "date_updated": 1794410121,
+        "date_posted": 1794406140,
+        "url": "https://ice.jibeapply.com/jobs/14039?icims=1&lang=en-us",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ICEMarkets",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blackberry",
+        "id": "4bb17885-1f88-4f7a-bdd2-a4524d14aaf3",
+        "title": "Graduate Systems Software Developer - Sensor Framework",
+        "active": true,
+        "date_updated": 1794409963,
+        "date_posted": 1794355200,
+        "url": "https://bb.wd3.myworkdayjobs.com/blackberry/job/Ottawa-Ontario/QNX--Graduate-Systems-Software-Developer--Sensor-Framework-_20260300-3",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackBerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "f478f36d-9953-4314-a884-531c56f6ffcf",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1794409734,
+        "date_posted": 1794355200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01885824",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "d5b231df-b44c-40e0-988d-f6a55a204225",
+        "title": "AI Processor Hardware/Software Integration Engineer New Grad",
+        "active": true,
+        "date_updated": 1794409734,
+        "date_posted": 1794355200,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer--2027-New-College-Graduate-_JR-2604093",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "1b56aa53-70ee-4d8a-b139-61c2a1200d58",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1794409732,
+        "date_posted": 1794355200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--CMA-P1-1-_01888038",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ZT Systems",
+        "id": "d218cb23-e4d7-4435-83c7-be934cc67e49",
+        "title": "Test Software Developer",
+        "active": true,
+        "date_updated": 1794409385,
+        "date_posted": 1794355200,
+        "url": "https://connect.wd1.myworkdayjobs.com/ztsystemscareers/job/Secaucus-NJ/Test-Software-Developer_R-105519-1",
+        "locations": [
+            "Secaucus, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/ZT-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
