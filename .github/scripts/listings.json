@@ -199456,7 +199456,7 @@
         "company_name": "Color",
         "id": "a989c928-8174-43bf-9198-bcec981430c7",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1785201759,
         "date_posted": 1785201529,
         "url": "https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96/application?embed=true",
@@ -242946,7 +242946,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -327560,7 +327560,7 @@
         "company_name": "RTX",
         "id": "50d507c4-ba8c-42f7-b7a4-9aad49f6feeb",
         "title": "FPGA/ Digital Design Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1791240285,
         "date_posted": 1791158400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB4--836-North-St--INNOVATION-BLDG/FPGA--Digital-Design-Engineer-I---Onsite_01879344",
@@ -345279,7 +345279,7 @@
         "company_name": "GlobalFoundries",
         "id": "bbbda59f-3646-4dd0-a5af-ccd539e67f43",
         "title": "AI/ML Systems Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1792447728,
         "date_posted": 1792368000,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163",
@@ -360587,7 +360587,7 @@
         "company_name": "Goaly",
         "id": "cd6f30ae-cfcf-4975-8371-655f5f3c95f4",
         "title": "Founding Senior Applied AI Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1793151723,
         "date_posted": 1790208000,
         "url": "https://jobs.ashbyhq.com/goaly/70f6bbdd-e300-4a47-9875-ba2dfa4ded18/application?embed=true",
@@ -380150,7 +380150,7 @@
         "company_name": "Goldman Sachs",
         "id": "60ba5d46-1da9-4411-9d8c-797c4a1811f2",
         "title": "Software Engineer - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1794353978,
         "date_posted": 1794351889,
         "url": "https://higher.gs.com/roles/188640",
@@ -380702,6 +380702,112 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AST SpaceMobile",
+        "id": "65e94ae4-ad8d-4000-898c-5f5eb623b49e",
+        "title": "RF Test Engineer 1",
+        "active": true,
+        "date_updated": 1794365130,
+        "date_posted": 1794356071,
+        "url": "https://ast-science.com/company/careers/?gh_jid=4753267005",
+        "locations": [
+            "Midland, TX",
+            "Dallas, TX",
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/AST-SpaceMobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "794be3df-1425-488c-b884-a8d29f0732f1",
+        "title": "Software Development Engineer Early Career - Amazon Dedicated Cloud",
+        "active": true,
+        "date_updated": 1794364945,
+        "date_posted": 1794364751,
+        "url": "https://amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc",
+        "locations": [
+            "Seattle, WA",
+            "Jessup, MD",
+            "Arlington County, Arlington, VA",
+            "Denver, CO",
+            "Herndon, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "75ad26cf-c6b7-4225-8b8b-c4c2f0a34e40",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1794364782,
+        "date_posted": 1794268800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01888052",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "STRATOS Technologies",
+        "id": "98513b2d-8d02-475f-b6aa-c17c6a28b222",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1794364202,
+        "date_posted": 1794182400,
+        "url": "https://jobs.ashbyhq.com/stratos/54cd6ce1-4c11-47e8-9740-3f338546b9a4/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/STRATOS-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rantec Power Systems Inc.",
+        "id": "45a15928-90f9-443b-9d8f-a3af1fd0a5f5",
+        "title": "Software Engineer - Embedded Systems",
+        "active": true,
+        "date_updated": 1794365282,
+        "date_posted": 1787033829,
+        "url": "https://rantecpowersystemsinc.applytojob.com/apply/JPFXD1hAcH/Software-Engineer-Embedded-Systems",
+        "locations": [
+            "Baywood-Los Osos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rantec-Power-Systems-Inc",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
