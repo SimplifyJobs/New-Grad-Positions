@@ -210938,7 +210938,7 @@
         "company_name": "AMD",
         "id": "7b44f44b-443f-4b5b-a132-f5f1622f232e",
         "title": "RTL Tools & Methodology Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785645181,
         "date_posted": 1785645157,
         "url": "https://careers.amd.com/jobs/85806?icims=1",
@@ -353327,7 +353327,7 @@
         "company_name": "L3Harris Technologies",
         "id": "6cfb4257-abca-4d03-92e1-a7e05f0ec645",
         "title": "Associate Electro-Optical Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1792759526,
         "date_posted": 1789049777,
         "url": "https://jobs.l3harris.com/job/Waterdown-Associate,-Electro-Optical-Engineering-(Waterdown,-ON)-ON-L9H-0C5/1428474300/?ats=successfactors",
@@ -354998,7 +354998,7 @@
         "company_name": "Accenture",
         "id": "688e54c8-22bb-43a5-a3dd-16636738d4b3",
         "title": "Technology Apprentice - FNIM",
-        "active": true,
+        "active": false,
         "date_updated": 1792770769,
         "date_posted": 1791849600,
         "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ottawa-150-Elgin-St-Corp/Canada-Indigenous--FNIM--Technology-Apprenticeship-Program_R00362767",
@@ -365801,7 +365801,7 @@
         "company_name": "Rocket Lab Corporation",
         "id": "590ed47c-e088-4e70-8160-122127874e64",
         "title": "Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1793313594,
         "date_posted": 1793307385,
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8057261003",
@@ -374972,7 +374972,7 @@
         "company_name": "Cisco",
         "id": "6fdde2e3-4a13-42ad-b0b7-ad038b34c3ee",
         "title": "Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1793920150,
         "date_posted": 1793920119,
         "url": "https://careers.cisco.com/global/en/job/2029469",
@@ -377732,7 +377732,7 @@
         "company_name": "L3Harris Technologies",
         "id": "73ba133c-07e6-4734-b6d6-0204000cf760",
         "title": "Associate Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1794265738,
         "date_posted": 1794265483,
         "url": "https://jobs.l3harris.com/job/Anaheim-Associate,-Software-Engineering-CA-92805/1449146200/?ats=successfactors",
@@ -380163,6 +380163,549 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amentum",
+        "id": "b5d78578-847e-43f2-9ade-3b44ae95b38b",
+        "title": "Junior Data Engineer",
+        "active": true,
+        "date_updated": 1794363682,
+        "date_posted": 1794268800,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Springfield/Jr-Data-Engineer_R0175096",
+        "locations": [
+            "Springfield, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sheetz",
+        "id": "974e9408-ad44-4c67-b4b8-07978d66b732",
+        "title": "Energy Analyst 1",
+        "active": true,
+        "date_updated": 1794363584,
+        "date_posted": 1789661700,
+        "url": "https://jobs.sheetz.com/jobs/79862?icims=1&lang=en-us",
+        "locations": [
+            "Altoona, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sheetz",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "307b15af-645c-4cd9-8d47-9971a990f4fb",
+        "title": "Junior CPU Verification Engineer",
+        "active": true,
+        "date_updated": 1794363149,
+        "date_posted": 1794268800,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/Junior-CPU-Verification-Engineer_JR0289132",
+        "locations": [
+            "Austin, TX",
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bask Health",
+        "id": "fc9a2814-e6ac-4198-a6bd-4f77d7941d78",
+        "title": "Associate Product Manager New Grad",
+        "active": true,
+        "date_updated": 1794362981,
+        "date_posted": 1794362780,
+        "url": "https://apply.workable.com/bask-health-1/j/10419258C9/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bask-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bask Health",
+        "id": "d456430e-26c6-4f0f-9034-ee47bfe3d1ab",
+        "title": "Junior Product Manager - Intakes & Conversion",
+        "active": true,
+        "date_updated": 1794362942,
+        "date_posted": 1794362779,
+        "url": "https://apply.workable.com/bask-health-1/j/EB2C2D9268/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bask-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bask Health",
+        "id": "cea63575-9e75-47a0-938d-47e7607ad43f",
+        "title": "Product Manager Apprentice",
+        "active": true,
+        "date_updated": 1794362979,
+        "date_posted": 1794362779,
+        "url": "https://apply.workable.com/bask-health-1/j/641A955226/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bask-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bask Health",
+        "id": "43b8e348-e9a9-41b1-9c10-5bc2b4d1cbce",
+        "title": "Product Builder, Early Career",
+        "active": true,
+        "date_updated": 1794362982,
+        "date_posted": 1794362780,
+        "url": "https://apply.workable.com/bask-health-1/j/854A2D27D1/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bask-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "a30d1d5c-8782-400c-b224-073781eec8ae",
+        "title": "Engineer 1 New Grad - Electrical Integration & Test",
+        "active": true,
+        "date_updated": 1794362946,
+        "date_posted": 1792540800,
+        "url": "https://jobs.ashbyhq.com/shield/278bdf33-85f0-49ab-a448-567e7e362ca2/application?embed=true",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bask Health",
+        "id": "700d3a35-4abc-4ee4-b603-d2547a1f716f",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1794362942,
+        "date_posted": 1794362780,
+        "url": "https://apply.workable.com/bask-health-1/j/E3BA07B52A/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bask-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Shield AI",
+        "id": "48a0be91-2b9f-4979-b445-a40ae86eb9c4",
+        "title": "Perception Engineer - Multimodal & Embodied AI",
+        "active": true,
+        "date_updated": 1794362764,
+        "date_posted": 1794268800,
+        "url": "https://jobs.ashbyhq.com/shield/99726ac8-75b2-4719-b0ea-e470cda3148b/application?embed=true",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "ef376430-19cd-41b4-baa8-322fc5fcf45a",
+        "title": "Engineer 1 New Grad - Software - Perception",
+        "active": true,
+        "date_updated": 1794362935,
+        "date_posted": 1794096000,
+        "url": "https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "da4ae58c-6c11-41d7-99a0-e7d27d0773b8",
+        "title": "Electrical Engineer - Test Equipment Design",
+        "active": true,
+        "date_updated": 1794362764,
+        "date_posted": 1793318400,
+        "url": "https://jobs.ashbyhq.com/shield/c9344bba-d17d-4601-b6af-ebc4d4385a05/application?embed=true",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "d7b77c3f-65ce-4841-90b8-a047706110c7",
+        "title": "Autonomous Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1794362927,
+        "date_posted": 1793664000,
+        "url": "https://jobs.ashbyhq.com/shield/c0735824-2b3c-46a2-a888-99e7376a9606/application?embed=true",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "d4f6b336-d307-427a-a31d-155f8fabb6c0",
+        "title": "Simulation Framework Engineer 1 New Grad - Simulation Framework",
+        "active": true,
+        "date_updated": 1794362890,
+        "date_posted": 1793750400,
+        "url": "https://jobs.ashbyhq.com/shield/f5ea96c5-7d70-4058-adec-16be606f5ad3/application?embed=true",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "d3a15456-f593-4b1f-9254-5ac7c3f10b7c",
+        "title": "Electrical Engineer 1 New Grad",
+        "active": true,
+        "date_updated": 1794362905,
+        "date_posted": 1792540800,
+        "url": "https://jobs.ashbyhq.com/shield/4abd60c3-04fa-4168-bed7-bc63707e1d0a/application?embed=true",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "c89cb23a-35c0-4ed1-96d9-a1fc5925ab1d",
+        "title": "Engineer 2 New Grad - Multiple Teams",
+        "active": true,
+        "date_updated": 1794362892,
+        "date_posted": 1794096000,
+        "url": "https://jobs.ashbyhq.com/shield/e7cb113f-9656-452c-a214-40241dfc04b0/application?embed=true",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "b66fea62-a88a-49b8-b4b3-8a1e383f3a74",
+        "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
+        "active": true,
+        "date_updated": 1794362905,
+        "date_posted": 1794096000,
+        "url": "https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "89561c7a-b727-412e-8723-030904cc22f3",
+        "title": "Engineer 2 New Grad - Simulation Framework",
+        "active": true,
+        "date_updated": 1794362891,
+        "date_posted": 1793750400,
+        "url": "https://jobs.ashbyhq.com/shield/a9e2509c-fa35-4bf7-b50d-a557666b629d/application?embed=true",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "494ae9a5-3940-4fed-b2d1-5d2eebb4ec8f",
+        "title": "Engineer 1 New Grad - Software - Autonomous Pilot Integration",
+        "active": true,
+        "date_updated": 1794362904,
+        "date_posted": 1794096000,
+        "url": "https://jobs.ashbyhq.com/shield/29917792-e504-4cb5-9e70-9d74212d3b1f/application?embed=true",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "2a3bc54a-d648-4286-92ff-083c33e42d4a",
+        "title": "Electrical Engineer 1 New Grad",
+        "active": true,
+        "date_updated": 1794362904,
+        "date_posted": 1793836800,
+        "url": "https://jobs.ashbyhq.com/shield/10eb4e64-8f2d-473f-a53a-1dc53e90f1d6/application?embed=true",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "2457b835-2e5e-4f15-b4e5-0a6ede932255",
+        "title": "Engineer 2 New Grad - Software - Factory",
+        "active": true,
+        "date_updated": 1794362891,
+        "date_posted": 1793750400,
+        "url": "https://jobs.ashbyhq.com/shield/0e7ecf76-b4f6-4159-aa44-4814af263c86/application?embed=true",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "0c74a352-4296-467a-9bcb-81c9ed7c8465",
+        "title": "Engineer 1 New Grad - Software Integration",
+        "active": true,
+        "date_updated": 1794362890,
+        "date_posted": 1793750400,
+        "url": "https://jobs.ashbyhq.com/shield/bffebf59-65b7-4f4f-805e-a9cdf0d2b252/application?embed=true",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "076316f1-2948-47b2-9ff6-f230f7065080",
+        "title": "Software Engineer 1 New Grad - Software - Factory Team",
+        "active": true,
+        "date_updated": 1794362891,
+        "date_posted": 1793750400,
+        "url": "https://jobs.ashbyhq.com/shield/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "f9bc3c72-a183-495f-b507-b758d5ef031a",
+        "title": "Electrical Engineer New Grad",
+        "active": true,
+        "date_updated": 1794362889,
+        "date_posted": 1793664000,
+        "url": "https://jobs.ashbyhq.com/shield/88fb99dc-26b8-4937-92a9-b8d13ce4e0f0/application?embed=true",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "5c91edad-ac52-4cba-81ab-3f32ea2ff113",
+        "title": "Electrical Engineer New Grad",
+        "active": true,
+        "date_updated": 1794362895,
+        "date_posted": 1793923200,
+        "url": "https://jobs.ashbyhq.com/shield/b2660259-a5db-4530-95e6-20e48a41068d/application?embed=true",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "45c3b7e6-ab17-438a-8639-6e361d0cb2bd",
+        "title": "Software Engineer 1 New Grad - Internal Tools",
+        "active": true,
+        "date_updated": 1794362926,
+        "date_posted": 1794009600,
+        "url": "https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "0d0e1def-4493-4577-bde6-4d301998ab8a",
+        "title": "PCB Designer New Grad",
+        "active": true,
+        "date_updated": 1794362895,
+        "date_posted": 1792540800,
+        "url": "https://jobs.ashbyhq.com/shield/6ef12308-4d4e-4dc9-859b-0e1f0f2ba4a7/application?embed=true",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
