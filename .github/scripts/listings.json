@@ -1,84 +1,5 @@
 [
     {
-        "date_updated": 1776439711,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://apply.workable.com/optitrack/j/DFD96026F7/",
-        "company_name": "OptiTrack",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "Corvallis, OR"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "bdecc182-0435-4155-8a5b-f656838c14e4",
-        "date_posted": 1773653575,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1773911559,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Associate-AI-Engineer_JR35531",
-        "company_name": "Allegion",
-        "title": "Associate AI Engineer",
-        "locations": [
-            "Carmel, IN"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "9b568468-f050-4811-808a-0cfb480c8550",
-        "date_posted": 1773654399,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SS&C",
-        "id": "48d08714-4a83-4fc1-997b-9397f8bdc911",
-        "title": "Product Solutions Analyst",
-        "active": false,
-        "date_updated": 1773654358,
-        "date_posted": 1773654358,
-        "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Boston-MA/Solutions-Engineer_R40939",
-        "locations": [
-            "Boston, MA",
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/SSC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SOTI",
-        "id": "205d02b0-3be2-4d49-9ba8-bc31b8219cd6",
-        "title": "Software Developer New Grad",
-        "active": false,
-        "date_updated": 1773654097,
-        "date_posted": 1773654097,
-        "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer---New-Grad--8-month-Contracts-_R09861",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/SOTI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "GE Vernova",
@@ -290927,7 +290848,7 @@
         "company_name": "Deepgram",
         "id": "65489b2c-dccf-4a4b-b089-0a049511d131",
         "title": "Forward-Deployed Engineer - Strategic Accounts",
-        "active": true,
+        "active": false,
         "date_updated": 1788521614,
         "date_posted": 1787366146,
         "url": "https://jobs.ashbyhq.com/deepgram/4bfadd29-fa58-4e06-bbf0-7b5dbc41a621/application?embed=true",
@@ -303487,7 +303408,7 @@
         "company_name": "Leviton",
         "id": "57762e0c-9f4e-4751-a01e-dc445678ec9c",
         "title": "Associate Electrical Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1789481881,
         "date_posted": 1789481764,
         "url": "https://careers.leviton.com/jobs/6019?icims=1",
@@ -336052,7 +335973,7 @@
         "company_name": "Shield AI",
         "id": "6a2ed12f-7233-49b7-80af-74bb4795ed0e",
         "title": "Software Engineer 2 - Factory",
-        "active": true,
+        "active": false,
         "date_updated": 1791594741,
         "date_posted": 1791594528,
         "url": "https://jobs.lever.co/shieldai/681efe7f-2c2a-4830-8976-9a6f77d9d3e5/apply",
@@ -360724,7 +360645,7 @@
         "company_name": "Shield AI",
         "id": "50363c94-1c17-4034-909d-b4b47a67fe3f",
         "title": "Software Integration Engineer 1 New Grad - Software Integration",
-        "active": true,
+        "active": false,
         "date_updated": 1793167949,
         "date_posted": 1793059200,
         "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/bffebf59-65b7-4f4f-805e-a9cdf0d2b252/application?embed=true",
@@ -360744,7 +360665,7 @@
         "company_name": "Shield AI",
         "id": "4be638e1-80b0-4aa7-ac1f-416839d623c1",
         "title": "Simulation Framework Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1793167938,
         "date_posted": 1791331200,
         "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a9e2509c-fa35-4bf7-b50d-a557666b629d/application?embed=true",
@@ -375831,7 +375752,7 @@
         "company_name": "Charles Schwab",
         "id": "6ec3eae2-325c-4d6b-9eed-6f8044285aa2",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1794006545,
         "date_posted": 1793923200,
         "url": "https://career-schwab.icims.com/jobs/129410/job?mobile=true&needsRedirect=false",
@@ -378563,7 +378484,7 @@
         "company_name": "ALTEN Technology",
         "id": "8179d615-9d9f-4bc6-9641-ce4fc319a93b",
         "title": "Robotics Lab Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1794305163,
         "date_posted": 1793924482,
         "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5286844007",
@@ -380528,5 +380449,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "euNetworks",
+        "id": "399540d0-1774-4350-87a7-60df0dc4da58",
+        "title": "Associate Product Manager - Trading Networks",
+        "active": true,
+        "date_updated": 1794389426,
+        "date_posted": 1791814436,
+        "url": "https://job-boards.greenhouse.io/eunetworks/jobs/7770103003",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/EuNetworks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
