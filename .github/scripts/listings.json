@@ -242127,7 +242127,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -380413,6 +380413,126 @@
             "Secaucus, NJ"
         ],
         "company_url": "https://simplify.jobs/c/ZT-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Verdantas",
+        "id": "a10d7210-cc5a-4223-850b-55491ec158f7",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1794412289,
+        "date_posted": 1794355200,
+        "url": "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/San-Diego-CA-West/Data-Analyst-I_R-101337",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verdantas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Garmin",
+        "id": "cbc4b614-1795-4a4a-9755-43d6c1a86cb9",
+        "title": "GIS/Cartography Technician 1",
+        "active": true,
+        "date_updated": 1794412081,
+        "date_posted": 1794407340,
+        "url": "https://careers.garmin.com/jobs/21552?icims=1&lang=en-us",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Critical Mass",
+        "id": "295a5495-1299-40d8-a6f7-062c1d8901fb",
+        "title": "Marketing Science Associate Analyst",
+        "active": true,
+        "date_updated": 1794411901,
+        "date_posted": 1794409733,
+        "url": "https://job-boards.greenhouse.io/criticalmass/jobs/8350957",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Critical-Mass",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Maven Securities",
+        "id": "45a2b445-1d5d-40f7-ad7b-110c434896d3",
+        "title": "Graduate Floor Trader",
+        "active": true,
+        "date_updated": 1794411761,
+        "date_posted": 1794407916,
+        "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8352764",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "42f44307-aff3-43e3-a668-7c1e8f770572",
+        "title": "Associate Software Engineer - Pathways",
+        "active": true,
+        "date_updated": 1794411759,
+        "date_posted": 1794355200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intercontinental Exchange",
+        "id": "b9a9ef3f-b90a-467e-8fdb-3a2eedd155ab",
+        "title": "Associate Software Developer",
+        "active": true,
+        "date_updated": 1794411181,
+        "date_posted": 1794355200,
+        "url": "https://careers-ice.icims.com/jobs/14039/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ICEMarkets",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
