@@ -263620,7 +263620,7 @@
         "company_name": "Textron",
         "id": "80c570a9-6dd8-492d-96d7-bec0cd87c8b5",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1787849039,
         "date_posted": 1787848856,
         "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344719",
@@ -273365,7 +273365,7 @@
         "company_name": "Textron",
         "id": "eb438002-306c-48ff-9b02-f87947b2219d",
         "title": "Software Engineer 1 - Weapons",
-        "active": false,
+        "active": true,
         "date_updated": 1788314688,
         "date_posted": 1788314489,
         "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344818",
@@ -316423,7 +316423,7 @@
         "company_name": "Anduril",
         "id": "7d9873a2-afea-4254-9ea2-9239888b1e16",
         "title": "Data Analyst - Quality",
-        "active": false,
+        "active": true,
         "date_updated": 1790662861,
         "date_posted": 1790662837,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5251234007",
@@ -317645,7 +317645,7 @@
         "company_name": "Medtronic",
         "id": "d298fbb0-e16e-407c-875e-56f5e80f552b",
         "title": "Hardware Engineer 1 - ACM",
-        "active": false,
+        "active": true,
         "date_updated": 1790721794,
         "date_posted": 1790640000,
         "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Hardware-Engineer-I---ACM_R78082",
@@ -332839,7 +332839,7 @@
         "company_name": "Nordson",
         "id": "48fe0bdb-4f88-4f4d-ae05-03471e786972",
         "title": "Mechatronics Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1791412827,
         "date_posted": 1791331200,
         "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---California---Carlsbad/Mechatronics-Engineer-II_REQ53213",
@@ -379883,6 +379883,304 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mark43",
+        "id": "3ba606a9-3ddd-4ac3-80bb-bbaa8dc36bf2",
+        "title": "Software Engineer - Universal Search",
+        "active": true,
+        "date_updated": 1794354849,
+        "date_posted": 1794326499,
+        "url": "https://mark43.com/list-job/8360326?gh_jid=8360326",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Mark43",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Abacus Insights",
+        "id": "54d4a844-307b-4185-9bb6-938e3d8bc05f",
+        "title": "Associate Data Engineer",
+        "active": true,
+        "date_updated": 1794354663,
+        "date_posted": 1794333785,
+        "url": "https://boards.greenhouse.io/abacusinsights/jobs/8917380002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Abacus-Insights",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citylogix",
+        "id": "002a4d82-8d23-4d96-b1a1-ca85294be971",
+        "title": "Field Data Collection Technician",
+        "active": true,
+        "date_updated": 1794354720,
+        "date_posted": 1794354549,
+        "url": "https://ats.rippling.com/citylogix/jobs/9cddf245-08bd-4da4-8a10-d177f4445cf7",
+        "locations": [
+            "Las Vegas, NV",
+            "Seattle, WA",
+            "Dallas, TX",
+            "Gainesville, FL",
+            "Hammond, LA",
+            "Wakefield, MA",
+            "Phoenix, AZ",
+            "Bellevue, WA",
+            "Denver, CO",
+            "Alabaster, AL",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Citylogix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mirantis",
+        "id": "efa1db1a-d7a2-4ae6-a61f-8f2d63fd7607",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1794354482,
+        "date_posted": 1794352547,
+        "url": "https://jobs.smartrecruiters.com/Mirantis/744000160982204",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mirantis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "2fb4039c-dae9-4b64-9adc-cdb64d4760ab",
+        "title": "Electronic Systems Product Engineer",
+        "active": true,
+        "date_updated": 1794354482,
+        "date_posted": 1794354356,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435406",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cummins",
+        "id": "87499c78-5377-4d6c-8cf3-c001065b8238",
+        "title": "Electronic Systems Engineer - Software",
+        "active": true,
+        "date_updated": 1794354482,
+        "date_posted": 1794354355,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433871",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Barnes & Thornburg",
+        "id": "1fe47ab1-a2c4-4f0f-b79b-5fe364137529",
+        "title": "Marketing Technology & Data Coordinator",
+        "active": true,
+        "date_updated": 1794354482,
+        "date_posted": 1794268800,
+        "url": "https://jobs.ashbyhq.com/barnes/74e67ad5-b2f1-4a2c-aba3-99b403c4aca9/application?embed=true",
+        "locations": [
+            "Indianapolis, IN",
+            "Nashville, TN",
+            "Dallas, TX",
+            "Columbus, OH",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Barnes-And-Thornburg",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Medtronic",
+        "id": "02054a8c-3205-46a3-9463-c787db219296",
+        "title": "Hardware Engineer 1",
+        "active": true,
+        "date_updated": 1794354160,
+        "date_posted": 1794268800,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Hardware-Engineer-I---ACM_R78082-1",
+        "locations": [
+            "Lafayette, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "W.R. Berkley",
+        "id": "3d665a42-46f5-4028-aa33-ccc247f39349",
+        "title": "AI Developer",
+        "active": true,
+        "date_updated": 1794354132,
+        "date_posted": 1794268800,
+        "url": "https://careers-berkley.icims.com/jobs/14593/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/WR-Berkley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Promega",
+        "id": "24aa7d52-aa9b-4268-b17e-c1ea6c59be22",
+        "title": "Software Integration Engineer",
+        "active": true,
+        "date_updated": 1794353948,
+        "date_posted": 1794326880,
+        "url": "https://careers.promega.com/jobs/4373?icims=1&lang=en-us",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Promega",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wise",
+        "id": "58592855-2044-4be6-8626-a6671a22102c",
+        "title": "Graduate Data Scientist",
+        "active": true,
+        "date_updated": 1794353773,
+        "date_posted": 1794331435,
+        "url": "https://jobs.smartrecruiters.com/Wise/744000160933600",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Wise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Home Depot",
+        "id": "3f17b1a4-77d1-4546-a76d-4448dc49d163",
+        "title": "Analyst \u2013 Fulfillment",
+        "active": true,
+        "date_updated": 1794353582,
+        "date_posted": 1794268800,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Analyst--Fulfillment_Req198786-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Home-Depot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salesforce",
+        "id": "c188f749-5cdc-4a4f-b434-fde546dd23ed",
+        "title": "AI Labs Rotational Fellow",
+        "active": true,
+        "date_updated": 1794353465,
+        "date_posted": 1794268800,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "60ba5d46-1da9-4411-9d8c-797c4a1811f2",
+        "title": "Software Engineer - Software Engineering",
+        "active": true,
+        "date_updated": 1794353978,
+        "date_posted": 1794351889,
+        "url": "https://higher.gs.com/roles/188640",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
