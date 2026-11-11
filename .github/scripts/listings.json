@@ -1,176 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Vernova",
-        "id": "781e3a3e-d6b5-4da0-80e0-5978b2ef5f55",
-        "title": "Software Engineer - Dp",
-        "active": false,
-        "date_updated": 1773671060,
-        "date_posted": 1773671060,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/Software-Engineer----DP_R5035145-2",
-        "locations": [
-            "Rugby, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "OakNorth Bank",
-        "id": "fe6e2c41-ac87-41e1-8110-6ee911d8d882",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1773670645,
-        "date_posted": 1773670645,
-        "url": "https://jobs.lever.co/oaknorth.ai/28daf547-064c-4f8f-a69b-17b6a2aab2f5/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/OakNorthBank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "bd4e47d7-d6ac-48a1-8a6a-ed8778cce601",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773670602,
-        "date_posted": 1773670602,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053653",
-        "locations": [
-            "Norwich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a3010480-7ba0-4573-a9ad-b777c271b843",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773670611,
-        "date_posted": 1773670611,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053659",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e9a74c71-6c27-49aa-abbc-7be79e78331c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773670504,
-        "date_posted": 1773670504,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053657",
-        "locations": [
-            "York, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "af3ec817-622f-4c7d-9975-74bf4c6cfce7",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773670501,
-        "date_posted": 1773670501,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053637",
-        "locations": [
-            "Newcastle upon Tyne, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "5d288056-16f3-47e5-9e66-e6578a0b3bd9",
-        "title": "Anaplan Model Builder - Associate",
-        "active": false,
-        "date_updated": 1773670522,
-        "date_posted": 1773670522,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723910",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Dordt University",
-        "id": "da3007e0-c576-45aa-a5c1-6cea579ba9f2",
-        "title": "AI Developer",
-        "active": false,
-        "date_updated": 1773669920,
-        "date_posted": 1773669920,
-        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=93715",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Dordt-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Riverside Research",
-        "id": "caf80125-14e9-4cd7-ae6b-f0ab9e1e7a62",
-        "title": "Software Engineer - Multiple Teams",
-        "active": false,
-        "date_updated": 1773670123,
-        "date_posted": 1773670123,
-        "url": "https://careers-riversideresearch.icims.com/jobs/4127/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Lexington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Riverside-Research",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "U.S. Bank",
         "id": "7e058073-fe44-4921-9d3f-dd5bcbb31840",
@@ -12421,26 +12251,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "AECOM",
-        "id": "ae1ca406-cd7f-4ee9-a547-2e68db8fd393",
-        "title": "GIS Specialist 1",
-        "active": false,
-        "date_updated": 1773670984,
-        "date_posted": 1773670984,
-        "url": "https://jobs.smartrecruiters.com/AECOM2/744000114979914",
-        "locations": [
-            "Honolulu, HI"
-        ],
-        "company_url": "https://simplify.jobs/c/AECOM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "The University of Edinburgh",
         "id": "ee050604-ce94-44ae-a023-a107bda395fb",
         "title": "Epidemiologist/Data Scientist",
@@ -20982,29 +20792,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Riverside Research",
-        "id": "c0ad010c-80d6-460c-ba14-a05593d9bae2",
-        "title": "Radio Frequency Engineer",
-        "active": false,
-        "date_updated": 1774992721,
-        "date_posted": 1773670113,
-        "url": "https://careers-riversideresearch.icims.com/jobs/4137/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Urbana, IL",
-            "Dayton, OH",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Riverside-Research",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -266852,7 +266639,7 @@
         "company_name": "Rambus",
         "id": "6e4b8412-f984-47e3-bc20-40454661b0b0",
         "title": "Design Engineer New Grad - Digital",
-        "active": true,
+        "active": false,
         "date_updated": 1785581391,
         "date_posted": 1780006060,
         "url": "https://careers-rambus.icims.com/jobs/22422/job?mobile=true&needsRedirect=false",
@@ -317382,7 +317169,7 @@
         "company_name": "Newrez",
         "id": "5e5781fe-744c-46c0-98f7-570ee4f3759e",
         "title": "Operations Support & Reporting Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1790721542,
         "date_posted": 1790640000,
         "url": "https://newrez.wd1.myworkdayjobs.com/NRZ/job/PA-Fort-Washington/Operations-Support---Reporting-Assistant_R10536",
@@ -358425,7 +358212,7 @@
         "company_name": "RTX",
         "id": "6e5c3139-4a80-4c65-9018-d5bd9e544a9e",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1793111426,
         "date_posted": 1793059200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-II--Onsite-_01885126",
