@@ -315676,7 +315676,7 @@
         "company_name": "ZT Systems",
         "id": "2be5fa77-4273-4ebd-a484-2bf7e554f543",
         "title": "Sustaining Electrical Validation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790385121,
         "date_posted": 1790294400,
         "url": "https://connect.wd1.myworkdayjobs.com/ztsystemscareers/job/Secaucus-NJ/Sustaining-Electrical-Validation-Engineer_R-105428",
@@ -350205,7 +350205,7 @@
         "company_name": "KLA",
         "id": "7eb1c0fe-bb95-4e2d-a9a1-59884793768f",
         "title": "ECAD Librarian - PCB Designer - ECAD Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1792717562,
         "date_posted": 1780437931,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/ECAD-Librarian_2636535-1",
@@ -376948,7 +376948,7 @@
         "company_name": "Abbott",
         "id": "98b9dfcb-30af-4f24-88ee-d581295352ac",
         "title": "Senior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1794238381,
         "date_posted": 1794182400,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/Senior-Software-Developer_31167234",
@@ -379703,7 +379703,7 @@
         "company_name": "Goldman Sachs",
         "id": "60ba5d46-1da9-4411-9d8c-797c4a1811f2",
         "title": "Software Engineer - Software Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1794353978,
         "date_posted": 1794351889,
         "url": "https://higher.gs.com/roles/188640",
@@ -379981,7 +379981,7 @@
         "company_name": "Shield AI",
         "id": "d4f6b336-d307-427a-a31d-155f8fabb6c0",
         "title": "Simulation Framework Engineer 1 New Grad - Simulation Framework",
-        "active": true,
+        "active": false,
         "date_updated": 1794362890,
         "date_posted": 1793750400,
         "url": "https://jobs.ashbyhq.com/shield/f5ea96c5-7d70-4058-adec-16be606f5ad3/application?embed=true",
@@ -380521,6 +380521,26 @@
             "Baywood-Los Osos, CA"
         ],
         "company_url": "https://simplify.jobs/c/Rantec-Power-Systems-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "e30ceec9-0aa2-49c0-a3d3-7740bea5fcaf",
+        "title": "AI Data Operation Specialist New Grad - TikTok Live",
+        "active": true,
+        "date_updated": 1794394291,
+        "date_posted": 1794394208,
+        "url": "https://lifeattiktok.com/search/7706554030788806965",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
