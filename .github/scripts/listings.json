@@ -1,184 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "IBM",
-        "id": "f5c7d23b-688f-4460-8bf8-9c73db57da26",
-        "title": "Associate Application Developer",
-        "active": false,
-        "date_updated": 1773641835,
-        "date_posted": 1773641835,
-        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87273",
-        "locations": [
-            "Houston, TX",
-            "SF",
-            "Austin, TX",
-            "Dallas, TX",
-            "Chicago, IL",
-            "Reston, VA",
-            "NYC",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/IBM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "IBM",
-        "id": "a7462ae1-e7bc-4fbc-8989-08806cf9d9ea",
-        "title": "Associate AI & Analytics - Data Scientist-Finance Transformation",
-        "active": false,
-        "date_updated": 1773642129,
-        "date_posted": 1773642129,
-        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=97086",
-        "locations": [
-            "Houston, TX",
-            "Austin, TX",
-            "Dallas, TX",
-            "Durham, NC",
-            "Chicago, IL",
-            "NYC",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/IBM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "IBM",
-        "id": "bc799c3c-1f7c-4597-a3f4-47fa07d3b9e0",
-        "title": "API Developer",
-        "active": false,
-        "date_updated": 1773641423,
-        "date_posted": 1773641423,
-        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=93291",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/IBM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8d705f4e-96fc-4441-a14f-fb49ff19b660",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773641823,
-        "date_posted": 1773641823,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052354",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Secureframe",
-        "id": "62969ff5-55ea-4213-999d-0154730708f3",
-        "title": "Graduate Software Engineer - Product",
-        "active": false,
-        "date_updated": 1773641898,
-        "date_posted": 1773641898,
-        "url": "https://jobs.lever.co/secureframe/5138ce50-65dc-4818-8940-a78b3d0bbd4f/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Secureframe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "bdbdd4db-8be6-4e18-ad13-b89ef04988d5",
-        "title": "Associate Product Manager - TikTok Content Ecosystem",
-        "active": false,
-        "date_updated": 1773642673,
-        "date_posted": 1773642673,
-        "url": "https://lifeattiktok.com/search/7616433664344115461",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "IBM",
-        "id": "90df0a1a-4d7d-412c-bc2d-fc2a229d51ec",
-        "title": "Associate Application Developer - Hybrid Cloud and Data",
-        "active": false,
-        "date_updated": 1773641846,
-        "date_posted": 1773641846,
-        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87004",
-        "locations": [
-            "East Lansing, MI",
-            "Baton Rouge, LA",
-            "Buffalo, NY",
-            "Dundee, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/IBM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "IBM",
-        "id": "14b4120c-47e0-4863-8449-1fec8d070d52",
-        "title": "Associate Application Developer - Salesforce",
-        "active": false,
-        "date_updated": 1773641813,
-        "date_posted": 1773641813,
-        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87201",
-        "locations": [
-            "Houston, TX",
-            "SF",
-            "Austin, TX",
-            "Dallas, TX",
-            "Chicago, IL",
-            "NYC",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/IBM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1773815629,
         "sponsorship": "U.S. Citizenship is Required",
         "active": false,
@@ -407,24 +228,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "78e3f2a0-2292-4721-9165-2d8ac3a7daf5",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773641536,
-        "date_posted": 1773641536,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053583",
-        "locations": [
-            "Cornwall, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -29915,26 +29718,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AlphaSights",
-        "id": "0485f920-641d-4c62-b891-89f06d38f531",
-        "title": "Graduate Software Engineer",
-        "active": false,
-        "date_updated": 1773642029,
-        "date_posted": 1773642029,
-        "url": "https://www.alphasights.com/careers/open-roles?gh_jid=6450783",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/AlphaSights",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -331300,7 +331083,7 @@
         "company_name": "CVS Health",
         "id": "6119b258-0273-42b6-8955-f605cea47f9c",
         "title": "Associate Software Development Engineer - Conversion",
-        "active": true,
+        "active": false,
         "date_updated": 1791353522,
         "date_posted": 1791331200,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/GA---Alpharetta/Associate-Software-Development-Engineer--Conversion-_R1055768",
@@ -372963,7 +372746,7 @@
         "company_name": "Northrop Grumman",
         "id": "a9c17840-a448-4fec-957c-ca7e553e9336",
         "title": "Electrical Engineer - Analog & Power Electronics",
-        "active": true,
+        "active": false,
         "date_updated": 1793845871,
         "date_posted": 1793750400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Electrical-Engineer---Analog---Power-Electronics---Dulles-VA_R10259240",
@@ -373023,7 +372806,7 @@
         "company_name": "Northrop Grumman",
         "id": "54b1cf3f-9b4c-46ec-9663-be5e21f35505",
         "title": "Electrical Engineer - Digital Hardware Design",
-        "active": true,
+        "active": false,
         "date_updated": 1793845870,
         "date_posted": 1793750400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Electrical-Engineer---Digital-Hardware-Design---Dulles-VA_R10259259",
@@ -378519,7 +378302,7 @@
         "company_name": "Intel",
         "id": "ac51c57f-9e2d-429b-82a0-cebdc1097d90",
         "title": "SoC Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794295299,
         "date_posted": 1794182400,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/SoC-Design-Verification-Engineer_JR0288406",
