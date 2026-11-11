@@ -242729,7 +242729,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -371837,7 +371837,7 @@
         "company_name": "RTX",
         "id": "ed67fbe7-8936-43fe-b209-e558a4a56939",
         "title": "Display Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1793845453,
         "date_posted": 1793750400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Electrical-Engineer-1--Onsite-_01887217",
@@ -380591,6 +380591,47 @@
             "Baywood-Los Osos, CA"
         ],
         "company_url": "https://simplify.jobs/c/Rantec-Power-Systems-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "fa8c7d9d-20a4-4fe9-a1da-5c782f538b96",
+        "title": "Darwin Runtime Engineer - Core OS",
+        "active": true,
+        "date_updated": 1794382025,
+        "date_posted": 1794381911,
+        "url": "https://jobs.apple.com/en-us/details/200678840",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sieve",
+        "id": "8a7f91b5-0a95-4dfe-8aaf-dd982bfa8af0",
+        "title": "Deployment Engineer",
+        "active": true,
+        "date_updated": 1794381303,
+        "date_posted": 1794355200,
+        "url": "https://jobs.ashbyhq.com/sieve/b8a87691-3b2a-4960-aa0e-cda34894039c/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sieve",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
