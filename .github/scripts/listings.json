@@ -1,130 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "e174f883-7263-4480-9784-642c4721146c",
-        "title": "Software Engineer - Algorithm Software Engineer",
-        "active": false,
-        "date_updated": 1773711947,
-        "date_posted": 1773711947,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Engineer-Software---Algorithm-SW-Engineer--26-112-_R10226037",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "9a34b614-896b-455d-ab81-d4c6f2ee41bc",
-        "title": "Software Engineer - Hardware Tools and Methodology",
-        "active": false,
-        "date_updated": 1773711464,
-        "date_posted": 1773711464,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2014649",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "44be7251-bcb8-4f2f-852e-0fb4d69512de",
-        "title": "Research Scientist \u2013 New College Grad - Fundamental Generative AI",
-        "active": false,
-        "date_updated": 1773711461,
-        "date_posted": 1773711461,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2013293-3",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "65935bad-8182-4b85-915e-56e9567f34d8",
-        "title": "Systems Engineer 1 - Systems Engineer I - Electro-Optical",
-        "active": false,
-        "date_updated": 1773711278,
-        "date_posted": 1773711278,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Raytheon-Full-Time---Systems-Engineer-I---Electro-Optical---McKinney--TX--Onsite-_01830535",
-        "locations": [
-            "McKinney, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "0d7c5495-ea1e-420c-abd4-78fb1698eae5",
-        "title": "SOC Hardware Engineer",
-        "active": false,
-        "date_updated": 1773711466,
-        "date_posted": 1773711466,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SOC-Hardware-Engineer----New-College-Grad-2026_JR2014039",
-        "locations": [
-            "Austin, TX",
-            "Santa Clara, CA",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Walmart",
-        "id": "6da627b2-a4c6-4846-bbfc-b8ddf10d8359",
-        "title": "Software Engineer 3",
-        "active": false,
-        "date_updated": 1773712251,
-        "date_posted": 1773712251,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Hula-Building-Bentonville-AR-Home-Office/Software-Engineer-III_R-2448622",
-        "locations": [
-            "Bentonville, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "1e7e94cc-f63f-418f-b951-ab4e2eeb47e4",
@@ -268265,7 +268141,7 @@
         "company_name": "Qualcomm",
         "id": "2336b41f-599e-44f5-adf1-9d4dcf483742",
         "title": "Sensors Software Engineer \u2013 Engineer or Senior - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1788255813,
         "date_posted": 1788255567,
         "url": "https://qualcomm.eightfold.ai/careers/job/446720889828",
@@ -375934,7 +375810,7 @@
         "company_name": "L3Harris Technologies",
         "id": "3ab617a6-87c9-444b-9ee1-14921a74b0ae",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794265656,
         "date_posted": 1794006630,
         "url": "https://jobs.l3harris.com/job/Carlsbad-Specialist,-Software-Engineering-1-1-CA-92009/1448651700/?ats=successfactors",
