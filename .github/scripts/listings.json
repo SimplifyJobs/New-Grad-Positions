@@ -202588,7 +202588,7 @@
         "company_name": "Northrop Grumman",
         "id": "fd35bf7d-2a83-4c94-84df-7f5ae7a4429f",
         "title": "Associate Software Engineer / Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785451256,
         "date_posted": 1785369600,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060",
@@ -317145,7 +317145,7 @@
         "company_name": "RTX",
         "id": "f6047d64-9f62-4688-8e91-7010bdb36b16",
         "title": "Software Engineer/Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790807756,
         "date_posted": 1790726400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Developer-I---Onsite-_01879030",
@@ -333276,7 +333276,7 @@
         "company_name": "Neko Health",
         "id": "6e897997-a7ad-4009-81c2-f212cc529355",
         "title": "AI Acceleration Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1791585195,
         "date_posted": 1791584796,
         "url": "https://jobs.ashbyhq.com/neko-health/05f68d15-22d1-4e53-8b43-683467e79f4d/application?embed=true",
@@ -334987,7 +334987,7 @@
         "company_name": "General Motors",
         "id": "6dcf5b4f-e623-427e-b9a1-746534431b01",
         "title": "Semiconductors and Compute Platforms Researcher - Compute Platforms & SoC/MCU Semiconductor Systems Researcher",
-        "active": false,
+        "active": true,
         "date_updated": 1791844392,
         "date_posted": 1791763200,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---Compute-Platforms---SoC-MCU-Semiconductor-Systems-Researcher_JR-202621829",
@@ -352185,7 +352185,7 @@
         "company_name": "JCDecaux",
         "id": "7f35b9d4-e399-46c2-ba33-8fea896aacb3",
         "title": "Digital Hardware Technician Apprentice",
-        "active": false,
+        "active": true,
         "date_updated": 1792765837,
         "date_posted": 1790726400,
         "url": "https://jcdecaux.wd3.myworkdayjobs.com/ExternalSiteJCDUK/job/London---Brentford/Technician-Digital-Hardware---Apprentice_JR101760-1",
@@ -370066,7 +370066,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "8d29bbf9-31e2-43b2-938e-a2b3c033a1d4",
         "title": "Data Analyst Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1793847061,
         "date_posted": 1793750400,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Systems-Engineer-Associate---TS-SCI-with-Polygraph_RQ231817",
@@ -374325,7 +374325,7 @@
         "company_name": "Lumentum",
         "id": "4c35ea86-4881-4a1a-8263-44df9a6b8c5b",
         "title": "Process Automation Software Engineer - MEMS",
-        "active": false,
+        "active": true,
         "date_updated": 1794018786,
         "date_posted": 1793923200,
         "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Process-Automation-Software-Engineer---MEMS_20261527",
@@ -377212,7 +377212,7 @@
         "company_name": "Salesforce",
         "id": "0120e440-b745-4397-ba25-12ed4f87430c",
         "title": "AI Labs Rotational Fellow",
-        "active": false,
+        "active": true,
         "date_updated": 1794352194,
         "date_posted": 1794268800,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643-1",
@@ -377550,7 +377550,7 @@
         "company_name": "Salesforce",
         "id": "c188f749-5cdc-4a4f-b434-fde546dd23ed",
         "title": "AI Labs Rotational Fellow",
-        "active": false,
+        "active": true,
         "date_updated": 1794353465,
         "date_posted": 1794268800,
         "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643",
@@ -377573,7 +377573,7 @@
         "company_name": "Goldman Sachs",
         "id": "60ba5d46-1da9-4411-9d8c-797c4a1811f2",
         "title": "Software Engineer - Software Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1794353978,
         "date_posted": 1794351889,
         "url": "https://higher.gs.com/roles/188640",
@@ -378587,7 +378587,7 @@
         "company_name": "RTX",
         "id": "f478f36d-9953-4314-a884-531c56f6ffcf",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794409734,
         "date_posted": 1794355200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01885824",
@@ -380413,5 +380413,400 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dillards",
+        "id": "72998fbc-3a95-4d6b-a032-1fb07c109862",
+        "title": "COBOL Developer",
+        "active": true,
+        "date_updated": 1794498886,
+        "date_posted": 1794497398,
+        "url": "https://job-boards.greenhouse.io/dillards/jobs/5293318007",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Dillards",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wash U",
+        "id": "50eedce1-4c09-47bb-a737-7be6bc79d1a8",
+        "title": "Data Analyst - Transplant Nephrology",
+        "active": true,
+        "date_updated": 1794498713,
+        "date_posted": 1794441600,
+        "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Remote/Data-Analyst--PRN-Remote----Transplant-Nephrology_JR98521",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wash-U",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "d9b367f5-ba8e-486f-a533-0fa2ef0e7e07",
+        "title": "Digital Design Engineer 1",
+        "active": true,
+        "date_updated": 1794498520,
+        "date_posted": 1794441600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Digital-Design-Engineer-I---onsite_01888918",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "06bc1ba8-e07d-4215-a643-556d31d6e8f8",
+        "title": "Components Engineer 1",
+        "active": true,
+        "date_updated": 1794498519,
+        "date_posted": 1794441600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Components-Engineer-I--Onsite-_01889186",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Illinois Tool Works",
+        "id": "ee214fdd-2517-47e8-b43d-07651288dc9a",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1794498302,
+        "date_posted": 1783382400,
+        "url": "https://itw.wd5.myworkdayjobs.com/external/job/Rogers---55374/Software-Engineer_JR8874-1",
+        "locations": [
+            "Rogers, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Illinois-Tool-Works",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SAM",
+        "id": "8ad1e981-504a-45ed-8dfc-562b7c72e137",
+        "title": "GIS Field Technician",
+        "active": true,
+        "date_updated": 1794498302,
+        "date_posted": 1794497280,
+        "url": "https://careers.sam.biz/jobs/8219?icims=1&lang=en-us",
+        "locations": [
+            "Merriam, KS",
+            "Maryville, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/SAM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Illinois Tool Works",
+        "id": "b1dc75e3-747d-4325-bb1f-00d469656f54",
+        "title": "Electrical & Test Technician",
+        "active": true,
+        "date_updated": 1794498302,
+        "date_posted": 1789516800,
+        "url": "https://itw.wd5.myworkdayjobs.com/external/job/Lake-Bluff---60044/Electrical---Test-Technician_JR10160",
+        "locations": [
+            "Lake Bluff, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Illinois-Tool-Works",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CDK Global",
+        "id": "9fa2eb47-a66a-4b1a-8312-5931c405f743",
+        "title": "Associate Database Engineer",
+        "active": true,
+        "date_updated": 1794498302,
+        "date_posted": 1794441600,
+        "url": "https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Database-Engineer_JR9386",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CDK-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Illinois Tool Works",
+        "id": "8c8ea9b1-44e8-441c-a0ec-7a78baba8cde",
+        "title": "Component Electrical Engineer",
+        "active": true,
+        "date_updated": 1794498318,
+        "date_posted": 1788998400,
+        "url": "https://itw.wd5.myworkdayjobs.com/external/job/Appleton-1635-W-Spencer/Components-Electrical-Engineer_JR8317",
+        "locations": [
+            "Appleton, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Illinois-Tool-Works",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lattice Semiconductor",
+        "id": "4185123b-43de-4405-8488-2396d8a65cb1",
+        "title": "Junior BMC Firmware Engineer",
+        "active": true,
+        "date_updated": 1794498122,
+        "date_posted": 1789516800,
+        "url": "https://latticesemi.wd5.myworkdayjobs.com/latticesemiconductorscareers/job/Duluth-Georgia/Junior-BMC-Firmware-Engineer_R-102808",
+        "locations": [
+            "Duluth, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lattice-Semiconductor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TP-Link Systems",
+        "id": "9574d95c-1f8d-4d90-9aae-511f98db0d93",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1794498139,
+        "date_posted": 1791936000,
+        "url": "https://tplink.wd503.myworkdayjobs.com/External/job/US-10-Mauchly/XMLNAME-2026-Early-Career-Embedded-Software-Engineer_R26_0000000032",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/TP-Link-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TP-Link Systems",
+        "id": "8e7fdf34-5f0e-459c-b3b6-03c3509e3e73",
+        "title": "Early Career System Hardware Design Engineer",
+        "active": true,
+        "date_updated": 1794498144,
+        "date_posted": 1791936000,
+        "url": "https://tplink.wd503.myworkdayjobs.com/External/job/US-10-Mauchly/XMLNAME-2026-Early-Career-System-Hardware-Design-Engineer_R26_0000000034-1",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/TP-Link-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Power Integrations",
+        "id": "6b965426-59e2-45f0-b2be-196df7bb53f0",
+        "title": "Development Support Technician",
+        "active": true,
+        "date_updated": 1794498122,
+        "date_posted": 1794498008,
+        "url": "https://jobs.jobvite.com/power-integrations/job/oq30AfwN?nl=1&nl=1&fr=false",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Power-Integrations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Renishaw",
+        "id": "544e5f1d-658a-4b55-a669-54e2c78097cf",
+        "title": "Manufacturing Systems Analyst",
+        "active": true,
+        "date_updated": 1794497986,
+        "date_posted": 1793750400,
+        "url": "https://renishaw.wd3.myworkdayjobs.com/Renishaw/job/Miskin-UK/Manufacturing-Systems-Analyst_R10084-1",
+        "locations": [
+            "Miskin, Pontyclun, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Renishaw",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Neko Health",
+        "id": "8ec06333-5fb9-4e54-bd9b-f6524d48c54f",
+        "title": "AI Acceleration Specialist",
+        "active": true,
+        "date_updated": 1794497777,
+        "date_posted": 1794497714,
+        "url": "https://jobs.ashbyhq.com/neko-health/555d3020-e769-4d2d-bb64-d94107b1b79f/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Neko-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "d0ffdbce-6964-4f14-9040-25a5e9369505",
+        "title": "Mission Modeling, Simulation & Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1794497802,
+        "date_posted": 1794490980,
+        "url": "https://careers.jhuapl.edu/jobs/60029?icims=1&lang=en-us",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Truist Bank",
+        "id": "71479418-3351-49f0-b676-39d318acec41",
+        "title": "Data Scientist 1",
+        "active": true,
+        "date_updated": 1794497651,
+        "date_posted": 1794441600,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Data-Scientist-I_R0119840",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truist-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dover",
+        "id": "4a363b70-99a5-467e-b7d3-42ec09d01d00",
+        "title": "Electronic Technician",
+        "active": true,
+        "date_updated": 1794497401,
+        "date_posted": 1792713600,
+        "url": "https://dover.wd103.myworkdayjobs.com/Dover/job/Salisbury-Maryland-USA/Electronic-Technician_JR102167",
+        "locations": [
+            "Salisbury, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Dover",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Genentech",
+        "id": "a8dc959c-a131-4ab3-8ebf-3a97642af63b",
+        "title": "Machine Learning Scientist - Multiple Teams",
+        "active": true,
+        "date_updated": 1794497401,
+        "date_posted": 1794441600,
+        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Scientist--Frontier-Research--AI-for-Drug-Discovery--AIDD-_202611-128905",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Genentech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WME Express",
+        "id": "c2c3855d-45f3-4241-8f21-a00b23fb45f3",
+        "title": "Robotics Data Collection Operator",
+        "active": true,
+        "date_updated": 1794497782,
+        "date_posted": 1794451065,
+        "url": "https://wmeexpress.applytojob.com/apply/k9CWwYbRvW/Vehicle-Data-Collector-Robotic",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WME-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
