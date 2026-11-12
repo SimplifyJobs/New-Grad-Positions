@@ -364900,7 +364900,7 @@
         "company_name": "RTI International",
         "id": "d56cc19f-886c-4018-82d6-852700f3065d",
         "title": "Early-Career Marketing Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1793398682,
         "date_posted": 1793371980,
         "url": "https://careers.rti.org/jobs/13685?icims=1",
@@ -370156,7 +370156,7 @@
         "company_name": "Microsoft",
         "id": "ec527e6a-082e-4155-a7f4-a114d18663c0",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793844780,
         "date_posted": 1793844575,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556982635",
@@ -377864,7 +377864,7 @@
         "company_name": "Goldman Sachs",
         "id": "60ba5d46-1da9-4411-9d8c-797c4a1811f2",
         "title": "Software Engineer - Software Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1794353978,
         "date_posted": 1794351889,
         "url": "https://higher.gs.com/roles/188640",
@@ -380160,6 +380160,42 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/XAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bask Health",
+        "id": "ca8d4e99-7c1a-43f6-9730-cb0083351686",
+        "title": "Frontend Engineer New Grad",
+        "active": true,
+        "date_updated": 1794467560,
+        "date_posted": 1794467524,
+        "url": "https://apply.workable.com/bask-health-1/j/95FB1074E4/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bask-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bask Health",
+        "id": "33b98fd9-daf3-45e9-9fd7-4ea7b235bf9c",
+        "title": "Junior Design Engineer",
+        "active": true,
+        "date_updated": 1794467529,
+        "date_posted": 1794467523,
+        "url": "https://apply.workable.com/bask-health-1/j/E8EA53DF48/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bask-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
