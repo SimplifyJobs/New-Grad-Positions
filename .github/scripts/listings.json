@@ -2,162 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Microsoft",
-        "id": "ea0336b0-9983-4495-9c05-1f525d87a81c",
-        "title": "Software Engineer 1 - Officepy",
-        "active": false,
-        "date_updated": 1773710221,
-        "date_posted": 1773710221,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556847482",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Axon",
-        "id": "d4716b7f-13f4-4a13-8cef-a9575afdbf7a",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1773710051,
-        "date_posted": 1773710051,
-        "url": "https://job-boards.greenhouse.io/axon/jobs/7629272003",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Axon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Bootcamp"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hyve Solutions",
-        "id": "5180ca34-f17c-4936-9988-6e21d8eae2ea",
-        "title": "Manufacturing Technician",
-        "active": false,
-        "date_updated": 1773710327,
-        "date_posted": 1773710327,
-        "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Manufacturing-Technician_R49040",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/100a87e3-2540-44fd-9de7-caea9e8b2cfa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2a5f5a94-eb28-41fc-8b43-9cc7ff979206",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773709951,
-        "date_posted": 1773709951,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052701",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Michael Baker International",
-        "id": "07bba8ac-3db1-4566-9e16-004e1090b7b6",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1773710034,
-        "date_posted": 1773710034,
-        "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309136",
-        "locations": [
-            "San Antonio, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Michael-Baker-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Google",
-        "id": "a29fb8e9-7043-444a-b064-5b6b15e66731",
-        "title": "Software Engineer 3 - Quantum",
-        "active": false,
-        "date_updated": 1773709549,
-        "date_posted": 1773709549,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/84747246129554118",
-        "locations": [
-            "Goleta, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Thermo Fisher Scientific",
-        "id": "89a69e4f-9d15-4629-be57-a67638bc7288",
-        "title": "Field Service Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1773709722,
-        "date_posted": 1773709722,
-        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Field-Service-Engineer-I--TEM--Raleigh--NC-REMOTE_R-01345293",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "WellSky",
-        "id": "f8c58670-70c8-4f65-97f6-cf941f687ee7",
-        "title": "Product Analyst",
-        "active": false,
-        "date_updated": 1773710635,
-        "date_posted": 1773710635,
-        "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Product-Analyst_JR4571",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/WellSky",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "e174f883-7263-4480-9784-642c4721146c",
         "title": "Software Engineer - Algorithm Software Engineer",
@@ -169,26 +13,6 @@
             "Huntsville, AL"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Charles Schwab",
-        "id": "95b4a4fa-eefe-4521-a2b9-6e24fa76e193",
-        "title": "Associate Software Development Engineer",
-        "active": false,
-        "date_updated": 1773709700,
-        "date_posted": 1773709700,
-        "url": "https://career-schwab.icims.com/jobs/119954/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Southlake, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Charles-Schwab",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -276,28 +100,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Relativity Space",
-        "id": "f7b65cee-3013-4885-8b56-ee5dc9a03b7b",
-        "title": "Simulation Software Engineer 1",
-        "active": false,
-        "date_updated": 1773710809,
-        "date_posted": 1773710809,
-        "url": "https://boards.greenhouse.io/relativity/jobs/8465281002",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Relativity-Space",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -53105,29 +52907,6 @@
             "Seal Beach, CA"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Montenson",
-        "id": "7e7d760d-e072-41bd-93dd-cd7313cb6e6e",
-        "title": "Engineer 2 - Data Center Application Engineer - Electrical",
-        "active": false,
-        "date_updated": 1776763116,
-        "date_posted": 1773709720,
-        "url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21584",
-        "locations": [
-            "Fargo, ND",
-            "San Antonio, TX",
-            "Minneapolis, MN",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Montenson",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -281131,26 +280910,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nevada National Security Site",
-        "id": "90bc627c-1560-411f-81f8-d2a69ed9dd10",
-        "title": "Electrical Engineer 1",
-        "active": false,
-        "date_updated": 1787738942,
-        "date_posted": 1773709731,
-        "url": "https://ewij.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/11662",
-        "locations": [
-            "Mercury, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Nevada-National-Security-Site",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "MIO Partners",
         "id": "5af52f26-823c-4bd4-b760-0d5a9f9acf1b",
@@ -346517,7 +346276,7 @@
         "company_name": "University of Southern California",
         "id": "0d2f22a6-f827-45be-a95a-f8a8f66bd042",
         "title": "Programmer Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792621522,
         "date_posted": 1792540800,
         "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Programmer-Analyst-I_REQ20182166",
@@ -378152,7 +377911,7 @@
         "company_name": "Salesforce",
         "id": "0120e440-b745-4397-ba25-12ed4f87430c",
         "title": "AI Labs Rotational Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1794352194,
         "date_posted": 1794268800,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643-1",
